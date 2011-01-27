@@ -1,0 +1,265 @@
+#9600
+bear brown shaggy~
+a Brown Bear~
+A large shaggy brown bear is here, gnawing on some bones.
+~
+This bear is large and monstrous.  It has dark shaggy fur, and
+razor-sharp claws.  At the moment, the bear appears pre-occupied with
+a large juicy bone it has picked out from a carcass.  You notice its
+face is bloody from a recent gorging of food, but it appears its
+hunger has not yet been sated.  The bear, eyeing you, drops his bone
+and slowly licks his lips with a sadistic glee.    
+~
+589932 0 0 0 0 131072 0 0 1000 E
+36 18 -20 0d0+0 3d5+24
+0 43580
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 23
+Int: 24
+Wis: 16
+Con: 25
+Cha: 22
+Luck: 6
+Race: 1
+E
+#9601
+man wild crazy~
+a wild Man~
+A crazy wild man, howling a blood-curling scream, runs toward you.
+~
+A wild man dressed in a ragged furs runs around here howling and
+screaming.  He is dirty and covered in filth.  His hair is matted down
+with blood and sweat.  He probably has never taken a bath.  The wild
+man, for some reason, decides to charge and attack.    
+~
+16460 0 0 0 33554448 0 0 0 -600 E
+77 53 -40 0d0+0 6d7+51
+100 302878
+8 8 1
+BareHandAttack: 9
+Str: 17
+Dex: 24
+Int: 17
+Wis: 23
+Con: 15
+Cha: 24
+Luck: 10
+Race: 14
+E
+#9602
+snake blood slimy~
+a Blood Snake~
+A slimy blood snake slithers around in the darkness.
+~
+This snake looks disgusting.  It is colored a dark blackish red, like
+the color of fresh blood when viewed in dim light.  The snake looks
+slimy and wet.  The snake, although small, looks dangerous.    
+~
+16973928 0 0 0 65536 0 0 0 -600 E
+22 9 12 0d0+0 1d4+14
+0 12413
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 8
+Int: 19
+Wis: 20
+Con: 15
+Cha: 24
+Luck: 6
+Race: 46
+E
+#9603
+penguin killer murderous~
+a Killer Penguin~
+A murderous black penguin waddles around in the snow and filth.
+~
+This penguin is large and well-built.  It has oily black fur and
+yellow webbed feet.  Its flipper-like wings are large and look
+dangerous.  This killer penguin eyes you with black beady little eyes.
+~
+24664 0 0 0 128 0 0 0 0 E
+42 22 -24 0d0+0 4d5+28
+0 64565
+8 8 0
+BareHandAttack: 5
+Str: 8
+Dex: 17
+Int: 15
+Wis: 19
+Con: 24
+Cha: 19
+Luck: 5
+Race: 3
+E
+#9604
+zombie snow corpse frozen~
+a Snow Zombie~
+A frozen corpse shuffles about in the snow.
+~
+This corpse looks well-preserved.  It stares at you with an unfriendly
+stare.  You notice one of its eyes bulges out from its socket, the
+other eye shut closed.  Its hair is tousled and matted down with filth
+and sweat.  The only thought on its brain dead frozen mind is to maim
+and kill.    
+~
+188540 0 0 0 536870992 0 0 0 -1000 E
+81 57 -40 0d0+0 6d7+54
+0 344630
+8 8 0
+BareHandAttack: 9
+Str: 8
+Dex: 13
+Int: 10
+Wis: 16
+Con: 19
+Cha: 5
+Luck: 9
+Race: 6
+E
+#9605
+sloth creature sluggish~
+an Ice Sloth~
+A large sluggish creature wanders around the cave.
+~
+This sloth has crisp white fur tinged lightly with dirt.  You notice
+it has long sharp toed claws.  The sloth is a slow-moving creature who
+seems to take it easy.    
+~
+245832 0 0 0 0 0 0 0 0 E
+83 59 -40 0d0+0 6d7+55
+0 366746
+8 8 0
+BareHandAttack: 7
+Str: 20
+Dex: 22
+Int: 25
+Wis: 15
+Con: 15
+Cha: 17
+Luck: 5
+Race: 1
+E
+#9606
+snowman man fuzzy~
+a Snowman~
+A large fuzzy snowman is here, moping around.
+~
+This snowman is made entirely of snow.  He moves slowly through the
+cave shedding a little of itself each time as it moves.  You never
+seem to notice the snowman shrink in size.    
+~
+188488 0 0 0 536936448 0 0 0 -600 E
+82 58 -40 0d0+0 6d7+54
+0 355583
+8 8 0
+BareHandAttack: 1
+Str: 14
+Dex: 10
+Int: 6
+Wis: 10
+Con: 13
+Cha: 5
+Luck: 10
+Race: 30
+E
+#9607
+iceman man~
+an Iceman~
+A large iceman is here, blending into the surroundings.
+~
+This man is made entirely of ice.  It has features like a normal man
+of flesh and bone, but its features are more or less carved on like
+sculpture.  The iceman doesn't seem to show much emotion, only a stern
+zombie-like gaze.    
+~
+254024 0 0 0 536870912 0 0 0 -700 E
+84 60 -40 0d0+0 6d7+56
+1500 378119
+8 8 1
+BareHandAttack: 9
+Str: 13
+Dex: 8
+Int: 17
+Wis: 16
+Con: 14
+Cha: 17
+Luck: 18
+Class: 4
+Race: 30
+E
+#9608
+king iceman man~
+the Ice King~
+A towering man of ice sits here overseeing his subjects.
+~
+This iceman is huge.  He is nearly twice the height of a normal
+iceman.  He is king of this icy world, and oversees many loyal
+subjects.  The king, seeing your intrusion into his world, doesn't
+look too happy.    
+~
+245786 0 0 0 344 0 0 0 -800 E
+90 66 -40 0d0+0 6d7+60
+1700 495937
+8 8 1
+BareHandAttack: 10
+Str: 10
+Dex: 12
+Int: 15
+Wis: 15
+Con: 16
+Cha: 10
+Luck: 23
+Class: 4
+Race: 10
+E
+#9609
+ice cubes chunks~
+some Ice Cubes~
+A few chunks of ice lies here on the floor.
+~
+These ice cubes look ordinary.  They are transparent and covered with
+a bit of frost.  Strangely enough, the ice cubes are alive.  They snap
+at your fingers as you try to pick one up.    
+~
+10 0 0 0 0 0 0 0 0 E
+13 4 48 0d0+0 1d2+8
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 18
+Int: 5
+Wis: 5
+Con: 19
+Cha: 18
+Luck: 21
+E
+#9610
+yeti fur bundle~
+the Yeti~
+A towering bundle of fur stands here grinning.
+~
+The yeti has soft white fur the same shade as pure white snow.  Its
+color and shaggy appearance allows the yeti to easily blend in with
+its surroundings.  The only giveaway to a yeti's presence is its dark
+black eyes and nose.  When they are seen, then it is a sure bet that
+the yeti is staring at you and will soon eat you.    
+~
+245816 0 0 0 0 0 0 0 -900 E
+85 61 -40 0d0+0 6d7+56
+0 389703
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 21
+Int: 24
+Wis: 17
+Con: 13
+Cha: 7
+Luck: 14
+Race: 8
+E
+$

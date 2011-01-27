@@ -1,0 +1,130 @@
+#22000
+a small balrog~
+a small Balrog~
+A small winged balrog is here gazing at you with demonic red eyes.
+~
+The Balrog is a winged creature with eyes which seem to pervade your
+being and tear your soul apart.    
+~
+134744 0 0 0 67108872 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+26
+1300 59862
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#22001
+balrog winged elder~
+the Elder Balrog~
+The Elder Balrog is here...gnawing happily on your body.
+~
+Well he's trying to consume you, bones and all.  Yuck.
+~
+202872 0 0 0 67108880 0 0 0 -1000 E
+44 24 -24 1d44+2900 4d5+29
+1400 76331
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#22002
+balrog winged grand~
+the Grand Balrog~
+The Grand High Balrog is here, kicking your ass.
+~
+She is extremely wary of you and ready to kill you.
+~
+14456 0 0 0 67109136 0 0 0 -1000 E
+50 29 -28 1d48+4500 5d5+33
+1550 115820
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 41
+E
+#22004
+slave human chained~
+a Human Slave~
+A human slave is chained to the wall here.
+~
+He looks pretty pathetic, maybe you should end his misery
+~
+14 0 0 0 0 0 0 0 50 E
+20 8 20 7d8+1000 1d4+13
+550 9735
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#22005
+kerjim lord evil~
+Kerjim~
+Kerjim, Lord of the Balrogs, sits here on his throne.
+~
+His wings spread throughout the room blocking some exits, his demonic red
+eyes glow as red as blood. He looks very angry.
+~
+108602 0 0 0 100925696 0 0 0 -1000 E
+61 38 -40 20d22+3000 5d6+40
+2050 209032
+8 8 1
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 41
+E
+#22006
+lilith~
+Lilith~
+Lilith stands here in all her glory.
+~
+She is extremely beautiful, with blazing red hair cascading down her
+shoulders.  She is adorned with precious jewelry from her many stints
+as being mistress.    
+~
+92218 0 0 0 67436800 4194304 0 0 -1000 E
+60 37 -36 20d22+3000 5d6+40
+2000 200405
+8 8 2
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 14
+E
+#22007
+corpse undead zombie~
+the Corpse~
+An Undead Corpse is here, attempting to persuade you to join the living dead.
+~
+He's just a rotted corpse, with gangly ripped arms and a detachable
+head.    
+~
+42 0 0 0 67117064 0 0 0 -750 E
+35 5 -4 12d13+2400 3d4+18
+0 42586
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 6
+E
+$

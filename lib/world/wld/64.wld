@@ -1,0 +1,953 @@
+#6400
+Foyer~
+You stand at the entrance to a large home, a home almost large enough
+to be called a castle.  Directly in front of you (west) a hallway runs
+into the interior of the castle.  North of you is a door which looks
+to house a coat closet.    
+~
+64 8 0 0 0 0
+D0
+~
+door closet~
+1 0 6401 1
+D1
+~
+door~
+1 0 6442 3
+D3
+~
+~
+0 0 6402 0
+S
+#6401
+Closet~
+Upon entering the closet, you immediately notice that it is much
+larger than you first thought it to be.  In fact, it is immense.  You
+cannot see the walls in any direction, nor the ceiling.    
+~
+64 8 0 0 0 0
+D2
+~
+~
+0 0 6400 0
+S
+#6402
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6403 0
+D1
+~
+~
+0 -1 6403 0
+D2
+~
+~
+0 0 6403 0
+D3
+~
+door~
+1 -1 6403 3
+D4
+~
+~
+0 0 6403 0
+D5
+~
+~
+0 0 6403 0
+S
+#6403
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6404 0
+D1
+~
+~
+0 -1 6404 0
+D2
+~
+~
+0 0 6404 0
+D3
+~
+door~
+1 -1 6404 3
+D4
+~
+~
+0 0 6404 0
+D5
+~
+~
+0 0 6404 0
+S
+#6404
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6405 0
+D1
+~
+~
+0 -1 6405 0
+D2
+~
+~
+0 0 6405 0
+D3
+~
+door~
+1 -1 6405 3
+D4
+~
+~
+0 0 6405 0
+D5
+~
+~
+0 0 6405 0
+S
+#6405
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6406 0
+D1
+~
+~
+0 -1 6406 0
+D2
+~
+~
+0 0 6406 0
+D3
+~
+door~
+1 -1 6406 3
+D4
+~
+~
+0 0 6406 0
+D5
+~
+~
+0 0 6406 0
+S
+#6406
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6407 0
+D1
+~
+~
+0 0 6407 0
+D2
+~
+~
+0 0 6407 0
+D3
+~
+door~
+1 -1 6407 3
+D4
+~
+~
+0 0 6407 0
+D5
+~
+~
+0 0 6407 0
+S
+#6407
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6408 0
+D1
+~
+~
+0 0 6408 0
+D2
+~
+~
+0 0 6408 0
+D3
+~
+door~
+1 0 6408 3
+D4
+~
+~
+0 0 6408 0
+D5
+~
+~
+0 -1 6408 0
+S
+#6408
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6409 0
+D1
+~
+~
+0 0 6409 0
+D2
+~
+~
+0 0 6409 0
+D3
+~
+door~
+1 0 6409 3
+D4
+~
+~
+0 0 6409 0
+D5
+~
+~
+0 0 6409 0
+E
+linen shelf shelves~
+White sheets, pillow-cases, etc.  Not really anything that
+you need, but interesting.
+~
+S
+#6409
+Hallway~
+You have entered a room that, although from your first look from in
+the foyer looked to be a hallway, turns out to be a large room which
+has exits in all directions.  A hallway runs east from here, there are
+open doorways to the north and south, and west there is a closed door.
+There is even a large, grand staircase leading to a higher level, not
+to mention a set of stairs leading downward into the basement.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 -1 6410 0
+D1
+~
+~
+0 -1 6410 0
+D2
+~
+~
+0 -1 6410 0
+D3
+~
+door~
+1 0 6410 3
+D4
+~
+~
+0 0 6410 0
+D5
+~
+~
+0 0 6410 0
+S
+#6410
+Sitting Room~
+This large room looks to be the main room for entertaining guests.  
+Tables are scattered throughout the room, people seated here and
+there, enjoying the day, chatting away about everything and nothing.
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6411 0
+D1
+~
+~
+0 0 6400 0
+D3
+~
+~
+0 0 6414 0
+S
+#6411
+Kitchen~
+You have entered into a very well-equipped kitchen, one which seems so
+well stocked a whole town could eat here for a month and never have to
+get any more food.  It seems strange that only one cook would be on
+staff for such a large facility.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6412 0
+D2
+~
+~
+0 0 6410 0
+D3
+~
+~
+0 0 6413 0
+E
+closet~
+Nice clothes, but not your size at all.
+~
+E
+desk~
+The desk is basically uninteresting, as are the papers 
+on top of it...
+~
+S
+#6412
+Pantry~
+This small space is cramped enough without this huge woman stuffing
+her face full of anything edible she can get her hands on.    
+~
+64 9 0 0 0 0
+D2
+~
+~
+0 0 6411 0
+E
+book books~
+There are lots of books about everything here!
+~
+S
+#6413
+Dining Room~
+A table laden with food lies in the center of this room, inviting any
+and all to partake of this great bounty.    
+~
+64 8 0 0 0 0
+D1
+~
+~
+0 0 6411 0
+D2
+~
+~
+0 0 6414 0
+S
+#6414
+Portrait Studio~
+This room is filled with portaits of every size and shape imaginable.
+Hanging from every angle, every height, you can't help but stop and
+peruse all of this fine art.  A staircase leads up from here to
+another level.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6413 0
+D1
+~
+~
+0 0 6410 0
+D4
+~
+~
+0 0 6415 0
+S
+#6415
+A Stairwell~
+This stairwell continues up or down, you see no end or landing in your
+immediate line of sight.    
+~
+64 8 0 0 0 0
+D4
+~
+~
+0 -1 6416 0
+D5
+~
+~
+0 -1 6420 0
+S
+#6416
+Stairwell~
+This stairwell still continues up and down as far as your line of
+sight allows.  Strange, this building didn't seem this tall when you
+saw it from the outside.    
+~
+64 8 0 0 0 0
+D4
+~
+~
+0 0 6417 0
+D5
+~
+~
+0 0 6415 0
+S
+#6417
+Stairwell~
+Still you climb, up and up, or down and down, whichever as it may be
+in relation to the direction you're heading.    
+~
+64 8 0 0 0 0
+D4
+~
+~
+0 0 6418 0
+D5
+~
+~
+0 0 6416 0
+S
+#6418
+Stairwell~
+The stairs do not seem to end, nor do they ever seem as if they will
+end.  You must be in a tower on the backside of the building and
+that's why you never noticed this immense height from outside.    
+~
+64 8 0 0 0 0
+D1
+~
+wall~
+1 0 6421 3
+D4
+~
+~
+0 0 6419 0
+D5
+~
+~
+0 0 6417 0
+S
+#6419
+Stairwell~
+The gray stone and motar walls are getting just a bit old now.  Myabe
+if called out for help, or just sat and waited for someone to come
+along...?    
+~
+64 8 0 0 0 0
+D4
+~
+~
+0 0 6420 0
+D5
+~
+~
+0 0 6418 0
+S
+#6420
+Stairwell~
+The stairwell still goes up as far as you can see.  It also still goes
+down as far as you can see.  It's been going up forever.  It's been
+going down forever.  Where is the top?  Where is the bottom?  Where?!
+~
+64 8 0 0 0 0
+D4
+~
+~
+0 0 6415 0
+D5
+~
+~
+0 0 6419 0
+S
+#6421
+Mountain Forest~
+You stand in a forest at a high altitude on a mountain.  Large trees,
+the size of three men side by side rise from the forest floor,
+towering high above you.  Birds sing, branches creak, and you have to
+wonder...  -/cwWhat the Hell am I doing here?!  /c0-
+~
+64 0 0 0 0 3
+S
+#6422
+Bedroom~
+You land with a -/cwTHUMP!  /c0- in the center of a huge feather bed
+which sits in the middle of an opulent bedroom.  It's a darn good
+thing you landed on the bed and not on the floor, or it might've hurt!
+The only bad thing about this experience is that the man and woman who
+were in the bed seem to be just a bit perturbed that landed on them,
+too.    
+~
+64 8 0 0 0 0
+D3
+~
+door~
+1 -1 6423 3
+S
+#6423
+Spotless White Hallway~
+You have entered into a short hallway which runs east to west, but
+only for a short ways.  At the western end of the hallway there is a
+door and on the north and south sides there are doors spaced evenly
+apart three in each row.  >From some unknown source, a soft but bright
+light keeps this place lit up, and from the same source, soft
+orchestra music plays quietly.  The walls here are white as any you've
+ever seen, with not a mark or mar upon them.    
+~
+64 8 0 0 0 0
+D0
+~
+door~
+1 0 6431 3
+D2
+~
+door~
+1 0 6430 3
+D3
+~
+~
+0 0 6424 0
+E
+tapestry tapestries painting paintings~
+Many of these show scenes of high magic and heroism.
+Just like almost every tapestry and painting you've seen.
+~
+S
+#6424
+Hallway~
+The walls still glisten white, doors still line those walls, and the
+music plays on and on in accompaniment to the soft light all around
+you.    
+~
+64 8 0 0 0 0
+D0
+~
+door~
+1 0 6432 3
+D1
+~
+~
+0 0 6423 0
+D2
+~
+door~
+1 0 6429 3
+D3
+~
+~
+0 0 6425 0
+S
+#6425
+Spotless White Hallway~
+You are at the western end of this spotlessly clean hallway.  The
+music really is getting on your nerves now, it sounds to be the same
+song being played over and over and over...  Who ARE these people who
+live here?    
+~
+64 8 0 0 0 0
+D0
+~
+door~
+1 0 6426 3
+D1
+~
+~
+0 0 6424 0
+D2
+~
+door~
+1 0 6428 3
+D3
+~
+door~
+1 0 6427 3
+S
+#6426
+Bathroom~
+You stand in a room whose only function is to house a shower stall.  
+Seems normal enough.  The only out-of-the-ordinary thing about there
+being a shower is the shower itself and the occupant within.    
+~
+64 8 0 0 0 0
+D2
+~
+door~
+1 -1 6425 3
+E
+cell cells~
+It is open, empty, and uninteresting.
+~
+S
+#6427
+Dragon's Lair~
+You have to give a bit of a double-take as you enter into this room.
+The spotlessly clean hallways you just left are replaced by cold
+/cigrey/c0 walls of stone.  The chamber itself could easily house a
+full grown dragon, it is so big.  As a matter of fact, it does house a
+full grown dragon.    
+~
+64 9 0 0 0 5
+D1
+~
+door~
+1 0 6425 3
+E
+cell cells~
+It is open, empty, and uninteresting.
+~
+S
+#6428
+Dark Room~
+It is pitch black...
+~
+64 9 0 0 0 0
+D0
+~
+door~
+1 -1 6425 3
+S
+#6429
+The Bar~
+/cyNow this is your kind of place!  /c0 /cmNeon lights light your way
+past the band to the Bar.  All your /cyfavorite drinks are on hand,
+anything you want, just ask Old Marty, /cmthe bartender, who is always
+more than happy to get you what you need.    
+~
+64 8 0 0 0 0
+D0
+~
+door~
+1 0 6424 3
+S
+#6430
+Martin's Rest~
+This room is completely empty save the man hanging by his neck from a
+rope tied to a support in the ceiling and the over-turned chair which
+you assume is the very chair he must have used to get himself into his
+current situation.    
+~
+64 8 0 0 0 0
+D0
+~
+door~
+1 0 6423 3
+S
+#6431
+Butler's Quarters~
+This must be the only normal room in the whole castle!  A tidy place,
+as only a butler's room could be, with the bed made without a wrinkle,
+clothing all hung neatly in a closet alcove.  Inna and Igor are lucky
+to have this man, this beacon of normalcy, on staff.    
+~
+64 9 0 0 0 0
+D1
+~
+closet~
+1 0 6433 3
+D2
+~
+door~
+1 0 6423 3
+S
+#6432
+Ma & Pa's Home~
+This is a simply furnished room, with a fire crackling merrily in the
+fireplace, keeping time with Ma's knitting needles and Pa's wittlin'
+knife.    
+~
+64 12 0 0 0 0
+D2
+~
+door~
+1 0 6424 3
+S
+#6433
+Waiting Room~
+This smallish room has two comfortable looking couches to wait on.  A
+small end table holds literature to read while passing time waiting
+for an audience with the master and mistress of this place.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6434 0
+D3
+~
+~
+0 0 6410 0
+S
+#6434
+A Hallway~
+This small hallway runs north-south.  To the south is the waiting room
+that you came from.  To the north the hallway continues on, eventually
+opening up into a large room.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6435 0
+D2
+~
+~
+0 -1 6433 0
+S
+#6435
+A Hallway~
+The small hallway continues here, north to south.  The waiting room
+lies a ways south of you and what you presume to be Inna and Igor's
+office or reception room lies north.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6436 0
+D1
+~
+wall~
+1 0 6441 3
+D2
+~
+~
+0 0 6434 0
+D3
+~
+wall~
+1 0 6438 3
+E
+sculpture tapestry sculptures tapestries~
+They look nice, but aren't very valuable.
+~
+S
+#6436
+A Hallway~
+The entance to a large room lies just north of you, while the length
+of the hallway runs south into the waiting room.    
+~
+64 8 0 0 0 0
+D0
+~
+~
+0 0 6437 0
+D1
+~
+wall~
+1 0 6439 3
+D2
+~
+~
+0 0 6435 0
+D3
+~
+wall~
+1 0 6440 3
+S
+#6437
+Den~
+This comfortable room hosts a large oak desk which sits before a huge
+stone fireplace.  The fire is currently lit, giving you warmth and
+comfort, even in this strange castle.  Pictures line the mantle of the
+fireplace, awards hang on the walls from various mage academies.  
+These people seem to have been socialites in their time.    
+~
+64 8 0 0 0 0
+D2
+~
+~
+0 0 6436 0
+E
+picture~
+   This picture out of all of them, catches your eye the most.  It has a
+picture of a man dressed in a clown suit wearing a pointed hat.  He looks to be
+in the midst of a silly looking dance.  Curious, you turn the picture over and
+see that there are words scribbled on the back.  They read
+-/cmMan, are you dumb!  How long you been waiting in this room?  Do you really think
+that we /cMreceive/cm visitors?
+~
+S
+#6438
+Igor's Office~
+This seems more like a play room than an office!  Lots of toys and
+dolls laying about, a couple of simple games on the shelves.  A great
+many books line the southern wall, but for the most part, they look as
+if they are usually unread.  Seems strange that a famous illiusionist
+would have these sorts of things on his office...    
+~
+64 9 0 0 0 0
+D1
+~
+~
+0 0 6435 2
+S
+#6439
+Inna's Office~
+This quaintly decorated room holds nothing more than a small desk and
+a chair.  Book shelves line the walls both to the south and the north.
+A small window in the eastern wall affords a view of the forest
+outside.  Strangely enough, it seems you are still on the ground
+floor.    
+~
+64 8 0 0 0 0
+D3
+~
+~
+0 0 6436 2
+S
+#6440
+Inna & Igor's Bedroom~
+This seems to be your usual dark toned, wooden, old-person's bedroom
+set up.  Lots of lace on the bed covers, pictures on the dressers of
+Ma and Pa, the whole normal old person's place.  Maybe these guys
+aren't so wierd after all...    
+~
+64 8 0 0 0 0
+D1
+~
+~
+0 0 6436 2
+S
+#6441
+The Laboratory~
+This laboratory has lots of stuff in it.  Beakers, flasks, burners,
+tongs, mortars and pestles, jars filled with normal things, jars
+filled with abnormal things, jars filled with things you'd rather not
+think about...  A search could reveal many things...  Inna and Igor
+both seem surprised to see you.    
+~
+64 8 0 0 0 0
+D3
+~
+door~
+1 0 6435 3
+E
+mortar mortars pestle pestles jar jars~
+Looks like normal, fragile lab equipment to you.
+~
+E
+beaker beakers flask flasks burner burners tong tongs~
+Looks like normal, fragile lab equipment to you.
+~
+S
+#6442
+Entrance to a Large Home~
+You stand at the entrance to a home that is not precisely huge, but
+definitely large by most standards.  The door lies directly west of
+you or you may head back along the path through the forest to the
+grasslands.    
+~
+64 0 0 0 0 1
+D1
+~
+~
+0 0 6443 0
+D3
+~
+door~
+1 0 6400 3
+S
+#6443
+A Twisty Path~
+The path heads due west toward a large home.  You have heard of an old
+married couple who used to be Head Enchanter and Enchantress to the
+Lord at Lord's Keep, maybe this is it...  The path also heads north
+through the forest.    
+~
+64 0 0 0 0 3
+D0
+~
+~
+0 0 6444 0
+D3
+~
+~
+0 0 6442 0
+S
+#6444
+Twisty Path~
+The path heads through this jumbled forest, not really seeming to lead
+anywhere.  There are a great many leaves strewn in the path, giving
+you the impression that not many people travel this way very often.  
+~
+64 0 0 0 0 3
+D1
+~
+~
+0 0 6445 0
+D2
+~
+~
+0 0 6443 0
+S
+#6445
+Start of a Twisty Path~
+You stand at the edge of the field and the edge of a forest.  The way
+to the forest is west, and the grasslands spread out to your east.  
+~
+64 0 0 0 0 3
+D1
+~
+~
+0 0 6167 0
+D3
+~
+~
+0 0 6444 0
+S
+$~

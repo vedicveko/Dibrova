@@ -1,0 +1,866 @@
+#11300
+fisherman man~
+the Fisherman~
+A fisherman attempts, in vain, to catch a little something.
+~
+A Fisherman is here fighting with his fish and trying to catch more.
+His face is hidden by his cape but you can see his glowing eyes
+staring at you.  He looks very dangerous, however you can't see if
+he's very strong.    
+~
+763930 0 0 0 33579008 0 0 0 500 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 14
+Dex: 21
+Int: 17
+Wis: 10
+Con: 12
+Cha: 24
+Luck: 6
+Class: 5
+Race: 14
+E
+#11301
+fish~
+a Fish~
+A fish is swimming in the water.
+~
+This is a sweet little fish with one BIG mouth.  His teeth are
+terribly strong, trained by shark-attacks.  How you would love to see
+it fight.    
+~
+72 0 0 0 16777344 0 0 0 0 E
+110 88 -40 0d0+0 11d12+73
+0 752086
+8 8 0
+Str: 16
+Dex: 19
+Int: 14
+Wis: 14
+Con: 13
+Cha: 23
+Luck: 19
+Race: 4
+E
+#11302
+seahorse horse~
+a Seahorse~
+A sea-horse is playing here.
+~
+Ooooh, how sweeeeeet!!!.
+~
+262216 0 0 0 16777344 0 0 0 0 E
+111 89 -40 0d0+0 12d12+74
+0 769644
+8 8 0
+Str: 9
+Dex: 25
+Int: 8
+Wis: 13
+Con: 10
+Cha: 6
+Luck: 22
+Race: 4
+E
+#11303
+king neptune~
+King Neptune~
+Neptune, king of Atlantis.
+~
+King Neptune of Atlantis.  The most powerful king of the sea.  His
+strength is only equalled by the Dark Dragon of Deep Down.  The sight
+of him makes everybody smile.  Mess with him and you will not survive
+Atlantis.  His magic sword Sharkbite is dangerously by his side.    
+~
+776202 0 0 0 50356480 131072 0 0 800 E
+170 162 -60 0d0+0 25d26+113
+2650 2510462
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 14
+Int: 21
+Wis: 9
+Con: 12
+Cha: 19
+Luck: 12
+Class: 4
+Race: 45
+E
+#11304
+mermaid maid woman~
+a Mermaid~
+A mermaid is standing here, serving Neptune.
+~
+The powerful mermaid bodyguard of King Neptune.  If anybody is a
+bother to King Neptune she will kill the enemy.  King Neptune has
+chosen two very beautiful mermaids, nobody can take their eyes from
+them.    
+~
+165898 0 0 0 150994944 131328 0 0 600 E
+135 117 -60 0d0+0 16d17+90
+2500 1331241
+8 8 2
+Str: 14
+Dex: 13
+Int: 13
+Wis: 6
+Con: 19
+Cha: 17
+Luck: 22
+Class: 10
+Race: 22
+E
+#11305
+shell blue glittering~
+a Shell~
+A dirty blue glittering shell is lying here.
+~
+This is, after close examination, a very UGLY shell, just wanting to
+get killed.  It's so VERY VERY weak that you could sacrifice it alive.
+Oh would you love to kill the shell.    
+~
+10 0 0 0 16777216 0 0 0 0 E
+100 77 -40 0d0+0 9d10+66
+0 589815
+8 8 0
+Str: 17
+Dex: 17
+Int: 14
+Wis: 15
+Con: 5
+Cha: 9
+Luck: 10
+E
+#11306
+treasurer~
+the Treasurer~
+The Treasurer is standing here begging for money.
+~
+The treasurer looks very poor.  His face is made of sadness for
+wanting more money.  He has to take care of all of King Neptune his
+money.  And believe me that IS a WHOLE LOT.    
+~
+38922 0 0 0 16801808 0 0 0 200 E
+125 105 -60 0d0+0 15d15+83
+2500 1041926
+8 8 1
+Str: 24
+Dex: 9
+Int: 23
+Wis: 24
+Con: 20
+Cha: 15
+Luck: 21
+Race: 22
+E
+#11307
+jailer~
+the Jailer~
+The Jailer is sleeping here behind his desk.
+~
+The jailer is here laughing his guts out at the prisoners.  He is
+trying to keep them as hungry as possible.  He is always doing
+push-ups.  That is why he looks so strong.  Be careful he is a very
+tactical fighter.    
+~
+559114 0 0 0 318767120 0 0 0 200 E
+132 114 -60 0d0+0 15d16+88
+2500 1197236
+8 8 1
+BareHandAttack: 13
+Str: 6
+Dex: 12
+Int: 12
+Wis: 25
+Con: 16
+Cha: 12
+Luck: 16
+Class: 4
+Race: 22
+E
+#11308
+guard~
+the General Guard~
+The General Guard is sitting here behind his desk.
+~
+Watch out.  This is BIG trouble.  He is looking after the actions of
+all guards in Atlantis.  If something goes wrong, which almost never
+happens, he will be there.  Be careful he is a very tactical fighter.
+~
+694282 0 0 0 16777552 0 0 0 300 E
+138 121 -60 0d0+0 16d17+92
+2500 1475029
+8 8 1
+Str: 24
+Dex: 17
+Int: 18
+Wis: 24
+Con: 22
+Cha: 24
+Luck: 25
+Class: 4
+Race: 22
+E
+#11309
+atlantis guard~
+the Atlantis Guard~
+A Guard of Atlantis is standing here.
+~
+The faithful guard of Atlantis.  He would never give up his Oath of
+Guardians.  The second highest rank you can reach in Atlantis.  If
+there is trouble he will attack no matter what.    
+~
+563274 0 0 0 50331728 0 0 0 300 E
+132 114 -60 0d0+0 15d16+88
+2500 1197236
+8 8 1
+Str: 5
+Dex: 10
+Int: 5
+Wis: 24
+Con: 7
+Cha: 14
+Luck: 12
+Class: 10
+Race: 22
+E
+#11310
+atlantis guard~
+the Atlantis Guard~
+A Guard of Atlantis stands before you, guarding the way into Atlantis.
+~
+The faithful guard of Atlantis.  He would never give up his Oath of
+Guardians.  The second highest rank you can reach in Atlantis.  If
+there is trouble he will attack no matter what.    
+~
+6154 0 0 0 83886160 0 0 0 800 E
+133 115 -60 0d0+0 16d16+88
+2500 1281526
+8 8 1
+Str: 16
+Dex: 23
+Int: 18
+Wis: 20
+Con: 6
+Cha: 21
+Luck: 10
+Class: 10
+Race: 22
+E
+#11311
+prisoner~
+a Prisoner~
+A prisoner is lying wearily on a bed.
+~
+This used to be a very big man, but now he looks pale and you can
+count his bones.  He's got bread and water in his hand and he guards
+it very well.  He's here for insulting King Neptune.    
+~
+10 0 0 0 16777232 0 0 0 100 E
+120 100 -40 0d0+0 14d14+80
+0 938920
+8 8 1
+Str: 23
+Dex: 20
+Int: 24
+Wis: 12
+Con: 25
+Cha: 8
+Luck: 17
+Race: 22
+E
+#11312
+martinus~
+Martinus~
+Martinus the priest of Atlantis is standing here.
+~
+This is a very wise man, he is older than anybody in Atlantis with the
+exception of Sage Marid.  His whole life he has been gathering his
+knowledge.  In his youth he was the student of Marid the sage.  Be
+careful in attacking him, he can heal himself a lot faster then you
+can hurt him.    
+~
+35594 0 0 0 956301328 0 0 0 600 E
+138 121 -60 0d0+0 16d17+92
+2500 1407982
+8 8 1
+Str: 5
+Dex: 5
+Int: 25
+Wis: 12
+Con: 9
+Cha: 22
+Luck: 13
+Class: 2
+Race: 22
+E
+#11313
+dark dragon~
+the Dark Dragon~
+The giant Dark Dragon is standing here.
+~
+Dark Dragon is a dangerous monster, you should not mock at him if you
+want to live a little longer.  He is as strong as the King of
+Atlantis, Neptune, but Dark Dragon abuses his strength.  So don't
+challenge him.    
+~
+231482 0 0 0 117719376 0 0 0 -600 E
+170 162 -60 0d0+0 25d26+113
+2650 2852796
+8 8 1
+Str: 10
+Dex: 21
+Int: 19
+Wis: 17
+Con: 18
+Cha: 25
+Luck: 24
+Class: 9
+Race: 9
+E
+#11314
+Princess Shell~
+Princess Shell~
+Princess Shell is standing here.
+~
+The daughter of King Neptune.  She is very beautiful.  You think the
+most beautiful girl you have ever seen in Atlantis.  You would ask her
+to marry you but she doesn't want scum like you, as she says.    
+~
+563210 0 0 0 17105168 4194304 0 0 500 E
+133 115 -60 0d0+0 16d16+88
+2500 1464601
+8 8 2
+BareHandAttack: 15
+Str: 24
+Dex: 24
+Int: 16
+Wis: 12
+Con: 17
+Cha: 12
+Luck: 20
+Class: 1
+Race: 22
+E
+#11315
+cook edilfin~
+Edilfin the cook~
+Edilfin the cook is here, cooking something delicious.
+~
+Ed is a very talented cook, every diner he makes, is VERY delicious.
+He has been working for 20 years for King Neptune.  Ed is a fat man
+who tastes every diner he makes.    
+~
+6154 0 0 0 553648208 0 0 0 400 E
+132 114 -60 0d0+0 15d16+88
+2500 1197236
+8 8 1
+Str: 8
+Dex: 10
+Int: 25
+Wis: 19
+Con: 5
+Cha: 14
+Luck: 9
+Race: 22
+E
+#11316
+marid sage~
+Marid the Sage~
+The Sage Marid is standing here behind his counter.
+~
+The sage is a small man with a long beard.  His hands look very
+wrinkled.  And his eyes are full of power.  He looks very week and old
+but be aware of his knowledge of magic.  The spells he knows are so
+devastating that he could destroy Atlantis with his own hand.    
+~
+231450 0 0 0 50331728 0 0 0 300 E
+128 109 -60 0d0+0 15d15+85
+2500 1106883
+8 8 1
+Str: 7
+Dex: 5
+Int: 13
+Wis: 20
+Con: 25
+Cha: 22
+Luck: 17
+Class: 5
+Race: 22
+E
+#11317
+sophia~
+Sophia~
+Sophia is standing here trying to sell some food and some drinks.
+~
+If you want to talk, don't come here.  She talks so fast that if you
+want to say anything you would have to wait forever because she keeps
+talking and talking.    
+~
+2058 0 0 0 16777296 2 0 0 800 E
+128 109 -60 0d0+0 15d15+85
+2500 1106883
+8 8 2
+Str: 8
+Dex: 24
+Int: 15
+Wis: 9
+Con: 24
+Cha: 9
+Luck: 18
+Race: 22
+E
+#11318
+bruce fishman~
+Brucivius~
+Brucivius the fisherman is standing here.
+~
+You can smell Bruce loves his job.  He is wearing a very dirty apron.
+He is very fat because he eats a lot of fish.  Bruce can handle a
+knife with enormous speed, he learned that from his job.    
+~
+6154 0 0 0 318767152 0 0 0 300 E
+128 109 -60 0d0+0 15d15+85
+2500 1106883
+8 8 1
+Str: 19
+Dex: 25
+Int: 15
+Wis: 16
+Con: 7
+Cha: 10
+Luck: 7
+Class: 5
+Race: 22
+E
+#11319
+samuel woodcutter~
+Samuel the woodcutter~
+Samuel the woodcutter is cutting here some trees.
+~
+A very nice man, always ready to help you if you ask nicely.  If he
+doesn't like you he gets angry very quickly.  And if he does, you
+SHOULD be afraid.    
+~
+759834 0 0 0 184557568 0 0 0 200 E
+135 117 -60 0d0+0 16d17+90
+2500 1331241
+8 8 1
+BareHandAttack: 7
+Str: 22
+Dex: 17
+Int: 23
+Wis: 23
+Con: 7
+Cha: 20
+Luck: 9
+Class: 5
+Race: 22
+E
+#11320
+bat~
+a Bat~
+A bat is flying here.
+~
+A bat like any other, YOU think.
+~
+10 0 0 0 25165904 2 0 0 0 E
+100 77 -40 0d0+0 9d10+66
+0 589815
+8 8 0
+Str: 6
+Dex: 18
+Int: 12
+Wis: 7
+Con: 15
+Cha: 23
+Luck: 14
+Race: 3
+E
+#11321
+giant horrifying rat ghr~
+the giant horrifying Rat~
+A giant horrifying rat is running around.
+~
+Well this is a strange creature.  You have seen rats before, but this
+is ridiculous.  You don't recall him being THIS big.    
+~
+262190 0 0 0 16777296 131074 0 0 0 E
+115 94 -40 0d0+0 13d13+76
+0 842356
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 23
+Int: 24
+Wis: 10
+Con: 20
+Cha: 22
+Luck: 18
+Race: 1
+E
+#11322
+native atlantis~
+a native of Atlantis~
+A native of Atlantis is here, boring himself.
+~
+This native acts like every native in Atlantis.  Always busy enjoying
+the day.  You didn't know it was possible never stop smiling, but this
+proves it.    
+~
+6216 0 0 0 285212688 0 0 0 600 E
+128 109 -60 0d0+0 15d15+85
+2500 1106883
+8 8 1
+Str: 6
+Dex: 19
+Int: 10
+Wis: 24
+Con: 22
+Cha: 20
+Luck: 15
+Class: 12
+Race: 22
+E
+#11323
+parrot~
+the Parrot~
+The parrot of sage Marid is here, looking for something to steal.
+~
+You see a sweet parrot with a lot of colours.  You think nobody would
+want him to be invisible, yet he is.  Not to you though.    
+~
+262154 0 0 0 25165824 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+0 667958
+8 8 0
+Str: 12
+Dex: 17
+Int: 17
+Wis: 19
+Con: 25
+Cha: 10
+Luck: 12
+Race: 3
+E
+#11324
+gardener~
+the Gardener~
+The gardener is working here in the palace garden.
+~
+This is a man who loves his work, he is all covered in mud and
+flowers.  You think if he keeps eating those flowers, he should be
+very ill very soon, but somehow he doesn't.    
+~
+690186 0 0 0 50856016 131072 0 0 700 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 14
+Dex: 24
+Int: 9
+Wis: 16
+Con: 19
+Cha: 16
+Luck: 9
+Class: 5
+Race: 22
+E
+#11360
+Small Baby Black Dragon~
+a small black Dragon~
+There is a small black dragon behind the pile of treasure.
+~
+The baby black dragon isn't a baby, he's almost full grown and is just
+as aggressive as his parents.  His acid glands aren't fully developed
+yet and his aim is a little off, but with the amount of damage his
+potent acid does, he can afford a little inacuracy from time to time.
+~
+249866 0 0 0 16 0 0 0 -500 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 5
+Int: 12
+Wis: 22
+Con: 22
+Cha: 14
+Luck: 15
+Race: 9
+E
+#11361
+Medium female black dragon~
+a female black Dragon~
+There is a medium sized dragon advancing.
+~
+The female dragon looks quite angry at you.  She must have a nest
+close by, or she wouldn't care as much.  Right now she looks as though
+she won't stand for intruders.  She can't be very hungry with all
+these dead dwarves lying around.    
+~
+247850 0 0 0 80 0 0 0 -600 E
+57 35 -32 0d0+0 5d6+38
+925 140668
+8 8 2
+BareHandAttack: 6
+Str: 25
+Dex: 9
+Int: 19
+Wis: 5
+Con: 10
+Cha: 19
+Luck: 8
+Race: 9
+E
+#11362
+Large Male Black Dragon~
+a male Dragon~
+There is a large male dragon advancing quickly.
+~
+There is a large black dragon coming toward you. It is spiting acid
+and roaring loudly. It looks angry. It mustn't like intruders in it's
+layer. You better flee before it is too late.
+~
+772138 0 0 0 8650768 0 0 0 -1000 E
+60 37 -36 0d0+0 5d6+40
+1000 176357
+8 8 1
+Str: 20
+Dex: 8
+Int: 13
+Wis: 22
+Con: 24
+Cha: 13
+Luck: 5
+Race: 9
+E
+#11363
+Large Spider~
+a large Spider~
+There is a large black spider spinning web.
+~
+There is a giant spider advancing, it looks like a black widow but
+without the red spot on it's back.  It has black eyes and they all
+seem fixed on you.  It is spinning web rapidly and coming closer by
+the second.    
+~
+16777292 0 0 0 0 0 0 0 0 E
+10 3 60 0d0+0 1d2+6
+0 1662
+8 8 0
+Str: 18
+Dex: 25
+Int: 19
+Wis: 21
+Con: 20
+Cha: 13
+Luck: 19
+Race: 46
+E
+#11364
+Gas Cloud~
+a Gas Cloud~
+There is a yellowish cloud in the air.
+~
+There is a gasous cloud in the air, it is yellowish and non-flamable.
+It seems semi-intelligent and it's attacking you.  You are having
+trouble breathing.    
+~
+16777258 0 0 0 20 0 0 0 0 E
+30 14 -20 0d0+0 3d3+20
+0 27376
+8 8 0
+Str: 18
+Dex: 18
+Int: 14
+Wis: 23
+Con: 12
+Cha: 22
+Luck: 18
+Race: 30
+E
+#11365
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat is all brown and it stands about six feet.  It has
+yellow eyes and large ears.  It's wing spand is about ten feet.  It
+has giant claws on it's hands and feet.  It's foaming at the mouth.  
+~
+72 0 0 0 8390656 0 0 0 0 E
+11 3 56 0d0+0 1d4+5
+0 2119
+8 8 0
+Str: 15
+Dex: 6
+Int: 10
+Wis: 22
+Con: 9
+Cha: 12
+Luck: 5
+Race: 3
+E
+#11366
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat is all brown and it stands about six feet.  It has
+yellow eyes and large ears.  It's wing spand is about ten feet.  It
+has giant claws on it's hands and feet.  It's foaming at the mouth.  
+~
+76 0 0 0 8390656 0 0 0 0 E
+12 3 52 0d0+0 1d4+6
+0 2646
+8 8 0
+Str: 7
+Dex: 8
+Int: 15
+Wis: 19
+Con: 7
+Cha: 7
+Luck: 19
+Race: 3
+E
+#11367
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat is all brown and it stands about six feet.  It has
+yellow eyes and large ears.  It's wing spand is about ten feet.  It
+has giant claws on it's hands and feet.  It's foaming at the mouth.  
+~
+76 0 0 0 8390656 0 0 0 0 E
+14 4 44 0d0+0 1d5+7
+0 3920
+8 8 0
+Str: 7
+Dex: 17
+Int: 18
+Wis: 9
+Con: 8
+Cha: 6
+Luck: 25
+Race: 3
+E
+#11368
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat is all brown and it stands about six feet.  It has
+yellow eyes and large ears.  It's wing spand is about ten feet.  It
+has giant claws on it's hands and feet.  It's foaming at the mouth.  
+~
+76 0 0 0 8390656 0 0 0 0 E
+15 5 40 0d0+0 1d5+7
+0 4674
+8 8 1
+Str: 23
+Dex: 13
+Int: 19
+Wis: 21
+Con: 7
+Cha: 23
+Luck: 7
+Race: 3
+E
+#11369
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat is all brown and it stands about six feet.  It has
+yellow eyes and large ears.  It's wing spand is about ten feet.  It
+has giant claws on it's hands and feet.  It's foaming at the mouth.  
+~
+76 0 0 0 8390656 0 0 0 0 E
+16 5 36 0d0+0 1d6+8
+0 5510
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 16
+Int: 6
+Wis: 24
+Con: 15
+Cha: 6
+Luck: 15
+Race: 3
+E
+#11370
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat has yellow eyes and black fur.  It stands about six feet
+tall and has a wing span of about ten feet.  It has sharp fangs and
+looks to be foaming at the mouth.  It doesn't seem to notice you yet.
+~
+76 0 0 0 8390656 0 0 0 0 E
+18 7 28 0d0+0 1d6+9
+0 7441
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 23
+Int: 13
+Wis: 25
+Con: 18
+Cha: 14
+Luck: 5
+Race: 3
+E
+#11371
+Giant Bat~
+a giant Bat~
+There is a giant bat flying around the cavern.
+~
+The giant bat has large yellow eyes and long claws on it's hands and
+feet.  It is foaming at the mouth, and has long fangs.  It's fur is
+black and it's wings are dark brown.  It stands about seven feet tall.
+~
+76 0 0 0 8390656 0 0 0 0 E
+17 6 32 0d0+0 1d6+8
+0 6432
+8 8 0
+BareHandAttack: 8
+Str: 23
+Dex: 8
+Int: 13
+Wis: 24
+Con: 22
+Cha: 13
+Luck: 18
+Race: 3
+E
+#11372
+Escaped Dwarvin Miner~
+an escaped dwarven Miner~
+There is a dwarven miner hurrying along his way.
+~
+There is a dwarven miner running down the shaft, he seems scared.  
+Maybe he knows what happened to the other miners.  You'll have to
+catch up with him to ask him.    
+~
+16584 0 0 0 65552 4194304 0 0 400 E
+25 11 0 0d0+0 2d3+16
+200 17197
+8 8 1
+Str: 22
+Dex: 12
+Int: 7
+Wis: 22
+Con: 12
+Cha: 17
+Luck: 7
+Race: 13
+E
+$

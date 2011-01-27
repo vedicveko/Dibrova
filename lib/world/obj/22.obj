@@ -1,0 +1,111 @@
+#2200
+slime bracers~
+/cwa pair of /cGslime /cwbracers/c0~
+/cwA pair of /cGslime /cwbracers lie here./c0~
+They are more liquid than any kind of solid obj to be worn.  Go ahead
+- smear them on.    
+~
+9 64 0 0 0 257 0 0 0
+6 0 0 0 0 0 0 0
+10 4267 100 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+5 -2
+#2201
+slime ball~
+/cwa /cGslime /cwball/c0~
+/cwA /cGslime /cwball lies here, it looks /cGslimy/cw./c0~
+It may be a huge ball of slime, but it could be appetizing...  Give it
+a shot.    
+~
+19 1 0 0 0 1 0 0 0
+13 0 0 0 0 0 0 0
+2 52 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2202
+pool water crystal clear~
+/cwa pool of /cccrystal clear /cwwater/c0~
+/cwThe water here is so clear, so clean./c0~
+~
+23 0 0 0 0 0 0 0 0
+20000 20000 15 0 0 0 0 0
+20005 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2203
+belt vine swamp~
+/cwa belt made of /cGswamp vine/c0~
+/cwA belt made of /cGswamp vine/cw has been abandoned here./c0~
+It is large enough to loop around a human waist twice.  The thorns
+that protrude from it somehow do not prick you while wearing it.    
+~
+9 49290 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+8 5166 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+12 20
+A
+1 -2
+#2204
+corpse ollcas~
+/cwthe corpse of Ollcas/c0~
+/cwOllcas's corpse is stretched out upon the table, his eyes closed in eternal sleep./c0~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ollcas~
+His skin looks to be still wet and slimy, as bullywogs tend to be in
+life.  Upon touching his skin, you find that there is some sort of
+cream or ointment that has been applied.  Possibly it is what keeps
+his corpse from decay.    
+~
+E
+corpse~
+His skin looks to be still wet and slimy, as bullywogs tend to be in
+life.  Upon touching his skin, you find that there is some sort of
+cream or ointment that has been applied.  Possibly it is what keeps
+his corpse from decay.    
+~
+#2205
+table shrine~
+/cwa cloth-covered table/c0~
+/cwA white-cloth covered table lies in the center of the room, bearing Ollcas's corpse./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+epitaph~
+It reads:
+
+My wonderful husband.
+
+The one who looked far past my outer shell into the depths of my heart.
+The one for whom I still carry on.
+
+Your memory will never die within me, my love.
+Agatha
+~
+E
+table~
+It is roughly ten feet long with a large, brown, carved stone epitaph
+attached near Ollcas's head.    
+~
+#2299
+deed swamp~
+the deed to the Swamp~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+22 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

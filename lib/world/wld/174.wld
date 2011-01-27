@@ -1,0 +1,1808 @@
+#17400
+The Holy Tower~
+Here, high above the rest of the island, you can see the country-side
+below.  A large crystal ball sits firmly on a stand made from golden
+eagles claws in the center of the tower.  A beautiful stained-glass
+window of a griffon covers the roof of the tower.  A plush crimson
+carpet rests on the ground beneath the western exit leading out into
+the hallway.    
+~
+174 8 0 0 0 0
+D3
+~
+~
+0 0 17498 0
+S
+#17401
+The Mystic Portal~
+Here, in a strange forgotten clearing, you can see an odd little
+circle of stones surrounding a sandstone tablet.  The stones
+themselves have been etched with symbols from some unknown alphabet.
+The tablet however, has been written in 3 different languages allowing
+for the finder to have a pathway for interpretation.  A small round
+stone juts out from the righthand corner of the tablet.    
+~
+174 12 0 0 0 0
+D0
+~
+~
+0 0 17402 18
+D2
+~
+~
+0 0 16236 0
+E
+portal~
+The portal appears to be a wall of water. Small ripples roll out
+from the center when you touch it.
+~
+E
+sandstone~
+Weary traveller, you have discovered the portal to a mystic,
+forgotten realm of untold wealth and untold horrors. Only the
+strongest may enter, and only the wisest may leave.....alive.
+~
+E
+stone~
+The stone itself is black in color and has a smooth glossy surface.
+Perhaps it could be a button or lever of some sort.
+~
+E
+sanscrit tablet~
+Weary traveller, you have discovered the portal to a mystic,
+forgotten realm of untold wealth and untold horrors. Only the
+strongest may enter, and only the wisest may leave.....alive.
+~
+S
+#17402
+Gauntlet Of Truth~
+A massive stone pillar stands before you warning of the choice ahead.
+A small spring quielty meanders at the base of the stone winding its
+way eastward.  Tiny purple flowers at the base of a large pine tree
+fill the air with a pleasant scent.  The mystic portal hums softly
+just to the south of here.  A peaceful feeling seems to engulf the
+area.    
+~
+174 16 0 0 0 0
+D0
+~
+~
+0 0 17403 0
+D2
+~
+~
+0 0 17401 16
+E
+pillar~
+To the north you will be faced with The Choice of either taking
+a short and risky route, or the quick and easy way to your fate.
+Choose your path carefully.
+~
+S
+#17403
+The Choice~
+Here, there appears to be a fork in the road.  It will be a difficult
+choice of which path to take.  To the west the short and risky path
+seems inviting yet dangerous.  To the east a long and safe path winds
+its way through the forest.  Back to the south is the Gauntlet of
+Truth.    
+~
+174 4 0 0 0 0
+D1
+~
+~
+0 0 17410 0
+D2
+~
+~
+0 0 17402 0
+D3
+~
+~
+0 0 17404 0
+S
+#17404
+A Path Called "Short And Risky"~
+A roughly made pebble road has been formed here, leading into a deep
+forbidding forest.  Massive trees on either side of you make it
+difficult to peer into the dark forest.  You can hear stange noises
+coming from somewhere deep within the forest.    
+~
+174 137 0 0 0 0
+D1
+~
+~
+0 0 17403 0
+D3
+~
+~
+0 0 17405 0
+S
+#17405
+A Path Called "Short And Risky"~
+A huge canopy overhead blocking the sunlight makes it very difficult
+to see.  Stakes lining the side of the path boast trophies of the
+skulls of unfortunate travellers.  The air here sends chills up your
+spine.    
+~
+174 137 0 0 0 0
+D0
+~
+~
+0 0 17406 0
+D1
+~
+~
+0 0 17404 0
+S
+#17406
+A Path Called "Short And Risky"~
+It seems as if the farther you travel on this path, the darker the
+forest surrounding you becomes.  You can hear the howling of strange
+animal sounds coming from the forest just inches away from you.    
+~
+174 137 0 0 0 0
+D0
+~
+~
+0 0 17407 0
+D2
+~
+~
+0 0 17405 0
+S
+#17407
+A Path Called "Short And Risky"~
+An enormous oak tree has fallen over the path here and someone or
+something has clawed a message into its rotten bark.  Upon further
+inspection, you can barely make out the message which warns of certain
+death to all who travel this road.    
+~
+174 137 0 0 0 0
+D0
+~
+~
+0 0 17408 0
+D2
+~
+~
+0 0 17406 0
+E
+message~
+BEWARE THE SHADOW BEAST!!!
+~
+E
+message~
+You see nothing special.
+~
+E
+tree~
+BEWARE THE SHADOW BEAST!!!
+~
+E
+bark~
+BEWARE THE SHADOW BEAST!!!
+~
+S
+#17408
+A Path Called "Short And Risky"~
+The walls of the forest seem to thin here as you notice a strange
+light coming from the east.  A small pile of bones rests in the center
+of the path here.  To the south you can see where the dark trail
+continues.    
+~
+174 137 0 0 0 0
+D1
+~
+~
+0 0 17409 0
+D2
+~
+~
+0 0 17407 0
+S
+#17409
+The Base Of The Great Stairs~
+Here you see the base of a staircase leading upwards.  Two massive
+pillars of solid gold stand on either side of the staircase.  An ivory
+altar has also been built here and rests in the center of the
+clearing.    
+~
+174 4 0 0 0 0
+D1
+~
+~
+0 0 17418 0
+D3
+~
+~
+0 0 17408 0
+D4
+~
+~
+0 0 17419 0
+S
+#17410
+A Path Called "Long And Safe"~
+The air here is sweet and fresh.  You can hear the sweet sounds of
+birds chirping and animals at play all around you.  A dirt road has
+been formed here leading off towards the east.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17411 0
+D3
+~
+~
+0 0 17403 0
+S
+#17411
+A Path Called "Long And Safe"~
+The pathway continues here towards the north.  A beautiful refreshing
+looking pond is here just off the right side of the path.  Gorgeous
+oak trees line both sides of the road.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17412 0
+D3
+~
+~
+0 0 17410 0
+S
+#17412
+A Path Called "Long And Safe"~
+The pathway takes a sharp turn here towards the east.  All you can see
+is rolling hills topped with towering trees.  The pathway here looks
+like it is travelled alot.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17413 0
+D2
+~
+~
+0 0 17411 0
+S
+#17413
+A Path Called "Long And Safe"~
+A small spring meanders its way across the road here and a small
+wooden bridge has been built over it.  A calm breeze gently tugs at
+your hair and helps to ease the scorching afternoon sun.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17414 0
+D3
+~
+~
+0 0 17412 0
+S
+#17414
+A Path Called "Long And Safe"~
+The road here is very muddy and seems to grab at your feet as you try
+to walk.  It looks as if a light raing has just passed over here.  
+The smell of afternoon dew beginning to form on the blades of grass on
+each side of the road fills the air.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17413 0
+D3
+~
+~
+0 0 17415 0
+S
+#17415
+A Path Called "Long And Safe"~
+Part of the road here has been washed away, making it difficult to
+cross.  A large maple towers over the left side of the road and seems
+to be a home for a small owl sitting on one of its limbs.  A veil of
+twisted vines cascades down from the massive tree.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17416 0
+D1
+~
+~
+0 0 17414 0
+S
+#17416
+A Path Called "Long And Safe"~
+The road here is totally washed away and a torrent of water rushes
+through the middle of the path.  A large tree has fallen over the
+gully creating a bridge of sorts, allowing you to cross.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17417 0
+D2
+~
+~
+0 0 17415 0
+S
+#17417
+A Path Called "Long And Safe"~
+The road here is a little better and travel is somewhat easier.  A
+small hut sits just off the right side of the road and to the west you
+can see more of the path.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17416 0
+D3
+~
+~
+0 0 17418 0
+S
+#17418
+A Path Called "Long And Safe"~
+The pathway thins a little here and you notice a clearing off to the
+west.  Two wooden benches have been built here for weary travellers to
+rest on.  To the east you can see more of the pathway.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17417 0
+D3
+~
+~
+0 0 17409 0
+S
+#17419
+Climbing The Stairs~
+A faint glow seems to hug each crystal step of the stairs before you.
+Two hand rails made of silver run along each side of the staircase.  
+A large plaque has been placed in the center of one of the steps here.
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17420 0
+D5
+~
+~
+0 0 17409 0
+E
+plaque~
+   He who passes the guardians may enter unto the holy citadel of light.  The
+first is one of bruttish strength and will only yield to the one who can defeat
+him in battle.  The second guardian is hidden to the eyes of normal men and
+women and can only be seen through magic.  The third and final guardian is a
+terror to behold, but will relinquish his treasure upon hearing his ancient
+name "Zabok.  "
+~
+S
+#17420
+Climbing The Stairs~
+Here the steps are unusually big, most likely in order to support the
+mass of the creature who stands before you.  Adamantine stakes line
+the rails of the stairs here boasting the skulls of unfortunate heros.
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17419 0
+D4
+~
+~
+0 0 17421 0
+E
+skulls~
+Rows and rows of decayed and cracked skulls have been set up on
+stakes here, as trophies of this massive creature's carnage.
+~
+S
+#17421
+Climbing The Stairs~
+The stairs continue here leading up towards the citadel of light.  
+Instead of the broad steps you saw at the base of the stairwell, these
+seem to be more normal sized.  A cold breeze sweeps into the room from
+the north.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17422 0
+D5
+~
+~
+0 0 17420 0
+S
+#17422
+Climbing The Stairs~
+There is a cold chill in the air here, and there is the uncanny
+feeling that someone or something is watching your every move.  There
+is the sound of soft breathing, and in the stillness, something that
+almost sounds like the faint murmur of a beating heart.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17421 0
+D4
+~
+~
+0 0 17423 0
+S
+#17423
+Climbing The Stairs~
+The stairs here are spattered with the crimson stains of blood.  The
+arms and legs of the fallen are scattered along the sides of the
+staircase rails.  The mass of carnage indicates that they probably
+chose to fight the guardian, rather than repeat a holy word.  To the
+north a large oak door blocks entrance to the citadel.    
+~
+174 0 0 0 0 0
+D0
+~
+door oak~
+1 17402 17424 7
+D5
+~
+~
+0 0 17422 0
+S
+#17424
+The Citadel Of Light~
+Huge pillars of solid gold line the walls of the enormous room and a
+great crystal chandelier hands from the domed ceiling.  Large stained
+glass windows allow soft glows of ever color imaginable to dance along
+the white marble floor.  An elaborate carving of vines encircling a
+rose has been carefully crafted into one of the pillars.  An oak door
+leads out of the citadel to the south.    
+~
+174 8 0 0 0 0
+D0
+~
+~
+0 0 17426 0
+D1
+~
+~
+0 0 17428 0
+D2
+~
+door oak~
+1 17402 17423 7
+D3
+~
+~
+0 0 17425 0
+S
+#17425
+The Great Bronze Door~
+Before you stands the great bronze door leading into the kingdom of
+Cyclopes.  Large pillars of stone display their highly decorated
+surfaces boasting images of the blacksmith guild.  A bronze plaque on
+one of the pillars warns the peril of the land before you.    
+~
+174 12 0 0 0 0
+D1
+~
+~
+0 0 17424 0
+D3
+~
+door~
+1 17408 17429 7
+S
+#17426
+The Great Silver Door~
+Towering above you stands the great silver door.  Beyond lies the
+swamps of sorrow.  A large statue of a ghastly beast overshadows the
+door.  Two lamps burning with a strange green fire have been set on
+either side of the door.    
+~
+174 12 0 0 0 0
+D0
+~
+door~
+1 17409 17427 7
+D2
+~
+~
+0 0 17424 0
+S
+#17427
+The Swamp Of Sorrow~
+Nothing but damp, wet ground and overgrown brush stretches out ahead.
+The howls and clicks of animals and insects eminate from deep within
+the heart of the swamp.  The scent of freshly decayed vegetation fills
+the air.  To the south the silver door leads towards the citadel.    
+~
+174 8 0 0 0 0
+D0
+~
+~
+0 0 17449 0
+D2
+~
+door~
+1 17409 17426 7
+S
+#17428
+The Great Golden Door~
+Before you is the great golden door guarding the land of Aeaea, realm
+of the beautiful yet deadly witch Circe.  Two amber statues of lions
+stand on either side of the door.    
+~
+174 12 0 0 0 0
+D1
+~
+door~
+1 17410 17473 7
+D3
+~
+~
+0 0 17424 0
+S
+#17429
+The Red Sea~
+The waves around you seem unusually hostile seeming to slam into you
+with an eerie force.  You can smell nothing but the smell of salt
+water and large fish.  To the east you can see the bronze door.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17429 0
+D1
+~
+door~
+1 17408 17425 7
+D2
+~
+~
+0 0 17429 0
+D3
+~
+~
+0 0 17431 0
+S
+#17430
+The Red Sea~
+Peering down into the blood red sea, you are confronted with a
+seemingly endless black void.  In every direction you can see nothing
+but a continuing expanse of water leading to who knows where.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17431 0
+D1
+~
+~
+0 0 17429 0
+D2
+~
+~
+0 0 17432 0
+D3
+~
+~
+0 0 17431 0
+S
+#17431
+The Red Sea~
+The sun blazes down on your back here, driving you almost to the point
+of insanity.  Sweat roles down your face as you scan the horizon
+searching desperately for any signs of dry land.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17431 0
+D1
+~
+~
+0 0 17430 0
+D2
+~
+~
+0 0 17430 0
+D3
+~
+~
+0 0 17430 0
+S
+#17432
+The Red Sea~
+You can see seagulls hovering high above, riding effortlessly in the
+strong south wind.  The water here seems to be pulling you towards a
+cloud of mist off to the west.  Upon closer inspection, you can barely
+make out a rough outline of what appears to be mountains.  LAND!!!  
+~
+174 4 0 0 0 0
+D0
+~
+~
+0 0 17430 0
+D1
+~
+~
+0 0 17430 0
+D2
+~
+~
+0 0 17430 0
+D3
+~
+~
+0 0 17433 0
+S
+#17433
+On The Beach~
+The sand beneath your feet feels gritty as it lodges in between your
+toes.  You can smell the strong scent of salt water and hear the
+crashing of the waves up against the beach head.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17434 0
+D1
+~
+~
+0 0 17432 0
+D3
+~
+~
+0 0 17435 0
+S
+#17434
+The Sandy Beach~
+Small crabs scramble about looking for small bits to eat.  A rotting
+boat has been beached here.  There is a large hole in the side of the
+boat, probably created by one of the reefs surrounding the island.  
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17433 0
+S
+#17435
+A Green Pasture~
+The beach to the east is contrasted dramatically here by the luscious
+field of rolling grass cascading over the meadow.  The sounds of sheep
+wrestling and grazing fill the air.  West of here you can see the base
+of a mountain and directly south are the feeding troughs.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17437 0
+D1
+~
+~
+0 0 17433 0
+D2
+~
+~
+0 0 17436 0
+D3
+~
+~
+0 0 17438 0
+S
+#17436
+The Feeding Troughs~
+There are two long oakwood troughs running along side each other here.
+An odd-looking golden grain has been left in the troughs.  It emits a
+faint glow and you can only speculate what the owner of the sheep
+feeds his herd.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17435 0
+D3
+~
+~
+0 0 17447 0
+S
+#17437
+Under A Large Oak Tree~
+An enormous oak tree provides a great deal of shade here.  You can see
+where the grass at the roots of the tree has been worn away, probably
+made into a snug little bed by a tired sheep.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17435 0
+S
+#17438
+At The Base Of The Mountain~
+Here you seem to have stumbled on a rocky pathway leading upwards into
+the high mountains towering overhead.  To the north you can see an old
+shack.  To the west the pathway continues.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17446 0
+D1
+~
+~
+0 0 17435 0
+D3
+~
+~
+0 0 17439 0
+S
+#17439
+A Rocky Trail Leading Upwards~
+Treacherous rocks cover the ground waiting on an unsuspecting
+traveller to trip.  You can see an old shack far off to the south and
+a deadend to the north.  The path continues west.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17441 0
+D1
+~
+~
+0 0 17438 0
+D3
+~
+~
+0 0 17440 0
+S
+#17440
+The Rocky Trail~
+Up above is an eerie entrance leading into an unusually large cave
+mouth.  The smell of death fills the air and small crushed bones are
+scattered along the path here.  Lodged in the side of the gully to the
+left is a human skull.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17439 0
+D4
+~
+~
+0 0 17442 0
+S
+#17441
+Lookout Peak~
+What a magnificent view you have here.  Way down below you can see a
+vast prairie leading off into the horizon.  Up above you can see the
+peaks of the mountain dissapearing into the clouds.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17439 0
+S
+#17442
+Before The Cave~
+A huge boulder shaped like a human skull rests just to the right of
+the cave entrance.  You begin to wonder what kind of creature has the
+strength to move such a huge stone.  A red glow pulses through the
+opening from somewhere within the cave.    
+~
+174 0 0 0 0 0
+D0
+~
+boulder~
+1 0 17443 3
+D5
+~
+~
+0 0 17440 0
+S
+#17443
+A Very Large Cave~
+The roof of the cavern here must be at least 50 feet high.  It looks
+as if something pretty large lives or has lived here.  You can see a
+large anvil and forge in the corner, as well as a hooded shepherd's
+robe hanging on the wall.    
+~
+174 8 0 0 0 0
+D0
+~
+~
+0 0 17445 0
+D2
+~
+boulder~
+1 0 17442 3
+D3
+~
+~
+0 0 17444 0
+S
+#17444
+The Dining Hall~
+Here you can see a long table.  The crest of the guild of blacksmiths
+has been carved into the surface of it.  An aclove in the wall of the
+cave seems to serve as a fireplace.  You can see broken skulls and old
+burned out coals lumped in the corner.    
+~
+174 8 0 0 0 0
+D1
+~
+~
+0 0 17443 0
+S
+#17445
+The Bedroom~
+This is the innermost chamber of the cave.  Dimly lit torches line the
+walls giving a very cozy and snug feeling here.  A bed made of wool
+sits comfortably in the corner.    
+~
+174 8 0 0 0 0
+D2
+~
+~
+0 0 17443 0
+S
+#17446
+An Old Shack~
+Old broken shepherd's staffs and rusty scissors hang from the walls of
+the shack in an unorganized fashion.  A window in the northern wall
+reveals a sheep pen on the other side of the shack.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17438 0
+S
+#17447
+The Barn~
+The roof of this barn is as high as a very large oak tree.  The maker
+of the barn must have been huge considering the size of the door and
+the size of the ladder leading up into the loft.  The walls are
+covered with the wool from last season's sheering.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17436 0
+S
+#17448
+A Small Sand Dune~
+Small crabs scamper around oddly shaped coral and colorful shells
+everywhere.  To the north a thick forest guards the interior of the
+island.  East of here a large rocky cliff overlooks the island.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17474 0
+D1
+~
+~
+0 0 17475 0
+D3
+~
+~
+0 0 17473 0
+S
+#17449
+The Swamp Of Sorrow~
+You see nothing but wet moist soil clinging to the bottom of your
+sandals.  The strange sounds echoing around you send chills up your
+very spine.  The scent of freshly decayed shrubs fills your nostrils.
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17450 0
+D1
+~
+~
+0 0 17453 0
+D2
+~
+~
+0 0 17427 0
+D3
+~
+~
+0 0 17450 0
+S
+#17450
+The Swamp Of Sorrow~
+It seems to become more and more difficult lifting your sandals out of
+the mud beneath you after each step.  You can see a large bush with a
+green eyed anaconda poised on it ready to attack.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17451 0
+D1
+~
+~
+0 0 17449 0
+D2
+~
+~
+0 0 17453 0
+D3
+~
+~
+0 0 17453 0
+S
+#17451
+The Swamp Of Sorrow~
+Enormous willow trees only add to the bleakness of your surroundings.
+You can see the corpses of starved animals strewn everywhere along the
+ground.  There is nothing but swamp expanding as far as the eye can
+see.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17453 0
+D1
+~
+~
+0 0 17453 0
+D2
+~
+~
+0 0 17450 0
+D3
+~
+~
+0 0 17452 0
+S
+#17452
+The Swamp Of Sorrow~
+The shadow-covered surroundings make it quite difficult to see here;
+however, you notice a patch of light shining through the brush from
+the north.  To the east and west you can see nothing but swamp.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17454 0
+D1
+~
+~
+0 0 17451 0
+D2
+~
+~
+0 0 17453 0
+D3
+~
+~
+0 0 17453 0
+S
+#17453
+The Swamp Of Sorrow~
+You feel trapped by the surrounding death and decay.  The mud beneath
+your feet seems as if it is trying to hold you back from some unknown
+place.  You almost begin to feel like giving up your quest and turning
+back.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17452 0
+D1
+~
+~
+0 0 17452 0
+D2
+~
+~
+0 0 17451 0
+D3
+~
+~
+0 0 17449 0
+S
+#17454
+The Edge Of A Deep Gully~
+Here the edge of a cliff encircles a very deep and dark gully.  To the
+south the swamp of sorrow awaits forbodingly.  To the north a bridge
+fashioned from logs and rope stretching over the gully.  To the west
+is an overhang giving a better view of the gully.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17456 0
+D2
+~
+~
+0 0 17452 0
+D3
+~
+~
+0 0 17455 0
+S
+#17455
+Overlooking The Gully~
+Beneath you lies only an endelss expanse of nothing but mud lined
+walls topped with brownish vegatation rotted and dead.  All throughout
+the jungle you can hear nothing but the sounds of strange wild
+animals.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17454 0
+S
+#17456
+The Rope Bridge~
+A primitive yet stable looking bridge has been constructed here out of
+rope and tree branches.  Below you can see a huge river flowing
+swiftly over rocks and boulders.  To the north the bridge continues.
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17457 0
+D2
+~
+~
+0 0 17454 0
+S
+#17457
+The Rope Bridge~
+Part of the bridge here has rotted away, making progress much more
+difficult.  You have to take great care not to lose your balance and
+stumble off into the gully below.  To the north you can see the other
+side of the gully.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17458 0
+D2
+~
+~
+0 0 17456 0
+S
+#17458
+Overlooking The Ravine~
+Just south of here you can see a very deep gully.  You can hear the
+sounds of a rapid river rushing through the center of it.  A soft
+breeze in the air cools your face and gently tosses your hair to the
+side.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17466 0
+D2
+~
+~
+0 0 17457 0
+D3
+~
+~
+0 0 17459 0
+S
+#17459
+The Shaded Path~
+A trail leading through the forest has been made here.  You can see a
+very large willow tree just to the west of you.  To the east you can
+see the edge of a great ravine.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17460 0
+D1
+~
+~
+0 0 17458 0
+D3
+~
+~
+0 0 17461 0
+S
+#17460
+The Shaded Path~
+The sweet smell of honey suckle and wild flowers fills your nose here.
+To the west you can see a beautiful garden.  Directly to the south,
+the shaded path continues.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17459 0
+D3
+~
+~
+0 0 17462 0
+S
+#17461
+Beneath The Willow Tree~
+The massive tree before you towers high above.  The very top juts up
+beyond the clouds making it impossible to see the entire canopy.  To
+the east you can see a trail in the forest.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17459 0
+S
+#17462
+The Holy Garden~
+Wild orchids, purple roses, and white tiger lillies grow in large
+quantities here.  To the north you can see a magical fountain of some
+kind.  To the west you see an atrium.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17464 0
+D1
+~
+~
+0 0 17460 0
+D3
+~
+~
+0 0 17465 0
+S
+#17463
+The Mystic Lake~
+You can hear a faint hiss coming from the north.  A slight chill
+begins to work its way up your spine as you near the opposing shore.
+To the south you can see more of the lake.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17470 0
+D1
+~
+~
+0 0 17468 0
+S
+#17464
+The Fountain Of Life~
+Before you lies a magical ivory fountain.  A golden swan sits nicely
+in its center spilling the life-giving water out of its crystal beak.
+To the south you can see the garden.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17462 0
+S
+#17465
+The Garden Atrium~
+Two long wooden benches have been placed here overlooking a colorful
+miniture garden.  To the east you can see the main part of the garden,
+while to the north you notice an eerie looking lake.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17467 0
+D1
+~
+~
+0 0 17462 0
+S
+#17466
+Almost Off The Edge~
+The rocky edge of the ravine here has been eroded partly away leaving
+a dangerous looking mudslide leading straight down the chasm into the
+heart of the rushing river below.  The sound of birds chirping and
+squirrels at play seems to be coming from the treetops surrounding the
+edge.    
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17458 0
+S
+#17467
+Edge Of The Lake~
+A thick cloud of mist clings tightly to your ankles here, rising
+slowly up out of the warm waters each passing moment.  You sense a
+strange presence coming from somewhere on the other side of the lake.
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17468 0
+D2
+~
+~
+0 0 17465 0
+S
+#17468
+The Mystic Lake~
+Layers of thick fog make it almost impossible to even see your hand in
+front of you.  An eerie chill coming from the west offsets the warm
+mist clashing against your cheeks.    
+~
+174 4 0 0 0 0
+D0
+~
+~
+0 0 17469 0
+D2
+~
+~
+0 0 17467 0
+D3
+~
+~
+0 0 17463 0
+S
+#17469
+The Mystic Lake~
+Layers of thick fog make it almost impossible to even see your hand in
+front of you.  An eerie chill coming from the west offsets the warm
+mist clashing against your cheeks.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17469 0
+D1
+~
+~
+0 0 17469 0
+D2
+~
+~
+0 0 17468 0
+D3
+~
+~
+0 0 17469 0
+S
+#17470
+Entrance To The Temple~
+An old temple has been forgotten here.  The once beautiful ivory
+pillars of its gates have begun to corrode and break apart.  It doesnt
+appear as if anyone has been here in quite some time.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17463 0
+D3
+~
+~
+0 0 17471 0
+S
+#17471
+Temple Of The Titans~
+The ancient and forgotten temple of the titans rests peacefully here.
+Statues of odd yet mightly looking creatures surround the center part
+of the temple.  On the western side of the temple a silver effigy of
+medusa seems to keep watch over the temple.  To the north is the altar
+room.  Back to the south is the entrance to the temple.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17472 0
+D1
+~
+~
+0 0 17470 0
+S
+#17472
+The Altar Room~
+A gigantic slab of granite has been crudely shaped into an altar here.
+A large mural depicting scenes from the creation of the world has been
+painted on the marble floors.  To the south you can see the temple.  
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17471 0
+S
+#17473
+The Shores Of Aeaea~
+Greenish seaweed and drift wood litters the ground everywhere here.  
+The sound of ocean waves crashing against the beach echoes off to the
+south west.  To the east a large sand dune towers over the beach.  
+The great golden door lies just to the west.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17448 0
+D3
+~
+door~
+1 17410 17428 7
+S
+#17474
+The Edge Of The Forest~
+Before you lies a thick jungle of twisted vines and thorny underbush.
+South of here you can see the beach, and to the north you can see a
+trail leading deeper into the forest.    
+~
+174 4 0 0 0 0
+D0
+~
+~
+0 0 17480 0
+D2
+~
+~
+0 0 17448 0
+S
+#17475
+Edge Of A Cliff~
+The cliffs here seem to have been made out of extremely old coral.  
+Perhaps a long time ago, even this very island was covered by the
+ocean.  Up above, the cliffs rise towards the sky.    
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17448 0
+D4
+~
+~
+0 0 17476 0
+S
+#17476
+Climbing The Cliff~
+It is difficult for you to grab the salty coral before you.  Up above,
+you can see the apex of the cliff towering above the rest of the
+island.  To the east, you can see the entrance of a strange cave.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17477 0
+D4
+~
+~
+0 0 17479 0
+D5
+~
+~
+0 0 17475 0
+S
+#17477
+The Entrance To A Den~
+Small scraps of skin and old bones are scattered about carelessly
+here.  A strange music seems to echo throughout the cave to the east.
+It is sweet to your ears and seems to draw you mindlessly into the
+cave before you.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17478 0
+D3
+~
+~
+0 0 17476 0
+S
+#17478
+An Old Den~
+Here you can see the den of the oldest harpy, Drasmin.  The walls are
+roughly formed from a strange purple coral.  The floor has been
+transformed into a cozy bed of straw from the fields below.    
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17477 0
+S
+#17479
+The Peak~
+For miles in every direction you can see only the vast expanse of the
+ocean.  Seagulls flap carelessly overhead and you can see the entirety
+of the island below you.    
+~
+174 0 0 0 0 0
+D5
+~
+~
+0 0 17476 0
+S
+#17480
+A Rough Trail~
+Small fallen branches, a soft bed of fallen leaves and thick
+underbrush make passage here quite difficult.  To the south, the
+forest clears to reveal a beach.  To the east, a huge tree sprawls out
+across the road.  To the north there is an intersection.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17482 0
+D1
+~
+~
+0 0 17481 0
+D2
+~
+~
+0 0 17474 0
+S
+#17481
+The Fallen Tree~
+A very large oak tree has fallen here blocking your path preventing
+any further travel eastward.  Strange high-pitched shrieks and moans
+carry through the dark woods from all directions.  A rough trail is
+directly to the west.    
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17480 0
+S
+#17482
+A Wide Intersection~
+A broad intersection stretches out here.  To the east a beautiful
+golden cuts a path through the woods.  To the west the forest closes
+up forming a dead end.  To the north a large tree towers over the
+others.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17484 0
+D1
+~
+~
+0 0 17485 0
+D2
+~
+~
+0 0 17480 0
+D3
+~
+~
+0 0 17483 0
+S
+#17483
+A Dead End~
+Two massive trees have fallen across each other here blocking the path
+westward.  Long charred and blackened canals scar the sides of both
+trees where bolts of lightning hit them ages ago.  Back to the east is
+the intersection.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17482 0
+S
+#17484
+The Base Of The Tree~
+Towering above all the other trees is an extremely tall maple.  It
+seems oddly out of place here surrounded by thousands of smaller trees
+not much bigger around than an average human.  Some sturdy footholes
+meander their way from the base of the tree leading upwards.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17482 0
+D4
+~
+~
+0 0 17486 0
+S
+#17485
+A Golden Road~
+Beautiful golden nuggets make up the foundation of this road.  It
+seems to glow in the afternoon sun.  To the west you can see the
+forest intersection, and to the north, the golden road continues.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17488 0
+D3
+~
+~
+0 0 17482 0
+S
+#17486
+The First Branch~
+Here, high above the forest floor, you can get a different perspective
+on how the island is shaped.  You can see for miles in either
+direction but a strange tower northwest of here catches your eye.  To
+the north you can see a big hole in the side of the tree.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17487 0
+D5
+~
+~
+0 0 17484 0
+S
+#17487
+A Trunk Hole~
+Due to the claw marks in the side of the hole, you can tell you arent
+the only creature ever to be here.  A soft growling noise causes you
+to tense up as you realize you are not alone here.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17486 0
+S
+#17488
+A Golden Road~
+The road here takes a sharp turn to the east and to the west splitting
+into two different directions.  To the east a large rose bush rests in
+the center of a small garden.  To the west a walkway leads off towards
+the tower.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17490 0
+D2
+~
+~
+0 0 17485 0
+D3
+~
+~
+0 0 17489 0
+S
+#17489
+The Walkway~
+Squeals and grunts are coming from the west where there is an odd pen
+of some kind.  To the east the golden road leads off into the forest.
+To the north the walkway continues.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17492 0
+D1
+~
+~
+0 0 17488 0
+D3
+~
+~
+0 0 17491 0
+S
+#17490
+The Giant Rose Bush~
+Here you can see a rose bush unlike any one you have ever seen before.
+It must be at least twenty feet high.  It seems to be well kept and
+the roses themselves have an almost maddening sweet smell to them.  
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17488 0
+S
+#17491
+The Pig Pen~
+Here is a crudely constructed pig pen.  The wooden sides of the pen
+are lined with feeding troughs and a great big pile of mud covers the
+center of the pen.  To the east you can see the walkway.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17489 0
+S
+#17492
+The Walkway~
+Here the walkway continues towards some unknown destination.  To the
+east you can see a trail leading towards a rushing river off in the
+far distance.  To the west you can see the base of a huge crystal
+tower.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17493 0
+D2
+~
+~
+0 0 17489 0
+D3
+~
+~
+0 0 17494 0
+S
+#17493
+The Pathway To The River~
+A well travelled path has been made here.  The rushing sound of the
+river gets louder with each step you take.  To the west you can see
+the walkway and still furthur west you can see a tower.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17495 0
+D3
+~
+~
+0 0 17492 0
+S
+#17494
+The Base Of The Crystal Tower~
+The wide doors of the tower have been left open.  A large chime rests
+on the left side of the door apparently serving as a doorbell.  Upon
+closer inspection you notice that its rusted chains would prevent any
+sound from reaching anyone inside the house.  To the east you can see
+the walkway.    
+~
+174 0 0 0 0 0
+D0
+~
+~
+0 0 17496 0
+D1
+~
+~
+0 0 17492 0
+S
+#17495
+The Edge Of The River~
+A small clearing rests peacefully here beside a rushing river just to
+the east.  It appears as if someone visits here regularly.  To the
+west is the path leading back towards the tower.    
+~
+174 0 0 0 0 0
+D3
+~
+~
+0 0 17493 0
+S
+#17496
+The Staircase~
+Torches line the walls of the staircase providing ample light for you
+to see.  The steps are perfectly smooth and made out of solid crystal.
+The elegant job of sanding and polishing the glittering crystal could
+only have been done by a master craftsman.    
+~
+174 0 0 0 0 0
+D2
+~
+~
+0 0 17494 0
+D4
+~
+~
+0 0 17497 0
+S
+#17497
+A Crystal Hallway~
+The hallway before you is almost too bright to look at.  The crystal
+walls are almost like mirriors and have a somewhat dissorienting
+effect.  To the north the hallway continues and to the south the
+staircase leads down out of the tower.    
+~
+174 4 0 0 0 0
+D0
+~
+~
+0 0 17498 0
+D5
+~
+~
+0 0 17496 0
+S
+#17498
+A Crystal Hallway~
+A large green torch on the end of the hallway fills this part of the
+hall with a strange glow.  To the west you can see a bedroom.  To the
+east you can see the holy tower overlooking the island.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17400 0
+D2
+~
+~
+0 0 17497 0
+D3
+~
+~
+0 0 17499 0
+S
+#17499
+The Main Bedroom~
+Elegant silks and luxurious tapestries line the walls of this room.  
+A large master bed with large wooden headboards and footboards sits
+comfortably in the center of the room.  To the east you can see the
+hall.    
+~
+174 0 0 0 0 0
+D1
+~
+~
+0 0 17498 0
+S
+$~

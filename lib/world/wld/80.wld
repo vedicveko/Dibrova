@@ -1,0 +1,796 @@
+#8000
+Community Equipment Building~
+This small building usually holds any number of items stacked
+haphazardly on the floor, where citizens leave items that they
+themselves have no need of.  Remember - even though these items were
+unusable by one man doesn't mean that they may not be treasur to
+another.  If you sort through these items, you just may find some
+pretty decent stuff.    
+~
+80 12 0 0 0 0
+D3
+~
+~
+0 0 8115 0
+S
+#8001
+Ofintine Road~
+The feeling of desperate hope that clings to the streets of this town
+is palpable in the way the townspeople carry themselves.  It is no
+secret that the Goblin Hordes have laid seige to this town, attempting
+to drive its inhabitants out and claim it for their own.  Despite
+being outnumbered and in a constant state of fear, these people still
+proudly call themselves Ofingians and walk the streets with heads held
+high.  The stables lie just east if you wish to park a steed.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8002 0
+D1
+~
+~
+0 0 8021 0
+D2
+~
+~
+0 0 8109 0
+S
+#8002
+Ofintine Road~
+The city wall, buttressed by sacks of sand, with long poles dug into
+the ground at an angle, runs along side you on the west side.  
+Squinting up to the battlements, you see the guardsmen walking their
+rounds, ever vigilant for another of the goblin's raids.  To the east
+a small, crudely fashioned building houses the medical help that is
+offered to the people of Ofingia.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8003 0
+D1
+~
+~
+0 0 8022 0
+D2
+~
+~
+0 0 8001 0
+S
+#8003
+Ofintine Road~
+The Cleric's Guild lies just west of here, housed close to the medical
+center for obvious reasons.  Watching as the people of this town go
+about their daily lives, you wonder why they don't simply pack up and
+leave with all the goblin raids that have happened lately.  As you
+contemplate this thought, you watch as a man passes a woman and her
+child on the street.  You watch as he reaches out and touches her arm
+as he speaks to her, saying hello, and watch as he ruffles the child's
+hair.  He then goes on his way as if the goblin seige did not exist
+and the woman and her child walk away, comforted and unafraid.  Maybe
+that is your answer.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8004 0
+D1
+~
+~
+0 0 8023 0
+D2
+~
+~
+0 0 8002 0
+S
+#8004
+Ofintine Road~
+The road makes a turn to the east and south, following along the
+town's wall.  The road you follow seems in good enough condition,
+considering the military state that the town is in at this time.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8005 0
+D2
+~
+~
+0 0 8003 0
+S
+#8005
+Ofintine Road~
+You are surprised to see that the delapidated building south of you is
+the town's bank, and even more surprised to see that it is open.  
+Ofintine road follows along the town's northern wall past a smattering
+of businesses and guilds, a couple of sidestreets jutting off from
+this main road.  To the west, the road meets the west wall of the town
+and turns to the southm following the wall's course.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8006 0
+D2
+~
+~
+0 0 8025 0
+D3
+~
+~
+0 0 8004 0
+S
+#8006
+Ofintine Road~
+The road stretches along to the east and west past guilds and
+businesses run by the town.  To the south is the Post Office, off to
+the east are mostly guilds and a few side streets.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8007 0
+D2
+~
+~
+0 0 8026 0
+D3
+~
+~
+0 0 8005 0
+S
+#8007
+Ofintine Road~
+Ofinitine Road runs and east and west from here.  To the south,
+Guildsmen's Row heads into the main section of town devoted to the
+various guild of Dibrova.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8008 0
+D2
+~
+~
+0 0 8020 0
+D3
+~
+~
+0 0 8006 0
+S
+#8008
+Ofintine Road~
+The road runs east and west along the northern wall of the city.  To
+the south is the entrance to the Paladin's Guild.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8009 0
+D2
+~
+~
+0 0 8030 0
+D3
+~
+~
+0 0 8007 0
+S
+#8009
+Ofintine Road~
+The road runs up to the northeast corner of the city wall just east of
+here, turning south into the guild area.  To the southwest is the
+Paladin Guild, a very small and functional looking building.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8010 0
+D3
+~
+~
+0 0 8008 0
+S
+#8010
+Ofintine Road~
+Ofintine Road ends here at the northeast corner of the city wall,
+however Guildsman's Row picks up where the other leaves off and heads
+south into the guild area.  You may head east back along Ofintine Road
+if you like.  There is also a wide set of stairs leading down into the
+bedrock which the city rests upon, the stairway curving away out of
+sight under the city wall.  The sound of many voices can be heard from
+that direction.    
+~
+80 0 0 0 0 1
+D2
+~
+~
+0 0 8011 0
+D3
+~
+~
+0 0 8009 0
+D5
+~
+~
+0 0 8045 0
+S
+#8011
+Guildsman's Row~
+The thieves guild lies just east of here, Guildsman's Row running
+north and south.  To the north, Guildsman's Row ends and Ofintine Road
+picks up, running along the north wall of the town .
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8010 0
+D1
+~
+~
+0 0 8032 0
+D2
+~
+~
+0 0 8012 0
+S
+#8012
+Guildsman's Row~
+The road splits into two sections here.  To the south and north, the
+road runs past various guilds.  It also heads west following the loop
+of the Row, curving north and running back into Ofintine Road.  To the
+east is the Ranger's Guild.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8011 0
+D1
+~
+~
+0 0 8034 0
+D2
+~
+~
+0 0 8013 0
+D3
+~
+~
+0 0 8015 0
+S
+#8013
+Guildsman's Row~
+Guildsman's Row only runs a short distance to a dead-end where it
+butts up against the Gladiator's Guild.  To the north is the way back
+toward the main part of the town.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8012 0
+D2
+~
+~
+0 0 8014 0
+S
+#8014
+Guildsman's Row~
+The road dead-ends here at the entrance to the Gladiator's Guild.  
+You may head into the Guild if you are a gladiator or head back north
+toward the main section of town.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8013 0
+D1
+~
+~
+0 0 8040 0
+S
+#8015
+Guildsman's Row~
+You stand upon the Row, in the thick of the area of town where the
+guilds are most plentiful.  The Deathknight Guild lies just south of
+you, various other guilds in all other directions.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8012 0
+D2
+~
+~
+0 0 8036 0
+D3
+~
+~
+0 0 8016 0
+S
+#8016
+Guildsman's Row~
+The road runs east and west from here, with a small offshoot heading
+south into one of the guilds.  Southeast and southwest of your current
+locale are also guilds.    
+~
+80 0 0 0 0 1
+D1
+~
+~
+0 0 8015 0
+D2
+~
+~
+0 0 8017 0
+D3
+~
+~
+0 0 8019 0
+S
+#8017
+Guildsman's Row~
+This small dead end section of Guildsman's Row runs directly into the
+Monk's Guild.  It does not appear that there are any other entrances
+to any other buildings from this short alley.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8016 0
+D2
+~
+~
+0 0 8018 0
+S
+#8018
+Guildsman's Row~
+The alley has ended at the entrance to the Monk's Guild.  To the north
+is the way back to main road and most of the main sections of town.  
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8017 0
+D1
+~
+~
+0 0 8038 0
+S
+#8019
+Guildsman's Row~
+The road makes a turn here, running east and north.  The entrance to
+the Sorceror's Guild lies just south of here, through an ornate red
+and gold worked door.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8020 0
+D1
+~
+~
+0 0 8016 0
+D2
+~
+~
+0 0 8028 0
+S
+#8020
+Guildsman's Row~
+This narrow side-street runs past most of the guilds in Ofingia, back
+in this little section of town reserved just for the purpose of
+housing the guilds.  To the south you see that the street runs for a
+short distance and then makes a turn to the east.  To the north is the
+main road for the north side of town, Ofinitine Road.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 8007 0
+D2
+~
+~
+0 0 8019 0
+S
+#8021
+Stables~
+It appears that this large barn is well-used by the people of this
+town, as most of the townsfolk are too frightened by the goblins to
+venture out of the town gates for any distance.  Still, even with
+almost all the stalls full of animals, the stableboy should be able to
+find you something.    
+~
+80 8 0 0 0 0
+D3
+~
+~
+0 0 8001 0
+S
+#8022
+Emergency Medical Care~
+This used to be a storehouse, a place for citizens to keep possessions
+which were too large or weren't used often enough to merit taking up
+space in their homes.  It has since been hastily cleaned and converted
+into a functional medical facility.  Most of the beds are full of
+moaning men and women who were injured in battle.  The east side of
+the building has been partitioned off, dividing this building into two
+rooms.    
+~
+80 12 0 0 0 0
+D1
+~
+~
+0 0 8027 0
+D3
+~
+~
+0 0 8002 0
+S
+#8023
+Cleric Board Room~
+This small room serves as an information hub for the Clerics of
+Ofingia, who are always on the go helping to heal the men and women of
+the town after goblin attacks.  There are a few small couches and
+chairs set about on the floor, if you wish to rest for a bit before
+going back out into the town.    
+~
+80 20 0 0 0 0
+D1
+~
+~
+0 0 8024 0
+D3
+~
+~
+0 0 8003 0
+S
+#8024
+Cleric's Guild~
+The room you stand in cannot be any larger than ten by ten, however it
+suffices for the Guild in this town as a place to train and advance
+those of your class.  The exit lies to the west.    
+~
+80 16 0 0 0 0
+D3
+~
+~
+0 0 8023 0
+S
+#8025
+Bank~
+This is very obviously a one man operation, most probably because a
+town of this size has very little in the way of banking needs.  Most
+of the people of this town do not feel comfortable in depositing their
+money into any sort of safe-keeping as the town could be over-run by
+goblins at any time.    
+~
+80 24 0 0 0 0
+D0
+~
+~
+0 0 8005 0
+S
+#8026
+Post Office~
+This is the office of a group of unsung heroes the men and women of
+the Dibrova Postal Service.  Every single day, whether through seige
+or cheering crowds, sleet and hail or sun and a gentle breeze, these
+people risk their lives to get the mail though to all the other towns
+of Dibrova so that commerce and news might be conveyed in a timely
+fashion.    
+~
+80 16 0 0 0 0
+D0
+~
+~
+0 0 8006 0
+S
+#8027
+Morgue~
+The bodies of the men and women who gave their lives fighting the
+goblin hordes are bagged and tagged here, waiting for the day when
+they can be buried properly where their remains will not be
+desecrated.    
+~
+80 8 0 0 0 0
+D3
+~
+~
+0 0 8022 0
+S
+#8028
+Sorceror's Board Room~
+This guild, because of the town's need for military strength - hence
+the town's need to use the Teleporter Shop often, is by far the
+wealthiest of the Guilds in Ofingia.  Plush red chairs are set
+stylishly about the room, a low divan for any mage wishing to rest a
+while, and drinks in crystal goblets on ornate brass tables.  The main
+guild room lies just south of here.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8019 0
+D2
+~
+~
+0 0 8029 0
+S
+#8029
+Sorceror's Guild~
+This looks more like a lounge or a speakeasy rather than a place for
+testing and advancement in the arcane arts.  An extremely large red
+divan sprawls against the south wall of the room, two plush red chairs
+which are duplicates of those in the Board Room sit against the north
+wall near the door.  You begin to think that maybe being a sorceror
+isn't so bad after all.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8028 0
+S
+#8030
+Paladin's Board Room~
+Everything shines in this room, even the hardwood floor which must
+bear the tread of heavily armored and booted feet daily by the men of
+your Guild.  It just goes to show why you never felt the need to
+indenture your services to your Guild after completion of your
+training - it is much more gratifying to roam the world, erradicating
+eveil where found.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8008 0
+D1
+~
+~
+0 0 8031 0
+S
+#8031
+Paladin Guild~
+There are no adornments in this room whatsoever, only the Master and
+you and the training that lies before you.  You have chosen a formal
+guild, indeed.    
+~
+80 28 0 0 0 0
+D3
+~
+~
+0 0 8030 0
+S
+#8032
+Thief board Room~
+It appears as if the small table that sits in a corner of the room may
+have held some sort of candy or edible grub - there are crumbs and
+thats all there is left, now.  Most likely the food was in a dish that
+some member of your class probably got off with as well.  You look
+closely at the table and see that the legs have nails driven into the
+bottom where they meet the floor.  Typical.    
+~
+80 28 0 0 0 0
+D1
+~
+~
+0 0 8033 0
+D3
+~
+~
+0 0 8011 0
+S
+#8033
+Thief Guild~
+Here is where you may learn the arts of Thievery and all the wonderful
+extras in between.  This is also where you may advance in level if you
+are deemed worthy by your Master.    
+~
+80 28 0 0 0 0
+D3
+~
+~
+0 0 8032 0
+S
+#8034
+Ranger Board Room~
+This is the antechamber and prep room for your Guild.  You may rest
+safely here, post messages to others of your class here, or head
+straight into the Guild Room for advancement or practice sessions.  
+~
+80 28 0 0 0 0
+D2
+~
+~
+0 0 8035 0
+D3
+~
+~
+0 0 8012 0
+S
+#8035
+Ranger Guild~
+This small, dirt-floored room doesn't seem adequate for you to
+properly learn what you need to go out and be a success in Dibrova,
+but then, you must trust your Master.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8034 0
+S
+#8036
+Deathknight Board Room~
+With the lights down almost to the point of being turned off, you
+cannot see for sure whether you are alone or not.  You can see that
+there a few small couches against the east wall of the room for
+resting upon, the bright light to the south can only be the entrance
+into the main Guild Room.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8015 0
+D2
+~
+~
+0 0 8037 0
+S
+#8037
+Deathknight Guild~
+This room, draped in the usual black tapestries with the Black Rose
+embroidered on them, looks as formal and somber as any Deathknight
+Guild should look.  You may practice any skills you wish at this time
+or advance if you are deemed worthy by your master.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8036 0
+S
+#8038
+Monk Board Room~
+This is a small meditation and resting room where you may take a load
+off before going into the main room to practice or advance your skill
+as a monk.  Any messages you wish to post to others in your guild you
+may post on the board here.    
+~
+80 28 0 0 0 0
+D2
+~
+~
+0 0 8039 0
+D3
+~
+~
+0 0 8018 0
+S
+#8039
+Monk Guild~
+A small mat lies on the floor directly before your guildmaster.  You
+assume that this is where you are to kneel while receiving advancement
+or training.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8038 0
+S
+#8040
+Gladiator Board Room~
+There is a single, very uncomfortable looking chair overturned in the
+corner of this room.  Other than the chair there is no other type of
+furniture or adornments save for the Board that hangs upon the wall.
+The main Guild Room lies just south of here, the exit west.    
+~
+80 28 0 0 0 0
+D2
+~
+~
+0 0 8041 0
+D3
+~
+~
+0 0 8014 0
+S
+#8041
+Gladiator Guild~
+You are impressed by the fact that amount of blood on the floor seems
+to be minimal which can only mean that the Guild here is actually
+halfway decent at keeping the Guild a clean place.  Gladiators are, of
+course, notorious for their grubbiness.    
+~
+80 28 0 0 0 0
+D0
+~
+~
+0 0 8040 0
+S
+#8042
+Reading Room~
+This is where mortals may leave messages for other mortals, gods, or
+just write whatever comes to mind and post it.  We ask that you keep
+vulgarity to a minimum and do not use this board as a flame fest - any
+message deemed to be a flame will be removed accordingly.    
+~
+80 28 0 0 0 0
+D2
+~
+~
+0 0 8118 0
+S
+#8043
+Quest Room~
+Quests will generally be begun here, or in a similar room in another
+hometown.  Players are encouraged to give their input on current
+quests, suggest new quests, or just talk quest in general.    
+~
+80 28 0 0 0 0
+D1
+~
+~
+0 0 8118 0
+S
+#8044
+Suggestion Room~
+This room and the board in it is dedicated to giving players a chance
+to give their input on the mud in general or suggest additions that
+they might like to see implemented.  We encourage everyone to give
+suggestions as much as possible, so please - don't be shy!    
+~
+80 28 0 0 0 0
+D3
+~
+~
+0 0 8118 0
+S
+#8045
+Descending Toward the Baron's Dungeon~
+Ah!  So this is where the famous Baron Sukumvit hosts his proud
+dungeon!  The sounds of voices that could be heard so faintly from
+above now rises in volume, getting louder which each step down.  And
+why, you may ask...?  Why are all these people down here and what is
+so special about the Baron's Dungeon?  The Baron has packed this maze
+of a dungeon full of a multitude of creatures which can both help and
+hinder an adventurer in finding their way out of the dungeon.  At the
+end it is said that vast treasures await the conqueror of this place
+and the equipment found in this dungeon is rumored to be unmatched by
+any other area of Dibrova.  Be warned, however - once entered, the
+dungeon can not be exited except through magic.    
+~
+80 0 0 0 0 1
+D0
+~
+~
+0 0 18000 0
+D4
+~
+~
+0 0 8010 0
+S
+$~

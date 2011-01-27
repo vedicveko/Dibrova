@@ -1,0 +1,65 @@
+#3200
+Death quest~
+Death comes to us all, sometime...~
+
+Death is an entity which resides within the Realm of the Undead. Find Death
+and destroy it - before it destroys you!
+
+~
+-/cr
+You've done it, you've killed Death!
+You receive 5 quest points./c0
+-
+~
+3 3139 0 3208 90 100 0 0 5 0 -1
+0 0 0 0
+S
+#3201
+famine quest~
+Famine is the enemy of us all.~
+
+Famine is an inhabitant of the Realm of the Undead. Truly, Famine will
+always be with us in one form or another. Put an end to Famine, if only for
+a short while.
+
+~
+-/cr
+You've destroyed Famine, good job.
+You receive 3 quest points and 85,000 Bonus Experience./c0
+-
+~
+3 3139 0 3209 90 100 85000 0 3 0 -1
+0 0 0 0
+S
+#3202
+pestilence quest~
+Find Pestilence incarnate and kill it.~
+
+Pestilance roams the land in the form of a living, breathing being.
+Find Pestilence and destroy it.
+
+~
+-/cr
+You've destroyed Pestilence. Good work.
+You receive 4 quest points and 10,000 gold./c0
+-
+~
+3 3140 0 3210 100 110 0 10000 4 0 -1
+0 0 0 0
+S
+#3203
+War quest~
+Peace is a dirty word, and War - she's a whore.~
+
+Find War, and destroy it.
+
+~
+-/cr
+You've destroyed War. Good work.
+You receive 6 quest points./c0
+-
+~
+3 3141 0 3211 110 120 0 0 6 0 -1
+0 0 0 0
+S
+$~

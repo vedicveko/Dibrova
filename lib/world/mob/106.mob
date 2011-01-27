@@ -1,0 +1,714 @@
+#10600
+dracolisk dragon monster~
+a Dracolisk~
+A terrible deep-brown, dragon-like monster crouches before you.
+~
+It licks its sharp teeth, flexing its long wings as it readies all six
+legs in anticipation of the attack.    
+~
+537045100 0 0 0 56 0 0 0 -500 E
+55 33 -32 1d1+2400 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 17
+Int: 15
+Wis: 22
+Con: 17
+Cha: 18
+Luck: 5
+Class: 4
+Race: 9
+E
+#10601
+gorgimera creature bull dragon lion~
+a Gorgimera~
+A creature with the three heads of a bull, a dragon and a lion roars at you.
+~
+Its body is that of a scaly red dragon, replete with wings and all.  
+Its forequarters are that of a lion's and its rearquarters that of a
+gorgon.    
+~
+6252 0 0 0 24 0 0 0 -300 E
+53 31 -32 1d1+2450 5d6+35
+0 116847
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 18
+Int: 6
+Wis: 16
+Con: 12
+Cha: 20
+Luck: 16
+Class: 4
+Race: 38
+E
+#10602
+cockatrice bird squat~
+a Cockatrice~
+A squat but large bird-thing rests back on its haunches, eyeing you.
+~
+It is about the size of a large goose or turkey but sports the
+slithering tail of a lizard and the wings of a bat.  Repulsive,
+indeed.    
+~
+553650280 0 0 0 24 0 0 0 -300 E
+52 31 -32 1d1+2500 5d5+34
+0 111307
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 18
+Int: 22
+Wis: 14
+Cha: 24
+Luck: 25
+Race: 3
+E
+#10603
+moon dog~
+a Moon Dog~
+An extremely large dog looks curiously at you.
+~
+It looks very similar to a large wolf hound.  Its strange head is
+slightly human in appearance, giving it a very intelligent look
+~
+2047054010 0 0 0 16 0 0 0 0 E
+51 30 -32 1d1+2250 5d5+34
+0 105930
+8 8 0
+Str: 13
+Dex: 22
+Int: 7
+Wis: 21
+Con: 13
+Cha: 18
+Luck: 24
+Race: 8
+E
+#10604
+aerial servant humanoid smoke sparkling blue~
+an Aerial Servant~
+A strange, legless humanoid shape of sparkling blue smoke drifts past.
+~
+It appears almost to be humanoid in shape (excepting the lack of
+legs), but has only a slit for a mouth and empty eyes.    
+~
+536870984 0 0 0 144 0 0 0 0 E
+52 31 -32 1d1+2350 5d5+34
+800 111307
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 14
+Int: 22
+Wis: 16
+Con: 7
+Cha: 13
+Luck: 17
+Class: 12
+Race: 30
+E
+#10605
+marid creature humanoid water~
+a Marid~
+A humanoid creature made from flowing waters floats past. 
+~
+Its teeth, you can see, are made from pearls, its muscles that of
+watery currents.  It holds itself regally, imposingly, as if it would
+not deign to even look upon another of a lesser race.    
+~
+537430026 0 0 0 8388616 0 0 0 200 E
+61 38 -40 1d1+2650 5d6+40
+1025 167227
+8 8 0
+Str: 6
+Dex: 7
+Int: 6
+Wis: 12
+Con: 16
+Cha: 21
+Luck: 15
+Class: 4
+Race: 30
+E
+#10606
+janni~
+a Janni~
+One of the Janni struts past, giving a sneer and a growl as he passes.
+~
+He puffs himself importantly as he struts, as if he needs constant
+reminder to himself and all who see him that he is of a finer
+substance.    
+~
+536870984 0 0 0 24 0 0 0 -300 E
+53 31 -32 1d1+2425 5d6+35
+825 116847
+8 8 0
+Str: 10
+Dex: 21
+Int: 14
+Wis: 22
+Con: 19
+Cha: 19
+Luck: 8
+Race: 34
+E
+#10607
+invisible stalker air~
+an Invisible Stalker~
+Some sort of shimmering effect in the air makes your eyes tingle.
+~
+The air seems to move and vibrate in a somewhat organized fashion.  
+Something is here.    
+~
+604604488 0 0 0 1573012 131072 0 0 0 E
+63 40 -40 1d1+2575 6d6+42
+1075 181566
+8 8 0
+BareHandAttack: 11
+Str: 12
+Int: 5
+Wis: 15
+Con: 10
+Cha: 9
+Luck: 13
+Class: 3
+Race: 11
+E
+#10608
+ki-rin horse~
+a Ki-rin~
+A golden-scaled horse with a thick mane flies through the air.
+~
+Its deep violet eyes seem to know and understand all that you feel and
+think.  It tosses its great head in acknowledgement of your presence.
+~
+536870984 0 0 0 8388616 0 0 0 700 E
+55 33 -32 1d1+2475 5d6+36
+0 128422
+8 8 0
+Str: 16
+Dex: 21
+Int: 16
+Wis: 13
+Con: 6
+Luck: 18
+Race: 8
+E
+#10609
+kuo-toa~
+a Kuo-toa~
+A kuo-toa explores this plane, a look of hatred etched upon its face.
+~
+The look of pure hatred for all races other than its own is as inbred
+as its lust for the sea and its natural habitat.    
+~
+604510280 0 0 0 8 0 0 0 -700 E
+52 31 -32 1d1+2375 5d5+34
+800 111307
+8 8 0
+BareHandAttack: 3
+Str: 14
+Int: 19
+Wis: 17
+Cha: 13
+Luck: 14
+Class: 4
+Race: 8
+E
+#10610
+lammasu leonine human lion~
+a Lammasu~
+A winged leonine figure with a human head looks regally your way.
+~
+It bows its head slightly, giving your due as a traveler of this plane.
+~
+570460170 0 0 0 136 0 0 0 800 E
+56 34 -32 1d1+2450 5d6+37
+0 134460
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 8
+Int: 13
+Wis: 13
+Con: 13
+Cha: 19
+Luck: 20
+Race: 8
+E
+#10611
+ethereal wizard figure~
+an Ethereal Wizard~
+A figure shrouded in robes of light raises both arms into the air at your approach.
+~
+At first the arm-raising gestures appears one of supplication or
+peace, however after another look you see that he holds a staff of
+pure energy in both hands.  He is attacking, not surrendering!    
+~
+571000874 0 0 0 8716432 4194304 0 0 -800 E
+80 56 -40 1d1+5000 6d7+53
+1400 367272
+8 8 0
+BareHandAttack: 15
+Str: 25
+Dex: 24
+Int: 9
+Wis: 6
+Con: 24
+Cha: 8
+Luck: 5
+Class: 1
+Race: 34
+E
+#10612
+nightmare mare~
+a Nightmare~
+A jet-black mare with glowing red eyes glares your way.
+~
+It snorts through its orange nostrils, stamping one burning hoof upon
+the ground.    
+~
+536938056 0 0 0 0 0 0 0 -500 E
+57 35 -32 1d1+2550 5d6+38
+0 140668
+8 8 0
+BareHandAttack: 7
+Str: 19
+Dex: 18
+Int: 8
+Wis: 14
+Cha: 14
+Luck: 9
+Race: 41
+E
+#10613
+phoenix bird~
+the Pheonix~
+A large bird with a huge wingspan flies past.
+~
+It has bright, multi-colored feathers of violet scarlet, crimson and
+flaming orange.  Its beak and claws are of blue-violet.    
+~
+536975448 0 0 0 8650768 131072 0 0 0 E
+43 23 -24 1d1+2600 4d5+28
+0 75413
+8 8 0
+BareHandAttack: 8
+Dex: 15
+Int: 5
+Wis: 18
+Con: 23
+Cha: 25
+Luck: 12
+Race: 3
+E
+#10614
+shedu equine humanoid~
+a Shedu~
+A powerful, stocky equine with a humanoid head stands here.
+~
+It looks at you through clear, unblinking eyes which are set in a face
+that is almost dwarven in appearance.  Most of its face is covered in
+a thick mustache and beard.    
+~
+536938584 0 0 0 0 0 0 0 300 E
+57 35 -32 1d1+2400 5d6+38
+925 140668
+8 8 0
+Str: 15
+Dex: 7
+Int: 19
+Con: 7
+Luck: 20
+Race: 8
+E
+#10615
+phase spider~
+a Phase Spider~
+A combination of spider and man scuttles out of nowhere, attacking.
+~
+Its human head upon a raised thorax is a combination horrid to the eye
+at best.    
+~
+620757064 0 0 0 16 0 0 0 -400 E
+51 30 -32 1d1+2250 5d5+34
+0 105930
+8 8 0
+BareHandAttack: 1
+Str: 24
+Dex: 21
+Int: 19
+Wis: 14
+Con: 20
+Cha: 5
+Luck: 22
+Race: 46
+E
+#10616
+balor tanar'ri humanoid~
+a Balor Tanar'ri~
+A towering humanoid with dark skin lunges toward you in attack.
+~
+Its long, wicked claws and fangs which drip with venom do not help to
+alleviate any concerns you may have had in diposing of this creature.
+~
+553652344 0 0 0 73728 0 0 0 -600 E
+75 51 -40 1d1+2900 6d7+50
+1275 283219
+8 8 0
+BareHandAttack: 8
+Str: 13
+Dex: 8
+Int: 12
+Wis: 23
+Con: 20
+Luck: 5
+Class: 4
+Race: 10
+E
+#10617
+thought eater skeletal body platypus~
+a Thought-Eater~
+A sickly, gray skeletal body with a platypus head stares balefully your way.
+~
+This abomination stands roughly three feet high, its huge head
+swinging this way and that as it eyes you as its next meal.    
+~
+536870926 0 0 0 16 1024 0 0 0 E
+59 37 -36 1d1+2550 5d6+39
+0 153599
+8 8 0
+BareHandAttack: 2
+Str: 20
+Int: 13
+Wis: 22
+Con: 24
+Cha: 6
+Luck: 18
+Race: 37
+E
+#10618
+tempest thundercloud~
+a Broiling Tempest~
+A dark thundercloud in the shape of a malevolent face stares down menacingly.
+~
+It is really nothing more than thick vapors with the hint of an
+intensely angry, beastially human face.  Silver veins crackle and
+flash within the vapor, maintaining the energy of the storm.    
+~
+538148968 0 0 0 8388648 0 0 0 -500 E
+63 40 -40 1d1+2575 6d6+42
+0 181566
+8 8 0
+BareHandAttack: 12
+Str: 22
+Dex: 9
+Int: 8
+Wis: 20
+Con: 24
+Cha: 18
+Luck: 7
+Race: 30
+E
+#10619
+g'lathk man~
+a G'lathk~
+A strange-looking man with rough yellow skin works the ground here.
+~
+He looks up from his work, startling you with his all-black eyes.
+~
+536872970 0 0 0 0 0 0 0 400 E
+68 45 -40 1d1+2800 6d6+45
+1200 220604
+8 8 0
+Str: 9
+Dex: 14
+Int: 13
+Wis: 8
+Con: 13
+Cha: 8
+Luck: 5
+Race: 7
+E
+#10620
+hr'a'cknir~
+a Hr'a'cknir~
+A hr'a'cknir works with the plane's energies, molding them to his will.
+~
+A dazzling ball of light glows between his hands, his attention
+fixated upon that light.    
+~
+570984458 0 0 0 184 0 0 0 400 E
+77 53 -40 1d1+2900 6d7+51
+1325 302878
+8 8 0
+BareHandAttack: 12
+Str: 13
+Dex: 8
+Int: 14
+Wis: 23
+Con: 20
+Cha: 22
+Luck: 9
+Class: 1
+Race: 34
+E
+#10621
+spectator spherical thing~
+a Spectator~
+A hovering, spherical thing floats in mid-air.
+~
+It is a mass of tentacular eyestalks with one central eye staring
+unblinking at you.    
+~
+537110600 0 0 0 8388664 0 0 0 -700 E
+78 54 -40 1d1+5000 6d7+52
+2900 313009
+8 8 0
+BareHandAttack: 2
+Str: 17
+Dex: 17
+Int: 20
+Wis: 23
+Con: 7
+Cha: 16
+Luck: 21
+Race: 37
+E
+#10622
+disembodied spirit traveler man~
+the disembodied Spirit of a Planes Traveler~
+The hazy image of a man slides through your line of vision.
+~
+It is the incorporeal collection of a man's thoughts and will which
+enables him to travel outside his body to other planes such as this
+one.    
+~
+536975432 0 0 0 8388624 0 0 0 200 E
+54 32 -32 1d1+2425 5d6+36
+0 122552
+8 8 0
+Str: 22
+Dex: 20
+Int: 24
+Wis: 25
+Con: 13
+Cha: 8
+Luck: 5
+Race: 34
+E
+#10623
+roaming spirit~
+a Roaming Spirit~
+A roaming spirit wanders past, paying you no heed whatsoever.
+~
+This spirit is almost completely substantial, its form well-defined.
+It appears to be an elven male, spiritual wanderer of sorts.    
+~
+536870984 0 0 0 8388624 0 0 0 400 E
+55 33 -32 1d1+2400 5d6+36
+0 128422
+8 8 0
+Str: 25
+Dex: 6
+Int: 10
+Wis: 16
+Con: 12
+Cha: 10
+Luck: 13
+Race: 34
+E
+#10624
+air elemental cloud~
+an Air Elemental~
+An amorphous, shifting cloud roils and brews.
+~
+The shifts, many times against the direction of the wind, almost as if
+it were a sentient being all in itself.    
+~
+537102394 0 0 0 16 0 0 0 0 E
+61 38 -40 1d1+2700 5d6+40
+0 167227
+8 8 0
+BareHandAttack: 12
+Str: 16
+Dex: 6
+Int: 17
+Wis: 25
+Con: 10
+Cha: 16
+Luck: 8
+Class: 4
+Race: 30
+E
+#10625
+fir elemental sheet~
+a Fire Elemental~
+A tall sheet of flame with two armlike appendages burns here.
+~
+The arms sometimes seem to flicker back into the sheet, reappearing
+again in another area of the flame.    
+~
+537118746 0 0 0 262160 0 0 0 0 E
+62 39 -40 1d1+2700 5d6+41
+0 191737
+8 8 0
+BareHandAttack: 9
+Str: 9
+Int: 23
+Wis: 12
+Con: 17
+Cha: 8
+Luck: 7
+Class: 4
+Race: 30
+E
+#10626
+water elemental wave~
+a Water Elemental~
+A huge crested wave rolls from the pool toward you.
+~
+The thing almost looks to have watery arms which elongate and shrink
+as it moves toward you.    
+~
+537118746 0 0 0 16 0 0 0 0 E
+62 39 -40 1d1+2700 5d6+41
+0 174307
+8 8 0
+Str: 16
+Dex: 6
+Int: 14
+Wis: 13
+Con: 16
+Cha: 10
+Luck: 25
+Class: 4
+Race: 30
+E
+#10627
+earth elemental humanoid stone~
+an Earth Elemental~
+An large humanoid made from the multi-colored stone of this plane lumbers toward you.
+~
+It makes no sound, issues no challenge.  It simply moves toward you,
+intent on your destruction.    
+~
+537118746 0 0 0 16 0 0 0 0 E
+61 38 -40 1d1+2700 5d6+40
+0 167227
+8 8 0
+BareHandAttack: 12
+Str: 23
+Dex: 16
+Int: 7
+Wis: 25
+Con: 18
+Cha: 21
+Luck: 9
+Class: 4
+Race: 30
+E
+#10628
+fleeting thought~
+a Fleeting Thought~
+Something tugs just at the edge of your mind, just outside your vision.
+~
+It was there and then gone again as quickly as you could recognize it
+was there at all.    
+~
+537100376 0 0 0 0 131072 0 0 0 E
+51 30 -32 1d1+2350 5d5+34
+0 105930
+8 8 0
+Str: 23
+Int: 14
+Wis: 13
+Con: 23
+Cha: 23
+E
+#10629
+moment understanding~
+a Moment of Understanding~
+For just one moment, one golden moment, you realize a higher order.
+~
+That moment came and went and is gone just as quickly as it came.
+~
+537100376 0 0 0 0 131072 0 0 0 E
+53 31 -32 1d1+2450 5d6+35
+0 116847
+8 8 0
+Str: 10
+Dex: 20
+Int: 20
+Wis: 13
+Con: 12
+Cha: 14
+Luck: 24
+E
+#10630
+glimpse truth~
+a Glimpse of the Truth~
+Squinting through a haze of jumbled thoughts, you see the truth.
+~
+The truth is a slippery, twisting thing at best.  Any grasp upon it is
+usually lost quite as soon as it is had.    
+~
+537100376 0 0 0 0 131072 0 0 0 E
+54 32 -32 1d1+2375 5d6+36
+0 122552
+8 8 0
+Str: 12
+Dex: 9
+Int: 7
+Wis: 6
+Con: 8
+Cha: 5
+Luck: 24
+E
+#10631
+wayward soul~
+a Wayward Soul~
+A wayward soul makes its journey across this plane.
+~
+It travels steadily, with direction and purpose.
+~
+537102408 0 0 0 16 0 0 0 0 E
+55 33 -32 1d1+2475 5d6+36
+0 128422
+8 8 0
+Str: 20
+Dex: 13
+Int: 21
+Wis: 14
+Con: 16
+Cha: 6
+Luck: 6
+Class: 12
+Race: 34
+E
+#10632
+wandering mind mental energies~
+a Wandering Mind~
+The mental energies of a planes traveler coalesces before you.
+~
+The thing takes on the shape of the one who sent it here, a stunning
+woman of eldarian descent.    
+~
+537106520 0 0 0 16 0 0 0 300 E
+53 31 -32 1d1+2500 5d6+35
+0 116847
+8 8 0
+BareHandAttack: 16
+Str: 18
+Dex: 9
+Int: 9
+Wis: 19
+Con: 5
+Cha: 25
+Luck: 15
+E
+$

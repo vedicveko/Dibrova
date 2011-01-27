@@ -1,0 +1,958 @@
+#8100
+key dark~
+/cwa /cLdark /cwkey/c0~
+/cwA key of dark /cLblack /cwmetal is here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8101
+key black~
+/cwa /cLblack /cwkey/c0~
+/cwA /cLblack /cwkey of very hard metal lies here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8102
+key runed~
+/cwa runed key/c0~
+/cwA key graven with evil runes lies in the dust./c0~
+~
+18 14 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8103
+key pale green~
+/cwa pale /cggreen /cwkey/c0~
+/cwA key of /cgpale-green /cwoxidized copper lies here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8104
+key iron~
+/cwan iron key/c0~
+/cwA key of dull iron lies in the dirt./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8105
+key small black~
+/cwa small /cLblack /cwkey/c0~
+/cwA small, /cLblack /cwskeleton key lies in the dirt./c0~
+~
+18 14 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8106
+key bronze~
+/cwa /cybronze /cwkey/c0~
+/cwA /cybronze /cwkey with intricate wards lies here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8107
+key huge iron~
+/cwa huge iron key/c0~
+/cwA huge key, made of /cLblack /cwiron, lies here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8108
+key blued steel~
+/cwa /cbblued /cwsteel key/c0~
+/cwA small key of /cbblued /cwsteel lies here./c0~
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8109
+key red~
+/cwa /cRred /cwkey/c0~
+/cwA /cRred-colored /cwsteel key lies unnoticed in the dust./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8110
+key golden~
+/cwa /cYgolden /cwkey/c0~
+/cwA /cYgolden /cwkey brazed to a fine /cYgold /cwring lies here./c0~
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8111
+key silver~
+/cwa /cWsilver /cwkey/c0~
+/cwAn ornate /cWsilver /cwkey lies on the ground, unwanted./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8112
+key copper~
+/cwa /cycopper /cwkey/c0~
+/cwAn iron key has been /cycopper /cwplated to keep off rust./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8113
+cheese~
+/cwsome /cycheese/c0~
+/cwA large wedge of cheddar /cycheese /cwgathers a lovely /cgmold /cwhere./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+1 32 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8114
+key bright iron~
+/cwa bright iron key/c0~
+/cwThis bright iron key can open a lock, somewhere./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8115
+brew strange bottle~
+/cwa bottle/c0~
+/cwA large lumpy bottle of some strange brew is here./c0~
+~
+17 0 0 0 0 1 0 0 0
+4 3 9 1 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8116
+chest bronze~
+/cwan ugly /cybronze /cwchest/c0~
+/cwA /cybronze /cwchest, made ugly with grotesque bas-reliefs, stands here./c0~
+~
+15 0 0 0 0 0 0 0 0
+200 8 8105 0 0 0 0 0
+5000 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8117
+potion oily black~
+/cwan oily /cLblack /cwpotion/c0~
+/cwA bottle of oily /cLblack /cwliquid lies on its side./c0~
+$n mutters 'I'm stupid, stupid....stupid!!!!'
+~
+10 64 0 0 0 1 0 0 0
+14 27 27 46 0 0 0 0
+2 182 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8118
+crown~
+/cwKing Korbor's crown/c0~
+/cwThe crown of the Lonoyan king rolls by and falls flat with a clang./c0~
+~
+9 263441 0 0 0 17 0 0 0
+2 0 0 0 0 0 0 0
+5 3500 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crown~
+As you turn the crown over in your hands, you feel twice the warrior
+you used to be, ready even to lead an army into battle.  Surely no
+magic can harm such a great one as wears this crown.
+~
+A
+6 1
+#8119
+bottle scotch~
+/cwa bottle of Scotch/c0~
+/cwA bottle of Inver House blended whiskey lies here./c0~
+~
+17 0 0 0 0 1 0 0 0
+20 14 5 0 0 0 0 0
+19 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bottle~
+It is sealed with a metal cap. You KNOW this stuff is bad,bad,bad.
+It is probably not single-malt. More likely eight malt.
+~
+#8120
+bowl stew bigos~
+/cwthe bowl of bigos/c0~
+/cwA steaming bowl of Polish hunters' stew has been left here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+1 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bowl stew bigos~
+It is the famous Polish hunters' stew that was immortalized in Adam
+Mickiewicz' epic poem Pan Tadeusz.  Venison and other meats are 
+boiled with kapusta (sauerkraut) to make a delicious dinner, fit for
+King Korbor of Lonoya.
+~
+#8121
+apple~
+/cwan /cYapple/c0~
+/cwA lovely /cyyellow /cwapple with /cYgold /cwflecks and /cRred /cwcheeks lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8122
+walnuts nuts~
+/cwsome walnuts/c0~
+/cwThe squirrels have left a few nuts here./c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+2 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8123
+shirt plain~
+/cwa plain shirt/c0~
+/cwA Lonoyan man's shirt lies in a crumpled heap./c0~
+~
+9 0 0 0 0 9 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8124
+shortgown gown~
+/cwa shortgown/c0~
+/cwA Lonoyan woman's shortgown hangs forgotten on a nearby peg./c0~
+~
+9 0 0 0 0 9 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8125
+pants breeches~
+/cwa pair of breeches/c0~
+/cwSome Lonoyan left in such a hurry, he forgot his breeches./c0~
+~
+9 0 0 0 0 33 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8126
+skirt~
+/cwa skirt/c0~
+/cwA skirt lies here./c0~
+~
+9 0 0 0 0 9 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8127
+boot clodhoppers~
+/cwsome high boots/c0~
+/cwA pair of clodhoppers lies here./c0~
+~
+9 0 0 0 0 65 0 0 0
+3 0 0 0 0 0 0 0
+4 1100 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8128
+kerchief~
+/cwa kerchief/c0~
+/cwA kerchief lies here./c0~
+~
+9 0 0 0 0 17 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8129
+bandana neckerchief~
+/cwa bandana/c0~
+/cwA large /crred /cwneckerchief is draped over a stone./c0~
+~
+9 0 0 0 0 5 0 0 0
+1 0 0 0 0 0 0 0
+1 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8130
+claymore sword~
+/cwa claymore/c0~
+/cwA claymore lies here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 3533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#8131
+claymore sword~
+/cwthe claymore of /cBMa/cgc/crL/cGeo/cbd/c0~
+/cwA beautiful claymore with an engraved hilt lies here./c0~
+~
+5 816384 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 5300 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hilt claymore sword engravings~
+The hilt is engraved with one word, a name ;it is the name "MacLeod".
+~
+A
+1 1
+#8132
+spear long~
+/cwa long spear/c0~
+/cwA fifteen-foot spear is hung on the wall here./c0~
+~
+5 548864 0 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+3 2333 0 7 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8133
+hand axe~
+/cwa hand axe/c0~
+/cwA hand axe lies here./c0~
+~
+5 548864 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+3 1000 0 3 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8134
+axe battle~
+/cwa battle axe/c0~
+/cwA battle axe lies here./c0~
+~
+5 663552 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+8 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8135
+dirk knife~
+/cwa dirk/c0~
+/cwA long, single-edged knife lies here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8136
+quarterstaff staff~
+/cwa quarterstaff/c0~
+/cwA quarterstaff lies here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8137
+broadsword sword~
+/cwa broadsword/c0~
+/cwA broadsword lies here./c0~
+~
+5 679936 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8138
+chain mail shirt~
+/cwa mail-shirt/c0~
+/cwA shirt of chain mail lies in a heap./c0~
+~
+9 4096 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+20 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8139
+helm~
+/cwa helm/c0~
+/cwAn open-faced helm lies on its side./c0~
+~
+9 4096 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+6 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8140
+250~
+/cwa /cggreen /cGElven /cwcloak/c0~
+/cwA pile of forest /cggreen /cwcloth lies in a crumpled heap./c0~
+~
+9 265280 11 0 0 1025 0 0 0
+1 0 0 0 0 0 0 0
+2 3300 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 10
+A
+18 1
+#8141
+cloak cloth red~
+/cwa /cRred /cwcloak/c0~
+/cwA pile of /cRred /cwcloth lies on the ground./c0~
+~
+9 0 0 0 0 1025 0 0 0
+1 0 0 0 0 0 0 0
+2 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8142
+cloak cloth blue~
+/cwa /cBblue /cwcloak/c0~
+/cwA pile of /cBblue /cwcloth lies on the ground./c0~
+~
+9 0 0 0 0 1025 0 0 0
+1 0 0 0 0 0 0 0
+2 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8143
+cloak cloth green~
+/cwa /cggreen /cwcloak/c0~
+/cwA pile of /cggreen /cwcloth lies on the ground./c0~
+~
+9 0 0 0 0 1025 0 0 0
+1 0 0 0 0 0 0 0
+2 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8144
+backpack~
+/cwa backpack/c0~
+/cwA backpack lies here./c0~
+~
+15 0 0 0 0 2097153 0 0 0
+100 1 -1 0 0 0 0 0
+8 400 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 1
+#8145
+flask~
+/cwa pint flask/c0~
+/cwA glass flask lies here./c0~
+~
+17 0 0 0 0 1 0 0 0
+6 6 0 0 0 0 0 0
+11 50 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8146
+skin~
+/cwa water skin/c0~
+/cwA water skin lies here/c0~
+~
+17 0 0 0 0 16385 0 0 0
+24 24 0 0 0 0 0 0
+29 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8147
+robe~
+/cwa robe of pockets/c0~
+/cwA many-pocketed robe lies here./c0~
+~
+15 65 0 0 0 1025 0 0 0
+30 1 -1 0 0 0 0 0
+16 200 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -5
+#8148
+300~
+/cwa white robe/c0~
+/cwA white robe lies here./c0~
+~
+9 0 0 0 0 1025 0 0 0
+2 0 0 0 0 0 0 0
+9 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8149
+shield medium wooden~
+/cwa medium shield/c0~
+/cwA medium-sized wooden shield lies in the dust./c0~
+~
+9 0 0 0 0 513 0 0 0
+6 0 0 0 0 0 0 0
+10 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8150
+bow short~
+/cwa short bow/c0~
+/cwA short bow lies here unstrung, its string wrapt round its stave./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+5 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8151
+breastplate plate leather~
+/cwa rigid leather breastplate/c0~
+/cwA breastplate made of leather hardened in hot oil lies here./c0~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+9 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8152
+jacket studded leather~
+/cwa studded leather jacket/c0~
+/cwA leather jacket studded with metal plates lies in a heap./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+6 233 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8153
+flask healing draught~
+/cwthe healing draught/c0~
+/cwA small flask full of an aromatic, and alcoholic, fluid./c0~
+~
+10 64 0 0 0 1 0 0 0
+25 16 16 16 0 0 0 0
+1 180 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+flask~
+It is engraved with these arcane runes:
+ 
+                      judicandus dies
+~
+#8154
+sight draught clear liquid flask~
+/cwthe draught of /ccsight/c0~
+/cwA small flask of clear, glimmering liquid./c0~
+~
+10 64 0 0 0 1 0 0 0
+25 14 18 20 0 0 0 0
+1 180 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8155
+flask life elixir~
+/cwthe elixir of life/c0~
+/cwA small flask of fragrant /cYgolden /cwliquid./c0~
+~
+10 64 0 0 0 1 0 0 0
+10 15 39 0 0 0 0 0
+1 400 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8156
+flask bane~
+/cwthe potion of /cRevil/cw's bane/c0~
+/cwA large vial of bubbling /cRred /cwfluid lies here, firmly capped./c0~
+~
+10 64 0 0 0 1 0 0 0
+25 35 43 0 0 0 0 0
+1 130 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8157
+scroll enchantment~
+/cwa scroll of enchantment/c0~
+/cwA scroll labelled "To Augment Thy Craftsmanship" lies here./c0~
+A strange glow flares forth and then slowly fades away.
+~
+2 65600 0 0 0 1 0 0 0
+10 3 0 0 0 0 0 0
+1 135 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8158
+scroll~
+/cwa scroll of /cYstormbringing/c0~
+/cwA scroll labelled "To Bring the Spring Rains" lies here./c0~
+The forces of Nature suddenly whip up a frenzy!
+~
+2 65600 0 0 0 1 0 0 0
+10 11 0 0 0 0 0 0
+1 135 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8159
+scroll~
+/cwa scroll of battle-might/c0~
+/cwA scroll labelled "To Increase Thy Fighting Spirit" lies here./c0~
+A mysterious warcry shatters the silence as the scroll bursts into flames!
+~
+2 65600 0 0 0 1 0 0 0
+10 19 0 0 0 0 0 0
+1 135 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8160
+scroll~
+/cwa scroll of lore/c0~
+/cwA scroll labelled "The Legend of Nambor" lies here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scroll~
+                       The Legend of Nambor.            
+    In days now forgotten to any but the living God, there lived a
+    valiant Man, Nambor by name, who dared enter the evil tunnels 
+    in the bowels of the mountains.  From Symtoto he came, through
+    paths untrodden, until after great struggle he found a shaft 
+    leading down into deep darkness.  But that was the start of poor
+    Nambor's trials, for he found the entrance was too high to leave
+    through. Now must he roam the tunnels of the evil creatures that
+    gnaw the rocks of the Underdark, till God shows him an escape 
+    from the tunnels, or from this world.
+    And bravely he went forth, ever climbing deeper, sword clutched 
+    in hand.  And 'tis said by the elves that he saw there many a 
+    marvel; rocks that turned into vile beasts when touched, and 
+    unseen creatures that lurked in the shadows.  And some there are
+    that say he escaped at last, but others say he never left, but
+    died in the dark, broken sword still in his hand.
+    And now these tunnels are full of goblins, yet still some of the
+    nameless things Nambor fought remain.  Where now is one willing
+    to enter and discover the ancient hero's fate? Where now is the
+    hero, to save Lonoya from the goblins?
+                                                     Cwell the Bard
+~
+#8161
+ring opal golden~
+/cwan /cLopal /cwring/c0~
+/cwA fine /cYgold /cwring set with an /cLopal /cwlies on the ground./c0~
+~
+9 263440 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+1 2346 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+A
+18 1
+#8162
+gold korbor king~
+/cwthe /cYgold /cwof King Korbor/c0~
+/cwA huge pile of /cYgold /cwis here./c0~
+~
+20 0 0 0 0 1 0 0 0
+444 0 0 0 0 0 0 0
+12 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8163
+knife goblin~
+/cwa goblin knife/c0~
+/cwA jagged /cLblack /cwknife with a goblin-head carved on its hilt lies here./c0~
+~
+5 1057280 9 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hilt~
+It is a hideous, leering goblin head carved in bone.
+~
+#8164
+scimitar goblin~
+/cwa goblin scimitar/c0~
+/cwA /cLblackened /cwscimitar engraved with evil runes lies here./c0~
+~
+5 1057408 9 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+4 3959 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#8165
+club goblin~
+/cwa goblin's club/c0~
+/cwA large human bone set with cruel jagged spikes lies here./c0~
+~
+5 1049216 9 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+6 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#8166
+bow goblin~
+/cwa goblin's shortbow/c0~
+/cwA shortbow of ogre horn backed with sinew lies here./c0~
+~
+5 1049216 9 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+6 346 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#8167
+spear goblin~
+/cwa goblin's spear/c0~
+/cwA short spear with a broad blade lies here./c0~
+~
+5 1057280 9 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+3 3599 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#8168
+poleaxe jagged goblin~
+/cwa poleaxe/c0~
+/cwA jagged, /cLblack/cw, rune-carved poleaxe is stuck into the ground./c0~
+~
+5 1057280 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+10 5400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#8169
+elven chainmail mail~
+/cwthe /cGelven /cwchain mail/c0~
+/cwA hauberk of /cCmithril /c0rings lies here./c0~
+~
+9 265216 3 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+6 2466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+A
+24 -1
+#8170
+elven bow~
+/cwthe /cGelven /cwhunting bow/c0~
+/cwAn /cGelvish /cwbow of aurodiea wood lies here./c0~
+~
+5 265216 3 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+4 3599 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#8171
+broadsword sword fine krat~
+/cwa fine broadsword named "Krat"/c0~
+/cwA finely crafted broadsword must have been plundered from Lonoya./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 1666 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+broadsword sword~
+The mark "D. F." with a stamped-in hammer is on its hilt, and the blade
+bears the name "Krat".  Perhaps it is magic? But its blade, at least,
+is very well-tempered, and its edge razor-sharp.
+~
+#8172
+platemail red~
+/cwthe /cRred /cwplatemail/c0~
+/cwSome sturdy but ugly platemail has been painted over /cRred/cw. Doesn't help./c0~
+~
+9 1055232 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+20 253 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#8173
+mace huge black~
+/cwa huge /cLblack /cwmace/c0~
+/cwA huge /cLblack /cwclub with metal bands lies here./c0~
+~
+5 1051136 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+20 5000 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8174
+collar iron toadstool~
+/cwToadstool's iron collar/c0~
+/cwAn iron collar lies in the dirt. It has some writing on it./c0~
+~
+9 1051264 0 0 0 5 0 0 0
+4 0 0 0 0 0 0 0
+8 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+collar writing~
+It is in orcish:
+                     I AM TOADSTOOL THE MIGHTY
+                       NONE SHALL DEFEAT ME
+~
+#8175
+toadstool goblin head~
+/cwToadstool's head/c0~
+/cwA severed goblin head lies here.  Looks tasty./c0~
+~
+12 61444 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+10 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8176
+goblin hide~
+/cwa goblin hide/c0~
+/cwThe hide of a goblin lies on the ground, smelling very bad./c0~
+~
+12 4 9 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+8 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8177
+apron~
+/cwa /cppink /cwapron/c0~
+/cwA frilly /cppink /cwapron, stained with /cRblood/cw, is on the ground./c0~
+~
+12 0 0 0 0 2049 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8178
+scimitar horrible orcish~
+/cwan orcish scimitar/c0~
+/cwA horrible jagged scimitar of orcish make is stuck into the ground./c0~
+~
+5 59928 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+5 3399 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 -1
+A
+18 1
+A
+19 1
+#8179
+gold~
+/cYthe gold/c0~
+/cwA gigantic mountain of plunder is piled in every corner./c0~
+~
+20 0 0 0 0 1 0 0 0
+200 0 0 0 0 0 0 0
+1 136 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8180
+chest crude~
+/cwa crude chest/c0~
+/cwA crude wooden chest sits here./c0~
+~
+15 0 0 0 0 0 0 0 0
+200 13 8103 0 0 0 0 0
+50 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8181
+chest ebony~
+/cwan /cLebony /cwchest/c0~
+/cwAn /cLebony /cwchest sits here./c0~
+~
+15 0 0 0 0 0 0 0 0
+400 13 8111 0 0 0 0 0
+100 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8182
+chest pine~
+/cwa pinewood chest/c0~
+/cwA light chest of pine sits here./c0~
+~
+15 0 0 0 0 0 0 0 0
+100 15 8112 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8183
+pick~
+/cwa small pick/c0~
+/cwA mining pick lies here, discarded./c0~
+~
+5 8192 8 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+8 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8184
+pick orcish~
+/cwan orcish pick/c0~
+/cwA mining pick lies here, discarded./c0~
+~
+5 1057280 1 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+8 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#8185
+tub~
+/cwa tub of dirty water/c0~
+/cwA tub of dirty water for quenching tools sits here./c0~
+~
+23 0 0 0 0 0 0 0 0
+999 999 14 1 0 0 0 0
+999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+water tub~
+It doesn't look too good. I wouldn't drink it if I were you!
+~
+#8186
+well jakur~
+/cwthe Well of Jakur/c0~
+/cwYou stand by the ancient Well of Jakur, delved thousands of years ago./c0~
+~
+23 0 0 0 0 0 0 0 0
+9999 9999 15 0 0 0 0 0
+10004 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8187
+fountain wine~
+/cwthe /crwine /cwfountain/c0~
+/cwA magical fountain of marble spouts the /crblood-red wine./c0~
+~
+23 64 0 0 0 0 0 0 0
+999 999 2 0 0 0 0 0
+999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wine fountain~
+The fountain is filled with cheap, but not sour, wine.
+~
+#8188
+safe picture~
+/cwthe large portrait/c0~
+/cwA portrait of King Korbor in robes of state hangs on the wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+20 15 8114 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+portrait~
+It is an oil-on-wood portrait of the good King. No, you can't steal it,
+my friend.  It is, strange to say, firmly bolted to the wall, not hung
+from the usual nail.  
+~
+#8189
+red thick potion~
+/cwa /cRthick /cRred/cw potion/c0~
+/cwA /cRthick /cRred/cw potion has been dropped here./c0~
+~
+10 65549 0 0 0 1 0 0 0
+25 82 82 0 0 0 0 0
+1 1080 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8190
+stone sharpening~
+/cwa crude goblin sharpening stone/c0~
+/cwA crude goblin sharpening stone has been left here./c0~
+~
+27 0 0 0 0 16385 0 0 0
+6 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

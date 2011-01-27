@@ -1,0 +1,2108 @@
+#14200
+Intersection on a Pebbled Path~
+Shiny white pebbles form a narrow path between tall hedges running
+north and south.  A large well is visible through a break in the
+hedges to the east.  A brass plaque rests against the hedges at the
+edge of the path.    
+~
+142 0 0 0 0 4
+D0
+The pebbled path follows the hedges north.
+~
+~
+0 -1 14201 0
+D1
+A well rises from the center of a clearing in the hedges to the east.
+~
+~
+0 -1 14222 0
+D2
+Tendrils of mist snake across the path to the south.
+~
+~
+0 -1 14224 0
+D3
+Fluffy clouds are visible through a gap in the hedges to the west.
+~
+~
+0 -1 -1 0
+E
+well~
+A large granite well is visible to the east.
+~
+E
+brass plaque~
+It reads:
+
+Remember:
+  Life consists of a balance of forces, and nothing can exist without contrast.
+                                                             
+  Where there is light, there is shadow                   +++++
+  Where there is friendship, there is loneliness         ++    +
+  Where there is joy, there is pain                     ++   +  +
+  Where there is hope, there is despair                ++++      +
+  Where there is life, there is death.                 ++++++    +
+                                                       +++ +++   +
+  Be careful.                                           ++++++  +
+                                                         ++++  +
+--                                                        +++++
+  Divided Souls written by Ydri.  3/96                      
+~
+S
+#14201
+Between the Hedges~
+The pebbles gleam brightly in the sunlight pouring in from a clearing
+in the hedges to the west.  The path opens north onto a lush garden
+and continues south into the hedges.    
+~
+142 0 0 0 0 2
+D0
+The hedges part to reveal a colorful garden to the north.
+~
+~
+0 -1 14203 0
+D2
+The pebbled path continues south.
+~
+~
+0 -1 14200 0
+D3
+Bushes dot the bright clearing to the west
+~
+~
+0 -1 14202 0
+S
+#14202
+Bright Clearing~
+Light seems to focus on this clearing as if attracted by some
+invisible magnet.  Large bushes dot the ground, hacked into strange,
+somewhat recognizable forms reminiscient of a child's daydreams.    
+~
+142 0 0 0 0 2
+D1
+A white pebbled path is visible to the east.
+~
+~
+0 -1 14201 0
+S
+#14203
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the north.  The dirt path you are on continues east and west
+around the gazebo.    
+~
+142 0 0 0 0 2
+D1
+The dirt path winds east through the flower beds.
+~
+~
+0 -1 14204 0
+D2
+A pebbled path winds south between the hedges.
+~
+~
+0 -1 14201 0
+D3
+The dirt path winds west through the flower beds.
+~
+~
+0 -1 14210 0
+S
+#14204
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the northwest.  The dirt path you are on continues west and
+north around the gazebo.  To the east, the path opens into a large
+clearing.    
+~
+142 0 0 0 0 2
+D0
+The dirt path winds north around the gazebo.
+~
+~
+0 -1 14205 0
+D1
+A strange white form is visible in the clearing to the east.
+~
+~
+0 -1 14212 0
+D3
+The dirt path winds west around the gazebo.
+~
+~
+0 -1 14203 0
+S
+#14205
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the west.  The dirt path you are on continues north and south
+around the gazebo.    
+~
+142 0 0 0 0 2
+D0
+The dirt path continues north around through the flower beds.
+~
+~
+0 -1 14206 0
+D2
+The dirt path continues south around through the flower beds.
+~
+~
+0 -1 14204 0
+S
+#14206
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the southwest.  The dirt path you are on continues south and
+west around the gazebo.    
+~
+142 0 0 0 0 2
+D2
+The dirt path continues south around the gazebo.
+~
+~
+0 -1 14205 0
+D3
+The dirt path continues west around the gazebo.
+~
+~
+0 -1 14207 0
+D5
+~
+boulder stone~
+1 -1 14215 3
+S
+#14207
+Hippo Fountain~
+A tall marble fountain, carved in the form of two frolicking white
+hippos cuts the path here.  Water spews from one hippo's mouth into
+the basin below.  While the sculpture is evidently someone's idea of
+artistry, it seems almost grotesque, especially since the hippo acting
+as the fountain appears to be barfing on the other..  Marble steps
+lead into the gazebo to the south.  The dirt path continues west and
+east around the gazebo.    
+~
+142 0 0 0 0 2
+D1
+The dirt path continues east around the gazebo.
+~
+~
+0 -1 14206 0
+D2
+Steps enter a white gazebo to the south.  Some vague forms are visible within
+the gazebo.
+~
+~
+0 -1 14211 0
+D3
+The dirt path continues west around the gazebo.
+~
+~
+0 -1 14208 0
+E
+marble fountain hippos~
+Though seemingly innocent, a shadow of depravity hangs about the white
+fountain.. or maybe it's just your imagination.
+~
+E
+white gazebo~
+Some vague forms are visible within the gazebo to the south.
+~
+S
+#14208
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the southeast.  The dirt path you are on continues east and
+south around the gazebo.    
+~
+142 0 0 0 0 2
+D0
+Redwood steps lead up to a large platform to the north.
+~
+~
+0 -1 14217 0
+D1
+The dirt path winds east through the garden.
+~
+~
+0 -1 14207 0
+D2
+The dirt path winds south through the garden.
+~
+~
+0 -1 14209 0
+D3
+You see a large tree to the west.
+~
+~
+0 -1 14218 0
+S
+#14209
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the east.  The dirt path you are on continues north and south
+around the gazebo.    
+~
+142 0 0 0 0 2
+D0
+The dirt path continues north around the gazebo.
+~
+~
+0 -1 14208 0
+D2
+The dirt path continues south around the gazebo.
+~
+~
+0 -1 14210 0
+S
+#14210
+Garden Path~
+A huge variety of multicolored plants surrounds you in a rainbow of
+exotic beauty.  Their mingled fragrance fills the air with a sweet,
+slightly tangy perfume.  A large white gazebo rises from the flower
+beds to the northeast.  The dirt path you are on continues north and
+east around the gazebo.    
+~
+142 0 0 0 0 2
+D0
+The dirt path continues north around the gazebo.
+~
+~
+0 -1 14209 0
+D1
+The dirt path continues east around the gazebo.
+~
+~
+0 -1 14203 0
+S
+#14211
+Inside the Gazebo~
+You stand inside a large, white gazebo.  A lacework of white painted
+ashwood arcs overhead, marking the grey marble floor with strips of
+dark shadow.  A carved white altar rises out of the center of the
+floor.  The ceiling of the gazebo is shrouded in a misty haze.    
+~
+142 536870920 0 0 0 0
+D0
+To the north, marble steps open into a lush garden.
+~
+~
+0 -1 14207 0
+D4
+You can make out the form of a wide tunnel through the mist.
+~
+~
+0 -1 14268 0
+S
+#14212
+Strange Artwork~
+A ring of bluish-green shrubbery encircles a grassy clearing dominated
+by the hulking white..  Thing (?  ) rising up from the center.  The
+grass surrounding the object is charred and seems to smolder as if
+newly burned.  The object itself is unburned.    
+~
+142 0 0 0 0 2
+D3
+A dirt path winds around a white gazebo to the west.
+~
+~
+0 -1 14204 0
+S
+#14213
+Inside Artwork~
+The green of a lush garden is visible through the twisting lattice of
+bones forming the walls of this structure.  A ladder disappears into a
+hole in the center of the ground.    
+~
+142 536870912 0 0 0 2
+D5
+The writhing bones of the floor part in the center, leaving a large hole.
+A white bone ladder disappears into the darkness.
+~
+~
+0 -1 14214 0
+E
+ladder~
+A bone ladder leads into the hole in the floor.
+~
+S
+#14214
+Hole~
+The center of the floor drops away into a churning multicolored void.
+Go down if you dare..    
+~
+142 606076936 0 0 0 0
+D4
+A bone ladder leads up.
+~
+~
+0 -1 14213 0
+D5
+A hole drops away into a churning void below.
+~
+~
+0 -1 14285 0
+E
+multicolored void~
+A mass of multiple color churns and spins below.  Your guts twist, and you
+are forced to look away.
+~
+S
+#14215
+Quiet Tunnel~
+A narrow north-south tunnel has been carved from the packed clay here.
+Light filters in through an opening in the ceiling.  The rhythmic
+dripping of water is audible to the north, where the tunnel widens
+into a large cave.    
+~
+142 603979784 0 0 0 0
+D0
+A large cave is visible to the north.
+~
+~
+0 -1 14216 0
+D4
+Light filters through a hole in the low ceiling.
+~
+stone boulder~
+1 -1 14206 3
+S
+#14216
+Mirror Pool~
+Wet walls of packed clay frame a huge circular cave.  Water drips from
+crevices in the ceiling and walls, flowing in rivulets and small
+streams to form a clear, flat pool in the center of the cavern.    
+~
+142 603979788 0 0 0 0
+D2
+A narrow tunnel leads south.
+~
+~
+0 -1 14215 0
+S
+#14217
+Redwood Platform~
+A pentagonal redwood platform rises from the multicolored clusters of
+flowers and shrubbery.  An granite tome is mounted in the center of
+the pentagon.  Two low marbles pedestals, grey and white, stand on
+either side of the tome.    
+~
+142 0 0 0 0 3
+D2
+Steps lead down into the garden to the south.
+~
+~
+0 -1 14208 0
+E
+granite tome~
+An open book has been sculpted from polished granite.  A paragraph on the 
+lefthand page catches your eye:
+
+".. From our wisdom
+    to know
+    From our mistakes
+    to grow..
+
+    .. that each generation shall be better, stronger, wiser 
+    than the one before.."
+ 
+A crack runs across the edge of the page where weather has broken the granite.
+~
+E
+marble pedestals~
+Square marble pedestals are set into the redwood.  The white is slightly larger
+than the grey.  Indentations mark the centers of both.
+~
+E
+grey~
+The grey pedestal looks shiny and new, marked only by foot-shaped indentations
+in the center.
+~
+E
+white~
+A crack runs down the edge of the white pedestal.
+~
+S
+#14218
+Base of a Large Tree~
+The dirt path curves east and south here.  A huge oak tree looms to
+the northwest, its lower branches shading a large section of the path.
+~
+142 0 0 0 0 3
+D1
+The dirt path winds east through the flower beds.
+~
+~
+0 -1 14208 0
+D2
+To the south, the dirt path disappears into a grove of trees.
+~
+~
+0 -1 14219 0
+D4
+The huge oak rises skyward.  Its lower branches appear sturdy and climbable.
+~
+~
+0 -1 14220 0
+E
+oak tree branches~
+The huge oak rises skyward.  Its lower branches appear sturdy and climbable.
+~
+S
+#14219
+Ash Grove~
+A ring of ash trees form a small, shaded grove here.  Glints of light
+filter through the overlapping branches to flicker in the shadows like
+fireflies.  A narrow dirt path exits the grove to the north.    
+~
+142 0 0 0 0 3
+D0
+A dirt path disappears north into a lush garden.
+~
+~
+0 -1 14218 0
+S
+#14220
+Up a Large Oak Tree~
+You stand on a low branch near the huge trunk of the oak tree.  The
+thick network of branches above makes it impossible to climb higher.
+The base of an enormous birdfeeder is visible along the branch to the
+west.    
+~
+142 536870912 0 0 0 3
+D3
+An opening in the birdfeeder is visible to the west.
+~
+~
+0 -1 14221 0
+D5
+A lush green garden is visible below.
+~
+~
+0 -1 14218 0
+E
+birdfeeder~
+An opening in the near face looks large enough to enter.. though one might 
+wonder what kind of bird would need a birdfeeder this big..
+~
+S
+#14221
+Inside the Birdfeeder~
+You find yourself at the edge of an enormous octagonal room.  Thick
+wooden walls disapppear out of sight above.  Blue sky and oaken
+branches are visible through 3 huge doorways cut into the walls.  The
+floor is littered with tan and grey egg-shaped spheres.  Between the
+spheres are clusters of birdseed.    
+~
+142 536870912 0 0 0 0
+D1
+A huge doorway opens onto the branch of a large oak tree.
+~
+~
+0 -1 14220 0
+E
+tan grey spheres~
+Closer up, these appear to be huge seed pods, oversized versions of the 
+birdseed clustered at their bases.
+~
+E
+birdseed~
+Little piles of birdseed litter wooden floor.
+~
+S
+#14222
+Stone Well~
+You stand in a wide grassy clearing framed by high hedges.  To one
+side, a stone well rises from the turf.    
+~
+142 0 0 0 0 2
+D3
+A pebbled path is visible to the west.
+~
+~
+0 -1 14200 0
+D5
+A ladder affixed to the side of the well descends into darkness.
+~
+~
+0 -1 14223 0
+E
+stone well~
+Blocks of smooth grey stone have been fitted and mortared together to form
+a wide well.  A ladder attached to one stone side descends into the darkness.
+~
+S
+#14223
+Inside the Well~
+The smooth stone walls of the well tower above you on all sides.  The
+stone appears rough and unworn, as if the well has never been used.  
+A broken humanoid skeleton lies sprawled across the bottom of the
+well.  A dark wooden ladder ascends to the top of the well.    
+~
+142 2097157 0 0 0 0
+D4
+A wooden ladder leads to the edge of the well above.
+~
+~
+0 -1 14222 0
+E
+skeleton~
+It looks as though something (someone?) has fallen into the well.  The bones
+are strangely clean and gleam a coldly in the light.
+~
+S
+#14224
+Misty Pathway~
+Tendrils of cool mist creep across the pathway from the south, leaving
+the white pebbles of the path cool and shiny.  Tall hedges frame the
+path to the north.  The mist thickens to the south.    
+~
+142 0 0 0 0 10
+D0
+The path disappears between tall hedges to the north.
+~
+~
+0 -1 14200 0
+D2
+The path widens to the south into a mist covered lakeshore.
+~
+~
+0 -1 14225 0
+S
+#14225
+Shore of the Lake of Mist~
+You stand on the rocky shore of a lake which seems to be composed
+entirely of mist.  Dense white vapor from the lake overflows up and
+over the path to the north.  To the south, the shore dips into the
+lake.    
+~
+142 0 0 0 0 14
+D0
+A white pebbled path leads north.
+~
+~
+0 -1 14224 0
+D2
+The lake shore dips gently into the lake to the south here.
+~
+~
+0 -1 14226 0
+S
+#14226
+Misty Lake~
+Cool, dense mist swirls around you, limiting vision to less than a
+meter.  The lake bottom is dotted with large grey-white boulders and
+clumps of slippery grass.  To the north, the lakeshore ascends above
+the mist.  The lake continues south.    
+~
+142 67108864 0 0 0 6
+D0
+You can exit the lake to the north.
+~
+~
+0 -1 14225 0
+D2
+An opening between clumps of boulders is visible to the south.
+~
+~
+0 -1 14228 0
+D3
+A clump of large bushes is nestled between the boulders to the west.  There
+appears to be an opening behind the bushes.
+~
+bushes~
+1 -1 14227 3
+E
+bushes~
+Two large bushes grow out of the boulders to the west.  There appears to be
+an opening behind them.
+~
+E
+boulders stones~
+Large white-streaked grey boulders dot the lake floor.  An opening between
+the boulders is visible to the south.
+~
+S
+#14227
+Mossy Cave~
+A small natural cave is set into the grey-white rocks of the lake
+here.  Patches of phosphorescent green blue moss dot the slick cave
+walls, glowing eerily in the mist.  A clump of large bushes to the
+east shields the cave from the rest of the lake.    
+~
+142 536871072 0 0 0 0
+D1
+The misty lake is visible through the bushes to the east.
+~
+bushes~
+1 -1 14226 3
+E
+bushes~
+Large bushes shield the cave from the misty lake to the east.
+~
+S
+#14228
+Misty Lake~
+The chill mist of the lake tingles damply against your skin.  Through
+the white haze, you can make out a path heading east and west between
+the large boulders littering the lake floor.  The lake floor continues
+north.    
+~
+142 67108864 0 0 0 6
+D0
+The lake floor continues north.
+~
+~
+0 -1 14226 0
+D1
+A path leads east along the lake bottom.
+~
+~
+0 -1 14229 0
+D3
+A path leads west along the lake bottom.
+~
+~
+0 -1 14231 0
+S
+#14229
+Misty Lake~
+The path along the lake floor leads west and south here.  To the
+south, the path opens onto a wide misty pool.    
+~
+142 67108864 0 0 0 14
+D2
+A misty pool is visible to the south.
+~
+~
+0 -1 14230 0
+D3
+The lake floor continues west.
+~
+~
+0 -1 14228 0
+S
+#14230
+Pool of Mist~
+The lake walls curve here to form a large misty pool.  A moss-covered
+marble pedestal rests in a depression in the center of the pool.  To
+the north, a path leads back into the lake.    
+~
+142 0 0 0 0 14
+D0
+The lake of mist is visible to the north.
+~
+~
+0 -1 14229 0
+E
+marble pedestal depression~
+A round pedestal of white marble is set into a depression in the center of the
+pool.  Patches of grey-green moss cling to the white stone.  Marks in the 
+center of the pedestal indicate that something has recently stood on the
+pedestal.
+~
+S
+#14231
+Misty Lake~
+A dark opening, partially obscured by a clump of green weeds, cuts
+into the lake wall to the south.  The lake floor continues east.    
+~
+142 67108864 0 0 0 0
+D1
+The misty lake continues east.
+~
+~
+0 -1 14228 0
+D2
+The dark mouth of a shadowy tunnel enters the lake wall to the south.
+~
+~
+0 -1 14232 0
+S
+#14232
+Dark Tunnel~
+A high, narrow granite tunnel has been hewn from the granite lake
+wall.  White mist seeps in from the opening to the north, leaving the
+rock walls slippery and cold.  The darkness seems to deepen to the
+west, where the tunnel widens into a cave.    
+~
+142 603979776 0 0 0 0
+D0
+A lake of mist is visible through the opening to the north.
+~
+~
+0 -1 14231 0
+D3
+To the west, the tunnel widens into a dark cave.
+~
+~
+0 -1 14233 0
+S
+#14233
+Shadowy Cavern~
+Dark granite walls form a large cavern here.  Darkness and shadows
+seem to deepen here, as if attracted by some unseen force.  Barely
+visible through the darkness, a tunnel exits the cave to the east.  
+~
+142 603979776 0 0 0 0
+D1
+A dark, misty tunnel exits the cave to the east.
+~
+~
+0 -1 14232 0
+S
+#14234
+Onyx Hallway~
+Chill air from the north causes the torches to gutter occassionally,
+picking out eerie shadows against the dark onyx walls.  A plain oaken
+door is set into the east wall.    
+~
+142 603979904 0 0 0 0
+D0
+The onyx hallway continues north.
+~
+~
+0 -1 14258 0
+D1
+An oaken door is set into the east wall.
+~
+oaken door~
+1 -1 14256 3
+D2
+The hallway continues south.
+~
+~
+0 -1 14235 0
+S
+#14235
+Onyx Hallway~
+The smooth black walls are broken by streaks of blood, both new and
+old.  Distant screams echo through the hallway.  To the south, the
+hall intersects a dark corridor.  A solid black door is set into the
+west wall.    
+~
+142 603979904 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 14234 0
+D2
+A dark corridor crosses the hallway to the south.
+~
+~
+0 -1 14237 0
+D3
+A forbidding black door opens into the west wall.
+~
+black door~
+1 -1 14236 3
+S
+#14236
+Chamber of the High Priest~
+Black marble walls frame a large circular room and a high stone
+ceiling supported by marble pillars.  Dull brownish patches dot the
+polished walls where spattered blood has dried.    
+~
+142 603979904 0 0 0 0
+D1
+A black door is set into the east wall.
+~
+black door~
+1 -1 14235 3
+S
+#14237
+Dark corridor~
+Walls of dark stone line a corridor running east and west here.  
+Shadows, almost invisible against the stone, flicker eerily in the dim
+torchlight.  An onyx hallway intersects the corridor here and
+continues north.    
+~
+142 603979904 0 0 0 0
+D0
+An onyx hallway leads north.
+~
+~
+0 -1 14235 0
+D1
+The corridor continues east.
+~
+~
+0 -1 14244 0
+D3
+The corridor continues west.
+~
+~
+0 -1 14238 0
+S
+#14238
+Dark corridor~
+The dark corridor runs east and south here.  A feeling of forboding
+permeates the air.  It seems like the walls are watching..    
+~
+142 603979904 0 0 0 0
+D1
+The corridor continues east.
+~
+~
+0 -1 14237 0
+D2
+The corridor continues south.
+~
+~
+0 -1 14239 0
+S
+#14239
+Dark corridor~
+The dark corridor runs north and south here.  Distant screams echo
+eerily against the stone walls.    
+~
+142 603979904 0 0 0 0
+D0
+The corridor continues north.
+~
+~
+0 -1 14238 0
+D2
+The corridor continues south.
+~
+~
+0 -1 14240 0
+S
+#14240
+Dark corridor~
+The corridor branches north and east here.  A stone archway leads west
+into a large hall.  Huge, forbidding double doors loom over the
+corridor to the south.    
+~
+142 603979904 0 0 0 0
+D0
+The corridor continues north.
+~
+~
+0 -1 14239 0
+D1
+The corridor continues east.
+~
+~
+0 -1 14241 0
+D2
+A pair of huge black steel doors are set into the southern wall.
+~
+black steel double doors~
+1 -1 14251 3
+D3
+A stone archway opens onto a large hall to the west.
+~
+stone archway~
+0 -1 14252 0
+S
+#14241
+Dark corridor~
+The dark corridor runs west and east here.  To the north, black marble
+steps lead up to a pair of bloodstained bronze doors.    
+~
+142 603979904 0 0 0 0
+D0
+Streaks of dried blood spatter the bronze doors to the north.
+~
+bloodstained bronze doors~
+1 -1 14245 1
+D1
+The corridor continues east.
+~
+~
+0 -1 14242 0
+D3
+The corridor continues west.
+~
+~
+0 -1 14240 0
+S
+#14242
+Dark corridor~
+The corridor branches north and west here.  A humanoid skeleton has been
+entombed in the corridor ceiling.  The bones gleam whitely against the 
+dark stone, and the hollow eyesockets seem to glare accusingly at you.
+~
+142 603979904 0 0 0 0
+D0
+The corridor continues north.
+~
+~
+0 -1 14243 0
+D3
+The corridor continues west.
+~
+~
+0 -1 14241 0
+D4
+A skeleton lies embedded in the ceiling above.
+~
+humanoid skeleton~
+1 -1 14249 1
+S
+#14243
+Dark corridor~
+The dark corridor runs north and south here.    
+~
+142 603979904 0 0 0 0
+D0
+The corridor continues north.
+~
+~
+0 -1 14244 0
+D2
+The corridor continues south.
+~
+~
+0 -1 14242 0
+S
+#14244
+Dark corridor~
+The dark corridor runs west and south here.  A narrow marble archway
+opens east into a large room.    
+~
+142 603979904 0 0 0 0
+D1
+A twisting black figure is visible through the archway to the east.
+~
+marble archway~
+0 -1 14246 0
+D2
+The corridor continues south.
+~
+~
+0 -1 14243 0
+D3
+The corridor intersects an onyx hallway to the west.
+~
+~
+0 -1 14237 0
+S
+#14245
+Bloody Altar~
+A black marble dais dominates the room.  Mounted in the center of the
+dais, an obsidian altar gleams dully with fresh blood.  Lit copper
+braziers mounted on either side of the altar fill the room with a
+cloying smoke.  Behind the altar, a forbidding pit opens in the marble
+floor.    
+~
+142 603979904 0 0 0 0
+D2
+A pair of bronze doors open south.
+~
+bloodstained bronze doors~
+1 -1 14241 1
+D5
+A blood slicked ladder descends into the pit.
+~
+~
+0 -1 14270 0
+S
+#14246
+Room of Faces~
+Hideous stone faces protrude from the black walls and ceiling, their
+polished surfaces partly obscured by the smoke from the copper
+braziers set into the four corners.  Rising from the center of the
+room is a huge demonic face, sculpted of grey-streaked black marble.
+A marble archway opens west.    
+~
+142 603979776 0 0 0 0
+D3
+A narrow marble archway opens west onto a dark corridor.
+~
+marble archway~
+0 -1 14244 0
+S
+#14247
+Inside the Mouth~
+You stand on the stone tongue inside the cavernous mouth of the
+sculpture.  The shape of the slippery tongue seems to writhe even as
+you stand on it, preventing both exit from the mouth and movement
+farther into it.  A weighted rope, vaguely tonsil-shaped, ascends
+through an opening above.    
+~
+142 603979904 0 0 0 0
+D4
+A rope leads up to an opening above.
+~
+weighted rope opening~
+0 -1 14248 0
+S
+#14248
+Beneath the churning void~
+You hang suspended on a heavy rope halfway up a narrow stone chute.  
+The rope disappears into the center of what appears to be a churning
+multicolored void.  Who know where it may lead..    
+~
+142 603979904 0 0 0 0
+D4
+The rope disappears into a multicolored void above.
+~
+~
+0 -1 14292 0
+D5
+The rope descends to a dark cavern below.
+~
+~
+0 -1 14247 0
+S
+#14249
+Narrow Passageway~
+You find yourself in a narrow stone passageway leading south.  The low
+ceiling forces all but the shortest to stoop in order to pass through.
+A skeleton is embedded in the rock below.    
+~
+142 603979904 0 0 0 0
+D2
+The passage continues south.
+~
+~
+0 -1 14250 0
+D5
+The white bones of a skeleton gleam sharply against the dark stone floor.
+~
+skeleton~
+1 -1 14242 1
+S
+#14250
+Damp Cavern~
+A rhythmic dripping echoes through the large stone chamber.  Rivulets
+of water run down the stalagtites clinging to the ceiling, collecting
+to form a large, round pool in the center of the cave.  A narrow
+passage exits the cave to the north.    
+~
+142 603979776 0 0 0 0
+D0
+A passage leads north out of the cave.
+~
+~
+0 -1 14249 0
+S
+#14251
+Pentagram Chamber~
+Engraved across the center of the stone floor is a large pentagram.  
+At the center of the star rests a large grey tome, apparently mounted
+to the floor of the room.  A pair of black steel doors are set into
+the north wall.    
+~
+142 603979904 0 0 0 0
+D0
+Black steel doors loom to the north.
+~
+black steel double doors~
+1 -1 14240 3
+E
+grey tome book~
+Splashes of blood dot the worn vellum pages.  A paragraph on the right hand
+page catches your eye:
+
+"Cycle of hate
+ That I shall make it
+ Cycle of hate
+ That you shall break it..
+
+  .. Else my guilt shall be your pain
+     and my payment your pennance."
+~
+S
+#14252
+Dining Hall~
+You stand in a long, black tiled hall.  A stone table dominates the
+center of the room, stretching nearly the length of the hall.  
+Half-eaten carcasses litter the table and floor, surrounded by sticky
+puddles of blood and other less recognizable fluids.  A trapdoor is
+set into the corner of the floor.  Foul odors and smoke drift into the
+room from the doorway to the north.    
+~
+142 603979904 0 0 0 0
+D0
+The dining hall continues northward.
+~
+~
+0 -1 14253 0
+D1
+A stone archway opens east onto a dark corridor.
+~
+~
+0 -1 14240 0
+D5
+A trapdoor is set into the floor.
+~
+trap trapdoor~
+1 -1 14254 3
+E
+stone table~
+A table made of solid granite.  The rotting remains of what must have been
+a meal are scattered across the bloody table top.
+~
+E
+rotting half-eaten carcasses~
+The carcasses appear to have been half-raw when eaten.  The remains of some
+sort of slimy stuffing oozes from the uneaten cavities.  While most of the
+meal is unrecognizable you notice some humanoid bones, still trailing white
+tendons, among the remains.
+~
+S
+#14253
+Kitchen~
+The dark stone floor is slippery with blood and pieces of raw flesh
+and intestines.  A long spit in the center of the floor bears a the
+roasting form of a headless human body.  Shiny cleavers of varying
+lengths and sizes lie on the bloody chopping board, one still half
+embedded in a chunk of meat.    
+~
+142 603979904 0 0 0 0
+D2
+A long black hall is visible through the doorway to the south.
+~
+~
+0 -1 14252 0
+S
+#14254
+Damp Stairwell~
+Slippery stone stairs wind down into the darkness.  Threads of light
+filter in from above, where a wide trapdoor is set into the ceiling.
+  
+~
+142 603979904 0 0 0 0
+D4
+The stairwell ends at a trapdoor above.
+~
+~
+1 -1 14252 3
+D5
+The stairwell continues down into darkness.
+~
+~
+0 -1 14255 0
+S
+#14255
+Cellar~
+The slick granite walls of a cold, dank cellar rise up around you.  
+Shelves, stacked with cases of stored foods and beverages, line the
+walls.  Some form of magical containment glimmers faintly above the
+shelves, both preserving their contents and keeping nosy adventurers
+out..  Then again, considering putrid odor permeating the cellar,
+you're not sure you really want to know anymore about the contents..
+~
+142 603979904 0 0 0 0
+D4
+A slimy stairwell leasd up into darkness.  A faint light is visible farther
+up.
+~
+~
+0 -1 14254 0
+S
+#14256
+Storage Closet~
+You stand in a narrow closet, stacked with various cleaning utensils
+and other odds and ends.  A thin layer of dust coats the assorted
+objects, as if they haven't been used in a while.  However, footprints
+mark the grit of the floor, and a thin line of darkness picks out a
+square in the dusty ceiling.  An oaken door opens into the west wall.
+~
+142 603979904 0 0 0 0
+D3
+A thick oaken door is set into the west wall.
+~
+oaken door~
+1 -1 14234 3
+D4
+The square outline of a trapdoor is visible in the ceiling.
+~
+trapdoor square~
+1 -1 14257 3
+E
+utensils objects~
+Just some more blood-drenched mops and such..  All those sacrifices must
+be messy.  Just be glad you're not the janitor.
+~
+S
+#14257
+Narrow Crawlspace~
+Claw marks and blood scar the stone walls framing the narrow
+crawlspace.  A trapdoor is set into one corner, nearly invisible in
+the shadows.    
+~
+142 603979904 0 0 0 0
+D5
+A trapdoor opens into the floor.
+~
+trapdoor square~
+1 -1 14256 3
+S
+#14258
+Onyx Hallway~
+The dark onyx walls gleam eerily in the dim torchlight.  A chill
+breeze wafts in through the archway to the north.  The hallway
+continues south.    
+~
+142 603979904 0 0 0 0
+D0
+A courtyard is visible through the archway to the north.
+~
+~
+0 -1 14259 0
+D2
+The hallway continues south.
+~
+~
+0 -1 14234 0
+S
+#14259
+Open Courtyard~
+Tall marble pillars frame a wide circular courtyard of black granite.
+A forbidding archway enters into a dark, sprawling building to the
+south.  To the north, a narrow path winds away from the courtyard into
+a range of low, dark hills.    
+~
+142 67108992 0 0 0 0
+D0
+The hills to the north seem somehow grey and dead.  A path disappears into 
+their midst.
+~
+~
+0 -1 14260 0
+D2
+A huge, dark building looms to the south.  An open archway enters the building
+from the southern end of the courtyard.
+~
+~
+0 -1 14258 0
+S
+#14260
+Path among the haunted hills~
+You stand on a narrow dirt path winding between dark, rolling hills.
+Icy winds howl across the hilltops, and dark shapes seem to flit among
+the scattered brush.  The path branches west and north here.    
+~
+142 67108992 0 0 0 0
+D0
+The path continues deeper into the hills to the north.
+~
+~
+0 -1 14262 0
+D2
+A forbidding stone courtyard is visible to the south.
+~
+~
+0 -1 14259 0
+D3
+The path enters a sheltered clearing to the west.
+~
+~
+0 -1 14261 0
+E
+dark shapes~
+They seem to appear out of the corner of your vision, but when you turn to
+look, they are gone.
+~
+S
+#14261
+Sheltered valley~
+The hills rise steeply on all sides, forming a small valley protected
+from the chilling winds.  Grey brush, leafless and dead-looking, ring
+the valley, casting eerie shadows along the grassy floor.  A path
+exits the valley to the east.    
+~
+142 67108992 0 0 0 0
+D1
+A narrow path leads out of the valley to the east.
+~
+~
+0 -1 14260 0
+S
+#14262
+Deep among the haunted hills~
+The icy winds batter at you like vengeful ghosts.  You can almost make
+out words in the howling gusts..  The path branches east and west here
+and continues south out of the hills.    
+~
+142 67108992 0 0 0 0
+D1
+The path continues east.
+~
+~
+0 -1 14263 0
+D2
+The path continues south.
+~
+~
+0 -1 14260 0
+D3
+The path continues west.
+~
+~
+0 -1 14265 0
+S
+#14263
+Path among the haunted hills~
+The path winds north and west here, in a momentary shelter against the
+raging winds.  To the north, the brush thickens, casting eerie shadows
+across the path.    
+~
+142 67108992 0 0 0 0
+D0
+The path continues north.
+~
+~
+0 -1 14264 0
+D3
+The path continues west.
+~
+~
+0 -1 14262 0
+S
+#14264
+Shadowed Clearing~
+The dark brush grows thickly here, forming a shadowed clearing between
+the hills.  Silent shapes seem to flicker among the brush in your
+peripheral vision, but are never visible when you turn to look.  A
+narrow path leads south out of the clearing.    
+~
+142 67108992 0 0 0 0
+D2
+A path exits the clearing to the south.
+~
+~
+0 -1 14263 0
+S
+#14265
+Dead end~
+The narrow path ends abruptly at a sheer rock face.  To the north,
+stunted grey shrubs grow from between huge, stacked boulders.    
+~
+142 67108992 0 0 0 0
+D0
+One of the boulders near the bottom appears to be slightly separate from the
+others.
+~
+boulder stone huge~
+1 -1 14266 3
+D1
+The path returns east.
+~
+~
+0 -1 14262 0
+E
+boulder boulders stone huge rock face shrubs~
+One of the boulders near the bottom appears to be slightly separate from the
+others.
+~
+S
+#14266
+Rocky Cave~
+You find yourself in a dark, rocky cave.  Dim light seeps in through
+an opening to the south.  The cave darkens to the west.    
+~
+142 603979904 0 0 0 0
+D2
+A boulder leans against an opening to the south.
+~
+boulder stone huge~
+1 -1 14265 3
+D3
+The cave continues west.
+~
+~
+0 -1 14267 0
+S
+#14267
+Dark Cavern~
+Darkness envelopes the cavern, seeming to soak up even the dim light
+as if a vacuum..  A glimmer of light is visible to the east.    
+~
+142 603979776 0 0 0 0
+D1
+A glimmer of light filters through an opening to the east.
+~
+~
+0 -1 14266 0
+S
+#14268
+Shimmering Tunnel~
+Flickering white light arcs above to form a long tunnel leading east.
+Streaks of green energy lance intermittently through the tunnel walls,
+lighting the area with a pulsing green glow.  A white gazebo is
+visible through a misty gap in the tunnel floor.    
+~
+142 536870912 0 0 0 0
+D1
+The tunnel opens into a large white room to the east.
+~
+~
+0 -1 14269 0
+D5
+You see a white gazebo.
+~
+~
+0 -1 14211 0
+S
+#14269
+Globe of Light~
+You find yourself floating in what appears to be a globe formed of
+pure white light.  Green energy streaks through the globe like lances
+of colored lightning.  A long silk carpet stretches from the mouth of
+the tunnel to the west to a tall white throne in the center of the
+globe.    
+~
+142 536870912 0 0 0 0
+D3
+A tunnel exits the globe to the west.
+~
+~
+0 -1 14268 0
+E
+silk carpet~
+Though floating without any visible supports, it appears to be quite sturdy.
+~
+S
+#14270
+Tunnel of Darkness~
+You find yourself in a dark tunnel.  Shafts of dim light enter the
+through the tunnel mouth to the east, to be absorbed as soon as they
+touch the black walls.  A blood slicked metal ladder ascends to the
+temple above.    
+~
+142 603979776 0 0 0 0
+D3
+Dim light is visible to the west.
+~
+~
+0 -1 14271 0
+D4
+The ladder disappears through the tunnel ceiling.
+~
+~
+0 -1 14245 0
+S
+#14271
+Darkness~
+You find yourself floating in what appears to be an endless expanse of
+darkness.  A blood red carpet stretches between the tunnel mouth to
+the east and a forbidding black throne suspended upright at the
+opposite end.  The throne seems to glow with a light of its own,
+filling the area with a dim greyish glow.    
+~
+142 603979776 0 0 0 0
+D1
+The mouth of a narrow tunnel is barely visible to the east.
+~
+~
+0 -1 14270 0
+D5
+~
+~
+0 0 14399 16
+E
+blood red carpet~
+A silk carpet the color of blood runs from the base of the throne to the
+tunnel to the east.
+~
+S
+#14272
+Shadowy Clearing~
+Tall pine trees frame a dark circular clearing here.  A path crosses
+the clearing and bends north and east.  Two ancient trees, one black
+oak and one white, face each other to the east and west, casting long
+shadows across the earthen floor.    
+~
+142 67108864 0 0 0 0
+D0
+A dirt path winds into the trees to the north.
+~
+~
+0 -1 14273 0
+D1
+A dirt path winds into the forest to the east.
+~
+~
+0 -1 14274 0
+S
+#14273
+Dark Thicket~
+You stand in a dark thicket encircled by tall pines.  The twisted pine
+boughs above resemble the waiting claws of some huge predator.  A
+narrow dirt path exits the thicket to the south.    
+~
+142 67108864 0 0 0 0
+D2
+A dirt path winds into the shadows to the south.
+~
+~
+0 -1 14272 0
+S
+#14274
+Winding path through the dark forest~
+Tall, silent pines loom on all sides, filling the air with the scent
+of fresh wood and pine needles.  The narrow path on which you stand
+runs west and south here.  One particularly large pine grows at the
+near the path to the north.    
+~
+142 67108864 0 0 0 0
+D0
+A thin crack, barely visible in the rough tree bark, outlines a rectangular
+area in the face of the large pine to the north.
+~
+tree pine crack rectangular rectangle~
+1 -1 14281 3
+D2
+The path continues south through the forest.
+~
+~
+0 -1 14276 0
+D3
+To the west, the path opens onto a shadowy clearing.
+~
+~
+0 -1 14272 0
+D4
+The lower branches of the large pine appear climbable.
+~
+~
+0 -1 14275 0
+E
+large pine tree~
+You notice a thin crack, barely visible against the rough tree bark,
+outlining a rectangular area in the face of the large pine to the north.
+The lower branches of the pine appear climbable.
+~
+S
+#14275
+Birdnest~
+You stand perched on the edge of a large nest which stretches at least
+five meters from side to side.  The bowl of the nest appears to be
+formed of large sticks and bits of hair and other odds and ends, woven
+together to form a sturdy base.  The curved white fragments of what
+must have been a good sized shell are scattered across the bottom of
+the nest, intermixed with black-brown feathers and what pieces of what
+look like humanoid bones..  The tree branches below appear sturdy and
+climbable.    
+~
+142 67108864 0 0 0 0
+D5
+A narrow path is visible through the branches below.
+~
+~
+0 -1 14274 0
+S
+#14276
+Forest Path~
+The silent forms of tall pine trees frame the narrow dirt path.  The
+path branches north and east here.    
+~
+142 67108864 0 0 0 0
+D0
+The path continues north.
+~
+~
+0 -1 14274 0
+D1
+The path continues east.
+~
+~
+0 -1 14277 0
+S
+#14277
+Dead End~
+The forest path dead ends here in a stand of tall pines.  Large
+boulders dot the earthen floor.  The huge, severed stump of what must
+have been an impressive oak tree rises from the pines to the south.  
+~
+142 67108864 0 0 0 0
+D3
+The path continues west.
+~
+~
+0 -1 14276 0
+D5
+Scratches and light footprints mark the earth around the stump.
+~
+huge oak stump~
+1 -1 14278 3
+E
+huge oak stump~
+Scratches and light footprints mark the earth around the stump.
+~
+S
+#14278
+Quiet tunnel~
+You find yourself in a narrow earthen tunnel.  Thin shafts of light
+enter the tunnel through the opening above.  To the east, the tunnel
+opens into a dark chamber.    
+~
+142 603979776 0 0 0 0
+D1
+A dark chamber is visible to the east.
+~
+~
+0 -1 14279 0
+D4
+A huge stump leans against an opening in the ceiling above.  A wooden ladder
+affixed to the northern wall of the tunnel leads up to the opening.
+~
+huge oak stump~
+1 -1 14277 3
+S
+#14279
+Meeting Chamber~
+A huge chamber has been carved from the packed clay here.  A
+semicircular stone table dominates the center of the floor.  Along the
+inner edge of the table stands a grey oak chair flanked by two chairs
+of white and black oak.  Plainer redwood chairs line the outer edge.
+A narrow tunnel exits the chamber to the west.    
+~
+142 603979776 0 0 0 0
+D3
+You see a narrow tunnel to the west.
+~
+~
+0 -1 14278 0
+D5
+You notice the dark edges of an opening beneath the round base of the
+stone table.
+~
+table stone~
+1 -1 14280 3
+E
+semicircular stone table~
+A huge semicircular table made of dark grey stone.  Closer inspection
+reveals a dark opening beneath the round base of the table.
+~
+E
+white grey black chair~
+Three large chairs of white, grey, and black oak line are set along the
+inside edge of the table.  Engraved in the back of each chair, you notice
+the insignia of a diving hawk.
+~
+S
+#14280
+Shadowy Lair~
+You find yourself in a large, dark cavern.  Bits of wood and gleaming
+white bones litter the earthen floor.  Leaves and vines are piled in
+one corner to form a large nest.    
+~
+142 603979776 0 0 0 0
+D4
+You see a dark opening in the ceiling above.
+~
+~
+1 -1 14279 3
+E
+leaves vines nest~
+Glossy dark green scales glint from within the leaves and vines at the
+base of the nest.  
+~
+S
+#14281
+Inside the Tree Base~
+You stand in the hollow base of a large pine tree.  A wooden platform
+is visible far above.    
+~
+142 603979776 0 0 0 0
+D2
+Light filters through a rectangular opening in the trunk wall to the south.
+~
+tree pine crack rectangular rectangle opening~
+1 -1 14274 3
+D4
+A wooden platform is visible above.
+~
+~
+0 -1 14282 0
+D5
+You see nothing special there.
+~
+trapdoor trap door~
+1 -1 14303 3
+E
+wooden platform~
+A wooden platform cuts across the space above.  An opening to one side of
+the platform allows entrance to those who can reach it..
+~
+S
+#14282
+Heart of the Tree~
+You find yourself balanced on a wide wooden platform in the dark heart
+of the pine tree.  The wood of the tree, somehow fresh and very alive
+despite the hollow inside, fills the air with the sharp scent of pine.
+An opening to one side of the platform allows descent to the earthen
+floor below.    
+~
+142 603979776 0 0 0 0
+D5
+The hollow base of the tree is visible far below.
+~
+~
+0 -1 14281 0
+S
+#14283
+Twisting Brick Road~
+You stand on a road paved of red bricks which seems to twist and turn
+at impossible angles, like the rails of a roller coaster ride.  Off
+the edge of the road is a churning multicolored void.  A neat white
+outhouse rests off the side of the road to the east, and a ribbon of
+white light winds into the void to the north.  The brick road
+continues west to a crossroads.    
+~
+142 0 0 0 0 0
+D0
+A wide ribbon of light twists north into the churning void.  Despite its
+form, the light appears quite solid enough to walk on.
+~
+~
+0 -1 14284 0
+D1
+A white painted outhouse stands on the east side of the road.
+~
+~
+1 -1 14295 1
+D3
+A signpost is visible to the west.
+~
+~
+0 -1 14286 0
+E
+ribbon white light~
+Though apparently made solely of light, it looks sturdy enough to walk on.
+~
+E
+white outhouse~
+A neat white outhouse stands to the east.
+~
+S
+#14284
+Ribbon of Light~
+You stand balanced on a meter wide ribbon of pure white light twisting
+west and south through a churning multicolored void.  Just glancing at
+the void is enough to twist your guts inside out, which doesn't help
+your precarious balance at all...  But maybe if you don't look up
+you'll be okay.  You notice that you can see right through the path at
+your feet.    
+~
+142 0 0 0 0 0
+D2
+A brick road is visible to the south.
+~
+~
+0 -1 14283 0
+D3
+The ribbon continues west.
+~
+~
+0 -1 14285 0
+S
+#14285
+In the Void~
+You find yourself standing on a wooden platform floating in the middle
+of a multicolored void.  What looks like a shimmering rip in the void
+hovers within reach overhead.  A ribbon of white light twists into the
+void to the east.    
+~
+142 0 0 0 0 0
+D1
+Though apparently made solely of white light, the ribbon appears sturdy 
+enough to walk on.
+~
+~
+0 -1 14284 0
+D4
+A rip in the fabric of the void shimmers overhead.
+~
+~
+0 -1 14214 0
+E
+ribbon white light~
+Though apparently made solely of white light, the ribbon appears sturdy 
+enough to walk on.
+~
+E
+rip~
+A rip in the fabric of the void shimmers overhead.
+~
+S
+#14286
+Something Resembling an Intersection..~
+The brick road loops under and over itself, shooting off in various
+directions.  It would resemble a knot more than an intersection except
+that this is supposed to lead somewhere.  Then again..  As you watch,
+the intersection seems to twist and change.    
+~
+142 0 0 0 0 0
+D1
+Twisting red brick road.
+~
+~
+0 -1 14283 0
+D2
+Twisting red brick road.
+~
+~
+0 -1 14287 0
+D3
+Twisting red brick road.
+~
+~
+0 -1 14289 0
+S
+#14287
+Entrance to the Funny Farm~
+Brilliant purple fences wall off rows of animal pens.  Aside from the
+barking cats and flying pigs, this could be a cosey little farm..  A
+purple farmhouse is visible in the distance.    
+~
+142 0 0 0 0 0
+D0
+A red brick road runs north.
+~
+~
+0 -1 14286 0
+D1
+The farm continues east.
+~
+~
+0 -1 14288 0
+S
+#14288
+Amidst the Animal Pens~
+You stand among the purple animal pens.  Closer up, you notice that
+the farmhouse is tilted to one side, as if part of the foundation has
+sunken in.  You also notice the corner of a bed sticking out of the
+outhouse door..  And judging from the odor of the house, people are
+living in the outhouse and using the farmhouse for um..    
+~
+142 0 0 0 0 0
+D3
+The farm continues west.
+~
+~
+0 -1 14287 0
+S
+#14289
+Red Brick Road~
+The red brick road twists east and south here.    
+~
+142 0 0 0 0 0
+D1
+A signpost is visible to the east.
+~
+~
+0 -1 14286 0
+D2
+The road continues south.
+~
+~
+0 -1 14290 0
+S
+#14290
+Another Intersection..~
+Oh god..  Not another intersection.  The road loops around itself so
+many times that it's amazing it ever goes anywhere.  As you watch, the
+intersection rearranges itself again, nearly taking your lunch with
+it.  The bricks at one edge of the road have been torn out, revealing
+a dark hole leading down.    
+~
+142 0 0 0 0 0
+D0
+More brick road.
+~
+~
+0 -1 14289 0
+D2
+You see a small white office.
+~
+~
+0 -1 14294 0
+D3
+More brick road.
+~
+~
+0 -1 14291 0
+D5
+A dark hole leads beneath the road.
+~
+~
+0 -1 14297 0
+S
+#14291
+Red Brick Road~
+The brick road twists east and south through the void.    
+~
+142 0 0 0 0 0
+D1
+You see an intersection to the east.
+~
+~
+0 -1 14290 0
+D2
+The road enters a wide, checkered clearing to the south.
+~
+~
+0 -1 14292 0
+S
+#14292
+Checkered Clearing~
+Patches of alternating blue and yellow flowers cover the wide clearing
+with a checkered carpet.  The ground dips and rises, forming shallow
+hills and valleys across the clearing.  As you watch, the ground
+moves, and a hill forms beneath your feet.    
+~
+142 0 0 0 0 0
+D0
+A twisting red brick road leads north.
+~
+~
+0 -1 14291 0
+D3
+The clearing continues west.
+~
+~
+0 -1 14293 0
+S
+#14293
+Checkered Clearing~
+You stand at the east end of a wide clearing carpeted by alternating
+squares of yellow and blue flowers.  The ground occasionally shifts,
+forming the clearing into scattered hills and valleys.    
+~
+142 0 0 0 0 0
+D1
+The clearing continues east.
+~
+~
+0 -1 14292 0
+S
+#14294
+Clinic~
+You stand in a little white office.  A window faces east onto the
+churning void outside.  A long leather couch dominates the center of
+the office.    
+~
+142 0 0 0 0 0
+D0
+You see a twisting red brick road to the north.
+~
+~
+0 -1 14290 0
+S
+#14295
+Inside an Outhouse~
+You find yourself inside a narrow, white walled outhouse, wedged
+between the door and a really Big toilet.  Probably one of those times
+when you reeally don't want to look down..    
+~
+142 536870912 0 0 0 0
+D3
+A red brick road leads west.
+~
+~
+0 -1 14283 0
+D5
+so that's what I had for lunch..
+~
+~
+0 -1 14296 0
+S
+#14296
+Inside the Toilet~
+Oh yuck..  What are you doing inside the toilet?  The stench is awful,
+and what's worse..  Claw marks on the walls indicate that something
+has made its home here.    
+~
+142 603979776 0 0 0 0
+D4
+You see the toilet seat above.
+~
+~
+0 -1 14295 0
+S
+#14297
+Down a Mole Hole~
+Something has dug a narrow north-south tunnel here.  Light streams in
+through the opening above, drying the fresh dirt.    
+~
+142 536870912 0 0 0 0
+D0
+The mole hole continues north.
+~
+~
+0 -1 14298 0
+D4
+You see the red brick road above.
+~
+~
+0 -1 14290 0
+S
+#14298
+Ouch!~
+You are momentarily blinded as a glaring array of colors assaults your
+eyes.  Gaudy mauve curtains decorate the earthen walls, clashing with
+the loud chartreuse carpet.  A neon green throne and a short, thick
+perch dominate the center of the room.    
+~
+142 536870912 0 0 0 0
+D2
+A tunnel exits the room to the south.
+~
+~
+0 -1 14297 0
+S
+#14299
+Zeinia International~
+You find yourself in a spacious wood panelled office decorated with
+the latest in mythical styles.  Gold brocaded tapestries depicting
+strange and exotic beasts adorn the walls.  A window in the west wall
+looks out upon a swirling multicolored void.  To the east is a doorway
+surmounted by a bronze plaque.  A golden banner hangs across the north
+wall.  Near the center of the room stands a classic mahogany desk,
+bordered by a magical curtain.  Affixed to the front of the desk is an
+engraved silver sign.    
+~
+142 536870992 0 0 0 0
+D1
+A plaque above the doorway reads:  "Elite Pets Counter".
+~
+~
+0 -1 14301 0
+E
+void window~
+A churning multicolored void is visible through the window.
+~
+E
+bronze plaque~
+.                 "Elite Pets Counter"
+~
+E
+golden banner~
+.                   -= Zeinia Inc. =-
+
+         "Bringing the Universe to your doorstep"
+~
+E
+magical curtain~
+A sign above the curtain reads:  "Employees Only".
+~
+E
+desk silver sign~
+
+          - Pets for the Amateur Adventurer -
+
+        Type 'list' to see what we have in stock.
+        Type 'buy' to purchase the pet of your choice!
+~
+S
+$~

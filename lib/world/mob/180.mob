@@ -1,0 +1,1009 @@
+#18000
+baron sukumvit~
+Baron Sukumvit~
+Baron Sukumvit welcomes you to the Dungeon of Fang.
+~
+The baron is a portly man with a long flowing beard.  His stern grey
+eyes gaze solemnly at you from above a large nose.  He is clad in the
+bright robes of his office, including a very ostentatious piece of
+headwear, much like those worn by the Timelords of Gallifrey, not that
+the baron would know that.    
+~
+131144 0 0 0 18472 0 0 0 0 E
+55 33 -32 1d55+6600 4d5+27
+2750 128422
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 14
+E
+#18001
+spectator~
+a Spectator~
+A spectator cheers wildly as you prepare to enter the dungeon.
+~
+The locals of Fang love their dungeon and the adventurers it attracts
+for the Trial of Champions.    
+~
+202 0 0 0 0 0 0 0 200 E
+5 1 80 1d5+50 1d2+3
+80 283
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 12
+Race: 14
+E
+#18002
+spectator~
+a Spectator~
+A spectator faints with excitement as you prepare to enter the dungeon.
+~
+The locals of Fang love their dungeon and the adventurers it attracts
+for the Trial of Champions.    
+~
+202 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 12
+Race: 14
+E
+#18003
+hobgoblin~
+a Hobgoblin~
+A large hobgoblin is here scuffling with another of his kind.
+~
+These two appear to be fighting over the leather bag.  Perhaps it
+contains something of value?  If so you may wish to take it for
+yourself.  And who is gonna stop you?  This HOBGOBLIN?  Please.    
+~
+74 0 0 0 16 0 0 0 -400 E
+20 8 20 1d20+1000 2d3+10
+550 9735
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 31
+E
+#18004
+hobgoblin~
+a Hobgoblin~
+A small hobgoblin is here scuffling with another of his kind.
+~
+These two appear to be fighting over the leather bag.  Perhaps it
+contains something of value?  If so you may wish to take it for
+yourself.  And who is gonna stop you?  This HOBGOBLIN?  Please.    
+~
+74 0 0 0 16 0 0 0 -400 E
+19 7 24 1d19+900 2d3+9
+500 8541
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 31
+E
+#18005
+caveman~
+a Caveman~
+A caveman grumbles deep in his throat and lunges at you!
+~
+This primitive neanderthal is an aggressive inhabitant of this section
+of corridor, employed by the dungeon masters to slay any adventurers.
+He loves his job.    
+~
+42 0 0 0 0 0 0 0 0 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18006
+orc~
+a fierce-looking Orc~
+A fierce-looking orc snarls and swings his morning star at your head!
+~
+This ferocious humanoid wanders the dungeon with his companions in
+search of adventurers to slay.  He is tall for an Orc, standing at
+roughly six feet, with his greasy black hair gathered in a topknot,
+making his already fearsome features appear even more menacing.  When
+he snarls you see two rows of sharp, stained teeth, from which gobs of
+green saliva drip, as it eagerly anticipates the coming battle.    
+~
+106 0 0 0 512 0 0 0 -700 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 32
+E
+#18007
+flying guardian~
+a flying Guardian~
+A flying guardian moves to assist its companion in attacking you.
+~
+This grotesque resembles nothing so much as a giant stuffed bird- a
+large vulture, perhaps, or a buzzard.  Their eyes glow with an evil
+red light, which suffuses their beaks with an unearthly hue.  You
+shiver involuntarily as you prepare to fight them.    
+~
+4168 0 0 0 8912916 0 0 0 -500 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 3
+E
+#18008
+fly larvae~
+a writing mass of fly Larvae~
+A writhing, disgusting mass of fly larvae squirms about in this pit.
+~
+These foul worms are the offspring of a BIG fly.  They are cold, slimy
+and generally nauseating.  Enough to put you off your tea, really.  
+~
+67108874 0 0 0 512 0 0 0 0 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 5
+E
+#18009
+giant fly~
+a giant Fly~
+A giant fly buzzes about here.
+~
+This massive insect has limbs as thick as your thighs, black, hairy
+affairs which it is groping at you with.  Large, round, multi-faceted
+eyes glare at you with an alien, evil intelligence, and this combined
+with the loud buzzing of its six feet long wings makes you feel
+disoriented and weak.    
+~
+42 0 0 0 8929360 0 0 0 -500 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 5
+E
+#18010
+skeleton warrior~
+a Skeleton Warrior~
+A skeleton warrior lurches into life as you approach.
+~
+This undead creature was once an adventurer like you, who fell foul of
+one of the many traps or monsters here in Deathtrap Dungeon.  It is
+now jealously attempting to slay you and reduce you to the same state
+as it.    
+~
+42 0 0 0 0 0 0 0 -1000 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 6
+E
+#18011
+throm barbarian~
+a Barbarian~
+A barbarian, one of your rival competitors, stands here.
+~
+You recognize this fellow from the pre-trial feasts, and realize he is
+one of your six rivals.  His name is Throm, and he is a good, capable
+fighter with immensely strong arms.  You'd do best to leave him be and
+go your own way.    
+~
+72 0 0 0 16464 0 0 0 400 E
+26 11 -4 1d26+2050 2d5+13
+850 19006
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18012
+cave troll~
+a Cave Troll~
+A savage cave troll roars and charges at you.
+~
+With claws that can cut steel and teeth that can grin rock, this
+massive beast is sure to inflict a fair amount of damage on you.  You
+wince in disgust at the foul odor it exudes- perhaps trolls haven't
+heard of bathing?    
+~
+106 0 0 0 0 0 0 0 -800 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 1
+BareHandAttack: 6
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#18013
+mouse~
+a tiny Mouse~
+A tiny mouse squeaks in fear and runs past you.
+~
+This little rodent is no threat to anyone, except maybe some wet
+behind the ears newbie, who shouldn't (and indeed couldn't) make it
+this far.    
+~
+138 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#18014
+cobra~
+a Cobra~
+A deadly cobra strikes!
+~
+This hooded ophidian stores a lethal venom, which it will attempt to
+inject into you, thus providing it with a substantial meal...    
+~
+17303594 0 0 0 1572944 0 0 0 0 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 1
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 2
+E
+#18015
+minotaur~
+a Minotaur~
+An enraged minotaur charges at you.
+~
+This monstrous bull-headed man has only one thing on his mind, and
+you're about to find out what it is the hard way.  You grimace and
+prepare to meet the beast as it charges.    
+~
+526378 0 0 0 0 0 0 0 -400 E
+24 10 4 1d24+1800 2d4+12
+750 15497
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 50
+E
+#18016
+giant scorpion~
+a giant Scorpion~
+A giant scorpion scuttles across the sand toward you.
+~
+This creature is a ten foot version of your garden variety scorpion.
+It has a bright red carapace, and a massive yellow-tinged stinger,
+dripping with a potent venom that hisses and melts the sand where it
+drips.    
+~
+16842762 0 0 0 16464 0 0 0 -400 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 43
+E
+#18017
+dwarf~
+a rough Dwarf~
+A rough-looking dwarf clad in finely-made chainmail stares calmly at you.
+~
+This rugged rogue is one of Sukumvit's hand-picked trialmasters, and
+you will have to slay him to continue.  His confident manner and skill
+with his weapons indicates clearly that this won't be an easy task.  
+~
+72 0 0 0 18552 0 0 0 -400 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 13
+E
+#18018
+servant~
+a crippled, shackled Servant~
+A crippled, shackled servant shambles along here.
+~
+This poor unfortunate was an adventurer many years ago, but is now a servant
+of the trialmasters, shackled and crippled to prevent him escaping. If you
+give him something to cheer him up, he may give you a clue.
+~
+266 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+325 4674
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18019
+mirror demon~
+a Mirror Demon~
+A multi-limbed and faced mirror demon attacks you.
+~
+This inhabitant of the lower planes resembles a beautiful naked woman,
+seen from front on at every angle, so she appears to have many heads,
+limbs and torsos.  It is a disturbing sight, and you move to quickly
+end its foul existence.    
+~
+42 0 0 0 1048616 0 0 0 -1000 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 2
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#18020
+insect swarm~
+a swarm of Insects~
+A swarm of angry insects of every species imaginable covers you!
+~
+This unearthly swarm is enraged at your intrusion, and they quickly
+move to avenge it.  You spot hundreds of varieties of insects in the
+swarm, including bees, wasps, hornets, beetles, cockroaches, flies,
+mosquitoes and dragonflies.    
+~
+42 0 0 0 540792 0 0 0 0 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 5
+E
+#18021
+medusa~
+a Medusa~
+A medusa hisses and attacks!
+~
+You quickly avert your gaze, so as not to be petrified (literally) by
+this gorgon, but you managed to catch a glimpse of a beautiful face,
+contorted in a demonic fury, topped by a writhing mane of hundreds of
+tiny asps.  You steel yourself and prepare to do away with this
+anti-social menace.    
+~
+17303594 0 0 0 18472 0 0 0 -1000 E
+24 10 4 1d24+1800 2d4+12
+750 15497
+8 8 2
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 38
+E
+#18022
+leprechaun~
+a Leprechaun~
+A leprechaun graps at your gear!
+~
+These pesky thieves will rob you blind if you don't leave quickly,
+unless you (evil grin) SLAY THEM.  But, looking at them in their cute
+little green hats, and cute little green vests and pants, smoking cute
+little green pipes, you feel your resolve to kill them weaken.  Until
+one of them suddenly makes off with 1000 gold coins!    
+~
+200 0 0 0 589864 0 0 0 400 E
+15 5 40 1d15+500 1d5+7
+325 4674
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 24
+E
+#18023
+bloodbeast~
+the Bloodbeast~
+The bloodbeast gibbers and drools here.
+~
+The bloodbeast is a massive bloated reptile with dozens of eyes on its
+broad head, and a massive stinger at the end of its spiky limbless
+torso.  It looks quite horrible, wallowing here in this fetid pool,
+but you hesitate as it attacks, remembering how tough this beast is
+rumored to be.    
+~
+537413642 0 0 0 65568 131072 0 0 -1000 E
+28 13 -12 1d28+2150 2d6+14
+0 22959
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+#18024
+mimic~
+a Mimic~
+A door with a fist painted upon it is set in the west wall.
+~
+This "door" is actually a deadly mimic, an amorphous creature that can
+assume the form of any inanimate object it wishes, in order to lure
+unwary adventurers to an early demise.    
+~
+2058 0 0 0 0 0 0 0 -500 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+E
+#18025
+green slime~
+a Green Slime~
+A pool of green slime lies here.
+~
+This seemingly-harmless substance is actually a mindless predator that
+seeks only to dissolve all it comes into contact with!    
+~
+524330 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 0
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+E
+#18026
+boa constrictor~
+a Boa Constrictor~
+A boa constrictor is wrapped round an elven thief here.
+~
+This massive ophidian is too "wrapped up" (ha ha funny pun ha ha
+*roll*) in his work to notice your entry, and it continues to squeeze
+the life from a hapless elf.    
+~
+74 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 2
+E
+#18027
+elf thief~
+an elven Thief~
+An elven thief squirms about on the floor here, in obvious pain.
+~
+This elf is one of your fellow competitors in the trial of champions,
+and she looks as if she is in need of serious help.  Mind you, she may
+"repay" you with a dagger in the back, as there can be only one
+winner...    
+~
+202 0 0 0 524304 0 0 0 0 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 2
+BareHandAttack: 14
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 15
+E
+#18028
+trog troglodyte~
+a primitive Troglodyte~
+A primitive troglodyte dances about a crude idol here.
+~
+These primitive reptilian tribesmen don't immediately notice your
+intrusion, obsessed as they are with their barbaric pagan rituals.  
+Perhaps you'd do best not to disturb them...    
+~
+200 0 0 0 0 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 42
+E
+#18029
+trog troglodyte~
+a primitive Troglodyte~
+A primitive troglodyte utters ritualized phrases in a strange tongue.
+~
+These primitive reptilian tribesmen don't immediately notice your
+intrusion, obsessed as they are with their barbaric pagan rituals.  
+Perhaps you'd do best not to disturb them...    
+~
+200 0 0 0 0 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 42
+E
+#18030
+trog troglodyte~
+a primitive Troglodyte~
+A primitive troglodyte chants and drools in a mad religious frenzy.
+~
+These primitive reptilian tribesmen don't immediately notice your
+intrusion, obsessed as they are with their barbaric pagan rituals.  
+Perhaps you'd do best not to disturb them...    
+~
+200 0 0 0 0 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 42
+E
+#18031
+trog troglodyte~
+a primitive Troglodyte~
+A primitive troglodyte waves his spear about wildly.
+~
+These primitive reptilian tribesmen don't immediately notice your
+intrusion, obsessed as they are with their barbaric pagan rituals.  
+Perhaps you'd do best not to disturb them...    
+~
+138 0 0 0 0 0 0 0 -400 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 42
+E
+#18032
+old man~
+an old man~
+An old man stands here, indicating which way to go.
+~
+This elderly fellow appears to be of semitic origin, and is dressed in
+appropriate attire.  He bows and smiles at you, and makes no move to
+impede or assault you.  Obviously a lackey of the trialmasters, you
+should just ignore him, but perhaps not his advice.    
+~
+202 0 0 0 0 0 0 0 0 E
+18 7 28 1d18+800 1d6+9
+450 7441
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18033
+poison ivy troll~
+Poison Ivy~
+A giant female troll grunts and demands payment as you enter.
+~
+This huge, hideous troll is quite strong and powerful, and you
+consider giving her all your gold, until foolish avarice overcomes
+sensible caution, and you decide to ignore her request, as well has
+her babblings about her brother Sourbelly, who is apparently a troll
+of some importance in some place called Port Blacksand.    
+~
+706634 0 0 0 82000 4194304 0 0 -400 E
+26 11 -4 1d26+2050 2d5+13
+850 19006
+8 8 2
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 10
+E
+#18034
+guard dog~
+a Guard Dog~
+A guard dog barks and snarls as you enter.
+~
+These Alsatians look quite mean, but you are sure you can easily
+defeat them.  You assume they have been placed here to warn others of
+intruders with their loud barking than for actual fighting ability.  
+Then again, you have been known to be wrong...    
+~
+4138 0 0 0 80 0 0 0 -230 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#18035
+guard dog~
+a Guard Dog~
+A guard dog barks and snarls as you enter.
+~
+These Alsatians look quite mean, but you are sure you can easily
+defeat them.  You assume they have been placed here to warn others of
+intruders with their loud barking than for actual fighting ability.  
+Then again, you have been known to be wrong...    
+~
+4138 0 0 0 80 0 0 0 -230 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#18036
+ninja~
+a Ninja~
+A black-clad ninja steps from behind a pillar and attacks.
+~
+This fellow is one of your fellow competitors, and rumored to be the
+most lethal of them.  He utters no words of either anger or insult as
+he attacks, and his silence is eerie.  You ready your weapons and move
+to do battle with him.    
+~
+526378 0 0 0 75856 163840 0 0 -800 E
+26 11 -4 1d26+2050 2d3+17
+850 19006
+8 8 1
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18037
+manticore~
+a Manticore~
+A manticore bounds toward you and releases a volley of tail spikes.
+~
+You shudder with horror as you face the man-headed lion that is the
+final monster you must face in Deathtrap Dungeon.  You dodge a volley
+of spikes from its barbed tail and move to close range to do battle.
+~
+2090 0 0 0 18432 0 0 0 -1000 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 1
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+#18038
+gnome trialmaster~
+a gnomish Trialmaster~
+A gnomish trialmaster stands before the gates.
+~
+This diminutive trialmaster instructs you that you must have three
+gems- emerald, sapphire and diamond- to open the doors that lead
+outside.  If you do not, you must recall and try again.  He laughs
+evilly and watches as you attempt to unlock the doors.    
+~
+202 0 0 0 18432 0 0 0 -350 E
+23 9 8 1d23+1600 2d4+11
+875 13903
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 18
+E
+#18039
+orc~
+a savage Orc~
+A savage orc snarls and readies its vicious weapons.
+~
+This ferocious humanoid wanders the dungeon with his companions in
+search of adventurers to slay.  He is tall for an Orc, standing at
+roughly six feet, with his greasy black hair gathered in a topknot,
+making his already fearsome features appear even more menacing.  When
+he snarls you see two rows of sharp, stained teeth, from which gobs of
+green saliva drip, as it eagerly anticipates the coming battle.    
+~
+232 0 0 0 0 0 0 0 -700 E
+21 8 16 1d21+1200 1d4+14
+600 11024
+8 8 1
+BareHandAttack: 5
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 32
+E
+#18040
+flying guardian~
+a Flying Guardian~
+A flying guardian screeches and moves to block your intrusion.
+~
+This grotesque resembles nothing so much as a giant stuffed bird- a
+large vulture, perhaps, or a buzzard.  Their eyes glow with an evil
+red light, which suffuses their beaks with an unearthly hue.  You
+shiver involuntarily as you prepare to fight them.    
+~
+4138 0 0 0 8912896 0 0 0 -500 E
+23 9 8 1d23+1600 2d4+11
+0 13903
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 3
+E
+#18041
+black widow spider~
+a Black Widow Spider~
+A black widow spider crawls along here.
+~
+This spider is small but it can inject a lethal venom.  It might be
+better to leave this deadly arachnid alone.    
+~
+16777226 0 0 0 67664 0 0 0 -400 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 46
+E
+#18042
+giant spore ball~
+a giant Spore Ball~
+A spongy, giant spore ball fills the corridor here.
+~
+There is actually room to squeeze past this strange lifeform, but you
+may attack it if you wish, though you have heard tales of strange
+effects from attacking molds and spores.    
+~
+74 0 0 0 0 0 0 0 0 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#18043
+column light~
+a Column of Light~
+A column of light full of hundreds of ghostly faces shines down here.
+~
+There are dozens of different faces, all laughing, crying, singing,
+talking, shouting and screaming different things.  You do manage to
+discern what a couple of them are saying, however.    
+~
+74 0 0 0 168 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 0
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#18044
+prisoner~
+a one-handed Prisoner~
+A ragged prisoner with only one hand is chained to the wall here.
+~
+He is totally malnourished and exhausted, and begs for food, water and
+freedom.  He had his hand removed as punishment by the trialmasters
+for a minor infringement.    
+~
+74 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#18045
+spectre~
+a Spectre~
+A transparent spectre, one of the trialmasters, hovers here.
+~
+The spectre laughs at you and wishes you "luck" in succeeding in
+finding the way out of the dungeon.  You notice something glinting on
+its right ring finger.    
+~
+74 0 0 0 1048596 0 0 0 -800 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#18046
+rock grub~
+a Rock Grub~
+A rock grub burst forth from the ground and attacks!
+~
+Rock grubs are gigantic subterranean burrowers, whose strong mandibles
+can crush stone.  Imagine what they'll do to bone and sinew...    
+~
+903240 0 0 0 64 0 0 0 0 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 5
+E
+#18047
+goblin~
+a Goblin~
+A nasty goblin snarls and strikes!
+~
+This irritating little humanoid is actually quite a competent guard,
+and you quickly find yourself sorry for underestimating him.    
+~
+74 0 0 0 0 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 31
+E
+#18048
+goblin~
+a Goblin~
+A vicious goblin howls and licks his weapons.
+~
+This irritating little humanoid is actually quite a competent guard,
+and you quickly find yourself sorry for underestimating him.    
+~
+74 0 0 0 0 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 31
+E
+#18049
+pit fiend~
+a Pit Fiend~
+A savage pit fiend lumbers at you.
+~
+Pit Fiends resembles the T-Rex, save that they are a little shorter,
+and a LOT more aggressive.    
+~
+67108874 0 0 0 80 0 0 0 -765 E
+27 12 -8 1d27+2100 2d6+13
+0 20926
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+$

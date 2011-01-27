@@ -1,0 +1,224 @@
+#8501
+filthy harpy~
+the Filthy Harpy~
+The screaming, filthy harpy claws madly at your face!
+~
+The harpy looks at you with blood in her eyes.  Her entire body is
+caked in filth and grime and she stinks to high heaven.  Her razor-
+sharp talons flex as she considers you for her dinner.    
+~
+542796 0 0 0 8390656 0 0 0 -800 E
+35 17 -20 0d0+0 3d5+23
+350 40559
+8 8 2
+BareHandAttack: 8
+Str: 12
+Dex: 10
+Int: 7
+Wis: 15
+Con: 21
+Cha: 21
+Luck: 13
+Race: 3
+E
+#8502
+harpy leader~
+the Harpy Leader~
+The screaming harpy leader tries to scratch your eyes out!
+~
+The harpy leader looks at you and grins menacingly.  She stretches her
+wings and you see insects crawling around them.  Her hair is matted
+and greasy and you are sickened by the stench that pervades her
+presence.    
+~
+543560 0 0 0 8454144 4194304 0 0 -900 E
+40 21 -20 0d0+0 4d5+26
+500 57012
+8 8 2
+Str: 13
+Dex: 9
+Int: 19
+Wis: 8
+Con: 21
+Cha: 24
+Luck: 23
+Class: 4
+Race: 3
+E
+#8503
+ghostly air elemental~
+the Ghostly Elemental~
+The ghostly air elemental is here.
+~
+The air elemental is hard to see.  You know that it is there because
+objects behind it seem to waver and are slightly blurred.    
+~
+221272 0 0 0 8388608 0 0 0 0 E
+37 19 -20 0d0+0 3d6+24
+0 46733
+8 8 1
+BareHandAttack: 16
+Str: 14
+Dex: 14
+Int: 16
+Wis: 19
+Con: 18
+Cha: 6
+Luck: 19
+Race: 30
+E
+#8504
+mysterious efreeti~
+the Mysterious Efreeti~
+The mysterious efreeti grins in delight at its new prey.
+~
+The efreeti towers menacingly over you.  It is dressed in the finest
+ghostly silks and a headdress with an elaborate brooch.    
+~
+190474 0 0 0 8388608 0 0 0 -700 E
+45 25 -24 0d0+0 4d5+30
+625 76985
+8 8 1
+Str: 9
+Dex: 24
+Int: 10
+Con: 15
+Cha: 15
+Luck: 24
+Class: 1
+Race: 51
+E
+#8505
+gigantic roc~
+a Gigantic Roc~
+A gigantic roc lumbers about.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.    
+~
+10 0 0 0 8388608 0 0 0 0 E
+48 27 -28 0d0+0 5d5+32
+0 90757
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 21
+Int: 9
+Wis: 17
+Con: 17
+Cha: 14
+Luck: 20
+Race: 3
+E
+#8506
+gigantic roc~
+the Gigantic Roc~
+The gigantic roc stares menacingly at you.
+~
+This bird has a wingspan that stretches several spear-lengths.  It
+moves surprisingly fast for something of its size.    
+~
+10 0 0 0 8388608 0 0 0 0 E
+46 26 -24 0d0+0 5d5+30
+0 81423
+8 8 1
+BareHandAttack: 6
+Str: 21
+Dex: 18
+Int: 21
+Wis: 8
+Con: 23
+Cha: 17
+Luck: 25
+Race: 3
+E
+#8507
+ugly wicked witch~
+the Ugly, Wicked Witch~
+The ugly, wicked witch cackles maniacally.
+~
+The witch has jet black hair and sickly green skin.  She is covered
+with warts and boils.  Her nails are long and sharp and look like they
+would be quite painful.  Her eyes pierce your very soul.    
+~
+188938 0 0 0 18520 0 0 0 -1000 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+BareHandAttack: 8
+Str: 24
+Dex: 22
+Int: 22
+Wis: 8
+Con: 9
+Cha: 16
+Luck: 7
+Class: 1
+Race: 20
+E
+#8508
+a beautiful White Swan~
+a beautiful White Swan~
+A beautiful white swan lazily swims in the fountain.
+~
+It doesn't appear to be in any sort of hurry or have anything to do -
+its just floats along, content with life.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+0 4674
+8 8 2
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 17
+Wis: 16
+Con: 9
+Cha: 10
+Luck: 10
+Race: 3
+E
+#8509
+angel lovely shimmer~
+a Lovely Angel~
+A lovely angel shimmers and glows with a holy light.
+~
+It is mostly concerned with matters on another plane - the few
+scattered remnants of woory that have been left here are not enough to
+give the angel any true pause.    
+~
+72 0 0 0 143138904 0 0 0 900 E
+48 27 -28 1d1+0 5d5+32
+700 95294
+8 8 0
+Str: 20
+Dex: 6
+Int: 21
+Wis: 23
+Con: 21
+Luck: 5
+Class: 6
+Race: 45
+E
+#8510
+ghost moaning~
+a Ghost~
+A ghost floats past, moaning in eternal agony.
+~
+It has no real substance, just a shimmer of presence and that awful
+moaning that just will not stop.    
+~
+72 0 0 0 8388612 0 0 0 300 E
+41 22 -24 1d1+0 4d5+27
+0 60717
+8 8 0
+Str: 14
+Dex: 9
+Int: 14
+Wis: 23
+Con: 19
+Cha: 23
+Luck: 6
+Race: 34
+E
+$

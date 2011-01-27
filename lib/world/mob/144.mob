@@ -1,0 +1,452 @@
+#14400
+shadow demon~
+the Shadow Demon~
+A shadow demon is here, hovering towards you!
+~
+It looks evil and strong as it gives you a shocking glaze.  Pretty
+Frighting little sucker!    
+~
+67700808 0 0 0 67108880 4096 8 0 -500 E
+105 82 -40 1d1+0 10d11+70
+3250 701355
+8 8 0
+BareHandAttack: 4
+Str: 24
+Dex: 23
+Int: 24
+Wis: 7
+Con: 9
+Cha: 9
+Luck: 23
+Race: 11
+E
+#14401
+A Red Demon~
+a Red Demon~
+A red demon is here, circling around you.
+~
+He looks evil and dangereous with razor sharp claws and teeth and he
+is fast.  You can hear him mumble the letters D.  E.  A.  T.  H
+~
+589896 0 0 0 262160 32768 0 0 -832 E
+120 100 -40 1d1+0 14d14+80
+0 1032812
+7 7 0
+BareHandAttack: 8
+Str: 6
+Dex: 15
+Int: 24
+Wis: 6
+Con: 6
+Cha: 16
+Luck: 17
+Race: 41
+E
+#14431
+Guardian Knight~
+a Guardian Knight~
+A Guardian Knight stand here, protecting the dungeon master.
+~
+Intellegent and strong, makes this guard look worthy of him job, He is
+aware of all the passes as he stands here awaiting the next visitor.
+~
+10 0 0 0 0 0 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1658628
+8 8 0
+Str: 17
+Dex: 10
+Int: 24
+Wis: 25
+Con: 9
+Cha: 9
+Luck: 5
+Class: 10
+Race: 29
+E
+#14432
+Dungeon Master~
+the Dungeon Master~
+The Master is standing here reading some books.
+~
+ËThe man before you is tall and strong for his choose of work he is in.
+~
+67176506 0 0 0 33554512 0 0 0 0 E
+180 176 -100 1d1+0 29d29+120
+6300 2640349
+8 8 0
+BareHandAttack: 13
+Str: 17
+Dex: 20
+Int: 22
+Wis: 18
+Con: 25
+Cha: 20
+Luck: 17
+Class: 6
+E
+#14448
+blood demon~
+the Blood Demon~
+The all-mighty Blood Demon is here.
+~
+It looks dangerous as it stomps around the room with his powerful axe
+crushing in the ground.  This looks like someone you wouldn't want to
+mess with.    
+~
+657674 0 0 0 8716560 0 0 0 -1000 E
+150 136 -60 1d1+0 20d20+100
+0 1990352
+6 6 0
+BareHandAttack: 6
+Str: 10
+Dex: 15
+Int: 25
+Wis: 9
+Con: 16
+Cha: 15
+Luck: 13
+Class: 4
+Race: 41
+E
+#14453
+Black Dragon~
+a Black Dragon~
+A Black Dragon is here, flying above your head.
+~
+It looks demanic as it flies throught the air.  It is large and has a
+huge wingspan.  Under each wing is a row of spikes that look extremely
+sharp.    
+~
+608314 0 0 0 80 131074 0 0 0 E
+175 169 -100 1d1+0 28d28+116
+6000 2457330
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 14
+Int: 14
+Wis: 8
+Con: 10
+Luck: 20
+Race: 9
+E
+#14454
+HellBeast~
+the Hellbeast~
+A hellbeast is jumping towars you, attacking in a rage!
+~
+It is a dragon/undead looking combo with claws the size of your arm.
+It looks dangerous and looks like it could do some major damage to
+one.  Careful, his next meal could be you.    
+~
+67635272 0 0 0 524304 0 0 0 -999 E
+100 77 -40 1d1+0 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 22
+Int: 21
+Wis: 6
+Con: 13
+Cha: 15
+Luck: 23
+Race: 41
+E
+#14458
+knight~
+the Sentinel Knight~
+A powerful knight stands here, guarding the entranceway.
+~
+It looks bulky with huge muscles and a huge long sword.  He has shiny
+armor as he stands in a solid posture.    
+~
+33605642 0 0 0 100663376 0 0 0 -300 E
+160 149 -60 1d1+0 22d23+106
+5400 2053107
+7 7 0
+BareHandAttack: 3
+Str: 14
+Dex: 21
+Int: 9
+Wis: 10
+Con: 14
+Cha: 23
+Luck: 10
+Class: 4
+Race: 14
+E
+T 14458
+#14459
+Castle Guard~
+the Castle Guard~
+The castle guard stands here, greeting you solemnly.
+~
+He is huge and strong with shiny plate armor.  He glows this a
+mysterious light as he floats in the air.  He looks REAL tall as you
+stand beside him.    
+~
+33687562 0 0 0 67108944 0 0 0 0 E
+180 176 -100 1d1+0 29d29+120
+6300 2772366
+8 8 0
+BareHandAttack: 7
+Str: 17
+Dex: 14
+Int: 18
+Con: 17
+Cha: 5
+Luck: 23
+Class: 10
+Race: 19
+E
+#14463
+undead sentry~
+an Undead Sentry~
+An undead sentry prowls about, keeping an eye out for trouble.
+~
+Their eyes blaze with an unholy light, granting them the ability to
+detect just about everything that tries to slip by them.    
+~
+6216 0 0 0 67110992 2 0 0 -880 E
+140 124 -60 1d1+0 17d17+93
+0 1460602
+8 8 0
+BareHandAttack: 3
+Str: 18
+Dex: 24
+Int: 24
+Wis: 12
+Con: 21
+Cha: 21
+Luck: 14
+Class: 9
+Race: 6
+E
+#14468
+The Knight of Sin~
+the Knight of Sin~
+The Knight of Sin stands here, twirling his deadly flail.
+~
+Powerful and fast is a good way to describe this evil looking dark
+knight.  He is bulky yet quick.  He is extremely skilled and very very
+dangerous.    
+~
+34117704 0 0 0 67108880 0 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1741559
+8 8 1
+BareHandAttack: 5
+Str: 12
+Dex: 13
+Int: 7
+Wis: 22
+Con: 22
+Cha: 18
+Luck: 20
+Class: 9
+Race: 16
+E
+#14473
+King of Souls~
+the King of Souls~
+The King of Souls sits in his throne.
+~
+The King of Souls is an enormous Dark Knight with a giant battle axe.
+He has a shield with the engraved word Lucifer carved into it.  His
+eyes glow with a red light.    
+~
+33590554 0 0 0 33622352 4325376 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+6500 2150874
+6 6 1
+BareHandAttack: 12
+Str: 16
+Dex: 13
+Int: 17
+Wis: 6
+Con: 19
+Cha: 8
+Luck: 15
+Class: 9
+Race: 10
+E
+#14474
+Blacksmith of Darkness~
+the Blacksmith of Darkness~
+The Blacksmith of Darkness stands here, making his finest items.
+~
+Skilled and fast he stand here making his fine items.  He is an undead
+warrior who used to fight in any battle long ago.  He stands here
+zipping throught each item after item.    
+~
+26 0 0 0 80 0 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 0
+Str: 12
+Dex: 18
+Int: 13
+Wis: 16
+Con: 21
+Cha: 13
+Luck: 16
+Race: 6
+E
+T 14474
+T 14475
+T 14477
+T 14478
+#14480
+Dead Soul~
+a dead Soul~
+A dark, evil soul is floating around the room!
+~
+It looks creepy as it stares you directly in the eyes.  It shows NO
+MERCY!!!    
+~
+67340298 0 0 0 8388692 0 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+0 1151521
+8 8 0
+BareHandAttack: 1
+Str: 7
+Dex: 20
+Wis: 16
+Con: 6
+Luck: 25
+Race: 34
+E
+#14483
+dark knight~
+a Dark Knight~
+A Dark Knight is here, training his skills of battle.
+~
+He looks well-trained and skilled.  He handles his weapons with ease
+and moves gracefully.  Take heed not to mess with him.    
+~
+33593354 0 0 0 67108880 131072 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1460602
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 16
+Int: 14
+Wis: 16
+Cha: 24
+Luck: 7
+Class: 9
+Race: 14
+E
+#14486
+Sleeping Warrior~
+a sleeping Warrior~
+A strong warrior lies here, peacefully sleeping.
+~
+It's hard to tell if he is really asleep, but his slow breathing seems
+to suggest that he is.    
+~
+6154 0 0 0 16 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+4 7 1
+Str: 21
+Dex: 14
+Int: 20
+Wis: 16
+Con: 25
+Cha: 5
+Luck: 13
+Race: 14
+E
+#14487
+Sleeping Warrior~
+a sleeping Warrior~
+A warrior is here, sleeping.
+~
+She looks very tired, having just laid down to sleep.  Her stillness
+indicates that she is already deep asleep.    
+~
+33556490 0 0 0 16 0 0 0 0 E
+110 88 -40 1d1+0 11d12+73
+3400 752086
+4 7 2
+Str: 16
+Dex: 14
+Int: 6
+Wis: 24
+Con: 19
+Cha: 12
+Luck: 16
+Race: 14
+E
+#14489
+two headed dragon~
+the Two-headed Dragon~
+A two-headed dragon stands here before the castle, growling softly.
+~
+It looks very vicious as it snaps its heads towards you.  It is blue
+with very sharp spikes on it'e back as it startes at you with its red
+eyes.    
+~
+33654810 0 0 0 33556816 0 0 0 0 E
+170 162 -60 1d1+0 25d26+113
+6000 2510462
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 16
+Wis: 18
+Con: 13
+Cha: 8
+Luck: 19
+Class: 4
+Race: 9
+E
+#14490
+Shark~
+the Shark of Darkness~
+The shark of darkness is here, swimming with a deadly purpose!
+~
+It looks fast and dark as it speeds through the water like a chaotic
+torpedo.  Who is his next prey?    
+~
+100763658 0 0 0 16777296 131072 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+0 938920
+7 7 0
+BareHandAttack: 4
+Str: 15
+Dex: 10
+Int: 14
+Wis: 14
+Cha: 13
+Luck: 13
+Race: 8
+E
+#14497
+Soldier of Chaos~
+a Soldier of Chaos~
+A Soldier of Chaos stands here, eyeing you suspicously.
+~
+It looks extremely powerful and extremely smart.  It looks at your way
+with an evil glare!    
+~
+1579592 0 0 0 16 0 0 0 -400 E
+123 103 -60 1d1+0 14d15+82
+3500 999941
+8 8 0
+BareHandAttack: 3
+Str: 13
+Dex: 22
+Int: 13
+Wis: 25
+Con: 15
+Cha: 16
+Luck: 9
+Class: 9
+Race: 14
+E
+$

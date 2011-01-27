@@ -1,0 +1,109 @@
+The following are the procedures and policies regarding player and / or
+immortal transgressions within the game. Please follow these policies
+as they are written - if any interpretation is needed, please ask an
+IMP, do not attempt to make your own interpretations.
+
+
+First and foremost, whenever a player is punished please post their
+offense and punishment on the board in room 1204.
+
+
+SWEARING
+
+We allow a certain amount of vulgarity without any punishment at all.
+A player might die and gossip 'fuck' or 'shit' and nothing will come
+of it - outbursts such as those are almost expected.
+
+Swearing becomes a problem when it is over a public channel and
+repetitive and offensive to other players and / or immortals. A 
+public channel is defined as any channel other than TELL, which only
+goes between two individuals. 
+
+Swearing on the boards is included in this as well.
+
+First Offense: Warning and posting on imm board
+Second Offense: Warning of MUTE and posting on imm board
+Third Offense: MUTE of three days
+All Subsequent: MUTE until further notice
+
+ABUSE AND / OR HOSTILE TREATEMENT TO OTHER PLAYERS
+
+There can be no battles between two individuals over public channels.
+This is not only additional spam for all other noninvolved parties but
+gives the MUD a bad 'vibe'. Players razzing each other is one thing,
+but when it becomes a serious issue where two players truly do not
+care for each other, immortal intervention is required.
+
+There will be times when a player asks an immortal to intervene with
+a player(s) they may be having a problem with through private tells.
+If this happens, do not respond to the player at first and SNOOP them
+to be sure that they are not contributing to the problem. If they are
+part of the problem, then warn both players. Never take a player's word
+that they are being harassed - nine times of ten, they began something
+that they cannot finish themselves.
+
+For all harassment issues -
+
+First Offense: Stern warning in private to both parties - post 1204
+Second Offense: Stern warning in private to both parties and
+                warning of MUTE - post on 1204
+Third Offense: MUTE for 5 days for each player - post on 1204
+Subsequent Offenses: MUTE until further notice and post
+
+REIMBURSEMENT POLICY
+
+Usually, an immortal's first response to a player request for a reimb
+is disbelief. Keep in mind a player will not usually request one unless
+they feel they are somewhat substantiated in a request for one.
+
+First, check the syslog to see if the player did indeed die. This is
+done by typing FILE SYSLOG. You can control the number of lines of the
+syslog you wish to view (go back) by specifying a number.
+i.e., FILE SYSLOG 100 (takes you back 100 lines in the syslog)
+
+A reimbursement is only given if a player dies just before a crash or
+if a player dies just before an immortal reboots the game.
+
+'Natural' deaths are the player's own responsibility, it is not for the
+immortal to reward a player for reckless playing.
+
+A reimb command will be in soon, until then an immortal may reimb up
+to 25 objs in a reimbursement, no gold (a player should use the bank,
+that's what its there for).
+
+MULTIPLAY
+
+It can be difficult to find players who are truly abusing the game in
+this fashion.
+
+Many times someone who appears to be multiplaying might be playing from
+a link at a school or library that shares one ip but has many networked
+computers. Other times the link will be the same, but one number off.
+
+We have a MULTIPLAY warning which goes off every time an identical ip
+is logged into the game, but before you go nuts on the player, snoop
+them for a while and see if they are 1) grouped with the player that
+shares the other ip, 2) see if they communicate at all with each other
+if they do, then that usually means it is two seperate players, and
+3) watch to see if they both use skill commands during a fight. A true
+master of mudding could easily fake all this, but it is not likely that
+anyone that skilled at mudding would bother.
+
+First Offense: gecho warning that multiplay is only allowed up to 2 
+               players and be sure to post on 1204 the player name(s),
+               date and ip (make them log off anything over two players)
+Second Offense: gecho warning and deletion of lowest level player and
+                post on 1204 player name(s), date and ip
+Third Offense: deletion of both players, no warning
+               post on 1204 player name(s), date and ip
+
+SPELL-UPS / TELEPORTS / ETC
+
+Players will often ask for favors from the immortals. Common requests
+are for teleports when lost, free eq, free spells, potions, etc.
+
+Permissable: newbies often need the extra little boost to get through
+             their first levels. Players under level 10 can get the
+             occasional gift from the gods (bless, armor, sanc)
+
+All else is not permissable.

@@ -1,0 +1,2018 @@
+#18800
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway makes a
+turn here, it now runs north and east.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 0 19433 0
+D1
+~
+~
+0 -1 18801 0
+D2
+~
+~
+0 -1 18805 0
+S
+#18801
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway makes a
+turn here, it now runs west and south.    
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18802 0
+D2
+~
+~
+0 -1 18806 0
+D3
+~
+~
+0 -1 18800 0
+S
+#18802
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 -1 18803 0
+D2
+~
+~
+0 -1 18807 0
+D3
+~
+~
+0 -1 18801 0
+S
+#18803
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D1
+~
+~
+0 -1 18804 0
+D2
+~
+~
+0 -1 18808 0
+D3
+~
+~
+0 -1 18802 0
+S
+#18804
+The Forest~
+You walk in Thewster Forest little birds and crickets chirp.  To the
+south it smells like something died.    
+~
+188 0 0 0 0 3
+D2
+~
+~
+0 -1 18809 0
+D3
+~
+~
+0 -1 18803 0
+S
+#18805
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18800 0
+D1
+~
+~
+0 -1 18806 0
+D2
+~
+~
+0 -1 18811 0
+S
+#18806
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway makes a
+turn, it now runs north and east.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18801 0
+D1
+~
+~
+0 -1 18807 0
+D2
+~
+~
+0 -1 18812 0
+D3
+~
+~
+0 -1 18805 0
+S
+#18807
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+south and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18802 0
+D1
+~
+~
+0 -1 18808 0
+D2
+~
+~
+0 -1 18813 0
+D3
+~
+~
+0 -1 18806 0
+S
+#18808
+The Forest~
+You are in Thewster Forest, leaves and twigs crunch as you walk.  It
+smells like something died to the east.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18803 0
+D1
+~
+~
+0 -1 18809 0
+D2
+~
+~
+0 -1 18814 0
+D3
+~
+~
+0 -1 18807 0
+S
+#18809
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18804 0
+D1
+~
+~
+0 -1 18810 0
+D2
+~
+~
+0 -1 18815 0
+D3
+~
+~
+0 -1 18808 0
+S
+#18810
+The Forest~
+You are in Thewster Forest, leaves and twigs crunch as you walk.  It
+smells like something died to the west.    
+~
+188 0 0 0 0 3
+D2
+~
+~
+0 -1 18816 0
+D3
+~
+~
+0 -1 18809 0
+S
+#18811
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18805 0
+D1
+~
+~
+0 -1 18812 0
+D2
+~
+~
+0 -1 18822 0
+S
+#18812
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18806 0
+D1
+~
+~
+0 -1 18813 0
+D2
+~
+~
+0 -1 18823 0
+D3
+~
+~
+0 -1 18811 0
+S
+#18813
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18807 0
+D1
+~
+~
+0 -1 18814 0
+D2
+~
+~
+0 -1 18824 0
+D3
+~
+~
+0 -1 18812 0
+S
+#18814
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18808 0
+D1
+~
+~
+0 -1 18815 0
+D2
+~
+~
+0 -1 18825 0
+D3
+~
+~
+0 -1 18813 0
+S
+#18815
+The Forest~
+You walk in Thewster Forest little birds and crickets chirp.  To the
+north it smells like something died.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18809 0
+D1
+~
+~
+0 -1 18816 0
+D2
+~
+~
+0 -1 18826 0
+D3
+~
+~
+0 -1 18814 0
+S
+#18816
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18810 0
+D1
+~
+~
+0 -1 18817 0
+D2
+~
+~
+0 -1 18827 0
+D3
+~
+~
+0 -1 18815 0
+S
+#18817
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D1
+~
+~
+0 -1 18818 0
+D2
+~
+~
+0 -1 18828 0
+D3
+~
+~
+0 -1 18816 0
+S
+#18818
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D1
+~
+~
+0 -1 18819 0
+D2
+~
+~
+0 -1 18829 0
+D3
+~
+~
+0 -1 18817 0
+S
+#18819
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D1
+~
+~
+0 -1 18820 0
+D2
+~
+~
+0 -1 18830 0
+D3
+~
+~
+0 -1 18818 0
+S
+#18820
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D1
+~
+~
+0 -1 18821 0
+D2
+~
+~
+0 -1 18831 0
+D3
+~
+~
+0 -1 18819 0
+S
+#18821
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D2
+~
+~
+0 -1 18832 0
+D3
+~
+~
+0 -1 18820 0
+S
+#18822
+A Dusty Dirt Road.~
+You walk down a narrow road dirt road.  Little clouds of dust rise up
+from the ground with every step you take.  The forest surrounds the
+road and little glowing red eyes can be seen peering out of the forest
+at you.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18811 0
+D1
+~
+~
+0 -1 18823 0
+D3
+~
+~
+0 -1 18886 0
+S
+#18823
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  A dusty dirt road
+branches off to the west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18812 0
+D1
+~
+~
+0 -1 18824 0
+D3
+~
+~
+0 -1 18822 0
+S
+#18824
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway makes a
+turn here, it now runs east and north.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18813 0
+D1
+~
+~
+0 -1 18825 0
+D2
+~
+~
+0 -1 18835 0
+D3
+~
+~
+0 -1 18823 0
+S
+#18825
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway
+intersects with another highway here, it now runs east, west and
+south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18814 0
+D1
+~
+~
+0 -1 18826 0
+D2
+~
+~
+0 -1 18836 0
+D3
+~
+~
+0 -1 18824 0
+S
+#18826
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  Far off in the east
+you can see some mountains.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18815 0
+D1
+~
+~
+0 -1 18827 0
+D2
+~
+~
+0 -1 18837 0
+D3
+~
+~
+0 -1 18825 0
+S
+#18827
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18816 0
+D1
+~
+~
+0 -1 18828 0
+D2
+~
+~
+0 -1 18838 0
+D3
+~
+~
+0 -1 18826 0
+S
+#18828
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18817 0
+D1
+~
+~
+0 -1 18829 0
+D2
+~
+~
+0 -1 18839 0
+D3
+~
+~
+0 -1 18827 0
+S
+#18829
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18818 0
+D1
+~
+~
+0 -1 18830 0
+D3
+~
+~
+0 -1 18828 0
+S
+#18830
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18819 0
+D1
+~
+~
+0 -1 18831 0
+D3
+~
+~
+0 -1 18829 0
+S
+#18831
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18820 0
+D1
+~
+~
+0 -1 18832 0
+D3
+~
+~
+0 -1 18830 0
+S
+#18832
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18821 0
+D1
+~
+~
+0 -1 18833 0
+D3
+~
+~
+0 -1 18831 0
+S
+#18833
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18834 0
+D3
+~
+~
+0 -1 18832 0
+S
+#18834
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  Large boulders from
+a recent land slide block the way east.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18882 0
+D3
+~
+~
+0 -1 18833 0
+S
+#18835
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18824 0
+D1
+~
+~
+0 -1 18836 0
+D2
+~
+~
+0 -1 18840 0
+S
+#18836
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18825 0
+D1
+~
+~
+0 -1 18837 0
+D2
+~
+~
+0 -1 18841 0
+D3
+~
+~
+0 -1 18835 0
+S
+#18837
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18826 0
+D1
+~
+~
+0 -1 18838 0
+D2
+~
+~
+0 -1 18842 0
+D3
+~
+~
+0 -1 18836 0
+S
+#18838
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18827 0
+D1
+~
+~
+0 -1 18839 0
+D2
+~
+~
+0 -1 18843 0
+D3
+~
+~
+0 -1 18837 0
+S
+#18839
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18828 0
+D3
+~
+~
+0 -1 18838 0
+S
+#18840
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18835 0
+D1
+~
+~
+0 -1 18841 0
+D2
+~
+~
+0 -1 18844 0
+S
+#18841
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18836 0
+D1
+~
+~
+0 -1 18842 0
+D2
+~
+~
+0 -1 18845 0
+D3
+~
+~
+0 -1 18840 0
+S
+#18842
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18837 0
+D1
+~
+~
+0 -1 18843 0
+D2
+~
+~
+0 -1 18846 0
+D3
+~
+~
+0 -1 18841 0
+S
+#18843
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18838 0
+D2
+~
+~
+0 -1 18847 0
+D3
+~
+~
+0 -1 18842 0
+S
+#18844
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18840 0
+D1
+~
+~
+0 -1 18845 0
+D2
+~
+~
+0 -1 18848 0
+S
+#18845
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18841 0
+D1
+~
+~
+0 -1 18846 0
+D2
+~
+~
+0 -1 18849 0
+D3
+~
+~
+0 -1 18844 0
+S
+#18846
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18842 0
+D1
+~
+~
+0 -1 18847 0
+D2
+~
+~
+0 -1 18850 0
+D3
+~
+~
+0 -1 18845 0
+S
+#18847
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18843 0
+D2
+~
+~
+0 -1 18851 0
+D3
+~
+~
+0 -1 18846 0
+S
+#18848
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18844 0
+D1
+~
+~
+0 -1 18849 0
+D2
+~
+~
+0 -1 18854 0
+S
+#18849
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18845 0
+D1
+~
+~
+0 -1 18850 0
+D2
+~
+~
+0 -1 18855 0
+D3
+~
+~
+0 -1 18848 0
+S
+#18850
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18846 0
+D1
+~
+~
+0 -1 18851 0
+D2
+~
+~
+0 -1 18856 0
+D3
+~
+~
+0 -1 18849 0
+S
+#18851
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18847 0
+D2
+~
+~
+0 -1 18857 0
+D3
+~
+~
+0 -1 18850 0
+S
+#18852
+A Clearing~
+You stand at the enterance to a small cave, little glowing eyes stare
+back at you.  It's real dark down there, you're going to need a light.
+~
+188 4 0 0 0 2
+D1
+~
+~
+0 -1 18853 0
+D2
+~
+~
+0 -1 18858 0
+D3
+~
+~
+0 -1 -1 0
+D5
+~
+~
+0 0 18743 0
+S
+#18853
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D2
+~
+~
+0 -1 18859 0
+D3
+~
+~
+0 -1 18852 0
+S
+#18854
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18848 0
+D1
+~
+~
+0 -1 18855 0
+D2
+~
+~
+0 -1 18860 0
+S
+#18855
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18849 0
+D1
+~
+~
+0 -1 18856 0
+D2
+~
+~
+0 -1 18861 0
+D3
+~
+~
+0 -1 18854 0
+S
+#18856
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18850 0
+D1
+~
+~
+0 -1 18857 0
+D2
+~
+~
+0 -1 18862 0
+D3
+~
+~
+0 -1 18855 0
+S
+#18857
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18851 0
+D2
+~
+~
+0 -1 18863 0
+D3
+~
+~
+0 -1 18856 0
+S
+#18858
+A Clearing~
+You stand in a big clearing in the forest, to the north you see what
+looks like the enterance to a cave.    
+~
+188 4 0 0 0 2
+D0
+~
+~
+0 -1 18852 0
+D1
+~
+~
+0 -1 18859 0
+D2
+~
+~
+0 -1 18864 0
+D3
+~
+~
+0 -1 18909 0
+S
+#18859
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18853 0
+D1
+~
+~
+0 -1 18860 0
+D2
+~
+~
+0 -1 18865 0
+D3
+~
+~
+0 -1 18858 0
+S
+#18860
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18854 0
+D1
+~
+~
+0 -1 18861 0
+D2
+~
+~
+0 -1 18866 0
+D3
+~
+~
+0 -1 18859 0
+S
+#18861
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18855 0
+D1
+~
+~
+0 -1 18862 0
+D2
+~
+~
+0 -1 18867 0
+D3
+~
+~
+0 -1 18860 0
+S
+#18862
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18856 0
+D1
+~
+~
+0 -1 18863 0
+D2
+~
+~
+0 -1 18868 0
+D3
+~
+~
+0 -1 18861 0
+S
+#18863
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18857 0
+D2
+~
+~
+0 -1 18869 0
+D3
+~
+~
+0 -1 18862 0
+S
+#18864
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18858 0
+D1
+~
+~
+0 -1 18865 0
+D2
+~
+~
+0 -1 18870 0
+S
+#18865
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18859 0
+D1
+~
+~
+0 -1 18866 0
+D2
+~
+~
+0 -1 18871 0
+D3
+~
+~
+0 -1 18864 0
+S
+#18866
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18860 0
+D1
+~
+~
+0 -1 18867 0
+D2
+~
+~
+0 -1 18872 0
+D3
+~
+~
+0 -1 18865 0
+S
+#18867
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+north and south.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18861 0
+D1
+~
+~
+0 -1 18868 0
+D2
+~
+~
+0 -1 18873 0
+D3
+~
+~
+0 -1 18866 0
+S
+#18868
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18862 0
+D1
+~
+~
+0 -1 18869 0
+D2
+~
+~
+0 -1 18874 0
+D3
+~
+~
+0 -1 18867 0
+S
+#18869
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18863 0
+D2
+~
+~
+0 -1 18875 0
+D3
+~
+~
+0 -1 18868 0
+S
+#18870
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18864 0
+D1
+~
+~
+0 -1 18871 0
+D3
+~
+~
+0 -1 18928 0
+S
+#18871
+The Stairs~
+Nirin Highway widens out here and is very well kept.  The branches
+here grow in such a way that they form stairs leading up and to the
+south you see a horse stable.  West and east Nirin Highway continues.
+~
+188 0 0 0 0 10
+D0
+~
+~
+0 -1 18865 0
+D1
+~
+~
+0 -1 18872 0
+D2
+~
+~
+0 -1 18877 0
+D3
+~
+~
+0 -1 18870 0
+D4
+~
+~
+0 0 18702 0
+S
+#18872
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway runs
+east and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18866 0
+D1
+~
+~
+0 -1 18873 0
+D2
+~
+~
+0 -1 18878 0
+D3
+~
+~
+0 -1 18871 0
+S
+#18873
+Nirin Highway~
+The highway is a wide cobble stone road rasied high in the middle with
+a trench on either side.  The surrounding forest stretches over the
+top of the highway shading it and providing a tunnel effect.  The
+sounds of the forest can be heard all around you.  The highway makes a
+turn here and now runs north and west.    
+~
+188 4 0 0 0 10
+D0
+~
+~
+0 -1 18867 0
+D1
+~
+~
+0 -1 18874 0
+D2
+~
+~
+0 -1 18879 0
+D3
+~
+~
+0 -1 18872 0
+S
+#18874
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18868 0
+D1
+~
+~
+0 -1 18875 0
+D2
+~
+~
+0 -1 18880 0
+D3
+~
+~
+0 -1 18873 0
+S
+#18875
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18869 0
+D2
+~
+~
+0 -1 18881 0
+D3
+~
+~
+0 -1 18874 0
+S
+#18876
+Horse lot~
+No one will ever see this.    
+~
+188 65540 0 0 0 1
+S
+#18877
+The Stables~
+You stand in the dirty smelly stables.  Sadles rest on wooden horses
+and horse shoes hang from the walls.  The only exit is north to the
+stairs.    
+~
+188 8 0 0 0 3
+D0
+~
+~
+0 -1 18871 0
+S
+#18878
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18872 0
+D1
+~
+~
+0 -1 18879 0
+S
+#18879
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18873 0
+D1
+~
+~
+0 -1 18880 0
+D3
+~
+~
+0 -1 18878 0
+S
+#18880
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18874 0
+D1
+~
+~
+0 -1 18881 0
+D3
+~
+~
+0 -1 18879 0
+S
+#18881
+The Forest~
+As your eyes get used to the dimness, you can see a little way to
+either side, a sort of darkend green glimmer.  Ocassionally a slender
+beam of sun has the luck to slip in through some opening in the leaves
+far above, and still more luck in not being caught in the tangled
+boughs and matted twigs beneath.    
+~
+188 0 0 0 0 3
+D0
+~
+~
+0 -1 18875 0
+D3
+~
+~
+0 -1 18880 0
+S
+#18882
+A Shack~
+You stand in a small round shack north of the highway, it looks like a
+good place to take a rest before traveling further.    
+~
+188 9 0 0 0 3
+D2
+~
+~
+0 -1 18834 0
+S
+#18883
+A Dust Dirt Road~
+The road upon which you are walking is very narrow and clouds of dust
+billow about in the breeze.  A forest of tall trees with broad green
+leaves surrounds the road to the north and south.  The dirt road
+continues east.    
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18884 0
+D3
+~
+~
+0 0 -1 0
+S
+#18884
+A dusty Dirt Road~
+The road upon which you are walking is very narrow and clouds of dust
+billow about in the breeze.  Occasionally a broad leaf will detatch
+itself from its parent tree and gently spiral to the ground.  The dirt
+road continues to the east and west, also to the west you can see a
+walled city.    
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18885 0
+D3
+~
+~
+0 -1 18883 0
+S
+#18885
+A dusty Dirt Road~
+The road upon which you are walking is very narrow and clouds of dust
+billow about in the breeze.  A forest of tall trees with broad green
+leaves surrounds the road to the north and south.  Small woodland type
+creatures can be heard going about their lives deep with in the
+forest.  The dirt road continues east and west.    
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18886 0
+D3
+~
+~
+0 -1 18884 0
+S
+#18886
+A dusty Dirt Road~
+The road upon which you are walking is very narrow and clouds of dust
+billow about in the breeze.  Occasionally a broad leaf will detatch
+itself from its parent tree and gently spiral to the ground.  The dirt
+road continues to the east and west, also to the west you can see a
+walled city
+~
+188 4 0 0 0 10
+D1
+~
+~
+0 -1 18822 0
+D3
+~
+~
+0 -1 18885 0
+S
+#18887
+Mob Load Room~
+Get outta here.    
+~
+188 65664 0 0 0 1
+D0
+~
+~
+0 0 18800 0
+D1
+~
+~
+0 0 18830 0
+D2
+.
+~
+~
+0 0 18840 0
+D3
+~
+~
+0 0 18860 0
+D4
+~
+~
+0 0 18870 0
+S
+#18888
+Mob Load room 2~
+Get outta here
+~
+188 65664 0 0 0 1
+D0
+~
+~
+0 0 18810 0
+D1
+~
+~
+0 0 18830 0
+D2
+~
+~
+0 0 18850 0
+D3
+~
+~
+0 0 18870 0
+S
+$~

@@ -1,0 +1,1699 @@
+#400
+The Living Room~
+Large pieces of furniture seem to grab your eye.  They have nice
+bright colors in them that you haven't seen in your travels.  This is
+the place where the whole family comes together to talk about their
+day and how their life is going.    
+~
+4 38912 0 0 0 0
+D0
+~
+~
+0 0 409 0
+S
+#401
+The Kitchen~
+Pots and pans are strewn about like someone went on a rampage and
+destroyed everything.  Some moldy food from about a year ago sits on
+the countertop.  Once, long long ago, this may have been a fancy
+kitchen, in fact, one can see the remnants of gold trim on the wood
+burner.  All the utensils look somewhat primitive, even though they
+have gold trim.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 405 0
+D2
+~
+door~
+1 0 411 3
+D3
+~
+Door~
+1 0 406 3
+S
+#402
+The Master Bedroom~
+This is a massive bedroom that is colored in a soft peach color.  
+There is a queen-sized waterbed that sits in the middle of the room.
+It has a Mexican quilt on the top of it.  The headboard has intricate
+design of a biblical scene.  The carpet is very thick and squishes
+under your feet.  To your right is an antique dresser drawer with a
+large picture mirror that reflects your beaten face.    
+~
+4 38912 0 0 0 0
+D0
+~
+door~
+1 0 410 1
+S
+#403
+The Children's Bedroom~
+Two twin-sized straw beds lean against the walls, drooping from all
+the beatings and bouncing they have been subjected to over the years.
+The beds have fancy blankets on top.  Some of the toys that were
+visible in the den are similar to the toys in here, obviously the
+children have duplicate sets.    
+~
+4 38912 0 0 0 0
+D2
+~
+door~
+1 0 410 1
+D5
+~
+~
+0 0 404 0
+S
+#404
+The Playing Den~
+Little handmade stick toys line the floor.  In front of you are two
+large chests that hold tons of toys.  The parents must not work too
+hard to keep this room clean, since there is still dirt caked on the
+floor from long ago.  The stone here is one of those special fireproof
+stone tiles you find in the dens of old people that worry too much.  
+Who in their right mind would put white stone in a playroom...?    
+~
+4 38912 0 0 0 0
+D4
+~
+~
+0 0 403 0
+S
+#405
+The Mess Hall~
+This is where travelers from afar would be invited in to feast on some
+stew.  A large wooden table with matching wooden bench have been
+placed in the center of the room.  Atop the table sits plates of old
+food, left from long ago.    
+~
+4 38912 0 0 0 0
+D0
+~
+Door~
+1 0 433 3
+D2
+~
+~
+0 0 409 0
+D3
+~
+~
+0 0 401 0
+S
+#406
+The Washing Room~
+The floor in this room is a pink tile that looks fairly new.  All the
+cupboards in this room are closed tightly.  The clothing that is
+strewn about looks as though it is in need of a good washing.    
+~
+4 32768 0 0 0 0
+D1
+~
+door~
+1 0 401 3
+D3
+~
+Door~
+1 0 407 3
+S
+#407
+The Stinky Outhouse~
+A stench of decaying feces assails your nose, making tears pour from
+your eyes.  The hole before you has a haze coming from deep within.  
+No one would ever want to use this bathroom, even if they had to.    
+~
+4 32768 0 0 0 0
+D1
+~
+door~
+1 0 406 7
+S
+#408
+The Memory's Hallway~
+This is a hallway filled with charcoal pictures of all the family
+ancestors.  The cold blue stone beneath your feet sends chills through
+your shoes.  The thought of your own family suddenly flashes before
+your eyes.    
+~
+4 38912 0 0 0 0
+D0
+~
+door~
+1 0 417 3
+D1
+~
+~
+0 0 410 0
+D3
+~
+~
+0 0 409 0
+S
+#409
+The Entrance to the House~
+A woven rug with the word "welcome" is lying beneath your feet.  
+Paintings of family members line the walls.  To the north you can see
+a room that looks like it might be the mess hall.  Suddenly your
+stomach growls, and you recall you haven't eaten in quite some time.
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 405 0
+D1
+~
+~
+0 0 408 0
+D2
+~
+~
+0 0 400 0
+D3
+~
+door~
+1 0 418 3
+S
+#410
+The Memory's Hallway~
+This is a hallway filled with charcoal pictures of all the family
+ancestors.  The cold blue stone beneath your feet sends chills through
+your shoes.  The thought of your own family suddenly flashes before
+your eyes.    
+~
+4 38912 0 0 0 0
+D0
+~
+door~
+1 0 403 3
+D2
+~
+door~
+1 0 402 3
+D3
+~
+~
+0 0 408 0
+S
+#411
+The House Entrance~
+A woven rug with the word "welcome" is lying beneath your feet.  
+Paintings of family members line the walls.  To the north you can see
+a room that looks like it might be the mess hall.  Suddenly your
+stomach growls, and you recall you haven't eaten in quite some time.
+~
+4 32768 0 0 0 0
+D0
+~
+door~
+1 0 401 3
+D1
+~
+door~
+1 0 413 3
+D2
+~
+~
+0 0 412 0
+S
+#412
+The Horse Stable~
+Horses are tethered to a long pole which is supported by two sturdy
+logs.  Feces make a thick coat of dirt and goo beneath your feet.  
+There is also quite a nasty odor in the air.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 411 0
+D2
+~
+~
+0 0 421 0
+S
+#413
+The Stairs to the Basement~
+These are the stairs leading down to the basement.  They are a dark
+grey color.  The dampness in the air cools your skin leaving you in a
+pleasent mood.    
+~
+4 32768 0 0 0 0
+D3
+~
+door~
+1 0 411 3
+D5
+~
+~
+0 0 414 0
+S
+#414
+The Basement~
+It is very damp in here, and there is not much eye-catching laying
+about.  It looks as though someone used to make quilts down here a
+long time ago.  The floor is very cold, and tempts you to move on to a
+different place quickly.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 416 0
+D2
+~
+door~
+1 0 415 3
+D4
+~
+~
+0 0 413 0
+S
+#415
+The Guest Bedroom~
+Unlucky guests were forced to sleep down here.  Two small beds are
+against the walls, but there are no other furnishings.  The floor was
+done by some unexperienced mason.  Not one speck of sunlight comes to
+heat or light this room.    
+~
+4 32769 0 0 0 0
+D0
+~
+door~
+1 0 414 3
+S
+#416
+The Work Room~
+At one time this was the place where someone built everything you have
+seen in the house.  Tools of all different styles line the wall.  
+None of them are any good anymore.  This place is scary.    
+~
+4 32768 0 0 0 0
+D2
+~
+~
+0 0 414 0
+S
+#417
+The Master Bathroom~
+Just the place you needed.  Except this one is purple and very very
+large.  The biggest you've ever seen.  As a matter of fact it is
+bigger than your own house.  I bet you could sleep two five-person
+families in this room.  To your right side is a two-person purple
+bathtub.  To your left is a golden sink with a thick layer of dust on
+top.  The floor is made of that pink tile you have been seeing around.
+In the far right hand corner is a toilet and a large heap of
+magazines.    
+~
+4 34816 0 0 0 0
+D2
+~
+door~
+1 0 408 3
+S
+#418
+The Front Porch~
+This is a small porch made of wood and stone.  Many people have stood
+where you are standing, many people...    
+~
+4 32768 0 0 0 0
+D1
+~
+door~
+1 0 409 3
+D3
+~
+~
+0 0 419 0
+S
+#419
+A cobble stoned path~
+Here is a small path leading to the house.  There isn't much here at
+all, just a few small stones.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 418 0
+D2
+~
+~
+0 0 424 0
+D3
+~
+~
+0 0 420 0
+S
+#420
+A cobbled stoned path~
+Here is a small path leading to the house.  There isn't much here at
+all, just a few small stones.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 419 0
+D2
+~
+~
+0 0 423 0
+D3
+~
+~
+0 0 421 0
+S
+#421
+The Stone Way~
+The grey stoneway suggests a perfect setting for a game of stick ball.
+Even though you have never played the game in your life, you actually
+consider learning the sport.  Small rocks lie all over the place from
+the wear and tear the stoneway has received over the years.  Patches
+of charcoal catch your eye.    
+~
+4 32768 0 0 0 1
+D0
+~
+~
+0 0 412 0
+D1
+~
+~
+0 0 420 0
+D2
+~
+~
+0 0 422 0
+D3
+~
+~
+0 0 429 0
+S
+#422
+The Stone Way~
+The grey stoneway suggests a perfect setting for a game of stick ball.
+Even though you have never played the game in your life, you actually
+consider learning the sport.  Small rocks lie all over the place from
+the wear and tear the stoneway has received over the years.  Patches
+of charcoal catch your eye.    
+~
+4 32768 0 0 0 1
+D0
+~
+~
+0 0 421 0
+D2
+~
+~
+0 0 425 0
+D3
+~
+~
+0 0 428 0
+S
+#423
+The Front Yard~
+Long green grass reaches as high as your thighs.  You notice
+that this place has not been mowed in years.  You could make a fortune
+on hay, if only you had a hay bailer with you.  Hopefully the pits
+that lie hidden under the blankets of grass won't trip you too much.
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 420 0
+D1
+~
+~
+0 0 424 0
+S
+#424
+A Garden In the Front Yard~
+These lush gardens make one appreciate the beauty that is offered in a
+country setting, compared to a city setting.  Flowers readily grow all
+around, though this garden has many weeds and grass, suggesting no one
+has weeded it in quite some time.  All different kinds of colors seem
+to poke their way out from the shadows of the big fruit trees.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 419 0
+D3
+~
+~
+0 0 423 0
+S
+#425
+The Dirt Road~
+This must be the main bloodline to the house.  All sorts of vehicles
+have traveled on this road to go to and from the house.  In the
+distance you can see large mountains from where you stand.  The
+massive picture scene brought before your eyes is almost enough to
+make you turn back.    
+~
+4 32768 0 0 0 4
+D0
+~
+~
+0 0 422 0
+D3
+~
+~
+0 0 426 0
+S
+#426
+The Dirt Road~
+This must be the main bloodline to the house.  All sorts of vehicles
+have traveled on this road to go to and from the house.  In the
+distance you can see large mountains from where you stand.  The
+massive picture scene brought before your eyes is almost enough to
+make you turn back.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 428 0
+D1
+~
+~
+0 0 425 0
+D3
+~
+~
+0 0 427 0
+S
+#427
+The Dirt Road~
+This must be the main bloodline to the house.  All sorts of vehicles
+have traveled on this road to go to and from the house.  In the
+distance you can see large mountains from where you stand.  The
+massive picture scene brought before your eyes is almost enough to
+make you turn back.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 426 0
+D3
+~
+~
+0 0 434 0
+S
+#428
+The Side Yard~
+Long green grass reaches as high as your thighs.  You notice
+that this place has not been mowed in years.  You could make a fortune
+on hay, if only you had a hay bailer with you.  Hopefully the pits
+that lie hidden under the blankets of grass won't trip you too much.
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 429 0
+D1
+~
+~
+0 0 422 0
+D2
+~
+~
+0 0 426 0
+S
+#429
+The Side Yard~
+Long green grass reaches as high as your thighs.  You notice that this
+place has not been mowed in years.  You could make a fortune on hay,
+if only you had a hay bailer with you.  Hopefully the pits that lie
+hidden under the blankets of grass won't trip you too much.    
+~
+4 32768 0 0 0 0
+D0
+~
+Gate~
+0 0 430 0
+D1
+~
+~
+0 0 421 0
+D2
+~
+~
+0 0 428 0
+S
+#430
+The Back Yard~
+Long green grass reaches as high as your thighs.  You notice that this
+place has not been mowed in years.  You could make a fortune on hay,
+if only you had a hay bailer with you.  Hopefully the pits that lie
+hidden under the blankets of grass won't trip you too much.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 431 0
+D2
+~
+Gate~
+1 0 429 1
+S
+#431
+The Back Yard~
+Long green grass reaches as high as your thighs.  You notice that this
+place has not been mowed in years.  You could make a fortune on hay,
+if only you had a hay bailer with you.  Hopefully the pits that lie
+hidden under the blankets of grass won't trip you too much.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 432 0
+D2
+~
+~
+0 0 430 0
+S
+#432
+The Yard Behind the House~
+Long green grass reaches as high as your thighs.  You notice that this
+place has not been mowed in years.  You could make a fortune on hay,
+if only you had a hay bailer with you.  Hopefully the pits that lie
+hidden under the blankets of grass won't trip you too much.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 433 0
+D3
+~
+~
+0 0 431 0
+S
+#433
+The Deck~
+This deck is quite old, in fact the stain that was once bright red is
+now peeled away from the weather.  To your right is a fire pit that
+was once used by the man of the house.  A small picnic table is in the
+middle of the deck, though it hasn't seen a piece of food on it
+forever, except of course for the rotting corpse or two that has
+fallen on it every once in a while.    
+~
+4 32768 0 0 0 0
+D2
+~
+door~
+1 0 405 3
+D3
+~
+~
+0 0 432 0
+S
+#434
+/cCThe Entrance to the Newbie House!/c0~
+This is the begining room for a zone that has been made just for
+newbies looking to make their first kills.  If you are level 1,
+prepare to have some fun.  Everything in this zone has been made with
+low level players in mind.    
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 427 0
+D4
+~
+~
+0 0 3068 0
+S
+#435
+The /cRRed /ccSquare/c0~
+/cwEverything in this room is a shade of /crred/cw.  The floor is made
+of alternating tiles colored in crimson and vermillion.  A few puny
+barbells can be seen laying about, seemingly to help the /crred
+/cwplayers improve their weak bodies.    
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 436 0
+D1
+~
+~
+0 0 440 0
+S
+#436
+The /cYYellow /ccSquare/c0~
+/cwEverything in this room is a shade of /cyyellow/cw.  The floor is
+made of alternating tiles colored in lemon and bananna.  A chair
+adorned in gold plating sits in the middle of the room.  Apparently
+the /cyyellow /cwplayers like to sit around and be lazy.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 437 0
+D1
+~
+~
+0 0 441 0
+D2
+~
+~
+0 0 435 0
+S
+#437
+The /cGGreen /ccSquare/c0~
+/cwEverything in this room is a shade of /cggreen/cw.  The floor is
+made of alternating tiles colored in lime and emerald.  Numerous boxes
+of tissues lie around, apparently the /cggreen /cwplayers are quite
+upset they are losing.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 438 0
+D1
+~
+~
+0 0 442 0
+D2
+~
+~
+0 0 436 0
+S
+#438
+The /cBBlue /ccSquare/c0~
+/cwEverything in this room is a shade of /cbblue/cw.  The floor is
+made of alternating tiles colored in navy and peacock.  A stack of
+books about cheating sits in one corner, apparently the /cbblue
+/cwplayers will do anything to win.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 439 0
+D1
+~
+~
+0 0 443 0
+D2
+~
+~
+0 0 437 0
+S
+#439
+The /cWWhite /ccSquare/c0~
+/cwEverything in this room is a shade of /cWwhite/cw.  The floor is
+made of alternating tiles colored in platinum and very light grey.  A
+few mirrors lay about the room, seemingly the /cWwhite /cwplayers are
+so confident they merely check their appearance and start playing.  
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 444 0
+D2
+~
+~
+0 0 438 0
+S
+#440
+The /cRRed /ccSquare/c0~
+/cwEverything in this room is a shade of /crred/cw.  The floor is made
+of alternating tiles colored in crimson and vermillion.  A few puny
+barbells can be seen laying about, seemingly to help the /crred
+/cwplayers improve their weak bodies.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 441 0
+D1
+~
+~
+0 0 445 0
+D3
+~
+~
+0 0 435 0
+S
+#441
+The /cYYellow /ccSquare/c0~
+/cwEverything in this room is a shade of /cyyellow/cw.  The floor is
+made of alternating tiles colored in lemon and bananna.  A chair
+adorned in gold plating sits in the middle of the room.  Apparently
+the /cyyellow/cw players like to sit around and be lazy.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 442 0
+D1
+~
+~
+0 0 446 0
+D2
+~
+~
+0 0 440 0
+D3
+~
+~
+0 0 436 0
+S
+#442
+The /cGGreen /ccSquare/c0~
+/cwEverything in this room is a shade of /cggreen/cw.  The floor is
+made of alternating tiles colored in lime and emerald.  Numerous boxes
+of tissues lie around, apparently the /cggreen /cwplayers are quite
+upset they are losing.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 443 0
+D1
+~
+~
+0 0 447 0
+D2
+~
+~
+0 0 441 0
+D3
+~
+~
+0 0 437 0
+S
+#443
+The /cBBlue /ccSquare/c0~
+/cwEverything in this room is a shade of /cbblue/cw.  The floor is
+made of alternating tiles colored in navy and peacock.  A stack of
+books about cheating sits in one corner, apparently the /cbblue
+/cwplayers will do anything to win.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 444 0
+D1
+~
+~
+0 0 448 0
+D2
+~
+~
+0 0 442 0
+D3
+~
+~
+0 0 438 0
+S
+#444
+The /cWWhite /ccSquare/c0~
+/cwEverything in is room is a shade of /cWwhite/cw.  The floor is made
+of alternating tiles colored in platinum and very light grey.  A few
+mirrors lay about the room, seemingly the /cWwhite /cwplayers are so
+confident they merely check their appearance and start playing.  /c0
+~
+4 32768 0 0 0 0
+D1
+~
+~
+0 0 449 0
+D2
+~
+~
+0 0 443 0
+D3
+~
+~
+0 0 439 0
+S
+#445
+The /cRRed /ccSquare/c0~
+/cwEverything in this room is a shade of /crred/cw.  The floor is made
+of alternating tiles colored in crimson and vermillion.  A few puny
+barbells can be seen laying about, seemingly to help the /crred
+/cwplayers improve their weak bodies.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 446 0
+D3
+~
+~
+0 0 440 0
+S
+#446
+The /cYYellow /ccSquare/c0~
+/cwEverything in this room is a shade of /cyyellow/cw.  The floor is
+made of alternating tiles colored in lemon and bananna.  A chair
+adorned in gold plating sits in the middle of the room.  Apparently
+the /cyyellow/cw players like to sit around and be lazy.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 447 0
+D2
+~
+~
+0 0 445 0
+D3
+~
+~
+0 0 441 0
+S
+#447
+The /cGGreen /ccSquare/c0~
+/cwEverything in this room is a shade of /cggreen/cw.  The floor is
+made of alternating tiles colored in lime and emerald.  Numerous boxes
+of tissues lie around, apparently the /cggreen /cwplayers are quite
+upset they are losing.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 448 0
+D1
+~
+~
+0 0 3068 0
+D2
+~
+~
+0 0 446 0
+D3
+~
+~
+0 0 442 0
+S
+#448
+The /cBBlue /ccSquare/c0~
+/cwEverything in this room is a shade of /cbblue/cw.  The floor is
+made of alternating tiles colored in navy and peacock.  A stack of
+books about cheating sits in one corner, apparently the /cbblue
+/cwplayers will do anything to win.  /c0
+~
+4 32768 0 0 0 0
+D0
+~
+~
+0 0 449 0
+D2
+~
+~
+0 0 447 0
+D3
+~
+~
+0 0 443 0
+S
+#449
+The /cWWhite /ccSquare/c0~
+/cwEverything in this room is a shade of /cWwhite/cw.  The floor is
+made of alternating tiles colored in platinum and very light grey.  A
+few mirrors lay about the room, seemingly the /cWwhite /cwplayers are
+so confident they merely check their appearance and start playing.  
+~
+4 32768 0 0 0 0
+D2
+~
+~
+0 0 448 0
+D3
+~
+~
+0 0 444 0
+S
+#457
+/cRCircle Nine /cW- /cpTreacherous/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 458 0
+D5
+~
+~
+0 0 492 0
+D6
+~
+~
+0 0 488 0
+D7
+~
+~
+0 0 491 0
+D8
+~
+~
+0 0 489 0
+D9
+~
+~
+0 0 490 0
+S
+#458
+/cRCircle Eight /cW- /cpMalbolgia/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 459 0
+D5
+~
+~
+0 0 457 0
+D6
+~
+~
+0 0 476 0
+D7
+~
+~
+0 0 474 0
+D8
+~
+~
+0 0 478 0
+D9
+~
+~
+0 0 480 0
+S
+#459
+/cRCircle Seven /cW- /cpViolents/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 467 0
+D1
+~
+~
+0 0 467 0
+D2
+~
+~
+0 0 467 0
+D3
+~
+~
+0 0 467 0
+D4
+~
+~
+0 0 466 0
+D5
+~
+~
+0 0 458 0
+S
+#460
+/cRAnte-Hell/c0~
+Welcome to the beginning of Hell.  Here, all opportunists gather to
+prepare for the rigors and trials to become one of evil's elite, a
+Demon.  The air is hot and somewhat dry, bearing the faint scent of
+hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Ante-Hell.    
+~
+4 67174404 0 0 0 0
+D5
+~
+~
+0 0 461 0
+S
+#461
+/cRCircle One /cW- /cpLimbo/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 460 0
+D5
+~
+~
+0 0 462 0
+S
+#462
+/cRCircle Two /cW- /cpLustful/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 461 0
+D5
+~
+~
+0 0 463 0
+S
+#463
+/cRCircle Three /cW- /cpGluttonous/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 462 0
+D5
+~
+~
+0 0 464 0
+S
+#464
+/cRCircle Four /cW- /cpAvaicious//Prodigals/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 463 0
+D5
+~
+~
+0 0 465 0
+S
+#465
+/cRCircle Five /cW- /cpWrathful//Sullen/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 464 0
+D5
+~
+~
+0 0 466 0
+S
+#466
+/cRCircle Six /cW- /cpHeretics/c0~
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 465 0
+D5
+~
+~
+0 0 459 0
+S
+#467
+/cRC7 /cPRing One /cW- /cLViolent vs. Neighbors/c0~
+This is the torture cell for murderers and tyrants.  The air is hot
+and somewhat dry, bearing the faint scent of hellfire and burning
+flesh.  Faint echos of horror drift and bounce about the ungiving
+walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 459 0
+D1
+~
+~
+0 0 469 0
+D2
+~
+~
+0 0 459 0
+D3
+~
+~
+0 0 468 0
+S
+#468
+/cRC7 /cYRing Two /cW- /cLViolent vs. Themselves/c0~
+This is the room of eternal damnation for those unfortunate souls who
+have committed suicide in life.  The air is hot and somewhat dry,
+bearing the faint scent of hellfire and burning flesh.  Faint echos of
+horror drift and bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 469 0
+D1
+~
+~
+0 0 467 0
+D2
+~
+~
+0 0 469 0
+D3
+~
+~
+0 0 470 0
+S
+#469
+/cRC7 /cYRing Two /cW- /cLViolent vs. Possessions/c0~
+This is the torture room for those who squandered in life.  The air is
+hot and somewhat dry, bearing the faint scent of hellfire and burning
+flesh.  Faint echos of horror drift and bounce about the ungiving
+walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 468 0
+D1
+~
+~
+0 0 472 0
+D2
+~
+~
+0 0 468 0
+D3
+~
+~
+0 0 467 0
+S
+#470
+/cRC7 /cGRing Three /cW- /cLViolent vs. God/c0~
+This is the room of suffering for all those who have blashpemed in
+life.  The air is hot and somewhat dry, bearing the faint scent of
+hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 468 0
+D6
+~
+~
+0 0 471 0
+D8
+~
+~
+0 0 471 0
+S
+#471
+/cRC7 /cGRing Three /cW- /cLViolent vs. Nature/c0~
+This is the torture room for sodomites.  May they have the courage to
+endure here.  The air is hot and somewhat dry, bearing the faint scent
+of hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D6
+~
+~
+0 0 472 0
+D7
+~
+~
+0 0 470 0
+D8
+~
+~
+0 0 472 0
+D9
+~
+~
+0 0 470 0
+S
+#472
+/cRC7 /cGRing Three /cW- /cLViolent vs. Art/c0~
+This is the dominion of usurers, a painful place to be should a soul
+find it's way here.  The air is hot and somewhat dry, bearing the
+faint scent of hellfire and burning flesh.  Faint echos of horror
+drift and bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D3
+~
+~
+0 0 469 0
+D7
+~
+~
+0 0 471 0
+D9
+~
+~
+0 0 471 0
+S
+#473
+/cRC8 /cBMalbolgia 1 /cW- /cLPanderers//Seducers/c0~
+Those who were fradulent and malicious in life find their way here.  
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 474 0
+D2
+~
+~
+0 0 480 0
+S
+#474
+/cRC8 /cBMalbolgia 2 /cW- /cLFlatterers/c0~
+Flatterers in life find eternal damnation here.  The air is hot and
+somewhat dry, bearing the faint scent of hellfire and burning flesh.
+Faint echos of horror drift and bounce about the ungiving walls of
+Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 475 0
+D2
+~
+~
+0 0 473 0
+D8
+~
+~
+0 0 458 0
+S
+#475
+/cRC8 /cBMalbolgia 3 /cW- /cLSimoniacs/c0~
+Beware, if you are a simoniac, this place will soon be your home of
+never-ending pain.  The air is hot and somewhat dry, bearing the faint
+scent of hellfire and burning flesh.  Faint echos of horror drift and
+bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 476 0
+D3
+~
+~
+0 0 474 0
+S
+#476
+/cRC8 /cBMalbolgia 4 /cW- /cLFortunetellers//Diviners/c0~
+This place is the final resting place for the unfortunate souls who
+have committed this sin once to many times.  The air is hot and
+somewhat dry, bearing the faint scent of hellfire and burning flesh.
+Faint echos of horror drift and bounce about the ungiving walls of
+Hell.    
+~
+4 67174404 0 0 0 0
+D2
+~
+~
+0 0 477 0
+D3
+~
+~
+0 0 475 0
+D9
+~
+~
+0 0 458 0
+S
+#477
+/cRC8 /cBMalbolgia 5 /cW- /cLGrafters/c0~
+This is the realm of swindlers, souls who are guilty of such in life
+end up here for a sleepless eternity.  The air is hot and somewhat
+dry, bearing the faint scent of hellfire and burning flesh.  Faint
+echos of horror drift and bounce about the ungiving walls of Hell.  
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 476 0
+D2
+~
+~
+0 0 478 0
+S
+#478
+/cRC8 /cBMalbolgia 6 /cW- /cLHypocrites/c0~
+Careful of what you speak and preach, for this is the place of such
+ilk.  The air is hot and somewhat dry, bearing the faint scent of
+hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 477 0
+D3
+~
+~
+0 0 479 0
+D7
+~
+~
+0 0 458 0
+S
+#479
+/cRC8 /cBMalbolgia 7 /cW- /cLThieves/c0~
+Souls who are guilty of thievery find their final resting place here.
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 478 0
+D3
+~
+~
+0 0 480 0
+S
+#480
+/cRC8 /cBMalbolgia 8 /cW- /cLFraudulent Counselors/c0~
+Fradulent counselors find their resting place here, forever writhing
+in agony.  The air is hot and somewhat dry, bearing the faint scent of
+hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 473 0
+D1
+~
+~
+0 0 479 0
+D6
+~
+~
+0 0 458 0
+D9
+~
+~
+0 0 482 0
+S
+#481
+/cRC8 /cWMalbolgia 9 - /cLSowers of Religious Discord/c0~
+Those who have the stain of scandals and schizmatics find their way
+here, a place of endless torment.  The air is hot and somewhat dry,
+bearing the faint scent of hellfire and burning flesh.  Faint echos of
+horror drift and bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D2
+~
+~
+0 0 482 0
+D8
+~
+~
+0 0 483 0
+S
+#482
+/cRC8 /cWMalbolgia 9 - /cLSowers of Political Discord/c0~
+Those souls who interfered and caused chaos in politics in life find
+this unholy place as their home.  The air is hot and somewhat dry,
+bearing the faint scent of hellfire and burning flesh.  Faint echos of
+horror drift and bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 481 0
+D1
+~
+~
+0 0 483 0
+D6
+~
+~
+0 0 480 0
+D9
+~
+~
+0 0 484 0
+S
+#483
+/cRC8 /cWMalbolgia 9 - /cLSowers of Discord between Kinsmen/c0~
+Violators of family relations receive hideous tortures here to no end.
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D3
+~
+~
+0 0 482 0
+D7
+~
+~
+0 0 481 0
+S
+#484
+/cRC8 /cPMalbolgia 10 /crClass 1 /cW- /cLAlchemists/c0~
+Falsifiers in life find themselves trapped here forever in the
+afterlife.  The air is hot and somewhat dry, bearing the faint scent
+of hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 485 0
+D2
+~
+~
+0 0 487 0
+D3
+~
+~
+0 0 486 0
+D6
+~
+~
+0 0 482 0
+S
+#485
+/cRC8 /cPMalbolgia 10 /cgClass 2 /cW- /cLEvil Impersonators/c0~
+Souls who are not what they really are in life end up here, facing
+eternal wrath.  The air is hot and somewhat dry, bearing the faint
+scent of hellfire and burning flesh.  Faint echos of horror drift and
+bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D2
+~
+~
+0 0 484 0
+D9
+~
+~
+0 0 486 0
+S
+#486
+/cRC8 /cPMalbolgia 10 /cyClass 3 /cW- /cLCounterfeitors/c0~
+Unscrupulous forgers of items find this place as their final resting
+place of horrors.  The air is hot and somewhat dry, bearing the faint
+scent of hellfire and burning flesh.  Faint echos of horror drift and
+bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 484 0
+D6
+~
+~
+0 0 485 0
+D8
+~
+~
+0 0 487 0
+S
+#487
+/cRC8 /cPMalbolgia 10 /cbClass 4 /cW- /cLFalse Witness/c0~
+Chronic liars find themselves here, facing the bitter truth about
+themselves.  The air is hot and somewhat dry, bearing the faint scent
+of hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 484 0
+D7
+~
+~
+0 0 486 0
+S
+#488
+/cRC9 /cwRound 1 /cW- /cLTreacherous to Kin/c0~
+Souls guilty of compound fraud and caina spend endless nights of
+terror here.  The air is hot and somewhat dry, bearing the faint scent
+of hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D2
+~
+~
+0 0 489 0
+D3
+~
+~
+0 0 491 0
+D9
+~
+~
+0 0 457 0
+S
+#489
+/cRC9 /cgRound 2 /cW- /cLTreacherous to Country/c0~
+Unpatriotic souls, atenora, find no solace or help from others here.
+The air is hot and somewhat dry, bearing the faint scent of hellfire
+and burning flesh.  Faint echos of horror drift and bounce about the
+ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 488 0
+D3
+~
+~
+0 0 490 0
+D7
+~
+~
+0 0 457 0
+S
+#490
+/cRC9 /cyRound 3 /cW- /cLTreacherous to Guests and Hosts/c0~
+This is the home of souls guilty of ptolomea, a horrifying place to
+be.  The air is hot and somewhat dry, bearing the faint scent of
+hellfire and burning flesh.  Faint echos of horror drift and bounce
+about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D0
+~
+~
+0 0 491 0
+D1
+~
+~
+0 0 489 0
+D6
+~
+~
+0 0 457 0
+S
+#491
+/cRC9 /cbRound 4 /cW- /cLTreacherous to their Benefactors/c0~
+The thankless in life find themselves here, wishing they were more
+thankful in life.  The air is hot and somewhat dry, bearing the faint
+scent of hellfire and burning flesh.  Faint echos of horror drift and
+bounce about the ungiving walls of Hell.    
+~
+4 67174404 0 0 0 0
+D1
+~
+~
+0 0 488 0
+D2
+~
+~
+0 0 490 0
+D8
+~
+~
+0 0 457 0
+S
+#492
+/cRThe Center of Hell/c0~
+The fires of Hell burn fiercely, hotter here than anywhere else in
+this desolate place they call Hell.  A massive throne, constructed of
+skulls and bones, sits in the center of the room upon a dias.  The
+upholstery seems to be made of living skin from faces, still silently
+screaming in pain and horror.  Brimstone and lava splash about and
+drip from the seemingly unreachable ceiling.  Welcome to the very
+bowels of Hell!    
+~
+4 67174404 0 0 0 0
+D4
+~
+~
+0 0 457 0
+S
+$~

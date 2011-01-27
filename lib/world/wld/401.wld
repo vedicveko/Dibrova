@@ -1,0 +1,2787 @@
+#40100
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.  A
+weather beaten sign lies on the ground.    
+~
+401 4 0 0 0 10
+D0
+You see a road.
+~
+~
+0 -1 40101 0
+D2
+~
+~
+0 0 1485 0
+E
+sign~
+                      
+                          BEWARE THE WHITE FOXES
+
+WARNING:  Enter this area by yourself at your own risk...
+It is suggested to enter in a large group of 125+.. and a cleric is highly 
+recommended... 
+~
+S
+#40101
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.    
+~
+401 0 0 0 0 10
+D0
+You see a road.
+~
+~
+0 -1 40102 0
+D2
+You see a road.
+~
+~
+0 -1 40100 0
+S
+#40102
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.    
+~
+401 0 0 0 0 10
+D0
+You see a road.
+~
+~
+0 -1 40103 0
+D2
+You see a road.
+~
+~
+0 -1 40101 0
+S
+#40103
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.  A
+path off to the side of the road meanders westward.    
+~
+401 0 0 0 0 10
+D0
+You see a road.
+~
+~
+0 -1 40107 0
+D2
+You see a road.
+~
+~
+0 -1 40102 0
+D3
+You see a path.
+~
+~
+0 -1 40104 0
+S
+#40104
+Forest path~
+This path meanders through the thick trees.  Strangely the wildlife
+around here is very quiet or non-existant.  In the distance you can
+see a clearing.    
+~
+401 0 0 0 0 10
+D1
+You see a road.
+~
+~
+0 -1 40103 0
+D3
+You see a clearing.
+~
+~
+0 -1 40105 0
+S
+#40105
+Forest Clearing~
+You stand in a clearing in the forest.  A decrepit cabin stands to the
+side of the clearing.  A few tree stumps are scattered around and a
+small garden with various vegetables growing in it is located to the
+side of the cabin.    
+~
+401 0 0 0 0 3
+D1
+You see a path.
+~
+~
+0 -1 40104 0
+D2
+You see the door to the cabin.
+~
+door~
+1 -1 40106 3
+S
+#40106
+Cabin~
+You stand in a small cabin.  Furs of various animals hang from the
+wall as well as leg traps.  There is a stove in the center of the room
+heating the room to nice cozy warmth.  A cot which has been recently
+slept in, is against the wall.  A lone chair and table is also here.
+~
+401 8 0 0 0 0
+D0
+You see a clearing.
+~
+door~
+1 -1 40105 3
+S
+#40107
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.    
+~
+401 0 0 0 0 10
+D1
+You see a road.
+~
+~
+0 -1 40108 0
+D2
+You see a road.
+~
+~
+0 -1 40103 0
+S
+#40108
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.    
+~
+401 0 0 0 0 10
+D1
+You see a road.
+~
+~
+0 -1 40109 0
+D3
+You see a road.
+~
+~
+0 -1 40107 0
+S
+#40109
+Forest Road~
+Thick trees line the side of the road.  Tatter remains of corpses can
+be seen in the ditch.  A faint odor of death lingers in the air.    
+~
+401 0 0 0 0 10
+D1
+You see a road.
+~
+~
+0 -1 40125 0
+D3
+You see a road.
+~
+~
+0 -1 40108 0
+S
+#40110
+Freshly Dug Tunnel~
+This is tunnel is very dank.  Clumps of dirt still hang from roots on
+the roof of this tunnel.  You feel fresh air coming from the west and
+a musty smell of a tomb seems seep in from the east.    
+~
+401 265 0 0 0 0
+D1
+~
+~
+0 -1 40145 0
+D3
+~
+~
+0 -1 40111 0
+S
+#40111
+Freshly Dug Tunnel~
+This is tunnel is very dank.  Clumps of dirt still hang from roots on
+the roof of this tunnel.  The dank and musty smell seems to invade all
+your pores.  You almost gag from the stench.  You wonder if you should
+continue on.  The tunnel seems to bend to south.    
+~
+401 265 0 0 0 0
+D1
+~
+~
+0 -1 40110 0
+D2
+~
+~
+0 -1 40112 0
+S
+#40112
+King John's Tomb~
+You stand in an open room.  It almost looks like the inside of a
+sailing ship.  Bulkheads arches over you.  In the center of the room
+lies a body swathed in finest armor which glitter in your light.  An
+empty scabbard lies on top of the body waiting for a sword.  The
+sounds of digging can be heard surrounding you, then ominously,
+silence....    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40111 0
+D4
+~
+tomb~
+1 -1 40113 3
+S
+#40113
+Cairn~
+You stand in front of a cairn.  To the north you see a castle on a
+hill.  A small town surrounds the entrance to the castle.  You hear a
+small stream babbling away to the west.  Various other tombstones
+litter the area.  A pathway to the east slowly rises to a hill.    
+~
+401 0 0 0 0 2
+D0
+You see a pathway.
+~
+~
+0 -1 40114 0
+D1
+You see a sloping pathway.
+~
+~
+0 -1 40115 0
+D3
+You see a stream bank.
+~
+~
+0 -1 40116 0
+D5
+You see a cairn.
+~
+cairn~
+1 -1 40112 3
+S
+#40114
+Graveyard Path~
+Graves are to the east and west of you and the path continues north
+and south.    
+~
+401 0 0 0 0 10
+D0
+You see a pathway.
+~
+~
+0 -1 40120 0
+D1
+You see a grave.
+~
+~
+0 -1 40181 0
+D2
+You see a cairn.
+~
+~
+0 -1 40113 0
+D3
+You see a grave.
+~
+~
+0 -1 40182 0
+S
+#40115
+Hill Path~
+This path slopes upwards to the south and down to the west.
+~
+401 0 0 0 0 4
+D2
+You see a hill path.
+~
+~
+0 -1 40117 0
+D3
+You see a cairn.
+~
+~
+0 -1 40113 0
+S
+#40116
+Stream Bank~
+A small gurgling stream ends this path.  As you peer around a fish
+jumps out of the water, flashing silver in the air then disappears
+into the water.  A hollowed out tree stump is here, looking into it
+you could see that you can probably go down into it, if you dare.    
+~
+401 0 0 0 0 11
+D1
+You see a cairn.
+~
+~
+0 -1 40113 0
+D5
+~
+~
+0 -1 40144 0
+S
+#40117
+Hill Path~
+This path slopes upwards to the south and down to the north.
+~
+401 0 0 0 0 4
+D0
+You see a path.
+~
+~
+0 -1 40115 0
+D2
+You see a hill top. 
+~
+~
+0 -1 40118 0
+S
+#40118
+Atop of the Hill~
+You stand on top of a hill looking over a graveyard.  A circle of
+stones are set on the hill.  All of them are set at regular intervals.
+Some tall pale figures are here, watching and waiting.    
+~
+401 0 0 0 0 4
+D0
+You see a path.
+~
+~
+0 -1 40117 0
+D5
+~
+stone~
+2 40119 40119 15
+S
+#40119
+Bone Pit~
+This is a dark pit, with animal (human?  ) bones scattered around.  
+As you look around a chill goes up your back.    
+~
+401 393 0 0 0 2
+D4
+You see a hill top.
+~
+stone~
+2 40119 40118 15
+S
+#40120
+Graveyard Path~
+Graves are to the east and west of you and the path continues north
+and south.    
+~
+401 0 0 0 0 10
+D0
+You see a pathway.
+~
+~
+0 -1 40121 0
+D1
+You see a grave.
+~
+~
+0 -1 40177 0
+D2
+You see a pathway.
+~
+~
+0 -1 40114 0
+D3
+You see a grave.
+~
+~
+0 -1 40178 0
+S
+#40121
+Graveyard Path~
+Graves are to the east and west of you and the path continues north
+and south.  You can also see a gate to the north.    
+~
+401 0 0 0 0 10
+D0
+You see a gate.
+~
+~
+0 -1 40122 0
+D1
+You see a grave.
+~
+~
+0 -1 40179 0
+D2
+You see a pathway.
+~
+~
+0 -1 40120 0
+D3
+You see a grave.
+~
+~
+0 -1 40180 0
+S
+#40122
+Graveyard Gate~
+You stand at some rusted gates the path continues north and south.  
+As you look south you can make out dark objects scattered around on a
+field.  A low lying fog seems ebb and flow through the area.  To the
+north a village lies in front of a castle which is set on a hill.    
+~
+401 0 0 0 0 2
+D0
+You see a village path.
+~
+~
+0 -1 40123 0
+D2
+You see a pathway.
+~
+~
+0 -1 40121 0
+S
+#40123
+Path to Graveyard~
+You stand on a pathway that goes north and south.  To the south you
+can make out a gate.  To the north a village lies in front of a castle
+which is set on a hill.    
+~
+401 0 0 0 0 10
+D0
+You see a village path.
+~
+~
+0 -1 40124 0
+D2
+You see the Graveyard gate.
+~
+~
+0 -1 40122 0
+S
+#40124
+Path to Graveyard~
+You stand on a pathway that goes north and south.  Faint wisps of fog
+seem sit on the path to the south.  To the north a village lies in
+front of a castle which is set on a hill.    
+~
+401 0 0 0 0 10
+D0
+You see a fork in the path.
+~
+~
+0 -1 40125 0
+D2
+You see a pathway.
+~
+~
+0 -1 40123 0
+S
+#40125
+Fork in the path~
+A rusty steel cage with human remains swings in the breeze.  A stench
+seems to encompass this area.  As you gaze around the area, you get
+the feeling that you are being watched.  You glance up at the cage and
+the black holes that's all is left of the corpse's eyes bore into you.
+A wispy voice seems to emit from the corpse...  "Turn back now or be
+prepared never to return".  As you look again at the corpse the eyes
+sockets briefly glow red then dim into nothingness and the corpse
+returns to normal.    
+~
+401 0 0 0 0 10
+D1
+You see a dark path.
+~
+~
+0 -1 40126 0
+D2
+You see a dark pathway.
+~
+~
+0 -1 40124 0
+D3
+You see a forest road.
+~
+~
+0 -1 40109 0
+S
+#40126
+Village Path~
+You stand on a bending pathway that goes north and east.  To the north
+a village lies in front of a castle which is set on a hill.    
+~
+401 0 0 0 0 10
+D0
+You see a village path.
+~
+~
+0 -1 40127 0
+D3
+You see a fork in the road.
+~
+~
+0 -1 40125 0
+S
+#40127
+Outskirts of Village~
+You stand on a bending pathway that goes north and south.  To the
+north a village lies in front of a castle which is set on a hill.    
+~
+401 0 0 0 0 10
+D0
+You see a street. 
+~
+~
+0 -1 40128 0
+D2
+You see a path.
+~
+~
+0 -1 40126 0
+S
+#40128
+Main Cart Street~
+This is the main through fair.  In the distance you see Hayholt keep.
+As you walk along shadows flit back and forth.  You hear a dog barking
+in the distance.  Boarded up houses are to the east an west of you.  
+~
+401 0 0 0 0 10
+D0
+You see a street.
+~
+~
+0 -1 40129 0
+D1
+You see a boarded up house.
+~
+boarded~
+1 -1 40137 3
+D2
+You see a street.
+~
+~
+0 -1 40127 0
+D3
+You see a boarded up house.
+~
+boarded~
+1 -1 40138 3
+S
+#40129
+Cross Square~
+This the center of the village.  Street are east, north and south.  
+As you walk along shadows flit back and forth.  You hear a dog barking
+in the distance.    
+~
+401 0 0 0 0 1
+D0
+You see a street.
+~
+~
+0 -1 40134 0
+D1
+You see a street.
+~
+~
+0 -1 40130 0
+D2
+You see a street.
+~
+~
+0 -1 40128 0
+S
+#40130
+Church Street~
+As you walk along shadows flit back and forth.  You hear a dog barking
+in the distance.  You see a church to the north.    
+~
+401 0 0 0 0 10
+D0
+You see a church.
+~
+doors~
+1 -1 40131 3
+D3
+You see a street.
+~
+~
+0 -1 40129 0
+S
+#40131
+Church~
+Mud splattered tapestries lie on the ground.  A few pews have been
+smashed and water is dripping down from the shatter stained glass
+windows.  This place is drafty and the lit candles flicker in the
+slight breeze coming from the smashed windows.  Eerie shadows chase
+each other around the church.    
+~
+401 8 0 0 0 0
+D2
+~
+doors~
+1 0 40130 3
+D3
+You see a room.
+~
+door~
+1 -1 40132 3
+S
+#40132
+Church's Backroom~
+A desk and a chair lay smashed in the corner, and a small charred
+remains of a fire is in the middle of the floor.  Obviously someone
+was using the desk and chair as firewood.    
+~
+401 8 0 0 0 0
+D1
+You see the church main room.
+~
+door~
+1 -1 40131 3
+D5
+You see a dark passageway.
+~
+charred~
+1 -1 40133 3
+S
+#40133
+Secret Passage~
+You stand in a dark passageway that slopes downwards, faint light can
+be seen seeping through a crack above you.  Something whispers to you,
+"Go back before its to late.  "
+~
+401 9 0 0 0 0
+D0
+You see a dark passageway.
+~
+~
+0 -1 40174 0
+D4
+You see a dark passageway.
+~
+trapdoor~
+1 -1 40132 3
+S
+#40134
+Main Cart Street~
+This is the main through fair.  In the distance you see Hayholt keep.
+As you walk along shadows flit back and forth.  You hear a dog barking
+in the distance.  Boarded up houses are to the east an west of you.  
+~
+401 0 0 0 0 10
+D0
+You see a cart path.
+~
+~
+0 -1 40141 0
+D1
+You see a street.
+~
+~
+0 -1 40139 0
+D2
+You see a street.
+~
+~
+0 -1 40129 0
+D3
+You see a street.
+~
+~
+0 -1 40135 0
+S
+#40135
+Cross Street~
+This street cross over the main through fair.  As you walk along
+shadows flit back and forth.  You hear a dog barking in the distance.
+~
+401 0 0 0 0 10
+D1
+You see a street.
+~
+~
+0 -1 40134 0
+D3
+You see a market.
+~
+~
+0 -1 40136 0
+S
+#40136
+Market~
+Empty and desolate stalls stand in the middle of this market.  The
+wind blows a tarp that flaps in the wind.  A sign creaks in the wind
+as it swings back and forth.    
+~
+401 0 0 0 0 0
+D1
+You see a street.
+~
+~
+0 -1 40135 0
+S
+#40137
+Empty House~
+You stand in an empty house, broken furniture lies on the ground.  
+The cupboards are empty and everything seems to be gone as if someone
+has packed everything that they can carry and left in a hurry.    
+~
+401 8 0 0 0 0
+D3
+You see a street.
+~
+boarded~
+1 -1 40128 3
+S
+#40138
+Abandoned House~
+You stand in an empty house, broken furniture lies on the ground.  
+The cupboards are empty and everything seems to be gone as if someone
+has packed everything that they can carry and left in a hurry.    
+~
+401 8 0 0 0 0
+D1
+You see a street.
+~
+boarded~
+1 -1 40128 3
+S
+#40139
+Cross Street~
+This street cross over the main through fair.  As you walk along
+shadows flit back and forth.  You hear a dog barking in the distance.
+You can see an inn to the south.  It looks fairly deserted of live
+people.    
+~
+401 0 0 0 0 10
+D2
+You see an Inn.
+~
+door~
+1 -1 40140 3
+D3
+You see a street.
+~
+~
+0 -1 40134 0
+S
+#40140
+Inn~
+All the furniture here is gone.  There is nothing left here at all.  
+The bar is empty of drinks and bottles.    
+~
+401 8 0 0 0 0
+D0
+You see a street.
+~
+door~
+1 -1 40139 3
+S
+#40141
+Hayholt Keep Cart path~
+You look up at the keep above.  This road looks like it has been
+traveled on many times.  The side of this road is strewn with pieces
+of armor and broken swords.  This place is completely devoid of
+vegetation.    
+~
+401 0 0 0 0 10
+D2
+You see a path.
+~
+~
+0 -1 40134 0
+D3
+You see a street.
+~
+~
+0 -1 40142 0
+S
+#40142
+Hayholt Keep Cart path~
+You look up at the keep above.  This road looks like it has been
+traveled on many times.  The side of this road is strewn with pieces
+of armor and broken swords.  This place is completely devoid of
+vegetation.    
+~
+401 0 0 0 0 10
+D0
+You see a path.
+~
+~
+0 -1 40201 0
+D1
+You see a street.
+~
+~
+0 -1 40141 0
+S
+#40144
+Short Small Tunnel~
+As you crawl along the tunnel, you can almost feel the earth
+surrounding pressing down, you hope that this doesn't go on for too
+long.    
+~
+401 269 0 0 0 0
+D3
+~
+~
+0 -1 40145 0
+D4
+~
+~
+0 -1 40116 0
+S
+#40145
+Top of the Ivory Staircase~
+You are in a room that was had delicate carvings on the walls which
+now seem to have been defaced.  A cave in to the north blocks an
+entrance, on the west wall there is a dark hole which seems to have
+been freshly dug.  There is also a hole in the wall to the east which
+fresh air seems to be coming from.    
+~
+401 9 0 0 0 0
+D1
+~
+~
+0 -1 40144 0
+D3
+~
+~
+0 -1 40110 0
+D5
+~
+~
+0 -1 40146 0
+S
+#40146
+Ivory Staircase~
+You are on a staircase that seems to go on forever.  On the walls you
+see faint markings as if the walls have been carved.  You can almost
+smell clean air above you, while a deep mustiness seem to exhume from
+down below.    
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40145 0
+D5
+~
+~
+0 -1 40147 0
+S
+#40147
+Ivory Staircase~
+You are on a staircase that seems to go on forever.  On the walls you
+see faint markings as if the walls have been carved.    
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40146 0
+D5
+~
+~
+0 -1 40148 0
+S
+#40148
+Ivory Staircase~
+You are on a staircase that seems to go on forever.  On the walls you
+see faint markings as if the walls have been carved.    
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40147 0
+D5
+~
+~
+0 -1 40149 0
+S
+#40149
+Ivory Staircase~
+You are on a staircase that seems to go on forever.  On the walls you
+see faint markings as if the walls have once been carved.    
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40148 0
+D5
+~
+~
+0 -1 40150 0
+S
+#40150
+Ivory Staircase~
+You are on a staircase that seems to go on forever.  On the walls you
+see faint markings as if the walls have once been carved.    
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40149 0
+D5
+~
+~
+0 -1 40151 0
+S
+#40151
+Ivory Staircase~
+You are on a staircase that seems to go on forever. On the walls you 
+see faint markings as if the walls have once been carved.
+~
+401 9 0 0 0 0
+D4
+~
+~
+0 -1 40150 0
+D5
+~
+~
+0 -1 40152 0
+S
+#40152
+Ivory Landing~
+You finally have reached the bottom of the staircase.  Pillars are on
+either side of you.  The stairway goes upwards disappearing into the
+darkness above you.  The hallway goes north into the misty darkness.
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40153 0
+D4
+~
+~
+0 -1 40151 0
+S
+#40153
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40163 0
+D1
+~
+~
+0 -1 40153 0
+D2
+~
+~
+0 -1 40153 0
+D3
+~
+~
+0 -1 40153 0
+S
+#40154
+A Sithi's Bedroom~
+You stand in nicely decorated bedroom.  There is a vanity mirror here
+as well as a chest of drawers.  Every thing is covered in a thick
+layer of dust.  There is also a mask propped up on the chest of
+drawers.  It is almost lifelike as you go to touch it, it
+disintegrates into a pile of dust.  A forlorn cry echoes in the
+distance.    
+~
+401 9 0 0 0 0
+D3
+~
+~
+0 -1 40155 0
+S
+#40155
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40155 0
+D1
+~
+~
+0 -1 40154 0
+D2
+~
+~
+0 -1 40156 0
+D3
+~
+~
+0 -1 40155 0
+D4
+~
+~
+0 -1 40158 0
+S
+#40156
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40155 0
+D1
+~
+~
+0 -1 40156 0
+D2
+~
+~
+0 -1 40156 0
+D3
+~
+~
+0 -1 40159 0
+S
+#40157
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  This hallway had ends here in a pile of rubble.    
+~
+401 9 0 0 0 0
+D2
+~
+~
+0 -1 40162 0
+S
+#40158
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40158 0
+D2
+~
+~
+0 -1 40159 0
+D5
+~
+~
+0 -1 40155 0
+S
+#40159
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40158 0
+D1
+~
+~
+0 -1 40156 0
+D2
+~
+~
+0 -1 40159 0
+D3
+~
+~
+0 -1 40161 0
+D4
+~
+~
+0 -1 40159 0
+D5
+~
+~
+0 -1 40159 0
+S
+#40160
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40160 0
+D1
+~
+~
+0 -1 40160 0
+D2
+~
+~
+0 -1 40161 0
+D4
+~
+~
+0 -1 -1 0
+D5
+~
+~
+0 -1 40160 0
+S
+#40161
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40160 0
+D1
+~
+~
+0 -1 40159 0
+D2
+~
+~
+0 -1 40176 0
+D3
+~
+~
+0 -1 40162 0
+S
+#40162
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40157 0
+D1
+~
+~
+0 -1 40161 0
+D2
+~
+~
+0 -1 40171 0
+S
+#40163
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40160 0
+D1
+~
+~
+0 -1 40163 0
+D2
+~
+~
+0 -1 40153 0
+D3
+~
+~
+0 -1 40163 0
+D4
+~
+~
+0 -1 40163 0
+D5
+~
+~
+0 -1 40165 0
+S
+#40164
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40165 0
+D2
+~
+~
+0 -1 40152 0
+S
+#40165
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40176 0
+D1
+~
+~
+0 -1 40166 0
+D2
+~
+~
+0 -1 40164 0
+D3
+~
+~
+0 -1 40165 0
+D4
+~
+~
+0 -1 40163 0
+S
+#40166
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40166 0
+D1
+~
+~
+0 -1 40166 0
+D2
+~
+~
+0 -1 40169 0
+D3
+~
+~
+0 -1 40165 0
+D4
+~
+~
+0 -1 40166 0
+D5
+~
+~
+0 -1 40166 0
+S
+#40167
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40155 0
+D1
+~
+~
+0 -1 40167 0
+D2
+~
+~
+0 -1 40174 0
+D3
+~
+~
+0 -1 40169 0
+S
+#40168
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  All the passageways are blocked by rubble, except for
+one.    
+~
+401 9 0 0 0 0
+D1
+~
+~
+0 -1 40170 0
+S
+#40169
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40166 0
+D1
+~
+~
+0 -1 40167 0
+D2
+~
+~
+0 -1 40170 0
+S
+#40170
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40169 0
+D1
+~
+~
+0 -1 40174 0
+D2
+~
+~
+0 -1 40170 0
+D3
+~
+~
+0 -1 40168 0
+D4
+~
+~
+0 -1 40171 0
+D5
+~
+~
+0 -1 40171 0
+S
+#40171
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D1
+~
+~
+0 -1 40171 0
+D2
+~
+~
+0 -1 40171 0
+D3
+~
+~
+0 -1 40175 0
+D4
+~
+~
+0 -1 40170 0
+D5
+~
+~
+0 -1 40170 0
+S
+#40172
+Shurakai's Treasure pit~
+Some bones and miscellaneous pieces of treasure litter this room.  
+There are a few rusted pieces of armor and weapons that are completely
+useless.    
+~
+401 9 0 0 0 0
+D4
+~
+trapdoor~
+1 40173 40173 7
+S
+#40173
+Shurakai's Lair~
+You stand in a huge lair where an equally huge fire-drake also lives.
+Bones of previous adventures litter the area.  You may not want to
+stick around for the owner of this lair to show up.  Oops, too late...
+~
+401 65545 0 0 0 0
+D0
+~
+~
+0 -1 40175 0
+D5
+~
+trapdoor~
+1 40173 40172 7
+S
+#40174
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40167 0
+D1
+~
+~
+0 -1 40175 0
+D2
+~
+~
+0 -1 40174 0
+D3
+~
+~
+0 -1 40170 0
+S
+#40175
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 13 0 0 0 0
+D1
+~
+~
+0 -1 40171 0
+D2
+~
+~
+0 -1 40173 0
+D3
+~
+~
+0 -1 40174 0
+S
+#40176
+Hallway Maze~
+You stand disoriented in a maze of hallways.  Whispering voices
+surrounding you are imploring you to turn back.  They voices grows
+angrier the more you ignore them, then suddenly they fade into a
+murmur.  You are not even sure now, if they were talking to you in the
+first place.  Hallways lead off in all directions and you are unsure
+which one to take.    
+~
+401 9 0 0 0 0
+D0
+~
+~
+0 -1 40161 0
+D2
+~
+~
+0 -1 40165 0
+S
+#40177
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D0
+~
+~
+0 -1 40179 0
+D3
+~
+~
+0 -1 40120 0
+S
+#40178
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D0
+~
+~
+0 -1 40180 0
+D1
+~
+~
+0 -1 40120 0
+S
+#40179
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D2
+~
+~
+0 -1 40177 0
+D3
+~
+~
+0 -1 40121 0
+S
+#40180
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D1
+~
+~
+0 -1 40121 0
+D2
+~
+~
+0 -1 40178 0
+S
+#40181
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D3
+~
+~
+0 -1 40114 0
+S
+#40182
+Grave~
+A tombstone lies toppled over on the ground and faint stench of
+rotting meat wafts around you.    
+~
+401 0 0 0 0 0
+D1
+~
+~
+0 -1 40114 0
+S
+#40201
+Outside Wall Gates~
+You look up to the top of the walls and see heads peering down at you.
+A shadow flutters above and a crow lands on top of one of the heads. The 
+crow then proceeds to tear flesh from cheeks of the head.  You now noticed 
+that these heads are propped up on spikes all along the wall.
+~
+401 0 0 0 0 0
+D0
+You see the gates.
+~
+gates~
+1 40202 40202 7
+D2
+You see a path.
+~
+~
+0 -1 40142 0
+S
+#40202
+Inside Wall Gates~
+You stand inside the walls of the Hayholt.  The clash of swords against 
+shields and armor can be heard echoing in the bailey ahead of you. Blood 
+curdling screams, and grunts of pain can be heard as well.
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40203 0
+D2
+You see the gates.
+~
+gates~
+1 40202 40201 7
+S
+#40203
+Southern Castle Inner Bailey~
+You can see the gate entrance to the south and the ground seems to
+be well traveled.  Sparse clumps of grass are trying to grow here, but 
+with little luck. 
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40204 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40207 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40202 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40206 0
+S
+#40204
+Middle Castle Inner Bailey~
+You stand in the middle of a large courtyard which seems to be well
+traveled.  Looking north you can see a large building
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40205 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40208 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40203 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40209 0
+S
+#40205
+Northern Castle Inner Bailey~
+You can see a large entrance into a large building to the south, while
+the courtyard continues east, west and north.
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40232 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40211 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40204 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40210 0
+S
+#40206
+Southwest Castle Inner Bailey~
+You can see the gate entrance to the southeast,  the ground seems to
+be well traveled.  Sparse clumps of grass are trying to grow here, but
+with little luck. To the north you catch a glimpse of a huge tower.
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40209 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40203 0
+S
+#40207
+Southeast Castle Inner Bailey~
+You can see the gate entrance to the southwest, the ground seems to
+be well traveled.  Sparse clumps of grass are trying to grow here, but 
+with little luck. 
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40208 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40203 0
+S
+#40208
+East Castle Inner Bailey~
+This is a eastern part of the courtyard further east you can make out 
+a small building with some miscellaneous creatures milling about.
+Sparse clumps of grass are trying to grow here, but with little luck.
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40211 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40212 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40207 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40204 0
+S
+#40209
+West Castle Inner Bailey~
+This is a western part of the courtyard further west you can make out 
+a small building with some miscellaneous creatures milling about. 
+Sparse clumps of grass are trying to grow here, but with little luck.
+To the north you catch a glimpse of a huge tower.
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40210 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40204 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40206 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40213 0
+S
+#40210
+Northwest Castle Inner Bailey~
+You can see the main building entrance to the northeast,  the ground 
+seems to be well traveled.  Sparse clumps of grass are trying to grow 
+here, but with little luck. To the north you glimpse a huge tower and 
+a dark shadowy path heads in that direction. 
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40219 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40205 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40213 0
+S
+#40211
+Northeast Castle Inner Bailey~
+You can see the main building entrance to the northwest,  the ground 
+seems to be well traveled.  Sparse clumps of grass are trying to grow
+here, but with little luck. 
+~
+401 0 0 0 0 0
+D0
+You see the inner bailey.
+~
+~
+0 -1 40218 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40208 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40205 0
+S
+#40212
+Eastern Guardhouse Entrance~
+You stand at the entrance of the guardhouse. Various creatures mill 
+around here, ranging from giants, trolls, and human mercenaries.  A 
+few other creatures who are fairly tall and have pale skin, seem to be
+in command here.
+~
+401 0 0 0 0 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40208 0
+S
+#40213
+Western Guardhouse Entrance~
+You stand at the entrance of the guardhouse. Various creatures mill 
+around here, ranging from giants, trolls, and human mercenaries.  A 
+few other creatures who are fairly tall and have pale skin, seem to be
+in command here.
+~
+401 0 0 0 0 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40209 0
+S
+#40214
+Chapel Entrance~
+You stand in front of the doors to a chapel. The doors have been torn 
+off the hinges by some great force.  The area around the door has been
+blackened by a great fire.  Various scraps of blackened bones litter 
+the area and the smell of burnt meat and hair is thick in the air.
+Anyone for a barbecue....? 
+~
+401 0 0 0 0 0
+D1
+You see the inner bailey.
+~
+~
+0 -1 40218 0
+D3
+You see the inner bailey.
+~
+~
+0 -1 40222 0
+S
+#40215
+Kitchen~
+What a mess.  Cupboards have been torn off the wall.  Dented pots and
+pans litter the floor.  Sacks of flour have been torn open and tossed 
+around leaving everything covered in a fine dust.  Footprints in the 
+flour leads in and out of the north door and travel to the west and east.
+~
+401 0 0 0 0 0
+D0
+You see the larder.
+~
+~
+0 -1 40216 0
+D1
+You see a hallway.
+~
+~
+0 -1 40217 0
+D3
+You see a path.
+~
+door~
+1 -1 40219 3
+S
+#40216
+Larder~
+A pickle barrel stands in the corner of the room.  Shelves line the walls
+stacked with various spices and pickle jars.  Sacks of flour sit on the floor
+as well as various other sacks of grains.
+~
+401 1 0 0 0 0
+D1
+~
+barrel~
+1 -1 40237 3
+D2
+You see the kitchen.
+~
+~
+0 -1 40215 0
+S
+#40217
+West Hall~
+Your steps eerily echoes down this hallway. You faintly hear some death
+screams in the distance.  This hallway runs north and south with a door 
+to the west.
+~
+401 0 0 0 0 0
+D0
+You see the dining hall.
+~
+~
+0 -1 40226 0
+D1
+You see a hallway.
+~
+~
+0 -1 40235 0
+D3
+You see the kitchen.
+~
+~
+0 -1 40215 0
+S
+#40218
+Path to Green Angel Tower~
+You stand on a path that is covered in shadows. A huge tower to the 
+north almost seems to touch the sky.  At the top of the tower you can 
+barely make out green figure in the shape of an angel. To the south you 
+can see the courtyard. On the east side stands a small building that 
+almost looks like part of the main building. 
+~
+401 0 0 0 0 0
+D0
+You see the tower.
+~
+~
+0 -1 40240 0
+D2
+You see the inner bailey.
+~
+~
+0 -1 40211 0
+D3
+You see the chapel.
+~
+~
+0 -1 40214 0
+S
+#40219
+Stable Path~
+You stand on a path that is covered in shadows.  You hear the 
+neighing of horses to the north.  To the south you can see the 
+courtyard. On the west there is a door is cracked open and the smell 
+of spices and cooking food wafts through the air coming from that 
+direction.
+~
+401 0 0 0 0 0
+D0
+You see the stable.
+~
+~
+0 -1 40220 0
+D1
+You see the kitchen.
+~
+door~
+1 -1 40215 3
+D2
+You see the inner bailey.
+~
+~
+0 -1 40210 0
+D3
+You see a tower.
+~
+~
+0 -1 40248 0
+S
+#40220
+Stables~
+Stalls line up one side of this room.  A few horses mill around in this 
+area.  Bridles and saddles are strewn around, like as if someone had 
+rampage through here searching. A ladder against the far wall goes up to 
+the hayloft. 
+~
+401 0 0 0 0 0
+D2
+You see a path.
+~
+~
+0 -1 40219 0
+D4
+You see a loft.
+~
+~
+0 -1 40221 0
+S
+#40221
+Hayloft~
+Bales of hay and piles of straw litter the area.  A pitchfork has been 
+carelessly tossed to the side here.  Rays of sunlight, filter through the
+cracks in the walls.  
+~
+401 0 0 0 0 0
+D5
+You see the stables.
+~
+~
+0 -1 40220 0
+S
+#40222
+Small Chapel~
+You stand in what use to be a chapel.  What's left of the alter
+is strewn all over this room. The pews have all been smashed.  Light
+filters though the broken windows high on the walls.  Jagged 
+pieces of stained glass litter the ground.  At the back of the back
+of the room, what used to be some nice embroidered tapestries hang in
+tattered remains.
+~
+401 0 0 0 0 0
+D1
+You see the entrance.
+~
+~
+0 -1 40214 0
+D2
+You see an office.
+~
+door~
+1 -1 40223 3
+S
+#40223
+Chapel Office~
+You stand in an office where that chaplain spends his time 
+in. A neatly kept desk and chair sits in the corner.  Light 
+streams in from the window brightening the room. A recently 
+slept in cot is against the far wall.
+~
+401 0 0 0 0 0
+D0
+You see the chapel.
+~
+door~
+1 -1 40222 3
+S
+#40224
+East Hall~
+Your steps eerily echoes down this hallway. You faintly hear 
+some death screams in the distance. This hallway runs north and
+south with a door to the east.
+~
+401 0 0 0 0 0
+D1
+You see a room.
+~
+door~
+1 -1 40225 1
+D3
+You see a hallway.
+~
+~
+0 -1 40236 0
+S
+#40225
+Servant's Quarters~
+Cots, chairs and a small table are in this room. This is where
+the servants stay on there off hours. All the cots have been
+nicely made up, ready for there occupants to return.
+~
+401 0 0 0 0 0
+D3
+You see a hallway.
+~
+door~
+1 -1 40224 1
+S
+#40226
+Dining Hall~
+This is a large dining hall, with a long table that runs
+down the length of it.  Chairs are set up along the sides
+to accommodate.  There are paintings and tapestries on the 
+walls, adding color to the stonework. There is a door to the
+north, and the stairwell is to the east.
+~
+401 0 0 0 0 0
+D1
+You see a staircase.
+~
+~
+0 -1 40228 0
+D2
+You see a hallway.
+~
+~
+0 -1 40217 0
+S
+#40227
+Throne Room~
+Light streams down from the windows giving the faded banners on 
+the wall a little color. The throne is made up of dragon bones and 
+is well worn. The dragon eye sockets are filled with cobwebs and the
+masses of dragon bones wired together are sagging in areas.  There
+are statues here as well of kings of bygone days. 
+~
+401 0 0 0 0 0
+D3
+You see a hallway.
+~
+door~
+1 -1 40228 1
+S
+#40228
+Staircase Hall~
+This staircase connects the first floor with the second.  Billowing
+tapestries are against the wall. As you walk along the tapestries flutter
+as if something was behind it.
+~
+401 0 0 0 0 0
+D1
+You see the throne room.
+~
+door~
+1 -1 40227 1
+D2
+You see a hallway.
+~
+~
+0 -1 40229 0
+D3
+You see the dining hall.
+~
+~
+0 -1 40226 0
+D4
+You see the upper hallway.
+~
+~
+0 -1 40256 0
+S
+#40229
+Main Hall~
+Heraldic banners hang from the ceiling.  Most of them are faded to 
+nothing. On some you can make out a falcon crest and a stylized golden
+fish.  In the distance you can make out a staircase.
+~
+401 0 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 40228 0
+D2
+You see a hallway.
+~
+~
+0 -1 40230 0
+S
+#40230
+Main Hall~
+Heraldic banners hang from the ceiling.  Most of them are faded to 
+nothing. On some you can make out a falcon crest and a stylized golden
+fish.  In the distance you can make out a staircase.
+~
+401 0 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 40228 0
+D1
+You see a guard's room.
+~
+~
+0 -1 40234 0
+D2
+You see a hallway.
+~
+~
+0 -1 40231 0
+D3
+You see a hallway.
+~
+~
+0 -1 40235 0
+S
+#40231
+Main Hall~
+Heraldic banners hang from the ceiling.  Most of them are faded to 
+nothing. On some you can make out a falcon crest and a stylized golden
+fish.
+~
+401 0 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 40230 0
+D1
+You see a hallway.
+~
+~
+0 -1 40236 0
+D2
+You see an entrance.
+~
+doors~
+1 40121 40232 7
+D3
+You see a guard's room.
+~
+~
+0 -1 40233 0
+S
+#40232
+Main Building Entrance~
+Ahhh, the grand entrance to the main building.  The huge double doors are 
+marked with scars of a battle, but they still remain standing.  Flecks 
+of gold can be seen still on the doors.  Statues of knights are on either
+side of the doors.  A couple of them have there heads at there feet, 
+staring blankly skyward.
+~
+401 0 0 0 0 0
+D0
+~
+doors~
+1 40121 40231 7
+D2
+You see the inner bailey.
+~
+~
+0 -1 40205 0
+S
+#40233
+Guard's Room~
+You stand in a room where guards take breaks from there sentry duties.  
+What's left of four chairs and a table sit smashed in the middle of
+the room.  Playing cards are scattered around the room.  Some dried blood
+is on the wall.
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 40231 0
+S
+#40234
+Guard's Room~
+You stand in a room where guards take breaks from there sentry duties.  
+What's left of four chairs and a table sit smashed in the middle of
+the room.  Playing cards are scattered around the room.  Some dried blood
+is on the wall.
+~
+401 0 0 0 0 0
+D3
+You see a hallway.
+~
+~
+0 -1 40230 0
+S
+#40235
+West side passage~
+You stand in a passageway that leads east and west, connecting the 
+west hallway with the main hallway.
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 40230 0
+D3
+You see a hallway.
+~
+~
+0 -1 40217 0
+S
+#40236
+East side passage~
+You stand in a passageway that leads east and west, connecting the 
+east hallway with the main hallway.
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 40224 0
+D3
+You see a hallway.
+~
+~
+0 -1 40231 0
+S
+#40237
+Secret Passage~
+Wow, you have discovered a secret passage.  This passage doesn't look
+like it has been used in a long time.  As you walk into the passage, you 
+stir up the thick dust which is everywhere.  Chiseled stairs that are 
+part of the wall, lead up and down.  You hear the drip of water from 
+down below.
+~
+401 1 0 0 0 0
+D2
+You see a larder.
+~
+wall~
+1 -1 40216 3
+D4
+You see a dark staircase.
+~
+~
+0 -1 40238 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40239 0
+S
+#40238
+Dusty Staircase~
+This is a dark and dusty staircase which hasn't been used in
+quite sometime. You stifle a sneeze as the dust, disturbed by 
+your movement wafts into your face. You can hear the drip of water
+far below you. A faint outline of a doorway is to the east.
+~
+401 1 0 0 0 0
+D1
+You see a dark staircase.
+~
+wall~
+1 -1 40255 3
+D5
+You see a dark staircase.
+~
+~
+0 -1 40237 0
+S
+#40239
+Dusty Staircase~
+This is a dark and dusty staircase which hasn't been used in
+quite sometime. You stifle a sneeze as the dust, disturbed by 
+your movement wafts into your face. You can hear the drip of water
+far below you.
+~
+401 1 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40237 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40160 0
+S
+#40240
+Green Angel Tower Entrance~
+You stand at the entrance of this tower. You look upon a set of massive
+double doors.  If you crane your neck to look upwards you can barely 
+make out the top of the tower.
+~
+401 0 0 0 0 0
+D1
+You see an entrance.
+~
+double~
+2 40241 40241 15
+D2
+You see a path.
+~
+~
+0 -1 40218 0
+S
+#40241
+Green Angel Tower Foyer~
+You stand in a dark and dreary foyer.  Even the air here is dank and
+oppressive.  As you look around in the deep shadows, you see a set of
+stairways at the far end of the foyer.
+~
+401 0 0 0 0 0
+D3
+You see an entrance.
+~
+double~
+2 40241 40240 15
+D4
+You see a dark staircase.
+~
+~
+0 -1 40242 0
+S
+#40242
+Green Angel Tower Staircase~
+These are solidly built stairs. You can see the foyer below you and 
+more stairs winding upwards.
+~
+401 0 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40243 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40241 0
+S
+#40243
+Green Angel Tower Staircase~
+These are solidly built stairs. You can see a landing covered in
+shadows above you and more stairs winding downwards.
+~
+401 0 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40244 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40242 0
+S
+#40244
+Green Angel Tower Landing~
+You stand on a landing.  There is a bench here that you sit down
+and rest or you can continue on upward or down.
+~
+401 0 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40245 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40243 0
+S
+#40245
+Green Angel Tower Staircase~
+These are solidly built stairs. You can see the landing below you
+and more stairs winding upwards.
+~
+401 0 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40246 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40244 0
+S
+#40246
+Green Angel Tower Staircase~
+These are solidly built stairs. The stairs end at a normal looking 
+door and stairs continues winding downwards.
+~
+401 0 0 0 0 0
+D3
+You see a room.
+~
+door~
+1 -1 40247 3
+D5
+You see a dark staircase.
+~
+~
+0 -1 40245 0
+S
+#40247
+Green Angel Bell Tower~
+Huge bronze bells hang silently beneath the vaulted ceiling like
+poisonous green marsh flowers, and indeed, despite the buffeting 
+wind, the chamber is filled with the odor of decaying flesh that 
+such flowers produced.  Around the center of the chamber, dark 
+pillars rise to the ceiling, and on all four sides great arched 
+windows open out to the view of the surrounding countryside. 
+~
+401 0 0 0 0 0
+D1
+You see a dark staircase.
+~
+door~
+1 -1 40246 3
+S
+#40248
+Hjeldin's Tower Entrance~
+You stand in front of a tower that seems to absorbs all the light 
+around you.  A dark doorway, shrouded in shadows is here, daring
+you to enter it.
+~
+401 0 0 0 0 0
+D1
+You see a path.
+~
+~
+0 -1 40219 0
+D3
+You see a dark foyer.
+~
+dark door west~
+1 40249 40249 7
+S
+#40249
+Hjeldin's Tower Foyer~
+You stand in a dark and dreary foyer.  Even the air here is dank and
+oppressive.  As you look around in the deep shadows, you see a set of
+stairways at the far end of the foyer.
+~
+401 0 0 0 0 0
+D1
+You see a dark staircase.
+~
+dark door east~
+1 40249 40248 7
+D4
+You see a dark staircase.
+~
+~
+0 -1 40250 0
+S
+#40250
+Hjeldin's Tower Staircase~
+These are solidly built stairs. You can see the foyer below you and 
+more stairs winding upwards.
+~
+401 0 0 0 0 0
+D4
+You see a dark staircase.
+~
+~
+0 -1 40251 0
+D5
+You see a dark staircase.
+~
+~
+0 -1 40249 0
+S
+#40251
+Hjeldin's Tower Staircase~
+These are solidly built stairs.  You can see a doorway covered in
+shadows above you and more stairs winding downwards.  Downwards??  Or
+is that upwards?  There should be stairs leading down.  You peer
+around you looking for the stairs that leads down...    
+~
+401 0 0 0 0 0
+D1
+You see a room.
+~
+door~
+2 40252 40252 15
+D5
+~
+~
+0 0 40250 0
+S
+#40252
+Pryrate's Laboratory~
+Books, vials and other miscellaneous laboratory equipment litter the
+room.  There is a desk here that is littered with papers which are 
+written in some strange tongue. Nothing in here, seems to be of any
+use.
+~
+401 0 0 0 0 0
+D3
+You see a dark staircase.
+~
+door~
+2 40252 40251 15
+S
+#40253
+King's Bedroom~
+Banners line the walls depicting battles and victory celebrations.  The window 
+is wide open letting in the cold wind from outside.  The bed is unmade, the covers
+are strewn on the floor as if someone had left in a hurry.  Various clothes have thrown
+around the room. 
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+door~
+1 -1 40256 1
+S
+#40254
+Princess's Bedroom~
+The bed dominates the southern end of the room.  It is an old, yet sturdy 
+four-poster bed. There are two big, fluffy pillows at the head of the bed and 
+several small pillows spread out casually.  The mattress looks comfortably firm.                                                  
+The dressing table, mirror, chest of drawers, and desk are classically modern.
+There is  some small bowls and candles on top of the chest of drawers.
+ ~
+401 0 0 0 0 0
+D0
+You see a hallway.
+~
+door~
+1 -1 40258 1
+S
+#40255
+Handmaiden's Bedroom~
+This looks like the servant's quarters,  it is sparsely decorated a small bed and
+a chest of drawers are set on the east and west side of the room respectively.
+A worn rug with intricate design lies on the ground as well.
+~
+401 0 0 0 0 0
+D2
+You see a hallway.
+~
+door~
+1 -1 40258 1
+D5
+You see a dark staircase.
+~
+rug~
+1 -1 40238 3
+S
+#40256
+Upper Hallway~
+This long hallway has banners and pictures on the wall depicting
+various kings and queens of a bygone era.  This hallway seems a bit
+chilly and a small breeze seems to be coming from the west.    
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 40257 0
+D3
+You see a bedroom.
+~
+door~
+1 -1 40253 1
+D5
+You see a staircase.
+~
+~
+0 -1 40228 0
+S
+#40257
+Upper Hallway~
+This long hallway has banners and pictures on the wall depicting various kings and queens 
+of a bygone era.  This hallway seems a bit chilly and a small breeze seems to be coming from
+the west.
+~
+401 0 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 40258 0
+D3
+You see a hallway.
+~
+~
+0 -1 40256 0
+S
+#40258
+Upper Hallway~
+This long hallway has banners and pictures on the wall depicting various kings and queens 
+of a bygone era.  This hallway seems a bit chilly and a small breeze seems to be coming from
+the west.
+~
+401 0 0 0 0 0
+D0
+You see a bedroom.
+~
+door~
+1 -1 40255 1
+D2
+You see a bedroom.
+~
+door~
+1 -1 40254 1
+D3
+You see a hallway.
+~
+~
+0 -1 40257 0
+S
+$~

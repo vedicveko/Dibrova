@@ -1,0 +1,337 @@
+#13200
+gillespie cruel young man~
+the Baron Gillespie~
+A cruel young man in black attire stands sneeringly before you.
+~
+His lip curls in a defiant sneer as he boldly eyes you up and down as
+if to say, 'Who are you to enter into my august presence?  '.    
+~
+85514 0 0 0 33620232 32768 0 0 -900 E
+135 117 -60 1d1+0 16d17+90
+2500 1394633
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 21
+Int: 21
+Wis: 22
+Con: 22
+Cha: 10
+Class: 9
+Race: 14
+E
+#13201
+gillespie elder man old~
+the Elder Gillespie~
+A strong old man sizes you up, his glinting black eyes narrowing.
+~
+This man was the Baron of this realm until very recently, having
+handed the Barony over to his younger son after forcing his two sons
+to dual to the death over who would succeed him as the Lord of this
+land.  The Elder Gillespie is as cruel as, if not more cruel than, his
+son who is said to be the bringer of all that is evil to the Barons'
+plains.    
+~
+18474 0 0 0 603979856 0 0 0 -990 E
+110 88 -40 1d1+0 11d12+73
+2200 789690
+8 8 1
+BareHandAttack: 14
+Str: 7
+Dex: 20
+Int: 15
+Wis: 19
+Con: 9
+Cha: 21
+Luck: 25
+Class: 9
+Race: 14
+E
+#13202
+vile second charge commander soldier~
+Vile~
+Vile, Gillespie's second in command spies you as an intruder and attacks.
+~
+It is rumored throughout the tower and the lands around it that Vile
+is the son of one of the Baron's illicit affairs with the slave women
+whom he owns.  This rumor has never been proved or disproved.    
+~
+67651610 0 0 0 570490880 4194304 0 0 -800 E
+122 102 -60 1d1+0 14d14+81
+2500 979341
+8 8 1
+BareHandAttack: 11
+Str: 9
+Dex: 23
+Int: 13
+Wis: 19
+Con: 15
+Cha: 14
+Luck: 15
+Class: 4
+Race: 14
+E
+#13203
+kiljaarin lieutenant~
+Kiljaarin~
+Kiljaarin, the lieutenant of the army strides through the tower.
+~
+Kiljaarin's eyes narrow as he sees you, but he does not attack.
+~
+526408 0 0 0 16 131072 0 0 -800 E
+117 96 -40 1d1+0 13d14+78
+2375 880218
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 24
+Int: 21
+Wis: 24
+Con: 14
+Cha: 17
+Luck: 18
+Class: 4
+Race: 14
+E
+#13204
+knight patrolman man dark soldier~
+a DarkKnight Patrolman~
+A soldier dressed in the traditional yellow of Gillespie patrols the area.
+~
+He gives you no time to scrutinize, but immediately attacks - as his
+orders direct him to do.    
+~
+67639368 0 0 0 16 0 0 0 -800 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 19
+Int: 14
+Wis: 12
+Con: 19
+Cha: 16
+Luck: 22
+Class: 9
+Race: 14
+E
+#13205
+patrolman man armor clad~
+an armor-clad Patrolman~
+An armor-clad patrolman spies you and immediately charges an attack.
+~
+Must be that the Baron does not wish to have any uninvited guests at
+his place.  And this must be the way that he insures that it stays
+that way.    
+~
+530536 0 0 0 0 0 0 0 -850 E
+77 53 -40 1d1+0 6d7+51
+1325 302878
+8 8 1
+BareHandAttack: 14
+Int: 12
+Wis: 15
+Con: 7
+Cha: 9
+Luck: 15
+Class: 10
+Race: 14
+E
+#13206
+guard door knight dark~
+a DarkKnight Doorguard~
+A dark knight's eyes light up as you enter into his area of combat.
+~
+It could be assumed that the Baron has ordered a 'no visitors'
+restriction.  This assumption can be made due to the fact that the
+guard has immediately set about attacking and killing you.    
+~
+6186 0 0 0 16 0 0 0 -900 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 1
+Str: 15
+Dex: 25
+Int: 10
+Wis: 23
+Con: 9
+Cha: 18
+Luck: 16
+Class: 9
+Race: 29
+E
+#13207
+commander master~
+the Master Commander~
+The Master Commander stands in the center of the field with his arms crossed.
+~
+He watches the field like a hawk, making sure that all of the
+commanders under him keep the soldiers busy in training.    
+~
+526346 0 0 0 80 163840 0 0 -800 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 1
+BareHandAttack: 13
+Str: 12
+Dex: 15
+Int: 6
+Wis: 15
+Con: 10
+Cha: 15
+Luck: 21
+Class: 4
+Race: 14
+E
+#13208
+commander field~
+a Field Commander~
+A field commander is here performing his duties.
+~
+At first glance he appears cruel and filled with anger.  At second
+glance, he appears even more so.    
+~
+526408 0 0 0 0 0 0 0 -900 E
+89 65 -40 1d1+0 6d7+59
+1675 438188
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 16
+Int: 13
+Wis: 15
+Con: 6
+Cha: 14
+Luck: 14
+Race: 14
+E
+#13209
+slave filthy~
+a filthy Slave~
+A disgusting man covered in filth looks pitufully your way.
+~
+Although you are obviously an intruder in his domain, he makes no move
+to block your passage nor speak with you.  If anything, he slightly
+flinches when you turn your gaze upon him.  You can only feel pity for
+this poor soul.    
+~
+138 0 0 0 0 0 0 0 100 E
+54 32 -32 1d1+0 4d5+27
+0 122552
+8 8 1
+Str: 22
+Dex: 23
+Int: 12
+Wis: 8
+Con: 18
+Cha: 23
+Luck: 18
+Race: 14
+E
+#13210
+man secretive~
+a secretive Man~
+A secretive man stands with his head bowed, eyes lost within his deep cloak.
+~
+You cannot tell anything about him other than his height, which is
+roughly six feet.    
+~
+33638410 0 0 0 570425360 0 0 0 -800 E
+120 100 -40 1d1+0 14d14+80
+2450 938920
+8 8 1
+BareHandAttack: 11
+Str: 23
+Dex: 12
+Int: 7
+Wis: 10
+Cha: 17
+Class: 3
+Race: 14
+E
+#13211
+slave woman servant~
+a House Servant~
+A ragged woman scuttles through the tower cleaning and straightening.
+~
+She wears next to nothing and makes no effort at all to conceal her
+bruised and dirty body.  Never once does she raise her lowered eyes.
+~
+204 0 0 0 0 0 0 0 0 E
+34 17 -20 1d1+0 3d6+17
+0 37669
+8 8 2
+Str: 17
+Dex: 24
+Int: 17
+Con: 19
+Cha: 7
+Luck: 25
+Class: 12
+Race: 14
+E
+#13212
+soldier~
+a Soldier~
+A soldier trains upon the field.
+~
+His eyes always stay straight ahead, his stance is always kept rigid
+and unmoving.    
+~
+4168 0 0 0 0 0 0 0 -600 E
+67 44 -40 1d1+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 3
+Str: 15
+Dex: 22
+Int: 22
+Wis: 8
+Con: 12
+Race: 14
+E
+#13213
+soldier out breath~
+an out-of-breath Soldier~
+A soldier pants and heaves after a heavy workout.
+~
+His red face and bulging eyes drip sweat, his entire body heaving with
+overworked exertion.    
+~
+10 0 0 0 0 0 0 0 -700 E
+63 40 -40 1d1+0 6d6+42
+1075 181566
+8 8 1
+Str: 12
+Dex: 14
+Int: 25
+Wis: 14
+Con: 18
+Cha: 12
+Luck: 9
+Race: 14
+E
+#13214
+mount pet wyvern~
+Gillespie's Mount~
+A wyvern, Gillespie's mount frothes and screeches on its chain.
+~
+Gillespie is required to bind this creature to his will every time
+that he takes it out, however once bound, the creature serves as a
+very effective tool in battle.    
+~
+311338 0 0 0 8388624 0 0 0 -1000 E
+45 25 -24 1d1+0 4d5+22
+0 76985
+8 8 0
+BareHandAttack: 5
+Str: 17
+Dex: 9
+Int: 7
+Wis: 6
+Con: 8
+Cha: 10
+Race: 2
+E
+$

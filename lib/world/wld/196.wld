@@ -1,0 +1,2139 @@
+#19600
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going north or west.  
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19601 0
+D2
+~
+~
+0 -1 19606 0
+S
+#19601
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  You are almost at the city gates.
+The road runs north and south.    
+~
+196 0 0 0 0 10
+D0
+~
+~
+0 -1 19236 0
+D1
+~
+~
+0 -1 19602 0
+D2
+~
+~
+0 -1 19607 0
+D3
+~
+~
+0 -1 19600 0
+S
+#19602
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going north.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19603 0
+D2
+~
+~
+0 -1 19608 0
+D3
+~
+~
+0 -1 19601 0
+S
+#19603
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going north.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19604 0
+D2
+~
+~
+0 -1 19609 0
+D3
+~
+~
+0 -1 19602 0
+S
+#19604
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going north.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19605 0
+D2
+~
+~
+0 -1 19610 0
+D3
+~
+~
+0 -1 19603 0
+S
+#19605
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D2
+~
+~
+0 -1 19611 0
+D3
+~
+~
+0 -1 19604 0
+S
+#19606
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going west.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19600 0
+D1
+~
+~
+0 -1 19607 0
+D2
+~
+~
+0 -1 19614 0
+S
+#19607
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19601 0
+D1
+~
+~
+0 -1 19608 0
+D2
+~
+~
+0 -1 19615 0
+D3
+~
+~
+0 -1 19606 0
+S
+#19608
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19602 0
+D1
+~
+~
+0 -1 19609 0
+D2
+~
+~
+0 -1 19616 0
+D3
+~
+~
+0 -1 19607 0
+S
+#19609
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19603 0
+D1
+~
+~
+0 -1 19610 0
+D2
+~
+~
+0 -1 19617 0
+D3
+~
+~
+0 -1 19608 0
+S
+#19610
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19604 0
+D1
+~
+~
+0 -1 19611 0
+D2
+~
+~
+0 -1 19618 0
+D3
+~
+~
+0 -1 19609 0
+S
+#19611
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19605 0
+D1
+~
+~
+0 -1 19612 0
+D2
+~
+~
+0 -1 19619 0
+D3
+~
+~
+0 -1 19610 0
+S
+#19612
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19613 0
+D2
+~
+~
+0 -1 19620 0
+D3
+~
+~
+0 -1 19611 0
+S
+#19613
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D2
+~
+~
+0 -1 19621 0
+D3
+~
+~
+0 -1 19612 0
+S
+#19614
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going west.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19606 0
+D1
+~
+~
+0 -1 19615 0
+D2
+~
+~
+0 -1 19624 0
+S
+#19615
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19607 0
+D1
+~
+~
+0 -1 19616 0
+D2
+~
+~
+0 -1 19625 0
+D3
+~
+~
+0 -1 19614 0
+S
+#19616
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19608 0
+D1
+~
+~
+0 -1 19617 0
+D2
+~
+~
+0 -1 19626 0
+D3
+~
+~
+0 -1 19615 0
+S
+#19617
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19609 0
+D1
+~
+~
+0 -1 19618 0
+D2
+~
+~
+0 -1 19627 0
+D3
+~
+~
+0 -1 19616 0
+S
+#19618
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19610 0
+D1
+~
+~
+0 -1 19619 0
+D2
+~
+~
+0 -1 19628 0
+D3
+~
+~
+0 -1 19617 0
+S
+#19619
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19611 0
+D1
+~
+~
+0 -1 19620 0
+D2
+~
+~
+0 -1 19629 0
+D3
+~
+~
+0 -1 19618 0
+S
+#19620
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19612 0
+D1
+~
+~
+0 -1 19621 0
+D2
+~
+~
+0 -1 19630 0
+D3
+~
+~
+0 -1 19619 0
+S
+#19621
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19613 0
+D1
+~
+~
+0 -1 19622 0
+D2
+~
+~
+0 -1 19631 0
+D3
+~
+~
+0 -1 19620 0
+S
+#19622
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19623 0
+D2
+~
+~
+0 -1 19632 0
+D3
+~
+~
+0 -1 19621 0
+S
+#19623
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D2
+~
+~
+0 -1 19633 0
+D3
+~
+~
+0 -1 19622 0
+S
+#19624
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.  A large wall prevents you from going west.  Although
+you do see a small crack in the wall...    
+~
+196 4 0 0 0 2
+D0
+~
+~
+0 -1 19614 0
+D1
+~
+~
+0 -1 19625 0
+D3
+~
+~
+0 0 19708 16
+S
+#19625
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs north and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19615 0
+D1
+~
+~
+0 -1 19626 0
+D3
+~
+~
+0 -1 19624 0
+S
+#19626
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19616 0
+D1
+~
+~
+0 -1 19627 0
+D3
+~
+~
+0 -1 19625 0
+S
+#19627
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19617 0
+D1
+~
+~
+0 -1 19628 0
+D3
+~
+~
+0 -1 19626 0
+S
+#19628
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19618 0
+D1
+~
+~
+0 -1 19629 0
+D3
+~
+~
+0 -1 19627 0
+S
+#19629
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19619 0
+D1
+~
+~
+0 -1 19630 0
+D3
+~
+~
+0 -1 19628 0
+S
+#19630
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19620 0
+D1
+~
+~
+0 -1 19631 0
+D3
+~
+~
+0 -1 19629 0
+S
+#19631
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19621 0
+D1
+~
+~
+0 -1 19632 0
+D3
+~
+~
+0 -1 19630 0
+S
+#19632
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road runs west and east.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19622 0
+D1
+~
+~
+0 -1 19633 0
+D2
+~
+~
+0 -1 19635 0
+D3
+~
+~
+0 -1 19631 0
+S
+#19633
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  There is a roadside stand to the
+south.  The road runs east and west.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19623 0
+D1
+~
+~
+0 -1 19634 0
+D2
+~
+~
+0 -1 19636 0
+D3
+~
+~
+0 -1 19632 0
+S
+#19634
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  The road makes a turn, it now runs
+west and south.    
+~
+196 65536 0 0 0 10
+D2
+~
+~
+0 -1 19637 0
+D3
+~
+~
+0 -1 19633 0
+S
+#19635
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19632 0
+D1
+~
+~
+0 -1 19636 0
+S
+#19636
+A Roadside Produce Stand~
+The local farmer has set up a road stand to sell his leftover crop.  
+The stand is simply a table with boxes upon boxes of vegtables and
+fruits.  To the north and east is the road and aways to the south is a
+ferry ticket office.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19633 0
+D1
+~
+~
+0 -1 19637 0
+D2
+~
+~
+0 -1 19645 0
+D3
+~
+~
+0 -1 19635 0
+S
+#19637
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  There is a roadside stand west.  
+The road runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19634 0
+D1
+~
+~
+0 -1 19638 0
+D2
+~
+~
+0 -1 19646 0
+D3
+~
+~
+0 -1 19636 0
+S
+#19638
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19639 0
+D2
+~
+~
+0 -1 19647 0
+D3
+~
+~
+0 -1 19637 0
+S
+#19639
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19640 0
+D2
+~
+~
+0 -1 19648 0
+D3
+~
+~
+0 -1 19638 0
+S
+#19640
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19641 0
+D2
+~
+~
+0 -1 19649 0
+D3
+~
+~
+0 -1 19639 0
+S
+#19641
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19642 0
+D2
+~
+~
+0 -1 19650 0
+D3
+~
+~
+0 -1 19640 0
+S
+#19642
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19643 0
+D2
+~
+~
+0 -1 19651 0
+D3
+~
+~
+0 -1 19641 0
+S
+#19643
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19644 0
+D2
+~
+~
+0 -1 19652 0
+D3
+~
+~
+0 -1 19642 0
+S
+#19644
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D3
+~
+~
+0 -1 19643 0
+S
+#19645
+The Trail to Black River Ferry Office~
+The small dirt trail cuts through a farmers field, so watch what you
+step on.  The road is to the east and the ferry office is to the
+south.    
+~
+196 0 0 0 0 10
+D0
+~
+~
+0 -1 19636 0
+D1
+~
+~
+0 -1 19646 0
+D2
+~
+~
+0 -1 19656 0
+S
+#19646
+Nirin Highway~
+Nirin Highway is a wide cobble stone road raised high in the middle
+and with a trench on either side.  To the west you see a trail to the
+ticket office.  The road runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19637 0
+D1
+~
+~
+0 -1 19647 0
+D2
+~
+~
+0 -1 19657 0
+D3
+~
+~
+0 -1 19645 0
+S
+#19647
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19638 0
+D1
+~
+~
+0 -1 19648 0
+D2
+~
+~
+0 -1 19658 0
+D3
+~
+~
+0 -1 19646 0
+S
+#19648
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19639 0
+D1
+~
+~
+0 -1 19649 0
+D2
+~
+~
+0 -1 19659 0
+D3
+~
+~
+0 -1 19647 0
+S
+#19649
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19640 0
+D1
+~
+~
+0 -1 19650 0
+D2
+~
+~
+0 -1 19660 0
+D3
+~
+~
+0 -1 19648 0
+S
+#19650
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19641 0
+D1
+~
+~
+0 -1 19651 0
+D2
+~
+~
+0 -1 19661 0
+D3
+~
+~
+0 -1 19649 0
+S
+#19651
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19642 0
+D1
+~
+~
+0 -1 19652 0
+D2
+~
+~
+0 -1 19662 0
+D3
+~
+~
+0 -1 19650 0
+S
+#19652
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D0
+~
+~
+0 -1 19643 0
+D1
+~
+~
+0 -1 19653 0
+D2
+~
+~
+0 -1 19663 0
+D3
+~
+~
+0 -1 19651 0
+S
+#19653
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19654 0
+D2
+~
+~
+0 -1 19664 0
+D3
+~
+~
+0 -1 19652 0
+S
+#19654
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D1
+~
+~
+0 -1 19655 0
+D2
+~
+~
+0 -1 19665 0
+D3
+~
+~
+0 -1 19653 0
+S
+#19655
+The Rolling Plains~
+You are standing in a great field of tall grass.  The smell of fresh
+dirt and sunlight surrounds you.  The air is filled with the sound of
+chirping birds happily building their nests in the depths of the
+knotted grass.    
+~
+196 0 0 0 0 2
+D2
+~
+~
+0 -1 19666 0
+D3
+~
+~
+0 -1 19654 0
+S
+#19656
+Black River Ferry Office~
+You stand in a large building resting on stilts over Black River.  
+This ferry house isn't very busy compared to the other stations.  
+There is a sign and a map of the area on the wall.    
+~
+196 8 0 0 0 0
+D0
+19645
+~
+~
+0 -1 19645 0
+D1
+~
+~
+0 0 31371 0
+E
+sign wall~
+
+************************************************************
+*                                                          *
+*     Ferry tickets cost 100 gold. The ferries depart      *
+*   every two hours and you can ride as long as you want.  *
+*                                                          *
+************************************************************
+~
+E
+map~
+
+ [S]
+   \ 
+    \
+    |        [V]ern'ige
+    |        [*]You are here
+  '-+        [T]hewster        
+  | \
+ [*] |
+     |
+     |
+     | 
+     \
+     |
+     |
+[T]--'
+
+~
+S
+#19657
+A Bridge over the Black River~
+As you look over the west side of the bridge you can see a ferry
+docked at Black River Ferry Office.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19646 0
+D2
+~
+~
+0 -1 19668 0
+S
+#19658
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19647 0
+D1
+~
+~
+0 -1 19659 0
+D2
+~
+~
+0 -1 19669 0
+S
+#19659
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19648 0
+D1
+~
+~
+0 -1 19660 0
+D2
+~
+~
+0 -1 19670 0
+D3
+~
+~
+0 -1 19658 0
+S
+#19660
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19649 0
+D1
+~
+~
+0 -1 19661 0
+D2
+~
+~
+0 -1 19671 0
+D3
+~
+~
+0 -1 19659 0
+S
+#19661
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19650 0
+D1
+~
+~
+0 -1 19662 0
+D2
+~
+~
+0 -1 19672 0
+D3
+~
+~
+0 -1 19660 0
+S
+#19662
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19651 0
+D1
+~
+~
+0 -1 19663 0
+D2
+~
+~
+0 -1 19673 0
+D3
+~
+~
+0 -1 19661 0
+S
+#19663
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19652 0
+D1
+~
+~
+0 -1 19664 0
+D2
+~
+~
+0 -1 19674 0
+D3
+~
+~
+0 -1 19662 0
+S
+#19664
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19653 0
+D1
+~
+~
+0 -1 19665 0
+D2
+~
+~
+0 -1 19675 0
+D3
+~
+~
+0 -1 19663 0
+S
+#19665
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19654 0
+D1
+~
+~
+0 -1 19666 0
+D2
+~
+~
+0 -1 19676 0
+D3
+~
+~
+0 -1 19664 0
+S
+#19666
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19655 0
+D2
+~
+~
+0 -1 19677 0
+D3
+~
+~
+0 -1 19665 0
+S
+#19667
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D2
+~
+~
+0 -1 19678 0
+S
+#19668
+A Bridge over the Black River~
+The bridge runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19657 0
+D2
+~
+~
+0 -1 19679 0
+S
+#19669
+The Black River~
+The river empties into Lagoon here.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19658 0
+D1
+~
+~
+0 -1 19670 0
+D2
+~
+~
+0 -1 19680 0
+D3
+~
+~
+0 0 -1 0
+S
+#19670
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 268500992 0 0 0 7
+D0
+~
+~
+0 -1 19659 0
+D1
+~
+~
+0 -1 19671 0
+D2
+~
+~
+0 -1 19681 0
+D3
+~
+~
+0 -1 19669 0
+S
+#19671
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19660 0
+D1
+~
+~
+0 -1 19672 0
+D2
+~
+~
+0 -1 19682 0
+D3
+~
+~
+0 -1 19670 0
+S
+#19672
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19661 0
+D1
+~
+~
+0 -1 19673 0
+D2
+~
+~
+0 -1 19683 0
+D3
+~
+~
+0 -1 19671 0
+S
+#19673
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19662 0
+D1
+~
+~
+0 -1 19674 0
+D2
+~
+~
+0 -1 19684 0
+D3
+~
+~
+0 -1 19672 0
+S
+#19674
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19663 0
+D1
+~
+~
+0 -1 19675 0
+D2
+~
+~
+0 -1 19685 0
+D3
+~
+~
+0 -1 19673 0
+S
+#19675
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19664 0
+D1
+~
+~
+0 -1 19676 0
+D2
+~
+~
+0 -1 19686 0
+D3
+~
+~
+0 -1 19674 0
+S
+#19676
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19665 0
+D1
+~
+~
+0 -1 19677 0
+D2
+~
+~
+0 -1 19687 0
+D3
+~
+~
+0 -1 19675 0
+S
+#19677
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19666 0
+D1
+~
+~
+0 -1 -1 0
+D2
+~
+~
+0 -1 19688 0
+D3
+~
+~
+0 -1 19676 0
+S
+#19678
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19667 0
+D2
+~
+~
+0 -1 19689 0
+S
+#19679
+A Bridge over the Black River~
+The bridge runs north and south.    
+~
+196 65536 0 0 0 10
+D0
+~
+~
+0 -1 19668 0
+D2
+~
+~
+0 -1 19690 0
+S
+#19680
+The Black River~
+The river empties into Lagoon here.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19669 0
+D1
+~
+~
+0 -1 19681 0
+D2
+~
+~
+0 -1 19691 0
+D3
+~
+~
+0 0 -1 0
+S
+#19681
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19670 0
+D1
+~
+~
+0 -1 19682 0
+D2
+~
+~
+0 -1 19692 0
+D3
+~
+~
+0 -1 19680 0
+S
+#19682
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19671 0
+D1
+~
+~
+0 -1 19683 0
+D2
+~
+~
+0 -1 19693 0
+D3
+~
+~
+0 -1 19681 0
+S
+#19683
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19672 0
+D1
+~
+~
+0 -1 19684 0
+D2
+~
+~
+0 -1 19694 0
+D3
+~
+~
+0 -1 19682 0
+S
+#19684
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19673 0
+D1
+~
+~
+0 -1 19685 0
+D2
+~
+~
+0 -1 19695 0
+D3
+~
+~
+0 -1 19683 0
+S
+#19685
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19674 0
+D1
+~
+~
+0 -1 19686 0
+D2
+~
+~
+0 -1 19696 0
+D3
+~
+~
+0 -1 19684 0
+S
+#19686
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19675 0
+D1
+~
+~
+0 -1 19687 0
+D2
+~
+~
+0 -1 19697 0
+D3
+~
+~
+0 -1 19685 0
+S
+#19687
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19676 0
+D1
+~
+~
+0 -1 19688 0
+D2
+~
+~
+0 -1 19698 0
+D3
+~
+~
+0 -1 19686 0
+S
+#19688
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19677 0
+D2
+~
+~
+0 -1 19699 0
+D3
+~
+~
+0 -1 19687 0
+S
+#19689
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65536 0 0 0 7
+D0
+~
+~
+0 -1 19678 0
+D2
+~
+~
+0 0 -1 0
+S
+#19690
+A Bridge over the Black River~
+You are walking along a large cobble stone arched bridge over the
+black river.  Ivy and moss cling to the sides of the bridge giving it
+a greenish tint.  The river churns and bubbles about ten feet below
+you.  The bridge continues to the north while Nirin Highway and dry
+land is to the south.    
+~
+196 4 0 0 0 10
+D0
+~
+~
+0 -1 19679 0
+D2
+~
+~
+0 0 19401 0
+S
+#19691
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  A sandy beach is to the south of you.  It looks like a good
+place to make land fall.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19680 0
+D1
+~
+~
+0 -1 19692 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 -1 0
+S
+#19692
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage in
+that direction.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19681 0
+D1
+~
+~
+0 -1 19693 0
+D3
+~
+~
+0 -1 19691 0
+S
+#19693
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage in
+that direction.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19682 0
+D1
+~
+~
+0 -1 19694 0
+D3
+~
+~
+0 -1 19692 0
+S
+#19694
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage in
+that direction.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19683 0
+D1
+~
+~
+0 -1 19695 0
+D3
+~
+~
+0 -1 19693 0
+S
+#19695
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage.  
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19684 0
+D1
+~
+~
+0 -1 19696 0
+D3
+~
+~
+0 -1 19694 0
+S
+#19696
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage.  
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19685 0
+D1
+~
+~
+0 -1 19697 0
+D3
+~
+~
+0 -1 19695 0
+S
+#19697
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.  To the south a shear granite cliff blocks your passage.  
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19686 0
+D3
+~
+~
+0 -1 19696 0
+S
+#19698
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19687 0
+D1
+~
+~
+0 -1 19699 0
+D3
+~
+~
+0 -1 19697 0
+S
+#19699
+The Black River~
+The river stretches far and wide.  Luckily the shore is to the north
+or south.    
+~
+196 65540 0 0 0 7
+D0
+~
+~
+0 -1 19688 0
+D3
+~
+~
+0 -1 19698 0
+S
+$~

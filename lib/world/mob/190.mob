@@ -1,0 +1,1162 @@
+#19000
+elven citizen~
+an Elven Citizen~
+An Elven citizen walks about, with the gait of a seasoned woodsman.
+~
+The Elven citizen is typical of most elves, lithe and slender.  
+Pointed ears and almond-colored eyes also mark them as elven.  They
+walk about with confidence and in a serene manner.    
+~
+4296 0 0 0 0 0 0 0 900 E
+10 3 60 1d10+200 1d2+6
+200 1662
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 17
+Luck: 12
+Class: 12
+Race: 15
+E
+#19001
+elven guard butt~
+an Elven Guard~
+An Elven guard stands here, alertly guarding the gate.
+~
+The Elven guards are slightly larger than their civilian counterparts.
+Armored in chainmail and wielding a weapon with ease, they are a force
+to be reckoned with.  They stand here, ever watching out for the
+dreaded Rahn.    
+~
+6170 0 0 0 268435472 0 0 0 1000 E
+20 8 20 1d20+1000 2d3+10
+550 9735
+8 8 1
+BareHandAttack: 3
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 9
+Luck: 12
+Class: 4
+Race: 15
+E
+#19002
+elven soldier butt~
+an Elven Soldier~
+An Elven soldier strolls by, keeping an eye out for trouble.
+~
+The Elven soldier is a member of one of the elite fighting forces in
+the realms, the Grove Guardians.  Trained and skilled in every aspect
+of combat, he patrols the streets of his hometown when not in training
+or war.    
+~
+6154 0 0 0 0 0 0 0 1000 E
+12 3 52 1d12+300 1d2+8
+250 2646
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 18
+Luck: 12
+Class: 10
+Race: 15
+E
+#19003
+elven guard butt~
+an Elven Guard~
+An Elven Guard is walking around, protecting the villagers.
+~
+The Elven soldier is a member of one of the elite fighting forces in
+the realms, the Grove Guardians.  Trained and skilled in every aspect
+of combat, she patrols the streets of her hometown when not in
+training or war.    
+~
+6152 0 0 0 0 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+325 4674
+8 8 2
+BareHandAttack: 14
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Class: 10
+Race: 15
+E
+#19004
+Elf weaponsmith smith elven~
+the Elven Weaponsmith~
+An Elven weaponsmith is busily forging a new sword from adamantium.
+~
+Despite the fact the Elven weaponsmith doesn't fit the general picture
+of what one expects of most weaponsmiths (big, large, and muscular),
+he has an intricate ability to forge metal into any shape he wishes.
+Thick leather apron and gloves protect him from the searing heat of
+the forge.    
+~
+245770 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+700 13903
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 16
+Luck: 12
+Class: 4
+Race: 15
+E
+#19005
+Elf armoursmith smith elven~
+the Elven Armourer~
+An Elven armourer deftly linking rings of steel into a shirt stands here.
+~
+The Elven armourer is one of the most skilled in his trade, especially
+when it comes to making suberb ringmail armour.  The leather outfits
+that he produces are in high demand by thieves from all over the lands
+due to their supple and stealthy feel.  With skillful fingers, he
+contines to form a ringmail shirt from ordinary steel rings.    
+~
+245770 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+700 13903
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Luck: 12
+Class: 4
+Race: 15
+E
+#19006
+Krishnar sorceror~
+Krishnar, the Elven Sorceror~
+Krishnar smiles and gracefully motions for you to enter the shop.
+~
+Krishnar once worked for the Elven King as an advisor on the High
+Council.  After a long while of faithfully performing his duties, he
+felt it was time to step down and relax a little bit.  Since magic was
+always a part of his life, he decided to open this small magic shop
+that you see here and to continue tinkering with the powers of magic.
+~
+245770 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+700 13903
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 15
+Luck: 12
+Class: 1
+Race: 15
+E
+#19007
+Elf Quintor grocer~
+Quintor the Grocer~
+The grocer is busy at work here, re-stocking shelves.
+~
+Quintor is a pleasant elf, one who likes to talk and get to know
+others.  Bustling about, while gossiping, he restocks the shelves in
+his store.  Of all the elves, he is one who could be called somewhat
+obese by elven standards.    
+~
+245770 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+700 13903
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 20
+Luck: 12
+Race: 15
+E
+#19008
+elf bartender elven~
+the Elven Bartender~
+A rough-looking, yet gentle elf stands here, tending the bar.
+~
+The Elven bartender has seen and heard it all in this pleasant bar
+that he runs for his patrons.  A little shorter than most elves, he
+sports a tattoo of a dragon in flight on his left arm and another
+tattoo of a twisted barbwire around his right arm.  Before settling
+down and opening the bar, he was a mercenary by trade.    
+~
+245770 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+700 13903
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 22
+Luck: 12
+Race: 15
+E
+#19009
+elf receptionist elven~
+the Elven Receptionist~
+A nice-looking Elf is standing in the reception.
+~
+You notice a tired look on her face.
+~
+245771 0 0 0 2128 131072 0 0 900 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Class: 11
+Race: 15
+E
+#19010
+elf chief elven guard~
+the Chief of the Elven Guards~
+A tough-looking elf sits behind the desk, writing out reports on conduct.
+~
+Once the battlemaster for the Grove Guardians, the Chief decided that
+it was time for him to retire.  Upon coming back home, he was received
+as a hero and offered the position as the Chief of the Elven Guards.
+Now, as the new Chief, he is busy getting accustomed to the slower
+pace of guarding the Elven Tree City.    
+~
+71706 0 0 0 671088640 0 0 0 1000 E
+25 11 0 1d25+2000 2d3+16
+800 18056
+6 6 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 5
+Luck: 12
+Class: 4
+Race: 15
+E
+#19011
+elven soldier butt~
+an Elven Soldier~
+An elven soldier rests here, awaiting for the next rotation of duty.
+~
+The Elven soldier is a member of one of the elite fighting forces in
+the realms, the Grove Guardians.  Trained and skilled in every aspect
+of combat, he rests here, waiting for his turn to take up the watch
+over the city.    
+~
+6154 0 0 0 0 0 0 0 1000 E
+12 3 52 1d12+300 1d2+8
+250 2646
+6 6 1
+BareHandAttack: 14
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 22
+Luck: 12
+Class: 10
+Race: 15
+E
+#19012
+drizzt do'urden~
+Drizzt Do'Urden~
+Drizzt Do'Urden Narrowly misses you with his scimitars!
+~
+Drizzt is constantly perfecting his weapon use, best stay out of his
+way!  He is quite good with most weapons, but occasionally misses,
+hence he can prove dangerous to hang around.    
+~
+42 0 0 0 16 0 0 0 0 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 1
+BareHandAttack: 3
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 13
+Luck: 12
+Class: 4
+Race: 15
+E
+#19013
+Baenre Liriel drow~
+Liriel Baenre~
+Liriel Baenre is here, perfecting her aim.
+~
+She doesn't take kindly to strangers.
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 2
+BareHandAttack: 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Race: 15
+E
+#19014
+Fyodor Rashemen berserker~
+Fyodor Rashemen, the Berserker~
+Fyodor sits here, babbling incoherently to himself.
+~
+He looks at you and ATTACKS!
+~
+67356682 0 0 0 16 0 0 0 -500 E
+11 3 56 1d11+250 1d4+5
+225 2119
+6 6 1
+BareHandAttack: 5
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 9
+Luck: 12
+Class: 4
+Race: 15
+E
+#19015
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 0 0d0+0 0d0+0
+0 0
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 12
+Luck: 12
+E
+#19016
+priest de'lantha high~
+the High Priest De'Lantha~
+The High Priest De'Lantha is here, beaming a wonderfully welcoming smile at you.
+~
+His very presence offers you solace from your day's journeys and
+travails.  From his smile alone comes the realization that there is
+indeed goodnees incarnate still in this world and evil is not the
+guiding force of the land, though at times it may seem so.    
+~
+170072 0 0 0 536870928 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 16
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 18
+Luck: 12
+Class: 2
+Race: 15
+E
+#19017
+oklath gibbering old~
+old, gibbering Oklath~
+Old, gibbering Oklath is here spouting gospel and Lore.
+~
+He glares at you with feverish eyes, holding you spell-bound by his
+very mania - the same mania which inspires him to believe that the end
+is coming.    
+~
+8202 0 0 0 1 0 0 0 800 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Race: 15
+E
+#19018
+Zn'Karath maiden elf young~
+Zn'Karath~
+Zn'Karath is a beautiful young elven maiden, always glad to receive company.
+~
+Her glowing smile, and welcome embrace makes you wonder if maybe you
+shouldn't kill her after all.    
+~
+10 0 0 0 0 0 0 0 900 E
+12 3 52 1d12+300 1d4+6
+250 2646
+8 8 2
+BareHandAttack: 16
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Luck: 12
+Class: 12
+Race: 15
+E
+#19019
+Ck'Waanton Waanton elf~
+Ck'Waanton~
+Ck'Waanton stands near one of the windows, staring dreamily out at the forest.
+~
+His natural grace is very apparent in the way he stands at ease, not
+moving a muscle, not restless at all.  He seems the type who would be
+comfortable standing for hours or running for hours, and look good
+doing it.    
+~
+10 0 0 0 0 0 0 0 -100 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 1
+BareHandAttack: 5
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 24
+Luck: 12
+Race: 15
+E
+#19020
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 10 0d0+0 0d0+0
+0 0
+6 6 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+E
+#19021
+Leriin Je'Jaran~
+Leriin Je'Jaran~
+Leriin Je'Jaran is sitting here in a plush chair, reading a book.
+~
+Leriin Je'Jaran seems to be engrossed in the book that he is reading.
+Not known as a scholarly one, he does enjoy reading on occassion.  
+Like his abode, he looks somewhat unkempt, his clothing looking as if
+they have been worn for a few days in a row.    
+~
+10 0 0 0 0 0 0 0 800 E
+12 3 52 1d12+300 1d4+6
+250 2646
+6 6 1
+BareHandAttack: 6
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 14
+Luck: 12
+Race: 15
+E
+#19022
+Ej'Mrolan~
+Ej'Mrolan~
+Ej'Mrolan welcomes you to his home with a smile and flourish.
+~
+His broad smile and merry eyes must be how he has become such a
+popular member of the Council.  He appears to be the type to welcome
+anyone who enters his home, whether he knows them or not.    
+~
+10 0 0 0 0 0 0 0 600 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Race: 15
+E
+#19023
+Reklan~
+Ancient Reklan~
+Reklan rests upon his single, narrow chair, his stare fixed on nothing.
+~
+Reklan looks as if he has seen too many years, and fought too many
+battles.  He looks as if he has no desire to fight any more of those
+battles.  He looks defeated.  He turns to you and says, 'Many years
+ago, the MOS stole our heritage, our Lore.  They took it with them to
+their underground fortress and have since kept our Lore for
+themselves.  Get it for us and I will reward you handsomely.  '
+~
+26 0 0 0 2128 131074 0 0 1000 E
+11 3 56 1d11+250 1d4+5
+225 2119
+6 6 1
+BareHandAttack: 15
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 16
+Luck: 12
+Class: 1
+Race: 15
+E
+#19024
+maiden elven~
+an Elven Maiden~
+An Elven maiden walks by, enjoying the weather outside.
+~
+Tall and slender, the Elven maiden take the time to enjoy the weather.
+Walking with long strides, they cover ground with grace and ease.  
+She wears the typical elven leather armor and carries a dirk at her
+side.    
+~
+4296 0 0 0 0 0 0 0 800 E
+10 3 60 1d10+200 1d2+6
+200 1662
+8 8 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 14
+Luck: 12
+Class: 12
+Race: 15
+E
+#19025
+councilman man elven~
+an Elven Councilman~
+An Elven Councilman is here, tending to some very important business.
+~
+The councilman is busy at work, sorting through some very important
+documents before him.  Dressed in the traditional white robes of the
+Council, he pauses for a second as you enter the room then returns to
+his work.    
+~
+10 0 0 0 0 0 0 0 -1000 E
+13 4 48 1d13+350 1d2+8
+275 3245
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Class: 12
+Race: 15
+E
+#19026
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 10 0d0+0 0d0+0
+0 0
+8 8 0
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 15
+Luck: 12
+E
+#19027
+newbie helper Belgane~
+Belgane the Newbie Helper~
+Belgane the Newbie Helper is here teleporting newbies to the Newbie Headquarters.
+~
+Simply type /cCNEWBIE/c0 and you will instantly be transported to the
+Newbie Headquarters.    
+~
+229387 0 0 0 2384 131074 0 0 0 E
+200 204 -60 1d200+24000 15d20+100
+0 3799580
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 13
+Luck: 12
+Class: 2
+Race: 15
+E
+T 3000
+#19050
+grand paladin~
+a Grand Paladin~
+A Grand Paladin, outfitted in shiny armor, guards the Paladin's Guild.
+~
+Standing completely still and not batting an eyelash, the Grand
+Paladin will give up his life willingly in defending the guild of his
+fellow breathen.  He is completely armored and carries a mighty
+halberd at his side.    
+~
+16395 0 0 0 2128 0 0 0 300 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 10
+Luck: 12
+Class: 6
+Race: 15
+E
+#19051
+gladiator bodyguard~
+a Battle-scarred Gladiator~
+A battle-scarred Gladiator stands at ease, sharpening her trident.
+~
+The Gladiator has been though countless skirmishes and battles.  Only
+her skill at the trident and net has managed to keep her alive all
+these years.  Having the honor of being chosen by the Protectors to
+guard the Tree and guild, she stands here ready to bar unwanted
+strangers.    
+~
+16395 0 0 0 2128 0 0 0 800 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 2
+BareHandAttack: 3
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 9
+Luck: 12
+Class: 4
+Race: 15
+E
+#19052
+deathknight bodyguard~
+a Deathknight~
+A mighty Warrior in black armor and radiating evil stands at guard.
+~
+The Deathknight has sold his soul to the evil Ones and now devotes his
+entire life to his profession and evil.  His obsidian armor seems
+impentratable and gives off an evil glow.  Grimstrike, his two-handed
+axe, rests at his side.    
+~
+16395 0 0 0 2128 0 0 0 -900 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 24
+Luck: 12
+Class: 9
+Race: 15
+E
+#19053
+shaolin master~
+a Shaolin Master~
+A Shaolin Master, learned in all martial styles, stands here solemnly.
+~
+Wearing nothing but a simple brown robe and hemp sandals, the Shaolin
+Master does not seem to be imposing.  Suddenly without warning, she
+flicks a simple wooden chopstick, imbedding it deeply into the wall
+with one smooth, effortless graceful motion.    
+~
+16395 0 0 0 2128 0 0 0 0 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 9
+Luck: 12
+Class: 8
+Race: 15
+E
+#19054
+thief bodyguard assassin~
+a cloaked Assassin~
+An Assassin wearing a thick cloak lurks in the shadows.
+~
+The foremost expert in sudden, one-hit kills, the Assassin stands at
+guard from among the shadows.  Piercing almond-colored eyes watch your
+every move.  Twirling a dagger bewteen his fingers with ease, he
+reveals several more hidden in a fold in his cloak.    
+~
+16395 0 0 0 2128 0 0 0 -500 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 0
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 19
+Luck: 12
+Class: 3
+Race: 15
+E
+#19055
+holy one~
+a Holy One~
+A Holy One stands here with a bright golden aura of goodness.
+~
+The Holy One is a cleric who has achieved the highest possible state
+of being.  She has a kind and gentle face, smiling as she senses the
+thoughts of those who approach her.  Her aura reaches out and soothes
+your soul.    
+~
+16395 0 0 0 2128 0 0 0 800 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 2
+BareHandAttack: 7
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Luck: 12
+Class: 2
+Race: 15
+E
+#19056
+malevolent sorceror~
+a Malevolent Sorceror~
+A sinister Sorceror stands here, radiating the power of the elements.
+~
+The Malevolent Sorceror is a master of his craft.  He has achieved the
+unconscious control of the elements.  The actions of the elements
+around his body reflect his mood.  Right now, a sheet of flames is
+covering his body and arcs of lightning leap from his hands to the
+ground.    
+~
+16395 0 0 0 2128 0 0 0 -500 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 1
+BareHandAttack: 15
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 12
+Class: 1
+Race: 15
+E
+#19057
+ranger wilds~
+a Ranger of the Wilds~
+A Ranger of the Wilds rests here, improvising on a new and deadly snare.
+~
+The Ranger of the Wilds has become so close to nature that she is
+almost a diety of nature.  Dark, leaf-green hair, ocean-blue eyes, and
+an earthen tan show that she is indeed very much in touch with Mother
+Nature.  She rests here, tinkering with a new idea for a snare and
+listening to the silent murmurings of the Tree.    
+~
+16395 0 0 0 2128 0 0 0 200 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 2
+BareHandAttack: 14
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 23
+Luck: 12
+Class: 5
+Race: 15
+E
+#19058
+Gbo, the Gladiator Guildmaster~
+Gbo, the Gladiator Guildmaster~
+Gbo salutes you, as a fellow warrior would, and prepares to train you.
+~
+Gbo, the elven Gladiator Guildmaster, is well trained in all aspects
+of battle.  Her friendliness and high degree of charisma, which is
+unlike most gladiators, makes her the perfect canidate for this
+position.  She stands at ease, ready to train any gladiator who
+approaches.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+Class: 4
+Race: 15
+E
+#19059
+Ghelinis, the Paladin Guildmaster~
+Ghelinis, the Paladin Guildmaster~
+Powerfully built, Ghelinis kneels in respect and then offers his services.
+~
+Standing back up, one can see that Ghelinis the Paladin Guildmaster,
+is perfectly suited for his class.  Rippling muscles on a huge
+minotaurian body and Paladin armor together hint that Ghelinis can
+stand on his own against the forces of evil.  With a noncommitial
+grunt, he prepares to train any Paladin who approaches.    
+~
+16394 0 0 0 2128 131072 0 0 900 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 24
+Luck: 12
+Class: 6
+Race: 50
+E
+#19060
+Nayr, the Deathknight Guildmaster~
+Nayr, the Deathknight Guildmaster~
+Nayr the Diabolical hovers here, prepared to train.
+~
+A pair of crimson eyes glowing from a cloud of dark mist reveal that
+Nayr is a demon.  Nayr was sent here from the ethereal plane in the
+hopes that it can influence and strengthen the loyal mortal followers
+known as Deathknights.  It hovers here, an abomination of pure evil,
+ready to train any deathknight that approaches.    
+~
+16394 0 0 0 2128 131072 0 0 -900 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Class: 9
+Race: 41
+E
+#19061
+Althwin, the Monk Guildmaster~
+Althwin, the Monk Guildmaster~
+Althwin, the Monk Guildmaster, stops meditating and stands up.
+~
+Wearing a simple robe and hemp sandals, Althwin needs nothing material
+to do any real damage.  He has mastered all the arts of healing,
+combat, defense, and meditation.  With a light touch, he can render a
+man senseless and comatose.  He stands and bows, ready to train any
+monk who approaches.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 14
+Luck: 12
+Class: 8
+Race: 14
+E
+#19062
+Atharrel, the Thief Guildmaster~
+Atharrel, the Thief Guildmaster~
+Atharrel, the greatest thief in the realms ever, stands here.
+~
+Atharrel the Thief Guildmaster once led the largest crime gang and
+directed the UnderWorld Mob to fame.  Over the years, the pressure
+finally caught up with him.  He accepted this position in exchange for
+complete pardon for the hundreds of bounties placed on his head from
+all over the realms.  Cooly looking about, he stands, ready to teach a
+thief the skills of their trade.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Luck: 12
+Race: 14
+E
+#19063
+Solinari, the Cleric Guildmaster~
+Solinari, the Cleric Guildmaster~
+Solinari stands here, glowing with a aura brighter than the sun.
+~
+One of the greatest healers in the realms, Solinari has long since
+given up her travels and has decided to pass on her knowledge to those
+deemed worthy of the clerical class.  She stands up, dressed in
+brilliant white robes, and motions the worthy applicant to sit and
+prepare for training.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 12
+Luck: 12
+Class: 2
+Race: 23
+E
+#19064
+Fistilandi sorceror guildmaster~
+Fistilandi, the Sorceror Guildmaster~
+Fistilandi the Frail stands here, awaiting someone to train.
+~
+No one knows for sure the true age of this mighty sorcerer.  
+Fistilandi is a small gnome, of a ancient and frail body.  Sporting a
+beard almost as long as he is tall and a robe adorned with irridescent
+colors, he stands here.  Trying not to doze off, he is prepared to
+train one in the ways of magic.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+Class: 1
+Race: 18
+E
+#19065
+Tanis, the Ranger Guildmaster~
+Tanis, the Ranger Guildmaster~
+Tanis, the Ranger Guildmaster, stands here awaiting someone to train.
+~
+Tanis is a tall, lithe elf who is a mighty hero of the realms.  His
+many adventures have taught him much about the ways of nature and
+combat.  He is here, ready to train an aspiring ranger all he knows
+about the art of surviving in the wilderness.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 12
+Luck: 12
+Class: 5
+Race: 15
+E
+#19066
+the Protector~
+the Protector~
+A Protector walks about solemnly tending to the care of the Tree.
+~
+A tall stately elf outfitted in the robes of a Protector walks about
+attending to the tree.    
+~
+260120 0 0 0 268697920 0 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+1550 120856
+8 8 0
+BareHandAttack: 11
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 12
+Luck: 12
+Class: 5
+Race: 15
+E
+#19067
+sapling tree~
+a Sapling~
+A sapling creeps by on its dainty roots.
+~
+A slender offshoot of the Tree, it wanders the town peacefully,
+keeping the place clean.  These saplings were created by the Powers of
+the Protectors and are protected by the /crWRATH /cwof the Tree.  /c0
+~
+77 0 0 0 538445904 2 0 0 0 E
+50 29 -28 1d50+6000 4d5+25
+0 100714
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 19
+Luck: 12
+Race: 26
+E
+#19068
+baker~
+the Elven Baker~
+An elven Baker wipes off his hands on his apron and turns to tend the oven.
+~
+This baker slaves over the oven all day long and looks extremely hot
+and tired.  Best not to stick around too long before he gets
+impatient.    
+~
+16394 0 0 0 2128 131072 0 0 0 E
+23 9 8 1d1+0 1d4+15
+700 13903
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 18
+Luck: 12
+Race: 15
+E
+#19069
+elven fiancial advisor~
+an elven Fiancial Advisor~
+A petite and pretty Fiancial Advisor stands here, ready to help anyone.
+~
+The elven Fiancial Advisor is a beautiful and fit woman.  She is a
+graduate of the Finance program at the Great Tree of Knowledge.  
+Everything one needs to know about finances, one can get, simply by
+asking, from her.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+325 4674
+8 8 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Class: 12
+Race: 15
+E
+#19070
+elven postmaster~
+the Elven Postmaster~
+The PostMaster, a burly elf by elven standards, stands here sorting mail.
+~
+With a gruff look, the elevn PostMaster turns to drop some mail into a
+slot.  A burly elf, by elven standards, he once was an adventurer.  
+After a serious injury to his knee from fighting in the Elven-Orcish
+Wars, he decided to set aside the life of fame and settle down.  
+Coming home, he got this job and is content with his new life.    
+~
+16395 0 0 0 2128 131072 0 0 0 E
+23 9 8 1d1+0 1d4+15
+700 13903
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 8
+Luck: 12
+Race: 15
+E
+$

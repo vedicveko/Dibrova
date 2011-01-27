@@ -1,0 +1,336 @@
+#6900
+A waiters tray~
+/cwa waiters tray/c0~
+/cwA tray that was once used by an underpaid waiter lies here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+35 0 -1 0 0 0 0 0
+2 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6901
+sash~
+/cwa satin /ccteal /cwsash/c0~
+/cwA expensive silk sash lies here waiting for you./c0~
+~
+9 328706 0 0 0 2049 0 0 0
+2 0 0 0 0 0 0 0
+4 3840 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+3 -1
+#6902
+shirt protection stained~
+/cwa stained shirt of protection/c0~
+/cwA stained shirt lies here folded nicely./c0~
+~
+9 10240 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+3 2466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 5
+A
+4 1
+#6903
+earring topaz~
+/cwa /cCTopaz /cwearring/c0~
+/cwA shiny /cCtopaz /cwdangles here./c0~
+~
+11 0 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+1 2640 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+A
+3 1
+#6904
+shoes shiny pair black~
+/cwa pair of shiny /cLblack /cwshoes/c0~
+/cwA pair of shiny /cLblack /cwshoes are on the ground./c0~
+Nothing.
+~
+9 0 0 0 0 65 0 0 0
+5 0 0 0 0 0 0 0
+5 2566 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6905
+shovel~
+/cwa shovel/c0~
+/cwA dirty old shovel lies against the wall./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6906
+dusty lantern~
+/cwa dusty lantern/c0~
+/cwA dusty lantern lies tipped over on the ground./c0~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+6 2606 0 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+14 -5
+#6907
+golden sandals~
+/cwsome /cYgolden /cwsandals/c0~
+/cwA pair of /cYgold /cwsandals are buried under some dirt./c0~
+~
+11 32776 0 0 0 65 0 0 0
+0 0 0 0 0 0 0 0
+2 1734 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 15
+A
+18 -1
+A
+19 -1
+#6908
+sachel~
+/cwa sachel/c0~
+/cwA plain looking sachel hangs here./c0~
+~
+15 0 0 0 0 2049 0 0 0
+25 1 -1 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6909
+flask silver engraved~
+/cwan engraved silver flask/c0~
+/cwA small flask has been left here./c0~
+Nothing.
+~
+17 0 0 0 0 1 0 0 0
+5 5 5 0 0 0 0 0
+10 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6910
+locket golden~
+/cwa /cYgolden /cwlocket/c0~
+/cwA small piece of jewelry is on the ground./c0~
+Nothing.
+~
+11 263297 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+5 2600 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+1 -1
+#6911
+sash~
+/cwan embroidered sash/c0~
+/cwA pile of cloth is on the ground./c0~
+Woven from the finest silk, this was obviously made for a woman of stature.  
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+5 2273 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+A
+6 1
+#6912
+cloak obscurity~
+/cwA Cloak of /cBObscurity/c0~
+/cwA dark pile of cloth is crumpled in the corner./c0~
+~
+9 1090080 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+5 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+13 10
+A
+19 -1
+#6913
+stiletto black~
+/cwa /cLblack /cwstiletto/c0~
+/cwA deadly stiletto stands upright between two stones./c0~
+~
+5 40960 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 7332 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 1
+#6914
+cape blending~
+/cwthe Cape of Blending/c0~
+/cwIt looks as if the floor has wrinkles./c0~
+Nothing.
+~
+9 34 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+10 4000 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+14 10
+#6915
+rake~
+/cwa simple rake/c0~
+/cwA rake has been dropped on the ground./c0~
+Nothing.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6916
+peel banana~
+/cwa /cYbanana /cwpeel/c0~
+/cwSomeone left their /cYbanana /cwpeel here... tsk, tsk, someone could fall!/c0~
+Nothing.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6917
+gloves gardening~
+/cwsome gardening gloves/c0~
+/cwA pair of gardening gloves have been left here./c0~
+Nothing.
+~
+9 0 0 0 0 129 0 0 0
+4 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6918
+shovel gardening~
+/cwa small gardening shovel/c0~
+/cwA small gardening shovel is laying in the ground./c0~
+Nothing.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6919
+shovel~
+/cwa shovel/c0~
+/cwA shovel is propped up against a tree./c0~
+Nothing.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+9 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6920
+sign rules~
+the /cWRules of the Game/c0~
+/cwA sign is hung on the wall just inside the door./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+-/cWHouse Rules/c0-
+
+-/ccTo place a wager simply type GAMBLE (amnt) and the dealer will deal
+you one card and a card for himself.  The player with the highest
+card wins the wager.   /c0
+
+/ccIn the event of a tie, there will be a /cRWar!/cc and this will continue
+until there is a winner./c0
+~
+#6921
+goblet sparkling~
+/cwa /ccsparkling /cwgoblet/c0~
+A sparkling goblet full of beer has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+3 3 1 0 0 0 0 0
+5 19 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6922
+decanter crystal~
+/cwa /cWcrystal /cwdecanter/c0~
+A crystal decanter filled with expensive wine has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+7 7 2 0 0 0 0 0
+12 38 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6923
+meat plate sizzling~
+/cwa /cysizzling /cwplate of /crrare /cwszgina meat/c0~
+/cwSomeone left a REALLY tasty looking plate of food here./c0~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 16 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6924
+tray vegetable steaming~
+/cwa steaming vegetable tray/c0~
+/cwA steaming vegetable is here, steaming./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+2 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6925
+leg yantha beast~
+/cwleg of Yantha Beast/c0~
+/cwSomeone left their leg of Yantha Beast here - what a waste of a delicacy!/c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+2 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6926
+ribs ilzaak pomegranete sauce~
+/cwsome Ilzaak ribs in pomegranete sauce/c0~
+/cwThere is a plate of Ilzaak ribs here steaming in pomegranete sauce./c0~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+2 20 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6927
+banana red~
+/cwa /crred /cwbanana/c0~
+/cwA /crred /cwbanana has been dropped here./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+2 4 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6928
+chupacabre rotisseri~
+/cwsome rotiserrie chupacabre/c0~
+/cwA warm, steaming rotiserri chupacabre has been left here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+1 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6929
+glass green wine~
+/cwa beveled /cggreen /cwglass/c0~
+A beautifully beveled green glass has been left here.~
+~
+17 0 0 0 0 1 0 0 0
+3 3 2 0 0 0 0 0
+8 30 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

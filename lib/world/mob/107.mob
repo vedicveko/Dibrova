@@ -1,0 +1,1660 @@
+#10701
+monk cleaning~
+a Monk~
+A temple monk is here cleaning and polishing the walkway.
+~
+He looks to be a student of the temple.  He is dressed in a loose
+brown robe.  He is diligently cleaning the walkway.    
+~
+76 0 0 0 0 0 0 0 1000 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 1
+Str: 16
+Dex: 19
+Int: 22
+Wis: 17
+Con: 5
+Cha: 17
+Luck: 10
+Class: 8
+Race: 14
+E
+#10702
+monk elder~
+an Elder Monk~
+An elder monk is here murmuring and praying.
+~
+He keeps himself in a half-trance as he makes his way about the temple.
+~
+6216 0 0 0 16 0 0 0 1000 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+BareHandAttack: 13
+Str: 20
+Dex: 21
+Int: 10
+Wis: 12
+Con: 18
+Cha: 22
+Luck: 24
+Class: 8
+Race: 14
+E
+#10703
+monk temple student~
+a Temple Student~
+A temple student is here practicing his art.
+~
+He may have noticed your arrival, but it doubtful - he seems quite
+intent on his studies.    
+~
+14 0 0 0 0 0 0 0 1000 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 1
+Str: 17
+Dex: 23
+Int: 7
+Wis: 15
+Con: 13
+Cha: 15
+Luck: 7
+Class: 12
+Race: 14
+E
+#10704
+monk advanced student temple~
+a Temple Student~
+A temple student is here practicing his art.
+~
+He may have noticed your arrival, but it doubtful - he seems quite
+intent on his studies.    
+~
+14 0 0 0 0 0 0 0 1000 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+Str: 24
+Dex: 21
+Int: 19
+Wis: 14
+Con: 14
+Luck: 13
+Class: 12
+Race: 14
+E
+#10705
+teacher monk~
+a Teacher~
+A temple teacher is here instructing students.
+~
+He lectures in a stern and demanding voice, one that brooks no
+argument.    
+~
+38922 0 0 0 16 131072 0 0 1000 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 5
+Str: 17
+Dex: 21
+Int: 21
+Wis: 23
+Con: 5
+Cha: 21
+Luck: 7
+Race: 14
+E
+#10706
+guard temple~
+a Temple Guard~
+A temple guard is here.
+~
+A proud man, to be sure, this temple guard does not allow any
+interlopers to make light of what happens within these holy walls.  
+~
+557132 0 0 0 80 0 0 0 1000 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 16
+Int: 24
+Wis: 15
+Con: 21
+Cha: 23
+Luck: 7
+Class: 10
+Race: 14
+E
+#10707
+guard white lotus~
+a Guard of the White Lotus~
+A guard of the White Lotus is standing here.
+~
+Dressed in the finery that this man's station requires, he looks quite
+resplendant in his gear.    
+~
+71752 0 0 0 134217744 0 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 206459
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 12
+Wis: 10
+Cha: 25
+Luck: 7
+Class: 10
+Race: 14
+E
+#10708
+kitchen attendant~
+a Kitchen Attendant~
+A kitchen attendant is here cooking for the soldiers.
+~
+She looks a bit tired and very over-worked, but not unhappy.
+~
+14 0 0 0 0 0 0 0 1000 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 2
+Str: 12
+Dex: 25
+Int: 16
+Wis: 6
+Con: 25
+Cha: 7
+Luck: 8
+Race: 14
+E
+#10709
+kitchen attendant~
+a Kitchen Attendant~
+A kitchen attendant is here cooking for the soldiers.
+~
+He looks a bit tired and very over-worked, but not unhappy.
+~
+10 0 0 0 0 0 0 0 1000 E
+45 25 -24 0d0+0 4d5+30
+625 76985
+8 8 1
+Str: 10
+Dex: 8
+Int: 23
+Wis: 13
+Con: 21
+Cha: 17
+Luck: 14
+Race: 14
+E
+#10710
+soldier temple gambling~
+a Temple Soldier~
+A temple soldier is here gambling.
+~
+Gambling!  Of all things that a soldier should be doing while on duty,
+not a single one of them includes gambling!    
+~
+2186 0 0 0 0 0 0 0 1000 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 21
+Dex: 24
+Int: 20
+Wis: 22
+Con: 17
+Luck: 12
+Race: 14
+E
+#10711
+soldier temple eating~
+a Temple Soldier~
+A temple soldier is here stuffing his mouth with rice.
+~
+Ah, the rice.  Rice is the main staple of the members of the White
+Lotus Sect.  It is considered to be the one pure food.    
+~
+6154 0 0 0 0 0 0 0 1000 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 8
+Dex: 16
+Wis: 8
+Con: 12
+Luck: 23
+Race: 14
+E
+#10712
+officer temple~
+a Temple Officer~
+A temple Officer is here, drinking wine.
+~
+Drinkin' on the job! What will be next?!
+~
+38922 0 0 0 16 0 0 0 1000 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 14
+Str: 6
+Dex: 16
+Int: 19
+Wis: 21
+Con: 19
+Cha: 18
+Luck: 15
+Race: 14
+E
+#10713
+prisoner~
+Prisoner~
+A prisoner is here barfing on the ground.
+~
+This poor wretched man is not used to the strict rice diet that the
+members of the White Lotus live by.    
+~
+10 0 0 0 0 0 0 0 -300 E
+50 29 -28 0d0+0 5d5+33
+0 100714
+8 8 1
+Str: 17
+Dex: 16
+Int: 23
+Wis: 16
+Con: 19
+Cha: 22
+Luck: 12
+Race: 14
+E
+#10714
+monk wandering~
+Wandering Monk~
+A monk is here wandering and praying.
+~
+He just wanders and prays and wanders and prays...  Then he wanders
+and prays some more.  It's a monk thing.....    
+~
+76 0 0 0 0 0 0 0 1000 E
+56 34 -32 0d0+0 5d6+37
+900 134460
+8 8 1
+Str: 24
+Dex: 25
+Int: 15
+Con: 15
+Cha: 8
+Luck: 10
+Class: 8
+Race: 14
+E
+#10715
+song bird~
+a Songbird~
+A small colorful songbird is here chirping merrily.
+~
+The songbird is pretty and beautiful - a perfect specimen to be
+fluttering around this temple.    
+~
+76 0 0 0 8388608 0 0 0 1000 E
+15 5 40 0d0+0 1d3+10
+0 4674
+8 8 0
+Str: 23
+Dex: 23
+Int: 17
+Wis: 14
+Con: 20
+Cha: 13
+Race: 3
+E
+#10716
+dignitary visiting~
+a visiting Dignitary~
+A visiting dignitary gives you a brief nod as you pass.
+~
+He looks as if he might feel quite out of place here in this grandiose
+place of perfection and grace.    
+~
+72 0 0 0 16 0 0 0 300 E
+61 38 -40 0d0+0 5d6+40
+1025 167227
+8 8 1
+Str: 17
+Dex: 16
+Int: 12
+Wis: 24
+Con: 5
+Cha: 12
+Luck: 16
+Class: 12
+Race: 14
+E
+#10717
+small frog~
+a small Frog~
+A small frog is here croaking.
+~
+Riddip.
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 0
+Str: 17
+Dex: 9
+Int: 22
+Wis: 13
+Con: 22
+Cha: 24
+Luck: 10
+Race: 2
+E
+#10718
+tiny centipede~
+a tiny Centipede~
+A tiny centipede is crawling on the ground.
+~
+Its sort of cute, actually. NO! Don't squish it!
+~
+10 0 0 0 0 0 0 0 100 E
+5 1 80 0d0+0 1d2+2
+0 283
+8 8 1
+BareHandAttack: 4
+Str: 8
+Dex: 16
+Int: 22
+Wis: 22
+Con: 16
+Cha: 21
+Luck: 19
+Race: 5
+E
+#10719
+silver snake~
+a Silver Snake~
+A silver snake is slithering at your feet.
+~
+It gives a small hiss as you pass by.
+~
+16777292 0 0 0 0 0 0 0 0 E
+15 5 40 0d0+0 1d5+7
+0 4674
+8 8 0
+BareHandAttack: 4
+Str: 21
+Dex: 15
+Int: 15
+Wis: 13
+Con: 10
+Cha: 22
+Luck: 9
+Race: 2
+E
+#10720
+small green lizard~
+a small Green Lizard~
+A small green lizard is climbing on a nearby tree.
+~
+Its forked tongue shows once and then twice before it turns away from
+you.    
+~
+10 0 0 0 0 0 0 0 0 E
+14 4 44 0d0+0 1d5+7
+0 3920
+8 8 1
+BareHandAttack: 10
+Dex: 23
+Int: 18
+Wis: 5
+Con: 24
+Cha: 22
+Luck: 12
+Race: 2
+E
+#10721
+small red scorpion~
+a Red Scorpion~
+A small red scorpion is scuttling across the path.
+~
+It skitters away into some tall grass and is gone.
+~
+16777226 0 0 0 0 0 0 0 0 E
+10 3 60 0d0+0 1d4+5
+0 1662
+8 8 1
+BareHandAttack: 1
+Str: 12
+Dex: 5
+Int: 20
+Wis: 17
+Con: 8
+Cha: 5
+Luck: 22
+Race: 43
+E
+#10722
+expert scorpion ma tang~
+Ma Tang~
+Ma Tang, Expert of the Scorpion technique is here.
+~
+Ma Tang is the undisputed master of the technique which he has named
+the Scorpion technique, dubbed after his favorite animal and the way
+in which the form looks to the spectator who sees it in action.    
+~
+2074 0 0 0 570425344 0 0 0 1000 E
+70 47 -40 0d0+0 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 1
+Str: 20
+Dex: 13
+Int: 14
+Wis: 20
+Con: 12
+Cha: 12
+Luck: 18
+Class: 8
+Race: 14
+E
+#10723
+expert toad lee ho~
+Lee Ho~
+Lee Ho, Expert of the Toad technique is here.
+~
+Lee Ho is the master of all and none, the man who no one - not even
+the other nmasters dare to challenge.    
+~
+18442 0 0 0 134283264 4194304 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+1275 297379
+8 8 1
+Str: 24
+Dex: 22
+Int: 6
+Wis: 7
+Con: 17
+Cha: 25
+Luck: 24
+Class: 8
+Race: 14
+E
+#10724
+expert centipede tang seung qwe~
+Tang Seung Qwe~
+Tang Seung Qwe, Expert of the Centipede technique is here.
+~
+Tang is the luckiest guy in the complex - he has the coolest name.
+~
+38922 0 0 0 16 0 0 0 1000 E
+72 48 -40 0d0+0 6d6+48
+1200 255219
+8 8 1
+BareHandAttack: 10
+Str: 25
+Int: 7
+Wis: 22
+Con: 18
+Cha: 9
+Luck: 18
+Class: 8
+Race: 14
+E
+#10725
+expert lizard yeun sun ho~
+Yeun Sun Ho~
+Yeun Sun Ho, Expert of the Lizard technique is here.
+~
+Yeun gives you a short look, licks his mouth twice and turns away.
+~
+530442 0 0 0 33554448 0 0 0 1000 E
+74 50 -40 0d0+0 6d6+49
+1250 273689
+8 8 1
+Str: 14
+Dex: 9
+Int: 13
+Wis: 19
+Con: 6
+Cha: 25
+Luck: 23
+Class: 8
+Race: 14
+E
+#10726
+teachers last student~
+the Teacher's last Student~
+Teacher's last student is here searching for the Five Deadly Venoms.
+~
+The Five Deadly Venoms are a legend among the inhabitants of this
+place, a legend which is strongly believed in and there is always at
+least one student who ends his time here only to leave in search of
+the Venoms.    
+~
+4106 0 0 0 0 0 0 0 1000 E
+57 35 -32 0d0+0 5d6+38
+925 140668
+8 8 1
+Str: 25
+Dex: 15
+Int: 15
+Wis: 25
+Con: 7
+Cha: 20
+Luck: 14
+Race: 14
+E
+#10727
+man golden skin painted trance~
+the Golden Man~
+The Golden Man sits cross-legged, eyes closed in a trance.
+~
+The Golden Man is chosen by the masters at their yearly meeting after
+a class is graduated - the Golden Man is the best of the best and
+chosen to sit in this square for a year afterward as an honor
+bestowed, showing high status.    
+~
+34113546 0 0 0 272 131072 0 0 1000 E
+78 54 -40 0d0+0 6d7+52
+1350 344309
+8 8 1
+BareHandAttack: 12
+Str: 17
+Dex: 10
+Wis: 10
+Con: 16
+Cha: 8
+Luck: 25
+Class: 1
+Race: 14
+E
+#10728
+man golden skin painted trance~
+the Golden Man~
+The Golden Man sits cross-legged, eyes closed in a trance.
+~
+The Golden Man is chosen by the masters at their yearly meeting after
+a class is graduated - the Golden Man is the best of the best and
+chosen to sit in this square for a year afterward as an honor
+bestowed, showing high status.  Some stay even longer than a year to
+show high stamina.    
+~
+100362 0 0 0 256 0 0 0 1000 E
+77 53 -40 0d0+0 6d7+51
+1325 333165
+8 8 1
+Str: 8
+Dex: 24
+Int: 14
+Wis: 24
+Con: 15
+Cha: 21
+Luck: 12
+Class: 1
+Race: 14
+E
+#10729
+man golden skin painted trance~
+the Golden Man~
+The Golden Man sits cross-legged, eyes closed in a trance.
+~
+The Golden Man is chosen by the masters at their yearly meeting after
+a class is graduated - the Golden Man is the best of the best and
+chosen to sit in this square for a year afterward as an honor
+bestowed, showing high status.  Some stay even longer than a year to
+show high stamina.    
+~
+591882 0 0 0 272 131072 0 0 1000 E
+78 54 -40 0d0+0 6d7+52
+1350 344309
+8 8 1
+BareHandAttack: 13
+Str: 23
+Dex: 12
+Int: 5
+Wis: 23
+Con: 24
+Cha: 7
+Luck: 24
+Class: 1
+Race: 14
+E
+#10730
+attendant shrine~
+a Shrine Attendant~
+An attendant is here tending to the shrines.
+~
+He wanders about the place tidying up here and there, keeping the
+place neat.    
+~
+14 0 0 0 16 0 0 0 1000 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 1
+Str: 21
+Dex: 16
+Int: 19
+Wis: 22
+Con: 14
+Cha: 6
+Luck: 24
+Class: 12
+Race: 14
+E
+#10731
+monk chanting~
+a Chanting Monk~
+A monk is sitting here chanting.
+~
+This is what monks do, they chant.
+~
+10 0 0 0 0 0 0 0 1000 E
+51 30 -32 0d0+0 5d5+34
+775 105930
+8 8 1
+Dex: 6
+Int: 25
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 17
+Class: 8
+Race: 14
+E
+#10732
+Wei Chin~
+Wei Chin~
+Wei Chin is here.
+~
+Wei Chin is considered by everyone in the temple to be the undisputed
+master of lore and technique.    
+~
+649226 0 0 0 16 163840 0 0 1000 E
+80 56 -40 0d0+0 6d7+53
+1400 333884
+8 8 1
+BareHandAttack: 12
+Str: 21
+Dex: 17
+Int: 20
+Wis: 6
+Con: 8
+Cha: 24
+Luck: 6
+Class: 8
+Race: 14
+E
+#10733
+Wu Tak~
+Wu Tak~
+A visiting monk named, 'Wu Tak' is here.
+~
+Wu Tak is said to be related somehow to Wei Chin, but exactly how they
+are related is not known - by anyone.    
+~
+10 0 0 0 0 0 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 13
+Int: 19
+Wis: 18
+Con: 7
+Cha: 10
+Luck: 6
+Class: 8
+Race: 14
+E
+#10734
+White Lotus Chief~
+White Lotus Chief~
+The White Lotus Chief is here meditating.
+~
+This is the man in charge of the day-to-days in the temple - the main
+honcho.    
+~
+38922 0 0 0 16 131072 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 17
+Int: 12
+Wis: 15
+Con: 18
+Cha: 10
+Luck: 7
+Class: 4
+Race: 14
+E
+#10735
+chief personal guard~
+the Personal Guard~
+The personal guard of the White Lotus Chief is here.
+~
+This is a blank-faced man, impassive to the whims and wiles that
+others might offer, his only desire in life to protect his chief.    
+~
+4106 0 0 0 16 0 0 0 1000 E
+64 41 -40 0d0+0 6d6+42
+1100 189005
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 19
+Int: 9
+Wis: 25
+Con: 12
+Cha: 13
+Luck: 18
+Class: 10
+Race: 14
+E
+#10736
+chamber attendant~
+the Chamber Attendant~
+The attendant to the 36 chambers is here to welcome you.
+~
+He looks you up and down and nods... another visitor.
+~
+10 0 0 0 0 0 0 0 1000 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 17
+Int: 21
+Wis: 25
+Con: 9
+Cha: 19
+Luck: 9
+Class: 8
+Race: 14
+E
+#10737
+teacher 1st chamber~
+the Teacher of the 1st Chamber~
+The teacher of the 1st chamber is waiting patiently for a student.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+10 0 0 0 0 0 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+Str: 22
+Dex: 16
+Int: 24
+Wis: 25
+Con: 8
+Cha: 10
+Luck: 18
+Class: 8
+Race: 14
+E
+#10738
+teacher 2nd chamber~
+the Teacher of the 2nd Chamber~
+The teacher of the 2nd chamber is waiting patiently for a student.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+10 0 0 0 0 0 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 13
+Str: 9
+Dex: 23
+Int: 9
+Wis: 16
+Con: 12
+Cha: 7
+Luck: 12
+Class: 8
+Race: 14
+E
+#10739
+teacher whirlwind kick~
+the Teacher of the Whirlwind Kick~
+The teacher of the whirlwind kick is here waiting to test you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+10 0 0 0 0 131072 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 10
+Str: 16
+Dex: 21
+Wis: 14
+Con: 6
+Cha: 25
+Luck: 25
+Class: 8
+Race: 14
+E
+#10740
+teacher chin kang palm~
+the Teacher of the Chin Kang Palm~
+The teacher of the chin kang palm is here waiting to test you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67594 0 0 0 0 0 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 5
+Dex: 15
+Int: 21
+Wis: 23
+Con: 25
+Cha: 20
+Luck: 7
+Class: 8
+Race: 14
+E
+#10741
+teacher lizard style~
+the Teacher of the Lizard Style~
+The teacher of the lizard style is standing on the wall.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+98314 0 0 0 33554432 0 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 10
+Str: 15
+Dex: 9
+Int: 17
+Wis: 8
+Con: 5
+Cha: 18
+Luck: 8
+Class: 8
+Race: 14
+E
+#10742
+teacher crane style~
+the Teacher of the Crane Style~
+The teacher of the crane style is here meditating.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+10 0 0 0 0 131072 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 19
+Int: 14
+Wis: 15
+Con: 25
+Cha: 23
+Luck: 16
+Class: 8
+Race: 14
+E
+#10743
+teacher dragon style~
+the Teacher of the Dragon Style~
+The teacher of the dragon style is awaiting your arrival.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+65546 0 0 0 16 131072 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 8
+Str: 16
+Int: 12
+Wis: 15
+Con: 12
+Cha: 7
+Luck: 9
+Class: 8
+Race: 14
+E
+#10744
+teacher tiger style~
+the Teacher of the Tiger Style~
+The teacher of the tiger style sits here eating a pork bun.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+165898 0 0 0 0 0 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 8
+Str: 14
+Dex: 17
+Int: 23
+Wis: 20
+Con: 21
+Cha: 8
+Luck: 20
+Class: 8
+Race: 14
+E
+#10745
+teacher scorpion style~
+the Teacher of the Scorpion Style~
+The teacher of the scorpion style is trying to decide how to kill you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+16842762 0 0 0 33554512 0 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 1
+Str: 20
+Dex: 6
+Int: 18
+Wis: 7
+Con: 18
+Cha: 25
+Luck: 5
+Class: 8
+Race: 14
+E
+#10746
+teacher snake style~
+the Teacher of the Snake Style~
+The teacher of the snake style is sitting here on a silver throne.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+16779274 0 0 0 16 0 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+BareHandAttack: 4
+Str: 5
+Int: 17
+Wis: 20
+Con: 5
+Cha: 19
+Luck: 7
+Class: 8
+Race: 14
+E
+#10747
+teacher centipede style~
+the Teacher of the Centipede Style~
+The teacher of the centipede style is waiting for you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67594 0 0 0 33554448 0 0 0 1000 E
+69 46 -40 0d0+0 6d6+46
+1125 228971
+8 8 1
+BareHandAttack: 10
+Str: 16
+Dex: 14
+Int: 9
+Wis: 17
+Con: 15
+Cha: 12
+Luck: 24
+Class: 8
+Race: 14
+E
+#10748
+teacher toad style~
+the Teacher of the Toad Style~
+The teacher of the toad style is waiting for you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+34826 0 0 0 0 131072 0 0 1000 E
+69 46 -40 0d0+0 6d6+46
+1125 228971
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 8
+Int: 10
+Wis: 6
+Con: 17
+Cha: 25
+Luck: 23
+Class: 8
+Race: 14
+E
+#10749
+teacher iron monk style~
+the Teacher of the Iron Monk Style~
+The teacher of the iron monk style is here meditating.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+33622026 0 0 0 16 0 0 0 1000 E
+69 46 -40 0d0+0 6d6+46
+1125 228971
+8 8 1
+BareHandAttack: 7
+Str: 5
+Dex: 10
+Int: 23
+Wis: 17
+Con: 16
+Cha: 12
+Luck: 14
+Class: 8
+Race: 14
+E
+#10750
+teacher iron head style~
+the Teacher of the Iron Head Style~
+The teacher of the iron head style is praying he'll spare you.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+34826 0 0 0 134217744 0 0 0 1000 E
+71 47 -40 0d0+0 6d6+47
+1175 258590
+8 8 1
+BareHandAttack: 6
+Str: 17
+Dex: 10
+Int: 6
+Wis: 14
+Con: 7
+Cha: 24
+Luck: 21
+Class: 8
+Race: 14
+E
+#10751
+teacher hawk style~
+the Teacher of the Hawk Style~
+The teacher of the hawk style is here drinking wine.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67594 0 0 0 16 163840 0 0 1000 E
+71 47 -40 0d0+0 6d6+47
+1175 246277
+8 8 1
+BareHandAttack: 8
+Str: 5
+Dex: 5
+Int: 16
+Wis: 18
+Con: 6
+Luck: 8
+Class: 8
+Race: 14
+E
+#10752
+teacher quivering palm style~
+the Teacher of the Quivering Palm Style~
+The teacher of the quivering palm style sits patiently on a stool here.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+34842 0 0 0 33554448 0 0 0 1000 E
+71 47 -40 0d0+0 6d6+47
+1175 246277
+5 5 1
+Str: 23
+Dex: 15
+Int: 22
+Wis: 15
+Con: 9
+Cha: 15
+Luck: 9
+Class: 8
+Race: 14
+E
+#10753
+teacher five pace palm style~
+the Teacher of the Five-pace Palm Style~
+The teacher of the five pace palm style is waiting patiently.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+33687578 0 0 0 16 0 0 0 1000 E
+73 49 -40 0d0+0 6d6+48
+1225 264356
+8 8 1
+Str: 14
+Dex: 10
+Int: 15
+Wis: 19
+Con: 16
+Cha: 10
+Luck: 17
+Class: 8
+Race: 14
+E
+#10754
+healing monk chanting~
+the Chanting Monk~
+A monk is here praying and chanting.
+~
+So many monks... so many prayers and chants...
+~
+10 0 0 0 16 0 0 0 1000 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 20
+Dex: 18
+Int: 13
+Wis: 8
+Con: 10
+Cha: 14
+Luck: 20
+Class: 8
+Race: 14
+E
+#10755
+teacher weightless boxing~
+the Teacher of Weightless Boxing~
+The teacher of weightless boxing is here saying, 'Damn You!'
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67594 0 0 0 33554448 0 0 0 1000 E
+73 49 -40 0d0+0 6d6+48
+1225 264356
+8 8 1
+BareHandAttack: 13
+Str: 9
+Dex: 6
+Int: 6
+Wis: 19
+Con: 25
+Cha: 17
+Luck: 21
+Class: 8
+Race: 14
+E
+#10756
+teacher lightning strike~
+the Teacher of the Lightning Strike~
+The teacher of the lightning strike sits on the floor here.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67610 0 0 0 33554448 131072 0 0 1000 E
+73 49 -40 0d0+0 6d6+48
+1225 264356
+8 8 1
+Str: 21
+Dex: 12
+Int: 21
+Wis: 6
+Con: 14
+Cha: 25
+Luck: 22
+Class: 8
+Race: 14
+E
+#10757
+teacher iron skin~
+the Teacher of the Iron Skin Technique~
+The teacher of the iron skin technique sits on the floor here.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+33654810 0 0 0 16 131072 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+Str: 21
+Dex: 6
+Int: 25
+Wis: 15
+Con: 18
+Luck: 6
+Class: 8
+Race: 14
+E
+#10758
+teacher chinese long sword~
+the Teacher of the Chinese Long Sword~
+The teacher of the chinese long sword is here cutting up apples.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+100362 0 0 0 33554448 32768 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 13
+Int: 5
+Wis: 9
+Con: 9
+Cha: 5
+Luck: 19
+Class: 8
+Race: 14
+E
+#10759
+teacher butterfly swords~
+the Teacher of the Butterfly Swords~
+The teacher of the butterfly swords is here sharpening his blades.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+100362 0 0 0 301989904 0 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 6
+Int: 9
+Con: 22
+Cha: 9
+Luck: 24
+Class: 8
+Race: 14
+E
+#10760
+teacher long spear~
+the Teacher of the Chinese Long Spear~
+The teacher of the chinese long spear is here making kabobs.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67610 0 0 0 16 0 0 0 1000 E
+77 53 -40 0d0+0 6d7+51
+1325 302878
+8 8 1
+BareHandAttack: 11
+Str: 15
+Dex: 22
+Int: 22
+Wis: 25
+Con: 25
+Cha: 5
+Luck: 24
+Class: 8
+Race: 14
+E
+#10761
+teacher deadly palm~
+the Teacher of the Deadly Palm~
+The teacher of the deadly palm is here writing poetry.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+165914 0 0 0 33554448 0 0 0 1000 E
+77 53 -40 0d0+0 6d7+51
+1325 302878
+8 8 1
+BareHandAttack: 13
+Str: 19
+Dex: 5
+Int: 5
+Wis: 5
+Con: 22
+Cha: 18
+Luck: 24
+Class: 8
+Race: 14
+E
+#10762
+teacher fivechops~
+the Teacher of the Five Chops~
+The teacher of the five chops is here watching the home choping channel.
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67610 0 0 0 16 131072 0 0 1000 E
+79 55 -40 0d0+0 6d7+52
+1375 323344
+8 8 1
+Str: 23
+Dex: 7
+Int: 10
+Wis: 23
+Con: 24
+Cha: 23
+Luck: 18
+Class: 8
+Race: 14
+E
+#10763
+teacher angry buddha~
+the Teacher of the Angry Buddha~
+The teacher of the angry buddha is here being...well..angry...
+~
+All of the teachers in the temple have their own room, numbered
+instead of named to keep the proceedings less personal.  The teachers
+themselves do not ever give names, just that of their chamber.    
+~
+67110922 0 0 0 33554448 163840 0 0 1000 E
+79 55 -40 0d0+0 6d7+52
+1375 323344
+8 8 1
+BareHandAttack: 12
+Str: 15
+Dex: 20
+Int: 8
+Wis: 10
+Con: 18
+Cha: 16
+Luck: 17
+Class: 8
+Race: 14
+E
+#10764
+first master~
+the First Master~
+The 1st master of the White Lotus Clan is here softly chanting.
+~
+This is a ritual for the 1st Master - a daily routine which he revels
+in accomplishing.    
+~
+229402 0 0 0 336 2 0 0 1000 E
+80 56 -40 0d0+0 6d7+53
+1400 367272
+8 8 1
+Str: 24
+Dex: 20
+Int: 9
+Wis: 8
+Con: 25
+Cha: 15
+Luck: 12
+Class: 8
+Race: 14
+E
+#10765
+second master~
+the Second Master~
+The 2nd master of the White Lotus Clan is here.
+~
+He is a Master in every sense of the word.
+~
+100378 0 0 0 336 2 0 0 1000 E
+82 58 -40 0d0+0 6d7+54
+1450 391141
+8 8 1
+BareHandAttack: 13
+Str: 19
+Dex: 15
+Int: 18
+Wis: 7
+Con: 18
+Cha: 13
+Luck: 6
+Class: 8
+Race: 14
+E
+#10766
+third master~
+the Third Master~
+The 3rd master of the White Lotus Clan is here eating dumplings.
+~
+This Master is a fat man, but still one limber and spry.
+~
+198666 0 0 0 336 131074 0 0 1000 E
+84 60 -40 0d0+0 6d7+56
+1500 415930
+8 8 1
+BareHandAttack: 5
+Str: 8
+Dex: 25
+Int: 8
+Wis: 5
+Con: 16
+Luck: 25
+Class: 8
+Race: 14
+E
+#10767
+fourth master~
+the Fourth Master~
+The 4th master of the White Lotus Clan is waiting to test you.
+~
+This Master is the only who it matters to impress - his decision is
+the ultimate decider for most every student.    
+~
+165914 0 0 0 336 2 0 0 1000 E
+86 62 -40 0d0+0 6d7+57
+1550 441651
+8 8 1
+BareHandAttack: 7
+Str: 15
+Dex: 6
+Int: 16
+Wis: 19
+Con: 13
+Cha: 8
+Luck: 16
+Class: 8
+Race: 14
+E
+#10768
+fifth master~
+the Fifth Master~
+The 5th master of the White Lotus Clan praying for your soul.
+~
+The most holy of the Masters, the 5th Master is as tranquil a man as
+you can find.    
+~
+67610 0 0 0 336 131074 0 0 1000 E
+88 64 -40 0d0+0 6d7+58
+1600 468316
+8 8 1
+BareHandAttack: 6
+Dex: 25
+Int: 13
+Wis: 23
+Con: 23
+Cha: 24
+Luck: 9
+Class: 8
+Race: 14
+E
+#10769
+abbot~
+the Abbot~
+The Abbot awaits patiently to test your kung fu.
+~
+The Abbot is the final word in the workings of the Gods in this
+temple.  No one may gainsay his holy devotion at any time.    
+~
+231434 0 0 0 134218064 0 0 0 1000 E
+90 66 -40 0d0+0 6d7+60
+1700 518479
+8 8 1
+Str: 21
+Dex: 9
+Int: 21
+Wis: 7
+Con: 9
+Cha: 7
+Luck: 16
+Class: 2
+Race: 14
+E
+#10770
+grand abbot~
+the Grand Abbot~
+The Grand Abbot is here doing what Grand Abbots normally do.
+~
+The Grand Abbot gives service and only performs the Holy Rites on the
+highest members of the church and temple.    
+~
+231450 0 0 0 336 0 0 0 1000 E
+91 67 -40 0d0+0 6d7+60
+1725 510110
+8 8 1
+BareHandAttack: 7
+Str: 22
+Dex: 24
+Int: 12
+Wis: 6
+Con: 25
+Cha: 23
+Luck: 16
+Class: 8
+Race: 14
+E
+#10771
+disciple of ahgda~
+disciple of Ahgda~
+A disciple of Ahgda is here chanting and praying.
+~
+Chant and praying - is that all these ppl around here do?
+~
+67610 0 0 0 16 131072 0 0 1000 E
+93 69 -40 0d0+0 6d8+62
+1775 490171
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 5
+Int: 15
+Wis: 15
+Con: 19
+Cha: 19
+Luck: 6
+Class: 1
+Race: 14
+E
+#10772
+ahgda~
+the Almighty Ahgda~
+Before you sits the Almighty Ahgda.
+~
+It is wise to kneel before Ahgda - it is said that he does not take
+kindly to insolence in his presence.    
+~
+247834 0 0 0 570425680 4325376 0 0 200 E
+100 77 -40 0d0+0 9d10+66
+1950 648796
+8 8 1
+BareHandAttack: 12
+Str: 21
+Dex: 23
+Int: 23
+Wis: 13
+Con: 10
+Cha: 9
+Luck: 20
+Class: 8
+Race: 45
+E
+#10773
+expert snake hung wei~
+Hung Wei Tung~
+Hung Wei Tung, Expert of the Snake technique is here.
+~
+This man is a true master.
+~
+542730 0 0 0 65536 4194304 0 0 1000 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 1
+Str: 15
+Dex: 24
+Int: 25
+Con: 13
+Cha: 25
+Luck: 23
+Class: 8
+Race: 14
+E
+#10774
+gold snake charmer~
+a Gold Snake Charmer~
+A gold snake charmer is slithering at your feet.
+~
+I always thought the charmer was a guy and the snake was the one that
+slithered....?    
+~
+14 0 0 0 0 0 0 0 1000 E
+30 14 -20 0d0+0 3d3+20
+0 27376
+8 8 1
+BareHandAttack: 4
+Str: 15
+Dex: 15
+Int: 12
+Wis: 18
+Con: 17
+Cha: 25
+Luck: 20
+Race: 8
+E
+$

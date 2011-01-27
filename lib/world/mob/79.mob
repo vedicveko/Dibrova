@@ -1,0 +1,451 @@
+#7900
+Darathorn man human~
+the Hero Darathorn~
+Darathorn spins around as you enter his domain, and draws his dagger.
+~
+He is short, he could almost be a dwarf, suprising for someone of his
+reputation, but he isn't slow...
+~
+18442 0 0 0 80 0 0 0 700 E
+20 8 20 0d0+0 1d4+13
+150 9735
+8 8 1
+BareHandAttack: 14
+Str: 19
+Dex: 24
+Int: 16
+Wis: 23
+Con: 13
+Luck: 23
+Class: 4
+Race: 13
+E
+#7901
+trusted henchman~
+the trusted Henchman~
+A trusted henchman hefts his axe and advances towards you.
+~
+This henchman was chosen for both his fighting prowess and loyalty to
+Darathorn.  He will willingly fight to the death to save his master...
+As you will find out.    
+~
+530442 0 0 0 0 0 0 0 300 E
+17 6 32 0d0+0 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 13
+Dex: 10
+Int: 23
+Wis: 25
+Con: 14
+Cha: 14
+Luck: 21
+Race: 32
+E
+#7902
+hand second right woman~
+the Hand~
+The frown on the Hand's face is quickly replaced by a sneer as she advances.
+~
+Darathorn's right-hand woman and second in command, is not your
+average rogue, but almost as cunning as Darathorn himself.  The smirk
+on her face, however, indicates that she enjoys her work...  Killing
+Evil scum like you!    
+~
+6410 0 0 0 16 0 0 0 500 E
+15 5 40 0d0+0 1d3+10
+50 4674
+8 8 2
+BareHandAttack: 11
+Str: 22
+Dex: 7
+Int: 19
+Wis: 12
+Con: 21
+Cha: 14
+Luck: 22
+Class: 3
+Race: 14
+E
+#7903
+golorth captain ~
+Golorth the Captain~
+Golorth is seeing to his men.
+~
+He is big..  VERY big.  The way he swings his 2-handed bastard sword
+tells you that his could have been a mistake.    
+~
+59402 0 0 0 16 0 0 0 500 E
+19 7 24 0d0+0 1d3+12
+100 8541
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 7
+Int: 25
+Wis: 16
+Luck: 20
+Race: 19
+E
+#7904
+Alengrot cleric priest~
+Alengrot the Evil Cleric~
+Alengrot's eyes shine, will you be his next sacrifice?
+~
+If evil had an enemy, it would be Alengrot.  His practice in the
+goodly arts has cast him out from all society.  He now works for those
+that can pay him to destroy their enemies.  He does NOT like to be
+disturbed.    
+~
+28170 0 0 0 16 0 0 0 -800 E
+17 6 32 0d0+0 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 15
+Str: 14
+Dex: 8
+Int: 6
+Wis: 6
+Con: 22
+Cha: 23
+Luck: 21
+Class: 2
+Race: 14
+E
+#7905
+masked thug guard~
+the Masked Thug~
+The masked thug stands on guard, you are not welcome.
+~
+His sole purpose is to guard Darathorn. To fail is to die!
+~
+42 0 0 0 0 0 0 0 100 E
+13 4 48 0d0+0 1d2+8
+25 3245
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 14
+Int: 24
+Wis: 16
+Con: 22
+Cha: 12
+Luck: 13
+Race: 14
+E
+#7906
+advisor mage tolorian~
+Tolorian, Darathorn's advisor~
+Tolorian ignores you totally.
+~
+Tolorian, the mage, has only two passions, money and power.  If you
+get in his way expect to pay with your life.    
+~
+10 0 0 0 16 0 0 0 100 E
+16 5 36 0d0+0 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 15
+Str: 18
+Dex: 14
+Int: 10
+Con: 21
+Cha: 8
+Luck: 23
+Class: 1
+Race: 14
+E
+#7907
+mother woman~
+Darathon's Mother~
+An old woman smiles calmly at you.
+~
+Darathorn's mother stays here to keep Darathorn on the wide and
+blessed pathof a Hero.  It is thought that the true power lies with
+her and not with Darathorn.  Upset her and find out.    
+~
+16394 0 0 0 65536 4194304 0 0 800 E
+12 3 52 0d0+0 1d2+8
+25 2646
+8 8 1
+Str: 19
+Int: 9
+Wis: 13
+Con: 7
+Cha: 25
+Luck: 7
+Race: 14
+E
+#7908
+guardian golem obsidian~
+the Obsidian Golem~
+The guardian is here to stop you.
+~
+Not bright, but it dosen't have to be to crush you with its HUGE
+hands.  It is a watchdog...  Beware it will catch you.    
+~
+10 0 0 0 0 0 0 0 -200 E
+14 4 44 0d0+0 1d2+9
+0 3920
+8 8 1
+BareHandAttack: 6
+Str: 12
+Dex: 20
+Int: 17
+Wis: 17
+Con: 9
+Cha: 14
+Luck: 25
+Race: 33
+E
+#7909
+thug guard minor~
+a Minor Thug~
+The thug shifts nervously and hefts his weapon.
+~
+He is trying to rise up in the ranks to reach that most coverted of
+postions..  The Hand.  His main job is to insure no strangers wander
+around without at least one knife in their back.    
+~
+76 0 0 0 524288 0 0 0 -100 E
+10 3 60 0d0+0 1d2+6
+15 1662
+8 8 1
+BareHandAttack: 11
+Str: 22
+Dex: 14
+Int: 16
+Wis: 21
+Con: 7
+Cha: 12
+Luck: 22
+Race: 14
+E
+#7910
+minor thief~
+the Minor Thief~
+The minor thief greedily eyes your money pouch.
+~
+He is the lowest of the low.  Stealing from anyone he can get his
+hands on.  Nothing is safe with him in the room.    
+~
+76 0 0 0 524288 0 0 0 -400 E
+9 2 64 0d0+0 1d2+6
+15 1270
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 18
+Int: 18
+Wis: 9
+Con: 14
+Cha: 22
+Luck: 13
+Race: 14
+E
+#7911
+thief~
+the Thief~
+The thief reaches for his knife.
+~
+He is a cut-throat and will do anything to seperate you and your gold.
+~
+72 0 0 0 524304 0 0 0 -300 E
+11 3 56 0d0+0 1d2+7
+25 2119
+8 8 1
+BareHandAttack: 11
+Str: 8
+Dex: 5
+Int: 15
+Wis: 22
+Con: 15
+Cha: 17
+Luck: 16
+Class: 3
+Race: 14
+E
+#7912
+master thief~
+the Master Thief~
+The master thief peers at your possesions and smiles.
+~
+He didn't get those scars from shaving.  To be a master thief, you
+need to be tough and ruthless.  You had better be careful around him.
+~
+526408 0 0 0 1572880 0 0 0 -500 E
+14 4 44 0d0+0 1d2+9
+50 3920
+8 8 1
+BareHandAttack: 14
+Str: 8
+Dex: 12
+Int: 15
+Wis: 21
+Con: 22
+Cha: 9
+Class: 3
+Race: 14
+E
+#7913
+shade guardian~
+the Shade Guardian~
+The shade's red eyes follow your every move.
+~
+You can feel the evil emanating from the shade.  It feeds off
+warm-blooded creatures..  Just like YOU!    
+~
+67110922 0 0 0 84 0 0 0 -800 E
+16 5 36 0d0+0 1d6+8
+0 5510
+8 8 1
+BareHandAttack: 16
+Str: 9
+Dex: 7
+Int: 9
+Con: 23
+Cha: 5
+Luck: 23
+Race: 11
+E
+#7914
+assasin deadly~
+the Deadly Assassin~
+The assasin makes no move until you get too close to escape.
+~
+The assasins dead eyes stare straight through you and the pale face is
+totally expressionless.  It is like looking into the face of death.  
+These beings are idealy suited for visiting death on those that
+deserve it.  This includes YOU!  The creature doesn't seem totally
+alive and reminds you of a deadly puppet.    
+~
+256010 0 0 0 0 0 0 0 -300 E
+17 6 32 0d0+0 1d3+11
+0 6432
+8 8 1
+BareHandAttack: 10
+Str: 14
+Dex: 17
+Int: 15
+Wis: 15
+Con: 15
+Cha: 22
+Luck: 9
+Race: 6
+E
+#7915
+prisoner~
+the wretched Prisoner~
+A prisoner tries too hide in the corner.
+~
+This could once have been called a human.  Now it is just a blind,
+crippled, diseased animal.    
+~
+10 0 0 0 2 4 0 0 100 E
+7 1 72 0d0+0 1d2+3
+0 669
+8 8 1
+Str: 9
+Dex: 22
+Int: 18
+Wis: 6
+Con: 22
+Cha: 21
+Luck: 24
+Race: 14
+E
+#7916
+servant silent~
+the Silent Servant~
+The servant glides past without a sound.
+~
+He has been trained to move without a sound and his tongue has been
+removed.  He seems not to take any notice of you or his surroundings.
+~
+72 0 0 0 655360 0 0 0 0 E
+13 4 48 0d0+0 1d2+8
+25 3245
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 10
+Int: 18
+Wis: 17
+Con: 8
+Cha: 22
+Luck: 13
+Race: 14
+E
+#7917
+man barbarian warrior~
+the Barbarian Warrior~
+The barbarian warrior strolls past.
+~
+You see a savage barbarian.  He is dressed in his rough skins and
+smells as if he hasn't washed in at least a decade.  He seems to be a
+guest and is looking at the splendors of Darathorn's Pit.    
+~
+526408 0 0 0 0 0 0 0 200 E
+18 7 28 0d0+0 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 22
+Int: 22
+Wis: 6
+Con: 13
+Cha: 13
+Luck: 9
+Class: 4
+Race: 14
+E
+#7918
+beast kadrdw'ws~
+the Kadrdw'ws~
+The kadrdw'ws bares its teeth at you.
+~
+You see a creature straight from a nightmare.  It is BIG, it is MEAN,
+and it is ANGRY.  Its entire surface is made up of bits of metal,
+stone and fur.  It's face is only recognisable as such because of the
+big hole it uses as its mouth and its two small red eyes.  It may have
+been human once, but now it seems that some magic has transformed it
+into a fearsome beast.    
+~
+67108874 0 0 0 2112 0 0 0 -300 E
+16 5 36 0d0+0 1d3+10
+0 5510
+8 8 1
+BareHandAttack: 8
+Str: 16
+Dex: 10
+Int: 6
+Wis: 13
+Con: 22
+Cha: 18
+Luck: 5
+Race: 8
+E
+#7919
+darathorn mouse~
+a small Mouse~
+A small mouse is standing here
+~
+It is nothing but a small mouse who is trying to get its next meal
+from whoever might drop a scrap.    
+~
+76 0 0 0 524304 0 0 0 0 E
+2 0 92 0d0+0 1d1+1
+0 27
+8 8 1
+BareHandAttack: 4
+Str: 8
+Dex: 14
+Int: 25
+Wis: 22
+Con: 21
+Cha: 21
+Luck: 5
+Race: 1
+E
+$

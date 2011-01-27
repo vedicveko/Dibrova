@@ -1,0 +1,1503 @@
+#20200
+The Entrance to Sherwood~
+You are standing on the western border of Sherwood.  This is a very
+safe and relaxing place as you look upon the great forest.  A tall
+tree stands here providing shade from the suns rays and shelter from
+bad weather.  You look east to the legendary Sherwood Forest.  There
+are rumors of bandits roaming these parts stealing from the rich and
+giving to the poor.  To the far north-east you can see a lookout tower
+of a castle poking through the lush forest.  To the far south-east you
+swear you can faintly hear the sounds of church bells.  To the west is
+a small, gurgling stream.    
+~
+202 4 0 0 0 3
+D1
+~
+~
+0 0 20202 0
+D3
+~
+~
+0 0 6368 0
+S
+#20201
+undefined~
+Nothing.
+~
+202 65732 0 0 0 0
+S
+#20202
+A Busy Intersection~
+You are standing at the west road of Sherwood.  Birds fly high over
+your head chirping happily.  The road is covered with all kinds of
+tracks that have packed down the dirt.  To the north the path leads to
+a rather large castle.  It is said that Prince John has the castle
+fortified heavily.  To the east the trail gets dark and to the south
+you see a white church with a large cross.    
+~
+202 4 0 0 0 10
+D0
+~
+~
+0 0 20203 0
+D1
+~
+~
+0 0 20204 0
+D2
+~
+~
+0 0 20205 0
+D3
+~
+~
+0 0 20200 0
+S
+#20203
+A Dirt Road~
+You are traveling on the north-south road from the castle to the
+church.  The path here is wide and abused with travel.  To the north
+you see King Richard's castle and to the south you can just make out a
+church in the distance.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20214 0
+D2
+~
+~
+0 0 20202 0
+S
+#20204
+A Dark Path Through Sherwood Forest~
+Here on the trail the forest crowds around you hovering high above
+you.  The shadows dance along the ground chasing away the few spots of
+sunlight.  The wind rustles the leaves making an erie sound.  You feel
+uneasy as you wonder what create of the forest might pop out from
+behind a tree at any moment.  To the west the path gets brighter and
+bigger.  To the east the trail continues.    
+~
+202 1 0 0 0 10
+D1
+~
+~
+0 0 20249 0
+D3
+~
+~
+0 0 20202 0
+S
+#20205
+A Path to the Church~
+You are traveling on the path to the church.  Small bushes line the
+road.  Everything here looks nice and organized.  The sounds of horses
+can be heard from the far east.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20202 0
+D2
+~
+~
+0 0 20206 0
+S
+#20206
+A Path to the Church~
+You are standing on an old traveled path.  The tracks in the dirt
+indicate a large number of people travel this road daily.  To the
+south the sounds of church bells can be heard.  From the west you
+smell the foul odor of alcohol.  To the north the trail continues.  
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20205 0
+D2
+~
+~
+0 0 20208 0
+D3
+~
+door~
+1 0 20209 3
+S
+#20207
+The Winery~
+You are standing in a very old and musty winery. Broken glass and dark 
+stains lined the floor. The smell is something to be desired. Here you can
+usually find Friar Tuck resting after a long surmon.
+~
+202 8 0 0 0 0
+D1
+~
+door~
+1 0 20206 1
+S
+#20208
+The Holy Church of Sherwood~
+You have entered perhaps the safest place in Sherwood.  The cieling
+extends far above your head.  A huge organ rests on the balcony above.
+In front of the alter you see a few candles burning.  This place looks
+a lot bigger from the outside.  To the north you see the entrance to
+the church.  To the east is the monistary.  You hear chanting from all
+directions.    
+~
+202 28 0 0 0 0
+D0
+~
+~
+0 0 20206 0
+D1
+~
+~
+0 0 20211 0
+D2
+~
+door~
+1 0 20210 3
+D3
+~
+cross~
+1 20200 20213 23
+S
+#20209
+The Winery~
+You are standing in what appears to be a storage house just for wines
+and spirits.  The room reeks of alcohol and sweat.  Broken bottles of
+various color sit piled in the corner with swept care.  It is known
+that Friar Tuck takes refuge here from time to time.    
+~
+202 8 0 0 0 0
+D1
+~
+door~
+1 0 20206 1
+S
+#20210
+A Gloomy Path~
+You are standing on a gloomy path south of the church.  Dead plants
+and dark shadows dance on the ground around you.  You feel a little
+uncomfortable as your senses warn you about the trail to the south.  
+To the north you hear the sounds of a church bell.  To the south the
+trail gets gloomier.    
+~
+202 4 0 0 0 10
+D0
+~
+door~
+1 0 20208 3
+D2
+~
+~
+0 0 20215 0
+S
+#20211
+A Room for a Monk~
+You've entered a dark and dank empty room.  The only piece of
+furniture is an old bed made of straw.  A sliver of light enters
+through a small window looking east.  The only creature in Sherwood
+who would live in such isolation is a monk.  To the west you see the
+center of the church, to the south the sounds of chanting grows
+louder.    
+~
+202 8 0 0 0 0
+D2
+~
+door~
+1 0 20212 1
+D3
+~
+~
+0 0 20208 0
+S
+#20212
+The Room of Eternal Chants~
+You are standing in the center of the room of eternal chants.  The
+walls are barren minus a few small windows which allow for minimal
+lighting.  The stone seem to echo the chants of the monks to a point
+of aggrevation.  Although very dark, you feel somewhat safe here.  To
+the north you see a small, dark room.    
+~
+202 8 0 0 0 0
+D0
+~
+door~
+1 0 20211 1
+S
+#20213
+Prince John's Private Stash~
+You are standing in a very large treasure room.  Royal tapestries line
+the wall.  Various treasures and coins are scattered about the room.
+The cieling extends far above your head.  To the east you see the
+alter of the] church.    
+~
+202 12 0 0 0 0
+D1
+~
+cross~
+1 0 20208 7
+S
+#20214
+On the Drawbridge~
+You are standing on a huge drawbridge to the castle of Prince John.  
+To the left and right of the entrance are large blue banners waving
+silently in the wind.  To the water under the bridge smells very foul
+and it's impossible to see to the bottom.  To the south the trail
+continues and to the north is the entrance to the castle.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20217 0
+D2
+~
+~
+0 0 20203 0
+S
+#20215
+A Dark Winding Road~
+It is very dark and spooky here.  Everything around you is either dead
+or dying.  No sounds of birds, no sounds of people, not even the sound
+of the wind through the leaves can be heard.  It's almost enough to
+drive you insane.  You have an bad feeling about this road.  It
+continues to the east.    
+~
+202 1 0 0 0 10
+D0
+~
+~
+0 0 20210 0
+D1
+~
+~
+0 0 20216 0
+S
+#20216
+A Dark Winding Road~
+You are traveling on the dark winding road.  There are faint sounds of
+howling coming from all around you.  This place is very spooky and you
+feel uneasy as shadows dance about your body.  You catch a glimse of
+something in the trees to the south.  The road continues to the west
+and south.    
+~
+202 1 0 0 0 10
+D2
+~
+~
+0 0 20236 0
+D3
+~
+~
+0 0 20215 0
+S
+#20217
+The Entrance to Sherwood Castle~
+You are standing in the entrance to the castle.  The huge open doors
+are large enough to allow many caravans to travel in at once.  The
+castle is guarded heavily with well trained (and well paid) henchmen.
+To your left and right you see guard posts.  To the north is a lavish
+dining room and to the south you see a drawbridge.  Maid Marian is
+rumored to be held in this castle against her will.    
+~
+202 8 0 0 0 0
+D0
+~
+~
+0 0 20218 0
+D2
+~
+~
+0 0 20214 0
+S
+#20218
+The Grand Dining Room~
+You are in the royal dining room.  This place is huge!  A large table
+sits in the center of the room surrounded by at least 40 chairs.  On
+the north side of the table sits a thrown and at it's side another
+smaller thrown.  This is were King Richard and his brother Prince John
+join for diner every night.  To the west you see a room filled with
+animal heads.  To the east you notice a fire burning in a fireplace.
+And to the north the main hall way continues.    
+~
+202 8 0 0 0 0
+D0
+~
+~
+0 0 20221 0
+D1
+~
+~
+0 0 20220 0
+D2
+~
+~
+0 0 20217 0
+D3
+~
+~
+0 0 20219 0
+S
+#20219
+The Trophy Room~
+This place is a taxidermists dream.  Stuffed animals of all kinds from
+bears, to dears, to even a moose stand about the room in their final
+poses before death.  Weapons of all shapes and design line the wall in
+a celebration of their accomplishments.  Looking at this place gives
+you the creeps.  To the east you see the great dining room.    
+~
+202 8 0 0 0 0
+D1
+~
+~
+0 0 20218 0
+S
+#20220
+The Royal Study and Library~
+You have wandered upon King Richard's study and library.  A small fire
+burns in a fireplace to the east.  It is warm and cozy here.  If there
+weren't so many guards around you could fall asleep here reading one
+of your favorite books.  To the west is the great dining room.    
+~
+202 8 0 0 0 0
+D3
+~
+~
+0 0 20218 0
+S
+#20221
+The Main Hallway~
+You're standing in a large, carpeted hallway.  The walls are decorated
+with royal banners and colorful tapestries.  The show of wealth is
+apparent as you gaze up at the arched ceiling of this mammoth castle.
+There are rooms to your east and west.  To the north you see a grand
+staircase and to the south you see the grand dining room.    
+~
+202 8 0 0 0 0
+D0
+~
+~
+0 0 20224 0
+D1
+~
+door~
+1 0 20222 1
+D2
+~
+~
+0 0 20218 0
+D3
+~
+~
+0 0 20223 0
+S
+#20222
+A Guest Room~
+This is merely a guest room.  The furniture is nice but leaves
+something to be desired.  The only exit is to the west.    
+~
+202 8 0 0 0 0
+D3
+~
+door~
+1 0 20221 1
+S
+#20223
+The Barracks~
+You are standing in the guards barracks.  A number of small beds line
+the west wall.  You shiver as a draft comes from the east.  It most
+get very cold and dark here during the night.  The only exit is to the
+east.    
+~
+202 8 0 0 0 0
+D1
+~
+door~
+1 0 20221 1
+S
+#20224
+A Grand Staircase~
+You are at the base of the grand staircase.  The stairs are covered
+with a bright red, and very clean, royal carpet.  The bannister is
+made of the finist oak in Sherwood.  The second floor houses the royal
+residents of this beautiful castle.  Upon further inspection of the
+stairs you notice a small wooden door to the north behind the stairs.
+The stairs lead up to the second floor and down to the royal dungeons.
+~
+202 12 0 0 0 0
+D0
+~
+door~
+1 0 20225 3
+D2
+~
+~
+0 0 20221 0
+D4
+~
+~
+0 0 20229 0
+D5
+~
+~
+0 0 20226 0
+S
+#20225
+Maid Marians Bedroom ~
+You've found your way into Maid Marians bedroom.  This place is not
+fit for a woman as lovely as she.  In fact, this place isn't fit for a
+prisoner.  Two small windows provide minimal lighting in this dreary
+room.  The bed looks very hard and the walls are bare.  Who would
+possibily deprive this lovely lady of the wealth of the castle?  To
+the south you see a grand staircase.    
+~
+202 8 0 0 0 0
+D2
+~
+door~
+1 0 20224 1
+S
+#20226
+The Dungeon~
+What a dang, musty place to be.  The dungeon is lit up by torches on
+the wall that flicker and produce shadows on the wall and floor.  The
+smell along is enough to make you wanna leave.  The walls are wet and
+cold and support various species of fungi.  You hear the sounds of
+water droplets hitting small puddles on the floor.  You'd rather not
+be here too long.  To the north is a cell and to the south is the
+guard room.  The stairs lead back up to the grand staircase.    
+~
+202 9 0 0 0 0
+D0
+~
+cell~
+1 20234 20227 7
+D2
+~
+~
+0 0 20228 0
+D4
+~
+~
+0 0 20224 0
+S
+#20227
+A Prison Cell~
+How aweful!  This is the worst place you've ever been to in your life.
+This isn't fit for a pig.  The walls are coated with slimy mildew and
+dark green moss.  The floor is filty and wet.  There is no bed here.
+Only a small well sits here for whatever the prisoner needs to do or
+drink.  The odor is killing you.  You have to leave here soon.    
+~
+202 9 0 0 0 0
+D2
+~
+cell~
+1 0 20226 1
+S
+#20228
+Dungeon Guard Room~
+This is the dungeons guard room.  The many guards of the castle change
+shifts and this is the least favorite spot of all the guards.  At
+least this room is somewhat clean and free of nasty odors.  However,
+to the north you can smell something not unlike a rotting dragon
+corpse.    
+~
+202 9 0 0 0 0
+D0
+~
+~
+0 0 20226 0
+S
+#20229
+Entrance to Second Floor~
+You are standing at the top of the grand staircase.  The second floor
+is as beautiful, if not more so, then the first floor of the castle.
+Large tapestries hang from the walls leading east.  Down you see the
+grand staircase and further down you can see the dungeon entrance.  
+~
+202 8 0 0 0 0
+D1
+~
+~
+0 0 20230 0
+D5
+~
+~
+0 0 20224 0
+S
+#20230
+A Corner of the Hallway~
+You are standing in the center of the massive hallway.  The carpet
+here is royal blue and very neat and clean.  To the north you notice a
+great door under a huge black arch.  A guard usually stands here
+protecting the entrance.  Someone very important and powerful must
+live in that room.  To the east you see a small room and to the south
+the hallway continues.    
+~
+202 8 0 0 0 0
+D0
+~
+door~
+1 0 20231 3
+D1
+~
+~
+0 0 20232 0
+D2
+~
+~
+0 0 20234 0
+D3
+~
+~
+0 0 20229 0
+S
+#20231
+Prince John's Bedroom~
+You are standing in the center of Prince John's room.  Black
+tapestries line the wall and the carpet is the color of blood.  He has
+no problem displaying his wealth as you look at the dwarven made
+furniture around you.  The huge bed is covered by a red canopy and
+there is plenty of light from the large windows overlooking Sherwood.
+A fireplace keeps the place warm at night and provides plenty of
+light.  Staying here too long may not be such a wise idea.    
+~
+202 8 0 0 0 0
+D2
+~
+door~
+1 0 20230 1
+S
+#20232
+A Small Guard Room~
+This is just another small guard room.  The royal guards come here
+from time to time for coffee breaks or to escape Prince John's royal
+babbling.  To the west you see a hallway.    
+~
+202 8 0 0 0 0
+D0
+~
+door~
+2 3 20233 9
+D3
+~
+~
+0 0 20230 0
+S
+#20233
+The Royal Treasury~
+You are standing in the castle gold keep.  Money from the high taxes
+is hidden here.  The poor people of Sherwood would sure like to know
+about this place!    
+~
+202 12 0 0 0 0
+D2
+~
+door~
+1 0 20232 1
+S
+#20234
+The South Corridor~
+This is where the hallway ends.  There are paintings of various kinda
+on the wall here.  The lighting is better and so are the tapestries.
+To the north the hallway continues.  To the east, however, you notice
+a large door underneath a brilliant white arch.  King Richard must
+dwell there.    
+~
+202 8 0 0 0 0
+D0
+~
+~
+0 0 20230 0
+D3
+~
+door~
+1 0 20235 1
+S
+#20235
+King Richard's Bedroom~
+You are standing in the center of the loyal (but absent) King Richard.
+He is the rightful leader of Sherwood, however, his brother Prince
+John would disagree.  You notice that this place is messy and unkept
+like the other royal rooms.  Dust covers everything and spiders have
+already started making their webs here.  You almost sneeze when you
+inhale.  You may only exit to the east.    
+~
+202 8 0 0 0 0
+D1
+~
+door~
+1 0 20234 1
+S
+#20236
+A Dark Winding Road~
+You are traveling on the dark winding road.  It only seems to get
+darker and creepier here.  No usual sounds of birds or other forest
+creatures can be heard.  The road winds to the north and to the west
+of here.    
+~
+202 1 0 0 0 10
+D0
+~
+~
+0 0 20216 0
+D3
+~
+~
+0 0 20237 0
+S
+#20237
+A Dark Winding Road~
+You are standing at the end of the dark winding road.  You feel the
+presence of evil eminating from the southeast.  Perhaps you should
+leave here as quick as possible.  To road continues to the east and to
+the south another road starts.    
+~
+202 1 0 0 0 10
+D1
+~
+~
+0 0 20236 0
+D2
+~
+~
+0 0 20238 0
+S
+#20238
+An Old Forest Road~
+You've wondered upon the beginning of an old forest road.  It appears
+that this trail was used a lot in it's time but now it is barely
+visible.  It is lined with vines and tree branches.  It is very dark
+here and you may exit to the north or east along the road.    
+~
+202 132 0 0 0 10
+D0
+~
+~
+0 0 20237 0
+D1
+~
+~
+0 0 20239 0
+S
+#20239
+An Old Forest Road~
+You are traveling on an old east-west forest road.  In the sky to the
+far east you think you can make out the form of something large in the
+air.  The road contines to the west and east.  However, you have a bad
+feeling about the air from the east.    
+~
+202 0 0 0 0 10
+D1
+~
+~
+0 0 20240 0
+D3
+~
+~
+0 0 20238 0
+S
+#20240
+In Front of the Ruins~
+THE RUINS OF GIL'ORTH Before you stands the ruins of Gil'Orth.  This
+was once a very beautiful village rich of culture and art.  Small
+stone slats still stand where the ancient houses stood proud and
+glorious.  Tales of the land say they made a deal with a dragon for
+protection.  However, later they decided the dragon was taking too
+much gold along with the King of Sherwood.  Today only small remains
+of a past city reveal it's past.  The White Dragon still is rumored to
+live here, guarding the ruins.    
+~
+202 0 0 0 0 10
+D1
+~
+~
+0 0 20241 0
+D3
+~
+~
+0 0 20239 0
+S
+#20241
+Gil'Orth Village Well~
+This is the main intersection of this small village.  A very large
+well sits in front of you undamaged.  The diameter of the well is big
+enough for the biggest caravans to fit into.  You imagine the
+/cYYellow /cWDragon/c0 dwells in the depths below.  The intersection
+leads in all directions.  The city's entrance is to the west.    
+~
+202 1 0 0 0 1
+D0
+~
+~
+0 0 20242 0
+D1
+~
+~
+0 0 20245 0
+D2
+~
+~
+0 0 20247 0
+D3
+~
+~
+0 0 20240 0
+S
+#20242
+The Nortern Edge~
+You are in the northern part of Gil'Orth.  There is a house to the
+east and west and to the south is the well.    
+~
+202 1 0 0 0 1
+D1
+~
+~
+0 0 20244 0
+D2
+~
+~
+0 0 20241 0
+D3
+~
+~
+0 0 20243 0
+S
+#20243
+The Yellow Dragon's Nest~
+You've stumbled upon the nest of the great &+YYellow &+WDragon.  
+Small twigs and branches lay about the floor at the foot of the large
+nest.  This place smells of rotting flesh.  You have a feeling staying
+here too long could be hazardous to your health.  You may only exit to
+the east.    
+~
+202 67108865 0 0 0 0
+D1
+~
+~
+0 0 20242 0
+S
+#20244
+A House in Ruins~
+You are standing in the lightest section of this small village.  You
+feel somehow save among the destroyed ruins.  Perhaps this used to be
+the temple.  The ruins continue to the west and south of here.    
+~
+202 52 0 0 0 0
+D2
+~
+~
+0 0 20245 0
+D3
+~
+~
+0 0 20242 0
+S
+#20245
+More Ruins~
+There is nothing special about this place.  It is just another pile of
+rock and stone slats that once housed a citizen of Gil'Orth.  There
+are ruins to the north, west, and south.    
+~
+202 1 0 0 0 0
+D0
+~
+~
+0 0 20244 0
+D2
+~
+~
+0 0 20246 0
+D3
+~
+~
+0 0 20241 0
+S
+#20246
+South-East Gil'Orth~
+You are standing in a large pile of rubble.  You wonder why they call
+this place a ruin when hardly anything is standing.  You think you
+hear sounds coming from behind the thick dark trees to the south.  
+You get shiver down your spine.  The ruins continue to the north and
+west.    
+~
+202 1 0 0 0 1
+D0
+~
+~
+0 0 20245 0
+D3
+~
+~
+0 0 20247 0
+S
+#20247
+South Gil'Orth~
+You are at the southern edge of Gil'Orth.  This place looks like the
+rest of the village.  Nothing to look at buy rubble.  The destruction
+surrounds you to the north, west, and east.    
+~
+202 1 0 0 0 1
+D0
+~
+~
+0 0 20241 0
+D1
+~
+~
+0 0 20246 0
+D3
+~
+~
+0 0 20248 0
+S
+#20248
+A Dead Field~
+You are standing in what used to be a field of some kind.  Although
+glorious in it's day, now is nothing more than burnt grass and chunks
+of rock.  Although there are no trees here it is still very dark.  
+You notice some ruins to the east.    
+~
+202 1 0 0 0 2
+D1
+~
+~
+0 0 20247 0
+S
+#20249
+A Path Through Sherwood Forest~
+You are standing in a path through Sherwood Forest.  This is a perfect
+spot for a nap or perhaps even an ambush from the merry men.  Deep
+tracks in the ground tell you that a wagon has been through here
+recently.  To the north-east you see a large tree poking through the
+forest, to the south you can barely make out a brook of some kind, and
+to the far south-east you can here metal clashing and cheering.    
+~
+202 0 0 0 0 10
+D1
+~
+~
+0 0 20253 0
+D2
+~
+~
+0 0 20250 0
+D3
+~
+~
+0 0 20204 0
+S
+#20250
+At the Log over the Brook~
+You are standing at the foot of a large log over the brook.  You look
+down into the bright blue water to the bottom.  You wonder why someone
+needed a bridge in about a foot or two of water.  On the other side of
+the brook you see a house.    
+~
+202 4 0 0 0 3
+D0
+~
+~
+0 0 20249 0
+D2
+~
+~
+0 0 20251 0
+S
+#20251
+On the Log over the Brook~
+You are standing on a large log over the brook.  You notice the log
+worn from recent travel.  Looking into the water you notice a fish or
+two swimming.  To the south you see a house and to the north is the
+foot of the log.    
+~
+202 0 0 0 0 3
+D0
+~
+~
+0 0 20250 0
+D2
+~
+~
+0 0 20252 0
+S
+#20252
+A Small House by the Brook~
+You've wandered into a small house by the brook.  You are not sure who
+lives here but you have a feeling they don't want to be discovered.  
+There are wood chips on the floor.  You notice nothing out of the
+ordinary.  The entrance is to the north.    
+~
+202 0 0 0 0 0
+D0
+~
+~
+0 0 20251 0
+S
+#20253
+An Intersection in Sherwood Forest~
+You are standing in the middle of an intersection.  This place seems
+to affect all your senses.  You feel a cool breeze coming through the
+forest trees.  To the north you stare at an enormouse tree.  To the
+south you can smell a feast with roast pig.  To the south-west you can
+hear church bells and to the east you can taste the salty ash coming
+from a fire.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20254 0
+D1
+~
+~
+0 0 20262 0
+D2
+~
+~
+0 0 20261 0
+D3
+~
+~
+0 0 20249 0
+S
+#20254
+A Trail to the Large Tree~
+You are traveling on small path that leads south to an intersection
+and north to the foot of the large tree.  You feel that this part of
+Sherwood Forest is safer then the others.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20255 0
+D2
+~
+~
+0 0 20253 0
+S
+#20255
+At the Base of the Large Tree~
+Before you stands the biggest and tallest tree you have ever seen in
+your life.  Looking at it's base you guess it could house several
+homes within it.  Looking up you notice a bridge made of vines and
+branches.  A rope dangles from above in front of you.  You think
+someone may live up there.    
+~
+202 0 0 0 0 3
+D2
+~
+~
+0 0 20254 0
+D4
+~
+~
+0 0 20256 32
+S
+#20256
+Climbing the Large Tree~
+You are dangling from a rope on a large tree that goes up to a door or
+down to the base.    
+~
+202 65796 0 0 0 3
+D4
+~
+~
+0 0 20257 32
+D5
+~
+~
+0 0 20255 32
+S
+T 20256
+#20257
+A Door Leading into the Tree~
+You swing over to a large branch and stand before a door.  The door is
+small and wooden and doesn't appear to be locked.  It appears that the
+occupent doesn't want company.  A rope dangles here leading higher up
+into the tree and down the tree.    
+~
+202 65796 0 0 0 3
+D0
+~
+door~
+1 0 20258 1
+D4
+~
+~
+0 0 20259 32
+D5
+~
+~
+0 0 20256 32
+S
+T 20256
+#20258
+Home of Robin Hood~
+You are in the center of the large tree.  Someone has carved this
+place out and is using it for a home.  Small holes in the walls allow
+for plenty of light to pass through here.  The resident is not at home
+now.  To the south you see an opening in the large tree.    
+~
+202 8 0 0 0 0
+D2
+~
+~
+0 0 20257 0
+S
+#20259
+A High Place~
+You're at the highest point of the tree that has branches.  From here
+you can see all around Sherwood.  Down to the east you see Nottingham.
+Down to the south you see a crowd of people and horses.  To the far
+south-west you can make out a church.  And down to the west you can
+see a great castle.    
+~
+202 65796 0 0 0 3
+D0
+~
+door~
+2 20226 20260 31
+D5
+~
+~
+0 0 20257 32
+S
+T 20256
+#20260
+Robin's Private Stash~
+You've made your way into Robin Hood's private stash.  This is the
+money he steals from the rich to give to the poor.  It's a small room
+but it can hold a lot of gold.  There is a small exit to the south.  
+~
+202 8 0 0 0 0
+D2
+~
+door~
+1 0 20259 1
+S
+#20261
+A Sandy Path ~
+You are traveling on a large sandy path that continues to the north
+and south.  There are numerous track marks in the sand from horses and
+caravans.  To the south you can hear cheering and metal clashing.  
+You know that Sherwood is known for it's proving grounds and jousting
+arena.  To the north you can see a large tree towering above the rest.
+~
+202 0 0 0 0 11
+D0
+~
+~
+0 0 20253 0
+D2
+~
+~
+0 0 20276 0
+S
+#20262
+The Entrance to Nottingham~
+Welcome to Nottingham You have entered a small town known as
+Nottingham.  Ever since the Prince's tax hike people have been going
+out of business and evil has entered the city.  Watch your step while
+you are here.  You'd hate to have to answer to the Sheriff of
+Nottingham.  The street continues east into the town.  To the west
+another path begins.    
+~
+202 4 0 0 0 1
+D1
+~
+~
+0 0 20263 0
+D3
+~
+~
+0 0 20253 0
+S
+T 20262
+#20263
+Locksley Lane~
+You are traveling on a road through Nottingham.  The city is bustling
+with activity.  Mostly the rich in Sherwood can afford to shop.  You
+think you see a thief or two roaming about the crowds.  To the east
+you notice a large foutain, probably the town center.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20264 0
+D1
+~
+~
+0 0 20265 0
+D3
+~
+~
+0 0 20262 0
+S
+#20264
+A Refreshment Stand~
+Here you find a vendor selling an assortment of snacks.  It smells of
+roast pig and cheese soup.  You start to drool as you search your
+pockets for spare change.  You can leave here to the south.    
+~
+202 20 0 0 0 0
+D2
+~
+~
+0 0 20263 0
+S
+#20265
+Nottingham Square~
+You are standing in the center of town.  People stroll by you
+seemingly unaware of your presence.  You notice a rather large foutain
+here with coins lined along it's bottom.  This is a wishing well.  To
+the north and south is Sherwood Street and to the east and west is
+Locksley Lane.    
+~
+202 0 0 0 0 1
+D0
+~
+~
+0 0 20270 0
+D1
+~
+~
+0 0 20266 0
+D2
+~
+~
+0 0 20272 0
+D3
+~
+~
+0 0 20263 0
+S
+#20266
+Locksley Lane~
+You are standing in the center of Locksley Lane.  This road continues
+to the east and west.  To the south you hear the usual sounds of
+drunken guards off duty.  To the west you notice a large foutain.    
+~
+202 0 0 0 0 10
+D1
+~
+~
+0 0 20267 0
+D2
+~
+~
+0 0 20269 0
+D3
+~
+~
+0 0 20265 0
+S
+#20267
+A Dead End to Locksley Lane~
+You are at the end of Locksley Lane.  There is nothing of interest
+here except perhaps the general store to the south.  You notice a
+large Going Out of Business sign on their door.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 20268 0
+D3
+~
+~
+0 0 20266 0
+S
+#20268
+An Olde Shoppe~
+You have entered a small shop that is going out of business.  There
+are bottles, and weapons, and containers of all kinds here.  You think
+you can get away with a good deal while you are here.  The shopkeeper
+smiles at you at the sound of your coins jingling in your pocket.    
+~
+202 65544 0 0 0 0
+D0
+~
+~
+0 0 20267 0
+S
+#20269
+The Tavern of the Double-Edge Blade~
+You are standing in the most popular spot in Nottingham.  When people
+get money they come here to drown their sorrows and forget the taxes.
+There are a lot of empty bottles on the bar and drunks on the floor.
+A beautiful barmaid winks at you as you look for a place to sit.    
+~
+202 65560 0 0 0 0
+D0
+~
+~
+0 0 20266 0
+S
+#20270
+Sherwood Street~
+You are traveling on a north-south road known as Sherwood Street.  
+Guards on horseback occasionally walk past you with a glare in their
+eyes.  On both sides of the street you notice trofts filled with water
+for the horses.  There are stores to your east and west.  To the north
+and south Sherwood Street continues.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20271 0
+D1
+~
+~
+0 0 20285 0
+D2
+~
+~
+0 0 20265 0
+S
+#20271
+A Dead End to Sherwood Street~
+You are at the end of Sherwood Street.  The cobblestone street ends
+here.  There is nothing of interest here.  You can leave to the south.
+~
+202 0 0 0 0 10
+D2
+~
+~
+0 0 20270 0
+D3
+~
+~
+0 0 20283 0
+S
+#20272
+Sherwood Street~
+You are traveling on the south side of Nottingham.  Here beggers line
+the streets and homeless make houses out of old chicken crates.  The
+air here is foul and unpleasant.  The shops here seem to be out of
+business.  The street continues to the north and south.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20265 0
+D2
+~
+~
+0 0 20273 0
+D3
+~
+door~
+1 0 20274 1
+S
+#20273
+A Dead End to Sherwood Street~
+You are standing at the end of Sherwood Street south.  You see a rat
+or two scurry across the ground in search of food.  This part of town
+seems deserted and depressing.  The office for the Sheriff of
+Nottingham is to the west and to the east is the jail.  To the north
+the street continues.    
+~
+202 0 0 0 0 10
+D0
+~
+~
+0 0 20272 0
+D1
+~
+~
+0 0 20284 0
+D3
+~
+~
+0 0 20275 0
+S
+#20274
+Abandoned Shop~
+You are standing in what used to be a bakery.  You imagine the
+shopkeeper either had a run in with the Sheriff of Nottingham or
+couldn't afford the taxes.  There is nothing to do here except escape
+capture from the deputies of the city.    
+~
+202 65548 0 0 0 0
+D1
+~
+door~
+1 0 20272 1
+S
+#20275
+Sheriff of Nottingham's Office~
+You are standing in the office of the Sheriff of Nottingham.  He is
+not normally here as he is usually arresting innocent people.  The
+only exit is to the east.    
+~
+202 65544 0 0 0 0
+D1
+~
+~
+0 0 20273 0
+S
+#20276
+The Entrance to the Proving Grounds~
+You are standing in the entrance to the proving grounds. This is where
+royal guards and citizens of Nottingham can test their fighting skills. A
+row of spectators form a large circle around the grounds. A notice a sign
+here that reads:
+
+West   -Archery Grounds
+East   -Fencing Court
+South  -Jousting Grounds
+
+~
+202 0 0 0 0 2
+D0
+~
+~
+0 0 20261 0
+D1
+~
+~
+0 0 20278 0
+D2
+~
+~
+0 0 20279 0
+D3
+~
+~
+0 0 20277 0
+S
+#20277
+Archery Grounds~
+The first thing you notice when you get here is the row of competitors
+shooting arrows.  They all seem like fair shoots but you notice one
+man who shoots the bullseye each time.  He seems to want as little
+attention as possible as you notice he is trying to blend in with the
+others.  You can leave to the east.    
+~
+202 0 0 0 0 2
+D1
+~
+~
+0 0 20276 0
+S
+#20278
+Fencing Court~
+You are at the entrance to the fencing court.  Here you can challenge
+a fencer or two to the death.  You shiver as you hear a death cry from
+a challenger impaled on a sword.  The crowd cheers at the victor.    
+~
+202 0 0 0 0 2
+D3
+~
+~
+0 0 20276 0
+S
+#20279
+Jousting Grounds~
+You have entered the jousting grounds.  This place is muddy and smells
+like wet horses.  Here you see men in armor mounted on mighty steeds.
+The spectators wait patiently for a good joust.  To the south you hear
+more horses.  To the west you notice a small tent with a red cross on
+it.  To the north is the entrance to the proving grounds.    
+~
+202 0 0 0 0 2
+D0
+~
+~
+0 0 20276 0
+D2
+~
+~
+0 0 20281 0
+D3
+~
+~
+0 0 20280 0
+S
+#20280
+First-Aid Tent~
+As you enter a doctor walks over to you and checks you out for fatal
+wounds.  It is cool and comfortable here.  This might be a good place
+to rest your tired bones.  The only exit is to the east.    
+~
+202 262172 0 0 0 0
+D1
+~
+~
+0 0 20279 0
+S
+#20281
+Jousting Stables~
+You've stumbled upon the stables.  Here you see a row of horses.  
+They wait here to be mounted and used for jousting.  The smell alone
+makes you want to leave this dank place.  You can leave to the north.
+~
+202 28 0 0 0 0
+D0
+~
+~
+0 0 20279 0
+S
+#20282
+Mortianna's Magic Shop~
+You are standing in an old, dark magic shop.  The shopkeeper,
+Mortianna, stands here waiting to assist you.  Be careful not to upset
+her.  She is rumored to dabble in the black form of magic.    
+~
+202 65692 0 0 0 0
+S
+#20283
+The Weaponery~
+Here you can buy various forms of distructive objects.  Against the
+wall you see chains and rope.  There are many weapons here made of
+wood and stone.  The shopkeeper stands here waiting patiently for your
+well earned money.    
+~
+202 8 0 0 0 0
+D1
+~
+~
+0 0 20271 0
+S
+#20284
+The Jail~
+You get the eerie feeling that this is only a front to fool people
+into believing being imprisoned is not that bad.  No one is here nor
+does it appear anyone has ever been kept here for long periods of
+time.  You fear they are held in the castle's dungeon.  You can leave
+freely to the west.    
+~
+202 8 0 0 0 0
+D3
+~
+~
+0 0 20273 0
+S
+#20285
+Mortianna's Magic Shop~
+You are standing in an old, dark magic shop.  The shopkeeper,
+Mortianna, stands here waiting to assist you.  Be careful not to upset
+her.  She is rumored to dabble in the black form of magic.
+~
+202 65628 0 0 0 0
+D3
+~
+~
+0 0 20270 0
+S
+$~

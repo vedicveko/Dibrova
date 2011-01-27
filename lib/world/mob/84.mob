@@ -1,0 +1,551 @@
+#8400
+guardsman man kings~
+a Guardsman~
+A guardsman stands stolidly, arms crossed and blocking the way.
+~
+He doesn't blink an eye, not even a twitch.  He stares you directly in
+the eye without fear.    
+~
+61467 0 0 0 2128 0 0 0 300 E
+65 42 -40 1d1+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 14
+Int: 18
+Wis: 10
+Con: 12
+Cha: 12
+Luck: 12
+Class: 10
+Race: 14
+E
+#8401
+guardsman guard off duty eating~
+an Off-duty Guardsman~
+An off-duty guardsman chows down on some grubbage.
+~
+He looks up at you with some degree of surprise, food dripping from
+his face.    
+~
+20490 0 0 0 0 0 0 0 300 E
+58 36 -36 1d1+0 5d6+38
+950 147047
+8 8 1
+Str: 15
+Dex: 13
+Int: 12
+Wis: 13
+Con: 14
+Cha: 15
+Luck: 10
+Race: 14
+E
+#8402
+guardsman man snoring~
+a Snoring Guardsman~
+A guardsman lies face down on one of the cots, snoring away his time off.
+~
+His mouth is wide open as he snorts and coughs his way through
+sleeping.  My, my - but what would the king think of him now?    
+~
+10 0 0 0 0 0 0 0 400 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+4 4 1
+Str: 12
+Dex: 23
+Int: 20
+Wis: 25
+Con: 8
+Cha: 7
+Luck: 16
+Race: 14
+E
+#8403
+guardsman man sweating~
+a Sweating Guardsman~
+A guardsman stands at rigid attention guarding the door on the south wall.
+~
+He looks so well trained, so fanatical about his post that he would
+sooner die than let anyone pass.    
+~
+90138 0 0 0 2128 0 0 0 400 E
+63 40 -40 1d1+0 6d6+42
+1075 181566
+8 8 1
+Str: 9
+Dex: 6
+Int: 15
+Wis: 24
+Con: 12
+Cha: 22
+Luck: 24
+Class: 10
+Race: 14
+E
+#8404
+guardsman watchman man~
+a Guardsman~
+A guardsman walks back and forth in the hallway, guarding against break-outs.
+~
+He looks as if his entire time down here is steeped in bordedom.  The
+prisoners are not allowed to talk, and neither is he.    
+~
+22648 0 0 0 0 0 0 0 300 E
+64 41 -40 1d1+0 6d6+42
+1100 189005
+8 8 1
+Str: 16
+Dex: 13
+Int: 9
+Wis: 23
+Con: 19
+Cha: 25
+Luck: 9
+Class: 4
+Race: 14
+E
+#8405
+elf old wizened woman~
+an Old, Wizened Elf Maid~
+An old crone of an elf squints up at you through her one good eye.
+~
+She is grubby, dressed in rage and without any shame whatsoever for
+her condition.  She smiles a toothy smile and pats the ground next to
+her.    
+~
+11 0 0 0 0 0 0 0 100 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 2
+Str: 22
+Dex: 16
+Int: 21
+Wis: 25
+Con: 17
+Cha: 5
+Luck: 25
+Race: 15
+E
+#8406
+man horribly burnt~
+a horribly burnt Man~
+A horribly burnt man lies upon the crusty floor in agony.
+~
+He is curled into a ball, not making a sound but obviously in pain.  
+He does not appear to have just recently been put here but rather is a
+permanent resident.    
+~
+10 0 0 0 0 0 0 0 600 E
+41 22 -24 1d1+0 4d5+27
+525 60717
+8 8 1
+Str: 15
+Dex: 17
+Int: 7
+Wis: 18
+Con: 10
+Cha: 13
+Luck: 6
+Race: 14
+E
+#8407
+bruised  battered Dwarf~
+a bruised and battered Dwarf~
+A dwarf stands proudly at the rear of the cell, head held high in defiance.
+~
+He appears to have been beaten and pounded into a mass of fleshy pulp,
+however even through the beatings he retains his dwarvish dignity.  
+He is a credit to the race.    
+~
+10 0 0 0 0 0 0 0 600 E
+51 30 -32 1d1+0 5d5+34
+775 105930
+8 8 1
+Str: 18
+Dex: 12
+Int: 12
+Wis: 7
+Con: 18
+Cha: 20
+Luck: 13
+Race: 13
+E
+#8408
+man defiant angry~
+a defiant and angry Man~
+A man stands close to the door, ceaselessly shouting at the guard outside.
+~
+He looks like he must have been put in this place very recently, maybe
+even within the last week or so.  He obviously hasn't been conditioned
+to the place yet.    
+~
+10 0 0 0 0 0 0 0 100 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 1
+Str: 5
+Dex: 20
+Int: 5
+Wis: 12
+Con: 13
+Cha: 9
+Luck: 21
+Race: 14
+E
+#8409
+horse riding fast fleet~
+a fast Horse~
+A strong, fast horse whinnies and neighs at you.
+~
+It tosses its head and snorts a bit - it is ready to get moving.
+~
+262154 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+0 27376
+8 8 0
+Str: 20
+Dex: 23
+Int: 6
+Wis: 22
+Con: 18
+Cha: 22
+Luck: 9
+Race: 52
+E
+#8410
+carrion hawk~
+a Carrion Hawk~
+A carrion hawk rips and tears at a piece of dead carcass.
+~
+It is a black, beastly thing, grotesquely greasy and disgusting.
+~
+16472 0 0 0 0 0 0 0 -300 E
+44 24 -24 1d1+0 4d5+29
+0 72697
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 8
+Int: 25
+Wis: 14
+Con: 22
+Cha: 12
+Luck: 15
+Race: 3
+E
+#8411
+scavenger vulture~
+a Scavenger Vulture~
+A scavenger vulture picks through the black ooze that covers the ground.
+~
+Its beak is covered in nasty, blackened ooze which drips in slow
+globbets down onto the ground.    
+~
+76 0 0 0 0 0 0 0 0 E
+48 27 -28 1d1+0 5d5+32
+0 90757
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 5
+Int: 23
+Wis: 12
+Con: 18
+Cha: 12
+Luck: 25
+Race: 3
+E
+#8412
+rot grub~
+a Rot Grub~
+A rot grub slunks through the black waste, sucking up the excrement.
+~
+This particular breed of rot grub feeds off the waste of other
+animals, getting larger and stronger the more waste it imbibes.  In
+this case, it eats dragon waste.  It is quite strong.    
+~
+254028 0 0 0 0 0 0 0 -300 E
+62 39 -40 1d1+0 5d6+41
+0 174307
+8 8 0
+BareHandAttack: 9
+Str: 9
+Dex: 9
+Int: 5
+Wis: 12
+Con: 21
+Cha: 17
+Luck: 19
+Race: 5
+E
+#8413
+excremental beast~
+an Excremental Beast~
+An excremental beast slithers through the piles of waste.
+~
+It looks up at you through one of its many eyes and makes a horrid
+sound somewhat akin to that of a very fat man hawking up a phlegm
+ball.    
+~
+254028 0 0 0 65536 4194304 0 0 0 E
+58 36 -36 1d1+0 5d6+38
+0 147047
+8 8 0
+BareHandAttack: 9
+Str: 17
+Dex: 7
+Int: 6
+Wis: 5
+Con: 10
+Cha: 17
+Luck: 22
+Race: 8
+E
+#8414
+guard king's~
+the King's Guardsman~
+A member of the King's Guard patrols the highway, keeping the peace.
+~
+He gives you a piercing look before grudgingly allowing your passage.
+Strangers are not taken kindly to in this neck of the woods.    
+~
+20552 0 0 0 0 0 0 0 400 E
+63 40 -40 1d1+0 6d6+42
+1075 181566
+8 8 1
+Str: 5
+Dex: 16
+Int: 6
+Wis: 17
+Con: 15
+Cha: 20
+Luck: 13
+Class: 10
+Race: 14
+E
+#8415
+runaway serf~
+a Runaway Serf~
+A runaway serf unsuccessfully hides among the cornstalks at the side of the road.
+~
+He looks scared out of his wits, his eyes wide open on a grubby face
+which looks like it has not seen food in days.    
+~
+16456 0 0 0 65536 4194304 0 0 300 E
+39 20 -20 1d1+0 4d5+26
+0 53447
+8 8 1
+Str: 13
+Dex: 18
+Int: 8
+Wis: 6
+Con: 24
+Cha: 6
+Luck: 7
+Race: 14
+E
+#8416
+kings highway patrol~
+the King's Highway Patrolman~
+A member of the King's Highway Patrol makes his way down the road.
+~
+He seems quite unsure whether to stop you or hail you as one of the
+visiting dignitaries.  It has been so hard as of late with the King
+having so recently died.    
+~
+546892 0 0 0 0 0 0 0 800 E
+58 36 -36 1d1+0 5d6+38
+950 147047
+8 8 1
+Str: 17
+Dex: 25
+Int: 23
+Wis: 15
+Con: 24
+Cha: 19
+Luck: 20
+Class: 10
+Race: 14
+E
+#8417
+slave caravan~
+a Slave Caravan~
+A slave caravan marches sullenly past.
+~
+Every man and woman who is tied to the rope which binds the caravan
+together looks to have been beaten or abused in some way.  They walk
+with their heads down and their eyes on their feet.    
+~
+72 0 0 0 0 0 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+0 57012
+8 8 0
+Str: 19
+Dex: 10
+Int: 15
+Wis: 18
+Con: 19
+Cha: 18
+Luck: 13
+Race: 14
+E
+#8418
+slave hauler~
+a Slave Hauler~
+A slave carries a load of his master's goods to market.
+~
+He does not appear to have his burden under control at all, however he
+somehow manages to stagger his way down the road without dropping
+anything.    
+~
+72 0 0 0 0 0 0 0 0 E
+35 17 -20 1d1+0 3d5+23
+350 40559
+8 8 1
+Str: 16
+Dex: 23
+Int: 16
+Wis: 19
+Con: 25
+Cha: 10
+Luck: 23
+Race: 14
+E
+#8419
+task master~
+the Task Master~
+A task master for the local slaves takes a break at the side of the road.
+~
+He mops his head with a wet towel, oblivious to the needs of his
+charges.  Or maybe not oblivious, but simply uncaring.    
+~
+18446 0 0 0 0 0 0 0 -200 E
+66 43 -40 1d1+0 6d6+44
+1150 204434
+8 8 1
+Str: 18
+Dex: 8
+Int: 20
+Wis: 8
+Con: 5
+Cha: 21
+Luck: 6
+Race: 14
+E
+#8420
+nobleman man handsome~
+a Handsome Nobleman~
+A handsome nobleman makes his way past you with an air of dignity.
+~
+He looks just barely out of the corner of his eye at you - a
+spectacle, a freak of nature is all you are to him.    
+~
+16472 0 0 0 0 0 0 0 70 E
+70 47 -40 1d1+0 6d6+46
+1150 237528
+8 8 1
+Str: 23
+Dex: 20
+Int: 15
+Wis: 9
+Con: 24
+Cha: 12
+Luck: 17
+Class: 12
+Race: 14
+E
+#8421
+Kerefas sly~
+Kerefas, the Sly~
+A common man wearing a nobleman's attire strides past.
+~
+This is Kerefas, a known hoodlum and swindler - one who is spoken of
+with a tone of respect by everyone but who is watched carefully when
+in attendance.  Kerefas is said to be the only man to enter into the
+Kailaani forest at will and return.    
+~
+16476 0 0 0 570492928 2 0 0 -400 E
+93 69 -40 1d1+0 6d8+62
+1775 490171
+8 8 1
+Str: 17
+Dex: 13
+Int: 5
+Wis: 6
+Con: 20
+Cha: 13
+Luck: 7
+Class: 3
+Race: 14
+E
+#8422
+slave roadworker crew~
+a Slave Roadworker~
+A member of a slave road-working crew repairs the roads.
+~
+He toils and sweats his life away for the greater glory of the nobles
+and Barons who hold him in thrall.    
+~
+10 0 0 0 0 0 0 0 200 E
+36 18 -20 1d1+0 3d5+24
+0 43580
+8 8 1
+Str: 19
+Dex: 19
+Int: 25
+Wis: 15
+Con: 13
+Cha: 19
+Luck: 24
+Race: 14
+E
+#8423
+beltry butler~
+Beltry, the Butler~
+Beltry the butler stands importantly by the door, greeting you with a nod.
+~
+Beltry has serveed every king as the royal butler for as long as
+anyone can remember.  He is considered to be part of the royal
+'package' that every king receives with his coronation.    
+~
+16398 0 0 0 256 0 0 0 700 E
+56 34 -32 1d1+0 5d6+37
+900 147906
+8 8 1
+Str: 7
+Dex: 8
+Int: 5
+Wis: 13
+Con: 5
+Cha: 19
+Luck: 12
+Class: 12
+Race: 14
+E
+#8424
+member king staff royal~
+a Member of the King's Royal Staff~
+A member of the castle's staff keeps the castle in shape while awaiting a coronation.
+~
+It is anticipated that a new king will be picked most any day now, as
+soon as the Barons can get past their petty differences.  Of course,
+this has been anticipated for over ten years, now.    
+~
+16456 0 0 0 0 0 0 0 300 E
+42 22 -24 1d1+0 4d5+28
+550 64565
+8 8 2
+Str: 18
+Dex: 18
+Int: 21
+Wis: 17
+Con: 14
+Cha: 23
+Luck: 17
+Class: 12
+Race: 14
+E
+$

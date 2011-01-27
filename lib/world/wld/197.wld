@@ -1,0 +1,1629 @@
+#19700
+The Seedy Part of Town~
+You are standing just below the southern gate of Vernige.  This is the
+main entrance to the tenemant district and its one of the worse
+sections of town.  There is a sign here.    
+~
+197 0 0 0 0 1
+D0
+You see the south gate.
+~
+~
+0 -1 19188 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19701 0
+E
+sign~
+
+The sign reads:
+
+          ***LOST?***
+Simply give thanks to Grehyton ;)
+
+~
+S
+#19701
+Diaspol Road~
+You are standing on Diaspol Road.  You can smell the salty air, and
+all around you rough looking types move about.  To the east and west
+Wharf road continues and to the south lies the main tenemant district.
+~
+197 0 0 0 0 10
+D0
+You see the entrance to the tenemant district.
+~
+~
+0 -1 19700 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19702 0
+D2
+You see the main tenemant district.
+~
+~
+0 -1 19744 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19709 0
+S
+#19702
+Diaspol Road~
+You are standing on Diaspol Road.  To the south over the tops of run
+down shops you can see the masts of large sailing ships.  To the north
+of here is a butcher shop and to the south is a mercenarys guild.  
+Diaspol Road continues to the east and west.    
+~
+197 0 0 0 0 10
+D0
+You see the butchers.
+~
+~
+0 -1 19723 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19703 0
+D2
+You see the mercenarys guild.
+~
+~
+0 -1 19716 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19701 0
+S
+#19703
+Diaspol Road~
+You are standing on Diaspol Road.  Faint smells of fish and seaweed
+are in the air.  Rough looking characters move in and out of the shops
+that line this road.  To the north is a back street and to the south
+is a fish store.    
+~
+197 0 0 0 0 10
+D0
+You see a back street.
+~
+~
+0 -1 19746 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19704 0
+D2
+You see the fish store.
+~
+~
+0 -1 19717 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19702 0
+S
+#19704
+Diaspol Road~
+You are on an eastern section of Diaspol Road.  To the north is a side
+wall of a shop.  To the south you see a clothing shop.  Diaspol Road
+continues to the east and west.    
+~
+197 0 0 0 0 10
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19705 0
+D2
+You see a clothing shop.
+~
+~
+0 -1 19718 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19703 0
+S
+#19705
+Diaspol Road~
+You are standing on Diaspol Road.  Salty smells and briney breezes
+catch your nose.  To the north of here lies a small inlet and to the
+south you see the beginning of a small alley.    
+~
+197 0 0 0 0 10
+D0
+You see a small inlet.
+~
+~
+0 -1 19784 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19706 0
+D2
+You see a dark alleyway.
+~
+~
+0 -1 19719 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19704 0
+S
+#19706
+Diaspol Road~
+You are starting to reach the eastern most end of Diaspol Road.  This
+road is known for its shops and items brought in from foreign places.
+To the north of here is a bar and to the south is a armor dealer.  
+Diaspol Road continues east and west.    
+~
+197 0 0 0 0 10
+D0
+You see a bar.
+~
+~
+0 -1 19727 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19707 0
+D2
+You see an armor shop.
+~
+~
+0 -1 19720 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19705 0
+S
+#19707
+Diaspol Road~
+You are nearing the end of Diaspol Road.  To the north of you is a
+narrow and dark alley and to the south is a water shop.  Diaspol Road
+continues east and west.    
+~
+197 0 0 0 0 10
+D0
+You see a narrow alley.
+~
+~
+0 -1 19750 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19708 0
+D2
+You see a water shop.
+~
+~
+0 -1 19721 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19706 0
+S
+#19708
+Diaspol Road~
+You are at the eastern end of Diaspol Road.  Directly east is the city
+wall.  To the north of here you see a wine shop, and to the south you
+see the guild hall of the Astari, the protectors of this section of
+town.  Diaspol Road heads back west from here.  . You can make out a
+small crack in the wall...    
+~
+197 0 0 0 0 10
+D0
+You see a wine shop.
+~
+~
+0 -1 19729 0
+D1
+~
+~
+0 0 19624 16
+D2
+You see guild hall astari.
+~
+~
+0 -1 19722 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19707 0
+S
+#19709
+Diaspol Road~
+You are on a dirty street that smells of fish also known as Wharf
+road.  To the north of you is a leather shop.  To the south you see a
+large warehouse.  Diaspol Road continues east and west.    
+~
+197 0 0 0 0 10
+D0
+You see a leather shop.
+~
+~
+0 -1 19736 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19701 0
+D2
+You see a warehouse.
+~
+~
+0 -1 19743 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19710 0
+S
+#19710
+Diaspol Road~
+You are standing on Diaspol Road.  It smells of fish and decay brought
+on by being next to the water.  To the north you see a 5&10 store and
+to the south you see a picture shop.  Diaspol Road continues east and
+west.    
+~
+197 0 0 0 0 10
+D0
+You see a 5&10 store.
+~
+~
+0 -1 19735 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19709 0
+D2
+You see a painting shop.
+~
+~
+0 -1 19742 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19711 0
+S
+#19711
+Diaspol Road~
+You are standing on Diaspol Road.  The cobblestone street is very
+slippery and muddy.  To the north of you is a boat maker and to the
+south is a small chips store.  Diaspol Road continues east and west.
+~
+197 0 0 0 0 10
+D0
+You see a boatshop.
+~
+~
+0 -1 19734 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19710 0
+D2
+You see a Chips & Fish.
+~
+~
+0 -1 19741 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19712 0
+S
+#19712
+Diaspol Road~
+You are standing on Diaspol Road.  Rugged sailors and seafaring men
+are moving about enjoying a few days of shore leave.  To the north of
+here is a small inn.  To the south you see the entrance to a dark
+alleyway.  Diaspol Road continues east and west.    
+~
+197 0 0 0 0 10
+D0
+You see a small Inn.
+~
+~
+0 -1 19733 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19711 0
+D2
+You see a dark alleyway.
+~
+~
+0 -1 19740 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19713 0
+S
+#19713
+Diaspol Road~
+You are standing on a western section of Diaspol Road.  To the north
+is a vacant lot, and to the south is a coffee house.  Diaspol Road
+continues east and west.    
+~
+197 0 0 0 0 10
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19712 0
+D2
+You see a coffee house.
+~
+~
+0 -1 19739 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19714 0
+S
+#19714
+Diaspol Road~
+You are nearing the western end of Diaspol Road.  To the north of here
+is a short road.  To the south is a run down bar.  Diaspol Road
+continues to the east and west.    
+~
+197 0 0 0 0 10
+D0
+You see a short road.
+~
+~
+0 -1 19785 0
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19713 0
+D2
+You see a small bar.
+~
+~
+0 -1 19738 0
+D3
+You see Diaspol Road.
+~
+~
+0 -1 19715 0
+S
+#19715
+Diaspol Road~
+You are at the western end of Diaspol Road.  To the west Lagoon
+stretches forth and blocks your way.  To the north of here is a vacant
+lot and to the south is an opium den.  Diaspol Road heads back east
+from here.    
+~
+197 0 0 0 0 10
+D1
+You see Diaspol Road.
+~
+~
+0 -1 19714 0
+D2
+You see an opium den.
+~
+~
+0 -1 19737 0
+S
+#19716
+Mercenary's For Hire~
+This is a run down looking shop.  The walls are covered with old
+papers showing the prime times of this district of Vernige.  There is
+a counter here with a sign in sheet.  Towards the back of the room you
+see a bunch of rugged looking mercenarys waiting to be hired.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19702 0
+D4
+~
+~
+0 -1 19773 0
+S
+#19717
+Fried Fish Bungalow~
+The scent of grouper and crappie and other strange cold blooded sea
+creatures fill your nostrils.  Behind the counter is a large metal
+grill where a dirty looking cook is frying up some filets.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19703 0
+D4
+~
+~
+0 -1 19774 0
+S
+#19718
+Clothes Mart~
+You are inside a well kept shop filled with racks of clothes.  Alot of
+the styles are from foreign ports brought here by travelling merchants
+from far off lands.  A counter is towards the rear.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19704 0
+D4
+~
+~
+0 -1 19775 0
+S
+#19719
+Dark Alley~
+All around you are piles of trash and the stench of urine and shit.  
+This dark alley continues south or you can go north to Diaspol Road.
+~
+197 0 0 0 0 1
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19705 0
+S
+#19720
+Armor Are Us~
+This shop specializes in strange armors from around the world.  
+Battered and torn older pieces decorate the walls.  A counter is close
+to the front if you wish to purchase anything.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19706 0
+D4
+~
+~
+0 -1 19776 0
+S
+#19721
+Water Of Life~
+This profitable business is part of a large guild of water purifiers
+that work various parts of the city.  They know that the market is
+cornered.  Various skins and water holders line the shelves, a
+bubbling fountain is seen behind the counter to the rear of the shop.
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19707 0
+S
+#19722
+Guild Hall Astari~
+This is the guild hall of the protectors of this section of town, the
+Astari.  Red velvet curtains cover the walls and comfortable pillows
+are on the floor.  A small room can be seen through the curtain to the
+south.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19708 0
+D2
+You see a small room.
+~
+~
+0 -1 19745 16
+S
+#19723
+Strange Meats~
+You are standing inside a filthy butcher shop.  Pools of blood are on
+the floor and the stench of rotting meat fills your nose.  You cant
+quite tell what kind of meat is on the hooks but some of it looks
+tasty.    
+~
+197 8 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19702 0
+D4
+~
+~
+0 -1 19777 0
+S
+#19724
+The Pawn Shop~
+Various items line the shelves of this pawn shop.  You kind buy or
+sell just about any strange item you might have here.  You have heard
+rumors that this place is under direct control of the Astari.    
+~
+197 8 0 0 0 0
+D3
+You see a back street.
+~
+~
+0 -1 19748 0
+S
+#19725
+Swords And Sharp Things~
+This is a well known shop to buy some of the finest swords in the
+city.  Brought in by sailors who have visited foreign lands, alot of
+the weapons you see are quite exotic.    
+~
+197 8 0 0 0 0
+D1
+You see a small inlet.
+~
+~
+0 -1 19784 0
+S
+#19726
+Exotic Pets~
+So this is where all those parrots come from.  All around you see
+cages filled with creatures from far off places.  Take your pick and
+take one home.    
+~
+197 8 0 0 0 0
+D3
+You see a small inlet.
+~
+~
+0 -1 19784 0
+D4
+~
+~
+0 -1 19778 0
+S
+#19727
+Begby's Bar~
+This is one of the roughest drinking rooms in all of Vernige.  Begby,
+the retired captain of the guard runs it to keep his fighting skills
+up.  He gets alot of pleasure in throwing a drunken oaf out on the
+street.    
+~
+197 8 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19706 0
+S
+#19728
+Barrel Of Beers~
+All around you are beer from various corners of the globe.  The
+shelves are lined with dark ones, light ones, Thick ones and thin
+ones.  Take a bottle or two with you and enjoy.    
+~
+197 8 0 0 0 0
+D2
+You see a narrow alley.
+~
+~
+0 -1 19751 0
+S
+#19729
+Wine And Cheese~
+Faint smells of delicious grapes and cheese fill your nostrils.  Dark
+wines in strange bottles are in the racks all around you.  In the back
+hanging from hooks are wheels of different colored cheeses.    
+~
+197 8 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19708 0
+S
+#19730
+Forbidden Pleasures~
+The inside of this building is candlelit and dark.  You can here
+sounds of pleasure and pain coming from behind curtained off sections
+of the room.  Incense fills the air.  A counter is directly in front
+of you.    
+~
+197 8 0 0 0 0
+D1
+You see bact street.
+~
+~
+0 -1 19749 0
+S
+#19731
+Seaweed And Salad~
+A large self serve salad bar occupies the majority of this room.  
+Here you can purchase some of the finest greens and seaweed dishes
+money can buy.    
+~
+197 67108888 0 0 0 0
+D3
+You see a dead end.
+~
+~
+0 -1 19786 0
+S
+#19732
+The Stilletto~
+Glass and wood cases line the walls of this shop.  Each is filled with
+black velvet upon which daggers of all shapes and sizes lie.  The
+light is placed just right as to make each glimmer and catch your eye
+as you walk through.    
+~
+197 67108888 0 0 0 0
+D3
+You see a short road.
+~
+~
+0 -1 19785 0
+S
+#19733
+LazyBack Inn~
+You are in the greeting hall of a small run down inn.  A counter with
+a registry book on it sits in front of you.  The place is dusty and
+cobwebs are in the corner.  It seems not many people stay here.    
+~
+197 8 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19712 0
+S
+#19734
+Boats And Floats~
+You are inside a small but flourishing boat makers shop.  Sounds of
+sawing and hammering are heard coming from the back of the building.
+A wood counter top is directly in front of you.    
+~
+197 67108888 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19711 0
+S
+#19735
+The Five & Ten Shop~
+Small items and Knick-Knacks line the shelves in here, you wonder who
+buys such things.  As you browse through you see some interesting
+items that even you might want.    
+~
+197 67108888 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19710 0
+S
+#19736
+The Leather Shop~
+Tanned hides and salted gloves are lining the shelves of this leather
+shop.  A sick smell wafts forward from the rear of this place, which
+probably comes from the tanning procedures the shopkeep uses.    
+~
+197 67108888 0 0 0 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19709 0
+D4
+~
+~
+0 -1 19781 0
+S
+#19737
+Opium Den~
+Exotic smells confront you as soon as you walk through the door.  The
+room is filled with large pillows and red curtains which hang down
+from the ceiling in a lazy way.  In the center of the room is a large
+hookah with many hoses coming off of it.    
+~
+197 67108888 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19715 0
+D4
+~
+~
+0 -1 19780 0
+S
+#19738
+Henry's Bar~
+This bar is nothing more then what is says, a large wooden bar, no
+chairs, tables or seats.  Empty and dirty glasses line the wooden
+plank.  Large casks of various brew are on the back wall.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19714 0
+S
+#19739
+Coffee & Tea~
+The fragrant smell of fresh coffee beans fills the air.  Strange
+copper brewing instruments are along the counter in the rear.  On the
+west wall are pictures of people enjoying the fresh brews.    
+~
+197 67108888 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19713 0
+S
+#19740
+Dark Alleyway~
+This is the beginning of a stench filled alley.  The stones under your
+feet are slimey, covered with urine and shit from numerous drunks.  
+The alleyway continues to the south.    
+~
+197 0 0 0 0 1
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19712 0
+D2
+You see a dark alleyway.
+~
+~
+0 -1 19752 0
+S
+#19741
+Chips & Fish~
+A few stools are lined up along an oaken bar.  The smell of fried fish
+and chips fills the air.  Have a seat and a bit to eat, enjoy your
+stay.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19711 0
+S
+#19742
+Paintings and Portraits~
+The smell of oil paintings and strange chemicals fills this small
+building.  Various scenearys and costumes line the walls.  A stool
+sits in front of an easel and stand.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19710 0
+D4
+~
+~
+0 -1 19779 0
+S
+#19743
+Large Warehouse~
+Boxes and pallets fill this large warehouse.  This is a storage space
+for the goods that come in from foreign ports.  Workers scurry about
+and give you dirty looks.  Maybe you shouldnt be in here.    
+~
+197 8 0 0 0 0
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19709 0
+S
+#19744
+The Main Tenemant District~
+You are standing just south of Diaspol Road on the main tenemant
+district.  Salty smells fill the air and sailors and dockworkers move
+about.  Several large piers head out into the bay all along the dock
+which heads east and west from here.  Ships are lined up along some of
+these being loaded and unloaded.    
+~
+197 0 0 0 0 1
+D0
+You see Diaspol Road.
+~
+~
+0 -1 19701 0
+S
+#19745
+Astari Inner Sanctum~
+This is the inner sanctum for your guild.  Strange guild symbols cover
+the walls.  This room is lit by small globes of light which float
+around the ceiling.  You can use your time here to practice and better
+your Astari skills.    
+~
+197 8 0 0 0 0
+D0
+You see Guild Hall Astari.
+~
+~
+0 -1 19722 0
+S
+#19746
+Back Street~
+You are on a thin back street leading north away from Diaspol Road.  
+North of you the inner south wall of Vernige rises above the
+buildings.  This back street continues north.    
+~
+197 0 0 0 0 10
+D0
+You see the back street.
+~
+~
+0 -1 19747 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19703 0
+S
+#19747
+Back Street~
+You are at a t-intersection on the back street.  From here you can
+continue east or west along the southern city wall which is just north
+of you.  This small street makes its way along the backs of some of
+the Diaspol Road shops.  You can also go back south toward Diaspol
+Road.    
+~
+197 8 0 0 0 10
+D1
+You see the back street.
+~
+~
+0 -1 19748 0
+D2
+You see the back street.
+~
+~
+0 -1 19746 0
+D3
+You see the back street.
+~
+~
+0 -1 19749 0
+S
+#19748
+Back Street~
+You are in a narrow street between some buildings and the southern
+wall.  Trash lines the street and mud puddles are under your feet.  
+To the east you see a small shop.  To the west you can return to the
+t-intersection.    
+~
+197 0 0 0 0 10
+D1
+You see a small shop.
+~
+~
+0 -1 19724 0
+D3
+You see the t-intersection.
+~
+~
+0 -1 19747 0
+S
+#19749
+Back Street~
+You are in a narrow street between the back of some buildings and the
+southern wall of Vernige.  To the west you see a small dark shop.  To
+the east you can return to the t-intersection.    
+~
+197 0 0 0 0 10
+D1
+You see the t-intersection.
+~
+~
+0 -1 19747 0
+D3
+You see a dark shop.
+~
+~
+0 -1 19730 0
+S
+#19750
+A Narrow Alley~
+You are standing in between some buildings in a narrow alleyway.  A
+rotten smell wafts up from the piles of trash along the walls.  To the
+south lies Diaspol Road or you can continue to the north.    
+~
+197 0 0 0 0 1
+D0
+A narrow alley.
+~
+~
+0 -1 19751 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19707 0
+S
+#19751
+A Narrow Alley~
+This alleyway is growing thin as the buildings on each side of you
+encroach.  Just north you see the southern wall of Vernige rising
+above the buildings.  To the north you see a small shop, and to the
+south you can return to Diaspol Road.    
+~
+197 0 0 0 0 1
+D0
+You see a small shop.
+~
+~
+0 -1 19728 0
+D2
+You see a narrow alley.
+~
+~
+0 -1 19750 0
+S
+#19752
+A Dark Alleyway~
+You are standing in a filth ridden dark alleyway.  It runs between the
+buildings along Diaspol Road.  To the south you see the entrance to a
+maze of run down houses.  To the north you can return to Diaspol Road.
+~
+197 0 0 0 0 1
+D0
+You see a dark alleyway.
+~
+~
+0 -1 19740 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19753 0
+S
+#19753
+Tenament District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a dark alleyway.
+~
+~
+0 -1 19752 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19754 0
+S
+#19754
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19753 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19761 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19755 0
+S
+#19755
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19754 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19765 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19756 0
+S
+#19756
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19755 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19757 0
+S
+#19757
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19756 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19769 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19758 0
+S
+#19758
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19757 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19759 0
+S
+#19759
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19758 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19760 0
+S
+#19760
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19759 0
+S
+#19761
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 19762 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19768 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19754 0
+S
+#19762
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+~
+~
+0 -1 19782 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19763 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19767 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19761 0
+S
+#19763
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 19764 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19762 0
+S
+#19764
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D3
+You see a maze of houses.
+~
+~
+0 -1 19763 0
+S
+#19765
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19763 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19766 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19755 0
+S
+#19766
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 19767 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19765 0
+S
+#19767
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19762 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19768 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19766 0
+S
+#19768
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19764 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19767 0
+S
+#19769
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D1
+You see a maze of houses.
+~
+~
+0 -1 19770 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19757 0
+S
+#19770
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19766 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19771 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19769 0
+S
+#19771
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19768 0
+D1
+You see a maze of houses.
+~
+~
+0 -1 19772 0
+D2
+~
+~
+0 -1 19783 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19770 0
+S
+#19772
+Tenemant District~
+You are standing at the entrance to a run down tenament section of the
+tenemant district.  Here the poor and disenfranchised of the city find
+refuge under the protection of the Astari.  Crumbling houses are all
+around you.    
+~
+197 0 0 0 0 1
+D0
+You see a maze of houses.
+~
+~
+0 -1 19766 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19764 0
+D3
+You see a maze of houses.
+~
+~
+0 -1 19771 0
+S
+#19773
+A Small Room~
+You are in a small room above the mercenarys guild.  This is a good
+place to relax and take a rest.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19716 0
+S
+#19774
+A Storage Room~
+This is a storage room for the shop below.  Crates and boxes line the
+walls.  You can smell a fishy smell coming from some of these.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19717 0
+S
+#19775
+A Room of Clothes~
+This is a medium sized room above the clothing shop.  There are large
+rolls of different colored clothe all around you.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19718 0
+S
+#19776
+A Tool Room~
+This room is full of metal working tools.  You can feel the heat from
+the forge below rising up through the floorboards.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19720 0
+S
+#19777
+A Smelly Room~
+You are in a foul smelling room, various pieces of unknown meat hang
+all around you.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19723 0
+S
+#19778
+A Noisy Room~
+You are in a noisy room full of cages and boxes in which strange and
+exotic pets are kept.  Some of them dont look so good.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19726 0
+S
+#19779
+Storage Room~
+This is a storage room for the painting store below.  Large flat
+crates and boxes are stacked against the walls.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19742 0
+S
+#19780
+Strange Temple~
+This room above the opium den has been made into a strange and foreign
+temple.  Murals of creatures only found in dreams are painted in blood
+red paint on the walls.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19737 0
+S
+#19781
+Chemical Storage~
+This is a pungent room full of open and closed barrels of chemicals,
+some of which are probably used in tanning.    
+~
+197 8 0 0 0 0
+D5
+~
+~
+0 -1 19736 0
+S
+#19782
+A Run-down Shack~
+This is a run down shack of some poor soul.  Meager furnishings are
+around you and a small fire pit is in the rear.    
+~
+197 8 0 0 0 0
+D2
+You see a maze of houses.
+~
+~
+0 -1 19762 0
+S
+#19783
+A Run-down Shack~
+This is a small shack, it could almost be a closet.  A broken table is
+in the center and a pile of hay for a bed is in the corner.    
+~
+197 8 0 0 0 0
+D0
+You see a maze of houses.
+~
+~
+0 -1 19771 0
+S
+#19784
+A Small Inlet~
+This is a small inlet in the northern part of Diaspol Road.  A shop
+lies to the east and west of here or you can go south.    
+~
+197 0 0 0 0 1
+D1
+You see the pet store.
+~
+~
+0 -1 19726 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19705 0
+D3
+You see a small shop.
+~
+~
+0 -1 19725 0
+S
+#19785
+A Short Road~
+You are on a short road leading north off of Diaspol Road.  A shop
+lies to the east of here, or you can go north or south.    
+~
+197 0 0 0 0 10
+D0
+You see a dead end.
+~
+~
+0 -1 19786 0
+D1
+You see a small shop.
+~
+~
+0 -1 19732 0
+D2
+You see Diaspol Road.
+~
+~
+0 -1 19714 0
+S
+#19786
+A Dead End~
+You are standing on a dead end road that ends at the southern wall of
+Vernige.  To the east of here is a small shop.    
+~
+197 0 0 0 0 10
+D1
+You see a small shop.
+~
+~
+0 -1 19731 0
+D2
+You see a short road.
+~
+~
+0 -1 19785 0
+S
+$~

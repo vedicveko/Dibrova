@@ -1,0 +1,1806 @@
+#7500
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs north to south.    
+~
+75 4 0 0 0 10
+D0
+~
+~
+0 0 8481 0
+D2
+~
+~
+0 0 7501 0
+S
+#7501
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs north to south.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7500 0
+D2
+~
+~
+0 0 7502 0
+S
+#7502
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs north to west.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7501 0
+D3
+~
+~
+0 0 7503 0
+S
+#7503
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs south to east.    
+~
+75 0 0 0 0 10
+D1
+~
+~
+0 0 7502 0
+D2
+~
+~
+0 0 7504 0
+S
+#7504
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs north to south.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7503 0
+D2
+~
+~
+0 0 7505 0
+S
+#7505
+A long gravel Drive~
+You're on a long gravel driveway.  The stones are finely crushed
+limestone and the powder puffs up as you travel along it.  The
+driveway is lined with bushes and shrubbery, giving the drive a
+secluded feeling.  The feeling of being watched is very strong.  The
+drive runs north to south.  Off to the south there is a clearing and
+the top of a building can be seen over the shrubs.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7504 0
+D2
+~
+~
+0 0 7506 0
+S
+#7506
+Cobblestone Courtyard~
+The cobblestone courtyard looks well traveled.  The stones are set
+very tightly together, but here and there the constant traffic upon
+them has begun to wear ruts.  A large fountain dominates the center of
+the courtyard, it's murmuring adding a tranquil affect to the busy
+throughway.  To the west, a wheel rutted gravel lane leads to a gate
+in the tall stone walls before the keep.  To the east, a covered
+walkway leads from the ironwork grill doors to the south to a gate in
+the stone wall.  There is a driveway that leads off to the north.  A
+pennant with the crest of Baron Darwin flies above the iron grill
+doors.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7505 0
+D1
+~
+~
+0 0 7508 0
+D2
+~
+gates~
+1 7501 7537 7
+D3
+~
+~
+0 0 7507 0
+S
+#7507
+Gravel Lane~
+The gravel lane leads from the cobblestone courtyard to the east to a
+gate in the wall of the keep.  From the ruts in the lane, this must be
+the main service entrance.  The gate in the wall is made from stout
+oak timbers and is banded around with large metal strips.  The stone
+wall rises 20 feet and is made from smooth cut bedrock stones.  While
+the wall is short for battlements, it looks quite sturdy and able to
+repel most non-military attacks with ease.    
+~
+75 0 0 0 0 10
+D1
+~
+~
+0 0 7506 0
+D2
+~
+gate~
+1 7503 7510 7
+S
+#7508
+Covered Walk~
+You are moving along a covered walkway.  The stone columns hold up a
+thatched roof.  The path is covered with finely crushed stone.  To the
+west a large cobblestone courtyard can be seen and there is a gate in
+the stone wall to the south.    
+~
+75 0 0 0 0 0
+D2
+~
+gate~
+1 7500 7523 7
+D3
+~
+~
+0 0 7506 0
+S
+#7509
+Grassy Lawn~
+You are walking through very meticulously maintained grounds.  The
+bushes have been trimmed very recently and the grass is short.  The
+ground rolls along gently.  The keep rises high to the east and south.
+A gravel lane borders the lawn on the west sides.    
+~
+75 0 0 0 0 2
+D3
+~
+~
+0 0 7510 0
+S
+#7510
+Gravel Lane~
+A gravel lane runs through the west grounds of the keep.  To the north
+a gate has been set into a high stone wall.  To the south, grassy
+lawns stretch out around the keep.  To the southwest, the lane
+meanders along to several out buildings.    
+~
+75 0 0 0 0 10
+D0
+~
+gate~
+1 0 7507 3
+D1
+~
+~
+0 0 7509 0
+D2
+~
+~
+0 0 7513 0
+D3
+~
+~
+0 0 7511 0
+S
+#7511
+Gravel Lane~
+A gravel lane runs through the west grounds of the keep.  To the
+northeast a gate has been set into a high stone wall.  To the south,
+grassy lawns stretch out around the keep.  To the southwest, the lane
+meanders along to several out buildings.    
+~
+75 0 0 0 0 10
+D1
+~
+~
+0 0 7510 0
+D2
+~
+~
+0 0 7514 0
+D3
+~
+~
+0 0 7512 0
+S
+#7512
+Gravel Lane~
+A gravel lane runs through the west grounds of the keep.  To the
+northeast a gate has been set into a high stone wall.  To the south,
+grassy lawns stretch out around the keep.  To the southwest, the lane
+meanders along to several out buildings.    
+~
+75 0 0 0 0 10
+D1
+~
+~
+0 0 7511 0
+D2
+~
+~
+0 0 7515 0
+S
+#7513
+West Lawn~
+You are walking through very meticulously maintained grounds.  The
+bushes have been trimmed very recently and the grass is short.  The
+ground rolls along gently.  The keep rises high to the east and south.
+A gravel lane borders the lawn on the north and west sides.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7510 0
+D3
+~
+~
+0 0 7514 0
+S
+#7514
+West Lawn~
+You are walking through very meticulously maintained grounds.  The
+bushes have been trimmed very recently and the grass is short.  The
+ground rolls along gently.  The keep rises high to the east and a
+gravel lane borders the lawn on the north and west sides.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7511 0
+D1
+~
+~
+0 0 7513 0
+D3
+~
+~
+0 0 7515 0
+S
+#7515
+Gravel Lane~
+A gravel lane runs through the west grounds of the keep.  To the
+northeast a gate has been set into a high stone wall.  To the south
+and east grassy lawns stretch out around the keep.  To the west, the
+lane meanders along to several out buildings and comes to an end.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7512 0
+D1
+~
+~
+0 0 7514 0
+D2
+~
+~
+0 0 7520 0
+D3
+~
+~
+0 0 7516 0
+S
+#7516
+Before the Carriage House~
+A gravel lane runs through the west grounds of the keep.  To the
+northeast a gate has been set into a high stone wall.  To the east,
+grassy lawns stretch out around the keep.  To the west there is a
+carriage house and the lane continues on to another building, ending
+near a corral and smithy.    
+~
+75 0 0 0 0 10
+D1
+~
+~
+0 0 7515 0
+D2
+~
+~
+0 0 7519 0
+D3
+~
+doors~
+1 0 7517 3
+S
+#7517
+Carriage House~
+This building has been dedicated to storage of carriages of the nobles
+that come to visit the keep.  Right now there is only the one carriage
+and it belongs to the Baron.  The large doors of the building are to
+the east.    
+~
+75 9 0 0 0 0
+D1
+~
+doors~
+1 0 7516 3
+S
+#7518
+The Stables~
+The stables are well maintained and clean.  Tack for the horses has
+been stacked and hung along the eastern wall.  There are several
+stalls, all of which are empty at the moment.  There are large doors
+to the east.    
+~
+75 9 0 0 0 0
+D1
+~
+barn doors~
+1 0 7519 3
+S
+#7519
+End of the gravel Path~
+You are at the end of a long gravel lane.  The stables are to the west
+and are connected to the corral to the south.  A smithy butts up
+against the East Side of the corral.  There is a large gate to the
+corral directly to the south.    
+~
+75 0 0 0 0 10
+D0
+~
+~
+0 0 7516 0
+D1
+~
+~
+0 0 7520 0
+D2
+~
+gate~
+1 0 7522 3
+D3
+~
+barn doors~
+1 0 7518 3
+S
+#7520
+West Lawn~
+You are walking through very meticulously maintained grounds.  The
+bushes have been trimmed very recently and the grass is short.  The
+ground rolls along gently.  The keep rises high to the east and a
+gravel lane borders the lawn on the west side
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7515 0
+D2
+~
+door~
+1 0 7521 3
+D3
+~
+~
+0 0 7519 0
+S
+#7521
+The Smithy~
+The smithy has a large forge in the middle of the room.  The forge his
+cold and does not have any signs of being used recently.  All along
+the outside walls, stocks of metal have been placed in to large
+barrels or are leaning against the building walls.  Several quenching
+barrels stand empty next to the forge.  There is a set of double doors
+to the west and a smaller door to the north.    
+~
+75 8 0 0 0 0
+D0
+~
+door~
+1 0 7520 3
+D3
+~
+doors~
+1 0 7522 3
+S
+#7522
+The Corral~
+The corral is slightly out of round.  There is a gate that spits the
+north rail about midway through its length.  To the east a door leads
+to the smithy for the shoeing of the horses.  Out of the gate to the
+north there is a gravel lane that wanders the western side of the
+keep.    
+~
+75 0 0 0 0 2
+D0
+~
+gate~
+1 0 7519 3
+D1
+~
+doors~
+1 0 7521 3
+S
+#7523
+Covered Walk~
+You are moving along a covered walkway.  The stone columns hold up a
+thatched roof.  The path is covered with finely crushed stone.  There
+is a gate in the stone wall to the north and the path continues to the
+east
+~
+75 0 0 0 0 0
+D0
+~
+gate~
+1 7500 7508 3
+D1
+~
+~
+0 0 7524 0
+S
+#7524
+Covered Walk~
+You are moving along a covered walkway.  The stone columns hold up a
+thatched roof.  The path is covered with finely crushed stone.  The
+path continues to the east and west.  To the south a grassy area can
+been seen leading up to the walls of the Keep.    
+~
+75 0 0 0 0 0
+D1
+~
+~
+0 0 7527 0
+D2
+~
+~
+0 0 7525 0
+D3
+~
+~
+0 0 7523 0
+S
+#7525
+Grassy Lawn~
+You are walking through very meticulously maintained grounds.  The
+bushes have been trimmed very recently and the grass is short.  The
+ground rolls along gently.  The keep rises high to the west and south.
+A gravel path borders the lawn on the north and a well used path can
+be seen to the east.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7524 0
+D1
+~
+~
+0 0 7526 0
+S
+#7526
+Large Path~
+The path shows signs of heavy usage.  There is a covered walkway to
+the north and a building to the east.  To the west, a grassy opening
+leads up to the Keep.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7527 0
+D1
+~
+door~
+2 7560 7529 15
+D3
+~
+~
+0 0 7525 0
+S
+#7527
+End of the covered Walk~
+You're at the end of a covered walkway.  The stone columns hold up a
+thatched roof.  The path is covered with finely crushed stone.  The
+path continues to the west.  To the south a large path leads up to the
+walls of the Keep and to a building to the southeast.  To the east, a
+building with faint taping noises coming from within can be seen.    
+~
+75 0 0 0 0 0
+D1
+~
+door~
+1 0 7528 7
+D2
+~
+~
+0 0 7526 0
+D3
+~
+~
+0 0 7524 0
+S
+#7528
+Jeweler's Workshop~
+The workshop is very tidy.  A large wooden workbench takes up a vast
+amount of the room.  There is a door to the west.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7527 3
+S
+#7529
+Tinker's Workshop~
+The workshop smells heavily of soot and hot metal.  There are scorch
+marks running up the north wall from what appears to have been a fire
+getting out of hand.  There is a door to the west.    
+~
+75 8 0 0 0 0
+D2
+~
+~
+0 0 7530 16
+D3
+~
+door~
+2 7503 7526 15
+S
+#7530
+Small Alleyway~
+The alleyway is very narrow and dark.  There is a well trod path that
+extends the wall to the north to the stone wall in the south.    
+~
+75 1 0 0 0 2
+D0
+~
+~
+0 0 7529 16
+D2
+~
+wall~
+2 7504 7531 15
+S
+#7531
+Near a stone Wall~
+The tall walls of the Keep rise up around you.  To the south, a large
+opening can be seen with sounds of shouting and excitment ringing in
+the air.    
+~
+75 0 0 0 0 2
+D0
+~
+wall~
+2 7594 7530 15
+D2
+~
+~
+0 0 7532 0
+S
+#7532
+Training Area~
+You are in a large open area.  There are all manner of devices for
+training soldier's about.  You can see pells, stuffed dummies and what
+appears to be several large round chunks of wood hanging from the
+stunted trees that grow along the outer edge of the field.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7531 0
+D2
+~
+~
+0 0 7534 0
+S
+#7533
+Armour Shed~
+This is an armour shed.  The trainee's come here to gear up before
+heading out to the practice field.  The reek of sweaty clothing hangs
+heavy in the air.  There is a door to the south.    
+~
+75 257 0 0 0 0
+D2
+~
+door~
+1 0 7535 3
+D5
+~
+~
+0 0 7586 16
+S
+#7534
+Training Area~
+You are in a large open area.  There are all manner of devices for
+training soldier's about.  You can see pells, stuffed dummies and what
+appears to be several large round chunks of wood hanging from the
+stunted trees that grow along the outer edge of the field.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7532 0
+D3
+~
+~
+0 0 7535 0
+S
+#7535
+Training Area~
+You are in a large open area.  There are all manner of devices for
+training soldier's about.  You can see pells, stuffed dummies and what
+appears to be several large round chunks of wood hanging from the
+stunted trees that grow along the outer edge of the field.  There is a
+small building to the north.    
+~
+75 0 0 0 0 2
+D0
+~
+door~
+1 0 7533 3
+D1
+~
+~
+0 0 7534 0
+D3
+~
+~
+0 0 7536 0
+S
+#7536
+Training Area~
+The tall walls of the Keep rise up around you.  There are all manner
+of devices for training soldier's about.  You can see pells, stuffed
+dummies and what appears to be several large round chunks of wood
+hanging from the stunted trees that grow along the outer edge of the
+field.  The field widens to the east.    
+~
+75 0 0 0 0 2
+D1
+~
+~
+0 0 7535 0
+S
+#7537
+Entryway to the Keep~
+The entryway to the Keep is vary spartan.  The ominous holes in the
+ceiling and arrow slits along the walls tell that not all is as it
+seems.  Obviously the owner planned this to be more of a strong point
+than decorative.  To the north a large cobblestone courtyard is
+visible through the stout iron bars of the gate.  To the south a set
+of solidly constructed double doors block your forward passage into
+the keep.    
+~
+75 8 0 0 0 0
+D0
+~
+gates~
+1 7501 7506 3
+D2
+~
+double doors~
+1 7502 7538 7
+S
+#7538
+Reception Room~
+The reception hall of Baron Darwin's Keep is still vary spartan in
+nature.  The walls have been covered with expensive tapestries and a
+few decorative items have been set about.  The main purpose for this
+area is still obviously defensive.  The double doors to the north lead
+out of the Keep and to the south through glass doors the interior of
+the keep can be glimpsed.    
+~
+75 8 0 0 0 0
+D0
+~
+double doors~
+1 0 7537 3
+D2
+~
+glass doors~
+1 0 7539 3
+S
+#7539
+Decorative Hall~
+The hall has been lavishly decorated.  Expensive carpets have been
+cast upon the floor and tapestries hang along the walls on both sides.
+Paintings of dignified looking people have been spaced out between the
+tapestries.  There is a bust of the same man from the fountain set to
+the east side of the hall.  He would be a dignified looking man if not
+for the pinched look about his eyes.  To the north are glass doors and
+the hall continues to the south.  Wooden doors have been set into the
+east and west walls of the hall.    
+~
+75 8 0 0 0 0
+D0
+~
+glass doors~
+1 0 7538 3
+D1
+~
+east door~
+1 0 7541 3
+D2
+~
+~
+0 0 7542 0
+D3
+~
+west door~
+1 0 7540 3
+S
+#7540
+Cloak Room~
+This small room has many pegs inserted into the walls.  Upon the pegs
+hang several cloaks and capes.  There is a door to the east.    
+~
+75 8 0 0 0 0
+D1
+~
+door~
+1 0 7539 3
+S
+#7541
+Waiting Room~
+The waiting room's decor is of the highest quality.  The large leather
+chairs have gold gilded up and down the legs.  The small oak table
+near the east wall has been intricately carved with the Baron's crest
+upon the top of the table.  Obviously the room has been setup in
+impress those that come to call upon the Baron.  The only exit is to
+the west through a door.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7539 3
+S
+#7542
+Decorative Hall~
+The hall has been lavishly decorated.  Expensive carpets have been
+cast upon the floor and tapestries hang along the walls on both sides.
+The stone walls have been covered over with wood paneling that has
+been polished until it glows with beeswax.  To the north and south the
+hall continues and to the west is an oaken door.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7539 0
+D2
+~
+~
+0 0 7545 0
+D3
+~
+door~
+1 0 7543 3
+S
+#7543
+Waiting Room~
+The waiting room's decor is of the highest quality.  The large leather
+chairs have gold gilded up and down the legs.  The small oak table
+near the east wall has been intricately carved with the Baron's crest
+upon the top of the table.  Obviously the room has been setup in
+impress those that come to call upon the Baron.  The only exit is to
+the east through a door.    
+~
+75 8 0 0 0 0
+D1
+~
+door~
+1 0 7542 3
+S
+#7544
+Meeting Room~
+The meeting room is very spacious.  A large wooden table with many
+ladder backed chairs lining its sides.  On one end of the table sits
+an enormous padded leather chair.  The floor under and around the
+table has been covered with a deep red colored carpet.  A large
+fireplace has been built into the east wall, though for now it lies
+dormant.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7545 3
+S
+#7545
+Decorative Hall~
+The hall has been lavishly decorated.  Expensive carpets have been
+cast upon the floor and tapestries hang along the walls on both sides.
+The stone walls have been covered over with wood paneling that has
+been polished until it glows with beeswax.  To the north and south the
+hall continues and to the east is an oaken door.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7542 0
+D1
+~
+door~
+1 0 7544 3
+D2
+~
+~
+0 0 7546 0
+S
+#7546
+Crossing of Hallways~
+The intersection has halls running off in all four cardinal
+directions.  The halls to the east and west are much plainer, while
+the halls leading north and south are highly decorated.  To the north
+the muffled sound of metal on metal can be heard and off to the west
+someone sounds to be sawing wood.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7545 0
+D1
+~
+~
+0 0 7547 0
+D2
+~
+~
+0 0 7568 0
+D3
+~
+~
+0 0 7554 0
+S
+#7547
+Servant's Hall~
+The dimly light stone hall is very plain.  Here and there an old
+tapestry has been hung upon the wall, though their quality is far
+below anything else you have seen in the Keep.  The plain hall
+continues to the east and a bright intersection is off the west.    
+~
+75 8 0 0 0 0
+D1
+~
+~
+0 0 7548 0
+D3
+~
+~
+0 0 7546 0
+S
+#7548
+Servant's Hall~
+The dimly light stone hall is very plain.  Here and there an old
+tapestry has been hung upon the wall, though their quality is far
+below anything else you have seen in the Keep.  The plain hall
+continues to the south and west.  To the north is a paneled door.    
+~
+75 8 0 0 0 0
+D0
+~
+north door~
+1 0 7549 3
+D1
+~
+east door~
+1 0 7550 3
+D2
+~
+~
+0 0 7551 0
+D3
+~
+~
+0 0 7547 0
+S
+#7549
+Head Servant's Quarters~
+This servant's quarters is fairly large.  One thing that is unusual is
+that this room has it's own fireplace set into the north wall.  A
+curtain divides the room from east to west.  Through the curtain to
+the east a small bed and nightstand can be seen.  There is a door in
+the south wall.    
+~
+75 8 0 0 0 0
+D2
+~
+door~
+1 0 7548 1
+S
+#7550
+A Maid's Room~
+This room is very small.  A large canopy bed takes up the majority of
+the room with lacy curtains drawn back to the bedpost by soft rope.  
+There is a small dresser with a mirror set against the north wall.  
+The only exit is to the west.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7548 1
+S
+#7551
+The end of the servant's Hall~
+You are at the end of a dimly light stone hall that is very plain.  
+Here and there an old tapestry has been hung upon the wall, though
+their quality is far below anything else you have seen in the Keep.  
+The plain hall continues to the north.  To the south and east are
+plain paneled doors.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7548 0
+D1
+~
+east door~
+1 0 7552 3
+D2
+~
+south door~
+1 0 7553 3
+S
+#7552
+A Butler's Room~
+This room is very narrow though it is fairly long.  A small bed with a
+nightstand sit by the south and east walls of the room.  A door on the
+west wall is the only exit from the room.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7551 1
+S
+#7553
+A Servant's Quarters~
+The small square room is unadorned.  A narrow cot has been placed near
+the south wall.  A beat up wooden dresser sits along the eastern wall.
+There is a door that exits the room to the north.    
+~
+75 8 0 0 0 0
+D0
+~
+door~
+1 0 7551 1
+S
+#7554
+A brightly-lit Hallway~
+The sounds of someone sawing wood can be heard coming from farther
+down the hall to the west.  Tapestries depicting seines of soldiers
+doing battle in all types of terrain have been hung upon the walls and
+several great swords and battleaxes have been hung as well.  There is
+a small wooden door to the north.  The hall continues to the west and
+an intersection of hallways can been seen to the east.    
+~
+75 8 0 0 0 0
+D0
+~
+door~
+1 7510 7576 7
+D1
+~
+~
+0 0 7546 0
+D3
+~
+~
+0 0 7555 0
+S
+#7555
+A brightly-lit Hallway~
+The sounds of someone sawing wood can be heard coming from behind the
+wooden door in the north wall.  Tapestries depicting seines of
+soldiers doing battle in all types of terrain have been hung upon the
+walls and several great swords and battleaxes have been hung as well.
+There is a wooden door to the north and west.  The hall continues to
+the east and south.    
+~
+75 8 0 0 0 0
+D0
+~
+north door~
+1 0 7556 3
+D1
+~
+~
+0 0 7554 0
+D2
+~
+~
+0 0 7559 0
+D3
+~
+west door~
+1 0 7557 3
+S
+#7556
+Guard Barracks~
+Several bunks line the walls of this room.  Various pieces of armor
+needing repairs have been placed against the west wall between the
+bunk beds.  At the end of each bed there is a footlocker with cheaply
+made locks holding them closed.  A wooden door leads from the room to
+the south.    
+~
+75 8 0 0 0 0
+D2
+~
+door~
+1 0 7555 1
+S
+#7557
+Sergeant of the Guards' Quarters~
+Two beds and two footlockers take up the majority of this room.  
+There is a bed and footlocker by the north and south walls, with a
+small table and two chairs centered between them.  Along the east wall
+a small wash basin has been placed upon a short wooden table.  There
+is a door in the east wall.    
+~
+75 8 0 0 0 0
+D1
+~
+door~
+1 0 7555 1
+S
+#7558
+Lt. Mullins' Quarters~
+This spacious room has a large feather bed in the southwest corner of
+the room.  A footlocker stands empty near the foot of the bed.  A
+short, round, table with two comfortable but well used chairs has been
+centered upon the floor.  A marble wash basin has been placed upon a
+tall metal stand.  There is a door in the east wall.    
+~
+75 8 0 0 0 0
+D1
+~
+door~
+1 0 7559 1
+S
+#7559
+End of a brightly-lit Hallway~
+You're at the end of a long stone hall.  Tapestries depicting seines
+of soldiers doing battle in all types of terrain have been hung upon
+the walls and several great swords and battleaxes have been hung as
+well.  There are wooden doors to the south and west.  The hall
+continues to the north.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7555 0
+D2
+~
+south door~
+1 7511 7560 7
+D3
+~
+west door~
+1 0 7558 3
+S
+#7560
+Captain Thewin's Quarters~
+This is the Captain of the Guard's room.  A large feather bed with a
+footlocker by the head of the bed has been placed in the southwest
+corner of the room.  A roll top desk sits near the door.  The only
+exit from the room is to the north through a wooden door.    
+~
+75 8 0 0 0 0
+D0
+~
+door~
+1 0 7559 7
+S
+#7561
+Gardener's Shack~
+This small shed is full of gardening implements.  There are no windows
+and it smells as if most of the mulch collected from the gardens was
+placed in here to rot.  There is a door to the west.    
+~
+75 9 0 0 0 0
+D3
+~
+door~
+1 0 7562 1
+S
+#7562
+Path through the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The high stone outer wall blocks the way north.  
+There is a wide low door in the wall of the Keep to the east.  The
+gravel path leads to the south and west.    
+~
+75 0 0 0 0 2
+D1
+~
+door~
+1 0 7561 3
+D2
+~
+~
+0 0 7565 0
+D3
+~
+~
+0 0 7563 0
+S
+#7563
+Corner of the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The high stone outer wall blocks the way north and
+west.  The gravel path leads to the south and east.    
+~
+75 0 0 0 0 2
+D1
+~
+~
+0 0 7562 0
+D2
+~
+~
+0 0 7564 0
+S
+#7564
+Path through the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The high stone outer wall blocks the way south and
+west.  The gravel path leads to the north and east.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7563 0
+D1
+~
+~
+0 0 7565 0
+S
+#7565
+Path through the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The high stone outer wall blocks the way south.  The
+gravel path leads to the north, west and east.    
+~
+75 0 0 0 0 2
+D0
+~
+~
+0 0 7562 0
+D1
+~
+~
+0 0 7566 0
+D3
+~
+~
+0 0 7564 0
+S
+#7566
+Path through the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The gravel path leads to the east and west between the
+outer wall and the strong wall of the Keep.    
+~
+75 0 0 0 0 2
+D1
+~
+~
+0 0 7567 0
+D3
+~
+~
+0 0 7565 0
+S
+#7567
+Path through the Gardens~
+The gardens have a very refreshing breeze blowing through the trimmed
+bushes.  A gravel walk winds its way through the delicate vegetation
+setting.  The sound of pruning shears can be heard, clipping away at a
+steady rhythm.  The gravel path leads to the east and west between the
+outer wall and the strong wall of the Keep.  A pair of glass doors can
+been seen at the end of the path to the east.    
+~
+75 4 0 0 0 2
+D1
+~
+door~
+1 0 7574 1
+D3
+~
+~
+0 0 7566 0
+S
+#7568
+Decorative Hall~
+The hall has been lavishly decorated.  Expensive carpets have been
+cast upon the floor and tapestries hang along the walls on both sides.
+The stone walls have been covered over with wood paneling that has
+been polished until it glows with beeswax.  To the north and south the
+hall continues and to the east is an oaken door.  To the north several
+hallways meet in a large intersection.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7546 0
+D1
+~
+door~
+1 0 7572 3
+D2
+~
+~
+0 0 7571 0
+S
+#7569
+Pantry~
+The pantry is well stocked.  Barrels of flour, sugar, salt and other
+essentials for cooking have been stocked in massive quantities.  
+There is a door to the north.    
+~
+75 8 0 0 0 0
+D0
+~
+door~
+1 0 7570 3
+S
+#7570
+Kitchen~
+The kitchen is huge.  Large ovens along the west wall breathe blasts
+of hot air in to the room.  Long wooden tables are laden with the meal
+being prepared and on a cooling rack to the north several loaves of
+fresh baked bread fill the room with a delicious odor.  There are
+doors to the east, south and north.    
+~
+75 8 0 0 0 0
+D0
+~
+north~
+1 0 7574 3
+D1
+~
+east door~
+1 0 7571 3
+D2
+~
+south~
+1 0 7569 3
+S
+#7571
+Decorative Hall~
+The hall has been lavishly decorated.  Expensive carpets have been
+cast upon the floor and tapestries hang along the walls on both sides.
+The stone walls have been covered over with wood paneling that has
+been polished until it glows with beeswax.  To the north and south the
+hall continues and to the west is a large oaken door.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7568 0
+D2
+~
+~
+0 0 7573 0
+D3
+~
+door~
+1 0 7570 3
+S
+#7572
+Guards and Servant's Mess Hall~
+This room has been setup as a large mess hall.  A double row of long
+wooden tables and benches takes up most of the room.  A door leads
+from the room to the west.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7568 1
+S
+#7573
+End of the Hall~
+You're at the end of a lavishly decorated hall.  Expensive carpets
+have been cast upon the floor and tapestries hang along the walls on
+both sides.  The stone walls have been covered over with wood paneling
+that has been polished until it glows with beeswax.  To the north the
+hall continues and to the south are a set of double wooden doors.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7571 0
+D2
+~
+door~
+1 0 7574 3
+S
+#7574
+Formal Dining Room~
+The long wooden table in the center of this room has been stained to a
+rich dark color.  Silver candleholders with genuine wax candles are
+spaced evenly along the tabletop.  There is room for well over 60
+people at the table with plenty of room to spare between them.  There
+are glass doors to the east and west.  There are two exits along the
+southern wall, set wooden double doors and a small door.    
+~
+75 8 0 0 0 0
+D0
+~
+north door~
+1 0 7573 3
+D1
+~
+glass doors~
+1 0 7575 3
+D2
+~
+wooden door~
+1 0 7570 1
+D3
+~
+sliding doors~
+1 0 7567 3
+S
+#7575
+Ballroom~
+Three large chandeliers with candles in place stand at the ready.  
+The wide floor has alternating black and white tiles.  In the
+southeastern corner of the room is a raised stand for the musicians.
+A large fireplace with cozy tables and chairs take up the eastern
+wall.  There are glass doors set into the west wall.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7574 3
+S
+#7576
+A spiral Staircase~
+This is the bottom of a spiral stairs.  The few lamps used for
+illumination cast shifting shadows throughout the stairwell.  The
+stairs lead upwards and there is a small door to the south.    
+~
+75 8 0 0 0 0
+D2
+~
+door~
+1 7510 7554 7
+D4
+~
+~
+0 0 7577 0
+S
+#7577
+Top of the spiral Stairs~
+This is the top of a spiral stairs.  The few lamps used for
+illumination cast shifting shadows throughout the stairwell.  The
+stairs lead downwards and there is a small door to the west.    
+~
+75 8 0 0 0 0
+D3
+~
+door~
+1 0 7578 3
+D4
+~
+~
+0 0 7585 16
+D5
+~
+~
+0 0 7576 0
+S
+#7578
+A brightly-lit Hall~
+This hallway is narrow, with plush deep carpeting upon the floor.  
+Gilded silver lamps light the hall with a cheery glow.  The hall leads
+off to the east and a door has been set into the west wall.  This
+hallway is narrow, with plush deep carpeting upon the floor.  Gilded
+silver lamps light the hall with a cheery glow.  The hall leads off to
+the north and a door has been set into the east wall.    
+~
+75 9 0 0 0 0
+D0
+~
+~
+0 0 7579 0
+D1
+~
+door~
+1 0 7577 3
+S
+#7579
+A brightly-lit Hall~
+This hallway is narrow, with plush deep carpeting upon the floor.  
+Gilded silver lamps light the hall with a cheery glow.  A painting of
+a beautiful woman and a young man has been hung on the northern wall.
+The hall leads off to the west and north.    
+~
+75 8 0 0 0 0
+D0
+~
+~
+0 0 7580 0
+D2
+~
+~
+0 0 7578 0
+S
+#7580
+End of the dim Hall~
+You're at the end of a narrow hall.  It has plush deep carpeting upon
+the floor.  Gilded silver lamps light the hall with a cheery glow.  
+There are wooden doors in the east and west walls.  The hallway leads
+off to the south.    
+~
+75 8 0 0 0 0
+D1
+~
+east door~
+1 0 7582 3
+D2
+~
+~
+0 0 7579 0
+D3
+~
+west door~
+1 0 7583 3
+S
+#7581
+The Planning Room~
+The tables in this hidden room are piled with maps of buildings.  
+Strangely, these maps show windows, doors and other access points with
+notations next to them.  The wall pulses to the north.    
+~
+75 9 0 0 0 0
+D0
+~
+~
+0 0 7582 16
+S
+#7582
+The Baron's Study~
+The walls of the room are lined with books and bookshelves.  A low
+table with a tall candleholder sits near the north wall.  Several
+comfortable leather chairs have been scattered about the table and
+throughout the room.  There is a door to the west.    
+~
+75 9 0 0 0 0
+D2
+~
+~
+0 0 7581 16
+D3
+~
+door~
+1 0 7580 3
+S
+#7583
+Baron Darwin's private Quarters~
+These are Baron Darwin's private quarters.  A fireplace big enough to
+walk into has been built into the north wall.  The floor is covered
+with expensive deep piled carpet.  Tapestries have been hung upon the
+walls, along with a painting of a young woman.  Doors exit the room to
+the south and east.    
+~
+75 8 0 0 0 0
+D1
+~
+east door~
+1 0 7580 3
+D2
+~
+south door~
+1 0 7584 3
+S
+#7584
+Sitting Room~
+The room has several plush couches scattered about.  Tapestries line
+the walls and the floors are covered with deep pile carpets.  In the
+southwestern corner of the room is a sewing table has been setup.  A
+writing desk has been placed in the center of the east wall.  Upon a
+table by the door to the north a tea service has been set out ready
+for use.  The room appears to not have been used in some time.    
+~
+75 9 0 0 0 0
+D0
+~
+door~
+1 0 7583 3
+S
+#7585
+Lookout Post~
+The top of this small tower has been erected in the center of the
+ceiling.  It commands a view of the countryside for miles about.  
+From this height you can even see down through the trees.    
+~
+75 8 0 0 0 0
+D5
+~
+~
+0 0 7577 16
+S
+#7586
+A tiny, musty Basement~
+The basement is very small, musty and dark.  The smell of mildew hangs
+heavy in the air as does the dust.  A ladder leads back up to the
+armour shed.    
+~
+75 265 0 0 0 0
+D3
+~
+wall~
+2 7505 7587 15
+D4
+~
+~
+0 0 7533 16
+S
+#7587
+Guard Post~
+A guard post has been setup before the doors to the east.  A small
+baracade has been swung down, preventing easy access to and from the
+door.  There are doors to the east, north and south.    
+~
+75 65545 0 0 0 0
+D0
+~
+north door~
+1 0 7598 3
+D1
+~
+wall~
+2 7505 7586 15
+D2
+~
+south door~
+1 0 7589 3
+S
+#7588
+The Vault~
+The vault is very small and stifling.  Surprisingly it seems to be
+empty.  Apparently the Baron's money is kept elsewhere.    
+~
+75 65705 0 0 0 0
+D3
+~
+~
+0 0 7598 16
+S
+#7589
+A cavernous Room~
+The room has been hollowed out from the grounds under the keep.  The
+ceiling is lost in the gloom of the room.  Small lamps cast flicking
+shadows upon the cold stone walls.  There are doors to the north, east
+and south.    
+~
+75 65544 0 0 0 0
+D0
+~
+north door~
+1 0 7587 3
+D1
+~
+east door~
+1 0 7590 3
+D2
+~
+south door~
+1 0 7592 3
+S
+#7590
+A Classroom~
+A small classroom has been setup here.  The students that attend the
+classes taught here are not your average seekers of thruth and wisdom.
+Several maps of buildings lie scattered about the desks.  There is a
+door to the west.    
+~
+75 65544 0 0 0 0
+D2
+~
+~
+0 0 7591 16
+D3
+~
+door~
+1 0 7589 3
+S
+#7591
+The Armory~
+The armory has rows of weapons.  They are very varied...  Over there
+are longswords, on a shelf to the south are daggers of all
+descriptions.  Bolos hang from hooks in the northwest corner.  All the
+weapons look well cared for.    
+~
+75 65544 0 0 0 0
+D0
+~
+~
+0 0 7590 16
+S
+#7592
+A cavernous Room~
+The room has been hollowed out from the grounds under the keep.  The
+ceiling is lost in the gloom of the room.  Small lamps cast flicking
+shadows upon the cold stone walls.  There are doors to the north and
+west.    
+~
+75 65544 0 0 0 0
+D0
+~
+north door~
+1 0 7589 3
+D3
+~
+west door~
+1 0 7593 3
+S
+#7593
+Costume Room~
+The room has rows of wardrobes hanging on racks set against the walls.
+A large table has been setup in the center of the floor and has scraps
+of fabric scattered upon it.  A large curtain covers the north wall
+and there is a door to the east.    
+~
+75 65544 0 0 0 0
+D0
+~
+curtain~
+1 0 7594 3
+D1
+~
+east door~
+1 0 7592 3
+S
+#7594
+Dressing Room~
+The room is long and narrow.  Rows of stalls have been constructed
+with linen cloth providing a screen for the occupants.  A curtain
+hangs across part of the south wall.    
+~
+75 65544 0 0 0 0
+D0
+~
+~
+0 0 7595 16
+D2
+~
+curtain~
+1 0 7593 1
+S
+#7595
+Secret Passage~
+This tunnel is very dark and narrow.  A whisper of voices drifts
+through the air and somewhere the dripping of liquids can be heard.  
+Its very existence suggests that everything at the Baron's Keep isn't
+as it seems.  The tunnel continues to the north.    
+~
+75 65544 0 0 0 0
+D0
+~
+~
+0 0 7596 0
+D2
+~
+~
+0 0 7594 16
+S
+#7596
+Secret Passage~
+This tunnel is very dark and narrow.  A whisper of voices drifts
+through the air and somewhere the dripping of liquids can be heard.  
+Its very existence suggests that everything at the Baron's Keep isn't
+as it seems.  The tunnel continues to the south and west.    
+~
+75 65801 0 0 0 0
+D2
+~
+~
+0 0 7595 0
+D3
+~
+~
+0 0 7597 0
+S
+#7597
+Interrogation Room~
+A long table holds implements that are blood stained.  Several are
+particularly nasty looking with serrated edges and bladed hooks
+attached to them.  Almost the entire floor is darkly stained.  There
+are exits to the east and south.    
+~
+75 65801 0 0 0 0
+D1
+~
+~
+0 0 7596 0
+D2
+~
+~
+0 0 7599 0
+S
+#7598
+Counting Room~
+The room has a long table and a writing desk along the north wall.  
+Upon the table are neat stacks of ledgers and the desk holds ink wells
+and quills.  There is a door to the south.    
+~
+75 65544 0 0 0 0
+D1
+~
+~
+0 0 7588 16
+D2
+~
+door~
+1 0 7587 1
+S
+#7599
+Secret Passage~
+This tunnel is very dark and narrow.  A whisper of voices drifts
+through the air and somewhere the dripping of liquids can be heard.  
+Its very existence suggests that everything at the Baron's Keep isn't
+as it seems.  The tunnel continues to the north or you can climb up a
+ladder that sets against the south wall.    
+~
+75 65801 0 0 0 0
+D0
+~
+~
+0 0 7597 0
+D4
+~
+~
+0 0 7500 0
+S
+$~

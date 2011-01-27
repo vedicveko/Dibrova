@@ -1,0 +1,1995 @@
+#2400
+An Ancient Path through the dense forest~
+This path appears to be very old, and well travelled.  It amazes you
+that you have never travelled this way before.  That is until you look
+back and realize that the Western Fork is almost completely out of
+sight from here.  To the east, the path continues.    
+~
+24 0 0 0 0 3
+D1
+An Ancient Path through the dense forest
+~
+~
+0 0 2401 0
+D2
+~
+~
+0 0 4149 0
+S
+#2401
+An Ancient Path through the dense forest~
+The path is becoming more and more difficult to traverse now, as the
+trees seem to reach out to strangle you.  You feel like you are
+utterly alone, and, if not for the mountain you can now see in the
+distance, would probably just recall to Jareth.  But then again, who
+ever said that adventuring was easy?    
+~
+24 0 0 0 0 3
+D1
+End of the Ancient Path
+~
+~
+0 0 2402 0
+D3
+An Ancient Path through the dense forest
+~
+~
+0 0 2400 0
+S
+#2402
+The End of the Ancient Path~
+You finally burst free from the grasp of the wood, only to find
+yourself at the foot of a path.  The path leads north, to the mountain
+which has, until now been your only beacon.  Now that you can better
+see the ominous mountain looming before you, you begin to rethink the
+idea of recalling to Jareth.    
+~
+24 0 0 0 0 3
+D0
+Path to the Mountain
+~
+~
+0 0 2403 0
+D3
+An Ancient Path through the dense forest
+~
+~
+0 0 2401 0
+S
+#2403
+Path to the Mountain~
+You are on a small nondescript path leading northward to the mountain.
+The closer you get to the mountain, the worse you feel about the whole
+thing.  You begin to remember hearing old stories about a hidden
+mountain, which was, for some unknown reason, named DragonSpyre, and
+deep within it's inner reaches, somewhere near the center of the
+mountain, an open area called DragonTooth Basin.    
+~
+24 0 0 0 0 3
+D0
+Path to the Mountain
+~
+~
+0 0 2404 0
+D2
+End of the Anicient Path
+~
+~
+0 0 2402 0
+S
+#2404
+Path to the Mountain~
+You are on a small nondescript path leading northward to the mountain.
+The closer you get to the mountain, the worse you feel about the whole
+thing.  The deep stench of dragon is wafting through the air now, and
+you are starting to feel the first tinges of dragon fear stir within
+you.  Maybe you should go back while you still have that option.    
+~
+24 0 0 0 0 3
+D0
+At the foot of the Mountain
+~
+~
+0 0 2405 0
+D2
+Path to the Mountain
+~
+~
+0 0 2403 0
+S
+#2405
+At the foot of the Mountain~
+You have reached the foot of the great mountain.  Here, the dragon
+stench is almost strong enough to disable you.  The only way you are
+able to stand it is by ripping of a piece of cloth, and covering your
+mouth and nose with it as you walk.  Far above you, you see what must
+be the entrance to the cave.    
+~
+24 0 0 0 0 3
+D2
+Path to the Mountain
+~
+~
+0 0 2404 0
+D4
+Climbing the Mountain
+~
+~
+0 0 2406 0
+S
+#2406
+Climbing the Mountain~
+Now that you have something to somthing to concentrate upon, scaling
+the mountain, you are actually able to think more clearly.  You have
+encountered dragons before, and vanquished them, why should these be
+any different.  This thought continues rolling through your mind, but
+as you reach the next level of the cliff, it does little to ease your
+fear.    
+~
+24 0 0 0 0 5
+D4
+Climbing the Mountain
+~
+~
+0 0 2407 0
+D5
+At the foot of the Mountain
+~
+~
+0 0 2405 0
+S
+#2407
+Climbing the Mountain~
+You are now close enough to the entrance to hear the sounds from
+within.  The first thing you are aware of is that the mountain itself
+seems to breathe.  In and out goes its breath, constantly in and out.
+You suddenly hear footsteps approaching from all around you, and brace
+for combat.  It takes you a few moments to realize that the sound was
+your heart beating.    
+~
+24 0 0 0 0 5
+D4
+The ledge on the Mountain
+~
+~
+0 0 2408 0
+D5
+Climbing the Mountain
+~
+~
+0 0 2406 0
+S
+#2408
+The ledge on the Mountain~
+You have reached a small ledge about one fourth of the way up the
+mountain.  To the east is the entrance to what seems to be a small
+cave.  The only hint as to the size of the cave are the screams that
+are echoing from within it, which seem to last an eternity.    
+~
+24 0 0 0 0 5
+D1
+Entrance to the Cave
+~
+~
+0 0 2409 0
+D5
+Climbing the Mountain
+~
+~
+0 0 2407 0
+S
+#2409
+Entrance to the Cave~
+Once inside the cave you feel completely lost to the outside world.  
+All around you are horrific sounds of death and fear.  The walls are
+all stained with many differing shades of red or brown, with a few
+frost particles glittering on one of the walls.  Even with the cloth,
+the smell of the dragons is almost unbearable.    
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2410 0
+D3
+A ledge on the Mountain
+~
+~
+0 0 2408 0
+S
+#2410
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2411 0
+D3
+Entrance to the Cave
+~
+~
+0 0 2409 0
+S
+#2411
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2412 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2410 0
+S
+#2412
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The wall appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2413 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2411 0
+S
+#2413
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2414 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2412 0
+S
+#2414
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2415 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2413 0
+S
+#2415
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2416 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2419 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2414 0
+S
+#2416
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2417 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2415 0
+S
+#2417
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2418 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2416 0
+S
+#2418
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2439 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2417 0
+S
+#2419
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2415 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2420 0
+S
+#2420
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2421 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2419 0
+S
+#2421
+Walking through DragonSpyre~
+Within the realm of the DragonSpyres, everything seems different.  
+The walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2422 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2420 0
+S
+#2422
+Walking through DragonSpyre~
+You are beginning to feel very unnerved.  Since you have been walking
+through DragonSpyre, the screams had been slowly dying off, and now
+they are no more.  Normally the lack of death cries would be a welcome
+change, only now they have been replaced by a very eerie silence.  
+You don't like this one bit.    
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2423 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2421 0
+S
+#2423
+Walking through DragonSpyre~
+This cave is really starting to get on your nerves.  With each new
+step, you hear what sounds like giggling coming from all sides,
+goading you onward.  Daring you to learn the secrets that DragonSpyre
+has held for the past three hundred years.  "They are only dragons."  
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2424 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2422 0
+S
+#2424
+Walking through DragonSpyre~
+This cave is really starting to get on your nerves.  With each new
+step, you hear what sounds like giggling coming from all sides,
+goading you onward.  Daring you to learn the secrets that DragonSpyre
+has held for the past three hundred years.  "They are only dragons.  
+" To the north, the path forks.    
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2425 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2423 0
+S
+#2425
+Walking through DragonSpyre~
+You have reached a fork in the path through DragonSpyre.  You can't be
+sure which way you should go, but the odd scraching sound to the east
+makes you want to go west.  The giggling that has been following you
+around has now become a full blown laugh.  "They are ONLY dragons.  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2428 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2424 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2426 0
+S
+#2426
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  "They
+are only dragons.  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2425 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2427 0
+S
+#2427
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  To the
+west is a small crevice that you could just barely squeeze through.  
+"They are only dragons.  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2426 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2417 0
+S
+#2428
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  "They
+are only dragons?  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2429 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2425 0
+S
+#2429
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  "They
+are only dragons?  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2430 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2428 0
+S
+#2430
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  To the
+north you can hear a low rumbling sound.  "They are only DRAGONS!  "
+~
+24 8 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2431 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2433 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2429 0
+S
+#2431
+Walking through DragonSpyre~
+The walls are blank and featureless, solid rock that has not been
+touched for unknown centuries.  The floor is scuffed and scraped from
+thousands of claws passing over it.  The ceiling is out of sight, the
+cave is obviously made for something well beyond human size.  To the
+north you can hear a low rumbling sound.  "They are only DRAGONS!  "
+~
+24 8 0 0 0 0
+D0
+The Lair of the White Dragon
+~
+~
+0 0 2432 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2430 0
+S
+#2432
+The Lair of the White Dragon~
+You have managed, through luck(?  ), to find the lair of the white
+dragon.  It stands before you, glaring at you with its pale blue eyes.
+All around, the walls are coated with a thick layer of ice.  You slip
+several times before gaining your balance enough to face the fearsome
+beast.  Will you fight it, or flee?  "It is JUST a dragon.  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+wall~
+2 2401 2444 9
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2431 0
+S
+#2433
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  Far ahead, you
+think you can see what looks like a large door.  "They are only
+dragons.  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2434 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2430 0
+S
+#2434
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  Now that you
+are closer to the wall, you are sure that there is a door ahead and on
+the far eastern wall.  "They are only dragons.  I have killed many
+dragons before!  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2435 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2433 0
+S
+#2435
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  Now that you
+are closer to the wall, you are sure that there is a door ahead and on
+the far eastern wall.  "They are only dragons.  I have killed many
+dragons before!  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2436 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2434 0
+S
+#2436
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  Now that you
+are closer to the wall, you are sure that there is a door ahead and on
+the far eastern wall.  "They are only dragons.  I have killed many
+dragons before!  "
+~
+24 8 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2437 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2435 0
+S
+#2437
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  "Surely i can
+kill a dragon."
+~
+24 8 0 0 0 0
+D1
+~
+~
+0 0 2438 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2436 0
+S
+#2438
+Walking through DragonSpyre~
+The ground is damp here, and the air is so thick that it is almost
+hard to breathe.  It still is not to late to go back.  On the western
+wall is a large oaken door.  "Dragons aren't THAT scary." The south
+wall is a huge pile of rubble, piled as high as the ceiling.    
+~
+24 8 0 0 0 0
+D2
+Through the Rubble
+~
+rubble~
+1 0 800 1
+D3
+Walking through DragonSpyre
+~
+oaken door~
+1 0 2437 1
+S
+#2439
+Walking through DragonSpyre~
+Within the realm of DragonSpyre, everything seems different.  The wall
+appear to reach out towards you, while the floor and ceiling struggle
+to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+You can hear the sound of running water somewhere to the north.    
+~
+24 0 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2440 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2418 0
+S
+#2440
+Walking through DragonSpyre~
+Within the realm of DragonSpyre, everything seems different.  The
+walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+To the north, the sound of water flowing is quite loud.    
+~
+24 0 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2441 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2439 0
+S
+#2441
+Walking through DragonSpyre~
+Within the realm of DragonSpyre, everything seems different.  The
+walls appear to reach out towards you, while the floor and ceiling
+struggle to crush the life from you.  The further you proceed into the
+Mountain, the more you wish you hadn't come here in the first place.
+To the east, there is room that is continually being flushed with
+boiling acid from one of the higher levels.    
+~
+24 0 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+door~
+2 2402 2443 15
+D2
+Walking through DragonSpyr
+~
+~
+0 0 2440 0
+S
+#2442
+Walking through DragonSpyre~
+You should read room descriptions more often.  The acid cascades over
+your body, and burns the skin from the muscle, then the muscle from
+the bone.  You have never experienced this much pain in your entire
+life.    
+~
+24 525 0 0 0 0
+S
+#2443
+Walking through DragonSpyre~
+You are at the end of the tunnel.  The only exit other than the one
+you came in through is down.  You probably shouldn't go down...  It
+might be dangerous.  But then again, you don't gain fame and fortune
+by being afraid of a little new challenge, now do you?    
+~
+24 0 0 0 0 0
+D2
+Walking through DragonSpyre
+~
+door~
+2 2402 2441 15
+S
+#2444
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2445 0
+D3
+Lair of the White Dragon
+~
+wall~
+2 2401 2432 9
+S
+#2445
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2446 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2444 0
+S
+#2446
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2447 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2445 0
+S
+#2447
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2448 9
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2451 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2446 0
+S
+#2448
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2449 9
+D2
+Treasure Room
+~
+~
+0 0 2447 0
+S
+#2449
+Walking through DragonSpyre~
+You have made it passed the white dragon, the first of your
+challenges.  Now, you are entitled to his treasure...  If you can find
+it.  The hallway here is colder than the rest of the cave.  You assume
+that the white dragon made frequent passes through here to make sure
+his gold was still intact.  You begin to hope that it wasn't a
+baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+door~
+2 2401 2450 15
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2448 0
+S
+#2450
+Treasure Room~
+All alround the horde of the white dragon glimmers.  It appears that
+he hass been collecting for quite some time.  There are little bits of
+everything here, from broken swords, to the leg bone of a dracolich.
+The main thing that catches your eye is the large pile of gold resting
+all around the room.  You are about to claim it as your own, when you
+are struck from behind...    
+~
+24 0 0 0 0 0
+D3
+Walking through DragonSpyre
+~
+door~
+2 2401 2449 15
+S
+#2451
+Walking through DragonSpyre~
+You have made it past the white dragon, the first of your challenges.
+Now, you are entitled to his treasure...  If you can find it.  The
+hallway here is colder than the rest of the cave.  You assume that the
+white dragon made frequent passes through here to make sure his gold
+was intact.  You begin to hope that it wasn't a baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2452 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2447 0
+S
+#2452
+Walking through DragonSpyre~
+You have made it past the white dragon, the first of your challenges.
+Now, you are entitled to his treasure...  If you can find it.  The
+hallway here is colder than the rest of the cave.  You assume that the
+white dragon made frequent passes through here to make sure his gold
+was intact.  You begin to hope that it wasn't a baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2453 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2451 0
+S
+#2453
+Walking through DragonSpyre~
+You have made it past the white dragon, the first of your challenges.
+Now, you are entitled to his treasure...  If you can find it.  The
+hallway here is colder than the rest of the cave.  You assume that the
+white dragon made frequent passes through here to make sure his gold
+was intact.  You begin to hope that it wasn't a baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2454 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2452 0
+S
+#2454
+Walking through DragonSpyre~
+You have made it past the white dragon, the first of your challenges.
+Now, you are entitled to his treasure...  If you can find it.  The
+hallway here is colder than the rest of the cave.  You assume that the
+white dragon made frequent passes through here to make sure his gold
+was intact.  You begin to hope that it wasn't a baby....    
+~
+24 0 0 0 0 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2455 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2453 0
+S
+#2455
+Walking through DragonSpyre~
+You have made it past the white dragon, the first of your challenges.
+Now, you are entitled to his treasure...  If you can find it.  The
+hallway here is colder than the rest of the cave.  You assume that the
+white dragon made frequent passes through here to make sure his gold
+was intact.  You begin to hope that it wasn't a baby....    
+~
+24 0 0 0 0 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2456 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2454 0
+S
+#2456
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2455 9
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2457 0
+S
+#2457
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2456 9
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2458 0
+S
+#2458
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2457 9
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2459 0
+S
+#2459
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2458 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2460 0
+S
+#2460
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2459 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2461 0
+S
+#2461
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2460 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2462 0
+S
+#2462
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2461 9
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2463 0
+S
+#2463
+Walking through DragonSpyre~
+The hallway here is a radcial change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+2 0 2462 9
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2464 0
+S
+#2464
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2465 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2463 0
+S
+#2465
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D2
+Walking through DragonSpyre
+~
+gate~
+2 2403 2466 15
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2464 0
+S
+#2466
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+gate~
+2 2403 2465 15
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2467 0
+S
+#2467
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2466 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2468 0
+S
+#2468
+Walking Through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2467 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2469 0
+S
+#2469
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2468 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2470 0
+S
+#2470
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.  To the
+west is a large gate.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2469 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2471 0
+D3
+Walking through DragonSpyre
+~
+gate~
+1 2404 2474 7
+S
+#2471
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2472 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2470 0
+S
+#2472
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Lair of the Copper Dragon
+~
+~
+0 0 2473 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2471 0
+S
+#2473
+Lair of the Copper Dragon~
+Within the bounds of this room, time has seemed to stop.  There is no
+movement, save for the large mass at the back of the room.  Out of the
+corner of you eye, you manage to catch a glimpse of a droplet of water
+"falling" from a stalagtite...  It appears to have been in the same
+position for the past century.  You have no chance to move before the
+Dragon strikes.    
+~
+24 0 0 0 0 5
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2472 0
+S
+#2474
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.  To the
+east is a large gate.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+gate~
+2 0 2470 15
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2475 0
+S
+#2475
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2474 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2476 0
+S
+#2476
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2475 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2477 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2479 0
+S
+#2477
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2476 0
+D2
+Treasure Room
+~
+door~
+2 2404 2478 15
+S
+#2478
+Treasure Room~
+All about you are the untold fortunes of many generations of families.
+Nothing here seems to be touched by age, it is all in perfect
+condition.  It has remained as it was many years ago when it was
+taken.  Although the Dragon and the original families considered these
+items "treasure", you manage to find little of value beside a pile of
+gold coins you collect.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+door~
+2 2404 2477 15
+D2
+Walking through DragonSpyre
+~
+door~
+2 2404 2483 9
+S
+#2479
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2476 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2480 0
+S
+#2480
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2479 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2481 0
+S
+#2481
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2480 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2482 0
+S
+#2482
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes o for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.  You have
+reached a dead end.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2481 0
+D3
+~
+~
+0 0 2500 16
+S
+#2483
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Treasure Room
+~
+door~
+2 2404 2478 15
+D2
+Walking through DragonSpyre
+~
+~
+2 2404 2484 9
+S
+#2484
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2483 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2485 0
+S
+#2485
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2484 0
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2491 0
+D2
+Walking through DragonSpyre
+~
+~
+0 0 2495 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2486 0
+S
+#2486
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were i.  It feels like time itself is slowing down.  The hallway looks
+like it goes on for all eternity, but at the sluggish pace you are
+moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2485 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2487 0
+S
+#2487
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2486 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2488 0
+S
+#2488
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2487 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2489 0
+S
+#2489
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2488 0
+D3
+Pixie King's Bedroom
+~
+door~
+2 2405 2490 15
+S
+#2490
+Pixie King's Bedroom~
+You have entered into the private quarters of the Pixie King.  You can
+just imagine a horde of guards walking in on you, but luckily they
+never do.  Even so, you better make your stay here a short one.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+door~
+2 2405 2487 15
+S
+#2491
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2492 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2485 0
+S
+#2492
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Walking through DragonSpyre
+~
+~
+0 0 2493 0
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2491 0
+S
+#2493
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D1
+Throne room of the Pixie King
+~
+door~
+1 -1 2494 3
+D3
+Walking through DragonSpyre
+~
+~
+0 0 2492 0
+S
+#2494
+Throne room of the Pixie King~
+The throne room is remarkably well kempt considering the anarchy of
+the Pixie hierarchy.  The power of the time dragon does not seem to
+affect this room in the least bit.  There is a humongous throne
+sitting at the far end of the room.  There appears to be a Pixie
+engulfed in it.    
+~
+24 0 0 0 0 5
+D3
+Walking through DragonSpyre
+~
+door~
+2 -1 2493 11
+S
+#2495
+Walking through DragonSpyre~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2485 0
+D2
+Approaching the end of the Hallway
+~
+~
+0 0 2496 0
+S
+#2496
+Approaching the end of the Hallway~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Walking through DragonSpyre
+~
+~
+0 0 2495 0
+D2
+Approaching the end of the Hallway
+~
+~
+0 0 2497 0
+S
+#2497
+Approaching the end of the Hallway~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Approaching the end of the Hallway
+~
+~
+0 0 2496 0
+D2
+Approaching the end of the Hallway
+~
+~
+0 0 2498 0
+S
+#2498
+Approaching the end of the Hallway~
+The hallway here is a radical change from where you just where.  
+Here, the walls look much more undeveloped than the last hallway you
+were in.  It feels like time itself is slowing down.  The hallway
+looks like it goes on for all eternity, but at the sluggish pace you
+are moving, eternity might not be that long of a distance.    
+~
+24 0 0 0 0 5
+D0
+Approaching the end of the Hallway
+~
+~
+0 0 2497 0
+D2
+The end of the Hallway
+~
+~
+0 0 2499 0
+S
+#2499
+The End of the Hallway~
+You have come to the end of the hallway.  As you enter the room, you
+hear a slight rumbling coming from the eastern wall.  You look, and
+see that the wall has opened to reveal a safe passage to the beginning
+of the cavern.  There is also an exit to the north.    
+~
+24 0 0 0 0 5
+D0
+Approaching the end of the Hallway
+~
+~
+0 0 2498 0
+D1
+The Beginning of the Cavern
+~
+~
+0 0 2408 0
+S
+$~

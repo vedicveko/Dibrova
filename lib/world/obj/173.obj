@@ -1,0 +1,532 @@
+#17300
+blue white shirt~
+/cwa /cBblue/cw and/cW white/cw shirt/c0~
+/cgA /cBblue/cw and/cW white/cw shirt/cg lies crumpled on the floor./c0~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+3 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shirt blue white~
+This shirt has been crafted of the finest wool and woven into a blue and
+white checkerboard pattern.
+~
+#17301
+sugar~
+/cWa bag of sugar/c0~
+/cgA/cW bag of sugar/cg rests on a shelf./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+6 11 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bag sugar~
+The bag of sugar is about half empty.
+~
+#17302
+gloves electric blue~
+/cBa pair of electric blue gloves/c0~
+/cgA /cBblue pair of gloves/cg that crackle with energy have been left here./c0~
+~
+9 1748992 7 0 0 129 0 0 0
+5 0 0 0 65536 0 0 0
+4 32500 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gloves electric blue~
+The gloves seem to be made of pure electricity, woven into a pair of
+soft gloves.
+~
+A
+2 2
+A
+19 3
+A
+18 4
+#17303
+boots blue white~
+/cwa pair of/cB blue/cw and/cW white boots/c0~
+/cgA/cw pair of boots made from/cB blue/cw and/cW white/cw leather/cg have been dropped here./c0~
+~
+9 0 0 0 0 65 0 0 0
+7 0 0 0 0 0 0 0
+7 246 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+boots blue white~
+These boots have been crafted of the finest leather by the tiny hands of 
+elves
+~
+#17304
+sword glowing~
+/cCthe glowing sword/c0~
+/cgA /cCbright light in the shape of a sword/cg lies here./c0~
+~
+5 684032 6 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+8 33279 0 78 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+note~
+this sword should cast blindness and give infra
+~
+E
+sword glowing~
+You are unable to look directly at this sword, but you sense that it is
+forged from a very rare metal.
+~
+A
+19 4
+A
+26 3
+#17305
+dagger bluemetal~
+/cBa blue dagger/c0~
+/cgA tiny/cB blue piece of metal/cg lies here, almost hidden./c0~
+~
+5 1871872 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 35412 0 83 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dagger blue~
+This is one of the tiniest daggers you've seen, but you sense that it can do
+a great amount of damage.
+~
+A
+19 4
+A
+18 3
+#17306
+cloak blue whiteblue~
+/cwa/cB blue/cw and/cW white/cw cloak/c0~
+/cgA/cw pile of/cB blue/cw and/cW white/cw material/cg has been left here./c0~
+~
+9 1888256 0 0 0 1025 0 0 0
+6 0 0 0 0 16384 0 0
+6 28372 0 76 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak blue white~
+This cloak has been woven of a strange material.  The stripes on the cloak
+alternate between blue and white.
+~
+A
+26 4
+A
+18 3
+A
+19 1
+A
+1 -2
+#17307
+belt blue leather~
+/cBa blue leather belt/c0~
+/cgA /cBbelt made of blue leather/cg lies coiled on the floor./c0~
+~
+9 1359905 0 0 0 2049 0 0 0
+5 0 0 0 0 0 0 0
+7 17266 0 74 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+belt blue leather~
+crafted of fine leather and stained blue, this belt holds great powers.
+~
+A
+13 35
+A
+12 35
+#17308
+straightjacket jacket~
+/cwa straightjacket/c0~
+/cgA /cwjacket with long sleeves and straps/cg has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0 0 0 0 0
+7 13 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+jacket straightjacket~
+The straightjacket seems to fit rather snugly, and is able to latch in back.
+~
+A
+2 -5
+A
+1 -5
+#17309
+muzzle~
+/cLa muzzle/c0~
+/cgA/cL cage of leather/cg that seems to be roughly head-sized lies here./c0~
+~
+9 0 0 0 0 262145 0 0 0
+1 0 0 0 131072 0 0 0
+3 273 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+muzzle~
+While crafted of leather, this muzzle looks slightly used and shows teeth
+marks all over it.
+~
+#17310
+staff black raven~
+/cLa black raven staff/c0~
+/cgA /cLlong staff with a black raven/cg engraved on it stands in the corner./c0~
+~
+4 2 0 0 0 16385 0 0 0
+70 5 5 115 0 0 0 0
+8 1950 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff black raven~
+The black raven staff was created from a very strong wood and then charred
+to make it black.  An emblem of a huge black raven is etched into the top
+of the staff.
+~
+#17311
+scalpel~
+/cwa scalpel/c0~
+/cgA /cwscalpel/cg sits here shining brightly./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+2 373 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#17312
+bag glowing~
+/cCa glowing bag/c0~
+/cgA/cC bright light/cg has come to rest on the floor./c0~
+~
+15 1 0 0 0 16385 0 0 0
+225 0 -1 0 0 0 0 0
+2 17 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17313
+shirt ripped~
+/cwa ripped shirt/c0~
+/cgA /cwshirt with a large rip/cg in it rests on the floor./c0~
+~
+9 0 0 0 0 9 0 0 0
+1 0 0 0 0 0 0 0
+3 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17314
+shoes new~
+/cwa new pair of shoes/c0~
+/cgA /cwnew pair of shoes/cg sit neatly together./c0~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0 0 0 0 0
+3 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17315
+gown white~
+/cWa white gown/c0~
+/cgA/cW soft white gown/cg lies crumpled on the floor./c0~
+~
+9 0 0 0 0 1025 0 0 0
+2 0 0 0 0 0 0 0
+7 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+note~
+should give invis
+~
+#17316
+syringe~
+/cwa syringe/c0~
+/cgA /cwsmall syringe/cg lies here with its needle sparkling menacingly./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+1 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17317
+bucket~
+/cya small bucket/c0~
+/cgA/cy small bucket/cg sits here./c0~
+~
+15 0 0 0 0 1 0 0 0
+50 0 -1 0 0 0 0 0
+4 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17318
+mop~
+/cya mop/c0~
+/cgA /cymop/cg rests in the corner./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 4 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17319
+cabinet~
+/cya cabinet/c0~
+/cgA /cysmall wooden cabinet/cg stands against the wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+5000 13 -1 0 0 0 0 0
+7611 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cabinet~
+A small wooden cabinet has been left here, tightly closed.  It was made from
+pine and has several large scrapes on it.
+~
+#17320
+desk~
+/cythe desk/c0~
+/cgThe/cy receptionist's desk/cg rests in the center of the room./c0~
+~
+15 0 0 0 0 0 0 0 0
+5000 5 -1 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+desk~
+The receptionist's desk is cluttered with papers, but seems to have a small 
+drawer.  
+~
+#17321
+altar ornate~
+/cWan ornate altar/c0~
+/cgYou gasp at the beauty of the/cW ornate altar/cg that rests before you./c0~
+~
+15 0 0 0 0 0 0 0 0
+600 5 -1 0 0 0 0 0
+9000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+altar ornate~
+The altar's guilded surface is embedded with beautiful sapphires that sparkle
+in the sunlight that streams down from above.
+~
+#17322
+key onyx~
+/cLan onyx key/c0~
+/cgA/cL key mode of solid onyx/cg has been left here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 9 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17323
+key ruby~
+/cra ruby key/c0~
+/cgA/cr key carved from a ruby/cg has been left here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17324
+key sapphire~
+/cba saphire key/c0~
+/cgA /cbkey carved from a sapphire/cg has been left here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17325
+key emerald~
+/cgan emerald key/c0~
+/cgA key carved from an emerald has been left here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17326
+bed~
+/cwa bed/c0~
+/cgA /cwsmall, uncomfortable looking bed/cg rests on the floor./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100 15 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bed~
+The sheets have been turned down on the bed.
+The mattress looks old and lumpy.
+~
+#17327
+wand blue white~
+/cwa/cB blue/cw and/cW white/cw wand/c0~
+/cgA small/cB blue/cw and/cW white/cw striped wand/cg has been left here./c0~
+~
+3 64 0 0 0 16385 0 0 0
+70 3 3 94 0 0 0 0
+3 65 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+blue white wand~
+The blue and white wand sparkles with energy.  An aura that seems to 
+alternate
+~
+#17328
+bracelet heavybracelet~
+/cLa heavy bracelet/c0~
+/cgA /cLheavy-looking metal bracelet/cg has been left here./c0~
+~
+9 0 2 0 0 4097 0 0 0
+7 0 0 0 0 0 0 0
+8 25440 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bracelet heavy~
+The heavy bracelet must be made of a lead-alloy.  The metal is tarnished
+to the extent that it no longer shines.  It might have been engraved at
+one time, but it has long since worn away, leaving only scratches on the
+metal surface.
+~
+A
+19 4
+A
+18 4
+#17329
+wand glass~
+/cCa wand of glass/c0~
+/cgA /cCwand of glass/cg lies on the ground, barely visible./c0~
+~
+3 2 0 0 0 16385 0 0 0
+74 5 5 36 0 0 0 0
+3 750 0 74 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wand glass~
+The wand has been made from glass, and enchanted by elves to give it its
+magical qualities.  Just holding the wand, it makes you feel wise, and you
+seem to have a sense of awareness that you did not percieve before.
+~
+#17330
+turnip~
+/cya turnip/c0~
+/cgA /cydirty turnip/cg sits on the floor./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17331
+tomato~
+/cRa tomato/c0~
+/cgA /cRjuicy red tomato/cg has been left here./c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+1 4 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17332
+carrot~
+/cya carrot/c0~
+/cgA /cycarrot/cg lies in the dirt./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17333
+beet~
+/cma beet/c0~
+/cgA/cm beet/cg lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17334
+onion~
+/cwan onion/c0~
+/cgA smelly/cw onion/cg has been dropped here./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17335
+lemon~
+/cYa lemon/c0~
+/cgSomeone dropped a/cY lemon/cg here./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17336
+basket~
+/cya basket/c0~
+/cgA big/cy wicker basket/cg sits on the floor./c0~
+~
+15 0 0 0 0 16385 0 0 0
+75 0 -1 0 0 0 0 0
+4 15 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17337
+garlic~
+/cwa clove of garlic/c0~
+/cwCloves of garlic/cg hang from the wall./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17338
+spinach~
+/cgsome spinach/c0~
+/cgSome spinach is on the floor./c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17339
+apple~
+/cran apple/c0~
+/cgSomeone left a/cr shiny red apple/cg here./c0~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17340
+couch sofa~
+/cLa leather couch/c0~
+/cgA /cLlarge leather couch/cg rests against the wall./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+150 150 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17341
+hammock~
+/cwa large hammock/c0~
+/cgA /cwlarge hammock/cg swings between two shade trees./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9 31 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#17342
+warning sign~
+an important sign~
+/cyAn /cwimportant /cRWARNING /cysign has been posted here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+125 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+warning sign~
+
+   /cRWARNING: /cyThe Haon-Dor Insane Asylum lies to the south, accross the
+bridge.  Patients from all over the world are admitted there for different
+reasons.  Many of them are quite dangerous.  It is NOT a place where new
+people should tread./c0
+
+~
+$~

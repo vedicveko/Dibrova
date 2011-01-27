@@ -1,0 +1,134 @@
+#32000
+shirt silk~
+/cwa silk shirt/c0~
+/cwA silk shirt lies wadded in a corner./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+5 1166 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32001
+sword thin bladed short~
+/cwa thin-bladed short sword/c0~
+/cwA thin-bladed short sword has been left here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 4 2 3 0 0 0 0
+7 2333 0 7 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32002
+belt leather~
+/cwa leather belt/c0~
+/cwA leather belt has been left here./c0~
+It's a strip of leather most commonly used to hold your pants up.
+~
+9 1024 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 1707 0 8 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#32003
+trap~
+/cwa trap/c0~
+/cwSome trapper has left their trap here./c0~
+~
+12 128 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+9 107 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32004
+fur suit~
+/cwa /cyfur/c0 suit~
+/cwA pile of rank, smelling /cyfur/c0 has been left in a corner.~
+~
+9 0 0 0 0 1033 0 0 0
+8 0 0 0 0 0 0 0
+9 1773 0 7 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+9 2
+#32005
+coat overcoat green forest~
+/cwa /cgforest-green /cwovercoat/c0~
+/cwA /cgforest-green /cwovercoat has been left here./c0~
+~
+9 1024 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+6 2466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 10
+#32006
+bow longbow~
+/cwa longbow/c0~
+/cwA longbow has been left here./c0~
+~
+5 525312 0 0 0 8193 0 0 0
+0 3 4 1 0 0 0 0
+7 3333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32007
+smock~
+/cwa smock/c0~
+/cwA simple smock has been left here./c0~
+~
+15 0 0 0 0 1025 0 0 0
+60 0 -1 0 0 0 0 0
+8 240 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32008
+dress tweed~
+/cwa simple tweed dress/c0~
+/cwA simple tweed dress has been left here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+6 1633 0 7 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#32009
+hat green pointed~
+/cwa pointed /cggreen/c0 hat~
+/cwA pointed /cggreen/c0 hat has been dropped here.~
+~
+9 1024 0 0 0 17 0 0 0
+3 0 0 0 0 0 0 0
+6 1680 0 7 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 1
+#32010
+stick walking~
+/cwa walking stick/c0~
+/cwA walking stick lies on the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 92 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 2
+#32011
+druid stone~
+/cwa /cGDruid Stone/c0~
+/cwAn ancient stone lies upon the ground, glowing with a faint /cggreenish/cw tint./c0~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 53 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stone~
+It pulsates faintly, the muted colors of the fauna around you seeming to
+soak into it, lending it the glow that it exudes.
+~
+#32099
+deed Dearthwood~
+the deed to the Dearthwood~
+A small piece of paper lies here.~
+~
+28 0 0 0 0 16385 0 0 0
+320 0 0 0 0 0 0 0
+5 20000000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

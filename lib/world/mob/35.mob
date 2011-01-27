@@ -1,0 +1,221 @@
+#3500
+man vagabond roaming~
+the roaming Vagabond~
+A man dressed in dusty clothes gives you a smile and a wave as he walks by.
+~
+The glint in his eye as he watches you pass doesn't make you feel all
+that comfortable.
+~
+76 0 0 0 0 0 0 0 -100 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+BareHandAttack: 11
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 22
+Luck: 12
+Race: 14
+E
+#3501
+messenger man~
+the Messenger~
+A man wearing a blue and gray uniform reading '/cbDibrova /cLPostal/cb Service/cw' runs by.
+~
+You barely get a look as this man keeps on going toward the next town, just
+doing his job.
+~
+200 0 0 0 0 0 0 0 -250 E
+4 0 84 1d4+30 1d2+2
+5 160
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 5
+Luck: 12
+Race: 14
+E
+#3502
+rabbit~
+a Rabbit~
+A small, white rabbit hops by you, making its way into the woods.
+~
+Cute little guy - but he IS in your way.
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 6
+Luck: 12
+Race: 1
+E
+#3503
+hiker~
+a Hiker~
+A hiker trudges by, loaded down with his backpack.
+~
+This man looks as if he could walk you into the ground and the some
+~
+2120 0 0 0 0 0 0 0 500 E
+9 2 64 1d9+175 1d2+6
+15 1270
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Class: 5
+Race: 14
+E
+#3504
+man gypsy bright~
+the Gypsy Man~
+/cwA man in /cMb/cBr/cYi/cRg/cGh/cMt/cBl/cRy /cGc/cMo/cBl/cRo/cGr/cMe/cBd /cRc/cGl/cMo/cBt/cRh/cGi/cMn/cBg /cwleans against a tree, one foot propped up./c0
+~
+The man looks up from under his oddly-shaped hat, as if squinting
+against a bright bit of light -though there is none- and gives you a
+sly smirk and a wink.    
+
+He puts his head down and goes back to his leaning.
+He is... waiting for something?
+~
+14 0 0 0 0 0 0 0 300 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 21
+Luck: 12
+Race: 14
+E
+#3505
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here, cleaning glasses.
+~
+The Innkeeper now spends most of his days waiting for customers, while
+the nights are spent watching out for goblins.  His inn is no longer
+the happy place that is used to be in days past.    
+~
+6218 0 0 0 0 0 0 0 400 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 10
+Luck: 12
+Race: 14
+E
+#3506
+bard~
+the Bard~
+A sullen bard is here, drinking away his problems.
+~
+You can smell the alcohol on his breath from across the room.  This
+poor bard has been sitting here quite a while, drinking himself into
+oblivion.    
+~
+6218 0 0 0 16 0 0 0 600 E
+8 2 68 1d8+150 1d2+5
+10 941
+6 6 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Race: 14
+E
+#3507
+horseman dark~
+the dark Horseman~
+A dark horseman is here, mounted on his black steed.
+~
+The man is obviously an outlaw, and has no qualms about slashing you
+into little bits.    
+~
+4296 0 0 0 589824 0 0 0 0 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 25
+Luck: 12
+Class: 9
+Race: 14
+E
+#3510
+trader horse~
+the Horse Trader~
+A man with a shaved or balding head leans forward on his desk as you enter.
+~
+He has a keen eye and a quick wit which makes him a dangerous man to
+deal with monetarily.    
+~
+10 0 0 0 0 0 0 0 0 E
+35 17 -20 1d1+0 3d5+23
+350 40559
+8 8 1
+Str: 22
+Dex: 21
+Int: 7
+Con: 18
+Cha: 15
+Luck: 8
+Race: 14
+E
+#3599
+netherman man old feeble~
+the Netherman~
+An old, feeble man crouches before a small fire, poking at it with a stick.
+~
+He says without looking up, '/cwIf ye wish to go to the Nether, all
+you must do is speak the word NETHER.  However, do not say that I did
+not warn you to bring all manner of magical and mundane protection.  
+Within the Nether, ye will need it and more.  /c0'
+~
+10 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 1
+Str: 15
+Dex: 17
+Int: 23
+Wis: 8
+Con: 23
+Cha: 7
+Luck: 14
+Class: 4
+Race: 45
+E
+$

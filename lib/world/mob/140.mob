@@ -1,0 +1,797 @@
+#14011
+pirate guard~
+the Pirate Guard~
+A grubby sailor armed with a cutlass growls at you!
+~
+The pirate guard is clothed in rags, and smells badly.
+~
+22538 0 0 0 16 0 0 0 -500 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+8 8 1
+BareHandAttack: 3
+Class: 10
+Race: 14
+E
+#14012
+shipwright pirate~
+the Shipwright~
+A shipwright is here, repairing a trireme.
+~
+The shipwright is stripped to the waist, and is sweating profusely.
+~
+100362 0 0 0 33554448 0 0 0 -300 E
+121 101 -60 0d0+0 14d14+80
+3500 959001
+8 8 1
+Race: 14
+E
+#14013
+savage jungle~
+a jungle Savage~
+A jungle savage is here, thinking about cannibalism.
+~
+The jungle savage is clad in a thong and wields a crude spear.
+~
+526440 0 0 0 1572944 0 0 0 -400 E
+130 111 -60 0d0+0 15d16+86
+3500 1151521
+8 8 1
+BareHandAttack: 11
+Race: 14
+E
+#14014
+chieftain chief savage~
+Chief Unga-Bunga~
+A savage chieftain is here dressed in a cape of bird feathers!
+~
+Chief Unga-bunga is a strong man, having consumed many monkey 
+brains over his long life. He like the rest of his subjects, is
+scantily clad.
+~
+755722 0 0 0 67110928 98304 0 0 -300 E
+145 130 -60 0d0+0 18d18+96
+4600 1597328
+8 8 1
+BareHandAttack: 12
+Class: 4
+Race: 14
+E
+#14015
+pirate sleeping~
+the sleepy Pirate~
+A pirate is here, sleeping off another wild drunk.
+~
+The pirate stinks with the smell of his own vomit.
+~
+67594 0 0 0 16 0 0 0 -400 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+4 4 1
+Race: 14
+E
+#14016
+pirate drunken~
+the drunken Pirate~
+A drunken pirate staggers toward you.
+~
+The pirate smells of rum, and is dressed in rags.
+~
+32968 0 0 0 33554448 0 0 0 -400 E
+123 103 -60 0d0+0 14d15+82
+3500 999941
+8 8 1
+Race: 14
+E
+#14017
+princess smallbody woman~
+Princess Smallbody~
+A woman dressed in rags and smelling of sewage claims royal lineage.
+~
+Princess Smallbody is in sad sad shape.  Her father wrote her off as
+damaged goods when this band of pirates captured her, and so her
+ransom was never paid.  One-eye in his anger cast the princess in this
+prison until her manner changed.    
+~
+8388746 0 0 0 16 0 0 0 100 E
+70 47 -40 0d0+0 6d6+46
+2500 237528
+8 8 2
+Race: 14
+E
+#14018
+navigator man~
+the Navigator~
+A man is here sighting his sextant on the sun.
+~
+The navigator is dressed in silken clothing.  He was a prize from one
+of One-eye's raids, and has served his lord well.  He hopes one day
+that he can make a break for it on a raid.    
+~
+2074 0 0 0 2128 2 0 0 100 E
+122 102 -60 0d0+0 14d14+81
+3500 979341
+8 8 1
+Race: 14
+E
+#14019
+one-eye man pirate lord~
+One-eye, the Pirate Lord~
+The pirate lord of this isle booms a 'Kill them' at you!
+~
+One-eye is a man of medium build and grey sideburns.  He is well
+dressed and wears the proverbial patch over one eye.  However, he uses
+this patch as a prop to make himself appear rougher than he actually
+is.  His skin is a weathered brown from many, many voyages.    
+~
+67717130 0 0 0 16777360 0 0 0 -800 E
+160 149 -60 0d0+0 22d23+106
+5400 1955340
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 14
+E
+#14020
+maiden bond~
+a bond Maiden~
+A maiden dressed in rags is here, servicing the whims of her master.
+~
+The bond maiden is tied to the throne, and looks broken.  You look
+into her eyes and see a little hope remains, hope that one day she
+will be rescued or her ransom paid.    
+~
+8388618 0 0 0 0 0 0 0 7 E
+30 14 -20 0d0+0 3d3+20
+1050 27376
+8 8 1
+Race: 14
+E
+#14021
+kracken~
+the Kraken~
+A giant, black-tentacled creature churns the water here!
+~
+The kracken has been trained by the Redbeard to expect food with the
+arrival of a boat.  He usually tosses the kracken a huge load of fish
+and the beast lets him pass.  Others, however, are ignorant of this
+practice, and tend to get eaten.    
+~
+67354634 0 0 0 33554512 163840 0 0 -900 E
+145 130 -60 0d0+0 18d18+96
+0 1521265
+8 8 1
+BareHandAttack: 9
+Race: 8
+E
+#14022
+guard dock~
+the Dock Guard~
+A burly man is here guarding the docks.
+~
+The dock guard is dressed in light leather armor and coif, and appears
+to be alert and well rested.    
+~
+6170 0 0 0 16 0 0 0 -300 E
+125 105 -60 0d0+0 15d15+83
+3500 1041926
+8 8 1
+Class: 4
+Race: 14
+E
+#14023
+snake black~
+a Black Snake~
+A black snake is here, hiding in the sand.
+~
+The black snake is some 10' long, and has broad, iron hard scales.
+~
+10 0 0 0 1048576 0 0 0 0 E
+35 17 -20 0d0+0 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 4
+Race: 2
+E
+#14024
+crab black~
+a Black Crab~
+A black crab is here, eating a dead fish.
+~
+The black crab measures 2' from tip to tip, and has serrated pinchers.
+Its eyestalks rise some 3' off the ground, orienting and peering in
+your direction.    
+~
+72 0 0 0 0 0 0 0 0 E
+25 11 0 0d0+0 2d3+16
+0 17197
+8 8 1
+BareHandAttack: 8
+Race: 4
+E
+#14025
+worm lava~
+a Lava Worm~
+A small rivulet of molten lava runs here.
+~
+The lava worm is a creature of magic, having been created by Pele to
+seek out the gems of the earth and bring them to him.  He forged the
+worm from metal and magic.  The worm appears molten, but is really so
+hot from being in the fire that the rock upon which it slithers turns
+into a molten liquid on its skin.    
+~
+253962 0 0 0 264272 2 0 0 0 E
+45 25 -24 0d0+0 4d5+30
+0 84683
+8 8 1
+BareHandAttack: 10
+Race: 30
+E
+#14026
+lizard lava~
+a Lava Lizard~
+A man-sized fire-red lizard is here basking on a rock.
+~
+The lava lizard frequents the lava flows, as they are a place where
+the lizard can gather warmth for its dives deep underwater.  The
+lizard has the coloration it does to blend in with the lava, and
+camouflage it from large predatory birds like the terrible Rocs (which
+thankfully have migrated North for the season)
+~
+10 0 0 0 0 0 0 0 0 E
+45 25 -24 0d0+0 4d5+30
+0 76985
+8 8 1
+BareHandAttack: 2
+Race: 2
+E
+#14027
+pirate snarling~
+the snarling Pirate~
+A snarling pirate is here, ready to pillage your corpse.
+~
+The snarling pirate wears at best leather protective clothing
+and appears to be shaved and well groomed.
+~
+67143752 0 0 0 16 131072 0 0 -600 E
+135 117 -60 0d0+0 16d17+90
+3800 1267849
+8 8 1
+BareHandAttack: 13
+Class: 4
+Race: 14
+E
+#14028
+redbeard pirate~
+Redbeard~
+A tall, angular man with a red beard (well groomed) is here.
+~
+Redbeard has prospered on fire island through his wits and
+organization.  He holds his men to a higher standard then the rest of
+the pirate scum which sails the seas.  He has a funny looking
+eyepiece.    
+~
+542762 0 0 0 100728912 4194304 0 0 -650 E
+160 149 -60 0d0+0 22d23+106
+5400 2053107
+8 8 1
+BareHandAttack: 12
+Class: 4
+Race: 14
+E
+#14029
+lalila elf prince~
+Lalila, the Elven Prince~
+A pale, malnourished elf is here, begging for food.
+~
+Lalila thanks you for his rescue.  In exchange for his life he tells
+you of a place called hell reef, where you can hear the ghostly siren,
+is where he was shipwrecked and he lost his flaming belt.  He was
+using the belt for warmth when he was captured by Redbeard, and
+brought here for ransom.    
+~
+42172426 0 0 0 2128 2 0 0 600 E
+100 77 -40 0d0+0 9d10+66
+3200 589815
+8 8 1
+Race: 15
+E
+#14030
+pele god fire~
+Pele, the God of Fire~
+A towering otherworldly figure stands here, immersed in fire.
+~
+Pele is the fire god, and calls this lonely spot his home. He has
+little interest in the affairs of men, dwarves, elves, etc. He 
+stands some 20' tall, and is made entirely of flame.
+~
+755722 0 0 0 262480 0 0 0 300 E
+160 149 -60 0d0+0 22d23+106
+5400 2346408
+8 8 1
+BareHandAttack: 10
+Class: 8
+Race: 45
+E
+#14031
+mizzenmast pirate lord~
+Mizzenmast~
+A short, squat, balding pirate is reclining here in a hammock.
+~
+Mizzenmast, the 3rd Pirate Lord is a firm believer in non- exertion,
+and the economy of effort.  Sooner or later it will wash ashore is his
+motto.  He is in his late 40's, on the downward slide from a once
+profitable career.  He knows enough to delegate his work to others,
+and leaves all the major thinking to Shifty.    
+~
+16394 0 0 0 2064 0 0 0 -300 E
+160 149 -60 0d0+0 22d23+106
+5400 1955340
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 14
+E
+#14032
+shifty trader man~
+Shifty the Trader~
+A man in shackles lies here in agony.
+~
+Shifty has once again ticked-off his lord, Mizzenmast, who in turn has
+shackled him here in the storage area to impress upon him the
+importance of fealty.  Shifty is weak from hunger, and his soiled
+finery speaks for his recent fall from grace.    
+~
+10 0 0 0 0 0 0 0 -200 E
+79 55 -40 0d0+0 6d7+52
+2950 323344
+8 8 1
+Race: 14
+E
+#14033
+pirate bandy legged~
+the bandy-legged Pirate~
+A bandy-legged pirate staggers on his sea legs.
+~
+The pirate is unbalanced due to his long journeys at sea.  He is clad
+in cloth jerkin and leggings, and swings his cutlass with years of
+experience.    
+~
+4168 0 0 0 33554448 0 0 0 -200 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+8 8 1
+BareHandAttack: 3
+Class: 12
+Race: 14
+E
+#14034
+stiggs cabin boy~
+Stiggs, the Cabin Boy~
+A young boy is here, rushing about on some kind of errand.
+~
+Stiggs was waylaid in a coastal city by Mizzenmast's crew.  He has
+been brainwashed over time that the pirate's life is the best life
+there is.  Right now Stiggs is in a hurry to prepare shark stew for
+his Lords snack.    
+~
+4296 0 0 0 0 0 0 0 300 E
+80 56 -40 0d0+0 6d7+53
+3000 333884
+8 8 1
+BareHandAttack: 13
+Race: 14
+E
+#14035
+shark tiger~
+a Tiger Shark~
+A shark with strange broad stripes is snacking on your leg.
+~
+The tiger shark is thick and squatish in appearance.  You think its
+jaws would make a fine trophy.    
+~
+67108936 0 0 0 16777424 2 0 0 -100 E
+77 53 -40 0d0+0 6d7+51
+0 302878
+8 8 1
+BareHandAttack: 4
+Race: 4
+E
+#14036
+shark white great~
+the Great White Shark~
+A twenty-foot long shark snarls through the waves toward you.
+~
+Yes, our good old buddy the great white has scented your foul trail of
+Ofcol in the water, and found it pleasing enough to pursue across the
+great expanse of water.    
+~
+67635272 0 0 0 50333904 2 0 0 0 E
+80 56 -40 0d0+0 6d7+53
+0 333884
+8 8 1
+BareHandAttack: 9
+Race: 4
+E
+#14037
+shark mako~
+the Mako Shark~
+A slender, fast swimming shark swims for your leg!
+~
+The mako shark, when you come down to it, makes a fine meal.  Please
+feel free to sample its lovingly prepared body parts after the combat.
+No, you should drink white wine with Mako.    
+~
+4200 0 0 0 16777424 2 0 0 0 E
+65 42 -40 0d0+0 6d6+43
+0 196628
+8 8 1
+BareHandAttack: 10
+Race: 4
+E
+#14038
+shark hammerhead~
+the Hammerhead Shark~
+Hey look at the weird head on that shark!
+~
+The hammerhead shark is swimming slowly along at a great depth,
+oblivious to your presence.    
+~
+231496 0 0 0 16779472 2 0 0 0 E
+67 44 -40 0d0+0 6d6+44
+0 212425
+8 8 1
+BareHandAttack: 4
+Race: 4
+E
+#14039
+shark blue~
+the Blue Shark~
+A torpedo shaped shark cruises along here.
+~
+The blue shark having just had a fine dinner of mortal body parts, is
+out for its leisurely evening swim.  Maybe if you throw fresh blood in
+the water you can get its attention.    
+~
+6216 0 0 0 16779472 2 0 0 0 E
+69 46 -40 0d0+0 6d6+46
+0 228971
+8 8 1
+BareHandAttack: 10
+Race: 4
+E
+#14040
+clam giant~
+a Giant Clam~
+A huge white hunk of coral rests on the bottom.
+~
+The giant clam is closed and content at the bottom of this warm
+tropical sea.  I wonder what's inside?    
+~
+229386 0 0 0 285212880 163840 0 0 0 E
+40 21 -100 0d0+0 4d5+26
+0 57012
+8 8 1
+BareHandAttack: 5
+Race: 4
+E
+#14041
+hawkwoman hawk woman~
+the Hawkwoman~
+A woman with giant gray wings soars here.
+~
+The hawkwoman, like all of her kind wears a beaked helm, chain
+leggings and is naked from the waist up.  Yes, she is well endowed.  
+She wields the talons of the hawkpeople, gloves with spikes protruding
+from the fingers.    
+~
+39752 0 0 0 8388624 0 0 0 100 E
+115 94 -40 0d0+0 13d13+76
+3500 842356
+8 8 2
+BareHandAttack: 8
+Class: 2
+Race: 23
+E
+#14042
+hawkman hawk man~
+the Hawkman~
+A hawkman dives at you for the attack!
+~
+The hawkman, like all of his kind wears a beaked helm, chain leggings,
+and is naked from the waist up.  He wears the talons of the
+hawkpeople, a glove fitted with spikes on the fingers.  Huge grey
+wings grow from his back, which when extended span 12' from tip to
+tip.    
+~
+56136 0 0 0 8388624 0 0 0 -400 E
+123 103 -60 0d0+0 14d15+82
+3500 999941
+8 8 1
+BareHandAttack: 8
+Class: 5
+Race: 23
+E
+#14043
+hawklord hawk lord man~
+the Hawklord~
+A hawkman in golden armor soars calmly over the land.
+~
+The hawklord, when you greet him, eyes you carefully.  Then slowly,
+but with increasing vigor he starts a tale of how his people were
+driven from their land by Lord Vulture.  He warns you of the terrible
+Terra-kan, a land roving birdlike creature which roams the surface of
+the island.    
+~
+579656 0 0 0 8388944 2 0 0 100 E
+160 149 -60 0d0+0 22d23+106
+5400 2150874
+8 8 1
+BareHandAttack: 12
+Class: 8
+Race: 23
+E
+#14044
+terra-kan bird terra kan~
+the Terra-Kan~
+A man-sized, wingless bird hunts here.
+~
+The terra-kan has black plumage, a huge hooked beak, and two terrible
+talons.  It moves by bounding in great leaps from place to place,
+often landing on its unsuspecting prey's back.  Its squawk begins as a
+low warble and finishes with a rapid burst of CAW, caw-CAW, CAH!.    
+~
+67108936 0 0 0 8388608 0 0 0 0 E
+54 32 -32 0d0+0 5d6+36
+0 122552
+8 8 1
+BareHandAttack: 9
+Race: 3
+E
+#14045
+pirate gambling~
+the gambling Pirate~
+A pirate is here, tossing his fate with dice.
+~
+The pirate is playing a game involving 3 dice called 'bones' in which
+the highest total wins, with the variant that 2 of a kind forfeits
+your roll, and 3 of a kind gets a bonus roll added.  He is so involved
+in the game that he did not notice you enter.    
+~
+16394 0 0 0 65536 4194304 0 0 -300 E
+123 103 -60 0d0+0 14d15+82
+3500 999941
+6 6 1
+Race: 14
+E
+#14046
+mate first pirate~
+the First Mate~
+A pirate in the tattered remains of a uniform, glares at your intrusion.
+~
+The first mate once was an officer in the navy of Freeport, who in his
+later years took to skimming from the war fund.  One day justice
+caught up with him and he was captured and shipped back to port.  
+However, on the way, his ship was captured by Lord Vulture, who
+recognized potential in his captive.  The mate has served Lord Vulture
+well, informing him of standard military moves of the navy.    
+~
+2106 0 0 0 16 0 0 0 -500 E
+154 141 -60 0d0+0 21d22+102
+5100 1773757
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 14
+E
+#14047
+pirate elite~
+the Elite Pirate~
+A well-armed, sharply uniformed pirate is here, guarding the hall.
+~
+The elite pirate is dressed in a black uniform with polished silver
+buttons and buckles.  He wields a military saber with a precision you
+have seldom seen.    
+~
+34080778 0 0 0 33554512 0 0 0 -600 E
+155 143 -60 0d0+0 21d22+103
+5150 1803276
+8 8 1
+BareHandAttack: 3
+Class: 10
+Race: 14
+E
+#14048
+alindra slave woman~
+Alindra of Dunkeldorf~
+A beautiful human woman reclines in silk here.
+~
+Alindra of Dunkeldorf is at the ripe age of 23.  She tells you a sad
+tale of how she was captured by Lord Vulture on her trip to Freeport.
+What is even more sad, is that she has fallen in love with Lord
+Vulture over the years of her captivity.    
+~
+20490 0 0 0 16 0 0 0 400 E
+70 47 -40 0d0+0 6d6+46
+2500 237528
+8 8 1
+Race: 14
+E
+#14049
+mutton chef pirate~
+Mutton, the Pirate Chef~
+A greasy, fat, hairy-backed pirate is here cooking up the daily swill.
+~
+Mutton has simple tastes in life.  Leftovers and more leftovers, and
+licking the stirring spoon.  He doesn't say much, because he is too
+busy drooling into the stew.  He does seem to be unusually sweaty
+though.    
+~
+138 0 0 0 0 0 0 0 -300 E
+90 66 -40 0d0+0 6d7+60
+3200 450852
+8 8 1
+BareHandAttack: 13
+Race: 14
+E
+#14050
+vulture lord~
+Lord Vulture~
+A giant, black-skinned man glares at you with coal-black eyes!
+~
+Lord Vulture is a master criminal, with a calculating evil that makes
+your skin crawl.  He is dressed in black silk, which nicely sets off
+his closely trimmed black beard and mustache.  On each of his fingers
+is a signet ring of some captain he has defeated.  He sizes you up and
+says `Obviously you are the caliber of soldier I need.  Will you join
+me and become richer than your wildest dreams?  '
+~
+33604106 0 0 0 67110992 2 0 0 -900 E
+160 149 -60 0d0+0 22d23+106
+5400 2053107
+8 8 1
+BareHandAttack: 7
+Class: 3
+Race: 14
+E
+#14051
+orca~
+an Orca~
+An orca is here, hunting the along the break in the ice.
+~
+The orca is large, black, and white, and is not a nice little fishy
+like Free Willy.
+~
+530504 0 0 0 16777424 0 0 0 -300 E
+57 35 -32 0d0+0 5d6+38
+0 140668
+8 8 1
+BareHandAttack: 9
+Race: 1
+E
+#14052
+roc great northern bird~
+the great Northern Roc~
+A hawklike bird with a 50' wingspan soars here.
+~
+The great northern roc, unlike its brethren, isn't enchanted with an
+unnatural sanctuary spell.  Its plumage matches the landscape, making
+it look like a snow hill when it lands.    
+~
+231512 0 0 0 8390736 163840 0 0 0 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 6
+Race: 3
+E
+#14053
+pack howling wolf~
+a howling Wolf~
+A howling wolf hunts here!
+~
+The wolves dine on seals and caribou normally, but you will 
+do in a pinch.
+~
+530504 0 0 0 0 0 0 0 100 E
+58 36 -36 0d0+0 5d6+38
+0 147047
+8 8 1
+BareHandAttack: 4
+Race: 1
+E
+#14054
+bear cave~
+a towering Cave Bear~
+A mound of pelts is stacked here.
+~
+The cave bear rears up and stands on its hind legs snarling.  It is an
+impressive specimen.  It is here, hibernating.  Maybe you should let
+it sleep.    
+~
+952330 0 0 0 16 0 0 0 -200 E
+49 28 -28 0d0+0 5d5+32
+0 95656
+8 8 1
+BareHandAttack: 6
+Race: 1
+E
+#14066
+pirate~
+the Pirate in fur skins~
+`Yo Ho Ho' cries a pirate in fur skins as he sees you.
+~
+The pirate is well armed and dangerous. 
+~
+612362 0 0 0 33554448 131072 0 0 -400 E
+135 117 -60 0d0+0 16d17+90
+3800 1267849
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 14
+E
+#14067
+guard pirate~
+the lurking Guard~
+A pirate guard lurks in the shadows here.
+~
+The guard is lean, alert, hardened, and itching for a fight.    
+~
+22538 0 0 0 1048592 0 0 0 -800 E
+133 115 -60 0d0+0 16d16+88
+3700 1220501
+8 8 1
+BareHandAttack: 14
+Class: 10
+Race: 14
+E
+#14068
+pirate helmsman man~
+the Helmsman~
+A pirate wise in the ways of the sea studies you.
+~
+The helmsman is the best there is.  He has successfully navigated the
+narrow ice channels around the iceberg innumerable times.    
+~
+33556490 0 0 0 2128 0 0 0 -100 E
+124 104 -60 0d0+0 14d15+82
+3550 1020802
+8 8 1
+BareHandAttack: 13
+Class: 4
+Race: 14
+E
+#14069
+pirate cutter lord~
+Cutter, the 5th Pirate Lord~
+A pirate bearing the cold of winter studies his charts here.
+~
+Cutter looks up from his charts and says, `Ah, at last we meet.  I was
+told by an envoy of One-eye to expect you.  I don't suppose you would
+consider just taking the gold and leaving, since you will probably die
+if you challenge me.  ' When you don't respond, Cutter replies, `very
+well, lets have at it', and he downs a purple potion.    
+~
+34326538 0 0 0 536870992 1 0 0 -900 E
+160 149 -60 0d0+0 22d23+106
+5400 2248640
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 14
+E
+#14070
+prisoner~
+a freezing Captive~
+A prisoner shivers in the cold here.
+~
+A poor man lies here, freezing in the bitter cold nights.
+~
+8388618 0 0 0 16 0 0 0 0 E
+40 21 -20 0d0+0 4d5+26
+1300 57012
+8 8 1
+Race: 14
+E
+$

@@ -1,0 +1,632 @@
+#12000
+warthog hog~
+a Warthog~
+A smelly, nasty, fat warthog grunts here.
+~
+What IS that smell?
+~
+10 0 0 0 0 0 0 0 -500 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 10
+Luck: 12
+Race: 1
+E
+#12001
+black lotus~
+the Black Lotus~
+A black lotus waits here, ready to feast on its next victim.
+~
+A disgusting creature by all accounts, and just as dangerous.
+~
+10 0 0 0 0 0 0 0 -600 E
+2 0 92 1d2+15 1d1+1
+5 27
+8 8 0
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 8
+E
+#12002
+pack razortooth rats~
+a Razortooth Rat~
+A razortooth rat hides in a corner, gnashing its wicked teeth.
+~
+Rather large for a typical rat, it scurries about among the shadows.
+Its beady little eyes dart about alertly and glow with a strange
+light.  They can be dangerous, sporting a set of razorsharp teeth.  
+~
+10 0 0 0 0 0 0 0 -800 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 4
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 21
+Luck: 12
+Race: 1
+E
+#12003
+imp~
+the Imp~
+An imp crouches here, looking ready to fight.
+~
+Short and stocky, this imp looks MEAN.
+~
+10 0 0 0 0 0 0 0 -800 E
+2 0 92 1d2+15 1d1+1
+5 27
+8 8 0
+BareHandAttack: 13
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+Race: 51
+E
+#12004
+hellhound hell hound~
+the Hellhound~
+A hellhound slinks around your legs, sizing you up.
+~
+Sleek and cunning, a worthy adversary.
+~
+10 0 0 0 524368 0 0 0 -500 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 23
+Luck: 12
+Race: 41
+E
+#12005
+giant slug~
+a Giant Slug~
+You see a giant slug here, blocking your way.
+~
+Wow, that thing is nasty.
+~
+6186 0 0 0 0 0 0 0 -600 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 9
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 22
+Luck: 12
+Race: 5
+E
+#12006
+dark dwarf~
+the Dark Dwarf~
+A Dark Dwarf is here, grinning at you.
+~
+He may be a-smilin, but I don't think it's cause he likes you.
+~
+6186 0 0 0 2048 0 0 0 -700 E
+3 0 88 1d3+20 1d1+2
+5 77
+8 8 1
+BareHandAttack: 14
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 9
+Luck: 12
+Race: 13
+E
+#12007
+dire wolf~
+the Dire Wolf~
+A Dire Wolf pads slowly toward you, smiling an awfully mean looking smile.
+~
+Low to the ground, sleek and fast, this animal looks up to the challenge.
+~
+6186 0 0 0 1638400 0 0 0 -800 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Race: 1
+E
+#12008
+creeping mold~
+the Creeping Mold~
+A Creeping Mold slowly inches its way toward you.
+~
+Looks kind of like green jello with raisins.
+~
+6186 0 0 0 0 0 0 0 -400 E
+3 0 88 1d3+20 1d1+2
+0 77
+8 8 0
+BareHandAttack: 16
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 24
+Luck: 12
+E
+#12009
+power leech powerleech~
+the Powerleech~
+A Powerleech is here, ready to get dinner.
+~
+Strong looking bugger.
+~
+6186 0 0 0 0 0 0 0 -300 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 1
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+E
+#12010
+jarmuuran lion~
+a Jamuuran Lion~
+A Jamuuran lion is here, waiting for the chance to kill.
+~
+What a beauty this animal is.
+~
+6186 0 0 0 16 0 0 0 -300 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 2
+BareHandAttack: 8
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 23
+Luck: 12
+Race: 1
+E
+#12011
+jor jor~
+the Jor~
+A Jor is here, squinting from the glare of your light.
+~
+Looks quite a bit like an orc, but meaner.
+~
+6186 0 0 0 272 0 0 0 -750 E
+4 0 84 1d4+30 1d2+2
+5 176
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 10
+Luck: 12
+Race: 32
+E
+#12012
+diurge diurge~
+the Diurge~
+A Diurge is here, banging on his shield, ready for battle.
+~
+This thing has dark gray skin, metallic-red hair, and one hell of an
+ugly face.    
+~
+6186 0 0 0 0 0 0 0 -250 E
+4 0 84 1d4+30 1d2+2
+5 160
+8 8 0
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 15
+Luck: 12
+Race: 7
+E
+#12013
+llanowar behemoth~
+the Llanowar Behemoth~
+Here stands a Llanowar Behemoth, intent on seeing you dead.
+~
+It notices your scrutiny and gives a lunge at you.
+~
+6186 0 0 0 0 0 0 0 -700 E
+5 1 80 1d5+50 1d2+3
+0 283
+8 8 0
+BareHandAttack: 6
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Race: 8
+E
+#12014
+caiveh~
+a Caiveh~
+A short, stocky Caiveh stands here, dagger in hand.
+~
+Small and nimble, this awesome fighting machine awaits its next
+victim.    
+~
+6186 0 0 0 0 0 0 0 -700 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 1
+BareHandAttack: 14
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 16
+Luck: 12
+Race: 18
+E
+#12015
+drake~
+the Drake~
+A Drake is here, looking restless and mean.
+~
+As you begin to scrutinize the Drake, it attacks!
+~
+6186 0 0 0 0 0 0 0 -100 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 7
+Luck: 12
+Race: 2
+E
+#12016
+juggernaut~
+the Juggernaut~
+A Juggernaut idly stands here, looking bored with killing.
+~
+A frenzy of activity, this creature's arms all whirl at once in deft
+killing motions.    
+~
+6186 0 0 0 0 0 0 0 -150 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 1
+BareHandAttack: 6
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 5
+Luck: 12
+E
+#12017
+wyrm wurm~
+a Wyrm~
+A Wyrm rises from its place of rest and attacks.
+~
+Well, you know, it's a wyrm.
+~
+6186 0 0 0 0 0 0 0 -900 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 18
+Luck: 12
+Race: 2
+E
+#12018
+djinni~
+a Djinni~
+A Djinni abides here proudly, confidently.
+~
+This Djinni looks you in the eyes and sneers, having already decided
+you will not prove worthy combat.    
+~
+6186 0 0 0 0 0 0 0 -300 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 51
+E
+#12019
+basilisk~
+a Basilisk~
+A basilisk slinks toward you, trying to catch your eye.
+~
+It looks like a baby dragon, but lethal just the same.
+~
+6314 0 0 0 0 0 0 0 -300 E
+6 1 76 1d6+70 1d2+3
+0 451
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 21
+Luck: 12
+Race: 2
+E
+#12020
+whirling dervish~
+a Whirling Dervish~
+You are confronted by a Whirling Dervish.
+~
+This creature is quick, and you realize that your death may be just as
+quick.    
+~
+6314 0 0 0 65552 0 0 0 -990 E
+6 1 76 1d6+70 1d2+4
+100 451
+8 8 1
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Race: 30
+E
+#12021
+chimera~
+a Chimera~
+A Chimera sits in the center of the room, regarding you calmly.
+~
+A beautiful creature, this chimera can get quite agitated when
+disturbed.    
+~
+6314 0 0 0 16 0 0 0 -990 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 6
+Str: 18
+StrAdd: 90
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 8
+Luck: 12
+Race: 8
+E
+#12022
+cyclops~
+a Cyclops~
+A Cyclops turns slowly upon hearing you and begins to grin evilly.
+~
+This one eyed being looks at you as if you would make a good meal.  
+~
+6314 0 0 0 0 0 0 0 -909 E
+7 1 72 1d7+125 1d2+3
+125 669
+8 8 1
+BareHandAttack: 7
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 10
+E
+#12023
+giant hydra~
+a Giant Hydra~
+A Giant Hydra faces you from across the room.
+~
+This huge creature may prove to be a dangerous adversary.    
+~
+6314 0 0 0 0 0 0 0 -900 E
+7 1 72 1d7+125 1d2+4
+125 669
+8 8 0
+BareHandAttack: 10
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 6
+Luck: 12
+Race: 27
+E
+#12024
+hill giant~
+a Hill Giant~
+An imprisoned Hill Giant attacks immediately upon seeing you.
+~
+This huge creature is not at all happy about being trapped here.
+~
+6314 0 0 0 2128 0 0 0 -500 E
+7 1 72 1d7+125 1d2+3
+125 669
+8 8 1
+BareHandAttack: 9
+Str: 22
+Dex: 12
+Int: 3
+Wis: 13
+Con: 6
+Cha: 19
+Luck: 12
+Race: 10
+E
+#12025
+ghazban ogre~
+a Ghazban Ogre~
+A Ghazban Ogre hunches over his last victim, still pounding the dead corpse.
+~
+Possessing only a desire to destroy, this thing is one mean bastard.
+~
+6314 0 0 0 67108880 0 0 0 -300 E
+8 2 68 1d8+150 1d3+4
+150 988
+8 8 1
+BareHandAttack: 7
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Race: 19
+E
+#12026
+cynamolgus~
+the Cynamolgus~
+A hairy Cynamolgus hops from foot to foot, swinging a massive club.
+~
+Yuck.
+~
+6314 0 0 0 16 0 0 0 -500 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 1
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 22
+Luck: 12
+Race: 8
+E
+#12027
+black troll~
+a Blacktroll~
+A Blacktroll springs out from a dark corner, attacking you from the side!
+~
+Ugly, warty, and mean.
+~
+6314 0 0 0 0 0 0 0 -350 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 5
+Luck: 12
+Race: 7
+E
+#12028
+khordovian knight~
+the Khordovian Knight~
+A Khordovian Knight, imprisoned for treachery, spies you and offers a challenge.
+~
+Gosh, he looks so noble, you almost hate to have to kill him.
+~
+22570 0 0 0 65808 4194304 0 0 -900 E
+8 2 68 1d8+150 1d3+4
+150 1035
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 14
+E
+#12029
+minotaur~
+the Minotaur~
+Here it is - the fabled Minotaur.
+~
+Cloven hooves, barbed tail, horse's head, man - this is the real thing!
+~
+18442 0 0 0 65808 4194304 0 0 -1000 E
+10 3 60 1d10+200 1d4+5
+250 1828
+8 8 0
+BareHandAttack: 9
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 8
+Luck: 12
+Race: 50
+E
+$

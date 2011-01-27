@@ -1,0 +1,335 @@
+#8800
+chimerae guardian~
+a Chimera~
+All three sets of a chimerae's eyes glare straight at you.
+~
+It stands still as a statue, its stance rigid and unmoving.  It has
+the hindquarters of a goat, the forequarters of a strong lion and the
+wings of a black dragon.  It is an enormously impressive specimen.  
+~
+768026 0 0 0 16 131072 0 0 -700 E
+61 38 -40 16d17+2650 5d6+40
+1025 167227
+8 8 1
+BareHandAttack: 4
+Str: 10
+Dex: 6
+Int: 7
+Wis: 18
+Con: 5
+Cha: 20
+Luck: 17
+Class: 4
+Race: 8
+E
+#8801
+gorgimera guardian~
+a Gorgimera~
+A gorgimera turns two of its heads your way as you enter the cave.
+~
+It is a grotesque abomination to nature, a freak of creation that has
+managed to stay alive due to its brute strength and ferocity.    
+~
+776730 0 0 0 67108880 0 0 0 -700 E
+62 39 -40 16d17+2650 5d6+41
+1050 183022
+8 8 1
+BareHandAttack: 8
+Str: 17
+Dex: 21
+Int: 12
+Wis: 6
+Con: 16
+Cha: 25
+Luck: 15
+Class: 8
+Race: 38
+E
+#8802
+dracolich guardian~
+a Dracolich~
+The undead remains of a huge dragon rises as you approach.
+~
+Two tiny pinpoints of light glare from its eyelets, its skeletal frame
+moving jerkily as it moves to block your progress into the cave.    
+~
+247834 0 0 0 16 0 0 0 -900 E
+63 40 -40 16d17+2650 6d6+42
+1075 181566
+8 8 1
+BareHandAttack: 6
+Str: 14
+Dex: 20
+Int: 16
+Wis: 25
+Con: 12
+Cha: 16
+Luck: 5
+Class: 1
+Race: 44
+E
+#8803
+dragon black~
+a Black Dragon~
+/cwA /cLblack dragon/cw moves about in the darkness of the room./c0
+~
+It is hard to make out any details of the creature save for the fact
+that it is an enormous thing, its bulk seeming endless.    
+~
+776250 0 0 0 262232 0 0 0 -1000 E
+80 56 -40 16d17+2650 6d7+53
+1400 367272
+8 8 1
+BareHandAttack: 9
+Str: 16
+Dex: 20
+Int: 13
+Wis: 23
+Con: 12
+Cha: 25
+Luck: 14
+Race: 9
+E
+#8804
+dragon blue~
+a Blue Dragon~
+/cwA /cbblue dragon/cw turns its malevolent eyes upon you./c0
+~
+Its eyes narrow to mere slits as it takes in the fact that someone of
+your stature was not only stupid enough to enter into its lair, but
+also somehow wily enough to get past the guardian.    
+~
+645178 0 0 0 67108944 2 0 0 -900 E
+78 54 -40 16d17+2650 6d7+52
+1350 328659
+8 8 1
+BareHandAttack: 10
+Str: 16
+Dex: 16
+Int: 19
+Wis: 21
+Con: 23
+Cha: 5
+Luck: 13
+Race: 9
+E
+#8805
+dragon red~
+a Red Dragon~
+/cwA /crred dragon/cw tosses back its head and jets a plume of fire into the air./c0
+~
+The dragon appears less than pleased that you have intruded upon its
+domain.    
+~
+67885082 0 0 0 264272 131072 0 0 -800 E
+76 52 -40 16d17+2650 6d7+50
+1300 322242
+8 8 1
+BareHandAttack: 8
+Str: 21
+Dex: 14
+Int: 23
+Wis: 19
+Con: 20
+Luck: 20
+Race: 9
+E
+#8806
+dragon white~
+a White Dragon~
+/cwA /cWwhite dragon/cw turns it icy gaze your way, eyes narrowing./c0
+~
+The gleaming scales of the dragon glow with a bright, cold beauty
+which detracts from its powerful evil.  Do not be distracted by the
+beauty and wealth of this creature.  It will kill you.    
+~
+645178 0 0 0 134217808 0 0 0 -800 E
+74 50 -40 16d17+2650 6d6+49
+1250 287373
+8 8 1
+BareHandAttack: 7
+Str: 10
+Dex: 17
+Int: 24
+Wis: 8
+Con: 20
+Cha: 18
+Luck: 24
+Race: 9
+E
+#8807
+dragon green~
+a Green Dragon~
+/cwA /cGgreen dragon/cw mucks about in its own excrement, not even aware of you.
+~
+The dragon appears perfectly content to rot and wither, laying in a
+pile of its own refuse.  It is old and no longer has the desire to
+fight and rampage.  It must soon find a successor.    
+~
+33572874 0 0 0 80 0 0 0 -500 E
+75 51 -40 16d17+2650 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 4
+Str: 9
+Dex: 13
+Int: 15
+Wis: 10
+Cha: 6
+Luck: 10
+Race: 9
+E
+#8808
+dragon topaz~
+a Topaz Dragon~
+/cwA /cctopaz dragon/cw storms in a rage at you, screeching its anger./c0
+~
+So much for a little PR work, here.
+~
+776202 0 0 0 33554512 131072 0 0 -200 E
+70 47 -40 16d17+2650 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 25
+Int: 5
+Wis: 23
+Con: 8
+Cha: 8
+Luck: 24
+Race: 9
+E
+#8809
+dragon crystal~
+a Crystal Dragon~
+/cwA /cCcrystal dragon/cw appears pleased that you have come to call./c0
+~
+Come to call?!  This is the den of a dragon!  And yet this beast seems
+extremely pleased that you are here, indeed looks ready to engage in
+conversation.    
+~
+579610 0 0 0 167837776 4194304 0 0 800 E
+68 45 -40 16d17+2650 6d6+45
+1200 231634
+8 8 1
+BareHandAttack: 8
+Str: 14
+Dex: 9
+Int: 6
+Wis: 16
+Con: 8
+Cha: 18
+Luck: 10
+Race: 9
+E
+#8810
+dragon emerald~
+an Emerald Dragon~
+/cwAn /cgemerald dragon/cw instantly assumes a defensive posture as you enter./c0
+~
+It does not attack, however it looks more than ready for a fight.
+~
+776218 0 0 0 2128 131072 0 0 100 E
+65 42 -40 16d17+2650 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 8
+Str: 8
+Dex: 8
+Int: 19
+Wis: 24
+Con: 17
+Cha: 21
+Luck: 21
+Race: 9
+E
+#8811
+dragon faerie~
+a Faerie Dragon~
+A strange, small lizard with wings and a big grin flies at you.
+~
+With its full of mischief, it opens its mouth to reveal a set of long,
+spiked teeth and a forked tonuge.    
+~
+92264 0 0 0 8388692 0 0 0 -400 E
+54 32 -32 16d17+2650 5d6+36
+850 122552
+8 8 1
+BareHandAttack: 4
+Str: 10
+Dex: 6
+Int: 5
+Wis: 9
+Con: 21
+Cha: 17
+Luck: 5
+Class: 1
+Race: 9
+E
+#8812
+fire drake~
+a Fire Drake~
+What looks to be a young red dragon flies straight for you, jetting flame.
+~
+It is much too small to be a dragon of any sort, however its speed and
+fire breath seems more than sufficient to give it some credibility as
+a dangerous foe.    
+~
+67356744 0 0 0 42270800 0 0 0 -600 E
+55 33 -32 16d17+2650 5d6+36
+875 141264
+8 8 1
+BareHandAttack: 12
+Str: 14
+Dex: 18
+Int: 22
+Wis: 19
+Con: 24
+Cha: 14
+Luck: 10
+Race: 9
+E
+#8813
+gryphon guardian~
+a Gryphon~
+A gryphon stands proudly before the entrance into the cave.
+~
+It blocks entry with a firm look and a level stare.
+~
+784394 0 0 0 268435536 0 0 0 200 E
+63 40 -40 16d17+2650 6d6+42
+1075 181566
+8 8 1
+BareHandAttack: 10
+Str: 6
+Dex: 23
+Int: 15
+Wis: 16
+Con: 25
+Cha: 17
+Luck: 17
+Class: 4
+Race: 8
+E
+#8814
+wyvern~
+a Wyvern~
+A long, leathery brown serpent flies at you with its teeth bared.
+~
+It speeds directly for you, intent on a strong, aggressive attack.
+Run?
+~
+778344 0 0 0 8388688 0 0 0 -800 E
+57 35 -32 16d17+2650 5d6+38
+925 140668
+8 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 13
+Wis: 16
+Con: 15
+Luck: 24
+Race: 2
+E
+$

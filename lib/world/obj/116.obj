@@ -1,0 +1,567 @@
+#11600
+key iron large~
+a large iron key~
+A large key has been dropped here.~
+Nothing.
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key iron large~
+   This key is made of iron and is very large.    
+~
+#11601
+key ring~
+a key~
+A key on a large ring has been left here.~
+Nothing.
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key ring~
+   A small skeleton key has been attached to an iron ring.    
+~
+#11602
+humming key~
+a humming key~
+A humming key lies here.~
+Nothing.
+~
+18 65550 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+humming key~
+   The key is very small and hums.    
+~
+#11603
+sword guard~
+a guardsman's sword~
+A sword has been discarded here.~
+Nothing.
+~
+5 548864 6 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 30986 0 83 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword guard~
+   The sword is well crafted.  It is 2 feet long with a blood groove
+down the middle.  The hilt is bound with leather.    
+~
+A
+19 4
+A
+18 2
+A
+4 -2
+A
+1 -1
+A
+2 1
+#11604
+bracers arm guard~
+a set of bracers~
+A pair of bracers have been left here.~
+Nothing.
+~
+9 1052672 0 0 0 257 0 0 0
+7 0 0 0 8 0 0 0
+8 32253 0 82 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bracers arm guard~
+   The bracers are made of hard smooth leather.  There are nicks in
+the leather in various places.    
+~
+A
+19 3
+A
+12 -12
+A
+18 3
+A
+27 -20
+#11605
+stone floating ioun~
+an incandescent /cBblue stone/c0~
+A small glowing stone lies here.~
+Nothing.
+~
+11 1312257 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+2 26560 0 83 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stone ioun floating~
+   The stone is glowing blue and gives off a faint humming noise.    
+~
+A
+1 2
+A
+19 2
+A
+18 4
+A
+13 -20
+A
+12 -20
+#11606
+shiny helm guardsman~
+/cwa shiny /c0guardsman's helm/c0~
+A well maintained helm has been placed here.~
+Nothing.
+~
+9 131072 0 0 0 17 0 0 0
+8 0 0 0 0 0 0 0
+8 32400 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shinny helm guardsman~
+   This helm is made of iron, but has been polished to a very high
+shine.    
+~
+A
+14 -20
+A
+18 4
+A
+19 4
+A
+2 2
+#11607
+gold plated armour breastplate~
+a /cYgold/c0 plated breastplate~
+A very expensive set of armour has been lost here.~
+Nothing.
+~
+9 552960 0 0 0 9 0 0 0
+14 0 0 0 0 0 0 0
+12 31679 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gold plated armour breastplate~
+   A well made breastplate has been gilded over with gold plating.  
+~
+A
+1 -1
+A
+18 4
+A
+19 4
+A
+2 -1
+#11608
+earring small hoop~
+a small /cYhooped earring/c0~
+A small earring lies here.~
+Nothing.
+~
+11 0 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+1 20533 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+earring small hoop~
+   A very expensive and delicate earring, the gold has been beaten
+into a small round hoop.    
+~
+A
+17 -5
+A
+13 -20
+A
+19 3
+A
+24 4
+A
+18 2
+#11609
+fine long sabre sword~
+a very fine long /cCsabre/c0~
+A long thin sword has been dropped here.~
+Nothing.
+~
+5 8194 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 39000 0 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fine long sabre sword~
+   The workmanship on this sabre must have come from a master
+blacksmith.  Along the back edge, etching is scrolled up the blade.  
+~
+A
+1 -1
+A
+2 2
+A
+4 -2
+A
+18 4
+A
+19 3
+A
+17 4
+#11610
+simple robe~
+a simple /cwcloth robe/c0 with a strange emblem~
+A robe lies in a heap here.~
+Nothing.
+~
+11 443392 0 0 0 1025 0 0 0
+0 0 0 0 8192 0 0 0
+8 29919 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+simple robe~
+   The robe is very crudely woven with a strange emblem embroidered
+upon it.    
+~
+A
+3 1
+A
+12 25
+A
+22 5
+A
+26 4
+A
+14 -25
+#11611
+staff wooden~
+a /cywhittled staff/c0~
+A wooden staff has been forgotten here.~
+Nothing.
+~
+5 1364992 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+9 41180 0 87 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 2
+A
+26 3
+A
+17 5
+A
+13 -15
+#11612
+bone necklace~
+a /cwbone /cLnecklace/c0~
+A pile of bones have been discarded here.~
+Nothing.
+~
+11 1761792 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 17000 0 85 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bone necklace~
+   This necklace has been constructed from what appears to be mostly
+human bones.    
+~
+A
+6 -2
+A
+12 20
+A
+3 2
+#11613
+sceptre skull stick~
+a /cysceptre/c0 with a human /cwskull/c0~
+A short stick with a skull has been left here.~
+Nothing.
+~
+1 1049088 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+6 200 0 86 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sceptre skull stick~
+   This wooden sceptre has been polished from use.  A human skull has
+been attached to the to and the eye sockets glow with and unholy
+light.    
+~
+A
+14 30
+A
+2 1
+A
+1 1
+A
+24 -2
+A
+6 -2
+#11614
+demon claws~
+a set of /cRclaws/c0~
+A strange set of claws has been lost here.~
+Nothing.
+~
+5 1581568 0 0 0 8193 0 0 0
+0 0 0 8 0 0 0 0
+15 30800 0 84 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+demon claws~
+   The claws are razor sharp and black as midnight.  The ends of the
+claws come to a long sharp point.    
+~
+A
+1 1
+A
+6 -2
+A
+19 3
+A
+18 4
+A
+2 -2
+#11615
+scaly leg plates~
+some /ccscaly leg plates/c0~
+A pile of scales have been stacked here.~
+Nothing.
+~
+9 1049088 0 0 0 33 0 0 0
+6 0 0 0 0 0 0 0
+10 22960 0 84 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scaly leg plates~
+   The leg plates are made from some strange skin or skins.  The cured
+hides are formed into legging armor.    
+~
+A
+4 -2
+A
+2 1
+A
+19 4
+#11616
+green emerald ring thumb~
+a /cGgreen emerald/c0 ring~
+A small jeweled ring has been lost here.~
+Nothing.
+~
+9 65 0 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+3 19679 0 82 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+green emerald ring thumb~
+   A well crafted ring, the emerald shines a very bright green.    
+~
+A
+12 25
+A
+19 3
+A
+18 2
+A
+26 -3
+#11617
+leg brace~
+a leg brace~
+A leg brace lies here.~
+Nothing.
+~
+11 192 0 0 0 33 0 0 0
+0 0 0 0 0 0 0 0
+55 180 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+leg brace~
+   Magic has been used to make this leg brace more functional than
+usual.    
+~
+A
+2 -1
+A
+14 -30
+#11618
+glasses reading~
+a pair of reading glasses~
+A pair of glasses have been dropped here.~
+Nothing.
+~
+11 1312256 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+1 16800 0 70 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+glasses reading~
+   The glasses are well made.  They have wire rims and the lens have
+been ground from expensive glass.    
+~
+A
+4 2
+A
+3 1
+A
+5 -1
+A
+12 -30
+#11619
+orb black float~
+a /cLblack orb/c0~
+A humming orb lies here.~
+Nothing.
+~
+11 278528 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+2 5333 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+black orb~
+   A highly polished orb of black obsidian.    
+~
+A
+5 1
+A
+17 -5
+A
+18 2
+A
+13 -20
+#11620
+wreath thorns~
+a wreath of /cgthorns/c0~
+A branch of a thron bush has been discarded here.~
+Nothing.
+~
+9 1573376 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+6 24266 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wreath thorns~
+   The wreath is tightly woven from several kinds of thorn bushes.  
+The flowers still blossom upon it.    
+~
+A
+1 -2
+A
+19 3
+A
+18 2
+A
+26 1
+#11621
+wand power~
+a /cWglowing /crwand of /cBpower/c0~
+A glowing stick has been set here.~
+Nothing.
+~
+5 1490945 0 0 0 8193 0 0 0
+0 0 0 12 0 0 0 0
+4 37613 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wand power~
+   The wand is made of some strange material that is very light and
+smooth.  The wand glows with a strange light.    
+~
+A
+18 2
+A
+19 2
+A
+26 5
+A
+21 5
+A
+1 -2
+#11622
+glowing idol figurine~
+a /cWglowing /cLidol/c0~
+An tiny figurine has been lost here.~
+Nothing.
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0 0 2097152 0 0
+2 31546 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 4
+A
+14 -20
+A
+12 -20
+A
+13 -30
+A
+26 -3
+#11623
+cape red long~
+a long /crred cape/c0~
+Some red clothing lies in a pile here.~
+Nothing.
+~
+9 1310816 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+6 32153 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cape red long~
+   An excellently woven long cape with a strange emblem upon it.    
+~
+A
+19 5
+A
+26 4
+A
+13 -20
+A
+12 -20
+#11624
+doublet shirt~
+a /cGgreen doublet/c0~
+A well made shirt lies here.~
+Nothing.
+~
+11 2023424 0 0 0 9 0 0 0
+0 0 0 0 16 0 0 0
+3 26133 0 80 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+doublet shirt~
+   The doublet has a strange emblem upon it.  It is well made and very
+expensive.    
+~
+A
+26 3
+A
+12 20
+A
+6 1
+#11625
+tailored pants~
+a pair of well made pants~
+A pair of tailored pants have been forgotten here.~
+Nothing.
+~
+11 69197824 0 0 0 33 0 0 0
+0 0 0 0 64 0 0 0
+4 25066 0 80 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tailored pants~
+The pants are well made with gold thread throughout the material.
+~
+A
+26 2
+A
+6 1
+$~

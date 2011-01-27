@@ -1,0 +1,521 @@
+#7100
+Farlenian~
+Farlenian~
+Farlenian the Soldier stands and watches quietly here.
+~
+Farlenian is a dark-haired, blue-eyed man with an extremely grave
+expression drawn upon his face.  He wears a bright blue set of
+overalls, with some protective layers of leather overtop and a white
+cloak to round it out.  His crossbow looks well-used and cared for.  
+You think he knows how to use it.    
+~
+10 0 0 0 0 0 0 0 400 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 16
+Luck: 12
+Class: 4
+Race: 14
+E
+#7101
+Koofy gerbil~
+Koofy the Gerbil~
+A small gerbil is eating some peanuts on a table here.
+~
+It's a small, well-groomed and well-cared for brown gerbil.  Its
+sniffing around some peanuts quietly, and then promptly shoves the lot
+of them in its mouth!    
+~
+138 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+6 6 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 1
+E
+#7102
+Alerka~
+Alerka~
+Alerka Bardbane is resting here.
+~
+Alerka sneers at you rudely, and ignores you.  He looks rather
+non-descript and plain, just an ordinary man taking a break.  His
+knives do not look ordinary at all, however.    
+~
+10 0 0 0 0 0 0 0 -1000 E
+10 3 60 1d10+200 1d2+6
+15 1662
+5 5 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 16
+Luck: 12
+Race: 14
+E
+#7103
+Drogo~
+Drogo~
+Drogo the Dwarf is polishing his axe here.
+~
+Drogo Bloodstain, dwarf at large.  He polishes his battle axe with a
+fervor, more than once licking the blade to put a shine on it.  He
+seems to be having fun...  To each his own.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+6 6 1
+BareHandAttack: 6
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 6
+Luck: 12
+Class: 4
+Race: 13
+E
+#7104
+Desslok elf dark~
+Desslok~
+A dark elf stands against the wall, watching.
+~
+You feel his eyes bore through you for a moment, and then whisk away.
+He stands motionless, quietly...  Awaiting a proper moment perhaps?  
+~
+10 0 0 0 16 0 0 0 0 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+BareHandAttack: 11
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Race: 16
+E
+#7105
+dog~
+a Dog~
+A dog sits here, protecting his master.
+~
+The dog growls at you as you approach, and his hackles raise
+menacingly.  You carefully stand back and consider your next move.  
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+3
+0 283
+6 6 1
+BareHandAttack: 4
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 18
+Luck: 12
+Race: 1
+E
+#7106
+Airden~
+Airden the Wanderer~
+Airden the Wanderer is taking a break from wandering here.
+~
+Airden is a tall, skinny human, dressed in simple clothes.  He smiles
+at you and nods hello.  The dust on his clothes tells tales of many
+strange lands and stranger adventures, and for a moment you consider
+asking him to tell you a story.    
+~
+72 0 0 0 0 0 0 0 750 E
+9 2 64 1d9+175 1d2+6
+15 1270
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 17
+Luck: 12
+Race: 14
+E
+#7107
+Seemie kid~
+Seemie~
+A young kid stands out of the way here.
+~
+On a second look, this twelve-year old kid seems completely drunk!  
+Hey!  Who gave the kid a drink?    
+~
+10 0 0 0 0 0 0 0 250 E
+7 1 72 1d7+125 1d2+4
+10 669
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 21
+Luck: 12
+Class: 12
+Race: 14
+E
+#7108
+Eshiay woman~
+Eshiay~
+A young woman sits here, a confused expression upon her face.
+~
+Eshiay seems somewhat pretty, but very confused.  She moves a little
+awkwardly, as if her body doesn't fit her very well.  She smiles at
+you uncertainly, and then ignores you.    
+~
+10 0 0 0 0 0 0 0 900 E
+8 2 68 1d8+150 1d2+5
+10 941
+6 6 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 22
+Luck: 12
+Race: 14
+E
+#7109
+Jordo~
+Jordo~
+Jordo the Engineer is just hanging out here.
+~
+Jordo's eyes glint viciously as he looks across the room.  From the
+way his hands tighten on his weapon, you can tell that he isn't quite
+as at ease as he would like you to believe.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 16
+Luck: 12
+Race: 14
+E
+#7110
+horse~
+a Horse~
+A horse stands in its stall here, munching on some grain.
+~
+It's a fairly plain, nondescript horse.  Brown hair, brown eyes, quiet
+and pretty well-mannered.    
+~
+262282 0 0 0 0 0 0 0 0 E
+6 1 76 1d6+70 1d2+4
+0 451
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 5
+Luck: 12
+Race: 52
+E
+#7111
+waiter~
+a Waiter~
+A waiter rushes by, intent on his business.
+~
+He looks harried from the way he hastily takes orders and rushes in
+the back to get food, and to the bar for drinks.  He doesn't even
+spare you a glance as he passes by.    
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 21
+Luck: 12
+Class: 12
+Race: 14
+E
+#7112
+waitress~
+a Waitress~
+A waitress rushes by, intent on her business.
+~
+She looks harried from the way she hastily takes orders and rushes in
+the back to get food, and to the bar for drinks.  She doesn't even
+spare you a glance as she passes by.    
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Class: 12
+Race: 14
+E
+#7113
+farmer~
+a Farmer~
+A tired farmer relaxes here, for awhile.
+~
+The dust and dirt of the land cover this man head to toe.  His eyes
+look weary, his hands calloused, and those big workboots he's wearing
+just can't be comfortable.  This man is one of the citizenry elite; he
+feeds the people through his own hard work.  Maybe you should buy him
+a beer.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 1d7+125 1d2+4
+10 669
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 20
+Luck: 12
+Race: 14
+E
+#7114
+Werith~
+Werith~
+Werith tends bar here, listening but not talking very much.
+~
+From the size of those arms, this man must've once been a blacksmith.
+You bet he can more than take on anyone who wants to knock over his
+wayhouse for a little cash...  This man is truly immense.  His
+movements sure, his eyes keen...  You don't think messing with him
+would be a good idea.    
+~
+10 0 0 0 0 0 0 0 750 E
+26 11 -4 1d26+2050 2d3+17
+200 19006
+8 8 1
+BareHandAttack: 12
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 18
+Luck: 12
+Class: 4
+Race: 14
+E
+#7115
+bartender~
+a Bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.  As you
+decide, he mixes a Franjie Deluxe for the guy down the ways a bit, his
+hands quickly and surely spinning the lemon over the sides of the
+glass.    
+~
+10 0 0 0 0 0 0 0 200 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+Race: 14
+E
+#7116
+chef~
+a Chef~
+A chef struggles to get the food out quickly.
+~
+With one hand he fries, with the other he flips the meat over, and
+with the other hand he sprinkles some salt into the other hand which
+is holding...  Hey!  Isn't that too many hands?  This guy is good.  
+~
+10 0 0 0 0 0 0 0 350 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 25
+Luck: 12
+Race: 14
+E
+#7117
+adventurer~
+an Adventurer~
+An adventurer babbles about some monster she killed.
+~
+Her tales are pretty much full of it, and her equipment sucks.  
+Cannon fodder.    
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 17
+Luck: 12
+Race: 14
+E
+#7118
+adventurer~
+an Adventurer~
+An adventurer babbles about some monster he killed.
+~
+His tales are pretty much full of it, and his equipment sucks.  
+Cannon fodder.    
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 9
+Luck: 12
+Race: 14
+E
+#7119
+Marketeer Black woman black-marketeer~
+the Woman~
+A young woman watches the crowd go by.
+~
+She seems rather secretive.  You wonder what she's hiding.    
+~
+10 0 0 0 0 0 0 0 -500 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 14
+Luck: 12
+Race: 14
+E
+#7120
+bartender~
+a Bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.  As you
+decide, he mixes a Franjie Deluxe for the guy down the ways a bit, his
+hands quickly and surely spinning the lemon over the sides of the
+glass.    
+~
+10 0 0 0 0 0 0 0 200 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 20
+Luck: 12
+Race: 14
+E
+#7121
+bartender~
+a Bartender~
+A bartender pours a drink while advising his patrons.
+~
+He nods, smiles, and asks you what you would like to drink.  As you
+decide, he mixes a Franjie Deluxe for the guy down the ways a bit, his
+hands quickly and surely spinning the lemon over the sides of the
+glass.    
+~
+10 0 0 0 0 0 0 0 200 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 14
+Luck: 12
+Race: 14
+E
+#7122
+innkeeper~
+the Innkeeper~
+The Innkeeper stands here, showing people to their rooms.
+~
+The Innkeeper is a plainly-dressed man in his mid-forties.  Nothing
+else is remarkable about this man.    
+~
+11 0 0 0 2128 2 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 17
+Dex: 12
+Int: 17
+Wis: 24
+Con: 15
+Cha: 15
+Luck: 23
+Class: 11
+Race: 14
+E
+$

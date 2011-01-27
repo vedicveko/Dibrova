@@ -1,0 +1,498 @@
+#9300
+key waiting chamber villspah~
+/cwthe key to Villspah's Waiting Chamber/c0~
+/cwA long, white key lies upon the ground./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9301
+key chamber state villspah~
+/cwthe key to the Chambers of State/c0~
+/cwA wide, yellowish key has been left here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9302
+key feasting chamber~
+/cwthe key to the Feasting Chamber/c0~
+/cwA small, round key has been dropped here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9303
+key guard hall villspah~
+/cwthe key to the south hall/c0~
+/cwA small key has been left here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9304
+holding area key villspah~
+/cwthe key to the holding area/c0~
+/cwA bronzed key lies upon the ground./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9305
+cell key villspah~
+/cwthe cell keys/c0~
+/cwA set of keys lie upon the ground, affixed together with a ring of steel./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9306
+key baron penthouse~
+/cwthe key to the Baron's Penthouse/c0~
+/cwA small key has been dropped here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9307
+sigil villspah necklace pendant~
+/cwthe /cmSigil/cw of /cmVillspah/c0~
+/cwA small, /cmmagenta pendant necklace /cwhas been dropped here./c0~
+~
+11 2 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+13 160 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 -5
+A
+18 -5
+A
+13 -50
+A
+1 -2
+A
+26 10
+#9308
+battlestaff staff villspah~
+/cwa guardsman's /cmbattlestaff/c0~
+/cwA long length of barbed wood has been left on the ground./c0~
+~
+5 1335360 0 0 0 8193 0 0 0
+0 0 0 12 0 0 0 0
+8 41253 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+26 5
+A
+12 25
+A
+13 -10
+#9309
+staff metal shod villspah~
+/cwa /ccmetal-shod/cw staff/c0~
+/cwA /ccmetal-shod/cw staff lies on the ground./c0~
+~
+5 1884224 0 0 0 24577 0 0 0
+0 0 0 15 0 0 0 0
+9 29000 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+A
+19 3
+A
+12 30
+A
+1 -2
+#9310
+dagger mage's villspah~
+/cwa /cmmage's /cwdagger/c0~
+/cwA small but potent dagger lies on the ground./c0~
+~
+5 2023488 11 0 0 24577 0 0 0
+0 0 0 11 0 0 0 0
+6 61272 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+18 3
+A
+19 2
+A
+12 25
+A
+1 -2
+A
+2 -1
+C
+80 8
+#9311
+eyepiece jewelers~
+/cwa /ccjeweler's/cw eyepiece/c0~
+/cwA small eyepiece has been dropped here./c0~
+An illuminating glow radiates from the eyepiece!
+~
+3 0 0 0 0 147457 0 0 0
+50 10 10 96 0 0 0 0
+2 200 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+#9312
+map overview barons~
+/cwan overview of the Baron's area/c0~
+/cwA map of the Baron's holdings lies upon the ground./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 21 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+map~
+
+
+			LANDESTINE'S
+			  CASTLE
+			     |
+	    ARGINE	     |
+     BARON     |	     |
+     HELSING   |	     |------------VILLSPAH
+	\_     |	     |
+KAILAANI  \    |	     |
+    <------`---|-------------|
+FOREST     |	       THE   |
+	   |	       KING'S|				       LAND'S
+ 	  /	       CASTLE|-------------------------------- END
+	 /		     |		    |		       KEEP
+	|		     |		    |		       
+       /		    / \		    |
+      /			   /   \	    |_____BARON
+  DARWIN'S		  /	\	          WESTLAWN
+   KEEP			 /	 |
+	              __/	  \
+	             /		   \
+	    GILLESPIE		    \
+				     \_____CAILVEH'S
+					   TOWER
+
+~
+#9313
+map jareth~
+/cwa map of Jareth/c0~
+/cwA map of Jareth has been left here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 64 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+map~
+/cc		    ----- /\ ----, ,---- ----- |   |
+            	      |  /__\| --' |__     |   |___|
+  		      | |    |  \  |	   |   |   |
+		   \__/ /    |\  \ |____   |   |   |
+
+
+	     /cmConstables
+		/cg|-----------------------------------
+		/cg|/cwPOST	HOSPITAL  LIBRARY TRAINING  /cg|/cC     TO
+		/cg|			            |   /cCLORD'S
+		/cg|/cwBAR    CASINO    BAIT    CLOTHIER  /cg|    /cCKEEP
+                /cg|----------------------------------- 
+	        /cg|                                          ^
+	        /cg|        /cB(ALQUANDON RIVER)                /cg/ \
+		/cg|					   |
+		/cg|/cw BOATS    WATERMAN/cg|/cwGENERAL STORE/cg          |
+                /cg|		   |	                   |
+                /cg|/cw BOOTS       ARMOR/cg|/cwWEAPONS  BANK  /cmCOPS/cg	   | /cwSTABLES/cy
+WEST/cg----------/cySQUARE/cg--------------/cyCITY/cg----------------------------/cyEAST
+/cyGATE    /cwSCROLLS /cg| /cwPOTIONS    BAR /cyPROPER/cw BAR    FOOD /cg|    /cwDRUID    /cyGATE
+                /cg|         	   |		    |
+       /cwSORCEROR /cg|/cw JEWELER      BAR/cg |          /cwSMITH /cg|/cw PETS
+		/cg|		   | /cwBAR	    /cg|
+	     /cmConstables	      /cg  ---      /cwBLOOD BANK /cg| /cwDK GUILD
+			     /cg  |                    /cg|
+                               /cg|		 /cw TEMPLE &
+				/cg--/cwTHIEF            CLERIC
+				  GUILD		    GUILD/c0
+~
+#9314
+boots green leather cuffed~
+/cwa set of cuffed /cggreen leather/cw boots/c0~
+/cwA set of cuffed /cggreen leather/cw boots have been left here./c0~
+~
+9 1982464 0 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+8 38219 0 117 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+17 3
+A
+19 2
+A
+28 20
+A
+18 -2
+#9315
+cape brilliant green~
+/cwa /cGbrilliant green/cw cape/c0~
+/cwA /cGbrilliant green/cw cape lies upon the ground./c0~
+~
+11 1884160 0 0 0 1025 0 0 0
+0 0 0 0 0 16384 0 0
+6 33919 0 106 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+A
+18 2
+A
+19 -2
+#9316
+rainment clergyman man~
+/cwa /ccclergyman's /cwrainment/c0~
+/cwA /ccclergyman's /cwrainment has been dropped here./c0~
+~
+11 2019328 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+6 22893 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+12 20
+A
+13 20
+A
+5 -2
+#9317
+waist case~
+/cwa waist case/c0~
+/cwAn enormouse case lies upon the ground./c0~
+~
+15 0 0 0 0 2049 0 0 0
+500 15 9318 0 65536 0 0 0
+10000 1542 0 64 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+10 -50
+A
+19 3
+A
+1 3
+#9318
+case key~
+the key to a case~
+A key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9319
+key brown-green key~
+/cwa /cybrown/cw-/cggreen/cw key/c0~
+/cwA /cybrown/cw-/cggreen/cw key has been dropped here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9320
+rug~
+a rug~
+A rug lies upon the floor.~
+~
+15 16777216 0 0 0 16385 0 0 0
+50 0 -1 0 0 0 0 0
+20 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rug~
+Nudging the rug aside a bit with your foot, you see a small section of
+the floor that is cut out with hinges on one of its sides.    
+~
+#9321
+flooring~
+the flooring~
+A small hinged piece of flooring lies in the floor.~
+~
+15 16777216 0 0 0 0 0 0 0
+100 5 -1 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+floor~
+It looks like you easily open the flooring with the tip of a dagger or
+something similar.    
+~
+#9322
+crown baron realm~
+/cwthe /cbCrown/cw to the /cbRealm/cw of the /cbBarons/c0~
+An ornate crown lies upon the ground.~
+~
+11 1 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+11 13000 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 2
+A
+4 1
+#9323
+gilded green dagger~
+/cwa /cGgilded green /cwdagger/c0~
+/cwA fine dagger has been left here./c0~
+~
+5 1892352 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+11 48720 0 126 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 6
+A
+19 4
+A
+12 25
+A
+2 -2
+A
+18 -3
+#9324
+thumb ring emerald green~
+/cwan/cG emerald green/cw thumb ring/c0~
+/cwA beautiful /cGemerald thumb ring /cwhas been left here./c0~
+~
+11 1884160 0 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+6 25666 0 110 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+A
+26 5
+A
+19 2
+A
+18 -2
+A
+13 -20
+A
+1 -1
+#9325
+pair green tights~
+/cwa pair of /cggreen /cwtights/c0~
+/cwA pair of /cggreen /cwtights lie upon the ground./c0~
+~
+9 1359872 0 0 0 33 0 0 0
+3 0 0 0 0 0 0 0
+7 28860 0 111 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+18 3
+A
+19 -2
+A
+13 10
+A
+14 10
+A
+1 -2
+#9326
+earring fine jade~
+/cwa /cgfine earring /cwof /cgjade/c0~
+/cwA /cgfine earring /cwof /cgjade/cw has been left here./c0~
+~
+11 1499136 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+3 26260 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+A
+13 20
+A
+19 5
+A
+18 -3
+A
+2 -1
+#9327
+patch sigil~
+/cwthe /cGSigil Patch/cw of Baron Villspah/c0~
+/cwA small green arm patch lies upon the ground./c0~
+~
+11 16384 0 0 0 257 0 0 0
+0 0 0 0 0 0 0 0
+3 32533 0 122 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+19 5
+A
+26 -3
+A
+27 30
+A
+12 -30
+A
+28 30
+#9328
+bridge_pass bridge pass~
+/cwa /cGBridge Pass/c0~
+/cwA /cGBridge Pass/cw has been left here./c0~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 91 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9329
+window stained glass~
+/cwa /cbs/cmt/cba/cyi/crn/cbe/cmd /cbg/cml/cba/cys/crs/cw window/c0~
+/cwA /cbs/cmt/cba/cyi/crn/cbe/cmd /cbg/cml/cba/cys/crs/cw window is set into the west wall./c0~
+~
+24 0 0 0 0 0 0 0 0
+9309 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+window~
+As you look closer at the window, you realize that its not a window at
+all, but a haze of colors shimmering in a portal.    
+~
+E
+glass~
+As you look closer at the window, you realize that its not a window at
+all, but a haze of colors shimmering in a portal.    
+~
+E
+stained~
+As you look closer at the window, you realize that its not a window at
+all, but a haze of colors shimmering in a portal.    
+~
+#9399
+deed baron villspah~
+the deed to the Villspah Barony~
+The deed to the Villspah Barony has been dropped here.~
+~
+28 0 0 0 0 16385 0 0 0
+93 0 0 0 0 0 0 0
+5 10000000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

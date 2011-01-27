@@ -1,0 +1,478 @@
+#1100
+candlestick~
+a /cycandlestick/c0~
+A pewter candlestick is standing here.~
+Nothing.
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0 0 0 0 0
+5 150 15 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white colour.
+~
+#1101
+cross~
+/cwa silver cross/c0~
+/cwA beautiful cross made of silver /c0has been left here.~
+Perhaps to wear this around your neck would be a sign of Faith in your God.
+~
+11 279808 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+5 5200 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+silver cross~
+It is made of pure silver but is actually quite plain.
+~
+A
+17 -4
+#1103
+tombstone headstone~
+a /cLtombstone/c0~
+An ancient tombstone sits at the head of this cemetery plot.~
+Nothing.
+~
+15 1 0 0 0 0 0 0 0
+500 0 -1 0 0 0 0 0
+500 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tombstone headstone~
+There is some writing on the tombstone.  Type "look grave" or "look stone" to
+read it.
+~
+#1104
+ball string~
+/cwa ball of string/c0~
+There is a ball of string rolling on the floor.~
+Nothing.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 188 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ball string~
+You never know when a ball of string will come in handy!
+~
+#1105
+knife pocket~
+a small /cgpocket knife/c0~
+/cwA small pocket knife lies in the dust./c0~
+Nothing.
+~
+5 532480 9 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pocket knife~
+The handle is well worn, and the blade has a small nick in it.
+~
+#1106
+thigh bone~
+/cwa large thigh bone/c0~
+A disgusting thigh bone is lying in the corner.~
+It is old and pitted - and smells pretty bad too.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+15 333 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+thigh bone~
+Chunks of flesh still hang from it and blood drips down its sides.
+~
+#1107
+pile corpses~
+a pile of /cLdecaying /crcorpses/c0~
+There is a large pile of decaying corpses here.~
+Ohhhh the SMELLLLL!
+~
+15 0 0 0 0 0 0 0 0
+500 5 -1 0 0 0 0 0
+500 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pile corpses~
+The pile of refuse is utterly disgusting.  None of the corpses are complete --
+it's more a pile of limbs, heads and other body parts.  Mixed in with it all
+is bits and pieces of assorted arms and armor, none of which look useful.
+~
+#1108
+shovel~
+a /cyburial shovel/c0~
+A very well built shovel rests against the wall.~
+Looks like it could really dig some good holes...    
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+25 333 2500 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shovel~
+This is the nicest shovel you have ever seen.  The shaft is made of smooth
+oak and the blade is of shining silver.
+~
+#1109
+cloak shadow~
+a /clshadow /cLcloak/c0~
+/cLA cloak as black as the very night /c0lies on the ground.~
+It is a very handsome looking cloak, you would cut a striking picture in it.
+~
+9 64 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+5 2960 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shadow cloak~
+It is pure black in colour -- as pure black as the heart that wears it.
+~
+#1110
+wrap~
+a /cLburial wrap/c0~
+/cwA dirty burial wrap is lying here./c0~
+It is made from old dicarded clothing from people who had the plague.
+~
+9 0 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 2712 800 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wrap~
+It looks ancient, but surprisingly enough it is not brittle.  It is made of 
+fine gauze.
+~
+A
+2 1
+#1111
+sarcophagus~
+an ancient /cbSarcophagus/c0~
+An ancient sarcophagus lies in the center of this room.~
+Do you really want to know what's inside?  Could be pretty grisly.
+~
+15 1 0 0 0 0 0 0 0
+500 11 1149 0 0 0 0 0
+500 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sarcophagus~
+It is made of the finest marble.  You wonder what lies inside.
+~
+#1112
+sword crystal~
+a /cccrystal sword/c0~
+A sword carved out the finest crystal has been left here.~
+Nothing.
+~
+5 532545 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+15 3333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crystal sword~
+You've never seen any weapon quite like it.  It appears to be etched from
+a single gem, and that gem must have been huge and quite flawless.  The blade
+is as sharp as glass and will never dull.
+~
+A
+13 10
+#1113
+plate crystal breast~
+a /cccrystal breastplate/c0~
+/cwPlatemail formed from crystal has been carelessly left here./c0~
+Nothing.
+~
+9 65 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+10 2333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crystal plate~
+Truly this armor is a work of genius.  The plate is fashioned from pure gem
+but looks remarkingly comfortable.  You wonder who created it.
+~
+#1114
+corpse~
+the corpse of an Elven Prince~
+Corpse of Elven Prince is here.~
+He appears to be quite content in his slumber.
+~
+15 0 0 0 0 1 0 0 0
+200 0 -1 0 0 0 0 0
+20 20000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse~
+He was once a great elvish warrior, but his life has passed on.  He has been
+kept in this sarcophagus, much to the dismay of his lovely bride who jumped
+to her death when she heard he had passed on.
+~
+#1115
+rose~
+a beautiful /cccrystal /crrose/c0~
+The most beautiful rose you have ever seen is here.~
+It glows with a bright light, shining far into the gloom.
+~
+1 49473 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+5 1000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crystal rose~
+The stem and leaves are of the finest emerald and the petals are of amethyst.
+However, the two types of crystal seem to be bonded together naturally.  It
+looks very delicate, but you doubt it will ever break.
+~
+A
+3 1
+#1116
+black lace veil~
+a /cLblack lace veil/c0~
+A black lace veil lies crumpled on the ground.~
+It is made from frilly piece of cloth that would certainly hide your
+identity were that your wish.    
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+1 194 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+9 3
+A
+17 -1
+#1117
+coins huge pile~
+a huge pile of /cYtreasure/c0~
+/cwA huge pile of treasure lies here./c0~
+Why does every player seem to have look at the money before they take
+it?  Just take it!    
+~
+20 0 0 0 0 1 0 0 0
+200 0 0 0 0 0 0 0
+100 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1118
+crown jewel~
+a /cgjewel-encrusted /cccrown/c0~
+/cCA beautiful crown with elegant jewels/c0 rests on the ground.~
+The crown itself is made of gleaming gold, the jewels set deeply into
+it.    
+~
+11 64 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+5 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+jewel crown~
+You have never seen a crown this beautiful before.  Sparkling rubies and
+diamonds adorn it's surface.
+~
+A
+17 -3
+A
+5 1
+#1119
+wand skull~
+a /cWskull-headed /cLwand/c0~
+/cwAn evil-looking wand with a grinning skull stares up at you./c0~
+Instinct tells you that this wand does not hold any sort of 'white' magic.
+~
+3 66 0 0 0 16385 0 0 0
+30 3 3 119 0 0 0 0
+5 1000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+skull wand~
+It is a black rod with a small skull attached to the head.  Evil permeates
+from it in a faint red aura.
+~
+#1120
+dagger vorpal~
+a /ccvorpal dagger/c0~
+A curvy vorpal dagger is stuck into the wall.~
+The blade weaves back and forth, shining as the light strikes it.
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 5500 2500 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+vorpal dagger~
+Its curvy edge is extremely sharp.  You dread to think of how many hearts
+it has been plunged into.
+~
+A
+2 1
+A
+19 1
+#1121
+sword rusty~
+a rusty sword~
+An ancient sword covered in rust lies among the debris.~
+It doesn't appear that it could cause much damage in its current
+state, maybe when it was in its prime it might've been a good weapon.
+~
+5 4726784 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+5 333 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1123
+robe black undead~
+the /cLblack robe of the /crundead/c0~
+The black robe of the undead is spread out on the floor before you.~
+It is dark as blackest night, made specially for those dark of nature.
+~
+11 51776 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+10 5000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+black robe~
+It is jet black in colour and seems to radiate evil.
+~
+A
+12 15
+A
+17 -5
+#1124
+armor bone~
+some /cWbone-plated Armor/c0~
+Some plate mail formed from large bones lies in a heap.~
+Nothing.
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+15 1166 250 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1125
+mask death~
+the grinning mask of /cLdeath/c0~
+A mask made from a rather large skull grins back at you.~
+It is quite hideous, but also pretty cool looking.
+~
+9 1051136 0 0 0 262145 0 0 0
+5 0 0 0 0 0 0 0
+8 7600 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+death mask~
+A mask in the shape of a grinning skull.  It must have been fashioned from
+the head of giant.
+~
+A
+2 1
+#1126
+gold coins~
+a pile of /cygold coins/c0~
+A small pile of gold coins lie here.~
+Stop staring at it and TAKE it!
+~
+20 0 0 0 0 1 0 0 0
+120 0 0 0 0 0 0 0
+10 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1130
+key iron~
+/cwan iron key/c0~
+There is a heavy looking iron key here.~
+It is formed into the shape of a skull at the end, two small prongs
+for the catchers.    
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1131
+crowbar~
+a /cLcrowbar/c0~
+There is a heavy looking crowbar leaning against the corner.~
+It is long and straight, curved at the end.  It's a crowbar.
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+20 77 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1134
+rose~
+a /cglong-stemmed /crrose/c0~
+A beautiful long-stemmed rose lies here, wilting away./c0~
+Nothing.
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rose~
+The petals are bright red, the stem is a vivbrant green and the thorns
+appear razor sharp.
+~
+#1144
+key crystal~
+/cwa crystal key/c0~
+There is a beautiful crystal key lying on the floor.~
+Nothing.
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1149
+key warped wooden~
+a warped /cywooden key/c0~
+There is a warped wooden key lying in the dirt.~
+Even though it is warped, possibly you could still use it.
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1156
+tea no~
+no tea~
+There is no tea here.~
+Don't even ask.
+~
+12 128 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1159
+key stone~
+/cwa stone key/c0~
+There is ancient stone key lying here.~
+There are some strange etching on it's handle, but you cannot seem to
+read them.    
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1160
+key black~
+a pure /clblack /cwkey/c0~
+There is a key black as the night lying on the ground.~
+You almost don't even notice it, so black and unobtrusive it is.
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1161
+mace glowing~
+a /ccglowing /cLmace/c0~
+A finely crafted mace is waiting for a worthy owner.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+10 3959 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+$~

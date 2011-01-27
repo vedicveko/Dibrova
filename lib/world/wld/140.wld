@@ -1,0 +1,2019 @@
+#14000
+Walking the Lava Flows~
+You are walking the shiny black lava flows that flow from the mountain
+down into the sea, being careful to avoid the gas vents and hot lava.
+There are plenty of exits into the mountain, but none of them look safe.
+~
+140 32768 0 0 0 2
+D1
+The lava flows~
+~
+0 -1 14001 0
+D2
+Up the mountain~
+~
+0 -1 14199 0
+E
+exits~
+You look into one of the fissures, and watch two lava worms mating.
+~
+S
+#14001
+Walking the Lava Flows~
+You are walking the shiny black lava flows that flow from the mountain
+down into the sea, being careful to avoid the gas vents and hot lava.
+There are plenty of exits into the mountain, but none of them look safe.
+At the waters edge the red hot lava boils the surrounding ocean in a
+deafening roar.
+~
+140 32768 0 0 0 2
+D2
+The lava flows~
+~
+0 -1 14002 0
+D3
+The lava flows~
+~
+0 -1 14000 0
+S
+#14002
+Walking the Lava Flows~
+You are walking the shiny black lava flows that flow from the mountain
+down into the sea, being careful to avoid the gas vents and hot lava.
+There are plenty of exits into the mountain, but none of them look safe.
+~
+140 32768 0 0 0 2
+D0
+The lava flows~
+~
+0 -1 14001 0
+D3
+Up the mountain~
+~
+0 -1 14199 0
+E
+vents~
+You stand for a while and watch a gas vent. Gas seems to steadily emit
+in a low hiss, and occasionally bursts out in a deadly jet.
+~
+S
+#14003
+On a Black Sand Beach~
+You stand on an exotic black sand beach. There is no vegetation on this
+island, for as far as you can see. To the east of you a black mountain
+looms. The dappled sunlight makes its way through the cool palm canopy
+to gently warm the soft black sand. You dream of that lover you once had 
+in a far off city, and wish they could have been here now.
+~
+140 32768 0 0 0 11
+D0
+The beach~
+~
+0 -1 14196 0
+D1
+The mountain~
+~
+0 -1 14197 0
+D2
+The beach~
+~
+0 -1 14004 0
+S
+#14004
+On a Black Sand Beach~
+You stand on an exotic black sand beach. There is no vegetation on this
+island, for as far as you can see. To the east of you a black mountain
+looms. To the west you see a sea that there may be sharks.
+~
+140 32772 0 0 0 11
+D0
+The beach~
+~
+0 -1 14003 0
+D1
+The mountain~
+~
+0 -1 14005 0
+D3
+On the seas surrounding an atoll~
+~
+0 -1 14021 0
+S
+#14005
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. Below you and to the west are the black
+sand beaches. If you climb up to the east, you can go over the rim. You 
+don't know if you will be able to come back though.
+~
+140 32768 0 0 0 5
+D0
+The mountain~
+~
+0 -1 14197 0
+D1
+Over the rim~
+~
+0 -1 14010 0
+D2
+The mountain~
+~
+0 -1 14006 0
+D3
+The beach~
+~
+0 -1 14004 0
+S
+#14006
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. The mountain drops steeply into a churning
+sea below, much too dangerous to descend. Wind whips around the mountain
+into your face. You think that if you could just hold open your cloak, you
+could fly away, across the sea.
+~
+140 32768 0 0 0 5
+D0
+The mountain~
+~
+0 -1 14005 0
+D1
+The mountain~
+~
+0 -1 14007 0
+S
+#14007
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. The mountain drops steeply into a churning
+sea below, much too dangerous to descend. Down and to your north, you can
+make out the glowing red crater floor of the heart of the black mountain.
+You see a path going downward.
+~
+140 32768 0 0 0 5
+D0
+The crater~
+~
+0 -1 14010 0
+D1
+The mountain~
+~
+0 -1 14008 0
+D3
+The mountain~
+~
+0 -1 14006 0
+S
+#14008
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. The mountain drops steeply into a churning
+sea below, much too dangerous to descend. Far below a blowhole spurts over
+and over with the rhythm of the sea.
+~
+140 32768 0 0 0 5
+D0
+The mountain~
+~
+0 -1 14009 0
+D3
+The mountain~
+~
+0 -1 14007 0
+S
+#14009
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. The mountain drops steeply into a churning
+sea below, much too dangerous to descend. You can climb up to your west
+and go over the rim of the mountain. Terns fly in ever ascending spirals,
+gliding on the hot updraft of the mountain.
+~
+140 32768 0 0 0 5
+D0
+The mountain~
+~
+0 -1 14199 0
+D2
+The mountain~
+~
+0 -1 14008 0
+D3
+Over the rim~
+~
+0 -1 14010 0
+S
+#14010
+The Crater~
+You have climbed into the crater. Around you lava bubbles and boils. There
+is a series of high spots which you may step on which take you south to
+a path up the mountain, or down a shaft in the center. It is hard to breathe
+here in the noxious gasses of the volcano.
+~
+140 32768 0 0 0 5
+D2
+Up the southern path~
+~
+0 -1 14007 0
+D5
+Down a shaft~
+hatch~
+1 0 14018 1
+S
+#14011
+In the Watery Cave~
+You float on a quiet cove inside a cave. Light from the northern exit
+bounces off the lapping waves and dances along the cavern ceiling. Docked
+are two triremes, showing the scars of many a battle. A stone staircase 
+winds upwards into the mountain.
+~
+140 32776 0 0 0 0
+D0
+The cove~
+~
+0 -1 14194 0
+D4
+Up the stairs~
+~
+0 -1 14012 0
+E
+trireme triremes~
+The vessels are well guarded by a force of some 30 odd men. You think
+better of it, and leave well enough alone.
+~
+S
+#14012
+In the Pirates Cavern~
+You are in the caverns inhabited by the pirates of Fire Island. The walls
+bear torch sconces, which light everything in a flickering orange glow. Warm
+air circulates to you from the south. From below you can hear the sounds of
+water. The natural passage seems to have been widened with mining tools, and
+braced with wooden timbers.
+~
+140 32777 0 0 0 0
+D1
+Caverns~
+~
+0 -1 14013 0
+D2
+In the Pirates Cavern~
+~
+0 -1 14015 0
+D3
+Caverns~
+gate~
+1 14021 14014 7
+D5
+Down the winding stone staircase~
+~
+0 -1 14011 0
+S
+#14013
+In the Cargo Cavern~
+You stand in the dimly lit cargo cavern, where boxes and crates of various
+goods have been racked and stacked in orderly rows. All of the boxes bear
+the stamp of different owners, never having reached their intended 
+destinations.
+~
+140 32769 0 0 0 0
+D3
+Caverns~
+~
+0 -1 14012 0
+E
+stamps boxes crates stamp box crate~
+You read the dwarven markings of one box. It reads 'Deliver to
+Thraxton of Urnst'. You pry it open and find a small barrel of beer.
+~
+S
+#14014
+In the Armory~
+You are in the pirates armory, where bows, cutlasses, leather armor
+and the like have been stored for future use.  Most of the weapons
+seem to be of poor quality, except for a few which stand out.    
+~
+140 32777 0 0 0 0
+D1
+Caverns~
+gate~
+1 14021 14012 7
+S
+#14015
+In the Pirates Cavern~
+You are in the caverns inhabited by the pirates of Fire Island. The walls
+bear torch sconces, which light everything in a flickering orange glow. Warm
+air circulates to you from the south. The natural passage seems to have 
+been widened with mining tools, and braced with wooden timbers. There is
+a painting on the wall.
+~
+140 32776 0 0 0 0
+D0
+Caverns~
+~
+0 -1 14012 0
+D2
+Caverns~
+~
+0 -1 14016 0
+E
+painting wall~
+The painting is of a never ending forest of old hardwoods. Elves climb
+the limbs, and swing from long rope platforms from tree to tree. The
+painting is titled 'Ellnallhalla by Lalila'
+~
+S
+#14016
+In the Pirates Cavern~
+You are in the caverns inhabited by the pirates of Fire Island. The walls
+bear torch sconces, which light everything in a flickering orange glow. Warm
+air circulates to you from the east. The natural passage seems to have 
+been widened with mining tools, and braced with wooden timbers.
+~
+140 32776 0 0 0 0
+D0
+Caverns~
+~
+0 -1 14015 0
+D1
+Caverns~
+~
+0 -1 14017 0
+S
+#14017
+In the Pirates Cavern~
+You are in the caverns inhabited by the pirates of Fire Island. The walls
+bear torch sconces, which light everything in a flickering orange glow. Warm
+air circulates to you from the south. The natural passage seems to have been 
+widened with mining tools, and braced with wooden timbers. To the south you
+hear the sounds of laughter.
+~
+140 32776 0 0 0 0
+D2
+Caverns~
+~
+0 -1 14018 0
+D3
+Caverns~
+~
+0 -1 14016 0
+S
+#14018
+In the Hall of the Pirate Lord~
+You stand in the hall of the pirate lord. Above on a dias is a desk and
+a chair. Where you are is a table with 9 chairs around it. On the walls
+are charts of the seas, and various mounted fish. To the east is a barracks
+area, and to the west is an iron gate. Stairs wind upwards into a shaft
+from which hot air emanates. It is up these stairs that most of the pirates
+scurry when you enter the room.
+~
+140 32776 0 0 0 0
+D0
+~
+~
+0 0 14017 0
+D1
+The barracks~
+~
+0 -1 14019 0
+D3
+A dark cavern~
+gate~
+1 14021 14020 7
+D4
+A winding staircase~
+~
+0 -1 14010 0
+S
+#14019
+The Barracks~
+You are in the barracks of the pirates. Bunk beds line the walls in rows.
+Each bed is numbered by a charcoal mark. The beds are neat. At the foot of
+each bed is a trunk, also numbered, matching the bed. The bedding looks 
+fresh and free of insects.
+~
+140 32776 0 0 0 0
+D3
+The hall~
+~
+0 -1 14018 0
+S
+#14020
+A Dark Cave~
+You stand in a dimly lit dark cave. There is a cot in the corner, and 
+a trunk on the floor. The room is very hot, oppressively so. The walls 
+bear strange scratches.
+~
+140 32777 0 0 0 0
+D1
+The hall~
+gate~
+1 14021 14018 7
+E
+walls wall scratches scratch~
+The scratches upon closer examination under a light, actually are a sketch
+of an old growth forest.
+~
+S
+#14021
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing.
+~
+140 32772 0 0 0 7
+D1
+On the black sand beach~
+~
+0 -1 14004 0
+D2
+Sailing around the atoll~
+~
+0 -1 14022 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14022
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. Sharks abound in these
+waters.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14021 0
+D3
+Sailing around the atoll~
+~
+0 -1 14023 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14023
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. You think you see the
+glint of gold on the rocks, but when you blink, its gone.
+~
+140 32768 0 0 0 7
+D1
+Sailing around the atoll~
+~
+0 -1 14022 0
+D3
+Sailing around the atoll~
+~
+0 -1 14024 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14024
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. Large single clawed
+crabs cover the rocks.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14025 0
+D1
+Sailing around the atoll~
+~
+0 -1 14023 0
+D3
+~
+~
+0 0 12909 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14025
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. You trail your toe along
+in the water and feel a westerly current.
+~
+140 32768 0 0 0 7
+D2
+Sailing around the atoll~
+~
+0 -1 14024 0
+D3
+Sailing around the atoll~
+~
+0 -1 14026 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14026
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. There on the rocks is
+what remains of a shattered galley.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14027 0
+D1
+Sailing around the atoll~
+~
+0 -1 14025 0
+D2
+~
+~
+0 0 12909 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14027
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. You watch the gulls
+peck apart some jelly creature on the rocks.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14028 0
+D2
+Sailing around the atoll~
+~
+0 -1 14026 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14028
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. Here the waves are 
+choppy and you taste the salt spray on your lips.
+~
+140 32768 0 0 0 7
+D1
+Sailing around the atoll~
+~
+0 -1 14029 0
+D2
+Sailing around the atoll~
+~
+0 -1 14027 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14029
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. Refuse floats in the
+water, drifting alongside the boat.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14030 0
+D3
+Sailing around the atoll~
+~
+0 -1 14028 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+E
+refuse~
+You pull a bottle out of the refuse, and notice a message inside. Excitedly
+you open it up to find an old weathered parchment, only a fragment of which
+you can read. It says '......and it is rumored she went down fully laden on
+thunder reef....'
+~
+S
+#14030
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. You get the feeling you
+have been here before.
+~
+140 32768 0 0 0 7
+D1
+The lagoon entrance~
+~
+0 -1 14031 0
+D2
+Sailing around the atoll~
+~
+0 -1 14029 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14031
+At the Lagoon Entrance~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. The lagoon opens up to
+the south, and a mild current pulls you that way.
+~
+140 32768 0 0 0 7
+D1
+Sailing around the atoll~
+~
+0 -1 14032 0
+D2
+Into the lagoon~
+~
+0 -1 14036 0
+D3
+Sailing around the atoll~
+~
+0 -1 14030 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14032
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. What was that sailing
+song anyway?
+~
+140 32768 0 0 0 7
+D2
+Sailing around the atoll~
+~
+0 -1 14033 0
+D3
+Sailing around the atoll~
+~
+0 -1 14031 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14033
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. There, crawling over
+the rotting carcass of a human, is a dis-Z, a rare offensive scavenger.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14032 0
+D1
+Sailing around the atoll~
+~
+0 -1 14034 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14034
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. All of this salt water
+is making you thirsty.
+~
+140 32768 0 0 0 7
+D2
+Sailing around the atoll~
+~
+0 -1 14035 0
+D3
+Sailing around the atoll~
+~
+0 -1 14033 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14035
+On the Seas Surrounding an Atoll~
+You have sailed into seas surrounding a rocky atoll. The surf crashes
+on the sharp jagged rocks, preventing a landing. For some reason the 
+fish are milling around here.
+~
+140 32768 0 0 0 7
+D0
+Sailing around the atoll~
+~
+0 -1 14034 0
+E
+atoll~
+You shimmy up your mast and look at the atoll. The atoll is a circular
+island with a quiet lagoon in the middle. The only way into the central
+lagoon appears to be via the north end of the atoll. In the lagoon, you
+can easily recognize the masts of several docked ships, and you see
+houses on stilts.
+~
+S
+#14036
+In the Quiet Lagoon~
+Your boat gently rocks in the quiet lagoon of the atoll. Around you
+are docked the ships of the pirate lords. Each ship is tied to a 
+pile sunk deep into the lagoon, and rope bridges connect all into
+a makeshift wharf. To the south are several huts on stilts, connected
+by rope bridges. The waters are calm enough to swim in here.
+~
+140 32768 0 0 0 7
+D0
+Out of the lagoon~
+~
+0 -1 14031 0
+D2
+The shacks on stilts~
+~
+0 -1 14037 0
+S
+#14037
+In the Central Shack~
+You have climbed a rope bridge and entered the central shack of 
+the pirates complex. Below you though the cracks in the flooring 
+you can see the waves lapping at the support piles. To the west 
+is a barred shack, and to the east, you can make out the shack
+which houses most of the pirates. To the south, a large house stands
+on stilts.
+~
+140 32780 0 0 0 0
+D0
+The docks~
+~
+0 -1 14036 0
+D1
+The barracks~
+~
+1 -1 14038 1
+D2
+The house on stilts~
+door~
+1 -1 14040 3
+D3
+The barred shack~
+door~
+1 -1 14039 3
+S
+#14038
+The Barracks~
+You are in the large series of shacks in which the crew rests. Walls
+of this shack are of bamboo, and a palm frond thatch roof has been 
+hastily constructed and poorly maintained. From below you can hear the
+surf pounding against the piles.
+~
+140 32776 0 0 0 0
+D3
+The central shack~
+~
+0 -1 14037 0
+S
+#14039
+Inside the Barred Shack~
+You stand in a shack on piles, crammed to the ceiling with cargo from
+many a raid. Chests, crates, bolts of cloth, furs, weapons, plates, and
+a vast array of other items fills this area. Shackles have been affixed
+to the wooden frame of the hut. Flies bu141 around in lazy circles.
+~
+140 32776 0 0 0 0
+D1
+The central shack~
+door~
+1 -1 14037 3
+S
+#14040
+Inside the House on Stilts~
+You have entered the house of the pirate lord. On the walls are momentos 
+of his various raids. Here a sword. There a skirt. From the ceiling, a flag.
+Hides of many different animals are nailed to the walls and floor. Maps
+lie in rolls in an open chest. A low bunk is set against the far wall.
+~
+140 32776 0 0 0 0
+D0
+The central shack~
+door~
+1 -1 14037 3
+E
+flag~
+The flag is that of Antharia.
+~
+S
+#14041
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14044 0
+D1
+In the air~
+~
+0 -1 14042 0
+D2
+In the air~
+~
+0 -1 14044 0
+D3
+In the air~
+~
+0 -1 14043 0
+D4
+In the air~
+~
+0 -1 14045 0
+D5
+On the water~
+~
+0 -1 -1 0
+S
+#14042
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14045 0
+D1
+In the air~
+~
+0 -1 14043 0
+D2
+In the air~
+~
+0 -1 14045 0
+D3
+In the air~
+~
+0 -1 14041 0
+D4
+In the air~
+~
+0 -1 14046 0
+D5
+In the air~
+~
+0 -1 14044 0
+S
+#14043
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14046 0
+D1
+In the air~
+~
+0 -1 14041 0
+D2
+In the air~
+~
+0 -1 14046 0
+D3
+In the air~
+~
+0 -1 14042 0
+D4
+In the air~
+~
+0 -1 14044 0
+D5
+In the air~
+~
+0 -1 14045 0
+S
+#14044
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14041 0
+D1
+In the air~
+~
+0 -1 14045 0
+D2
+In the air~
+~
+0 -1 14041 0
+D3
+In the air~
+~
+0 -1 14046 0
+D4
+In the air~
+~
+0 -1 14042 0
+D5
+In the air~
+~
+0 -1 14043 0
+S
+#14045
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14042 0
+D1
+In the air~
+~
+0 -1 14046 0
+D2
+In the air~
+~
+0 -1 14042 0
+D3
+In the air~
+~
+0 -1 14044 0
+D4
+In the air~
+~
+0 -1 14043 0
+D5
+In the air~
+~
+0 -1 14041 0
+S
+#14046
+In the Air Beneath the Flying Mountain~
+You soar in the turbulent air beneath the flying mountain. Wind
+whips and whistles in fierce blasting gusts sending you in all 
+directions.
+~
+140 0 0 0 0 9
+D0
+In the air~
+~
+0 -1 14043 0
+D1
+In the air~
+~
+0 -1 14044 0
+D2
+In the air~
+~
+0 -1 14043 0
+D3
+In the air~
+~
+0 -1 14045 0
+D4
+In the calm air~
+~
+0 -1 14047 0
+D5
+In the air~
+~
+0 -1 14042 0
+S
+#14047
+In the Calm Air Beneath the Flying Mountain~
+You soar effortlessly in the calm air beneath the flying mountain.
+Below you through the turbulent winds lies the sea. Here in the
+thick rock of the mountain you sea caves which serve as nests for
+the hawkmen which terrorize the area.
+~
+140 0 0 0 0 9
+D0
+In the calm air~
+~
+0 -1 14048 0
+D1
+In the calm air~
+~
+0 -1 14050 0
+D5
+In the turbulent air~
+~
+0 -1 14046 0
+S
+#14048
+In the Calm Air Beneath the Flying Mountain~
+You soar effortlessly in the calm air beneath the flying mountain.
+Below you through the turbulent winds lies the sea. You notice a 
+strange inscription on the rock.
+~
+140 0 0 0 0 9
+D1
+In the calm air~
+~
+0 -1 14049 0
+D2
+In the calm air~
+~
+0 -1 14047 0
+E
+inscription strange rock~
+Carved into the rock in wizard runes is the following:
+` BEWARE-Enchanted Lodestone: I was on holiday on this 
+deserted island, practicing on my enchantment spells, 
+when in the middle of casting, I was rudely interrupted by
+a mystic summons. The interruption threw my spell off target
+and onto the island itself. With a wrenching crunch the whole
+island rose from the sea to the position you find it now. 
+Intrigued by the phenomena I took a sample of the rock back
+to my shack in the Forest Arden, where I determined by 
+methods of alchemy that the island had rich deposits of
+lodestone, which when subjected to enchantment magic, flies.
+I have used this discovery to create several floating trinkets
+which impart the ability of flying to the recipient. Beware
+for I know not how long this enchantment will last. - MERLIN'
+~
+S
+#14049
+In the Calm Air Beneath the Flying Mountain~
+You soar effortlessly in the calm air beneath the flying mountain.
+Below you through the turbulent winds lies the sea. Here, much to
+your irritation, hangs the dangling end of the rope ladder.
+~
+140 0 0 0 0 9
+D2
+In the calm air~
+~
+0 -1 14050 0
+D3
+In the calm air~
+~
+0 -1 14048 0
+D4
+Up the rope ladder~
+~
+0 -1 14051 0
+S
+#14050
+In the Calm Air Beneath the Flying Mountain~
+You soar effortlessly in the calm air beneath the flying mountain.
+Below you through the turbulent winds lies the sea. About you, cradled
+in iron chain slings which run up to a massive winch mechanism are
+three triremes.
+~
+140 0 0 0 0 9
+D0
+In the calm air~
+~
+0 -1 14049 0
+D3
+In the calm air~
+~
+0 -1 14047 0
+S
+#14051
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. A winch with a rope ladder offers passage downward.
+~
+140 0 0 0 0 5
+D0
+On the flying island~
+~
+0 -1 14052 0
+D2
+Taking the winch all the way down to the sea~
+winch ladder rope~
+1 -1 -1 1
+D5
+~
+~
+0 -1 14049 0
+S
+#14052
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. To the north
+of you is the granite keep, and south, at the island's edge, is a rope
+winch.
+~
+140 0 0 0 0 5
+D0
+On the flying island~
+~
+0 -1 14056 0
+D1
+On the flying island~
+~
+0 -1 14053 0
+D2
+On the flying island~
+~
+0 -1 14051 0
+D3
+On the flying island~
+~
+0 -1 14054 0
+S
+#14053
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. Off in the distance you here the squawk of a
+very large bird.
+~
+140 0 0 0 0 5
+D0
+On the flying island~
+~
+0 -1 14058 0
+D3
+On the flying island~
+~
+0 -1 14052 0
+S
+#14054
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. Off in the distance you here the squawk of a
+very large bird.
+~
+140 0 0 0 0 5
+D0
+On the flying island~
+~
+0 -1 14055 0
+D1
+On the flying island~
+~
+0 -1 14052 0
+S
+#14055
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. Off in the distance you here the squawk of a
+very large bird.
+~
+140 0 0 0 0 5
+D1
+On the flying island~
+~
+0 -1 14056 0
+D2
+On the flying island~
+~
+0 -1 14054 0
+S
+#14056
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Up a wide 
+paved ramp stands the looming hold of the 4th Pirate Lord.
+~
+140 0 0 0 0 5
+D0
+On the flying island~
+~
+0 -1 14057 0
+D1
+On the flying island~
+~
+0 -1 14058 0
+D2
+On the flying island~
+~
+0 -1 14052 0
+D3
+On the flying island~
+~
+0 -1 14055 0
+D4
+Up the ramp to the keep~
+~
+0 -1 14059 0
+S
+#14057
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. Off in the distance you here the squawk of a
+very large bird.
+~
+140 0 0 0 0 5
+D2
+On the flying island~
+~
+0 -1 14056 0
+S
+#14058
+On the Flying Mountain~
+You stand on the firm ground of the flying mountain. You are so high
+that clouds drift across the island like thick fog banks. Far below 
+you shines the seas of the Pirate Lords. In the center of the island
+stands a granite keep. Off in the distance you here the squawk of a
+very large bird.
+~
+140 0 0 0 0 5
+D2
+On the flying island~
+~
+0 -1 14053 0
+D3
+On the flying island~
+~
+0 -1 14056 0
+S
+#14059
+At the Gates to the Keep~
+You stand at the top of a long paved ramp. To the south of you is the
+massive wooden gate to the keep. After examination of the door you can 
+open it if you slide a slender object through the gap and lift the
+bar. Fortunately for you a long slender bar has been left lying on the
+ground next to you.
+~
+140 0 0 0 0 10
+D2
+Inside the keep~
+door~
+1 0 14060 3
+D5
+Down the ramp~
+~
+0 -1 14056 0
+E
+keep hold~
+The keep is a simple block design, with four walls and iron barred windows.
+Above you is a second floor.
+~
+S
+#14060
+Inside the Hold of the Pirate Lord~
+You are in a long hallway inside the hold. Granite walls rise up around you.
+Torches flicker and gutter in iron holders. Several doors line the hall. Far
+to your south is a massive double door. To your north is the keep entrance.
+~
+140 8 0 0 0 0
+D0
+Outside the keep~
+door~
+1 -1 14059 3
+D1
+A room~
+door~
+1 -1 14061 3
+D2
+Down the hall~
+~
+0 -1 14063 0
+D3
+A room~
+door~
+1 -1 14062 3
+S
+#14061
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D3
+A door~
+door~
+1 -1 14060 3
+S
+#14062
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D1
+A door~
+door~
+1 -1 14060 3
+S
+#14063
+Inside the Hold of the Pirate Lord~
+You are in a long hallway inside the hold. Granite walls rise up around you.
+Torches flicker and gutter in iron holders. Several doors line the hall. To
+your south is a massive double door. To your north is the keep entrance.
+~
+140 8 0 0 0 0
+D0
+Up the hall~
+~
+0 -1 14060 0
+D1
+A room~
+door~
+1 -1 14064 3
+D2
+Down the hall~
+~
+0 -1 14066 0
+D3
+A room~
+door~
+1 -1 14065 3
+S
+#14064
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D3
+A door~
+door~
+1 -1 14063 3
+S
+#14065
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D1
+A door~
+door~
+1 -1 14063 3
+S
+#14066
+Inside the Hold of the Pirate Lord~
+You are in a long hallway inside the hold. Granite walls rise up around you.
+Torches flicker and gutter in iron holders. Several doors line the hall. Far
+to your north is the keep entrance. Immediately south is a large pair of 
+doors.
+~
+140 8 0 0 0 0
+D0
+Up the hall~
+~
+0 -1 14063 0
+D1
+A room~
+door~
+1 -1 14067 3
+D2
+Through the double doors~
+doors double~
+1 14041 14069 7
+D3
+A room~
+door~
+1 -1 14068 3
+S
+#14067
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D1
+~
+~
+1 -1 -1 3
+D3
+A door~
+door~
+1 -1 14066 3
+S
+#14068
+A Room in the Hold~
+You are in a sparsely furnished room, obviously occupied by men at arms.
+Low pallets are on the north and south walls. A small fire glows in
+a pit in the room center, and the smoke winds its way upward and out
+a high iron barred window. Near the window is a platform from which
+an archer could stand and fire.
+~
+140 8 0 0 0 0
+D1
+A door~
+door~
+1 -1 14066 1
+S
+#14069
+In the Vast Hall of the Pirate Lord~
+You stand in the vast hall of the 4th Pirate Lord. Tables are grouped
+in the northern section, upon which are heaped the scraps and leftovers
+of a recent meal. Two stone hearths are ablaze on the eastern and western
+ends with bonfires. The south end is an elevated dias with a table and
+a long couch upon which lies several beautiful slaves. A stone staircase 
+is accessible through the south end of the hall.
+~
+140 8 0 0 0 0
+D0
+Into the hallway~
+door double~
+1 14061 14066 7
+D4
+Up the stairs~
+~
+0 -1 14070 0
+S
+#14070
+In the Private Quarters of the Pirate Lord~
+Here, at the top of the stairway, on the entire second floor is the
+private quarters of the Pirate Lord. On the eastern and western walls
+fires blaze. To the south is the canopied bed of the Lord, and here
+at the northern end, is the screened off section of his female slaves.
+Articles of conquest fill the room, and the floor is of polished stone.
+~
+140 8 0 0 0 0
+D0
+~
+~
+0 0 14192 0
+D5
+Down the stairs~
+~
+0 -1 14069 0
+S
+#14071
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. Far to your east is a huge iceberg. 
+The wind whips along unhindered across the flat ice, chilling you 
+to the core.
+~
+140 0 0 0 0 7
+D0
+The sea of ice~
+~
+0 -1 14072 0
+D2
+The sea of ice~
+~
+0 -1 -1 0
+D4
+New Thalos~
+~
+0 -1 -1 0
+S
+#14072
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. Large footprints lead off towards a
+snowbank. The wind whips along unhindered across the flat ice, 
+chilling you to the core.
+~
+140 0 0 0 0 7
+D1
+The sea of ice~
+~
+0 -1 14073 0
+D2
+The sea of ice~
+~
+0 -1 14071 0
+S
+#14073
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. Far to your south is a huge iceberg. 
+The wind whips along unhindered across the flat ice, chilling you 
+to the core.
+~
+140 0 0 0 0 7
+D1
+The sea of ice~
+~
+0 -1 14074 0
+D3
+The sea of ice~
+~
+0 -1 14072 0
+S
+#14074
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. White seals lie in droves on the shore. 
+The wind whips along unhindered across the flat ice, chilling you 
+to the core.
+~
+140 0 0 0 0 7
+D2
+The sea of ice~
+~
+0 -1 14075 0
+D3
+The sea of ice~
+~
+0 -1 14073 0
+S
+#14075
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. Far to your west is a huge iceberg. 
+The wind whips along unhindered across the flat ice, chilling you 
+to the core.
+~
+140 0 0 0 0 7
+D0
+The sea of ice~
+~
+0 -1 14074 0
+D2
+The sea of ice~
+~
+0 -1 14076 0
+S
+#14076
+Sailing the Sea of Ice~
+You are sailing the sea of ice. The channel is poor at best, with
+ice pressing in on all sides. The iceberg looms closer with each day. 
+The wind whips along unhindered across the flat ice, chilling you 
+to the core.
+~
+140 0 0 0 0 7
+D0
+The sea of ice~
+~
+0 -1 14075 0
+D3
+The sea of ice~
+~
+0 -1 14077 0
+S
+#14077
+Sailing the Sea of Ice~
+You are sailing the sea of ice. Ahead the narrow channel widens next
+to a very large iceberg. Ice shears in sheets from the iceberg to crash
+with a thunderous roar into the frosty sea. You think you can make out 
+a dark watery cave leading into the iceberg.
+~
+140 0 0 0 0 7
+D0
+Into the cave~
+~
+0 -1 14078 0
+D1
+The sea of ice~
+~
+0 -1 14076 0
+S
+#14078
+Inside the Iceberg~
+You have sailed into the heart of the iceberg, out of the frosty wind.
+You feel warmth returning to your bones, and you welcome the quiet 
+splendor of the ice interior. Next to you in the cave are several triremes
+anchored at bay. You anchor and hop down onto the hard packed ice, 
+following a trail of footprints to a dead end passage. Pu141led, you get on
+your hands and knees, and feel the outline of an ice trap door beneath you.
+~
+140 0 0 0 0 13
+D2
+The sea of ice~
+~
+0 -1 14077 0
+D5
+Through the trap door~
+ice trap door~
+1 -1 14079 3
+S
+#14079
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D3
+The icy shoot~
+~
+0 -1 14080 0
+S
+#14080
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D2
+The icy shoot~
+~
+0 -1 14081 0
+S
+#14081
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D1
+The icy shoot~
+~
+0 -1 14082 0
+S
+#14082
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D5
+The icy shoot~
+~
+0 -1 14083 0
+S
+#14083
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D2
+The icy shoot~
+~
+0 -1 14084 0
+S
+#14084
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D1
+The icy shoot~
+~
+0 -1 14085 0
+S
+#14085
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D0
+The icy shoot~
+~
+0 -1 14086 0
+S
+#14086
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D5
+The icy shoot~
+~
+0 -1 14087 0
+S
+#14087
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D2
+The icy shoot~
+~
+0 -1 14088 0
+S
+#14088
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D1
+The icy shoot~
+~
+0 -1 14089 0
+S
+#14089
+Sliding Down an Icy Shoot~
+WHEEEEEEEEE! You are sliding head over heels down an icy shoot, which winds 
+downward in a counterclockwise spiral. There is no stopping and no turning 
+around.
+~
+140 0 0 0 0 13
+D0
+The icy shoot~
+~
+0 -1 14090 0
+S
+#14090
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D0
+In the great ice cavern~
+~
+0 -1 14091 0
+D1
+In the great ice cavern~
+~
+0 -1 14095 0
+S
+#14091
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D0
+In the great ice cavern~
+~
+0 -1 14092 0
+D1
+In the great ice cavern~
+~
+0 -1 14094 0
+D2
+In the great ice cavern~
+~
+0 -1 14090 0
+S
+#14092
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D1
+In the great ice cavern~
+~
+0 -1 14093 0
+D2
+In the great ice cavern~
+~
+0 -1 14091 0
+S
+#14093
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D1
+In the great ice cavern~
+~
+0 -1 14096 0
+D2
+In the great ice cavern~
+~
+0 -1 14094 0
+D3
+In the great ice cavern~
+~
+0 -1 14092 0
+S
+#14094
+At the Bonfire in the Great Ice Cavern~
+You stand next to a roaring bonfire in the great ice cavern. Logs some ten 
+feet in length are stacked crosswise to a height of 5'. The flames warm and 
+light the cavern, and most importantly, your backside. Bedrolls are cast 
+about the fire, and primitive shelving has been carved into the surrounding 
+stalagmites. The heat from the fire is so great that it has melted the ice into
+a pool of water.
+~
+140 8 0 0 0 0
+D0
+In the great ice cavern~
+~
+0 -1 14093 0
+D1
+In the great ice cavern~
+~
+0 -1 14097 0
+D2
+In the great ice cavern~
+~
+0 -1 14095 0
+D3
+In the great ice cavern~
+~
+0 -1 14091 0
+S
+#14095
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D0
+In the great ice cavern~
+~
+0 -1 14094 0
+D1
+In the great ice cavern~
+~
+0 -1 14098 0
+D3
+In the great ice cavern~
+~
+0 -1 14090 0
+S
+#14096
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D2
+In the great ice cavern~
+~
+0 -1 14097 0
+D3
+In the great ice cavern~
+~
+0 -1 14093 0
+S
+#14097
+In the Great Ice Cavern~
+Here a long wooden table and benches has been placed to serve as the dining 
+are for the men. Food is stored in hollowed stalagmites. Two smaller fires 
+blaze on either side of the bench.
+~
+140 8 0 0 0 13
+D0
+In the great ice cavern~
+~
+0 -1 14096 0
+D1
+A thin sheet of ice~
+ice~
+1 -1 14099 1
+D2
+In the great ice cavern~
+~
+0 -1 14098 0
+D3
+In the great ice cavern~
+~
+0 -1 14094 0
+S
+#14098
+In the Great Ice Cavern~
+You stand in a huge ice cavern, the ceiling is some 80' above you. In the 
+center of the cavern, a bonfire roars, making the stalactites and stalagmites 
+leap and lurch as if the entire cavern were a demons mouth laughing at you.
+~
+140 8 0 0 0 13
+D0
+In the great ice cavern~
+~
+0 -1 14097 0
+D3
+In the great ice cavern~
+~
+0 -1 14095 0
+E
+runes wall~
+Thraxton was here.
+~
+S
+#14099
+In the Ice Hall of the Pirate Lord~
+You have invaded the private hall of the Pirate Lord. Here, in this smaller 
+cavern, the walls have been covered with tapestries of depicting woodland 
+hunting scenes. A canopied bed is on the eastern half of the room, and a desk 
+on the western half. Two fires are lit here, well illuminating the room. 
+Carpeting covers the floor shorn of its stalagmites. Your spells flicker and 
+dim here. A rope ladder leads up.
+~
+140 0 0 0 0 13
+D1
+Inside the iceberg~
+~
+0 -1 14078 0
+D3
+A thin sheet of ice~
+ice~
+2 -1 14097 15
+E
+ladder rope~
+You will kick yourself when you climb this ladder.
+~
+S
+$~

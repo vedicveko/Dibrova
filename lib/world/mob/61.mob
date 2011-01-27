@@ -1,0 +1,125 @@
+#6100
+warrior rahn~
+a Rahn Warrior~
+A Rahn warrior suddenly lunges up out of the grass and attacks you!
+~
+Dressed in the ancient Rahn war garb, wearing tufts of grass about his
+waist, with his face painted in light brown hues, this man looks quite
+fearsome.    
+~
+104 0 0 0 1574976 0 0 0 0 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 7
+Luck: 12
+Race: 14
+E
+#6101
+rahn warrior~
+a Rahn Warrior~
+A Rahn warrior lunges at you, seemingly from nowhere!
+~
+Dressed in the colors of the grasslands, this woman blends in with
+everything around her, rendering her nearly invisible.    
+~
+104 0 0 0 1574976 0 0 0 0 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 2
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Race: 14
+E
+#6102
+rahn hunter~
+a Rahn Hunter~
+A Rahn hunter is startled from his place of concealment, turning his anger on you!
+~
+The tales told of these fearsome grassland hunters keep children up at
+night, for fear one may sneak into their room!    
+~
+104 0 0 0 1574976 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 25
+Luck: 12
+Race: 14
+E
+#6103
+rahn huntress~
+a Rahn Huntress~
+A Rahn huntress decides you are fair game since you have invaded her territory!
+~
+This fearsome woman can only be described as 'beastial'.    
+~
+104 0 0 0 1574976 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 5
+Luck: 12
+Race: 14
+E
+#6104
+rahn hidesman~
+a Rahn Hidesman~
+A Rahn hidesman comes running at you, teeth bared.
+~
+Man, this dude is crazy!    
+~
+104 0 0 0 1572928 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 17
+Luck: 12
+Race: 14
+E
+#6105
+rahn keeper~
+a Rahn Keeper~
+A Rahn Keeper lunges at you from his spot in the grass, watch out!
+~
+He looks mean.
+~
+104 0 0 0 1572928 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Luck: 12
+Race: 14
+E
+$

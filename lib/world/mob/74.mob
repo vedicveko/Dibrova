@@ -1,0 +1,643 @@
+#7400
+maestro~
+the Maestro~
+The Maestro, in all his glory, stands before you, arms clasped behind him.
+~
+He regards you with a sincere air, one which speaks volumes without
+having to actually utter a word.    
+~
+10250 0 0 0 88 0 0 0 300 E
+130 111 -60 1d1+0 15d16+86
+2500 1151521
+8 8 1
+Str: 25
+Dex: 9
+Int: 25
+Wis: 5
+Con: 16
+Cha: 10
+Luck: 14
+Race: 14
+E
+#7401
+flutist~
+a Flutist~
+A flutist pipes a merry tune, tapping his foot in rythym.
+~
+He appears quite comfortable on stage - a man with much experience as
+a performer.    
+~
+10 0 0 0 0 0 0 0 200 E
+61 38 -40 1d1+0 5d6+40
+1025 167227
+8 8 1
+Str: 19
+Dex: 17
+Int: 5
+Wis: 20
+Con: 9
+Cha: 9
+Luck: 9
+Race: 14
+E
+#7402
+barman man~
+the Barman~
+The barman stands ready at the counter, a small clear glass in his hand.
+~
+He looks up at you through bushy eyebrows, never ceasing his wiping of
+his glass.    
+~
+10 0 0 0 80 0 0 0 -100 E
+75 51 -40 1d1+0 6d7+50
+1275 283219
+8 8 1
+Str: 23
+Dex: 19
+Int: 7
+Wis: 17
+Con: 12
+Cha: 10
+Luck: 23
+Race: 14
+E
+#7403
+patron laughing~
+a laughing Patron~
+A patron laughs as he enjoys his drink to its fullest extent.
+~
+He is obviously just a little inebriated and possibly has been here a
+slight bit too long.  Hopefully, the missus will not notice how long
+he has been gone and come looking for him...    
+~
+10 0 0 0 0 0 0 0 300 E
+63 40 -40 1d1+0 6d6+42
+1075 181566
+8 8 1
+Str: 16
+Dex: 22
+Int: 9
+Wis: 23
+Con: 24
+Cha: 6
+Luck: 23
+Class: 12
+Race: 14
+E
+#7404
+woman dancing~
+a dancing Woman~
+A woman dances seductively to the sounds of the music.
+~
+She moves about the room enticing nearly every man in the place with a
+move of her hips or a flutter of her lashes, however she chooses none
+of the men, seeming to revel most of all in the adoration rather than
+actually being had by any man.    
+~
+10 0 0 0 0 0 0 0 100 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 2
+Dex: 21
+Int: 7
+Wis: 17
+Con: 13
+Cha: 24
+Luck: 8
+Race: 14
+E
+#7405
+man flirting~
+a flirting Man~
+A man flirts with the dancing woman, his interest very obvious.
+~
+His eyes never leave her, his drink goes untouched.  It would almost
+seem that he was entranced by her, in a spell.    
+~
+10 0 0 0 0 0 0 0 200 E
+58 36 -36 1d1+0 5d6+38
+950 147047
+8 8 1
+Str: 13
+Dex: 14
+Int: 8
+Wis: 16
+Con: 19
+Cha: 10
+Luck: 5
+Class: 12
+Race: 14
+E
+#7406
+caretaker symphony~
+the Caretaker of the Symphony~
+The caretaker for the symphony wanders about the place, cleaning.
+~
+He is a good man, an old time widower who lost his way in life after
+his wife died and was given this small but important task of keeping
+the symphony in good repair.  Somehow, the job seemed to rejuvenate
+him from his long period of mourning and he has has been doing this
+ever since, happy with his life.    
+~
+10 0 0 0 0 0 0 0 600 E
+62 39 -40 1d1+0 5d6+41
+1050 174307
+8 8 1
+Str: 5
+Dex: 20
+Int: 24
+Wis: 16
+Con: 6
+Cha: 12
+Luck: 25
+Race: 14
+E
+#7407
+house mistress~
+the House Mistress~
+The House Mistress calmly welcomes you to take a look around.
+~
+Although no opera is in session, there are plenty of things to do
+around the place.  The general upkeep and the building of the many
+sets used by the performers is usually left to the discretion of the
+Mistress.  And of course, many travellers come from afar to get a look
+at the famous Opera House of Dun Pith during times when there is no
+opera in session, such as now.    
+~
+10 0 0 0 0 0 0 0 200 E
+61 38 -40 1d1+0 5d6+40
+1025 167227
+8 8 2
+Str: 15
+Dex: 16
+Int: 17
+Wis: 15
+Con: 23
+Cha: 6
+Luck: 24
+Class: 12
+Race: 14
+E
+#7408
+singer soprano practicing~
+a practicing Singer~
+A soprano practices his lines up on the stage.
+~
+It is almost painful to listen to this man belt out the notes that he
+does.  With every syllable, you can't help but wince just a little.  
+~
+10 0 0 0 0 0 0 0 400 E
+56 34 -32 1d1+0 5d6+37
+900 134460
+8 8 1
+Str: 14
+Dex: 7
+Int: 6
+Wis: 16
+Con: 7
+Cha: 21
+Luck: 7
+Race: 14
+E
+#7409
+finelyn man musician~
+Finelyn~
+Finelyn meticulously paints the trimmings on a small set of pipes.
+~
+His concentration on his work is such that he does not notice your
+entry - if you wish to purchase anything, you will more than likely
+have to get his attention first.    
+~
+10 0 0 0 0 0 0 0 300 E
+70 47 -40 1d1+0 6d6+46
+1150 237528
+8 8 1
+Str: 22
+Dex: 5
+Int: 8
+Wis: 22
+Con: 25
+Cha: 25
+Luck: 20
+Race: 14
+E
+#7410
+patron musician~
+a Patron~
+A patron runs his fingers longingly over a fine lute.
+~
+He is obviously a student at the Guild and cannot afford such a fine
+intrument as this.  It is almost heartbreaking to see him gaze so
+adoringly at the instrument.    
+~
+4106 0 0 0 0 0 0 0 300 E
+55 33 -32 1d1+0 5d6+36
+875 128422
+8 8 1
+Str: 21
+Dex: 10
+Int: 7
+Wis: 15
+Con: 6
+Cha: 24
+Luck: 15
+Class: 12
+Race: 14
+E
+#7411
+owner coffee shop woman~
+the Owner of the Shop~
+A surprisingly attractive woman tends shop.
+~
+She moves with an unintentional grace about the room, unaware that men
+might be following her every move.  Its not that she doesn't care,
+only that she doesn't know.    
+~
+10 0 0 0 0 0 0 0 400 E
+61 38 -40 1d1+0 5d6+40
+1025 167227
+8 8 2
+Str: 6
+Dex: 16
+Int: 7
+Wis: 21
+Con: 21
+Cha: 13
+Luck: 12
+Race: 14
+E
+#7412
+musician poet man~
+a Poet~
+A man recites his poetry from his stool, strumming a lute in time with the words.
+~
+He looks out into the distance as he speaks his solemn words of wise
+contemplation, his gaze set upon the finer side of life.    
+~
+10 0 0 0 0 0 0 0 200 E
+62 39 -40 1d1+0 5d6+41
+1050 174307
+8 8 1
+Str: 22
+Int: 23
+Wis: 16
+Con: 20
+Cha: 21
+Luck: 14
+Race: 14
+E
+#7413
+man quiet~
+a quiet Man~
+A man quietly sips a mug of java near the fire.
+~
+Most of his form is lost in the folds of a dark robe which is settled
+about him in many folds due to his sitting position.  He has lost most
+of his hair and never lifts his gaze from the table, even when new
+patrons enter the shop.    
+~
+10 0 0 0 0 0 0 0 -100 E
+68 45 -40 1d1+0 6d6+45
+1200 220604
+8 8 1
+Str: 7
+Dex: 16
+Int: 18
+Wis: 14
+Con: 6
+Cha: 20
+Luck: 9
+Class: 12
+Race: 14
+E
+#7414
+woman reading~
+a reading Woman~
+A woman reads quietly at her table, sipping at her coffee intermitantly.
+~
+She doesn't really look up from what she is doing, only sits quietly,
+engrossed in the literature she absorbs.    
+~
+10 0 0 0 0 0 0 0 300 E
+52 31 -32 1d1+0 5d5+34
+800 111307
+8 8 2
+Str: 24
+Dex: 20
+Int: 7
+Wis: 21
+Con: 22
+Cha: 24
+Luck: 23
+Class: 12
+Race: 14
+E
+#7415
+gwavere man shop owner~
+Gwavere~
+The owner of this outrageous shop, Gwavere, welcomes you with a wide smile.
+~
+Gwavere is most probably considered to be the most exoctic of people
+in this entire city.  He is certainly not the most dangerous or feared
+man, however for some reason the populace simply allows him to exist
+in this small world of his without molestation.  He is just one of
+those 'necessary evils' that are permitted by the town.    
+~
+10 0 0 0 0 0 0 0 200 E
+65 42 -40 1d1+0 6d6+43
+1125 196628
+8 8 1
+Str: 23
+Dex: 8
+Int: 23
+Wis: 24
+Con: 23
+Cha: 23
+Luck: 25
+Race: 14
+E
+#7416
+musician calm~
+a calm Musician~
+A musician rests cross-legged upon the bench of the gazebo, quite relaxed.
+~
+He sits with his flute in his lap, as if he probably has no intention
+whatsoever of playing the instrument at all, only of resting.    
+~
+10 0 0 0 0 0 0 0 200 E
+57 35 -32 1d1+0 5d6+38
+925 140668
+8 8 1
+Str: 16
+Dex: 20
+Int: 23
+Wis: 16
+Con: 24
+Cha: 7
+Luck: 10
+Race: 14
+E
+#7417
+student young~
+a young Student~
+A young student sits at the edge of the bed looking a little bit bewildered.
+~
+He looks up at you with vacant eyes, as if his mind were somewhere
+else entirely than this lavish room.    
+~
+6154 0 0 0 0 0 0 0 200 E
+51 30 -32 1d1+0 5d5+34
+775 105930
+8 8 1
+Str: 13
+Int: 12
+Wis: 24
+Con: 23
+Cha: 9
+Luck: 6
+Race: 14
+E
+#7418
+servant maestro~
+one of the Maestro's Servants~
+One of the Maestro's servants makes her way through the place.
+~
+She is just a little slip of a girl, no more than thirteen years of
+age, but cute as a button.  It is rumored that the Maestro prefers his
+servants to be of this age and appearance.    
+~
+10 0 0 0 0 0 0 0 200 E
+43 23 -24 1d1+0 4d5+28
+575 68558
+8 8 2
+Str: 12
+Dex: 23
+Int: 20
+Wis: 5
+Cha: 15
+Luck: 17
+Class: 12
+Race: 14
+E
+#7419
+man wandering~
+a wandering Man~
+A man wanders through the garden, moving in no particular direction.
+~
+He just sort of meanders his way about the area, taking in the scents
+of the flowers and the sights of all the colors which surround the
+place.    
+~
+530504 0 0 0 16 0 0 0 100 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 1
+BareHandAttack: 14
+Str: 8
+Dex: 5
+Int: 18
+Wis: 21
+Con: 22
+Cha: 21
+Luck: 9
+Race: 14
+E
+#7420
+student tardy~
+a tardy Student~
+A student runs full-tilt through the halls, brushing past you wordlessly.
+~
+You watch the student race away down the hallway, his labored
+breathing very audible as he runs.    
+~
+72 0 0 0 0 0 0 0 200 E
+51 30 -32 1d1+0 5d5+34
+775 105930
+8 8 1
+Str: 8
+Dex: 20
+Int: 21
+Wis: 16
+Con: 17
+Cha: 8
+Luck: 15
+Race: 14
+E
+#7421
+petitioner~
+a Petitioner~
+A petitioner from the city government waits patiently.
+~
+He sits calmly with his hands folded in his lap, his eyes on the wall
+across from him.    
+~
+10 0 0 0 0 0 0 0 0 E
+55 33 -32 1d1+0 5d6+36
+875 128422
+8 8 1
+Str: 14
+Dex: 19
+Wis: 8
+Con: 8
+Cha: 16
+Luck: 18
+Class: 12
+Race: 14
+E
+#7422
+woman office~
+an Office Woman~
+A woman works at filling and filing reports for the guild.
+~
+She moves with quick efficiency, even pausing for a slight moment to
+give you a smile and a nod.    
+~
+10 0 0 0 0 0 0 0 200 E
+55 33 -32 1d1+0 5d6+36
+875 128422
+8 8 2
+Str: 10
+Dex: 19
+Int: 20
+Wis: 21
+Cha: 22
+Luck: 5
+Race: 14
+E
+#7423
+man office~
+an Office Man~
+A man fingers through the discplinary reports for the day, slightly bored.
+~
+He appears the type that is only happy when a child is insubordinate
+so that he has a chance to flex his will upon them.    
+~
+10 0 0 0 0 0 0 0 200 E
+55 33 -32 1d1+0 5d6+36
+875 128422
+8 8 1
+Str: 13
+Dex: 8
+Int: 17
+Wis: 18
+Con: 21
+Cha: 19
+Luck: 17
+Race: 14
+E
+#7424
+man whistler~
+the Whistler~
+The whistler wanders the streets and shops of the area, livening the atmosphere.
+~
+This man, Hank Hoolunbine, has been a resident of the area for as long
+as he has been alive, having never been admitted into the Guild as a
+member, but always wishing he was.  His strength is in whistling - not
+an officially recognized musical talent by the Guild - and he is darn
+good at it, but since he cannot seem to obtain the credentials he
+needs to perform in local establishments, he instead wanders the
+streets whistling merry tunes for any to hear, accepting the frequent
+coin .
+~
+22600 0 0 0 65552 4194304 0 0 300 E
+57 35 -32 1d1+0 5d6+38
+925 140668
+8 8 1
+Str: 13
+Dex: 24
+Int: 23
+Wis: 6
+Cha: 14
+Luck: 12
+Class: 12
+Race: 14
+E
+#7425
+musician street man~
+a Street Musician~
+A man walks the streets, playing a piccolo in time with his footsteps.
+~
+He gives you a wink and a nod as he passes by.
+~
+72 0 0 0 16 0 0 0 300 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+Str: 18
+Dex: 10
+Int: 8
+Wis: 20
+Con: 17
+Cha: 17
+Luck: 6
+Class: 12
+Race: 14
+E
+#7426
+musician street woman~
+a Street Musician~
+A woman walks the streets and shops, strumming a small lute.
+~
+She sings along with her instrument, her voice a quiet but perfectly
+pitched tone which compliments the instrument beautifully.    
+~
+72 0 0 0 0 0 0 0 300 E
+61 38 -40 1d1+0 5d6+40
+1025 167227
+8 8 2
+Str: 25
+Dex: 21
+Int: 16
+Wis: 13
+Con: 7
+Cha: 8
+Luck: 15
+Class: 12
+Race: 14
+E
+#7427
+man beads festooned musician street~
+a Street Musician~
+A man festooned in beads wanders the streets singing in a loud voice.
+~
+He doesn't seem the type to get embarassed by his outrageous dress or
+behavior, he even seems slightly proud of it.    
+~
+72 0 0 0 0 0 0 0 -400 E
+77 53 -40 1d1+0 6d7+51
+1325 302878
+8 8 1
+Str: 14
+Dex: 21
+Int: 7
+Wis: 8
+Con: 25
+Cha: 20
+Luck: 5
+Class: 12
+Race: 14
+E
+#7428
+puppeteer man old~
+the Puppeteer~
+An old man has a small stage area set up where he does puppet shows.
+~
+The stage is a crude thing, obviously very old and in need of
+replacing - the man looks as if this is all he has done his entire
+life and has no other way of making an income.  The show truly is
+quite pathetic.    
+~
+6154 0 0 0 16 0 0 0 400 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+Str: 16
+Dex: 12
+Int: 14
+Wis: 12
+Con: 7
+Cha: 19
+Luck: 13
+Race: 14
+E
+$

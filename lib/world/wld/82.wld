@@ -1,0 +1,2105 @@
+#8200
+Sheltered Valley~
+Two great sand dunes, one east and the other west, form a sandy
+sheltered valley.  The wind howls as it sweeps over high above the
+protected valley.  The heat is still intense and the relentless sun
+still shines harshly above.  To the south, one can see a cluster of
+tents nestled deep in the valley.    
+~
+82 65540 0 0 0 11
+D0
+~
+~
+0 0 8216 0
+D2
+~
+~
+0 0 8201 0
+S
+#8201
+Nomadic Camp~
+This is the home of the Kubalai nomads.  Despite being located in one
+of the most inhospitable places in the realm, the camp is prosperous
+and thriving well.  Tents made from sun-bleached cloth line each side
+of the sandy path.  One can check out the tents, continue south down
+the path, or head back north towards the howling winds and swirling
+sands.    
+~
+82 65536 0 0 0 1
+D0
+~
+~
+0 0 8200 0
+D1
+~
+~
+0 0 8203 0
+D2
+~
+~
+0 0 8204 0
+D3
+~
+~
+0 0 8202 0
+S
+#8202
+A Kubalai nomad's Tent~
+This is a typical tent of the inhabitants of this camp.  Loose folds
+of pale cloth form the walls and the ceiling, creating a relaxed
+atmosphere.  Brightly colored swaths of light material hang about the
+place, creating a festive look.  A harshly woven rug of hair covers
+the sandy ground, tickling one's feet as they walk upon it.  Large
+pillows scattered about are the only furnishings that are used here.
+~
+82 65544 0 0 0 1
+D1
+~
+~
+0 0 8201 0
+S
+#8203
+A Kubalai nomad's Tent~
+This is a typical tent of the inhabitants of this camp.  Loose folds
+of pale cloth form the walls and the ceiling, creating a relaxed
+atmosphere.  Brightly colored swaths of light material hang about the
+place, creating a festive look.  A harshly woven rug of hair covers
+the sandy ground, tickling one's feet as they walk upon it.  Large
+pillows scattered about are the only furnishings that are used here.
+~
+82 65536 0 0 0 1
+D3
+~
+~
+0 0 8201 0
+S
+#8204
+Nomadic Camp~
+This is the home of the Kubalai nomads.  Despite being located in one
+of the most inhospitable places in the realm, the camp is prosperous
+and thriving well.  Tents made from sun-bleached cloth line each side
+of the sandy path.  One can check out the tents, continue south down
+the path, or head back north towards the howling winds and swirling
+sands.
+~
+82 65536 0 0 0 1
+D0
+~
+~
+0 0 8201 0
+D1
+~
+~
+0 0 8206 0
+D2
+~
+~
+0 0 8207 0
+D3
+~
+~
+0 0 8205 0
+S
+#8205
+A Kubalai nomad's Tent~
+This is a typical tent of the inhabitants of this camp.  Loose folds
+of pale cloth form the walls and the ceiling, creating a relaxed
+atmosphere.  Brightly colored swaths of light material hang about the
+place, creating a festive look.  A harshly woven rug of hair covers
+the sandy ground, tickling one's feet as they walk upon it.  Large
+pillows scattered about are the only furnishings that are used here.
+  
+~
+82 65536 0 0 0 1
+D1
+~
+~
+0 0 8204 0
+S
+#8206
+A Kubalai nomad's Tent~
+This is a typical tent of the inhabitants of this camp.  Loose folds
+of pale cloth form the walls and the ceiling, creating a relaxed
+atmosphere.  Brightly colored swaths of light material hang about the
+place, creating a festive look.  A harshly woven rug of hair covers
+the sandy ground, tickling one's feet as they walk upon it.  Large
+pillows scattered about are the only furnishings that are used here.
+  
+~
+82 65536 0 0 0 1
+D3
+~
+~
+0 0 8204 0
+S
+#8207
+Nomadic Camp~
+This is the home of the Kubalai nomads.  Despite being located in one
+of the most inhospitable places in the realm, the camp is prosperous
+and thriving well.  Tents made from sun-bleached cloth line each side
+of the sandy path.  One can check out the tents, continue south down
+the path, or head back north towards the howling winds and swirling
+sands.
+~
+82 65536 0 0 0 1
+D0
+~
+~
+0 0 8204 0
+D1
+~
+~
+0 0 8209 0
+D2
+~
+~
+0 0 8210 0
+D3
+~
+~
+0 0 8208 0
+S
+#8208
+Tent of the Dijin~
+The tent is completely plain and unfurnished.  Scents of incense and
+perfumes hang about heavily in the air, almost smothering one who
+walks into here.  A swirling mist of darkness boils and writhes about,
+hiding one who the nomads respect and fear greatly.    
+~
+82 65540 0 0 0 1
+D1
+~
+~
+0 0 8207 0
+S
+#8209
+A Kubalai nomad's Tent~
+This is a typical tent of the inhabitants of this camp.  Loose folds
+of pale cloth form the walls and the ceiling, creating a relaxed
+atmosphere.  Brightly colored swaths of light material hang about the
+place, creating a festive look.  A harshly woven rug of hair covers
+the sandy ground, tickling one's feet as they walk upon it.  Large
+pillows scattered about are the only furnishings that are used here.
+  
+~
+82 65536 0 0 0 1
+D3
+~
+~
+0 0 8207 0
+S
+#8210
+Chieftan's Tent~
+Gaily-colored silks drape from on high in this tent, marking it as the
+abode of the Nomadic Chief.  Plush pillows and soft carpets make the
+place very appealing and comfortable to the weary traveller.  No signs
+of hardships of the life in the desert is apparent here.    
+~
+82 65536 0 0 0 1
+D0
+~
+~
+0 0 8207 0
+S
+#8211
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8214 0
+D1
+~
+~
+0 0 8212 0
+D2
+~
+~
+0 0 8211 0
+D3
+~
+~
+0 0 8284 0
+S
+#8212
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.  An
+unscalable cliff of sand created from an enormous dune blocks passage
+to the south and east.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8215 0
+D3
+~
+~
+0 0 8211 0
+S
+#8213
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.  An
+unscalable cliff of sand created from an enormous dune blocks passage
+to the south and west.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8217 0
+D1
+~
+~
+0 0 8213 0
+S
+#8214
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8223 0
+D1
+~
+~
+0 0 8215 0
+D2
+~
+~
+0 0 8211 0
+D3
+~
+~
+0 0 8285 0
+S
+#8215
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8222 0
+D1
+~
+~
+0 0 8216 0
+D2
+~
+~
+0 0 8212 0
+D3
+~
+~
+0 0 8214 0
+S
+#8216
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.  Two enormous dunes
+rise in the south, creating an exceptionally deep valley.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8221 0
+D1
+~
+~
+0 0 8217 0
+D2
+~
+~
+0 0 8200 0
+D3
+~
+~
+0 0 8215 0
+S
+#8217
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8220 0
+D1
+~
+~
+0 0 8218 0
+D2
+~
+~
+0 0 8213 0
+D3
+~
+~
+0 0 8216 0
+S
+#8218
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8219 0
+D1
+~
+~
+0 0 8218 0
+D2
+~
+~
+0 0 8218 0
+D3
+~
+~
+0 0 8217 0
+S
+#8219
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8228 0
+D1
+~
+~
+0 0 8219 0
+D2
+~
+~
+0 0 8218 0
+D3
+~
+~
+0 0 8220 0
+S
+#8220
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8227 0
+D1
+~
+~
+0 0 8219 0
+D2
+~
+~
+0 0 8217 0
+D3
+~
+~
+0 0 8221 0
+S
+#8221
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8226 0
+D1
+~
+~
+0 0 8220 0
+D2
+~
+~
+0 0 8216 0
+D3
+~
+~
+0 0 8222 0
+S
+#8222
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8225 0
+D1
+~
+~
+0 0 8221 0
+D2
+~
+~
+0 0 8215 0
+D3
+~
+~
+0 0 8223 0
+S
+#8223
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8224 0
+D1
+~
+~
+0 0 8222 0
+D2
+~
+~
+0 0 8214 0
+D3
+~
+~
+0 0 8286 0
+S
+#8224
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8234 0
+D1
+~
+~
+0 0 8225 0
+D2
+~
+~
+0 0 8223 0
+D3
+~
+~
+0 0 8287 0
+S
+#8225
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8235 0
+D1
+~
+~
+0 0 8226 0
+D2
+~
+~
+0 0 8222 0
+D3
+~
+~
+0 0 8224 0
+S
+#8226
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8236 0
+D1
+~
+~
+0 0 8227 0
+D2
+~
+~
+0 0 8221 0
+D3
+~
+~
+0 0 8225 0
+S
+#8227
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8237 0
+D1
+~
+~
+0 0 8228 0
+D2
+~
+~
+0 0 8220 0
+D3
+~
+~
+0 0 8226 0
+S
+#8228
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8228 0
+D1
+~
+~
+0 0 8228 0
+D2
+~
+~
+0 0 8219 0
+D3
+~
+~
+0 0 8227 0
+S
+#8229
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+south.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8238 0
+D1
+~
+~
+0 0 8230 0
+D3
+~
+~
+0 0 8229 0
+S
+#8230
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8239 0
+D1
+~
+~
+0 0 8231 0
+D2
+~
+~
+0 0 8266 0
+D3
+~
+~
+0 0 8229 0
+S
+#8231
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8240 0
+D1
+~
+~
+0 0 8232 0
+D2
+~
+~
+0 0 8267 0
+D3
+~
+~
+0 0 8230 0
+S
+#8232
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8241 0
+D1
+~
+~
+0 0 8233 0
+D2
+~
+~
+0 0 8268 0
+D3
+~
+~
+0 0 8231 0
+S
+#8233
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8242 0
+D1
+~
+~
+0 0 8234 0
+D2
+~
+~
+0 0 8287 0
+D3
+~
+~
+0 0 8232 0
+S
+#8234
+Kubalai Desert~
+The vast ocean of sand continues, oppressed by the sweltering heat.  
+The harsh wind stirs up the sand, creating a cloud of blinding dust.
+Sand dunes of all sizes slowly change and move with each gust of wind.
+The terrain seems to slope down to the north where broken carapaces,
+exoskeletons, and bones peek out from the rippling sands.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8243 0
+D1
+~
+~
+0 0 8235 0
+D2
+~
+~
+0 0 8224 0
+D3
+~
+~
+0 0 8233 0
+S
+#8235
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8244 0
+D1
+~
+~
+0 0 8236 0
+D2
+~
+~
+0 0 8225 0
+D3
+~
+~
+0 0 8234 0
+S
+#8236
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8245 0
+D1
+~
+~
+0 0 8237 0
+D2
+~
+~
+0 0 8226 0
+D3
+~
+~
+0 0 8235 0
+S
+#8237
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8237 0
+D1
+~
+~
+0 0 8237 0
+D2
+~
+~
+0 0 8227 0
+D3
+~
+~
+0 0 8236 0
+S
+#8238
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8246 0
+D1
+~
+~
+0 0 8239 0
+D2
+~
+~
+0 0 8229 0
+D3
+~
+~
+0 0 8238 0
+S
+#8239
+Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A plethora of small, scraggly-looking shrubs
+and cacti can be seen in some distance to the north, offering a sign
+of hope in escaping this turbulent wind storm.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8247 0
+D1
+~
+~
+0 0 8240 0
+D2
+~
+~
+0 0 8230 0
+D3
+~
+~
+0 0 8238 0
+S
+#8240
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8248 0
+D1
+~
+~
+0 0 8241 0
+D2
+~
+~
+0 0 8231 0
+D3
+~
+~
+0 0 8239 0
+S
+#8241
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8249 0
+D1
+~
+~
+0 0 8242 0
+D2
+~
+~
+0 0 8232 0
+D3
+~
+~
+0 0 8240 0
+S
+#8242
+Kubalai Desert~
+The vast ocean of sand continues, oppressed by the sweltering heat.  
+The harsh wind stirs up the sand, creating a cloud of blinding dust.
+Sand dunes of all sizes slowly change and move with each gust of wind.
+The terrain seems to slope down to the east where broken carapaces,
+exoskeletons, and bones peek out from the rippling sands.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8250 0
+D1
+~
+~
+0 0 8243 0
+D2
+~
+~
+0 0 8233 0
+D3
+~
+~
+0 0 8241 0
+S
+#8243
+Tam'ala Lair~
+The sand suddenly slopes downwards as if it was a funnel.  This is the
+lair of the dreaded Tam'ala who have hunted in these parts eons.  The
+trap is cleverly set, anything blundering in will soon find it
+difficult to climb out for the sifting sand keeps flowing down towards
+the funnel.  Fragmented exoskeletons and discarded bones litter all
+about.    
+~
+82 65604 0 0 0 11
+D0
+~
+~
+0 0 8251 0
+D1
+~
+~
+0 0 8244 0
+D2
+~
+~
+0 0 8234 0
+D3
+~
+~
+0 0 8242 0
+S
+#8244
+Kubalai Desert~
+The vast ocean of sand continues, oppressed by the sweltering heat.  
+The harsh wind stirs up the sand, creating a cloud of blinding dust.
+Sand dunes of all sizes slowly change and move with each gust of wind.
+The terrain seems to slope down to the west where broken carapaces,
+exoskeletons, and bones peek out from the rippling sands.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8252 0
+D1
+~
+~
+0 0 8245 0
+D2
+~
+~
+0 0 8235 0
+D3
+~
+~
+0 0 8243 0
+S
+#8245
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 0 0 0 0 11
+D0
+~
+~
+0 0 8245 0
+D1
+~
+~
+0 0 8245 0
+D2
+~
+~
+0 0 8236 0
+D3
+~
+~
+0 0 8244 0
+S
+#8246
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A plethora of small, scraggly-looking shrubs
+and cacti can be seen in some distance to the east, offering a sign of
+hope in escaping this turbulent wind storm.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8246 0
+D1
+~
+~
+0 0 8247 0
+D2
+~
+~
+0 0 8238 0
+D3
+~
+~
+0 0 8246 0
+S
+#8247
+Oasis~
+An oasis, sheltered from the bitter winds by the dense cluster of
+scraggly shrubs all around it, is a welcome sight for the weary
+traveler.  It is not a comfortable spot to be, for the shrubs are
+thorny and prickly, but is much better than being out in the open
+desert.    
+~
+82 65616 0 0 0 6
+D0
+~
+~
+0 0 8253 0
+D1
+~
+~
+0 0 8248 0
+D2
+~
+~
+0 0 8239 0
+D3
+~
+~
+0 0 8246 0
+S
+#8248
+Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A plethora of small, scraggly-looking shrubs
+and cacti can be seen in some distance to the west, offering a sign of
+hope in escaping this turbulent wind storm.    
+~
+82 0 0 0 0 11
+D0
+~
+~
+0 0 8254 0
+D1
+~
+~
+0 0 8249 0
+D2
+~
+~
+0 0 8240 0
+D3
+~
+~
+0 0 8247 0
+S
+#8249
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8255 0
+D1
+~
+~
+0 0 8250 0
+D2
+~
+~
+0 0 8241 0
+D3
+~
+~
+0 0 8248 0
+S
+#8250
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8256 0
+D1
+~
+~
+0 0 8251 0
+D2
+~
+~
+0 0 8242 0
+D3
+~
+~
+0 0 8249 0
+S
+#8251
+Kubalai Desert~
+The vast ocean of sand continues, oppressed by the sweltering heat.  
+The harsh wind stirs up the sand, creating a cloud of blinding dust.
+Sand dunes of all sizes slowly change and move with each gust of wind.
+The terrain seems to slope down to the south where broken carapaces,
+exoskeletons, and bones peek out from the rippling sands.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8257 0
+D1
+~
+~
+0 0 8252 0
+D2
+~
+~
+0 0 8243 0
+D3
+~
+~
+0 0 8250 0
+S
+#8252
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 4700 0
+D1
+~
+~
+0 0 8252 0
+D2
+~
+~
+0 0 8244 0
+D3
+~
+~
+0 0 8251 0
+S
+#8253
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A plethora of small, scraggly-looking shrubs
+and cacti can be seen in some distance to the south, offering a sign
+of hope in escaping this turbulent wind storm.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8253 0
+D1
+~
+~
+0 0 8254 0
+D2
+~
+~
+0 0 8247 0
+D3
+~
+~
+0 0 8253 0
+S
+#8254
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8258 0
+D1
+~
+~
+0 0 8255 0
+D2
+~
+~
+0 0 8248 0
+D3
+~
+~
+0 0 8253 0
+S
+#8255
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8259 0
+D1
+~
+~
+0 0 8256 0
+D2
+~
+~
+0 0 8249 0
+D3
+~
+~
+0 0 8254 0
+S
+#8256
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8256 0
+D1
+~
+~
+0 0 8257 0
+D2
+~
+~
+0 0 8250 0
+D3
+~
+~
+0 0 8255 0
+S
+#8257
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8257 0
+D1
+~
+~
+0 0 8257 0
+D2
+~
+~
+0 0 8251 0
+D3
+~
+~
+0 0 8256 0
+S
+#8258
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8258 0
+D1
+~
+~
+0 0 8259 0
+D2
+~
+~
+0 0 8254 0
+D3
+~
+~
+0 0 8258 0
+S
+#8259
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8259 0
+D1
+~
+~
+0 0 8259 0
+D2
+~
+~
+0 0 8255 0
+D3
+~
+~
+0 0 8258 0
+S
+#8260
+Pyramid~
+It is surprisingly cool in here as compared to the intense heat
+outside in the desert.  The stone walls are adorned with ancient,
+long-forgotten symbols and writing.  The sand on the floor make a
+gentle rasping sound as one's footsteps land in this otherwise
+strangely silent tomb.    
+~
+82 65793 0 0 0 0
+D1
+~
+~
+0 0 8269 0
+D3
+~
+~
+0 0 8261 0
+S
+#8261
+Pyramid~
+It is surprisingly cool in here as compared to the intense heat
+outside in the desert.  The stone walls are adorned with ancient,
+long-forgotten symbols and writing.  The sand on the floor make a
+gentle rasping sound as one's footsteps land in this otherwise
+strangely silent tomb.    
+~
+82 65793 0 0 0 0
+D1
+~
+~
+0 0 8260 0
+D3
+~
+~
+0 0 8265 0
+S
+#8262
+Pyramid~
+The cool stone walls are slanted at an angle to the inside, reaching
+high and meeting into an apex somewheres in the darkness.  The stone
+floor, undisturbed for eons, is lightly coated with sand.  Carvings
+and runes adorn the stony walls, telling a story untold for ages.    
+~
+82 65793 0 0 0 0
+D2
+~
+~
+0 0 8265 0
+S
+#8263
+Pyramid~
+The cool stone walls are slanted at an angle to the inside, reaching
+high and meeting into an apex somewheres in the darkness.  The stone
+floor, undisturbed for eons, is lightly coated with sand.  Carvings
+and runes adorn the stony walls, telling a story untold for ages.    
+~
+82 65793 0 0 0 0
+D0
+~
+~
+0 0 8265 0
+S
+#8264
+Pyramid~
+The cool stone walls are slanted at an angle to the inside, reaching
+high and meeting into an apex somewheres in the darkness.  The stone
+floor, undisturbed for eons, is lightly coated with sand.  Carvings
+and runes adorn the stony walls, telling a story untold for ages.  A
+faint, damp smell wafts gently by here.    
+~
+82 65793 0 0 0 0
+D1
+~
+~
+0 0 8265 0
+D5
+The secret door is hard to discern from the stone blocks of this place.
+~
+secret door~
+1 0 26797 19
+S
+#8265
+Central Chamber of the Pyramid~
+Flickering torches light up the central chamber of the pyramid.  The
+elusive and dim shadows muffle the vastness of this place.  A gentle
+breeze flows through here from an unknown source.  The massive stone
+wall rises high above the ground, meeting together at the top forming
+a majestic cathedral ceiling.  Strange and beautiful symbols decorate
+the entire place.  The purpose of this place has been lost and hidden
+among the sands of the vast desert.    
+~
+82 65793 0 0 0 0
+D0
+~
+~
+0 0 8262 0
+D1
+~
+~
+0 0 8261 0
+D2
+~
+~
+0 0 8263 0
+D3
+~
+~
+0 0 8264 0
+S
+#8266
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+south and west.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8230 0
+D1
+~
+~
+0 0 8267 0
+S
+#8267
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+south.    
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8231 0
+D1
+~
+~
+0 0 8268 0
+D3
+~
+~
+0 0 8266 0
+S
+#8268
+Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A gaping opening into the half-buried
+structure can be seen to the south.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8232 0
+D1
+~
+~
+0 0 8287 0
+D2
+~
+~
+0 0 8269 0
+D3
+~
+~
+0 0 8267 0
+S
+#8269
+Pyramid Entrance~
+It is surprisingly cool in here as compared to the intense heat
+outside in the desert.  The stone walls are adorned with ancient,
+long-forgotten symbols and writing.  The sand on the floor make a
+gentle rasping sound as one's footsteps land in this otherwise
+strangely silent tomb.  One can go west deeper into the tomb, or head
+north back out into the endless flurries of sand.    
+~
+82 65797 0 0 0 0
+D0
+~
+~
+0 0 8268 0
+D3
+~
+~
+0 0 8260 0
+S
+#8270
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+north.    
+~
+82 64 0 0 0 12
+D1
+~
+~
+0 0 8285 0
+D2
+~
+~
+0 0 8272 0
+D3
+~
+~
+0 0 8271 0
+S
+#8271
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+north.    
+~
+82 64 0 0 0 11
+D1
+~
+~
+0 0 8270 0
+D2
+~
+~
+0 0 8273 0
+D3
+~
+~
+0 0 8274 0
+S
+#8272
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8270 0
+D1
+~
+~
+0 0 8284 0
+D2
+~
+~
+0 0 8275 0
+D3
+~
+~
+0 0 8273 0
+S
+#8273
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8271 0
+D1
+~
+~
+0 0 8272 0
+D2
+~
+~
+0 0 8273 0
+D3
+~
+~
+0 0 8273 0
+S
+#8274
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+north and west.    
+~
+82 64 0 0 0 12
+D1
+~
+~
+0 0 8271 0
+D2
+~
+~
+0 0 8274 0
+S
+#8275
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  This ocean of sand and heat seem endless,
+creating a unique feeling of exhilaration and despair at once.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8272 0
+D1
+~
+~
+0 0 8283 0
+D2
+~
+~
+0 0 8275 0
+D3
+~
+~
+0 0 8275 0
+S
+#8276
+On the Dunes~
+   You stand upon the dunes north of the beach.  OUCH!!!  The sand is
+so hot that it seems to pierce, like nails, through the soles of your
+worn boots.  You can only hope that, your precious feet do not get
+hurt.    
+~
+82 0 0 0 0 11
+D0
+~
+~
+0 0 8277 0
+D2
+~
+~
+0 0 8289 0
+S
+#8277
+On a Dirt Road~
+   You stand at the beginnings of a dirt road which, seems to travel
+endlessly to the north.  As far as you can tell, there is little or no
+life to be seen.  It has also gotten noticably hotter, far hotter than
+you would like.    
+~
+82 0 0 0 0 10
+D0
+~
+~
+0 0 8278 0
+D2
+~
+~
+0 0 8276 0
+S
+#8278
+On a Dirt Road~
+   The dirt road seems to travel endlessly to the north.  As far as
+you can tell, there is little or no life to be seen.  It has also
+gotten noticably hotter, far hotter than you would like.    
+~
+82 0 0 0 0 10
+D0
+~
+~
+0 0 8279 0
+D2
+~
+~
+0 0 8277 0
+S
+#8279
+On a Dirt Road~
+   The dirt road seems to travel endlessly to the north.  As far as
+you can tell, there is little or no life to be seen.  It has also
+gotten noticably hotter, far hotter than you would like.    
+~
+82 0 0 0 0 10
+D0
+~
+~
+0 0 8280 0
+D2
+~
+~
+0 0 8278 0
+S
+#8280
+On a Dirt Road~
+   The dirt road seems to travel endlessly to the north.  As far as
+you can tell, there is little or no life to be seen.  It has also
+gotten noticably hotter, far hotter than you would like.    
+~
+82 0 0 0 0 10
+D0
+~
+~
+0 0 8281 0
+D2
+~
+~
+0 0 8279 0
+S
+#8281
+On a Sandy Road~
+   The road which you had been travelling on has turned mysteriously
+sandy.  Along the same lines, it has gotten extremely hotter and you
+start sweating profusely.  You wipe your brow, and dampen your face
+with some water, hoping that it will get cooler.    
+~
+82 0 0 0 0 11
+D0
+~
+~
+0 0 8282 0
+D2
+~
+~
+0 0 8280 0
+S
+#8282
+On a Sandy Road~
+   You travel on a mysterious sandy road.  It has gotten extremely hot
+and you start sweating profusely.  You wipe your brow, and dampen your
+face with some water, hoping that it will get cooler.    
+~
+82 0 0 0 0 12
+D0
+~
+~
+0 0 8283 0
+D2
+~
+~
+0 0 8281 0
+S
+#8283
+On a Sandy Road~
+   You travel on a mysterious sandy road.  It has gotten extremely hot
+and you start sweating profusely.  You wipe your brow, and dampen your
+face with some water, hoping that it will get cooler.    
+~
+82 0 0 0 0 11
+D0
+~
+~
+0 0 8284 0
+D2
+~
+~
+0 0 8282 0
+D3
+~
+~
+0 0 8275 0
+S
+#8284
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8285 0
+D1
+~
+~
+0 0 8211 0
+D2
+~
+~
+0 0 8283 0
+D3
+~
+~
+0 0 8272 0
+S
+#8285
+Border of the Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8286 0
+D1
+~
+~
+0 0 8214 0
+D2
+~
+~
+0 0 8284 0
+D3
+~
+~
+0 0 8270 0
+S
+#8286
+Border of the Kubalai Desert~
+Countless dunes dot the horizon for as far as the eye can see.  
+Visibility and breathing is greatly impaired as the dust storm
+intensifies.  The howling wind roars as it sweeps up and lashes out
+abrasive, stinging sand.  A sloping stone-block wall of an ancient
+structure, half-buried in the sand, bars any further travel to the
+west.    
+~
+82 64 0 0 0 12
+D0
+~
+~
+0 0 8287 0
+D1
+~
+~
+0 0 8223 0
+D2
+~
+~
+0 0 8285 0
+S
+#8287
+Kubalai Desert~
+The broad expanse of the Kubalai Desert seems to extend as far as the
+eye can see.  Swirling sand, swept up by the harsh winds sweeping
+through here, create a suffocating and hazy atmosphere.  The blazing
+sun, high overhead, relentlessly scorches the land.  Evershifting
+dunes create a paranormic view of endless valleys and peaks.  Despite
+the barreness of the land, it is everchanging.
+~
+82 64 0 0 0 11
+D0
+~
+~
+0 0 8233 0
+D1
+~
+~
+0 0 8224 0
+D2
+~
+~
+0 0 8286 0
+D3
+~
+~
+0 0 8268 0
+S
+#8288
+An Oasis~
+You stand at a beautiful oasis, surrounded by tall, leafy palm trees.
+This would be an excellent place to rest, fill your canteen for it may
+be the only place you get to do so for some time.    
+~
+82 0 0 0 0 2
+D1
+~
+~
+0 0 8200 0
+D3
+~
+~
+0 0 8287 0
+S
+#8289
+Beach~
+   The beach is small and sandy.  Woods border the beach to the east
+and west, forming an impassable barrier.  Sandy dunes rise up to the
+north, while to the south is the river.  The faint plume of smoke can
+be seen in the distant south.    
+~
+82 268435460 0 0 0 11
+D0
+~
+~
+0 0 8276 0
+D2
+~
+~
+0 0 512 0
+S
+$~

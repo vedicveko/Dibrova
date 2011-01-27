@@ -1,0 +1,328 @@
+#19400
+Elkain wanderer mage elven elf dark~
+Elkain~
+A tall Elf in a dark cloak stands here.
+~
+Elkain the mage is an old student of Qui'lok, the dark mage, after banishment
+of his master Elkain took to wandering the world in search on elightenment.
+~
+1574938 0 0 0 537135376 0 0 0 -1000 E
+99 76 -40 1d1+2900 6d8+66
+1925 689869
+8 8 1
+BareHandAttack: 14
+Str: 21
+Dex: 10
+Int: 14
+Wis: 5
+Con: 9
+Cha: 5
+Luck: 15
+Class: 1
+Race: 15
+E
+#19401
+Nert shrub~
+a Nert Shrub~
+A nert shrub grows here.
+~
+You stare at large oval shrubbery with deep green leaves and two small
+holes near the top that look almost like eyes...    
+~
+72 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+2525 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 21
+Int: 13
+Wis: 6
+Con: 22
+Cha: 18
+Luck: 9
+Race: 26
+E
+#19402
+Skirk tree~
+a Skirk Tree~
+A tree with hand-like branches is standing here.
+~
+It wanders about under it's own free will and touches everything it
+can get it's hands on.    
+~
+65608 0 0 0 0 0 0 0 0 E
+8 2 68 1d1+2550 1d2+5
+0 941
+8 8 0
+BareHandAttack: 2
+Str: 12
+Dex: 24
+Int: 25
+Wis: 14
+Con: 13
+Cha: 20
+Luck: 18
+Race: 26
+E
+#19403
+guard elf~
+a Gate Guard~
+A gate guard is here, looking groggy and pissed off.
+~
+As you look at him you notice he is a bit large for an elf and his ears 
+come to a really sharp point.
+~
+559114 0 0 0 16 0 0 0 0 E
+90 66 -40 1d1+2575 6d7+60
+1700 450852
+4 8 1
+BareHandAttack: 3
+Dex: 23
+Int: 17
+Wis: 24
+Con: 9
+Cha: 20
+Luck: 8
+Class: 4
+Race: 15
+E
+#19404
+elf girl elven~
+a young Elf girl~
+A young Elf girl stands here.
+~
+She notices you looking at her and gestures around herself.  "How do
+you like my house?  ", she exclaims.  "If you catch a nert shrub and
+tie it down it'll grow into a large hut.  "
+~
+2058 0 0 0 16 0 0 0 0 E
+80 56 -40 1d1+2600 6d7+53
+1400 333884
+8 8 2
+BareHandAttack: 13
+Str: 20
+Dex: 8
+Int: 10
+Wis: 23
+Con: 6
+Cha: 22
+Luck: 8
+Race: 15
+E
+#19405
+elf fisherman~
+an elven Fisherman~
+An elven fisherman walks about.
+~
+As you look at him you notice that he is a bit large for an Elf and
+his ears come to a really sharp point.    
+~
+71752 0 0 0 16 131072 0 0 0 E
+88 64 -40 1d1+2600 6d7+58
+1600 425742
+8 8 0
+Str: 12
+Dex: 6
+Int: 9
+Con: 23
+Cha: 7
+Luck: 24
+Class: 5
+Race: 15
+E
+#19406
+fish grouper~
+a Grouper~
+A larger grouper fish swims here.
+~
+He is very big and is a mottled orange color.
+~
+72 0 0 0 16777408 0 0 0 0 E
+5 1 80 1d1+2600 1d2+3
+0 283
+8 8 0
+BareHandAttack: 10
+Str: 21
+Dex: 13
+Int: 25
+Wis: 25
+Con: 6
+Cha: 12
+Luck: 20
+Race: 4
+E
+#19407
+elf elder~
+an elven Elder~
+The Elf elder stands here.
+~
+She looks up at you and says, "Something about the Water Temple in
+Lagoon makes all big and strong, even the plants and animals around
+here are large for their kind.  " The Elder pauses for a moment and
+continues, "Some people believe that a piece of the tool that the Gods
+used to create Lagoon is stored in the temple and that is what makes
+all of us strong.  "
+~
+34842 0 0 0 16 32768 0 0 1000 E
+97 74 -40 1d1+5000 6d8+64
+1875 545738
+8 8 2
+BareHandAttack: 16
+Str: 6
+Dex: 18
+Int: 25
+Wis: 14
+Con: 15
+Cha: 20
+Luck: 12
+Class: 1
+Race: 15
+E
+#19408
+golden fish~
+a large golden fish~
+A large golden fish swims in slow circles around you.
+~
+Large and golden, nothing else is unusual about this fish.
+~
+72 0 0 0 16777408 0 0 0 0 E
+3 0 88 1d1+2575 1d1+2
+0 77
+8 8 0
+Str: 15
+Dex: 16
+Int: 16
+Wis: 10
+Con: 9
+Cha: 25
+Luck: 12
+Race: 4
+E
+#19409
+elf~
+an Elf~
+An Elf swims here.
+~
+He is very large and swims with a long sure stroke.
+~
+596040 0 0 0 16777424 0 0 0 0 E
+83 59 -40 1d1+2600 6d7+55
+1475 366746
+8 8 0
+Dex: 16
+Int: 20
+Wis: 23
+Con: 13
+Cha: 18
+Class: 2
+Race: 15
+E
+#19410
+elf fisherman~
+an elven Fisherman~
+An Elf fishes here.
+~
+Like all of the Elfs around here, he is really big for his kind.
+~
+526408 0 0 0 16777360 0 0 0 0 E
+82 58 -40 1d1+2625 6d7+54
+1450 355583
+8 8 0
+BareHandAttack: 13
+Str: 16
+Dex: 24
+Int: 12
+Wis: 14
+Con: 22
+Cha: 15
+Luck: 8
+Class: 5
+Race: 15
+E
+#19411
+Elf healer elven~
+an elven Healer~
+An Elven healer stands here.
+~
+She looks down at you and asks, "Have you ever been in the Water
+Temple in Lagoon?  I've been trying to get there for years but I have
+never been able to find the key.  "
+~
+530458 0 0 0 134217744 0 0 0 0 E
+89 65 -40 1d1+2625 6d7+59
+1675 460097
+8 8 2
+BareHandAttack: 7
+Str: 17
+Dex: 18
+Wis: 25
+Con: 24
+Cha: 17
+Luck: 6
+Class: 2
+Race: 15
+E
+#19412
+elf~
+an Elf~
+An Elf stands here, trimming its house.
+~
+He looks pretty big and his ears seem really sharp to you.
+~
+38922 0 0 0 16 0 0 0 0 E
+81 57 -40 1d1+2625 6d7+54
+1425 344630
+8 8 0
+Str: 12
+Dex: 5
+Int: 25
+Wis: 22
+Con: 24
+Cha: 9
+Luck: 9
+Class: 2
+Race: 15
+E
+#19413
+elf shop keeper~
+an Elf~
+An Elf tends to his shop here.
+~
+He is rather large and stocky for a typical elf.
+~
+530442 0 0 0 2128 0 0 0 0 E
+82 58 -40 1d1+2625 6d7+54
+1450 355583
+8 8 1
+Str: 19
+Dex: 15
+Int: 16
+Con: 9
+Cha: 19
+Luck: 19
+Class: 2
+Race: 15
+E
+#19414
+newt~
+a Newt~
+A newt studies you with a curious eye.
+~
+Small and slippery, the newt minds it's own business.
+~
+72 0 0 0 16777408 0 0 0 0 E
+1 0 96 1d1+2575 1d1+0
+0 4
+8 8 0
+BareHandAttack: 10
+Str: 6
+Dex: 16
+Int: 19
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 13
+Race: 2
+E
+$

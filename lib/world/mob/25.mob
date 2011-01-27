@@ -1,0 +1,562 @@
+#2500
+draconian scout~
+a draconian Scout~
+A large Draconian is patroling the road.
+~
+This draconian is lightly clad, ready to run if he sees any sign of
+danger.    
+~
+4744 0 0 0 2112 0 0 0 -30 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 17
+Luck: 12
+Race: 42
+E
+#2501
+draconian war rider~
+a draconian War Rider~
+A large draconian strides past you, all leather and jingling armor.
+~
+Even without it's steed, this draconian makes a fearsome picture of
+brutality and strength.  Imagine how it must look in full battle gear
+astride it's war horse.    
+~
+72 0 0 0 2048 0 0 0 -60 E
+28 13 -12 1d28+2150 2d4+18
+250 22959
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 10
+Luck: 12
+Class: 4
+Race: 42
+E
+#2502
+draconian soldier~
+a draconian Soldier~
+A member of the Draconian Army moves sinuously past, all grace and flowing movement.
+~
+It casts a look of hatred in your direction, pure venom and grudge
+steeped in time honored Draconian history.    
+~
+4168 0 0 0 2048 0 0 0 -50 E
+26 11 -4 1d26+2050 2d3+17
+200 19006
+8 8 0
+BareHandAttack: 3
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 25
+Luck: 12
+Race: 42
+E
+#2503
+draconian recruit~
+a draconian Recruit~
+A draconian ambles past you looking very unsure of what it should be doing.
+~
+It constantly glances one way and then another, as if it were afraid
+it was doing something wrong.  In fact, it is so worried about itself
+that it fails to notice you!    
+~
+4106 0 0 0 2048 0 0 0 -20 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 0
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 18
+Luck: 12
+Race: 42
+E
+#2504
+draconian task master~
+a draconian Taskmaster~
+A draconian with unkind, keen eyes keeps a constant vigil on the progress of the recruits.
+~
+Although never having uttered a grunt or hiss, this draconian is able
+to keep those under it's supervision in constant motion.  This must be
+one mean draconian here.    
+~
+67594 0 0 0 16779328 0 0 0 -115 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Class: 9
+Race: 42
+E
+#2505
+draconian hatchling~
+a draconian Hatchling~
+A small draconian hisses in your direction, spying you immediately.
+~
+This is one of the smaller draconians you have seen here, but
+obviously not one of the more complacent!    
+~
+4138 0 0 0 512 0 0 0 -5 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 18
+Luck: 12
+Race: 42
+E
+#2506
+injured draconian~
+an injured Draconian~
+A draconian limps past you, it's left leg a mass of oozing, open wounds.
+~
+It appears that the camp does not have any kind of physician on staff,
+and if they do, the physician must be extremely busy.    
+~
+10 0 0 0 2048 0 0 0 -15 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 10
+Luck: 12
+Race: 42
+E
+#2507
+guardian hatchling silver eyes~
+the Guardian of the Hatchlings~
+A pair of glowing, silver, eyes stare out from the darkness, watching the hatchlings.
+~
+There are no words to describe the utter fear that these pair of eyes
+exude.  Although, appearring to be scanning the room, you know that
+they are intently fixed on you and any move you may try to make.    
+~
+247818 0 0 0 8390976 0 0 0 500 E
+44 24 -24 1d44+2900 4d5+29
+600 79966
+8 8 0
+BareHandAttack: 9
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 18
+Luck: 12
+Class: 4
+Race: 11
+E
+#2508
+draconian infantryman~
+a draconian Infantryman~
+A draconian marches by, eyes forward and looking very serious.
+~
+It refuses to acknowledge the fact that you are near, only that it has
+a very severe taskmaster who punishes for lack of obedience.    
+~
+4168 0 0 0 2560 0 0 0 -40 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 20
+Luck: 12
+Race: 42
+E
+#2509
+sub commander draconian~
+a draconian Sub-Commander~
+A draconian wearing a bright red sash across it's chest struts past you.
+~
+The sash is obviously it's way of designated it's supriority over
+other draconians in the army.    
+~
+67594 0 0 0 0 0 0 0 -200 E
+37 19 -20 1d37+2450 3d6+24
+400 46733
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 25
+Luck: 12
+Class: 4
+Race: 42
+E
+#2510
+pyke draconian second~
+Pyke, Scah'lynn's second-in-command~
+A huge draconian looks your way, lips curled back and growling!
+~
+This draconian seems less than pleased to see you.  In fact it looks
+extremely angry.    
+~
+219208 0 0 0 67648 4194304 0 0 -250 E
+39 20 -20 1d39+2500 4d5+26
+450 53447
+8 8 0
+BareHandAttack: 8
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 22
+Luck: 12
+Class: 9
+Race: 42
+E
+#2511
+scah'lyyn draconian commander~
+Commander Scah'lyyn~
+A draconian sits at a desk here, reviewing several papers on its makeshift desk.
+~
+The draconian places a jagged claw to its forehead, focusing intently
+on a piece of parchment before it.    
+~
+120842 0 0 0 16845136 4194304 0 0 -275 E
+42 22 -24 1d42+2700 4d5+28
+550 71021
+6 8 0
+BareHandAttack: 8
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 10
+Luck: 12
+Class: 4
+Race: 42
+E
+#2512
+quarrin draconian instructor taskmaster~
+Instructor Quarrin~
+A squat draonian paces about, instructing youngsters in the art of war.
+~
+The draconians' face is expressionless, content that any draconian
+WILL receive severe punishment if his instructions are not carried
+out.    
+~
+83994 0 0 0 33556560 0 0 0 0 E
+37 19 -20 1d37+2450 3d6+24
+400 46733
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 13
+Luck: 12
+Class: 4
+Race: 42
+E
+#2513
+withered old nag~
+a withered old Nag~
+A withered old horse stands here.
+~
+It's an old horse, what would you expect.
+~
+262154 0 0 0 0 0 0 0 0 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 5
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 13
+Luck: 12
+Race: 1
+E
+#2514
+horse~
+a Horse~
+A lively, young horse stands here.
+~
+A horse is a horse. Of course...of course.
+~
+262154 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 0
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Race: 52
+E
+#2515
+mule~
+a Mule~
+A mule is here.
+~
+Heee...Haawwwww!!!
+~
+262154 0 0 0 0 0 0 0 0 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 5
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 14
+Luck: 12
+Race: 52
+E
+#2516
+field mouse~
+a Field Mouse~
+A small mouse scurries past you.
+~
+SQUEAK!!
+~
+204 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 17
+Luck: 12
+Race: 1
+E
+#2517
+watchful hawk~
+a watchful Hawk~
+A hawk flies about in search of mice.
+~
+A watchful hawk.
+~
+72 0 0 0 8388608 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 8
+Luck: 12
+Race: 3
+E
+#2518
+draconian veteran~
+a draconian Veteran~
+A draconian curls his lips at your presence.
+~
+The aged draconian runs a claw down the edge of its sword, feeling if
+its sharp enough to cut through you in one blow or two.    
+~
+69704 0 0 0 2112 0 0 0 -75 E
+33 16 -20 1d33+2350 3d4+22
+300 34908
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 9
+Luck: 12
+Race: 42
+E
+#2519
+teh'mnis seasoned veteran~
+Teh'mnis, a seasoned veteran~
+A loud draconian stumbles by, with beer stine in clawed hand.
+~
+The draconian could care less of what happens around it right now.  
+All it cares about is the beer in his stine and how full it is.    
+~
+22600 0 0 0 2128 0 0 0 -50 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 14
+Luck: 12
+Race: 42
+E
+#2520
+draconian squad leader~
+a draconian Squad Leader~
+A slight hiss crosses the lips of the squad leader, as he glares at you.
+~
+Yet another draconian not happy to see you, the draconian raises his
+sword to antagonizing you to do the same.    
+~
+65608 0 0 0 2624 0 0 0 -110 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 12
+Luck: 12
+Class: 4
+Race: 42
+E
+#2521
+draconian guard~
+a draconian Guard~
+A draconian figgets impatiently, disgusted at the thought of being a guard.
+~
+The draconians stands lazily, messing with armor straps and adjusting
+its belt.  It's so busy doing this that it doesn't even realize you
+are there.    
+~
+4106 0 0 0 2112 0 0 0 0 E
+26 11 -4 1d26+2050 2d3+17
+200 19006
+8 8 0
+BareHandAttack: 3
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 16
+Luck: 12
+Race: 42
+E
+#2522
+du'chinn battlemaster draconian~
+Battlemaster Du'chinn~
+An arrogant draconian prades around, preaching about his conquests.
+~
+The draconian bellows,"Well, if I were in command, we wouldn't be
+sitting around on our asses waiting for someone to attack.  If it were
+up to me we'd go attack those filthy humans and there towns just
+outside of the mountains.  " Du'chinn gives a soft hiss a mutters
+something under his breath as he finishes his speach.    
+~
+84040 0 0 0 16844880 4194304 0 0 -175 E
+36 18 -20 1d36+2425 3d5+24
+350 43580
+8 8 1
+BareHandAttack: 8
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Class: 4
+Race: 42
+E
+#2523
+nnem'ith draconian soldier~
+Nnem'ith, a draconian Soldier~
+A cocky draconian soldier marches past you.
+~
+As the draconian passes, he spits on the ground in front of you.  The
+draconian has no intention of battling you, for it would be a waste of
+its time.    
+~
+4168 0 0 0 2112 0 0 0 -50 E
+27 12 -8 1d27+2100 2d4+18
+200 20926
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 14
+Luck: 12
+Race: 42
+E
+#2524
+rae'ik draconian recruit~
+Rae'ik, a draconian Recuit~
+A draconian is here fumbling with his gear.
+~
+The draconian drops some of its belongings in front of you.  It
+scrambles to pick them only realizing that you aren't a draconian,
+thus draws its sword to fight.    
+~
+2152 0 0 0 2112 0 0 0 -20 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 12
+Luck: 12
+Class: 4
+Race: 42
+E
+$

@@ -1,0 +1,584 @@
+#7700
+note paper letter~
+a Letter~
+A letter lies crumpled here.~
+Nothing.
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+letter~
+Inhabitants of Dibrova,
+My keep is under attack by an army of an unknown kingdom. Please send aid.
+They have already breached our southern defenses and I don't know how much
+longer we can hold out against their superior numbers. If you agree to help
+us my messenger will safely guide you through our northern defensive wall.
+I only hope you get this in time.
+
+Baron Oddjob
+
+
+
+~
+#7701
+dust dracolich~
+a small pile of /cLDust/c0~
+Some dust lies here in a pile.~
+$n mixes some dust with water and quaffs it in one big gulp. Yum!
+~
+10 65548 0 0 0 1 0 0 0
+140 83 83 36 0 0 0 0
+5 2050 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dust dracolich lich~
+It looks just like ordinary dust except for a blackish tint.
+~
+#7702
+robe dark mage~
+a /cldark mage's /cLRobe/c0~
+A dark mage's robe lies crumpled in a heap.~
+~
+9 1049088 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+7 48533 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+26 5
+A
+19 2
+A
+13 -30
+A
+2 -3
+#7703
+corpse messenger~
+the corpse of a messenger~
+The corpse of the messenger is lying here.~
+~
+15 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+35 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7704
+lucky gold coin~
+a lucky /cYgold Coin/c0~
+A shiny new gold coins lies in the dirt.~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 50 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+lucky gold coin~
+The coin has a picture of a leprechaun on the heads side and a four leaf 
+clover on the tails side.
+~
+#7705
+turtle box shell shield~
+a box turtle /cgShell/c0~
+A box turtle shell lies here.~
+~
+9 0 0 0 0 513 0 0 0
+6 0 0 0 0 0 0 0
+5 1200 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+turtle box shell shield~
+It's about the same size and shape as an upside down soup bowl and has some
+pretty black and yellow markings.
+~
+#7706
+key steel elven kse~
+s /cLsteel Key/c0~
+A steel key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key steel elven~
+The key is very shiny and made out of a nice piece of elven steel.
+~
+#7707
+spider fang ring~
+a /cLSpider/cRfang /cyRing/c0~
+A small fang has been dropped here.~
+~
+9 0 0 0 0 65537 0 0 0
+2 0 0 0 0 4 0 0
+1 16666 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+spider fang ring~
+It's really sharp, if you put it on you'll probally stab yourself.
+~
+A
+13 25
+A
+19 4
+#7708
+tabard shirt~
+a /clblack /cwand /crred /cLTabard/c0~
+Someone left a black and red tabard here.~
+~
+9 0 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+10 43546 0 142 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tabard shirt~
+It's just a long cotton shirt with long sleeves.
+~
+A
+19 6
+A
+18 3
+A
+26 -3
+A
+12 -40
+A
+3 -1
+#7709
+chain mail coif~
+a /cLchainmail /cBCoif/c0~
+A chain mail coif has been left here.~
+A hood made out of small interlocking steel rings.
+~
+9 0 0 0 0 17 0 0 0
+7 0 0 0 0 0 0 0
+10 44492 0 142 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mail coif~
+The coif id made out of small, interlocking steel rings.
+The coif is made out of small, interlocking rings.
+~
+A
+18 6
+A
+19 4
+A
+26 -2
+A
+12 -25
+A
+4 -2
+A
+27 50
+#7710
+chain mail shirt~
+a /cLchainmail /cpShirt/c0~
+A chain mail shirt has been dropped here.~
+The shirt is made out of small, interlocking rings of steel.
+~
+9 4096 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+15 45439 0 142 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mail shirt~
+The shirt is made out of small, interlocking rings of steel.
+~
+A
+18 5
+A
+19 5
+A
+13 40
+A
+14 30
+A
+12 -50
+A
+3 -3
+#7711
+quarterstaff staff~
+a /cyQuarterstaff/c0~
+A quarterstaff has been left laying around here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+5 67213 0 142 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+quarterstaff staff~
+The staff is about four feet long and is made out of a heavy piece of Nirin
+wood.
+~
+A
+18 6
+A
+19 5
+A
+26 -2
+A
+2 1
+A
+12 -20
+A
+25 -3
+#7712
+mace spiked~
+a /cLspiked /cWMace/c0~
+A spiked mace is lying here.~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+15 51332 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 -4
+A
+1 1
+#7713
+stump wood Nirin~
+a /cgNirin tree /cystump/c0~
+A Nirin Tree stump sits here.~
+~
+15 0 0 0 0 0 0 0 0
+9999 0 -1 0 0 0 0 0
+999999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stump wood Nirin~
+The stump is still green and oozes sap.
+~
+#7714
+key iron~
+an /cbiron Key/c0~
+Someone has dropped an iron key here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 100 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7715
+rubble pile~
+a pile of /cLRubble/c0~
+A huge pile of rubble lies here.~
+~
+15 0 0 0 0 0 0 0 0
+999999 0 -1 0 0 0 0 0
+99999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pile rubble~
+The pile of rubble consists mainly of still smoldering wood embers and broken
+up brick.
+~
+#7716
+iron chest~
+an /cLIron /cyChest/c0~
+An iron chest sits in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+300 15 7714 0 0 0 0 0
+40 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chest iron~
+The chest is about three feet by four and has a sturdy iron lock attached to it
+~
+#7717
+ear severed~
+a /crsevered /cREar/c0~
+A severed Human ear lies here.~
+$n gags as $e drinks down the puss from the severed ear!
+~
+10 5 0 0 0 1 0 0 0
+75 36 83 83 0 0 0 0
+3 1855 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ear severed~
+Let's just hope the owner doesn't want it back...
+~
+#7718
+quartz earring~
+a /ccquartz /cCEarring/c0~
+A quartz earring has been dropped here.~
+~
+9 0 0 0 0 32769 0 0 0
+3 0 0 0 0 0 0 0
+3 18000 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+earring quartz~
+It's made out of polished quartz and has a steel clasp.
+~
+A
+19 4
+A
+18 -2
+A
+26 -2
+A
+6 1
+#7719
+stick burning~
+a still-/cyburning /cgStick/c0~
+A small stick burns with a dim fire.~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0 0 0 0 0
+5 10 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7720
+broom charred~
+a /clcharred /cyBroom/c0~
+A charred broom has been left here.~
+$n's broom suddenly comes to life, swatting everyone!
+~
+4 0 0 0 0 16385 0 0 0
+75 5 5 52 0 0 0 0
+5 100 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7721
+green tunic~
+a /cggreen /cpTunic/c0~
+A green tunic lies crumbled in a heap.~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+5 44799 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 5
+A
+28 20
+A
+27 20
+A
+13 -35
+A
+1 -3
+#7722
+quiver arrows~
+a /cgQuiver of /cyArrows/c0~
+A quiver of arrows has been dropped here.~
+~
+9 1323008 0 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+5 56000 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+1 1
+A
+18 6
+A
+19 3
+A
+26 -3
+#7723
+Nirin wood long bow~
+a /cgNirin wood /cyLongbow/c0~
+A long bow made of Nirin wood lies here.~
+~
+5 1323008 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+16 63466 0 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 5
+A
+26 -2
+A
+12 -40
+#7724
+axe battle large~
+a large /cLBattle /cRAxe/c0~
+A large battle axe rest here with its blade stuck in the ground.~
+~
+5 0 6 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+20 48333 0 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -6
+A
+1 1
+A
+2 -1
+#7725
+key metal~
+the /cLmetal /cyKey/c0~
+A metal key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7726
+bone helm~
+a /cWbone /cLHelm/c0~
+A skullcap helm lies on the ground.~
+~
+9 1180160 0 0 0 17 0 0 0
+13 0 0 0 0 0 0 0
+10 51132 0 130 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 5
+A
+12 -40
+A
+1 -2
+A
+25 -2
+#7727
+bone gloves~
+a pair of /cWbone /cLGloves/c0~
+A skeletal hand lies here.~
+~
+9 1180160 0 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+10 41400 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+18 5
+A
+19 2
+A
+13 -40
+A
+6 -2
+A
+2 -3
+#7728
+bone arms~
+a set of /cWbone /cLArms/c0~
+A skeletal arms lies here.~
+~
+9 1180160 0 0 0 257 0 0 0
+10 0 0 0 0 0 0 0
+12 30600 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -6
+A
+26 -3
+#7729
+bone armor~
+a set of /cWbone /cLArmor/c0~
+A skeletal rib cage is here.~
+~
+9 1184256 0 0 0 9 0 0 0
+14 0 0 0 0 0 0 0
+20 39600 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -3
+A
+26 -3
+#7730
+bone legs~
+a set of /cWbone /cLLegs/c0~
+A pair of bone legs are here.~
+~
+9 1180160 0 0 0 33 0 0 0
+10 0 0 0 8 0 0 0
+15 50400 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+13 -50
+A
+19 -2
+#7731
+a plain key~
+a plain key~
+A plain old key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7732
+drake egg~
+a /cbDrake's /cWegg/c0~
+An egg of a drake lies in its nest.~
+$n cracks open a drake's egg and chokes it down.
+~
+10 67174412 0 0 0 1 0 0 0
+100 36 61 0 0 0 0 0
+13 2230 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7733
+fire toad skin~
+the /cySkin of the /cRfire-breathing /cgToad/c0~
+A pile of red hides lie here.~
+~
+9 0 0 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+10 53732 0 130 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 5
+A
+14 -50
+A
+13 -50
+#7734
+knife stalker~
+a /cyStalker's /cLKnife/c0~
+A deadly-looking knife lies here.~
+~
+5 1355776 11 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+6 51666 0 125 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 3
+A
+26 -3
+A
+12 -30
+A
+3 -1
+A
+2 1
+#7799
+deed besieged keep~
+the Deed to the Besieged Keep~
+A small sheet of paper lies here.~
+~
+28 0 0 0 0 16385 0 0 0
+77 0 0 0 0 0 0 0
+0 4500000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deed besieged keep~
+Hold this deed within the Besieged Keep to claim it for your clan.
+~
+$~

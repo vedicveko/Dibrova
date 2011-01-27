@@ -1,0 +1,1569 @@
+#26200
+vampeq bloodwear skullcap~
+/cwthe /crBloodwear/cw Skullcap/c0~
+/cwThe /crBloodwear/cw Skullcap lies upon the ground./c0~
+~
+9 201326592 256 0 0 17 0 0 0
+12 0 0 0 0 2 0 0
+11 686 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 6
+A
+26 7
+A
+2 1
+A
+25 1
+#26201
+vampeq bloodwear eyes bloodvision~
+/crBloodvision/c0~
+/cwA /crreddened eyeshade /cwlies here./c0~
+~
+9 201326592 256 0 0 131073 0 0 0
+6 0 0 0 64 0 0 0
+6 646 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 5
+A
+26 8
+A
+4 1
+#26202
+vampeq bloodwear rivulets bloods~
+/crrivulets /cwof/cr blood/c0~
+/crRivulets /cwof/cr blood/cw dry upon the ground./c0~
+~
+11 201326592 256 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+4 586 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 8
+A
+3 1
+A
+5 1
+#26203
+vampeq bloodwear earrings~
+/cwthe /crbloodwear/cw earrings/c0~
+/cwThe /crbloodwear/cw earrings lie on the ground./c0~
+~
+9 201326592 256 0 0 32769 0 0 0
+2 0 0 0 16 0 0 0
+4 640 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 6
+A
+13 20
+A
+2 1
+A
+1 1
+#26204
+vampeq bloodwear pendant~
+/cwa /crbloodwear/cw pendant/c0~
+/cwA /crbloodwear/cw pendant lies on the ground./c0~
+~
+9 201326592 256 0 0 5 0 0 0
+2 0 0 0 2048 0 0 0
+2 600 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 6
+A
+13 20
+#26205
+vampeq bloodwear sleeves~
+/cwthe /crbloodwear/cw sleeves/c0~
+/cwThe /crbloodwear/cw sleeves have lie on the ground./c0~
+~
+9 201326592 256 0 0 257 0 0 0
+10 0 0 0 0 0 0 0
+10 619 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 11
+A
+18 7
+A
+26 7
+A
+1 1
+#26206
+vampeq bloodwear bracelet~
+/cwa /crbloodwear/cw bracelet/c0~
+/cwA /crbloodwear/cw bracelet lies on the ground./c0~
+~
+9 201326592 256 0 0 4097 0 0 0
+6 0 0 0 0 0 0 0
+6 573 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+13 20
+#26207
+vampeq bloodwear bloodfists fists~
+/cwthe /crbloodfists/c0~
+/cwThe /crbloodfists/cw lie on the ground./c0~
+~
+9 201326592 256 0 0 129 0 0 0
+8 0 0 0 64 0 0 0
+10 673 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+5 1
+#26208
+vampeq bloodwear bloodring ring~
+/cwthe /crbloodring/c0~
+/cwThe /crbloodring/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 3 0 0 0
+2 0 0 0 2048 0 0 0
+4 580 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+17 -5
+#26209
+vampeq bloodwear blooddrop thumbring ring~
+/cwa /crblood drop/cw thumbring/c0~
+/cwA /crblood drop/cw thumbring lies on the ground./c0~
+~
+9 201326592 256 0 0 65537 0 0 0
+2 0 0 0 16 0 0 0
+3 613 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+12 20
+#26210
+vampeq bloodwear bloodcloak cloak~
+/cwthe /crbloodcloak/c0~
+/cwThe /crbloodcloak/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 1025 0 0 0
+10 0 0 0 8388608 0 0 0
+11 686 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+6 1
+#26211
+vampeq bloodwear bloodskin skin~
+/cwthe /crbloodskin/c0~
+/cwThe /crbloodskin/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 9 0 0 0
+12 0 0 0 65536 0 0 0
+13 692 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 7
+A
+25 1
+#26212
+vampeq bloodwear leggings~
+/cwthe /crbloodwear/cw leggings/c0~
+/cwThe /crbloodwear/cw leggings lie on the ground./c0~
+~
+9 201326592 256 0 0 33 0 0 0
+10 0 0 0 0 4194304 0 0
+10 686 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+3 1
+#26213
+vampeq bloodwear boots~
+/cwthe /crbloodwear/cw boots/c0~
+/cwThe /crbloodwear/cw boots lie here./c0~
+~
+9 201326592 256 0 0 65 0 0 0
+8 0 0 0 0 2 0 0
+11 673 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+4 1
+#26214
+vampeq bloodwear bloodstone stone~
+/cwthe /crbloodstone/c0~
+/cwThe /crbloodstone/cw lies on the ground./c0~
+~
+12 201326592 256 0 0 16385 0 0 0
+0 0 0 0 0 16384 0 0
+9 666 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+6 1
+#26215
+vampeq bloodwear bloodblade blade~
+/cwthe /crBloodBlade/c0~
+/cwThe /crBloodBlade/cw lies upon the ground./c0~
+~
+5 201326592 256 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+13 100000 0 150 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+#26216
+vampeq bloodwear lantern~
+/cwthe /crbloodwear/cw lantern/c0~
+/cwThe /crbloodwear/cw lantern lies glowing redly upon the ground./c0~
+~
+1 201326592 256 0 0 16385 0 0 0
+0 0 -1 0 8 0 0 0
+12 466 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+25 1
+#26217
+vampeq bloodwear haze blood~
+/cwa /crhaze/cw of/cr blood/c0~
+/cwA /crhaze/cw of/cr blood/cw hovers above the ground./c0~
+~
+9 201326592 256 0 0 524289 0 0 0
+2 0 0 0 8388608 0 0 0
+4 653 0 1 -1 -1 1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 7
+A
+26 7
+A
+3 1
+A
+4 1
+#26218
+signs vampire~
+signs of vampires~
+You see all around you signs that vampire are near. Beware.~
+~
+12 201326592 320 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26219
+signs vampire~
+signs of vampire~
+You see all around you signs that vampire are near. Beware.~
+~
+12 201326592 320 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26220
+vampeq nightwear tiara~
+a /cbNightwear Tiara/c0~
+A tiara, dark as the night, lies here forgotten.~
+~
+9 201326592 256 0 0 17 0 0 0
+9 0 0 0 0 0 0 0
+5 633 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26221
+vampeq nightwear eyes night~
+the Eyes of the /cbNight/c0~
+A pair of eyeshades lie here, as if left behind during the night.~
+~
+9 201326592 256 0 0 131073 0 0 0
+4 0 0 0 0 0 0 0
+3 599 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26222
+vampeq nightwear masque~
+a /cbNightwear /c0Masque/c0~
+A frightful-looking masque lies here.~
+~
+9 201326592 256 0 0 262145 0 0 0
+4 0 0 0 0 0 0 0
+3 599 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26223
+vampeq nightwear earring touch~
+the /cbNightwear's/c0 Touch~
+A pair of earrings lie here, shrouded by night.~
+~
+9 201326592 256 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+2 586 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26224
+vampeq nightwear chain~
+the Chain of /cbNightwear/c0~
+A delicate chain lies here, shouded by the essence of night.~
+~
+9 201326592 256 0 0 5 0 0 0
+4 0 0 0 0 0 0 0
+4 599 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26225
+vampeq nightwear night armguard~
+the Armguards of /cbNight/c0~
+An armguard lies here, protected by the runes of Nightwear.~
+~
+9 201326592 256 0 0 257 0 0 0
+7 0 0 0 0 0 0 0
+7 619 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26226
+vampeq nightwear loop twisted~
+the twisted Loop of /cbNightwear/c0~
+A twisted loop of magical energy lies here.~
+~
+9 201326592 256 0 0 4097 0 0 0
+5 0 0 0 0 0 0 0
+3 606 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 6
+A
+26 10
+#26227
+vampeq nightwear grip~
+/cbNightwear's /c0Grip/c0~
+A pair of gloves lie here, shouded by the essence of Nightwear.~
+~
+9 201326592 256 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+0 619 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26228
+vampeq nightwear signet~
+the Signet of /cbNightwear/c0~
+A signet, bearing the mark of the Night, lies here.~
+~
+9 201326592 256 0 0 3 0 0 0
+1 0 0 0 0 0 0 0
+2 579 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26229
+vampeq nightwear band night~
+the Band of /cbNight/c0~
+A band of dark-colored metal lies here.~
+~
+9 201326592 256 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+1 586 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 8
+A
+26 8
+#26230
+vampeq nightwear embrace~
+the Embrace of /cbNightwear/c0~
+The Embrace of night lies here.~
+~
+9 201326592 256 0 0 1025 0 0 0
+13 0 0 0 0 0 0 0
+15 659 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 6
+A
+26 10
+#26231
+vampeq nightwear protection~
+the Protection of /cbNightwear/c0~
+A powerful set of armor lies here, shouded by the essence of Nightwear.~
+~
+9 201326592 256 0 0 9 0 0 0
+13 0 0 0 0 0 0 0
+21 659 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 7
+A
+26 9
+#26232
+vampeq nightwear sash~
+the Sash of /cbNightwear/c0~
+A sash lies here, embraced by the power of Nightwear.~
+~
+9 201326592 256 0 0 2049 0 0 0
+7 0 0 0 0 0 0 0
+6 619 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 7
+A
+26 9
+#26233
+vampeq nightwear skirt~
+the Skirt of /cbNightwear/c0~
+A skirt lies here, shouded by the essence of Nightwear.~
+~
+9 201326592 256 0 0 33 0 0 0
+7 0 0 0 0 0 0 0
+7 619 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 12
+A
+18 9
+A
+26 7
+#26234
+vampeq nightwear boots~
+the /cbNightwear/c0 Boots~
+/cwThe /cbNightwear Boots/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 65 0 0 0
+8 0 0 0 0 0 0 0
+11 613 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 8
+#26235
+vampeq nightwear nightstone stone~
+/cwthe /cbNightStone/c0~
+/cwThe /cbNightStone/cw lies upon the ground./c0~
+~
+12 201326592 256 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+13 666 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 8
+#26236
+vampeq nightwear nightblade blade~
+/cbNight/cLBlade/c0~
+/cbNight/cLBlade/cw lies upon the ground./c0~
+~
+5 201326592 256 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+11 104000 0 150 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 8
+#26237
+vampeq nightwear lantern night~
+/cwthe /cbLantern /cwof /cbNight's Darkest Hour/c0~
+/cwThe /cbLantern /cwof /cbNight's Darkest Hour/cw lies glowing upon the ground./c0~
+~
+1 201326592 256 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+11 426 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 8
+#26238
+vampeq nightwear eternal night~
+/cbEternal Night/c0~
+/cbEternal Night/cw lies hovering just above the ground./c0~
+~
+12 201326592 256 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+4 666 0 1 -1 -1 2 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 11
+A
+18 8
+A
+26 8
+#26239
+signs vampire~
+signs of vampire~
+You see all around you signs that vampire are near. Beware.~
+~
+12 201326592 320 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26240
+vampeq darkwear skullcap~
+/cwthe /cLDarkWear/cw Skullcap/c0~
+/cwThe /cLDarkWear/cw Skullcap lies on the ground./c0~
+~
+9 201326592 256 0 0 17 0 0 0
+10 0 0 0 0 0 0 0
+13 679 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26241
+vampeq darkwear eyes darkvision~
+/cLDarkVision/c0~
+/cLDarkVision/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 131073 0 0 0
+4 0 0 0 0 0 0 0
+4 639 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26242
+vampeq darkwear veil darkness~
+/cwthe /cLVeil of Darkness/c0~
+/cwThe /cLVeil of Darkness/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 262145 0 0 0
+6 0 0 0 0 0 0 0
+6 653 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26243
+vampeq darkwear earrings~
+/cwa /cLDarkWear/cw Earring/c0~
+/cwA /cLDarkWear/cw Earring has been left here./c0~
+~
+9 201326592 256 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+4 626 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26244
+vampeq darkwear pendant~
+/cwa /cLDarkWear/cw Pendant/c0~
+/cwA /cLDarkWear/cw Pendant lies here./c0~
+~
+9 201326592 256 0 0 5 0 0 0
+2 0 0 0 2048 0 0 0
+6 713 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+A
+13 20
+A
+3 1
+#26245
+vampeq darkwear sleeves~
+/cwthe /cLDarkWear/cw Sleeves/c0~
+/cwThe /cLDarkWear/cw Sleeves lie here./c0~
+~
+9 201326592 256 0 0 257 0 0 0
+10 0 0 0 0 0 0 0
+11 679 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26246
+vampeq darkwear bracelet~
+/cwa /cLDarkWear/cw Bracelet/c0~
+/cwA /cLDarkWear/cw Bracelet lies on the ground./c0~
+~
+9 201326592 256 0 0 4097 0 0 0
+6 0 0 0 0 0 0 0
+8 653 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26247
+vampeq darkwear gloves darkness~
+/cwthe /cLGloves /cwof /cLDarkness/c0~
+/cwThe /cLGloves /cwof /cLDarkness/cw lie on the ground./c0~
+~
+9 201326592 256 0 0 129 0 0 0
+8 0 0 0 0 0 0 0
+8 666 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26248
+vampeq darkwear darkring ring~
+/cwthe /cLDarkRing/c0~
+/cwThe /cLDarkRing/cw lies here./c0~
+~
+9 201326592 256 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+4 626 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26249
+vampeq darkwear thumbring ring darkness~
+/cwthe /cLThumbring /cwof /cLDarkness/c0~
+/cwThe /cLThumbring /cwof /cLDarkness/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+4 626 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26250
+vampeq darkwear cloak eternal darkness~
+/cwthe /cLCloak /cwof /cLEternal Darkness/c0~
+/cwThe /cLCloak /cwof /cLEternal Darkness/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 1025 0 0 0
+11 0 0 0 0 0 0 0
+11 686 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26251
+vampeq darkwear plate darkness~
+/cwthe /cLPlate of Darkness/c0~
+/cwThe /cLPlate of Darkness/cw lies here./c0~
+~
+9 201326592 256 0 0 9 0 0 0
+14 0 0 0 0 0 0 0
+14 706 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26252
+vampeq darkwear sash~
+/cwthe /cLDarkWear/cw Sash/c0~
+/cwThe /cLDarkWear/cw Sash lies here./c0~
+~
+9 201326592 256 0 0 2049 0 0 0
+7 0 0 0 0 0 0 0
+7 659 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26253
+vampeq darkwear leggings~
+/cwthe /cLDarkWear/cw Leggings/c0~
+/cwThe /cLDarkWear/cw Leggings lie here./c0~
+~
+9 201326592 256 0 0 33 0 0 0
+9 0 0 0 0 0 0 0
+12 673 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26254
+vampeq darkwear boots~
+/cwthe /cLDarkWear/cw Boots/c0~
+/cwThe /cLDarkWear/cw Boots lie on the ground./c0~
+~
+9 201326592 256 0 0 65 0 0 0
+9 0 0 0 0 0 0 0
+11 673 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26255
+vampeq darkwear darkstone stone~
+/cwthe /cLDarkStone/c0~
+/cwThe /cLDarkStone/cw lies on the ground./c0~
+~
+12 201326592 256 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+14 666 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26256
+vampeq darkwear darkblade blade~
+/cwthe /cLDarkBlade/c0~
+/cwThe /cLDarkBlade/cw lies on the ground./c0~
+~
+5 201326592 288 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+13 112000 0 150 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26257
+vampeq darkwear lantern~
+/cwthe /cLDark/cw Lantern/c0~
+/cwThe /cLDark/cw Lantern glows with a dark radiance./c0~
+~
+1 201326592 256 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+11 479 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26258
+vampeq darkwear haze darkness~
+/cwa /cLhaze of darkness/c0~
+/cwA /cLhaze of darkness/cw floats above the ground./c0~
+~
+12 201326592 256 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+5 666 0 1 -1 -1 3 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 13
+A
+18 9
+A
+26 9
+#26259
+signs vampire~
+signs of vampire~
+You see all around you signs that vampire are near. Beware.~
+~
+12 201326592 352 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26260
+vampeq blackwear skullcap~
+/cwthe /cLBlackWear/cw Skullcap/c0~
+/cwThe /cLBlackWear/cw Skullcap lies on the ground./c0~
+~
+9 201326592 256 0 0 17 0 0 0
+8 0 0 0 0 0 0 0
+11 706 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26261
+vampeq blackwear eyes blackvision~
+/cLBlackVision/c0~
+/cLBlackVision/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 131073 0 0 0
+2 0 0 0 0 0 0 0
+3 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+19 10
+A
+26 10
+#26262
+vampeq blackwear veil blackening~
+/cwthe /cLVeil /cwof /cLBlackening/c0~
+/cwThe /cLVeil /cwof /cLBlackening/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 262145 0 0 0
+5 0 0 0 0 0 0 0
+5 686 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+19 10
+A
+26 10
+#26263
+vampeq blackwear earrings~
+/cwa /cLBlackWear/cw Earring/c0~
+/cwA /cLBlackWear/cw Earring lies here./c0~
+~
+9 201326592 256 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+3 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26264
+vampeq blackwear pendant~
+/cwa /cLBlackWear/cw Pendant/c0~
+/cwA /cLBlackWear/cw Pendant lies on the ground./c0~
+~
+9 201326592 256 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+5 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26265
+vampeq blackwear sleeves~
+/cwthe /cLBlackWear/cw Sleeves/c0~
+/cwThe /cLBlackWear/cw Sleeves lie on the ground./c0~
+~
+9 201326592 256 0 0 257 0 0 0
+8 0 0 0 0 0 0 0
+11 706 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26266
+vampeq blackwear bracelet~
+/cwa /cLBlackWear/cw Bracelet/c0~
+/cwA /cLBlackWear/cw Bracelet lies on the ground./c0~
+~
+9 201326592 256 0 0 4097 0 0 0
+6 0 0 0 0 0 0 0
+8 693 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26267
+vampeq blackwear gloves blackness~
+/cwthe /cLGloves of Blackness/c0~
+/cwThe /cLGloves of Blackness/cw lie on the ground./c0~
+~
+9 201326592 256 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+11 699 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26268
+vampeq blackwear blackring ring~
+/cwthe /cLBlackRing/c0~
+/cwThe /cLBlackRing/cw lies on the ground./c0~
+~
+9 201326592 256 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+3 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26269
+vampeq blackwear thumbring ring blackness~
+/cwthe /cLThumbring /cwof /cLBlackness/c0~
+/cwThe /cLThumbring /cwof /cLBlackness/cw lies here./c0~
+~
+9 201326592 256 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+5 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26270
+vampeq blackwear cloak blackness~
+/cwthe /cLCloak /cwof /cLBlackness/c0~
+/cwThe /cLCloak /cwof /cLBlackness/cw lies here./c0~
+~
+9 201326592 256 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+9 719 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26271
+vampeq blackwear blackened breast plate~
+/cwa /cLblackened/cw breastplate/c0~
+/cwA /cLblackened/cw breastplate lies on the ground./c0~
+~
+9 201326592 256 0 0 9 0 0 0
+14 0 0 0 0 0 0 0
+15 746 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26272
+vampeq blackwear sash~
+/cwthe /cLBlackWear /cwSash/c0~
+/cwThe /cLBlackWear /cwSash has been left here./c0~
+~
+9 201326592 256 0 0 2049 0 0 0
+5 0 0 0 0 0 0 0
+5 686 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26273
+vampeq blackwear leggings~
+/cwthe /cLBlackWear /cwLeggings/c0~
+/cwThe /cLBlackWear /cwLeggings have been left here./c0~
+~
+9 67108864 288 0 0 33 0 0 0
+10 0 0 0 0 0 0 0
+9 719 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26274
+vampeq blackwear boots~
+/cwthe /cLBlackWear /cwBoots/c0~
+/cwThe /cLBlackWear /cwBoots lie upon the ground./c0~
+~
+9 201326592 256 0 0 65 0 0 0
+10 0 0 0 0 0 0 0
+11 719 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26275
+vampeq blackwear blackstone stone~
+/cwthe /cLBlackStone/c0~
+/cwThe /cLBlackStone/cw has been left here./c0~
+~
+12 201326592 256 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+13 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26276
+vampeq blackwear blackblade blade~
+/cwthe /cLBlackBlade/c0~
+/cwThe /cLBlackBlade/cw lies half-hidden in the shadows./c0~
+~
+5 201326592 256 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+12 118000 0 150 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26277
+vampeq blackwear lantern~
+/cwthe /cLLantern /cwof /cLBlackness/c0~
+/cwThe /cLLantern /cwof /cLBlackness/cw hums with a dark light./c0~
+~
+1 201326592 256 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+12 519 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26278
+vampeq blackwear haze balckness~
+/cwa /cLhaze of blackness/c0~
+/cwA /cLhaze of blackness/cw coats the ground./c0~
+~
+12 201326592 256 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+6 666 0 1 -1 -1 4 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 14
+A
+18 10
+A
+26 10
+#26279
+signs vampire~
+signs of vampire~
+You see all around you signs that vampire are near. Beware.~
+~
+12 201326592 352 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26280
+vampeq eternal thirst helm~
+/cwthe /cRHelm /cwof /cREternal Thirst/c0~
+/cwThe /cRHelm /cwof /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 17 0 0 0
+11 0 0 0 0 2 0 0
+13 893 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+2 3
+A
+25 3
+#26281
+vampeq eternal thirst sunshades shades~
+/cwthe /cRSunshades /cwof /cREternal Thirst/c0~
+/cwThe /cRSunshades /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 131073 0 0 0
+2 0 0 0 64 0 0 0
+5 833 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+4 3
+#26282
+vampeq eternal thirst veil~
+/cwthe /cRVeil/cw of /cREternal Thirst/c0~
+/cwThe /cRVeil/cw of /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 262145 0 0 0
+3 0 0 0 0 32768 0 0
+3 899 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+3 3
+A
+5 3
+#26283
+vampeq eternal thirst earrings~
+/cwthe /cREarrings /cwof /cREternal Thirst/c0~
+/cwThe /cREarrings /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 32769 0 0 0
+2 0 0 0 16 0 0 0
+4 893 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+13 40
+A
+2 3
+A
+1 3
+#26284
+vampeq eternal thirst pendant~
+/cwthe /cRPendant/cw of /cREternal Thirst/c0~
+/cwThe /cRPendant/cw of /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 5 0 0 0
+2 0 0 0 2048 0 0 0
+6 773 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+13 40
+#26285
+vampeq eternal thirst sleeves~
+/cwthe /cRSleeves /cwof /cREternal Thirst/c0~
+/cwThe /cRSleeves /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 257 0 0 0
+7 0 0 0 0 0 0 0
+11 799 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+18 11
+A
+1 3
+#26286
+vampeq eternal thirst bracelet~
+/cwthe /cRBracer/cw of /cREternal Thirst/c0~
+/cwThe /cRBracer/cw of /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 4097 0 0 0
+7 0 0 0 0 0 0 0
+12 739 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+13 40
+#26287
+vampeq eternal thirst gloves~
+/cwthe /cRGloves /cwof /cREternal Thirst/c0~
+/cwThe /cRGloves /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 129 0 0 0
+8 0 0 0 64 0 0 0
+9 873 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+5 3
+#26288
+vampeq eternal thirst ring~
+/cwthe /cRRing /cwof /cREternal Thirst/c0~
+/cwThe /cRRing /cwof /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 3 0 0 0
+2 0 0 0 2048 0 0 0
+4 720 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+17 -8
+#26289
+vampeq eternal thirst thumbring ring~
+/cwthe /cRThumbring/cw of /cREternal Thirst/c0~
+/cwThe /cRThumbring/cw of /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 65537 0 0 0
+2 0 0 0 16 0 0 0
+3 773 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+13 40
+#26290
+vampeq eternal thirst cloak~
+/cwthe /cRCloak /cwof /cREternal Thirst/c0~
+/cwThe /cRCloak /cwof /cREternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 1025 0 0 0
+11 0 0 0 8388608 0 0 0
+11 893 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+6 3
+#26291
+vampeq eternal thirst casings~
+/cwthe /cRCasings /cwof /cREternal Thirst/c0~
+/cwThe /cRCasings /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 9 0 0 0
+13 0 0 0 65536 0 0 0
+14 846 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+25 3
+#26292
+vampeq eternal thirst body sash~
+/cwthe /cRSash/cw of/cR Eternal Thirst/c0~
+/cwThe /cRSash/cw of/cR Eternal Thirst/cw lies upon the ground./c0~
+~
+9 201326592 256 0 0 2049 0 0 0
+6 0 0 0 16777216 0 0 0
+7 859 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+2 3
+#26293
+vampeq eternal thirst body leggings~
+/cwthe /cRLeggings /cwof /cREternal Thirst/c0~
+/cwThe /cRLeggings /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 33 0 0 0
+9 0 0 0 0 4194304 0 0
+9 879 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+3 3
+#26294
+vampeq eternal thirst body boots~
+/cwthe /cRBoots /cwof /cREternal Thirst/c0~
+/cwThe /cRBoots /cwof /cREternal Thirst/cw lie upon the ground./c0~
+~
+9 201326592 256 0 0 65 0 0 0
+9 0 0 0 0 2 0 0
+11 879 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+4 3
+#26295
+vampeq eternal thirst stone thirst~
+/cwthe /cREternal Thirst Stone/c0~
+/cwThe /cREternal Thirst Stone/cw gleams wetly upon the ground./c0~
+~
+12 201326592 256 0 0 16385 0 0 0
+0 0 0 0 0 16384 0 0
+14 42 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+6 3
+#26296
+vampeq eternal thirst blade~
+/cRThirstBlade/c0~
+/cRThirstBlade/cw lies upon the ground./c0~
+~
+5 201326592 256 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+11 159132 0 155 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+C
+120 8
+#26297
+vampeq eternal thirst lantern~
+/cwthe /cRLantern /cwof/cR Eternal Thirst/c0~
+/cwThe /cRLantern /cwof/cR Eternal Thirst/cw glows wetly from the ground./c0~
+~
+1 201326592 256 0 0 16385 0 0 0
+0 0 -1 0 8 0 0 0
+11 626 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+25 3
+#26298
+vampeq eternal thirst haze~
+/cwa /cRhaze /cwof /cRthirst/c0~
+/cwA /cRhaze /cwof /cRthirst/cw floats just above the ground./c0~
+~
+12 201326592 256 0 0 524289 0 0 0
+0 0 0 0 8388608 0 0 0
+11 666 0 1 -1 -1 5 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+3 3
+A
+4 3
+#26299
+vampeq eternal thirst cloak~
+/cy/cwthe /cRCloak/cw of /cREternal Thirst/c0~
+/cy/cwthe /cRCloak/cw of /cREternal Thirst/cw lies upon the ground./c0~
+~
+12 201326592 256 0 0 0 0 0 0
+0 0 0 0 128 0 64 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 15
+A
+18 11
+A
+26 11
+A
+6 3
+$~

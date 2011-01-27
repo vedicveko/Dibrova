@@ -1,0 +1,1909 @@
+#2500
+Atop the Rocky Outcrop~
+You overlook a serene, lush valley, walled off by deep blackish-red
+mountain peaks.  The two sights oppose each other yet seemingly meld
+into one soul, like good and evil.  You look once again to the valley
+below to see a wave of grass heading up the hillside, meeting the a
+small path leading down from the mountain.  A few feet down from the
+boulders in which you stand the path begins.    
+~
+25 32768 0 0 0 5
+D1
+~
+~
+0 0 2482 16
+D5
+~
+~
+0 0 2501 0
+S
+#2501
+Climbing Some Boulders~
+Climbing down the boulders is no small feat.  You struggle finding
+handholds in the rock and balancing yourself at the same time.  A few
+more feet and...  There you're down.  From here the path leads north,
+though you may wish to be careful of rock slides, the surrounding
+rocks look to be less stable than you would like.    
+~
+25 32768 0 0 0 5
+D0
+~
+~
+0 0 2502 0
+D4
+~
+~
+0 0 2500 0
+S
+#2502
+An Obscure Mountain Path~
+The path is littered with small debris of previous rockslides.  Most
+of it is easy to move around and climb over but by doing so you find
+yourself an ugly dusty red color, which doesn't want to come off
+willingly.  Perhaps it will come off in the grass that lies aways east
+of here.    
+~
+25 32768 0 0 0 5
+D1
+~
+~
+0 0 2503 0
+D2
+~
+~
+0 0 2501 0
+S
+#2503
+An Obscure Mountain Path~
+Walking along the path you realize that it's no more than a mere
+trail.  This path has been so neglected and forgotten that you wonder
+if anyone knows it's here.  That is if someone still lives in this
+valley.  You kick a stone watching it skip along the ground, hoping to
+get off this trail and closer to civilization.    
+~
+25 32768 0 0 0 5
+D1
+~
+~
+0 0 2504 0
+D3
+~
+~
+0 0 2502 0
+S
+#2504
+An Obscure Mountain Path~
+Well, it looks as if the trail is coming to an end.  Several types of
+grasses have taken root and have covered most of the path to the east.
+If you look closely enough you can still see part of the trail.  Your
+best bet would be to continue heading east into the grasses.    
+~
+25 32768 0 0 0 5
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 2505 0
+D3
+~
+~
+0 0 2503 0
+S
+#2505
+Waist High Grass~
+The path you HAD been following is now gone, no longer to be seen.  
+You now wade through waist high grass trying to make sense of your
+location.  Alas, all you see around you is more grass.  Far north, the
+grass gets thicker and quite taller, a few inches above your head.  
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2506 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 2504 0
+S
+#2506
+Waist High Grass~
+You wade through more of the grass, plodding along, looking for a way
+out.  You may just loose yourself if you head any farther north, into
+the tall grasses.    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2507 0
+D2
+~
+~
+0 0 2505 0
+S
+#2507
+Waist High Grass~
+You have now, sufficiently lost yourself in this cursed grass.  Oh,
+heaven help you if there were a flashfire right now.  OR, maybe not,
+then you'd be able to find your way out, at least if you didn't burn
+to death first.  Choose your path, either way you'll get lost, at
+least you believe so.    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2508 0
+D1
+~
+~
+0 0 2510 0
+D2
+~
+~
+0 0 2506 0
+D3
+~
+~
+0 0 2509 0
+S
+#2508
+Head High Grass~
+Ok, enough of this, now your pissed.  CAN there be a bloody way out of
+this mess?    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2513 0
+D1
+~
+~
+0 0 2512 0
+D2
+~
+~
+0 0 2507 0
+D3
+~
+~
+0 0 2511 0
+S
+#2509
+Head High Grass~
+Ok, enough of this, now your pissed.  CAN there be a bloody way out of
+this mess?    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2511 0
+D1
+~
+~
+0 0 2507 0
+S
+#2510
+Head High Grass~
+Ok, enough of this, now your pissed.  CAN there be a bloody way out of
+this mess?    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2512 0
+D3
+~
+~
+0 0 2507 0
+S
+#2511
+Head High Grass~
+Ok, enough of this, now your pissed.  CAN there be a bloody way out of
+this mess?    
+~
+25 32772 0 0 0 2
+D0
+~
+~
+0 0 2513 0
+D1
+~
+~
+0 0 2508 0
+D2
+~
+~
+0 0 2509 0
+S
+#2512
+Head High Grass~
+Ok, enough of this, now your pissed.  CAN there be a bloody way out of
+this mess?    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2513 0
+D2
+~
+~
+0 0 2510 0
+D3
+~
+~
+0 0 2508 0
+S
+#2513
+Dragontooth Road~
+Now this is more like it!  A large, solid road...  One which is pitted
+and covered in long scratch marks.  Either this road is heavily
+traveled or something VERY large travels alone these roads.  You do
+not wish to discover either, especially the latter.  The road
+continues to the east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2515 0
+D2
+~
+~
+0 0 2511 0
+D3
+~
+~
+0 0 2514 0
+S
+#2514
+Dragontooth road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2513 0
+D2
+~
+~
+0 0 2511 0
+D3
+~
+~
+0 0 2549 0
+S
+#2515
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2516 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 2513 0
+S
+#2516
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2517 0
+D3
+~
+~
+0 0 2515 0
+D5
+~
+~
+0 0 -1 0
+S
+#2517
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2518 0
+D3
+~
+~
+0 0 2516 0
+S
+#2518
+A Fork in the Road~
+There are three ways to go here, north, south and west.  All three
+look relatively the same, so it only a matter of which do you prefer,
+Eni, Meni, Mini, Moe, which way do I wish to go.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2519 0
+D2
+~
+~
+0 0 2573 0
+D3
+~
+~
+0 0 2517 0
+D5
+~
+~
+0 0 -1 0
+S
+#2519
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.    
+~
+25 32768 0 0 0 1
+D1
+~
+~
+0 0 2520 0
+D2
+~
+~
+0 0 2518 0
+D3
+~
+~
+0 0 -1 0
+D4
+~
+~
+0 0 -1 0
+S
+#2520
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2521 0
+D3
+~
+~
+0 0 2519 0
+S
+#2521
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2522 0
+D2
+~
+~
+0 0 2520 0
+S
+#2522
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2523 0
+D3
+~
+~
+0 0 2521 0
+S
+#2523
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and south.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2524 0
+D2
+~
+~
+0 0 2522 0
+D5
+~
+~
+0 0 -1 0
+S
+#2524
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and south.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2525 0
+D2
+~
+~
+0 0 2523 0
+S
+#2525
+A Fork in the Road~
+From this point it is hard to tell which way the main road travels,
+either way you look at it, it is bound to take you somewhere more
+exciting than this...  Road, surrounded by tall, boring, uninviting
+grass.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2561 0
+D2
+~
+~
+0 0 2524 0
+D3
+~
+~
+0 0 2526 0
+S
+#2526
+Dragontooth Road~
+You are in an unfinished room.  The road ahead looks hard and worn, so
+much so there are path marks from where combat units march.  The
+grasses on both sides of the road, camoflage it convincingly, making
+any advancing army think twice before attacking.  The road continues
+east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2525 0
+D3
+~
+~
+0 0 2527 0
+S
+#2527
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.  To the north is
+a wide open plain which stretches its way toward a very tall and very
+dark looking mountain.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 14700 0
+D1
+~
+~
+0 0 2526 0
+D2
+~
+~
+0 0 2528 0
+S
+#2528
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2527 0
+D3
+~
+~
+0 0 2529 0
+D5
+~
+~
+0 0 -1 0
+S
+#2529
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2528 0
+D3
+~
+~
+0 0 2530 0
+S
+#2530
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and east.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2531 0
+D1
+~
+~
+0 0 2529 0
+S
+#2531
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and south.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2532 0
+D2
+~
+~
+0 0 2530 0
+S
+#2532
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and west.    
+~
+25 32768 0 0 0 10
+D2
+~
+~
+0 0 2531 0
+D3
+~
+~
+0 0 2533 0
+S
+#2533
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2532 0
+D3
+~
+~
+0 0 2534 0
+S
+#2534
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and east.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2535 0
+D1
+~
+~
+0 0 2533 0
+S
+#2535
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and west.    
+~
+25 32768 0 0 0 10
+D2
+~
+~
+0 0 2534 0
+D3
+~
+~
+0 0 2536 0
+S
+#2536
+Dragontooth Road~
+There is a road here that intersects the main road from the north.  
+To the north the road continues on, on towards the mountains through a
+canyon of sorts.  From this distance, the canyon is hard to make out
+but only because it blends into the mountain so well.  The road
+continues north, east and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2585 0
+D1
+~
+~
+0 0 2535 0
+D3
+~
+~
+0 0 2537 0
+S
+#2537
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2536 0
+D3
+~
+~
+0 0 2538 0
+S
+#2538
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2537 0
+D2
+~
+~
+0 0 2539 0
+S
+#2539
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north, south and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2538 0
+D2
+~
+~
+0 0 2540 0
+D3
+~
+~
+0 0 2541 0
+S
+#2540
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2539 0
+D3
+~
+~
+0 0 2542 0
+S
+#2541
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2539 0
+D2
+~
+~
+0 0 2542 0
+S
+#2542
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north, east and south.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2541 0
+D1
+~
+~
+0 0 2540 0
+D2
+~
+~
+0 0 2543 0
+S
+#2543
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2542 0
+D3
+~
+~
+0 0 2544 0
+S
+#2544
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and east.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2543 0
+D2
+~
+~
+0 0 2545 0
+S
+#2545
+Dragontooth Road~
+The road is uniquely different here.  Instead of path marks following
+the road so dilligently, the come from the north and the south curving
+jointly into one path.  A path that heads west into the surrounding
+grasses.  There is no explanation for it, although the grasses appear
+to be bent and twisted suggesting that the troops destination was
+somewhere off to the west.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2544 0
+D2
+~
+~
+0 0 2546 0
+D3
+~
+~
+0 0 2550 0
+S
+#2546
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and east.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2545 0
+D1
+~
+~
+0 0 2547 0
+S
+#2547
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2548 0
+D3
+~
+~
+0 0 2546 0
+S
+#2548
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues south and west.    
+~
+25 32768 0 0 0 10
+D2
+~
+~
+0 0 2549 0
+D3
+~
+~
+0 0 2547 0
+S
+#2549
+Dragontooth Road~
+The road ahead looks hard and worn, so much so there are path marks
+from where combat units march.  The grasses on both sides of the road,
+camoflage it convincingly, making any advancing army think twice
+before attacking.  The road continues north and east.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2548 0
+D1
+~
+~
+0 0 2514 0
+S
+#2550
+Some Matted Down Grass~
+You push your way through the grass once again, following the way from
+the east.  Moving aside stalks of grass, you can faintly see the worn
+path etched into the ground from the riggors of frequent use.  Just
+shortly, ahead to the west, you can hear the clanging, grinding of
+swords and slight social chatter.    
+~
+25 32768 0 0 0 2
+D1
+~
+~
+0 0 2545 0
+D3
+~
+~
+0 0 2551 0
+S
+#2551
+A Draconian Camp~
+You plunge through the last of the grass stalks and roll out onto the
+ground before a very large draconian soldier.  You look up, to see the
+gaze of this beast fall down upon you and say, "You do not belong
+here, LEAVE NOW before I gut you like the pig you are and roast you in
+our fire pit.  " The creature turns and motions to several other
+draconians and you quickly cower behind some ale barrels.  The
+draconians turns back to your absent position, nodding in approval and
+then marching off westward.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2550 0
+D3
+~
+~
+0 0 2552 0
+S
+#2552
+A Draconian Camp~
+Keeping an eye out for the unfriendly inhabitants of this camp, you
+head deeper into the darkness of the camp.  Tents are scattered
+haphazardly around the area in complete disarray.  It is strange that
+it would be that way in a militaristic camp, but then - these are
+draconians.  Just west of your current place of cowering concealment,
+you spy a large fire pit, which seems to dominate the center of the
+camp.  You can see a great many shadowy figures all crouched around
+it, eating or drinking or just making the guttural sounds that
+draconians pass of as speech.  You can leave this awful place to the
+east.    
+~
+25 32768 0 0 0 1
+D1
+~
+~
+0 0 2551 0
+D2
+~
+~
+0 0 2558 0
+D3
+~
+~
+0 0 2553 0
+S
+#2553
+The Fire Pit~
+These evil beings congregate around the fire, drinking their terrible
+brews or eating whatever it is that they eat - you'd rather not know.
+With the light of the fire making you easy to spot, it's hard for you
+to find places to hide from these creatures.  You notice that north,
+south, and west of you there are many large tents, their interiors
+dark and sinister looking.  To the east you can attempt your escape
+from the camp.    
+~
+25 32768 0 0 0 1
+D0
+~
+~
+0 0 2554 0
+D1
+~
+~
+0 0 2552 0
+D2
+~
+~
+0 0 2555 0
+D3
+~
+~
+0 0 2559 0
+S
+#2554
+A Barrack Tent~
+   Normally, in a military environment, a barracks tent would feature
+neat rows of cots, all of them kept indentically perfect.  Here in a
+Draconian camp, there are not even cots to keep orderly, only a few
+grubby blankets and the dirt floor which the tent was erected on.  It
+looks as if there may have been someone (or thing?  ) here very
+recently, evidence of a hasty departure is all around you.  To the
+east is another section of the tent, south is the fire pit.    
+~
+25 32768 0 0 0 0
+D1
+~
+~
+0 0 2556 0
+D2
+~
+~
+0 0 2553 0
+S
+#2555
+A Barrack Tent~
+Normally, in a military environment, a barracks tent would feature
+neat rows of cots, all of them kept indentically perfect.  Here in a
+Draconian camp, there are not even cots to keep orderly, only a few
+grubby blankets and the dirt floor which the tent was erected on.  It
+looks as if there may have been someone (or thing?  ) here very
+recently, evidence of a hasty departure is all around you.  To the
+north is the firepit where you can hear the sounds of most of the
+draconians in this camp lounging and making 'merry'.  The tent
+continues to the west and to the east is another section.    
+~
+25 32768 0 0 0 0
+D0
+~
+~
+0 0 2553 0
+D1
+~
+~
+0 0 2558 0
+D3
+~
+~
+0 0 2557 0
+S
+#2556
+Supply Tent~
+This is where the camp keeps most of it's spare weapons, food, and
+general supplies.  Not a surprise at all, there appears to be a severe
+lack of any inventory at all.  A few crates and chests lie scattered,
+all of them looking extremely empty.    
+~
+25 32768 0 0 0 0
+D3
+~
+~
+0 0 2554 0
+S
+#2557
+A Barrack Tent~
+Normally, in a military environment, a barracks tent would feature
+neat rows of cots, all of them kept indentically perfect.  Here in a
+Draconian camp, there are not even cots to keep orderly, only a few
+grubby blankets and the dirt floor which the tent was erected on.  It
+looks as if there may have been someone (or thing?  ) here very
+recently, evidence of a hasty departure is all around you.  This room
+continues off to the east, the exit lying north of that locale.    
+~
+25 32768 0 0 0 0
+D1
+~
+~
+0 0 2555 0
+S
+#2558
+Make-shift Stables~
+This disgusting room reserved for the cavalry of the...  Army?...  
+Holds whatever livestock they were able to steal or loot.  The room,
+not even divided into stalls, looks to have been left uncleaned since
+the day it was erected, which looks to have been some time ago from
+the amount of droppings all over the floor.  There are, at least, a
+few decent steeds here - one in particular looks like quite the
+warhorse.  There are exits both north into the camp or west into
+another section of tent.    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2552 0
+D3
+~
+~
+0 0 2555 0
+S
+#2559
+The Command Tent~
+A long, low table covers most of the area this tent has to offer.  
+Scrawled and scribbled on pieces of crumpled parchment lie scattered
+all over the table, most probably the Draconian's plan for invasion
+into some human realm.  There is another section of this tent to the
+west, a larger, wider room.  Just outside the door to the east is the
+firepit, where you will surely be spotted if you try leaving thru the
+main exit of this tent.    
+~
+25 32768 0 0 0 0
+D1
+~
+~
+0 0 2553 0
+D3
+~
+~
+0 0 2560 0
+S
+#2560
+Scah'lyyn's Tent~
+This would probably be opulent in Draconian standards, but the filth
+which covers most of the luxuries in this room only makes you want to
+retch.  There is a low, wide desk in the northwest corner of the tent
+and a wide cot.  Remains of past meals lay scattered on the floor,
+along with old tattered clothing which became unwearable.  The only
+exit you see from here is back through the command tent to the east.
+  
+~
+25 33280 0 0 0 0
+D1
+~
+~
+0 0 2559 0
+S
+#2561
+A Path in the Grass~
+You trudge down the pathway trying to make short work of any more
+traveling in grass.  At least you can see where you're going this
+time.  The path travels on eastward turning very abruptly, out of
+sight.  Where might this path lead to.  Shrug, as long as it heads out
+of this valley.    
+~
+25 32768 0 0 0 2
+D1
+~
+~
+0 0 2562 0
+D3
+~
+~
+0 0 2525 0
+S
+#2562
+A Path in the Grass~
+You trudge down the pathway trying to make short work of any more
+traveling in grass.  At least you can see where you're going this
+time.  The path travels on eastward turning very abruptly, out of
+sight.  Where might this path lead to.  Shrug, as long as it heads out
+of this valley.    
+~
+25 32768 0 0 0 2
+D1
+~
+~
+0 0 2563 0
+D3
+~
+~
+0 0 2561 0
+S
+#2563
+A Path in the Grass~
+At last, you're to the end of the path AND the grass.  A few more
+paces to the north and you could be home free.    
+~
+25 32768 0 0 0 2
+D0
+~
+~
+0 0 2564 0
+D3
+~
+~
+0 0 2562 0
+S
+#2564
+At the Grasses Edge~
+You step away from the grass, to behold a winding trail heading up the
+mountain.  This MUST be the way out as you see many boot prints
+following westward, you don't see any coming from that direction
+though.  Maybe, they were just as glad as you to leave this forsaken
+place.    
+~
+25 32768 0 0 0 10
+D2
+~
+~
+0 0 2563 0
+D3
+~
+~
+0 0 2565 0
+S
+#2565
+At the Grasses Edge~
+The way is free and clear from hear on.  Just a small hike northward,
+and a short climb should do the trick.  You can't help but feel a sigh
+of relief, but there is a tiny nagging sensation in the pit of your
+stomach.  Why were there no boot prints coming from this direction?  
+Hmmmmmm...    
+~
+25 32768 0 0 0 1
+D0
+~
+~
+0 0 2566 0
+D1
+~
+~
+0 0 2564 0
+S
+#2566
+A Forgotten Path~
+There is a smaller amount of prints heading up this direction.  You
+can't help but feel a chill run down your spine.  The boulders along
+the edge of the road don't seem quite right.  Almost man sized, placed
+precisely a few feet apart from one another encasing the trail
+northward.  You approach one of these stones, which almost look like
+humans, yet...  Nah, it couldn't be...  It just couldn't.    
+~
+25 32768 0 0 0 4
+D0
+~
+~
+0 0 2567 0
+D2
+~
+~
+0 0 2565 0
+S
+#2567
+A Forgotten Path~
+There is a smaller amount of prints heading up this direction.  You
+can't help but feel a chill run down your spine.  The boulders along
+the edge of the road don't seem quite right.  Almost man sized, placed
+precisely a few feet apart from one another, the stones encase the
+trail northward.  You approach one of thes stones, which almost look
+human-like, yet...  Nah...  It couldn't be...  It just couldn't.    
+~
+25 32768 0 0 0 4
+D0
+~
+~
+0 0 2568 0
+D2
+~
+~
+0 0 2566 0
+S
+#2568
+A Steep Mountain Side~
+You are no longer surrounded by the ominous pillars and are on your
+way up the steep slope of the mountain.  Some loos debris tumbles down
+behind you as you cautiously make your way up the slope.  There
+doesn't seem to be anything to hang on to, so try not to lose your
+footing.  The path continues up and south.    
+~
+25 32768 0 0 0 5
+D2
+~
+~
+0 0 2567 0
+D4
+~
+~
+0 0 2569 0
+S
+#2569
+A Steep Mountain Side~
+You've made it this far, looks like just a short ways to go.  The sky
+is strangely dark overhead, though just a few minutes ago it had been
+quite nice.  The rocks lose their red appearance for a darker, blacker
+one.  Great evil lies ahead, to cause such a thing.  "Toto, I don't
+think we are in Kansas anymore.  " The path continues up and down.  
+~
+25 32768 0 0 0 5
+D4
+~
+~
+0 0 2570 0
+D5
+~
+~
+0 0 2568 0
+S
+#2570
+A Narrow Ledge~
+You pull yourself up onto a narrow ledge, barely room enough to walk
+on.  Wherever you are headed, this place was not meant to be found or
+traveled by anyone.  A lightning bolt races across the sky, disrupting
+your attention and almost making you fall.  You hope that, that
+doesn't happen again.  The ledge heads east and west.  To the west is
+the base of a huge tower.    
+~
+25 32768 0 0 0 5
+D1
+~
+~
+0 0 2571 0
+D3
+~
+~
+0 0 2101 0
+D5
+~
+~
+0 0 2569 0
+S
+#2571
+A Narrow Ledge~
+You inch your way along the ledge, pressing your body as close to the
+rock as possible.  A lightning bolt races along the sky once again,
+this time accompanied by a thunderous, CRACK!  You can't help but feel
+your hear pound in your chest, as you see the end of the ledge to the
+east, Can this nightmare finally end?    
+~
+25 32768 0 0 0 5
+D1
+~
+~
+0 0 2572 0
+D3
+~
+~
+0 0 2570 0
+S
+#2572
+The Entrance to an Enormous Cave~
+You are at the entrance to an ENORMOUS cave, big enough to hold the
+most monsterous of vile beasts.  From the looks of things you are not
+welcomed here.  Two columns of skulls lie just inside the mouth of the
+entrance, you do not wish to become the newest part of that group.  
+Beyond the grotesque pillars, looms absolute blackness, no light seems
+to penetrate inward or even escape outward.  Enter at your own risk.
+~
+25 32768 0 0 0 5
+D0
+~
+~
+0 0 10 16
+D3
+~
+~
+0 0 2571 0
+D4
+~
+~
+0 0 10600 16
+S
+#2573
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2518 0
+D1
+~
+~
+0 0 2574 0
+S
+#2574
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2575 0
+D3
+~
+~
+0 0 2573 0
+S
+#2575
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2576 0
+D3
+~
+~
+0 0 2574 0
+S
+#2576
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2577 0
+D3
+~
+~
+0 0 2575 0
+S
+#2577
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2578 0
+D3
+~
+~
+0 0 2576 0
+S
+#2578
+Caven Road~
+The road ahead runs away from the endless grasses, to the east, where
+a stretch of mountains lie.  You see signs that the road is used
+frequently: there are pits, scratches, boot marks heading east and
+west, to and from the mountains.    
+~
+25 32772 0 0 0 10
+D1
+~
+~
+0 0 2579 0
+D3
+~
+~
+0 0 2577 0
+S
+#2579
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads north and west.    
+~
+25 33057 0 0 0 5
+D0
+~
+~
+0 0 2580 0
+D3
+~
+~
+0 0 2578 0
+S
+#2580
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads south and east.    
+~
+25 33057 0 0 0 5
+D1
+~
+~
+0 0 2581 0
+D2
+~
+~
+0 0 2579 0
+S
+#2581
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads south and west.    
+~
+25 33057 0 0 0 5
+D2
+~
+~
+0 0 2582 0
+D3
+~
+~
+0 0 2580 0
+S
+#2582
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads north and south.    
+~
+25 33057 0 0 0 5
+D0
+~
+~
+0 0 2581 0
+D2
+~
+~
+0 0 2583 0
+S
+#2583
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads north and south.    
+~
+25 33057 0 0 0 5
+D0
+~
+~
+0 0 2582 0
+D2
+~
+~
+0 0 2584 0
+S
+#2584
+A Man Made Cave~
+The cave you are in, is not really a cave more like a tuunnel.  The
+whole shape of the tunnel suggests that.  The sides are chiseled to a
+smooth finish, and it arcs perfectly over your head.  The tunnel may
+even burrow through the mountain itself.  Whoever created it, you are
+in aw of their work.  The tunnel leads north.    
+~
+25 33061 0 0 0 5
+D0
+~
+~
+0 0 2583 0
+S
+#2585
+Dragon Grotto Road~
+The road lies between two steep canyon walls.  They are of the darkest
+red you have ever seen, like blood yet not.  Lining these walls are
+many, deep scratches, all in an arc-like manner which suggests that
+something had dug this canyon into the mountain.  This would be an
+ideal place to ambush a person, or use as a fall back position in a
+battle.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2586 0
+D2
+~
+~
+0 0 2536 0
+S
+#2586
+Dragon Grotto Road~
+The road lies between two steep canyon walls.  They are of the darkest
+red you have ever seen, like blood yet not.  Lining these walls are
+many, deep scratches, all in an arc-like manner which suggests that
+something had dug this canyon into the mountain.  This would be an
+ideal place to ambush a person, or use as a fall back position in a
+battle.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2587 0
+D2
+~
+~
+0 0 2585 0
+S
+#2587
+Dragon Grotto Road~
+The road lies between two steep canyon walls.  They are of the darkest
+red you have ever seen, like blood yet not.  Lining these walls are
+many, deep scratches, all in an arc-like manner which suggests that
+something had dug this canyon into the mountain.  This would be an
+ideal place to ambush a person, or use as a fall back position in a
+battle.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2588 0
+D2
+~
+~
+0 0 2586 0
+S
+#2588
+Dragon Grotto Road~
+The road lies between two steep canyon walls.  They are of the darkest
+red you have ever seen, like blood yet not.  Lining these walls are
+many, deep scratches, all in an arc-like manner which suggests that
+something had dug this canyon into the mountain.  This would be an
+ideal place to ambush a person, or use as a fall back position in a
+battle.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 2589 0
+D2
+~
+~
+0 0 2587 0
+S
+#2589
+At an Intersection~
+The canyon branches off to the east and west here.  In the distance,
+you here what sounds like a popping/ cracking sound, it's rather
+unusual and you can't quite make it out.  There also is another sound,
+somewhere from the opposite direction, to the west.  A loud clanging
+sound can be hear, like swords smacking together.  Either way, the
+directions don't look encouraging.    
+~
+25 32768 0 0 0 10
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 2590 0
+D2
+~
+~
+0 0 2588 0
+D3
+~
+~
+0 0 2592 0
+S
+#2590
+Wyrm Ridge~
+You make your way eastward through a narrow, chiseled valley.  The
+rock surfaces to either side are smooth and glass like, it would be
+impossible to climb your way out if you needed to.  Screeching noises
+become ever more apparent, a whip cracks trying to silent the noises
+but instead makes it louder.  The way heads east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2591 0
+D3
+~
+~
+0 0 2589 0
+S
+#2591
+Wyrm Ridge~
+You make your way eastward through a narrow, chiseled valley.  The
+rock surfaces to either side are smooth and glass like, it would be
+impossible to climb your way out if you needed to.  Screeching noises
+become ever more apparent, a whip cracks trying to silent the noises
+but instead makes it louder.  The way heads east and west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2595 0
+D3
+~
+~
+0 0 2590 0
+S
+#2592
+Wyrm Ridge~
+You make your way eastward through a narrow, chiseled valley.  The
+rock surfaces to either side are smooth and glass like, it would be
+impossible to climb your way out if you needed to.  You hear the
+shouts of a taskmaster, barking orders to young trainees.  The
+trainees answer "Yes Sir" in response.  The valley heads east and
+west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2589 0
+D3
+~
+~
+0 0 2593 0
+S
+#2593
+Wyrm Ridge~
+You make your way eastward through a narrow, chiseled valley.  The
+rock surfaces to either side are smooth and glass like, it would be
+impossible to climb your way out if you needed to.  You hear the
+shouts of a taskmaster, barking orders to young trainees.  The
+trainees answer "Yes Sir" in response.  The valley heads east and
+west.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2592 0
+D3
+~
+~
+0 0 2594 0
+S
+#2594
+Wyrm Ridge~
+You make your way eastward through a narrow, chiseled valley.  The
+rock surfaces to either side are smooth and glass like, it would be
+impossible to climb your way out if you needed to.  You hear the
+shouts of a taskmaster, barking orders to young trainees.  The
+trainees answer "Yes Sir" in response.  The valley heads east, west
+and south.    
+~
+25 32768 0 0 0 10
+D1
+~
+~
+0 0 2593 0
+D2
+~
+~
+0 0 2597 0
+D3
+~
+~
+0 0 2598 0
+S
+#2595
+Dragon Breeding Chamber~
+A deep, eerie aura fills the depths of this cave.  You shine your
+light about the place to get a better feel of the area.  You walk a
+few steps forward and you feel some thing crack under the weight of
+your boot.  You shine the light downward to examine what you had
+stepped on, it is an egg.  Bending down to get a closer look you
+notice that these were NOT of the bird family, but it was a dragon
+egg.  A small 'snap' echos through the room, then a 'crack', then more
+noises accompany, those faint first sounds.  A horrible thought
+crosses your mind.  The eggs are hatching.  You could escape west of
+here or try your chances south.
+~
+25 33057 0 0 0 5
+D2
+~
+~
+0 0 2596 0
+D3
+~
+~
+0 0 2591 0
+S
+#2596
+Dragon Breeding Chamber~
+The sounds echo even more in this part of the cave, it's almost
+deafening.  As quickly as the noises began, they stop.  Two glowing,
+silver eyes appear out of the darkness, watching you intently.  The
+eyes begin moving toward you, accompanied by a soft gentle breeze.  
+The eyes turn suddenly to the left.  You focus in on those eyes,
+turning your head then your body to follow them as they move around
+you.  The eyes circle you once, twice, three times each time gaining
+in momentum.  The gentle breeze that was apparent earlier has now been
+replaced by a vortex, slowly sucking the breath out of you.  Dizzied
+by the effect you fall to one knee gasping for air.  The eyes slow
+their pace until finally resting in front of you once more.  You sense
+that this was just a warning, and that you had better leave.    
+~
+25 33057 0 0 0 5
+D0
+~
+~
+0 0 2595 0
+D5
+~
+~
+0 0 -1 0
+S
+#2597
+The Draconian Training Camp~
+Young draconian trainees are sprawled out about the place, practicing
+the art of war.  Some are standing others are left breathless on the
+ground, but never the less all are practising.  A camp task master
+spots you and yells to the recruits, "That is your enemy, best him,
+and you shall be TRUE draconian soldiers!  " The recruits look up from
+whatever they are doing and bare gnarly fangs.  All charge you, but
+the task masters' whip slices through the air, "ONE at a time, whelps,
+only ONE at a time!  " Your best bet is to flee northward.    
+~
+25 32768 0 0 0 1
+D0
+~
+~
+0 0 2594 0
+S
+#2598
+A Draconian Training Camp~
+Young draconian trainees are sprawled out about the place, practicing
+the art of war.  Some are standing others are left breathless on the
+ground, but never the less all are practising.  A camp task master
+spots you and yells to the recruits, "That is your enemy, best him,
+and you shall be TRUE draconian soldiers!  " The recruits look up from
+whatever they are doing and bare gnarly fangs.  All charge you, but
+the task masters' whip slices through the air, "ONE at a time, whelps,
+only ONE at a time!  " Another camp looms to the north or you can
+still flee east.    
+~
+25 32768 0 0 0 1
+D0
+~
+~
+0 0 2599 0
+D1
+~
+~
+0 0 2594 0
+S
+#2599
+A Draconian Training Camp~
+Young draconian trainees are sprawled out about the place, practicing
+the art of war.  Some are standing others are left breathless on the
+ground, but never the less all are practising.  A camp task master
+spots you and yells to the recruits, "That is your enemy, best him,
+and you shall be TRUE draconian soldiers!  " The recruits look up from
+whatever they are doing and bare gnarly fangs.  All charge you, but
+the task masters' whip slices through the air, "ONE at a time, whelps,
+only ONE at a time!  " Head south before it's too late.    
+~
+25 32768 0 0 0 1
+D2
+~
+~
+0 0 2598 0
+S
+$~

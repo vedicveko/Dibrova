@@ -1,0 +1,111 @@
+#30100
+A Stronghold nestled among the Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen-covered limestone rocks jut forth from the landscape, in which
+lies the entrance to a formidable stronghold.  All about, the rolling
+foothills continue to span the horizon.  To the east, the tips of the
+Dens mountains can be seen.    
+~
+301 65604 0 0 0 0
+D0
+~
+~
+0 0 30101 0
+D2
+~
+~
+0 0 31327 0
+S
+#30101
+Central Foyer~
+A vast foyer opens up before you.  Ancient, cold stone walls glisten
+dully as the light from torches flicker weakly from their nooks.  A
+rising cathedral ceiling lends to an overpower feeling of awe, it's
+majestic oaken beams spanning the expanse between walls.  Old tattered
+banners hang, draped from the beams overhead.    
+~
+301 65600 0 0 0 0
+D0
+~
+~
+0 0 30105 0
+D1
+~
+~
+0 0 30103 0
+D2
+~
+~
+0 0 30100 0
+D3
+~
+~
+0 0 30102 0
+S
+#30102
+Council Chambers~
+A thin layer of dust covers everything in this chamber, hinting that
+it is not often that the Council convenes.  The somber stone walls
+forming the boundries of the chamber offer no hint of what events may
+have transpired here over the centuries.    
+~
+301 65600 0 0 0 0
+D1
+~
+~
+0 0 30101 0
+S
+#30103
+Halls of Time~
+Cold stone forms the walls in this hallway.  The air is drafty and
+seems to stiffle any sound that may echo forth here.  Trailing vines
+creep forth, slowly and cautiously, testing their way about for a new
+foothold to climb upon.  Mosses and lichen glisten slightly as tiny
+beads of moisture collect upon their living bodies.    
+~
+301 327744 0 0 0 0
+D1
+~
+~
+0 0 30104 0
+D3
+~
+~
+0 0 30101 0
+S
+#30104
+Depository of Time~
+The cold stone walls forming this vault glow with a soft light,
+hinting that more than just stone protects this room.  A thin layer of
+dust shows that this place is not visited frequently.    
+~
+301 4259904 0 0 0 0
+D3
+~
+~
+0 0 30103 0
+S
+#30105
+Trove of Ancients~
+Cold stone walls open up to a large vaulted room.  Oaken beams rise
+high in the air, bearing the shale roof above.  Mosses and lichen
+adorn the cracks and spaces between each stone adding some sense of
+Nature in this room that Time has forgotten.    
+~
+301 65600 0 0 0 0
+D2
+~
+~
+0 0 30101 0
+S
+#30199
+Field of Deceptive Whispers~
+You are in an unfinished room.
+~
+301 2162916 0 0 0 0
+D6
+~
+~
+0 0 7892 16
+S
+$~

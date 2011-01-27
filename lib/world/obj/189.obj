@@ -1,0 +1,232 @@
+#18900
+water brook~
+/cwa /cbsmall brook/c0~
+A small brook trickles through the clearing.~
+~
+23 0 0 0 0 0 0 0 0
+20 20 19 0 0 0 0 0
+4000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18901
+ticket man~
+a ticket man~
+A ticket man is here selling tickets.~
+~
+18 65548 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18902
+ticket~
+/cwa /cPferry ticket/c0~
+A ferry ticket has been dropped here.~
+~
+12 65548 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18903
+animal skin tattered~
+/cwa /cYtattered /cyanimal skin/c0~
+A tattered animal skin lies in a heap.~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18904
+tattered cloak~
+/cwa /cytattered /cgcloak/c0~
+A tattered cloak lies in a heap.~
+Nothing.
+~
+18 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18905
+tattered vest~
+/cwa /cgtattered /cyvest/c0~
+A tattered vest lies on the ground.~
+Nothing.
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+4 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18906
+key wooden~
+/cwa /cywooden /cwkey/c0~
+A small wooden key lies here.~
+ ~
+18 65548 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18908
+closet~
+/cwa /cycloset/c0~
+/cwThere is a wooden closet tucked into a corner./c0~
+~
+15 0 0 0 0 0 0 0 0
+500 1 -1 0 0 0 0 0
+4000 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+closet~
+It is large, yet gracefully made, obviously of Scandinavian design.
+~
+#18909
+jar~
+/cwa /crspice /cwjar/c0~
+/cwA small unlabled spice jar is standing here./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 1 -1 0 0 0 0 0
+4000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18910
+powder black~
+/cwsome /cLblack /cwpowder/c0~
+Some strong-smelling black powder has been carelessly scattered here.~
+~
+10 67174408 0 0 0 1 0 0 0
+100 82 82 82 0 0 0 0
+4 3346 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+powder~
+Something tells you this powder is too dangerous to be left lying around
+a kitchen...
+~
+#18911
+kernel kernels~
+/cwsome small /cYyellow /cwkernels/c0~
+Some small yellow kernels have been accidentally left here.~
+~
+19 0 0 0 0 1 0 0 0
+14 0 0 0 0 0 0 0
+4 56 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+kernel kernels~
+Look fairly dull...
+~
+#18912
+paper wad~
+/cwa crumpled wad of paper/c0~
+There is a crumpled &+wwad of paper &+where, left behind by some messy bypasser.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+undefined~
+Nothing.
+~
+#18917
+staff wooden~
+/cwa /cywooden /cwstaff/c0~
+You see a wooden staff on the floor.~
+~
+11 1310720 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 24033 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff wooden~
+This oaken staff is very hefty but balanced.
+~
+A
+4 2
+A
+19 4
+A
+17 -3
+A
+5 -2
+#18918
+brown robe cloth~
+/cwa /cybrown /cwrobe/c0~
+Some brown cloth is on the floor.~
+~
+9 1343488 0 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+4 36746 0 106 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+robe brown cloth~
+This robe is rough, but appears quite durable.
+~
+A
+18 5
+A
+19 3
+A
+3 -2
+#18920
+herbs~
+/cwsome /cbbluish /cwherbs/c0~
+/cwSome bluish herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 39 0 0 0 0 0 0
+4 163 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18921
+herbs~
+/cwsome /cppurplish /cwherbs/c0~
+/cwSome purple herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 52 14 15 0 0 0 0
+4 399 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18922
+herbs~
+/cwsome /clblackish /cwherbs/c0~
+/cwSome blackish herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 4 17 0 0 0 0 0
+4 336 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18923
+herbs~
+/cwsome /cLgrayish /cwherbs/c0~
+/cwSome grayish herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 8 0 0 0 0 0 0
+4 1133 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18924
+herbs~
+/cwsome /crreddish /cwherbs/c0~
+/cwSome reddish herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 43 53 53 0 0 0 0
+4 399 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18925
+herbs~
+/cwsome /cRorangish /cwherbs/c0~
+/cwSome orangish herbs are scattered here./c0~
+~
+10 4 0 0 0 1 0 0 0
+103 77 0 0 0 0 0 0
+4 433 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18926
+herbs~
+/cwsome /cPpinkish /cwherbs/c0~
+/cwSome pinkish herbs are scattered here./c0~
+Nothing.
+~
+10 4 0 0 0 1 0 0 0
+103 3 1 0 0 0 0 0
+4 566 0 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

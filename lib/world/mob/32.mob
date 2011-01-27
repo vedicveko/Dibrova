@@ -1,0 +1,861 @@
+#3200
+marrow leech~
+a Marrow Leech~
+A long, serpentine-like leech udulates through the water towards you.
+~
+Nothing.  At first guess, one would say it is a good ten feet long.  
+Those who know better would say it is longer, because the ten feet is
+all you can see ABOVE the water.  It is a dull forest-green color and
+has a rather wicked-looking suction for a mouth.  Within the mouth is
+another which bores in the bones of unsuspecting victims and drains
+them of marrow.    
+~
+6380 0 0 0 524480 0 0 0 -100 E
+110 88 -40 1d39+2500 11d12+73
+0 752086
+8 8 0
+BareHandAttack: 11
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 18
+Luck: 12
+Race: 4
+E
+#3201
+hellfire eel thread~
+a Hellfire Eel~
+A flaming thread of fire streaks through the water towards you.
+~
+The water constantly boils and evaporates around the body of the
+Hellfire eel.  Long ago, Apocalypse obtained hellfire from Satan.  
+With an unholy pact struck between the two powers of evil, the
+hellfire was given life and shaped into an eel.  It forever roams the
+Dead Sea, tormenting unfortunate adventurers.    
+~
+2152 0 0 0 144 0 0 0 -400 E
+113 91 -40 1d40+2525 12d13+75
+0 805501
+8 8 0
+BareHandAttack: 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 10
+Luck: 12
+Race: 41
+E
+#3202
+demonshark shark~
+a Demonshark~
+A triangular fin of a cruising shark breaks the surface of the water.
+~
+Reaching lengths of twenty-five feet and streamlined, the Demonshark
+is a formidable hunter.  Most things lucky enough to get by the other
+horrors of the sea usually fall to the sharks.  Its gaping mouth
+reveals rows of razor-sharp, serrated teeth which gleam wickedly.    
+~
+694392 0 0 0 1573008 0 0 0 -535 E
+115 94 -40 1d42+2700 13d13+76
+0 842356
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 41
+E
+#3203
+ixitxachityl ray~
+Ixitxachityl~
+A huge sea ray with a deadly barbed tail emerges from the sandy ocean floor.
+~
+This is the most dangerous beast that roams the Dead Sea.  Huge wings
+propel it through the water with ease.  It's tough leathery hide will
+resist most types of weapon damage.  Swishing about, the barbed tail
+is laced with a deadly poison for which an antidote is know by only a
+few powerful beings.    
+~
+231466 0 0 0 50399312 2 0 0 -750 E
+122 102 -60 1d46+3500 14d14+81
+0 979341
+8 8 0
+BareHandAttack: 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 13
+Luck: 12
+Race: 4
+E
+#3204
+spirit tears~
+the Spirit of Tears~
+A shimmering, shape-shifting form of water approaches you.
+~
+Countless tears shed by those on the mortal plane trickle down through
+all space and time to the Spirit of Tears.  Fresh tears fall from out
+of nowhere and become a part this being.  Its entire existence depends
+on these tears and it will do whatever it can to make them fall.    
+~
+772152 0 0 0 590164 0 0 0 -750 E
+140 124 -60 1d49+5000 17d17+93
+2500 1530155
+8 8 0
+BareHandAttack: 16
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 5
+Luck: 12
+Class: 3
+Race: 34
+E
+#3205
+spirit pain~
+the Spirit of Pain~
+A spirit whose body is racked by convulsions of pain reaches out to touch you.
+~
+As you look deep into its hollow eyes and see its smile, you realize
+that this abomination actually thrives on pain.  The pain that every
+being feels feeds and sustains this spirit.  Forever lusting for more
+pain, it strives to cause pain in any way it can.    
+~
+772152 0 0 0 590164 0 0 0 -750 E
+140 124 -60 1d49+5000 17d17+93
+2500 1530155
+8 8 0
+BareHandAttack: 16
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 14
+Luck: 12
+Class: 1
+Race: 34
+E
+#3206
+spirit sorrow~
+the Spirit of Sorrow~
+A spirit who weeps mockingly begins to laugh insanely as it sees you.
+~
+All the sorrow from all the realms is what forms the Spirit of Pain.
+It has no form or shape, but rather appears as a mist.  Misty tendrils
+coil out and reach for you.  It knows that everyone, deep inside in
+their hearts, has sorrow from one time or another.    
+~
+772152 0 0 0 590164 0 0 0 -750 E
+140 124 -60 1d49+5000 17d17+93
+2500 1530155
+8 8 0
+BareHandAttack: 16
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 15
+Luck: 12
+Class: 2
+Race: 34
+E
+#3207
+spirit despair~
+the Spirit of Despair~
+A dark cloud of despair materializes before you.
+~
+Despair!  Despair!  Despair!  Despair is all it lives for.  The cloud
+pulsates and ebbs as the amount of despair in the universe fluctuates.
+Hungrily seeking the essence of despair, it looks to cause yours!    
+~
+772152 0 0 0 590164 0 0 0 -750 E
+140 124 -60 1d49+5000 17d17+93
+2500 1530155
+8 8 0
+BareHandAttack: 16
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 6
+Luck: 12
+Class: 8
+Race: 34
+E
+#3208
+death skeletal being~
+Death~
+A huge, robed skeletal being sits upon its Dark Throne.
+~
+As Death sees you, it arises from it's throne.  A cloud of darkness
+rolls into the room and the wailing the dead grow louder.  Once a
+proud being of free mind and will, it now works under the iron grip of
+Apocalyse.  Make no mistake, for this being is death and death itself.
+~
+772122 0 0 0 42271056 4194304 0 0 0 E
+145 130 -60 1d50+6000 18d18+96
+2500 1825517
+6 6 0
+BareHandAttack: 16
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 5
+Luck: 12
+Class: 4
+Race: 35
+E
+#3209
+famine gaunt figure~
+Famine~
+A gaunt figure looks up from its work as you walk into the room.
+~
+Famine, one of the four horsemen of the apocalypse, is a being that
+can cause ultimate suffering with a slight touch of his gaunt hand.  
+Standing tall, it commands respect and an aura of majesty surrounds
+it.  It does the bidding of Apocalypse.    
+~
+772122 0 0 0 42271056 4194304 0 0 0 E
+145 130 -60 1d50+6000 18d18+96
+2500 1825517
+8 8 0
+BareHandAttack: 10
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 17
+Luck: 12
+Class: 8
+Race: 35
+E
+#3210
+pestilence figure~
+Pestilence~
+A grotesque figure, afflicted with numerous diseases, grins evilly at you.
+~
+Pestilence is one to be feared.  With a simple breath, it can cause
+entire worlds to writhe in pain and agony.  Every creature that bears
+disease or suffering carry out it's sacred will.  One can only marvel
+at the awesome power of Apocalypse for being able to rein in such
+mighty beings under his will.    
+~
+772122 0 0 0 42271056 4194304 0 0 0 E
+145 130 -60 1d50+6000 18d18+96
+2500 1825517
+8 8 0
+BareHandAttack: 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 19
+Luck: 12
+Class: 3
+Race: 35
+E
+#3211
+war being~
+War~
+A being decked out in invincible armor pauses from its work as it sees you.
+~
+Huge and powerful, War is quick to rage and yet excising foolproof
+judgement at the same time.  With bulging and rippling muscles, this
+being is the ultimate warrior.  Trained in every style of combat,
+weaponry, armory, and strategy, none could ever defeat him save one,
+Apocalypse.    
+~
+772122 0 0 0 42271056 4194304 0 0 0 E
+145 130 -60 1d50+6000 18d18+96
+2500 1825517
+8 8 0
+BareHandAttack: 6
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+Class: 9
+Race: 35
+E
+#3212
+grand master being time~
+the Grand Master of Time~
+Time and space periodically shift and reorient about this wizened, ancient being.
+~
+Since the need for time arose, the Grand Master of Time has been
+there.  He has seen the countless creations and destructions of worlds
+in what seems to be the time it takes for you to snap your fingers.  
+He has seen, heard, and felt it all.  Using his vast and mighty power,
+he justly judges what was, is, and will be to come...    
+~
+772122 0 0 0 33882448 0 0 0 0 E
+160 149 -60 1d50+6000 22d23+106
+2550 2346408
+8 8 0
+BareHandAttack: 15
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Class: 8
+Race: 45
+E
+#3213
+apocalypse~
+Apocalypse~
+Apocalypse,  the bringer of destruction and havoc, towers over you.
+~
+Ultimate evil flickers in its eyes as Apocalypse gazes down upon you
+with contempt.  It takes intense joy in the destruction of worlds
+brought upon by his hands and the four horsemen.  Unlike the four
+horsemen who do what they ] do for the neccessity of maintaining life,
+Apocalypse does it for the hollow pleasure.  Only one being whos name
+has been forgotten throughout time can stand up to Apocalypse's deadly
+might.    
+~
+247866 0 0 0 41959760 0 0 0 -1000 E
+150 136 -60 1d50+6000 20d20+100
+2500 1824490
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 24
+Luck: 12
+Class: 4
+Race: 35
+E
+#3214
+verthandi young woman~
+Verthandi~
+A beautiful young woman pauses from her spinning to collect more material to spin.
+~
+The youngest of the three Fates, Verthandi is a sight to behold.  
+Young and radiant, she is full of life.  The eternal and endless work
+of spinning the threads of life does not seem to faze nor bore her,
+for she takes great pleasure in seeing the birth of countless beings.
+~
+710666 0 0 0 33622352 0 0 0 0 E
+130 111 -60 1d47+4000 15d16+86
+2500 1266673
+8 8 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Race: 45
+E
+#3215
+urd middle-aged woman~
+Urd~
+A kind, middle-aged woman smiles upon you as you walk into the room.
+~
+Urd is the second of the Fates, not as radiant or wise as the other
+two sisters.  Yet, she is the one who makes the fateful decision in
+determining one's lifespan.  She does this with no regret nor sorrow
+for she knows that this is how life works.    
+~
+706586 0 0 0 33622352 0 0 0 0 E
+133 115 -60 1d47+4000 16d16+88
+2500 1342551
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 17
+Luck: 12
+Race: 11
+E
+#3216
+skuld old woman~
+Skuld~
+An elderly woman sits here, snipping away at the countless threads of life.
+~
+Skuld is the oldest of the three Fates.  She is wise and kind.  She seems to 
+know where the countless threads of life which have been marked are and summons
+them to rest upon her lap.  With a gentle touch, she snips them at the mark.
+She knows that this is how life goes and has always been thus.
+~
+706586 0 0 0 33622352 0 0 0 0 E
+135 117 -60 1d47+4000 16d17+90
+2500 1394633
+8 8 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 12
+Luck: 12
+Race: 41
+E
+#3217
+mummy chaos~
+the Mummy of Chaos~
+A mummy moves slowly out of the coffin and shambles towards you.
+~
+This is the mummy of Chaos who once ruled in Apocalypse stead.  
+Apocalypse rose in might and disposed Chaos from its throne.  In a fit
+of cruel humor, Apocalypse summoned the might of the dead and made
+Chaos into one of the undead.  Time has weakened Chaos and the mummy
+is a mere shadow of its former might.  Forever sealed in this tomb, it
+bitterly awaits the presence of a mortal to vent its frustration and
+anger upon.    
+~
+180270 0 0 0 1572944 0 0 0 -600 E
+145 130 -60 1d42+2700 18d18+96
+2500 1521265
+5 5 0
+BareHandAttack: 10
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 17
+Luck: 12
+Class: 9
+Race: 48
+E
+#3218
+Wraith Horrors~
+the Wraith of Horrors~
+A wraith shireks at you as you spot it lunging at you!
+~
+This unholy apparition is definitely the Wraith of Horrors once you
+see what it is capable of.  Translucent and difficult to see among the
+shadows, it is a nasty suprise for the unwary traveller.    
+~
+755754 0 0 0 34605120 0 0 0 -1000 E
+117 96 -40 1d46+3500 13d14+78
+2375 880218
+8 8 0
+BareHandAttack: 10
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 8
+Luck: 12
+Class: 9
+Race: 49
+E
+#3219
+chyron skeletal being~
+Chyron~
+A robed skeletal being approaches with an outstetched hand for ferrying payment.
+~
+Chyron has been ferrying passengers across the river styx since the
+beginning of time.  His movements are slow, yet deliberate and he has
+never lost anyone to the river.  With a silent look at you, you feel
+that it may be best to pay for a ferry than to attempt crossing the
+river yourself.    
+~
+253979 0 0 0 33818960 0 0 0 0 E
+150 136 -60 1d48+4500 20d20+100
+0 1990352
+8 8 0
+BareHandAttack: 5
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 24
+Luck: 12
+Class: 4
+Race: 6
+E
+#3220
+cerebus dog~
+Cerebus~
+A huge three-headed dog snaps at you as you approach it.
+~
+Cerebus guards the pathway to the Crypt.  He is larger than any canine
+you have ever seen in your life.  Despite the fact that it has three
+heads, it moves about gracefully and with great stealth.    
+~
+821274 0 0 0 33556560 0 0 0 0 E
+133 115 -60 1d48+4500 16d16+88
+0 1220501
+8 8 0
+BareHandAttack: 8
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 24
+Luck: 12
+Race: 41
+E
+#3221
+skeletal hound~
+Skeletal Hound~
+A skeletal hound silently snarls angrily at you.
+~
+A canine made completely of a living skeleton stalks warily about you.
+No larger than a wolf, it hunts in packs and are efficient killers.  
+Its evil eyes glow in it's sockets as it anticipates the next meal you
+will make.    
+~
+137224 0 0 0 83984 0 0 0 -800 E
+110 88 -40 1d39+2500 11d12+73
+0 752086
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 6
+Luck: 12
+Race: 36
+E
+#3222
+bone devil~
+a Bone Devil~
+A humanoid made of bones stands before you, grinning evilly.
+~
+Standing a good seven feet tall, the Bone Devil likes to torment
+travelers passing by.  Despite the fact that it moves about slowly and
+awkwardly, its massive bone structure provides better protection than
+most.  It likes masterial items, especially shiny ones.  If you so
+happen to die here on the Bone Isle, you best dash back here and get
+your stuff before the Devils get to it!    
+~
+165932 0 0 0 16464 0 0 0 -900 E
+113 91 -40 1d42+2700 12d13+75
+2275 805501
+8 8 0
+BareHandAttack: 7
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Luck: 12
+Class: 3
+Race: 36
+E
+#3223
+skeletal warrior~
+a Skeletal Warrior~
+A skeletal warrior stands here amist the blowing dust.
+~
+Hollow eye sockets which stare at you blankly make you nervous.  
+These skeletal warriors guard the Isle from unwanted visitors.  Make
+no mistake, they can hold their own.    
+~
+665658 0 0 0 264272 0 0 0 -850 E
+115 94 -40 1d44+2900 13d13+76
+0 926591
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 14
+Luck: 12
+Class: 4
+Race: 29
+E
+#3224
+skeletal dragon~
+a Skeletal Dragon~
+A huge skeletal dragon lies here sleeping.
+~
+Sporting teeth that are as long as you are tall, this dragon can be a
+nasty problem if it is disturbed from its peaceful slumber.  It is an
+eerie sight to behold, its massive rib cages moving despite the fact
+it has no lungs.  Suddenly, it moves and exposes its talons!  Lucky
+for you, it was just stretching out in its sleep.    
+~
+215098 0 0 0 65872 0 0 0 -1000 E
+118 97 -40 1d45+3000 13d14+78
+2400 989481
+4 4 0
+BareHandAttack: 8
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 10
+Luck: 12
+Class: 4
+Race: 9
+E
+#3225
+unholy warrior~
+Unholy Warrior~
+A flaming warrior, born of hellfire, practices its skills for that fateful day.
+~
+Mindless and created for only one purpose, the destruction of all who
+try to interfere with Apocalypse's plans.  Highly skilled in the dark
+arts of combat, these unholy warriors make worthy opponents.    
+~
+4204 0 0 0 16400 0 0 0 -1000 E
+110 88 -40 1d42+2700 11d12+73
+0 752086
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Race: 41
+E
+#3226
+zombie undead battlemaster~
+the Undead Battlemaster~
+A massive zombie moves with a grace and purpose for your throat!
+~
+Massive and powerfully built, the Undead Battlemaster was brought back
+to life after Apocalypse heard of its reknown knowledge in battle.  
+Its sole purpose is to train the unholy warriors and simply kill those
+who do not make the cut.    
+~
+600090 0 0 0 278608 0 0 0 -1000 E
+116 95 -40 1d45+3000 13d13+77
+0 947276
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Class: 8
+Race: 41
+E
+#3227
+general~
+the General of the Unholy Army~
+The General of the Unholy Army strides about, fiercely burning with hellfire.
+~
+The General is nothing more than a shell of hellfire containing the
+souls of all warriors who fought for evil's sake.  These souls have
+struck a pact with Apocaylpse, total obedience to Apocalypse for more
+time to play.    
+~
+690218 0 0 0 33833040 0 0 0 -1000 E
+117 96 -40 1d46+3500 13d14+78
+0 968239
+8 8 0
+BareHandAttack: 7
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 13
+Luck: 12
+Class: 9
+Race: 41
+E
+#3228
+soulsnatcher~
+a Soulsnatcher~
+A Soulsnatcher, armed with barbed talons, stands poised to tear your soul apart!
+~
+Unclaimed souls who are doomed forever, by an evil pact between
+Apocalypse and Satan, to wander in search of more souls to claim for
+Satan.  This resulted in the creation of Soulsnatchers, the perfect
+guardians of the lands under the mighty Apocalypse's grip.    
+~
+79948 0 0 0 33554512 0 0 0 -1000 E
+111 89 -40 1d40+2525 12d12+74
+0 769644
+8 8 0
+BareHandAttack: 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 25
+Luck: 12
+Class: 3
+Race: 11
+E
+#3229
+deathshade shadow~
+a Deathshade~
+A shadow from the dark follows your shadow closely.
+~
+Barely indistinguishable from the innocent shadows created from the
+torchlight, the Deathshade seeks to terminate your shadow.  When it
+kills and disolves your corpse, thus destroying your shadow, it grows
+stronger and deadlier.    
+~
+624744 0 0 0 34080848 4096 0 0 -1000 E
+112 90 -40 1d48+4500 12d12+74
+0 787448
+8 8 0
+BareHandAttack: 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 8
+Luck: 12
+Race: 49
+E
+#3230
+death angel deathangel~
+a DeathAngel~
+An angel with raven-black wings and a wicked blade descends towards you.
+~
+A Deathangel is not one to be triffled with.  Raven-black eyes, hair,
+wings, and clothing tell you that this is not your typical
+goodie-goodie angel.  It has been placed here for a reason, why?....
+That you must find out.    
+~
+706602 0 0 0 33884496 0 0 0 -1000 E
+148 134 -60 1d50+6000 18d19+98
+0 1923378
+8 8 0
+BareHandAttack: 12
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 6
+Luck: 12
+Class: 9
+Race: 29
+E
+#3231
+creature gravedigger~
+a Gravedigger~
+A hunchedbacked creature scurries about looking for more corpses.
+~
+Its small size and deformity belies its great strength.  Strong and
+sinewy arms are capable of crushing rocks into pebbles.  It is shy and
+reclusive, avoiding crowds and the light.  Muttering something under
+its breath, it scurries on.    
+~
+8554504 0 0 0 598032 0 0 0 600 E
+111 89 -40 1d39+2500 12d12+74
+2225 769644
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Race: 7
+E
+#3232
+zombie watchguard~
+a Zombie Watchguard~
+Chunks of rotting flesh peel off the zombie as it stands watch.
+~
+The zombie Watchguards are completely mindless and devoid of
+intelligence.  Having stood here, decaying, for ages, they have
+forgotten what their orders were.  Thus, they simply stand here, still
+and unmoving as statues.    
+~
+47118 0 0 0 33620048 2 0 0 -300 E
+113 91 -40 1d45+3000 12d13+75
+0 805501
+8 8 0
+BareHandAttack: 13
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 12
+Luck: 12
+Race: 29
+E
+#3233
+statue beast gargoyle~
+a Stone Gargoyle~
+A massive statue of an unrecoginizable beast lays here at rest.
+~
+These gargoyles are the last of a great and ancient race that once
+ruled this dark realm.  They ruled with wisdom and gentleness.  Their
+day ended when Chaos siezed control and waged war against them.  
+Looking closer at these stone-like beasts, you notice that they are a
+cross of a small dragon and a gorilla.  They are resting, and have
+been for eons, saving their energies for the day to strike back at
+evil.    
+~
+260106 0 0 0 75856 0 0 0 1000 E
+114 93 -40 1d40+2525 12d13+76
+0 823803
+5 5 0
+BareHandAttack: 12
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 17
+Luck: 12
+Class: 4
+Race: 10
+E
+#3299
+Loki~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 15
+Luck: 12
+E
+$

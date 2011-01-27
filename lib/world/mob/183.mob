@@ -1,0 +1,443 @@
+#18300
+john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+He is six feet tall and looks quite strong, muscles bulging under his
+heavy, chequered shirt.  His features are worn with hard work and his
+expression is one of a peaceful man leading a simple life.    
+~
+16588 0 0 0 0 0 0 0 500 E
+35 17 -20 0d0+0 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 18
+Str: 20
+Dex: 19
+Int: 13
+Wis: 7
+Con: 6
+Cha: 6
+Luck: 24
+Race: 7
+E
+#18301
+rabbit small~
+the rabbit~
+A small rabbit is foraging in the bushes here.
+~
+It is a small, furry creature with long ears and big feet.    
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 0d0+0 1d2+5
+0 941
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 14
+Int: 8
+Wis: 7
+Con: 19
+Cha: 6
+Luck: 20
+E
+#18302
+bear brown~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+The bear is a big, brown, furry animal with very large claws and very
+sharp teeth.  It doesn't resemble those cute little dolls from toy
+shops at all.    
+~
+65612 0 0 0 0 0 0 0 0 E
+21 8 16 0d0+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 8
+Str: 5
+Dex: 21
+Int: 19
+Wis: 19
+Con: 22
+Cha: 18
+Luck: 13
+Race: 1
+E
+#18303
+rabbit ferocious~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+This small, furry creature with long ears and big feet has been
+attacked by the dreaded rabbit rabies, a horrible disease that turns
+helpless and innocent rabbits into ferocious and bloodthirsty
+monsters.    
+~
+16793704 0 0 0 0 0 0 0 0 E
+13 4 48 0d0+0 1d2+8
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 8
+Dex: 5
+Int: 10
+Wis: 8
+Con: 19
+Cha: 20
+Luck: 12
+Race: 1
+E
+#18304
+deer fallow~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+She is a graceful creature on long, slender legs, and with large,
+brown eyes looking back at you with an air of watchful interest.    
+~
+200 0 0 0 0 0 0 0 0 E
+10 3 60 0d0+0 1d2+6
+15 1662
+8 8 0
+Str: 23
+Dex: 24
+Int: 25
+Wis: 6
+Con: 9
+Cha: 17
+Luck: 25
+E
+#18305
+fox brown~
+the brown fox~
+A brown fox is stalking rabbits through the underbrush here.
+~
+It is a large fox with beautiful, red-brown fur and a long, thick
+bushy tail.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 0d0+0 1d2+4
+0 669
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 6
+Int: 6
+Wis: 9
+Con: 19
+Cha: 24
+Luck: 25
+E
+#18306
+bird large~
+the bird~
+A large bird with a broken wing has been cornered here.
+~
+The bird isn't going to live much longer, by the looks of it.
+~
+72 0 0 0 0 0 0 0 0 E
+6 1 76 0d0+0 1d2+4
+0 451
+8 8 0
+BareHandAttack: 1
+Str: 21
+Dex: 10
+Int: 13
+Wis: 12
+Con: 13
+Cha: 25
+Luck: 19
+E
+#18307
+bobcat cat~
+the bobcat~
+A medium sized bobcat is stalking a bird here.
+~
+The bobcat has sharp claws and teeth, and will probably eat you
+instead of the bird if you give it the chance.    
+~
+72 0 0 0 0 0 0 0 0 E
+11 3 56 0d0+0 1d2+7
+0 2119
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 16
+Int: 18
+Wis: 7
+Con: 21
+Cha: 12
+Luck: 7
+Race: 1
+E
+#18308
+sparrow~
+the sparrow~
+A sparrow is flapping around by the ground.
+~
+The sparrow looks like it is enjoying life.
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 0d0+0 1d1+2
+0 77
+8 8 0
+Str: 5
+Dex: 5
+Int: 24
+Wis: 9
+Con: 24
+Cha: 24
+Luck: 17
+E
+#18309
+robin~
+the robin~
+A robin is hopping around looking for bugs to eat.
+~
+The robin looks quite intent on finding a bug or worm to eat.
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+0 160
+8 8 0
+BareHandAttack: 1
+Str: 14
+Dex: 6
+Int: 15
+Wis: 25
+Con: 15
+Cha: 16
+Luck: 22
+E
+#18310
+squirrel~
+the squirrel~
+A squirrel is here seeking refuge in its nest.
+~
+It peers out of its nest at you anxiously, seeming to plead silently
+with you to leave it alone.    
+~
+74 0 0 0 0 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+0 160
+8 8 0
+Str: 15
+Dex: 21
+Int: 13
+Wis: 19
+Con: 24
+Cha: 12
+Luck: 14
+E
+#18311
+badger~
+the sleepy badger~
+A furry brown badger is curled up under a log here.
+~
+The badger is slowly awakening and peering up at you from its burrow.
+You know that it won't be moving this slow for long.  Its sharp claws
+and teeth catch your attention when you consider killing it.    
+~
+10 0 0 0 0 0 0 0 0 E
+11 3 56 0d0+0 1d2+7
+0 2119
+8 8 0
+Str: 18
+Dex: 6
+Int: 19
+Wis: 18
+Con: 10
+Cha: 10
+Luck: 12
+Race: 1
+E
+#18312
+grey squirrel~
+the grey squirrel~
+A grey squirrel with a bushy tail is foraging for nuts here.
+~
+This happy creature seems to pay you no heed as it goes about its
+search for nuts among the leaves and twigs on the ground here.    
+~
+76 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 0
+BareHandAttack: 1
+Str: 14
+Dex: 12
+Int: 8
+Wis: 20
+Con: 20
+Cha: 10
+Luck: 16
+E
+#18313
+chipmunk~
+the small chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+The absolute zenith of hyperactivity, this small rodent seems to never
+tire of running up, down, and around the trees in this area.  If you
+could ever catch it, you imagine it would make an easy meal.    
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 0d0+0 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 8
+Int: 9
+Wis: 5
+Con: 14
+Cha: 8
+Luck: 19
+E
+#18314
+crow black bird~
+the large black crow~
+A large black bird flits about here, picking at bits of carrion.
+~
+The bird eyes you warily, but continues with its meal.
+~
+10 0 0 0 0 0 0 0 0 E
+7 1 72 0d0+0 1d2+4
+0 669
+8 8 0
+Str: 18
+Dex: 12
+Int: 12
+Wis: 13
+Con: 9
+Cha: 5
+Luck: 8
+E
+#18315
+grotesque vulture~
+the grotesque vulture~
+A grotesque vulture covered in blood and gore is here feeding madly.
+~
+It sickens you to even look at this foul bird.  Bits of dried gore
+stick to its beak, and unidentifiable organs hang from its talons and
+feathers.  It sees you and attacks, protecting its horrible feast!  
+~
+138 0 0 0 0 0 0 0 0 E
+17 6 32 0d0+0 1d3+11
+0 6432
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 5
+Int: 21
+Wis: 6
+Con: 10
+Cha: 25
+Luck: 25
+E
+#18316
+buck deer~
+the young buck~
+A young 5-point buck is drinking from the lake here.
+~
+This young male deer is drinking from the edge of the lake and
+watching you warily.  His antlers are not full size yet, and will no
+doubt be quite impressive in a few years.    
+~
+16394 0 0 0 0 0 0 0 0 E
+9 2 64 0d0+0 1d2+6
+0 1270
+8 8 0
+BareHandAttack: 9
+Str: 5
+Dex: 6
+Int: 18
+Wis: 17
+Con: 18
+Cha: 14
+Luck: 13
+E
+#18317
+fish~
+the fish~
+A fish is swimming about here.
+~
+The fish looks about the right size for a meal.
+~
+16394 0 0 0 0 0 0 0 0 E
+3 0 88 0d0+0 1d1+2
+0 77
+8 8 0
+BareHandAttack: 1
+Str: 23
+Dex: 8
+Int: 7
+Wis: 6
+Con: 12
+Cha: 22
+Luck: 6
+Race: 4
+E
+#18318
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+16394 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 0
+Str: 22
+Dex: 21
+Int: 6
+Wis: 19
+Con: 23
+Cha: 25
+Luck: 19
+E
+#18319
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+16394 0 0 0 0 0 0 0 0 E
+7 1 72 0d0+0 1d2+4
+0 669
+8 8 0
+BareHandAttack: 1
+Str: 14
+Dex: 14
+Int: 17
+Wis: 14
+Con: 23
+Cha: 13
+Luck: 20
+E
+#18321
+elven master~
+an elven master~
+An elven master is here hidding amoung the bushes.
+~
+Why is he hiding? That's a damn good question...
+~
+16538 0 0 0 1048576 0 0 0 500 E
+37 19 -20 0d0+0 3d6+24
+400 46733
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 17
+Int: 5
+Wis: 5
+Con: 5
+Cha: 14
+Luck: 19
+Class: 5
+Race: 15
+E
+$

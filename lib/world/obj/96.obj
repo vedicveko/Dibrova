@@ -1,0 +1,164 @@
+#9600
+pelt fur shaggy~
+/cya shaggy fur pelt/c0~
+/cgA large /cydark fur pelt/cg lies here on the ground./c0~
+~
+11 1576960 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+11 22686 0 83 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pelt fur shaggy~
+   This fur pelt is thick and luxurious.  The pelt, from a bear, is dark
+brown in color.  You feel this pelt will keep you warm as well as protect
+you well.
+~
+A
+2 2
+A
+2 -1
+A
+18 4
+#9601
+loincloth fur strip infested~
+/cya fur loincloth/c0~
+/cgAn infested strip of /cyfur/cg lies here writhing on the ground./c0~
+~
+11 128 0 0 0 2049 0 0 0
+0 0 0 0 0 0 0 0
+3 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+loincloth fur strip infested~
+   This loincloth is absolutely filthy.  It is crusty, and reeks of excreta.
+The loincloth is also infested with vermin, it comes alive as it writhes on
+the ground.
+~
+#9602
+icicle~
+/cBan icicle/c0~
+/cgA small /cBicicle /cgmelts here in the snow./c0~
+~
+5 1454112 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+3 39560 0 69 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+icicle~
+   This icicle looks handy as a weapon.  The point is sharp, and would drive
+into any surface.  You suspect that this icicle has many other uses than a
+mere weapon.
+~
+A
+19 4
+A
+18 3
+A
+13 20
+A
+26 -4
+C
+112 4
+#9603
+snowball~
+/cWa snowball/c0~
+/cgA small/cW snowball/cg has been dropped here./c0~
+~
+10 1 0 0 0 16385 0 0 0
+100 69 0 0 0 0 0 0
+2 222 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+snowball~
+   This snowball is small and perfectly formed.  You suspect it'll give some
+nourishment as well as offer some sinister fun.
+~
+#9604
+icesword sword ice gleaming jagged~
+/cBa gleaming sword of ice/c0~
+/cgA large jagged /cBice sword/cg lies here on the ground./c0~
+~
+5 1732640 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 57040 0 93 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+icesword sword ice gleaming jagged~
+   This is a large and well-balanced sword you hold in your hands.  The sword,
+made from crystal clear ice with a patina of frost, never seems to melt.  The
+blade is wavy and has a jagged edge to it, in a manner similar to a kris.
+~
+A
+19 5
+A
+18 4
+A
+26 -3
+A
+25 -2
+C
+73 6
+#9605
+crown ice~
+/cBa crown of ice/c0~
+/cgA beautiful /cBcrown of ice/cg has been left here./c0~
+~
+9 67108864 0 0 0 17 0 0 0
+8 0 0 0 0 0 0 0
+6 12266 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crown ice~
+   This crown was beautifully crafted of ice.  Bold diamond shapes were
+carved across the band.  It has delicately carved peaks shaped like tendrils
+of ivy.
+~
+A
+26 4
+A
+24 3
+#9606
+cape ice shimmering~
+/cBan ice cape/c0~
+/cgA shimmering /cBcape of ice /cghas been left here./c0~
+~
+9 1048578 0 0 0 2097153 0 0 0
+6 0 0 0 64 0 0 0
+11 34859 0 83 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cape ice shimmering~
+   This cape was constructed of ice.  It is beautifully designed, and is
+fashionable.  It's many faceted surface will reflect and refract off light
+allowing it to shimmer with a fiery brillance.
+~
+A
+19 5
+A
+18 2
+A
+27 30
+A
+4 1
+A
+13 -20
+A
+12 -30
+#9607
+ice ear ring earring~
+/cBan ice earring/c0~
+/cgAn earring made of/cB hardened ice /cglies here melting./c0~
+~
+11 4096 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+3 18493 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+A
+18 2
+A
+19 -2
+A
+12 15
+$~

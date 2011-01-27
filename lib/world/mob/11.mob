@@ -1,0 +1,407 @@
+#1100
+zombie~
+a Zombie~
+A brain dead zombie is here, drooling all over himself.
+~
+It was once a corpse but has somehow been brought back to life.  It's
+very slow and very stupid.  It looks back at you and says 'fooooooood.
+'
+~
+72 0 0 0 0 0 0 0 -500 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 8
+Luck: 12
+Race: 6
+E
+#1101
+mourner~
+the Mourner~
+A mourner stands here weeping over a lost love.
+~
+This lady is dressed all in black.  Tears stream down her veil covered
+face.  She has been paying her last respects for the third time this
+week.    
+~
+2248 0 0 0 0 0 0 0 500 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 13
+Luck: 12
+Race: 14
+E
+#1102
+undertaker~
+the Undertaker~
+The undertaker is standing here, leaning on his shovel.
+~
+He looks back at you and spits on the ground.  He's dressed in dirty
+overalls and wears a Midgaard ball cap.  He was once an adventurer but
+decided to dig graves instead of ascending to immortality.  You'd best
+keep out of his way.    
+~
+2124 0 0 0 524304 0 0 0 1000 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 1
+BareHandAttack: 12
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 24
+Luck: 12
+Race: 14
+E
+#1103
+priest~
+the Priest~
+The chapel priest is standing here, conducting service.
+~
+He is a very pious man.  Fat, balding and truly someone that you would
+think of as "father".  He stands at the podium and lectures over some
+drivel that you really don't care about.    
+~
+2698 0 0 0 64 0 0 0 1000 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 13
+Luck: 12
+Class: 2
+Race: 14
+E
+#1104
+boy~
+the Altar Boy~
+An altar boy sits here, bored out of his mind.
+~
+He looks extremely bored and extremely tired.  He looks at the priest
+through the corner of his eyes as if he's expecting another flogging
+at any moment.    
+~
+138 0 0 0 0 0 0 0 1000 E
+9 2 64 1d9+175 1d2+6
+15 1270
+5 5 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 24
+Luck: 12
+Race: 14
+E
+#1105
+ghoul~
+the nasty Ghoul~
+A nasty ghoul is here, and it wants to eat you for dinner.
+~
+Its claws are filthy, its fangs look sharp.  Fresh blood drips down
+the side of its face, probably the remains of whatever it caught last.
+~
+42 0 0 0 80 0 0 0 -1000 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 23
+Luck: 12
+Race: 49
+E
+#1106
+wight~
+the Wright~
+The barrow wight is here standing atop a pile of decaying corpses.
+~
+It is the most hideous creature you have ever seen.  It's covered from
+head to toe in a thick blanket of dirt.  Its claws look very nasty and
+the mere thought of being struck by them sends shivers up and down
+your spine.    
+~
+42 0 0 0 8388672 0 0 0 -1000 E
+9 2 64 1d9+175 1d3+4
+0 1270
+8 8 1
+BareHandAttack: 10
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 12
+Luck: 12
+Class: 1
+Race: 49
+E
+#1107
+skeleton warrior~
+a skeleton Warrior~
+A mean looking skeleton warrior is here grinning at you.
+~
+There's no flesh on it at all -- just bones covered by armor.  You
+wonder what kind of forces keep it from collapsing into a heap on the
+floor.    
+~
+104 0 0 0 0 0 0 0 -1000 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 3
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Class: 4
+Race: 36
+E
+#1108
+shadow~
+the Black Shadow~
+The shadows in this room seem to move of their own will.
+~
+It is pitch black.  The mere thought of being touched by it makes you
+feel weak.    
+~
+104 0 0 0 67633232 0 0 0 -1000 E
+12 3 52 1d12+300 1d4+6
+0 2778
+8 8 0
+BareHandAttack: 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 12
+Luck: 12
+Class: 8
+Race: 11
+E
+#1109
+mummy~
+the Mummy~
+A rotting mummy wrapped in dirty cloth is here.
+~
+It looks ancient.  The rank smell of decay reeks from its body.  
+Worms crawl in its eye sockets and pus drips from between bandages.  
+~
+42 0 0 0 80 0 0 0 -1000 E
+14 4 44 1d14+400 1d5+7
+0 3920
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Luck: 12
+Class: 4
+Race: 48
+E
+#1110
+banshee~
+the wailing Banshee~
+A banshee is here, leaning on a sarcophagus and crying loudly.
+~
+Even undead, she is quite beautiful.  Tears streak down her high,
+elven cheek bones.  You wonder why she is so upset.    
+~
+10 0 0 0 76021760 0 0 0 0 E
+16 5 36 1d16+600 1d6+8
+0 5785
+6 6 2
+BareHandAttack: 16
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 12
+Luck: 12
+Race: 34
+E
+#1111
+spectre~
+the transparent Spectre~
+You glance right through the spectre and see the wall on the other side.
+~
+You see the faint outline of a man.  You see right through him, and
+judging by the way he's coming after you, he'd like to see through
+you.    
+~
+42 0 0 0 8912980 0 0 0 -1000 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 6
+Luck: 12
+Race: 34
+E
+#1112
+demi lich demilich skull~
+the Demilich~
+A jeweled skull is sitting here, grinning at you.
+~
+It is the most ancient creature you have ever seen.  All that is left
+is the jewel encrusted skull and a pile of fine dust.    
+~
+10 0 0 0 75497472 0 0 0 -1000 E
+20 8 20 1d20+1000 1d4+13
+150 10221
+8 8 1
+BareHandAttack: 15
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Class: 9
+Race: 44
+E
+#1113
+guardian daemon~
+the Guardian~
+A huge guardian daemon with huge teeth is guarding the door.
+~
+It is a huge beast with huge teeth and claws.  It looks very pissed
+off.    
+~
+42 0 0 0 34078800 0 0 0 -750 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 13
+Luck: 12
+Class: 4
+Race: 41
+E
+#1114
+death master~
+the Death Master~
+The Death Master is here trying to animate a corpse.
+~
+He is dressed all in black with skull and bone ornaments.  He has been
+trying to raise an army of undead with which to destroy Midgaard.  
+You must stop him!    
+~
+16426 0 0 0 590160 4194304 0 0 -1000 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 21
+Luck: 12
+Class: 1
+Race: 14
+E
+#1115
+imp familiar~
+an Imp~
+An Imp is here, don't even ask it for reimbursement.
+~
+Well, you've always wanted to talk to an IMP.  Now here's your chance!
+~
+654 0 0 0 77070336 0 0 0 -1000 E
+5 1 80 1d5+50 1d2+3
+5 297
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 23
+Luck: 12
+Race: 51
+E
+#1116
+man~
+the Church Goer~
+A man sits here, snoring loudly.
+~
+He's dressed in his Sunday best, but apparently the boring sermon has
+put him to sleep.    
+~
+2184 0 0 0 0 0 0 0 500 E
+6 1 76 1d6+70 1d2+4
+10 451
+4 4 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 25
+Luck: 12
+Race: 14
+E
+#1117
+spider~
+an undead Spider~
+An undead spider is here, spinning more cobwebs.
+~
+Looks like just the exoskeleton, a dried out husk remains.  Yet, it
+still moves about on its thin legs and still spins its ghostlike
+cobwebs.    
+~
+42 0 0 0 80 0 0 0 -500 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 12
+Race: 6
+E
+$

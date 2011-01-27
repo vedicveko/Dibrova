@@ -1,0 +1,35 @@
+
+
+
+
+
+
+
+
+
+/ccThe helpfile system is an information database which has been
+designed to aid you in learning about Dibrova and how to play
+the game in general, as well as other tips, and advice on what
+things do.
+
+To use the help system, simply type /cYHELP/cc followed by a keyword,
+the keyword is generally one to two words that relate to what
+you want help on, several examples are on the next page, when
+using more than one keyword quatation marks (/cY"/cc) should be used
+ie, /cYHELP "DARK KNIGHT"/cc.
+
+Syntax: /cYHELP (keyword)/cc
+
+/cYMovement:                          /cb| /cYCommunication:
+/cwNORTH SOUTH EAST WEST UP DOWN LOOK /cb| /cwSAY GSAY SHOUT TELL ASK WHISPER GOSSIP
+/cwEXITS ENTER LEAVE SLEEP REST STAND /cb| /cwRECEIVE CHECK GRATS AUCTION NOARENA
+/cwWAKE LOCK UNLOCK OPEN CLOSE        /cb| /cwNOTELL NOSHOUT NOGOSSIP NOGRATS NOINFO
+/cb-----------------------------------+-----------------------------------------
+/cYObjects:                           /cb| /cYInformation: 
+/cwGET DROP JUNK DONATE PUT GIVE WEAR /cb| /cwSCORE HELP INFO WHO NEWS CREDITS WIZLIST
+/cwGRAB INV EQ REMOVE EAT DRINK POUR  /cb| /cwCONSIDER LEVELS IMMLIST TOGGLE TIPS
+/cb-----------------------------------+-----------------------------------------
+/cYCombat:                            /cb| /cYUtility:
+/cwKILL WIELD FLEE ASSIST TRACK       /cb| /cw! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+/cwCAST PRAYER SPELL SKILL CHANT      /cb| /cwTITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+/c0

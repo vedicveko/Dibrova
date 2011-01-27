@@ -1,0 +1,579 @@
+#26000
+level token~
+/cwa level token/c0~
+/cwA level token has been left here./c0~
+~
+12 100663297 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26033
+room clan_token token golden round~
+Room Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+Has the word Room engraved on its surface.
+~
+#26034
+door clan_token token golden round~
+Door Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+The token is engraved with a picture of a door on one side and BA on the other.
+~
+#26035
+flag clan_token token golden round~
+a Flag Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+The token has enscribed on its surface the words room flag.
+You can also make out a rune spelling out the word mob flag.
+~
+#26036
+portal clan_token token golden round~
+a Portal Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+This token has a glow swirling mist contained in its surface with the word portal under it.
+~
+#26037
+mob creation clan_token token golden round~
+a Mob Creation Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+This token has been engraved with a picture of a monster on its surface.
+~
+#26038
+object clan_token token golden round~
+an Object Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+The token has a picture of a sword and ring carved into its surface.
+~
+#26039
+stat clan_token token golden round~
+a Stat Token~
+A round golden token is resting on the ground.~
+~
+12 67174401 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+token~
+The token has the words affects for objects stamped on its surface.
+~
+#26040
+ace clubs card_eq~
+/cwthe /cLace /cwof /cLclubs/c0~
+/cwThe /cLace /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26041
+card_eq two clubs~
+/cwthe /cLtwo /cwof /cLclubs/c0~
+/cwThe /cLtwo /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26042
+card_eq three clubs~
+/cwthe /cLthree /cwof /cLclubs/c0~
+/cwThe /cLthree /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26043
+card_eq four clubs~
+/cwthe /cLfour /cwof /cLclubs/c0~
+/cwThe /cLfour /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26044
+card_eq five clubs~
+/cwthe /cLfive /cwof /cLclubs/c0~
+/cwThe /cLfive /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26045
+card_eq six clubs~
+/cwthe /cLsix /cwof /cLclubs/c0~
+/cwThe /cLsix /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26046
+card_eq seven clubs~
+/cwthe /cLseven /cwof /cLclubs/c0~
+/cwThe /cLseven /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26047
+card_eq eight clubs~
+/cwthe /cLeight /cwof /cLclubs/c0~
+/cwThe /cLeight /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26048
+card_eq nine clubs~
+/cwthe /cLnine /cwof /cLclubs/c0~
+/cwThe /cLnine /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26049
+card_eq ten clubs~
+/cwthe /cLten /cwof /cLclubs/c0~
+/cwThe /cLten /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26050
+card_eq jack clubs~
+/cwthe /cLjack /cwof /cLclubs/c0~
+/cwThe /cLjack /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26051
+card_eq queen clubs~
+/cwthe /cLqueen /cwof /cLclubs/c0~
+/cwThe /cLqueen /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26052
+card_eq king clubs~
+/cwthe /cLking /cwof /cLclubs/c0~
+/cwThe /cLking /cwof /cLclubs/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26053
+card_eq ace spades~
+/cwthe /cLace /cwof /cLspades/c0~
+/cwThe /cLace /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26054
+card_eq two spades~
+/cwthe /cLtwo /cwof /cLspades/c0~
+/cwThe /cLtwo /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26055
+card_eq three spades~
+/cwthe /cLthree /cwof /cLspades/c0~
+/cwThe /cLthree /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26056
+card_eq four spades~
+/cwthe /cLfour /cwof /cLspades/c0~
+/cwThe /cLfour /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26057
+card_eq five spades~
+/cwthe /cLfive /cwof /cLspades/c0~
+/cwThe /cLfive /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26058
+card_eq six spades~
+/cwthe /cLsix /cwof /cLspades/c0~
+/cwThe /cLsix /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26059
+card_eq seven spades~
+/cwthe /cLseven /cwof /cLspades/c0~
+/cwThe /cLseven /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26060
+card_eq eight spades~
+/cwthe /cLeight /cwof /cLspades/c0~
+/cwThe /cLeight /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26061
+card_eq nine spades~
+/cwthe /cLnine /cwof /cLspades/c0~
+/cwThe /cLnine /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26062
+card_eq ten spades~
+/cwthe /cLten /cwof /cLspades/c0~
+/cwThe /cLten /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26063
+card_eq jack spades~
+/cwthe /cLjack /cwof /cLspades/c0~
+/cwThe /cLjack /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26064
+card_eq queen spades~
+/cwthe /cLqueen /cwof /cLspades/c0~
+/cwThe /cLqueen /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26065
+card_eq king spades~
+/cwthe /cLking /cwof /cLspades/c0~
+/cwThe /cLking /cwof /cLspades/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26066
+card_eq ace hearts~
+/cwthe /crace /cwof /crhearts/c0~
+/cwThe /crace /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26067
+card_eq card two hearts~
+/cwthe /crtwo /cwof /crhearts/c0~
+/cwThe /crtwo /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26068
+card_eq three hearts~
+/cwthe /crthree /cwof /crhearts/c0~
+/cwThe /crthree /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26069
+card_eq four hearts~
+/cwthe /crfour /cwof /crhearts/c0~
+/cwThe /crfour /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26070
+card_eq five hearts~
+/cwthe /crfive /cwof /crhearts/c0~
+/cwThe /crfive /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26071
+card_eq six hearts~
+/cwthe /crsix /cwof /crhearts/c0~
+/cwThe /crsix /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26072
+card_eq seven hearts~
+/cwthe /crseven /cwof /crhearts/c0~
+/cwThe /crseven /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26073
+card_eq eight hearts~
+/cwthe /creight /cwof /crhearts/c0~
+/cwThe /creight /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26074
+card_eq nine hearts~
+/cwthe /crnine /cwof /crhearts/c0~
+/cwThe /crnine /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26075
+card_eq ten hearts~
+/cwthe /crten /cwof /crhearts/c0~
+/cwThe /crten /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26076
+card_eq jack hearts~
+/cwthe /crjack /cwof /crhearts/c0~
+/cwThe /crjack /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26077
+card_eq queen hearts~
+/cwthe /crqueen /cwof /crhearts/c0~
+/cwThe /crqueen /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26078
+card_eq king hearts~
+/cwthe /crking /cwof /crhearts/c0~
+/cwThe /crking /cwof /crhearts/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26079
+card_eq ace diamonds~
+/cwthe /crace /cwof /crdiamonds/c0~
+/cwThe /crace /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26080
+card_eq two diamonds~
+/cwthe /crtwo /cwof /crdiamonds/c0~
+/cwThe /crtwo /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26081
+card_eq three diamonds~
+/cwthe /crthree /cwof /crdiamonds/c0~
+/cwThe /crthree /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26082
+card_eq four diamonds~
+/cwthe /crfour /cwof /crdiamonds/c0~
+/cwThe /crfour /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26083
+card_eq five diamonds~
+/cwthe /crfive /cwof /crdiamonds/c0~
+/cwThe /crfive /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26084
+card_eq six diamonds~
+/cwthe /crsix /cwof /crdiamonds/c0~
+/cwThe /crsix /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26085
+card_eq seven diamonds~
+/cwthe /crseven /cwof /crdiamonds/c0~
+/cwThe /crseven /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26086
+card_eq eight diamonds~
+/cwthe /creight /cwof /crdiamonds/c0~
+/cwThe /creight /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728961 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26087
+card_eq nine diamonds~
+/cwthe /crnine /cwof /crdiamonds/c0~
+/cwThe /crnine /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26088
+card_eq ten diamonds~
+/cwthe /crten /cwof /crdiamonds/c0~
+/cwThe /crten /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26089
+card_eq jack diamonds~
+/cwthe /crjack /cwof /crdiamonds/c0~
+/cwThe /crjack /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26090
+card_eq queen diamonds~
+/cwthe /crqueen /cwof /crdiamonds/c0~
+/cwThe /crqueen /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26091
+card_eq king diamonds~
+/cwthe /crking /cwof /crdiamonds/c0~
+/cwThe /crking /cwof /crdiamonds/cw is lying here on the ground./c0~
+~
+12 100728969 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#26092
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

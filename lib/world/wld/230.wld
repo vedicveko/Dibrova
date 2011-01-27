@@ -1,0 +1,973 @@
+#23000
+Entrance to the City of Revelation~
+Welcome to the City of Revelation.  As you look around, you notice two
+"God-Like" statues mounted on either side of you.  A golden Arch is
+positioned ahead of you, and the feeling of unworthiness saturates
+throughout your body.  The northern exit leads into the City of
+Revelation.    
+~
+230 12 0 0 0 0
+D0
+The Northern Exit leads into the City of Revelation
+~
+~
+0 -1 23001 0
+D2
+~
+~
+0 -1 23009 0
+D5
+~
+~
+0 -1 -1 0
+S
+#23001
+Inside the Gates of Revelation~
+You have Entered the City of Revelation.  The West and East exits
+leads further into the city.  The north exit leads into an antechamber
+where travelers may rest their weary bones after long days of travel.
+~
+230 0 0 0 0 1
+D0
+~
+~
+0 -1 23011 0
+D1
+~
+~
+0 -1 23010 0
+D2
+~
+~
+0 -1 23000 0
+D3
+~
+~
+0 -1 23002 0
+S
+#23002
+South-West Corner of Revelation~
+You find yourself in the south-western corner of the city.  The exit
+to the north leads further into the city.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23003 0
+D1
+~
+~
+0 -1 23001 0
+S
+#23003
+The West Side of Revelation~
+You have wandered into the western side of the city.  Exits continue
+north, however, you feel there is more here than meets the eye.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23006 0
+D2
+~
+~
+0 -1 23002 0
+D3
+~
+door~
+1 -1 23005 3
+S
+#23004
+The Church of Pergamum~
+The Angel of Pergamum writes:
+"These are the words of him who has the sharp, double-edge sword.  I know
+where you live -- where the Anti-God has his throne.  Yet you remain
+true to my name.  You did not renounce your faith in me, even in the
+days of Antipas, my faithful witness, who was put to death in your
+church -- where the Anti-God lives."
+~
+230 8 0 0 0 0
+D2
+~
+~
+0 -1 23006 0
+D5
+~
+~
+0 -1 23007 0
+S
+#23005
+The Disciple's Dinner Room~
+You have entered into the disciple's dinner room.  There is a large
+wooden table resting in the center of the room where thirteen empty
+stools are placed around it.  In the corner of the room, you
+notice a water spring that rises from the ground.  There is an exit
+that leads downstairs.
+~
+230 8 0 0 0 0
+D1
+~
+~
+0 -1 23003 2
+D5
+~
+~
+0 -1 23039 0
+S
+#23006
+North-West Corner of Revelation~
+You've reached the northern-west side of the city.  To the north is
+what you believe is a church and there is a stairway that leads upwards.
+~
+230 8 0 0 0 0
+D0
+~
+~
+0 -1 23004 0
+D1
+~
+~
+0 -1 23013 0
+D2
+~
+~
+0 -1 23003 0
+D3
+~
+~
+0 -1 23052 0
+D4
+~
+~
+0 -1 23014 0
+S
+#23007
+Throne of the Anti-God~
+You have entered the room of the Anti-God.  He sits on his throne located
+in the center of the room.  A light shines down on the Malevolent god and
+all else is pitch dark.  The stench in this room almost makes you want to
+vomit, but as you look down, there is already some on the ground where a
+smarm of maggots are already devouring the nauseous sight.
+~
+230 8 0 0 0 0
+D4
+~
+~
+0 -1 23004 0
+S
+#23008
+Inside the Wine Cellar~
+You find yourself inside a wine cellar.  There are many bottles of
+wine stacked amongst the shelves located in the back of the room.  You
+feel a cold breeze that sends shivers up your back.  There does not
+appear to be anything of significance in this room.
+~
+230 4 0 0 0 0
+D0
+~
+~
+0 -1 23039 0
+S
+#23009
+Clearing of the Trees~
+Wandering the forest, you sense more than see a golden arch ahead to
+the north.  A shadow flits across you from overhead, looking up you
+see an eagle - one which hovers over this area, circling incessantly.
+A bright light radiates from the north, where the forest opens up wide
+and clear.    
+~
+230 0 0 0 0 3
+D0
+~
+~
+0 -1 23000 0
+D2
+~
+~
+0 -1 11860 0
+S
+#23010
+South-East Corner of Revelation~
+This is the Southern-East corner of the City.  You do not see anything
+very special here except a path going north.  You figure it leads
+further into the city.    
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23012 0
+D3
+~
+~
+0 -1 23001 0
+S
+#23011
+Antechamber~
+This small antechamber is used by many as a resting place.  Weary
+travelers come from afar to visit Revelation, where it is said all of
+their hearts' desires will come true.  Sit, rest.  Relax.    
+~
+230 262156 0 0 0 0
+D2
+~
+~
+0 -1 23001 0
+E
+board~
+You see the Following Scriptures on the Bulletin Board:
+ 
+~
+S
+#23012
+The East Side of Revelation~
+You are walking on the eastern side of the city.  Exits go north and south.
+As you look upwards, you notice an eagle hovering above the city.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23019 0
+D2
+~
+~
+0 -1 23010 0
+S
+#23013
+East-West Road of Revelation~
+You wander into a small alley way where exits go east and west.  You
+can hear a quiet humming noise.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23020 0
+D3
+~
+~
+0 -1 23006 0
+S
+#23014
+Journey to the Sacred Scroll~
+Alas, your journey to capture the sacred scroll begins here.  As you
+look around the room, you notice some writing on the wall...Left in
+blood!  You feel it would be wise to Look at the "Writing" before
+continuing on.
+~
+230 8 0 0 0 0
+D4
+~
+~
+0 -1 23015 0
+D5
+~
+~
+0 -1 23006 0
+E
+writing~
+"Then I saw in the right hand of him who sat on the throne a scroll
+with writing on both sides enclosed with seven seals.  I heard a
+mighty angel proclaiming in a loud voice, "Who is worthy to break the
+seals and open the scroll?"  Shortly after, darkness began to emerge
+upon me."
+~
+S
+#23015
+The First Guardian Angel~
+The first obstacle of your journey begins here.  The White Angel
+detects the hidden fear within you and begins to attack!
+~
+230 0 0 0 0 0
+D4
+~
+~
+0 -1 23016 0
+D5
+~
+~
+0 -1 23014 0
+S
+#23016
+The Second & Third Guardian Angel~
+As you continue with your journey to capture and open the sacred scroll,
+you encounter Two more Guardian Angels, larger than the first.  You
+wonder if this is a worth while quest.
+~
+230 0 0 0 0 0
+D4
+~
+~
+0 -1 23017 0
+D5
+~
+~
+0 -1 23015 0
+S
+#23017
+The Fourth Guardian Angel~
+Alas, you feel your journey has come to and end.  As you gaze at the Fourth
+Guardian Angel, its power and aura makes you tremble in fear.  However,
+you believe this journey would be a lost cause if you were to turn back
+now.
+~
+230 0 0 0 0 0
+D0
+~
+door~
+1 23017 23018 7
+D5
+~
+~
+0 -1 23016 0
+S
+#23018
+The Room of the Sacred Scroll~
+"Worthy is the Lamb, who was slain, to receive power and wealth
+and wisdom and strength and honor and glory and praise!  If thou
+is true in form, ye will receive the scroll of eternity.  If thou
+are not, ye will surely die."
+~
+230 0 0 0 0 0
+D2
+~
+door~
+1 -1 23017 3
+D4
+~
+door~
+1 -1 23026 3
+S
+#23019
+Road Intersection~
+You have arrived at an intersection.  As you look around, you
+notice that the path leads in all directions.  The citizens of the city
+watch you with suspicion.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23022 0
+D1
+~
+~
+0 -1 23024 0
+D2
+~
+~
+0 -1 23012 0
+D3
+~
+~
+0 -1 23020 0
+S
+#23020
+East-West Road of Revelation~
+You are wandering about the northern side of the city.  It appears to
+be a bit colder here, however, you try to ignore the fact.  Exits
+leads to the north, east and west.  You notice a glowing light towards
+the north.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23021 0
+D1
+~
+~
+0 -1 23019 0
+D3
+~
+~
+0 -1 23013 0
+S
+#23021
+The Healing Room~
+Where all sins are forgotten, and all injures healed, You've managed
+to find your way into what looks like an almighty room of convalesce.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23020 0
+S
+#23022
+Dead-End~
+You have entered what appears to be a dead-end...  as you look around,
+you see scraps of what appears to be bread, and many bottles of wine.
+You conclude that this area is the city's dump-site.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23019 0
+D5
+~
+Grate~
+1 -1 23023 3
+S
+#23023
+A Secret Passage-Way~
+Alas, you have discovered some sort of secret passage way!  The walls
+glow with a strange golden aura and the area is lit by torches
+attached to the sides of the walls.  You also hear a very low
+humming noise ahead of you.
+~
+230 8 0 0 0 0
+D0
+~
+~
+0 -1 23025 0
+D4
+~
+Grate~
+0 -1 23022 2
+S
+#23024
+Entrance to the Garden~
+You are walking on a grassy path towards what seems to be the City's
+Garden.  As you look around, you notice how green and beautiful the
+grass appears.  There are trees on either side of you that look like
+they've been decorated somewhat to resemble god-like figures.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23030 0
+D3
+~
+~
+0 -1 23019 0
+S
+#23025
+Inside The Secret Passage-Way~
+As you wander further into this unmarked territory, you notice the
+temperature suddenly become awfully warm.  You pay no attention to
+this and continue to venture further into the unknown.
+~
+230 8 0 0 0 0
+D0
+~
+~
+0 -1 23040 0
+D2
+~
+~
+0 -1 23023 0
+S
+#23026
+The Moment of Choice~
+As you enter the room, you notice that you've never been in here
+before.  There is a golden note attached to the wall.  Exits go
+out in 3 directions.  You feel the "Note" has great significance
+to determining your choice.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23029 0
+D4
+~
+~
+0 -1 23027 0
+D5
+~
+door~
+1 -1 23028 1
+E
+note~
+The note reads:
+ 
+"Thou hath made it this far, but ye quest is not yet over.  Ye hath
+three choices.  Up leads to the Heavens where the gods roam.  Down
+leads to the Gates of Hell where the gods offer Great power to
+dominate the Mortals.  And south returns you to the land of the
+mortals.  It's thou choice."
+                             - Demora, The Bringer of Holy Light
+~
+S
+#23027
+To the Heavens~
+You have chosen to fly to the Heavens... Unfortunately, the Gods
+do not accept your presence because of your attempt to capture
+the Sacred Scroll!  The Gods summon a lightning bolt and seconds later,
+you are hit with such power that you feel yourself disintegrate.
+Unfortunately, you had made the wrong choice.
+~
+230 4 0 0 0 0
+S
+#23028
+To the Gates of Hell~
+As you travel down into the Depths of Hell, you can hear laughter
+from all areas.  As you continue to go down, the laughter seems
+to get louder.  You close your eyes for a moment, and when you
+open them, you notice yourself in a lake of fire.  Everywhere
+you look, you see fire.  Your body begins to boil and you scream
+in fear as you sink into the lake...
+~
+230 4 0 0 0 0
+S
+#23029
+The Land of the Living~
+Congratulations, you have made the right choice.  You did not let
+Immortality, nor Greed interfere with your judgement.  There is only
+one exit, which leads you somewhere.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 -1 0
+D5
+~
+~
+0 0 23000 0
+S
+#23030
+The Garden of Eden~
+You have entered the Garden.  There is a sign that reads "Welcome to
+the Garden of Eden"  As you look around, you notice exits to the
+North and South.  The Trees, and Plants fill your body with Joy.
+There is a small fountain gushing with water located in the center
+of the garden.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23037 0
+D2
+~
+~
+0 -1 23031 0
+D3
+~
+~
+0 -1 23024 0
+S
+#23031
+The Garden of Eden~
+You are in the Garden of Eden.  As you look around, you gaze at the
+beautiful flowers, and fruits.  You can see an enormous tree in the
+distance.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23030 0
+D1
+~
+~
+0 -1 23032 0
+S
+#23032
+The Garden of Eden~
+As you wander along the path of the garden, you can't help but notice the
+size of the giant tree.  You notice a variety of flowers and fruits
+planted on the ground.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23033 0
+D3
+~
+~
+0 -1 23031 0
+S
+#23033
+The Garden of Eden~
+You can now get a pretty clear view of the Tree, the size of this figure
+leaves you in awe.  It must be at least 300 feet tall!  You have an urge
+to get an even closer view.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23034 0
+D3
+~
+~
+0 -1 23032 0
+S
+#23034
+The Garden of Eden~
+Alas, you have approached the Tree.  Your neck begins to hurt as you
+try looking up.  You can also notice tiny notches engraved into the
+trunk of the tree.  You believe this tree is climbable.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23035 0
+D2
+~
+~
+0 -1 23033 0
+D4
+~
+Leaves~
+1 -1 23038 3
+S
+#23035
+The Garden of Eden~
+You can now get a pretty clear view of the Tree, the size of this
+figure leaves you in awe.  It must be atleast 300 Feet Tall!
+You have an urge to get an even closer view.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23034 0
+D3
+~
+~
+0 -1 23036 0
+S
+#23036
+The Garden of Eden~
+As you wander along the path of the Garden, you can't help but notice
+the size of the giant tree.  There are a variety of flowers and fruits
+on either side of the path.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23035 0
+D3
+~
+~
+0 -1 23037 0
+S
+#23037
+The Garden of Eden~
+You are in the Garden of Eden.  As you look around, you gaze at the
+beautiful flowers, and patches of fruits.  You can see in the distance
+what appears to be a Giant Tree.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23036 0
+D2
+~
+~
+0 -1 23030 0
+S
+#23038
+Inside the Giant Apple Tree~
+You have found your way inside the Tree and as you look around,
+you see the biggest brightest apples among the branches.  As you
+look behind you, you are shocked to notice a giant serpent gazing
+in your eyes.  You begin to feel somewhat hypnotized and suddenly
+have an urge to devour one of these delicious fruits.
+~
+230 4 0 0 0 0
+D4
+~
+~
+0 -1 23050 0
+D5
+~
+Leaves~
+1 -1 23034 3
+S
+#23039
+Inside the Food Storage~
+The room appears to be very dark, and you wait a moment to let your
+eyes adjust to this atmosphere.  When you finally adjust to the
+darkness, you can notice a shelf with loaves of bread stacked up
+against it.  You look at the other side of the room and notice
+another shelf that holds bottles of wine.  A small rat scurries
+across the Floor.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23008 0
+D4
+~
+~
+0 -1 23005 0
+S
+#23040
+Inside the Secret Passage-Way~
+The torches seem to end at this point, and you find it difficult to
+see in front of you.  However, you can feel that the ground slants
+downwards.  The temperature begins to become unbearable, but your
+curiousity and pride forces you to continue on.
+~
+230 12 0 0 0 0
+D0
+~
+~
+0 -1 23041 0
+D2
+~
+~
+0 -1 23025 0
+S
+#23041
+Inside the Secret Passage-Way~
+Alas, you have encountered what appears to be a Fire-Troll.  It
+appears to be sleeping comfortably.  You try to concentrate on
+continuing on with your journey as the sweat beads down your face.
+~
+230 8 0 0 0 0
+D2
+~
+~
+0 -1 23040 0
+D5
+~
+~
+0 -1 23042 0
+S
+#23042
+The Lake of Fire~
+Ouch!  You must have stepped into a pit which sent you tumbling down.
+As you come to your senses, you find yourself in a lake of fire!  Everywhere
+you look, you see nothing but fire.  The burning heat blisters your
+body as you try to find a way out of this Hell.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23043 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23043 0
+D3
+~
+~
+0 -1 23043 0
+S
+#23043
+The Lake of Fire~
+You are swimming in the lake of fire, you try to search for some form
+of land, but as you look around, you cannot see such a form.  You 
+still have the belief that there is still a way out of this nightmare.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23043 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23042 0
+D3
+~
+~
+0 -1 23044 0
+S
+#23044
+The Lake of Fire~
+You are swimming in the lake of fire, you try to search for some form
+of land, but as you look around, you cannot see such a form.  You
+still have the belief that there is still a way out of this nightmare.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23045 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23043 0
+D3
+~
+~
+0 -1 23043 0
+S
+#23045
+The Lake of Fire~
+You are swimming in the lake of fire, you try to search for some form
+of land, but as you look around, you cannot see such a form.  You
+still have the belief that there is still a way out of this nightmare.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23046 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23043 0
+D3
+~
+~
+0 -1 23043 0
+S
+#23046
+The Lake of Fire~
+You are swimming in the lake of fire, you try to search for some form
+of land, but as you look around, you cannot see such a form.  You
+still have the belief that there is still a way out of this nightmare.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23043 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23043 0
+D3
+~
+~
+0 -1 23047 0
+S
+#23047
+Entering Land!~
+Alas, you have found an island!  You swim as fast as you can to get 
+yourself out of the lake and onto the island.  As you come closer to 
+land, you notice a form resembling the Grim Reaper waiting for your
+arrival.  It does not look very friendly, and you believe this 
+nightmare isn't over yet.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 -1 23048 0
+D1
+~
+~
+0 -1 23043 0
+D2
+~
+~
+0 -1 23043 0
+D3
+~
+~
+0 -1 23043 0
+S
+#23048
+On Land~
+Congratulations, you have successfully cleared the maze of Hell and you now
+find yourself on some island.  It however, looks familiar and you begin
+to gather your thoughts.  You can hear a very devilish laugh in the
+distance which sends shivers up your spine.
+~
+230 0 0 0 0 0
+D2
+~
+~
+0 -1 23049 0
+D4
+~
+~
+0 -1 -1 0
+D5
+Smoke rises from below.
+~
+~
+0 -1 -1 0
+S
+#23049
+On Land~
+You have returned to shore, and as you peer at the lake of fire, you 
+shiver in fear.  You cannot believe that you were in that unholy sight,
+and feel proud that you've accomplished this task.
+~
+230 4 0 0 0 0
+D0
+~
+~
+0 -1 23048 0
+D2
+~
+~
+0 -1 23043 0
+S
+#23050
+Inside the Apple Tree~
+You are wandering inside the Giant Apple Tree, as you look downwards,
+you almost faint.  As you look around, you notice a variety of 
+apples growing from the branches of the tree.  In the distance, you
+can see a Tower protruding from the City.
+~
+230 0 0 0 0 0
+D4
+~
+~
+0 -1 23051 16
+D5
+~
+~
+0 -1 23038 0
+S
+#23051
+Inside the Apple Tree~
+Alas, you fear you cannot go any higher for the branches seem to 
+block your way.  However, you notice a small creature staring at you
+from within the leaves.
+~
+230 2162916 0 0 0 0
+D5
+~
+~
+0 -1 23050 16
+S
+#23052
+Western Entrance to the City of Revelation~
+You have entered the western entrance to the city.  Exits to the left
+leads to a forest.  The exit to the east leads into the city.  It appears
+that the gates are open.
+~
+230 0 0 0 0 0
+D1
+~
+~
+0 -1 23006 0
+D3
+~
+~
+0 -1 -1 0
+S
+$~

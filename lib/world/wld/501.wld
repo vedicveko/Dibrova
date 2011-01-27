@@ -1,0 +1,603 @@
+#50100
+The Gangplank~
+A ramp constructed of stout oak planks, greying nicely from exposure to the
+elements, bashed and scarred from the rough treatment of stevadores, ascends
+to the main deck of the barge.  There above, crewmembers toil, handling the
+vessel or shifting cargo to keep the craft in trim.
+~
+501 4 0 0 0 0
+D4
+~
+~
+0 0 50101 0
+S
+#50101
+Main Deck~
+Stacks of cargo, shrouded by oilcloth tarpaulins, rise from the battered
+oak deck. Members of the crew wend their way through the paths between the
+stacks, checking lines and looking out for floating obstacles.  A small
+cabin, crowned by tent-like structure is south and aft.  The main deck
+continues forward toward the bow to the north.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50102 0
+D2
+~
+~
+0 0 50105 0
+D5
+~
+~
+0 0 50100 0
+S
+#50102
+Main Deck~
+A large hatch occupies most of the deck, leaving only a narrow path
+surrounding it. A stout mast with a single yardarm rises just forward;
+used both as a gantry and as a means of propulsion, its sail unfurled,
+when travelling against the current and when extra speed is desired.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50103 0
+D2
+~
+~
+0 0 50101 0
+D5
+~
+door~
+1 0 50114 1
+S
+#50103
+Main Deck~
+A narrow path leads fore and aft between stacks of cargo shrouded
+by heavy tarpaulins and barrels of oil, beer, and liquor lashed
+to the gunwales.  Crew members perched atop a lookout platform
+spanning the bow, just forward, scan the waters in front of the
+vessel for obstacles and other dangers.
+~
+501 0 0 0 0 0
+D2
+~
+~
+0 0 50102 0
+D4
+~
+~
+0 0 50104 32
+S
+#50104
+Upon the Bow~
+A broad platform, hemmed with a sturdy rail, spans the width of the bow.
+Crew members wielding long poles scan the water before the vessel, looking
+out for obstacles and other dangers lurking ahead.  Several longbows and
+a large quivers brimming with arrows rest in an open racks on either side
+of the platform -- if the vessel is attacked by pirates or other hostiles
+the men drop their poles and open fire upon the intruders.
+~
+501 0 0 0 0 2
+D5
+~
+~
+0 0 50103 32
+S
+#50105
+Narrow Passageway~
+The gloomy passage leads forward toward the main deck and aft into darkness.
+A ladder ascends from a dim hatchway in the deck, climbing the east bulkhead
+toward a square of light above.  A variety of fetid odors waft up from below
+while the sharp aroma of creosote arrives form the west along with the sounds
+of hammer and saw.
+~
+501 9 0 0 0 0
+D0
+~
+~
+0 0 50101 0
+D2
+~
+door~
+1 0 50108 1
+D3
+~
+~
+0 0 50109 0
+D4
+~
+~
+0 0 50106 0
+D5
+~
+~
+0 0 50110 32
+S
+#50106
+The Bridge~
+The vantage of the bridge commands an outstanding view of the entire
+deck and the waters ahead, as well as the landscape port and
+starboard.  Six slender poles rise from the stout rail that hems the
+deck, supporting a framework of slats covered with a striped canvas
+tarpaulin.  A table with a spacious top standing next to the tiller
+serves as a platform for a sheaf of nautical charts and instruments
+used in navigation.  A doorway in the bulkhead, just aft, frames a
+soft yellow glow.    
+~
+501 8 0 0 0 2
+D2
+~
+~
+0 0 50107 0
+D5
+~
+~
+0 0 50105 32
+S
+#50107
+Captain's Cabin~
+You are in an unfinished room.
+~
+501 8 0 0 0 0
+D0
+~
+~
+0 0 50106 0
+S
+#50108
+On the Fantail~
+A stout rail hems the broad stern of the barge and the deck is
+is impregnated with a mixture of pitch and coarse sand to help
+the crew maintain their footing in rough waters and foul weather.
+Crew members wielding long poles scan the receeding landscape
+for signs of danger.
+~
+501 9 0 0 0 0
+D0
+~
+door~
+1 0 50105 1
+S
+#50109
+Carpenters Shop~
+You are in an unfinished room.
+~
+501 8 0 0 0 0
+D1
+~
+~
+0 0 50105 0
+S
+#50110
+Dark Passage Below Decks~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D0
+~
+door~
+1 0 50112 1
+D2
+~
+~
+0 0 50111 0
+D4
+~
+~
+0 0 50105 32
+S
+#50111
+Crews Quarters~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D0
+~
+~
+0 0 50110 0
+S
+#50112
+Galley~
+You are in an unfinished room.
+~
+501 8 0 0 0 0
+D0
+~
+door~
+1 0 50113 1
+D2
+~
+door~
+1 0 50110 1
+S
+#50113
+After Hold~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D0
+~
+~
+0 0 50114 0
+D2
+~
+door~
+1 0 50112 1
+S
+#50114
+Amidships Hold~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D0
+~
+~
+0 0 50115 0
+D2
+~
+~
+0 0 50113 0
+S
+#50115
+Forward Hold~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D0
+~
+hatch~
+1 0 50116 17
+D2
+~
+~
+0 0 50114 0
+S
+#50116
+Anchor Well~
+You are in an unfinished room.
+~
+501 9 0 0 0 0
+D2
+~
+door~
+1 0 50115 17
+D5
+~
+grate~
+2 0 50117 57
+S
+#50117
+Slimy Confined Space~
+You are in an unfinished room.
+~
+501 425 0 0 0 0
+D2
+~
+~
+0 0 50118 0
+D4
+~
+grate~
+2 0 50116 57
+S
+#50118
+The Bilge~
+You are in an unfinished room.
+~
+501 9 0 0 0 14
+D0
+~
+~
+0 0 50117 0
+D2
+~
+~
+0 0 50119 0
+S
+#50119
+The Bilge~
+You are in an unfinished room.
+~
+501 9 0 0 0 14
+D0
+~
+~
+0 0 50118 0
+D2
+~
+~
+0 0 50120 0
+S
+#50120
+The Bilge~
+You are in an unfinished room.
+~
+501 9 0 0 0 14
+D0
+~
+~
+0 0 50119 0
+D2
+~
+~
+0 0 50121 0
+S
+#50121
+The Bilge~
+You are in an unfinished room.
+~
+501 9 0 0 0 14
+D0
+~
+~
+0 0 50120 0
+S
+#50150
+Entrance~
+You stand at a tubled-down archway, beyond wich steps lead down into
+darkness.  Lichen grows on the rocks and a chill and somewhat rancid
+breeze emanates from this black hole in the mountainside.    
+~
+501 0 0 0 0 5
+D0
+~
+~
+0 0 50151 0
+S
+#50151
+Guard Room~
+Swords, axes, hillebards and shields are hanging at the walls, ready to be
+used at anytime. A wooden door blocks the north exit.
+~
+501 0 0 0 0 0
+D0
+~
+door~
+1 0 50152 1
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 50150 0
+S
+#50152
+Stairs~
+At the bottom of the stairs the passageway divides into two, 
+one brach leading left, the other right.
+~
+501 0 0 0 0 0
+D1
+~
+~
+0 0 50153 0
+D2
+~
+door~
+1 0 50151 1
+D3
+~
+~
+0 0 50154 0
+S
+#50153
+Inner Guard Room~
+You are in an unfinished room.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50155 0
+D3
+~
+~
+0 0 50152 0
+S
+#50154
+Inner Guard Room~
+You are in an unfinished room.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50156 0
+D1
+~
+~
+0 0 50152 0
+S
+#50155
+Corridor~
+A well-used passage leads directly off into the darkness towars a plain 
+archway at the far end.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50157 0
+D2
+~
+~
+0 0 50153 0
+S
+#50156
+Corridor~
+A well-used passage leads directly off into the darkness towars a plain 
+archway at the far end.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50158 0
+D2
+~
+~
+0 0 50154 0
+D7
+Nothing.
+~
+~
+0 0 -1 0
+S
+#50157
+Corridor~
+A well-used passage leads directly off into the darkness towars a plain 
+archway at the far end.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50162 0
+D1
+~
+~
+0 0 50165 0
+D2
+~
+~
+0 0 50155 0
+S
+#50158
+Corridor~
+A well-used passage leads directly off into the darkness towars a plain 
+archway at the far end.
+To the left lies a small cell.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50160 0
+D2
+~
+~
+0 0 50156 0
+D3
+~
+~
+0 0 50159 0
+S
+#50159
+Prison~
+You are standing in a small cell.
+The walls are made of black stone, and you can see old human skulls in the corners.
+~
+501 0 0 0 0 0
+D1
+~
+~
+0 0 50158 0
+S
+#50160
+Store Room~
+You are standing in a dusty store room, filled with 
+food, wares and equipment.
+~
+501 0 0 0 0 0
+D1
+~
+~
+0 0 50161 0
+D2
+~
+~
+0 0 50158 0
+S
+#50161
+An unfinished room~
+You are in an unfinished room.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50163 0
+D1
+~
+~
+0 0 50162 0
+D3
+~
+~
+0 0 50160 0
+S
+#50162
+Store Room~
+You are standing in a dusty store room, filled with 
+food, wares and equipment.
+~
+501 0 0 0 0 0
+D2
+~
+~
+0 0 50157 0
+D3
+~
+~
+0 0 50161 0
+S
+#50163
+Fountain Chamber~
+This chamber is long and narrow, with the melodic sounds of 
+tickling water ringing of the polished walls. To the north end 
+of the room is a huge door.
+~
+501 0 0 0 0 0
+D0
+~
+door~
+1 0 50164 1
+D2
+~
+~
+0 0 50161 0
+S
+#50164
+Chaos Temple~
+You emerge into a large oppressive chamber with a altar
+at the far end. Flames leap from a bronze brazier, suffusing 
+the chamber into a dull red glow. It is a Chaos Temeple, and on
+the altar is the bronze idol of a Daemon.
+~
+501 0 0 0 0 0
+D0
+~
+~
+0 0 50166 0
+D2
+~
+~
+0 0 50163 0
+S
+#50165
+Chaos Shop~
+You are standing in the Chaos Shop.
+~
+501 24 0 0 0 0
+D3
+~
+~
+0 0 50157 0
+S
+#50166
+Catacomb entrance~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D2
+~
+~
+0 0 50164 0
+S
+$~

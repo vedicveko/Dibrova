@@ -1,0 +1,197 @@
+#3700
+armour black pawn~
+/cwsome /cLBlack Pawn /cwArmour/c0~
+/cwA pile of /cLblack armour /cwis here./c0~
+~
+9 1049088 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+13 1133 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3701
+armour white pawn~
+/cwsome /cWwhite pawn /cwarmour/c0~
+/cwA pile of /cWwhite armour/cw is here./c0~
+~
+9 263168 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+13 1133 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3702
+sword black pawn~
+/cwa /cLblack pawn's/cw sword/c0~
+/cwThe sword of a /cLblack pawn/cw lies here./c0~
+~
+5 1581568 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 2000 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3703
+sword white pawn~
+/cwa /cWwhite pawn's /cwsword/c0~
+/cwThe sword of a /cWwhite pawn/cw lies here./c0~
+~
+5 795648 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 2000 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3704
+armour black rook~
+/cwsome /cLblack rook/cw armour/c0~
+/cwSome armour made from the remains of a /cLblack rook/cw lies heaped on the floor./c0~
+~
+9 1049217 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+22 7920 0 27 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+5 1
+#3705
+armour white rook~
+/cwsome /cWwhite rook/cw armour/c0~
+/cwSome armour made from the remains of a /cWwhite rook/cw lies heaped on the floor./c0~
+~
+9 263233 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+22 7920 0 27 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+5 1
+#3706
+lance black knight~
+/cwthe lance of the /cLblack knight/c0~
+/cwThe lance of the /cLblack knight/cw lies here, waiting to rust./c0~
+~
+5 1573442 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+18 6240 3 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#3707
+lance white knight~
+/cwthe lance of the /cWwhite knight/c0~
+/cwThe lance of the /cWwhite knight/cw lies here, waiting to rust./c0~
+~
+5 787522 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+18 6240 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#3708
+staff black bishop~
+/cw the staff of /cLthe black bishop/c0~
+/cwThe /cLblack bishop's staff/cw is lying here./c0~
+An unholy aura suddenly comes to life and envelopes $n!
+~
+4 1051201 0 0 0 16385 0 0 0
+24 5 5 64 0 0 0 0
+3 1220 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3709
+staff white bishop~
+/cw the staff of /cWthe white bishop/c0~
+/cwThe /cWwhite bishop's staff/cw is lying here./c0~
+A holy aura suddenly envelopes $n as $s brandishes the staff!
+~
+4 265281 0 0 0 16385 0 0 0
+24 5 5 63 0 0 0 0
+3 1220 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3710
+crown black queen~
+/cwthe crown of the /cLBlack Queen/c0~
+/cwThe crown of the /cLBlack Queen /cwlies here, looking neglected./c0~
+~
+9 1049154 0 0 0 17 0 0 0
+5 0 0 0 0 0 0 0
+4 16639 0 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+19 2
+#3711
+crown white queen~
+/cwthe crown of the /cWWhite Queen/c0~
+/cwThe crown of the /cWWhite Queen /cwlies here, looking neglected./c0~
+~
+9 263234 0 0 0 17 0 0 0
+5 0 0 0 0 0 0 0
+4 14719 0 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+19 2
+#3712
+sceptre black king~
+/cLthe Black King's Sceptre/c0~
+/cwThe /cLSceptre of the Black King/cw lies here, collecting dust./c0~
+The sceptre shakes rapidly as it's magical power is invoked!
+~
+3 1049186 0 0 0 16385 0 0 0
+45 4 4 56 0 0 0 0
+18 1210 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3713
+sceptre white king~
+/cWthe White King's Sceptre/c0~
+/cwThe /cWSceptre of the White King/cw lies here, collecting dust./c0~
+The sceptre magically rises and zaps $n in the butt!
+The sceptre suddenly levitates and bonks $n in the head!
+~
+3 263266 0 0 0 16385 0 0 0
+45 4 4 56 0 0 0 0
+18 1210 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3714
+key black treasury~
+/cwthe key to /cLthe Black Treasury/c0~
+/cwThere is a /cLsinister black key /cwlying here./c0~
+~
+18 65580 0 0 0 16385 0 0 0
+3714 0 0 0 0 0 0 0
+1 1 300 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3715
+key white treasury~
+/cwthe key to /cWthe White Treasury/c0~
+/cwThere is a /cWbright white key/cw lyinng here./c0~
+~
+18 65580 0 0 0 16385 0 0 0
+3715 0 0 0 0 0 0 0
+1 1 300 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3716
+coins gold black royal treasure~
+/cLthe Black Royal Treasure/c0~
+The treasure of the Black Court lies scatted around the room.~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0 0 0 0 0
+10 1000 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3717
+coins gold white royal treasure~
+/cWthe White Royal Treasure/c0~
+The treasure of the White Court lies scatted around the room.~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0 0 0 0 0
+10 1000 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3799
+deed chessboard~
+the Deed to the Chessboard~
+The Deed to the Chessboard has been dropped here.~
+~
+28 0 0 0 0 16385 0 0 0
+37 0 0 0 0 0 0 0
+1 100 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

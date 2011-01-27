@@ -1,0 +1,1181 @@
+#16700
+Guarded Entrance to the Fortress~
+This is nothing more than a covered dirt-floor entryway into the main
+section of the fortress.  A door on the east wall leads into the
+fortress, opened only by the guards which stand post here at all
+times.  The Kailaani Forest and its relative cover from these bad men
+who reside here lies to the west.    
+~
+167 65544 0 0 0 0
+D1
+~
+door~
+2 16700 16705 15
+D3
+~
+~
+0 0 15511 0
+S
+#16701
+Food Prep Area~
+Most of the abndits in Dorag's gang call this 'the kitchen', however
+there has never been any real cooking here.  The woman who reside in
+the fortress are used more in their sexual capacity than in any
+domestic way, keeping it so that usually men of the gang have to fend
+for themselves and make their own meals.  Needless to say, most of the
+'meals' are less than scrumptious.    
+~
+167 8 0 0 0 0
+D0
+~
+door~
+1 0 16702 3
+D1
+~
+door~
+1 0 16704 3
+S
+#16702
+Food Hall~
+This is quite a large room, meant to have the capablility to hold many
+people for feasting and the like.  A long table runs the length of the
+room, spanning a long distance east.  A door lies in the southern wall
+of the room, leading into the kitchen.    
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16703 0
+D2
+~
+door~
+1 0 16701 3
+S
+#16703
+Food Hall~
+This is quite a large room, meant to have the capablility to hold many
+people for feasting and the like.  A long table runs the length of the
+room, spanning a long distance west.    
+~
+167 8 0 0 0 0
+D2
+~
+~
+0 0 16704 0
+D3
+~
+~
+0 0 16702 0
+S
+#16704
+Antechamber~
+Doors lie to the north, east and west - the one to the north wide open
+and leading into what must be the place where Dorag and all of his men
+eat their meals when not in the Courtyard.  Foul smells come from the
+western door, smells that reek of rotting meat and other foulnesses
+undescribed.  It may be best to leave that door unopened...    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16703 0
+D2
+~
+~
+0 0 16705 0
+D3
+~
+door~
+1 0 16701 3
+S
+#16705
+Midwalk~
+You stand within a coverd log-walled walkway that traverses through
+the center of the bandits' fortress.  Just west of here is a door
+leading out of the fortress, to the east is a long hall that ends in a
+door.  To the north and south are small, round-walled hub room with
+many doors.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16704 0
+D1
+~
+~
+0 0 16706 0
+D2
+~
+~
+0 0 16709 0
+D3
+~
+door~
+2 16700 16700 15
+S
+#16706
+Midwalk~
+You stand within a coverd log-walled walkway that traverses through
+the center of the bandits' fortress.  A short walk west of here is a
+door leading out of the fortress, to the east is more of the midwalk,
+which ends in a door.    
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16707 0
+D3
+~
+~
+0 0 16705 0
+S
+#16707
+Midwalk~
+You stand within a coverd log-walled walkway that traverses through
+the center of the bandits' fortress.  Some distance west of here is a
+door leading out of the fortress, to the east is the end of the
+midwalk, which ends in a door.  To the north and south are small,
+round-walled hub room with many doors.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16723 0
+D1
+~
+~
+0 0 16708 0
+D2
+~
+~
+0 0 16715 0
+D3
+~
+~
+0 0 16706 0
+S
+#16708
+Midwalk~
+You stand before the door that leads out into the inner sanctum of the
+fortress, the Courtyard - the place where Dorag commits his most
+horrid of crimes.  Only this door seperates you from what is almost
+certainly a short life of imprisonment followed by a violent death in
+which Dorag uses you as an entertainment tool.  It would be best if
+you left, never to return.  The exit to this place lies to the west.
+~
+167 8 0 0 0 0
+D1
+~
+door~
+1 0 16725 3
+D3
+~
+~
+0 0 16707 0
+S
+#16709
+Antechamber~
+An open door lies in the west wall, leading into a dark and steamy
+chamber where the smithies of the gang labor at keeping up with the
+weapons demands of the fortress.  On the south wall is a very
+solid-looking door.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16705 0
+D2
+~
+door~
+1 16701 16712 7
+D3
+~
+~
+0 0 16710 0
+S
+#16710
+Smithy~
+This is a large, rectangular-shaped room which is longways north to
+south, holding all of the tools and supplies of the gang which are
+used to make their weaponry and armor.  The floor of this room is
+dirt, everything covered in a sooty black chalk-like substance.  The
+door out of this room lies to the east.    
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16709 0
+D2
+~
+~
+0 0 16711 0
+S
+#16711
+Smithy~
+This is a large, rectangular-shaped room which is longways north to
+south, holding all of the tools and supplies of the gang which are
+used to make their weaponry and armor.  The floor of this room is
+dirt, everything covered in a sooty black chalk-like substance.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16710 0
+S
+#16712
+Storeroom~
+All of the non-perishable foddstuffs of the fortress are held here as
+well as any other odds and ends that are considered of value to the
+bandits.  Rummage through if you like, but if you're caught in here -
+you're dead.    
+~
+167 9 0 0 0 0
+D0
+~
+door~
+1 16701 16709 7
+S
+#16713
+Council Chambers~
+More of a private party chamber for the higher-ups of the bandit gang,
+this is a room with a single large table set in the center with eight
+chairs ringing around it.  Other than the table, there is really
+little else of interest in the room.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16714 0
+D2
+~
+Wallpanel~
+2 0 16790 25
+S
+#16714
+Council Chambers~
+More of a private party chamber for the higher-ups of the bandit gang,
+this is a room with a single large table set in the center with eight
+chairs ringing around it.  Other than the table, there is really
+little else of interest in the room.    
+~
+167 8 0 0 0 0
+D1
+~
+door~
+1 16703 16715 7
+D2
+~
+~
+0 0 16713 0
+S
+#16715
+Antechamber~
+Doors lies on the east and west sides, all of them made of a deep,
+cherry-stained wood.  They are, as far as you know, the only doors in
+this place that seem to be made with any quality at all.  There must
+be some fairly important rooms beyond those doors.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16707 0
+D1
+~
+door~
+2 16702 16718 15
+D3
+~
+door~
+1 16703 16714 7
+S
+#16716
+Dorag's Private Chambers~
+The lighting in these rooms are very poor, most likely purposely so.
+The rooms are a shambles, old clothing and uneaten bits of food lying
+about the floor, tossed where they now lay.  Expensive silks and
+tapestries stolen from caravans traveling the forest lie amid the junk
+on the floor, probably ruined.  Dorag's bed lies against the west
+wall, a huge sprawling affair - unmade, of course.    
+~
+167 9 0 0 0 0
+D1
+~
+~
+0 0 16717 0
+S
+#16717
+Dorag's Private Chambers~
+The lighting in these rooms are very poor, most likely purposely so.
+The rooms are a shambles, old clothing and uneaten bits of food lying
+about the floor, tossed where they now lay.  Expensive silks and
+tapestries stolen from caravans traveling the forest lie amid the junk
+on the floor, probably ruined.  A couple of chests lie in the far
+corner of the room.    
+~
+167 9 0 0 0 0
+D0
+~
+~
+0 0 16718 0
+D3
+~
+~
+0 0 16716 0
+S
+#16718
+Dorag's Private Chambers~
+The lighting in these rooms are very poor, most likely purposely so.
+The rooms are a shambles, old clothing and uneaten bits of food lying
+about the floor, tossed where they now lay.  Expensive silks and
+tapestries stolen from caravans traveling the forest lie amid the junk
+on the floor, probably ruined.    
+~
+167 9 0 0 0 0
+D2
+~
+~
+0 0 16717 0
+D3
+~
+door~
+2 16702 16715 15
+S
+#16719
+Bunks~
+Bunks fashioned of old, dead Nirinwood are arranged throughout this
+upside-down horseshoe of rooms.  The matresses are made from the furs
+of slain animals or packed with leaves - the whole place has a stench
+to it.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16720 0
+D1
+~
+door~
+1 0 16723 3
+S
+#16720
+Bunks~
+Bunks fashioned of old, dead Nirinwood are arranged throughout this
+upside-down horseshoe of rooms.  The matresses are made from the furs
+of slain animals or packed with leaves - the whole place has a stench
+to it.  A table with four chairs sits in the middle of this section of
+the bunkrooms.    
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16721 0
+D2
+~
+~
+0 0 16719 0
+S
+#16721
+Bunks~
+Bunks fashioned of old, dead Nirinwood are arranged throughout this
+upside-down horseshoe of rooms.  The matresses are made from the furs
+of slain animals or packed with leaves - the whole place has a stench
+to it.    
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16722 0
+D2
+~
+door~
+1 0 16723 3
+D3
+~
+~
+0 0 16720 0
+S
+#16722
+Bunks~
+Bunks fashioned of old, dead Nirinwood are arranged throughout this
+upside-down horseshoe of rooms.  The matresses are made from the furs
+of slain animals or packed with leaves - the whole place has a stench
+to it.  A table with four chairs sits in the middle of this section of
+the bunkrooms.    
+~
+167 8 0 0 0 0
+D2
+~
+~
+0 0 16724 0
+D3
+~
+~
+0 0 16721 0
+S
+#16723
+Antechamber~
+Rickety old doors lie on the north, east and west sides of this
+chamber.  The doors are unpainted, the wood rotting and peeling apart
+in places.    
+~
+167 8 0 0 0 0
+D0
+~
+door~
+1 0 16721 3
+D1
+~
+~
+0 0 16724 2
+D2
+~
+~
+0 0 16707 0
+D3
+~
+door~
+1 0 16719 3
+S
+#16724
+Bunks~
+Bunks fashioned of old, dead Nirinwood are arranged throughout this
+upside-down horseshoe of rooms.  The matresses are made from the furs
+of slain animals or packed with leaves - the whole place has a stench
+to it.    
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16722 0
+D3
+~
+door~
+1 0 16723 3
+S
+#16725
+Fortress Courtyard~
+The courtyard is wide open under the sky of the Kailaani, ringed on
+all sides by standing timbers - enormous logs from cut Nirinwood
+trees.  On the extreme north and south ends of the courtyard are large
+wooden cells big enough to hold a dozen prisoners in each - these are
+nearly always full.  At the east end of this place is a towering set
+of steps which lead up to Dorag's place of honor, where he presides
+over everyone and everything that goes on within his fortress.  The
+atmosphere here seems more carnival-like, the members of this motley
+crew in a constant state of celebration.    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16726 0
+D1
+~
+~
+0 0 16729 0
+D2
+~
+~
+0 0 16731 0
+D3
+~
+door~
+1 0 16708 3
+S
+#16726
+Fortress Courtyard~
+The holding cells for the 'entertainers' (as Dorag calls them -
+otherwise known as prisoners) lie on your north side.  The courtyard
+spans out to your southeast, two long tables running along the north
+and south sides where food is usually plentiful and where the bandits
+sit to watch the entertainment of their captured prisoners do whatever
+foul acts Dorag might ask of them .
+~
+167 0 0 0 0 1
+D0
+~
+door~
+1 0 16737 3
+D1
+~
+~
+0 0 16727 0
+D2
+~
+~
+0 0 16725 0
+S
+#16727
+Fortress Courtyard~
+The holding cells for the 'entertainers' (as Dorag calls them -
+otherwise known as prisoners) lie on your north side.  The courtyard
+spans out to your southeast, two long tables running along the north
+and south sides where food is usually plentiful and where the bandits
+sit to watch the entertainment of their captured prisoners do whatever
+foul acts Dorag might ask of them.  High above your head, a bit to the
+northeast, is a cage hanging from a vine roping where a naked prisoner
+is held captive and expected to dance for the entertainment of the
+people below.  Steps lead up, eastward, from here.    
+~
+167 0 0 0 0 1
+D0
+~
+door~
+1 0 16738 3
+D1
+~
+~
+0 0 16728 0
+D2
+~
+~
+0 0 16729 0
+D3
+~
+~
+0 0 16726 0
+S
+#16728
+Log Steps~
+The steps upon which you stand slope gently upward toward where Dorag
+keeps his long, low divan where he can normally be found.  Directly
+above and slightly northward is the set of steps that lead up to the
+northernmost cage where the naked slave dances for Dorag's
+entertainment.  Chances are it is kept locked.    
+~
+167 4 0 0 0 1
+D1
+~
+~
+0 0 16741 0
+D2
+~
+~
+0 0 16730 0
+D3
+~
+~
+0 0 16727 0
+D4
+~
+cage~
+1 16704 16739 7
+S
+#16729
+Fortress Courtyard~
+You stand at the center of the courtyard with long tables running
+along your north and south sides.  Angled wooden steps lead up to the
+east, where Dorag's seat of power lies.  This spot is where the
+prisoners act out whatever fancy Dorag may desire for the moment - or
+they die.    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16727 0
+D1
+~
+~
+0 0 16730 0
+D2
+~
+~
+0 0 16732 0
+D3
+~
+~
+0 0 16725 0
+S
+#16730
+Log Steps~
+Dorag's roost lies almost directly above your head, a steep wall
+seperating the distance between you and he - the top of which being
+where he makes his rest.  To get to Dorag you will have to go around
+this wall to the north or south and climb the stairs which lead up to
+him.  The courtyard lies a few steps below.    
+~
+167 4 0 0 0 1
+D0
+~
+~
+0 0 16728 0
+D2
+~
+~
+0 0 16733 0
+D3
+~
+~
+0 0 16729 0
+S
+#16731
+Fortress Courtyard~
+You stand at the southwestern-most corner of the courtyard, one of the
+farthest points from where Dorag holds court, perched high upon his
+raised divan.  Just south of you is a long wooden cell which holds
+prisoners taken from raids in the forest.  These prisoners are used by
+the bandits for everything from sexual fulfillment to old-style
+gladiator duals.  Its all very barbaric.    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16725 0
+D1
+~
+~
+0 0 16732 0
+D2
+~
+door~
+1 0 16734 3
+S
+#16732
+Fortress Courtyard~
+Angled wooden steps lead upward in two sets toward where Dorag keeps
+his divan, high above all the rest of his men and also up to a wooden
+cage where a naked woman dances in time to a beat that Dorag says she
+had BETTER be able to hear.  The courtyard itself is a place of
+drunken revelry, foul language and general bawdiness.    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16729 0
+D1
+~
+~
+0 0 16733 0
+D2
+~
+door~
+1 0 16736 3
+D3
+~
+~
+0 0 16731 0
+S
+#16733
+Log Steps~
+The steps upon which you stand slope gently upward toward where Dorag
+keeps his long, low divan where he can normally be found.  Directly
+above and slightly northward is the set of steps that lead up to the
+northernmost cage where the naked slave dances for Dorag's
+entertainment.  Chances are it is kept locked.    
+~
+167 4 0 0 0 1
+D0
+~
+~
+0 0 16730 0
+D1
+~
+~
+0 0 16742 0
+D3
+~
+~
+0 0 16732 0
+D4
+~
+cage~
+1 16704 16735 7
+S
+#16734
+Prisoner Cell~
+The floor of this cell is of dirt, most of which has been made into
+mud from the excrement and urine which prisoners are forced to unload
+right where they stand.  Those who are held within these cells do not
+question if they will die, they only question how soon it will be.  
+~
+167 0 0 0 0 0
+D0
+~
+door~
+1 0 16731 3
+D1
+~
+~
+0 0 16736 0
+S
+#16735
+Slave Cage~
+This is a very small cage held suspended high above the courtyard and
+in plain view for everyone to see.  It almost resembles a very large
+birdcage in shape, held by a vine rope tied to a beam which runs
+across the entire courtyard.  A single, slender pole runs up in the
+center of the cage.    
+~
+167 8 0 0 0 0
+D5
+~
+door~
+1 16704 16733 7
+S
+#16736
+Prisoner Cell~
+The floor of this cell is of dirt, most of which has been made into
+mud from the excrement and urine which prisoners are forced to unload
+right where they stand.  Those who are held within these cells do not
+question if they will die, they only question how soon it will be.  
+~
+167 0 0 0 0 0
+D0
+~
+door~
+1 0 16732 3
+D3
+~
+~
+0 0 16734 0
+S
+#16737
+Prisoner Cell~
+The floor of this cell is of dirt, most of which has been made into
+mud from the excrement and urine which prisoners are forced to unload
+right where they stand.  Those who are held within these cells do not
+question if they will die, they only question how soon it will be.  
+~
+167 0 0 0 0 0
+D1
+~
+~
+0 0 16738 0
+D2
+~
+door~
+1 0 16726 3
+S
+#16738
+Prisoner Cell~
+The floor of this cell is of dirt, most of which has been made into
+mud from the excrement and urine which prisoners are forced to unload
+right where they stand.  Those who are held within these cells do not
+question if they will die, they only question how soon it will be.  
+~
+167 0 0 0 0 0
+D2
+~
+door~
+1 0 16727 3
+D3
+~
+~
+0 0 16737 0
+S
+#16739
+Slave Cage~
+This is a very small cage held suspended high above the courtyard and
+in plain view for everyone to see.  It almost resembles a very large
+birdcage in shape, held by a vine rope tied to a beam which runs
+across the entire courtyard.  A single, slender pole runs up in the
+center of the cage.    
+~
+167 8 0 0 0 0
+D5
+~
+door~
+1 16704 16728 7
+S
+#16740
+Dorag's Lounge Chair~
+From this vantage, the whole of the fortress can be seen, most
+especially the courtyard and the cages which hang on the north and
+southeastern ends.  From up here, Dorag gives his speeches, carries
+out his justice and makes love to his whores and slaves.  It is a
+tough life, that of a bandit leader...    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16741 0
+D2
+~
+~
+0 0 16742 0
+S
+#16741
+Log Steps~
+A short climb up and to the south puts you directly at Dorag's lounge
+chair where he spends most of his time watching what goes on below.  
+The steps are shaped very oddly here, looking very much different from
+the ones below, which are all quite the same.    
+~
+167 0 0 0 0 1
+D2
+~
+~
+0 0 16740 0
+D3
+~
+~
+0 0 16728 0
+D5
+~
+secret~
+2 16706 16744 31
+S
+#16742
+Log Steps~
+A short climb up and to the north puts you directly at Dorag's lounge
+chair where he spends most of his time watching what goes on below.  
+The steps are shaped very oddly here, looking very much different from
+the ones below, which are all quite the same.    
+~
+167 0 0 0 0 1
+D0
+~
+~
+0 0 16740 0
+D3
+~
+~
+0 0 16733 0
+D5
+~
+hoard~
+2 16705 16743 31
+S
+#16743
+Dorag's Hoard~
+This is a special hole which was dug by men whom Dorag had killed as
+soon as they had finished the job.  Strong logs line the walls,
+mortared together with mud and clay to keep the moisture out.  This is
+where Dorag keeps anything of value that he doesn't want his men
+getting their hands on.    
+~
+167 2097192 0 0 0 0
+D4
+~
+trapdoor~
+2 16705 16742 15
+S
+#16744
+Secret Chamber~
+There is nothing in this dirt-walled chamber except a way out of the
+fortress undetected by Dorag's enemies.  A tunnel runs east under the
+fortress wall, allowing exit out into the forest and away.    
+~
+167 2162925 0 0 0 0
+D1
+~
+~
+0 0 16745 16
+D4
+~
+secret~
+2 16706 16741 15
+S
+#16745
+Escape Tunnel~
+The beams of the fortress walls can be seen on the roof of this narrow
+crawlway, the way out of the tunnel just above your head, past the
+beams.    
+~
+167 2097193 0 0 0 0
+D3
+~
+~
+0 0 16744 16
+D4
+~
+~
+0 0 15374 0
+S
+#16750
+Base of Argeth's Tree~
+Argeth, one of the most esteemed and known druids throughout the land,
+makes his home in this tree, living off of the gifts of the forest.  
+In exchange for the forest's tolerance of his presence, Argeth and his
+fellow druids of the Kailaani keep a vigil over the inhabitants of the
+forest, watching for any signs of misdeed or intrusion.  It is a good
+trade.  A naturally carved staircase winds along the inner wall of the
+tree, leading up into the heights of the great Nirin.    
+~
+167 12 0 0 0 0
+D2
+~
+~
+0 0 15544 0
+D4
+~
+~
+0 0 16751 0
+S
+#16751
+Carved Stair~
+The stair hugs the wall of the tree, winding upward to a level area.
+Down below lies the lower floor of the tree.    
+~
+167 264 0 0 0 0
+D4
+~
+~
+0 0 16752 0
+D5
+~
+~
+0 0 16750 0
+S
+#16752
+Lower Loft~
+The tree offers a natural shelf upon which Argeth has placed all of
+his personal articles and bed.  There is truly very little in the way
+of possessions, being that Argeth is a simple man with very few needs.
+The loft spans out eastward along the wall of the tree.
+~
+167 8 0 0 0 0
+D1
+~
+~
+0 0 16753 0
+D5
+~
+~
+0 0 16751 0
+S
+#16753
+Lower Loft~
+Another set of naturally formed stairs climb upward into the tree
+toward another loft much like the one you are standing upon now.  The
+way down to ground level lies to the west.    
+~
+167 8 0 0 0 0
+D3
+~
+~
+0 0 16752 0
+D4
+~
+~
+0 0 16754 0
+S
+#16754
+Carved Stair~
+The stair leads up to a smaller loft, curving slightly to follow the
+immense interior of the Nirin's great trunk.  Below lies a fair-sized
+loft where Argeth keeps his personal affects.    
+~
+167 8 0 0 0 0
+D4
+~
+~
+0 0 16755 0
+D5
+~
+~
+0 0 16753 0
+S
+#16755
+Upper Loft~
+Small boles in the wood of the tree offer incredible birds-eye views
+of the forest below.  Argeth conducts most of his works from this
+loft, watching the stars for signs and of course the forest below.  
+~
+167 8 0 0 0 0
+D0
+~
+~
+0 0 16756 0
+D5
+~
+~
+0 0 16754 0
+S
+#16756
+Upper Loft~
+Small boles in the wood of the tree offer incredible birds-eye views
+of the forest below.  Argeth conducts most of his works from this
+loft, watching the stars for signs and of course the forest below.  
+~
+167 8 0 0 0 0
+D2
+~
+~
+0 0 16755 0
+S
+#16757
+The Base of Ballara's Tree~
+A narrow set of steps are formed naturally into the inner wall of the
+tree, lead upward to a flat area.  The floor of the tree is dirt, of
+course, so nothing of any value is kept down here.    
+~
+167 12 0 0 0 0
+D1
+~
+~
+0 0 15523 0
+D4
+~
+~
+0 0 16758 0
+S
+#16758
+Ballara's Perch~
+This is where Ballara makes her home and studies.  It is nothing more
+than a flat area of the tree's wall, more of a shelf than anything
+else, upon which Ballara has a small padding of leaves for a bed and a
+chair and desk.    
+~
+167 8 0 0 0 0
+D5
+~
+~
+0 0 16757 0
+S
+#16759
+The Base of Felz's Tree~
+Felz is known throughout Dibrova as 'the warrior druid', the one druid
+of all those in the ranks of the Forest Guardians who will opt to
+fight before using reason or pacification.  Felz's love for the forest
+is intense, so intense that when it is endangered in any way, he loses
+any self-control he might have and attacks.  It may be a good idea to
+introduce yourself as a Forest Friend upon meeting Felz.    
+~
+167 12 0 0 0 0
+D3
+~
+~
+0 0 15549 0
+D4
+~
+~
+0 0 16760 0
+S
+#16760
+Winding Stair~
+A set of steps wind naturally along the inner wall of the trunk of
+this great tree, leading to a flat area above.  The base of the tree
+lies just below.    
+~
+167 8 0 0 0 0
+D4
+~
+~
+0 0 16761 0
+D5
+~
+~
+0 0 16759 0
+S
+#16761
+Felz's Personal Area~
+A long, low cushion lies upon the floor - Felz's bed.  On the east
+side of the area is another set of steps which lead upward into the
+tree's heights.  Other than the cushion there is little else on this
+small, flat area in Felz's tree.    
+~
+167 8 0 0 0 0
+D4
+~
+~
+0 0 16762 0
+D5
+~
+~
+0 0 16760 0
+S
+#16762
+Winding Stair~
+These steps lead upward onto the highest of the platforms in Felz's
+tree.  Nothing can be seen of what lies upon that platform - at least
+not from here.  Just below is the mid-level area of Felz's abode.    
+~
+167 8 0 0 0 0
+D4
+~
+~
+0 0 16763 0
+D5
+~
+~
+0 0 16761 0
+S
+#16763
+Felz's Sanctuary~
+Everything of any value to Felz is within this room, which is to say
+all of his mental focus and energy.  The walls of the tree have been
+slowly formed over the many years of Felz's inhabitance to fit that of
+Felz's tastes and beliefs.  Small boles in the tree's trunk open out
+into the high air of the Kailaani, giving this entire area of the tree
+an open, free feeling.    
+~
+167 8 0 0 0 0
+D5
+~
+~
+0 0 16762 0
+S
+#16764
+The Base of Blaknir's Tree~
+Steps etched into the inner wall of the tree lead upward into its
+hollowed out innards.  A small, flat area lies just above.    
+~
+167 12 0 0 0 0
+D0
+~
+~
+0 0 15546 0
+D4
+~
+~
+0 0 16765 0
+S
+#16765
+Etched Steps~
+The steps follow the natural curve of the inner wall of the tree,
+leading upward to a flat area in the upper reaches of the tree.  Just
+below lies the dirt loam of the forest floor.    
+~
+167 8 0 0 0 0
+D4
+~
+~
+0 0 16766 0
+D5
+~
+~
+0 0 16764 0
+S
+#16766
+Blaknir's Study~
+Blaknir, being the most intelligent of the Forest Guardians - and
+certainly the most patient - makes his home in the upper reaches of
+this nirin, reflecting on the complexities of the world and all that
+exists within.  This small, spartan area where Blaknir spends most of
+his time reflects that peace and tranquility.    
+~
+167 8 0 0 0 0
+D5
+~
+~
+0 0 16765 0
+S
+#16790
+Room of Unholy Pacts~
+You are in an unfinished room.
+~
+0 2162916 0 0 0 0
+D0
+~
+Wallpanel~
+2 0 16713 25
+S
+$~

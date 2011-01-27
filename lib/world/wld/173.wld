@@ -1,0 +1,1595 @@
+#17301
+The Guard Room~
+In this room, the guards stand watch over the most despicable
+criminals still alive today.  The guards realize that if these
+criminals escaped, all chaos would break loose throughout the realms.
+A scrap of paper has been posted onto the wall here.    
+~
+173 8 0 0 0 0
+D1
+You see a huge metal door blocking the way to the east.
+~
+door huge metal~
+1 -1 17302 3
+E
+sign paper scrap~
+The paper says:
+ 
+    These prisoners are very dangerous.  Should the prisoners escape, prevent
+them from leaving the dungeon at all costs.
+~
+S
+#17302
+Entrance to Maximum Security Zone~
+This room is secured by all means possible at the time the asylum was
+built.  The walls here must be five feet thick.  You can barely hear a
+quiet conversation coming through the door to the west.  Soft whispers
+echo throughout the chamber.    
+~
+173 8 0 0 0 0
+D1
+~
+~
+0 -1 17303 0
+D2
+~
+~
+0 -1 17305 0
+D3
+You see a huge metal door blocking the way to the west.
+~
+door huge metal~
+1 -1 17301 3
+S
+#17303
+Downstairs~
+The air is much more damp down here.  Every step you take echoes off
+the thick stone walls.  You see evidence of mice on the floor and
+spiderwebs on the ceiling.  This room has not been cleaned in quite
+awhile.    
+~
+173 9 0 0 0 0
+D3
+~
+~
+0 -1 17302 0
+D4
+You see a bright light at the top of the stairs.
+~
+~
+0 -1 17380 0
+S
+#17304
+Stanwick's Cell~
+Although at first the thick walls seem bare, you notice that Stanwick
+has removed everything and hidden it under his bed.  The light on the
+ceiling flickers slightly as you look around.    
+~
+173 72 0 0 0 0
+D1
+A thick steel door keeps Stanwick inside his cell.
+~
+door steel thick~
+2 17324 17305 15
+S
+#17305
+Darkened Hallway~
+The lights seem to have gone out in this hallway.  Spiderwebs catch on
+your face as you walk through, and mice scurry around your feet.  The
+strange whispering seems to have gotten louder.  To the west, you see
+a thick steel door, and to the east, there is a reinforced metal door.
+To the north, you see a very secure room.  The hallway continues
+south.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17302 0
+D1
+A reinforced metal door prevents travel to the east.
+~
+door reinforced metal~
+2 17324 17306 15
+D2
+~
+~
+0 -1 17308 0
+D3
+You see a thick steel door to the west.
+~
+door thick steel~
+2 17324 17304 15
+S
+#17306
+Chran's Cell~
+Everything in this cell has been thrown about.  The light fixture is
+broken, and Chran's bed is overturned.  Chran's last meal has been
+thrown against the door.    
+~
+173 73 0 0 0 0
+D3
+A reinforced metal door prevents Crhan from escaping.
+~
+door reinforced metal~
+2 17324 17305 15
+S
+#17307
+Thaknoor's Cell~
+This room smells terrible, and you see bizarre drawings etched into
+the stone walls.  The mice in this cell act as if they have been
+trained.  Water drips from the ceiling in several places.    
+~
+173 72 0 0 0 0
+D1
+An old oak keeps Thaknoor from bothering others.
+~
+door old oak~
+2 17324 17308 15
+S
+#17308
+Darkened Hallway~
+The lights seem to have gone out in this hallway.  Spiderwebs catch on
+your face as you walk through, and mice scurry around your feet.  The
+strange whispering seems to have gotten louder.  An old oak door can
+be seen to the west, while a strong hickory door can be seen to the
+east.  The hallway continues north and south.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17305 0
+D1
+You see an strong hickory door.
+~
+door strong hickory~
+2 17324 17309 15
+D2
+~
+~
+0 -1 17311 0
+D3
+An old oak door is here.
+~
+door old oak~
+2 17324 17307 15
+S
+#17309
+Garrok's Cell~
+This room would be completely silent if it weren't for the mice you
+hear scurrying between the stones.  The bed is unmade, but otherwise
+the room is clean.  Stacks of books adorn the walls, and papers with
+unintelligible scribblings cover the desk in very neat piles.    
+~
+173 72 0 0 0 0
+D3
+A strong hickory door secures Garrick's cell.
+~
+door strong hickory~
+2 17324 17308 15
+S
+#17310
+Davak's Cell~
+This room the strangest you've seen in all your travels.  Paintings of
+bizarre rituals adorn the walls, and large books cover the desk.  
+Dried blood stains on the floor surround decaying corpses, which
+appear to have been mice at one time.    
+~
+173 72 0 0 0 0
+D1
+A rusty iron door keeps Davak from corrupting others.
+~
+door rusty rust iron~
+2 17324 17311 15
+S
+#17311
+Darkened Hallway~
+The lights seem to have gone out in this hallway.  Spiderwebs catch on
+your face as you walk through, and mice scurry around your feet.  The
+strange whispering seems to have gotten louder.  A rusty iron door can
+be seen to the west, while a sturdy pine door can be seen to the east.
+The hallway continues north and south.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17308 0
+D1
+A sturdy pine door prevents you from going east.
+~
+door sturdy pine~
+2 17324 17312 15
+D2
+~
+~
+0 -1 17314 0
+D3
+A rusty iron door blocks the way westward.
+~
+door old oak~
+2 17324 17310 15
+S
+#17312
+Joernaf's Cell~
+The stone walls muffle the sound of running water.  Objects most
+likely stolen from elsewhere lie scattered throughout the room.  Bare
+shelves adorn the walls here.    
+~
+173 72 0 0 0 0
+D3
+A sturdy pine door prevents Joernaf from sneaking out again.
+~
+door sturdy pine~
+2 17324 17311 15
+S
+#17313
+J'Daan's Cell~
+The stone walls in this cell appear to be older than the others.  The
+sheets on the bed are ripped and dirty.  This cell is completely bare
+of decoration, except for a few markings on the wall.    
+~
+173 72 0 0 0 0
+D1
+A door hewn from redwood prevents J'Daan from leaving.
+~
+redwood east~
+2 17324 17314 15
+S
+#17314
+Darkened Hallway~
+The lights seem to have gone out in this hallway.  Spiderwebs catch on
+your face as you walk through, and mice scurry around your feet.  The
+strange whispering seems to have gotten louder.  A redwood door can be
+seen to the west, while a light birch door can be seen to the east.  
+The hallway continues north and south.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17311 0
+D1
+A light birch door barely hangs from its hinges.
+~
+door light birch~
+2 17324 17315 15
+D2
+~
+~
+0 -1 17317 0
+D3
+A redwood door blocks the passage westward.
+~
+redwood west~
+2 17324 17313 9
+D4
+There is an airvent in the ceiling
+~
+~
+0 -1 17352 0
+S
+#17315
+Jamarek's Cell~
+The meager furnishings of this cell seem to block off one corner.  
+Some of the stones near the back look out of place, and the floor is
+covered with dirt.  This room is very quiet, except for the sound of
+breathing coming from somewhere.    
+~
+173 72 0 0 0 0
+D3
+A door of light birch protects Jamarek from the outside world.
+~
+door light birch~
+2 17324 17314 15
+S
+#17316
+Kamom's Cell~
+The walls of this cell are covered with inscriptions of prophecy.  
+Heroic pictures line the wall, some of which you recognize as events
+from history.  The desk is covered in scraps of paper with cryptic
+messages written on them.    
+~
+173 72 0 0 0 0
+D1
+A door of mahogany keeps Kamom's prophecies from being known.
+~
+door redwood red wood~
+2 17324 17317 15
+E
+inscription prophecy~
+You can barely make out:
+ 
+   When the flower of heaven wilts and the midnight sky is bright,
+    the evil one shall return from exile to reclaim his rightful throne.
+~
+S
+#17317
+Darkened Hallway~
+The lights seem to have gone out in this hallway.  Spiderwebs catch on
+your face as you walk through, and mice scurry around your feet.  A
+mahogany door can be seen to the west, while strange whisperings seem
+to emanate from behind an obsidian door to the east.  The hallway
+continues north.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17314 0
+D1
+You see an obsidian door.
+~
+door obsidian~
+2 17325 17318 15
+D3
+You are prevented from going west by a mahogany door.
+~
+door mahogany~
+2 17324 17316 15
+S
+#17318
+Jazor's Cell~
+Unlike the others, this cell is made entirely of steel.  It was
+obviously designed to make absolutely certain no one would ever escape
+from this cell.  This room is completely empty.  This prisoner is
+allowed nothing that might be used as a weapon.  Obviously, this
+prisoner is considered a higher risk than the others.    
+~
+173 72 0 0 0 0
+D3
+An obsidian door prevents another killing rampage by Jazor.
+~
+door obsidian~
+2 17325 17317 15
+S
+#17319
+The Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the North is the gray stone wall of the
+asylum.  To the East and West, you see a narrow trail through the
+forest around the asylum.    
+~
+173 4 0 0 0 3
+D1
+~
+~
+0 -1 17320 0
+D3
+~
+~
+0 -1 17332 0
+S
+#17320
+Stone Path Outside the Asylum~
+Grass has grown up between the stones on the path, and the hedges on
+either side of the path have not been trimmed in years.  The entrance
+to the asylum is to the north.  Southwards, you see a forest so dense
+with underbrush that nothing could pass through.    
+~
+173 0 0 0 0 3
+D0
+You see a grand entrance.
+~
+door~
+1 -1 17336 3
+D1
+~
+~
+0 -1 17321 0
+D3
+~
+~
+0 -1 17319 0
+S
+#17321
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  Southwards, you see a forest so dense with
+underbrush that nothing could pass through.  To the North is the gray
+stone wall of the asylum.  To the East and West, you see a narrow
+trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D1
+~
+~
+0 -1 17322 0
+D3
+~
+~
+0 -1 17320 0
+S
+#17322
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the Southeast, you see a forest so dense
+with underbrush that nothing could pass through.  To the Northwest
+stands the corner of the asylum.  To the North and West, you see a
+narrow trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D0
+~
+~
+0 -1 17323 0
+D2
+~
+~
+0 0 18380 0
+D3
+~
+~
+0 -1 17321 0
+S
+#17323
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the East, you see a forest so dense with
+underbrush that nothing could pass through.  To the West is the gray
+stone wall of the asylum.  To the North and South, you see a narrow
+trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D0
+~
+~
+0 -1 17324 0
+D2
+~
+~
+0 -1 17322 0
+S
+#17324
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the East, you see a forest so dense with
+underbrush that nothing could pass through.  To the West is the gray
+stone wall of the asylum.  To the North and South, you see a narrow
+trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D0
+~
+~
+0 -1 17325 0
+D2
+~
+~
+0 -1 17323 0
+S
+#17325
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the Northeast, you see a forest so dense
+with underbrush that nothing could pass through.  To the Southwest
+stands the corner of the asylum.  To the South and West, you see a
+narrow trail through the forest around the asylum.    
+~
+173 1 0 0 0 3
+D2
+~
+~
+0 -1 17324 0
+D3
+~
+~
+0 -1 17326 0
+S
+#17326
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  Northwards, you see a forest so dense with
+underbrush that nothing could pass through.  To the South is the gray
+stone wall of the asylum.  To the East and West, you see a narrow
+trail through the forest around the asylum.    
+~
+173 1 0 0 0 3
+D1
+~
+~
+0 -1 17325 0
+D3
+~
+~
+0 -1 17327 0
+S
+#17327
+A Worn Dirt Trail~
+The grass here has been worn away by frequent travel to the North.  
+This path has obviously been used for many years.  Northwards lies an
+ancient lair.  To the South is the gray stone wall of the asylum.  To
+the East and West, you see a narrow trail through the forest around
+the asylum.    
+~
+173 0 0 0 0 10
+D0
+~
+~
+0 -1 17328 0
+D1
+~
+~
+0 -1 17326 0
+D3
+~
+~
+0 -1 17329 0
+S
+#17328
+An Ancient Lair~
+Huge stalactites hang from the ceiling of this lair, and two have
+joined with stalagmites on the floor to form what appears to be
+pillars at the entrance.  The floor is worn smooth with frequent
+travel.  Something obviously lives here.    
+~
+173 265 0 0 0 0
+D2
+~
+~
+0 -1 17327 0
+S
+#17329
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the Northwest, you see a forest so dense
+with underbrush that nothing could pass through.  To the Southeast
+stands the corner of the asylum.  To the South and East, you see a
+narrow trail through the forest around the asylum.    
+~
+173 1 0 0 0 3
+D1
+~
+~
+0 -1 17327 0
+D2
+~
+~
+0 -1 17330 0
+S
+#17330
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the West, you see a forest so dense with
+underbrush that nothing could pass through.  To the East is the gray
+stone wall of the asylum.  To the North and South, you see a narrow
+trail through the forest around the asylum.    
+~
+173 1 0 0 0 3
+D0
+~
+~
+0 -1 17329 0
+D2
+~
+~
+0 -1 17331 0
+S
+#17331
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the West, you see a forest so dense with
+underbrush that nothing could pass through.  To the East is the gray
+stone wall of the asylum.  To the North and South, you see a narrow
+trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D0
+~
+~
+0 -1 17330 0
+D2
+~
+~
+0 -1 17332 0
+S
+#17332
+Forest Outside the Asylum~
+Surrounded by a dense forest, the Asylum stands alone as the only
+evidence of civilization.  To the Southwest, you see a forest so dense
+with underbrush that nothing could pass through.  To the Northeast
+stands the corner of the asylum.  To the North and East, you see a
+narrow trail through the forest around the asylum.    
+~
+173 0 0 0 0 3
+D0
+~
+~
+0 -1 17331 0
+D1
+~
+~
+0 -1 17319 0
+S
+#17333
+The Office of the Administrator~
+The plush carpeting and the dark green wallpaper complement the
+natural wood finishing of this office.  Cabinets lie in each corner
+and shelves full of scholarly journals adorn the walls.  Even the
+leaves of the plants in this office seem to be placed in order.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17340 1
+S
+#17334
+Storage Closet~
+Bottles of cleaning materials line the walls.  There is a very dirty
+sink on the southern wall, and the light in this room seems to be
+broken.  You think to yourself that the janitors should clean their
+own closet once in awhile.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17341 1
+S
+#17335
+The Receptionist's Office~
+Th e receptionist's office seems pretty normal.  On her desk is a
+stack of paperwork held down by a picture of her children.  To the
+East, you can see the entrance through a glass window The receptionist
+seems to be out to lunch.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17342 1
+E
+window glass east~
+Through the sliding glass window, you see the Entrance to the Asylum.
+~
+S
+#17336
+The Entrance to the Asylum~
+Ferns hang from the ceiling of the entrance and a large seal in the
+shape of a Maltese Cross can be seen on the floor.  To the West, you
+can see a glass window into the receptionist's office.  As you admire
+the sheer beauty of this room, you hear the door latch behind you, and
+you realize that once people come in here, they never leave.    
+~
+173 12 0 0 0 0
+D0
+~
+~
+1 -1 17343 1
+D2
+~
+door~
+1 0 17320 3
+E
+window glass west~
+Through the sliding glass window to the West, you see the receptionist's 
+office.
+~
+S
+#17337
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17344 1
+S
+#17338
+The Southwest Cafeteria~
+The smell of institutional food wafts through the air, and patients
+wander in and out.  Several tables are placed in a regular arrangement
+in the room, and a stack of trays is sitting on a garbage can in the
+corner.  There is a window on the south wall.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+0 -1 17344 0
+D1
+~
+~
+0 -1 17339 0
+E
+window south~
+Outside the window, you see the forest with birds singing and rabbits 
+playing.
+~
+S
+#17339
+The Southeast Cafeteria~
+The smell of institutional food wafts through the air, and patients
+wander in and out.  Several tables are placed in a regular arrangement
+in the room, and a stack of trays is sitting on a garbage can in the
+corner.  There are windows on the south and east walls.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+0 -1 17345 0
+D3
+~
+~
+0 -1 17338 0
+E
+window south west~
+Outside the window, you see the forest with birds singing and rabbits 
+playing.
+~
+S
+#17340
+A Carpeted Hallway~
+The hallway here is carpeted with a plush rug with a blue and white
+checkerboard design.  Quiet mumblings can be heard throughout the
+length of the hallway, and orderlies and patients walk in and out.  
+There are doorways to the north and south, and the hallway continues
+east.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17347 1
+D1
+~
+~
+0 -1 17341 0
+D2
+~
+~
+1 -1 17333 1
+S
+#17341
+A Carpeted Hallway~
+The hallway here is carpeted with a plush rug with a blue and white
+checkerboard design.  Quiet mumblings can be heard throughout the
+length of the hallway, and orderlies and patients walk in and out.  
+There are doorways to the north and south, and the hallway continues
+east and west.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17348 1
+D1
+~
+~
+0 -1 17342 0
+D2
+~
+~
+1 -1 17333 1
+D3
+~
+~
+0 -1 17340 0
+S
+#17342
+A Carpeted Hallway~
+The hallway here is carpeted with a plush rug with a blue and white
+checkerboard design.  Quiet mumblings can be heard throughout the
+length of the hallway, and orderlies and patients walk in and out.  
+There are doorways to the north and south, and the hallway continues
+east and west.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17349 1
+D1
+~
+~
+0 -1 17343 0
+D2
+~
+~
+1 -1 17334 1
+D3
+~
+~
+0 -1 17341 0
+S
+#17343
+The Grand Hallway~
+You are standing in the intersection of four hallways.  A giant
+chandelier hangs from the ceiling, and huge lilies grow in the
+fountain in the middle of the room.  To the North, you see a glass
+door to a bright hallway.  To the South, you see the entrance to the
+Asylum.  To the East and West are a carpeted hallway, and a tiled
+hallway, respectively.    
+~
+173 8 0 0 0 0
+D0
+You see a door of glass.
+~
+door glass~
+1 0 17350 3
+D1
+~
+~
+0 -1 17344 0
+D2
+~
+~
+1 -1 17335 1
+D3
+~
+~
+0 -1 17342 0
+S
+#17344
+A Tiled Hallway~
+The hallway here is tiled with a blue and white checkerboard design.
+Quiet mumblings can be heard throughout the length of the hallway, and
+orderlies and patients walk in and out.  There are doorways to the
+north and south, and the hallway continues east and west.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17351 1
+D1
+~
+~
+0 -1 17345 0
+D2
+~
+~
+1 -1 17337 1
+D3
+~
+~
+0 -1 17343 0
+S
+#17345
+The Northwest Cafeteria~
+The smell of institutional food wafts through the air, and patients
+wander in and out.  Several tables are placed in a regular arrangement
+in the room, and a stack of trays is sitting on a garbage can in the
+corner.    
+~
+173 8 0 0 0 0
+D1
+~
+~
+0 -1 17346 0
+D2
+~
+~
+0 -1 17338 0
+D3
+~
+~
+0 -1 17343 0
+S
+#17346
+The Northeast Cafeteria~
+The smell of institutional food wafts from the door to the North, and
+patients wander in and out.  Several tables are placed in a regular
+arrangement in the room, and a stack of trays is sitting on a garbage
+can in the corner.  There is a window on the east wall.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+1 -1 17353 1
+D2
+~
+~
+0 -1 17339 0
+D3
+~
+~
+0 -1 17345 0
+E
+window east~
+Outside the window, you see the forest with birds singing and rabbits 
+playing.
+~
+S
+#17347
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 8 0 0 0 0
+D2
+~
+~
+1 -1 17340 1
+S
+#17348
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 8 0 0 0 0
+D2
+~
+~
+1 -1 17345 1
+S
+#17349
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 8 0 0 0 0
+D2
+~
+~
+1 -1 17342 1
+S
+#17350
+A Bright Hallway~
+Sunlight streams through the skylight on the ceiling and bounces off
+the white walls.  Otherwise, the walls are painted plain white and
+have no decoration.  The floor is a bit dusty, but the tiles here used
+to be white also.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+0 -1 17357 0
+D2
+~
+door glass~
+1 0 17343 3
+S
+#17351
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 8 0 0 0 0
+D2
+~
+~
+1 -1 17344 1
+S
+#17352
+The Pantry~
+The airshaft which you just used was barely big enough for you to fit
+through.  You don't want to risk getting stuck by trying it again.  
+Industrial size cans of vegetables fill the shelves and fifty pound
+bags of flour and rice sit on the floor.  There is a door with a
+broken handle to the East, and a dark airshaft leading down.    
+~
+173 9 0 0 0 0
+D1
+~
+~
+0 -1 17353 0
+S
+#17353
+The Kitchen~
+Pots and pans hang from a hooks in the ceiling over a table in the
+center of the kitchen.  The industrial size stove gets a full workout
+in this room as the cooks prepare meals for everyone in the
+institution.  There are giant troughs on the wall where patients with
+behavioral problems wash the dishes.  There is a door to the south.  
+~
+173 8 0 0 0 0
+D2
+~
+~
+1 -1 17346 1
+S
+#17354
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  There is
+an open gate to the West, and the courtyard continues to the East.  
+~
+173 0 0 0 0 2
+D1
+~
+~
+0 -1 17355 0
+D3
+The gate is jammed open, because grass has grown around it.
+~
+gate~
+1 -1 17331 3
+S
+#17355
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  The
+Courtyard continues to the East and West.    
+~
+173 0 0 0 0 2
+D1
+~
+~
+0 -1 17356 0
+D3
+~
+~
+0 -1 17354 0
+S
+#17356
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  There is
+a door to the East, and the courtyard continues to the West.    
+~
+173 0 0 0 0 2
+D1
+This door leads back to the Asylum.
+~
+door red~
+1 -1 17357 1
+D3
+~
+~
+0 -1 17355 0
+S
+#17357
+A Bright Hallway~
+Sunlight streams through the skylight on the ceiling and bounces off
+the white walls.  Otherwise, the walls are painted plain white and
+have no decoration.  The floor is a bit dusty, but the tiles here used
+to be white also.  There are doors to the East and West, and the
+hallway continues north and south.    
+~
+173 12 0 0 0 0
+D0
+There is a plexiglass door to the north.
+~
+door plexi glass plexiglass north~
+1 -1 17364 3
+D1
+There is a door with a blue handle to the east.
+~
+door blue east~
+1 -1 17358 3
+D2
+~
+~
+0 -1 17350 0
+D3
+There is a door with a red handle to the west.
+~
+door red west~
+1 -1 17356 3
+S
+#17358
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  There is
+a door to the West, and the courtyard continues to the East.    
+~
+173 0 0 0 0 2
+D1
+~
+~
+1 -1 17359 1
+D3
+This door leads back inside the Asylum.
+~
+door blue~
+1 -1 17357 3
+S
+#17359
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  The
+Courtyard continues to the East and West.    
+~
+173 0 0 0 0 2
+D1
+~
+~
+0 -1 17360 0
+D3
+~
+~
+0 -1 17358 0
+S
+#17360
+A Grassy Courtyard~
+This is as far outside as the patients are allowed.  Small flowers
+grow up from the grassy earth.  A few saplings have been planted here
+for decoration.  Little birds fly from branch to branch, singing
+songs.  To the North and South are the walls of the Asylum.  There is
+an open gate to the East, and the courtyard continues to the West.  
+~
+173 0 0 0 0 2
+D1
+The gate is jammed open, because grass has grown around it.
+~
+~
+1 -1 17323 3
+D3
+~
+~
+0 -1 17359 0
+S
+#17361
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17368 1
+S
+#17362
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17369 1
+S
+#17363
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17370 1
+S
+#17364
+A Padded Hallway~
+For some reason, rubber padding covers this hallway.  The lights are
+getting dimmer, and it's difficult for your eyes to adjust.  From the
+North, you hear loud noises.  The hallway continues south, and there
+is an intersection to the North.    
+~
+173 8 0 0 0 0
+D0
+~
+~
+0 -1 17371 0
+D2
+There is a plexiglass door to the South.
+~
+door plexi glass plexiglass south~
+1 -1 17357 1
+S
+#17365
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17372 1
+S
+#17366
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  Plastic curtain is drawn around the patient's bed,
+and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17373 1
+S
+#17367
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17374 1
+S
+#17368
+A Noisy Hallway~
+The hallway here is filled with shouts and screams.  Thrown objects
+are flying through the air and bouncing off the walls.  Blood is
+splattered everywhere, and the dead and dying line the floor.  There
+are doors to the North and South, and the hallway continues to the
+East.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17375 1
+D1
+~
+~
+0 -1 17369 0
+D2
+~
+~
+1 -1 17361 1
+S
+#17369
+A Noisy Hallway~
+The hallway here is filled with shouts and screams.  Thrown objects
+are flying through the air and bouncing off the walls.  Blood is
+splattered everywhere, and the dead and dying line the floor.  There
+are doors to the North and South, and the hallway continues to the
+East and West.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17376 1
+D1
+~
+~
+0 -1 17370 0
+D2
+~
+~
+1 -1 17362 1
+D3
+~
+~
+0 -1 17368 0
+S
+#17370
+A Noisy Hallway~
+The hallway here is filled with shouts and screams.  Thrown objects
+are flying through the air and bouncing off the walls.  Blood is
+splattered everywhere, and the dead and dying line the floor.  There
+are doors to the North and South, and the hallway continues to the
+East and West.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17377 1
+D1
+~
+~
+0 -1 17371 0
+D2
+~
+~
+1 -1 17364 1
+D3
+~
+~
+0 -1 17369 0
+S
+#17371
+The Dark Intersection~
+You are standing in the intersection of four hallways.  There are bare
+wires hanging from the ceiling where the light used to be, and the
+remnants of a fountain set in the middle of the room.  There is a door
+to the north, and to the South, you see a padded hallway.  From the
+West, you hear screams and shouts, and see someone fighting.  From the
+East, you hear nothing, but sense that there is something there.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+0 -1 17378 0
+D1
+~
+~
+0 -1 17372 0
+D2
+~
+~
+1 -1 17364 1
+D3
+~
+~
+0 -1 17370 0
+S
+#17372
+A Silent Hallway~
+The hallway here is completely silent, but you sense that there is
+someone there.  Blood is splattered everywhere, and dead bodies line
+the floor.  There are doors to the North and South, and the hallway
+continues to th East and West.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17379 1
+D1
+~
+~
+0 -1 17373 0
+D2
+~
+~
+1 -1 17365 1
+D3
+~
+~
+0 -1 17371 0
+S
+#17373
+A Silent Hallway~
+The hallway here is completely silent, but you sense that there is
+someone there.  Blood is splattered everywhere, and dead bodies line
+the floor.  There is a door to the South, and the hallway continues to
+the East and West.    
+~
+173 9 0 0 0 0
+D1
+~
+~
+0 -1 17374 0
+D2
+~
+~
+1 -1 17366 1
+D3
+~
+~
+0 -1 17372 0
+S
+#17374
+A Silent Hallway~
+The hallway here is completely silent, but you sense that there is
+someone there.  Blood is splattered everywhere, and dead bodies line
+the floor.  There are doors to the North and South, and the hallway
+continues to the East and West.    
+~
+173 9 0 0 0 0
+D0
+~
+~
+1 -1 17381 1
+D2
+~
+~
+1 -1 17367 1
+D3
+~
+~
+0 -1 17373 0
+D5
+You see a small hole in the floor.
+~
+~
+0 -1 17382 0
+S
+#17375
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D2
+~
+~
+1 -1 17368 1
+S
+#17376
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D2
+~
+~
+1 -1 17369 1
+S
+#17377
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D2
+~
+~
+1 -1 17370 1
+S
+#17378
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D2
+~
+~
+1 -1 17371 1
+S
+#17379
+An Abandoned Guard Room~
+The guards from this room have long since disappearred.  They were
+either killed by the patients, or fled when this ward was overtaken.
+Either way, they were not able to bring their personal items, because
+their weapons belts lie on the table where they left them.  There is a
+very strong door to the East, and looks to be securely locked.    
+~
+173 9 0 0 0 0
+D1
+This door is securely locked protecting those behind it.
+~
+door very strong~
+2 17323 17380 15
+D2
+~
+~
+1 -1 17372 1
+S
+#17380
+Upstairs~
+You are at the top of a large metal staircase.  The lights overhead
+hum very loudly, but compared to where you just were, it's quite a
+relief.  There is a very strong door to the East, and the staircase
+leads down from here.    
+~
+173 8 0 0 0 0
+D3
+There is a very strong door protecting you from those on the other side.
+~
+door very strong~
+2 17323 17379 15
+D5
+Watch your step.
+~
+~
+0 -1 17303 0
+S
+#17381
+A Patient's Room~
+The light blue walls of this room look freshly scrubbed, and the floor
+seems to sparkle.  A plastic curtain is drawn around the patient's
+bed, and personal items lie scattered throughout the room.    
+~
+173 9 0 0 0 0
+D2
+~
+~
+1 -1 17374 1
+S
+#17382
+The Escape Tunnel~
+You are in an escape tunnel obviously dug by someone to get out of the
+asylum.  It's very cramped, but you can manage if you can wiggle.  As
+you make your way along, the loose dirt from the ceiling falls on your
+face and nearly blinds you.    
+~
+173 269 0 0 0 0
+S
+#17383
+Outside Mob Room~
+This is where the outside mobs load.    
+~
+173 64 0 0 0 0
+D0
+~
+~
+0 -1 17319 0
+D1
+~
+~
+0 -1 17321 0
+D2
+~
+~
+0 -1 17323 0
+D3
+~
+~
+0 -1 17325 0
+D4
+~
+~
+0 -1 17327 0
+D5
+~
+~
+0 -1 17330 0
+S
+#17384
+Easy Mob Room~
+This is where the easy mobs load.    
+~
+173 64 0 0 0 0
+D0
+~
+~
+0 -1 17334 0
+D1
+~
+~
+0 -1 17337 0
+D2
+~
+~
+0 -1 17339 0
+D3
+~
+~
+0 -1 17341 0
+D4
+~
+~
+0 -1 17347 0
+D5
+~
+~
+0 -1 17351 0
+S
+#17385
+Difficult Mob Room~
+This is where the Difficult mobs load.    
+~
+173 64 0 0 0 0
+D0
+~
+~
+0 -1 17362 0
+D1
+~
+~
+0 -1 17366 0
+D2
+~
+~
+0 -1 17369 0
+D3
+~
+~
+0 -1 17373 0
+D4
+~
+~
+0 -1 17375 0
+D5
+~
+~
+0 -1 17381 0
+S
+$~

@@ -1,0 +1,1877 @@
+#8400
+Guard Post at the Teeth~
+What can only be described as a landing area has been fashioned here
+with a strong iron fence surrounding it.  The fence itself is attached
+to the rock of the cliff wall, anchored in with thick, iron bolts.  
+The only exit from this gated-in area is to the west, past the burly
+guards which stand at rigid attention here at all times.  Just beyond
+this small area lies a small wooden keep, probably the permanent
+housing for these poor wretched souls whose job it is to guard this
+cliff.  Looking north and south, a disgusting lay of blackened, gooey
+land runs along the base of the cliff for as far as your eyes can see.
+~
+84 0 0 0 0 2
+D3
+~
+bars~
+1 8400 8401 3
+D4
+~
+~
+0 0 8865 0
+S
+#8401
+Wooden Plankway~
+Slats of rough timber lie mired down in the black goo which covers the
+ground for the entire base of the cliff face.  They form a crude
+walkway leading into the small keep which is just to the west.  It is
+possible to travel north and south into the black goo, however it does
+not look in any way inviting.  A small, gated-in space lies to the
+east - the place for which this entire guardsman's keep was
+constructed.    
+~
+84 0 0 0 0 1
+D0
+~
+~
+0 0 8415 0
+D1
+~
+gate~
+1 0 8400 3
+D2
+~
+~
+0 0 8425 0
+D3
+~
+~
+0 0 8402 0
+S
+#8402
+The Yard~
+This is the inner field of the keep where the guards go about their
+training and excercises when not on post at the cliff.  A crude
+housing has been constructed against the inner wall of the keep, a
+quick fix for shelter which has turned into a permanent thing for the
+guards which guard here.    
+~
+84 0 0 0 0 1
+D0
+~
+~
+0 0 8407 0
+D1
+~
+~
+0 0 8401 0
+D3
+~
+~
+0 0 8403 0
+S
+#8403
+The Yard~
+You stand in the center of the keep, a small but well-made piece of
+work.  To the south is a tall, skinny shed with a lock on the door.  
+All along the north wall of the keep is a shelter which looks to be
+seperated into rooms.  A door lies directly north.    
+~
+84 0 0 0 0 1
+D0
+~
+~
+0 0 8406 0
+D1
+~
+~
+0 0 8402 0
+D2
+~
+door~
+1 8400 8408 7
+D3
+~
+~
+0 0 8404 0
+S
+#8404
+The Yard~
+This is the west end of the yard, an open entryway (or exitway) lies
+to the west out onto a wide and well-used road.  To the north is the
+open entryway into a shelter built against the wall of the keep.    
+~
+84 4 0 0 0 1
+D0
+~
+~
+0 0 8405 0
+D1
+~
+~
+0 0 8403 0
+D3
+~
+~
+0 0 8437 0
+S
+#8405
+Stables~
+The few steeds which are kept here at Land's End Keep are strong and
+fleet of hoof.  They are only to be used in times of dire emergency
+when an intruder lands within the landing pad that appears to be a
+threat.  This small room may be the best kept part of the entire keep
+other than the landing pad.    
+~
+84 8200 0 0 0 0
+D2
+~
+~
+0 0 8404 0
+S
+#8406
+Bunkrooms~
+A row of single sleeper cots line the west wall of this dirt-floored
+room, the cots themselves unwashed and unmade.  It does not look as if
+the soldiers who live here take their heigene all that seriously.  An
+open doorway leads east into another room roughly the same in size as
+this one.    
+~
+84 8 0 0 0 0
+D1
+~
+~
+0 0 8407 0
+D2
+~
+~
+0 0 8403 0
+S
+#8407
+Chow Room~
+A single table sits in the center of the room, four chairs set around
+it in no particular order.  The table is made from an unfinished
+smattering of wood that looks like if used all too much, splinters
+would abound.  A door lies open to the south into the yard, another
+lies open to the west into another small room much like this one.    
+~
+84 8 0 0 0 0
+D2
+~
+~
+0 0 8402 0
+D3
+~
+~
+0 0 8406 0
+S
+#8408
+Guard Shed~
+This is a small, stuffy shed which holds yet another door at the south
+side.  More than anything, it looks like this would be a place where a
+guard might be stationed for a watch against whatever lies beyond the
+door to the south.    
+~
+84 12 0 0 0 0
+D0
+~
+door~
+1 8400 8403 7
+D5
+~
+~
+0 0 8409 0
+S
+#8409
+Earth and Rock Hallway~
+You find yourself in an underground prison, of sorts.  A short tunnel
+has been dug, one deep enough to allow you to stand up straight in
+which leads to the south and dead-ends.  On the east and west walls
+are solid metal doors which shut off the cells behind them.    
+~
+84 32 0 0 0 0
+D1
+~
+door~
+1 8401 8411 7
+D2
+~
+~
+0 0 8410 0
+D3
+~
+door~
+1 8401 8413 7
+D4
+~
+~
+0 0 8408 0
+S
+#8410
+Earth and Rock Hallway~
+There is no more progress which can be made to the south, the only way
+to go from here is north or into one of the cells on the east and west
+sides.    
+~
+84 65576 0 0 0 0
+D0
+~
+~
+0 0 8409 0
+D1
+~
+door~
+1 8401 8412 7
+D3
+~
+door~
+1 8401 8414 7
+S
+#8411
+Rough Hewn Cell~
+This cell, though large enough to hold more than one prisoner, is
+certainly not comfortable or spacious in any way.  There is a small
+hole in the back corner from which noxious fumes emit and no bed.  
+The floor is a rocky dirt, one which is not only hard, but lumpy as
+well.    
+~
+84 65577 0 0 0 0
+D3
+~
+door~
+1 8401 8409 7
+S
+#8412
+Rough Hewn Cell~
+This cell, though large enough to hold more than one prisoner, is
+certainly not comfortable or spacious in any way.  There is a small
+hole in the back corner from which noxious fumes emit and no bed.  
+The floor is a rocky dirt, one which is not only hard, but lumpy as
+well.    
+~
+84 65576 0 0 0 0
+D3
+~
+door~
+1 8401 8410 7
+S
+#8413
+Rough Hewn Cell~
+This cell, though large enough to hold more than one prisoner, is
+certainly not comfortable or spacious in any way.  There is a small
+hole in the back corner from which noxious fumes emit and no bed.  
+The floor is a rocky dirt, one which is not only hard, but lumpy as
+well.    
+~
+84 65576 0 0 0 0
+D1
+~
+door~
+1 8401 8409 7
+S
+#8414
+Rough Hewn Cell~
+This cell, though large enough to hold more than one prisoner, is
+certainly not comfortable or spacious in any way.  There is a small
+hole in the back corner from which noxious fumes emit and no bed.  
+The floor is a rocky dirt, one which is not only hard, but lumpy as
+well.    
+~
+84 65576 0 0 0 0
+D1
+~
+door~
+1 8401 8410 7
+S
+#8415
+Dragon Wastes~
+Dragon wastes, indeed.  This is the most foul and disgusting plot of
+land that this or any other world could possibly boast possession of.
+The ground is coated in a thick, black goo which is the result of the
+wastes and run-off from the caves above.  The smell is horrific and
+the view is worse.    
+~
+84 4 0 0 0 14
+D0
+~
+~
+0 0 8424 0
+D1
+~
+~
+0 0 8416 0
+D2
+~
+~
+0 0 8401 0
+S
+#8416
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8417 0
+D3
+~
+~
+0 0 8415 0
+S
+#8417
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8418 0
+D2
+~
+~
+0 0 8416 0
+D3
+~
+~
+0 0 8424 0
+S
+#8418
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8419 0
+D2
+~
+~
+0 0 8417 0
+D3
+~
+~
+0 0 8423 0
+S
+#8419
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8420 0
+D2
+~
+~
+0 0 8418 0
+D3
+~
+~
+0 0 8422 0
+S
+#8420
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D2
+~
+~
+0 0 8419 0
+D3
+~
+~
+0 0 8421 0
+S
+#8421
+Dragon Wastes~
+The filth and degradation of the land continues north as far as the
+eye can see, the cliffs stretching off into the horizon.  The muck and
+mire of the wastes underfoot seem to suck and take hold of anything
+lodged within it.  Firm ground lies west, the keep just a short way
+south.    
+~
+84 0 0 0 0 14
+D1
+~
+~
+0 0 8420 0
+D2
+~
+~
+0 0 8422 0
+S
+#8422
+Dragon Wastes~
+The mass of blackish goo runs north and south for what seems like
+forever, the land forever tainted by the negligence of the beasts
+which live above.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8421 0
+D1
+~
+~
+0 0 8419 0
+D2
+~
+~
+0 0 8423 0
+S
+#8423
+Dragon Wastes~
+The mass of blackish goo runs north and south for what seems like
+forever, the land forever tainted by the negligence of the beasts
+which live above.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8422 0
+D1
+~
+~
+0 0 8418 0
+D2
+~
+~
+0 0 8424 0
+S
+#8424
+Dragon Wastes~
+The ground is layered in the thick, black goo of the dragon's filth
+and waste.  There is the awful smell of the excrement as it lays
+hardening in the sun, slowly fossilizing.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8423 0
+D1
+~
+~
+0 0 8417 0
+D2
+~
+~
+0 0 8415 0
+S
+#8425
+Dragon Wastes~
+This is what is considered 'no-mans land' by the people of the King's
+Plains.  The ground is covered in a nasty, oozing mass of blackened
+goo which is the result of the run-off from the dragon caves above.  
+All the excrement and refuse from the dragons gets tossed over the
+side of their entryways onto the ground at the base of the cliffs.  
+This is that ground.    
+~
+84 4 0 0 0 14
+D0
+~
+~
+0 0 8401 0
+D1
+~
+~
+0 0 8426 0
+D2
+~
+~
+0 0 8436 0
+S
+#8426
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D2
+~
+~
+0 0 8427 0
+D3
+~
+~
+0 0 8425 0
+S
+#8427
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8426 0
+D2
+~
+~
+0 0 8428 0
+D3
+~
+~
+0 0 8436 0
+S
+#8428
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8427 0
+D2
+~
+~
+0 0 8429 0
+D3
+~
+~
+0 0 8435 0
+S
+#8429
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8428 0
+D2
+~
+~
+0 0 8430 0
+D3
+~
+~
+0 0 8434 0
+S
+#8430
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8429 0
+D2
+~
+~
+0 0 8431 0
+D3
+~
+~
+0 0 8433 0
+S
+#8431
+Dragon Wastes~
+The run-off of waste and filth from the dragon caves above has turned
+the first fifty yards of land near the cliff into a oozing bog of
+dragon excrement and waste.  Heaped within the black, oozing mire are
+all of the bones and husks of animal or human meals which the dragons
+have consumed and then tossed over the side of their caves onto this
+land below them.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8430 0
+D3
+~
+~
+0 0 8432 0
+S
+#8432
+Dragon Wastes~
+The blackened soil stretches along the base of the cliff for as far
+south as you can see, the cliff itself shrinking into the horizon.  A
+forest lies far to the south, cut off on its western border by the
+wastes just before the cliffs.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8433 0
+D1
+~
+~
+0 0 8431 0
+S
+#8433
+Dragon Wastes~
+The soil all along the cliff face is scarred and blistered with the
+clack excrement of the dragons above.  Scattered within this excrement
+is the heaps of bones and dead animal carcasses which are the leftover
+meals of the dragons.  To the west are open farmlands, vast open
+plains which hold bountiful harvests.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8434 0
+D1
+~
+~
+0 0 8430 0
+D2
+~
+~
+0 0 8432 0
+S
+#8434
+Dragon Wastes~
+The soil all along the cliff face is scarred and blistered with the
+clack excrement of the dragons above.  Scattered within this excrement
+is the heaps of bones and dead animal carcasses which are the leftover
+meals of the dragons.  To the west are open farmlands, vast open
+plains which hold bountiful harvests.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8435 0
+D1
+~
+~
+0 0 8429 0
+D2
+~
+~
+0 0 8433 0
+S
+#8435
+Dragon Wastes~
+The soil all along the cliff face is scarred and blistered with the
+clack excrement of the dragons above.  Scattered within this excrement
+is the heaps of bones and dead animal carcasses which are the leftover
+meals of the dragons.  To the west are open farmlands, vast open
+plains which hold bountiful harvests.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8436 0
+D1
+~
+~
+0 0 8428 0
+D2
+~
+~
+0 0 8434 0
+S
+#8436
+Dragon Wastes~
+The soil all along the cliff face is scarred and blistered with the
+clack excrement of the dragons above.  Scattered within this excrement
+is the heaps of bones and dead animal carcasses which are the leftover
+meals of the dragons.  To the west are open farmlands, vast open
+plains which hold bountiful harvests.    
+~
+84 0 0 0 0 14
+D0
+~
+~
+0 0 8425 0
+D1
+~
+~
+0 0 8427 0
+D2
+~
+~
+0 0 8435 0
+S
+#8437
+The King's Highway~
+The road is wide and well-tended, surrounded on the north and south
+sides by huge fields of grain and corn.  On the south side, the crops
+do not appear as healthy as those to the north, however they are
+plentiful just the same.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8404 0
+D3
+~
+~
+0 0 8438 0
+S
+#8438
+The King's Highway~
+The road runs a straight line east to west, a wide brown line cutting
+through the farming fields which surround it.  A short ways to the
+east is the small wooden structure known to the people of this land as
+Land's End Keep - the first bastion of defense against inruders from
+the Dragon's Teeth.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8437 0
+D3
+~
+~
+0 0 8439 0
+S
+#8439
+The King's Highway~
+The long, smooth roadway continues east to west without cessation for
+quite some distance.  Occasional noises can be heard from within the
+fields to the north and south - the sounds of the farming crews hard
+at work.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8438 0
+D3
+~
+~
+0 0 8440 0
+S
+#8440
+The King's Highway~
+The road runs east to west for a very long distance, the only thing
+visible in either direction is the ever-present heights of the
+Dragon's Teeth, lying far to the east.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8439 0
+D3
+~
+~
+0 0 8441 0
+S
+#8441
+The King's Highway~
+The road continues and east and west with a road jutting off to the
+south just west of here.  Land's End Keep has dwindled to a spec on
+the eastern horizon, the only landmarks in sight being the cliff face
+of the Teeth and the road which splits off to the west.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8440 0
+D3
+~
+~
+0 0 8442 0
+S
+#8442
+Crossroads on the King's Highway~
+A road leads south into the thick of the corn fields which border the
+King's Highway.  The road also continues to run due east and west for
+quite some distance.    
+
+There is a /crred sign/c0 stuck into the ground.
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8441 0
+D2
+~
+~
+0 0 8444 0
+D3
+~
+~
+0 0 8443 0
+E
+sign~
+The Fortress of Baron Westlawn.
+Follow the southern road to the gates.
+
+The King's Castle.
+Follow the King's Highway west.
+~
+S
+#8443
+The King's Highway~
+The highway comes to a junction to west a short ways from this locale,
+ending its western travel and running north and south.  Just to the
+east is a road heading south off of this main one, a sign posted at
+the meeting of the roads.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8442 0
+D3
+~
+~
+0 0 8445 0
+S
+#8444
+Entering onto Westlawn's Property~
+A guard post has been constructed here, passers by must show some form
+of identification or state a suitable purpose to pass.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8442 0
+D2
+~
+~
+0 0 7200 0
+S
+#8445
+The King's Highway~
+The highway comes to a crossroads just to the west, splitting north
+and south.  A sign is posted at the crossroads, unreadable from where
+you currently stand.  Far to the east, the high cliffs of the Dragon's
+Teeth can be seen, towering over the plains.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8443 0
+D3
+~
+~
+0 0 8446 0
+S
+#8446
+Crossing at the King's Highway~
+The highway splits north, south and east heading in various
+directions.  The King's Keep can be seen to the northwest, its proud
+banners flying high from the walls.    
+
+A sign is posted here.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8447 0
+D1
+~
+~
+0 0 8445 0
+D2
+~
+~
+0 0 8458 0
+E
+sign~
+East-
+The Fortress of Baron Westlawn and Land's End Keep
+
+North-
+The King's Keep, The lands of Barons Landestine, Villspah, Argine,
+Hersing and Darwin
+
+South-
+The lands of Barons Gillespie and Cailveh
+~
+S
+#8447
+The King's Highway~
+The gates to the King's Castle lies to the west, an open drawbridge
+allowing access over a wide moat.  The road runs north and south
+through beautiful farmlands rich with color and harvest.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8448 0
+D2
+~
+~
+0 0 8446 0
+D3
+~
+~
+0 0 8482 0
+S
+#8448
+The King's Highway~
+The open gates to the King's Castle lie just to the south, a lowered
+drawbridge allowing entry to any who wish to visit the castle.  To the
+north is a junction in the road, a small sign posted alongside the
+road.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8449 0
+D2
+~
+~
+0 0 8447 0
+S
+#8449
+A Junction in the King's Highway~
+The highway makes a split to west, heading off further into the
+fertile fields which seem to go on forever.  The north-south travel of
+the highway also continues for some distance.    
+
+There is a sign posted alongside the road.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8450 0
+D2
+~
+~
+0 0 8448 0
+D3
+~
+~
+0 0 8465 0
+E
+sign~
+North -
+Barons Villspah and Landestine
+
+South -
+Barons Gillespie, Cailveh and Westlawn.
+Land's End Keep
+
+West -
+Barons Argine, Darwin and Hersing
+~
+S
+#8450
+The King's Highway~
+The highway runs north into the farmlands of the area for some
+distance before getting cut off by a huge forest which encircles the
+entire plains area in which you stand.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8451 0
+D2
+~
+~
+0 0 8449 0
+S
+#8451
+The King's Highway~
+The highway runs north into the farmlands of the area for some
+distance before getting cut off by a huge forest which encircles the
+entire plains area in which you stand.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8452 0
+D2
+~
+~
+0 0 8450 0
+S
+#8452
+The King's Highway~
+The highway runs north into the farmlands of the area for some
+distance before getting cut off by a huge forest which encircles the
+entire plains area in which you stand.  Just to the north is a
+crossroads and a sign.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8453 0
+D2
+~
+~
+0 0 8451 0
+S
+#8453
+A Junction in the King's Highway~
+The highway splits, heading off onto private estates in both
+directions.  To the north is the ever-present forest which surrounds
+this plains area on all sides execpt the east, where the Dragon's
+Teeth loom.  To the south is the long road back toward the King's
+Castle.    
+
+A sign has been posted at the crossroads.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8454 0
+D1
+~
+~
+0 0 8455 0
+D2
+~
+~
+0 0 8452 0
+E
+sign~
+North -
+The Haven of Baroness Landestine
+
+East -
+The castle-town of Baron Villspah
+
+South -
+The King's Castle
+Barons Westlawn, Gillespie, Cailveh, Argine, Helsing and Darwin
+~
+S
+#8454
+The King's Highway~
+This is the end of the King's Highway, the road no longer being the
+property of the King, but of the Baroness Landestine who owns the land
+north of here.  The way north is open and wide, an inviting direction
+to travel.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 10300 0
+D2
+~
+~
+0 0 8453 0
+S
+#8455
+The King's Highway~
+As the King's Highway makes the turn east toward the land of the Baron
+Villspah, a marked change occurs.  The road to the east becomes much
+more groomed, wider and clear of any potholes or debris.  A junction
+in the highway lies just to the west.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8456 0
+D3
+~
+~
+0 0 8453 0
+S
+#8456
+The King's Highway~
+The King's Highway just to the east at a large wooden gateway which
+restricts travel any further east.  It looks like a toll-gate of some
+sort where you would have to pay in order to pass.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8457 0
+D3
+~
+~
+0 0 8455 0
+S
+#8457
+Toll Gate~
+Villspah's lands lie just past this gateway - wide, luxurious fields
+of exotic crops which only Villspah can afford to grow.  To the west,
+the way is open and clear leading toward the crossroads.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 9300 0
+D3
+~
+~
+0 0 8456 0
+S
+#8458
+The King's Highway~
+The highway cuts through the center between two of local barons'
+holdings The difference between the two fields on the east and west
+sides is astonishing.  The crops to the east are raggety and ill-kept
+- those to the west are fertile and full.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8446 0
+D2
+~
+~
+0 0 8459 0
+S
+#8459
+The King's Highway~
+The highway runs north and south through the tall fields full of
+harvest.  From the look of it, farming is the main way of life in this
+section of the world, as all crops seem to be plentiful and
+well-tended.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8458 0
+D2
+~
+~
+0 0 8460 0
+S
+#8460
+The King's Highway~
+The expanse of the fields are only daunted by the distant forest line
+of trees which surround this open area on every side except to the
+east, where the heights of the Teeth rise.  To the south a ways is a
+crossing in the roads, the way north is clear and open for quite some
+distance.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8459 0
+D2
+~
+~
+0 0 8461 0
+S
+#8461
+The King's Highway~
+Just to the south is a junction in the highway where the roads splits
+itself in two, one way heading east and the other heading west.  To
+the north, the highway runs open and clear for quite some distance.  
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8460 0
+D2
+~
+~
+0 0 8462 0
+S
+#8462
+A Split in the Highway~
+The highway makes it split here, heading east and west toward private
+residences of the local Barons of this area.    
+
+A sign is posted at the crossing.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8461 0
+D1
+~
+~
+0 0 8463 0
+D3
+~
+~
+0 0 8464 0
+E
+sign~
+East -
+Baron Cailveh
+
+West -
+Baron Gillespie
+
+North -
+The King's Castle
+Land's End Keep
+Barons Westlawn, Villspah, Landestine, Argine, Darwin and Hersing
+~
+S
+#8463
+The King's Highway~
+As the King's Highway enters onto Cailveh's land, a distinct change
+overcomes the way the road is in appearance and function.  Every
+little bit of roadway - though made of dirt - looks to have been
+almost swept clean, the brush and tangle common at roadsides all but
+gone.  To the south is a wooden guard gate.    
+~
+84 0 0 0 0 10
+D2
+~
+~
+0 0 12600 0
+D3
+~
+~
+0 0 8462 0
+S
+#8464
+The King's Highway~
+You now tread upon the land of Baron Gillespie, the most notorious of
+all the Barons for his wicked ways in dealing with trespassers and
+vagabonds.  Tread lightly if you wish to stay alive in this region of
+the plains.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8462 0
+D2
+~
+~
+0 0 13200 0
+S
+#8465
+The King's Highway~
+As you make your way around the glorious edifice that is the King's
+Castle, you realize that there does not appear to be anyone in
+attendance to the king and if there is, then they are very few in
+number.  Very odd for a king not to be paid regular visits by his
+subjects.  The highway comes to a north-south juction to the east and
+runs due west for quite some distance, the northern drawbridge down
+and inviting.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8449 0
+D3
+~
+~
+0 0 8466 0
+S
+#8466
+North Entrance to the King's Castle~
+Entrance into the castle itself lies to the south.  The highway runs
+west for a very long distance and east to a junction.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8465 0
+D2
+~
+~
+0 0 8483 0
+D3
+~
+~
+0 0 8467 0
+S
+#8467
+The King's Highway~
+You stand amidst fields of flowing grain to the north, tall stalks of
+corn to the south.  The highway runs straight through the fields,
+cutting an open swath through toward another Baron's lands.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8466 0
+D3
+~
+~
+0 0 8468 0
+S
+#8468
+The King's Highway~
+You stand amidst fields of flowing grain to the north, tall stalks of
+corn to the south.  The highway runs straight through the fields,
+cutting an open swath through toward another Baron's lands.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8467 0
+D3
+~
+~
+0 0 8469 0
+S
+#8469
+The King's Highway~
+The road runs east and west for a very long distance in both
+directions without end.  The fields to the north and south seem as
+boundless as the sea, the stalks of corn so high that after a
+distance, you cannot see over them any longer.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8468 0
+D3
+~
+~
+0 0 8470 0
+S
+#8470
+The King's Highway~
+A crossroads lies far to the west, this part of the highway meeting
+another which criss-crosses directly in its path.  To the east is the
+long highway with runs without cessation for quite some distance.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8469 0
+D3
+~
+~
+0 0 8471 0
+S
+#8471
+The King's Highway~
+The road seems much more traveled at this area, even more so than near
+the King's Castle.  A crossroads lies just to the west, a sign posted
+there.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8470 0
+D3
+~
+~
+0 0 8472 0
+S
+#8472
+Crossroads on the King's Highway~
+In all directions but east lay the private holdings of some of the
+various Barons of the realm.  To the east lay the long stretch of the
+highway which leads past the King's Castle.    
+
+A sign is posted here.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8478 0
+D1
+~
+~
+0 0 8471 0
+D2
+~
+~
+0 0 8473 0
+D3
+~
+~
+0 0 8477 0
+E
+sign~
+North -
+Baron Argine
+
+South - 
+Baron Darwin and the way into the Kailaani Forest
+
+West -
+Baron Hersing
+
+East -
+The King's Castle
+Land's End Keep
+Barons Landestine, Villspah, Westlawn, Gillespie and Cailveh
+~
+S
+#8473
+The King's Highway~
+The highway makes yet another split, heading south into Darwin's
+private holdings, west toward the Kailaani forest and north back along
+the highway to the crossroads.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8472 0
+D2
+~
+~
+0 0 8481 0
+D3
+~
+~
+0 0 8474 0
+S
+#8474
+The King's Highway~
+The highway begins its journey toward its ending, heading west into
+the dark Kailaani Forest.  The highway, once it enters into the
+forest's edge is no longer under protection of the King's Guard, who
+know much better than to try and make the mistake of attempting to
+take control of that diabolical place.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8473 0
+D3
+~
+~
+0 0 8475 0
+S
+#8475
+The King's Highway~
+The edge of the forest lies just to the west, the trees thick and
+menacing, even in the light of day.  To the east spreads the broad
+expanse that is the Barons' Plains where they war and live, each in
+their own way.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8474 0
+D3
+~
+~
+0 0 8476 0
+S
+#8476
+The Border of the Kailaani Forest~
+The forest lies one step to the west.  Many say that once entered, the
+Kailaani will not let a person get away.  The King's Guard, the
+Barons, even the common folk stay clear of the forest which some say
+is haunted, others say is the den of thieves, and others yet say is
+the home to a band of highly trained killers who call themselves
+Kailaani after the forest they inhabit.  The way east leads back into
+the fields of the Barons.  North and south, the forest line runs into
+the horizon.    
+~
+84 0 0 0 0 10
+D1
+~
+~
+0 0 8475 0
+D3
+~
+~
+0 0 16452 0
+S
+#8477
+The King's Highway~
+Baron Helsing is known to be a particularly odd sort of chap, one who
+spends much of his time in the woods, rather than in court.  He is,
+however, the second most wealthy of the Barons, and as such many of
+the local nobles flock to his enormous mansion in order to curry
+favour.  His mansion lies just off to the north.
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 12100 0
+D1
+~
+~
+0 0 8472 0
+S
+#8478
+The King's Highway~
+Immediately upon entering onto the northern path toward Argine's
+Tower, the highway loses much of its cared-for look and begins to
+degrade into disuse and unkept roadways . Argine does not appear to be
+the host with the most, or even close to it.  To the south is the
+crossroads and the way back to the civilized world.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8479 0
+D2
+~
+~
+0 0 8472 0
+S
+#8479
+The King's Highway~
+The highway gets worse and worse the farther north that is traveled,
+the crops on either side of the road becoming a bit more ill and
+forsaken-looking with every step.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8480 0
+D2
+~
+~
+0 0 8478 0
+S
+#8480
+The King's Highway~
+Just to the north is a dark gateway which blocks progress into
+Argine's land.  No guards are posted, nor are there any signs of life
+recently.  The place almost appears abandoned.    
+~
+84 0 0 0 0 10
+D2
+~
+~
+0 0 8479 0
+S
+#8481
+The King's Highway~
+An archway over the road lies to the south, a gate built into that
+archway where men can be seen lounging.  The way into the realm of
+Darwin lay south, all else lies north.    
+~
+84 0 0 0 0 10
+D0
+~
+~
+0 0 8473 0
+D2
+~
+~
+0 0 7500 0
+S
+#8482
+Eastern Drawbridge~
+Entrance into the castle lies to the west, the porticullis raised and
+wide open.  To the east is the King's Highway which runs alongside the
+castle.    
+~
+84 4 0 0 0 10
+D1
+~
+~
+0 0 8447 0
+D3
+~
+~
+0 0 8484 0
+S
+#8483
+Northern Drawbridge~
+The way into the castle's interior lies to the south under an open
+portcullis.  To the north is the King's Highway which runs alongside
+the castle.    
+~
+84 4 0 0 0 10
+D0
+~
+~
+0 0 8466 0
+D2
+~
+~
+0 0 8484 0
+S
+#8484
+Receiving Hall~
+The walls of this place are all done in ornate paintings, the ceiling
+of carved stone which is of the finest make.  To the north and east
+are the entryways into the castle, to the south is the State Room and
+west lies a large feasting hall.  A curved stone hallway leads up into
+the second story of the castle.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8483 0
+D1
+~
+~
+0 0 8482 0
+D2
+~
+~
+0 0 8497 0
+D3
+~
+~
+0 0 8485 0
+D4
+~
+~
+0 0 8486 0
+S
+#8485
+Feasting Hall~
+A wide table sprawls through the center of the room, one large enough
+to hold more than twenty guests with the King at the Head of the
+table.  The Receiving Hall lies to the east.    
+~
+84 8 0 0 0 0
+D1
+~
+~
+0 0 8484 0
+S
+#8486
+Royal Hallway~
+Plush carpeting covers the floors of this wide hallway.  Rooms lie on
+either side of the hall, the hall runs north and south.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8487 0
+D2
+~
+~
+0 0 8494 0
+D5
+~
+~
+0 0 8484 0
+S
+#8487
+Royal Hallway~
+Plush carpeting covers the floors of this wide hallway.  Rooms lie on
+either side of the hall, the hall runs west and south.    
+~
+84 8 0 0 0 0
+D2
+~
+~
+0 0 8486 0
+D3
+~
+~
+0 0 8488 0
+S
+#8488
+Royal Hallway~
+Plush carpeting covers the floors of this wide hallway.  Rooms lie on
+either side of the hall, the hall runs west and east.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8493 0
+D1
+~
+~
+0 0 8487 0
+D2
+~
+~
+0 0 8492 0
+D3
+~
+~
+0 0 8489 0
+S
+#8489
+Royal Hallway~
+Plush carpeting covers the floors of this wide hallway, which ends at
+this point.  Rooms lie on either side of the hall, the hall runs east.
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8490 0
+D1
+~
+~
+0 0 8488 0
+D2
+~
+~
+0 0 8491 0
+S
+#8490
+Guest Suite~
+This enormously large suite is the hosting room for any of the King's
+many guests who stay at the castle on visits for business.    
+~
+84 8 0 0 0 0
+D2
+~
+~
+0 0 8489 0
+S
+#8491
+Guest Suite~
+This enormously large suite is the hosting room for any of the King's
+many guests who stay at the castle on visits for business.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8489 0
+S
+#8492
+Guest Suite~
+This enormously large suite is the hosting room for any of the King's
+many guests who stay at the castle on visits for business.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8488 0
+S
+#8493
+Guest Suite~
+This enormously large suite is the hosting room for any of the King's
+many guests who stay at the castle on visits for business.    
+~
+84 8 0 0 0 0
+D2
+~
+~
+0 0 8488 0
+S
+#8494
+Royal Hallway~
+Plush carpeting covers the entire flooring of this hallway which ends
+here, only allowing access back through to the north.  Rooms lies to
+the east and south.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8486 0
+D1
+~
+~
+0 0 8495 0
+D2
+~
+~
+0 0 8496 0
+S
+#8495
+The Royal Bedroom~
+These are the King's personal chambers where not even the maids are
+allowed to go.  When the King is in power, this is his only room which
+is considered off limits to every visitor and employee of the castle.
+~
+84 8 0 0 0 0
+D3
+~
+~
+0 0 8494 0
+S
+#8496
+The Royal Study~
+The King does all of the administrative work of the Realm in this room
+at this desk.  Though not a particularly large or impressive room, it
+holds for most foreigners to the castle a sense of power and majesty.
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8494 0
+S
+#8497
+State Room~
+A tall, plush chair upholstered in velvet sits upon a raised dias at
+the southern end of the room.  Chairs line the east and west walls for
+those who wish to have audience with the King but must wait their
+time.    
+~
+84 8 0 0 0 0
+D0
+~
+~
+0 0 8484 0
+S
+$~

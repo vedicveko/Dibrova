@@ -1,0 +1,304 @@
+#4500
+night witch~
+the Night Witch~
+The Night Witch is here, about to cast a spell upon you!
+~
+The Night Witch is an old wizened lady.  Once she was beautiful and
+lovely, taking the life forces of young maidens to bolster her own.  
+Lords and Ladies came from far lands to pay tribute to her beauty.  
+She captured King Eduard and fell in love with him.  But being a just
+man, Eduard could not let her kill any more, so in the middle of the
+night, she left and came to live in the darkness of the Darkwood,
+where nobody could see that she was not beautiful anymore.    
+~
+174602 0 0 0 336 0 0 0 -500 E
+40 21 -20 1d40+2525 4d5+26
+500 62713
+8 8 2
+BareHandAttack: 15
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 5
+Luck: 12
+Class: 1
+Race: 14
+E
+#4501
+prince demon~
+the Demon Prince~
+The Demon Prince is here!
+~
+This being of ultimate evil was summoned many years ago by Thomas Grey
+and King Roland in an effort to gain power over the barons.  He is
+back now, raising the old, wild magic and making the moon blue with
+it.    
+~
+2058 0 0 0 336 0 0 0 -700 E
+45 25 -24 1d45+3000 4d5+30
+625 84683
+8 8 1
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 17
+Luck: 12
+Class: 9
+Race: 41
+E
+#4502
+demon small~
+a small Demon~
+A small demon leaps forth!
+~
+This demon is small in stature, but do not underestimate his strength
+and determination.  Spawned from evil, he draws his strength from the
+death and destruction of adversaries.    
+~
+72 0 0 0 0 0 0 0 0 E
+20 8 20 1d20+1000 2d3+10
+0 9735
+8 8 1
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 14
+Luck: 12
+Race: 41
+E
+#4503
+demon~
+a Demon~
+A demon is here, drooling at you.
+~
+This demon appears to be slightly unstable.  Drooling and looking
+about the room in a wild manner, it seems to be itching for a fight.
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 0
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 13
+Luck: 12
+Race: 41
+E
+#4504
+demon wild~
+a wild Demon~
+A wild demon prances about here!
+~
+Barely restrained energy bursts forth from this demon, making him
+dizzying to watch and dangerous to fight.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 22
+Luck: 12
+Race: 41
+E
+#4505
+demon insane~
+an insane Demon~
+An insane demon cackles here!
+~
+This demon looks pretty crazy, best not make it mad!
+~
+4168 0 0 0 0 0 0 0 -900 E
+35 17 -20 1d35+2400 3d6+17
+1300 40559
+8 8 0
+BareHandAttack: 10
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 12
+Luck: 12
+Race: 41
+E
+#4506
+demon giant~
+a giant Demon~
+A giant demon stomps about here!
+~
+Pure evil seeps from this demon.  His size alone scares many who
+approach him, and his strength makes his able to subdue his enemies
+with a quickness that is awesome.    
+~
+72 0 0 0 0 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+20
+0 57012
+8 8 1
+BareHandAttack: 6
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 14
+Luck: 12
+Class: 4
+Race: 41
+E
+#4507
+demon major~
+a major Demon~
+A major demon is here, grinning.
+~
+Black holes instead of eyes, this demon grins maliciously at all who
+approach.    
+~
+72 0 0 0 0 0 0 0 -1000 E
+43 23 -24 1d43+2800 4d5+21
+0 68558
+8 8 0
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 21
+Luck: 12
+Class: 1
+Race: 41
+E
+#4508
+demondog guardian~
+a guardian Demondog~
+A guardian demondog stands here.
+~
+A cross between a demon and a dog, this beast has inherited the most
+dangerous aspects of both its parents.  It watches anyone who
+approaches with a careful eye, and does not hesitate to attack.    
+~
+528456 0 0 0 0 0 0 0 -500 E
+45 25 -24 1d45+3000 4d5+22
+0 76985
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Race: 41
+E
+#4509
+a guardsman~
+a Guardsman~
+A guardsman is here.
+~
+This guardsman is one of the fifty assigned to escort Prince Rupert in
+his mission to reach the High Warlock.    
+~
+74 0 0 0 0 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Class: 4
+Race: 14
+E
+#4510
+rupert prince~
+Prince Rupert~
+Prince Rupert is here, leading his men.
+~
+Prince Rupert is the youngest son of King Roland.  Brave of heart and
+knowing his duty, he is the most courageous member of the Royal
+family.  Unfortunately, as a second son, he is completely expendable.
+~
+16458 0 0 0 65536 4194304 0 0 600 E
+45 25 -24 1d45+3000 4d5+30
+625 76985
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 22
+Luck: 12
+Race: 14
+E
+#4511
+champion sir~
+the Champion~
+The Champion is here, ready to kill.
+~
+The champion is a man devoted to the King.  Huge, impassively faced,
+fully clad in armor, he stares at you with death in his eyes.  
+Knowing Rupert is only a second son has made him treat Rupert knowing
+that he may one day have to kill him.  However during his time in the
+Darkwood with Rupert, he is realizing that Rupert is a much better man
+than his brother, Prince Harald.    
+~
+530506 0 0 0 80 0 0 0 0 E
+46 26 -24 1d46+3500 5d5+30
+650 81423
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Class: 6
+Race: 14
+E
+#4512
+unicorn~
+the Unicorn~
+A unicorn stands here, talking nervously to itself.
+~
+This unicorn is a sarcastic companion of Prince Rupert.  Cowardly most
+of the time, it has nevertheless shown instances of extreme bravery
+and loyalty to Rupert.  His horn has been broken off in an attack by
+demons, and he is scared that he looks like a simple horse now.    
+~
+262154 0 0 0 0 0 0 0 1000 E
+40 21 -20 1d40+2525 4d5+20
+0 57012
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 9
+Luck: 12
+Race: 1
+E
+$

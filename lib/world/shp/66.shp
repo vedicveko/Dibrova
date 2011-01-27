@@ -1,0 +1,289 @@
+CircleMUD v3.0 Shop File~
+#6611~
+6308
+-1
+1.20
+0.20
+-1
+%s I don't sell any of those!~
+%s Nothing is refundable, have a nice day.~
+%s Nothing is refundable, have a nice day.~
+%s Nothing is refundable, have a nice day.~
+%s Go buy something you can afford.~
+%s That comes to %d coins. Now get lost! Heheh.~
+%s I don't buy.~
+2
+2
+6623
+0
+6381
+-1
+0
+28
+0
+0
+#6612~
+6309
+6324
+6327
+-1
+1.20
+0.10
+2
+3
+4
+-1
+%s I offer no such thing! Try list.~
+%s You lack the item in question.~
+%s I buy the tools of magicians only.~
+%s The price of this is beyond my means.~
+%s You can't afford to purchase this!~
+%s %d coins, thank you.~
+%s You'll have %d coins for that.~
+2
+2
+6630
+0
+6612
+-1
+0
+28
+0
+0
+#6621~
+6621
+6620
+6619
+6618
+6617
+6616
+6615
+-1
+1.20
+0.20
+-1
+%s I never palmed that thing, try list.~
+%s That seems to be absent from your belongings.~
+%s I don't buy, I accept charity. Fork it over!~
+%s How about if I just steal it instead?~
+%s You beggar! You can't afford that.~
+%s Here ye go, pal. That'll be %d coins.~
+%s I don't buy.~
+2
+1
+6621
+1
+6621
+-1
+0
+28
+0
+0
+#6642~
+6675
+6676
+6677
+6678
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+6648
+1053720
+6642
+-1
+0
+28
+0
+0
+#6646~
+6642
+6641
+6640
+6639
+-1
+1.20
+0.20
+5
+-1
+%s I do not forge that weapon, try list.~
+%s You seem fresh out of those.~
+%s My art is purely offensive. Try somewhere else.~
+%s Ah! I haven't seen the like of that in years! I cannot afford it.~
+%s You haven't the means to pay for this.~
+%s A fine selection for %d coins.~
+%s Here you are, %d coins. Now be off.~
+2
+2
+6633
+0
+6646
+-1
+0
+28
+0
+0
+#6647~
+6667
+6666
+6665
+6664
+6663
+-1
+1.20
+0.20
+9
+-1
+%s I don't carry that.~
+%s Hm. Smoke another one and check your inventory.~
+%s I'm not interested in such things.~
+%s The price for that is outrageous! Away with you.~
+%s That seems to be out of your price range.~
+%s That comes to %d coins. Enjoy.~
+%s I'll give you %d coins for that.~
+2
+2
+6632
+0
+6647
+-1
+0
+28
+0
+0
+#6648~
+6629
+6628
+6627
+6622
+-1
+1.20
+0.40
+-1
+%s You'll have to make that yourself, never heard of it.~
+%s You don't seem to have one.~
+%s Be on your way loafer, I don't buy.~
+%s Not for those prices.~
+%s You can't afford my hearty drink and meals!~
+%s A solid %d coins down on the bar, friend.~
+%s I don't buy.~
+2
+2
+6620
+0
+6648
+-1
+0
+28
+0
+0
+#6650~
+6633
+6317
+-1
+1.20
+0.50
+-1
+%s None of those here! Try list.~
+%s I don't buy!~
+%s I'd rather eat half-cooked chihuahua for a month than buy that.~
+%s I don't buy.~
+%s You cannot afford this.~
+%s The bill is %d coins.~
+%s I don't buy.~
+2
+2
+6631
+0
+6650
+-1
+0
+28
+0
+0
+#6653~
+6632
+6631
+6630
+-1
+1.20
+0.20
+-1
+%s Yo! Um, we don't sell that.~
+%s We don't buy, and you have none. I see a problem there.~
+%s I don't want for anything. Be on your way, peddler.~
+%s Not buying none, nope.~
+%s You haven't enough gold for it.~
+%s That'll be %d coins.~
+%s I'm not interested.~
+2
+2
+6628
+0
+6653
+-1
+0
+28
+0
+0
+#6654~
+6328
+-1
+1.50
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+3
+6625
+0
+6654
+-1
+0
+28
+0
+0
+#6681~
+6308
+6322
+6323
+1090
+6214
+4474
+-1
+1.50
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+6629
+0
+6611
+-1
+0
+28
+0
+0
+$~

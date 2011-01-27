@@ -1,0 +1,648 @@
+#200
+Entrance~
+   You stand before Saint Murphy's Church.  Looking up, you can see the grand
+outer arc of the steeple.  In the steeple is a large bell.  You find it odd
+that there are no guards or lookouts posted before such an obviously expensive
+and grand palacial temple.  But then, you must admit that you feel a bit
+peaceful, anyway.  Almost as if all the day's worries and cares have evaporated
+and left you cleansed, ready for anything.    
+~
+2 32768 0
+D1
+You see a set of mamouth double doors.
+~
+door double mamouth~
+0 0 202
+D3
+You see a narrow, stone-covered path.
+~
+~
+0 0 201
+S
+#201
+Rock Covered Path~
+   This narrow path is covered with small stones and lined with large stones
+which were obviously chosen with care.  Each stone is the exact same size,
+shape and color.  Far to the west you see a dense forest, beyond which lies the
+volcano that created this island.  The path continues east to the grand
+entranceway to Saint Murphy's Temple.
+~
+2 32768 1
+D0
+~
+~
+0 0 224
+D1
+You see the grand arched foyer of St. Murphy's tower.
+~
+~
+0 0 200
+D2
+~
+~
+0 0 220
+S
+#202
+Main Room~
+   You stand under the grand steeple of Saint Murphy's temple.  Far above, you
+see a dulled bell.  You can see a hallway lined with torches to the east while
+two iron, sspiral staircase touch the ground to the north and south.    
+~
+2 32776 0
+D0
+You see the base of a large, iron spiral staircase
+~
+~
+0 0 205
+D1
+~
+~
+0 0 203
+D2
+~
+~
+0 0 206
+D3
+You see a set of mamouth double doors.
+~
+door double mamouth~
+1 0 200
+E
+bell~
+   The bell is very large.  You see a sturdy rope attached to its brace that
+reaches the floor.  Pulling the rope would ring the bell.    
+~
+S
+#203
+Torch-Lit Hallway~
+   This hallway is dimly lit by the fickering torches which line the wall.  
+Your footsteps echo from the polished marble floor.  Nondescript doors are
+notched in the stones of the north and south walls.  You can see a large, oak
+altar off to the east.    
+~
+2 32776 0
+D0
+~
+door~
+1 0 217
+D1
+~
+~
+0 0 204
+D2
+~
+door~
+1 0 218
+D3
+~
+~
+0 0 202
+S
+#204
+Oratory~
+   Empty pews surround you as you enter this place of worship.  You try to
+remember your history but you can't, for the life of you, remember exactly what
+this temple represents.  In children's stories you've heard wonderful tales of
+Saint Murphy's adventures.  She, as a mortal, tamed Oryhip, the Dark Lord
+protector, to allow the crusading mortals to defeat the powers of iK.  You
+wonder how those stories for children represent the truth.  A set of marble
+stairs leads up to the balcony where one can overlook the temple and the
+services being performed there.    
+~
+2 32776 0
+D1
+~
+~
+0 0 219
+D3
+You see more torches dimly lighting this hallway.  There are giant doors far to
+the west.    
+~
+~
+0 0 203
+D4
+~
+~
+0 0 213
+S
+#205
+Bottom of Spiraling Staircase~
+   An narrow, iron spiral staircase looks to be both practical and decorative.
+The railing is embossed with figures of angels.  The main room is to the south.
+~
+2 32776 0
+D2
+~
+~
+0 0 202
+D4
+~
+~
+0 0 211
+S
+#206
+Bottom of Spiraling Staircase~
+   An narrow, iron spiral staircase looks to be both practical and decorative.
+The railing is embossed with figures of angels.  The main room is to the north.
+~
+2 32776 0
+D0
+~
+~
+0 0 202
+D4
+~
+~
+0 0 207
+S
+#207
+Top of Spiral Staircase~
+   You've reached the top of the stairs, finding yourself in a beautiful,
+clean, white marble hallway.  You hear the sound of soft music from somewhere,
+but you can't tell where it comes from.  The hallway runs to the east, the
+stairs back down into the temple.    
+~
+2 32776 0
+D1
+~
+~
+0 0 208
+D5
+~
+~
+0 0 206
+S
+#208
+Southern Landing~
+   The hallway heads north into a junction with another hallway heading east.
+To the west is a short bit of hallway leading to the spiral staircase which
+allows entrance into the main part of the temple.  The soft light and music all
+around you is very soothing, very soothing indeed.    
+~
+2 32776 0
+D0
+~
+~
+0 0 209
+D3
+~
+~
+0 0 207
+S
+#209
+Upper Hallway~
+   The hallway opens up into a wide meeting of hallways.  You may go north or
+south toward the spiral staircases or east out onto a balcony.  You can still
+hear the faint music coming from all around you, and although you have been
+moving almost constantly, you feel neither closer nor farther from the music's
+source.    
+~
+2 32776 0
+D0
+~
+~
+0 0 210
+D1
+~
+~
+0 0 212
+D2
+~
+~
+0 0 208
+S
+#210
+Ornate Marble Hallway~
+   The hallway leads west toward a flight of iron spiral stairs, or south to a
+joining of hallways.  The walls seem so spotlessly clean that you have to
+actually touch them to make sure that they are real.  Somewhere in the distance
+you hear soft music being played, or maybe sung - it's hard to tell.    
+~
+2 32776 0
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 211
+S
+#211
+Top of Spiral Staircase~
+   You stand at the top of the spiral stairs which lead down to the main temple
+proper.  An ornate hallway leads east, turning south almost immediately.  The
+walls here are all done in spotless white marble, the floors much the same.  
+The light that filters throught this hallway comes from an unknown source, as
+you see no windows from here.  Not that the light seems menacing at all, it
+even gives you a sort of comfort, it's just a curious phenomenon.    
+~
+2 32776 0
+D1
+~
+~
+0 0 210
+D5
+~
+~
+0 0 205
+S
+#212
+Hallway~
+   The marble hallway heads toward a large balcony that must look down upon the
+temple itself.  To the west the hallway junctures with another hallway, turning
+both north and south.    
+~
+2 0 0
+D1
+~
+~
+0 0 213
+D3
+~
+~
+0 0 209
+S
+#213
+Hallway~
+   The hallway ends just east of you at the blacony.  To the west the hallway
+runs for a short distance, ending at a meeting of halls.  The music continues
+unabated, just out of sight, just out of reach, just far enough away that you
+can't pinpoint the direction from which it comes.  A small staircase leads down
+into the Oratory.    
+~
+2 0 0
+D1
+~
+~
+0 0 214
+D3
+~
+~
+0 0 212
+D5
+~
+~
+0 -1 204
+S
+#214
+Balcony~
+   The balcony looks out and down into the main room of the Temple, where St.
+Murphy gives her benedictions and such.  A marble railing, thick as three of
+your wrists, with fat marble posts encloses the entire balcony at about hip
+height, giving you a safe, comfortable feeling about being so high up over
+another room.  There is a long, low bench up close to the railing where one may
+sit and enjoy the scenery or watch St.  Murphy and her daily miracles.  The
+balcony stretches out to the north and south or you may leave west into a long
+marble hallway.    
+~
+2 0 0
+D0
+~
+~
+0 0 215
+D2
+~
+~
+0 0 216
+D3
+~
+~
+0 0 213
+S
+#215
+Balcony~
+   This is the north end of the balcony, where you must either turn around and
+head south along the balcony or sit down and relax for a while.  Being that
+this temple is so well kept, it is actually very tempting to sit down for a
+bit.    
+~
+2 0 0
+D2
+~
+~
+0 0 214
+S
+#216
+Balcony~
+   The balcony ends here in a graceful curve of the railing.  You must go back
+north along the balcony or sit down on the marble bench here and relax for a
+while.    
+~
+2 0 0
+D0
+~
+~
+0 0 214
+S
+#217
+Saint Murphy's Office~
+   You can't help being impressed by Saint Murphy's exquisite taste in
+furnishings.  Expensive-looking trinkets, no doubt from her crusading days, are
+carefully displayed on delicate glass shelving.  Her desk is tidy and the wood
+is polished to a high shine.  In fact, everything in this room seems to be
+polished including the ceiling while is decorated with cut marble tiles.    
+~
+2 32776 0
+D2
+~
+door~
+1 0 203
+D4
+~
+tile~
+1 0 225
+S
+#218
+Office~
+   You find yourself in a small office.  Although it is tidy, and the simple
+furniture seems to be in good condition, you get the impression it is rarely
+used.  A door is in the north wall.    
+~
+2 32776 0
+D0
+~
+door~
+1 0 203
+S
+#219
+At the Altar~
+   Before you is Saint Murphy's Altar.  Behind it, on the eastern-most wall, is
+a humungous tapestry depicting a battle between an army of humans and a pack of
+wolves.  The Humans' flags stand taller but the wolves seem to be winning the
+fight.  What does this mean?    
+~
+2 32824 0
+D3
+~
+~
+0 0 204
+S
+#220
+Path Surrounding the Temple~
+   This smal path, no less beautiful than it's larger counterpart to the north,
+leads the way around the temple to the back gardens.  You may go east into the
+gardens, or north back in front of the main entrance.    
+~
+2 32768 1
+D0
+~
+~
+0 0 201
+D1
+~
+~
+0 0 227
+S
+#221
+Scenic Lookout~
+   The rocks here have actually given birth to a few small green plants, which
+are currently in bloom with beautiful orange and white flowers.  You can see
+most of the island from here, at least as far as that huge volcano will allow
+you to see.  The volcano dominates your entire field of vision to the
+southwest, all you are able to see is it's sheer cliffs rising toward it's
+mouth.  To the southeast there appears to be some sort of church or temple with
+a huge steeple rising up from it's front wall.  The only way out of here is
+north through the boulders.    
+~
+2 0 2
+D0
+~
+~
+0 0 222
+S
+#222
+An Outcrop of Rock~
+   You stand nestled in between two boulders at the to of the hill you just
+climbed.  You may climb back down to the riverbank or head south between the
+boulders to a vantage point where you can see most of the island.    
+~
+2 0 2
+D2
+~
+~
+0 0 221
+D5
+~
+~
+0 0 223
+S
+#223
+Riverbank~
+   The sandy riverbank ends here at a steep sandy hill which heads up to a
+small outcrop of rock.  To the west is more of the rivernbank where it appears
+a small trail leads south deep into the island.    
+~
+2 0 2
+D0
+~
+~
+0 0 513
+D3
+~
+~
+0 0 230
+D4
+~
+~
+0 0 222
+S
+#224
+A Beautiful Stone Path~
+   As you get deeper and deeper into this island, you begin to realize that it
+is not the uninhabited rock you thought it might be.  The path here looks
+almost manicured, as if someone or thing tended to it regularly.  The path
+itself is made up of brilliant white stones packed neatly along the trees that
+now some almost trimmed.  But this is a forest, isn't it?  Why would anyone
+want to trim the trees?  Southeast of here you can make out a huge white marble
+edifice.  It looks to be some sort of temple, from the steeple which rises high
+into the clouds above the rest of the building.  The path heads west, as well,
+back into the deep forest.    
+~
+2 32768 3
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 226
+S
+#225
+A Secret Stash~
+   This is the craziest thing you've ever seen!  This short cubby leaves barely
+enough room to crawl.  The floor is covered with carefully placed bones.  You
+make out a definate pattern and it seems that...  They spell out the word
+'Woof.'  How odd.
+~
+2 32776 0
+D5
+~
+tile~
+1 0 217
+S
+#226
+A Long Path Deep in the Island~
+   The island forest is very dark here, the trees surrounding the path blocking
+the sun out with their thick branches overhead.  You can here the sounds of
+birds, at least you hope they are just birds, high up in the trees fidgeting
+and hopping around.  Looking up into the trees, you notice a tall white steeple
+rising out of the forest to the east.  To the west the path seems to get a bit
+brighter, leading into more open forest.    
+~
+2 1 3
+D1
+~
+~
+0 0 224
+D3
+~
+~
+0 0 228
+S
+#227
+Around the Back~
+   The trail ends here where it is replaced by the sculptured shrubs of Saint
+Murphy's Gardens.  The gardens continue to the east, all in perfect order, no
+weeds or twigs lying about.  Odd that there is no evidence of a gardener here -
+no tools, no nothing.  To the west is the small perfect trail that leads back
+to the temple's entrance.    
+~
+2 0 1
+D1
+~
+~
+0 0 233
+D3
+~
+~
+0 0 220
+S
+#228
+Near the Base of the Volcano~
+   You are near the base of the volcano, which lies just south of here.  It's
+been dormant since Civilization has been recording history but it's constant
+humming makes your heart beat faster.  A dark path leads east.  There is a
+narrow opening leading in to the volcano to west.    
+~
+2 0 5
+D0
+~
+~
+0 0 229
+D1
+~
+~
+0 0 226
+D2
+~
+~
+0 0 232
+D3
+~
+~
+0 0 231
+S
+#229
+A Sandy Path~
+   You walk a sandy trail which leads deep into the forest island and the
+volcano which seems to dominate your vision no matter which way you turn.  To
+the north is a sandy riverbank where you may enter onto the River Alquandon.  
+~
+2 0 2
+D0
+~
+~
+0 0 230
+D2
+~
+~
+0 0 228
+S
+#230
+Riverbank~
+   What a beautiful island.  Many birds and shellfish carrouse this are where
+the river water licks the sand.  Bits of dead fish cause a flurry of excitement
+nearby, where some crows pound their wings in a race to the treasure.  A small
+trail cuts into the island heading south.    
+~
+2 0 2
+D0
+~
+~
+0 0 514
+D1
+~
+~
+0 0 223
+D2
+~
+~
+0 0 229
+S
+#231
+A Crack~
+   You are wedged in a narrow crack in the base of the volcano.  You hear the
+sounds of life to the east and voilently boiling lava to the west.  The
+blistering heat is scorching your flesh.  To continue west could be a fatal
+mistake.    
+~
+2 321 5
+D1
+~
+~
+0 0 228
+D3
+~
+~
+0 0 234
+S
+#232
+Base Of the Volcano~
+   You stand at the base of the massive volcano which seems to form most of
+this river island.  Looking up toward the top of the volcano, you can't help
+but feel just a bit curious about what might be up there, inside the volcano.
+As things stand now, the sides look way too steep and the rocks much too loose,
+but you never know till you try, right?    
+~
+2 0 5
+D0
+~
+~
+0 0 228
+S
+#233
+The Garden~
+   This beautiful garden brings to mind all the peaceful things you have ever
+known.  You can almost here the sound of music, soft singing which reaches your
+ears as if from a far away distance.  Sitting down and taking in the many
+beautiful scents of this place is all that you could desire at this time in
+your life.  The exit lies to the west, but then, why would you ever want to
+leave?    
+~
+2 0 2
+D3
+~
+~
+0 0 227
+S
+#234
+Inside the Crack~
+   You are in a very cramped, very uncomfortable crack leading through the base
+of the volcano.  The crack continues toward the west, although even with your
+light all you are able to see in that direction is darkness.  Things look a
+great deal more friendly to the east where a trickle of light comes through
+from the outside.    
+~
+2 321 5
+D1
+~
+~
+0 0 231
+D3
+~
+~
+0 0 10401
+S
+$~

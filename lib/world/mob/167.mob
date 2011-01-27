@@ -1,0 +1,491 @@
+#16700
+dorag ironfist~
+Dorag Ironfist~
+Dorag gives you a deep, searching look as you approach.
+~
+Dorag is known for his cunning and ability to sniff out a trap.  He is
+no fool.  Being a burly, middle-aged dwarf, he is more than capable of
+handling himself in battle as well.    
+~
+18570 0 0 0 637599824 4194304 0 0 -750 E
+213 223 -100 1d1+0 49d49+142
+8150 4258667
+8 8 1
+Str: 25
+Dex: 19
+Int: 21
+Con: 25
+Class: 4
+Race: 13
+E
+T 16704
+T 16705
+#16701
+bandit forest rogue~
+a Forest Rogue~
+A bandit fades into view, smirking and grinning as if enjoying a personal joke.
+~
+His hair is wild and unkept, held back by a thin leather strap.  His
+clothes are the color of the forest, making it easy for him to blend
+in with his surroundings.    
+~
+16410 0 0 0 65552 4325376 0 0 -300 E
+164 154 -60 1d1+0 24d25+109
+5600 2082419
+8 8 1
+BareHandAttack: 14
+Class: 3
+Race: 14
+E
+T 16710
+#16702
+highwayman man~
+a Highwayman~
+A ragged, dirty man jumps out from behind a tree intent on robbing you.
+~
+This man obviously lives here, somewhere in the Kailaani among all the
+dirt and scrub where he can hide himself.  This is the exact sort of
+being that perpetuates the myth of the Kailaani and all within.    
+~
+16492 0 0 0 65536 4194304 0 0 -560 E
+89 65 -40 1d1+0 6d7+59
+3200 438188
+8 8 1
+BareHandAttack: 11
+Class: 3
+Race: 14
+E
+#16703
+outlaw thief man~
+an Outlaw Thief~
+A man skulks in the nearby shadows of a tall tree, watching for a chance to rob you.
+~
+Make no mistake, this man will indeed rob you of all you own, possibly
+even of your life.  Best to continue along your way.    
+~
+16492 0 0 0 1638400 4194304 0 0 -871 E
+94 71 -40 1d1+0 6d8+62
+3200 503723
+8 8 1
+BareHandAttack: 11
+Class: 3
+Race: 14
+E
+#16704
+concubine human naked~
+a naked human Female~
+One of Dorag's current picks from the slave pens is here, awaiting Dorag's needs.
+~
+She wears nothing, not a stitch of clothing, and does exactly as she
+is told lest Dorag go into one of his famous fits of rage and decide
+to kill her.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+24 10 4 1d1+0 2d3+16
+0 15497
+8 8 2
+Race: 14
+E
+#16705
+slave girl~
+a young elven Maiden~
+A young, naked elven maiden, no more than eleven years old awaits Dorag's need.
+~
+Dorag like them young, especially the elves, and this one is no
+exception.  She has been his been his favorite now for over a week,
+close to a record for the life of one of Dorag's slaves.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+16 5 36 1d1+0 1d3+10
+0 5510
+8 8 2
+Race: 15
+E
+#16706
+cage dancer woman~
+a Cage Dancer~
+A badly beaten woman dances wearily, what is left of her clothes barely covering her body.
+~
+She moves with no rythym at all, almost unconcious on her feet as her
+only function left in this world is to dance for the sick pleasure of
+Dorag.  She does not even seem to know you are standing beside her.  
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+19 7 24 1d1+0 1d3+12
+0 8541
+8 8 2
+Race: 14
+E
+#16707
+cage dancer woman~
+a Cage Dancer~
+A naked woman holds herself up with the bars of the cage, trying to form a rythym.
+~
+She is quite obviously too weary to do anything at all that would
+resemble dancing, however she knows that if she stops for any length
+of time, Dorag will have her raped and executed in the Courtyard
+below.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+14 4 44 1d1+0 1d2+9
+0 3920
+8 8 2
+Race: 14
+E
+#16708
+cage dancer elven woman~
+a Cage Dancer~
+An elven woman dances in time with the banging below, eyes closed.
+~
+A single streak of tears run down her left cheek, leaking from a
+crying eye that won't stop.  She keeps her eyes tightly shut, as if
+not seeing where she is might make it all go away.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+22 9 12 1d1+0 1d4+14
+0 12413
+8 8 2
+Race: 14
+E
+#16709
+henchman man dorag's~
+one of Dorag's Henchmen~
+One of Dorag's henchman walks the compound, on guard for intruders.
+~
+He is a grubby man, one of many which are part of Dorag's band of men.
+With no other place to go, he is completely loyal to Dorag.    
+~
+20584 0 0 0 65552 4194304 0 0 -450 E
+96 73 -40 1d1+0 6d8+64
+3200 531505
+8 8 1
+Race: 13
+E
+T 16707
+T 16708
+#16710
+bandit female valkyrie~
+a Valkyrie Bandit~
+A valkyrie bandit lounges against the wall, sipping at a mug.
+~
+She has unkempt, greasy hair which hangs all about her face and
+shoulders in disarray.  She has angry, swollen eyes with a demeanor
+that suggests you move on your way lest she get ornery.    
+~
+16394 0 0 0 42008576 4194304 0 0 -751 E
+103 80 -40 1d1+0 10d10+68
+3200 635991
+8 8 2
+BareHandAttack: 14
+Class: 4
+Race: 23
+E
+#16711
+servant scrawny pale~
+a scrawny Servant~
+A pale, scrawny servant trundles about the compound, serving Dorag and his men.
+~
+The man has obviously been beaten and bruised countless times, his
+pale face a mass of scars and welts from past beatings.    
+~
+16460 0 0 0 65536 4194304 0 0 0 E
+31 15 -20 1d1+0 3d4+20
+0 29763
+8 8 1
+Race: 14
+E
+#16712
+gateman guard giant burly mean~
+a big, burly, ugly Giant~
+A very large, mean-looking giant stands guard at the door.
+~
+He is easily as tall as two humans, grubby and looking as if a fight
+might be exactky what he is looking for.  You probably don't want to
+piss this guy off.    
+~
+96282 0 0 0 33619968 71303168 0 0 -750 E
+225 241 -100 1d1+0 50d51+150
+8750 4500000
+8 8 1
+BareHandAttack: 9
+Str: 25
+Class: 4
+Race: 10
+E
+T 16701
+#16713
+guardsman man giant mean brute~
+a mean brute of a Giant~
+A big mean brute of a giant stands guard, keeping all trespassers out.
+~
+He flashes you a cold, gape-toothed grin that says, 'Try me'.
+~
+96266 0 0 0 33619968 71434240 0 0 -750 E
+227 244 -100 1d1+0 51d51+151
+8850 4500000
+8 8 1
+BareHandAttack: 9
+Class: 4
+Race: 14
+E
+T 16700
+#16714
+elf short squint eyes~
+a short Elf~
+A short, squint-eyed elf stands here.
+~
+Almost comical in appearance, this little fellow has a way about him
+that brooks no bullshit.  You want to mess with him?  Go ahead...    
+~
+16456 0 0 0 570490880 4194304 0 0 -500 E
+109 87 -40 1d1+0 11d12+72
+3350 734774
+8 8 1
+Race: 15
+E
+#16715
+wolfen scarred battle~
+a battle-scarred Wolfen~
+A battle-scarred wolfen prowls the fortress, eyes alert for any trouble.
+~
+This wolfen is none other than Apex the Deadsman - the man who
+single-handedly slew an entire eldar village, killing all the men and
+children and then raping the women before killing them as well.  He is
+known as the most brutal wolfen that walks Dibrova, a foul, wretched
+creature of fathomless evil.    
+He is also Dorag's second in command.
+~
+84090 0 0 0 34144256 0 0 0 -1000 E
+213 223 -100 1d1+0 49d49+142
+8150 4055874
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Class: 4
+Race: 21
+E
+T 16702
+T 16703
+#16716
+grubby gape-toothed ogre~
+a grubby, gape-toothed Ogre~
+A grubby, gape-toothed ogre grins at you, as if anticipating your intentions.
+~
+He stands there with a not-so-bright look on his face, grinning every
+now and then through a mouth of missing teeth.    
+~
+20552 0 0 0 65536 4194304 0 0 -900 E
+114 93 -40 1d1+0 12d13+76
+3500 823803
+8 8 1
+BareHandAttack: 6
+Race: 19
+E
+T 16709
+#16717
+gaunt eldar top advisor~
+a gaunt Elder~
+A gaunt eldar leans upon a cane of ivory, looking intently at you.
+~
+This emaciated eldar that looks like nothing but skin and bones is
+actually Dorag's main advisor, the one who fortells failure or success
+in all Dorag's endeavors.  Although most of the men of Dorag's band do
+not trust this man, they do respect him for they know if it were not
+for him, Dorag would not be half the man he is today.    
+~
+24648 0 0 0 65856 4194304 0 0 -800 E
+96 73 -40 1d1+0 6d8+64
+3200 584655
+8 8 1
+BareHandAttack: 15
+Class: 1
+Race: 20
+E
+#16718
+little kender~
+a little Kender~
+A little kender walks the compound, sloppy drunk.
+~
+He grins slurringly at you and half-wobbles on his little feet, eyeing
+your possessions as well, of course.    
+~
+16456 0 0 0 65536 4194304 0 0 -200 E
+87 63 -40 1d1+0 6d7+58
+3200 413514
+8 8 1
+Race: 18
+E
+#16719
+quiet human ranger~
+a quiet human Ranger~
+A ranger stands here quietly watching around him, sipping from a mug of water.
+~
+He gives you a nod, as if knowing who you are and what your intent is,
+but he does not make any move toward you.    
+~
+540744 0 0 0 570490880 4194304 0 0 -100 E
+103 80 -40 1d1+0 10d10+68
+3200 635991
+8 8 1
+Class: 5
+Race: 14
+E
+#16720
+wild eyed berserker~
+a wild-eyed Berserker~
+One of Dorag's many berserkers drinks heavily from a tankard.
+~
+He gives a gaping grin, moving toward you in anticipation of a
+potential butchering.    
+~
+22616 0 0 0 65536 71303168 0 0 -750 E
+102 79 -40 1d1+0 9d10+68
+3200 620364
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 13
+E
+#16721
+stoned wolfen~
+a moderately stoned Wolfen~
+A wolfen with bloodshot eyes stands in the center of everything, looking very content.
+~
+He watches everything around him in a very vague, detached way.  From
+all appearances , he has no interest at all in what goes on around
+him.    
+~
+16394 0 0 0 65536 4194304 0 0 -300 E
+88 64 -40 1d1+0 6d7+58
+3200 425742
+8 8 1
+BareHandAttack: 8
+Race: 21
+E
+#16722
+drunk ogre~
+a drunk Ogre~
+A completely drunk ogre stumbles about, clapping everyone he sees on the shoulder.
+~
+His foul breath can be smelt even from here, he leans in close to all
+his comrades, clapping them on the shoulder with a wide grin.    
+~
+16456 0 0 0 65536 4194304 0 0 -600 E
+102 79 -40 1d1+0 9d10+68
+3200 620364
+8 8 1
+Race: 19
+E
+#16723
+miserable prisoner~
+a miserable Prisoner~
+A man crouches on the mud floor of the cell, whimpering.
+~
+He is naked, covered only his own welts and bruises.
+~
+10 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+0 27376
+8 8 1
+Race: 14
+E
+#16724
+beaten woman~
+a beaten Woman~
+A woman covered in dried blood sits upon the floor, back against the wall.
+~
+She looks up at you with undisguised hatred, obviously thinking you to
+be one of Dorag's band.    
+~
+10 0 0 0 0 0 0 0 0 E
+22 9 12 1d1+0 1d4+14
+0 12413
+8 8 2
+Race: 14
+E
+#16750
+argeth druid~
+Argeth~
+Argeth, an elder druid of the Forest Guardians, stands before you.
+~
+Argeth does not appear pleased to see uninvited guests in his home.  
+He regards you with mistrust and a bit of appprehension.  He does not
+wish to have the kill you.    
+~
+59480 0 0 0 33620224 4194304 0 0 400 E
+215 226 -100 1d1+0 49d49+143
+8250 4569063
+8 8 1
+Class: 5
+Race: 25
+E
+#16751
+ballara druidess~
+Ballara~
+Ballara works dilligently at her studies, hunched over her desk.
+~
+She was very engrossed in her studies when you entered.  She looks at
+you blankly, as if shaking off the intense thoughts which dominated
+her mind only moments ago.    
+~
+24586 0 0 0 65536 4194304 0 0 500 E
+176 170 -100 1d1+0 28d28+117
+6100 2493295
+8 8 2
+Class: 1
+Race: 25
+E
+#16752
+felz druid~
+Felz~
+Felz greets you with an obvious distrust, rising with one hand on his weapon.
+~
+Felz, warrior druid of the Forest Guardians, is not a man to trifle
+with.  Make your friendship with this one quickly or you may not live
+to tell the tale of why you are in his home like this.    
+~
+82008 0 0 0 570490880 4194305 0 0 200 E
+233 253 -100 1d1+0 53d53+155
+9150 5174999
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 25
+Int: 25
+Con: 25
+Luck: 25
+Class: 4
+Race: 25
+E
+T 16750
+T 16751
+#16753
+blaknir~
+Blaknir~
+Blaknir stands before you, eyeglasses perched at the end of his nose.
+~
+He is a frail, old man with a hawkish nose and deep, hollow eyes.  
+The crows feet at the edges of his eyes betray the amount of time
+spent in books.    
+~
+16394 0 0 0 65536 4194304 0 0 300 E
+158 146 -60 1d1+0 22d23+105
+5300 1893616
+8 8 1
+Class: 1
+Race: 15
+E
+#16799
+vamp guy~
+the vamp guy~
+The vamp guy is here.
+~
+It looks unfinished.
+~
+11 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 1
+E
+$

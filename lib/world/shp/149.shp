@@ -1,0 +1,149 @@
+CircleMUD v3.0 Shop File~
+#14900~
+14932
+-1
+1.20
+0.30
+10
+8[gem]
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s I have no interest in that.~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+0
+2
+14900
+0
+14942
+-1
+0
+28
+0
+28
+#14901~
+14942
+14941
+14935
+14943
+14936
+14937
+14940
+14948
+14949
+-1
+5.00
+0.30
+8
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s I have no interest in that.~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+0
+2
+14901
+0
+14908
+-1
+0
+28
+0
+28
+#14902~
+14944
+14900
+3030
+3031
+14957
+14901
+14902
+14908
+-1
+1.20
+0.30
+1[torch | lantern]
+4
+9
+15[bag | backpack | pack | sack | pouch]
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s I have no interest in that.~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+0
+2
+14902
+0
+14932
+-1
+0
+28
+0
+28
+#14903~
+14956
+14913
+14909
+14914
+14912
+14915
+-1
+1.20
+0.30
+9[metal | shield]
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s I have no interest in that.~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+0
+2
+14903
+0
+14910
+-1
+0
+28
+0
+28
+#14914~
+3001
+3000
+14925
+14903
+-1
+1.20
+0.30
+19
+-1
+%s But I have no such thing for sale.~
+%s But you do not have this item.~
+%s How do you expect to eat this?~
+%s I am sorry, but I can not afford such a valuable item.~
+%s But you can not afford that item.~
+%s It will cost you %d coins.~
+%s Here, you shall have %d coins for it.~
+0
+2
+14914
+0
+14914
+-1
+0
+28
+0
+28
+$~

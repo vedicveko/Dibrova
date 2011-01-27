@@ -1,0 +1,1379 @@
+#11100
+Entrance to the Realm of the Swordancers~
+You have reached the fabled Realm of the Swordancers.  A large stone
+statue marks this place as the entrance to the Realm, a powerfully
+built warrior wielding two swords, carved from a blackish rock
+boulder.  As you gaze about, you can make out strange huts to the
+north.  Behind you, to the south, lies the way out of the Realm.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11101 0
+D2
+~
+~
+0 0 11016 0
+E
+huge sign first thing~
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This area is TOTALLY redone by ME. Fixxing all of the original
+author's messups took me many hours of work, and the only thing
+left that is his at ALL is the descriptions of mobs, rooms, and
+objects. I even added some rooms to it. Be careful the guys I put
+it are hard ones to beat up. I hope you enjoy the area now and
+you should find that most mobs are much easier relative to how
+they were originally made. They are now much more close to 
+standard as per their level. EVERY SINGLE ITEM was changed, some
+were weakened, some were made better, some changed levels, some
+had flags removed/added. ALL of them now are some object type, not
+'unknown' like they all used to be. So those vampires, and elves
+who dislike certain metal types (silver, iron, etc) be careful ;)
+Also some mobs were changed, it is up to you to figure out the
+changes. Resets were fixxed so now there is not 30 autoassisting
+mobs in one room, and none anywhere else. Overall the area should
+be much more playable and therefore enjoyable. 
+
++++++++++++Swordancer Ver 2.0 Done BY ELRIC/Cmag+++++++++++
+~
+S
+#11101
+Inside the Realm of the Swordancers~
+You are walking on a north-south dusty path through the Realm of the
+Swordancers.  The land here is harsh and dry, the desert wind and
+blazing sun scorching and whipping your skin mercilessly as you travel
+through the realm.  To the north you can make out huts of some type.
+To the south lies the entrance to this Realm.    
+~
+111 0 0 0 0 10
+D0
+~
+~
+0 0 11102 0
+D2
+~
+~
+0 0 11100 0
+S
+#11102
+Travelling through the Realm~
+You are travelling through the Realm of the Swordancers.  You feel rather
+faint, perhaps from the dehydration and heat that this realm seems to favor.
+The climate must say something about the hardiness of the native Swordancers
+that inhabit the land.  You shiver despite the heat, thoughts of coming face
+to face with one of the angry Swordancers filling your head.  
+~
+111 0 0 0 0 0
+D0
+~
+~
+0 0 11103 0
+D2
+~
+~
+0 0 11101 0
+S
+#11103
+An intersection in the Realm~
+As you walk into this intersection, the task of deciding your paths
+begins.  Shall you go north, further into the Realm?  South towards
+the way out?  Or East or West where a variety of different huts
+cluster about?  You stand.    
+~
+111 0 0 0 0 10
+D0
+~
+~
+0 0 11104 0
+D1
+~
+~
+0 0 11125 0
+D2
+~
+~
+0 0 11102 0
+D3
+~
+~
+0 0 11130 0
+S
+#11104
+By The Well~
+As you roam through the Realm, you cannot help but wonder in awe how
+the Swordancers can survive here.  Nothing but dry sand and hot wind
+seems to fill this land.  Jagged rocks line the path north and south,
+filling you with dread should you misstep or collapse from exhaustion.
+The glare of the sun fills you eyes but you struggle onwards.  You
+notice a road leading west from here.  There is a well that leads down
+from here.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11105 0
+D2
+~
+~
+0 0 11103 0
+D3
+~
+~
+0 0 11146 0
+D5
+~
+~
+0 0 11153 0
+S
+#11105
+Entrance to the Circles~
+You have reached the southern entrance to the Circles of Judgement.  
+To the north lies the three arenas the Swordancers live by.  Through
+personal and group combat they make their day to day decisions for
+various dilemmas they may encounter in their hard world.  Perhaps you
+should not enter the circles lest you be attacked.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11106 0
+D2
+~
+~
+0 0 11104 0
+S
+#11106
+The Circle of Fate~
+You are in the Circle of Fate.  Various Swordancers are scattered
+about here, awaiting their fate.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11107 0
+D2
+~
+~
+0 0 11105 0
+S
+#11107
+The Circle of Fate~
+You are in the Circle of Fate.  Various Swordancers are scattered
+about here, awaiting their fate.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11108 0
+D1
+~
+~
+0 0 11109 0
+D2
+~
+~
+0 0 11106 0
+D3
+~
+~
+0 0 11110 0
+S
+#11108
+The Circle of Fate~
+You are in the Circle of Fate.  Various Swordancers are scattered
+about here, awating their fate.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11111 0
+D2
+~
+~
+0 0 11107 0
+S
+#11109
+The Circle of Fate~
+You are in the Circle of Fate.  Various Swordancers are scattered
+about here, awaing their fate.    
+~
+111 0 0 0 0 2
+D3
+~
+~
+0 0 11107 0
+S
+#11110
+The Circle of Fate~
+You are in the Circle of Fate.  Various Swordancers are scattered
+about here, awaiting their fate.    
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11107 0
+S
+#11111
+The Circle of Challenge~
+You are in the Circle of Challenge.  It is here that Swordancers
+challenge each other to personal Combat for honor, revenge, or simply
+to hone their skills.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11112 0
+D2
+~
+~
+0 0 11108 0
+S
+#11112
+The Circle of Challenge~
+You are in the Circle of Challenge.  It is here that Swordancers
+challenge each other to personal Combat for honor, revenge, or simply
+to hone their skills.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11113 0
+D1
+~
+~
+0 0 11115 0
+D2
+~
+~
+0 0 11111 0
+D3
+~
+~
+0 0 11116 0
+D5
+~
+~
+0 0 11114 0
+S
+#11113
+The Circle of Challenge~
+You are in the Circle of Challenge.  It is here that Swordancers
+challenge each other to personal Combat for honor, revenge, or simply
+to hone their skills.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11117 0
+D2
+~
+~
+0 0 11112 0
+S
+#11114
+The Dead Pit~
+You have discovered The Dead Pit.  This is where the Swordancers that
+died without honor are tossed to rot.  Decaying and rotting bodies
+fill the pit and hordes of flies and maggots infest the very walls,
+themselves spattered with dried blood.  The smell here is overwhelming
+and threatens to overcome you with the fumes of decay.    
+~
+111 0 0 0 0 14
+D4
+~
+~
+0 0 11112 0
+S
+#11115
+The Circle of Challenge~
+You are in the Circle of Challenge.  It is here that Swordancers
+challenge each other to personal Combat for honor, revenge, or simply
+to hone their skills.    
+~
+111 0 0 0 0 2
+D3
+~
+~
+0 0 11112 0
+S
+#11116
+The Circle of Challenge~
+You are in the Circle of Challenge.  It is here that Swordancers
+challenge each other to personal Combat for honor, revenge, or simply
+to hone their skills.    
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11112 0
+S
+#11117
+The Circle of Glory~
+You are in the Circle of Glory.  It is here that the Swordancers
+seeking Glory may attain it and receive ranks of power in the
+Swordancers' society.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11118 0
+D2
+~
+~
+0 0 11113 0
+S
+#11118
+The Circle of Glory~
+You are in the Circle of Glory.  It is here that the Swordancers
+seeking Glory may attain it and receive ranks of power in the
+Swordancers' society.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11119 0
+D1
+~
+~
+0 0 11120 0
+D2
+~
+~
+0 0 11117 0
+D3
+~
+~
+0 0 11121 0
+S
+#11119
+The Circle of Glory~
+You are in the Circle of Glory.  It is here that the Swordancers
+seeking Glory may attain it and receive ranks of power in the
+Swordancers' society.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11122 0
+D2
+~
+~
+0 0 11118 0
+S
+#11120
+The Circle of Glory~
+You are in the Circle of Glory.  It is here that the Swordancers
+seeking Glory may attain it and receive ranks of power in the
+Swordancers' society.    
+~
+111 0 0 0 0 2
+D3
+~
+~
+0 0 11118 0
+S
+#11121
+The Circle of Glory~
+You are in the Circle of Glory.  It is here that the Swordancers
+seeking Glory may attain it and receive ranks of power in the
+Swordancers' society.    
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11118 0
+S
+#11122
+Entrance to the Circles~
+You have reached the northern entrance to the Circles.  To the south
+lie the three Circles of Judgement.  To the north lies a large hut of
+some kind.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11123 0
+D2
+~
+~
+0 0 11119 0
+S
+#11123
+Outside the Hut~
+You are outside a large hut.  As you examine the hut, you notice that
+it is constructed of a strange translucent leathery material.  
+Ornamental and perhaps shamanistic markings, drawn in blood, cover the
+hut, depicting battles fought and battles yet to come.  Large wooden
+spears are placed near the entrance in a rough semi-circle, the
+spearheads driven into the rough sand, strange skulls and feathers
+decorating the ends of the spears raised as if in salute...  Or
+warning.    
+~
+111 0 0 0 0 10
+D0
+~
+~
+0 0 11124 0
+D2
+~
+~
+0 0 11122 0
+S
+#11124
+Inside the Healer's Hut~
+You are in the Healer's Hut.  Somehow, with all the constant fighting
+and battles that occur in the Swordancers' Realm, you are not suprised
+that they would have a healer living with them.  It is rather dim
+inside the hut, but cool and pleasant within this shade.  You can make
+out various bags, stone jars, and mortars spread about the large
+tables in the hut.  A strong herbal scent permeates the hut, coming
+perhaps from the baskets heaped with assorted dried vegetation.  Odd
+skulls covered with markings litter the corners and odd shaped of
+dried exotic animals fill another basket under the table.  There is a
+door north and the entrance to the hut lies south.    
+~
+111 8 0 0 0 0
+D0
+~
+door~
+1 0 11157 3
+D2
+~
+~
+0 0 11123 0
+S
+#11125
+A Gathering of Huts~
+You are in what seems to be an orderly collection of small thatched
+huts.  Each hut looks similar to each other, with slight differences
+noticable here and there.  The intersection lies to the west and more
+huts lie to the east.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11126 0
+D3
+~
+~
+0 0 11103 0
+S
+#11126
+A Gathering of Huts~
+You are in what seems to be an orderly collection of small thatched
+huts.  Each hut looks similar to each other, with slight differences
+noticable here and there.  The intersection lies to the west and more
+huts lie to the east.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11127 0
+D2
+~
+~
+0 0 11128 0
+D3
+~
+~
+0 0 11125 0
+S
+#11127
+Outside the Blacksmith's Forge~
+With all the swords that everyone seems to bear in this realm, it is
+only reasonable that this society would have a large smithy.  What you
+did NOT expect, however, was exactly how LARGE the smithy would be!  
+The building looks to be bigger than the circles themselves.  Large
+stone bricks comprise the outer walls, and a large opening in the
+ceiling is visible, from which heavy plumes of smoke are emerging
+from.  You can enter the smithy to the east, or go back west to the
+huts.  The stables are to the south.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11129 0
+D2
+~
+~
+0 0 11136 0
+D3
+~
+~
+0 0 11126 0
+S
+#11128
+A Swordancer's Hut~
+You are in what appears to be a Swordancer's abode.  It is a small
+hut, with sparse belongings and furnitue.  There is a small wooden bed
+here, a simple table, and a few clothes lying about.  You cannot help
+to wonder how anyone could live such a boring life, with only
+swordplay dominating their existance.    
+~
+111 8 0 0 0 0
+D0
+~
+~
+0 0 11126 0
+S
+#11129
+Inside the Smithy of the Swordancers~
+The smithy seems even more spacious inside than it seemed from the
+outside.  A gigantic forge sits in the middle of the room, surrounded
+by massive hammers, a bellows that appears to take two men working
+together, and barrels of water, oil, and salt water.  A large
+collection of iron tongs, buttresses, and bins of steel and iron are
+hung upon the walls or laying about tables.  The heat in here is,
+incredibly enough, hotter than it is outside.  A gigantic mound of
+coals and ashes lights up the room a brilliant amber-red and you have
+no choice but to squint and raise a hand to shield yourself from both
+the intense heat and the light.  As smoke begins to fill your eyes,
+you wonder if perhaps you should leave.    
+~
+111 8 0 0 0 0
+D3
+~
+~
+0 0 11127 0
+S
+#11130
+Path of Broken Swords~
+As you tread softly upon the hard rocky path here, you notice pommels
+and blades of old rusted swords laying scattered about the ground.  
+As you rack your brains for myths you have heard about the
+Swordancers, you can only come to the conclusion that this is the
+fabled Path of Broken Swords, a road that leads to the merciless
+Swordancer Chief's hut, littered with the broken weapons of those who
+dared to challenge him for leadership.  NOW would be a good time to
+turn back, if you have any sense.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11103 0
+D3
+~
+~
+0 0 11131 0
+S
+#11131
+Path of Broken Swords~
+You are at the end of the Path of Broken Swords.  Amazingly enough,
+you have managed not to cut yourself upon any of the rusted blades
+that seem to almost stab out at you from the ground.  To the west is
+the hut of the Swordancer Chief.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11130 0
+D3
+~
+~
+0 0 11132 0
+S
+#11132
+Outside the Chieftain's Hut~
+You stand before the largest hut in the Realm.  Covered completely in
+black pitch and reinforced with steel bars, the hut looks VERY
+intimidating.  A large door stands open here...  Yet the invitation
+for all to come inside seems to be rather more menacing than inviting,
+as if the man who lives here has no worries about those that attempt
+to claim leadership by slaying him.  You take a deep breath and make
+your decision to either walk in, or leave as quickly as possible.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11131 0
+D3
+~
+~
+0 0 11133 0
+S
+#11133
+Inside the Great Hut~
+You have entered the Great Hut of the Chieftain of the Swordancers.  
+It is quite spacious in here and luxuries abound everywhere you look.
+A grand bed fashioned from cherrywood is complimented with a baby
+goosedown mattress and Asian silk covers.  The grandiose ornate table
+in the center of the room seems to be made from gold flecked black
+marble and the ten chairs standing around it are made from the same
+material.  A fine lush red carpet lines the floor and an imported wall
+mirror hands upon the south wall.  Large golden braziers filled with
+fragrant oil light the room and fill the air with a sweet aroma.  
+Above the bed, hung upon the wall, is a heavy jewel-encrusted
+scabbard.  You can only shudder as you imagine what the blade must
+look like.  There is a door west and the way out lies to the east.  
+~
+111 8 0 0 0 0
+D1
+~
+~
+0 0 11132 0
+D3
+~
+door~
+1 0 11134 3
+S
+#11134
+The Practice Room~
+You have entered what can only be the room in which the Chieftain
+practices his dances of death.  There are practice mats laying about
+everywhere, and straw padded dummies hanging out from pegs set on the
+walls.  Large rents and slashes can be seen in all the dummies and
+pads, and you have no choice but to believe that the Chieftain is
+without doubt, the BEST Swordancer in the whole Realm.  Weapons of
+every type sit on racks on the north wall.  Spears, swords, halberds,
+staves, clubs, whips, flails, polearms, daggers, and a myriad of
+exotic weapons that look too bizarre to puzzle their purpose gleam
+dangerously in the low light.    
+~
+111 8 0 0 0 0
+D1
+~
+door~
+1 0 11133 3
+D3
+~
+~
+0 0 11135 0
+S
+#11135
+The Greenhouse~
+Errr...  You have stepped from the training room into a GREENHOUSE.  
+Yes.  A Greenhouse of some sort.  Exotic flowers of every shape and
+color grow from a plethora of clay pots.  Lilies, ferns, roses, even
+daisies grow here.  This is a side of the Chieftain you bet he wants
+nobody to know.  In fact..  He may kill to keep his secret hidden!  
+~
+111 8 0 0 0 0
+D1
+~
+~
+0 0 11134 0
+S
+#11136
+Entrance to the Stables~
+You are at the entrance to the stables of the Swordancers.  The smell
+of animals and their fecal matter is very strong.  These stables are
+where the Swordancers keep their animals for use in both war and
+domestic life.  A large wooden roof covers the stable are piled in the
+southwest corner and a stray desert rat scurries about.    
+~
+111 8 0 0 0 0
+D0
+~
+~
+0 0 11127 0
+D2
+~
+~
+0 0 11137 0
+S
+#11137
+The Stables~
+The stables seem like any other stables you have seen.  The only
+exception is that even here, there are weapons hanging everywhere and
+warsaddles laying about.  You can hear the sounds of fighting further
+south.    
+~
+111 8 0 0 0 0
+D0
+~
+~
+0 0 11136 0
+D2
+~
+~
+0 0 11138 0
+S
+#11138
+Outside the Stables of the Swordancers~
+You are south of the stables.  Nothing greets your eyes except the
+usual harsh desert scenery of the Realm.  The hot sun beats down on
+you once more and you wonder if you should go back into the stables
+for the shade.  The sounds of battle come from the south.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11137 0
+D2
+~
+~
+0 0 11139 0
+S
+#11139
+Path to the Training Fields~
+The sounds of fighting can be heard plainly from the south.  This is
+where the training fields of the Swordancers are.  As the dry wind
+blows sand into your face, you wonder if you should head back north to
+the safety of the stables.    
+~
+111 0 0 0 0 10
+D0
+~
+~
+0 0 11138 0
+D2
+~
+~
+0 0 11140 0
+S
+#11140
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11139 0
+D1
+~
+~
+0 0 11141 0
+D2
+~
+~
+0 0 11144 0
+D3
+~
+~
+0 0 11142 0
+S
+#11141
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D2
+~
+~
+0 0 11145 0
+D3
+~
+~
+0 0 11140 0
+S
+#11142
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11140 0
+D2
+~
+~
+0 0 11143 0
+S
+#11143
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11142 0
+D1
+~
+~
+0 0 11144 0
+D2
+~
+~
+0 -1 11166 0
+S
+#11144
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11140 0
+D1
+~
+~
+0 0 11145 0
+D2
+~
+~
+0 -1 11167 0
+D3
+~
+~
+0 0 11143 0
+S
+#11145
+The Training Fields~
+You are in the Training Fields.  It is here that the Swordancers train
+for combat in war or to battle in the Circles of Judgement.  It would
+be a very good idea to lay low here, lest you be mistaken for a
+training dummy.    
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11141 0
+D2
+~
+~
+0 -1 11168 0
+D3
+~
+~
+0 0 11144 0
+S
+#11146
+Deserted Path~
+You are travelling on a deserted empty path.  There is nothing here
+except sand and rock.  The road stretches east and west from here.  
+~
+111 4 0 0 0 10
+D1
+~
+~
+0 0 11104 0
+D3
+~
+~
+0 0 11147 0
+S
+#11147
+Deserted Path~
+You are travelling on a deserted empty path.  There is nothing here
+except sand and rock.  The road stretches east and west from here.  
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11146 0
+D3
+~
+~
+0 0 11148 0
+S
+#11148
+Deserted Path~
+You are travelling on a deserted empty path.  Here and there you spot
+white objects scattered about the rocks and sand on this otherwise
+boring and empty path.  As you take a closer look, you gasp as you
+realize that they white objects are small fragments of bone.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11147 0
+D3
+~
+~
+0 0 11149 0
+S
+#11149
+Deserted Path~
+The path here is mixed with equal amounts of dry bones and dry rocks.
+You can hear a buzzing sound to the west and the path east looks
+inviting.  As a breeze blows in from the west, you can smell whiffs of
+decay.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11148 0
+D3
+~
+~
+0 0 11150 0
+S
+#11150
+The Bone-Filled Path~
+There are bones EVERYWHERE here.  Leg bones, arm bones, skulls, ribs..
+You name it..  It's here.  There are a few bones with rotting flesh
+still visible here, and a thick swarm of flys and maggots infest the
+path.  The stench here is strong but you manage to push on.    
+~
+111 0 0 0 0 10
+D1
+~
+~
+0 0 11149 0
+D3
+~
+~
+0 0 11151 0
+S
+#11151
+The Mouth of the Cave~
+You have reached the mouth of a large dark cave.  You have no idea
+what it is doing here of all places, nor why there is a large absence
+of any Swordancers around here.  The piles upon piles of bones reaches
+a peak here and a huge almost solid mass of flies surrounds them.    
+~
+111 524296 0 0 0 0
+D1
+~
+~
+0 0 11150 0
+D2
+~
+~
+0 0 11152 0
+S
+#11152
+The Lair of the Ranmabear~
+You have entered a scene of horror.  Dried blood covers the entire
+floor of the cave and the stench is unbearable.  Insects of every kind
+squirm upon the grimy and slick bottom and bones of every type you
+have every seen lay broken about the cave.  You gasp as you realize
+that you have entered the lair of the dreaded Ranmabear!    
+~
+111 524301 0 0 0 0
+D0
+~
+~
+0 0 11151 0
+S
+#11153
+Inside the Well~
+You are inside the well now.  The exit out is right above you.    
+~
+111 12 0 0 0 14
+D4
+~
+~
+0 0 11104 0
+D5
+~
+~
+0 0 11154 0
+S
+#11154
+Far Down the Well~
+You are inside the well.  It is rather dark and dank in here, but at
+least it is an escape from the heat.  Overhead you can still see the
+top of the well.  It is too dark below you to see anything.    
+~
+111 8 0 0 0 14
+D4
+~
+~
+0 0 11153 0
+D5
+~
+~
+0 0 11155 0
+S
+#11155
+Far Inside the Well~
+You are nearing the bottom of the well.  You can hear the gentle
+swishing of water beneath you and you try to imagine the secrets this
+well may hold inside.  Far above you you can make out the top of the
+well.    
+~
+111 8 0 0 0 14
+D4
+~
+~
+0 0 11154 0
+D5
+~
+~
+0 0 11156 0
+S
+#11156
+The Bottom of the Well~
+You have reached the bottom of the well.  Chest deep in water, you see
+nothing, nor feel anything that indicates this is water.  As you think
+about it, this was a rather stupid idea.  How many people do you know
+climb down wells???  It is way to slippery to climb your way out...  
+You are basically stuck, in this water that...  Isn't.    
+~
+111 12 0 0 0 14
+D4
+~
+~
+0 0 11155 0
+S
+#11157
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11158 0
+D2
+~
+door~
+1 0 11124 3
+S
+#11158
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11159 0
+D1
+~
+~
+0 0 11161 0
+D2
+~
+~
+0 0 11157 0
+D3
+~
+~
+0 0 11160 0
+S
+#11159
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D2
+~
+~
+0 0 11158 0
+S
+#11160
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11158 0
+D3
+~
+~
+0 0 11162 0
+S
+#11161
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11163 0
+D2
+~
+~
+0 0 11164 0
+D3
+~
+~
+0 0 11158 0
+S
+#11162
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D1
+~
+~
+0 0 11160 0
+D2
+~
+~
+0 0 11165 0
+S
+#11163
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D3
+~
+~
+0 0 11161 0
+S
+#11164
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11161 0
+S
+#11165
+The Herb Garden~
+You have entered what seems to be the Healer's herb garden.  Exotic
+scents and rare plants grow here, the very smell invigorating you.  
+~
+111 0 0 0 0 2
+D0
+~
+~
+0 0 11162 0
+S
+#11166
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11143 0
+D1
+You see more training fields.
+~
+~
+0 -1 11167 0
+D2
+You see more training fields.
+~
+~
+0 -1 11169 0
+S
+#11167
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11144 0
+D1
+You see more training fields.
+~
+~
+0 -1 11168 0
+D2
+You see more training fields.
+~
+~
+0 -1 11170 0
+D3
+You see more training fields.
+~
+~
+0 -1 11166 0
+S
+#11168
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11145 0
+D2
+You see more training fields.
+~
+~
+0 -1 11171 0
+D3
+You see more training fields.
+~
+~
+0 -1 11167 0
+S
+#11169
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11166 0
+D1
+You see more training fields.
+~
+~
+0 -1 11170 0
+S
+#11170
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11167 0
+D1
+You see more training fields.
+~
+~
+0 -1 11171 0
+D2
+You see more training fields.
+~
+~
+0 -1 11172 0
+D3
+You see more training fields.
+~
+~
+0 -1 11169 0
+S
+#11171
+The Training Fields~
+This part of the fields seems to be filled with warriors who are
+not quite known across the swordancer realm yet, but are working
+very hard to become the next great legend.
+~
+111 0 0 0 0 2
+D0
+You see more training fields.
+~
+~
+0 -1 11168 0
+D3
+You see more training fields.
+~
+~
+0 -1 11170 0
+S
+#11172
+On A Path~
+This is a small well-used path.  It goes North and South in a straight
+line from the training grounds to a campsite nearby to the South.    
+~
+111 4 0 0 0 10
+D0
+You see the Training Fields.
+~
+~
+0 -1 11170 0
+D2
+You see a small campsite.
+~
+~
+0 -1 11173 0
+S
+#11173
+Campsite~
+This is a campsite that looks to have been used for many years now.  
+There is an older, though still deadly Swordancer sitting near a fire
+here telling stories to some gladiators.  A large tent is in the South
+end of the camp.    
+~
+111 0 0 0 0 2
+D0
+The small path is to the North.
+~
+~
+0 -1 11172 0
+D2
+You see a big tent,with the flaps drawn closed on it.
+~
+flap~
+1 -1 11174 3
+E
+fire~
+The fire place is crackling with light and warmth. It seems to invite
+you to just lie down and fall asleep.
+~
+S
+#11174
+The Veteran's Tent~
+This is the inside of a hardened warrior's tent.  The years may have
+slowed the old timer down, but he still lives each day as if he may go
+into battle for his life.  This is all evidenced by the extreme
+neatness and readiness for transport of the whole tent.  This tent is
+also shared with the Swordancer Trainer it seems by all the vast
+amounts of training equipment around one area of the tent.    
+~
+111 8 0 0 0 0
+D0
+The Campsite is outside.
+~
+flap~
+1 -1 11173 3
+E
+training equipment~
+This is the stuff you expect to see in a warrior's tent. Wooden
+practice swords, padded armor to protect against blows that would
+otherwise be fatal, etc.
+~
+S
+$~

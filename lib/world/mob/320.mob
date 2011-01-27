@@ -1,0 +1,133 @@
+#32000
+highwayman man~
+a Highwayman~
+A man leaps out from behind a tree and goes straight for your gold!
+~
+He is dressed in fine clothes which undoubtedly have been stolen from
+some poor traveller who happened along this very path.    
+~
+104 0 0 0 524288 0 0 0 -100 E
+9 2 64 1d9+175 1d2+6
+175 1270
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 3
+Race: 14
+E
+#32001
+trapper~
+the Trapper~
+A grizzled old trapper ambles by, smelling of old sweat and whiskey.
+~
+Clad in the furs of the animals he traps, this man looks himself to be
+more animal than man.    
+~
+72 0 0 0 0 0 0 0 700 E
+10 3 60 1d10+200 1d2+6
+200 1662
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 5
+Race: 14
+E
+#32002
+huntsman man~
+a Huntsman~
+A huntsman moves gracefully past you, a long bow slung across one shoulder.
+~
+He moves across the forest without looking where he walks,
+instinctively making very little sound.    
+~
+72 0 0 0 0 0 0 0 800 E
+12 3 52 1d12+300 1d2+8
+250 2646
+8 8 1
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 5
+Race: 14
+E
+#32003
+raccoon~
+a Raccoon~
+A raccoon pauses, looks up at you, and then goes back to what it was doing.
+~
+Cute little guy, looks almost too cute to kill... nah!
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+3
+0 283
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#32004
+deer~
+a Deer~
+A deer gets spooked by your presence and runs for the cover of the woods.
+~
+It gracefully leaps a fallen tree and vanishes from sight.
+~
+200 0 0 0 0 0 0 0 900 E
+7 1 72 1d7+125 1d2+4
+0 669
+8 8 0
+BareHandAttack: 5
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#32005
+picker mushroom~
+a Mushroom Picker~
+A woman is here picking mushrooms for her family's dinner.
+~
+She looks very plain in her smock and bonnet, very much like the
+stereotypical housewife of the woods.    
+~
+16456 0 0 0 65536 4194304 0 0 800 E
+8 2 68 1d8+150 1d2+5
+150 941
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32006
+woodsman man~
+a Woodsman~
+A woodsman tips his hat as he walks past.
+~
+He looks to be a jolly enough sort, congenial almost.
+~
+8388680 0 0 0 0 0 0 0 800 E
+13 4 48 1d13+350 1d2+8
+275 3245
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+$

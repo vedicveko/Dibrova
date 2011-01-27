@@ -1,0 +1,280 @@
+#18400
+warg vicious~
+the vicious warg~
+A vicious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is
+dripping quickly from its long, white fangs.  It looks quite dangerous
+and very angry.    
+~
+67125324 0 0 0 0 0 0 0 -500 E
+43 23 -24 0d0+0 4d5+28
+0 68558
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 19
+Int: 12
+Wis: 14
+Con: 12
+Cha: 10
+Luck: 12
+Race: 1
+E
+#18401
+warg ferocious~
+the ferocious warg~
+A ferocious warg is here, snarling angrily at you.
+~
+It is an exceptionally large wolf with thick, black fur.  Saliva is
+dripping quickly from its long, white fangs.  It looks quite dangerous
+and very angry.    
+~
+67633228 0 0 0 0 0 0 0 -500 E
+46 26 -24 0d0+0 5d5+30
+0 81423
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 9
+Int: 15
+Wis: 22
+Con: 6
+Cha: 14
+Luck: 18
+Race: 1
+E
+#18402
+wolf grey~
+the large, grey wolf~
+A large, grey wolf is here, glaring hungrily at you.
+~
+The large, grey wolf eyes you with interest while licking its lips.
+~
+200 0 0 0 0 0 0 0 0 E
+24 10 4 0d0+0 2d3+16
+0 15497
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 20
+Int: 22
+Wis: 17
+Con: 20
+Cha: 12
+Luck: 24
+Race: 1
+E
+#18403
+wolf black~
+the large, black wolf~
+A large, black wolf is here, glaring hungrily at you.
+~
+The large, black wolf eyes you with interest while licking its lips.
+~
+72 0 0 0 0 0 0 0 0 E
+22 9 12 0d0+0 1d4+14
+0 12413
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 17
+Int: 15
+Wis: 14
+Con: 12
+Cha: 9
+Luck: 8
+Race: 1
+E
+#18410
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you.
+~
+Its roots are extremely big and large parts of them are above ground.
+Something about it makes you think that this is not a normal oak tree.
+
+The enormous grey trunk shivers slightly, as if sighing deeply.
+~
+213002 0 0 0 0 0 0 0 0 E
+48 27 -28 0d0+0 5d5+32
+0 90757
+8 8 1
+BareHandAttack: 5
+Str: 16
+Dex: 17
+Int: 14
+Wis: 8
+Con: 16
+Cha: 15
+Luck: 25
+E
+#18411
+tree ancient~
+the ancient tree~
+A huge, ancient tree towers above you.
+~
+Its roots are extremely big and large parts of them are above ground.
+Something about it makes you think that this is not a normal oak tree.
+
+The enormous grey trunk emits a deep, moaning sound.
+~
+213002 0 0 0 0 0 0 0 0 E
+50 29 -28 0d0+0 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 5
+Str: 5
+Dex: 19
+Int: 12
+Wis: 21
+Con: 22
+Cha: 18
+Luck: 9
+E
+#18412
+dragon greendragon~
+the green dragon~
+A huge green dragon is here, its narrow yellow eyes glowing with rage.
+~
+This enormous winged serpent has dark green scales covering most of
+its colossal body.  Numerous holes in its heavy wings tell of many
+fights as does the nicks in the horns on its head.  It smells as
+disgusting as only dragons do.    
+~
+67223594 0 0 0 1114112 4194304 0 0 -750 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 8
+Str: 8
+Dex: 20
+Int: 24
+Wis: 14
+Con: 22
+Cha: 10
+Luck: 8
+Race: 9
+E
+#18413
+spider poisonous~
+the huge, poisonous spider~
+A huge, poisonous spider is here.
+~
+This disgusting creature is at the size of a human crawling on all
+four.  It has eight hairy legs that gives it a tremendous speed on
+almost any surface and sharp poisonous fangs to paralyze or kill its
+prey.    
+~
+16793610 0 0 0 524288 0 0 0 0 E
+22 9 12 0d0+0 1d4+14
+0 12413
+8 8 0
+BareHandAttack: 1
+Str: 25
+Dex: 23
+Int: 13
+Wis: 20
+Con: 7
+Cha: 17
+Luck: 17
+Race: 46
+E
+#18414
+queen spider~
+the Queen spider~
+The huge, bulky Queen spider is here.
+~
+This disgusting creature is at the size of a small elephant.  It has
+eight huge, hairy legs that would give it a tremendous speed on almost
+any surface if it wasn't so immensely fat.  Its large, bulbous eyes
+stare back at you.    
+~
+16793658 0 0 0 524288 0 0 0 -250 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 2
+BareHandAttack: 1
+Str: 9
+Dex: 7
+Int: 9
+Wis: 20
+Con: 23
+Cha: 24
+Luck: 20
+Race: 46
+E
+#18415
+shargugh brownie~
+Shargugh~
+Shargugh the Forest Brownie is here, grinning broadly at you.
+~
+This little fellow is only three foot tall with wild matted brown hair
+and long tangled brown beard.  He wears ragged brown and green
+clothing and looks as if he is having great fun.    
+~
+81996 0 0 0 589824 4194304 0 0 500 E
+66 43 -40 0d0+0 6d6+44
+1150 204434
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 22
+Int: 6
+Wis: 17
+Con: 22
+Cha: 8
+Luck: 8
+Race: 24
+E
+#18416
+elder druid~
+the Elder druid~
+The Elder druid is here.  He looks very upset about your presence in his home.
+~
+The druid looks quite old.  You would think of him as venerable but
+yet you know he would be a tough foe.    
+~
+542730 0 0 0 65536 4194816 0 0 350 E
+90 66 -40 0d0+0 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 19
+Int: 25
+Wis: 6
+Con: 21
+Cha: 18
+Luck: 22
+Class: 5
+Race: 15
+E
+#18417
+isha elf~
+Isha the Dark Elf~
+Isha the Dark Elf is here, observing you silently.
+~
+She is no less than beautiful, skin as dark as the night and hair
+shining like silver in the moonlight.  Her slender body is adorned
+with a sleeveless shirt and a short skirt made from black scales
+joined with silver threads.  Her back is covered by a large, hooded
+cloak as black as her skin and in her broad silver belt hangs a long,
+slender sword in a silver scabbard.    
+~
+16972 0 0 0 65536 4194305 0 0 -1000 E
+95 72 -40 0d0+0 6d8+63
+1825 595126
+8 8 1
+BareHandAttack: 9
+Str: 18
+Dex: 15
+Int: 22
+Wis: 10
+Con: 23
+Cha: 18
+Luck: 20
+Class: 9
+Race: 15
+E
+$

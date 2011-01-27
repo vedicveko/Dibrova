@@ -1,0 +1,143 @@
+#23900
+bear black~
+a Black Bear~
+A black bear lumbers about.
+~
+Black and small for a bear, it looks harmless.
+~
+67656 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+400 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 17
+Int: 20
+Wis: 19
+Con: 7
+Cha: 6
+Race: 1
+E
+#23901
+elven elf hunter~
+an elven Hunter~
+An Elven hunter looks around for a meal.
+~
+He is wary and cautious, knowing that danger lies at every corner in
+the wilderness.    
+~
+694344 0 0 0 526416 131072 0 0 0 E
+138 121 -60 1d1+600 16d17+92
+4000 1340936
+8 8 0
+BareHandAttack: 14
+Str: 25
+Int: 20
+Wis: 6
+Con: 21
+Cha: 8
+Class: 4
+Race: 15
+E
+#23902
+fairy~
+a Fairy~
+A Fairy flits about.
+~
+Small and petite, she likes to romp about the wilderness.  Large
+almond-brown eyes compliment her sandy-brown hair.    
+~
+628808 0 0 0 42467408 131072 0 0 0 E
+126 107 -60 1d1+600 15d15+84
+3500 1063313
+8 8 2
+BareHandAttack: 10
+Dex: 6
+Int: 19
+Wis: 16
+Con: 25
+Cha: 14
+Luck: 19
+Class: 1
+Race: 24
+E
+#23903
+leaf bug~
+a Leaf Bug~
+An average looking leaf is doing nothing special here.
+~
+Small and looking like a leaf, it seems uninterested in things other
+than finding leaves to eat.    
+~
+72 0 0 0 0 0 0 0 0 E
+13 7 4 1d1+350 6d1+13
+0 3245
+8 8 0
+Str: 17
+Dex: 7
+Int: 10
+Wis: 9
+Con: 25
+Cha: 6
+Luck: 10
+Race: 5
+E
+#23904
+stick bug~
+a Stick Bug~
+An average stick is doing nothing special here.
+~
+It looks exactly like a walking stick.
+~
+72 0 0 0 0 0 0 0 0 E
+13 7 4 1d1+350 6d1+13
+0 3245
+8 8 0
+Str: 16
+Dex: 17
+Int: 8
+Wis: 5
+Con: 12
+Cha: 15
+Luck: 5
+Race: 5
+E
+#23905
+bark bug~
+a Bark Bug~
+An average looking piece of bark is doing nothing special here.
+~
+It looks like an oval piece of bark.
+~
+72 0 0 0 0 0 0 0 0 E
+20 0 2 1d1+1000 8d1+20
+0 9735
+8 8 0
+Str: 16
+Dex: 18
+Int: 14
+Con: 9
+Cha: 21
+Luck: 7
+Race: 5
+E
+#23906
+frog tree~
+a Tree Frog~
+A tree frog hops around.
+~
+It is a harmless creature, unless you are a bug!
+~
+72 0 0 0 80 0 0 0 0 E
+13 7 4 1d1+350 6d1+13
+0 3245
+8 8 0
+BareHandAttack: 10
+Str: 20
+Dex: 15
+Con: 17
+Cha: 18
+Luck: 12
+Race: 2
+E
+$

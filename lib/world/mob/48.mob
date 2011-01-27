@@ -1,0 +1,527 @@
+#4800
+obsidian rockman man~
+an Obsidian Rockman~
+The wall seems to shift slightly, as a rockman makes himself visible to you.
+~
+This huge slab of rock shaped into something vaguely humanoid looks
+massive and powerful enough to blast anyone or thing to smithereens.
+~
+242186 0 0 0 0 0 0 0 0 E
+45 25 -24 1d45+3000 4d5+30
+0 76985
+8 8 1
+BareHandAttack: 6
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Class: 4
+Race: 30
+E
+#4801
+man pale~
+the Pale Man~
+The Pale Man regards you intently, as if forming a plan with you in mind.
+~
+He is no more than five feet in height, however with his massive
+guardians at his side, he needs not stature to seem impressive.  His
+skin is milky white, his eyes a dark charcoal black.  He has no hair
+upon his head.    
+~
+163866 0 0 0 272 0 0 0 -900 E
+50 29 -28 1d50+6000 5d5+33
+750 110785
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 7
+Luck: 12
+Class: 9
+Race: 14
+E
+#4802
+aboleth mother~
+an Aboleth Mother~
+An aboleth lumbers toward you, intent on devouring you in one gulp.
+~
+It looks almost like a very large but intelligent fish, about twenty
+feet in length, its skin blue-green with splotches of gray.    
+~
+16430 0 0 0 65536 4194304 0 0 -700 E
+41 22 -24 1d41+2600 4d5+20
+0 60717
+8 8 2
+BareHandAttack: 10
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Race: 4
+E
+#4803
+aboleth baby~
+an Aboleth Baby~
+An aboleth baby follows its mother in anticipation of a good supper.
+~
+It looks much the same as it its mother, only smaller and with no
+splotches of gray.    
+~
+196650 0 0 0 0 0 0 0 -200 E
+34 17 -20 1d34+2375 3d6+17
+0 37669
+8 8 0
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 18
+Luck: 12
+Race: 4
+E
+#4804
+large bat~
+a large Bat~
+A large bat swoops down at you from the ceiling!
+~
+It looks unfinished.  Its eyes are shot through with red, its fangs
+bared as it moves in for the attack.    
+~
+67656 0 0 0 8388608 0 0 0 0 E
+27 12 -8 1d27+2100 2d6+13
+0 20926
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 5
+Luck: 12
+Race: 3
+E
+#4805
+rot grub~
+a Rot Grub~
+A rot grub slunks toward you, sucking debris from the floor.
+~
+It is a lump of grayish flesh and blood that has almost no mind - it
+only knows to consume.    
+~
+76 0 0 0 2128 2 0 0 -100 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 19
+Luck: 12
+Race: 5
+E
+#4806
+carrion crawler~
+a Carrion Crawler~
+A carrion crawler moves about the caverns, taking scraps where it can.
+~
+This thing looks like a giant grub with teeth.  It takes whatever
+leftovers there are from scraps left behind in battle.    
+~
+262220 0 0 0 0 0 0 0 -400 E
+26 11 -4 1d26+2050 2d5+13
+0 19006
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Race: 5
+E
+#4807
+death kiss~
+a Death Kiss~
+A Death Kiss floats toward you, its tentacles reaching out.
+~
+It looks like a beholder kin, but larger and with more tentacles.  
+Its many eyes rotate this way and that, a few always upon you.    
+~
+67207178 0 0 0 268435472 0 0 0 -1000 E
+43 23 -24 1d43+2800 4d5+28
+575 68558
+8 8 0
+BareHandAttack: 16
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 24
+Luck: 12
+Class: 1
+Race: 37
+E
+#4808
+bugbear chief~
+the Bugbear Chief~
+The bugbear chief growls angrily from his place of rest.
+~
+This thing does not look as if it desired to be intruded upon.  
+Possibly a hasty departure might be in order...    
+~
+4200 0 0 0 0 0 0 0 -400 E
+40 21 -20 1d9+175 4d5+26
+500 57012
+8 8 0
+BareHandAttack: 7
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 10
+Luck: 12
+Class: 4
+Race: 7
+E
+#4809
+bugbear leader~
+the Bugbear Leader~
+The bugbear leader howls a mindless warcry and charges!
+~
+Your time is quite limited in that the leader has decided to kill you
+on sight.  He looks like many of the other bugbears, just larger and
+meaner with larger fangs.    
+~
+4168 0 0 0 0 0 0 0 -700 E
+38 19 -20 1d38+2475 3d6+25
+400 50022
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 13
+Luck: 12
+Class: 4
+Race: 7
+E
+#4810
+bugbear shaman~
+the Bugbear Shaman~
+The bugbear shaman looks up at you in anger. You interrupted it.
+~
+It appears that even bugbears can read - somewhat.  This one was
+reading from an old tome.    
+~
+4168 0 0 0 0 0 0 0 -900 E
+37 19 -20 1d37+2450 3d6+24
+400 46733
+8 8 0
+BareHandAttack: 15
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 14
+Luck: 12
+Class: 1
+Race: 7
+E
+#4811
+deepspawn spawn~
+the DeepSpawn~
+A DeepSpawn sits in the center of the room, its many eyes glaring at you.
+~
+This abomination of nature rests casually in this dark, stinking place
+creating minions of Hell, sending them out to wreck havoc upon the
+lands.    
+~
+67635210 0 0 0 16 0 0 0 -1000 E
+44 24 -24 1d44+2900 4d5+29
+600 72697
+5 5 0
+BareHandAttack: 8
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 6
+Luck: 12
+Class: 9
+Race: 35
+E
+#4812
+feyr sleeping~
+a sleeping Feyr~
+Gasp! You have stumbled upon a sleeping Feyr.
+~
+This mystical creature they say is born from the nightmares of others,
+the deepest, darkest fears of many coalescing into one single horror.
+This must be a melding of all the horrors in the minds of those at
+X'Raantra's.    
+~
+237578 0 0 0 262144 0 0 0 -1000 E
+47 26 -28 1d47+4000 5d5+31
+0 94614
+4 4 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 10
+Luck: 12
+Race: 49
+E
+#4813
+gargoyle statue~
+a Gargoyle~
+The statue of a gargoyle stands against the far wall.
+~
+It appears almost as if it might really BE a gargoyle, almost as if it
+were alive.  Did its right fore-claw just move?    
+~
+2090 0 0 0 16 0 0 0 -900 E
+43 23 -24 1d43+2800 4d5+28
+575 68558
+8 8 0
+BareHandAttack: 8
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 20
+Luck: 12
+Class: 4
+Race: 33
+E
+#4814
+margoyle~
+a Margoyle~
+An extremely large statue of a gargoyle rests on its laurels in the corner.
+~
+It is curled into a ball on the floor, its arms around its drawn-up
+knees.  Its head is in its arms, however it almost appears as if one
+eye might be watching you.    
+~
+530474 0 0 0 16 0 0 0 -990 E
+46 26 -24 1d46+3500 5d5+30
+650 81423
+5 5 0
+BareHandAttack: 8
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 22
+Luck: 12
+Class: 4
+Race: 33
+E
+#4815
+gibberling~
+a Gibbering~
+A small, vocal, hunchbacked man rushes at you with sword drawn.
+~
+This screaming, jabbering, howling hunchback seems more an annoyance
+than a threat, however you never know.    
+~
+4204 0 0 0 0 0 0 0 -500 E
+28 13 -12 1d28+2150 2d4+18
+250 22959
+8 8 1
+BareHandAttack: 11
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 13
+Luck: 12
+Race: 7
+E
+#4816
+gorgon~
+the Gorgon~
+A huge gorgon stamps its feet and snorts, eyeing you with hunger.
+~
+It is a huge bull-thing with horns as large as a minotaur's.  In fact,
+it almost looks like a minotaur but less humanoid.    
+~
+608266 0 0 0 16 0 0 0 -400 E
+36 18 -20 1d36+2425 3d5+24
+350 43580
+8 8 1
+BareHandAttack: 6
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 16
+Luck: 12
+Class: 2
+Race: 38
+E
+#4817
+grimlock~
+a Grimlock~
+A disgusting manlike thing ambles toward you, arms outstretched toward you.
+~
+It is dressed in nothing more than a few filthy rags, the rest of its
+body is covered in long, dirty, black hair.  Any skin which shows
+through is grey and scaly.    
+~
+526394 0 0 0 16 131072 0 0 -800 E
+48 27 -28 1d48+4500 5d5+32
+700 90757
+8 8 0
+BareHandAttack: 9
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 17
+Luck: 12
+Class: 14
+Race: 7
+E
+#4818
+hook horror~
+a Hook Horror~
+A hook horror spots you and immediately rushes!
+~
+It is huge, almost nine feet tall and at least three hundred pounds.
+It is a cross between a vulture and a man and has hooks for claws.  
+~
+682042 0 0 0 16 0 0 0 -1000 E
+49 28 -28 1d49+5000 5d5+32
+725 95656
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Class: 4
+Race: 7
+E
+#4819
+brown mold~
+a Brown Mold~
+A brown mold sucks up all the heat around it, including yours!
+~
+It is nothing more than a lump of mold on the floor of the cave,
+however it exudes a power which takes in all heat sources in its
+immediate vicinity.  Whenever directly approached whether by animate
+or inanimate, its shoots a tentacle from its center, grabbing the
+offender of its space and killing it.    
+~
+42 0 0 0 2128 0 0 0 -200 E
+42 22 -24 1d42+2700 4d5+21
+0 64565
+8 8 0
+BareHandAttack: 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 25
+Luck: 12
+E
+#4820
+mold man~
+a Mold Man~
+A mold man sees you and squats down in a fight-ready stance.
+~
+He is not large at all - about four foot, nor does he appear to be of
+any particular strength.  He does appear to know his way around a
+spear, though.    
+~
+4168 0 0 0 1048592 0 0 0 -300 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 14
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 14
+Luck: 12
+Race: 7
+E
+#4821
+bugbear clansman~
+a Bugbear Clansman~
+A bugbear clansman lumbers along.
+~
+He is covered in thick fur, his large shaggy eyebrows drooping low
+over his eyes lending him both a sad and sinister look at the same
+time.    
+~
+4680 0 0 0 16 0 0 0 -200 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 7
+E
+#4822
+deep dragon~
+a Deep Dragon~
+A Deep Dragon regards you with curiousity.
+~
+She probably wouldn't even bother to be curious if it weren't for the
+fact that only a fool human would walk straight into a Deep Dragon's
+den and stand there.    
+~
+645130 0 0 0 80 163840 0 0 -1000 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 2
+BareHandAttack: 12
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 13
+Luck: 12
+Class: 1
+Race: 9
+E
+$

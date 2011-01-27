@@ -1,0 +1,333 @@
+#3300
+orange~
+/cyan orange/c0~
+/cyAn orange/cw lies on the ground here./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+1 32 8 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+orange~
+You wonder how it got here, seeing how 
+oranges are non-migratory.
+~
+#3301
+bale wheat~
+/cwa bale of wheat/c0~
+/cwThere is a bale of wheat here./c0~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+30 96 1000 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bale wheat~
+It doesn't look appetizing to you, but
+a horse might enjoy this...
+~
+#3302
+iron flail~
+/cLan iron flail/c0~
+/cLAn iron flail/cw has been left here./c0~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+5 7333 10 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3303
+barrel perfume~
+/cwa barrel/cm of perfume/c0~
+/cwYou can smell a barrel on the other side of the room from here./c0~
+~
+20 0 0 0 0 1 0 0 0
+1200 0 0 0 0 0 0 0
+20 450 100 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+barrel perfume~
+Smells good...the label reads:
+
+   "Somewhere between GPA and MUD there lies...
+		OBSESSION"
+~
+#3304
+statue~
+a statue~
+There is a statue of Aglandiir here, made of solid gold.~
+~
+20 0 0 0 0 1 0 0 0
+740 0 0 0 0 0 0 0
+30 1200 10 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue~
+He's a pretty striking chap, for a dragon.
+~
+#3305
+halberd~
+/cwa halberd/c0~
+/cwA runed halberd lies on the ground./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+16 3466 3000 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+halberd~
+The runes glow with a bright light, making you
+think that this might be a pretty decent weapon.
+~
+A
+18 1
+#3306
+vial fluid potion protection~
+/cca potion of protection/c0~
+A vial of some kind of fluid lies here.~
+$n pours a drop on top of $s head.
+Suddenly, a faint shield of energy engulfs $m!
+~
+10 1 0 0 0 1 0 0 0
+20 1 29 36 0 0 0 0
+1 1440 2000 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion protection dun vial~
+Looks thick, and brownish-grey (dun).  Ick!
+~
+#3307
+headband~
+/cwa /cLblack/cw headband/c0~
+A black headband sits here, ready for your use.~
+~
+9 1 0 0 0 16 0 0 0
+2 0 0 0 0 0 0 0
+3 2333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+#3308
+apple~
+/cwan /cRapple/c0~
+/cwA scrawny /cRred apple /cwsits here./c0~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 16 2 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+apple~
+It is not wormy... yet.
+~
+#3309
+bread loaf~
+/cwa loaf of bread/c0~
+A fresh loaf of bread lies here.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+1 48 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bread loaf~
+Mmmm... Rye!
+~
+#3310
+melon~
+/cga melon/c0~
+/cgA melon/cw sits here, evidently discarded./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+3 32 3 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+melon~
+Wow!  Look at the size of that melon!
+~
+#3311
+knife~
+/cwa knife/c0~
+/cwA sturdily made butcher's knife rests here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+8 2000 2 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3312
+sword long~
+/cwa long sword/c0~
+/cwA superb long sword sticks in the earth./c0~
+~
+5 536584 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 6452 10 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword long~
+This sword is light, but the heft is perfectly
+balanced.  Such an incredible weapon can only have
+be crafted by the legendary smith Gabadiel, and
+as such be worth a fortune!
+~
+A
+18 1
+#3313
+sword short~
+/cba short sword/c0~
+/cbA short sword/cw lies here... a work of art!/c0~
+~
+5 536841 0 0 0 24577 0 0 0
+0 0 0 3 0 0 0 0
+10 21072 10 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword short~
+It brings tears to your eyes.  This must have
+been Gabadiel the smith's masterpiece; his final
+work.  Simply invaluble.
+~
+A
+18 1
+A
+2 1
+#3314
+rolling pin~
+/cwa rolling pin/c0~
+/cwA wooden rolling pin is lying here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+4 3466 1 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#3315
+armor plate suit~
+/cca suit of plate armor/c0~
+/ccA suit of plate armor/cw has been left here./c0~
+~
+9 675840 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+18 7200 50 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+armor suit plate mail~
+This armor was made especially for the Lord's Guard.
+~
+A
+2 -1
+A
+14 -10
+A
+13 25
+#3316
+cooler~
+/cwa cooler/c0~
+/cwA cooler rests against the far wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+200 5 0 0 0 0 0 0
+5000 200 20 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cooler~
+It must be magically maintained, to keep all the food cold.
+~
+#3317
+lord's Lord's badge office~
+/cwthe Lord's /ccBadge of Office/c0~
+/cwThe Lord's /ccBadge of Office/cw lays neglected on the ground./c0~
+~
+9 0 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+9 9126 40 37 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+badge office~
+This is the Lord's symbol of integrity and responsibility,
+the symbol of the people of Jareth.
+~
+A
+4 1
+A
+1 -1
+A
+13 20
+#3318
+helm~
+/cwa metal helm/c0~
+/cwA metal helm has been left here./c0~
+~
+9 64 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+6 226 50 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3319
+wine glass~
+a /cCglass/c0~
+A glass of wine sits forgotten here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 2 0 0 0 0 0
+2 1 2 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+glass~
+This is a nice glass filled with the Lord's finest.
+~
+#3320
+tea cup~
+/cca cup/c0~
+A cup of tea sits here.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 11 0 0 0 0 0
+2 1 3 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tea cup~
+Looks good.  Looks warm.  Doesn't matter; it still looks good.
+~
+#3321
+slice pie~
+/cwa slice of /cmpie/c0~
+/cwA slice of /cmpie/cw has been left here uneaten./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 8 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+slice pie~
+Whew!  Looks like some good food!
+~
+#3322
+key shiny~
+a shiny key~
+/cWA shiny key has been dropped here./c0~
+~
+18 65549 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3325
+key grey metal~
+/cwa /cLgrey/cw key/c0~
+/cwA key made of /cLstrange grey metal/cw has been left here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3399
+deed lords keep~
+the deed to Lord's Keep~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+33 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

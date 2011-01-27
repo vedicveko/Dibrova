@@ -1,0 +1,152 @@
+#11800
+rodent small~
+a small Rodent~
+A small rodent scuttles out of your way as you pass by.
+~
+It is just another one of those unidentifiable forest vermin that
+always seem to barely pass out of sight before you can tell exactly
+what it is.    
+~
+72 0 0 0 524288 0 0 0 0 E
+6 1 76 1d1+0 1d2+3
+0 451
+8 8 0
+Str: 24
+Dex: 23
+Int: 8
+Wis: 14
+Con: 22
+Cha: 12
+Luck: 12
+Race: 1
+E
+#11801
+grouse wings flurry~
+a forest Grouse~
+A flurry of wings is all that you get a glimpse of as you approach.
+~
+It is startling, of course, as it always is but it is nothing more
+than a simple grouse taking flight.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 1d1+0 1d2+3
+0 669
+8 8 0
+Str: 8
+Dex: 22
+Int: 23
+Wis: 10
+Con: 5
+Cha: 18
+Luck: 18
+Race: 3
+E
+#11802
+elf wood~
+a beautiful, young Wood Elf~
+A beautiful young wood elf glides on silent feet through the forest.
+~
+Her cheeks twinkle slightly with a strange sparkle.  She sees you and
+smiles, and then moves out of sight.    
+~
+72 0 0 0 524288 0 0 0 600 E
+17 6 32 1d1+0 1d3+11
+75 6432
+8 8 2
+Str: 8
+Dex: 9
+Int: 5
+Wis: 19
+Con: 18
+Cha: 17
+Luck: 9
+Race: 15
+E
+#11803
+frog tree large~
+a large Tree Frog~
+A large tree frogs hops toward a nearby tree.
+~
+Its skin is brown and mottled, full of bumps and warts.  Don't touch
+it - you may get a wart!    
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 1d1+0 1d3+4
+0 941
+8 8 0
+Str: 8
+Dex: 8
+Int: 10
+Wis: 25
+Con: 7
+Cha: 18
+Luck: 22
+Race: 2
+E
+#11804
+owl spotted~
+a great Spotted Owl~
+A great spotted owl sits nestled high in a tree, looking quite content.
+~
+It keeps it head nestled within its wing, looking for all the world
+like it could sit there forvere with no complaints.    
+~
+10 0 0 0 0 0 0 0 0 E
+8 2 68 1d1+0 1d3+4
+0 941
+8 8 0
+Str: 6
+Dex: 23
+Int: 8
+Wis: 12
+Con: 21
+Cha: 5
+Luck: 9
+Race: 3
+E
+#11805
+squirrel brown~
+a brown Squirrel~
+A brown squirrel chitters and spitters in your general directtion as you pass.
+~
+Cute little bugger, but noisy as hell...
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 1d1+0 1d2+2
+0 160
+8 8 0
+Str: 24
+Dex: 21
+Int: 6
+Wis: 20
+Con: 16
+Cha: 9
+Luck: 24
+Race: 1
+E
+#11806
+hermit forest~
+the forest Hermit~
+A forest hermit makes his way through the trees, pointedly ignoring you.
+~
+Tales are told of this man, a half-crazy person who used to be a
+prominent merchant in Malathar.  It seems his fortunes went belly up
+when a competitor came to town and undercut all of his prices, putting
+him out of business.  Now he shuns all of mankind, pretending that
+none exist.    
+~
+16456 0 0 0 538509312 4194304 0 0 -100 E
+43 23 -24 1d1+0 4d5+28
+575 68558
+8 8 1
+Str: 8
+Dex: 16
+Int: 16
+Wis: 15
+Con: 10
+Cha: 15
+Luck: 22
+Class: 5
+Race: 14
+E
+$

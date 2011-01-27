@@ -1,0 +1,1841 @@
+#800
+Through the Rubble~
+You carefully bypass the rubble which blocks your way.  As you step
+clear you notice a heavily carved set of stairs, though these are much
+larger than humans would need.  Down the stairs all you can see is
+pitch blackness and a vile smelling odor, enough to almost make you
+vomit.  There are no other exits except for north, back through the
+rubble.    
+~
+8 33057 0 0 0 0
+D0
+~
+rubble~
+1 0 2438 3
+D5
+Down the Stairs
+~
+~
+0 0 801 0
+S
+#801
+Down the Stairs~
+Your travel perilously down these massive stairs, though it looks as
+if these stairs have not been used in quite a long time.  You pause
+for a moment to examine the craftsmenship of the stairs.  The carvings
+in them seem to be of large winged creatures hovering above smaller
+docile creatures.  You take a moment to think, but are soon reawakened
+by the stench you sensed earlier.  You can either head down farther or
+back the way you came.    
+~
+8 33057 0 0 0 0
+D4
+Through the Rubble
+~
+~
+0 0 800 0
+D5
+End of the Stairs
+~
+~
+0 0 802 0
+S
+#802
+End of the Stairs~
+Your journey down the stairs comes abrubtly to a halt as you see there
+are no more stairs to walk down.  You almost trip not anticipating
+this sudden change.  The room before you is almost cave like in its
+appearance, yet something is different.  The smell from before is
+stronger than ever before and it also seems that it has gotten quite
+warm.  You wonder where you could be.  You flash your light about only
+to find an exit east.    
+~
+8 33061 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 803 0
+D4
+Down the Stairs
+~
+~
+0 0 801 0
+S
+#803
+In the Lava Tubes~
+WHOOOOO!!!!  Man is it hot in here.  Your armor sticks to your body
+like a second skin and the sweat from your brow rolls down your face
+at an uncontrollable rate.  With the addition of a rotten odor, the
+combination of the two send you reeling.  As your head begins to spin,
+you see that there are exits leading off into all directions.  
+Perhaps going west would be best before you pass out.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 804 0
+D1
+In the Lava Tubes
+~
+~
+0 0 828 0
+D2
+In the Lava Tubes
+~
+~
+0 0 805 0
+D3
+End of the Stairs
+~
+~
+0 0 802 0
+S
+#804
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 806 0
+D2
+In the Lava Tubes
+~
+~
+0 0 803 0
+S
+#805
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 803 0
+D2
+In the Lava Tubes
+~
+~
+0 0 807 0
+S
+#806
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 827 0
+D2
+In the Lava Tubes
+~
+~
+0 0 804 0
+S
+#807
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 805 0
+D2
+~
+~
+0 0 841 0
+D3
+In the Lava Tubes
+~
+~
+0 0 808 0
+S
+#808
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 807 0
+D3
+In the Lava Tubes
+~
+~
+0 0 809 0
+S
+#809
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 808 0
+D2
+In the Lava Tubes
+~
+~
+0 0 810 0
+D3
+In the Lava Tubes
+~
+~
+0 0 811 0
+S
+#810
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 809 0
+S
+#811
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 809 0
+D3
+In the Lava Tubes
+~
+~
+0 0 812 0
+S
+#812
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 813 0
+D1
+In the Lava Tubes
+~
+~
+0 0 811 0
+D3
+~
+~
+0 0 890 0
+S
+#813
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 814 0
+D2
+In the Lava Tubes
+~
+~
+0 0 812 0
+S
+#814
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 818 0
+D2
+In the Lava Tubes
+~
+~
+0 0 813 0
+D3
+In the Lava Tubes
+~
+~
+0 0 815 0
+S
+#815
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 814 0
+D3
+In the Lava Tubes
+~
+~
+0 0 816 0
+S
+#816
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 815 0
+D2
+A Magma Chamber
+~
+~
+0 0 817 0
+S
+#817
+A Magma Chamber~
+Before you rests a vast pool of molten lava.  The lava churns and
+spits violently almost as if it were a living being.  There is a
+slight glow radiating from the pool illuminating the room softly.  
+You feel entranced by the constant churning of the lava and sense a
+presence behind it.  The lava buldges again violently as a huge
+creature spews forth and tries to attack you.    
+~
+8 352 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 816 0
+S
+#818
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 819 0
+D2
+In the Lava Tubes
+~
+~
+0 0 814 0
+S
+#819
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 821 0
+D2
+In the Lava Tubes
+~
+~
+0 0 820 0
+D3
+In the Lava Tubes
+~
+~
+0 0 818 0
+S
+#820
+Smokey Lair~
+The size of this room can not be determined by the naked eye, it could
+be the start of an enormous cavern or could just be a cubby-hole in
+the rock.  The place is so entirely filled with smoke and burning ash
+that visibility is at zero.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 819 0
+S
+#821
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 822 0
+D2
+In the Lava Tubes
+~
+~
+0 0 819 0
+S
+#822
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 823 0
+D2
+In the Lava Tubes
+~
+~
+0 0 821 0
+S
+#823
+An intersection in the Lava Tubes~
+This small blackened cavern is the intersection of the Lava Tubes and the
+Ring of Fire.  The still air is hot, as it was in the tubes, and heavy.
+Rustling sounds of a fire burning and flickering lights from the east and
+west hint that a change of scenery is imminent.
+~
+8 33024 0 0 0 0
+D1
+A Large Crevasse
+~
+~
+0 0 825 0
+D2
+In the Lava Tubes
+~
+~
+0 0 822 0
+D3
+In the Lava Tubes
+~
+~
+0 0 824 0
+S
+#824
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 823 0
+D3
+~
+~
+0 0 889 0
+S
+#825
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 881 0
+D1
+A Cave Filled With Totems
+~
+~
+0 0 826 0
+D3
+In the Lava Tubes
+~
+~
+0 0 823 0
+S
+#826
+Fiery Abode~
+A large pedestal, engulfed in flames, stands in the middle of the room.
+Upon it lie scores of tomes, filled with ancient knowledge regarding the
+Fire Plane.  A study lies in the back corner of the room, providing a 
+comfortable place to conduct research.  Flickering globes of fire offer
+a soft light, yet no harmful heat radiates from them.
+~
+8 67141921 0 0 0 0
+D3
+A Large Crevasse
+~
+~
+0 0 825 0
+S
+#827
+Lair~
+An intense fire burns in the center of this room.  The flames which
+steadily blaze here make no sound, no crackling or roaring, they
+simply burn silently about two feet off the ground.  It almost appears
+is if they may be the resident of this place's bed.  Could this be?  
+~
+8 33057 0 0 0 0
+D3
+In the Lava Tubes
+~
+~
+0 0 806 0
+S
+#828
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 829 0
+D3
+In the Lava Tubes
+~
+~
+0 0 803 0
+S
+#829
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+In the Lava Tubes
+~
+~
+0 0 830 0
+D3
+In the Lava Tubes
+~
+~
+0 0 828 0
+S
+#830
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.  
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 831 0
+D2
+~
+~
+0 0 870 0
+D3
+In the Lava Tubes
+~
+~
+0 0 829 0
+S
+#831
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 832 0
+D2
+In the Lava Tubes
+~
+~
+0 0 830 0
+S
+#832
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.  
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 835 0
+D1
+In the Lava Tubes
+~
+~
+0 0 833 0
+D2
+In the Lava Tubes
+~
+~
+0 0 831 0
+S
+#833
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+The Lava Beast's Den
+~
+~
+0 0 834 0
+D3
+In the Lava Tubes
+~
+~
+0 0 832 0
+S
+#834
+The Lava Beast's Den~
+Scattered about the room is the remains of numerous meals of the
+Lava Beast, which apparently is sleeping before you right now.  It
+flicks its tongue out quickly, startling you.  Within the remains lies
+numerous weaponry and armor, which may prove to be useful, but doing
+so may cause the sleeping beast to wake.  There is still time to
+retreat to the west. 
+~
+8 33281 0 0 0 0
+D3
+In the Lava Tubes
+~
+~
+0 0 833 0
+S
+#835
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 836 0
+D2
+In the Lava Tubes
+~
+~
+0 0 832 0
+S
+#836
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+In the Lava Tubes
+~
+~
+0 0 837 0
+D2
+In the Lava Tubes
+~
+~
+0 0 835 0
+S
+#837
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D2
+In the Lava Tubes
+~
+~
+0 0 836 0
+D3
+A Way Out
+~
+~
+0 0 838 0
+S
+#838
+A Way Out~
+You feel a wave of fresh air pass over you.  There must be an exit
+to this tunnel madness ahead of you somewhere.  Your strength begins
+to return, as you feel reenergized by the mere thought of "outside".
+There is more tunnel to the north and east returns you to the tunnel
+hell earlier.    
+~
+8 33025 0 0 0 0
+D0
+A Sloping Tunnel
+~
+~
+0 0 839 0
+D1
+In the Lava Tubes
+~
+~
+0 0 837 0
+S
+#839
+A Sloping Tunnel~
+As you press onward the lava tube of before begins to slope upward.  
+A strong wind has now replaced the gentle breeze, and you find
+yourself struggling to move forward.  You search frantically for a
+handhold along the tunnel wall to pull yourself forward but instead
+you find a latch to a trapdoor, lining the ceiling.  You pull the
+latch, the trapdoor swings open and a new way out is discovered.  
+Exits are up and south.    
+~
+8 33025 0 0 0 0
+D2
+A Way Out
+~
+~
+0 0 838 0
+D4
+A Rocky Outcrop
+~
+~
+0 0 840 0
+S
+#840
+A Rocky Outcrop~
+Several large boulders surround you on all sides, leaving little
+maneuvering room to dust yourself off and catch your breath, but you
+do so.  The heat and odor of the tubes has subsided and you suspect
+that you are somewhere outdoors.  There are several small boulders
+above you, if you were to move then you might be able to get a closer
+glimpse of your location.  There is an exit down.    
+~
+8 32768 0 0 0 0
+D5
+A Sloping Tunnel
+~
+~
+0 0 839 0
+S
+#841
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 807 0
+D2
+~
+~
+0 0 842 0
+S
+#842
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 841 0
+D3
+~
+~
+0 0 843 0
+S
+#843
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 842 0
+D3
+~
+~
+0 0 844 0
+S
+#844
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 843 0
+D2
+~
+~
+0 0 845 0
+S
+#845
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 844 0
+D2
+~
+~
+0 0 846 0
+S
+#846
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 845 0
+D1
+~
+~
+0 0 847 0
+S
+#847
+Descent in the Lava Tubes~
+A sloping tunnel leads down through the unyielding rock, the way dark and
+swelteringly hot.  A way through the rock leads west as well.    
+~
+8 33057 0 0 0 0
+D3
+~
+~
+0 0 846 0
+D5
+~
+~
+0 0 848 0
+S
+#848
+Ascent in the Lava Tubes~
+The tunnel slopes upward into darkness, the slope certainly climbable if that
+is your wont.  Off to the east through a heated hazy darkness you see that the
+tunnel continues along, the way all but lost in darkness.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 851 0
+D4
+~
+~
+0 0 847 0
+S
+#849
+Lair~
+This place is absolutely enormous, the ceiling reaching high out of sight in
+the darkness of the caves.  The main interest of this room is a dominating
+fireplace which roars with an enormous fire.    
+~
+8 33281 0 0 0 0
+D1
+~
+~
+0 0 850 0
+S
+#850
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 851 0
+D2
+~
+~
+0 0 858 0
+D3
+~
+~
+0 0 849 0
+S
+#851
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 852 0
+D2
+~
+~
+0 0 850 0
+D3
+~
+~
+0 0 848 0
+S
+#852
+A bend in the Lava Tunnels~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 853 0
+D2
+~
+~
+0 0 851 0
+S
+#853
+In the Lava Tunnels~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 854 0
+D3
+~
+~
+0 0 852 0
+S
+#854
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 855 0
+D1
+~
+~
+0 0 857 0
+D2
+~
+~
+0 0 856 0
+D3
+~
+~
+0 0 853 0
+S
+#855
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D2
+~
+~
+0 0 854 0
+S
+#856
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D0
+~
+~
+0 0 854 0
+S
+#857
+Temple of the Flame~
+A strange altar of molten rock is melted into the west wall of this
+place.  The walls themselves are of melted rock, which almost appears
+as if it still runs liquid-like down from ceiling to floor.    
+~
+8 33281 0 0 0 0
+D3
+~
+~
+0 0 854 0
+S
+#858
+In the Lava Tunnels~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 850 0
+D2
+~
+~
+0 0 859 0
+S
+#859
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 858 0
+D1
+~
+~
+0 0 860 0
+D3
+~
+~
+0 0 861 0
+S
+#860
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 862 0
+D2
+~
+~
+0 0 865 0
+D3
+~
+~
+0 0 859 0
+S
+#861
+Lair~
+The glowing embers of red coal which glow underfoot do nothing to lend any
+sense of comfort as the realization comes upon you that you stand within the
+lair of a dragon.  The heaping piles of melted red rubies, so superheated that
+they have melded themselves into the very rock dazzle your eyes, distrcting you
+for one brief moment from the danger at hand.  
+~
+8 33281 0 0 0 0
+D1
+~
+~
+0 0 859 0
+S
+#862
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 863 0
+D3
+~
+~
+0 0 860 0
+S
+#863
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 864 0
+D2
+~
+~
+0 0 862 0
+S
+#864
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D3
+~
+~
+0 0 863 0
+S
+#865
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 860 0
+D2
+~
+~
+0 0 866 0
+S
+#866
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 865 0
+D1
+~
+~
+0 0 867 0
+S
+#867
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D3
+~
+~
+0 0 866 0
+S
+#870
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 830 0
+D2
+~
+~
+0 0 871 0
+S
+#871
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 870 0
+D2
+~
+~
+0 0 872 0
+S
+#872
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 871 0
+D1
+~
+~
+0 0 873 0
+S
+#873
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 874 0
+D3
+~
+~
+0 0 872 0
+S
+#874
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 875 0
+D3
+~
+~
+0 0 873 0
+S
+#875
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 876 0
+D2
+~
+~
+0 0 874 0
+S
+#876
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 877 0
+D2
+~
+~
+0 0 875 0
+S
+#877
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 878 0
+D2
+~
+~
+0 0 876 0
+S
+#878
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 879 0
+D2
+~
+~
+0 0 877 0
+D3
+~
+~
+0 0 880 0
+S
+#879
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D3
+~
+~
+0 0 878 0
+S
+#880
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D1
+~
+~
+0 0 878 0
+S
+#881
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D0
+~
+~
+0 0 882 0
+D2
+~
+~
+0 0 825 0
+S
+#882
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D2
+~
+~
+0 0 881 0
+D3
+~
+~
+0 0 883 0
+S
+#883
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+~
+~
+0 0 882 0
+D3
+~
+~
+0 0 884 0
+S
+#884
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+~
+~
+0 0 883 0
+D3
+~
+~
+0 0 885 0
+S
+#885
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+~
+~
+0 0 884 0
+D3
+~
+~
+0 0 886 0
+S
+#886
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+~
+~
+0 0 885 0
+D2
+~
+~
+0 0 887 0
+S
+#887
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D0
+~
+~
+0 0 886 0
+D2
+~
+~
+0 0 888 0
+S
+#888
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D0
+~
+~
+0 0 887 0
+D1
+~
+~
+0 0 889 0
+S
+#889
+Ring of Fire~
+A powerful force has set the tunnel walls ablaze with some kind of
+harmless magical fire.  Orangish flames crackle and bluish flames leap
+from the ceiling to the floor as they burn away at some unseen energy
+source.  The oppressive heat from the previous tunnels still course
+through here, lending some realism to these magical flames.    
+~
+8 33024 0 0 0 0
+D1
+~
+~
+0 0 824 0
+D3
+~
+~
+0 0 888 0
+S
+#890
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 812 0
+D2
+~
+~
+0 0 891 0
+S
+#891
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 890 0
+D3
+~
+~
+0 0 892 0
+S
+#892
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 891 0
+D3
+~
+~
+0 0 893 0
+S
+#893
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D1
+~
+~
+0 0 892 0
+D3
+~
+~
+0 0 894 0
+S
+#894
+A bend in the Lava Tubes~
+The sweltering heat pulsates through these tunnels, offering no relief
+for the weary traveller.  No sound can be made here due to the
+insulating crust of hardened lava lining the walls.  Travelling
+through these parts is rough because the magma was slowly cooled,
+creating an uneven and jagged surface underneath one's feet.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 895 0
+D1
+~
+~
+0 0 893 0
+S
+#895
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 896 0
+D2
+~
+~
+0 0 894 0
+S
+#896
+In the Lava Tubes~
+The Lava Tubes were formed long ago when molten magma flowed from some
+hidden source, deep inside the earth, to the surface.  Magma no longer
+flows through here, although it must flow nearby because the hardened
+lava walls pulsate with an intense heat.  The rough, blackened walls
+seem to act as insulators, for there seems to be no relief from the
+throbbing heat that flows through here.    
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 897 0
+D2
+~
+~
+0 0 895 0
+S
+#897
+An intersection in the Lava Tubes~
+The harden walls of the tunnels meet here to form an intersection.
+The heat pulsates strongly through here.  Where each tunnel leads from
+here, only the hardy explorers who have survived it here know. 
+~
+8 33057 0 0 0 0
+D0
+~
+~
+0 0 899 0
+D2
+~
+~
+0 0 896 0
+D3
+~
+~
+0 0 898 0
+S
+#898
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.    
+~
+8 33281 0 0 0 0
+D1
+~
+~
+0 0 897 0
+S
+#899
+Lair~
+The walls of the lair are alive with flames, which leap and blast
+fierce heat about.  A comfortable resting place lies in the back
+corner of the lair.  Fiery runes adorn the entranceway, warding off
+those who seek to do harm here.
+~
+8 33281 0 0 0 0
+D2
+~
+~
+0 0 897 0
+S
+$~

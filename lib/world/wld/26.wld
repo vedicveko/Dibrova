@@ -1,0 +1,1833 @@
+#2600
+The Draw bridge~
+The castle stands before you.  A rather small drawbridge allows access
+into the castle.  It is made of sturdy oak planks bound together by
+strapping bands of iron.  Numerous dents in the wood tell stories of
+the countless sieges it has withstood.  The steep banks of the foul
+smelling moat are to you left and right.  The castle lies ahead to the
+north or you can leave the castle to the south.    
+~
+26 0 0 0 0 0
+D0
+~
+drawbridge~
+1 0 2601 1
+D1
+~
+~
+0 0 2606 0
+D2
+~
+~
+0 0 2620 0
+D3
+~
+~
+0 0 2607 0
+S
+#2601
+The First Entrance to the Castle~
+This small peninsula of land that justs out into the moat from the
+castle mainland serves as the Checkpoint.  Visitors coming in from all
+over the realm are stopped and searched here.  The steep banks of the
+moat are to your left and right.  The castle lies just ahead to the
+north or you can leave the castle to the south.    
+~
+26 4 0 0 0 0
+D0
+~
+~
+0 0 2602 0
+D1
+~
+~
+0 0 2609 0
+D2
+~
+~
+0 0 2600 0
+D3
+~
+~
+0 0 2608 0
+S
+#2602
+The Grand Entrance of the Castle~
+This is the Grand Entrance of the castle.  Colorful banners showing
+all the crests of the castle's allies swing gaily from up on high.  
+Brightly lit torches lead the way into the heart of the castle.  The
+walkway between the castle walls begin to the east and west.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2603 0
+D1
+~
+~
+0 0 2610 0
+D2
+~
+~
+0 0 2601 0
+D3
+~
+~
+0 0 2660 0
+S
+#2603
+Main Street~
+This is a small street that runs north/south through the castle.  In
+fact it is the only street in here.  Along this street, you see many
+people walking about.  Some folks are heading to the shops, others to
+the courtyard.  Everything one would need can be found along Main
+Street.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2604 0
+D1
+~
+~
+0 0 2639 0
+D2
+~
+~
+0 0 2602 0
+D3
+~
+~
+0 0 2612 0
+S
+#2604
+Main Street~
+This is a small street that runs north/south through the castle.  In
+fact it is the only street in here.  Along this street, you see many
+people walking about.  Some folks are heading to the shops, others to
+the courtyard.  Everything one would need can be found along Main
+Street.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2605 0
+D1
+~
+~
+0 0 2656 0
+D2
+~
+~
+0 0 2603 0
+S
+#2605
+End of Main Street~
+This is a small street that runs north/south through the castle.  In
+fact it is the only street in here.  Along this street, you see many
+people walking about.  Some folks are heading to the shops, others to
+the courtyard.  Everything one would need can be found along Main
+Street.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2611 0
+D2
+~
+~
+0 0 2604 0
+D3
+~
+~
+0 0 2653 0
+S
+#2606
+The Moat~
+The waters of the moat are foul smelling and stagnant.  The murky
+black water swirls about as unseen things swim around under the
+surface.  Bubbles of noxious gases arise from the deapths and burst on
+the surface.  Functioning as a wonderful defense mechanism, it
+surrounds all around the castle.    
+~
+26 0 0 0 0 6
+D0
+~
+~
+0 0 2609 0
+D3
+~
+~
+0 0 2641 0
+S
+#2607
+The Moat~
+The waters of the moat are foul smelling and stagnant.  The murky
+black water swirls about as unseen things swim around under the
+surface.  Bubbles of noxious gases arise from the deapths and burst on
+the surface.  Functioning as a wonderful defense mechanism, it
+surrounds all around the castle.    
+~
+26 0 0 0 0 6
+D0
+~
+~
+0 0 2608 0
+D1
+~
+~
+0 0 2641 0
+S
+#2608
+The Moat~
+The waters of the moat are foul smelling and stagnant.  The murky
+black water swirls about as unseen things swim around under the
+surface.  Bubbles of noxious gases arise from the deapths and burst on
+the surface.  Functioning as a wonderful defense mechanism, it
+surrounds all around the castle.    
+~
+26 4 0 0 0 0
+D2
+~
+~
+0 0 2607 0
+S
+#2609
+The Moat~
+The waters of the moat are foul smelling and stagnant.  The murky
+black water swirls about as unseen things swim around under the
+surface.  Bubbles of noxious gases arise from the deapths and burst on
+the surface.  Functioning as a wonderful defense mechanism, it
+surrounds all around the castle.  A strange wooden water filtration
+device has been set up at the north bank of the moat.  It allows water
+in from the river, which is just north of here, but not out.  This
+probably being from pressure placed on the powers-that-be in the Midan
+Castle to keep the river free from the taint that is this awful moat.
+You may climb over the device and head out onto the river or head back
+through the moat to the castle's entryway.    
+~
+26 4 0 0 0 6
+D0
+~
+~
+0 0 6299 0
+D2
+~
+~
+0 0 2606 0
+S
+#2610
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 4 0 0 0 0
+D1
+~
+~
+0 0 2675 0
+D3
+~
+~
+0 0 2602 0
+S
+#2611
+Haggler's Row~
+Tents are set up all along this row.  Products of all kinds can be
+purchased here from the local people.  Folks run about you trying to
+get what they can while its on sale.  This is truly a shopper's
+paradise!    
+~
+26 4 0 0 0 0
+D1
+~
+~
+0 0 2643 0
+D3
+~
+~
+0 0 2605 0
+S
+#2612
+Base of the King's Tower~
+The King's Tower rises far above you, blocking out the sun.  Ancient
+foundations still hold fast and sure despite the abundance of green
+moss growing in the cracks.  English ivy gracefully adorns the tower.
+This is the home of the ruling family of the castle.    
+~
+26 12 0 0 0 0
+D0
+~
+~
+0 0 2652 0
+D1
+~
+~
+0 0 2603 0
+D4
+~
+~
+0 0 2613 0
+S
+#2613
+Tower to the Kings Room~
+This is the hub of the tower which has obviously been constructed by
+fine builders.  Red carpeting lines the floor and tapestries cover the
+walls.  Members of the royal family have their quarters here.    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2650 0
+D2
+~
+~
+0 0 2615 0
+D3
+~
+~
+0 0 2614 0
+D4
+~
+~
+0 0 2619 0
+D5
+~
+~
+0 0 2612 0
+S
+#2614
+Regal Hallway ~
+You have entered a large hallway.  There is a large ornate rug on the
+floor here which moves down the length of the hallway.  There are also
+two large tapestries on the walls, one on each side.  Torches on the
+wall provide light for people to see.    
+~
+26 8 0 0 0 0
+D1
+~
+~
+0 0 2613 0
+S
+#2615
+Regal Hallway ~
+You have entered a large hallway.  There is a large ornate rug on the
+floor here which moves down the length of the hallway.  There are also
+two large tapestries on the walls, one on each side.  Torches on the
+wall provide light for people to see.    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2613 0
+D1
+~
+~
+0 0 2616 0
+S
+#2616
+Regal Hallway ~
+You have entered a large hallway.  There is a large ornate rug on the
+floor here which moves down the length of the hallway.  There are also
+two large tapestries on the walls, one on each side.  Torches on the
+wall provide light for people to see.    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2618 0
+D1
+~
+~
+0 0 2617 0
+D3
+~
+~
+0 0 2615 0
+S
+#2617
+End of the Regal Hallway ~
+You have entered a large hallway.  There is a large ornate rug on the
+floor here which moves down the length of the hallway.  There are also
+two large tapestries on the walls, one on each side.  Torches on the
+wall provide light for people to see.    
+~
+26 8 0 0 0 0
+D3
+~
+~
+0 0 2616 0
+S
+#2618
+Royale Guards Quarters~
+Everything in this large room is spic-n-span.  Military-style cots sit
+in the back of the room.  Uniforms hang neatly in a small closet in
+the east wall.  This is where the royale guards live and sleep.    
+~
+26 8 0 0 0 0
+D2
+~
+~
+0 0 2616 0
+S
+#2619
+The Kings Room~
+A large skylight lets the sunlight into this richly furnished room.  
+Gold adorns the ceiling and mirrors hang on the walls.  A large desk
+is to your east.  Upon it is the stamp of the royal seal, bound
+scrolls, wax block, and a feathery quill.  Indeed, this is the chamber
+of the King!    
+~
+26 8 0 0 0 0
+D0
+Nothing.
+~
+~
+0 0 2657 0
+D5
+~
+~
+0 0 2613 0
+S
+#2620
+The Path to the Castle~
+This wide path has been well maintained over the years.  Unlike many
+other paths/roads, it offers smooth and comfortable traveling.  
+Fields of wheat and oats waver in the breeze along this path.  The
+castle lies to the north.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2600 0
+D1
+~
+~
+0 0 2621 0
+S
+#2621
+A T-Intersection~
+There are three ways one can go from this point.  The well-maintained
+path to the castle is to the west.  A heavily traveled path goes to
+the south.  A dirt path heading towards a clearing is eastwards.    
+~
+26 4 0 0 0 2
+D1
+~
+~
+0 0 2683 0
+D2
+~
+~
+0 0 2622 0
+D3
+~
+~
+0 0 2620 0
+S
+#2622
+A Well Traveled Path~
+The trampling to countless feet has mauled the vegetation here to
+death.  All that remains along this path are scraggly weeds that grow
+on the far edges of the path.  Battle cries and shouts of pain can be
+heard coming from the east.  The path continues north and south.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2621 0
+D1
+~
+~
+0 0 2623 0
+D2
+~
+~
+0 0 2624 0
+S
+#2623
+The Path to the War Grounds~
+A stony path leads towards the sources of the screams and clanging
+sounds to the east.  The castle and training grounds lie back to the
+west.  Drops of blood, both fresh and dried, can be seen here and
+there splattered among the stones.    
+~
+26 4 0 0 0 2
+D1
+~
+~
+0 0 2625 0
+D3
+~
+~
+0 0 2622 0
+S
+#2624
+The Path to the Knight Training Grounds~
+The path is not as well-traveled as it was to the north.  Grass grows
+greener and stronger here due to less foot-traffic.  One can tell that
+horses routinely pass by through here from the droppings on the
+ground.  Looking ahead to the south, you can see brightly colored
+tents set up in a large field.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2622 0
+D2
+~
+~
+0 0 2627 0
+S
+#2625
+A Path through the Killing Fields~
+All about you are the Killing Fields.  A place where live and real
+training happenes.  Some folks are here for the pleasure of fighting,
+others for the practice.  Be on guard, for causulties do exist.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2638 0
+D1
+~
+~
+0 0 2636 0
+D2
+~
+~
+0 0 2626 0
+D3
+~
+~
+0 0 2623 0
+S
+#2626
+A Path through the Killing Fields~
+All about you are the Killing Fields.  A place where live and real
+training happenes.  Some folks are here for the pleasure of fighting,
+others for the practice.  Be on guard, for causulties do exist.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2625 0
+D1
+~
+~
+0 0 2634 0
+D2
+~
+~
+0 0 2682 0
+S
+#2627
+The Knight Training Grounds~
+Knights from all over the countryside come here to practice their
+skills in the hopes of being famous someday.  Jousting, boxing,
+weight-lifting, and sword practicing are some of the activities
+happening all about you.  Dodging an errant blow from a knight, you
+see entrances to large tents on your left and right.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2624 0
+D1
+~
+~
+0 0 2628 0
+D2
+~
+~
+0 0 2630 0
+D3
+~
+~
+0 0 2629 0
+S
+#2628
+A Loyal Knights Tent~
+This large tent is the home of the Knight of the White Rose.  
+Everything about you is white-colored and bears the insigna of the
+White Rose.  Wonderfully crafted weapons lie neatly on a desk to your
+left.  A large cot to your right bears polished armor ready to be
+worn.    
+~
+26 8 0 0 0 0
+D3
+~
+~
+0 0 2627 0
+S
+#2629
+A Young Squires Tent~
+The tent is small and sparsely furnished.  A table with a candle upon
+it sits in the middle of the room.  A cot lies in the back.  Piles of
+rags used for cleaning and polishing knight's gear lie scattered about
+on the floor.    
+~
+26 8 0 0 0 0
+D1
+~
+~
+0 0 2627 0
+S
+#2630
+The Knight Training Grounds~
+Knights from all over the countryside come here to practice their
+skills in the hopes of being famous someday.  Jousting, boxing,
+weight-lifting, and sword practicing are some of the activities
+happening all about you.  Dodging an errant blow from a knight, you
+see entrances to large tents on your left and right.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2627 0
+D1
+~
+~
+0 0 2631 0
+D2
+~
+~
+0 0 2633 0
+D3
+~
+~
+0 0 2632 0
+S
+#2631
+The Paladin's Tent~
+The tent is richly decorated, hinting that it belongs to someone of
+high rank.  Plush cushions upon Persian rugs invite one to feel at
+home.  A desk with a schedule of events sits in the middle of the
+room.  Fragrant inscense burns from holders suspended from the cieling
+of the tent.    
+~
+26 8 0 0 0 0
+D3
+~
+~
+0 0 2630 0
+S
+#2632
+The Maiden Squires Tent~
+The tent is small and sparsely furnished.  A table with a candle upon
+it sits in the middle of the room.  A cot lies in the back.  Piles of
+rags used for cleaning and polishing knight's gear lie scattered about
+on the floor.    
+~
+26 8 0 0 0 0
+D1
+~
+~
+0 0 2630 0
+S
+#2633
+The Trainers Tent~
+Medicines and herbal extracts line the make-shift shelves in this
+tent.  A medical cot lies in the center of the room.  A large bucket
+filled with bloody water sits next to it.  A large hole in the top of
+the tent allows sunlight through so the trainer can perform his often
+gristly duties.    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2630 0
+S
+#2634
+The Killing Fields~
+All about you are the Killing Fields.  A place where live and real
+training happenes.  Some folks are here for the pleasure of fighting,
+others for the practice.  Be on guard, for causulties do exist.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2636 0
+D1
+~
+~
+0 0 2635 0
+D3
+~
+~
+0 0 2626 0
+S
+#2635
+A Path through the Killing Fields~
+All about you are the Killing Fields.  A place where live and real
+training happenes.  Some folks are here for the pleasure of fighting,
+others for the practice.  Be on guard, for causulties do exist.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2637 0
+D3
+~
+~
+0 0 2634 0
+S
+#2636
+The Killing Fields~
+All about you is grass which has been trampled to death.  There is
+nothing here that will provide you with cover from attackers.  Blood
+stains the ground and bits of decaying flesh lie about.  The droning
+of flies searching for corpses is maddening.  This is truly the
+Killing Fields!    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2679 0
+D1
+~
+~
+0 0 2637 0
+D2
+~
+~
+0 0 2634 0
+D3
+~
+~
+0 0 2625 0
+S
+#2637
+A Path through the Killing Fields~
+All about you are the Killing Fields.  A place where live and real
+training happenes.  Some folks are here for the pleasure of fighting,
+others for the practice.  Be on guard, for causulties do exist.    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2680 0
+D2
+~
+~
+0 0 2635 0
+D3
+~
+~
+0 0 2636 0
+S
+#2638
+The Killing Fields~
+All about you is grass which has been trampled to death.  There is
+nothing here that will provide you with cover from attackers.  Blood
+stains the ground and bits of decaying flesh lie about.  The droning
+of flies searching for corpses is maddening.  This is truly the
+Killing Fields!    
+~
+26 0 0 0 0 2
+D1
+~
+~
+0 0 2637 0
+D2
+~
+~
+0 0 2625 0
+S
+#2639
+Guardhouse~
+As you enter through the granite doorway, you stop a moment to let
+your eyes adjust to the dim room.  You notice a desk placed in the
+center of the room where a Guard is seated shuffling through some
+important looking papers.  He lifts his head slightly, staring at you
+with cold, dead eyes.  You suddenly hope your reason for being here is
+a good one.  Looking east you see another office...  Dare you enter?
+Perhaps you should just turn back...    
+~
+26 12 0 0 0 0
+D1
+~
+~
+0 0 2640 0
+D3
+~
+~
+0 0 2603 0
+S
+#2640
+Warden's Office~
+Cautiously entering the Warden's office you look quickly around the
+room.  It appears as though she just left...  A steaming cup of some
+foul-looking liquid sits amongst numerous blood-stained papers.  A
+door, standing slightly ajar, reveals a set of stairs leading down...
+~
+26 12 0 0 0 0
+D3
+~
+~
+0 0 2639 0
+D5
+~
+~
+0 0 2642 0
+S
+#2641
+Under the Drawbridge on the Moat~
+The waters of the moat are foul smelling and stagnant.  The murky
+black water swirls about as unseen things swim around under the
+surface.  Bubbles of noxious gases arise from the deapths and burst on
+the surface.  Functioning as a wonderful defense mechanism, it
+surrounds all around the castle.    
+~
+26 5 0 0 0 6
+D1
+~
+~
+0 0 2606 0
+D3
+~
+~
+0 0 2607 0
+S
+#2642
+Jailer's Room~
+Standing at the bottom of the stairs, you survey the windowless room,
+looking for it's occupants.  The bare bulb, suspended from ceiling, is
+swinging back and forth casting shadows about the room.  From either
+side of you the jailers appear!!  Massive and dressed all in black,
+they advance towards you, swords drawn...  The jangle of hundreds of
+keys attached to their waists shatter the stillness.    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2645 0
+D4
+~
+~
+0 0 2640 0
+S
+#2643
+Stables~
+This is the stables.  Straw covers the floor and clean pens filled
+with animals can be seen here.  Each night, the animals of the castle
+are rounded up and locked in here to prevent any mischief done by
+them.    
+~
+26 0 0 0 0 0
+D3
+~
+~
+0 0 2611 0
+S
+#2644
+Cellroom~
+Various implements of pain and torture hang on the walls here...  
+Leather straps...  Small protruding hooks zig-zagging the length of
+them.  The blood splattered walls and streaked floor tell of many
+deaths...    
+~
+26 9 0 0 0 0
+D3
+~
+~
+0 0 2646 0
+S
+#2645
+Dungeon Hallway~
+The dark, damp hallway seems to go on forever, broken only by an
+occasional doorway.  You can see bars covering the doors, but nothing
+beyond that...  The rooms themselves are so dark you feel as though
+you are falling into the black void...    
+~
+26 8 0 0 0 0
+D0
+~
+~
+0 0 2646 0
+D1
+~
+celldoor~
+1 0 2647 1
+D2
+~
+~
+0 0 2642 0
+D3
+~
+celldoor~
+1 0 2648 1
+S
+#2646
+Dungeon Hallway~
+Venturing further down the darkened hallway you can't help but wonder
+what other horrors you will find here...  Your mind screams for you to
+turn back...    
+~
+26 8 0 0 0 0
+D1
+~
+celldoor~
+1 0 2644 1
+D2
+~
+~
+0 0 2645 0
+D3
+~
+celldoor~
+1 0 2649 1
+S
+#2647
+Cellroom~
+The bones of many men lay strewn about the blood-stained floor.  The
+shackles attached high on the wall tell of torture and excruciating
+pain...  You shudder involuntarily as you look at the dark streaks of
+dried blood that mark the wall...    
+~
+26 9 0 0 0 0
+D3
+~
+~
+0 0 2645 0
+S
+#2648
+Cellroom~
+A large table dominates the room, large handles on either end leave no
+question as to what it was used for.  As you take a closer look at the
+wrist and ankle straps you notice there are bits of torn flesh still
+present...  The smell in the room is overpowering...  Rotting flesh
+and death permeate your senses...    
+~
+26 9 0 0 0 0
+D1
+~
+~
+0 0 2645 0
+S
+#2649
+Cellroom~
+Upon entering this Cellroom your senses are immediately assaulted by
+the stench of rotting flesh.  You quickly discover the source of the
+putrid smell...  Several rotting corpses are hanging from thick chains
+attached to the walls...    
+~
+26 9 0 0 0 0
+D1
+~
+~
+0 0 2646 0
+S
+#2650
+Regal Hallway~
+You have entered a large hallway.  There is a large ornate rug on the
+floor here which moves down the length of the hallway.  There are also
+two large tapestries on the walls, one on each side.  Torches on the
+wall provide light for people to see.    
+~
+26 8 0 0 0 0
+D2
+~
+~
+0 0 2613 0
+D4
+~
+~
+0 0 2657 0
+S
+#2651
+Atop the Watchtower~
+Looking out the watchtower, you can see the surrounding countryside
+for miles.  An enemy would have a hard time trying to approached
+unnoticed.  You can see glints of light from armor in the Killing
+fields to the south.  The trees of Midan forest cover the lands to the
+east.    
+~
+26 0 0 0 0 0
+D5
+~
+~
+0 0 2665 0
+S
+#2652
+The Servants Living Quarters~
+All of the king's servants live here.  Under the watchful eye of
+experienced chefs, the servants take food to and from the tower.  
+They dutifully clean the tower and maintain castle grounds.  A string
+attached to a small bell leads up to the king's room.  When the bell
+rings, the servants hustle to do the king's bidding.  The furnishings
+in this room are plain and simple.    
+~
+26 8 0 0 0 0
+D2
+~
+~
+0 0 2612 0
+S
+#2653
+A small Courtyard~
+A small courtyard nestled between these walls offer some escape from
+the rigors of life in the castle.  Small trees and shrubs bring some
+of the outdoors into here.  Water flows from the top of the fountain
+from basin to basin until it runs into the goldfish pond at the middle
+of the courtyard.    
+~
+26 16 0 0 0 0
+D1
+~
+~
+0 0 2605 0
+S
+#2654
+Blacksmith Shop~
+Black soot covers the walls here in the Blacksmithy.  A red-hot forge
+is at the east end of the room.  Bits of metal are scattered all about
+the heavy oaken countertops in the room.  An avil and water trough
+rest in the middle of the room.  Stairs along the north wall lead
+upstairs to other shops.    
+~
+26 8 0 0 0 0
+D3
+~
+~
+0 0 2656 0
+D4
+Nothing.
+~
+~
+0 0 2658 0
+S
+#2655
+Atop the Watchtower~
+Looking out the watchtower, you can see the surrounding countryside
+for miles.  An enemy would have a hard time trying to approached
+unnoticed.  You can see glints of light from armor in the Killing
+fields to the south.  The trees of Midan forest cover the lands to the
+east.    
+~
+26 0 0 0 0 0
+D5
+~
+~
+0 0 2670 0
+S
+#2656
+The Castle Bakery~
+An old man and his wife stand behind a counter, selling freshly baked
+goods.  Wafts of cinnamon scent fill the room.  Only the finest backed
+goods are sold here.  Anything of lesser quality is sent to feed the
+animals at the stables.    
+~
+26 12 0 0 0 0
+D1
+~
+~
+0 0 2654 0
+D3
+~
+~
+0 0 2604 0
+S
+#2657
+Queen's Chambers~
+This is the Queen's chambers.  This is where all the ladies-in-waiting
+tend to her needs.  A large plush chair, elegant sink, wardrobe, and
+vanity can be seen here.  A door leads to the king's room to the
+south.    
+~
+26 8 0 0 0 0
+D2
+~
+~
+0 0 2619 0
+D5
+~
+~
+0 0 2650 0
+S
+#2658
+Weapon Shop~
+Display cases showing all kinds of weapons line the walls in this
+room.  Any weapon you will ever need can be obtained here.  If it
+happens to be a custom order, the weaponsmith will work with the
+blacksmith downstairs to craft it for you.  Stair on the north wall
+lead up/down.    
+~
+26 8 0 0 0 0
+D4
+~
+~
+0 0 2659 0
+D5
+~
+~
+0 0 2654 0
+S
+#2659
+Armory~
+Manequins modeling the latest in armors stand about the room.  Armor
+from the best craftsmen can be purchased here.  Looking about, you see
+the only way out is to go down the stairs.    
+~
+26 8 0 0 0 0
+D5
+~
+~
+0 0 2658 0
+S
+#2660
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 4 0 0 0 0
+D1
+~
+~
+0 0 2602 0
+D3
+~
+~
+0 0 2661 0
+S
+#2661
+Southwest Corner~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2662 0
+D1
+~
+~
+0 0 2660 0
+S
+#2662
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2663 0
+D2
+~
+~
+0 0 2661 0
+S
+#2663
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2664 0
+D2
+~
+~
+0 0 2662 0
+S
+#2664
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2665 0
+D2
+~
+~
+0 0 2663 0
+S
+#2665
+Northwest Watchtower~
+Heavy wooden planks have been constructed to bridge the two walls
+together here.  Looking up, you can see that a stone watchtower has
+been built upon that.  A ladder along the inner wall leads up to the
+watchtower.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2666 0
+D2
+~
+~
+0 0 2664 0
+D4
+~
+~
+0 0 2651 0
+S
+#2666
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2667 0
+D3
+~
+~
+0 0 2665 0
+S
+#2667
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2668 0
+D3
+~
+~
+0 0 2666 0
+S
+#2668
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2669 0
+D3
+~
+~
+0 0 2667 0
+S
+#2669
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2670 0
+D3
+~
+~
+0 0 2668 0
+S
+#2670
+Northeast Watchtower~
+Heavy wooden planks have been constructed to bridge the two walls
+together here.  Looking up, you can see that a stone watchtower has
+been built upon that.  A ladder along the inner wall leads up to the
+watchtower.    
+~
+26 0 0 0 0 0
+D2
+~
+~
+0 0 2671 0
+D3
+~
+~
+0 0 2669 0
+D4
+~
+~
+0 0 2655 0
+S
+#2671
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2670 0
+D2
+~
+~
+0 0 2672 0
+S
+#2672
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 1048576 0 0 0 0
+D0
+~
+~
+0 0 2671 0
+D2
+~
+~
+0 0 2673 0
+S
+#2673
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2672 0
+D2
+~
+~
+0 0 2674 0
+S
+#2674
+Southeast Corner~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D0
+~
+~
+0 0 2673 0
+D3
+~
+~
+0 0 2675 0
+S
+#2675
+In between Castle Walls~
+Grey stones of the outer and inner defense walls line the walkway.  
+Slits through the walls on both sides allow defenders to shoot arrows
+upon any attackers in case of a siege.  You realize that this castle
+is well-defended and will not fall easily to enemy hands.    
+~
+26 0 0 0 0 0
+D1
+~
+~
+0 0 2674 0
+D3
+~
+~
+0 0 2610 0
+S
+#2676
+Bear's Den~
+Under a large slab of rock lies a bear's den.  Even with the faint
+sunlight from the den entrance, it is dark in here.  Scuffling can be
+heard coming from somewhere in here.  Perhaps, it would be best to
+quietly leave back the way you came.    
+~
+26 32773 0 0 0 0
+D3
+~
+~
+0 0 2698 0
+S
+#2677
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2678 0
+D1
+~
+~
+0 0 2697 0
+S
+#2678
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads north
+and south.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2689 0
+D2
+~
+~
+0 0 2677 0
+S
+#2679
+Killing Fields~
+All about you is grass which has been trampled to death.  There is
+nothing here that will provide you with cover from attackers.  Blood
+stains the ground and bits of decaying flesh lie about.  The droning
+of flies searching for corpses is maddening.  This is truly the
+Killing Fields!    
+~
+26 0 0 0 0 2
+D1
+~
+~
+0 0 2680 0
+D2
+~
+~
+0 0 2636 0
+D3
+~
+~
+0 0 2638 0
+S
+#2680
+Killing Fields~
+All about you is grass which has been trampled to death.  There is
+nothing here that will provide you with cover from attackers.  Blood
+stains the ground and bits of decaying flesh lie about.  The droning
+of flies searching for corpses is maddening.  This is truly the
+Killing Fields!  A large tent with a faint, black aura emanating from
+it lies east.    
+~
+26 0 0 0 0 2
+D1
+~
+~
+0 0 2681 0
+D2
+~
+~
+0 0 2637 0
+D3
+~
+~
+0 0 2679 0
+S
+#2681
+Tent of the Knight of the Black Thorn~
+Upon entering the tent, a feeling of intense evil unsettles your soul.
+Rich, black silks drape over everything and plush cushions invite you
+to take a breather.  You would rest, but the presence of blood on the
+damp ground makes you nervous and jumpy.  West will take you back out
+to the Killing Fields.    
+~
+26 12 0 0 0 0
+D3
+~
+~
+0 0 2680 0
+S
+#2682
+Killing Fields~
+All about you is grass which has been trampled to death.  There is
+nothing here that will provide you with cover from attackers.  Blood
+stains the ground and bits of decaying flesh lie about.  The droning
+of flies searching for corpses is maddening.  This is truly the
+Killing Fields!    
+~
+26 0 0 0 0 2
+D0
+~
+~
+0 0 2626 0
+S
+#2683
+A Path through a Clearing~
+This clearing is wide and spacious.  Tall grasses ripple in the gentle
+breeze.  Butterflies of all kinds flitter among the colorful
+wildflowers which grow here.  To the north, the path becomes a trail
+through Midan Woods.  To the west lies a more well-traveled path.    
+~
+26 0 0 0 0 3
+D0
+~
+~
+0 0 2684 0
+D3
+~
+~
+0 0 2621 0
+S
+#2684
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  The trees are now beginning to give way to lower shrubs and tall
+grasses.  A clearing opens up to the south, while the woods is to the
+east.    
+~
+26 4 0 0 0 3
+D1
+~
+~
+0 0 2685 0
+D2
+~
+~
+0 0 2683 0
+S
+#2685
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads west
+and east.    
+~
+26 0 0 0 0 3
+D1
+~
+~
+0 0 2686 0
+D3
+~
+~
+0 0 2684 0
+S
+#2686
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads west
+and east.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2687 0
+D3
+~
+~
+0 0 2685 0
+S
+#2687
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads west
+and east.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2688 0
+D3
+~
+~
+0 0 2686 0
+S
+#2688
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads west
+and east.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2689 0
+D3
+~
+~
+0 0 2687 0
+S
+#2689
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.    
+~
+26 32768 0 0 0 3
+D2
+~
+~
+0 0 2678 0
+D3
+~
+~
+0 0 2688 0
+S
+#2690
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2692 0
+D2
+~
+~
+0 0 2697 0
+S
+#2691
+Glade in the woods~
+The trees grow further apart here, creating a glade.  Short grasses
+carpet the ground.  A small spring burbles from out the ground among
+some moss-covered rocks.  A small /cbwaterfall/c0 is created as it
+flows over the rocks.  The watery sheen seems to /cyshimmer/c0 as if a
+breeze came from the east just on the other side of the waterfall.  
+It is a peaceful place, one where a traveler can rest without worry.
+~
+26 32784 0 0 0 3
+D0
+~
+~
+0 0 2692 0
+D1
+~
+~
+0 0 959 16
+D2
+~
+~
+0 0 2698 0
+D3
+~
+~
+0 0 2697 0
+S
+#2692
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  A glade can be seen to
+the south.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2693 0
+D2
+~
+~
+0 0 2691 0
+D3
+~
+~
+0 0 2690 0
+S
+#2693
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.    
+~
+26 32768 0 0 0 3
+D2
+~
+~
+0 0 2694 0
+D3
+~
+~
+0 0 2692 0
+S
+#2694
+A bend in the Trail~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  To the south is an
+open area of rolling foothills.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2693 0
+D1
+~
+~
+0 0 2695 0
+D2
+~
+~
+0 0 10180 0
+S
+#2695
+A Trail through the Midan Woods~
+Sunlight flitters through the leaves of the trees growing high above
+you.  A few leaves, dislodged from their lofty perches by the gentle
+breeze, fall gracefully to the ground about you.  The sounds of the
+wilderness is soothing to the traveler's soul.  The trail leads west
+and east.    
+~
+26 32768 0 0 0 3
+D1
+~
+~
+0 0 2696 0
+D3
+~
+~
+0 0 2694 0
+S
+#2696
+Entrance into Midan woods~
+The comforts of Midgaard give way to the wilderness here.  Tall oaks,
+daper maples, white-barked birches, and broad-growing sycamores mark
+the beginning of Midan Woods.  A rich loam-soil trail can be seen
+leading to the west.  Midgaard lies to the east.    
+~
+26 32772 0 0 0 3
+D1
+~
+~
+0 0 3552 0
+D3
+~
+~
+0 0 2695 0
+S
+#2697
+A Trail through the Midan Woods~
+The trail takes a gentle turn here as you walk on through the woods.
+Sunlight flitters through the leaves of the trees growing high above
+you.  A glade can be seen to the east and the deep woods is to the
+south.  The trail continues north and west.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2690 0
+D1
+~
+~
+0 0 2691 0
+D2
+~
+~
+0 0 2699 0
+D3
+~
+~
+0 0 2677 0
+S
+#2698
+Deep in Midan Woods~
+The sunlight is blocked out by the crowns of the massive trees that
+grow here.  A heavily scarred tree stands before you.  It seems to
+have been clawed or gouged by some kind of large animal.  A entrance
+to a den is to the east.  The woods open up in the north and a hunters
+trail leads west.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2691 0
+D1
+~
+~
+0 0 2676 0
+D3
+~
+~
+0 0 2699 0
+S
+#2699
+Deep in Midan Woods~
+The sunlight is blocked out by the crowns of the massive trees that
+grow here.  The vegetation here is so dense, that the only way out is
+back where you came from or east on a hunter's trail.    
+~
+26 32768 0 0 0 3
+D0
+~
+~
+0 0 2697 0
+D1
+~
+~
+0 0 2698 0
+S
+$~

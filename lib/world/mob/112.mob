@@ -1,0 +1,287 @@
+#11200
+velvet ant swarm~
+a Velvet Ant Swarm~
+A small, furry swarm of ants comes crawling out of the grasses.
+~
+They make no noise whatsoever, they simply crawl toward you - slowly,
+with a strong purpose...  To infect you with their posion!    
+~
+17006664 0 0 0 0 131072 0 0 0 E
+8 2 68 1d1+150 1d2+5
+0 941
+8 8 0
+Str: 17
+Int: 24
+Wis: 16
+Con: 24
+Cha: 21
+Race: 5
+E
+#11201
+grasshopper~
+a lone Grasshopper~
+A lone grasshopper jumps from grass stalk to grass stalk.
+~
+Its a grasshopper... what more do you want to know?
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+15 1d1+1
+0 27
+8 8 0
+Str: 22
+Dex: 10
+Int: 6
+Wis: 10
+Con: 19
+Cha: 15
+Luck: 22
+Race: 5
+E
+#11202
+locust swarm~
+a Locust Swarm~
+A locust swarm buzzes in around you, annoyingly bothersome.
+~
+They buzz and zip around about your head, making it difficult to travel safely
+through the thick grasses.    
+~
+65608 0 0 0 8388608 0 0 0 0 E
+5 1 80 1d1+70 1d2+3
+0 283
+8 8 0
+Str: 9
+Dex: 16
+Int: 6
+Wis: 6
+Cha: 23
+Luck: 10
+Race: 5
+E
+#11203
+spotted lion~
+a Spotted Lion~
+A spotted lion prowls the grasslands, looking for a good morsel or two.
+~
+She swings her heavy head your way - maybe you are that morsel she has been
+looking for.
+~
+8264 0 0 0 0 0 0 0 0 E
+14 4 44 1d1+400 1d2+9
+0 3920
+8 8 2
+Str: 12
+Dex: 13
+Int: 7
+Wis: 10
+Con: 10
+Cha: 12
+Luck: 16
+Race: 1
+E
+#11204
+larind lion animal large~
+a Larind~
+A large animal resembling a lion spies you and begins heading your way.
+~
+A strange shimmering in the air around it makes you want to blink
+repeatedly to try and judge whether its your eyes or maybe the air
+really is distorted by the presence of the larind.    
+~
+16456 0 0 0 65536 4194304 0 0 0 E
+19 7 24 1d1+900 1d3+12
+0 8541
+8 8 1
+Str: 25
+Dex: 8
+Int: 9
+Wis: 23
+Con: 18
+Cha: 9
+Race: 1
+E
+#11205
+prairie dog~
+a Prairie Dog~
+A small prairie dog scuttles through the deep grass.
+~
+It wiggles its nose at you and runs off.
+~
+76 0 0 0 0 0 0 0 0 E
+11 3 56 1d1+250 1d2+7
+0 2119
+8 8 1
+Str: 7
+Dex: 24
+Int: 24
+Wis: 17
+Con: 8
+Cha: 18
+Luck: 22
+Race: 1
+E
+#11206
+sprite small~
+a small Sprite~
+A small sprite flutters about the grass, leaping silently from stalk to stalk.
+~
+It looks so kind, so small, so harmless.  Probably is the very best
+thing to simply put it out of its misery.    
+~
+200 0 0 0 8388608 0 0 0 700 E
+13 4 48 1d1+350 1d2+8
+25 3245
+8 8 1
+Str: 6
+Dex: 16
+Int: 19
+Wis: 13
+Con: 21
+Cha: 19
+Race: 24
+E
+#11207
+giant stag~
+a Giant Stag~
+A giant stag leaps through the grass, bounding far away in flurry of movement.
+~
+All you catch is the glimpse of a white tail bounces up and down and
+the stag is gone - vanished.    
+~
+262216 0 0 0 0 0 0 0 0 E
+14 4 44 1d1+400 1d2+9
+0 3920
+8 8 1
+Str: 7
+Dex: 5
+Int: 20
+Wis: 25
+Con: 15
+Cha: 5
+Luck: 22
+Race: 1
+E
+#11208
+prairie hunter~
+a Prairie Hunter~
+A prairie hunter walks past with a steady, strong gait.
+~
+His stride is true and unfaltering, having spent many years in the
+fields of Dibrova, hunting and trapping for a living.    
+~
+72 0 0 0 0 0 0 0 300 E
+17 6 32 1d1+700 1d3+11
+75 6432
+8 8 1
+Str: 8
+Dex: 25
+Int: 6
+Wis: 13
+Con: 22
+Cha: 14
+Luck: 10
+Class: 5
+Race: 21
+E
+#11209
+coyote~
+a Lone Coyote~
+A lone coyote prowls the area, looking for a scrap of dinner.
+~
+It is as mangy as it is skinny, sniffing the grass with its nose to
+the ground, eyes keen and sharp.    
+~
+72 0 0 0 32 0 0 0 0 E
+10 3 60 1d1+200 1d2+6
+0 1662
+8 8 1
+Str: 25
+Dex: 18
+Int: 7
+Con: 5
+Cha: 5
+Luck: 10
+Race: 1
+E
+#11210
+plainsman man~
+a Plainsman~
+A plainsman trudges past, lugging behind him all of his worldly goods.
+~
+He certainly notices your presence, being a man of the plains and a
+hunter as well.  He does, however, acknowledge you in the slightest
+and simply continues his trek.    
+~
+72 0 0 0 0 0 0 0 100 E
+18 7 28 1d1+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 17
+Int: 18
+Wis: 13
+Cha: 19
+Luck: 16
+Race: 14
+E
+#11211
+herd buffalo~
+a Herd of Buffalo~
+A herd of buffalo nearly runs you down as it rumbles past.
+~
+The herd as whole does not take much notice of you save for an
+obsturction in their path - be careful you do not get run down.    
+~
+1065032 0 0 0 65536 4194304 0 0 0 E
+40 21 -20 1d1+2525 4d5+26
+0 57012
+8 8 0
+Dex: 8
+Con: 14
+Cha: 15
+Luck: 24
+Race: 1
+E
+#11212
+roving ranger~
+a Roving Ranger~
+A roving ranger scouts the terrain.
+~
+He is deeply engrossed in his scouring of the land, scanning over
+every speck of grassy ground that he passes.    
+~
+72 0 0 0 0 0 0 0 400 E
+17 6 32 1d1+700 1d3+11
+75 6432
+8 8 1
+Dex: 13
+Int: 23
+Wis: 24
+Con: 5
+Cha: 8
+Luck: 22
+Class: 5
+Race: 15
+E
+#11213
+druid hermit~
+a Druid Hermit~
+A druid hermit rests on his back, arms folded behind his head.
+~
+He seems so relaxed, so peaceful in his life.  Kill him.    
+~
+10 0 0 0 0 0 0 0 800 E
+21 8 16 1d1+1200 1d4+14
+150 11024
+5 5 1
+Str: 21
+Dex: 5
+Int: 20
+Wis: 15
+Con: 23
+Cha: 12
+Luck: 7
+Class: 5
+Race: 14
+E
+$

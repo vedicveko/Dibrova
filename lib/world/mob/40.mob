@@ -1,0 +1,315 @@
+#4001
+black mountain goat~
+a Mountain Goat~
+A mountain goat is standing here.
+~
+It looks hungry and searches for food.
+~
+72 0 0 0 0 0 0 0 -100 E
+11 3 56 1d11+250 1d4+5
+0 2119
+8 8 1
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 15
+Luck: 12
+Race: 1
+E
+#4002
+black mountain ewe~
+a Mountain Ewe~
+A mountain ewe is standing here.
+~
+The ewe is watching her young.
+~
+72 0 0 0 0 0 0 0 0 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 2
+BareHandAttack: 7
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 12
+Race: 1
+E
+#4003
+black mountain kid~
+a Mountain Kid~
+A mountain kid is standing here.
+~
+The kid is playing with its siblings.
+~
+72 0 0 0 0 0 0 0 -100 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 21
+Luck: 12
+Race: 1
+E
+#4004
+fire newt worker~
+a fire-newt Worker~
+A fire-newt worker is standing here.
+~
+The fire newt worker looks hot and sweaty.
+~
+4204 0 0 0 0 0 0 0 -400 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 9
+Luck: 12
+Race: 51
+E
+#4005
+fire newt guard~
+a fire-newt Guard~
+A fire-newt guard scans about for potential threats!
+~
+The fire newt guard thinks you would be better dead.
+~
+42 0 0 0 0 0 0 0 -450 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 17
+Luck: 12
+Class: 4
+Race: 51
+E
+#4006
+fire newt worker~
+a fire-newt Worker~
+A fire-newt worker takes a pause from her work.
+~
+The fire newt worker looks hot and sweaty.
+~
+10 0 0 0 8 0 0 0 -400 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 12
+Luck: 12
+Race: 51
+E
+#4007
+fire newt guard~
+a fire-newt Guard~
+A fire-newt guard leaps to her feet upon seeing you!
+~
+The fire newt guard wants to kill you!
+~
+104 0 0 0 0 0 0 0 -450 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 2
+BareHandAttack: 14
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 12
+Luck: 12
+Class: 4
+Race: 51
+E
+#4008
+fire newt mother~
+a fire-newt Mother~
+A fire-newt mother stands here, keeping a watchful eye out.
+~
+The fire newt mother is watching her kids.
+~
+10 0 0 0 0 0 0 0 0 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Luck: 12
+Race: 51
+E
+#4009
+fire newt baby~
+a fire-newt Baby~
+A fire-newt baby is crawling and drooling about here.
+~
+The fire newt baby is crawling and drooling here.
+~
+14 0 0 0 0 0 0 0 -350 E
+14 4 44 1d14+400 1d5+7
+0 3920
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 15
+Luck: 12
+Race: 51
+E
+#4010
+fire newt sergeant~
+a fire-newt Sergeant~
+A fire-newt sergeant patrols the area.
+~
+He's just found something that doesn't belong here!
+~
+42 0 0 0 0 0 0 0 -500 E
+27 12 -8 1d27+2100 2d4+18
+200 20926
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 15
+Luck: 12
+Class: 9
+Race: 51
+E
+#4011
+fire newt general~
+a fire-newt General~
+A fire-newt general is standing here, pondering over strategy.
+~
+The fire newt general grins evilly at you.
+~
+42 0 0 0 0 0 0 0 -700 E
+29 13 -16 1d29+2200 3d3+19
+250 25109
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 24
+Luck: 12
+Class: 4
+Race: 51
+E
+#4012
+fire newt leader~
+a fire-newt Leader~
+A fire-newt leader paces about, highly stressed out.
+~
+The fire newt leader screams, 'I'm going to hose you!'
+~
+42 0 0 0 264 0 0 0 -1000 E
+34 17 -20 1d34+2375 3d4+22
+300 41435
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 19
+Luck: 12
+Race: 51
+E
+#4013
+fire newt priest~
+a fire-newt Priest~
+A fire-newt priest is here, studying new incantations.
+~
+The fire newt priest is preparing for worship.
+~
+16426 0 0 0 65544 4194304 0 0 -1000 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 19
+Luck: 12
+Class: 2
+Race: 51
+E
+#4014
+fire lizard~
+a Fire Lizard~
+A fire lizard is crawling here.
+~
+The fire lizard flicks its tongue at you.
+~
+42 0 0 0 262152 0 0 0 -100 E
+21 8 16 1d21+1200 2d3+10
+0 12126
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 13
+Luck: 12
+Race: 2
+E
+#4015
+big ogre bubba~
+a big ogre named Bubba~
+A big ogre named Bubba stands with his arm protectively around his bitch, Inindo.
+~
+Bubba is a grizzly looking fellow, complete with a tatoo on his left
+butt-cheek (shown through his torn leggings) which reads:
+
+Inindo is my bitch.
+~
+14 0 0 0 0 0 0 0 -300 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 17
+Dex: 16
+Int: 14
+Wis: 18
+Con: 24
+Cha: 9
+Luck: 10
+Class: 4
+Race: 19
+E
+$

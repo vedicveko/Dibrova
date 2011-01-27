@@ -1,0 +1,612 @@
+#16900
+assorted insects~
+assorted flying insects~
+A cloud of assorted flying insects buzz among the reeds.
+~
+A dense cloud of gnats, mosquitoes and other flying insects creates an
+infernal buzzing racket.  Those that bite, and most of them do, home in
+on the nearest patch of bare skin and start feasting on the blood of their
+victims.  No amount of swatting discourages them: the cloud parts for
+an instant, then reforms.
+~
+86104 0 0 0 8388608 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 1
+E
+T 16900
+#16901
+swarm black biting flies~
+a swarm of black biting flies~
+A swarm of flies boils in a black cloud.
+~
+They dip and swarm like a flock of tiny crows, seeking fresh blood
+or carrion.  They alight anywhere they can, crawl beneath armor and
+garments, and their feasting causes great itching and pain!
+~
+110616 0 0 0 8388608 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 4
+E
+T 16900
+#16902
+yellow blinder snake~
+a yellow blinder snake~
+A yellow snake slithers across the surface of the marsh.
+~
+A small snake the color of waxed beans with a dark green stripe
+running from each eye to it's tail.  It feeds on small rodents
+birds and insects.  Its bite is not painful but can cause blindness.
+~
+114714 0 0 0 2192 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 4
+E
+T 16902
+#16903
+red arrow toad~
+a red arrow toad~
+An arrow toad yo-yos its tongue at the clouds of insects.
+~
+A large green amphibian, its body adorned with bright red arrows
+warning predators of its poisonous sting and flesh.
+~
+98456 0 0 0 2176 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 1
+E
+T 16903
+#16904
+rat~
+a marsh rat~
+A marsh rat twitches its whiskers.
+~
+It swims about, seeking whatever food is available.  Apparently its well
+fed: its grey fur is sleek and eyes bright.
+~
+4136 0 0 0 2192 0 0 0 0 E
+65 42 -40 1d1+0 6d6+43
+0 196628
+8 8 0
+BareHandAttack: 4
+E
+#16905
+huge crawdad dad~
+a huge crawdad~
+A huge crawdad flexes its claw.
+~
+It's anyone's bet how it grew so large, taller than a human and
+armored with a pink exoskeleton.  Its right claw looks powerful
+enough to snap a small tree like a matchstick.  Those who have
+killed its bretheren report its meat is succulent and tasty,
+especially when par boiled then roasted over glowing coals.
+~
+598060 0 0 0 67728 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 6
+Class: 9
+E
+#16906
+harridan bird~
+a harridan~
+A large grey bird opens her beak and squawks loudly.
+~
+A large grey and white bird with an enormous wing-spread which allows
+her to catch and ride thermals or just glide for extended periods.
+She and her sisters patrol this foul rocky strand feeding on rodents
+and unwary travellers.  She emits a piercing shriek which is not only
+annoying but painfully loud.
+~
+2092 0 0 0 8914944 0 0 0 0 E
+110 88 -40 1d1+0 11d12+73
+0 752086
+8 8 2
+BareHandAttack: 11
+Class: 8
+E
+T 16906
+#16907
+dense reeds~
+dense reeds~
+Dense reeds block progress northward.
+~
+Deep green razor sharp fronds tapering to sword points rise
+from the brackish water.  They waver uncannily, as if animated
+and self aware, probing their surroundings...
+~
+184346 0 0 0 67584 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 0
+BareHandAttack: 3
+Class: 9
+E
+T 16901
+#16908
+spag boatman~
+Spag the boatman~
+A heavily tatooed man stands here.
+~
+   A heart pierced by a dagger, a drop of blood suspended from its tip,
+illuminates his barrel chest.  Ample-breasted mermaids cavort about
+his belly.  Multi-colored serpents, large jungle cats and baying
+hounds crawl down his enormously powerful arms stopping at his wrists
+like the cuffs of a fantastically-embroidered shirt.  A broad conical
+hat, woven from reeds, perches at a rakish angle atop his pumpkin
+sized head.
+~
+221214 0 0 0 33556560 33554432 0 0 0 E
+2 0 92 1d1+0 1d1+1
+15 27
+8 8 1
+BareHandAttack: 13
+Class: 9
+E
+#16909
+grey snapper tortoise~
+a snapper tortoise~
+A grey tortoise paddles about, snapping at insects.
+~
+A large grey tortoise its shell, dappled with dark green spots,
+large as a serving bowl.  It feeds mostly on birds, rodents
+and insects, but it will snap at anything encroaching upon its
+territory, and its bite is painful.
+~
+69656 0 0 0 526480 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 4
+Class: 19
+E
+#16910
+executioner~
+the executioner~
+A huge man lops off the heads of undesireables.
+~
+A hairless giant clad only in a blood-stained leather skirt.  He grabs
+each of his victims by the hair the instant they are shoved into the
+pen, yanks them face down onto the block then beheads them casually
+as a man chopping vegetables for a stew.
+~
+81966 0 0 0 2048 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+500 3454164
+8 8 1
+BareHandAttack: 13
+Class: 9
+E
+#16911
+chief raider~
+the chief raider~
+The chief of a raiding party stands here.
+~
+A large man with dark hair and a scarred face.  He leads his band
+of mercenaries, ravaging villages and towns, taking the able bodied
+and selling them into slavery.
+~
+63564 0 0 0 34080768 0 0 0 -1000 E
+180 176 -100 1d1+0 29d29+120
+1000 2640349
+8 8 1
+BareHandAttack: 13
+Class: 9
+E
+#16912
+mercenary raider~
+a raider~
+A member of a raiding party stands here.
+~
+A grizzled veteran of several wars who discovered the loot was better
+when he skipped the political objectives and the blather about ideals
+and cut straight to the pillage and rapine.  He and his cohorts raid
+farms and villages, taking whatever they can carry and herd the
+able-bodied off to be sold into slavery.
+~
+55372 0 0 0 34080768 0 0 0 0 E
+165 156 -60 1d1+0 24d25+110
+750 2114952
+8 8 1
+BareHandAttack: 13
+Class: 9
+E
+#16913
+camp guard~
+a camp guard~
+One of the Viceroy's minions stands guard.
+~
+He regrets returning just a few moments late from his furlough
+because standing guard in this god-forsaken stretch of woods
+for a full month is his punishment.  But at least there's gambling
+and other entertainments.
+~
+14412 0 0 0 33556480 0 0 0 -500 E
+110 88 -40 1d1+0 11d12+73
+150 752086
+8 8 1
+BareHandAttack: 13
+Class: 9
+E
+#16914
+cur dog mangy~
+a mangy cur~
+One of the camp dogs noses about for food.
+~
+One of the many stray dogs that follow gangs of raiders into camp,
+perhaps tagging after their old masters or just tired of competing
+with the wolves in the forests.  Their presense is encouraged by
+the soldiers and guards who attempt to win their affections with
+scraps of food and attention.
+~
+692248 0 0 0 2064 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 4
+Class: 3
+E
+#16915
+drunked guard~
+a drunken guard~
+A drunked guard reels about the camp.
+~
+He's had way more than his fill of strong drink.  He reels
+about, one arm extended as if balancing himself against an
+imaginary post or wall.  The raiders and other guards laugh
+when he lurches into someone or falls down.
+~
+4204 0 0 0 2048 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+25 283219
+8 8 1
+BareHandAttack: 13
+E
+#16916
+gambling guard~
+a gambling guard~
+A guard gambles with the raiders.
+~
+Life in the camp is dull, the guards and soldiers leave the raiders
+to fight among themselves, and not many of the captives attempt escape.
+About the only fun to be had is dice and peg games, foul liquor and
+the occasional woman who is lead to believe she can trade her body
+for freedom.
+~
+6158 0 0 0 2048 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1500 333884
+8 8 1
+E
+#16920
+oberstollekommando kommando~
+oberstollekommando~
+The Oberstollekommando lies in wait for intruders.
+~
+An experienced, battle-seasoned warrior.  The left side of his tunic
+is filled with emboidered replicas of decorations awarded for valor
+and uncanny feats of heroism.  A variety of scars adorn his arms and
+face.  He stands at ease but his eyes are bright and alert.  The
+tedious hours have not dulled his well-trained senses.    
+~
+106510 0 0 0 110430480 131072 0 0 -1000 E
+175 169 -100 1d1+0 28d28+116
+500 3071662
+8 8 1
+Class: 14
+E
+#16921
+stollekommando kommando~
+a stollekomando~
+The stollekommando melds with the shadows.
+~
+A squat yet powerfully built soldier specially trained and equipped
+for melee in close quarters.  He wears little armor: a pair of wrist
+guards arrayed with razor-sharp spines, a helm with a flaired brim and
+a pair of spike-soled boots.    
+~
+61454 0 0 0 110369040 131072 0 0 -1000 E
+160 149 -60 1d1+0 22d23+106
+400 2444175
+8 8 1
+Class: 8
+E
+#16922
+gateguard soldier~
+a gateguard~
+A tall soldier guards the rear gates.
+~
+A tall battle-seasoned soldier tasked to detect and thwart intruders.
+He is generally clad in azure steel armour and wields either a long
+sword or a short handled axe.
+~
+192526 0 0 0 33884240 131072 0 0 0 E
+125 105 -60 1d1+0 15d15+83
+750 1146118
+8 8 1
+Class: 9
+E
+T 16922
+#16923
+martinet man~
+the martinet~
+A man barks orders at the guards and soldiers.
+~
+It looks unfinished.
+~
+63518 0 0 0 67111168 131072 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+2500 1907421
+8 8 1
+Class: 8
+E
+#16924
+soldier~
+a soldier~
+A heavily armed soldier patrols the fortress.
+~
+It looks unfinished.
+~
+63564 0 0 0 100731136 0 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+1000 1458025
+8 8 1
+Class: 9
+E
+#16925
+ward girl~
+a ward girl~
+An unfinished mob stands here.
+~
+She snakes between the kitchen and the mess hall balancing heavy trays
+laden with piping hot food or stacks of dirty plates on her shoulder.
+Now and again a grateful soldier will toss her a coin.
+~
+61454 0 0 0 18432 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1500 333884
+8 8 2
+Class: 8
+E
+#16926
+soldier~
+a soldier~
+A soldier sits at the table shovelling food into his face.
+~
+It looks unfinished.
+~
+26634 0 0 0 18432 0 0 0 -500 E
+100 77 -40 1d1+0 9d10+66
+1200 589815
+6 6 1
+Class: 9
+E
+#16927
+guard off duty~
+an off-duty guard~
+An off-duty guard relaxes over a game of cards.
+~
+It looks unfinished.
+~
+155662 0 0 0 18432 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+6 6 1
+Class: 9
+E
+#16928
+soldier sleeping~
+a sleeping soldier~
+A soldier snores in his bunk.
+~
+He sleeps soundly beneath his rough wool blanket, oblivious to the
+stuttering racket of snores and chucks around him; the hardships of
+garrison duty lost among pleasant dreams for a few hours.
+~
+24590 0 0 0 2048 4 0 0 -500 E
+85 61 -40 1d1+0 6d7+56
+100 389703
+8 8 1
+Class: 9
+E
+#16929
+sergeant barracks~
+the barracks sergeant~
+The barracks sergeant attends to the company records.
+~
+It looks unfinished.
+~
+190478 0 0 0 67127312 131072 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+3800 1331241
+6 6 2
+Class: 14
+E
+#16930
+porter~
+a porter~
+A porter totes her load along the ramparts.
+~
+She patrols the ramparts bringing up fresh ammunition for the archers
+and tending the wounded when the fortress is under attack.  During times
+of calm she serves up hot tea and snacks to the soldiers.
+~
+192652 0 0 0 34097152 0 0 0 0 E
+95 72 -40 1d1+0 6d8+63
+10 517501
+8 8 2
+BareHandAttack: 13
+Class: 2
+E
+#16931
+armbrustmann~
+an armbrustmann~
+An archer armed with a crossbow peers through his loophole.
+~
+It looks unfinished.
+~
+59434 0 0 0 67127552 0 0 0 0 E
+145 130 -60 1d1+0 18d18+96
+500 1749454
+8 8 1
+Class: 8
+E
+#16932
+archer~
+an archer~
+An archer wielding a longbow scans the causeway below.
+~
+It looks unfinished.
+~
+129038 0 0 0 67193104 131072 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+1550 2248641
+8 8 2
+Class: 9
+E
+#16933
+wizened old man~
+a wizened old man~
+A wizened old man greets each new arrival.
+~
+It looks unfinished.
+~
+8202 0 0 0 2128 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+10000 4500000
+8 8 1
+Class: 2
+E
+#16934
+honor guard~
+an honor guard~
+A member of the Viceroy's honor guard stands watch.
+~
+It looks unfinished.
+~
+708622 0 0 0 67193088 131072 0 0 0 E
+125 105 -60 1d1+0 15d15+83
+3500 1198214
+8 8 2
+Class: 9
+E
+#16935
+steward~
+the steward~
+The steward attends to the needs of the guests.
+~
+It looks unfinished.
+~
+692254 0 0 0 33556752 0 0 0 0 E
+115 94 -40 1d1+0 13d13+76
+350 926591
+8 8 1
+Class: 8
+E
+#16936
+foreign dignitary~
+a foreign dignitary~
+A foreign dignitary inspects the weapons and armor.
+~
+It looks unfinished.
+~
+153614 0 0 0 2304 0 0 0 0 E
+185 183 -100 1d1+0 32d32+123
+6700 3114562
+8 8 2
+E
+#16937
+master weaponry~
+the master of weaponry~
+The master of weaponry prepares his demonstration.
+~
+It looks unfinished.
+~
+219166 0 0 0 0 0 0 0 0 E
+190 190 -100 1d1+0 34d35+126
+7000 3030666
+8 8 1
+E
+#16938
+oberst~
+the oberst~
+The oberst reviews her cadre.
+~
+It looks unfinished.
+~
+573468 0 0 0 0 0 0 0 0 E
+175 169 -100 1d1+0 28d28+116
+6000 2457330
+8 8 2
+BareHandAttack: 13
+E
+#16939
+lieutenant~
+the lieutenant~
+A trusted lieutenant attends the Oberst's wishes.
+~
+It looks unfinished.
+~
+55306 0 0 0 0 0 0 0 0 E
+125 105 -60 1d1+0 15d15+83
+3500 1041926
+8 8 1
+E
+#16940
+smiling maiden~
+a smiling maiden~
+A smiling maiden serves up large flagons of beer.
+~
+It looks unfinished.
+~
+137358 0 0 0 0 0 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+3800 1267849
+8 8 2
+E
+#16941
+viceroys honor guard~
+an honor guard~
+One of the Viceroy's honor guards stands watch.
+~
+It looks unfinished.
+~
+20494 0 0 0 0 0 0 0 0 E
+125 105 -60 1d1+0 15d15+83
+3500 1041926
+8 8 2
+E
+#16942
+viceroy~
+the Viceroy~
+The Viceroy is here.
+~
+It looks unfinished.
+~
+116782 0 0 0 0 0 0 0 0 E
+210 218 -100 1d1+0 47d48+140
+8000 3911791
+8 8 1
+E
+#16943
+arms merchant~
+an arms merchant~
+An arms merchant inspects the wares with great interest.
+~
+It looks unfinished.
+~
+151566 0 0 0 33556736 131072 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+3800 1394633
+8 8 1
+BareHandAttack: 13
+E
+$

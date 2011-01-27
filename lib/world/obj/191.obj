@@ -1,0 +1,296 @@
+#19100
+shrimp food breaded~
+/cwa small shrimp/c0~
+/cwA small breaded shrimp is on the ground./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+1 24 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shrimp food breaded~
+MMMMMmmmmmmm...... Shrimp.
+~
+#19101
+oyster food~
+/cwan oyster/c0~
+/cwAn oyster rests here./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+1 24 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+oyster food~
+MMMMMMmmmmmmmmmmm....... Oyster....
+~
+#19102
+stew seagull food bowl~
+/cwa bowl of seagull stew/c0~
+/cwA bowl of seagull stew has been left here./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+1 24 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stew seagull food bowl~
+MMMMMmmmmmmm...... Seagull....
+~
+#19103
+pants pair~
+/cwa pair of pants/c0~
+/cwA pair of pants lies on the ground./c0~
+~
+9 0 0 0 0 33 0 0 0
+3 0 0 0 0 0 0 0
+2 220 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19104
+shirt~
+/cwa shirt/c0~
+/cwA shirt lies in a small pile here./c0~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+2 220 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19105
+gloves pair cloth~
+/cwa pair of /cycloth /cwgloves/c0~
+/cwA pair of /cycloth gloves/cw lie here./c0~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0 0 0 0 0
+1 213 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19106
+shoes cloth pair~
+/cwa pair of /cycloth/cw shoes/c0~
+/cwA pair of /cycloth/cw shoes lie here./c0~
+~
+9 0 0 0 0 65 0 0 0
+1 0 0 0 0 0 0 0
+1 206 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19107
+long cloak~
+/cwa long cloak/c0~
+/cwA long cloak lies in a heap./c0~
+~
+9 0 0 0 0 1025 0 0 0
+3 0 0 0 0 0 0 0
+2 220 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19108
+crab oyster bowl soup~
+/cwa bowl of crab soup/c0~
+/cwAn oyster rests here./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+1 32 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19109
+lobster broiled~
+/cwa lobster/c0~
+/cwA broiled lobster lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+1 32 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19110
+cloak pockets~
+/cwa cloak with big pockets/c0~
+/cwA cloak lies in a pile./c0~
+~
+15 0 0 0 0 1025 0 0 0
+30 0 0 0 0 0 0 0
+27 8 3 94 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak pockets~
+Wow! I bet you could cram a lot of stuff in these.
+~
+A
+17 -2
+A
+18 4
+#19111
+raft boat small~
+/cwa small/cy raft/c0~
+/cwA small raft has been left here./c0~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 9 2 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19112
+canoe boat~
+/cwa canoe/c0~
+/cwA canoe lies here./c0~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 7 2 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19113
+shot glass~
+/cwa shot/c0~
+/cwA shot glass has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+1 1 7 0 0 0 0 0
+1 1 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19114
+bottle glass~
+/cwa bottle/c0~
+/cwA glass bottle has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+5 5 4 0 0 0 0 0
+10 3 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19115
+glass~
+/cwa glass/c0~
+/cwA glass has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+3 3 2 0 0 0 0 0
+8 2 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19116
+worms can fishing~
+/cwa can of fishing worms/c0~
+/cwA can of fishing worms sits here./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 4 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+worms can fishing~
+Nobody likes me. Everybody hates me. I guess I'll go eat worms. Big fat juicy
+ones. Itty bitty skinny ones.....................
+~
+#19117
+fishing pole~
+/cwa fishing pole/c0~
+/cwA fishing pole lies on the ground./c0~
+~
+34 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 20 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#19118
+flask life elixir~
+/cwthe /cYElixir/cw of /cYLife/c0~
+/cwA small flask of fragrant/cY golden liquid/cw has been left here./c0~
+~
+10 64 0 0 0 16385 0 0 0
+90 28 39 48 0 0 0 0
+1 2350 1 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19119
+flask evil's bane potion~
+/crEvil's Bane/c0~
+/cwA large flask of /crbubbling red liquid /cwlies here, firmly capped./c0~
+~
+10 64 0 0 0 16385 0 0 0
+90 22 35 43 0 0 0 0
+1 350 1 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19120
+boots high~
+/cwa pair of high boots/c0~
+/cwA pair of clodhoppers lies here./c0~
+~
+9 0 0 0 0 65 0 0 0
+3 0 0 0 0 0 0 0
+4 220 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19121
+desk~
+Draken's Desk~
+/cwDraken's desk lies here./c0~
+~
+15 0 0 0 0 1 0 0 0
+99 0 0 0 0 0 0 0
+9999 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19128
+ball green~
+/cwa /cGgreen /cwball/c0~
+/cwA /cGgreen /cwball lies here./c0~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 10 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ball green~
+It is a small green ball made of painted burlap.
+~
+#19129
+wooden sword~
+/cwa /cywooden /cwsword/c0~
+/cwA /cywooden /cwsword lies here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 1 3 0 0 0 0
+1 333 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword wooden~
+This makes a great weapon for fighting imaginary enemies.
+~
+#19130
+scroll charm~
+/cwa scroll of /cccharm/c0~
+/cwA scroll has been carelessly left here./c0~
+A cheery glow flares from the scroll and suddenly fades away!
+~
+2 64 0 0 0 16385 0 0 0
+80 3 39 0 0 0 0 0
+1 435 1000 80 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scroll charm~
+The scroll has a magic formula drawn upon it:
+
+     ???
+    ?   ?
+       ?
+      ?
+      ?
+      *
+
+~
+#19131
+sanitation guild card~
+/cwa /cLsanitation /cwguild /cLcard/c0~
+/cwA small card lies here./c0~
+Nothing.
+~
+20 0 0 0 0 16385 0 0 0
+150 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19132
+adventurer's guild card~
+/cwa /cYAdventurer's /cwGuild Card/c0~
+/cwA small wooden card lies here./c0~
+Nothing.
+~
+20 0 0 0 0 16385 0 0 0
+200 0 0 0 0 0 0 0
+1 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 20
+$~

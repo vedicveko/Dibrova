@@ -1,0 +1,85 @@
+#30600
+Entrance to the Hall of Dimension~
+The interior of this cave has been carved out...  Melted out is a
+better description.  The walls are smooth and flat without the normal
+signs of being tooled.  The decor is very expensive as well.  Scroll
+hangings cover most of the walls, the furniture is gilded and the
+carpets are of a very fine weave.  Further inside the cave lies the
+Hall of Dimension.
+~
+306 67174596 0 0 0 0
+D0
+~
+~
+0 0 30601 0
+D2
+~
+~
+0 0 22003 0
+S
+#30601
+Hall of Dimension~
+This large spacious room is sparesly furnished, with only a solitary
+desk at the southern end of the room.  Carved of exquitsite aged oak,
+the desk is very tidy, with a few scrolls neatly arranged upon its
+surface.  A huge magical tapestry adorns the wall behind the desk.  
+
+~
+306 67174596 0 0 0 0
+D1
+~
+~
+0 0 30603 0
+D2
+~
+~
+0 0 30600 0
+D3
+~
+~
+0 0 30602 0
+S
+#30602
+Discussion Room~
+Vials and bottles of every shape and color have been stacked
+everywhere.  Strange tubing made of glass and copper runs haphazardly
+along the counter-top.  A blackboard covered with mystic symbols has
+been hung upon the wall.    
+~
+306 67174468 0 0 0 0
+D1
+~
+~
+0 0 30601 0
+S
+#30603
+Mystical Room~
+The magical light from the walls reflects brightly off the carefully
+polished surface of the ground.  A small table and four chairs have
+been placed in the center of the room and four very comfortable
+lookign chairs have been placed at the far end of the room.    
+~
+306 67174464 0 0 0 0
+D1
+~
+~
+0 0 30604 0
+D3
+~
+~
+0 0 30601 0
+S
+#30604
+Dimension's Wonders~
+This is a wide room with glowing spheres lighting the room, a magical
+spell has been put upon the room to protect its wonders.  Plush
+carpets have been laid upon the floor and very well done paintings
+line the walls.    
+~
+306 71368708 0 0 0 0
+D3
+~
+~
+0 0 30603 0
+S
+$~

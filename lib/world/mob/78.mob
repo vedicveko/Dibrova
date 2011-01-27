@@ -1,0 +1,1115 @@
+#7800
+judge adjudicator~
+the Adjudicator~
+The adjudicator is watching the games intently.
+~
+The adjudicator is a retired gladiator and scars cover all exposed
+parts of his body.  Although he is getting on in years, he remains
+healthy and fit.    
+~
+134416394 0 0 0 402653248 131072 0 0 100 E
+121 101 -60 3d7+143 14d14+80
+2475 1006951
+8 8 1
+Str: 9
+Dex: 16
+Int: 18
+Wis: 8
+Con: 8
+Cha: 15
+Luck: 19
+Class: 4
+Race: 14
+E
+#7801
+scorekeeper~
+the Scorekeeper~
+A scorekeeper has one eye on his stopwatch and the other on a clipboard.
+~
+The scorekeeper is a young man of about 25 years of age and is very
+intently studying his clipboard.    
+~
+134285322 0 0 0 16 0 0 0 100 E
+103 80 -40 3d5+84 10d10+68
+2025 635991
+8 8 1
+Str: 14
+Dex: 9
+Int: 17
+Wis: 12
+Con: 23
+Cha: 14
+Luck: 5
+Race: 14
+E
+#7803
+spectator fan~
+a Spectator~
+A spectator is here watching the games.
+~
+The spectator is filthy, half drunk and screaming his head off.
+~
+134223882 0 0 0 0 0 0 0 -850 E
+97 74 -40 2d6+60 6d8+64
+1875 545738
+6 6 0
+Str: 6
+Dex: 17
+Int: 5
+Wis: 24
+Con: 15
+Cha: 10
+Luck: 17
+Class: 12
+Race: 14
+E
+#7804
+noble nobleman~
+the Nobleman~
+The nobleman stands here looking aloof.
+~
+The nobleman is dressed in fine clothes and jewelry and has a very
+snobbish attitude.  While he is getting old and his hair and beard are
+streaked with gray, he is by no means an easy target.    
+~
+134223914 0 0 0 100663376 2 0 0 -1000 E
+94 71 -40 4d6+142 6d8+62
+1800 528909
+8 8 1
+Str: 7
+Dex: 5
+Int: 17
+Wis: 9
+Con: 10
+Cha: 18
+Luck: 10
+Class: 12
+Race: 14
+E
+#7805
+slave~
+a Slave~
+A slave stands here, wishing that she was free.
+~
+A very pretty young woman who was captured instead of being killed
+when the Roman legions subjugated her land.    
+~
+134217994 0 0 0 8 0 0 0 0 E
+98 75 -40 3d6+32 6d8+65
+0 560199
+8 8 2
+BareHandAttack: 10
+Str: 6
+Dex: 16
+Int: 22
+Wis: 17
+Con: 15
+Cha: 5
+Luck: 13
+Race: 14
+E
+#7806
+gladiator~
+the Gladiator~
+There is a gladiator standing here.
+~
+A well muscled man who is very heavily armored and armed to the teeth.
+He lives for combat.    
+~
+134323272 0 0 0 33554520 0 0 0 -250 E
+120 100 -40 4d7+165 14d14+80
+2450 938920
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 22
+Int: 9
+Wis: 18
+Con: 9
+Cha: 14
+Luck: 9
+Class: 4
+Race: 14
+E
+#7807
+driver~
+the Chariot Driver~
+There is a chariot driver here.
+~
+You see a very slight and small individual whose whole life is
+centered around nothing but horses and speed.    
+~
+134224968 0 0 0 88 0 0 0 -750 E
+105 82 -40 3d7+118 10d11+70
+2075 667958
+8 8 1
+Str: 20
+Dex: 25
+Int: 16
+Wis: 16
+Con: 10
+Cha: 16
+Luck: 25
+Race: 14
+E
+#7808
+coach trainer~
+the Coach~
+There is a coach standing here, going over last minute strategy.
+~
+The coach is well mussled and has a very nasty scar upon his left
+cheek.  He may be a coach now, but at one time he has seen action.  
+~
+134748232 0 0 0 570425424 0 0 0 -400 E
+105 82 -40 4d5+131 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 13
+Str: 8
+Dex: 21
+Int: 13
+Wis: 13
+Con: 5
+Cha: 18
+Luck: 20
+Class: 8
+Race: 14
+E
+#7809
+doctor medic~
+the Doctor~
+A doctor is standing here.
+~
+You see a young man, just out of med school, wearing a white coat and
+using a stethoscope.    
+~
+134387978 0 0 0 88 2 0 0 500 E
+105 82 -40 2d7+159 10d11+70
+2075 667958
+8 8 1
+Str: 21
+Dex: 13
+Int: 5
+Wis: 14
+Con: 12
+Cha: 9
+Luck: 12
+Class: 2
+Race: 14
+E
+#7810
+nurse~
+a Nurse~
+There is a beautiful nurse standing here.
+~
+The nurse is a very beautiful young lady who is about 22 years old.  
+She has deep brown eyes and shoulder-length chestnut hair.  Her body
+is perfectly proportioned and she stands about 5' 5" tall.    
+~
+134256906 0 0 0 88 0 0 0 1000 E
+104 81 -40 3d4+123 10d10+69
+2050 651855
+8 8 2
+Str: 9
+Dex: 6
+Int: 24
+Wis: 20
+Con: 22
+Cha: 5
+Luck: 25
+Class: 2
+Race: 14
+E
+#7811
+shopkeeper~
+Titus's shopkeeper~
+Titus's shopkeeper is here, minding the store.
+~
+The shopkeeper is an older man in his middle to late fifties and looks
+like he enjoys the quiet life.  There is a long scar running from the
+edge of his mouth to his right ear, making it look like he is always
+smiling.    
+~
+134449162 2 0 0 80 131072 0 0 450 E
+109 87 -40 4d10+405 11d12+72
+2175 734774
+8 8 1
+Str: 23
+Dex: 9
+Int: 17
+Wis: 9
+Con: 6
+Cha: 21
+Luck: 10
+Race: 14
+E
+#7812
+peddler~
+a Peddler~
+A poor peddler is standing here, trying to support his meager existence.
+~
+You see a small, dirty man who doesn't look very healthy.  
+~
+2058 0 0 0 80 0 0 0 -300 E
+98 75 -40 3d4+48 6d8+65
+1900 560199
+8 8 1
+BareHandAttack: 11
+Str: 13
+Dex: 22
+Int: 5
+Wis: 9
+Con: 18
+Cha: 19
+Luck: 12
+Class: 3
+Race: 14
+E
+#7813
+page~
+a Page~
+A page stands here, waiting to run an errand.
+~
+You see a young boy who looks very strong and very fast.  He has the
+look of a scholar about him.    
+~
+134223882 0 0 0 0 0 0 0 -200 E
+97 74 -40 3d6+70 6d8+64
+1875 545738
+8 8 1
+Str: 15
+Dex: 20
+Int: 23
+Wis: 15
+Con: 18
+Cha: 9
+Luck: 23
+Class: 12
+Race: 14
+E
+#7814
+plaintiff~
+the Plaintiff~
+The plaintiff stands here, pleading his case.
+~
+The plaintiff has a very sour expression on his face.  He looks like
+he loves to whine.    
+~
+134744074 0 0 0 16 131072 0 0 -500 E
+104 81 -40 3d6+132 10d10+69
+2050 651855
+8 8 1
+BareHandAttack: 7
+Str: 10
+Dex: 10
+Int: 13
+Wis: 20
+Con: 17
+Cha: 16
+Luck: 13
+Race: 14
+E
+#7815
+ticket master~
+the Ticket Master~
+A ticket master is here, looking at you expectantly.
+~
+The ticket master has a hopeful expression upon his face.  He rubs his
+hands together as he sees you approach.    
+~
+134219806 0 0 0 80 2 0 0 0 E
+101 78 -40 4d8+200 9d10+67
+1975 604972
+8 8 1
+Str: 8
+Dex: 22
+Int: 15
+Wis: 17
+Con: 10
+Cha: 10
+Luck: 12
+Race: 14
+E
+#7816
+vendor~
+a Stadium Vendor~
+A stadium vendor is walking here, selling overpriced hotdogs and beer.
+~
+The vendor is a scruffy looking man who isn't afraid of a fight and
+looks like he's had just about enough of smart-mouthed spectators.  
+~
+4622 0 0 0 88 2 0 0 -600 E
+104 81 -40 2d4+100 10d10+69
+2050 651855
+8 8 1
+BareHandAttack: 13
+Str: 8
+Dex: 14
+Int: 18
+Wis: 15
+Con: 7
+Cha: 19
+Luck: 7
+Race: 14
+E
+#7817
+citizen~
+a Citizen~
+A citizen of Rome is standing here.
+~
+This man is plain and boring to look upon at.
+~
+36940 0 0 0 16 2 0 0 0 E
+97 74 -40 1d4+64 6d8+64
+1875 545738
+8 8 1
+Str: 19
+Dex: 20
+Int: 15
+Wis: 23
+Con: 15
+Cha: 23
+Luck: 19
+Class: 12
+Race: 14
+E
+#7818
+gateguard guard~
+the Gateguard~
+A gateguard stands here, tending the gate.
+~
+You see a strong, loyal public defender.
+~
+402888970 0 0 0 33554520 0 0 0 1000 E
+110 88 -40 3d6+132 11d12+73
+2200 752086
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 14
+Int: 24
+Wis: 16
+Con: 13
+Cha: 10
+Luck: 9
+Class: 4
+Race: 14
+E
+#7819
+soldier~
+a Soldier~
+A soldier on leave is walking around.
+~
+You see a member of one of the emperor's elite legions.  He looks VERY
+strong.    
+~
+530504 0 0 0 33554512 0 0 0 500 E
+107 85 -40 3d5+171 11d11+71
+2125 700882
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 8
+Int: 22
+Wis: 17
+Con: 10
+Cha: 15
+Luck: 21
+Class: 4
+Race: 14
+E
+#7820
+emperor Caesar caesar~
+Caesar~
+Caesar stands here, commanding absolute respect!
+~
+You see a man who is dressed in the finest of clothes, has eaten the
+best of foods and lived in the most opulent palace that Rome has ever
+known.    
+~
+134858778 0 0 0 65872 4325378 0 0 500 E
+140 124 -60 10d5+450 17d17+93
+2500 1530155
+8 8 1
+BareHandAttack: 12
+Str: 8
+Dex: 8
+Int: 5
+Wis: 5
+Con: 14
+Luck: 7
+Class: 4
+Race: 14
+E
+#7821
+guard royal bodyguard~
+a Royal Bodyguard~
+There is a royal bodyguard here, ready to die for the emperor, if necessary.
+~
+The bodyguard is dressed in the finest of armor and wields the
+deadliest only the deadliest of weapons.  He is very strong and would
+put up one hell of a fight.    
+~
+561162 0 0 0 33554504 131072 0 0 100 E
+125 105 -60 3d6+182 15d15+83
+2500 1041926
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 7
+Int: 12
+Wis: 12
+Con: 17
+Cha: 21
+Luck: 12
+Class: 10
+Race: 14
+E
+#7822
+judge justice~
+the Judge~
+A judge is standing here, reading a case.
+~
+The judge sits here with a clam expression.  His eyes look harsh as he
+sizes you up.    
+~
+134842634 0 0 0 88 2 0 0 0 E
+126 107 -60 1d1+317 15d15+84
+2500 1063313
+8 8 1
+BareHandAttack: 7
+Str: 14
+Dex: 15
+Int: 17
+Wis: 15
+Con: 9
+Cha: 25
+Luck: 6
+Race: 14
+E
+#7823
+master scheduler~
+the Master Scheduler~
+The master scheduler is here, writing in an appointment book.
+~
+The scheduler has a haggered look.  He scribles furiously in his book.
+~
+134221834 0 0 0 16 2 0 0 -600 E
+107 85 -40 4d4+183 11d11+71
+2125 700882
+8 8 1
+Str: 16
+Dex: 8
+Int: 7
+Wis: 18
+Con: 15
+Cha: 14
+Luck: 18
+Race: 14
+E
+#7824
+slimeball~
+a Slimeball~
+There is a slippery slimeball here.
+~
+There is a green "ball" of slime oozing from the coating on the walls.
+~
+67864664 0 0 0 524368 2 0 0 -1000 E
+101 78 -40 3d4+148 9d10+67
+0 604972
+8 8 0
+BareHandAttack: 2
+Str: 20
+Dex: 9
+Int: 25
+Wis: 9
+Con: 23
+Cha: 16
+Luck: 15
+E
+#7825
+Froboz~
+Froboz~
+Froboz the wizard is standing here, working on a new spell.
+~
+You see a middle-aged man who's knowledge of magic, both offensive and
+defensive, is legendary.  He literally glows with a pink aura.    
+~
+134388490 0 0 0 262232 0 0 0 0 E
+120 100 -40 5d10+400 14d14+80
+2450 1032812
+8 8 1
+BareHandAttack: 15
+Str: 19
+Dex: 17
+Int: 23
+Wis: 15
+Con: 18
+Cha: 22
+Luck: 17
+Class: 1
+Race: 14
+E
+#7826
+Titus~
+Titus Andronicus~
+Titus Andronicus is standing here, polishing a few swords.
+~
+Tall and lithe, Titus knows nothing but weapons.  Anyone can find just
+about any piece of information about a weapon from asking this man
+here.    
+~
+591960 0 0 0 100663368 0 0 0 -500 E
+125 105 -60 1d5+473 15d15+83
+2500 1094022
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 10
+Int: 19
+Wis: 13
+Con: 13
+Cha: 21
+Luck: 21
+Class: 4
+Race: 10
+E
+#7827
+senator~
+a Senator~
+The senator is here, waiting for debate to begin.
+~
+Dressed in nothing but a toga and a wreath upon his head, the Senator
+holds a place of inportance in Rome.    
+~
+134223882 0 0 0 24 0 0 0 -200 E
+100 77 -40 3d5+121 9d10+66
+1950 589815
+8 8 1
+Str: 16
+Dex: 24
+Int: 14
+Wis: 15
+Con: 24
+Cha: 15
+Luck: 8
+Class: 12
+Race: 14
+E
+#7828
+bailiff~
+the Bailiff~
+The bailiff stands here, keeping order in the courtroom.
+~
+The bailiff is a tall, strong, serious looking man.
+~
+134322186 0 0 0 33554504 131074 0 0 100 E
+106 84 -40 1d5+201 10d11+70
+2100 684299
+8 8 1
+BareHandAttack: 9
+Str: 6
+Dex: 5
+Int: 12
+Wis: 23
+Con: 17
+Cha: 12
+Luck: 16
+Class: 4
+Race: 14
+E
+#7829
+defendant~
+the Defendant~
+A defendant stands here, pleading her case.
+~
+The woman paces nervously as she awaits her chance to tell her tale
+before the judge.    
+~
+142606346 0 0 0 0 0 0 0 200 E
+95 72 -40 3d6+132 6d8+63
+1825 517501
+8 8 2
+Str: 23
+Dex: 17
+Int: 7
+Wis: 12
+Con: 5
+Cha: 5
+Luck: 20
+Race: 14
+E
+#7830
+Jupiter~
+Jupiter~
+Jupiter, the King of the Roman Deities, strides forth.
+~
+Muscular and broad-shouldered, Jupiter is not one to mess with.
+~
+201951258 0 0 0 168034640 0 0 0 800 E
+200 204 -100 4d7+3238 40d45+133
+2900 4317704
+8 8 1
+BareHandAttack: 12
+Str: 23
+Dex: 17
+Int: 5
+Wis: 7
+Con: 21
+Cha: 9
+Luck: 19
+Class: 4
+Race: 45
+E
+#7831
+woman venus~
+Venus~
+A beautiful woman stands here, smiling gracefully.
+~
+Venus is breathtaking.  She rests here and you are overcome with
+longing for her.    
+~
+201951258 0 0 0 33554768 0 0 0 1000 E
+160 149 -60 6d9+2827 22d23+106
+2550 2150874
+6 6 2
+BareHandAttack: 16
+Str: 7
+Dex: 14
+Int: 5
+Wis: 14
+Con: 16
+Cha: 14
+Luck: 6
+Class: 2
+Race: 45
+E
+#7832
+Mars~
+Mars~
+Mars, the God of War, stands here awaiting battle!
+~
+Mars is powerfully built in stature and quick to lose his temper.
+~
+201572394 0 0 0 100729168 4194304 0 0 -750 E
+165 156 -60 4d7+2238 24d25+110
+2600 2432194
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 13
+Int: 18
+Wis: 5
+Con: 13
+Cha: 9
+Luck: 6
+Class: 4
+Race: 45
+E
+#7833
+Mercury~
+Mercury~
+Mercury, the messenger of the gods, is standing here.
+~
+Small and of lithe build, it is hard to see exactly how Mercury looks
+because he is constantly moving about in a rapid pace!    
+~
+203003992 0 0 0 301990224 0 0 0 0 E
+160 149 -60 8d6+1629 22d23+106
+2550 2150874
+8 8 1
+BareHandAttack: 1
+Str: 13
+Dex: 23
+Int: 14
+Wis: 17
+Con: 8
+Cha: 20
+Luck: 8
+Class: 4
+Race: 45
+E
+#7834
+shopkeeper~
+Froboz's Shopkeeper~
+Froboz's shopkeeper is here, minding the store.
+~
+The shopkeeper is an older man in his middle to late fifties and looks
+like he enjoys the quiet life.  There is a long scar running from the
+edge of his mouth to his right ear, making it look like he is always
+smiling.    
+~
+134217738 0 0 0 80 0 0 0 450 E
+109 87 -40 4d10+405 11d12+72
+2175 734774
+8 8 1
+Str: 6
+Dex: 10
+Int: 13
+Wis: 18
+Con: 19
+Cha: 17
+Luck: 25
+Race: 14
+E
+#7835
+executioner~
+the Executioner~
+The executioner stands here, waiting to torture some sorry soul.
+~
+You see a burly man who is wearin a black hood that obscures his face.
+He has a very sadistic attitude and clearly loves his work.    
+~
+67672074 0 0 0 100663320 2 0 0 -1000 E
+111 89 -40 2d6+248 12d12+74
+2225 808126
+8 8 1
+BareHandAttack: 9
+Str: 17
+Dex: 12
+Int: 22
+Wis: 6
+Con: 7
+Cha: 25
+Luck: 8
+Class: 9
+Race: 14
+E
+#7836
+baker~
+the Baker~
+The Baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.  But you can see that he has many scars on
+his body.    
+~
+134217738 0 0 0 16 0 0 0 900 E
+102 79 -40 6d10+395 9d10+68
+2000 620364
+8 8 1
+Str: 8
+Dex: 20
+Int: 23
+Wis: 24
+Con: 6
+Cha: 7
+Luck: 10
+Race: 14
+E
+#7837
+grocer~
+the Grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his
+shoulders.    
+~
+134217738 0 0 0 16 0 0 0 900 E
+102 79 -40 6d10+395 9d10+68
+2000 620364
+8 8 1
+Str: 5
+Dex: 7
+Int: 7
+Wis: 20
+Con: 18
+Cha: 6
+Luck: 10
+Race: 14
+E
+#7838
+hercules lad~
+Hercules~
+A strong, young lad walks about with pride.
+~
+A halfbreed, god and mortal, Hercules travels all over the realms to
+undo the wicked work of his stepmother.    
+~
+470456664 0 0 0 402653512 2 0 0 1000 E
+175 169 -100 4d7+8738 28d28+116
+2700 2825929
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 17
+Int: 5
+Wis: 15
+Con: 21
+Cha: 18
+Luck: 6
+Class: 4
+Race: 45
+E
+#7839
+Faun~
+a Faun~
+A mischevious Faun prances about here.
+~
+Having an torso of a human, the legs and horns of a goat, Fauns love
+to have a fun time.  Standing roughly more more than ten hands tall,
+they are a member of the faerie race.    
+~
+55368 0 0 0 570425424 0 0 0 0 E
+145 130 -60 1d1+0 18d18+96
+2500 1521265
+8 8 1
+Str: 20
+Dex: 7
+Int: 21
+Wis: 25
+Con: 6
+Cha: 12
+Luck: 5
+Class: 3
+Race: 24
+E
+#7840
+Juno~
+Juno~
+Juno stands here, with a look of disdain on her haughty face.
+~
+The jealous wife of Jupiter, she has a short temper when it comes to
+her husband and his affairs with mortal women.    
+~
+596506 0 0 0 100925768 0 0 0 0 E
+190 190 -100 1d1+0 34d35+126
+2800 3788331
+8 8 2
+BareHandAttack: 13
+Str: 18
+Dex: 22
+Int: 24
+Wis: 8
+Con: 13
+Cha: 22
+Luck: 22
+Class: 1
+Race: 45
+E
+#7841
+apollo man~
+Apollo~
+A young man stands here, shining with a brilliant light!
+~
+Apollo is a young and handsome man, charged with the task of making
+sure the sun makes it's daily journey through the heavens.    
+~
+694282 0 0 0 268697936 0 0 0 0 E
+170 162 -60 1d1+0 25d26+113
+2650 2738685
+8 8 1
+BareHandAttack: 5
+Str: 20
+Dex: 18
+Int: 14
+Wis: 15
+Con: 13
+Cha: 14
+Luck: 17
+Class: 4
+Race: 45
+E
+#7842
+woman luna~
+Luna~
+A beautiful woman stands here amidst the splendor of the moonlight.
+~
+Luna is a gentle and kind woman who brings forth the night and the
+rising of the moon.    
+~
+694282 0 0 0 402653520 0 0 0 0 E
+170 162 -60 1d1+0 25d26+113
+2650 2624573
+8 8 2
+Str: 12
+Dex: 20
+Int: 15
+Wis: 5
+Con: 21
+Cha: 19
+Luck: 12
+Class: 5
+Race: 45
+E
+#7843
+Bacchus~
+Bacchus~
+Bacchus stands here, blood trailing down the corner of his mouth.
+~
+The deity of partying and the nightlife, there is more than what meets
+the eye regarding Bacchus.    
+~
+755804 0 0 0 67109200 0 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+2550 2248641
+8 8 1
+BareHandAttack: 4
+Str: 13
+Dex: 9
+Int: 21
+Wis: 15
+Con: 21
+Cha: 6
+Luck: 5
+Class: 14
+Race: 45
+E
+#7844
+pluto immortal~
+Pluto~
+An imposing immortal stands here, his presence overwhelming all.
+~
+Pluto is the god of the Underworld, a place where souls go upon dying.
+~
+624744 0 0 0 100925776 2 0 0 -500 E
+180 176 -100 1d1+0 29d29+120
+2700 3300434
+8 8 1
+BareHandAttack: 12
+Str: 22
+Dex: 5
+Int: 9
+Wis: 17
+Con: 23
+Cha: 12
+Luck: 10
+Class: 9
+Race: 49
+E
+#7845
+Morpheus~
+Morpheus~
+Morpheus stands here, phasing in and out of existence.
+~
+Morpheus is the god of dreams and his speciality is in creating
+nightmares.    
+~
+559624 0 0 0 100663640 2 0 0 -100 E
+165 156 -60 1d1+0 24d25+110
+2600 2432194
+8 8 1
+BareHandAttack: 16
+Str: 18
+Dex: 12
+Int: 9
+Wis: 6
+Con: 8
+Cha: 8
+Luck: 14
+Class: 4
+Race: 11
+E
+#7846
+Cupid~
+Cupid~
+Cupid stands here, pondering who to strike mischief to next.
+~
+Childlike in appearance and sporting a pair of small angelic wings,
+Cupid strives to create mischief and fun through love.    
+~
+38984 0 0 0 8388944 0 0 0 800 E
+155 143 -60 1d1+0 21d22+103
+2550 1983603
+8 8 1
+BareHandAttack: 11
+Str: 14
+Dex: 18
+Int: 14
+Wis: 15
+Con: 12
+Cha: 7
+Luck: 5
+Class: 3
+Race: 45
+E
+#7847
+Venus~
+Venus~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+165 156 -60 1d1+0 24d25+110
+2600 2114952
+8 8 0
+Str: 5
+Dex: 10
+Int: 7
+Wis: 6
+Con: 24
+Cha: 23
+Luck: 20
+E
+#7848
+Nymph~
+a Nymph~
+A nymph squeals with delight and frolics about!
+~
+The Nymph is a beautiful creature.  Not quite human, but a member of
+the faerie race, they are voluptuous females who enjoy nothing but
+having a good time.  Long tresses of light green hair, offset by
+large, dark green eyes add to the already tantalizing naked
+appearance.    
+~
+55368 0 0 0 671088656 0 0 0 0 E
+145 130 -60 1d1+0 18d18+96
+2500 1597328
+8 8 2
+Str: 20
+Dex: 21
+Int: 14
+Wis: 16
+Con: 24
+Cha: 5
+Luck: 15
+Race: 24
+E
+#7849
+citizen rome~
+a Citizen of Rome~
+A proud citizen of Rome strides forth!
+~
+The elite of the elite, or so he thinks.  Simply dressed and more of a
+lover than a fighter, the Citizen strides about with pride.    
+~
+2120 0 0 0 268435536 0 0 0 350 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 20
+Int: 8
+Wis: 20
+Con: 25
+Cha: 8
+Luck: 8
+Class: 12
+Race: 14
+E
+#7850
+freed slave~
+a freed Slave~
+A pretty woman joyfully skips by, no longer bound as a slave!
+~
+Pretty and exuberant, the former slave is bound home to see her
+family, if any remain.  Calloused hands and weathered skin show that
+she has been worked hard, but in the end, the price of freedom is
+worth it.    
+~
+198728 0 0 0 33554512 2 0 0 800 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 2
+Str: 12
+Dex: 18
+Int: 15
+Wis: 7
+Con: 25
+Cha: 22
+Luck: 15
+Class: 12
+Race: 14
+E
+$

@@ -1,0 +1,285 @@
+#3800
+corpse fresh altar~
+/cra fresh corpse/c0~
+A freshly killed corpse is pinned to the altar with a large knife.~
+~
+15 0 0 0 0 0 0 0 0
+300 0 -1 0 0 0 0 0
+25 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse fresh~
+The corpse lying here is disgusting at best.  Looking closely at it, you
+notice that it has been disembowled, but can find no trace of the entrails
+whatsoever.
+~
+E
+altar~
+The altar before you is covered with glyphs and symbols that mean nothing
+to you.  It obviously is not the original altar that was in this cathedral.
+There are fresh blood stains down the side of it and the top is stained a
+very deep brown.
+~
+#3801
+knife long curved~
+/cwa long, curved knife/c0~
+/cwA long, curved knife has been dropped here./c0~
+~
+5 1581568 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+2 666 35 2 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+knife long curved~
+This long knife has a long curved blade with a bone handle.  The blade is
+very plain, but looks surprisingly sharp.
+~
+#3802
+amulet sapphire~
+/cba sapphire amulet/c0~
+/cwA strange/cb sapphire amulet/cw rests on the ground./c0~
+~
+9 64 0 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+10 3933 2000 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+amulet sapphire~
+This necklace is comprised of a large sapphire hanging on a brass chain.
+There are some runes in the back of the sapphire, but they are almost
+totally indecipherable.
+~
+E
+runes~
+My mistake.  They are *totally* indecipherable.
+~
+A
+4 -1
+A
+5 1
+#3803
+key ivory bone~
+/cWan ivory key/c0~
+/cWAn ivory key/cw has been left here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 5 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key ivory bone~
+You stare at the shiny white surface of this key, noticing strange
+brownish marks marring its surface.  Suddenly you realise that the
+key is made not of ivory, but rather of bone.  Erk.
+~
+#3804
+coffin ebony~
+/cLa coffin/c0~
+/cLAn ebony coffin/cw sits upon the floor./c0~
+~
+15 1 0 0 0 0 0 0 0
+500 5 0 0 0 0 0 0
+900 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3805
+corpse evalynn~
+/cwthe corpse of /crEvalynn/c0~
+/cwThe corpse of /crEvalynn/cw is lying here almost as if she had just died./c0~
+~
+15 0 0 0 0 0 0 0 0
+300 0 -1 0 0 0 0 0
+29 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse evalynn~
+Evalynn's corpse does not seem to have decayed at all over the past
+few hundred years.  It appears to be clutching a sword of some sort.
+~
+#3806
+dark potion~
+/cLa dark potion/c0~
+/cLA dark potion/cw is sitting here on the floor, sucking up all the light./c0~
+$n's eyes glow softly as $e feels better as a whole!
+~
+10 64 0 0 0 1 0 0 0
+17 18 15 36 0 0 0 0
+5 1131 2000 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion dark~
+This potion almost seems to be made of the complete and utter
+absence of light.  Boy, is it ever weird.
+~
+#3807
+staff ivory~
+/cwan /cLivory /cwstaff/c0~
+/cwAn elegant /cLivory /cwstaff rests here, giving off a strange pure white light./c0~
+As $n grips the staff, a soft glow begins to radiate forth!
+~
+4 65612 0 0 0 16385 0 0 0
+17 3 3 36 0 0 0 0
+20 2162 4000 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff ivory~
+This staff is really weird.  Not only is it carved from a beautiful white
+ivory, but it is giving off a strange white light that bedazzles you with
+its brilliance.
+~
+#3808
+coins pile~
+/cwa mid-sized /cYpile of coins/c0~
+/cwA /cYpile of coins/cw glistens in the light./c0~
+~
+20 0 0 0 0 1 0 0 0
+1500 0 0 0 0 0 0 0
+15 1500 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+coins pile~
+The coins look to be quite pretty.  The pile before you isn't that
+big, but nor is it all that small.  All in all, you would guess that
+it is 'mid-sized'.
+~
+#3809
+sword rune~
+/cwthe /cMRune /cwSword/c0~
+/cwA strange sword lies here./c0~
+~
+5 1581568 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 4506 1000 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword rune~
+The sword looks rather strange, and has cryptic runes engraved into the blade.
+~
+A
+19 1
+#3810
+key golden evel~
+/cwa beautiful /cYgolden /cwkey/c0~
+/cwA key made of /cYgold/cw seems to have been forgotten on the ground here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+3810 0 0 0 0 0 0 0
+3 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key gold golden~
+This fine key is made out of gold.  There is a very tiny ruby set into
+the teeth of the key.
+~
+#3811
+key blood~
+/cwthe /cRBlood Key/c0~
+/cwA /cLsinsister key /cRof blood/cw beckons.../c0~
+~
+18 65604 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key blood~
+This key seems to have been formed by mystically forming human blood
+into the shape of a rather sinister key.
+~
+#3812
+bones pile crushed~
+/cwa pile of crushed bones/c0~
+A pile of well-crushed bones is lying on the floor here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bones pile crushed~
+The bones in this pile look to have been crushed by a large force.
+Like that wasn't expected.  They have all been splintered and most
+are shattered in addition.  You can think of no good reason to pick
+them up and carry them with you.
+~
+#3813
+cape black satin~
+/cwa /cLblack cape/cw with /crred satin/cw lining/c0~
+/cwA strange /cLblack cape /cwlies here./c0~
+~
+9 68190720 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+3 3293 100 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cape black satin~
+This cape seems to be rather black.  It feels like it is made of
+velvet or some similar material.  Turning it over, you notice that
+the inside lining is made of red satin.  A small gold link holds
+the neck of the cape together.
+~
+A
+3 1
+#3814
+necklace onyx~
+/cLan onyx necklace/c0~
+/cwA strange necklace made of /cLonyx stones /cwlies here./c0~
+~
+9 1049152 0 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+5 1733 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+necklace onyx~
+This necklace is pretty much just a string with a number of
+black onyx stones attached to it.  It gives you a sinister
+feeling simultaneously with a feeling of wonderment.
+~
+A
+5 -2
+#3815
+halberd giant~
+/cwa giant halberd/c0~
+/cwA tremendously large halberd /crstained with blood/cw rests here./c0~
+~
+5 532480 6 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+15 15293 30 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+halberd giant~
+This has got to be the largest weapon you have ever seen.  Sure, halberds
+are normally big, but this has got to be at least twice as big as any other
+halberd you've seen.  How any mortal can even hope to use it, you are not
+sure, but it is definitely something you wouldn't want to get hit by....
+~
+A
+18 1
+A
+19 2
+#3816
+avenger holy sword~
+/cCthe Holy Avenger/c0~
+/cwA beautiful sword glowing in white is floating upright here./c0~
+~
+5 797952 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+20 6006 100 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+avenger holy sword~
+This beautiful weapon has been forged out of an unknown metal
+and seems to glow with an inner light of its own.  The hilt
+is made of what seems to be gold tightly wrapped with a silken
+material.
+~
+A
+4 1
+#3899
+deed abandoned cathedral~
+the deed to the Abandoned Cathedral~
+The deed to the Abandoned Cathedral has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+38 0 0 0 0 0 0 0
+1 7500000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

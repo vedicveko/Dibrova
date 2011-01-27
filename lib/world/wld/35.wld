@@ -1,0 +1,1600 @@
+#3500
+A Well Travelled Road~
+This road still continues east to west, still an extremely wide road,
+made for heavy traffic.  To the east, the forest begins to close in on
+either side of the road, getting more and more thick the farther east
+you go.  A smaller road branches off to your north here, looking as if
+it is not a very popular road, probably made by some farmer or
+woodcutter who wanted easier access to his home.  West you can see the
+walled city of Jareth, with majestic Lord's Keep sitting high atop the
+tallest hill, flying Jareth's standard proudly.    
+~
+35 0 0 0 0 2
+D0
+~
+~
+0 -1 3501 0
+D2
+~
+~
+0 0 3588 0
+D3
+~
+~
+0 -1 3502 0
+S
+#3501
+A Shady Lane~
+This small two track leads into the woods from here, twisting and
+turning its way through the forest.  To the south, you may enter onto
+a well travelled road which runs east and west.  A small, gentle trail
+leads east into the trees.    
+~
+35 0 0 0 0 1
+D0
+~
+~
+0 -1 3546 0
+D1
+~
+~
+0 0 8920 0
+D2
+~
+~
+0 -1 3500 0
+S
+#3502
+A Well Travelled Road~
+The main part of this road runs east to west, being wide enough to fit
+two carts abreast.  It is obvious from the amount of cart and wagon
+tracks you see that this is one of the main roads in Dibrova.    
+~
+35 0 0 0 0 2
+D1
+You see a fairly large road leading towards a grand castle in the distance.
+~
+~
+0 -1 3500 0
+D3
+~
+~
+0 -1 3503 0
+S
+#3503
+The City Entrance~
+You stand at the eastern gate of Dibrova's largest and well-loved
+city, Jareth.  East leads you out into many uncharted and uncivilized
+lands, while to the west, the city awaits with all its splendor and
+majesty.    
+~
+35 0 0 0 0 2
+D1
+~
+~
+0 -1 3502 0
+D3
+~
+~
+0 -1 1029 0
+S
+#3504
+A Shady Lane~
+You are standing on a small, dusty path leading north into the forest.
+South of you, the forest lightens and gives way to an open area, while
+to the north, the forest only gets deeper and darker.    
+
+There is a /cwsign /c0at the side of the road.
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 -1 3511 0
+D1
+You can see the walls of the South Gate.
+~
+~
+0 -1 3545 0
+D2
+If you go south, you will enter the Miden'Nir.
+~
+~
+0 -1 3546 0
+E
+sign~
+Jareth        -    South
+Midgaard      -    East
+McGintey Cove -    East
+~
+S
+#3505
+Dirt Road~
+The road runs east into the wilderness.  Far off to the west you see
+the tops of the spires of the great city of Jareth.  A large house
+lies south of the path.  It looks very inviting.    
+
+A large sign /cRSCREAMS/c0/c0 for attention.
+~
+35 0 0 0 0 3
+D1
+More light forest.
+~
+~
+0 -1 3542 0
+D2
+~
+~
+0 0 7100 0
+D3
+The Woodsman's Inn can be seen a short distance to the west, it appears
+to be the source of the smoke.  
+~
+~
+0 -1 3543 0
+E
+sign~
+Rooms for rent in Werith's Wayhouse, 500,000 gold one
+time fee.
+
+All inquiries should go to Vedic.
+~
+S
+#3506
+Dirt Road~
+The road runs east and west, with a branch going north as well.  The
+forest here seems more peaceful, more relaxing than the forest to the
+west.    
+
+There is a /cwsign /c0at the side of the road.
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 -1 3508 0
+D1
+The mountains can be seen jutting up to the east.
+~
+~
+0 -1 3547 0
+D2
+~
+~
+0 0 2300 0
+D3
+The forest gets lighter as you go west.
+~
+~
+0 -1 3542 0
+E
+sign~
+Jareth        -    West
+Midgaard      -    North
+McGintey Cove -    East
+~
+S
+#3507
+Dirt Road~
+The road bends here, turning south.  This road seems to branch in many
+places, leading to many different realms of Dibrova.    
+~
+35 0 0 0 0 3
+D2
+More and darker woods.
+~
+~
+0 -1 3510 0
+D3
+There is a small path leading west.
+~
+~
+0 -1 3548 0
+S
+#3508
+On a Wide Road~
+The section of road is a bit smaller and less travelled than the one
+you just left, but it is easily passable just the same.  The forest
+around you seems alive with sound and motion.  It is really quite
+enjoyable.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 -1 3541 0
+D2
+To the south, the trail continues.
+~
+~
+0 -1 3506 0
+S
+#3509
+Skirting the Clearing~
+The clearing still lies south of you, however the trail you follow
+leads away from clearing into deeper forest in an easterly direction.
+~
+35 0 0 0 0 3
+D1
+Huge grey mountains lie in this direction.
+~
+~
+0 -1 3520 0
+D3
+~
+~
+0 -1 3510 0
+S
+#3510
+Edge of a Clearing~
+Just to the south of you, the forest opens up into a large grassy
+field, it's size undeterminable.    
+~
+35 0 0 0 0 3
+D0
+Trees as far as the eye can see.
+~
+~
+0 -1 3507 0
+D1
+There is an especially dark part of the forest this way.
+~
+~
+0 -1 3509 0
+D2
+There is an especially dark section of forest this way.
+~
+~
+0 -1 3557 0
+S
+#3511
+A Forest Trail~
+You stand on what is now just a trail through the deep dark forest.  
+You begin to hear the sound of animals making their way around you now
+that you are far away from any kind of civilization.  A river runs
+through the forest just north of you, the path cutting across.    
+~
+35 0 0 0 0 3
+D0
+The trail bends to the north.
+~
+~
+0 -1 3512 0
+D2
+To the south, the path re-enters the forest.
+~
+~
+0 -1 3504 0
+S
+#3512
+On the River~
+The river runs east to west here, the forest trail runs to the south.
+To the north, you think you may see some sort of clearing, but no
+trail is visible form here.  South lies nothing but deep forest.    
+~
+35 268435456 0 0 0 7
+D0
+~
+~
+0 0 8771 0
+D2
+A light section of forest.
+~
+~
+0 -1 3511 0
+D3
+The forest continues here.
+~
+~
+0 -1 3514 0
+S
+#3513
+A Dark and Gloomy Trail~
+The forest is dark, and becomes even darker the further you go in.  
+You can hear the sound of running water to the south, possibly it
+leads to a place a bit more bright and cheery than this...?    
+~
+35 0 0 0 0 3
+D0
+There is a small clearing to the north.
+~
+~
+0 -1 3582 0
+D2
+~
+~
+0 -1 3514 0
+S
+#3514
+On the River~
+It is quite dark here, with trees overhanging in many places.  The
+river continues east and west, with a bit more light to the east.  To
+the north, you think you may be able to see a trail, though from the
+looks of it, the trail is not used much at all.    
+~
+35 268435456 0 0 0 7
+D0
+More forest.
+~
+~
+0 -1 3513 0
+D1
+Lighter forest and mountains in the distance.
+~
+~
+0 -1 3512 0
+S
+#3515
+On a Wide Road~
+The road continues north and south, the traffic seeming much heavier
+here.  You feel no menace to your surroundings whatsoever, as people
+walk by and wave cheerily at you.  Even all the little forest animals
+seem undisturbed and unafraid.  A footpath leads west into a hilly
+area.    
+~
+35 0 0 0 0 3
+D0
+A trail leading north-south.
+~
+~
+0 -1 3516 0
+D2
+More trees and some small hills.
+~
+~
+0 -1 3538 0
+D3
+~
+~
+0 0 7983 0
+S
+#3516
+On a Wide Road~
+The road makes a bend here, heading east and south.  The forest around
+you has been neatly cleared away from the path, all manner of
+obstruction removed.  You must be near a large city.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 0 240 0
+D1
+More trees.
+~
+~
+0 -1 3517 0
+D2
+The trees get VERY thick to the south.  You can barely see...
+~
+~
+0 -1 3515 0
+S
+#3517
+A Wide Bend~
+The road bends west, with another bend directly following.  It also
+heads north for quite some distance.  The road seems to be very
+well-kept, which makes the travelling light and enjoyable.    
+~
+35 0 0 0 0 3
+D0
+Many trees to the north.
+~
+~
+0 -1 3533 0
+D3
+There is a bit of a slope downward to the west.
+~
+~
+0 -1 3516 0
+S
+#3518
+A Wide Road~
+The road heads straight north and south from here.  People pass you by
+almost constantly, a flurry of activity now that you near Midgaard.  
+In fact, you can begin to see the spires of the city to northeast.  
+~
+35 0 0 0 0 3
+D0
+You can see a trail this way.
+~
+~
+0 -1 3551 0
+D2
+Dark forests.
+~
+~
+0 -1 3531 0
+S
+#3519
+Road Through a Large Field~
+You stand in a huge field of tall, brown grass.  The trail, still very
+discernable, heads in a southerly direction.  To the north, a large
+forest begins.  Under your feet, the road is very hard-packed, as if
+many heavy feet pass this way regularly.    
+~
+35 0 0 0 0 10
+D0
+The forest gets lighter this way.
+~
+~
+0 -1 3559 0
+D1
+~
+~
+0 -1 6101 0
+D2
+There is a strong stench coming from this direction.
+~
+~
+0 -1 3523 0
+D3
+~
+~
+0 -1 6120 0
+S
+#3520
+The Forest Thickens~
+The trail becomes less defined the further east that you travel.  It
+does not appear that this place is very well-used at all.  North of
+you is a path leading toward a very dark and dismal-looking structure,
+west is the way back to the main road.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 -1 3521 0
+D1
+~
+~
+0 -1 3522 0
+D3
+The thick forest continues.
+~
+~
+0 -1 3509 0
+S
+#3521
+Old Stone Road~
+The forest trail runs north to south here, a much more travelled road
+to the south.  Under the dirt and loose gravel you think you may be
+able to see some old stones which might have formed a well used road
+long ago.    
+~
+35 1 0 0 0 3
+D0
+Darkness...
+~
+~
+0 -1 3570 0
+D2
+~
+~
+0 -1 3520 0
+E
+carcass body corpse carcasses bodies corpses~
+The corpses looked as if they have been pierced by a large, jagged
+spear.  The damage these people sustained is simply amazing.  Worse,
+the lips on the bodies are a light shade of blue, hinting at poison
+in their systems.
+~
+S
+#3522
+Deep in the Forest~
+The trail curves here, heading south into obscurity.  To the west is
+the way back to a normal road and civilization.    
+~
+35 0 0 0 0 3
+D2
+~
+~
+0 -1 3553 0
+D3
+~
+~
+0 -1 3520 0
+S
+#3523
+Road Through a Grassy Field~
+This field seems to go on forever.  The trail continues north and
+south of here.    
+~
+35 0 0 0 0 10
+D0
+It appears to get much darker that direction.
+~
+~
+0 -1 3519 0
+D1
+~
+~
+0 -1 6131 0
+D2
+~
+~
+0 -1 3550 0
+D3
+~
+~
+0 -1 6150 0
+S
+#3524
+Along the Cliff~
+The trail runs along the top of the cliff, east to west.  This seems
+to be an extremely well-travelled trail, so much that it could more
+correctly be called a road.  Most of the tracks seem to head east, so
+you must assume that there is something of interest in that direction,
+however it is hard to see over the hill which you are slowly climbing.
+~
+35 0 0 0 0 5
+D1
+~
+~
+0 -1 3577 0
+D3
+~
+~
+0 -1 3573 0
+S
+#3525
+Near the Bridges~
+Your trek has brought you just west of the twin bridges which lead
+over the ocean into the great city so near.  You hear the sounds of a
+large city quite clearly from where you stand.  It seems almost out of
+place, standing here in the outdoor setting, hearing all the hustle
+and bustle of the city so near.  You may head to the toll booths just
+east of here, or leave to the west into the wilderness.    
+~
+35 0 0 0 0 4
+D1
+~
+~
+0 -1 3526 0
+D3
+~
+~
+0 -1 3581 0
+S
+#3526
+Toll Booth~
+You stand at the first of two toll booths which block the way onto the
+bridges leading into McGintey Cove.  The second, just east of you,
+looks just as busy as this one.  If you are not sure what to do next,
+possibly reading the sign on the outside of the booth may give you
+some idea.    
+~
+35 20 0 0 0 4
+D1
+~
+~
+0 -1 3527 0
+D2
+~
+~
+0 0 6700 0
+D3
+~
+~
+0 -1 3525 0
+S
+#3527
+Between the Booths~
+You stand between two toll booths, both of which block the way into
+the city.  Take your pick, east or west.  There also seems to be some
+sort of park to the south, and to the north is an enormous stable,
+where alll steeds are kept, since none are allowed in the city.    
+~
+35 0 0 0 0 4
+D0
+~
+~
+0 -1 3529 0
+D1
+~
+~
+0 -1 3528 0
+D2
+~
+~
+0 -1 3530 0
+D3
+~
+~
+0 -1 3526 0
+S
+#3528
+Eastern Toll Booth~
+You stand at the easternmost toll booth which allows access to the
+great seaport city, McGintey Cove.  If you are not quite sure how to
+gain access, just read the sign posted on te outer wall of the booth.
+To the east stretches the rest of the of the road, more aptly called a
+highway, heading off toward an obviously well-travelled area by the
+looks of the road and how packed it is.    
+~
+35 20 0 0 0 4
+D1
+~
+~
+0 0 1800 0
+D2
+~
+~
+0 0 6702 0
+D3
+~
+~
+0 -1 3527 0
+S
+#3529
+Stables~
+This building is so large, has so many rows of stalls running back
+into it's depths, you cannot imagine trying to find any one particular
+within this building.  A sign is posted to your left, explaining the
+stable rules.  The exit is to your south.    
+~
+35 8 0 0 0 0
+D2
+~
+~
+0 -1 3527 0
+S
+#3530
+Memorial Park~
+This tranquil spot perched on the edge of the cliffside offers a
+beautiful vantage point from which to admire the city.  The grass is
+extremely well kept, the benches all freshly painted and clean.  A
+large sign dedicates this park to the founder of the city.  You may
+enter back onto McGintey Road to the north, or rest here for a while
+before continuing on your way.    
+~
+35 8 0 0 0 0
+D0
+~
+~
+0 -1 3527 0
+S
+#3531
+A Fork in the Road~
+You may head east, west, or north along trails that all look to be
+about the same in terms of ease of travel.  There looks to be a bit
+more traffic to the north, however the trails leading east and west
+don't exactly look unused themselves.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 0 3518 0
+D1
+~
+~
+0 0 3532 0
+D3
+~
+~
+0 0 3537 0
+S
+#3532
+Dusty Trail~
+The road runs east into thick, green woodlands where it seems the
+trees are almost alive from the way the playful breeze ruffles through
+their branches.
+~
+35 0 0 0 0 3
+D2
+~
+~
+0 0 1701 0
+D3
+~
+~
+0 0 3531 0
+S
+#3533
+A Wide Road~
+The road turns here heading east and south.  It seems to run quite
+some way to the east, however to the south it makes another turn.    
+~
+35 0 0 0 0 3
+D1
+~
+~
+0 0 3537 0
+D2
+~
+~
+0 0 3517 0
+S
+#3534
+Just West of Midgaard~
+Entrance into the city of Midgaard lies just east from here, the gates
+- as they always are - wide open to any traveler who wishes to visit
+the city.  To the west this road runs for a short distance before
+making a turn south.  To the north is the entrance into the large
+building which houses the local horse trader, where one may
+purchasemounts of varying size and temperament.    
+~
+35 8192 0 0 0 10
+D0
+~
+~
+0 0 3586 0
+D1
+~
+~
+0 0 3052 0
+D2
+~
+~
+0 0 30599 0
+D3
+~
+~
+0 0 3535 0
+E
+sign~
+Clan Genocide is owner of the area west of you, the Light Forest and all
+roadways throughout.
+By wary of any Genocide members if you are member of a clan other than
+Genocide, you could be pkilled.
+~
+S
+#3535
+On a Wide Road~
+This is the main artery between Jareth and Midgaard, the one which
+most honest travelers use for travel or business.  To the east a short
+way is the entrance into the city of Midgaard, to the west the road
+continues.
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3534 0
+D3
+~
+~
+0 0 3536 0
+S
+#3536
+On a Wide Road~
+Just west of here the road bends south, giving way to a large forest
+which blocks further progress to the west.  To the east a short
+distance is the entrance into Midgaard.    
+~
+35 8192 0 0 0 10
+D1
+~
+~
+0 0 3535 0
+D3
+~
+~
+0 0 3552 0
+S
+#3537
+A Wide Road~
+The road makes a short jaunt here, the only bit of straight travel in
+this part of the road.  To the east, the road curves away to the north
+and to the west, the road curves away to the south.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3531 0
+D3
+~
+~
+0 0 3533 0
+S
+#3538
+On a Wide Road~
+The road runs through a very beautiful section of land.  On the west
+side are a long stretch of rolling foothills, deep green covered and
+gorgeous.  On the east side is a light, cheery forest where animals
+chirp and play.  You may continue to the north or the south.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3515 0
+D2
+~
+~
+0 0 3539 0
+S
+#3539
+On a Wide Road~
+The road runs through a very beautiful section of land.  On the west
+side are a long stretch of rolling foothills, deep green covered and
+gorgeous.  On the east side is a light, cheery forest where animals
+chirp and play.  You may continue to the north or the south.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3538 0
+D2
+~
+~
+0 0 3540 0
+S
+#3540
+On a Wide Road~
+The road heads north and south through an area which seems more than
+just a little benign in presence.  On either side of the road is light
+forest land, full life and motion.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3539 0
+D2
+~
+~
+0 0 3541 0
+S
+#3541
+On a Wide Road~
+The road heads north and south through an area which seems more than
+just a little benign in presence.  On either side of the road is light
+forest land, full life and motion.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3540 0
+D2
+~
+~
+0 0 3508 0
+S
+#3542
+Dirt Road~
+The road runs east and west through a lightly forested area.  Just to
+the east, the road comes a junction, splitting to the north and east.
+To the west the road runs for quite some ways.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3506 0
+D3
+~
+~
+0 0 3505 0
+S
+#3543
+Dirt Road~
+The road runs east and west through a lightly forested area.  From the
+looks of it, this road is used by large numbers of people on a very
+regular basis.  There are all manner of ruts and worn foot paths on
+this road.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3505 0
+D3
+~
+~
+0 0 3544 0
+S
+#3544
+Dirt Road~
+You may travel to the east or west along this road, which is the main
+road running between a number of the main cities of the realm.  On
+either side of the road is a light, cheery forest, one that makes
+travel through this area quite pleasant.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3543 0
+D3
+~
+~
+0 0 3545 0
+S
+#3545
+Dirt Road~
+The road runs east and west through a lightly forested area.  From the
+looks of it, this road is used by large numbers of people on a very
+regular basis.  There are all manner of ruts and worn foot paths on
+this road.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3544 0
+D3
+~
+~
+0 0 3504 0
+S
+#3546
+A Shady Lane~
+The road leads into the woods here, a light and cheerful wood where
+the sounds of animals never cease, even as you pass.  To the south is
+the main way into Midgaard, to the north, the road comes to a
+junction.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3504 0
+D2
+~
+~
+0 0 3501 0
+S
+#3547
+Dirt Road~
+The road heads east and west, a main junction just west of here.  To
+the east, the road runs for a short distance before making a turn to
+the south.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3548 0
+D3
+~
+~
+0 0 3506 0
+S
+#3548
+Dirt Road~
+The road heads east and west, a main junction a short distance west of
+here.  To the east, the road makes a turn to the south.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3507 0
+D3
+~
+~
+0 0 3547 0
+S
+#3550
+Near a Cliff~
+You still stand in the grassy field, however directly south of you the
+world seems to end!  It looks as if there may be a large cliff to your
+south, and from the smell of things, it must lead down to the sea.  
+To the north, the field runs for some distance until reaching a
+far-off forest.    
+~
+35 0 0 0 0 2
+D0
+~
+~
+0 -1 3523 0
+D1
+~
+~
+0 -1 6161 0
+D2
+The forest of Miden'nir spreads out before you.
+~
+~
+0 -1 3573 0
+D3
+~
+~
+0 -1 6180 0
+S
+#3551
+A Wide Road Near the City~
+Midgaard lies just northeast of you, a hop, skip, and jump away.  To
+the south is a long, wide road which is filled with traffic at all
+ours of the day and night, it being the main route from Midgaard to
+Jareth, the Free City.    
+~
+35 1 0 0 0 3
+D0
+~
+~
+0 -1 3552 0
+D2
+The tunnel leads into the mountainside.
+~
+~
+0 -1 3518 0
+S
+#3552
+Bend in the Road~
+A large forest looms directly west of you, the cheerful sounds of
+animals playing and branches creaking coming from its interior.  To
+the east is the way into Midgaard, a short span of wide road that runs
+right up to the city's west gate.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 0 3536 0
+D2
+The tunnel continues to the south.
+~
+~
+0 -1 3551 0
+D3
+~
+~
+0 0 2696 0
+S
+#3553
+Stomping Through an Unused Section of Forest.~
+The trail all but vanishes to the south, the thick growth of the
+forest obscuring most of its length in that direction.  To the north
+the trail becomes slightlt more defined, heading back into
+civilization.    
+~
+35 0 0 0 0 3
+D0
+The tunnel gets wider in this direction.
+~
+~
+0 -1 3522 0
+D2
+The tunnel gets smaller in this direction.
+~
+~
+0 -1 3554 0
+S
+#3554
+Diminishing Trail~
+The trail looks like it may be bending here, however with the way all
+the vegetation is growing in on the trail, it is hard to tell.  It
+looks like the trail may head east and north from here.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 -1 3553 0
+D1
+~
+~
+0 -1 3555 0
+E
+twigs leaves bead~
+The twigs and leaves have all been piled together as a makeshift bed for
+some small humanoid.
+~
+S
+#3555
+Faint Trail~
+The trail is so faint now that you can barely see it.  You almost have
+to hope you are heading in the right direction, through openings in
+trees and such, so faint is the trail.    
+~
+35 0 0 0 0 3
+D1
+~
+~
+0 -1 3556 0
+D3
+~
+~
+0 -1 3554 0
+S
+#3556
+Nearing the Maze~
+The trail leads east into a huge maze made of shrubbery easily 10 feet
+high.  It runs north and south of the path you stand on as far as your
+eyes can see in either direction.  Looks like a fellow could get lost
+in there pretty easily.    
+~
+35 0 0 0 0 3
+D1
+~
+~
+0 0 3585 0
+D3
+~
+~
+0 -1 3555 0
+S
+#3557
+Road Through an Open Grasslands~
+To the east, west and south spreads the largest, most wide open
+section of land in all Dibrova.  The road is well marked, running
+directly south through the open area, north is also a section of the
+road.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3510 0
+D1
+~
+~
+0 0 11235 0
+D2
+~
+~
+0 0 3558 0
+D3
+~
+~
+0 0 11234 0
+S
+#3558
+Road Through an Open Grasslands~
+To the east, west and south spreads the largest, most wide open
+section of land in all Dibrova.  The road is well marked, running
+directly south through the open area, north is also a section of the
+road.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3557 0
+D1
+~
+~
+0 0 11245 0
+D2
+~
+~
+0 0 3559 0
+D3
+~
+~
+0 0 11244 0
+S
+#3559
+Road Through an Open Grasslands~
+To the east, west and south spreads the largest, most wide open
+section of land in all Dibrova.  The road is well marked, running
+directly south through the open area, north is also a section of the
+road.    
+~
+35 0 0 0 0 10
+D0
+~
+~
+0 0 3558 0
+D1
+~
+~
+0 0 11255 0
+D2
+~
+~
+0 0 3519 0
+D3
+~
+~
+0 0 11254 0
+S
+#3560
+Riding Lessons~
+Harah gives lessons here for a small fee, what he calls a mandatory
+donation to the upkeep of his life's work.  Most people just call it
+what it is - a fee.    
+
+To train your riding ability further, just type PRAC RIDE.
+~
+35 0 0 0 0 1
+D2
+~
+~
+0 0 1029 0
+S
+#3570
+Old Stone Road~
+The road runs north and south still.  There is a large gate, closed,
+way off to the north, a large building just beyond the gates.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 0 3572 0
+D2
+You can go south around the Inn.
+~
+~
+0 -1 3521 0
+E
+sign~
+The sign reads:
+
+   The Woodsman
+
+~
+S
+#3571
+Cliff's Edge~
+The trail still runs east to west here along the rim of the drop off,
+but in looking south over the edge, you see the someone has made some
+crude steps that run along the wall of the cliff.    
+~
+35 0 0 0 0 2
+D1
+~
+~
+0 -1 3573 0
+D2
+You see the front of the Inn.
+~
+~
+0 -1 3574 0
+D3
+~
+~
+0 -1 3575 0
+S
+#3572
+Old Stone Road~
+The road runs north up to a large iron gate, a gate which closes the
+way to what appears to be an old cathedral or church.  To the south
+the road heads back toward the main forest trail.    
+~
+35 0 0 0 0 3
+D0
+~
+~
+0 0 3855 0
+D2
+~
+~
+0 0 3570 0
+S
+#3573
+Cliff's Edge~
+The trail runs right up to the edge of the cliff and T's off, running
+east and west from here.  Looking down and over the edge of the cliff,
+you find that you were right about what lies at the bottom of the
+cliff, the sea!  To the north the trail cuts through a huge grassy
+field.    
+~
+35 0 0 0 0 2
+D0
+~
+~
+0 -1 3550 0
+D1
+You can go around the Inn this way.
+~
+~
+0 -1 3524 0
+D3
+Only rats and fool adventurers play in garbage.
+~
+~
+0 -1 3571 0
+S
+#3574
+On a Rock Landing~
+This rudely carved rock landing marks the start of a long flight of
+steps leading down to the sea shore.  The footing looks to be
+treacherous at best, so be careful!    
+~
+35 0 0 0 0 5
+D0
+The bar is here, manned by the Innkeeper.
+~
+~
+0 -1 3571 0
+D5
+~
+~
+0 -1 15000 0
+S
+#3575
+Along the Cliff~
+The trail runs along the top of the cliff, overlooking a fabulous blue
+sea that stretches far out into the horizon.  The trail ends just west
+of here quite abruptly, at another large cliff which rises to high and
+steep to be scaled.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 -1 3571 0
+D3
+A trail through the woods.
+~
+~
+0 -1 3576 0
+S
+#3576
+End of the Trail~
+A steep cliff rises high overhead, prohibiting any further travel but
+to the east.  To the south is still the edge of the cliff which drops
+down onto the beach of a large sea.  Looking below, a lighthouse can
+be seen out on a jetty.    
+~
+35 0 0 0 0 10
+D1
+~
+~
+0 -1 3575 0
+D4
+~
+~
+0 0 3589 0
+S
+#3577
+Along the Cliff~
+Heading east, the trail tops a large rise, continuing it's way toward
+whatever lies in that direction.  To the west, the trail heads it way
+along, not really really seeming to head anywhere.    
+~
+35 0 0 0 0 5
+D1
+You see the main floor of the Inn to the east.
+~
+~
+0 -1 3579 0
+D3
+~
+~
+0 -1 3524 0
+S
+#3579
+Atop the Hill~
+Wonder of wonders!  You feel as if you could see the whole world from
+where you currently stand.  Just east of you, sitting proudly on a
+large rock, almost a plateau, is the huge seaport town of McGintey
+Cove.  The twin bridges which lead from the edge of the cliff to the
+city gate are the only entrance or exit from the town.  The trail wlso
+runs west far into the distance, skirting the southern edge of a huge
+field, which seems t go on forever.    
+~
+35 0 0 0 0 4
+D1
+~
+~
+0 -1 3581 0
+D3
+~
+~
+0 -1 3577 0
+S
+#3580
+Ranger Reception~
+You stand in a rugged but peaceful room devoted mostly to the Mother,
+Nature.  All furniture in the room has not been worked in any way, but
+allowed to keep it's natural shape.  Obviously someone(s) went to
+great lengths to find these pieces which would allow comfort and rest
+without marring them in any way.  You give a start as you realize that
+many of the seats in this room are already taken by people who blend
+so well into the seats as almost seem invisible.  Many seem to be in
+meditation, while others simply relax, enjoying herbal drinks offered
+by others of the same kind.  The entrance to the main Ranger Guild
+Hall lies south through an archway which shimmers with a light not
+unlike that of a warm spring day.  North is the exit to Floris Ave.  
+~
+35 28 0 0 0 0
+D0
+~
+~
+0 0 1046 0
+D2
+~
+~
+0 0 1026 0
+S
+#3581
+West of Town~
+The road runs east toward the huge seaport atop the plateau and west,
+topping a tall hill.    
+~
+35 0 0 0 0 4
+D1
+~
+~
+0 -1 3525 0
+D3
+The trail continues.
+~
+~
+0 -1 3579 0
+S
+#3582
+A Dark and Gloomy Trail~
+The forest around you is so thick now that there is not enough light
+to see by.  The birds you heard singing before are now quiet, all you
+can hear now is the sound of your own heavy breathing.    
+~
+35 1 0 0 0 3
+D0
+~
+~
+0 -1 3583 0
+D2
+The tracks lead south.
+~
+~
+0 -1 3513 0
+S
+#3583
+A Dark and Gloomy Trail~
+Impenetrable is the only word you could use to describe the darkness
+surrounding you.  Trees brush against you on either side, feeling
+almost like they tug at your clothing.  The trail seems to continue
+north, although it seems much more sensible to go south.    
+~
+35 1 0 0 0 3
+D0
+The trail continues.
+~
+~
+0 -1 3584 0
+D2
+~
+~
+0 -1 3582 0
+S
+#3584
+A Dead End Trail~
+The path comes to an abrupt end here, as the trees close around you
+and make any further exploration impossible.  It does seem strabge,
+though, that a trail through the woods would end so abruptly.    
+~
+35 1 0 0 0 3
+D0
+~
+~
+0 -1 3600 0
+D2
+~
+~
+0 -1 3583 0
+S
+#3585
+Entrance to the Maze~
+You stand at the entrance to a hedge maze with walls twenty feet high.
+These walls run north and south from where you stand farther than you
+can see in either direction.    
+~
+35 0 0 0 0 4
+D1
+~
+~
+0 0 5400 0
+D3
+~
+~
+0 0 3556 0
+S
+#3586
+Midgaard Horse Trader~
+This is a fairly nondescript room with wood walls and no true
+furniture to speak of.  The man behind the desk has little or no hair,
+its hard to tell because he keeps the lights fairly dim.    
+
+You can also STABLE you're mounts here, for use at a later date.
+
+Or you can REDEEM stable tokens to get your mount back.
+~
+35 24 0 0 0 0
+D2
+~
+~
+0 0 3534 0
+S
+#3587
+Horse Room~
+You are in an unfinished room.
+~
+35 0 0 0 0 0
+S
+#3588
+An Enchanted Grove.~
+The forest floor is covered with leaves and lit by a dappled sunlight
+here.  The grove has a peaceful, easy feeling, and you get the idea
+that you can come to no harm here.  All around you the forest is alive
+with birds singing and squirrels chittering.    
+~
+35 262160 0 0 0 3
+D0
+~
+~
+0 0 3500 0
+S
+#3589
+Climbing the Cliff~
+The cliff ledge affords some purchase, the way to the summit of the
+rock wall difficult, but not impossible.  The rocky path along the
+cliff's edge lies just below you.    
+~
+35 0 0 0 0 5
+D4
+~
+~
+0 0 3590 0
+D5
+~
+~
+0 0 3576 0
+S
+#3590
+Climbing the Cliff~
+The cliff ledge affords some purchase, the way to the summit of the
+rock wall difficult, but not impossible.  A short distance from here
+is a small ledge from which a thin tendril of smoke can be seen rising
+into the sky.  The rocky path along the cliff lies a fair distance
+down from here.    
+~
+35 0 0 0 0 5
+D4
+~
+~
+0 0 3591 0
+D5
+~
+~
+0 0 3589 0
+S
+#3591
+Climbing the Cliff~
+You are just below a ledge high up above the sea, the air whistling
+past you from the heights.  The path along the cliff face lies far
+below, the lighthouse at the shore of the sea even further.  You may
+climb up to relative safety or make the journey back down to the path.
+~
+35 0 0 0 0 5
+D4
+~
+~
+0 0 3592 0
+D5
+~
+~
+0 0 3590 0
+S
+#3592
+The Netherman's Rest~
+The feeble old man who pokes at his small fire with a stick rests upon
+his haunches before the fire, staring into the flames intently.  The
+man's true name has long been forgotten, he is now known only as the
+Netherman - the One who has the power to send anyone to the Nether
+with a single spoken word.  Do not attempt to make the journey to the
+Nether unless you have brought a friend and do not attempt it even
+with a friend unless the both of you are an awesome power within the
+world.    
+~
+35 20 0 0 0 5
+D5
+~
+~
+0 0 3591 0
+S
+#3599
+A Tranquil Setting~
+
+Shhhh... Inindo is asleep here, don't want to wake him... or do you?
+
+~
+35 262164 0 0 0 4
+D1
+~
+~
+0 0 3501 0
+S
+T 3599
+T 3598
+T 3597
+$~

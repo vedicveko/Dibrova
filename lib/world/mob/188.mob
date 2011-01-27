@@ -1,0 +1,153 @@
+#18800
+swallow bird~
+a Swallow~
+A swallow flits from branch to branch, looking for lunch.
+~
+Swift and agile in the air, the Swallow is inept in any other environment.
+~
+24648 0 0 0 2048 0 0 0 900 E
+5 1 80 1d1+30000 1d2+3
+0 283
+8 8 1
+Race: 3
+E
+#18801
+dragon black small~
+a small Black Dragon~
+A small black dragon roams around, looking for lunch.
+~
+It looks pretty damn big to you!
+~
+67753992 0 0 0 100665408 0 0 0 900 E
+123 103 -60 1d1+30000 14d15+82
+3500 1049938
+8 8 1
+Race: 9
+E
+#18802
+imp forest~
+a Forest Imp~
+A forest imp is here, being annoying.
+~
+He runs around like a chicken with its head cut off asking, "Whatcha doing,
+Whatcha doing" over and over again.    
+~
+608264 0 0 0 526352 0 0 0 900 E
+90 66 -40 1d1+30000 6d7+60
+3200 450852
+8 8 1
+BareHandAttack: 13
+Class: 8
+Race: 24
+E
+#18803
+doe deer~
+a Doe~
+A doe is here, eating a small plant.
+~
+A doe, a deer, a female deer... Come on! You know the song.
+~
+24648 0 0 0 2048 0 0 0 900 E
+10 3 60 1d1+30000 1d2+6
+0 1662
+8 8 1
+Race: 1
+E
+#18804
+stag deer~
+a Stag~
+A large stag stands here.
+~
+A stag, a female deer... Oh wait....
+~
+24648 0 0 0 2048 0 0 0 900 E
+15 5 40 1d1+30000 1d3+10
+0 4674
+8 8 1
+Race: 1
+E
+#18805
+a forest sprite~
+a Forest Sprite~
+A forest sprite flits about.
+~
+She looks at you and chuckles in a high pitched voice.
+~
+22600 0 0 0 41945104 0 0 0 900 E
+74 50 -40 1d1+30000 6d6+49
+2700 273689
+8 8 2
+BareHandAttack: 11
+Class: 5
+Race: 24
+E
+#18806
+fox sly~
+a sly Fox~
+A sly fox stalks through the woods.
+~
+It smiles a toothy grin as it slinks about looking for food.
+~
+24648 0 0 0 2048 0 0 0 900 E
+8 2 68 1d1+30000 1d2+5
+0 941
+8 8 1
+BareHandAttack: 4
+Race: 1
+E
+#18807
+butter fly~
+a Butterfly~
+A butterfly flits about here.
+~
+Bright orange wings signal that it does not taste good if eaten.    
+~
+16456 0 0 0 2048 0 0 0 900 E
+2 0 92 1d1+30000 1d1+1
+0 27
+8 8 1
+BareHandAttack: 10
+Race: 5
+E
+#18808
+sun flower~
+a Sunflower~
+A pretty yellow sunflower grows here.
+~
+It growls at you?
+~
+16456 0 0 0 526336 0 0 0 900 E
+3 0 88 1d1+30000 1d1+2
+0 77
+8 8 1
+Race: 26
+E
+#18809
+nirin tree cursed~
+a cursed Nirin Tree~
+A dark black Nirin tree grows here.
+~
+It's bark is darker than what is the norm for it's race.    
+~
+772168 0 0 0 526416 131072 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Class: 5
+Race: 26
+E
+#18810
+rock bug~
+a Rock Bug~
+An average looking rock is doing nothing special here.
+~
+Cleverly camoflauged, the bug scuttles about, looking for grubs to
+munch on.    
+~
+24648 0 0 0 2048 0 0 0 900 E
+4 0 84 1d1+30000 1d2+2
+0 160
+8 8 1
+Race: 5
+E
+$

@@ -1,0 +1,1035 @@
+#9600
+Inside a Small Earthen Cave~
+This is a small windy cave near the top of a mountain located far away
+from civilization.  From within, you hear deep guttural sounds of some
+creature muttering to itself.  In addition, there are deep grunting
+sounds, wild howls, hysterical laughter, and other wierd sounds.  A
+small path leads away from the cave south.    
+~
+96 12 0 0 0 0
+D0
+~
+~
+0 -1 9601 0
+D3
+~
+~
+0 0 9650 0
+S
+#9601
+A Small Earthen Cave~
+You linger near the entrance of a small windy cave located somewhere
+far away from civilization.  Judging by the footprints scattered on
+the hard earthen floor, there are many people, or things living in
+this cave.  This cave continues east and west, and exits south.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9606 0
+D2
+~
+~
+0 -1 9600 0
+D3
+~
+~
+0 -1 9602 0
+E
+footprints footprint~
+These footprints are human and animal in nature.
+~
+E
+cave entrance~
+Thoughts of dying violently at the hands of some unknown creature arouses
+your interest in exploring this cave.
+~
+S
+#9602
+A Raw Earth Cave~
+You are inside a small windy cave.  Now that you have been some
+distance inside the cave, you note that it is neither small, nor
+windy.  Rather, the cave is huge and smelly.  A rotten smell of earth
+permeates the air.  This cave continues east and north.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9603 0
+D1
+~
+~
+0 -1 9601 0
+S
+#9603
+A Raw Earth Cave~
+The walls of this cave are damp and wet.  The earthen floor is moist,
+and slimy.  Every so often, you step on something crunchy which
+sickens you to your stomach.  The sounds of wild howling echoes
+through the tunnels of the cave.  This cave continues east, west, and
+south.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9604 0
+D2
+~
+~
+0 -1 9602 0
+D3
+~
+~
+0 -1 9605 0
+E
+floor slimy ground~
+The floor is composed of a slimy mixture of fine mud and small creatures.
+~
+S
+#9604
+A Raw Earth Cave Lair~
+A cave tunnel dead-ends here.  The room, you notice, has been enlarged
+to accomodate the residence of some large creature.  There are the
+remnants of bones and tufts of fur piled here on the floor.  The bones
+look mauled and violently broken.  This room continues west.    
+~
+96 9 0 0 0 0
+D3
+~
+~
+0 -1 9603 0
+E
+remnants bones fur pile~
+Judging by the remnants, whoever it was had died a violent death.
+~
+S
+#9605
+A Dead-end in a Raw Earth Cave~
+A tunnel of this cave abruptly ends here.  The walls of this cave, a
+dark reddish brown, have recently been scratched out leaving a small
+pile of dirt on the floor.  The raw smell of earth fills the air.  
+This cave continues east.  A small tunnel leads off to the west.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9603 0
+E
+walls dirt~
+The dirt looks ordinary.
+~
+S
+#9606
+A Raw Earth Cave~
+The wild howling and insane cackling of a creature echos throughout
+the cave.  It sounds twisted and sick.  Every so often, the sounds
+come closer and closer, then retreat again.  You feel curious, yet
+apprenhensive of continuing your adventures here.  This cave continues
+north and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9607 0
+D3
+~
+~
+0 -1 9601 0
+S
+#9607
+A Raw Earth Cave~
+Thick viscious fluids slowly ooze from pores in the somber brown
+walls.  While a funky smell of rot and decay perfumes the stuffy air
+inside this cave.  To the east you notice a howling windy sound,
+similar to the one you heard when you were lingering outside this raw
+earth cave some time ago.  With each howling windy emanating from the
+east, comes a small chilly breeze cold enough to chill you to your
+bones.  This cave continues north, east and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9608 0
+D1
+~
+~
+0 -1 9610 0
+D2
+~
+~
+0 -1 9606 0
+E
+fluids pores walls~
+The liquids look corrosive.
+~
+S
+#9608
+A Raw Earth Cave~
+You wander around inside this small fusty cave.  The walls and floor
+are damp with moisture, and a smell of rot permeates the air.  On the
+floor you notice many footprints belonging to a wide variety of
+creatures.  There are scruff marks indicating something was recently
+dragged through here.  The cave tunnel makes a bend to the west and
+south.    
+~
+96 9 0 0 0 0
+D2
+~
+~
+0 -1 9607 0
+D3
+~
+~
+0 -1 9609 0
+E
+scruff marks floor~
+These scruff marks look like someone was dragging a corpse through here.
+~
+S
+#9609
+A Raw Earth Cave Lair~
+This is a small and rather comfortable cave lair.  The dirt floor was
+recently combed clean of debris.  Only a fur pelt and a small pile of
+bones, lying neatly in the corner, can be found on the floor.  You
+notice this lair was furnished with a ragged curtain to insure a small
+pocket of privacy for its occupants.  You hear a wild howl echoing
+through the tunnels nearby.  This cave lair exits east.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9608 0
+E
+curtain~
+The curtain are torn and tattered.
+~
+E
+lair floor pelt bones corner~
+This lair looks well kept.
+~
+S
+#9610
+A Raw Earth Cave Passage~
+The air here in this passageway seems to get colder as you head
+further east.  In fact, the passageway is icing up.  There are fringes
+of icicles growing in pockets in the walls and ceiling.  To the east
+is a small crack in the wall.  It looks large enough to squeeze
+through.  This passageway continues west.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9611 0
+D3
+~
+~
+0 -1 9607 0
+E
+crack~
+This crack looks wide enough to squeeze through.
+~
+E
+icicles~
+These icicles are black and filthy. They look more like thin sticks of mud.
+~
+S
+#9611
+Inside a Crack in the wall~
+You squeeze your way into the crack in the wall.  You find out that it
+was not a very good idea in the first place.  You see that there is no
+level ground below you, only a very steep slide downward.  The slide
+is slick with ice and you cannot find a good firm hold onto the
+surrounding walls to anchor yourself by.  You desperately try to find
+a way out of this predicament, but you only find despair and lost
+hope.    
+~
+96 13 0 0 0 0
+D5
+~
+~
+0 -1 9612 0
+E
+note to imps~
+If your mud has provisions for teleporting rooms, make this room
+teleport to room 1812 and remove the exit down.
+~
+S
+#9612
+Sliding Downward..~
+You suddenly lose your grip on whatever you were holding on to, and
+begin to slide downward into darkness.  Thanks to the remarkable
+properties of gravity, you are propelled faster down this ice-slick
+slide.  There is no way of stopping, and you feel you will die soon..
+~
+96 8 0 0 0 0
+D5
+~
+~
+0 -1 9613 0
+E
+note to imps~
+If your mud has provisions for teleporting rooms, make this room
+teleport to room 1813 and remove the exit down.
+~
+S
+#9613
+Thud!~
+Your slippery slide down an ice slick slide has ended with a
+bone-jarring thud as you slam into the ground.  Your body hurts all
+over as you try to untangle yourself.  When you come to your senses,
+you take a quick look around.  You find yourself in a dirty cave with
+air as cold as ice.  Small icicles and sheets of ice cling to the
+ceiling and the walls.  Occasionally you find small drifts of brownish
+snow accumulating on the floor.  This cave continues east.    
+~
+96 8 0 0 0 0
+D1
+~
+~
+0 -1 9614 0
+S
+#9614
+In a Dirty and Icy Cave~
+This is a small cave carved deep inside a mountain.  The walls are
+rough and uneven.  Sheets of ice cling to the walls and floor.  
+Clinging to the ceiling are small icicles.  You hear things shuffling
+around in the cave nearby.  This cave continues east and south.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9620 0
+D2
+~
+~
+0 -1 9615 0
+E
+icicles~
+These icicles are brown and dirty.  They seem to drip mud.
+~
+S
+#9615
+In a Dirty and Icy Cave~
+The cave here narrows a bit to the south.  You notice a cave-in had
+blocked most of the passageway south.  From behind the debris you hear
+constant sounds of scratching and shuffling.  This tunnel continues
+north and south.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9614 0
+D2
+~
+~
+0 -1 9616 0
+E
+debris~
+The debris are composed of dirty snow, chunks of ice, mud and rocks.
+~
+E
+sounds scratching shuffling~
+The sounds are constant and unceasing.
+~
+S
+#9616
+In a Dirty and Icy Cave~
+You wander around in the tunnels of a dirty and icy cave.  The floor
+is rough and uneven, and in some places, slick with slush and ice.  
+To the north you notice a small cave-in had blocked most of the
+passageway north.  The debris is mostly rocks and frozen chunks of
+dirt.  This passageway continues north, east, and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9615 0
+D1
+~
+~
+0 -1 9617 0
+D3
+~
+~
+0 -1 9618 0
+S
+#9617
+A Dirty and Icy Cave Dead-end~
+The cave tunnels dead-end here.  You notice the room is small and
+cramped.  Dirty snow and rocky debris has accumulated here over the
+ages.  The floor is rough and uneven, and slippery with a dirty slush.
+This tunnels continues west.    
+~
+96 9 0 0 0 0
+D3
+~
+~
+0 -1 9616 0
+S
+#9618
+In a Dirty and Icy Cave~
+This is a small icy cave.  Small fringes of ice cling to the walls and
+ceiling.  The floor is uneven, and strewn with rocky debris.  A smell
+of decay lingers in the air and condenses on your clothes.  This icy
+tunnel continues north and east.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9619 0
+D1
+~
+~
+0 -1 9616 0
+S
+#9619
+A Dirty and Icy Cave Lair~
+You find yourself in a large earthen cave.  A blackish soup of muddy
+slush covers the floor mixed by the constant shuffling of feet in and
+out of this lair.  It appears that someone or thing lives here in
+utter squalor.  This lair leaves south.    
+~
+96 9 0 0 0 0
+D2
+~
+~
+0 -1 9618 0
+E
+lair floor cave slush~
+This lair is absolutely filthy.
+~
+S
+#9620
+In a Dirty Frozen Cave~
+You find yourself wandering among small drifts of snow and sliding on
+thin sheets of ice here in this little cave.  The air is chilly, but
+not biting cold.  You hear things shuffling around the cave nearby.  
+This cave continues north, east, and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9621 0
+D1
+~
+~
+0 -1 9626 0
+D3
+~
+~
+0 -1 9614 0
+S
+#9621
+In a Dirty and Frozen Cave~
+This is a small earthen cave.  The air is chilly and tinged with the
+smell of raw earth.  The walls and floor of this tunnel are rough and
+uneven.  Small piles of debris, sometimes snow and ice, accumulates
+here in corners and in small crevises.  This tunnel continues east and
+south.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9622 0
+D2
+~
+~
+0 -1 9620 0
+S
+#9622
+In a Dirty and Frozen Cave~
+The cave straightens here for a bit.  You notice many footprints in
+the uneven mud and slush floor.  Most of these tracks look vaguely
+human, but you are not certain.  You hear shuffling sounds nearby.  
+This tunnel continues east and west.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9623 0
+D3
+~
+~
+0 -1 9621 0
+E
+footprints~
+There are many footprints here, they lead east and west.
+~
+S
+#9623
+In a Dirty and Frozen Cave~
+Small icicles and sheets of brownish ice grow here on the rough uneven
+walls.  The air inside this cave is cold and chilly and tinged with
+the smell of rot and decay.  Occasionally, you find small piles of
+snow and ice on the ground, even though it cannot possibly snow
+indoors.  This cave continues south and west.    
+~
+96 9 0 0 0 0
+D2
+~
+~
+0 -1 9624 0
+D3
+~
+~
+0 -1 9622 0
+E
+icicles~
+These icicles are dirty brown.
+~
+S
+#9624
+In a Dirty and Frozen Cave~
+You wander around in a small icy cave often truding through slush and
+debris.  The earthen walls of this cave are frozen solid and have thin
+layers of ice clinging to them.  Overhead, small icicles grow like
+stalactites from the ceiling.  This cave continues north and east.  
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9623 0
+D1
+~
+~
+0 -1 9625 0
+S
+#9625
+In a Dirty and Frozen Cave~
+This is a small and cramped cave.  This tunnel were scratched out from
+raw frozen earth.  Ice, in large sheets, cling here on walls and on
+the floor transforming bare earth walls into magically shimmering
+corridors.  This cave continues north and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9626 0
+D3
+~
+~
+0 -1 9624 0
+S
+#9626
+In a Dirty and Frozen Cave~
+A lot of snow and ice have accumulated here and in the tunnel located
+further north.  On the walls grow large sheets of ice and rows of
+brownish icicles.  The air is cold and a bit damp, it seems colder in
+the tunnel to the north.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9627 0
+D2
+~
+~
+0 -1 9625 0
+D3
+~
+~
+0 -1 9620 0
+S
+#9627
+In a Cold and Frozen Cave~
+It is very cold here in this cave.  The walls and floor are frozen
+solid and studded with large icicles which impede travel.  To the east
+you hear a deep howling sound of the wind.  A cold breeze blows
+through the tunnel with each howl of the wind.  This tunnel continues
+north, east, and south.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9628 0
+D1
+~
+~
+0 -1 9629 0
+D2
+~
+~
+0 -1 9626 0
+S
+#9628
+In a Cold and Frozen Cave~
+The tunnel dead-ends here onto piles of snow and ice.  The ceiling
+here is low and studded with sharp-looking pure white icicles.  The
+air here is cold and damp.  You find nothing of interest here, and
+want to leave.  This tunnel leaves south.    
+~
+96 9 0 0 0 0
+D2
+~
+~
+0 -1 9627 0
+S
+#9629
+Avalanche!~
+You make a turn into a small room piled high with snow and ice.  
+Everything seemed normal when suddenly the floor gives way and you
+fall right through!  You tumble head first into the cave below, and
+nearly break your neck doing so.    
+~
+96 12 0 0 0 0
+D5
+~
+~
+0 -1 9630 0
+E
+note to imps~
+If your mud has provisions for teleporting rooms, make this room
+teleport to room 1830 and remove the exit down.
+~
+S
+#9630
+A Frozen Snow Cave~
+You find yourself in a frozen snow cave.  The room is small and
+cramped.  Huge piles of snow and ice lie scattered about the room
+thanks to the avalanche which have brought you here.  You notice it is
+cold down here, you have a good chance of getting frostbite.  This
+cave continues east.    
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9631 0
+S
+#9631
+A Frozen Snow Cave~
+This is a small room covered in ice.  The walls shimmer almost
+magically when a light is shone on them.  The air is freezing cold,
+and damp.  The chance of freezing to death is great.  On the floor you
+notice huge drifts of pure white snow.  There are footprints in the
+snow leading north and south, they look vaguely human.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 0 9768 0
+D2
+~
+~
+0 -1 9632 0
+E
+footprints snow~
+These footprints look vaguely human.
+~
+S
+#9632
+A Frozen Snow Cave~
+These caves seem to be carved solely from snow and ice, but that is
+not true.  The walls are raw earth covered in thick layers of ice
+formed over the ages.  You notice the snow accumulating on the ground
+is pure white and fluffy.  You wonder how snow can accumulate indoors,
+where it can't possibly snow.  This cave continues north, east, and
+south.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9631 0
+D1
+~
+~
+0 -1 9633 0
+D2
+~
+~
+0 -1 9631 0
+S
+#9633
+A Frozen Snow Cave~
+Large pristine icicles hang down from the ceiling to jab at your body,
+and torment your soul.  There are many icicles growing here, in
+addition to huge piles of snow and ice accumulating on the ground.  
+The sounds of feet scuffling through snow and ice resounds nearby.  
+This cave continues east, south, and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9636 0
+D1
+~
+~
+0 -1 9634 0
+D3
+~
+~
+0 -1 9632 0
+S
+#9634
+A Frozen Snow Cave~
+The air is cold and chilly.  Clouds of pure white escape from your
+nostrils only to condense on your nose.  The layout of this cave is
+confusing, there are not many distinquishable landmarks here to refer
+to when you are lost.  This corridor continues north, east, and west.
+~
+96 9 0 0 0 0
+D1
+~
+~
+0 -1 9640 0
+D2
+~
+~
+0 -1 9635 0
+D3
+~
+~
+0 -1 9633 0
+S
+#9635
+A Frozen Snow Cave~
+Trudging through the snow and ice in this cave is a nightmare.  The
+chance of getting lost is greatens with each step you take.  There are
+many footprints on the ground, many look vaguely human, but you doubt
+any creature of flesh and bone can exist down here in this cold.  
+This cave continues north, and east.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9634 0
+D1
+~
+~
+0 -1 9638 0
+S
+#9636
+A Frozen Snow Cave~
+The sounds of feet shuffling through the snow echoes lightly down the
+corridor of this cave.  Occasionally you hear soft whimpering and
+other guttural sounds, but it is the shuffling sounds which you hear
+the most.  This cave continues north, east, and south.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9631 0
+D1
+~
+~
+0 -1 9637 0
+D2
+~
+~
+0 -1 9633 0
+S
+#9637
+A Frozen Snow Cave~
+The tunnel ends here in a small room.  Snow and ice accumulate here on
+the ground, piled ceiling high.  The snow is soft and fluffy, a brief
+taste shows it to be clean and pristine.  You notice few footprints
+here on the ground, the traffic in and out of this room is decidedly
+light.  This room exits west.    
+~
+96 9 0 0 0 0
+D3
+~
+~
+0 -1 9636 0
+E
+footprints~
+These footprints look vaguely human in shape.
+~
+S
+#9638
+A Frozen Snow Cave~
+The surroundings here in this cave are dull and monotonous.  The only
+things to be seen are huge piles of snow accumulating on the ground.
+Sometimes small displays of ice formations, like icicles, decorate
+some sections of the cave.  This cave continues south, and west.    
+~
+96 9 0 0 0 0
+D2
+~
+~
+0 -1 9639 0
+D3
+~
+~
+0 -1 9635 0
+E
+icicles ice formations~
+These icicles look beautiful.
+~
+S
+#9639
+A Frozen Snow Cave~
+A thin layer of snow lies here, underneath exists a hard stratum of
+solid ice.  You notice the layer of snow is hard and grainy, unlike
+the soft and fluffy type you have encountered all throughout this
+cave.  To the east you see a small cave.  You notice few footprints
+leading off in that direction.  This tunnel continues north, east, and
+south.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9638 0
+D1
+~
+~
+0 -1 9641 0
+D2
+~
+~
+0 -1 9640 0
+E
+footprints~
+These footprints look vaguely human.
+~
+S
+#9640
+A Frozen Snow Cave~
+By now you feel a bit sick of trudging tunnels of snow and ice.  You
+will be glad again when you can sit back and relax at home near a warm
+toasty fire.  But for now, miles of snow and ice beckon you.  This
+cave continues north, and west.    
+~
+96 9 0 0 0 0
+D0
+~
+~
+0 -1 9639 0
+D3
+~
+~
+0 -1 9634 0
+S
+#9641
+A Frozen Room of Snow and Ice~
+This is a small room encased in ice.  The floor is carpeted with a
+thin layer of hard icy snow, the ceiling lined with rows of
+translucent icicles.  To the east lies a massive door of ice.  The
+door is barely visible against a solid wall of ice.  This room exits
+west.    
+~
+96 9 0 0 0 0
+D1
+A massive door of ice blocks the eastern wall.
+~
+icedoor door~
+2 9602 9642 15
+D3
+~
+~
+0 -1 9639 0
+E
+door icedoor~
+   This door is made of ice, and looks a part of the wall itself.  The
+lockset and handles are pure ice.  What is unique about the keyhole is
+it just a small hole.
+~
+S
+#9642
+A Frozen Ice Corridor~
+You venture into a cave encased in ice.  The tunnel sparkles with a
+magical brillance as light diffracts and reflects off the many faceted
+walls, floor, and ceiling.  To the west lies a large door of pure ice,
+even the handles and lock set is made of ice.  This cave continues
+east and south.    
+~
+96 8 0 0 0 0
+D1
+~
+~
+0 -1 9644 0
+D2
+~
+~
+0 -1 9643 0
+D3
+A massive door of ice blocks the western wall.
+~
+icedoor door~
+2 9602 9641 15
+E
+door icedoor~
+   This door is made of ice, and looks a part of the wall itself.  The
+lockset and handles are pure ice.  What is unique about the keyhole is
+it just a small hole.
+~
+S
+#9643
+A Frozen Ice Corridor~
+The icy walls sparkle with a wonderous brillance.  The floor is smooth
+and level, and has a polished sheen to it.  Not a flake of snow can be
+found here.  You hear sounds of ice clicking on ice coming nearby.  
+This corridor continues north, east, and south.    
+~
+96 8 0 0 0 0
+D0
+~
+~
+0 -1 9642 0
+D1
+~
+~
+0 -1 9647 0
+D2
+~
+~
+0 -1 9646 0
+E
+floor~
+The floor is pretty.
+~
+S
+#9644
+A Frozen Ice Corridor~
+As you wander around through the corridors in this icy world, you
+can't help but wonder about its occupants.  Creatures who decorate and
+bejewel their suroundings.  Creatures who can survive in deadly cold
+temperatures.  Creatures probably with a keen intellect and a calm
+sense of reason, you hope...  This cave continues north, south, and
+west.    
+~
+96 8 0 0 0 0
+D0
+~
+~
+0 -1 9647 0
+D2
+~
+~
+0 -1 9645 0
+D3
+~
+~
+0 -1 9642 0
+S
+#9645
+A Frozen Ice Corridor~
+You wander through a corridor of pure ice.  The corridor is large and
+roomy.  Decorative geometric motifs were carved into the walls and
+ceiling in an attempt to beautify the tunnel.  Despite the interesting
+surroundings, you notice it is deadly cold down here.  A few minutes
+of relative inactivity can render a creature of flesh and bone into a
+frozen carcass.  This corridor continues north and east.    
+~
+96 8 0 0 0 0
+D0
+~
+~
+0 -1 9644 0
+D1
+~
+~
+0 -1 9646 0
+E
+floor corridor walls ceiling~
+This corridor is grand.
+~
+S
+#9646
+A Frozen Ice Corridor~
+This is a corridor of ice you find yourself in.  Pretty geometric
+motifs were carved into the walls and ceiling.  The floor is smooth
+and level, and has a polished sheen to it.  In the air, the sounds of
+ice clicking on ice can be heard; they sound like footsteps.  This
+corridor continues north and west.    
+~
+96 8 0 0 0 0
+D0
+~
+~
+0 -1 9643 0
+D3
+~
+~
+0 -1 9645 0
+S
+#9647
+A Frozen Ice Cave~
+This is a wonderland of ice.  Pretty geometric motifs, carved into the
+walls and ceiling, decorate this cave.  The smooth icy floor had been
+parqueted with tiles of ice, carved and fitted into place.  It seems
+like a place befitting a king.  You notice a magical brillance
+emanating from the east.  This cave continues east, south, and west.
+~
+96 8 0 0 0 0
+D1
+~
+~
+0 -1 9648 0
+D2
+~
+~
+0 -1 9644 0
+D3
+~
+~
+0 0 9646 0
+E
+cave floor ceiling walls~
+This corridor is grand.
+~
+S
+#9648
+The Throne Room of Ice~
+You enter a large cathedral-like space.  The room sparkles with a
+fiery brillance as magical light, contained in icy cressets, reflect
+and refract off the many multi-faceted walls.  High above, the ceiling
+disappears into gloomy darkness.  In this room sits a large throne
+placed on a dais of ice.  Despite the deadly cold, you stop shivering
+for one moment as you stand in awe of your surroundings.  The throne
+room exits west.    
+~
+96 8 0 0 0 0
+D3
+~
+~
+0 -1 9647 0
+E
+throne~
+   This throne is large and well-built.  It shimmers with a magical brillance
+as light reflects and refracts off its many multi-faceted surface.
+~
+S
+#9650
+Small ledge~
+You stand on a small ledge on the side of the mountain.  Looking west
+and to the north you can make out a large city, placed against the
+Black mountain range.  To the east a small rugged path leads to a dark
+opening.    
+~
+96 0 0 0 0 0
+D1
+~
+~
+0 0 9600 0
+D3
+~
+~
+0 0 -1 0
+S
+$~

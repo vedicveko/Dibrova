@@ -1,0 +1,810 @@
+#31800
+overalls~
+/cwsome overalls/c0~
+/cwA crumpled pair of overalls is here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 7800 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+9 2
+#31801
+work boots~
+/cwsome work boots/c0~
+/cwA pair of work boots is lying here./c0~
+~
+9 1024 0 0 0 65 0 0 0
+5 0 0 0 0 0 0 0
+5 8200 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#31802
+banded mail~
+/cwa suit of banded mail/c0~
+/cwA suit of banded mail has been left here./c0~
+~
+9 8704 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+10 9000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+5 1
+C
+69 100
+#31803
+shield~
+/cwa shield/co~
+/cwA shield is lying here./c0~
+~
+9 512 0 0 0 513 0 0 0
+6 0 0 0 0 0 0 0
+5 7800 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#31804
+longsword~
+/cwa longsword/c0~
+/cwA longsword is lying here./c0~
+~
+5 532993 0 0 0 8193 0 0 0
+0 4 6 3 0 0 0 0
+10 10000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#31805
+crossbow~
+/cwa crossbow/c0~
+/cwA crossbow is lying here./c0~
+~
+5 524801 0 0 0 8193 0 0 0
+0 4 6 1 0 0 0 0
+10 11400 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+5 1
+#31806
+plate mail platemail suit~
+/cwa suit of platemail/c0~
+/cwA suit of platemail is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+20 7000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+20 1
+A
+23 1
+C
+68 100
+#31807
+spear~
+/cwa spear/c0~
+/cwA spear is lying here./c0~
+~
+5 532992 0 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+10 10000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 -2
+A
+18 2
+#31808
+longsword~
+/cwa longsword/c0~
+/cwA longsword is lying here./c0~
+~
+5 532992 0 0 0 8193 0 0 0
+0 4 6 3 0 0 0 0
+10 10600 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 -1
+A
+19 3
+#31809
+shield~
+/cwa shield/c0~
+/cwA shield is lying here./c0~
+~
+9 1024 0 0 0 513 0 0 0
+6 0 0 0 0 0 0 0
+5 4800 1 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 5
+#31810
+bottle milk~
+/cwa bottle of /cWmilk/c0~
+/cwA bottle of /cWmilk /cwis here./c0~
+~
+17 0 0 0 0 1 0 0 0
+10 10 10 0 0 0 0 0
+15 0 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31811
+loom~
+/cwa loom/c0~
+/cwA loom is resting on the floor here./c0~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+30 500 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31812
+diamond~
+/cwa brilliant /cCdiamond/c0~
+/cwA beautiful stone is lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1000 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31813
+ruby~
+/cwa /cRruby/c0~
+/cwA /cRred /cwstone is lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1000 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31814
+emerald~
+/cwan /cGemerald/c0~
+/cwA /cGgreen /cwstone is lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 2500 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31815
+sapphire~
+/cwa /cBsapphire/c0~
+/cwA /cBbluish /cwstone is lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 2000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31816
+leather armor~
+/cwa leather armor/co~
+/cwA leather armor is lying here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+5 7400 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 1
+#31817
+short sword shortsword~
+/cwa shortsword/c0~
+/cwA shortsword is lying here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 4 7 3 0 0 0 0
+5 11306 1 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#31818
+saddle~
+/cwa saddle/c0~
+/cwA saddle is here waiting to be picked up./c0~
+~
+13 1024 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+20 30 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+2 -2
+A
+14 10
+#31819
+chain mail chainmail~
+/cwa suit of chainmail/c0~
+/cwA suit of chainmail lies here./c0~
+~
+9 0 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+15 7600 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31820
+long bow longbow~
+/cwa longbow/c0~
+/cwA longbow is lying here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 4 6 11 0 0 0 0
+15 10000 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31821
+long sword longsword~
+/cwa longsword/c0~
+/cwA longsword is lying here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 6 4 3 0 0 0 0
+10 10333 1 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+10 100
+#31822
+note~
+/cwa note/c0~
+/cwA note is lying here./c0~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+note~
+Nairod and Nalliw
+
+Much has happend in my life since we fought side by side in the troll war.
+I hope, sometime, to have a chance to talk with you about the many pleasant
+things.
+
+My purpose now,sadly, is to ask my corageous comrades to aid my people in a
+time of dire need. I cannot even describe to you the danger that threatens
+Enalro, for I know not its true nature. I do know that unless it can be
+stopped, this evil will consume my village and its families. We will vanish
+without trace into the dust of history.
+
+A sinister force is at work here, and it is made the more frightening by
+the fact that its true nature is concealed in a web of fear and suspicion.
+I plead with you, come to Enalro, lend your skills to revealing this menace,
+that it may finally be destroyed.
+
+                                   Your comrade,
+                                   Zachius Ormo
+~
+#31823
+chain mail chainmail~
+/cwa chainmail/c0~
+/cwA chainmail is lying here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+10 7400 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31824
+broad sword broadsword~
+/cwa broadsword/c0~
+/cwA broadsword is lying here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 6 4 3 0 0 0 0
+20 10666 1 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31825
+cloth~
+/cwa cloth/c0~
+/cwA piece of cloth is lying here./c0~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31826
+short sword shortsword~
+/cwa shortsword/c0~
+/cwA shortsword is lying here./c0~
+~
+5 532992 0 0 0 8193 0 0 0
+0 7 3 3 0 0 0 0
+5 10826 1 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#31827
+crossbow~
+/cwa crossbow/c0~
+/cwA crossbow is lying here./c0~
+~
+5 524800 0 0 0 8193 0 0 0
+0 7 3 2 0 0 0 0
+20 9666 1 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 5
+#31828
+overalls~
+/cwsome overalls/c0~
+/cwA pair of overalls is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 6800 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#31829
+work boots workboots~
+/cwsome workboots/c0~
+/cwA pair of workboots is lying here./c0~
+~
+9 0 0 0 0 65 0 0 0
+5 0 0 0 0 0 0 0
+5 6766 1 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31830
+hammer~
+/cwa hammer/c0~
+/cwA hammer is lying here./c0~
+~
+5 512 0 0 0 8193 0 0 0
+0 5 4 7 0 0 0 0
+5 8333 1 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#31831
+metal hammer~
+/cwa metal hammer/c0~
+/cwA metal hammer is lying here./c0~
+~
+5 512 0 0 0 8193 0 0 0
+0 5 4 7 0 0 0 0
+5 8833 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#31832
+dress~
+/cwa dress/c0~
+/cwA dress is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 7200 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+#31833
+dress~
+/cwa dress/c0~
+/cwA dress is lying here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 7200 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+#31834
+diamond ring~
+/cwa /cCdiamond /cwring/c0~
+/cwA /cCdiamond /cwring is lying here./c0~
+~
+9 1024 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+5 7000 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+#31835
+emerald ring~
+/cwan /cGemerald /cwring/c0~
+/cwAn /cGemerald /cwring is lying here./c0~
+~
+9 1024 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+5 6400 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#31836
+chain mail chainmail~
+/cwa suit of chainmail/c0~
+/cwA suit of chainmail is lying here./c0~
+~
+9 1024 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+15 7400 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 20
+#31837
+sword~
+/cwa sword/c0~
+/cwA sword is lying here./c0~
+~
+5 533504 0 0 0 8193 0 0 0
+0 5 5 4 0 0 0 0
+10 10000 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+10 100
+#31838
+beer~
+/cwa /cybeer/c0~
+/cwA glass of /cybeer /cwis here./c0~
+~
+17 0 0 0 0 16385 0 0 0
+10 10 1 0 0 0 0 0
+15 0 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#31839
+gold ring~
+/cwa /cYgold /cwring/c0~
+/cwA /cYgold /cwring is lying here in the dirt./c0~
+~
+9 1024 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+5 6186 1 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31840
+ring protection~
+/cwa ring of /cmprotection/c0~
+/cwA ring is lying here./c0~
+~
+9 1024 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+1 8166 1 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#31841
+gnarled staff~
+/cwa gnarled staff/c0~
+/cwA staff is lying here./c0~
+~
+5 525312 0 0 0 24577 0 0 0
+3 7 4 5 0 0 0 0
+15 11666 1 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31842
+elven cloak~
+/cwan /cgelven /cwcloak/c0~
+/cwA cloak is lying here./c0~
+~
+9 1024 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+5 6960 1 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 20
+#31843
+potion healing~
+/cwa potion of healing/c0~
+/cwA potion of healing is lying here./c0~
+You drink the potion and your wounds close.    
+~
+10 1056768 32 0 0 1 0 0 0
+35 28 28 0 0 0 0 0
+1 2100 1 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31844
+apron~
+/cwan apron/c0~
+/cwAn apron is hanging here./c0~
+~
+9 512 0 0 0 2049 0 0 0
+5 0 0 0 0 0 0 0
+5 5833 1 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31845
+dagger~
+/cwa dagger/c0~
+/cwA dagger is lying here./c0~
+~
+5 532992 0 0 0 8193 0 0 0
+0 5 5 11 0 0 0 0
+5 11800 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 2
+A
+2 1
+#31846
+breakfast~
+/cwa breakfast/c0~
+/cwA nice breakfast is on a table here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+10 0 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31847
+beer~
+/cwa /cybeer/c0~
+/cwA bottle of /cybeer /cwis here./c0~
+~
+17 0 0 0 0 1 0 0 0
+5 5 1 0 0 0 0 0
+6 3 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31848
+dinner~
+/cwa dinner/c0~
+/cwA fine dinner is spread out here./c0~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0
+4 60 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31849
+wine~
+/cwa /cpwine /cwglass/c0~
+/cwA glass of /cpwine /cwis here./c0~
+~
+17 0 0 0 0 1 0 0 0
+2 2 2 0 0 0 0 0
+4 4 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31850
+dagger~
+/cwa dagger/c0~
+/cwA shiny dagger is lying here./c0~
+~
+5 532992 0 0 0 8193 0 0 0
+0 6 4 11 0 0 0 0
+5 11573 1 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 2
+#31851
+leather armor~
+/cwa leather armor/c0~
+/cwA shiny dagger is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+10 5833 1 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+11 25
+#31852
+poison potion~
+/cwa /cLpoison /cwpotion/c0~
+/cwA potion with a /cLskull /cwand /cLcrossbones /cwis here./c0~
+$n foolishly drinks and suddenly feels ill!
+~
+10 0 0 0 0 1 0 0 0
+45 33 33 33 0 0 0 0
+1 4905 1 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31853
+heal potion~
+/cwa heal potion/c0~
+/cwA potion with a /crcross /cwis lying here./c0~
+$n suddenly feels better!
+~
+10 0 32 0 0 1 0 0 0
+45 28 0 0 0 0 0 0
+1 1075 1 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31854
+invis potion~
+/cwan invis potion/c0~
+/cwA potion is lying here./c0~
+$n slowly fades out of existence!
+~
+10 0 32 0 0 1 0 0 0
+45 29 56 0 0 0 0 0
+1 1120 1 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31855
+studded leather armor~
+/cwa studded leather armor/c0~
+A nice studded armor is lying here.~
+~
+9 512 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+20 6833 1 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+#31856
+robe~
+/cwa robe/c0~
+/cwA pretty /cBblue /cwrobe is lying here./c0~
+~
+9 512 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+5 5833 1 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31857
+keg beer~
+/cwa keg of /cybeer/c0~
+/cwA keg of /cybeer /cwis lying here./c0~
+~
+17 0 0 0 0 1 0 0 0
+10 10 1 0 0 0 0 0
+20 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31858
+cask wine~
+/cwa cask of /cpwine/c0~
+/cwA cask of /cpwine /cwis resting against the wall./c0~
+~
+17 0 0 0 0 1 0 0 0
+7 7 2 0 0 0 0 0
+20 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31859
+shovel~
+/cwa shovel/c0~
+/cwA shovel is lying here./c0~
+~
+5 512 0 0 0 8193 0 0 0
+0 4 4 7 0 0 0 0
+8 6666 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31860
+lantern~
+/cwa lantern/c0~
+/cwA lantern is hanging here./c0~
+~
+1 512 0 0 0 16385 0 0 0
+0 0 15 0 0 0 0 0
+5 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31861
+serving tray~
+/cwa serving tray/c0~
+/cwA serving tray is lying here./c0~
+~
+5 512 0 0 0 8193 0 0 0
+2 5 5 5 0 0 0 0
+5 10000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31862
+ring protection~
+/cwa ring of /cpprotection/c0~
+/cwA beautiful ring is lying here./c0~
+~
+9 512 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+5 8632 0 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+3 1
+#31863
+snakeshead amulet~
+/cwa /cgsnakehead /cwamulet/c0~
+/cwAn amulet depicting a /cgsnake /cwis lying here./c0~
+~
+9 512 0 0 0 5 0 0 0
+4 0 0 0 0 0 0 0
+10 9866 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+#31864
+chainmail~
+/cwa suit of chainmail/c0~
+/cwA nice suit of chainmail is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+10 11733 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+24 1
+#31865
+shield~
+/cwa shield/c0~
+/cwA shield is lying here./c0~
+~
+9 512 0 0 0 513 0 0 0
+5 0 0 0 0 0 0 0
+5 10933 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+2 1
+#31866
+mace~
+/cwa /cLskull-headed /cwmace/c0~
+/cwA /cLskull-headed /cwmace is lying here exuding evil./c0~
+~
+5 512 0 0 0 8193 0 0 0
+0 5 7 9 0 0 0 0
+20 21333 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+20 3
+C
+25 7
+#31867
+chainmail~
+/cwa suit of chainmail/c0~
+/cwA well constructed suit of chainmail is lying here./c0~
+~
+9 512 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+10 10666 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+10 10
+#31868
+stone axe~
+/cwa stone axe/c0~
+/cwA nice axe is lying here./c0~
+~
+5 524800 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+20 13333 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31869
+brooch shielding~
+/cwa brooch of /cCshielding/c0~
+/cwA nice brooch is lying here./c0~
+~
+9 512 0 0 0 5 0 0 0
+5 0 0 0 0 0 0 0
+5 8166 0 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31870
+coins~
+/cYcoins/c0~
+/cwA pile of /cYcoins /cwis lying here./c0~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31871
+diamond~
+/cwa /cCdiamond/c0~
+/cwA shiny /cCdiamond /cwis lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 500 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31873
+ruby~
+/cwa /cRruby/c0~
+/cwA brilliant /cRruby /cwis lying here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 500 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31874
+float quest sphere glowing~
+/cwa /cGglowing /cwsphere/c0~
+/cwA /cGglowing /cwsphere hovers above your head./c0~
+~
+12 33554433 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+7 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+#31875
+potion wisdom minor_wisdom~
+/cwa potion of /ccminor wisdom/c0~
+/cwA potion of /ccminor wisdom/cw has been left here./c0~
+~
+10 1 0 0 0 1 0 0 0
+10 175 0 0 0 0 0 0
+1 4500 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

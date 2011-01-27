@@ -1,0 +1,578 @@
+#6000
+rainbow staff~
+/crt/cbh/cye /cgr/cra/cbi/cyn/cgb/cro/cbw/cy s/cgt/cra/cbf/cyf/c0~
+/crT/cbh/cye /cgr/cra/cbi/cyn/cgb/cro/cbw/cy s/cgt/cra/cbf/cyf/cw lies here./c0~
+~
+1 64 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+8 21320 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 45
+A
+24 -3
+A
+4 2
+A
+3 2
+A
+5 -2
+#6001
+sting~
+/cWSting/c0~
+/cWSting /cwlies here./c0~
+~
+5 67449865 11 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 58332 0 125 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 5
+A
+25 2
+#6002
+sign~
+/cYa sign/c0~
+/cYA sign demands your attention./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+
+Welcome to the Shire.  As you enter the Shire from the forest you come under
+the jurisdiction of the Thain, the peacekeeper of the Shire.  Consequently,
+by entering these lands you agree to obey our laws.  If you break these laws,
+you will be severely punished.  We do not like riff raff in our peaceful
+town.
+
+					The Thain
+					Peacekeeper of the Shire
+
+~
+#6003
+pipeweed bread food~
+/cwa /cypipeweed /cwbread/c0~
+/cwA loaf of /cypipeweed /cwbread arouses your hunger./c0~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+1 96 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6004
+silvery cloak~
+/cwa /ccsilvery /cwcloak/c0~
+/cwA /ccsilvery cloak /cwlies here./c0~
+~
+9 836673 0 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+6 39360 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 6
+A
+12 23
+A
+3 1
+A
+1 -3
+#6005
+one ring~
+/cwthe /cYOne Ring/c0~
+/cwThe /cYOne Ring /cwis here./c0~
+~
+9 67174472 0 0 0 65537 0 0 0
+2 0 0 0 4 0 0 0
+3 48333 0 125 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 20
+A
+19 2
+A
+18 4
+A
+26 2
+#6006
+elven bow~
+/cwan /ccelven /cwbow/c0~
+/cwAn /ccelven /cwbow lies here./c0~
+~
+5 808000 3 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+10 72192 0 119 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+2 2
+A
+25 1
+A
+19 2
+A
+13 -45
+A
+5 -3
+C
+104 8
+#6007
+mithril axe~
+/cwa /cLmithril /cwaxe/c0~
+/cwA /cLmithril /cwaxe lies here./c0~
+~
+5 684096 3 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+12 45979 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -4
+A
+1 2
+A
+2 -2
+A
+5 1
+#6008
+thain girth~
+/cwthe /cBthain /cwgirth/c0~
+/cwThe /cBgirth of the thain /cwlies here./c0~
+~
+9 0 9 0 0 2049 0 0 0
+7 0 0 0 0 0 0 0
+4 29846 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+27 30
+A
+28 30
+A
+14 30
+#6009
+tiny dagger~
+/cwa tiny dagger/c0~
+/cwA tiny dagger lies here./c0~
+~
+5 532480 8 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+3 36000 0 108 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 30
+#6010
+egg food~
+/cwan egg/c0~
+/cwAn egg lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+1 48 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+C
+28 8
+#6011
+bag~
+/cya bag/c0~
+/cyA bag is on the floor./c0~
+~
+15 0 0 0 0 1 0 0 0
+50 0 -1 0 0 0 0 0
+4 50 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6012
+lantern~
+/cwa /cclantern/c0~
+/cwA /cclantern /cwis on the floor./c0~
+~
+1 0 0 0 0 1 0 0 0
+0 0 20 0 0 0 0 0
+4 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6013
+bardiche~
+/cwa bardiche/c0~
+/cwA long weapon with a sharp end is on the floor./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 43999 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 4
+#6014
+flail~
+/cwa /crflail/c0~
+A flail is on the floor.~
+~
+5 20480 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+8 43999 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+A
+18 4
+#6015
+trainee staff~
+a training /cyStaff/c0~
+A long, sturdy staff lies here.~
+~
+5 0 9 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+14 38333 0 115 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6016
+staff battlemaster~
+the Battlemaster's /crStaff/c0~
+A sturdy and slightly dented staff lies here.~
+~
+5 0 3 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+20 51660 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 4
+A
+2 1
+A
+25 1
+A
+4 -1
+A
+5 -1
+#6017
+waistband portly~
+a /cbportly /cpWaistband/c0~
+A rather large waistband lies here.~
+~
+9 1536 2 0 0 2049 0 0 0
+6 0 0 0 0 0 0 0
+5 34880 0 109 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 2
+A
+4 2
+#6019
+legging bumpkin~
+the Bumpkin's /cpLeggings/c0~
+A pair of leggings lie here, looking like they could fit a large person.~
+~
+9 0 11 0 0 33 0 0 0
+6 0 0 0 0 0 0 0
+0 36333 0 109 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 40
+A
+18 4
+A
+19 3
+#6020
+epee thain~
+the Thain's /cCEpee/c0~
+A slender epee lies here unused.~
+~
+5 0 2 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 50013 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+19 -2
+A
+26 4
+#6021
+garb elven prince~
+the elven Prince's /cgGarb/c0~
+A pile of clothing lies here in a heap.~
+~
+9 3072 11 0 0 9 0 0 0
+12 0 0 0 0 0 0 0
+16 33040 0 118 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 35
+A
+27 35
+A
+18 5
+A
+19 -5
+A
+14 35
+#6022
+mail smelted~
+a suit of smelted /cLMail/c0~
+A suit of smelted mail lies here in a jumbled pile.~
+~
+9 544768 0 0 0 9 0 0 0
+12 0 0 0 0 0 0 0
+20 40906 0 118 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -4
+A
+13 35
+A
+26 3
+A
+25 -3
+#6023
+earring beautiful~
+a pair of /cWbeautiful /cCEarrings/c0~
+A pair of beautiful earrings lie here, almost hidden in the dust.~
+A pair of beautiful earrings lie here.
+~
+9 2016768 0 0 0 32769 0 0 0
+1 0 0 0 0 0 0 0
+2 29520 0 108 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+24 -5
+A
+12 20
+#6051
+talisman aquarius~
+a seashell-encrusted Talisman~
+An ageless talisman, adorned with seashells, lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman seashell~
+Plain and ordinary, it is enhanced by the appearance of several small
+seashells that adorn the outer edges of the talisman.    
+~
+#6052
+talisman pisces~
+a fish-shaped Talisman~
+An ageless talisman, carved in the shape of a fish, lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman fish~
+The talisman is a plain wooden object, carved into the shape of a fish
+and suspended upon a short length of iron chain.    
+~
+#6053
+talisman aries~
+a spiral-horned Talisman~
+An ageless talisman, carved from a ram's horn, lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman spiral~
+The talisman is carved from the horn of a ram.  Strange markings are
+engraved upon the surface of the talisman, the meaning lost over the
+ages.    
+~
+#6054
+talisman taurus~
+a cowhorn-shaped Talisman~
+An ageless old talisman, carved from a bull's horn' lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman bull~
+A long slender cow horn, the tip capped with a golden orb, makes up
+this otherwise simple talisman.    
+~
+#6055
+talisman gemini one peaceful~
+one-half of a Talisman~
+A talisman, radiating a peaceful feeling, lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman half~
+This is a simple talisman, made from pure silver and hanging from a
+silver chain.  The talisman seems to bring a feeling of goodness as it
+is held.    
+~
+#6056
+talisman gemini malignant~
+one-half of a Talisman~
+A talisman, radiating an maligant feeling, lies here.~
+~
+12 67174413 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman malignant half~
+This is a simple talisman, a teardrop-shaped onyx hung from a length
+of obsidian chain.  The talisman seems to carry about it an aura of
+evil, the wearer becoming more wicked as time goes by.    
+~
+#6057
+talisman cancer~
+a pincher-shaped Talisman~
+An ageless old talisman, made from a claw, lies here.~
+~
+12 65549 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman pincher~
+The talisman is nothing more than smelted iron disc, bearing the image
+of a crab's claw.  On one side of the disc, the claw is open; on the
+other side, the claw is closed.    
+~
+#6058
+talisman leo~
+a feline-shaped Talisman~
+An ageless talisman, bearing the image of a feline, lies here.~
+~
+12 65549 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman feline~
+The talisman is an ornate one.  It is in the shape of a feline, carved
+from a pure emerald.  A jade chain suspends the pendant.    
+~
+#6059
+talisman virgo sensually~
+a sensually-carved Talisman~
+A magnificant and sensually-carved Talisman lies here.~
+~
+12 65549 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman sensual~
+The talisman is made of soapstone.  There is an image of a beautiful,
+nude woman on the front of the pendant.  A slender chain made from
+gold holds the pendant.    
+~
+#6060
+talisman libra two~
+a two-sided Talisman~
+A two-sided talisman, shaped like a scale, lies here.~
+~
+12 65549 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman two sided~
+The talisman is a flat wooden circle, containing two faces.  On one
+side, the face is serene and peaceful.  On the other side, the face is
+twisted and wicked.    
+~
+#6061
+talisman scorpio segmented~
+a curved, segmented Talisman~
+A talisman lies here, composed of segments aligned in a curve.~
+~
+12 65549 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman curved segmented~
+The talisman is a dried-out scorpion's tail hung from a strip of
+leather.    
+~
+#6062
+talisman saggitarius bow~
+a bow-shaped Talisman~
+An ageless talisman, shaped as a bow, lies here.~
+~
+12 65549 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman bow~
+The talisman is a minature bow, complete with a realistic string.  It
+is carved from solid oak and the string is made from catgut.    
+~
+#6063
+talisman capricorn~
+a slender goat-horn Talisman~
+An ageless talisman, carved from goat's horn, lies here.~
+~
+12 65549 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+talisman goat horn~
+The talisman is a pendant, carved out from a goat's horn, in the image
+of a streaking comet.  A simple braided rope of hemp bears the
+pendant.    
+~
+#6064
+portal rip void~
+a rip in the Void~
+/cLA small rip in the void shimmers teasingly as it floats here./c0~
+~
+24 1 0 0 0 1 0 0 0
+6074 0 0 0 0 0 0 0
+2000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+void rip~
+It shimmers and undulates, it's very existence on this plane an
+absolute abnormality.  Looking deep into the rip, you can make out
+what appears to be another place, possibly another dimension!    
+~
+E
+rip~
+It shimmers and undulates, its very existance on this plane an absolute
+abnormality. Looking deep into the rip, you can make out what appears to
+be another place, possibly another dimension.
+~
+#6098
+chalice titan~
+the /cYChalice of the Titans/c0~
+A huge chalice lies here, humming with great power!~
+~
+17 67174413 0 0 0 1 0 0 0
+1 1 21 0 0 0 0 0
+5 0 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6099
+deed shire~
+the deed to the Shire~
+The deed to the Shire has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+60 0 0 0 0 0 0 0
+1 7500000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

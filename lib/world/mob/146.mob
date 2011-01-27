@@ -1,0 +1,382 @@
+#14601
+monk child~
+a monk child~
+A monk child is here sweeping the floor.
+~
+He is only a child, surely you will want to pick on someone your own
+size.    
+~
+16588 0 0 0 65536 4194304 0 0 500 E
+16 5 36 0d0+0 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 24
+Int: 18
+Wis: 18
+Con: 20
+Cha: 25
+Luck: 5
+Race: 7
+E
+#14602
+female prisoner~
+an imprisoned nun~
+A female prisoner cringes away from you in terror.
+~
+Judging from what is left of her clothes, she appears to be a nun.
+~
+138 0 0 0 65536 4194304 0 0 150 E
+27 12 -8 0d0+0 2d4+18
+0 20926
+8 8 2
+BareHandAttack: 1
+Str: 17
+Dex: 22
+Int: 9
+Wis: 8
+Con: 14
+Cha: 23
+Luck: 19
+Class: 2
+Race: 7
+E
+#14603
+disciple~
+a disciple~
+A disciple tries to impress you with his new skills.
+~
+One of the many who came here to learn the Shaolin martial skills.  
+Like many others, he seems quite hopeless.    
+~
+22554 0 0 0 65536 4194304 0 0 350 E
+38 19 -20 0d0+0 3d6+25
+400 50022
+8 8 1
+BareHandAttack: 13
+Str: 24
+Dex: 24
+Int: 15
+Wis: 19
+Con: 8
+Cha: 5
+Luck: 14
+Class: 8
+Race: 7
+E
+#14604
+monk~
+a monk~
+A monk is here practicing his skills. Watch it!
+~
+You take a step back to ensure you're out of the range of his deadly
+moves.    
+~
+18442 0 0 0 65536 4194304 0 0 350 E
+34 17 -20 0d0+0 3d4+22
+300 37669
+8 8 1
+BareHandAttack: 1
+Str: 23
+Dex: 23
+Int: 7
+Wis: 9
+Con: 7
+Cha: 14
+Luck: 6
+Class: 8
+Race: 7
+E
+#14605
+monk guard~
+a monk guard~
+A monk guard charges at you for intruding this room!
+~
+Armed and dangerous, you don't want to mess with him.
+~
+7434 0 0 0 65536 4194304 0 0 500 E
+44 24 -24 0d0+0 4d5+29
+600 72697
+8 8 1
+BareHandAttack: 7
+Str: 15
+Dex: 23
+Int: 23
+Wis: 22
+Con: 25
+Cha: 13
+Luck: 13
+Class: 8
+Race: 7
+E
+#14606
+demon inner your own~
+your own inner demon~
+Your own inner demon screams and attacks!
+~
+This extremely ugly creature looks very familiar.  Wait a minute, it
+looks exactly like you.  In fact, it is you!    
+~
+16426 0 0 0 65536 4194304 0 0 -500 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 9
+Str: 13
+Dex: 18
+Int: 9
+Wis: 12
+Con: 14
+Cha: 17
+Luck: 5
+Race: 41
+E
+#14607
+evil monk~
+an evil monk~
+An evil monk jumps from the ceiling and takes you by surprise!
+~
+He looks about the same as the rest of the monks here.  In fact, he
+looks more friendly than the rest.  Too bad he doesn't like your face.
+~
+16442 0 0 0 65536 4194304 0 0 -750 E
+49 28 -28 0d0+0 5d5+32
+725 95656
+8 8 1
+BareHandAttack: 7
+Str: 14
+Dex: 14
+Int: 6
+Wis: 8
+Con: 20
+Cha: 13
+Luck: 22
+Class: 8
+Race: 7
+E
+#14608
+wood wooden monk man machine~
+the wooden man~
+The wooden man fighting machine creaks and pummels you!
+~
+Made entirely of hard wood and controlled mechanically by chains and
+pulleys, this is one tough bugger.    
+~
+16426 0 0 0 65536 4194304 0 0 0 E
+57 35 -32 0d0+0 5d6+38
+0 140668
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 10
+Int: 18
+Wis: 10
+Con: 20
+Cha: 14
+Luck: 7
+E
+#14609
+monk warrior~
+the monk warrior~
+A monk warrior struts proudly here.
+~
+Recently promoted to warrior status, he takes a look at your puny size
+and laughs in your face.    
+~
+20552 0 0 0 65536 4194304 0 0 250 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+BareHandAttack: 7
+Str: 10
+Dex: 9
+Int: 5
+Wis: 7
+Con: 18
+Cha: 20
+Luck: 9
+Class: 8
+Race: 7
+E
+#14610
+luohan bronze monk~
+the Luohan~
+The Luohan stands motionlessly here, waiting for you to attack.
+~
+With skin as tough as bronze, these monks are among the most highly
+skilled.  You don't want to mess with them.  Then again, do you have a
+choice?    
+~
+20506 0 0 0 65536 4325376 0 0 500 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 10
+Str: 13
+Dex: 9
+Int: 12
+Wis: 25
+Con: 8
+Cha: 22
+Luck: 17
+Class: 8
+Race: 7
+E
+#14611
+wuhua monk~
+Wuhua~
+Wuhua screams with a wild sense of joy as he pounces on you!
+~
+Looking every bit like a pervert, he just can't wait to lay his filthy
+claws on you.    
+~
+16442 0 0 0 65536 4194304 0 0 -750 E
+40 21 -20 0d0+0 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 8
+Str: 12
+Dex: 6
+Int: 22
+Wis: 17
+Con: 23
+Cha: 23
+Luck: 20
+Race: 7
+E
+#14612
+master librarian monk~
+the Master of Books~
+The master of books is here, ready to teach you.
+~
+He looks old and his eyes are failing him.  In one hand, he holds a
+lighted candle to help him read better.    
+~
+18442 0 0 0 8454144 4194304 0 0 750 E
+61 38 -40 0d0+0 5d6+40
+1025 167227
+8 8 1
+BareHandAttack: 1
+Str: 23
+Dex: 21
+Int: 16
+Wis: 16
+Con: 13
+Cha: 22
+Luck: 15
+Class: 8
+Race: 7
+E
+#14613
+master monk drunken~
+the Drunken Master~
+A master is resting here, looking very intoxicated.
+~
+Hmm..  Are monks supposed to do this?  You pondered as you look at
+this pathetic excuse for a human being.    
+~
+16394 0 0 0 65536 4194304 0 0 500 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+Str: 21
+Dex: 14
+Int: 17
+Wis: 14
+Con: 19
+Cha: 20
+Luck: 13
+Race: 7
+E
+#14614
+master monk trainer~
+the Master Trainer~
+A master is here doing pushups with one finger.
+~
+Wow.  What a amazing feat!  Such demonstration of strength and
+control.  Don't you wish you can do that.    
+~
+546842 0 0 0 65536 4194816 0 0 750 E
+64 41 -40 0d0+0 6d6+42
+1100 189005
+8 8 1
+BareHandAttack: 7
+Str: 8
+Dex: 5
+Int: 20
+Wis: 16
+Con: 5
+Cha: 22
+Luck: 9
+Class: 8
+Race: 7
+E
+#14615
+abbot monk~
+the Abbot of the Monastary~
+The Abbot of the Monastary nods in your direction, acknowledging your 
+presence. 
+~
+Looking strong and healthy even at this age, the Abbot cuts an
+impressive figure.    
+~
+213130 0 0 0 33619968 4194816 0 0 1000 E
+69 46 -40 0d0+0 6d6+46
+1125 228971
+8 8 1
+BareHandAttack: 6
+Str: 23
+Dex: 23
+Int: 22
+Wis: 20
+Con: 7
+Cha: 5
+Luck: 13
+Class: 8
+Race: 7
+E
+#14616
+jinshen~
+the Jinshen~
+A Jinshen sits here, undisturbed.
+~
+Covered from head to toe with gold flakes, this mortal shell of a
+former high monk has been perfectly preserved.    
+~
+81930 0 0 0 65536 4194304 0 0 0 E
+75 51 -40 0d0+0 6d7+50
+0 283219
+8 8 1
+BareHandAttack: 10
+Str: 18
+Dex: 10
+Int: 16
+Wis: 5
+Con: 21
+Cha: 25
+Luck: 25
+Class: 8
+Race: 7
+E
+#14617
+guest visitor~
+the visiting guest~
+A visiting guest stands here.
+~
+Looking at his best in his fine clothing, he looks rather wealthy.
+~
+16456 0 0 0 65536 4194304 0 0 500 E
+29 13 -16 0d0+0 3d3+19
+250 25109
+8 8 1
+Str: 16
+Dex: 19
+Int: 19
+Wis: 19
+Con: 8
+Cha: 6
+Luck: 6
+Race: 15
+E
+$

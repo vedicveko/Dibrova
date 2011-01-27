@@ -1,0 +1,1293 @@
+#13101
+soldier lazy sentry guard~
+a lazy Guard~
+A lone sentry lounges here pretending to guard the entrance.
+~
+This sentry appears to have long since been not needed.  He is
+grey-haired and older than sand.  He must somehow have been held
+together despite his incredible age, maybe by magic . . .
+~
+170010 0 0 0 80 0 0 0 100 E
+20 8 20 20d30+950 1d4+13
+150 9735
+8 8 1
+Str: 21
+Dex: 14
+Int: 10
+Wis: 12
+Con: 22
+Cha: 10
+Luck: 19
+Race: 14
+E
+#13102
+shadow monster~
+a Shadow~
+Shadows move around you, partially substantial, but definitely living.
+~
+This shadow creature is only partially in this dimension, but it looks
+as though it can be hit.  You would want to hit it too, the strange
+places it is touching you...    
+~
+229448 0 0 0 524288 0 0 0 -100 E
+20 8 20 5d20+943 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 16
+Str: 14
+Dex: 17
+Int: 15
+Wis: 15
+Con: 16
+Cha: 14
+Luck: 17
+Race: 11
+E
+#13103
+lizard snake man men~
+a Snake-man~
+A snake-man stands here looking around in a dazed state.
+~
+A snake-man stands here dazed, and saying "I must serve the master.  
+" You have to wonder why...?    
+~
+202 0 0 0 16 0 0 0 0 E
+23 9 8 30d30+1546 1d4+15
+150 13903
+8 8 1
+BareHandAttack: 1
+Str: 10
+Dex: 14
+Int: 17
+Wis: 19
+Con: 18
+Cha: 5
+Luck: 25
+Race: 42
+E
+#13104
+lorgeth man shadow king~
+Lorgeth~
+A man is here waving his arms and giving instructions to the shadows.
+~
+A six and a half foot giant of a man stands here.  He has a look of
+importance about him.  All of the shadows are doing what he says, with
+an almost religious fervor.  The shadows around you tell you to bow to
+Lorgeth.  Who is Lorgeth?  Oh, this man here must be Lorgeth.    
+~
+10314 0 0 0 80 0 0 0 -50 E
+50 29 -28 1d1+5000 5d5+33
+750 100714
+8 8 1
+BareHandAttack: 15
+Str: 7
+Dex: 14
+Int: 13
+Wis: 6
+Con: 8
+Cha: 9
+Luck: 7
+Class: 1
+Race: 14
+E
+#13105
+fountain moving animate~
+an animate Fountain~
+A fountain filled with green, stagnant water is here.
+~
+This fountain is filled with green, stagnant water.  As you look
+closer you notice it move!  In fact, it is moving towards you...    
+~
+16777226 0 0 0 0 0 0 0 -30 E
+20 8 20 8d20+952 2d3+10
+0 9735
+8 8 0
+Str: 5
+Dex: 6
+Int: 19
+Wis: 7
+Con: 7
+Cha: 25
+Luck: 16
+E
+#13106
+sharel shadow~
+Sharel~
+The commander of his shadow army, Sharel, stands here!
+~
+This shadow appears to be very important.  You can only guess that he
+must be a commander, but what stange troops.  His name is Sharel,
+whispered to you by all of the shadows around you.    
+~
+2074 0 0 0 0 0 0 0 -30 E
+39 20 -20 10d23+1537 4d5+26
+0 53447
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 21
+Int: 8
+Wis: 17
+Con: 25
+Cha: 10
+Luck: 10
+Class: 4
+Race: 11
+E
+#13107
+bohemoth monster darkness eyes~
+the Bohemoth~
+Glowing red eyes come out of the darkness towards you.
+~
+This great creature must surely be of an incredible size, you can only
+see small pieces of it as it comes close to you, but you can make no
+mistake, the size of it's teeth speak very loudly of the true size of
+this monster.    
+~
+198666 0 0 0 0 0 0 0 -300 E
+22 9 12 22d12+1400 2d3+11
+0 12413
+8 8 1
+BareHandAttack: 9
+Str: 19
+Dex: 19
+Int: 15
+Wis: 16
+Con: 21
+Cha: 18
+Luck: 21
+Race: 10
+E
+#13108
+garin man camoflage~
+Garin~
+A man lies against a wall blending in extremely well.
+~
+>From his looks you can see that Garin is a seasoned war veteran.  He
+has learned to become so well hidden in his surroundings that you
+can't be sure that you are actually even seeing him now, it could be
+just a shadow of this great warrior.  You seem to remember learning
+about him as a fire-side legend.    
+~
+2074 0 0 0 524288 131072 0 0 0 E
+25 11 0 25d12+1934 2d3+16
+200 17197
+8 8 1
+Str: 23
+Dex: 14
+Int: 6
+Wis: 15
+Con: 23
+Cha: 24
+Luck: 6
+Class: 5
+Race: 14
+E
+#13109
+keeper janitor servant humble~
+the Servant~
+A humble servant stands here cleaning the temple.
+~
+This humble servant has lived a deprived life.  He has lived all his
+life in this temples serving it's inhabitants.    
+~
+76 0 0 0 0 0 0 0 50 E
+18 7 28 18d12+715 1d3+12
+100 7441
+8 8 0
+Str: 17
+Dex: 18
+Int: 17
+Wis: 16
+Con: 20
+Cha: 25
+Luck: 8
+Class: 12
+Race: 14
+E
+#13110
+mendo knight priest templar~
+Mendo~
+The great templar Mendo with his temple in the background stands here.
+~
+An ancient, yet great man stands here.  He must be the fabled templar
+Mendo, of which is rumored that nothing would ever harm him for fear
+of the vengence of the god which he serves.    
+~
+2330 0 0 0 0 0 0 0 1000 E
+50 29 -28 1d1+5000 5d5+33
+750 100714
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 19
+Int: 19
+Wis: 20
+Con: 16
+Cha: 6
+Luck: 17
+Class: 6
+Race: 14
+E
+#13111
+citizen torin~
+a Citizen~
+A citizen of Torin admires the order that is kept here.
+~
+This is a normal everday person.  He appears to be just wandering
+around in the streets of the part of this city that wasn't overrun by
+the shadows.    
+~
+72 0 0 0 0 0 0 0 20 E
+15 5 40 15d12+430 1d3+10
+50 4674
+8 8 1
+Str: 8
+Dex: 23
+Int: 23
+Wis: 14
+Con: 23
+Cha: 12
+Luck: 21
+Class: 12
+Race: 14
+E
+#13112
+guard city torin~
+a Torin Cityguard~
+A man stands here guarding the city streets.
+~
+A seasoned veteran of the Torin wars many years ago, this man can only
+find work now as a cityguard.    
+~
+6216 0 0 0 16 0 0 0 150 E
+25 11 0 25d12+1900 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 14
+Str: 7
+Dex: 25
+Int: 17
+Wis: 19
+Con: 9
+Cha: 22
+Luck: 6
+Class: 10
+Race: 14
+E
+#13113
+sacred guard~
+the Sacred Guard~
+A guard of the Sacred guards against the Shadow's invasion.
+~
+A huge guard stands here protecting his beloved city, the sacred place
+where shadows must not be allowed to go.    
+~
+6410 0 0 0 16 0 0 0 100 E
+34 17 -20 12d14+400 3d4+22
+300 37669
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 23
+Int: 17
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Class: 4
+Race: 14
+E
+#13114
+melki man citizen torian cave~
+Melki~
+What appears to be a former Torian citizen searches the caves for food.
+~
+This man was once a citizen of Torin, or that is what his clothes say
+about him, if the rags he is wearing can be called clothes.  This
+appears to be another of the byproducts of the shadow invasion.  You
+notice that he is wearing a name tag...  How friendly, it says "Melki,
+chief inquisitor of the Empire".    
+~
+24652 0 0 0 65536 4194304 0 0 10 E
+26 11 -4 12d20+1965 2d3+17
+200 19006
+8 8 1
+Str: 5
+Dex: 20
+Int: 19
+Wis: 16
+Con: 24
+Cha: 25
+Luck: 22
+Race: 14
+E
+#13115
+adorin man caves citizen~
+Adorin~
+A once proud Torian citizen looks as though his entire world has collapsed.
+~
+Adorin, the advisor to the King of Torin stands here looking
+downtrodden.  He has evidently been out of work for a very long time
+by the look of his clothes.    
+~
+14412 0 0 0 0 0 0 0 10 E
+26 11 -4 20d20+1765 2d3+17
+200 19006
+8 8 1
+Str: 15
+Dex: 20
+Int: 16
+Wis: 9
+Con: 18
+Cha: 12
+Luck: 5
+Race: 14
+E
+#13116
+slug slimy ground giant ugly~
+a Slug~
+A giant, slimy, ugly, ground slug climbs the walls.
+~
+An ancient, giant ground slug climbs the walls of the caverns.  
+Seemingly older than the caverns, he is just climbing along.  Don't
+get too close though, he has teeth...    
+~
+72 0 0 0 0 0 0 0 -50 E
+9 2 64 20d20+400 1d2+6
+0 1270
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 24
+Int: 23
+Wis: 19
+Con: 14
+Cha: 20
+Luck: 21
+Race: 5
+E
+#13117
+bat rat flying~
+a Bat~
+A huge flying bat flies around here.
+~
+As you take a closer look you realize this isn't a rat, it's a giant
+bat!  It doesn't look particularly friendly, but then again neither do
+it's fangs.    
+~
+216 0 0 0 8388608 0 0 0 -50 E
+10 3 60 20d20+791 1d2+6
+0 1662
+8 8 1
+BareHandAttack: 4
+Str: 8
+Dex: 21
+Int: 15
+Wis: 16
+Con: 15
+Cha: 25
+Luck: 25
+Race: 3
+E
+#13118
+giant stone secret~
+a gargantuan Stone Giant~
+A stone giant is standing here, apparently sleeping.
+~
+This ancient giant has turned into stone, but I don't think that would
+hamper him much considering his incredible size.  One of his immense
+fists could crush the life out of you faster than you could breathe.
+~
+591882 0 0 0 0 131072 0 0 0 E
+50 29 -28 1d1+5000 5d5+33
+750 100714
+4 4 0
+BareHandAttack: 6
+Str: 23
+Dex: 13
+Int: 5
+Wis: 20
+Con: 10
+Cha: 21
+Luck: 13
+Race: 10
+E
+#13119
+guard guardian hallowed~
+the Hallowed Guardian~
+A guardian of the Hallowed Halls stands here making you feel uncomfortable.
+~
+A giant of a guardian stands here guarding the doors out of the
+Hallowed Halls.  You think that he might take it really personal if
+you tried to leave.    
+~
+2058 0 0 0 16 0 0 0 100 E
+23 9 8 20d20+1130 1d4+15
+150 13903
+8 8 1
+BareHandAttack: 5
+Str: 5
+Dex: 18
+Int: 20
+Wis: 16
+Con: 22
+Cha: 20
+Luck: 22
+Class: 4
+Race: 7
+E
+#13120
+ancient monk~
+an ancient Monk~
+An ancient monk tends the halls.
+~
+This monk has been here tending to the halls since before you were
+born.  The wrinkles on his face and hands belie the length of time he
+has lived, and just looking at him you know that he has been here all
+of his life.    
+~
+72 0 0 0 0 0 0 0 10 E
+20 8 20 20d20+730 1d4+13
+150 9735
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 17
+Int: 19
+Wis: 22
+Con: 24
+Cha: 14
+Luck: 12
+Race: 14
+E
+#13121
+shadow nice less oppressive friendly~
+a Lesser Shadow~
+Less oppressive shadows blanket the area.
+~
+These shadows are almost friendly and most definitely less oppressive.
+They might even be called nice compared to the ones you met before.
+~
+72 0 0 0 524288 0 0 0 50 E
+23 9 8 20d20+730 2d4+11
+0 13903
+8 8 0
+BareHandAttack: 1
+Str: 22
+Dex: 5
+Int: 10
+Wis: 20
+Con: 17
+Cha: 8
+Luck: 16
+Race: 11
+E
+#13122
+king shadowed~
+the Shadowed King~
+The Shadowed King is creating more of the Evil Shadows.
+~
+The Shadowed King, once the King of Torin, stands here.  He is
+creating more of the shadows that you first saw.  A gesture here a
+word there, he is using strong magic; you can feel it from here.    
+~
+2106 0 0 0 262152 0 0 0 -600 E
+36 18 -20 1d1+2425 3d5+24
+350 47938
+8 8 1
+BareHandAttack: 15
+Str: 12
+Dex: 10
+Int: 22
+Wis: 8
+Con: 5
+Cha: 21
+Luck: 25
+Class: 1
+Race: 14
+E
+#13123
+shadowed mutant~
+a shadowed Mutant~
+This grotesque being must be the legendary shadowed mutant.
+~
+This grotesque being has to be the legendary shadowed mutant that lead
+to downfall of Torin...  A being created out of foul magic and fouler
+mages minds.    
+~
+204 0 0 0 16384 0 0 0 -60 E
+20 8 20 20d20+730 2d3+10
+0 9735
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 21
+Int: 21
+Wis: 25
+Con: 16
+Cha: 21
+Luck: 21
+Race: 11
+E
+#13124
+larger greater shadow~
+a Greater Shadow~
+A large shadow stands here awaiting orders from his king.
+~
+One of the dreaded greater shadows stands here.  These are the latest
+in a new version of shadows that are being created by the awesome
+Shadowed King.  They are being created out of incredible magic and
+they are extremely strong.  They block out the all light from anywhere
+outside the room.    
+~
+67108874 0 0 0 0 0 0 0 -100 E
+26 11 -4 20d20+1430 2d5+13
+0 19006
+8 8 0
+Str: 10
+Dex: 23
+Int: 10
+Wis: 9
+Con: 12
+Cha: 8
+Luck: 10
+Race: 11
+E
+#13125
+mutant frog~
+a magically-mutated Frog~
+What apparently was once a frog waits here to be fed.
+~
+Another mishap by magic, this mutant was once a frog.  Right now he
+looks around expectantly for food.  You might not want to get to close
+lest he think that you are food.    
+~
+142 0 0 0 0 0 0 0 0 E
+5 1 80 7d6+4 1d2+3
+0 283
+8 8 0
+Str: 23
+Dex: 7
+Int: 22
+Wis: 16
+Con: 5
+Cha: 24
+Luck: 16
+Race: 2
+E
+#13126
+shadow guard big ~
+the Shadowy Guard~
+A large shadow stands here watching you, he has the stance of a guard.
+~
+This large shadow stands fully four feet above you, and appears to be
+the most intimidating thing you have yet seen here.  From the amulet
+he wears you can tell that once he might have been a guard of the
+ancient city Torin.    
+~
+10 0 0 0 0 131072 0 0 -140 E
+27 12 -8 1d1+2100 2d6+13
+0 20926
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 18
+Int: 20
+Wis: 17
+Con: 12
+Cha: 15
+Luck: 12
+Class: 10
+Race: 11
+E
+#13127
+lieutenant dorin shadow torin~
+Lieutenant Dorin~
+A shadowy lieutenant Dorin of the Torin military, stands here.
+~
+This former stern and strong lieutenant of the Torin military stands
+proudly.  Though, he appears to have become one of the shadows that
+once attacked this city, but he does not appear the least bit
+concerned about it.    
+~
+33570826 0 0 0 65552 4194304 0 0 0 E
+28 13 -12 1d1+2150 2d4+18
+250 22959
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 23
+Int: 16
+Wis: 7
+Con: 9
+Cha: 20
+Luck: 8
+Race: 11
+E
+#13128
+maiden young transparent~
+the Ghost of a young Lady~
+A transparent young maiden stands here.
+~
+This young maiden stands proudly in this room which perhaps was once
+her own room, though you have no clue as to why this room is just off
+one of the main corridors in Torin.  She appears to now be a ghost as
+she is transparent and does not really seem to notice who you are, or
+even that you are here.    
+~
+537100298 0 0 0 8388608 0 0 0 0 E
+21 8 16 1d1+900 1d4+14
+0 11024
+8 8 2
+Str: 16
+Dex: 9
+Int: 5
+Wis: 17
+Con: 15
+Cha: 22
+Luck: 22
+Race: 34
+E
+#13129
+citizen ghostly shadowy transparent~
+the ghostly Citizen of Torin~
+A citizen of Torin, or at least what used to be a citizen of Torin stands here.
+~
+Once this thing was a citizen of Torin, just a normal guy off the
+street.  Somehow over the ages his soul has been trapped in this city.
+~
+537034824 0 0 0 524288 0 0 0 0 E
+21 8 16 1d1+900 1d4+14
+0 11024
+8 8 1
+Str: 17
+Dex: 12
+Int: 6
+Wis: 19
+Con: 22
+Cha: 20
+Luck: 13
+Class: 12
+Race: 34
+E
+#13130
+citizen ghostly shadowy transparent~
+the ghostly Citizen of Torin~
+A citizen, or what used to be, of Torin stands here.
+~
+Once this thing was a citizen of Torin, just a normal woman off of the
+street, but somehow during the occupation of this city, or the
+transformation that took place and created all of these shadows this
+poor woman's soul was trapped here, and now she simply walks the
+streets, waiting for someone to free her.    
+~
+537034824 0 0 0 0 0 0 0 0 E
+21 8 16 1d1+900 1d4+14
+0 11024
+8 8 2
+BareHandAttack: 13
+Str: 22
+Dex: 18
+Int: 23
+Wis: 21
+Con: 14
+Cha: 8
+Luck: 9
+Class: 12
+Race: 34
+E
+#13131
+ball glowing blue light~
+the glowing Blue Ball~
+A glowing blue ball hovers here, you are not sure how, but it gives off light.
+~
+This strange object appears to have become alive.  This thing glows
+and actually gives off quite a bit of light, though you think that due
+to the magic involved in its creation it would probably not be easy to
+get rid of should you try to fight it.    
+~
+165914 0 0 0 80 0 0 0 -10 E
+32 15 -20 1d1+2325 3d4+21
+0 32273
+8 8 0
+BareHandAttack: 15
+Str: 20
+Dex: 15
+Int: 19
+Wis: 9
+Con: 10
+Cha: 15
+Luck: 17
+E
+#13132
+soldier torin~
+a ghostly Soldier of Torin~
+This soldier walks the barracks of his old battalion, looking for something..
+~
+This soldier has been wandering these barracks for centuries, since
+the last battle of Torin.  He appears to have lost something and is
+looking for it.    
+~
+537043032 0 0 0 0 0 0 0 0 E
+21 8 16 1d1+900 1d4+14
+0 11024
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 22
+Int: 13
+Wis: 6
+Con: 15
+Cha: 7
+Luck: 18
+Race: 34
+E
+#13133
+soldier torin~
+a ghostly Soldier of Torin~
+This soldier walks the barracks of her old battalion, looking for something..
+~
+This soldier has been wandering these barracks for centuries, since
+the last battle of Torin.  She appears to have lost something and is
+looking for it.    
+~
+537002072 0 0 0 524288 0 0 0 0 E
+21 8 16 1d1+900 2d3+10
+0 11024
+8 8 2
+BareHandAttack: 14
+Str: 15
+Dex: 13
+Int: 9
+Wis: 17
+Con: 13
+Cha: 15
+Luck: 21
+Race: 34
+E
+#13134
+mist gathering thing darkness shadow~
+the Gathering Mist~
+Mist gathers here..perhaps it is something, perhaps a shadow, perhaps nothing.
+~
+Much mist gathers here.  It appears to almost be a living creature,
+but you cannot be sure.  Whatever it is, it does not look solid enough
+to be much of anything, but if it is living, such a creature would
+have mobility that you could not begin to imagine.    
+~
+604209224 0 0 0 8388628 0 0 0 0 E
+32 15 -20 1d1+2325 3d5+16
+0 32273
+8 8 0
+BareHandAttack: 10
+Str: 21
+Dex: 21
+Int: 9
+Wis: 19
+Con: 23
+Cha: 21
+Luck: 23
+Race: 49
+E
+#13135
+apprentice~
+Apprentice of Mendo~
+An apprentice of the mighty knight Mendo stands here.
+~
+This large man stands here, waiting for the next lesson that Mendo
+will no doubt give him.  You can tell by his light colored clothing,
+his disposition, and the fact that he serves Mendo, that he is a
+servant of the Light.  He vaguely reminds you of a present day
+paladin, but there were not paladins, at least that is not what they
+called themselves then.    
+~
+6410 0 0 0 8 0 0 0 500 E
+40 21 -20 1d1+2400 4d5+26
+500 57012
+8 8 1
+Str: 17
+Dex: 23
+Int: 14
+Wis: 21
+Con: 13
+Cha: 22
+Luck: 5
+Race: 14
+E
+#13136
+courtier~
+a former Courtier~
+A downtrodden former member of the king's court stands here in rags.
+~
+Once a member of the king of Torin's court, he now scrounges for food
+in these caves.  Apparently many of the kings court got lost in these
+caves and simply have never been able to find a way out, though it is
+surprizing that they are still alive...  It has been centuries since
+the fall of Torin.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+2250 3d3+20
+250 27376
+8 8 1
+Str: 19
+Dex: 14
+Int: 14
+Wis: 20
+Con: 23
+Cha: 17
+Luck: 6
+Race: 14
+E
+#13137
+claric light~
+a Cleric of the Light~
+A cleric of the light stands here in her white robe.
+~
+This person appears to be faintly glowing, you cannot tell how, 
+but light seems to be coming from this person.  She would say
+that she was merely reflecting the incredible brightness that
+comes from studying the light though.
+~
+137482 0 0 0 16 0 0 0 0 E
+30 14 -20 1d1+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 11
+Str: 15
+Dex: 19
+Int: 13
+Wis: 12
+Con: 23
+Cha: 12
+Luck: 23
+Race: 14
+E
+#13138
+cleric master priest light~
+the Master Priest of the Light~
+The master priest of the light stands here, glowing with his Faith.
+~
+You can only see the brightness which surrounds him and infuses him
+thanks to his faith in the light.  He is utterly and completely the
+most enlightened person you have ever met.  You try to ask him
+questions, but he answers the questions before you can even ask them.
+The amount of knowledge he has seems to have no bounds...  You imagine
+this person would proabably be awesome in a fight due to his awesome
+intellect.    
+~
+6154 0 0 0 336 0 0 0 0 E
+48 27 -28 1d1+2800 5d5+32
+700 99832
+8 8 2
+BareHandAttack: 7
+Str: 15
+Dex: 23
+Int: 25
+Wis: 6
+Con: 5
+Cha: 9
+Luck: 19
+Class: 2
+Race: 23
+E
+#13139
+dalmer~
+Dalmer~
+Dalmer, the grand architect of Torin, stands before you.
+~
+He looks as if all the sadness of the world lay upon his brow, as if
+the fall of Torin were his fault and his alone.    
+~
+18442 0 0 0 65616 4325376 0 0 100 E
+60 37 -36 1d1+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 24
+Int: 21
+Wis: 10
+Con: 20
+Cha: 24
+Luck: 12
+Class: 4
+Race: 14
+E
+T 13100
+#13186
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 8
+Dex: 21
+Int: 9
+Wis: 6
+Con: 12
+Cha: 13
+Luck: 10
+E
+T 13197
+T 13196
+#13187
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 16
+Dex: 8
+Int: 22
+Wis: 19
+Con: 17
+Cha: 13
+Luck: 8
+E
+T 13195
+T 13194
+#13188
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+E
+T 13193
+T 13192
+#13189
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 15
+Dex: 7
+Int: 25
+Wis: 15
+Con: 5
+Cha: 15
+Luck: 20
+E
+T 13191
+T 13190
+#13190
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 18
+Dex: 13
+Int: 7
+Wis: 20
+Con: 9
+Cha: 5
+Luck: 25
+E
+T 13189
+T 13188
+#13191
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 21
+Dex: 16
+Int: 25
+Wis: 19
+Con: 23
+Cha: 6
+Luck: 19
+E
+T 13187
+T 13186
+#13192
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 15
+Dex: 16
+Int: 10
+Wis: 21
+Con: 9
+Cha: 9
+Luck: 14
+E
+T 13185
+T 13184
+#13193
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 19
+Dex: 17
+Int: 23
+Wis: 14
+Con: 24
+Cha: 5
+Luck: 13
+E
+T 13183
+T 13182
+#13194
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 16
+Dex: 22
+Int: 23
+Wis: 8
+Con: 20
+Cha: 17
+Luck: 8
+E
+T 13181
+T 13180
+#13195
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 13
+Dex: 25
+Int: 13
+Wis: 24
+Con: 14
+Cha: 5
+Luck: 12
+E
+T 13179
+T 13178
+#13196
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 13
+Dex: 9
+Int: 23
+Wis: 13
+Con: 25
+Cha: 17
+Luck: 17
+E
+T 13177
+T 13176
+#13197
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 8
+Dex: 9
+Int: 12
+Wis: 6
+Con: 5
+Cha: 9
+Luck: 20
+E
+T 13175
+T 13174
+#13198
+Statue Riddle~
+a Statue of Riddles~
+A Statue of Riddles stands before you.
+~
+Made of solid stone, this sculpture is untarnished despite the
+amount of time it must have been standing here in solitude,
+the figurine looks a lot like a woman, who she is remains a
+mystery, perhaps a deity of some kind.
+
+A small brass plaque at the foot indicates that whoever this
+woman was, she was and should be worshiped by all.
+~
+16410 0 0 0 80 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 7
+Dex: 9
+Int: 16
+Wis: 24
+Con: 24
+Cha: 13
+Luck: 25
+E
+T 13173
+#13199
+Statue Riddle~
+the Statue of Riddles~
+A Statue stands here, tall and proud.
+~
+The tall statue is made of solid stone, yet not a chip in sight, near
+the base of the statue a small bronze plate lays bare, as if waiting
+for a sacrifice.    
+
+Below that, a small plaque has a simple message ingraved upon it.
+  - Place your ward upon the altar, so you might travel further.
+~
+33808410 0 0 0 67704 33718272 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 2
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+E
+T 13198
+$

@@ -1,0 +1,666 @@
+#19000
+sword diamond edge~
+/cwa /cCDiamond-edged /cwsword/c0~
+/cwA long sharp-edged sword is stuck half into a stone./c0~
+This sword is beautifully cut and sharpened to deadly perfection.
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+15 5500 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+diamond edge edged sword long~
+This is a long slim sword with diamond edges on its silver blade.
+On the silver blade are some writings in a long forgotten language.
+The diamond edges of the blade are as sharp as razors and hard as dimonds.
+~
+E
+writings~
+You can't make out anything of it, sorry. Maybe you should ask a sage or
+a wizard for help in this matter...
+~
+A
+3 1
+A
+19 1
+#19001
+longsword elven~
+/cwan /cGelven /cwlongsword/c0~
+/cwA /cCshiny /cwlongsword is lying on the ground./c0~
+A nicely crafted Elven longsword.
+~
+5 533504 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+8 4160 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#19002
+armor elven chain chainmail~
+/cwan /cGelven /cwchainmail/c0~
+/cwA nice looking chainmail is lying on the ground here./c0~
+Nicely crafted chainmail attests to the craftsmanship of the Elven people.
+~
+9 5120 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+10 3280 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#19003
+chainmail mithril~
+/cwa /cWMithril /cwchainmail/c0~
+/cwA /cWwhite /cwchainmail is lying on the ground./c0~
+The sunlight shines off of this brilliant white chainmail.
+~
+9 5120 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+6 3900 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+#19004
+sword mithril two-handed~
+/cwa Two-handed /cWMithril /cwsword/c0~
+/cwA large sword is stuck into the ground./c0~
+A huge beautifully crafted two-handed sword made from mithril.
+~
+5 533504 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 5400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#19005
+scope telescope large~
+/cwa large telescope/c0~
+/cwA large telescope is fastened on a tree./c0~
+Nothing.
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+600 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19006
+bow hunting elven~
+/cwan /cGelven /cwhunting bow/c0~
+/cwA wooden bow has been left here lying on the ground./c0~
+A fine elven bow, perfect for hunting game.
+~
+5 1024 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+4 4506 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#19007
+coif chainmail elven~
+/cwan /cGelven /cwchaincoif/c0~
+/cwA chainmail coif has been left here on the ground./c0~
+A coif made of the finest Elven chainmail.
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0 0 0 0 0
+6 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19008
+leggings chain elven~
+/cwa pair of /cGelven /cwchain leggings/c0~
+/cwSome chain leggings has been left here unguarded./c0~
+A pair of leggings fashioned from chainmail.
+~
+9 0 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+10 2399 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#19009
+potion leaf green~
+/cwa /cgleaf-green /cwpotion/c0~
+/cwA /cggreen /cwpotion is standing on the ground./c0~
+A mysterious potion of leaf-green liquid.
+~
+10 0 0 0 0 1 0 0 0
+10 16 0 0 0 0 0 0
+1 40 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19010
+staff oak~
+/cwan oak branch staff/c0~
+/cwA long, /cWgrey /cwbranch rests heavily on the ground./c0~
+The fabric of space seems to waver as $n holds $s staff!
+~
+4 0 0 0 0 16385 0 0 0
+10 5 5 18 0 0 0 0
+2 300 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19011
+potion ocean blue~
+/cwan /cbOcean-Blue /cwpotion/c0~
+/cwAn /cbocean-blue /cwpotion is resting on the ground./c0~
+A vial with swirling blue liquid.
+~
+10 0 0 0 0 16385 0 0 0
+10 3 39 0 0 0 0 0
+1 150 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19012
+flute mithril~
+/cwa /cWmithril /cwflute/c0~
+/cwA glittering flute has carelessly been left here/c0~
+A soft glow enamates from the mithril flute as $n plays a magical tune!
+~
+3 64 0 0 0 16385 0 0 0
+10 2 2 34 0 0 0 0
+2 350 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19013
+bag green~
+/cwa small /cggreen /cwbag/c0~
+/cwA /cggreen /cwbag has been left here./c0~
+A fine bag created from an unknown green material.
+~
+15 0 0 0 0 16385 0 0 0
+40 0 -1 0 0 0 0 0
+5 18 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19014
+sack green~
+/cwa large /cggreen /cwsack/c0~
+/cwA /cggreen /cwsack has been left here./c0~
+A large sack made from an unknown green material.
+~
+15 0 0 0 0 16385 0 0 0
+70 0 -1 0 0 0 0 0
+10 25 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19015
+papyrus paper~
+/cwa /cypapyrus /cwnote/c0~
+/cwA /cypapyrus /cwroll is lying on the ground./c0~
+A scroll made of papyrus is perfect for writing something.
+~
+16 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 450 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19016
+quill swan feather pen~
+/cwa swan-feather quill/c0~
+/cwA small white feather is flying around in mid-air./c0~
+This beautiful feather appears to be some type of pen.
+~
+21 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 20 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19017
+small jar glass worm~
+/cwa small glass jar with a /cYglowing /cwworm in it/c0~
+/cwA small glass jar has been left on the ground./c0~
+A worm that seems to be glowing has been trapped inside this jar.
+~
+1 0 0 0 0 16385 0 0 0
+0 0 7 0 0 0 0 0
+2 35 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+small jar glass~
+you see a small perfectly made glass jar. In the jar you can
+see a small worm glowing brightly.
+~
+E
+worm glowing~
+The worm looks friendly...:-)
+~
+#19018
+milk skin~
+/cwa Homemade /cWmilk /cwskin/c0~
+/cwA nice looking skin, with white traces of /cWmilk /cwon it, has been left here./c0~
+A skin filled with milk that can be refilled if necessary.
+~
+17 0 0 0 0 16385 0 0 0
+10 10 15 0 0 0 0 0
+15 17 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19019
+rabbit meat roasted~
+/cwa nicely roasted rabbit/c0~
+/cwA roasted Rabbit lays here in the dirt./c0~
+A slab of rabbit meat, roasted to perfection.
+~
+19 0 0 0 0 16385 0 0 0
+24 0 0 0 0 0 0 0
+1 96 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19020
+biscuit elven~
+/cwa fine /cGelven /cwbiscuit/c0~
+/cwA small biscuit lies on the ground./c0~
+Nothing.
+~
+19 0 0 0 0 16385 0 0 0
+12 0 0 0 0 0 0 0
+1 48 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19021
+cape woolen~
+/cwa warm woolen cape/c0~
+/cwSomeone has left something wooly on the ground./c0~
+A soft woolen cape that is perfect for any season.
+~
+9 0 0 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+10 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19022
+ring opal fire~
+/cwa small /cRfire-opal /cwring/c0~
+/cwA small /cRglowing /cwring has been left on the ground./c0~
+A beautiful gold ring inlaid with a fire-opal.
+~
+9 1 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+4 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ring fire opal~
+a small red opal is set into the platinum ring, the opal glows with a
+faint red light that pulses whith your heart beet.
+~
+A
+18 1
+#19025
+amulet windwalker~
+/cwthe /cBWindWalker /cwAmulet/c0~
+/cwA /cYgolden /cwsheath with a tiny chisel in it lies here on a /cYgold /cwchain./c0~
+Obviously someone took the time to care intricate detail into this
+amulet and personalize it for Liliel.    
+~
+9 0 0 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+6 2346 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+#19026
+lifetaker sword~
+/cClife/cRtaker/c0~
+/cwA giant, /cLblack/cw, curved sword lies here./c0~
+A tiny hook on the end of the blade drains your opponents when you
+wield this.
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+10 3666 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#19027
+Twinkle scimitar~
+/cYT/cWw/cYi/cWn/cYk/cWl/cYe/c0~
+/cwA /cCglowing /cwscimitar floats above the ground here./c0~
+A beautifully made scimitar engraved with the name "Twinkle" glows
+magically.    
+~
+5 532481 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+0 3812 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#19030
+Book of Je'Jaran~
+/cwthe Book of /cRJe'Jaran/c0~
+/cwThe Book of /cRJe'Jaran /cwlies here, dropped by some unlucky traveller./c0~
+The strange glow which seems to come from this book gives you pause,
+making you wonder if maybe you shouldn't touch it, as it may cause you
+harm.    
+~
+1 1025 0 0 0 16385 0 0 0
+0 0 300 0 0 0 0 0
+3 300 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19031
+cape mrolan ej ej'mrolan~
+/cpEj'Mrolan's /cwcape/c0~
+/cpEj'Mrolan's /cwcape has been discarded here./c0~
+Nothing.
+~
+9 2 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+6 2493 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19032
+key wooden~
+/cwa wooden key/c0~
+/cwA wooden key has been left here./c0~
+It is a small thing, carved from a thick twig deep in the Elven Forest.
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19033
+spring neverending magical water~
+/cwa magical spring/c0~
+/cwA magical spring wells forth with crystal clear water into a stone basin./c0~
+It does not appear that this spring is a natural one, as the water
+seems to flow up through solid rock beneath the forest floor.  It must
+be magically maintained by the Council and the Lore they possess.    
+~
+23 0 0 0 0 0 0 0 0
+100000 100000 0 0 0 0 0 0
+100005 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19040
+mushroom wild~
+/cwa wild mushroom/c0~
+/cwA wild mushroom is lying here./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+0 24 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19041
+danish~
+/cwa danish/c0~
+/cwA delicious danish is lying here./c0~
+A danish has been left here.
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+1 48 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19042
+pie fruit~
+/cwa fruit pie/c0~
+/cwA scrumptious fruit pie is lying here./c0~
+Someone baked you a pie!
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+0 96 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pie~
+Someone baked you a pie!
+~
+#19043
+woodsman pack~
+/cwa Woodsman's pack/c0~
+/cwA durable Woodsman's pack lies here, waiting to be used./c0~
+A sturdy backpack has been left here by a Woodsman.
+~
+15 0 0 0 0 1025 0 0 0
+90 0 -1 0 0 0 0 0
+10 20 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19044
+essence will'o'wisp~
+/cwan Essence of a /cWWill'o'wisp/c0~
+/cwA glowing wisp of transluscent material hovers here./c0~
+The Essence of a Will'o'wisp floats in the air.
+~
+1 0 0 0 0 16385 0 0 0
+0 0 96 0 0 0 0 0
+2 15 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19045
+jar sap~
+/cwa Jar of /cySap/c0~
+/cwA jar filled with sap-like liquid lies here./c0~
+Someone left a jar filled with sap here.
+~
+17 0 0 0 0 1 0 0 0
+5 5 11 0 0 0 0 0
+10 15 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19046
+scroll reveal~
+/cwa Scroll of Revealing/c0~
+/cwA Scroll of Revealing lies here abandoned./c0~
+The scroll glows brightly with an orange glow and then bursts into flames!
+~
+2 65536 0 0 0 1 0 0 0
+10 95 0 0 0 0 0 0
+5 15 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19047
+homing scroll~
+/cwa Homing Scroll/c0~
+/cwA scroll blinks in and out of existence as if at two places at once./c0~
+The scroll suddenly fades out of existence!
+~
+2 65536 0 0 0 1 0 0 0
+10 42 0 0 0 0 0 0
+8 45 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19048
+exlir of owl~
+/cwan Exlir of Owl/c0~
+/cwAn exlir containing the powers of the Owl lies here./c0~
+This exlir contains the powers of the Owl.  HOO!
+~
+10 0 0 0 0 1 0 0 0
+10 19 0 0 0 0 0 0
+0 40 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19049
+sprite's wand~
+/cwa /cGSprite's /cwWand/c0~
+/cwA wand crafted by a /cGSprite /cwlies here./c0~
+The laughter of sprites can be heard as $n uses the wand!
+~
+3 0 0 0 0 1 0 0 0
+12 10 10 29 0 0 0 0
+0 150 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19050
+vial fairy wing dust~
+a Vial of /cMFairy/c0 Wing Dust~
+/cwA vial of /cPFairy /cwWing Dust lies here humming powerfully./c0~
+$n sprinkles a vial of fairy wing dust on $s butt!
+~
+10 0 0 0 0 1 0 0 0
+10 52 0 0 0 0 0 0
+0 40 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19051
+tree bark slab~
+/cwa slab of Tree Bark/c0~
+/cwA slab of Tree Bark lies here, waiting to shield someone./c0~
+A large piece of Tree Bark lies here.
+~
+9 0 0 0 0 513 0 0 0
+2 0 0 0 0 0 0 0
+4 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19052
+tree bark shinguards~
+a set of Tree Bark Shinguards~
+/cwA set of shinguards made from Tree Bark lies here./c0~
+A set of Tree Bark Shinguards lies here.
+~
+9 0 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+5 2266 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19053
+woodsman's shirt~
+/cwa Woodsman's Shirt/c0~
+/cwA neatly folded Woodsman's Shirt lies here./c0~
+A plaid shirt has been folded and left here.
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+5 2533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 1
+#19054
+tough briar-proof chaps~
+/cwa pair of Briar-proof Chaps/c0~
+/cwA pair of tough-looking chaps lie here, waiting to be worn./c0~
+These chaps look like they could endure anything.
+~
+9 0 0 0 0 33 0 0 0
+7 0 0 0 0 0 0 0
+0 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 10
+#19055
+tree bark armguards~
+/cwa pair of Tree Bark Armguards/c0~
+/cwA pair of armguards made from Tree Bark lies here in the dust./c0~
+A set of Tree Bark Armguards lies here.
+~
+9 0 0 0 0 257 0 0 0
+4 0 0 0 0 0 0 0
+4 2266 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19056
+elven dirk~
+/cwan /cGelven /cwdirk/c0~
+/cwThe blade of an /cGelven /cwdirk gleams wickedly as it lies here./c0~
+A fine Elven blade shines on the ground.
+~
+5 533504 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 4160 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#19057
+ironwood staff~
+/cwan /cWIronwood /cwStaff/c0~
+/cwA staff crafted from /cWIronwood /cwby elven weaponmasters lies here./c0~
+An ironwood staff has been left here.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 12 0 0 0 0
+5 7199 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#19058
+mithril star~
+/cwa /cCMithril /cwStar/c0~
+/cwA dangerous-looking flail made of/cC mithril /cwlies here./c0~
+A mithril flail lies here.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+15 1666 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19059
+woodsman's axe~
+/cwa Woodsman's Axe/c0~
+/cwAn axe left behind by a woodsman lies here./c0~
+An axe is here, looking for a tree.
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+12 3000 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19060
+elven halberd~
+/cwan /cGelven /cwHalberd/c0~
+/cwAn /cGelven-made /c0halberd stands here, it's blade glistening sharply in the light./c0~
+This elven halberd stands here shining brightly
+~
+5 533504 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+15 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#19061
+warning sign~
+a Warning Sign~
+/cwAn ancient /cYPlaque/cw set in the gate beckons one to /cCREAD IT/c0.~
+~
+12 65 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+plaque sign~
+-/cw
+Long ago, an Elven Wizard rose to might and ruled the Elven Tree City...
+She noticed the dire need to create a SAFE path through the Grasslands
+which lie west of the city.
+Drawing upon the magic of elves and the power of the setting /cysun/cw...
+a /cWPEACEFUL/cw path was created, which lies /crSTRAIGHT WEST/cw from
+the mighty gates of the City to the roads of Jareth/Midgaard.
+Wander off the path at your own risk!
+~
+#19062
+electric blue potion~
+/cwan /ccelectric/cb blue/cw potion/c0~
+/cwAn /ccelectric/cb blue /cwpotion has been left here./c0~
+~
+10 2 0 0 0 1 0 0 0
+20 18 0 0 0 0 0 0
+1 50 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19063
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19070
+helm elven shimmering lore~
+/cwthe /cGHelm /cwof /cGElven Lore/c0~
+/cwA shimmering helm lies glittering upon the ground./c0~
+~
+9 67174408 0 0 0 17 0 0 0
+8 0 0 0 0 0 0 0
+7 279 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+A
+13 10
+#19080
+reading board~
+/cwa Reading Board/c0~
+/cwA community Reading Board hangs from the wall./c0~
+The Reading board has a note for YOU!
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19081
+potion qi~
+/cwa /ccpotion/cw of/cc qi/c0~
+/cwA /ccpotion/cw of/cc qi/cw lies on the ground, almost spilled./c0~
+~
+10 1 0 0 0 1 0 0 0
+20 130 130 0 0 0 0 0
+2 670 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19099
+boat~
+/cwa boat/c0~
+A boat is here, waiting for a passenger.~
+Nothing.
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+20 175 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

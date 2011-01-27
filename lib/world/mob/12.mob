@@ -1,0 +1,903 @@
+#1200
+innkeeper~
+the Immortal Innkeeper~
+The Immortal Innkeeper is organizing her books here.
+~
+She appears to be having no problem tallying things up.
+~
+11 0 0 0 32784 0 0 0 0 E
+161 150 -60 1d49+901 24d24+107
+5450 1986655
+8 8 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 8
+Luck: 12
+Class: 11
+Race: 14
+E
+#1201
+postmaster master post~
+the Immortal Postmaster~
+The Immortal Postmaster is hard at work here.
+~
+Scary... a postal worker... working?
+~
+11 0 0 0 32768 0 0 0 0 E
+30 0 -10 1d49+901 4d8+5
+0 0
+8 8 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 6
+Luck: 12
+E
+#1202
+being amorphous spirit wandering~
+the wandering spirit~
+A strange amorphous being wanders these halls eternally cleaning.
+~
+This spirit, having lived out its days in the mortal world, now
+works off its final sins by doing menial labour in this realm's
+purgatory.  In this case, those chores seem to be cleaning up
+after the immortals of the land.
+~
+65613 0 0 0 33800 0 0 0 0 E
+30 0 -10 1d49+901 4d8+5
+0 27376
+8 8 0
+BareHandAttack: 15
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 10
+Luck: 12
+Race: 11
+E
+#1203
+questmaster master~
+the Questmaster~
+A Questmaster stands here, the power of all quests within his hands.
+~
+He looks at you with calm, clear eyes - unblinking.
+~
+2285642 0 0 0 67664 4194304 0 0 -1000 E
+160 149 -60 1d200+24000 10d10+84
+0 1955340
+8 8 1
+BareHandAttack: 4
+Str: 6
+Dex: 7
+Int: 9
+Wis: 10
+Con: 8
+Cha: 12
+Luck: 12
+E
+T 3050
+#1204
+test~
+test~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+10 0 0 0 4 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 15
+Dex: 7
+Int: 15
+Wis: 9
+Con: 5
+Cha: 19
+Luck: 6
+E
+#1205
+A mob~
+a mob~
+A mob stands here getting killed
+~
+She looks very well...  Developed.  Damn she is one hot mamma you must think to
+yourself "does she have any kids?  "
+~
+49166 0 0 0 0 0 0 0 400 E
+50 -30 -10 19d19+0 19d19+50
+0 0
+8 8 2
+BareHandAttack: 4
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 20
+Luck: 12
+E
+#1206
+rodger~
+Rodger~
+Rodger stands here forlornly, three small black stitches across the bridge of his nose.
+~
+He quickly turns away as you begin to scrutinize him.  He covers his
+face, pathetically attempting to fake a sneeze.  Poor fella...    
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 10 0d0+5 0d0+0
+0 0
+6 6 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 25
+Luck: 12
+E
+#1207
+Turkey~
+Turkey~
+A dumb turkey stands here looking at the ground.
+~
+Nothing.
+~
+22538 0 0 0 0 0 0 0 0 E
+2 0 92 1d6+5000 1d1+1
+0 27
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+E
+#1208
+undefined~
+/c~
+/s
+~
+Nothing.
+~
+10 0 0 0 0 0 0 0 -1000 E
+1 0 96 20d22+3000 1d1+0
+0 4
+8 8 2
+BareHandAttack: 15
+Str: 25
+Dex: 20
+Int: 25
+Wis: 23
+Con: 19
+Cha: 25
+Luck: 25
+E
+#1209
+undefined~
+undefined~
+undefined~
+Nothing.
+~
+8 0 0 0 0 0 0 0 0 E
+1 0 96 20d22+3000 1d1+0
+10 4
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 18
+Luck: 12
+E
+#1210
+singing bush~
+a singing bush~
+A singing bush stands here, singing.
+~
+You've seen the three amigos haven't you?
+~
+10 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 15d20+100
+10000 3454164
+8 8 0
+Str: 23
+Dex: 18
+Int: 6
+Wis: 12
+Con: 5
+Cha: 23
+Luck: 24
+Class: 11
+Race: 11
+E
+#1211
+pig guinea~
+a guinea pig~
+A guinea pig is being poked and proded here.
+~
+.
+~
+262154 0 0 0 0 0 0 0 0 E
+150 136 -60 1d1+0 7d8+75
+7500 2280614
+8 8 0
+Str: 10
+Dex: 8
+Int: 17
+Wis: 7
+Con: 24
+Cha: 13
+Luck: 23
+Class: 6
+E
+#1230
+clan postman~
+the clan postman~
+The clan postman stands ready to take and deliver your order.
+~
+He gives you a sly smile and a wink - yeah, he's the one that can
+hook you up - and damn good.
+~
+11 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 15d20+100
+0 3454164
+8 8 1
+Str: 6
+Dex: 12
+Int: 6
+Wis: 5
+Con: 13
+Cha: 23
+Luck: 23
+E
+#1231
+secretary mob~
+the Secretary~
+Hello.
+~
+It looks unfinished.
+~
+11 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 15d20+100
+7500 3454164
+8 8 0
+Str: 16
+Dex: 18
+Int: 13
+Wis: 7
+Con: 15
+Cha: 23
+Luck: 13
+Class: 11
+E
+#1233
+shifter shape~
+a shape shifter~
+A shape shifter wavers and glimmers before you.
+~
+Its face is almost putty-like, its limbs contort and retract continuously.
+~
+10 0 0 0 0 0 0 0 -100 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 0
+Str: 5
+Dex: 22
+Int: 22
+Wis: 8
+Con: 14
+Cha: 21
+Luck: 9
+E
+T 1201
+#1234
+undefined~
+undefined~
+/s
+~
+Nothing.
+~
+8 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+0 1d1+0
+5 4
+8 8 0
+Str: 7
+Dex: 20
+Int: 6
+Wis: 10
+Con: 25
+Cha: 20
+Luck: 15
+E
+#1239
+questor~
+the Questor~
+The Questor waits patiently while you browse.
+~
+   The Questor nods and gives you a smile.    
+~
+11 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+0 1662
+8 8 1
+Str: 24
+Dex: 9
+Int: 21
+Wis: 17
+Con: 8
+Cha: 10
+Luck: 22
+E
+#1240
+questman man bearded robed~
+the Questman~
+The Questman awaits those in need of level token exchange.
+~
+   He awaits in contemplative silence, his eyes clear behind his bushy
+brows and thick beard.    
+~
+11 0 0 0 8388608 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+0 1662
+8 8 1
+Str: 19
+Dex: 8
+Int: 20
+Wis: 14
+Con: 16
+Cha: 9
+Luck: 19
+E
+#1241
+wee turtle~
+a wee turtle~
+A wee turtle gnaws at your leg!
+~
+It may be small, but it has chompers like a monster!
+~
+262154 0 0 0 537397360 1 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3972288
+8 8 0
+Str: 13
+Dex: 13
+Int: 20
+Wis: 18
+Con: 23
+Cha: 18
+Luck: 14
+Class: 1
+Race: 11
+E
+#1242
+/cmNeriah Davis~
+/cmNeriah Davis/c0~
+/cmNeriah Davis stands here waiting for her /cYmaster./c0
+~
+She is one sexy bitch... ya baby, ya...
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+200 2285
+8 8 2
+Str: 22
+Dex: 6
+Int: 12
+Wis: 8
+Con: 5
+Cha: 10
+Luck: 8
+E
+#1243
+/cMAlley Bagget/c0~
+Alley Bagget~
+/cMAlley Bagget /cwstands here posing for a photo shoot./c0
+~
+Oh god
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+200 2285
+8 8 2
+Str: 12
+Dex: 19
+Int: 12
+Wis: 18
+Con: 7
+Cha: 6
+Luck: 10
+E
+#1244
+chihuahua~
+the taco bell chihuahua~
+/cwThe Taco Bell chihuahua is here talking to the wall.
+~
+He looks like a damn rat.
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+200 2285
+8 8 0
+Str: 8
+Dex: 20
+Int: 22
+Wis: 5
+Con: 8
+Cha: 23
+Luck: 15
+E
+#1245
+air elemental~
+/cWan air elemental/c0~
+/cWAn air elemental floats past, searching for its prey./c0
+~
+It is humanoid in shape, however it has no definite form, being
+blurred on all sides.  Howling sounds like that of the wind through a
+narrow gorge echo from it, a hollow, painful sound.    
+~
+254040 0 0 0 8388688 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 12
+Str: 21
+Dex: 10
+Int: 20
+Wis: 5
+Con: 20
+Cha: 7
+Luck: 21
+E
+#1246
+water elemental~
+/cba water elemental/c0~
+/cbA water elemental floats past, intent in hunting and killing its prey./c0
+~
+Surrounded in gurgling, whirling waters, this thing of humanoid shape
+pays you no heed but searches on, endlessly attempting to kill its
+victim.    
+~
+254040 0 0 0 536936528 4194305 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 325701
+8 8 0
+BareHandAttack: 16
+Str: 23
+Dex: 23
+Int: 25
+Wis: 9
+Con: 17
+Cha: 20
+Luck: 22
+E
+#1247
+fire elemental~
+/cRa fire elemental/c0~
+/cRA fire elemental blazes past, searching for its prey./c0
+~
+Its is a blazing, humanoid-shaped inferno which has only one task to
+its mind: find and destroy its prey.    
+~
+254040 0 0 0 570687568 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+0 648796
+8 8 0
+BareHandAttack: 10
+Str: 15
+Dex: 15
+Int: 8
+Wis: 7
+Con: 9
+Cha: 13
+Luck: 10
+E
+#1248
+earth elemental~
+/cyan earth elemental/c0~
+/cyAn earth elemental tromps past, in search of its victim./c0
+~
+It is a mass of earthy rock and dirt, a solid hunk of living earth.
+~
+254040 0 0 0 65616 0 512 0 0 E
+110 88 -40 1d1+0 11d12+73
+0 752086
+8 8 0
+BareHandAttack: 9
+Str: 5
+Dex: 15
+Int: 9
+Wis: 10
+Con: 20
+Cha: 19
+Luck: 10
+E
+#1250
+wolfthane ranger ancient~
+Wolfthane~
+Wolfthane, the representative of the Ranger Guild rests easy upon the floor.
+~
+   His calm brown eyes regard you with no judgement whatsoever, he
+watches your every move with quiet and polite interest.    
+~
+10 0 0 0 0 0 0 0 700 E
+145 130 -60 1d1+0 18d18+96
+0 2091739
+8 8 1
+Str: 21
+Dex: 10
+Int: 25
+Wis: 25
+Con: 20
+Cha: 23
+Luck: 10
+Class: 10
+E
+#1251
+Risk thief ancient~
+Risk~
+Risk, from the Thieve's Guild, sits cross-legged in his chair.
+~
+   He idly picks one tooth with a small dagger, listening intently to
+what you have to say, awaiting his turn to speak.    
+~
+10 0 0 0 0 0 0 0 -100 E
+146 131 -60 1d1+0 18d18+97
+0 2128722
+8 8 1
+Str: 18
+Dex: 24
+Int: 23
+Wis: 22
+Con: 21
+Cha: 23
+Luck: 17
+E
+#1252
+sir vyncant paladin ancient~
+Sir Vyncant~
+Sir Vyncant, an old knight, awaits in his ceremonial armor.
+~
+   His wrinkled face and wispy silver-blonde mustache give him an air
+of nobility without his needing to speak at all.    
+~
+10 0 0 0 0 0 0 0 900 E
+147 132 -60 1d1+0 18d19+98
+0 2166099
+8 8 1
+Str: 12
+Dex: 7
+Int: 14
+Wis: 20
+Con: 18
+Cha: 15
+Luck: 13
+Class: 11
+E
+T 1250
+#1253
+aleksandr priest ancient~
+Aleksandr~
+Aleksandr the priest regards you calmly from his chair.
+~
+   He is by far the eldest of all the assembled ancients, however his
+eyes are clear and his attention fixed upon you directly.    
+~
+10 0 0 0 0 0 0 0 500 E
+143 127 -60 1d1+0 17d18+95
+0 2018952
+8 8 1
+Str: 23
+Dex: 24
+Int: 10
+Wis: 18
+Con: 5
+Cha: 5
+Luck: 6
+E
+#1254
+omnique mmonk ancient~
+Omnique~
+Omnique, a quiet monk, leans forward in his chair listening to the proceedings.
+~
+   He makes a steeple of his hands, his eyes keen and taking in
+everything that transpires.  He looks as if nothing you say could
+surprise him, as if reading your mind - as indeed he may be.    
+~
+10 0 0 0 0 0 0 0 0 E
+143 127 -60 1d1+0 17d18+95
+0 2018952
+8 8 1
+Str: 12
+Dex: 19
+Int: 17
+Wis: 22
+Con: 7
+Cha: 21
+Luck: 23
+E
+#1255
+grond general gladiator ancient~
+General Grond~
+General Grond, the Gladiator Guild's emissary, sits rigidly in his chair.
+~
+   He is bulky and muscular even in his old age.  Though he appears
+easily to be three-quarters of a decade in age, he still seems solid
+as a rock.    
+~
+10 0 0 0 0 0 0 0 200 E
+148 134 -60 1d1+0 18d19+98
+0 2203872
+8 8 1
+Str: 25
+Dex: 16
+Int: 12
+Wis: 6
+Con: 7
+Cha: 19
+Luck: 13
+E
+#1256
+darnysk dark knight ancient~
+Darnysk~
+Darnysk, a cold and armor-clad man, awaits your Ascendency in silence.
+~
+   He neither blinks nor moves, but awaits through the ceremonies with
+an impatient and holier-than-thou air about him.    
+~
+10 0 0 0 0 0 0 0 -1000 E
+147 132 -60 1d1+0 18d19+98
+0 2166099
+8 8 1
+Str: 21
+Dex: 17
+Int: 25
+Wis: 22
+Con: 18
+Cha: 8
+Luck: 17
+E
+#1257
+illique sorceror ancient~
+Illique~
+Illique. a wizened old magess, rests comfortably upon a plush seat.
+~
+   She smiles through a crackling of old, hardened skin.  She gives
+you a brief, consiprational nod and awaits your words.    
+~
+10 0 0 0 0 0 0 0 300 E
+147 132 -60 1d1+0 18d19+98
+0 2166099
+8 8 2
+Str: 18
+Dex: 16
+Int: 17
+Wis: 22
+Con: 20
+Cha: 16
+Luck: 6
+E
+#1258
+toll taker guy~
+the Toll Taker~
+A Toll Taker stands here, waiting to take your fair.
+~
+.
+~
+33808411 0 0 0 0 0 0 0 0 E
+210 218 -100 1d1+0 47d48+140
+0 3911791
+8 8 1
+Str: 17
+Dex: 24
+Int: 16
+Wis: 17
+Con: 8
+Cha: 9
+Luck: 23
+Class: 6
+E
+#1260
+eva jacob~
+Eva Jacobs~
+Eva Jacobs stands here.
+~
+She's a six feet tall redheaded hottie.
+~
+10 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 2
+Str: 10
+Dex: 5
+Int: 13
+Wis: 25
+Con: 7
+Cha: 10
+Luck: 19
+E
+#1265
+insurance agent man plaid suit grinning~
+the insurance agent~
+A man in a plaid suit stands at the counter, grinning at you like you were old friends.
+~
+The man is obviously a con-artist - or at least aspires to be.
+Best to read the fine print on this one!
+~
+11 0 0 0 0 0 0 0 -750 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 1
+Str: 8
+Dex: 23
+Int: 17
+Wis: 14
+Con: 12
+Cha: 23
+Luck: 13
+E
+#1275
+godless flaunt heathen~
+a Godless Heathen~
+A Godless Heathen runs about, flaunting its ability to mock the gods.
+~
+It is butt-assed nake, having no visible gender.  Where ...  
+Something...  Should be is simply a smooth patch of skin.  It uses
+this disgusting feature to its advantage whenever possible, rubbing,
+scratching, coaxing and making general vulgar motions toward the
+heavens.    
+~
+16520 0 0 0 25755776 4194304 0 0 0 E
+10 3 60 1d1+0 1d2+6
+0 1662
+8 8 0
+Str: 21
+Dex: 19
+Int: 18
+Wis: 16
+Con: 16
+Cha: 24
+Luck: 20
+Class: 8
+E
+T 26000
+T 1275
+T 1276
+T 1277
+T 1278
+T 1279
+T 1280
+#1276
+imp~
+an imp~
+An Imp from the local Labyrinth is causing trouble here.
+~
+An Imp has escaped from the Labyrinth, Kill it quick!
+~
+1306760 0 0 0 570425424 4194304 0 0 0 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 0
+Str: 19
+Dex: 6
+Int: 20
+Wis: 14
+Con: 24
+Cha: 15
+Luck: 6
+E
+#1292
+undefined~
+undefined~
+undefined~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 1000 E
+1 0 96 1d1+0 1d1+0
+5 4
+8 8 0
+BareHandAttack: 16
+Str: 23
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+E
+#1293
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 16
+Dex: 18
+Int: 16
+Wis: 7
+Con: 25
+Cha: 10
+Luck: 16
+Class: 3
+E
+#1297
+juggie female sexy bitch~
+a juggie ~
+/cwA juggie straddles a pillow while awaiting the return of her master, /ccMagneto/cw.
+~
+She looks hot!!!
+~
+254026 0 0 0 0 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+10000 4500000
+5 5 2
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Class: 15
+E
+#1298
+nether lord~
+the Nether Lord~
+The Nether Lord stands here.
+~
+.
+~
+763912 0 0 0 262144 33554432 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+3500 4950000
+8 8 0
+Str: 23
+Dex: 14
+Int: 24
+Wis: 18
+Con: 19
+Cha: 8
+Luck: 19
+Class: 9
+E
+#1299
+beastie confused voter~
+Confused Voter~
+A gruesome beastie runs around yelling, "Vote for ME!!!".
+~
+Not fair!!!  Someone cheated!!
+RE-VOTE!!!!
+~
+256024 0 0 0 830998608 0 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+3500 1151521
+8 8 1
+BareHandAttack: 9
+Str: 8
+Dex: 25
+Int: 25
+Wis: 7
+Con: 17
+Cha: 16
+Luck: 14
+E
+T 1299
+$

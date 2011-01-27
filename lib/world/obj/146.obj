@@ -1,0 +1,328 @@
+#14601
+candle lighted~
+/cYa lighted candle/c0~
+/cgA /cYlighted candle /cgstands here, providing little light and warmth./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 4 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14602
+candle lighted~
+/cYa lighted candle/c0~
+/cgA /cYlighted candle /cgstands here, providing little light and warmth./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 4 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14606
+hot steaming bun~
+/cya steaming hot bun/c0~
+/cgA /cysteaming hot bun/cg lies here waiting to be consumed./c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+1 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14607
+treasure~
+/cYa huge treasure/c0~
+/cgThe /cYhuge treasure/cg of the Shaolin Temple beckons you./c0~
+~
+20 0 0 0 0 1 0 0 0
+2500 0 0 0 0 0 0 0
+10 2500 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14608
+flame mercy~
+/crthe Flame of Mercy/c0~
+/cgSparks of beautiful multi-colored light envelops you./c0~
+~
+11 67403786 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+3 8106 0 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+26 2
+#14609
+manual book jiuyangzhenjing~
+/cya Jiuyangzhenjing manual/c0~
+/cgAn old /cymanual/cg is discarded here./c0~
+~
+2 5 0 0 0 1 0 0 0
+50 36 0 0 0 0 0 0
+5 43 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+book manual jiuyangzhenjing~
+One of the most sought after manual in Shaolin. It is believed to contain a powerful source of Yang energy.~
+#14610
+manual book jiuyingzhenjing~
+/cya Jiuyingzhenjing manual/c0~
+/cgAn old /cymanual/cg is discarded here./c0~
+~
+2 1 0 0 0 1 0 0 0
+50 56 0 59 0 0 0 0
+3 1651 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+manual book jiuyingzhenjing~
+This is the counterpart of the Jiuyangzhenjing.  It is believed to containa powerful source of Ying energy.~
+#14611
+manual book yijinjing~
+/cya Yijinjing manual/c0~
+/cgA /cybook /cgof some sort is left on the floor./c0~
+~
+2 2 0 0 0 1 0 0 0
+50 149 101 0 0 0 0 0
+4 1711 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+manual book yijinjing~
+This is the legendary healing manual of Shaolin.  It is said to be able tobring the dead alive!~
+#14612
+dragon sabre~
+/cwthe Dragon Sabre/c0~
+/cgA huge /cwsabre /cgwith a dragon motif is planted firmly in the ground./c0~
+~
+5 1503232 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+3 33600 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sabre dragon~
+This heavy weapon glows and hums as you lay it upon your laps. The dragon carved into it seems almost alive.~
+A
+18 3
+A
+19 4
+A
+2 2
+#14613
+half moon knife~
+/cYa half-moon knife/c0~
+/cgA massive /cYknife /cgis lying on the table./c0~
+~
+5 1355776 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 24653 0 43 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+half moon knife~
+Shaped like a half moon, this knife can be deadly in the hands of a skilled
+exponent.
+~
+A
+19 3
+C
+141 8
+#14614
+chain whip~
+/cLa chain whip/c0~
+/cgA /cLwhip made of chains /cgis left on the floor./c0~
+~
+5 12288 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+6 13420 0 33 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chain whip~
+Written on it : Made in Shaolin Temple.~
+A
+18 2
+A
+19 2
+A
+2 1
+#14615
+bronze key~
+/cya bronze key/c0~
+/cgA /cybronze key /cglies half buried in the ground./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14616
+horse spear~
+/cwa horse spear/c0~
+/cgA /cwlong slim spear /cgleans against the wall./c0~
+~
+5 159744 0 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+6 13599 0 34 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+horse spear~
+Used during the ancient times for hunting horses, it can be just as effectiveagainst men.
+~
+A
+18 3
+A
+19 2
+#14617
+kamasutra sutra manual book~
+/cythe Kamasutra/c0~
+/cgAn old and torn /cybook /cgof some sort is left in one corner of the room./c0~
+~
+2 2 0 0 0 1 0 0 0
+50 131 70 0 0 0 0 0
+5 234 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+book sutra manual kamasutra~
+Are you really sure you want to do this?~
+A
+1 1
+A
+2 1
+#14618
+garters material~
+/cWa monk's garter/c0~
+/cgA material of some sort is left here./c0~
+~
+11 1363968 0 0 0 33 0 0 0
+0 0 0 0 0 0 0 0
+1 2419 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+14 15
+#14619
+robe cloth~
+/cca monk's robe/c0~
+/cwA rough and cheap looking piece of cloth is discarded here./c0~
+~
+9 1503232 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+6 10033 0 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+12 10
+A
+27 30
+A
+19 3
+#14620
+bamboo armor~
+/cYa suit of bamboo armor/c0~
+/cwA suit of /cYbamboo armor/cw stands here./c0~
+~
+9 0 3 0 0 9 0 0 0
+15 0 0 0 0 0 0 0
+6 12580 0 37 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+#14621
+jiasha robe~
+/cYAbbot's Jiasha/c0~
+/cwA pile of /cYgolden /cwand /cRred/cw cloth lies here./c0~
+~
+9 1503232 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+7 23520 0 63 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+19 3
+A
+18 4
+A
+4 1
+#14622
+fozhu necklace~
+/cLthe Abbot's fozhu/c0~
+/cwA necklace made of /cLbig black beads /cwis dumped here./c0~
+~
+11 1503232 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+3 11440 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fozhu necklace~
+Written on it: FOR EXPORT ONLY.~
+A
+1 1
+A
+27 35
+A
+13 25
+#14623
+staff Abbot~
+/cYthe Staff of the Abbot/c0~
+/cwA staff made entirely of /cYsolid gold/cw lies here./c0~
+~
+4 1 3 0 0 16385 0 0 0
+69 4 4 56 0 0 0 0
+9 7611 0 57 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 20
+A
+18 2
+A
+19 4
+A
+4 2
+#14624
+hair lock~
+/cya lock of nun's hair/c0~
+/cwA few strands of /cylong hair/cw lies on the floor./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14625
+bamboo shield~
+/cYa bamboo shield/c0~
+/cwA disc made of /cYbamboo/cw lies on the ground./c0~
+~
+9 0 3 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+5 17680 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 2
+A
+19 4
+A
+18 1
+A
+1 -1
+#14626
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 189 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14631
+chain keys~
+/cwa chain of keys/c0~
+/cwA large chain of keys lies here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14636
+candle lighted~
+/cYa lighted candle/c0~
+/cwA /cYlighted candle/cw stands here, providing little light and warmth./c0~
+~
+18 1 0 0 0 16385 0 0 0
+0 0 4 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

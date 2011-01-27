@@ -1,0 +1,359 @@
+#5900
+fountain old stone~
+/cwthe /cLold cracked/cw fountain/c0~
+/cwAn /cLold cracked/cw fountain sits stagnant in the center of the court./c0~
+~
+23 64 0 0 0 0 0 0 0
+80 50 9 1 0 0 0 0
+9999 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue~
+The man appears very proud, very noble and very learned.  His stained
+head is held high, his unseeing eyes fixed onto brighter futures and
+promise of great things.    
+~
+#5901
+glass pieces~
+/cwsome broken /ccpieces /cwof/cc glass/c0~
+/cwSome broken /ccpieces /cwof/cc glass/cw lie scattered about on the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5902
+tattered cloth piece~
+/cwa /cLrotted piece /cwof /cLcloth/c0~
+/cwA /cLrotted piece /cwof /cLcloth/cw has gotten caught on a tall weed and flutters in the breeze./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5903
+blood still pool floor gazebo~
+/cwthe /cLdark/cR blood/c0~
+/cwThe floor of this gazebo is covered in a thick layer of /cRblood/cw./c0~
+~
+23 0 0 0 0 0 0 0 0
+2000 2000 13 1 0 0 0 0
+90000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5904
+altar dark stained~
+/cwa /cLdark, /cRblood-stained/cw altar/c0~
+/cwA /cLdark, /cRblood-stained/cw altar is set in the center of the floor, awaiting its next victim./c0~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+90000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+altar~
+It appears that the altar is nothing more than a loose piece of stone
+from the courtyard floor or maybe one of the nearby buildings.  
+However, with the black cloth that is draped over top of it and the
+layers of blood stains upon it, it appears ghastly and otherwordly.  
+
+~
+#5905
+bookshelf shelf old~
+/cwan /cLold bookshelf/c0~
+/cwAn /c0old bookshelf/cw clings precariously to the wall, nearly falling from the crumbling ruin./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 -1 0 0 0 0 0
+9000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5906
+book blood stain~
+/cwa /crblood-stained /cwbook/c0~
+/cwA /cRblood-stained/cw book rests comfortably here./c0~
+Malignant and arcane forces flash forth as the scroll bursts into flames!
+~
+2 66 0 0 0 16385 0 0 0
+30 33 4 0 0 0 0 0
+11 1590 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5907
+body corpse dead~
+a child's dead body~
+A small child's corpse lies against the north wall, its chest a gaping empty hole.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+65 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5908
+barrel burning~
+/cwa /crburning /cLbarrel/c0~
+A barrel holds assorted trash within, all ablaze in fire.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5909
+fresh corpse~
+a fresh corpse~
+A fresh corpse lies steaming in the courtyard.~
+Its chest is torn open, split in two.  From the amount blood and
+innards splayed over the corpse's chest, it appears the heart was
+taken.    
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse~
+It looks as if it might have been alive just minutes ago.  The blood
+which wells over its chest is still warm, still flowing - undried.  
+
+~
+#5910
+corpse decayed~
+/cwa /cLdecayed corpse/c0~
+/cwA mostly /cLdecayed corpse /cwis hanging from the wall, /cwits chest a /cLlarge gaping hole./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5911
+blade shining curved~
+/cwa /ccshining/cw curved blade/c0~
+/cwAn evil-looking dagger with a curved blade has been left here./c0~
+~
+5 1581569 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+9 16520 0 42 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 1
+A
+19 3
+A
+25 1
+#5912
+robe soiled~
+/cwa /cLsoiled /cwand /crbloodstained /cwrobe/c0~
+/cwA /cLsoiled /cwand /crbloodstained /cwrobe has been dicarded./c0~
+~
+9 1049096 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+6 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5913
+ring enchantment~
+/cwthe /crRing /cwof /cMEnchantment/c0~
+/cwA dark colored ring has been dropped here./c0~
+Nothing.
+~
+9 1049090 0 0 0 3 0 0 0
+3 0 0 0 0 0 0 0
+4 8640 0 36 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 1
+A
+12 20
+#5914
+jerkin grubby~
+/cwa /cygrubby/cw jerkin/c0~
+/cwA /cygrubby/cw jerkin has been tossed aside./c0~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+4 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5915
+blood innocent~
+/cwthe /crblood/cw of an innocent/c0~
+/cwA /crsmear of blood /cwis on the ground./c0~
+~
+11 1059328 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+1 5280 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#5916
+shredded leather armor~
+/cwsome badly shredded /cyleather armor/c0~
+/cwSome shreds of /cyleather armor/cw has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0 0 0 0 0
+9 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5917
+coating vomit~
+/cwa /cycoating /cwof /cyvomit/c0~
+A small pile of what looks to be vomit is lying on the ground.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+2 160 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 -2
+#5918
+soiled tattered dress~
+/cwa /cysoiled /cLtattered /cwdress/c0~
+/cwA very dirty piece of clothing has been discarded here./c0~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+4 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5919
+raggedy blanket~
+/cwa raggedy blanket/c0~
+/cwA raggedy blanket is strecthed out on the floor./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 180 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#5920
+welts bruises smattering~
+/cwa smattering of /cmwelts/cw and /cLbruises/c0~
+Someone's pain and misery has been left here for the taking.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+1 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 -10
+#5921
+horrid scar~
+/cwa horrid scar/c0~
+/cwA horrid scar has been left here./c0~
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+2 4200 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+A
+5 1
+A
+6 -1
+#5922
+black leather whip~
+/cwa /cLblack leather whip/c0~
+/cwA /cLblack leather whip/cw has been left here./c0~
+~
+5 1589760 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+6 8432 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+1 1
+#5923
+word God~
+/cwthe /cCWord/cw of /cCGod/c0~
+A crumpled note has been thrown down on the ground.~
+~
+16 1026 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 39 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+word~
+This note, originally given to Gunter by X'Raantra reads but one word.
+That word is:
+
+Sacrifice
+~
+A
+3 1
+A
+4 1
+A
+5 -1
+#5924
+inlaid black sword~
+/cwan /cLinlaid black/cw sword/c0~
+/cwAn /cLinlaid black/cw sword lies here forgotten./c0~
+~
+5 1581568 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 6713 0 19 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#5925
+helm black~
+/cwa /cLblackened /cwhelm/c0~
+/cwA /cLblackened /cwhelm has been left here./c0~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+10 4420 0 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+#5926
+black cape~
+/cwa /cLblack/cw cape/c0~
+/cwA /cLblack/cw cape has been left here./c0~
+~
+9 8704 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+6 4440 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#5927
+vial blood~
+/cwa vial of /crblood/c0~
+/cwA vial of /crblood/cw has been left here./c0~
+$n recoils from the stench as $e drinks it down!
+~
+10 1 0 0 0 1 0 0 0
+24 35 0 0 0 0 0 0
+1 54 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5928
+dark red blood ring~
+/cwa /crdark red blood /cwring/c0~
+/cwA /crdark red blood /cwring has been left here./c0~
+~
+9 1049152 0 0 0 3 0 0 0
+3 0 0 0 0 0 0 0
+5 5673 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+26 1
+#5929
+traveler's pack~
+/cwa /cytraveler's /cwpack/c0~
+/cwA /cytraveler's /cwpack has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+80 1 -1 0 0 0 0 0
+11 16 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 15
+#5999
+deed x'raantra altar sacrifice xraantra~
+the deed to X'Raantra's Altar of Sacrifice~
+The deed to X'Raantra's Altar of Sacrifice has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+59 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

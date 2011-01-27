@@ -1,0 +1,124 @@
+#19801
+wooden bracelet~
+a wooden /cyBracelet/c0~
+/cwA wooden bracelet lies on the ground here./c0~
+~
+9 12288 0 0 0 4097 0 0 0
+3 0 0 0 0 0 0 0
+2 36040 0 106 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+19 5
+A
+1 1
+A
+4 -1
+A
+25 -2
+#19802
+stone helm~
+a stone /cLHelm/c0~
+/cwA stone helm lies on the ground here./c0~
+~
+9 12288 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+4 33120 0 108 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 4
+A
+4 -2
+A
+2 -1
+A
+1 1
+#19803
+iron arm plates~
+a pair of /cLiron /ccArmplates/c0~
+/cwA pair of iron armplates lie here on the ground./c0~
+~
+9 12288 0 0 0 257 0 0 0
+5 0 0 0 0 0 0 0
+4 35932 0 110 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 -1
+A
+18 5
+A
+2 1
+A
+19 5
+A
+6 -2
+C
+56 0
+#19804
+diamond leg plates~
+a pair of /cWdiamond Legplates/c0~
+/cwA pair of diamond legplates lie here on the ground./c0~
+~
+9 12288 0 0 0 33 0 0 0
+6 0 0 0 0 0 0 0
+8 42640 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+6 -1
+A
+18 6
+A
+19 5
+A
+2 -2
+#19805
+obsidian great axe~
+an /clobsidian /cpGreat Axe/c0~
+/cwAn obsidian greataxe lies on the ground here./c0~
+~
+5 978944 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+14 86520 0 126 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 5
+A
+2 2
+A
+1 -1
+C
+126 5
+#19898
+Ancient Book Golem Secrets~
+/cy/cwthe /cmAncient Book/cw of /cLGolem Secrets/c0~
+a large book lies here, with pages filled with power.~
+~
+12 33554756 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 1600000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19899
+ankle artifact golem kings~
+/cy/cwthe /crArtifact/cw of the /cmGolem/cL Kings/c0~
+a small, humming, artifact is lying on the ground.~
+~
+9 33554688 0 0 0 1048577 0 0 0
+4 0 0 0 8388608 0 0 0
+7 40800 0 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+18 3
+A
+19 3
+A
+26 3
+$~

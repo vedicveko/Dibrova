@@ -1,0 +1,2183 @@
+#25100
+Path to the Underworld~
+You are traveling through a path in the forest, ahead of you is a
+gaping hole leading into the underworld.    
+~
+251 32772 0 0 0 3
+D0
+~
+~
+0 0 25101 0
+D2
+~
+~
+0 0 1483 0
+S
+#25101
+Entrance to the Underworld~
+You stand in the Entrance to the Underworld, the stench of burning
+flesh and things much more vile is wafting in the air.    
+~
+251 32772 0 0 0 0
+D2
+~
+~
+0 0 25100 0
+D5
+~
+~
+0 0 25102 0
+S
+#25102
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25106 0
+D1
+~
+~
+0 0 25103 0
+D2
+~
+~
+0 0 25104 0
+D4
+~
+~
+0 0 25101 0
+D5
+The crack is larger than the fissures criss-crossing the ground here.
+~
+crack~
+1 0 26798 19
+S
+#25103
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25107 0
+D1
+~
+~
+0 0 25113 0
+D2
+~
+~
+0 0 25108 0
+D3
+~
+~
+0 0 25102 0
+S
+#25104
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25102 0
+D1
+~
+~
+0 0 25108 0
+D2
+~
+~
+0 0 25109 0
+D3
+~
+~
+0 0 25108 0
+S
+#25105
+Purgatory~
+You stand in Purgatory, the closest thing a Demon has to hell.  The
+atrocieties that must have been commited to get one in here are beyond
+your mortal imagination.    
+~
+251 32768 0 0 0 0
+D4
+~
+secret~
+1 0 25130 19
+S
+#25106
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25107 0
+D2
+~
+~
+0 0 25102 0
+D3
+~
+~
+0 0 -1 0
+S
+#25107
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25114 0
+D2
+~
+~
+0 0 25103 0
+D3
+~
+~
+0 0 25106 0
+S
+#25108
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25103 0
+D1
+~
+~
+0 0 25112 0
+D2
+~
+~
+0 0 25110 0
+D3
+~
+~
+0 0 25104 0
+S
+#25109
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25104 0
+D1
+~
+~
+0 0 25110 0
+D3
+~
+~
+0 0 -1 0
+S
+#25110
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25108 0
+D1
+~
+~
+0 0 25111 0
+D3
+~
+~
+0 0 25109 0
+S
+#25111
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25112 0
+D1
+~
+~
+0 0 25118 0
+D3
+~
+~
+0 0 25110 0
+S
+#25112
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25113 0
+D1
+~
+~
+0 0 25117 0
+D2
+~
+~
+0 0 25111 0
+D3
+~
+~
+0 0 25108 0
+S
+#25113
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25114 0
+D1
+~
+~
+0 0 25116 0
+D2
+~
+~
+0 0 25112 0
+D3
+~
+~
+0 0 25103 0
+S
+#25114
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 25115 0
+D2
+~
+~
+0 0 25113 0
+D3
+~
+~
+0 0 25107 0
+S
+#25115
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D2
+~
+~
+0 0 25116 0
+D3
+~
+~
+0 0 25114 0
+S
+#25116
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25115 0
+D2
+~
+~
+0 0 25117 0
+D3
+~
+~
+0 0 25113 0
+S
+#25117
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25116 0
+D2
+~
+~
+0 0 25118 0
+D3
+~
+~
+0 0 25112 0
+S
+#25118
+The Underworld~
+You stand in the Underworld, only people of great strength of heart
+come here, for the fears and atrocities that you already see are of
+the most horrendous nature, a poisoning of hope and love, strength and
+trust.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25117 0
+D3
+~
+~
+0 0 25111 0
+D5
+~
+secret~
+1 0 25119 19
+S
+#25119
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32772 0 0 0 0
+D1
+~
+~
+0 0 25132 0
+D2
+~
+~
+0 0 25120 0
+D4
+~
+secret~
+1 0 25118 17
+S
+#25120
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25119 0
+D1
+~
+~
+0 0 25131 0
+D2
+~
+~
+0 0 25121 0
+S
+#25121
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25120 0
+D1
+~
+~
+0 0 25130 0
+D2
+~
+~
+0 0 25122 0
+S
+#25122
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25121 0
+D1
+~
+~
+0 0 25129 0
+D2
+~
+~
+0 0 25123 0
+S
+#25123
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25122 0
+D1
+~
+~
+0 0 25128 0
+D2
+~
+~
+0 0 25124 0
+S
+#25124
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25123 0
+D1
+~
+~
+0 0 25127 0
+D2
+~
+~
+0 0 25125 0
+S
+#25125
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25124 0
+D1
+~
+~
+0 0 25126 0
+S
+#25126
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25127 0
+D1
+~
+~
+0 0 25139 0
+D3
+~
+~
+0 0 25125 0
+S
+#25127
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25128 0
+D1
+~
+~
+0 0 25138 0
+D2
+~
+~
+0 0 25126 0
+D3
+~
+~
+0 0 25124 0
+S
+#25128
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25129 0
+D1
+~
+~
+0 0 25137 0
+D2
+~
+~
+0 0 25127 0
+D3
+~
+~
+0 0 25123 0
+S
+#25129
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25130 0
+D1
+~
+~
+0 0 25136 0
+D2
+~
+~
+0 0 25128 0
+D3
+~
+~
+0 0 25122 0
+S
+#25130
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.  There also seems to be something different about the floor
+here.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25131 0
+D1
+~
+~
+0 0 25135 0
+D2
+~
+~
+0 0 25129 0
+D3
+~
+~
+0 0 25121 0
+D5
+~
+secret~
+1 0 25105 19
+S
+#25131
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25132 0
+D1
+~
+~
+0 0 25134 0
+D2
+~
+~
+0 0 25130 0
+D3
+~
+~
+0 0 25120 0
+S
+#25132
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25133 0
+D2
+~
+~
+0 0 25131 0
+D3
+~
+~
+0 0 25119 0
+S
+#25133
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25146 0
+D2
+~
+~
+0 0 25134 0
+D3
+~
+~
+0 0 25132 0
+S
+#25134
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25133 0
+D1
+~
+~
+0 0 25145 0
+D2
+~
+~
+0 0 25135 0
+D3
+~
+~
+0 0 25131 0
+S
+#25135
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25134 0
+D1
+~
+~
+0 0 25144 0
+D2
+~
+~
+0 0 25136 0
+D3
+~
+~
+0 0 25130 0
+S
+#25136
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25135 0
+D1
+~
+~
+0 0 25143 0
+D2
+~
+~
+0 0 25137 0
+D3
+~
+~
+0 0 25129 0
+S
+#25137
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25136 0
+D1
+~
+~
+0 0 25142 0
+D2
+~
+~
+0 0 25138 0
+D3
+~
+~
+0 0 25128 0
+S
+#25138
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25137 0
+D1
+~
+~
+0 0 25141 0
+D2
+~
+~
+0 0 25139 0
+D3
+~
+~
+0 0 25127 0
+S
+#25139
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25138 0
+D1
+~
+~
+0 0 25140 0
+D3
+~
+~
+0 0 25126 0
+S
+#25140
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25141 0
+D1
+~
+~
+0 0 25153 0
+D3
+~
+~
+0 0 25139 0
+S
+#25141
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25142 0
+D1
+~
+~
+0 0 25152 0
+D2
+~
+~
+0 0 25140 0
+D3
+~
+~
+0 0 25138 0
+S
+#25142
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25143 0
+D1
+~
+~
+0 0 25151 0
+D2
+~
+~
+0 0 25141 0
+D3
+~
+~
+0 0 25137 0
+S
+#25143
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25144 0
+D1
+~
+~
+0 0 25150 0
+D2
+~
+~
+0 0 25142 0
+D3
+~
+~
+0 0 25136 0
+S
+#25144
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25145 0
+D1
+~
+~
+0 0 25149 0
+D2
+~
+~
+0 0 25143 0
+D3
+~
+~
+0 0 25135 0
+S
+#25145
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25146 0
+D1
+~
+~
+0 0 25148 0
+D2
+~
+~
+0 0 25144 0
+D3
+~
+~
+0 0 25134 0
+S
+#25146
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25147 0
+D2
+~
+~
+0 0 25145 0
+D3
+~
+~
+0 0 25133 0
+S
+#25147
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25160 0
+D2
+~
+~
+0 0 25148 0
+D3
+~
+~
+0 0 25146 0
+S
+#25148
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25147 0
+D1
+~
+~
+0 0 25159 0
+D2
+~
+~
+0 0 25149 0
+D3
+~
+~
+0 0 25145 0
+S
+#25149
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25148 0
+D1
+~
+~
+0 0 25158 0
+D2
+~
+~
+0 0 25150 0
+D3
+~
+~
+0 0 25144 0
+S
+#25150
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25149 0
+D1
+~
+~
+0 0 25157 0
+D2
+~
+~
+0 0 25151 0
+D3
+~
+~
+0 0 25143 0
+S
+#25151
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25150 0
+D1
+~
+~
+0 0 25156 0
+D2
+~
+~
+0 0 25152 0
+D3
+~
+~
+0 0 25142 0
+S
+#25152
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25151 0
+D1
+~
+~
+0 0 25155 0
+D2
+~
+~
+0 0 25153 0
+D3
+~
+~
+0 0 25141 0
+S
+#25153
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25152 0
+D1
+~
+~
+0 0 25154 0
+D3
+~
+~
+0 0 25140 0
+S
+#25154
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25155 0
+D3
+~
+~
+0 0 25153 0
+S
+#25155
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25156 0
+D2
+~
+~
+0 0 25154 0
+D3
+~
+~
+0 0 25152 0
+S
+#25156
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25157 0
+D2
+~
+~
+0 0 25155 0
+D3
+~
+~
+0 0 25151 0
+S
+#25157
+The Gates to the Lower Planes of Hell~
+You stand at the gates to the lower half of Hell.  Yo have seen many
+horrors already, think before opening this gate.    
+~
+251 32772 0 0 0 0
+D0
+~
+~
+0 0 25158 0
+D1
+~
+gate~
+2 0 25161 9
+D2
+~
+~
+0 0 25156 0
+D3
+~
+~
+0 0 25150 0
+S
+#25158
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25159 0
+D2
+~
+~
+0 0 25157 0
+D3
+~
+~
+0 0 25149 0
+S
+#25159
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25160 0
+D2
+~
+~
+0 0 25158 0
+D3
+~
+~
+0 0 25148 0
+S
+#25160
+The Chamber of Fire~
+Flames billow and leap about you as smoke blinds your eyes and the
+screams of the dead deafen you.  The smell of their burning flesh is
+making you sick, to think about the eternal damnation of this
+existance.    
+~
+251 32768 0 0 0 0
+D2
+~
+~
+0 0 25159 0
+D3
+~
+~
+0 0 25147 0
+S
+#25161
+Entrance to the Lower Plane of Hell~
+This is the lower plane of Hell.  It isnt as despairful as the upper
+level, this level seems to be made out of some sort of misty,
+primortial ooze.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25168 0
+D2
+~
+~
+0 0 25162 0
+D3
+~
+~
+0 0 25157 0
+D5
+~
+~
+0 0 25173 0
+S
+#25162
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25161 0
+D1
+~
+~
+0 0 25167 0
+D2
+~
+~
+0 0 25163 0
+D5
+~
+~
+0 0 25174 0
+S
+#25163
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25162 0
+D1
+~
+~
+0 0 25166 0
+D2
+~
+~
+0 0 25164 0
+D3
+~
+~
+0 0 18 16
+D5
+~
+~
+0 0 25175 0
+S
+#25164
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25163 0
+D1
+~
+~
+0 0 25165 0
+D5
+~
+~
+0 0 25176 0
+S
+#25165
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25166 0
+D1
+~
+~
+0 0 25172 0
+D3
+~
+~
+0 0 25164 0
+D5
+~
+~
+0 0 25177 0
+S
+#25166
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25167 0
+D1
+~
+~
+0 0 25171 0
+D2
+~
+~
+0 0 25165 0
+D3
+~
+~
+0 0 25163 0
+D5
+~
+~
+0 0 25178 0
+S
+#25167
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25168 0
+D1
+~
+~
+0 0 25170 0
+D2
+~
+~
+0 0 25166 0
+D3
+~
+~
+0 0 25162 0
+D5
+~
+~
+0 0 25179 0
+S
+#25168
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25169 0
+D2
+~
+~
+0 0 25167 0
+D3
+~
+~
+0 0 25161 0
+D5
+~
+~
+0 0 25180 0
+S
+#25169
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D2
+~
+~
+0 0 25170 0
+D3
+~
+~
+0 0 25168 0
+D5
+~
+~
+0 0 25181 0
+S
+#25170
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25169 0
+D2
+~
+~
+0 0 25171 0
+D3
+~
+~
+0 0 25167 0
+D5
+~
+~
+0 0 25182 0
+S
+#25171
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25170 0
+D2
+~
+~
+0 0 25172 0
+D3
+~
+~
+0 0 25166 0
+D5
+~
+~
+0 0 25183 0
+S
+#25172
+Floating through Hell~
+You are floating through the Lower levels of Hell, the raw torture and
+sheer hate of the upper levels does not compare at all to this levels
+dismalness.    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25171 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 25165 0
+D5
+~
+~
+0 0 25184 0
+S
+#25173
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest your life, lest ye
+be damned!    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25180 0
+D2
+~
+~
+0 0 25174 0
+D4
+~
+~
+0 0 25161 0
+S
+#25174
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25173 0
+D1
+~
+~
+0 0 25179 0
+D2
+~
+~
+0 0 25175 0
+D4
+~
+~
+0 0 25162 0
+S
+#25175
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25174 0
+D1
+~
+~
+0 0 25178 0
+D2
+~
+~
+0 0 25176 0
+D4
+~
+~
+0 0 25163 0
+S
+#25176
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25175 0
+D1
+~
+~
+0 0 25177 0
+D4
+~
+~
+0 0 25164 0
+S
+#25177
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25178 0
+D1
+~
+~
+0 0 25184 0
+D3
+~
+~
+0 0 25176 0
+D4
+~
+~
+0 0 25165 0
+S
+#25178
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!    
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25179 0
+D1
+~
+~
+0 0 25183 0
+D2
+~
+~
+0 0 25177 0
+D3
+~
+~
+0 0 25175 0
+D4
+~
+~
+0 0 25166 0
+S
+#25179
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25180 0
+D1
+~
+~
+0 0 25182 0
+D2
+~
+~
+0 0 25178 0
+D3
+~
+~
+0 0 25174 0
+D4
+~
+~
+0 0 25167 0
+S
+#25180
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!    
+~
+251 32768 0 0 0 0
+D1
+~
+~
+0 0 25181 0
+D2
+~
+~
+0 0 25179 0
+D3
+~
+~
+0 0 25173 0
+D4
+~
+~
+0 0 25168 0
+S
+#25181
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!    
+~
+251 32768 0 0 0 0
+D2
+~
+~
+0 0 25182 0
+D3
+~
+~
+0 0 25180 0
+D4
+~
+~
+0 0 25169 0
+S
+#25182
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25181 0
+D2
+~
+~
+0 0 25183 0
+D3
+~
+~
+0 0 25179 0
+D4
+~
+~
+0 0 25170 0
+S
+#25183
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25182 0
+D2
+~
+~
+0 0 25184 0
+D3
+~
+~
+0 0 25178 0
+D4
+~
+~
+0 0 25171 0
+S
+#25184
+Floating through Hell~
+You stand at the bottom of the Abyss, and the dispair that this place
+inspires makes you want to be a good boy the rest of your life, lest
+ye be damned!
+~
+251 32768 0 0 0 0
+D0
+~
+~
+0 0 25183 0
+D2
+~
+~
+0 0 25185 0
+D3
+~
+~
+0 0 25177 0
+D4
+~
+~
+0 0 25172 0
+S
+#25185
+Gateway to the Throne of Evil~
+You stand before a gate, made entirely of the bones of tortured souls.
+The Evil emanating from behind here is not something you are sure you
+want to see, much less fight.    
+~
+251 32772 0 0 0 0
+D0
+~
+~
+0 0 25184 0
+D3
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 25186 16
+S
+#25186
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25187 0
+D4
+~
+~
+0 0 25185 16
+S
+#25187
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25188 0
+D3
+~
+~
+0 0 25186 0
+S
+#25188
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25189 0
+D3
+~
+~
+0 0 25187 0
+S
+#25189
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 40 0 0 0 0
+D1
+~
+~
+0 0 25190 0
+D3
+~
+~
+0 0 25188 0
+S
+#25190
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25191 0
+D3
+~
+~
+0 0 25189 0
+S
+#25191
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25192 0
+D3
+~
+~
+0 0 25190 0
+S
+#25192
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25193 0
+D3
+~
+~
+0 0 25191 0
+S
+#25193
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25194 0
+D3
+~
+~
+0 0 25192 0
+S
+#25194
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25195 0
+D3
+~
+~
+0 0 25193 0
+S
+#25195
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25196 0
+D3
+~
+~
+0 0 25194 0
+S
+#25196
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east end - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25197 0
+D3
+~
+~
+0 0 25195 0
+S
+#25197
+The Hall of Bones~
+This is the west end of a hall littered in bones, dried blood and
+ashes.  A feeling of immense dread, of evil incarnate, lies at the
+east, just a few steps aways - almost beckoning to you.    
+~
+251 32808 0 0 0 0
+D1
+~
+~
+0 0 25198 0
+D3
+~
+~
+0 0 25196 0
+S
+#25198
+Before the Throne of The Dark One~
+Waves of pure evil radiate from the throne room which lies to the
+north of you.  The entire northern end of the room is shroud in a
+blanket of darkness so thick that only the darkest of souls would feel
+any sort of condfidence within it.    
+~
+251 32808 0 0 0 0
+D0
+~
+~
+0 0 25199 0
+D3
+~
+~
+0 0 25197 0
+S
+#25199
+The Throne of Ultimate Evil~
+A massive, pitch black throne lies squarely in the center of the
+northern wall, radiating an evil majesty that is unmatched anywhere
+else in the world.  Kneel, puny mortal - and bow your head to the
+Master of Evil.    
+~
+251 32809 0 0 0 0
+D2
+~
+~
+0 0 25198 0
+S
+$~

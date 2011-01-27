@@ -1,0 +1,1064 @@
+#8601
+monk~
+a Monk of Graghtok~
+A monk is here with a blank look on his face.
+~
+As you look closer, you see that this monk has no eyes, nose, or ears.
+~
+163916 0 0 0 0 0 0 0 0 E
+30 14 -20 0d0+0 3d3+20
+250 27376
+8 8 1
+Str: 17
+Dex: 9
+Int: 7
+Wis: 20
+Con: 15
+Cha: 24
+Luck: 23
+Race: 7
+E
+#8602
+blood beast~
+the Blood Beast~
+A beast stands here drenched in blood, ready to attack.
+~
+Looking closer, this beast resembles that of a dragon.
+~
+67117070 0 0 0 16 0 0 0 -500 E
+35 17 -20 0d0+0 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 8
+Str: 9
+Dex: 25
+Int: 9
+Wis: 25
+Con: 10
+Cha: 7
+Luck: 21
+Race: 8
+E
+#8603
+a dark figure~
+a Figure~
+A dark figure holding a key is floating above the water.
+~
+This figure appears to be only an illusion.
+~
+253978 0 0 0 8388608 0 0 0 100 E
+36 18 -20 0d0+0 3d5+24
+0 43580
+8 8 1
+Str: 17
+Dex: 16
+Int: 6
+Wis: 24
+Con: 24
+Cha: 9
+Luck: 12
+E
+#8604
+elder monk~
+an Elder Monk of Graghtok~
+An elder monk is here, overseeing things.
+~
+This monk wears a symbol similar to a pentagran brandished on his forehead.
+~
+20556 0 0 0 16 0 0 0 -300 E
+38 19 -20 0d0+0 3d6+25
+400 50022
+8 8 1
+Str: 25
+Dex: 14
+Int: 22
+Wis: 9
+Con: 15
+Cha: 14
+Luck: 12
+Class: 8
+Race: 7
+E
+#8605
+hound graghtok~
+the Hound of Graghtok~
+A huge hound is here showing his six inch teeth at you.
+~
+This hound has definately been bread for killing.
+~
+4204 0 0 0 16 0 0 0 -100 E
+32 15 -20 0d0+0 3d4+21
+0 32273
+8 8 1
+BareHandAttack: 4
+Str: 9
+Dex: 21
+Int: 16
+Wis: 23
+Con: 19
+Cha: 24
+Luck: 20
+Race: 1
+E
+#8606
+Graghtok~
+Graghtok~
+The evil Graghtok stands before you.
+~
+You don't dare look any closer.
+~
+543242 0 0 0 100663312 0 0 0 -900 E
+40 21 -20 0d0+0 4d5+26
+500 59862
+8 8 1
+BareHandAttack: 12
+Str: 22
+Dex: 22
+Int: 6
+Wis: 16
+Con: 22
+Cha: 19
+Luck: 19
+Class: 4
+Race: 7
+E
+#8650
+wounded warrior~
+a wounded Warrior~
+A wounded warrior has passed out from blood loss.
+~
+This warrior has had it rough, he is missing an arm, and half of his
+face has been cleaved off.    
+~
+10 0 0 0 0 0 0 0 300 E
+35 17 -20 0d0+0 3d5+23
+350 40559
+1 1 1
+BareHandAttack: 3
+Str: 5
+Dex: 5
+Int: 14
+Wis: 5
+Con: 17
+Cha: 8
+Luck: 5
+Race: 14
+E
+#8651
+wounded warrior~
+a wounded Warrior~
+A wounded warrior has passed out from blood loos.
+~
+This warrior has had it rough, he is missing an arm, and half of his
+face has been cleaved off.    
+~
+10 0 0 0 0 0 0 0 300 E
+35 17 -20 0d0+0 3d5+23
+350 40559
+3 3 1
+BareHandAttack: 14
+Str: 10
+Dex: 6
+Int: 8
+Wis: 18
+Con: 14
+Cha: 19
+Luck: 16
+Race: 14
+E
+#8652
+Iron clad warrior~
+an Iron-clad Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+16472 0 0 0 0 0 0 0 -300 E
+40 21 -20 0d0+0 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 5
+Str: 18
+Dex: 25
+Int: 6
+Wis: 9
+Con: 14
+Cha: 18
+Luck: 15
+Class: 4
+Race: 13
+E
+#8653
+Iron clad warrior~
+an Iron-clad Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+72 0 0 0 0 0 0 0 -300 E
+41 22 -24 0d0+0 4d5+27
+525 60717
+8 8 1
+BareHandAttack: 7
+Str: 5
+Dex: 25
+Int: 19
+Wis: 22
+Con: 21
+Cha: 25
+Luck: 9
+Class: 4
+Race: 13
+E
+#8654
+iron clad dwarf~
+a Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+72 0 0 0 0 0 0 0 0 E
+42 22 -24 0d0+0 4d5+28
+550 64565
+8 8 1
+BareHandAttack: 6
+Str: 10
+Dex: 15
+Int: 20
+Wis: 7
+Con: 17
+Cha: 5
+Luck: 12
+Class: 4
+Race: 13
+E
+#8655
+Iron clad warrior~
+an Iron-clad Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+72 0 0 0 0 0 0 0 -200 E
+43 23 -24 0d0+0 4d5+28
+575 68558
+8 8 1
+BareHandAttack: 9
+Str: 5
+Dex: 25
+Int: 8
+Wis: 9
+Con: 15
+Cha: 19
+Luck: 21
+Class: 4
+Race: 13
+E
+#8656
+Iron clad warrior~
+an Iron-clad Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+526408 0 0 0 0 0 0 0 0 E
+44 24 -24 0d0+0 4d5+29
+600 72697
+8 8 1
+BareHandAttack: 12
+Str: 15
+Dex: 13
+Int: 18
+Wis: 5
+Con: 20
+Cha: 10
+Luck: 21
+Class: 4
+Race: 13
+E
+#8657
+iron clad dwarf~
+a Dwarf~
+An iron clad dwarf swings his axe with a vengence.
+~
+This iron clad warrior sings a large axe with wild abandon, his eyes
+are filled with fire and his belly full with ale, he wears his heavy
+iron armor like he wasn't wearing anything at all, he looks at you and
+slaps his axe aginst his chest in challenge.    
+~
+524360 0 0 0 0 0 0 0 -300 E
+44 24 -24 0d0+0 4d5+29
+600 72697
+8 8 1
+BareHandAttack: 12
+Str: 23
+Dex: 23
+Int: 22
+Wis: 24
+Con: 17
+Cha: 10
+Luck: 6
+Class: 4
+Race: 13
+E
+#8658
+black robed mage~
+a Black-robed Mage~
+A black robed man levels his dagger at you.
+~
+This shadowy mage wears a black cloak about his body that conceals his
+appraerance, he is elven in race that much you can tell by the grace
+of his movements.    
+~
+2120 0 0 0 16 0 0 0 -500 E
+45 25 -24 0d0+0 4d5+30
+625 76985
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 5
+Int: 23
+Wis: 19
+Con: 8
+Cha: 9
+Luck: 25
+Class: 1
+Race: 16
+E
+#8659
+grey robed man mage~
+a Grey-robed Mage~
+A grey robed man levels his short sword at you.
+~
+This shadowy mage wears a black cloak about his body that conceals his
+appraerance, he is elven in race that much you can tell by the grace
+of his movements.    
+~
+2120 0 0 0 16 0 0 0 -600 E
+46 26 -24 0d0+0 5d5+30
+650 81423
+8 8 1
+BareHandAttack: 11
+Str: 25
+Dex: 16
+Int: 5
+Wis: 24
+Con: 10
+Cha: 10
+Luck: 21
+Class: 1
+Race: 16
+E
+#8660
+black robed man mage~
+a Black-robed Mage~
+A black robed man levels his dagger at you.
+~
+This shadowy mage wears a black cloak about his body that conceals his
+appraerance, he is elven in race that much you can tell by the grace
+of his movements.    
+~
+72 0 0 0 16 0 0 0 -600 E
+47 26 -28 0d0+0 5d5+31
+675 86013
+8 8 1
+BareHandAttack: 14
+Str: 8
+Dex: 6
+Int: 12
+Wis: 21
+Con: 15
+Cha: 19
+Luck: 12
+Class: 1
+Race: 16
+E
+#8661
+black robed man mage cloaked~
+a Black-cloaked Mage~
+A black cloaked man levels his dagger at you.
+~
+This shadowy mage wears a black cloak about his body that conceals his
+appraerance, he is elven in race that much you can tell by the grace
+of his movements.    
+~
+526408 0 0 0 16 0 0 0 -300 E
+48 27 -28 0d0+0 5d5+32
+700 90757
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 15
+Int: 23
+Wis: 19
+Con: 17
+Cha: 22
+Luck: 12
+Class: 1
+Race: 16
+E
+#8662
+black cloaked man mage~
+a Black-cloaked Mage~
+A black cloaked man levels his wand at you.
+~
+This shadowy mage wears a black cloak about his body that conceals his
+appraerance, he is elven in race that much you can tell by the grace
+of his movements.    
+~
+72 0 0 0 16 0 0 0 -300 E
+49 28 -28 0d0+0 5d5+32
+725 95656
+8 8 1
+BareHandAttack: 15
+Str: 24
+Dex: 12
+Int: 10
+Wis: 20
+Con: 22
+Cha: 20
+Luck: 13
+Class: 1
+Race: 16
+E
+#8663
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant
+two-handed sword like it was a dagger, he looks at you and screams a
+challenge.    
+~
+104 0 0 0 0 0 0 0 -300 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 14
+Int: 8
+Wis: 25
+Con: 7
+Cha: 23
+Luck: 5
+Class: 9
+Race: 14
+E
+#8664
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant
+two-handed sword like it was a dagger, he looks at you and screams a
+challenge.    
+~
+104 0 0 0 16 0 0 0 -100 E
+51 30 -32 0d0+0 5d5+34
+775 105930
+8 8 1
+Str: 18
+Dex: 19
+Int: 14
+Wis: 20
+Con: 16
+Cha: 9
+Luck: 18
+Class: 9
+Race: 14
+E
+#8665
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant
+two-handed sword like it was a dagger, he looks at you and screams a
+challenge.    
+~
+104 0 0 0 0 0 0 0 -400 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+BareHandAttack: 14
+Str: 25
+Dex: 7
+Int: 7
+Wis: 25
+Con: 12
+Cha: 15
+Luck: 17
+Class: 9
+Race: 14
+E
+#8666
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant
+two-handed sword like it was a dagger, he looks at you and screams a
+challenge.    
+~
+104 0 0 0 0 0 0 0 -350 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+BareHandAttack: 3
+Str: 15
+Dex: 15
+Int: 21
+Wis: 12
+Con: 14
+Cha: 8
+Luck: 8
+Class: 9
+Race: 14
+E
+#8667
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant two-handed
+sword like it was a dagger, he looks at you and screams a challenge.
+~
+104 0 0 0 0 0 0 0 -200 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+Str: 13
+Dex: 18
+Int: 18
+Wis: 7
+Con: 9
+Cha: 17
+Luck: 12
+Class: 9
+Race: 14
+E
+#8668
+knight lillith~
+a Lillith Knight~
+A Lillith Knight lifts his sword and charges.
+~
+This knight is clad in shining blue armor, he swings a giant two-handed
+sword like it was a dagger, he looks at you and screams a challenge.
+~
+104 0 0 0 0 0 0 0 -200 E
+52 31 -32 0d0+0 5d5+34
+800 111307
+8 8 1
+BareHandAttack: 14
+Str: 12
+Dex: 21
+Int: 16
+Wis: 8
+Con: 7
+Cha: 17
+Luck: 10
+Class: 9
+Race: 14
+E
+#8669
+rotting corpse~
+a rotting Corpse~
+A rotting corpse rises and attacks.
+~
+This corpse is not yet ready to admit that it's really dead, care to
+teach it the error of it's ways.    
+~
+67108874 0 0 0 80 0 0 0 -1000 E
+45 25 -24 0d0+0 4d5+30
+0 76985
+8 8 0
+Str: 7
+Dex: 18
+Int: 18
+Wis: 16
+Con: 23
+Cha: 17
+Luck: 9
+Race: 6
+E
+#8670
+warhorse horse~
+a Warhorse~
+A warhorse is here going berserk.
+~
+This horse is clad in blue armor of it's own - obviously the property
+of one of the Lillith Knights.    
+~
+262154 0 0 0 0 0 0 0 0 E
+47 26 -28 0d0+0 5d5+31
+0 86013
+8 8 1
+BareHandAttack: 9
+Str: 10
+Dex: 17
+Int: 19
+Wis: 16
+Con: 21
+Cha: 20
+Luck: 9
+Race: 52
+E
+#8671
+warhorse horse~
+a Warhorse~
+A warhorse is here going berserk.
+~
+This horse is clad in blue armor of it's own - obviously the property
+of one of the Lillith Knights.    
+~
+262154 0 0 0 0 0 0 0 0 E
+47 26 -28 0d0+0 5d5+31
+0 86013
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 12
+Int: 7
+Wis: 6
+Con: 19
+Cha: 22
+Luck: 22
+Race: 52
+E
+#8672
+Magik~
+Magik~
+Magik is here prepairing to do spell battle.
+~
+This draconion mage is the leader of the black robes he is ready with
+a full array of magic spells and a poisoned tipped dagger.    
+~
+17319962 0 0 0 327696 4194304 0 0 -600 E
+60 37 -36 0d0+0 5d6+40
+1000 176357
+8 8 1
+BareHandAttack: 11
+Str: 15
+Dex: 17
+Int: 8
+Wis: 21
+Con: 13
+Cha: 23
+Luck: 16
+Class: 1
+Race: 42
+E
+#8673
+commander montague~
+Montague~
+Commander Montague, the leader of the Lillith Knights is here.
+~
+This minotaur warrior is big, mean, large and in charge, he lifts his
+giant Two-handed sword and screams a challenge at you!
+~
+42 0 0 0 33554448 0 0 0 -400 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 16
+Int: 8
+Wis: 5
+Con: 7
+Cha: 25
+Luck: 15
+Class: 4
+Race: 14
+E
+#8674
+Shatterstorm~
+Shatterstorm~
+Shatterstorm see's you and attacks!
+~
+This Lillith warrior is an even match for Montague, but for some
+reason he has more interest in the spoils of war rather than the
+leading of the clan.    
+~
+42 0 0 0 16 0 0 0 -700 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 21
+Int: 21
+Wis: 14
+Con: 14
+Cha: 20
+Luck: 12
+Class: 4
+Race: 14
+E
+#8675
+julkar~
+Julkar~
+Julkar is here calling forth great balls of flame!
+~
+This mage is coverd in flames, for some reason they don't seem to burn
+him, in fact he seems quite comfortable as he turns his attentions to
+you, so nice you would look wrapped in flames he says as he begins to
+chant the working of a spell
+~
+67110922 0 0 0 262160 0 0 0 -800 E
+60 37 -36 0d0+0 5d6+40
+1000 176357
+8 8 1
+BareHandAttack: 15
+Str: 8
+Dex: 12
+Int: 10
+Wis: 13
+Con: 17
+Cha: 24
+Luck: 21
+Class: 1
+Race: 15
+E
+#8676
+jackle~
+Jackle~
+Jackle is here casting useless spells about the room.
+~
+This mage is here practicing how to pkill, because he is the only
+thorne who never really had or got a clue about it.    
+~
+18570 0 0 0 16 0 0 0 100 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+Str: 7
+Dex: 22
+Int: 25
+Wis: 8
+Con: 17
+Cha: 5
+Luck: 21
+Class: 1
+Race: 14
+E
+#8677
+Aleric~
+Aleric ~
+Aleric is here playing with a charmie.
+~
+Aleric is the only good-aligned person around.  He hides it
+behind his desire to do battle, which is the one thing that he is
+quite good at. 
+~
+624650 0 0 0 134217744 0 0 0 800 E
+60 37 -36 0d0+0 5d6+40
+1000 168341
+8 8 1
+BareHandAttack: 2
+Str: 12
+Dex: 20
+Int: 25
+Wis: 19
+Con: 24
+Cha: 5
+Luck: 15
+Class: 2
+Race: 14
+E
+#8678
+Llarken~
+Llarken~
+Llarken is here eating the charred corpse of a solomic knight.
+~
+This mage is famous for ripping appart any solomic knights that got in
+his way, or where just plain logged on to the mud, his hatred for the
+goodie boys took on new hieghts when he took the quest item of a loser
+knight and saced it right in front of him, from then on the solomic
+knights vowed to make this evil mages life a living hell, they all
+died trying they should have just left him alone, then at least he
+would have had to hunt them to kill them.    
+~
+67108874 0 0 0 16 0 0 0 -900 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+Str: 5
+Dex: 19
+Int: 15
+Wis: 5
+Con: 6
+Cha: 23
+Luck: 22
+Class: 1
+Race: 8
+E
+#8679
+bloated corpse~
+a bloated Corpse~
+A bloated corpse is here stinking up the place.
+~
+This corpse is not yet ready to admit that it's really dead, care to
+teach it the error of it's ways.    
+~
+10 0 0 0 16 0 0 0 0 E
+42 22 -24 0d0+0 4d5+28
+0 64565
+8 8 1
+Str: 5
+Dex: 7
+Int: 15
+Wis: 15
+Con: 8
+Cha: 10
+Luck: 20
+Race: 6
+E
+#8680
+charmie aleric's~
+a Charmie~
+A charmed knight is here bobbing his head stupily at aleric.
+~
+This dwarven knight was caught by Aleric's irresistible charms.  He
+will probably find himself fighting an un-winnable battle for the
+glory of Aleric.    
+~
+6154 0 0 0 16 0 0 0 -300 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 1
+Str: 7
+Dex: 15
+Int: 7
+Wis: 13
+Con: 24
+Cha: 20
+Luck: 24
+Race: 14
+E
+#8681
+a charmie~
+a Charmie~
+A charmie is here stumbling about with a stupid look on his face.
+~
+This unfourtant soul is caught in the charms of the thorne clan he
+will do anything he is told and now with out any thing for him to do
+the thorne's have instructed him to wander about with a stupid grin on
+his face.    
+~
+8202 0 0 0 16 0 0 0 -300 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 1
+Str: 6
+Dex: 23
+Int: 17
+Wis: 14
+Con: 15
+Cha: 14
+Luck: 19
+Race: 14
+E
+#8682
+a charmie~
+a Charmie~
+A charmie is here stumbling about with a stupid look on his face.
+~
+This unfourtant soul is caught in the charms of the thorne clan he
+will do anything he is told and now with out any thing for him to do
+the thorne's have instructed him to wander about with a stupid grin on
+his face.    
+~
+10 0 0 0 16 0 0 0 -300 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 1
+Str: 6
+Dex: 22
+Int: 25
+Wis: 7
+Con: 12
+Cha: 19
+Luck: 24
+Race: 14
+E
+#8683
+a charmie~
+a Charmie~
+A charmie is here stumbling about with a stupid look on his face.
+~
+This unfourtant soul is caught in the charms of the thorne clan he
+will do anything he is told and now with out any thing for him to do
+the thorne's have instructed him to wander about with a stupid grin on
+his face.    
+~
+10 0 0 0 16 0 0 0 -300 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 1
+Str: 12
+Dex: 21
+Int: 21
+Wis: 25
+Con: 10
+Cha: 7
+Luck: 23
+Race: 14
+E
+#8684
+iron slime~
+a patch of Iron Slime~
+A patch of iron slime see's you and attacks
+~
+This patch of slime dose not seem to like the fact that your in it's
+chamber or maybe it was the fact that you steped right on it's head,
+what ever the reason the fact is this is one mean slime, enjoy.    
+~
+83984410 0 0 0 80 163840 0 0 -900 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 1
+BareHandAttack: 16
+Str: 6
+Dex: 18
+Int: 16
+Wis: 23
+Con: 7
+Cha: 25
+Luck: 12
+E
+#8685
+bahamut dragon~
+Bahamut~
+The king of dragons steps into the light.
+~
+This is the biggest meanest S.  O.  B you will ever have the pleasure
+of meeting in this keep, he is over 90 feet in lenght and over 20 feet
+at the shoulder, his claws are longer the the longest spear, and his
+teeth as long as any lance.    
+~
+114698 0 0 0 2128 163840 0 0 -1000 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+BareHandAttack: 8
+Str: 20
+Dex: 8
+Int: 12
+Wis: 18
+Con: 23
+Cha: 10
+Luck: 8
+Class: 4
+Race: 9
+E
+#8686
+frenicus~
+Frenicus~
+Frenicus laughs at you and attacks!
+~
+This is the famous dragon that killed the mage voodo on one occasion
+of course voodoo often killed this great dragon to gain in power,
+however this dragon was not the toughest mob on the game, but he sure
+is kicking your ass now isn't he!    
+~
+67354634 0 0 0 8650832 131072 0 0 -700 E
+55 33 -32 0d0+0 5d6+36
+875 141264
+8 8 1
+BareHandAttack: 6
+Str: 25
+Dex: 7
+Int: 21
+Wis: 20
+Con: 12
+Cha: 19
+Luck: 8
+Class: 4
+Race: 9
+E
+#8687
+mediation~
+Mediation~
+Mediation is here keeping the peace - or at least trying to.
+~
+Mediation has no true name - it was taken long ago by those who placed
+him in his current position which has been held by Mediation for many
+many years now.    
+~
+10 0 0 0 0 0 0 0 0 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 25
+Dex: 15
+Int: 13
+Wis: 6
+Con: 13
+Cha: 17
+Luck: 14
+Class: 2
+Race: 11
+E
+#8688
+purple plant~
+a purple Plant~
+A huge plant is here, moving of its own free will.
+~
+It is nothing more than a plant, but it has a sentient will, one which
+it uses to its advantage.    
+~
+10 0 0 0 0 0 0 0 0 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 1
+BareHandAttack: 2
+Str: 5
+Dex: 15
+Int: 12
+Wis: 5
+Con: 18
+Cha: 20
+Luck: 15
+Race: 26
+E
+#8689
+wizard~
+a Wizard~
+A wizard dressed in purple robes sits amid the treasures, looking quite content.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.    
+~
+524330 0 0 0 570427728 0 0 0 -500 E
+55 33 -32 0d0+0 5d6+36
+875 141264
+8 8 1
+Str: 19
+Dex: 14
+Int: 19
+Wis: 20
+Con: 12
+Cha: 15
+Luck: 8
+Class: 1
+Race: 14
+E
+$

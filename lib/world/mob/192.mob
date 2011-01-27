@@ -1,0 +1,1574 @@
+#19200
+temple cleric~
+the Temple Cleric~
+A Temple Cleric is here, ready to heal the sick.
+~
+The cleric is wearing a fine white robe and looks like he enjoys is life.
+~
+18442 0 0 0 24 0 0 0 900 E
+88 64 -40 1d1+2350 6d7+58
+3200 425742
+8 8 1
+Str: 9
+Dex: 10
+Int: 22
+Wis: 5
+Con: 25
+Cha: 6
+Luck: 13
+Class: 2
+Race: 14
+E
+#19201
+citizen~
+a Vern'ige citizen~
+A citizen of Vern'ige is walking about.
+~
+A typical citizen of Vern'ige, she goes about her errands in a hurried pace.
+~
+2120 0 0 0 0 0 0 0 800 E
+68 45 -40 1d1+350 6d6+45
+2400 220604
+8 8 1
+Str: 13
+Dex: 19
+Int: 9
+Wis: 23
+Con: 14
+Cha: 24
+Luck: 25
+Class: 12
+Race: 14
+E
+#19202
+Abe recruit~
+Abe~
+Abe the Recruit is standing here.
+~
+Abe is an old soldier who now recruits for his old platoon.
+~
+74 0 0 0 16 0 0 0 0 E
+75 51 -40 10d10+1 6d7+50
+2750 283219
+8 8 1
+BareHandAttack: 13
+Str: 5
+Dex: 15
+Int: 5
+Wis: 16
+Con: 9
+Cha: 21
+Luck: 16
+Class: 4
+Race: 14
+E
+#19203
+enlistment agent man halfling~
+the enlistment Agent~
+A halfling sits behind his desk.
+~
+He looks like an old war veteran, lets see he is missing an, arm, a
+leg, part of his ear.......    
+~
+10 0 0 0 80 0 0 0 0 E
+75 51 -40 1d1+1000 6d7+50
+2750 283219
+6 6 1
+Str: 7
+Dex: 16
+Int: 10
+Wis: 8
+Con: 20
+Cha: 22
+Luck: 7
+Race: 17
+E
+#19204
+recruiter~
+the Recruiter~
+A war recruiter is trying to rally support.
+~
+Achhh! Dont pay too much attention to him or you'll regret it.
+~
+10 0 0 0 16 0 0 0 0 E
+65 42 -40 1d1+200 6d6+43
+2250 196628
+8 8 1
+Str: 13
+Dex: 12
+Wis: 12
+Con: 8
+Luck: 22
+Class: 4
+Race: 14
+E
+#19206
+dek warrior~
+Dek~
+Dek the Warrior rests here.
+~
+Dek is resting here, waiting for some new adventure to come by.
+~
+526410 0 0 0 16 0 0 0 800 E
+70 47 -40 3d6+130 6d6+46
+2500 237528
+5 5 1
+BareHandAttack: 3
+Str: 12
+Dex: 14
+Int: 20
+Con: 14
+Cha: 18
+Luck: 23
+Class: 4
+Race: 17
+E
+#19207
+master trainingmaster~
+the Training Master~
+The Training Master is here, supervising.
+~
+Aged, but experienced, the Training Master is skilled in the use of
+virtually every weapon type invented by Man.    
+~
+526346 0 0 0 524368 163840 0 0 950 E
+105 82 -40 1d1+800 10d11+70
+3250 667958
+8 8 1
+BareHandAttack: 14
+Str: 17
+Int: 8
+Wis: 16
+Con: 17
+Cha: 13
+Luck: 16
+Class: 4
+Race: 14
+E
+#19208
+vernige guard City~
+a Vernige Guard~
+A Vernige City Guard is here on duty.
+~
+As all members of the Guard, he wears the chain mail required of
+them as uniform.  He seems very well trained, and moves like an
+experienced fighter.
+~
+524360 0 0 0 0 0 0 0 800 E
+76 52 -40 1d1+1200 6d7+50
+2800 292948
+8 8 1
+BareHandAttack: 3
+Int: 13
+Wis: 19
+Cha: 25
+Luck: 19
+Class: 10
+Race: 14
+E
+#19209
+vernige guard City~
+a Vernige Guard~
+A Vernige City Guard is here on duty.
+~
+As all members of the Guard, he wears the chain mail required of
+them as uniform.  He seems very well trained, and carries his scars
+with pride.  This guy seems tough...
+~
+524298 0 0 0 16 0 0 0 900 E
+80 56 -40 1d1+2000 6d7+53
+3000 333884
+8 8 1
+BareHandAttack: 14
+Str: 9
+Dex: 25
+Int: 12
+Wis: 22
+Con: 6
+Cha: 8
+Luck: 9
+Class: 4
+Race: 14
+E
+#19210
+vernige guard City~
+a Vernige Guard~
+A Vernige City Guard is here on duty.
+~
+As all members of the Guard, she wears the chain mail required of
+them as uniform.  She seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+524360 0 0 0 0 0 0 0 900 E
+78 54 -40 1d1+1600 6d7+52
+2900 313009
+8 8 2
+BareHandAttack: 11
+Str: 15
+Dex: 5
+Int: 9
+Wis: 16
+Con: 10
+Cha: 7
+Luck: 23
+Class: 8
+Race: 14
+E
+#19211
+vernige guard City~
+a Vernige Guard~
+A Vernige City Guard is here on duty.
+~
+As all members of the Guard, he wears the chain mail required of
+them as uniform.  He seems very well trained, and moves like a fighter
+who has seen more than one battle, and longs to see the next!
+~
+524298 0 0 0 16 0 0 0 900 E
+78 54 -40 1d1+1600 6d7+52
+2900 313009
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 25
+Int: 25
+Wis: 16
+Con: 7
+Cha: 21
+Class: 10
+Race: 14
+E
+#19212
+militia man guard City~
+a Militia Man~
+A militia man is here on duty.
+~
+As all members of the Guard, he wears the chain mail required of
+them as uniform.  He seems very well trained, and carries his scars
+with pride.  This guy seems tough...
+~
+524298 0 0 0 16 0 0 0 900 E
+85 61 -40 1d1+2000 6d7+56
+3200 389703
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 13
+Int: 12
+Wis: 6
+Con: 6
+Cha: 24
+Luck: 10
+Class: 10
+Race: 14
+E
+#19213
+volunteer guard City~
+a volunteer City Guard~
+A Volunteer City Guard is here on duty.
+~
+As all members of the Guard, she wears the chain mail required of
+them as uniform.  She seems very well trained, and carries her scars
+with pride.  This girl could be nasty if she wanted to...
+~
+2120 0 0 0 16 0 0 0 900 E
+70 47 -40 3d6+175 6d6+46
+2500 237528
+8 8 2
+Str: 9
+Dex: 12
+Int: 14
+Wis: 13
+Con: 15
+Cha: 7
+Luck: 10
+Class: 12
+Race: 14
+E
+#19214
+militia man guard City~
+a Militia Man~
+A militia man is here on duty.
+~
+As all members of the Guard, he wears the chain mail required
+of them as uniform.  He seems very well trained, and moves like an
+experienced fighter.
+~
+74 0 0 0 0 0 0 0 800 E
+76 52 -40 1d1+1200 6d7+50
+2800 292948
+8 8 1
+Str: 6
+Dex: 13
+Int: 13
+Wis: 20
+Con: 15
+Cha: 12
+Luck: 21
+Class: 4
+Race: 14
+E
+#19215
+volunteer guard City~
+a volunteer City Guard~
+A Volunteer City Guard is here on duty.
+~
+As all members of the Guard, he wears the chain mail required of
+them as uniform.  He seems very well trained, and moves like an
+experienced fighter.
+~
+524360 0 0 0 0 0 0 0 800 E
+76 52 -40 1d1+1200 6d7+50
+2800 292948
+8 8 1
+BareHandAttack: 14
+Str: 9
+Dex: 25
+Int: 15
+Wis: 15
+Con: 6
+Cha: 18
+Luck: 8
+Class: 10
+Race: 14
+E
+#19216
+Gaven captain guard~
+Gaven, the Captain of the Guard~
+Gaven, the Captain of the Guard, walks around inspecting.
+~
+As all members of the Guard, Gaven wears the chain mail required of
+them as uniform.  Even though all the other guards seem well trained,
+you realise none of them would stand a chance against this man in a
+fight.  He stands at least two metres tall, but still moves with an
+almost feline grace.  He actually radiates strength and confidence,
+and you have to fight a sudden urge to come to attention as you see
+him.
+~
+559176 0 0 0 2128 131072 0 0 900 E
+105 82 -40 1d1+2200 10d11+70
+3250 667958
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 21
+Int: 17
+Wis: 17
+Con: 21
+Cha: 23
+Luck: 16
+Class: 4
+Race: 14
+E
+#19217
+guard Vernige~
+a Vernige Guard~
+A Vernige Guard is here off duty, playing dice.
+~
+As all members of the Guard, He wears the chain mail required
+of them as uniform.  He seems very well trained, and moves like
+an experienced fighter.
+~
+4170 0 0 0 0 0 0 0 800 E
+70 47 -40 1d1+1200 6d6+46
+2500 237528
+8 8 1
+BareHandAttack: 11
+Str: 23
+Dex: 9
+Int: 16
+Wis: 21
+Con: 25
+Cha: 19
+Luck: 9
+Class: 4
+Race: 14
+E
+#19218
+guard Vernige~
+a Vernige Guard~
+A Vernige Guard is here off duty, playing dice.
+~
+As all members of the Guard, He wears the chain mail required
+of them as uniform.  He seems very well trained, and moves like an
+experienced fighter.
+~
+74 0 0 0 0 0 0 0 800 E
+76 52 -40 1d1+1200 6d7+50
+2800 292948
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 6
+Int: 12
+Wis: 7
+Con: 24
+Cha: 6
+Luck: 22
+Class: 10
+Race: 14
+E
+#19219
+guild guard~
+the Guild Guard~
+A guild guard is here.
+~
+He is an expert warrior who has a duty to protect the guilds.
+~
+51210 0 0 0 144 163840 0 0 800 E
+110 88 -40 1d1+2350 11d12+73
+3400 752086
+8 8 1
+BareHandAttack: 5
+Str: 6
+Dex: 16
+Int: 18
+Wis: 5
+Con: 6
+Cha: 5
+Luck: 25
+Class: 9
+Race: 7
+E
+#19220
+beggar thief~
+a Beggar~
+A smelly beggar begs here.
+~
+Guard your money!
+~
+142 0 0 0 524304 0 0 0 100 E
+66 43 -40 1d1+150 6d6+44
+2300 204434
+8 8 1
+Str: 5
+Dex: 10
+Int: 10
+Wis: 13
+Con: 21
+Cha: 5
+Luck: 6
+Class: 12
+Race: 14
+E
+#19221
+Thuler~
+Thuler~
+Thuler stands here displaying his armours.
+~
+He is the local armourer of Vernige.
+~
+26634 0 0 0 24 0 0 0 900 E
+110 88 -40 1d1+5000 11d12+73
+3400 752086
+8 8 1
+Str: 25
+Dex: 16
+Int: 25
+Con: 18
+Cha: 24
+Luck: 16
+Class: 4
+Race: 14
+E
+#19222
+grath bar keep~
+Grath the Bar Keep~
+Grath the Bar Keep serves drinks.
+~
+He is the local bartender of Vernige.
+~
+26634 0 0 0 24 0 0 0 900 E
+110 88 -40 1d1+5000 11d12+73
+3400 752086
+8 8 1
+Str: 20
+Dex: 23
+Int: 18
+Wis: 8
+Con: 5
+Cha: 9
+Luck: 21
+Race: 14
+E
+#19223
+captain roy~
+Captain Roy~
+Captian Roy stumbles about.
+~
+Once a proud warrior, he is now a victim of alcohol's deadly grasp.
+~
+26634 0 0 0 80 0 0 0 900 E
+110 88 -40 1d1+2350 11d12+73
+3400 752086
+8 8 1
+BareHandAttack: 13
+Str: 19
+Dex: 12
+Int: 7
+Wis: 7
+Con: 15
+Cha: 25
+Luck: 16
+Class: 4
+Race: 14
+E
+#19224
+captain john~
+Captain John~
+Captian John sits on his chair.
+~
+He is retired.
+~
+26634 0 0 0 80 0 0 0 900 E
+110 88 -40 1d1+2350 11d12+73
+3400 752086
+6 6 1
+Str: 8
+Dex: 23
+Int: 19
+Wis: 19
+Con: 22
+Cha: 22
+Luck: 6
+Race: 14
+E
+#19225
+waiter~
+a Waiter~
+A waiter hurries about.
+~
+The waiter is adept at his job, able to memorize entire orders and
+never make a mistake.  Don't you wish your favorite restaurant back at
+home had waiters like him?    
+~
+16394 0 0 0 16 0 0 0 900 E
+55 33 -32 1d1+2350 5d6+36
+1750 128422
+8 8 1
+Str: 23
+Dex: 10
+Int: 13
+Wis: 20
+Con: 18
+Cha: 19
+Luck: 18
+Class: 12
+Race: 14
+E
+#19226
+halfling girl ~
+a halfling Girl~
+A young Halfling girl stands behind the counter.
+~
+She is cute, at least as far as halflings go.
+~
+10 0 0 0 0 0 0 0 500 E
+45 25 -24 1d1+2650 4d5+22
+2000 76985
+8 8 0
+Str: 8
+Dex: 5
+Int: 24
+Wis: 18
+Con: 19
+Cha: 15
+Luck: 13
+Race: 17
+E
+#19227
+wesgo ~
+Wesgo the Shopkeeper~
+Wesgo shows off his newest weapon.
+~
+Wesgo is an old veteran of the fight against Encar.  Now, in his old
+age, he sells weapons to the new stock of adventurers.    
+~
+26634 0 0 0 80 0 0 0 900 E
+110 88 -40 1d1+5000 11d12+73
+3400 752086
+8 8 1
+Str: 16
+Dex: 8
+Int: 6
+Wis: 6
+Con: 16
+Cha: 15
+Luck: 12
+Race: 14
+E
+#19228
+Gould mage shopkeep~
+Gould the Mage~
+Gould the mage toys with a magical broom.
+~
+Gould is the local spellmaster of Vernige.
+~
+182298 0 0 0 264272 0 0 0 500 E
+110 88 -40 1d1+5000 11d12+73
+3400 827294
+8 8 1
+Str: 12
+Dex: 19
+Int: 21
+Wis: 12
+Con: 14
+Cha: 14
+Luck: 12
+Class: 1
+Race: 14
+E
+#19229
+sailor~
+the Sailor~
+A sailor, fresh from the boat, strolls about.
+~
+The sailor stumbles around a little bit now and then, still not used
+to walking on land after being at sea for months.    
+~
+4168 0 0 0 0 0 0 0 0 E
+72 48 -40 1d1+500 6d6+48
+2600 255219
+8 8 0
+Str: 15
+Dex: 22
+Int: 17
+Wis: 13
+Con: 21
+Cha: 22
+Luck: 5
+Race: 14
+E
+#19230
+plains dwarf big~
+a big plains Dwarf~
+A big plains Dwarf stands here.
+~
+This dwarf is typical of those who come from Big Plains.
+~
+524314 0 0 0 16 0 0 0 -500 E
+82 58 -40 1d1+2000 6d7+54
+3100 355583
+8 8 1
+BareHandAttack: 9
+Str: 16
+Dex: 18
+Int: 8
+Wis: 20
+Con: 19
+Cha: 18
+Luck: 24
+Class: 4
+Race: 13
+E
+#19231
+woman escort~
+an Escort~
+A woman in a black lace teddy rests here.
+~
+Cute? Hell yes!
+~
+4106 0 0 0 0 0 0 0 0 E
+60 37 -36 1d1+70 5d6+40
+2000 160325
+8 8 2
+Str: 21
+Dex: 10
+Int: 23
+Wis: 20
+Cha: 10
+Luck: 15
+Race: 14
+E
+#19232
+woman escort~
+an Escort~
+A woman in a leather thong rests here.
+~
+Cute and sexy? Heck yes!
+~
+4106 0 0 0 0 0 0 0 0 E
+61 38 -40 1d1+70 5d6+40
+2050 167227
+8 8 2
+Str: 23
+Dex: 12
+Int: 18
+Wis: 23
+Con: 5
+Cha: 20
+Luck: 23
+Race: 14
+E
+#19233
+woman escort~
+an Escort~
+A woman is doing something interesting with a beer bottle.
+~
+Cute? sexy? willing? Whooo!
+~
+4106 0 0 0 0 0 0 0 0 E
+62 39 -40 1d1+70 5d6+41
+2100 174307
+8 8 2
+Str: 5
+Dex: 20
+Int: 9
+Wis: 12
+Cha: 12
+Luck: 22
+Race: 14
+E
+#19234
+horace centuar~
+Horace the Centuar~
+Horace the Centuar is busy stocking the shelves.
+~
+Horace is an old veteran of the fight against Encar. He now runs this store.
+~
+26634 0 0 0 24 0 0 0 900 E
+107 85 -40 1d1+5000 11d11+71
+3250 700882
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 10
+Int: 10
+Wis: 21
+Con: 16
+Cha: 17
+Luck: 23
+Class: 2
+Race: 7
+E
+#19235
+seagull bird~
+a Seagull~
+A seagull flaps about.
+~
+You see a medium sized bird with a speckled head and wings.
+~
+72 0 0 0 8388608 0 0 0 0 E
+4 0 84 1d1+50 1d2+2
+0 160
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 23
+Int: 21
+Wis: 6
+Con: 17
+Cha: 12
+Luck: 14
+Race: 3
+E
+#19236
+rat wharf~
+a wharf Rat~
+A wharf rat scavenges about for food.
+~
+You see a three foot long rat, with long sharp teeth.
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 2d6+43 1d2+2
+0 160
+8 8 0
+BareHandAttack: 4
+Str: 10
+Dex: 13
+Wis: 14
+Con: 15
+Cha: 17
+Luck: 23
+Race: 1
+E
+#19237
+boy fishing~
+a Boy~
+A boy is fishing off of the dock here.
+~
+He is sunburnt and seems to be enjoying the time here.
+~
+16394 0 0 0 0 0 0 0 400 E
+40 21 -20 1d1+350 4d5+26
+1300 57012
+6 6 1
+Str: 6
+Dex: 12
+Int: 19
+Wis: 15
+Con: 10
+Cha: 17
+Luck: 12
+Race: 14
+E
+#19238
+receptionist young woman~
+the Receptionist~
+A young woman is sitting behind a desk.
+~
+She looks bored, but continues painting her nails.
+~
+59418 0 0 0 56 0 0 0 900 E
+99 76 -40 1d1+500 6d8+66
+3200 574891
+8 8 2
+Str: 7
+Dex: 12
+Int: 5
+Wis: 12
+Cha: 6
+Luck: 18
+Class: 11
+Race: 14
+E
+#19239
+doll mage guild master~
+the Doll Mage Guild Master~
+An old Doll Mage stands here.
+~
+Powerful and knowledgable in his art, do not mess with him!
+~
+100362 0 0 0 2128 163842 0 0 0 E
+115 94 -40 1d1+2250 13d13+76
+3500 842356
+8 8 0
+BareHandAttack: 15
+Str: 14
+Dex: 10
+Int: 10
+Wis: 22
+Con: 17
+Cha: 19
+Luck: 17
+Class: 7
+Race: 14
+E
+#19240
+master guild draken doll mage~
+Draken~
+Draken is here boxing with his doll.
+~
+He looks up at you and says, "Are you looking for the key to the Light
+Temple?  The schmucks lose the thing all the time so I keep a copy in
+my desk for them.  "
+~
+6154 0 0 0 16 0 0 0 0 E
+102 79 -40 1d1+5000 9d10+68
+3200 620364
+8 8 0
+BareHandAttack: 15
+Str: 23
+Dex: 16
+Int: 8
+Wis: 23
+Con: 12
+Cha: 10
+Luck: 17
+Class: 7
+Race: 14
+E
+#19241
+grasshopper~
+a big, green Grasshopper~
+A big green grasshopper hops about.
+~
+Big and green, it hops about looking for succulent plants to eat.
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+20 1d1+1
+0 27
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 12
+Int: 22
+Wis: 19
+Con: 13
+Cha: 22
+Luck: 8
+Race: 5
+E
+#19242
+master monk dorn halfling~
+Dorn the Halfling~
+Dorn the Halfling stands here.
+~
+Dorn is and old monk of Diaspol.  That is, he is a member of the order
+of monks that use to live in the empire before the war.  He now spends
+his days teaching the youth of the Alliance how to hown their
+abilities.    
+~
+180250 0 0 0 16 0 0 0 500 E
+95 72 -40 1d1+5000 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 12
+Str: 21
+Dex: 13
+Int: 14
+Wis: 12
+Con: 7
+Cha: 24
+Luck: 19
+Class: 8
+Race: 17
+E
+#19243
+driver~
+a Carriage Driver~
+A carriage driver is here.
+~
+Dressed neatly and sharply, he stands alert for any new customers.
+~
+10 0 0 0 0 0 0 0 0 E
+65 42 -40 5d4+180 6d6+43
+2250 196628
+8 8 2
+Str: 9
+Dex: 24
+Int: 24
+Wis: 16
+Con: 25
+Cha: 7
+Luck: 21
+Race: 14
+E
+#19244
+centuar foal~
+a centuar Foal~
+A Centaur foal runs about here.
+~
+She is young and hardly bigger than a dwarf.
+~
+72 0 0 0 0 0 0 0 500 E
+35 17 -20 1d1+30 3d5+23
+1200 40559
+8 8 2
+Str: 12
+Dex: 22
+Int: 19
+Wis: 21
+Con: 22
+Cha: 7
+Race: 7
+E
+#19245
+sailor drunk drunken~
+a drunken Sailor~
+A drunken sailor sits on a bar stool.
+~
+Not only is he drunk, he is unkempt and smells bad!
+~
+10 0 0 0 0 0 0 0 0 E
+73 49 -40 1d1+70 6d6+48
+2650 264356
+8 8 1
+Str: 22
+Dex: 17
+Int: 16
+Wis: 14
+Con: 14
+Cha: 10
+Luck: 13
+Race: 14
+E
+#19246
+halfling child~
+a halfling Child~
+A halfling child runs about.
+~
+He chases a small ball around without a care.
+~
+72 0 0 0 0 0 0 0 500 E
+40 21 -20 1d1+30 4d5+26
+1300 57012
+8 8 1
+Str: 9
+Dex: 9
+Int: 13
+Wis: 15
+Con: 23
+Cha: 7
+Luck: 22
+Race: 17
+E
+#19247
+human child~
+a human Child~
+A human child runs about.
+~
+He chases a small ball around without a care.
+~
+72 0 0 0 0 0 0 0 500 E
+38 19 -20 1d1+30 3d6+25
+1250 50022
+8 8 1
+Str: 13
+Dex: 16
+Wis: 16
+Con: 9
+Cha: 9
+Luck: 5
+Race: 14
+E
+#19248
+plains dwarf child~
+a plains dwarf Child~
+A plains dwarf child runs about.
+~
+She chases a green ball without a care.
+~
+72 0 0 0 0 0 0 0 500 E
+39 20 -20 1d1+30 4d5+26
+1275 53447
+8 8 2
+Str: 5
+Dex: 10
+Int: 13
+Wis: 8
+Con: 20
+Cha: 19
+Race: 13
+E
+#19249
+librarian~
+the Librarian~
+The Librarian sits behind her desk.
+~
+She wears glasses and strongly enforces the "No talking" rule.
+~
+10 0 0 0 16 0 0 0 0 E
+90 66 -40 1d1+70 6d7+60
+3200 450852
+6 6 2
+BareHandAttack: 13
+Str: 5
+Dex: 23
+Int: 15
+Wis: 16
+Con: 20
+Cha: 13
+Luck: 7
+Race: 14
+E
+#19250
+mugger~
+a Mugger~
+A mugger hides in the shadows.
+~
+His features are as harsh as his conscious.
+~
+67635210 0 0 0 1572880 0 0 0 -500 E
+79 55 -40 1d1+20 6d7+52
+1375 323344
+8 8 1
+BareHandAttack: 11
+Str: 6
+Dex: 14
+Int: 23
+Wis: 23
+Con: 15
+Cha: 23
+Luck: 15
+Class: 3
+Race: 14
+E
+#19251
+fish~
+a Fish~
+A fish is swimming about here.
+~
+The fish looks about the right size for a meal.
+~
+10 0 0 0 64 0 0 0 100 E
+1 0 96 1d1+15 1d1+0
+0 4
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 15
+Int: 12
+Wis: 16
+Con: 24
+Cha: 8
+Luck: 24
+Race: 4
+E
+#19252
+duckling~
+a Duckling~
+A duckling is swimming around in the pond.
+~
+The duckling is adorable, it looks most of all like a tiny furball.
+~
+10 0 0 0 0 0 0 0 1000 E
+1 0 96 1d1+15 1d1+0
+0 4
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 6
+Int: 25
+Wis: 14
+Con: 14
+Cha: 10
+Luck: 14
+Race: 3
+E
+#19253
+duck~
+a Duck~
+A duck is here, quacking happily.
+~
+The duck is quite fat.  It looks like it is enjoying life.
+~
+72 0 0 0 0 0 0 0 1000 E
+2 0 92 1d1+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 19
+Int: 18
+Wis: 6
+Con: 8
+Cha: 16
+Luck: 7
+Race: 3
+E
+#19254
+child~
+a small Child~
+A small child plays in the park.
+~
+She is oblivious to everything around her as she runs around looking
+for fun things to do.    
+~
+72 0 0 0 0 0 0 0 500 E
+30 14 -20 2d6+35 3d3+20
+1050 27376
+8 8 2
+Dex: 20
+Int: 8
+Wis: 21
+Con: 13
+Cha: 13
+Luck: 23
+Race: 14
+E
+#19255
+child~
+a small Child~
+A small child plays in the park.
+~
+He is tired from trying to keep up with the other children and thier
+games.    
+~
+72 0 0 0 0 0 0 0 500 E
+36 18 -20 1d1+70 3d5+24
+1200 43580
+8 8 1
+Str: 21
+Dex: 20
+Int: 20
+Wis: 25
+Con: 15
+Cha: 7
+Luck: 14
+Race: 14
+E
+#19256
+gardener park~
+the Park Gardener~
+The park gardener gardens here.
+~
+Deeply tanned and adept with gardening tools, the Gardener seems to
+love his job.    
+~
+526362 0 0 0 16 0 0 0 -500 E
+77 53 -40 1d1+500 6d7+51
+2850 302878
+8 8 1
+BareHandAttack: 7
+Str: 16
+Dex: 18
+Int: 8
+Wis: 6
+Con: 23
+Cha: 6
+Luck: 14
+Class: 5
+Race: 15
+E
+#19257
+crow~
+a Crow~
+A crow caws at you from a nearby branch.
+~
+The crow is small and sports black feathers.  It's feathers are
+ruffled and not well-groomed.    
+~
+72 0 0 0 0 0 0 0 -150 E
+5 1 80 1d1+70 1d2+3
+0 283
+8 8 0
+BareHandAttack: 8
+Str: 19
+Dex: 17
+Int: 8
+Wis: 13
+Con: 21
+Cha: 13
+Luck: 16
+Race: 3
+E
+#19258
+raven~
+a Raven~
+A raven stares at you blankly.
+~
+Larger than it's cousin, the crow, the Raven is much smarter and knows
+more tricks than it's blank stare seems to reveal.    
+~
+72 0 0 0 0 0 0 0 -150 E
+6 1 76 1d1+70 1d2+4
+0 451
+8 8 0
+BareHandAttack: 8
+Str: 9
+Dex: 16
+Int: 6
+Wis: 15
+Con: 14
+Cha: 16
+Luck: 18
+Race: 3
+E
+#19259
+furry squirrel~
+a furry Squirrel~
+A furry squirrel snacks on an acorn here.
+~
+The squirrel is a bundle of energy, always on the move and lookout for
+possible predators.    
+~
+72 0 0 0 0 0 0 0 -150 E
+3 0 88 1d1+70 1d1+2
+0 77
+8 8 0
+Str: 10
+Dex: 7
+Int: 18
+Wis: 19
+Con: 16
+Cha: 20
+Luck: 14
+Race: 1
+E
+#19260
+flying squirrel~
+a Flying Squirrel~
+A flying squirrel glides from branch to branch.
+~
+Loose flaps of skin stretching from arms to legs allow this squirrel
+to "fly", actually, glide from tree to tree in it's search for food.
+~
+72 0 0 0 8388608 0 0 0 -150 E
+4 0 84 1d1+70 1d2+2
+0 160
+8 8 0
+Str: 16
+Dex: 23
+Int: 13
+Wis: 10
+Con: 7
+Cha: 23
+Luck: 13
+Race: 1
+E
+#19261
+Lavour~
+Lavour the Magician~
+Lavour the Magician stands here.
+~
+You see nothing special.
+~
+559176 0 0 0 2064 0 0 0 0 E
+92 68 -40 1d1+0 6d7+61
+3200 476843
+8 8 1
+BareHandAttack: 15
+Str: 21
+Dex: 8
+Int: 23
+Wis: 10
+Con: 8
+Cha: 14
+Luck: 15
+Class: 1
+Race: 14
+E
+#19262
+Lily~
+Lily the Cleric~
+Lily the Cleric stands here.
+~
+You see nothing special.
+~
+33560648 0 0 0 2064 0 0 0 1000 E
+88 64 -40 1d1+0 6d7+58
+3200 425742
+8 8 2
+BareHandAttack: 7
+Str: 23
+Dex: 6
+Int: 24
+Wis: 12
+Con: 15
+Cha: 16
+Luck: 20
+Class: 2
+Race: 14
+E
+#19263
+Alwin master mage~
+Alwin the Master Mage~
+Alwin the Master Mage goes about his daily business.
+~
+You see nothing special.
+~
+26696 0 0 0 264464 0 0 0 0 E
+115 94 -40 1d1+0 13d13+76
+3500 1010826
+8 8 1
+BareHandAttack: 15
+Str: 18
+Dex: 6
+Int: 17
+Wis: 16
+Con: 15
+Cha: 24
+Luck: 24
+Class: 1
+Race: 14
+E
+#19264
+trent mage~
+Trent the Mage~
+Trent flies about the room here!
+~
+You see nothing special.
+~
+100424 0 0 0 8650768 0 0 0 0 E
+94 71 -40 1d1+0 6d8+62
+3200 554095
+8 8 1
+BareHandAttack: 15
+Dex: 19
+Int: 10
+Wis: 10
+Con: 24
+Cha: 14
+Luck: 24
+Class: 1
+Race: 14
+E
+#19265
+dorian monk~
+a Dorian Monk~
+A Dorian monk sits at the table eating a bowl of soup.
+~
+He wears a white robe with blue trim and has a strange half smile upon
+his face.    
+~
+2058 0 0 0 16 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+BareHandAttack: 6
+Str: 7
+Dex: 8
+Int: 8
+Wis: 8
+Con: 16
+Cha: 13
+Luck: 20
+Class: 8
+Race: 14
+E
+#19266
+dorian apprentice~
+a Dorian Apprentice~
+A Dorian apprentice sits here eating a bowl of soup.
+~
+She wears a white robe with blue trim and has a strange half smile
+upon her face.    
+~
+34858 0 0 0 0 0 0 0 0 E
+65 42 -40 1d1+0 6d6+43
+2250 196628
+8 8 2
+Str: 16
+Dex: 16
+Int: 18
+Wis: 5
+Con: 19
+Cha: 5
+Luck: 15
+Class: 8
+Race: 14
+E
+#19267
+dorian monk~
+a Dorian Monk~
+A Dorian monk stands here, looking sleepy.
+~
+She wear a white robe with blue trim, and although groggy, has a
+strange half smile upon her face.    
+~
+6216 0 0 0 16 0 0 0 0 E
+67 44 -40 1d1+0 6d6+44
+2350 212425
+4 8 2
+BareHandAttack: 5
+Str: 13
+Dex: 21
+Int: 21
+Wis: 6
+Con: 9
+Cha: 25
+Luck: 19
+Class: 8
+Race: 14
+E
+#19268
+dorian apprentice~
+a Dorian Apprentice~
+A Dorian apprentice stands here, looking sleepy.
+~
+He wear a long white robe with blue trim.  And although groggy, he
+wears a strange half smile upon his face.    
+~
+526408 0 0 0 16 0 0 0 0 E
+60 37 -36 1d1+0 5d6+40
+2000 160325
+4 8 1
+Str: 5
+Dex: 12
+Int: 23
+Wis: 25
+Cha: 15
+Luck: 21
+Class: 8
+Race: 14
+E
+#19269
+paladin master guild~
+the Paladin's Guild Master~
+A Paladin stands here, giving a lecture on princess saving.
+~
+You see nothing special.
+~
+55306 0 0 0 2128 0 0 0 1000 E
+170 162 -60 1d1+0 9d10+85
+8500 2282239
+8 8 0
+BareHandAttack: 3
+Str: 19
+Dex: 25
+Int: 20
+Wis: 8
+Con: 23
+Cha: 8
+Class: 6
+Race: 14
+E
+#19270
+cleric master guild~
+the Cleric's Guild Master~
+A Cleric stands in the back of the room, watching the others.
+~
+You see nothing special.
+~
+38922 0 0 0 2128 0 0 0 0 E
+170 162 -60 1d1+0 9d10+85
+8500 2282239
+8 8 0
+BareHandAttack: 5
+Str: 18
+Dex: 15
+Int: 15
+Wis: 12
+Cha: 24
+Luck: 5
+Class: 2
+Race: 14
+E
+#19271
+thief master guild hide shadow~
+the Thieven Guild Master~
+A Thief attempts to hide in the shadows.
+~
+You see nothing special.
+~
+55306 0 0 0 1050704 0 0 0 0 E
+170 162 -60 1d1+0 9d10+85
+8500 2282239
+8 8 0
+BareHandAttack: 14
+Str: 14
+Dex: 23
+Int: 17
+Wis: 21
+Con: 21
+Cha: 12
+Luck: 5
+Class: 4
+Race: 14
+E
+#19272
+dorian apprentice~
+a Dorian Apprentice~
+A Dorian Apprentice roams the city, attempting to do good deeds.
+~
+She is a monk, or at least aspiring to be one.
+~
+6220 0 0 0 16 163840 0 0 0 E
+66 43 -40 1d1+0 6d6+44
+2300 204434
+8 8 2
+BareHandAttack: 9
+Str: 17
+Dex: 14
+Int: 16
+Wis: 24
+Con: 21
+Cha: 10
+Luck: 14
+Class: 8
+Race: 14
+E
+#19273
+light monk~
+a Light Monk~
+A Light Monk stands here teleporting newbies to the newbie zone.
+~
+He's a young monk of the Light Order, this must be part of his twenty
+one years of service to the people.    
+~
+104458 0 0 0 33554768 163840 0 0 0 E
+200 204 -100 1d1+0 15d20+100
+10000 3799580
+8 8 0
+BareHandAttack: 12
+Str: 6
+Dex: 6
+Int: 8
+Wis: 5
+Con: 12
+Cha: 12
+Luck: 16
+Class: 8
+Race: 14
+E
+$

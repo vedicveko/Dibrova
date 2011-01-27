@@ -1,0 +1,273 @@
+#18201
+obj shadowblade blade~
+/cwthe /cLShadowblade/c0~
+/cwA faintly transparent blade forged of /cLshadow /cwlies here./c0~
+~
+5 1583616 0 0 0 8193 0 0 0
+0 0 0 14 1572864 0 0 0
+9 47133 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 20
+#18202
+spear shadowspear~
+/cwthe /cLShadowspear/c0~
+/cwA faintly transparent spear forged of /cLshadow /cwlies here./c0~
+~
+5 1604096 0 0 0 8193 0 0 0
+0 0 0 17 64 0 0 0
+11 38340 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+2 1
+A
+13 20
+#18203
+axe shadowaxe~
+/cwthe /cLshadowaxe/c0~
+/cwA faintly transparent axe forged of /cLshadow /cwlies here./c0~
+~
+5 1718784 0 0 0 8193 0 0 0
+0 0 0 18 65536 0 0 0
+11 39420 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 4
+A
+1 1
+#18204
+obj bracer shadow~
+/cwthe /cLShadowbracer/c0~
+/cwA faintly transparent bracer has been dropped here./c0~
+~
+9 1714688 0 0 0 4097 0 0 0
+6 0 0 0 0 0 0 0
+8 27000 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 1
+A
+26 3
+A
+19 4
+A
+13 15
+#18205
+obj shadow gauntlets~
+the /cLShadow Gauntlets/c0~
+/cwA faintly transparent pair of gauntlets has been dropped here./c0~
+~
+9 1190400 0 0 0 129 0 0 0
+7 0 0 0 20 0 0 0
+9 40906 0 104 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 4
+A
+26 3
+A
+12 20
+A
+2 -3
+A
+6 -2
+#18206
+orb mageorb mage stone~
+/cwa /crmageorb/c0~
+/cwA small stone lies on the ground./c0~
+~
+11 2023425 11 0 0 16385 0 0 0
+0 0 0 0 0 16384 0 0
+4 20353 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 2
+A
+1 -1
+#18207
+orb priestorb priest stone~
+/cwa /ccpriestorb/c0~
+/cwA small glowing stone lies on the ground./c0~
+~
+11 2019330 13 0 0 16385 0 0 0
+0 0 0 0 0 16384 0 0
+4 20353 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 2
+A
+2 -1
+#18208
+mail shadowmail armor shirt~
+/cLShadowmail/c0~
+/cwA faintly transparent mail shirt lies on the ground./c0~
+~
+9 1587712 0 0 0 9 0 0 0
+11 0 0 0 0 0 0 0
+9 39440 0 102 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+19 5
+A
+18 2
+A
+1 2
+A
+13 -30
+A
+6 -2
+#18209
+obj silver ingot~
+/cwa large /ccsilver ingot/c0~
+/cwA large bar of /ccsilver /cwlies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+1200 0 0 0 0 0 0 0
+6 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18210
+obj mold forge~
+/cwa /cLlarge forge/c0~
+/cwA large forge, complete with a mold, stands in the corner,
+connected to the furnace./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18211
+obj silver dagger~
+/cwa /ccsilver /cwdagger/c0~
+/cwA sharp looking /ccsilver dagger /cwlies on the ground./c0~
+~
+5 -2147483648 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+6 18172 0 47 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 3
+A
+13 25
+#18212
+obj sword silver~
+/cwa /ccsilver shortsword/c0~
+/cwA sharp looking silver shortsword lies on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+8 25906 0 67 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 3
+A
+26 -2
+#18213
+obj sword silver~
+/cwa /ccsilver longsword/c0~
+/cwA sharp looking silver longsword lies on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+11 31320 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 4
+A
+2 -2
+#18214
+obj wood stake~
+/cwa /cywooden /cwstake/c0~
+/cwA crude sharpened wooden stake has been carelessly left here./c0~
+~
+5 0 0 0 0 24577 0 0 0
+0 0 0 14 0 0 0 0
+4 16666 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18215
+obj keg~
+/cwa /cywooden keg/c0~
+/cwA large iron-bound wooden keg stands here./c0~
+~
+17 0 0 0 0 0 0 0 0
+90 90 3 0 0 0 0 0
+150 165 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18216
+obj rope~
+/cwa coiled length of rope/c0~
+/cwA mound of rope lies discarded on the floor./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18217
+obj grapple~
+/cwa /cLgrapple/c0~
+/cwA grapple is stuck in the ground here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18218
+obj grapple~
+/cwa /cLgrapple /cwwith /cyrope /cwattached/c0~
+/cwA grapple is stuck in the ground here, attached is some rope hanging over
+the edge of the cliff./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+200 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18219
+obj key silverdale~
+/cwthe key to /ccSilverDale/c0~
+/cwA key is here, half-hidden in the dirt./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18220
+key small~
+/cwa big key/c0~
+/cwA big key lies here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18221
+chest wooden~
+/cwa /cylarge wooden chest/c0~
+/cwA /cylarge wooden chest /cwstands here in a corner./c0~
+~
+15 0 0 0 0 0 0 0 0
+900 15 18220 0 0 0 0 0
+600 50 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18222
+corpse frozen~
+a couple of frozen corpses~
+A couple of frozen bodies lie frozen to the ground.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

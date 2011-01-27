@@ -1,0 +1,1259 @@
+#18000
+box~
+/cma box with your name written on it/c0~
+/cmA box with your name written on its lid lies here./c0~
+~
+15 0 0 0 0 1 0 0 0
+5 5 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18001
+gold~
+/cYsome gold/c0~
+/cYSome gold has been dropped here. Looks like just two bits./c0~
+~
+20 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 2 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18002
+note parchment~
+/cwa note written on a small piece of parchment/c0~
+/cwA note written on a small piece of parchment lies here./c0~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+note parchment~
+The note is addressed to you, and it reads-
+
+"Well done. At least you had the sense to stop and take advantage of the
+token aid given to you. Now I can advise you that you will need to find and
+use several items if you hope to pass trimumphantly through my Deathtrap
+Dungeon. Signed Sukumvit."
+~
+#18003
+large iron bell~
+/cLa large iron bell/c0~
+/cLA large iron bell hangs from the ceiling here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bell~
+Ringing it may be dangerous, so you decide not to.
+~
+#18004
+leather bag~
+/cya leather bag/c0~
+/cyA leather bag lies in the dust here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+5 1 -1 0 0 0 0 0
+4 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18005
+corked earthenware jug~
+/cwa corked earthenware jug/c0~
+/cwA corked earthenware jug rolls about on the floor here./c0~
+~
+10 0 0 0 0 1 0 0 0
+20 16 16 16 0 0 0 0
+2 180 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corked earthenware jug~
+It smells slightly acidic...
+~
+#18006
+club~
+a club~
+A rather crude club has been left here, perhaps intentionally.~
+~
+5 1573376 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+10 6333 0 19 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 -2
+A
+19 2
+#18007
+leather wristband~
+/cya leather wristband from which four small rat skulls hang/c0~
+/cyA leather wristband decorated with small rat skulls lies here./c0~
+~
+11 0 0 0 0 4097 0 0 0
+0 0 0 0 0 0 0 0
+6 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+leather wristband skull skulls~
+It looks like a piece of Hag jewellery, items that are traditionally thought
+to bear terrible curses for anyone who wears them other than the Hag who
+created them. Be careful!
+~
+A
+18 1
+#18008
+large leather backpack~
+/cya large leather backpack/c0~
+/cyA large leather backpack has been abandoned here./c0~
+~
+15 0 0 0 0 2097153 0 0 0
+150 5 0 0 0 0 0 0
+16 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+leather backpack~
+It looks sturdy and dependable.
+~
+#18009
+coin~
+/cYa gold coin/c0~
+/cYA gold coin has been left here. Tsk./c0~
+~
+20 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18010
+water bamboo tube~
+/cya bamboo tube/c0~
+/cyA bamboo tube rests against one wall here./c0~
+~
+17 0 0 0 0 16385 0 0 0
+5 5 0 0 0 0 0 0
+5 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bamboo tube~
+The tube is full of what looks like water.
+~
+#18011
+coil rope~
+/cwa coil of rope/c0~
+/cwA coil of rope lies here. Useless in muds, really./c0~
+~
+9 0 0 0 0 2049 0 0 0
+1 0 0 0 0 0 0 0
+4 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18012
+morning star~
+/cWa morning star/c0~
+/cWA spiked ball attached to a long chain with a wooden handle lies here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 9 0 0 0 0
+12 7980 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+morning star~
+This is a truly wicked weapon.
+~
+A
+1 1
+A
+19 2
+#18013
+hollow wooden tube~
+/cya hollow wooden tube/c0~
+A hollow wooden tube has been discarded here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0 0 0 0 0
+6 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tube~
+This tube would allow you to stay underwater for a brief period.
+~
+#18014
+corpse~
+/crthe corpse of a barbarian/c0~
+/crThe corpse of one of your competitors is impaled on a nasty trap here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100 94 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse~
+This barbarian was impaled on a spiked board that popped up out of
+the floor when he tripped a wire.
+~
+#18015
+spiked board~
+/cya spiked board/c0~
+/cyA spiked board has impaled a barbarian here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+spiked board~
+This cunning trap impales whoever trips the trip wire by springing up from
+the floor and impaling them.
+~
+#18016
+rubbish debris~
+accumulated rubbish and debris~
+Piles of accumulated rubbish and debris litter the floor.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1903 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rubbish debris~
+Doubtless this debris made the tripwire impossible for the barbarian to see.
+~
+#18017
+silver goblet~
+/cwa silver goblet/c0~
+/cwA silver goblet rests in an alcove here./c0~
+~
+10 0 0 0 0 16385 0 0 0
+20 15 15 43 0 0 0 0
+1 240 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+silver goblet~
+It is filled with a red liquid.
+~
+#18018
+pouch~
+a small pouch~
+A small pouch has fallen on the ground here.~
+~
+15 0 0 0 0 1 0 0 0
+5 1 -1 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pouch~
+It appears to be a herb pouch.
+~
+#18019
+herbal meat~
+some herbal meat~
+Some herbal meat has been left here.~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+1 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+herbal meat~
+It smells GOOD!
+~
+#18020
+emerald jewel gem~
+/cGa large emerald/c0~
+/cGA large green jewel lies here, forgotten./c0~
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+emerald jewel gem~
+This looks to be some sort of key...
+~
+#18021
+opal studded dagger~
+/cwan opal-studded dagger/c0~
+/cwAn opal-studded dagger is stuck in the ground here./c0~
+~
+5 532481 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 8212 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+13 10
+#18022
+mirror wall-length~
+/cca wall-length mirror/c0~
+/ccA wall-length mirror is affixed to the wall here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+150 189 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mirror~
+The mirror looks to be firmly attached, though with a bit of effort you are
+sure you could break it free. Looking into it, you notice your image is
+strangely distorted, and you begin to experience a severe headache. Perhaps
+you'd be better off leaving it be...
+~
+#18023
+stone statue~
+/cwa stone statue/c0~
+/cwA stone statue of a paladin stands here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+250 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue paladin~
+The paladin's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+#18024
+stone statue~
+/cwa stone statue/c0~
+/cwA stone statue of a monk stands here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+250 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue monk~
+The monk's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+#18025
+stone statue~
+/cwa stone statue/c0~
+/cwA stone statue of a wizard stands here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+250 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue wizard~
+The wizard's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+#18026
+stone statue~
+/cwa stone statue/c0~
+/cwA stone statue of a thief stands here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+250 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+statue thief~
+The thief's face is contorted in a grimace of pain, as if he had suddenly
+suffered some horrid wound.
+~
+#18027
+ornate helm~
+/cCan ornate helm/c0~
+/cCAn ornate helm rests here. It looks to be centuries old./c0~
+~
+9 1049104 0 0 0 17 0 0 0
+3 0 0 0 0 0 0 0
+5 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+#18028
+bloodstealer sword~
+/cRBloodStealer/c0~
+/cwA dark, /cRbloodstained sword /cwlies upon the ground here./c0~
+~
+5 1577552 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+15 4400 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+19 1
+#18029
+parchment~
+/cwa piece of parchment/c0~
+/cwAn old piece of parchment lies here./c0~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+parchment~
+The parchment bears a sketch of a man-headed lion, with an inscription
+beneath-
+"Should you meet the Manticore,
+ Of its tail beware.
+ Shield yourself against the spikes
+ Flying through the air."
+~
+#18030
+boot leather~
+/cwa pair of /cyleather boots/c0~
+/cyA pair of leather boots rest here./c0~
+~
+9 1049112 0 0 0 65 0 0 0
+5 0 0 0 0 0 0 0
+5 253 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#18031
+cloak~
+/cba tattered cloak/c0~
+/cbA tattered cloak lies neglected on the floor here./c0~
+~
+9 1049112 0 0 0 5 0 0 0
+4 0 0 0 0 0 0 0
+4 2946 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+#18032
+scale mail~
+/cca suit of archaic scale mail/c0~
+/ccThis suit of scale mail must be at least 200 years old.../c0~
+~
+9 1049112 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+10 3200 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#18033
+ring~
+/cMthe ring of Yaegar/c0~
+/cMThis ring is granted by Yaegar to his trusted agents./c0~
+~
+9 1049168 0 0 0 3 0 0 0
+3 0 0 0 0 0 0 0
+3 5279 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 1
+A
+6 -1
+#18034
+mushrooms~
+/cwsome tasty-looking mushrooms/c0~
+Some tasty-looking mushrooms grow here.~
+~
+10 0 0 0 0 1 0 0 0
+20 39 0 0 0 0 0 0
+2 100 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mushrooms~
+They appear to be free of contamination.
+~
+#18035
+short sword~
+/cwa sharp short sword/c0~
+/cwA sharp short sword lies here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+5 6333 0 19 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18036
+spear~
+/cwa short throwing spear/c0~
+A short throwing spear has been thrust into the dirt here.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+3 1333 0 4 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18037
+skull~
+/cwa human skull/c0~
+/cwA human skull rests here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+25 0 -1 0 0 0 0 0
+6 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+skull~
+It appears to contain some yellow stones...
+~
+#18038
+jewel yellow topaz gem~
+/cYa topaz/c0~
+/cYA yellow jewel lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+210 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+topaz~
+Yawn. A semi-precious stone.
+~
+#18039
+jewel yellow topaz gem~
+/cYa topaz/c0~
+/cYA yellow jewel lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+180 0 0 0 0 0 0 0
+1 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+topaz~
+Yawn. A semi-precious stone.
+~
+#18040
+loaded crossbow~
+/cya loaded crossbow/c0~
+/cyA loaded crossbow is aimed fair at you./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+18 5200 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#18041
+marble plinth~
+/cWa marble plinth/c0~
+/cWA marble plinth stands in the center of the room./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0 0 0 0 0
+1000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+plinth~
+It appears to be hollow...
+~
+#18042
+wooden ball red~
+/cra red wooden ball/c0~
+/crA red wooden ball rolls across the floor./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18043
+wooden ball blue~
+/cba blue wooden ball/c0~
+/cbA blue wooden ball rolls across the floor./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18044
+withered hand~
+/cya withered hand/c0~
+A withered hand is nailed to the door here.~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 1 0 0 0 0
+2 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hand~
+It is rather badly decayed.
+~
+#18045
+box~
+/cya wooden box/c0~
+/cyA small wooden box rests here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+10 5 -1 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+box~
+It is covered with slime, and rattles when you shake it.
+~
+#18046
+iron key~
+/cwan iron key/c0~
+/cwAn iron key lies here./c0~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+iron key~
+Despite having spent considerable time in a damp sewer, it is free of
+corrosion.
+~
+#18047
+large gem sapphire~
+/cBa sapphire/c0~
+/cBA large gem lies forgotten here./c0~
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 6 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sapphire gem~
+It appears to be a key of some sort...
+~
+#18048
+axe~
+/cwa broad axe/c0~
+/cwA broad axe lies on the ground./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+16 9120 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 2
+#18049
+loincloth~
+/cya loincloth/c0~
+/cyA loincloth fashioned from bear furs has been dropped here./c0~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0 0 0 0 0
+5 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+loincloth~
+It is badly stained.
+~
+#18050
+fur lined boots~
+/cya pair of fur-lined boots/c0~
+A pair of fur-lined boots, good for walking, rest here.~
+~
+9 0 0 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+8 2712 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+#18051
+throwing dagger~
+/cWa throwing dagger/c0~
+/cWA throwing dagger is stuck in the ground here./c0~
+~
+5 532480 0 0 0 24576 0 0 0
+0 0 0 11 0 0 0 0
+5 4160 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+throwing dagger~
+It is well-balanced.
+~
+A
+18 1
+#18052
+tattoo~
+a /cbTattoo/c0~
+/cwA rough tattoo has been torn from someone's ankle./c0~
+~
+9 0 0 0 0 1048577 0 0 0
+1 0 0 0 0 0 0 0
+1 2419 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tattoo~
+It appears to be some sort of primitive tribal symbol.
+~
+A
+26 1
+#18053
+piece paper brown curled~
+a piece of brown, curled paper~
+A piece of paper, brown and curled with age, is pinned to the wall.~
+~
+13 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 173 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+paper~
+A message written in blood says- "BEWARE THE TRIALMASTERS".
+~
+#18054
+red leather bound book~
+/cra red leather-bound book/c0~
+/crA dusty red leather-bound book rests on a stone ledge here./c0~
+With a loud POOF! the book disappears forever!
+~
+2 65548 0 0 0 16385 0 0 0
+23 36 0 0 0 0 0 0
+5 872 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+red leather book~
+It is an ancient treatise on the nature of Bloodbeasts, and may be worth no
+small amount to a dealer in such items.
+~
+#18055
+black leather bound book~
+/cLa black leather-bound book/c0~
+/cLA dusty black leather-bound book rests on a stone ledge here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+2 8 -1 0 0 0 0 0
+10 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+black leather book~
+Upon closer examination, you notice that this "book" is in fact hollow,
+with the pages having been cut out and stuck together to form a storage
+cache.
+~
+#18056
+corked bottle~
+/cca small corked bottle/c0~
+/ccA small corked bottle containing a clear liquid lies here./c0~
+~
+10 67174476 0 0 0 16385 0 0 0
+20 19 20 44 0 0 0 0
+1 2080 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bottle~
+It is a long, narrow affair, much like a test tube.
+~
+E
+liquid~
+You tell me!
+~
+#18057
+bone ring talisman~
+/cwa bone ring/c0~
+/cwA bone ring has been dropped here./c0~
+~
+9 263232 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+3 4900 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bone ring~
+It is engraved with symbols that identify it as some sort of Druidic
+talisman.
+~
+A
+1 1
+#18058
+leather pouch~
+/cya small leather pouch/c0~
+A small leather pouch lies nearby.~
+~
+15 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+3 6 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pouch~
+It wouldn't hold very damn much.
+~
+#18059
+wicker basket~
+/cya wicker basket/c0~
+A wicker basket, much like those used by snake charmers, rests here.~
+~
+15 0 0 0 0 1 0 0 0
+25 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18060
+crossbow light~
+/cwa light crossbow/c0~
+A light crossbow, cocked and ready to fire, has been left here.~
+~
+5 524288 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+5 3812 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#18061
+dwarven mail finely made chainmail~
+/cca suit of finely-made chainmail/c0~
+A suit of Dwarven mail lies here.~
+~
+9 0 9 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+8 6159 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dwarven mail armor~
+It affords excellent protection to its wearer.
+~
+A
+18 2
+#18062
+guiness~
+/cLa pint of guiness/c0~
+A pint of guiness foams away here.~
+~
+17 0 0 0 0 16385 0 0 0
+2 2 25 0 0 0 0 0
+7 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+guiness stout~
+It's fockin' good!
+~
+#18063
+roast meal~
+/cLa roast meal/c0~
+A steaming meal of vegetables and beef sits here.~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+3 96 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+roast meal~
+It looks and smells delicious.
+~
+#18064
+casket~
+/cya wooden casket/c0~
+A small wooden casket rests here.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0 0 0 0 0
+2 666 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+casket~
+It rattles when you shake it.
+~
+#18065
+velvet bag~
+/cma velvet bag/c0~
+/cmA velvet bag lies here, forgotten./c0~
+~
+15 0 0 0 0 1 0 0 0
+5 0 -1 0 0 0 0 0
+1 3 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+velvet bag~
+It is very finely embroidered.
+~
+#18066
+large pearl~
+/cWa large pearl/c0~
+/cWA large pearl, fresh from the sea, rests here./c0~
+~
+20 0 0 0 0 1 0 0 0
+300 0 0 0 0 0 0 0
+1 10 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pearl~
+It is large but probably not as valuable as you may think.
+~
+#18067
+crown~
+/cMa crown/c0~
+/cMA crown set with magnificent jewels sparkles here./c0~
+~
+11 0 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+1 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crown~
+Upon closer inspection, you notice that the "jewels" are in fact cheap glass
+and paste.
+~
+#18068
+plate food~
+a plate of food~
+A plate of food sits here, untouched.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+1 24 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18069
+tray~
+/cwa serving tray/c0~
+/cwA heavy serving tray has been dropped here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+50 0 -1 0 0 0 0 0
+10 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tray~
+It weighs a lot, and would doubtless do someone an injury if you hit them
+on the head with it.
+~
+#18070
+glass water~
+/cca glass of water/c0~
+/ccA glass of water sits here./c0~
+~
+17 0 0 0 0 16385 0 0 0
+1 1 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18071
+chair bird~
+/cba chair/c0~
+/cbA chair carved in the shape of a grotesque bird sits near one wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0 0 0 0 0
+1000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chair~
+You notice a small panel which may slide open...
+~
+#18072
+glass phial~
+/cca glass phial/c0~
+/ccA glass phial rests here./c0~
+~
+10 67174476 0 0 0 16385 0 0 0
+25 89 0 0 0 0 0 0
+1 355 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18073
+helm winged~
+/cwa magnificent winged helm/c0~
+/cwA magnificent winged helm rests on a stick here./c0~
+~
+9 265217 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+5 3380 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+helm winged~
+It is truly magnificent. The stuff of legend, really.
+~
+A
+2 1
+#18074
+west cherub fountain~
+/cWa fountain carved in the shape of a cherub/c0~
+/cWA fountain carved in the shape of a cherub rests near the west wall./c0~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 0 0 0 0 0 0
+10000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fountain~
+The water looks cool and refreshing.
+~
+#18075
+east cherub fountain~
+/cWa fountain carved in the shape of a cherub/c0~
+/cWA fountain carved in the shape of a cherub rests near the east wall./c0~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 14 0 0 0 0 0
+10000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fountain~
+The water looks cool and refreshing.
+~
+#18076
+dagger small~
+/cwa dagger/c0~
+/cwA small dagger is stuck in the ground here./c0~
+~
+5 532480 8 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 2080 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dagger~
+It is of elven make.
+~
+A
+18 1
+#18077
+snake skin~
+/cGa snake skin/c0~
+/cGThis skin would make a funky-ass belt./c0~
+~
+9 0 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18078
+elven boots~
+/cca pair of elven boots/c0~
+/ccA pair of soft elven boots lie here./c0~
+~
+9 0 11 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+7 2859 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#18079
+metal grille~
+/cLa metal grille/c0~
+/cLA metal grille is set in the floor here./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 -1 0 0 0 0 0
+10000 666 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+grille~
+You fancy you can see something shiny within.
+~
+#18080
+grappling iron~
+/cLa grappling iron/c0~
+/cLA grappling iron has been left here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+8 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+grappling iron~
+This would make a simple but effective weapon.
+~
+#18081
+chest~
+/cYa large oak chest/c0~
+/cYA large oak chest bound with bands of iron rest here./c0~
+~
+15 0 0 0 0 0 0 0 0
+500 5 -1 0 0 0 0 0
+100 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chest~
+It looks rather heavy but you think you could lift it.
+~
+#18082
+pendant~
+/cwa silver pendant/c0~
+/cwA silver pendant, once set with a stone now long gone, lies here./c0~
+~
+20 0 0 0 0 5 0 0 0
+155 0 0 0 0 0 0 0
+3 250 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pendant~
+Even without the gem the silver is worth a fair bit.
+~
+#18083
+large golden effigy~
+/cYa large golden effigy/c0~
+/cYA large golden effigy that serves as a Troglodyte totem stands tall here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+effigy~
+Its kinda hard to describe. Grab a copy of Deathtrap Dungeon and check out
+the picture with reference 230. ;)
+~
+#18084
+stone axe crude~
+/cwa crude stone axe/c0~
+/cwA crude stone axe has been left here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+7 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18085
+crude wooden spear~
+/cya crude wooden spear/c0~
+A crude wooden spear.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 17 0 0 0 0
+5 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18086
+loincloth stained~
+a stained lioncloth~
+A Troglodyte's stained loincloth lies here, unwanted!~
+~
+9 16 0 0 0 2049 0 0 0
+1 0 0 0 0 0 0 0
+3 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+loincloth~
+DON'T wear THAT!
+~
+#18087
+dust magic~
+/cWmagic dust/c0~
+/cWSome magic dust floats about here./c0~
+$n tosses some dust into the air, which vanishes from sight!
+~
+4 67174477 0 0 0 16385 0 0 0
+15 1 1 56 0 0 0 0
+1 28145 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18088
+pair green boots~
+/cGa pair of green boots/c0~
+/cGA pair of green boots with bright gold buckles have been left here./c0~
+~
+9 263232 0 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+3 3206 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#18089
+brown belt~
+/cya brown belt with a gold buckle/c0~
+A brown belt with a shiny gold buckle has been dropped here.~
+~
+9 263232 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+2 5180 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+13 10
+#18090
+green breeches~
+/cGa pair of sturdy green breeches/c0~
+A pair of sturdy green breeches have been neatly folded up here.~
+~
+9 263232 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+5 2493 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+4 -1
+#18091
+green tunic~
+/cGa bright green tunic/c0~
+A homespun bright green tunic has been hung from a hook here.~
+~
+9 263232 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+4 7233 0 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 25
+A
+23 -1
+A
+24 -1
+#18092
+pipe~
+/cwa pipe/c0~
+/cwA pipe smokes away here./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+3 10 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 -1
+#18093
+green hat~
+/cGa green hat with a gold buckle/c0~
+/cGA green puritan style hat with a gold buckle sits here./c0~
+~
+9 263232 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+3 4986 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#18094
+leather backpack~
+/cya leather backpack/c0~
+A magical leather backpack rest here, half-open.~
+~
+15 0 0 0 0 2097153 0 0 0
+165 1 -1 0 0 0 0 0
+9 0 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#18095
+unleavened bread~
+/cysome elven unleavened bread/c0~
+A loaf of elven bread sits here.~
+~
+19 64 0 0 0 1 0 0 0
+21 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+elven bread~
+Elven bread is rumored to have magical qualities.
+~
+#18096
+mirror silvered~
+/cwa small silvered mirror/c0~
+/cwA small silvered mirror rests here./c0~
+A wicked ray of energy leaps forth from the polished surface of the mirror!
+~
+3 64 0 0 0 16385 0 0 0
+25 10 10 4 0 0 0 0
+5 5125 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18097
+bone monkey charm~
+/cwa bone monkey charm/c0~
+A bone monkey charm attached to a leather thong has been discarded here.~
+~
+9 49216 0 0 0 5 0 0 0
+3 0 0 0 0 0 0 0
+6 3080 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 15
+#18098
+leather pouch~
+a small leather pouch~
+A small leather pouch has fallen on the ground here.~
+~
+15 0 0 0 0 2049 0 0 0
+15 5 -1 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18099
+tiny brass bell~
+/cya tiny brass bell/c0~
+A tiny brass bell rests here.~
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 2419 0 11 -1 -1 -1 -1 -1 -1
+-1 0 0 0 0 0 0 0 0
+E
+tiny brass bell~
+?
+~
+A
+6 1
+$~

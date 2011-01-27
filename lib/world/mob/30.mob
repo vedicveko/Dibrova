@@ -1,0 +1,1696 @@
+#3000
+wizard~
+the Wizard~
+A wizard walks around behind the counter, talking to himself.
+~
+The wizard looks old and senile, and yet he looks like a very powerful
+wizard.  He is equipped with fine clothing, and is wearing many fine
+rings and bracelets.
+~
+26651 0 0 0 80 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Class: 1
+Race: 14
+E
+T 3002
+#3001
+baker~
+the Baker~
+The baker looks at you calmly, wiping flour from his face with one hand.
+~
+A fat, nice looking baker.  But you can see that he has many scars on his
+body.
+~
+26651 0 0 0 80 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 16
+Luck: 12
+Race: 14
+E
+#3002
+grocer~
+the Grocer~
+A grocer stands at the counter, with a slightly impatient look on his face.
+~
+A tall grocer, who moves two 200 pounds bag of flour around on his shoulders.
+~
+26651 0 0 0 16 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 20
+Luck: 12
+Race: 14
+E
+#3003
+weaponsmith~
+the Weaponsmith~
+A weaponsmith is standing here.
+~
+He is a young weaponsmith, who still has lots to learn but he is still
+eager to sell you his latest implements of carnage and destruction.
+~
+26651 0 0 0 16 0 0 0 900 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 17
+Luck: 12
+Race: 14
+E
+#3004
+armourer~
+the Armourer~
+An armourer stands here displaying his new (and previously owned) armours.
+~
+An old but very strong armourer.  He has made more suits of armour in his
+life than you have ever seen.
+~
+26651 0 0 0 80 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 13
+Luck: 12
+Race: 14
+E
+#3005
+receptionist~
+the Receptionist~
+A receptionist is standing behind the counter here, smiling at you.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+59419 0 0 0 65616 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 15
+Luck: 12
+Class: 11
+Race: 7
+E
+#3006
+captain stolar~
+Captain Stolar~
+A retired captain stands here, selling boats.
+~
+This captain has eaten more sharks than you have killed peas.
+~
+26651 0 0 0 8 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Class: 4
+Race: 14
+E
+#3007
+sailor~
+the Sailor~
+A sailor stands here, waiting to help you.
+~
+He looks like a strong, fit sailor.
+~
+26634 0 0 0 0 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Race: 14
+E
+#3008
+uncle juan~
+Uncle Juan~
+Uncle Juan is here ready to take your order.
+~
+He looks like he may or may not have a green card.
+~
+26651 0 0 0 0 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 15
+Luck: 12
+Race: 14
+E
+#3009
+wally watermaster~
+Wally the Watermaster~
+Wally the Watermaster is standing behind the counter.
+~
+Wally is a bit pudgy but looks very strong.  He has a glass of
+Midgaard Natural Spring Water in his hand.  When he notices you, he
+proudly displays his fine collection of contemporary waters.    
+~
+26651 0 0 0 16 0 0 0 800 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Race: 14
+E
+#3010
+postmaster post master~
+the Postmaster~
+The head postmaster is standing here, waiting to help you with your mail.
+~
+The Postmaster seems like a happy old man, though a bit sluggish.  He
+worries about the reputation of the MMS (Midgaard Mail Service), as
+many people seem to think that it is slow.  Perhaps if he were to
+brush the cobwebs from his uniform it would help to make a better
+impression.    
+~
+190491 0 0 0 65552 0 0 0 1000 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 20
+Luck: 12
+Race: 14
+E
+#3011
+man young sullen~
+a sullen young Man~
+A young man with a bag slung over one shoulder sullenly picks up trash.
+~
+He was caught trying to peep in on the baker's wife while she was
+changing her clothes.  A cityguard just happened to be passing by and
+noticed the peeping tom at the window and promptly escorted him to the
+Midgaard jails where he was sentenced to a month of community service.
+~
+76 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+5 283
+8 8 1
+Str: 16
+Dex: 15
+Int: 12
+Wis: 9
+Con: 22
+Cha: 14
+Luck: 15
+Race: 14
+E
+T 3001
+T 3004
+#3012
+girl young braided hair~
+a young Girl~
+A young girl with braided pigtails hums happily as she cleans the garbage from the streets.
+~
+She learned all about being an earthfriend in her school, and about
+how one person can make a difference.  She decided that even if no one
+else in her class would help, she would be that one person and she
+would make a difference.    
+
+Whatever.
+~
+76 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+5 283
+8 8 2
+Str: 19
+Dex: 9
+Int: 15
+Wis: 20
+Con: 15
+Cha: 5
+Luck: 16
+Race: 14
+E
+#3015
+hannibal~
+Hannibal~
+Hannibal stands quietly in the back of the room.
+~
+He stands mostly in the shadows, however it is obvious even from here
+that he is a dangerous gentleman, a cunning man who has seen many die
+under his thumb.    
+
+It would likely be best for both of you if you did your business quickly
+and went on your way.
+~
+27 0 0 0 67108864 0 0 0 -900 E
+200 204 -100 1d1+0 40d45+133
+0 3626872
+8 8 1
+Str: 7
+Dex: 21
+Int: 9
+Wis: 25
+Con: 18
+Cha: 10
+Luck: 22
+Class: 3
+Race: 14
+E
+#3020
+guildmaster master mage~
+the Mages' Guildmaster~
+Your guildmaster is studying a spellbook while preparing to cast a spell.
+~
+Even though your guildmaster looks old and tired, you can clearly see
+the vast amount of knowledge she possesses.  She is wearing fine magic
+clothing, and you notice that she is surrounded by a blue shimmering
+aura.    
+~
+755723 0 0 0 80 33685504 0 0 1000 E
+200 204 -100 1d34+2375 40d45+133
+7500 3454164
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Class: 1
+Race: 14
+E
+#3021
+guildmaster master priest~
+the Priests' Guildmaster~
+Your guildmaster is prayer to your God here.
+~
+You are in no doubt that this guildmaster is truly close to your God;
+he has a peaceful, loving look.  You notice that he is surrounded by a
+white aura.    
+~
+739339 0 0 0 80 33685504 0 0 1000 E
+200 204 -100 1d34+2375 40d45+133
+7500 3454164
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 20
+Luck: 12
+Class: 2
+Race: 14
+E
+#3022
+guildmaster master beggar thief~
+the Thieves' Guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guildmaster moves, you fail to notice
+it - the way of the true thief.  She is to be dressed in poor
+clothing, having the appearance of a beggar.    
+~
+755723 0 0 0 80 33685504 0 0 1000 E
+200 204 -100 1d34+2375 40d45+133
+7500 3454164
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 8
+Luck: 12
+Class: 4
+Race: 14
+E
+#3023
+guildmaster master~
+the Fighter's Guildmaster~
+Your guildmaster is standing here sharpening an axe.
+~
+This is your master.  Big and strong with bulging muscles.  Several
+scars across his body proves that he was using arms before you were
+born.  He has a calm look on his face.    
+~
+755723 0 0 0 80 33685504 0 0 1000 E
+200 204 -100 1d55+6600 40d45+133
+7500 3454164
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 14
+Luck: 12
+Class: 4
+Race: 14
+E
+#3024
+sorceror~
+the Sorceror~
+A sorceror is guarding the entrance.
+~
+He is an experienced mage who has specialized in the field of Combat
+Magic.  He is here to guard the Sorceror's Guild and his superior
+knowledge of offensive as well as defensive spells make him a deadly
+opponent.    
+~
+59403 0 0 0 336 131072 0 0 900 E
+200 204 -100 1d33+2350 40d45+133
+7500 3799580
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 17
+Luck: 12
+Class: 1
+Race: 14
+E
+#3025
+knight templar~
+the Knight Templar~
+A knight templar is guarding the entrance.
+~
+He is a specially trained warrior belonging to the military order of
+the Faith.  His duty is to protect the faithful from persecution and
+infidel attacks and his religious devotion combined with his superior
+skill makes him a deadly opponent.    
+~
+59403 0 0 0 336 131072 0 0 1000 E
+200 204 -100 1d33+2350 40d45+133
+7500 3799580
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 25
+Luck: 12
+Class: 6
+Race: 14
+E
+#3026
+assassin~
+the Assassin~
+An assassin is guarding the entrance.
+~
+He is a thief who has specialized in killing others as effectively as
+possible, using all sorts of weapons.  His superior knowledge of how
+and where to use them combined with his extraordinary stealth makes
+him a deadly opponent.    
+~
+59403 0 0 0 1573200 131072 0 0 0 E
+200 204 -100 1d33+2350 40d45+133
+7500 3799580
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Class: 4
+Race: 14
+E
+#3027
+knight~
+the Knight~
+A knight is guarding the entrance.
+~
+He is an expert warrior who has attained knighthood through countless
+chivalrous deeds.  His duty is to protect the Guild of Swordsmen and
+his extreme skill combined with his experience in warfare makes him a
+deadly opponent.    
+~
+59403 0 0 0 336 131072 0 0 0 E
+200 204 -100 1d33+2350 40d45+133
+7500 3799580
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 17
+Luck: 12
+Class: 6
+Race: 14
+E
+#3028
+fellow patron~
+a frequent Patron~
+A crude fellow stands here, a frequent patron of this bar.
+~
+Slobber dribbles down his unkempt shirt and he looks like he hasn't
+showered in days!    
+~
+10 0 0 0 0 0 0 0 -389 E
+3 0 88 1d1+0 1d1+2
+5 77
+8 8 1
+BareHandAttack: 13
+Str: 23
+Dex: 8
+Int: 16
+Wis: 14
+Con: 13
+Cha: 9
+Luck: 23
+Race: 14
+E
+#3030
+boy stone tender~
+a young Stone-tender~
+A young boy hunches over the stones, pouring water when the room needs it.
+~
+He is a boy of the dregs, one who's income from this pittance of a job
+is depending upon by his family, who barely makes enough to live in
+the gypsy camp just outside of town.  He looks up at you through dirty
+strands of hair and gives you a kind smile.  He pours more water upon
+the stones.    
+~
+10 0 0 0 0 0 0 0 900 E
+5 1 80 1d1+0 1d2+3
+5 283
+8 8 1
+Str: 6
+Dex: 20
+Int: 24
+Wis: 18
+Con: 8
+Cha: 8
+Luck: 19
+Race: 14
+E
+#3031
+haangar trainer~
+Haangar~
+Haangar gives you a curt nod, ready to train your mounting skills.
+~
+He is very tan, his skin leathered and chapped from countless hours in
+the sun.    
+~
+11 0 0 0 0 0 0 0 0 E
+35 17 -20 1d1+0 3d6+17
+0 40559
+8 8 1
+Str: 22
+Dex: 24
+Int: 21
+Wis: 7
+Con: 19
+Cha: 5
+Luck: 18
+Race: 14
+E
+#3040
+bartender~
+the Bartender~
+A bartender watches you calmly, while he skillfully mixes a drink.
+~
+A tired looking Bartender who hates trouble in his bar.
+~
+24586 0 0 0 0 0 0 0 900 E
+24 10 4 1d24+1800 2d4+12
+750 15497
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+Class: 11
+Race: 14
+E
+#3041
+waiter~
+the Waiter~
+A waiter is going around from one place to another.
+~
+A tired looking waiter.
+~
+24586 0 0 0 0 0 0 0 900 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 16
+Luck: 12
+Race: 14
+E
+#3042
+waiter~
+the Waiter~
+A man now leads a quiet, peaceful life as a waiter is standing here.
+~
+This man was obviously a famous sorcerer in his younger days as you
+instantly recognize his face.
+~
+24586 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 12
+Luck: 12
+Race: 14
+E
+#3043
+waiter~
+the Waiter~
+A waiter who seems to have reached contact with his God is standing here.
+~
+This waiter almost makes you feel like you should drop to your knees
+and begin to worship your God.  Naaah.
+~
+24586 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 12
+Luck: 12
+Race: 14
+E
+#3044
+waiter~
+the Waiter~
+A waiter who knows where all his customers keep their money is standing here.
+~
+Hmmm... wonder where he got that coin he is playing with.
+~
+24586 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 19
+Luck: 12
+Race: 14
+E
+#3045
+waiter~
+the Waiter~
+A waiter is here.
+~
+This guy looks like he could easily kill you while still carrying
+quite a few firebreathers.
+~
+24586 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 2d4+11
+700 13903
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 19
+Luck: 12
+Race: 14
+E
+#3046
+filthy~
+Filthy~
+Filthy is standing here, eager to serve you a special drink.
+~
+Filthy looks real, ehm, dirty.  He likes to keep his customers happy,
+but do not mess with him or else he'll get upset.
+~
+26650 0 0 0 16 0 0 0 600 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 17
+Luck: 12
+Class: 11
+Race: 14
+E
+#3058
+lord nelvaar~
+Lord Nelvaar the Protector~
+Lord Nelvaar stands vigil, protecting the realm against intrusion.
+~
+His steely gaze meets yours as he gives you a curt nod.
+
+'Be well', he says.
+
+Nelvaar crosses his arms and resumes his posture of vigilance.
+
+~
+253966 0 0 0 0 0 0 0 0 E
+50 29 -28 1d50+6000 4d5+25
+2500 100714
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 23
+Luck: 12
+Class: 4
+Race: 14
+E
+#3059
+keeper peacekeeper~
+the Peacekeeper~
+A Peacekeeper is standing here, ready to jump in at the first sign of trouble.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+89 0 0 0 16 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 10
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 22
+Luck: 12
+Class: 10
+Race: 14
+E
+#3060
+cityguard guard~
+the Cityguard~
+A cityguard stands here.
+~
+A big, strong, helpful, trustworthy guard.
+~
+73 0 0 0 2064 0 0 0 1000 E
+15 5 40 1d16+600 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 3
+Str: 24
+Dex: 21
+Int: 16
+Wis: 13
+Con: 25
+Cha: 20
+Luck: 16
+Class: 10
+Race: 14
+E
+#3061
+janitor~
+the Janitor~
+A janitor is walking around, cleaning up.
+~
+What a tough job he has.
+~
+2121 0 0 0 0 0 0 0 800 E
+2 0 92 1d2+15 1d1+1
+5 27
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+Race: 14
+E
+#3062
+fido dog~
+the beastly Fido~
+A beastly fido is mucking through the garbage looking for food here.
+~
+The fido is a small dog that has a foul smell and pieces of rotted meat
+hanging around his teeth.
+~
+65737 0 0 0 65536 0 0 0 -200 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 1
+BareHandAttack: 4
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+Race: 1
+E
+T 3062
+#3063
+mercenary~
+the Mercenary~
+A mercenary is waiting for a job here.
+~
+He looks pretty mean, and you imagine he'd do anything for money.
+~
+2058 0 0 0 0 0 0 0 -330 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 12
+Class: 3
+Race: 14
+E
+#3064
+drunk~
+the Drunk~
+A singing, happy Drunk.
+~
+A drunk who seems to be too happy, and to carry too much money.
+~
+10 0 0 0 0 0 0 0 400 E
+2 0 92 1d2+15 1d1+1
+5 27
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 8
+Luck: 12
+Race: 14
+E
+T 3090
+#3065
+beggar~
+the Beggar~
+A beggar is here, asking for a few coins.
+~
+The beggar looks like she is fed up with life.
+~
+10 0 0 0 80 0 0 0 400 E
+1 0 96 1d1+10 1d1+0
+5 4
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 20
+Luck: 12
+Race: 14
+E
+#3066
+odif yltsaeb~
+the Odif Yltsaeb~
+An odif yltsaeb is here, walking backwards.
+~
+The odif is a small god that has been reversed by some dog.
+~
+65769 0 0 0 65536 0 0 0 -200 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 6
+Luck: 12
+Race: 1
+E
+#3067
+cityguard guard~
+the Cityguard~
+A cityguard is here, guarding the gate.
+~
+A big, strong, helpful, trustworthy guard.
+~
+4171 0 0 0 0 0 0 0 1000 E
+15 5 40 1d13+350 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 24
+Dex: 21
+Int: 18
+Wis: 16
+Con: 25
+Cha: 14
+Luck: 18
+Class: 10
+Race: 14
+E
+#3068
+blob green gelatinous~
+the green gelatinous Blob~
+An oozing green gelatinous blob is here, sucking in bits of debris.
+~
+A horrid looking thing; it is huge, greenish, and looks like the blob.
+~
+256217 0 0 0 16 0 0 0 0 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 0
+BareHandAttack: 6
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 19
+Luck: 12
+E
+#3069
+Healer Wizard Magic~
+/cwThe Wandering Magic /cPHealer/c0~
+/cWA wandering /cPHealer /cWstands here contemplating what's beyond the stars./c0
+~
+His magic spells make your mouth drop as though you just entered a
+realm of forgiving peace.  He is the most understanding healer you
+have ever meet.  His cloak of woven silk hangs to the ground but
+manages to hover above the hungry dirt.  As he looks around his white
+hair shines in the sun.  You must follow him to be fully undemonized
+and brought back to the peace you once where born into.    
+~
+221193 0 0 0 0 0 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 0
+BareHandAttack: 12
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 25
+Luck: 12
+Class: 2
+Race: 14
+E
+#3070
+guildmaster ranger~
+the Ranger's Guildmaster~
+A man slowly materializes into view from next to the tree and stands regarding you with intent eyes.
+~
+He stands so still, so poised and ready for anything.  Nothing about
+his stance or facial expression gives any indication about what he is
+thinking or about to do.  This man is the ultimate ranger.    
+~
+755722 0 0 0 80 33685504 0 0 500 E
+200 204 -100 1d50+6000 40d45+133
+7500 3454164
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 9
+Luck: 12
+Class: 5
+Race: 14
+E
+#3071
+guard guild druid~
+the Guard for the Druid's Guild~
+A man stands against the wall, leaning on one leg and looking bored.
+~
+He looks like he'd be much happier blazing a trail somewhere out in
+the wilds of Dibrova, somewhere far away from all these City Folk.  
+~
+190474 0 0 0 336 131072 0 0 0 E
+200 204 -100 1d50+6000 40d45+133
+7500 3799580
+8 8 1
+BareHandAttack: 14
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 6
+Luck: 12
+Class: 5
+Race: 14
+E
+#3072
+guard guild paladin~
+the Paladin Guild Guard~
+A large man in full armor stands at attention here.
+~
+You attempt to give him a good once over, and in the course of your
+scrutiny, he never once blinks or flinches.    
+~
+2058 0 0 0 2384 131072 0 0 1000 E
+200 204 -100 1d50+6000 40d45+133
+7500 3799580
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 5
+Luck: 12
+Class: 6
+Race: 14
+E
+#3073
+guildmaster master paladin~
+the Paladins' Guildmaster~
+Your Guildmaster awaits your need here.
+~
+With his hands clasped behind him, a serene expression on his face, he
+is the picture of eternal patience.    
+~
+755722 0 0 0 80 33685504 0 0 1000 E
+200 204 -100 1d50+6000 40d45+133
+7500 3454164
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 23
+Luck: 12
+Class: 6
+Race: 14
+E
+#3074
+death knight guild guard~
+the Deathknight Guildguard~
+A massive woman, draped in pitch black chain mail, stands motionless.
+~
+The guard, with head bowed downward, only moves his eyes to watch you
+from his position.  He makes no attempt to move to block you.  You
+take a step toward the guild entrance, only to be stopped by a well
+placed blow to your chest.  You stumble back, reeling in the pain from
+the hit.  "Name, affiliation.  " are the only words you hear as you
+step backward.    
+~
+190474 0 0 0 336 131072 0 0 -1000 E
+200 204 -100 1d50+6000 40d45+133
+7500 3799580
+8 8 0
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 12
+Class: 9
+Race: 14
+E
+#3075
+death knight guildmaster~
+the Death Knight Guildmaster~
+A guildmaster sits before you, practicing moves mentally.
+~
+The guildmaster senses your presence, and motions for you to sit down.
+Your training starts mentally as well a physically.    
+~
+755722 0 0 0 64 33685504 0 0 -1000 E
+200 204 -100 1d50+6000 40d45+133
+7500 3454164
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 10
+Luck: 12
+Class: 9
+Race: 14
+E
+#3076
+undefined~
+the Monk Guild Guard~
+A man stands here quietly, his hands folded into the volumous robe he wears.
+~
+You cannot see into the dark depths of his hood, he could be looking
+at you or past you, or even have his eyes closed...  You'd never know.
+~
+59402 0 0 0 2384 131072 0 0 0 E
+200 204 -100 1d50+6000 40d45+133
+7500 3799580
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 21
+Luck: 12
+Class: 8
+Race: 14
+E
+#3077
+master guildmaster monk~
+the Monk Guildmaster~
+Your Guildmaster awaits your bidding.
+~
+He has the look of complete understanding, of all knowledge.    
+~
+755722 0 0 0 80 33685504 0 0 0 E
+200 204 -100 1d50+6000 40d45+133
+7500 3454164
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 10
+Luck: 12
+Class: 8
+Race: 14
+E
+#3078
+doctor woman~
+the Doctor~
+An alluring young woman stands smiling at you in a tight white doctor's coat.
+~
+She does not exactly look the type who would heal wounds all that
+efficiently or even correctly, but she is gorgeous - so who cares!  
+~
+16458 0 0 0 0 0 0 0 900 E
+50 29 -28 1d50+6000 4d5+25
+2500 100714
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 8
+Luck: 12
+Class: 2
+Race: 14
+E
+#3079
+warren~
+Warren~
+Warren stumbles about, looking for his baseball.
+~
+He holds one hand up in front of him, fingers all slightly cocked -
+each at a different angle.  He wears a bright red jacket with the
+letters 'W-A-R-R-E-N' stenciled in white on the back.    
+He wants his baseball.
+Have you seen his baseball?
+~
+125148 0 0 0 80 4 0 0 500 E
+45 25 -24 1d1+0 4d5+30
+0 76985
+8 8 1
+Str: 25
+Dex: 21
+Int: 24
+Wis: 24
+Con: 23
+Cha: 18
+Luck: 24
+Race: 14
+E
+T 3005
+T 3008
+#3080
+newbie helper Salhantrah~
+Salhantrah the Newbie Helper~
+Salhantrah the Newbie Helper waits here, teleporting newbies to the Newbie Headquarters.
+~
+Salhantrah smiles gently at you and says, '/crIf you wish to go to the
+Newbie Headquarters, simply type /cCNEWBIE /crand it shall happen.  
+/c0
+~
+81931 0 0 0 256 131072 0 0 0 E
+200 204 -100 1d100+12000 40d45+133
+7500 3799580
+8 8 2
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Race: 14
+E
+T 3000
+#3081
+Imoen Theif Guide~
+Imoen~
+Imoen, the thieven guide moves amid the shadows.
+~
+Standing roughly five foot tall, Imoen is a very attractive girl of
+around 21 years.  Born in Silverthron, she traveled to Jareth at a
+young age where she was raised, now she spends her time working for
+the Thieven Guild of Midgaard, assisting and guideing young thiefs
+whom are new to the city.    
+~
+256026 0 0 0 536938576 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1907422
+8 8 2
+Str: 8
+Dex: 7
+Int: 25
+Wis: 21
+Con: 15
+Cha: 17
+Luck: 10
+Class: 14
+E
+T 3081
+T 3082
+T 3083
+T 3032
+#3082
+guide kaaylia druid~
+Kaaylia~
+Kaaylia wonders about, giving a tour.
+~
+Kaaylia stands tall and proud in front of you, clothed merely in a
+olive frock, she carries a undersized harness in the region of her
+waist holding a dagger and numerous pouches, her face looks
+affectionately at you as you study her charismatic looks, a sense of
+nature and magnificence surround her.    
+~
+253962 0 0 0 536870912 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1907422
+8 8 2
+Str: 6
+Dex: 21
+Int: 13
+Wis: 20
+Con: 16
+Cha: 14
+Luck: 25
+Race: 14
+E
+T 3028
+T 3029
+T 3030
+T 3032
+#3083
+Elenydd Sorcerer Guide~
+Elenydd~
+Elenydd floats around the room, it appears quiet strange.
+~
+Elenydd is clothed in nothing but a deep crimson shawl, at least this
+is all you can perceive for it is wrapped about him from head to toe,
+glancing downwards at his toes you observe that he is floating about
+an inch from the ground, it does appear rather strange, a brightly
+glowing golden belt is attached around his waist.    
+~
+253962 0 0 0 536870912 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1907422
+8 8 1
+Str: 18
+Dex: 17
+Int: 14
+Wis: 20
+Con: 10
+Cha: 8
+Luck: 18
+Race: 14
+E
+T 3013
+T 3014
+T 3015
+T 3032
+#3084
+Elvuldor Dark Knight Guide~
+Elvuldor~
+Elvuldor stalks around the room, projecting an unholy aura.
+~
+Elvuldor is completely clad in chrome battle armor, a bizarre cerise
+cross beside a black dragon is carved on the hefty shield he carries
+and a blade to his left hand side, his helmet rests securely atop his
+head, revealing nothing but his eyes, which glance icily at you.  A
+presence of malevolence can be felt pulsating from him strongly.    
+~
+253962 0 0 0 537133056 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 2073284
+8 8 1
+Str: 24
+Dex: 5
+Int: 21
+Wis: 9
+Con: 22
+Cha: 7
+Luck: 6
+Race: 14
+E
+T 3016
+T 3017
+T 3018
+T 3032
+#3085
+Trirewyr Monk Guide~
+Trirewyr~
+Trirewyr wonders around the area givin tours to new members.
+~
+Trirewyr is clothed in nothing but a deep cherry-red robe, at least
+this is all you can perceive for it is wrapped about him from head to
+toe, glancing downwards at his toes you observe that he is floating
+about an inch from the ground, it does appear rather odd but he is a
+monk after all, a golden strap is attached around his waist.    
+~
+253962 0 0 0 536870912 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1907422
+8 8 1
+Str: 24
+Dex: 5
+Int: 15
+Wis: 18
+Con: 25
+Cha: 25
+Luck: 15
+Race: 14
+E
+T 3019
+T 3020
+T 3021
+T 3032
+#3086
+Gaellyn Cleric Guide~
+Gaellyn~
+Gaellyn, Head Of The Clerics' Guilde moves around gracefully.
+~
+Dressed in simple, yet graceful robes, Gaellyn stands approximately
+five feet tall, long red hair trailing down her back is the simplest
+manor, yet blowing with the breeze as if a picture in motion.  A small
+golden belt around her waist holds numerous pouches and a prayer book.
+~
+253978 0 0 0 536870992 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1907422
+8 8 0
+Str: 19
+Dex: 13
+Int: 10
+Wis: 8
+Con: 5
+Cha: 25
+Luck: 17
+Race: 14
+E
+T 3010
+T 3011
+T 3012
+T 3032
+#3087
+Relakor Gladiator Guide~
+Relakor~
+Relakor stands here, tall and proud in his armor.
+~
+Relakor is fully dressed in bronze armor, a peculiar green cross
+beside a black horse is engraved on the large shield he carries and a
+long sword to his right hand side, his helmet rests firmly atop his
+head, revealing nothing but his face, which momentary looks warmly at
+you.  A presence of warmth can be felt from him.    
+~
+253962 0 0 0 536870912 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1907422
+8 8 1
+Str: 18
+Dex: 5
+Int: 13
+Wis: 20
+Con: 8
+Cha: 8
+Luck: 18
+Race: 14
+E
+T 3022
+T 3023
+T 3024
+T 3032
+#3088
+Orian Headguide~
+Orian, Head of Dibrovan Guides~
+Orian, Head of the Dibrovan Guides waits here, welcoming newcomers.
+~
+He looks ancient, very ancient, His face folds almost a thousand times
+under the wrinkels, but his eyes smile as you look into them, they
+seem to hide a strange inteiligence, a knowledge of things past and
+possibly, things to come.    
+~
+256026 0 0 0 536936528 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1907422
+8 8 1
+Str: 12
+Dex: 7
+Int: 6
+Wis: 25
+Con: 17
+Cha: 10
+Luck: 17
+Race: 14
+E
+T 3031
+#3089
+pet shop boy~
+the Pet Shop Boy~
+There is a Pet Shop Boy standing here cuddleing something furry in his hands.
+~
+As you look at him, he opens his hands to reveal a rat!
+~
+26634 0 0 0 0 0 0 0 1000 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 14
+E
+#3090
+kitten~
+the Kitten~
+A small loyal kitten is here.
+~
+The kitten looks like a cute, little, fierce fighter.
+~
+14 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 21
+Luck: 12
+Race: 1
+E
+#3091
+puppy~
+the Puppy~
+A small loyal puppy is here.
+~
+The puppy looks like a cute, little, fierce fighter.
+~
+14 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 9
+Luck: 12
+Race: 1
+E
+#3092
+beagle~
+the Beagle~
+A small, quick, loyal beagle is here.
+~
+The beagle looks like a fierce fighter.
+~
+14 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Race: 1
+E
+#3093
+rottweiler~
+the Rottweiler~
+A large, loyal rottweiler is here.
+~
+The rottweiler looks like a strong, fierce fighter.
+~
+14 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 0
+BareHandAttack: 9
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Race: 1
+E
+#3094
+wolf~
+the Wolf~
+A large, trained wolf is here.
+~
+The wolf looks like a strong, fearless fighter.
+~
+14 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 9
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 24
+Luck: 12
+Race: 1
+E
+#3095
+cryogenicist cryo~
+the Cryogenicist~
+The cryogenicist is here, playing with a canister of liquid nitrogen.
+~
+You notice a tired look in her face.  She looks like she isn't paid well
+enough to put up with any crap from mud players with attitudes.
+~
+26635 0 0 0 65616 0 0 0 900 E
+33 16 -20 1d33+2350 3d5+16
+1200 34908
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 14
+E
+#3096
+teleport operator sullen~
+the Teleport Operator~
+A sullen young mage in a Sorceror's Guild robe awaits to teleport you.
+~
+He doesn't look to be the pouting sort, but having been stuck full
+time on this job as punishment for his lack of studies in the Guild
+has left a bitter taste in his mouth.    
+~
+16395 0 0 0 0 0 0 0 0 E
+60 37 -36 1d60+7100 4d6+30
+3000 160325
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 8
+Luck: 12
+Race: 14
+E
+#3097
+Vondes Yragg~
+Yragg Vondes~
+Yragg Vondes sits at the bar, sloppy drunk and looking for some Nookie.
+~
+Yragg slobbers on about some vale or another deep within the hermit's
+forest and how every member of his party was killed but him.  Drunken
+fool, he must just be gibbering.    
+~
+15 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+15 1662
+8 8 1
+Str: 7
+Dex: 15
+Int: 15
+Wis: 19
+Con: 9
+Cha: 25
+Luck: 5
+Race: 14
+E
+#3098
+citizen midgaard~
+a Citizen of Midgaard~
+A citizen of Midgaard stands here, going about his business.
+~
+Dressed plainly, the citizen welcomes you and passes you by with a
+curt nod and a smile.    
+~
+72 0 0 0 2048 0 0 0 400 E
+10 3 60 1d1+0 1d2+6
+200 1662
+8 8 1
+Str: 20
+Dex: 12
+Int: 22
+Wis: 12
+Con: 18
+Cha: 22
+Luck: 13
+Class: 12
+Race: 14
+E
+#3099
+Adrerinyth Paladin Guide~
+Adrerinyth~
+Sir Adrerinyth stands before you, his face, warm and friendly.
+~
+Adrerinyth is completely clothed in shimmering white armor, a unusual
+emerald cross beside a red helmet is impressed on the great shield he
+carries in addition to a rapier to his right hand side, his helmet
+rests steadily atop his head, revealing nothing but his face, which
+momentary looks kindly at you.  A presence of kindliness can be felt
+pulsating from him.    
+~
+253962 0 0 0 536870912 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1907422
+8 8 1
+Str: 14
+Dex: 13
+Int: 18
+Wis: 20
+Con: 18
+Cha: 5
+Luck: 8
+Race: 14
+E
+T 3025
+T 3026
+T 3027
+T 3032
+$

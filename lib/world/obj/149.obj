@@ -1,0 +1,404 @@
+#14900
+picks locks lockpicks~
+/cwsome lock-picks/c0~
+/cgA /cwset of lock-picks /cglie here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 187 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#14901
+sack large~
+/cya large sack/c0~
+/cgA /cylarge sack /cglies here at your feet./c0~
+~
+15 0 0 0 0 1 0 0 0
+200 0 -1 0 0 0 0 0
+2 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14902
+bag large~
+/cya large bag/c0~
+/cgA /cylarge bag/cg is here./c0~
+~
+15 0 0 0 0 1 0 0 0
+175 0 -1 0 0 0 0 0
+1 7 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14903
+dragon-leg leg grilled~
+/cRa grilled dragon leg/c0~
+/cgA /cRgrilled dragon's leg /cglies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+2 48 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14908
+bag beige~
+/cya beige bag/c0~
+/cgA /cybeige bag/cg lies here./c0~
+~
+15 0 0 0 0 1 0 0 0
+250 0 -1 0 0 0 0 0
+3 14 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14909
+breast-plate metal plate breast~
+/cwa metal breast plate/c0~
+/cgA /cwmetal breast plate/cg is lying on the ground./c0~
+~
+9 528384 0 0 0 9 0 0 0
+11 0 0 0 0 0 0 0
+11 3225 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+plate metal breast~
+This metal breast plate is heavy, but it looks like it would very good 
+protection against attack
+~
+A
+1 1
+#14910
+potion clear~
+/cCa clear potion/c0~
+/cgA small /cCclear potion/cg has carelessly been left here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 173 0 0 0 0 0 0
+1 35 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion clear~
+The potion has a small label, but you can't make it out.
+~
+#14911
+potion flask ceramic~
+/cwa ceramic potion/c0~
+/cgA small /cwceramic flask/cg rests here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 131 0 0 0 0 0 0
+1 1430 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion flask ceramic~
+The potion has a small label which reads ';lasdf;hdasf'.
+~
+#14912
+gauntlets metal~
+/cwa pair of metal gauntlets/c0~
+/cgA pair of /cwmetal gauntlets /cgis lying on the ground./c0~
+~
+9 0 0 0 0 129 0 0 0
+6 0 0 0 0 0 0 0
+7 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14913
+helm metal~
+/cwa metal helm/c0~
+/cgA /cwmetal helm/cg is lying here on the ground./c0~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+5 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14914
+leggings metal~
+/cwa pair of metal leggings/c0~
+/cgA pair of/cw metal leggings/cg are lying here on the ground./c0~
+~
+9 0 0 0 0 33 0 0 0
+8 0 0 0 0 0 0 0
+7 253 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14915
+metal sleeves~
+/cwa pair of metal sleeves/c0~
+/cgA pair of/cw metal sleeves/cg is lying here./c0~
+~
+9 0 0 0 0 257 0 0 0
+6 0 0 0 0 0 0 0
+5 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14916
+two two-handed sword~
+/cwa two-handed sword/c0~
+/cgA /cwtwo-handed sword/cg lies here./c0~
+~
+5 12288 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+8 29199 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+#14925
+cheese round~
+/cYa round of cheese/c0~
+/cgA /cYround of cheese/cg lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+2 20 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14928
+potion lavendar~
+/cMa lavendar potion/c0~
+/cgA /cMlavendar potion /cglies here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 101 0 0 0 0 0 0
+1 3521 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14929
+potion cloudy~
+/cWa cloudy potion/c0~
+/cgA /cWcloudy potion/cg lies here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 175 0 0 0 0 0 0
+1 3182 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14930
+potion jade green~
+/cga jade-green potion/c0~
+/cgA jade-green potion lies here./c0~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14931
+potion glowing red~
+/cra glowing red potion/c0~
+/cgA /crglowing red potion/cg lies here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 94 0 0 0 0 0 0
+1 2781 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14932
+potion bubbly blue~
+/cba bubbly blue potion/c0~
+/cgA /cbbubbly blue potion/cg is here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 52 53 2 0 0 0 0
+1 691 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion bubbly blue~
+It looks rather strange!
+~
+#14933
+fists death~
+/cLthe Fists of Death/c0~
+/cgSome strange, deadly-looking /cLfists /cglie here./c0~
+~
+9 1716224 0 0 0 129 0 0 0
+8 0 0 0 0 0 0 0
+6 25559 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fists death~
+These are very odd, indeed.
+~
+A
+18 4
+A
+19 4
+A
+13 25
+#14934
+potion putrid~
+/cLa putrid potion/c0~
+/cgA /cLputrid potion/cg lies here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 145 134 106 0 0 0 0
+1 624 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion putrid~
+This stuff looks like zombie guts!
+~
+#14935
+pearl black~
+/cLa black pearl/c0~
+/cgA /cLblack pearl/cg lies here on the ground./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 4211 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14936
+gem diamond black~
+/cLa glittering black diamond/c0~
+/cgA /cLglittering black diamond /cGlies at your feet./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 4311 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14937
+gem sapphire~
+/cba small sapphire/c0~
+/cgA small /cbsapphire/cg lies here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 2733 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14940
+stone white onyx~
+/cWa white onyx stone/c0~
+/cgA /cWwhite onyx stone/cg lies here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 3191 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14941
+jewel sparkling~
+/cRa sparkling jewel/c0~
+/cgYou see a /cRsparkling jewel/cg at your feet./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 6511 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14942
+jewel crimson~
+/cra crimson jewel/c0~
+/cgA /crcrimson jewel /cglies here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 3181 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14943
+emerald~
+/cGan emerald/c0~
+/cgAn /cGemerald/cg sits here./c0~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 6523 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14944
+irgaak iron~
+/cwan iron irgaak/c0~
+/cgA /cwlongsword /cgwith barbed edges, made of iron has been left here./c0~
+~
+5 684032 0 0 0 8193 0 0 0
+0 0 0 9 0 0 0 0
+6 27452 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+#14945
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 103 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14946
+dagger slaying~
+/cwa dagger of slaying/c0~
+/cgA /cwdagger /cgwith a double-edged, razor-sharp blade lies on the ground./c0~
+~
+5 1716224 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 35000 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 3
+A
+5 2
+A
+25 -2
+#14948
+stone spotted~
+/cwa spotted stone/c0~
+/cgA /cwspotted stone/cg sits here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 25611 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 2
+#14949
+stone pulsing scarlet~
+/cRa pulsing scarlet stone/c0~
+/cgA /cRpulsing scarlet stone/cg has been dropped here./c0~
+~
+12 0 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+3 29761 0 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+#14955
+potion simmering crimson~
+/cra simmering crimson potion/c0~
+/cgA /crsimmering crimson potion/cg has been left here./c0~
+~
+10 4 0 0 0 1 0 0 0
+10 36 0 0 0 0 0 0
+1 532 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion crimson simmering~
+It has a nasty crimson color, and it simmers with heat.
+~
+#14956
+shield blue-tinted iron~
+/cBa large, blue-tinted iron shield/c0~
+/cgA large, /cBblue-tinted iron shield/cg has been left here./c0~
+~
+9 536576 6 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+15 25559 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shield blue iron large~
+It is made from an odd, blue-tinted iron.
+~
+A
+18 4
+A
+19 3
+#14957
+staff runed glowing~
+/cCa runed, glowing staff/c0~
+/cgA /cCglowing staff/cw lies on the ground, nearly blinding you./c0~
+~
+4 0 0 0 0 16385 0 0 0
+10 4 4 52 0 0 0 0
+6 1762 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff runed glowing~
+It is a long, oak staff.  Apparantly, someone has cast continual light
+upon it.
+~
+#14958
+bones~
+a pile of bones~
+A large pile of bones lie here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

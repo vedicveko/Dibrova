@@ -1,0 +1,1965 @@
+#7700
+A well-kept Gravel Road~
+The narrow path veers off here, becoming a well kept dirt road.  You
+can hear the sound of running water west.  A large sign /cRSCREAMS/c0
+for attention.    
+~
+77 4 0 0 0 10
+D1
+Nothing.
+~
+~
+0 0 11008 0
+D2
+~
+~
+0 0 -1 0
+D3
+The gravel road leads west.
+~
+~
+0 0 7701 0
+E
+sign~
+Do not enter any farther west unless you are a high level or really buff.
+~
+S
+#7701
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The trees of the surounding forest
+strech over the top of the road shading it.  You can hear running
+water to the west.    
+~
+77 0 0 0 0 10
+D1
+The gravel road continues to the east.
+~
+~
+0 0 7700 0
+D3
+The gravel road leads to a small river west of here.
+~
+~
+0 0 7702 0
+S
+#7702
+Before a River~
+Directly west of you lies a small, swift river.  It is far to wide to
+jump over and the churning white water gives you second thoughts about
+trying to wade across.  However, there is a small footbridge that
+spans across the river.  A small sign is mounted on a post in front of
+the foortbridge.    
+~
+77 0 0 0 0 10
+D1
+A gravel road leads east.
+~
+~
+0 0 7701 0
+D3
+A small footbridge crosses the river.
+~
+~
+0 0 7703 0
+E
+bridge foot footbridge~
+A rope and wood footbridge sways gently in the wind.
+~
+E
+writing~
+You can barely make out:
+T oll ik s to  augh.
+ic le h m.
+~
+E
+water white river churning~
+The river churns and bubbles its way south.
+~
+E
+post~
+It is a small wooden post. You can barely make out some writing.
+~
+E
+sign~
+It reads:
+STOP. PAY TROLL.
+~
+S
+#7703
+On a small Footbridge~
+The rope and wood footbridge sways slightly, back and forth, in the
+wind and makes you feel a little queasy.  You chance a glance downward
+at the churning water and sharp looking rocks, but oddly that doesn't
+make you feel any better.  Good thing the footbridge ends directly to
+the east or west.    
+~
+77 0 0 0 0 10
+D1
+The bridge continues east.
+~
+~
+0 0 7702 0
+D3
+The bridge ends and the gravel road continues.
+~
+~
+0 0 7704 0
+D5
+Hmmm... you don't see anyone splattered on rocks.
+~
+~
+0 0 -1 0
+S
+#7704
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel suface and a trench on the
+north side to catch rain water.  The trees of the surounding forest
+stretch over the top of the road shading it.  You can hear running
+water to the east.  The road makes a turn here and now heads east and
+south.    
+~
+77 0 0 0 0 10
+D1
+You see a small footbridge.
+~
+~
+0 0 7703 0
+D2
+You hear the sounds of a fight south.
+~
+~
+0 0 7705 0
+S
+#7705
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+west side to catch rain water.  The trees of the surrounding forest
+stretch over the top of the road shading it.  The road continues north
+and south.    
+~
+77 67108868 0 0 0 10
+D0
+The road continues north.
+~
+~
+0 0 7704 0
+D2
+The road continues south.
+~
+~
+0 0 7706 0
+S
+#7706
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+west side to catch rain water.  The surrounding forest stretches over
+the top of the road shading it.  You can make out a large wall up
+ahead.  The road continues to the north and west.    
+~
+77 0 0 0 0 0
+D0
+The road continues north.
+~
+~
+0 0 7705 0
+D3
+You see a really big wall to the west.
+~
+~
+0 0 7707 0
+S
+#7707
+Before a Massive Stone Wall~
+The gravel road comes to a halt before a sixty feet high stone wall.
+The wall is made out thousands of large rocks chipped into a
+rectangular shape and polished smooth making it impossible to climb.
+A small steel door looks like the only way past the wall.  The forest
+has been cleared away from the wall to keep it effective, thus opening
+up the way north and south.    
+~
+77 0 0 0 0 10
+D0
+The forest has been cleared away from the wall providing a way north.
+~
+~
+0 0 7708 0
+D1
+The road continues east.
+~
+~
+0 0 7706 0
+D2
+The forest has been cleared away from the wall providing a way south.
+~
+~
+0 0 7710 0
+D3
+The door is made out of the finest elven steel, there's no way anyone is 
+going to break it.
+~
+door steel~
+2 7706 7722 15
+E
+door steel~
+The door is made from the finest in Elven steel, there is no way anyone is
+going to break it.
+~
+S
+#7708
+Before a Massive Stone Wall~
+The forest has been cleared back away from the wall here forming the
+narrow field in which you are standing.  The ground is very rocky and
+is colored reddish brown.  A wall rises up directly to your west
+making travel in that direction impossible.    
+~
+77 0 0 0 0 3
+D0
+The forest has been cleared away from the wall providing a way north.
+~
+~
+0 0 7709 0
+D2
+You can see a well kept gravel road.
+~
+~
+0 0 7707 0
+D5
+You see the ground.  
+~
+~
+0 0 -1 0
+E
+ground~
+Small fist sized rocks stick out of a reddish brown soil.
+~
+S
+#7709
+Before a Massive Stone Wall~
+The forest has been cleared back away from the wall forming the narrow
+field in which you are standing.  The ground is very rocky and is
+colored reddish brown.  A wall rises up directly to your west making
+travel in that direction impossible.    
+~
+77 0 0 0 0 3
+D2
+~
+~
+0 0 7708 0
+D5
+You see the ground.
+~
+~
+0 0 -1 0
+E
+ground rocks~
+Nothing.
+Small fist sized rocks stick out of a reddish brown soil.
+~
+S
+#7710
+Before a Massive Stone Wall~
+The forest has been cleared away from the wall here forming the narrow
+field in which you are standing.  The ground is very rocky and is
+colored dark red.  A very big boulder leans up against the wall
+providing a possible way over.    
+~
+77 0 0 0 0 3
+D0
+You can see a well paved gravel road to the north.
+~
+~
+0 0 7707 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 7711 0
+D3
+~
+~
+0 0 -1 0
+D5
+You spy a hidden exit.
+~
+boulder~
+2 7704 7712 31
+E
+boulder rock~
+      When you bend down to take a look at the boulder a small
+gust of air from below hits you in the face.    
+~
+S
+#7711
+Before a Massive Stone Wall~
+The forest has been cleared away from the wall here forming the narrow
+field in which you are standing.  The ground is very rocky and is
+colored reddish brown.  A wall rises up directly to your west making
+travel in that direction impossible.    
+~
+77 0 0 0 0 0
+D0
+~
+~
+0 0 7710 0
+D1
+~
+~
+0 0 -1 0
+D2
+Nothing.
+~
+~
+0 0 -1 0
+D5
+You see the ground.
+~
+~
+0 0 -1 0
+E
+ground rock~
+Small fist sized rocks stick out of a reddish brown soil.
+~
+S
+#7712
+A Tunnel~
+You are in a round tunnel, that has a roof so low that it causes you
+to duck you head in order to keep from bumping it.  The walls of the
+tunnel are made out a reddish brown soil and has small roots and
+stones poking out of it.  You can see a glimmer of sunlight peaking
+out from behind a boulder.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 7713 0
+D4
+You can see light.
+~
+boulder~
+1 0 7710 3
+E
+boulder~
+a large boulder blocks your way up.
+~
+S
+#7713
+A Tunnel~
+The tunnel you are in is rounded in shape and small enough that you
+have to duck your head in order to keep from hitting it.  A reddish
+brown soil with small roots and stones poking out of it makes up the
+tunnel's walls.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7712 0
+D3
+~
+~
+0 0 7714 0
+S
+#7714
+A Tunnel~
+The tunnel you are in is rounded in shape and is pretty small, so you
+duck your head to avoid bumping into the ceiling.  The tunnel wall is
+made out of reddish brown soil along with a few roots and stones
+thrown in for good measure.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7713 0
+D3
+~
+~
+0 0 7715 0
+S
+#7715
+A Tunnel~
+You are in a round tunnel, that has a roof so low that it causes you
+to duck your head in order to keep from bumping it.  The walls of the
+tunnel has small roots and stones sticking out of it and is reddish
+brown in color.  You can see just a glimmer of sunlight poking it way
+out from above.    
+~
+77 13 0 0 0 0
+D1
+~
+~
+0 0 7714 0
+D4
+~
+~
+0 0 7716 16
+S
+#7716
+In a Forest~
+Great broad leaf Nirin trees block sunlight and cover the leaf strewn
+floor with dappled sunlight.  Small briar bushes grow all around
+poking and tearing at your clothes, making travel difficult at best.
+~
+77 0 0 0 0 3
+D0
+~
+~
+0 0 7717 0
+D1
+~
+~
+0 0 7718 0
+D2
+~
+~
+0 0 7719 0
+D3
+~
+~
+0 0 7725 0
+D5
+~
+~
+0 0 7715 16
+S
+#7717
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The surrounding forest stretches over
+the top of the road shading it.  Thick, black smoke rises from the
+southwest and sounds of fighting can also be heard coming from the
+same direction.  The road travels east and west.    
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7720 0
+D2
+~
+~
+0 0 7716 0
+D3
+~
+~
+0 0 7723 0
+S
+#7718
+In a Forest~
+Great broad leaf Nirin trees block the sunlight and cover the leaf
+stren forest floor with dappled sunlight.  Small briar bushes grow all
+around poking and tearing at your clothes making travel difficult at
+best.    
+~
+77 0 0 0 0 3
+D0
+~
+~
+0 0 7720 0
+D3
+~
+~
+0 0 7716 0
+S
+#7719
+In a Forest~
+Great broad leaf Nirin trees block the sunlight and cover the leaf
+strewn floor with dappled sunlight.  Small briar bushes grow all
+around poking and tearing at your clothes making travel difficult at
+best.    
+~
+77 0 0 0 0 3
+D0
+~
+~
+0 0 7716 0
+S
+#7720
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The surrounding forest stretches over
+the top of the road shading it.  Thick, black smoke rises from the
+southwest and sounds of fighting can also be heard coming from the
+same direction.  You can also see a large wall to the east.  The road
+travels east and west.    
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7721 0
+D2
+~
+~
+0 0 7718 0
+D3
+~
+~
+0 0 7717 0
+S
+#7721
+Before a Massive Stone Wall~
+The gravel road comes to a halt before a sixty feet high stone wall.
+The wall is made out of thousands of large rocks chipped into a
+rectangular shape and polished smooth making it impossible to climb.
+A small passageway leads east through the wall and the gravel road
+heads off west.    
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7722 0
+D3
+~
+~
+0 0 7720 0
+S
+#7722
+A Passageway through a Stone Wall~
+You are in a small cramped passageway used for emergency access
+through the wall.  The passageway is barely big enough for you to fit
+through, let alone another person.  It is made up of large rocks
+chipped into a rectangular shape and then polished smooth, just like
+the outside of the wall.  Cobwebs hang from the corners of the room
+and in between the walls, you can also hear shuffeling and scratching
+noises inside the wall.  The only exits are west or through a steel
+door east.    
+~
+77 776 0 0 0 0
+D1
+~
+door steel~
+2 7706 7707 15
+D3
+~
+~
+0 0 7721 0
+E
+door steel~
+The door is made from the finest Elven steel, there is no way anyone is 
+going to be able to break it.
+~
+S
+#7723
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The surrounding forest stretches over
+the top of the road shading it.  Occasionally a broad, deep green
+Nirin tree leaf detaches from its parent tree and floats gently to the
+ground.  Thick, black smoke rises from the southwest and sounds of
+fighting can also be heard coming from the same direction.  The road
+runs east and west.    
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7717 0
+D2
+~
+~
+0 0 7725 0
+D3
+~
+~
+0 0 7724 0
+S
+#7724
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The surrounding forest stretches over
+the top of the road shading it.  Thick, black smoke rises from the
+south and sounds of fighting can also be heard coming from that
+direction.  The road makes a turn here and now travels east and south.
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7723 0
+D2
+~
+~
+0 0 7726 0
+S
+#7725
+In a Forest~
+Great broad leaf Nirin trees block the sunlight and cover the leaf
+strewn floor with dappled sunlight.  Small briar bushes grow all
+around poking and tearing at your clothes making travel difficult at
+best.    
+~
+77 0 0 0 0 3
+D0
+~
+~
+0 0 7723 0
+D1
+~
+~
+0 0 7716 0
+D3
+~
+~
+0 0 7726 0
+S
+#7726
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+west side to catch rain water.  The surrounding forest has been
+cleared away from the road on purpose, as evidence of freshly cut
+stumps line the road for ten feet on each side.  On the sides of the
+road a fresh field of grass grows tall and unmanaged.  Far off to the
+south you can see a thick, black smoke rising from a small village.  
+The road continues north and south.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7724 0
+D1
+~
+~
+0 0 7725 0
+D2
+~
+~
+0 0 7727 0
+S
+#7727
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+north side to catch rain water.  The surrounding forest has been
+cleared away from the road on purpose, as evidence of freshly cut
+stumps line the road for ten feet on each side.  One of the stumps has
+a small sign affixed to it.  On the sides of the road a fresh field of
+grass grows tall and unmanaged.  South of you, a small village burns
+and gives off a thick, black smoke.  The road continues north and
+south.    
+~
+77 4 0 0 0 10
+D0
+~
+~
+0 0 7726 0
+D2
+~
+~
+0 0 7728 0
+E
+stumps~
+The stumps ooze out sap and are still a little green.
+~
+E
+sign~
+Welcome to the town of Raloshel!
+~
+S
+#7728
+A Burning Village~
+A thick, black smoke hangs like a fog over the village of Raloshel.  
+On both sides of the gravel street buildings burn and smolder with a
+dim light through the smoke.  The town has been deserted and the only
+people that remain are that of the invading army.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7727 0
+D1
+~
+~
+0 0 7732 0
+D2
+~
+~
+0 0 7729 0
+D3
+~
+~
+0 0 7731 0
+S
+#7729
+A Burning Village~
+The thick, black smoke hangs over this town and stings your lungs every
+time you take a breath.  On the west side of the gravel road a small
+house burns dimly through the acrid smoke and to the east lies a
+field of trampled corn.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7728 0
+D1
+~
+~
+0 0 7734 0
+D2
+~
+~
+0 0 7730 0
+D3
+~
+~
+0 0 7733 0
+S
+#7730
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+south side to catch rain water.  A trampled field of wheat grows on the
+east side of the road and on the west side the still hot embers of a
+burned out house glow dimly through the thick, black smoke that hangs
+over Raloshel.  The Village of Raloshel is to the north and the road
+continues west.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7729 0
+D1
+~
+~
+0 0 7735 0
+D2
+~
+~
+0 0 7743 0
+D3
+~
+~
+0 0 7741 0
+S
+#7731
+A Burned-out House~
+This house is just a shell of its former self.  The whole east wall
+has tumbled inward leaving the way to the gravel road wide open and
+the roof has been burned to a cinder and no longer remains, leaving the
+house open to the elements.  Assorted rubble from the walls and roof
+are everywhere on the floor and you can see a small glow coming from a
+particular piece of rubble by the north wall.    
+~
+77 0 0 0 0 1
+D1
+~
+~
+0 0 7728 0
+S
+#7732
+A Burned-out House~
+Small embers still glow in the walls and roof of the house and thick,
+black smoke rises up from them.  This house didn't burn to bad as many
+of the amenities of the house are still intact, if not a little
+charred.  A bit of rubble from a few of the less fortunent pieces of
+household furniture lie in a small pile.    
+~
+77 0 0 0 0 1
+D3
+~
+~
+0 0 7728 0
+S
+#7733
+A Burned-out House~
+There is not much left of this house.  The only wall left standing is
+the southern one and it is missing a few bricks off of the top.  The
+roof of the house has caved in and still burns, giving off a thick
+black smoke that clogs you lungs with every breath you take.  The
+floor is covered in rubble making it hard for you to walk around.    
+~
+77 16 0 0 0 1
+D1
+~
+~
+0 0 7729 0
+S
+#7734
+A Farmer's Field~
+You are standing in a great field of corn.  Most of the corn, though,
+has been trampled by the men and horses of the besieging army, which
+must be around here somewhere because you can see fresh hoof and foot
+prints all over the ground.  The stone wall of a large keep is to the
+east blocking travel in that direction.    
+~
+77 0 0 0 0 2
+D2
+~
+~
+0 0 7735 0
+D3
+~
+~
+0 0 7729 0
+E
+foot hoof prints tracks~
+The foot and hoof prints are all over and point in no particular direction.
+~
+S
+#7735
+A Trampled Field of Wheat~
+The wheat has been trampled by the many hooves of horses and the feet
+of men untill none of the wheat is still standing.  The footprints go
+in every direction and you can not discern any type of trafic flow
+from them.  A bunch of tents have been set up to the south and the
+field continues to the east.    
+~
+77 0 0 0 0 2
+D0
+~
+~
+0 0 7734 0
+D1
+~
+~
+0 0 7736 0
+D2
+~
+~
+0 0 7737 0
+D3
+~
+~
+0 0 7730 0
+S
+#7736
+A Trampled Field of Wheat~
+The wheat in this field has been trampled and cut away in order for
+the besieging army to build a siege tower.  The siege tower is a large
+wooden structure covered in animal hides, to protect those inside,
+which rises adjancent to the keep wall.  The keep wall is directly to
+the east and north, while some tents have been errected to the south.
+~
+77 0 0 0 0 2
+D2
+~
+~
+0 0 7738 0
+D3
+~
+~
+0 0 7735 0
+D4
+~
+~
+0 0 7744 0
+S
+#7737
+In the Enemy Camp~
+Members of the besieging army mill about in front of camp fires
+talking, cooking food, and or sharpening their weapons.  Small tents
+have been erected all over the field to provide the army with a place
+to sleep.  The enemy camp continues off to the east and a trampled
+field of wheat is to the north, while a trampled field of corn is to
+the west.    
+~
+77 0 0 0 0 2
+D0
+~
+~
+0 0 7735 0
+D1
+~
+~
+0 0 7738 0
+D3
+~
+~
+0 0 7743 0
+S
+#7738
+In the Enemy Camp~
+Small tents have been errected all over the field to provide the
+besieging army with a place to sleep at night.  A few members of the
+army stand by camp fires cooking food, talking, and or sharpening
+their weapons.  The enemy camp continues to the east and west and a
+great field of trampled wheat is to the north.    
+~
+77 0 0 0 0 2
+D0
+~
+~
+0 0 7736 0
+D1
+~
+~
+0 0 7739 0
+D3
+~
+~
+0 0 7737 0
+S
+#7739
+In the Enemy Camp~
+Various hitching posts have been constructed here for the calvary to
+tether their horses to.  A large covered wagon has been parked to the
+south of you and to the north the keep wall rises tall and proud.  
+The enemy camp is back to the west.    
+~
+77 0 0 0 0 2
+D2
+~
+~
+0 0 7740 0
+D3
+~
+~
+0 0 7738 0
+S
+#7740
+A Slave Wagon~
+The covered wagon you are in is only about four by six feet and both
+sides are lined with benches including one running down the middle.  
+Chains and shackles hang from the ceiling and lie on the floor.  The
+only way out is to the north.    
+~
+77 8 0 0 0 0
+D0
+~
+~
+0 0 7739 0
+S
+#7741
+A well-kept Gravel Road~
+Although dusty the road has a nice gravel surface and a trench on the
+south side to catch rain water.  A trampled field of corn borders the
+road to the south and some of the bent and broken stalks are strewn
+all over the roads gravel surface.  A small building burns on the
+north side of the road and adds to the thick, black smoke that seems
+to hang over town.  The road continues to the east and south.    
+~
+77 0 0 0 0 10
+D1
+~
+~
+0 0 7730 0
+D2
+~
+~
+0 0 7742 0
+S
+#7742
+A well-kept Gravel Road~
+Although dusty, the road has a nice gravel surface and a trench on the
+west side to catch rain water.  The east side of the road is bordered
+by a trampled field of corn and some of the broken and bent stalks
+line the road causing you to watch your step, lest you trip.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7741 0
+D1
+~
+~
+0 0 7743 0
+S
+#7743
+A Trampled Field of Corn~
+You are standing in a great field of corn.  Most of the corn though,
+has been trampled by the men and horses of the besieging army, which
+must be around here somewhere because you can see fresh hoof and foot
+prints all over the ground.    
+~
+77 0 0 0 0 2
+D0
+~
+~
+0 0 7730 0
+D1
+~
+~
+0 0 7737 0
+D3
+~
+~
+0 0 7742 0
+S
+#7744
+In a Siege Tower~
+You are in a large wooden tower covered with animal hides to protect
+the invaders from arrows.  The tower raises straight up to match the
+keep wall.  The perfect way to take the keep.    
+~
+77 4 0 0 0 5
+D4
+~
+~
+0 0 7745 0
+D5
+~
+~
+0 0 7736 0
+S
+#7745
+In a Siege Tower~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 0 0 0 0 5
+D0
+~
+~
+0 0 7746 0
+D1
+~
+~
+0 0 7748 0
+D5
+~
+~
+0 0 7744 0
+S
+#7746
+On the Wall of a Keep~
+You are high above the surrounding fields on the keep wall.  Below
+you, the invading army mills about, laying siege to the keep.  A
+wooden plank leads south to the siege tower.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7749 0
+D1
+~
+~
+0 0 7747 0
+D2
+~
+~
+0 0 7745 0
+S
+#7747
+On the Wall of a Keep~
+You are high above the surrounding fields on the keep wall.  Below
+you, the invading army mills about, laying siege to the keep.  A
+wooden ladder leads down to the courtyard of the keep.    
+~
+77 0 0 0 0 10
+D2
+~
+~
+0 0 7748 0
+D3
+~
+~
+0 0 7746 0
+D5
+~
+~
+0 0 7751 0
+S
+#7748
+On the Wall of a Keep~
+You are high above the surrounding fields on the keep wall.  Below
+you, the invading army mills about, laying siege to the keep.  A
+wooden tower leads west to the siege tower.    
+~
+77 0 0 0 0 0
+D0
+~
+~
+0 0 7747 0
+D2
+~
+~
+0 0 7750 0
+D3
+~
+~
+0 0 7745 0
+S
+#7749
+On the Wall of a Keep~
+You are high above the surrounding fields on the keep wall.  Below
+you, the invading army mills about, laying siege to the keep.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 7746 0
+S
+#7750
+On the Wall of a Keep~
+You are high above the surrounding fields on the keep wall.  Below
+you, the invading army mills about, laying siege to the keep.    
+~
+77 0 0 0 0 10
+D0
+~
+~
+0 0 7748 0
+S
+#7751
+The Courtyard~
+The courtyard is deserted, all of the keeps inhabitants have either
+been killed, or are fighting.  A door leads east into a hallway and a
+wooden ladder leads up the keep wall.    
+~
+77 0 0 0 0 1
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 7752 0
+D4
+~
+~
+0 0 7747 0
+S
+#7752
+A Hallway~
+You stand in a short hallway.  The walls are made of stone.  There are
+two doors in this room, one leads south and one leads north.  The
+Hallway continues east.    
+~
+77 8 0 0 0 0
+D0
+~
+~
+0 0 7753 0
+D1
+~
+~
+0 0 7755 0
+D2
+~
+~
+0 0 7754 0
+D3
+~
+~
+0 0 7751 0
+S
+#7753
+A Stone Room~
+You stand in a small room with stone walls.  A trap door has been
+placed on the floor.    
+~
+77 8 0 0 0 0
+D2
+~
+~
+0 0 7752 0
+D5
+~
+door~
+2 7725 7756 15
+S
+#7754
+A Small Room~
+You stand in a small room with stone walls.    
+~
+77 8 0 0 0 0
+D0
+~
+~
+0 0 7752 0
+S
+#7755
+The Throne Room~
+A large metal and wood throne stands in the center of the room.  
+Large colorful tapestries hang from the walls.    
+~
+77 8 0 0 0 0
+D3
+~
+~
+0 0 7752 0
+S
+#7756
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.    
+~
+77 65549 0 0 0 0
+D1
+~
+~
+0 0 7757 0
+D4
+~
+door~
+2 7725 7753 15
+S
+#7757
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7758 0
+D3
+~
+~
+0 0 7756 0
+S
+#7758
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.    
+~
+77 65545 0 0 0 0
+D2
+~
+~
+0 0 7759 0
+D3
+~
+~
+0 0 7757 0
+S
+#7759
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.  A door is to the east.  
+
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7758 0
+D1
+~
+door~
+1 0 7760 3
+D2
+~
+~
+0 0 7762 0
+S
+#7760
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7761 0
+D3
+~
+door~
+1 0 7759 3
+S
+#7761
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.  A set of stairs lead
+down.    
+~
+77 65545 0 0 0 0
+D3
+~
+~
+0 0 7760 0
+D5
+~
+~
+0 0 7763 0
+S
+#7762
+In The Dungeon~
+The constant echo of the dripping of water can be hear through the
+narrow corridor which you are in.  You can hear scuffling and scraping
+noises coming from the darkness around you.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7759 0
+S
+#7763
+Lower in The Dungeon~
+You are walking down a narrow, damp corridor.  Your light barely
+penetrates the darkness.  A set of stairs lead up.    
+~
+77 65549 0 0 0 0
+D2
+~
+~
+0 0 7764 0
+D4
+~
+~
+0 0 7761 0
+S
+#7764
+Lower in The Dungeon~
+You are walking down a narrow, damp corridor.  Your light barely
+penetrates the darkness.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7763 0
+D2
+~
+~
+0 0 7765 0
+S
+#7765
+Lower in The Dungeon~
+You are walking down a narrow, damp corridor.  Your light barely
+penetrates the darkness.  A set of stairs lead down.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7764 0
+D5
+~
+~
+0 0 7766 0
+S
+#7766
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.  A set of stairs lead up.    
+~
+77 65549 0 0 0 0
+D1
+~
+~
+0 0 7767 0
+D2
+~
+~
+0 0 7771 0
+D4
+~
+~
+0 0 7765 0
+S
+#7767
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7768 0
+D2
+~
+~
+0 0 7772 0
+D3
+~
+~
+0 0 7766 0
+S
+#7768
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7769 0
+D2
+~
+~
+0 0 7773 0
+D3
+~
+~
+0 0 7767 0
+S
+#7769
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7770 0
+D2
+~
+~
+0 0 7774 0
+D3
+~
+~
+0 0 7768 0
+S
+#7770
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D2
+~
+~
+0 0 7775 0
+D3
+~
+~
+0 0 7769 0
+S
+#7771
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7766 0
+D1
+~
+~
+0 0 7772 0
+S
+#7772
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7767 0
+D1
+~
+~
+0 0 7773 0
+D3
+~
+~
+0 0 7771 0
+S
+#7773
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7768 0
+D1
+~
+~
+0 0 7774 0
+D3
+~
+~
+0 0 7772 0
+S
+#7774
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7769 0
+D1
+~
+~
+0 0 7775 0
+D3
+~
+~
+0 0 7773 0
+S
+#7775
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7770 0
+D1
+~
+~
+0 0 7776 0
+D3
+~
+~
+0 0 7774 0
+S
+#7776
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7778 0
+D3
+~
+~
+0 0 7775 0
+S
+#7777
+Deep in The Dungeon~
+You are in an unfinished room.
+~
+77 9 0 0 0 0
+S
+#7778
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65545 0 0 0 0
+D1
+~
+~
+0 0 7779 0
+D2
+~
+~
+0 0 7776 0
+S
+#7779
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.    
+~
+77 65549 0 0 0 0
+D1
+~
+door~
+2 7731 7780 15
+D3
+~
+~
+0 0 7778 0
+S
+#7780
+Deep in The Dungeon~
+You are in a maze of dark twisty passages, all alike.  A constant drip
+can be heard echoing below you.  The clatter of bones can be heard in
+the distance.  A set of stairs lead down.    
+~
+77 9 0 0 0 0
+D3
+~
+door~
+2 7731 7779 15
+D5
+~
+~
+0 0 7781 0
+S
+#7781
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.  A set of stairs lead up.    
+~
+77 13 0 0 0 0
+D1
+~
+~
+0 0 7782 0
+D4
+~
+~
+0 0 7780 0
+S
+#7782
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7783 0
+D3
+~
+~
+0 0 7781 0
+S
+#7783
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7784 0
+D3
+~
+~
+0 0 7782 0
+S
+#7784
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7785 0
+D3
+~
+~
+0 0 7783 0
+S
+#7785
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D2
+~
+~
+0 0 7786 0
+D3
+~
+~
+0 0 7784 0
+S
+#7786
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.  A door is to the west of you.    
+~
+77 9 0 0 0 0
+D0
+~
+~
+0 0 7785 0
+D2
+~
+~
+0 0 7787 0
+D3
+~
+door~
+1 0 7794 3
+S
+#7787
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D0
+~
+~
+0 0 7786 0
+D2
+~
+~
+0 0 7792 0
+S
+#7788
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 10551533 0 0 0 0
+D1
+~
+~
+0 0 7789 0
+S
+#7789
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7790 0
+D3
+~
+~
+0 0 7788 0
+S
+#7790
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7791 0
+D3
+~
+~
+0 0 7789 0
+S
+#7791
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7792 0
+D3
+~
+~
+0 0 7790 0
+S
+#7792
+Deep in The Dungeon~
+The floor of the dungeon is littered with bones and bone fragments of
+all sizes.  Loud, heavy breathing can be heard coming from all
+directions.  Compared to the rest of the dungeon this room seems to be
+quite hot.  A slight smell of charred flesh lingers in the air about
+you.    
+~
+77 9 0 0 0 0
+D0
+~
+~
+0 0 7787 0
+D3
+~
+~
+0 0 7791 0
+S
+#7793
+The Drake's Nest~
+This room is lined and padded with the hides of fire breathing toads.
+The warm hides of the toads keep the drake eggs nice and warm until
+they hatch.  The eggs themselves are about six feet tall and give the
+occasional twitch, must be near hatching time.    
+~
+77 9 0 0 0 0
+D1
+~
+~
+0 0 7794 0
+D2
+~
+~
+0 0 7795 0
+S
+#7794
+The Drake's Nest~
+This room is lined and padded with the hides of fire breathing toads.
+The warm hides of the toads keep the drake eggs nice and warm until
+they hatch.  The eggs themselves are about six feet tall and give the
+occasional twitch, must be near hatching time.    
+~
+77 9 0 0 0 0
+D1
+~
+door~
+1 0 7786 3
+D2
+~
+~
+0 0 7796 0
+D3
+~
+~
+0 0 7793 0
+S
+#7795
+The Drake's Nest~
+This room is lined and padded with the hides of fire breathing toads.
+The warm hides of the toads keep the drake eggs nice and warm until
+they hatch.  The eggs themselves are about six feet tall and give the
+occasional twitch, must be near hatching time.    
+~
+77 9 0 0 0 0
+D0
+~
+~
+0 0 7793 0
+D1
+~
+~
+0 0 7796 0
+S
+#7796
+The Drake's Nest~
+This room is lined and padded with the hides of fire breathing toads.
+The warm hides of the toads keep the drake eggs nice and warm until
+they hatch.  The eggs themselves are about six feet tall and give the
+occasional twitch, must be near hatching time.    
+~
+77 9 0 0 0 0
+D0
+~
+~
+0 0 7794 0
+D3
+~
+~
+0 0 7795 0
+S
+#7797
+Deep in The Dungeon~
+You are in an unfinished room.
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7757 0
+D1
+~
+~
+0 0 7759 0
+D2
+~
+~
+0 0 7760 0
+D3
+~
+~
+0 0 7762 0
+S
+#7798
+Deep in The Dungeon~
+You are in an unfinished room.
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7775 0
+D1
+~
+~
+0 0 7768 0
+D2
+~
+~
+0 0 7774 0
+D3
+~
+~
+0 0 7771 0
+S
+#7799
+Deep in The Dungeon~
+You are in an unfinished room.
+~
+77 65545 0 0 0 0
+D0
+~
+~
+0 0 7790 0
+D1
+~
+~
+0 0 7785 0
+D3
+~
+~
+0 0 7781 0
+S
+$~

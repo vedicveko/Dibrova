@@ -1,0 +1,1595 @@
+#19100
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+come to an end here but there is a gang plank leading north onto the
+clipper ship.    
+~
+191 4 0 0 0 1
+D1
+~
+~
+0 -1 19101 0
+S
+#19101
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  Looking
+from your position on the docks you are face to face with the bow of
+the clipper ship, you can even see some writing.  The docks continue
+east and west.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19102 0
+D3
+~
+~
+0 -1 19100 0
+E
+bow writing ship~
+It's kinda covered with barnacles but you can make out:
+
+        RMS Rabid Squirrel
+~
+S
+#19102
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19103 0
+D3
+~
+~
+0 -1 19101 0
+S
+#19103
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue south and west.    
+~
+191 0 0 0 0 1
+D2
+~
+~
+0 -1 19109 0
+D3
+~
+~
+0 -1 19102 0
+S
+#19104
+Plains Road~
+The wooden planks make an interesting clicking sound each time you
+take a step.  On each side of the road small houses with green lawns
+serve to house the excess population of Vern'ige, mostly refugees from
+the war or Encar's conquests.  East is a gothic style building that is
+Vern'ige's library.  It is two stories tall and has large gargoyle
+statues at each corner.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19138 0
+D1
+~
+~
+0 -1 19105 0
+D2
+~
+~
+0 -1 19111 0
+D3
+~
+~
+0 -1 19133 0
+S
+#19105
+Vern'ige Library~
+The walls are made of fine white marble, and gleam a little in the
+light.  The lobby is wide open and airy, bookcases line the walls and
+form neat rows.  In the center of the room is a large desk with and
+almost as large sign hanging behind it.  In the far left corner of the
+room a spiral staircase leads up to the secound floor.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19112 0
+D3
+~
+~
+0 -1 19104 0
+E
+sign large~
+   In big black letters it states 'Be Quiet!!!"
+~
+S
+#19106
+A Small Merchant Ship~
+Here at the aft end of the ship must be where the crew bunks, smelly
+unmade bedrolls lie here.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19107 0
+S
+#19107
+A Small Merchant Ship~
+You stand aside the ships mast, even the mast has rotten garbage
+hanging from it.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19108 0
+D3
+~
+~
+0 -1 19106 0
+S
+#19108
+A Small Merchant Ship~
+The crew of this ship must live like pigs, the deck is covered with
+trash and is all warped and cracked.  It is a wonder this ship even
+floats.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19109 0
+D3
+~
+~
+0 -1 19107 0
+S
+#19109
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.  The sea crashes against the docks as you walk
+around.  There is a gang plank leading to a small ship west of here.
+While to the north you can see a huge clipper ship.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19103 0
+D2
+~
+~
+0 -1 19116 0
+D3
+~
+~
+0 -1 19108 0
+S
+#19110
+Captain John's Boat Shop~
+This is just a pre-fab refugee house converted into a shop.  There is
+nothing special about it at all.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19117 0
+S
+#19111
+Plains Road~
+The first thing you notice about this street is the large wooden
+planks that serve as pavement, quite a difference from the cobble
+stone roads of the rest of town.  The road twists its way through a
+residential area.  East is a small black building with an acrid smoke
+bellowing from its chimney.  To the west you see a large marble
+building.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19104 0
+D1
+~
+~
+0 -1 19134 0
+D2
+~
+~
+0 -1 19118 0
+D3
+~
+~
+0 0 19352 0
+S
+#19112
+Vern'ige Library~
+The far end of the library has several desks set up for reading and
+research.  In the far right corner a spiral staircase leads up to the
+secound floor.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19105 0
+S
+#19113
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east.    
+~
+191 0 0 0 0 10
+D1
+~
+~
+0 -1 19114 0
+S
+#19114
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.    
+~
+191 0 0 0 0 10
+D1
+~
+~
+0 -1 19115 0
+D3
+~
+~
+0 -1 19113 0
+S
+#19115
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19116 0
+D3
+~
+~
+0 -1 19114 0
+S
+#19116
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.  Small crabs scurry in and out of the cracks.
+The docks lead off in all directions but east, where the Merchant Way
+starts.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19109 0
+D1
+~
+~
+0 -1 19117 0
+D2
+~
+~
+0 -1 19123 0
+D3
+~
+~
+0 -1 19115 0
+S
+#19117
+Merchant Way~
+The Merchant Way, like almost all the roads of Vern'ige is made of
+well kept cobble stone.  Even though Merchant Way is the oldest street
+in all of Vern'ige it is in very good condition, thanks to the cities
+wonderful sanitation guild.  The road comes to a dead end here as the
+docks start, but Clive Avenue begins to the south.  You can see
+Captain John's Boat Shop to the north.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19110 0
+D1
+~
+~
+0 -1 19118 0
+D2
+~
+~
+0 0 19144 0
+D3
+~
+~
+0 -1 19116 0
+S
+#19118
+Merchant Way~
+The Merchant Way, like almost all the roads of Vern'ige is made of
+well kept cobble stone.  Even though Merchant Way is the oldest street
+in all of Vern'ige it is in very good condition, thanks to the cities
+wonderful sanitation guild.  The air gets more pungent as you near the
+docks.  Plains Road intersects from the north and to the south is
+Harbor Resturant.  The road runs east and west.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19111 0
+D1
+~
+~
+0 -1 19119 0
+D2
+~
+~
+0 -1 19124 0
+D3
+~
+~
+0 -1 19117 0
+S
+#19119
+Merchant Way~
+The Merchant Way, like almost all the roads of Vern'ige is made of
+well kept cobble stone.  Even though Merchant Way is the oldest street
+in all of Vern'ige it is in very good condition, thanks to the cities
+wonderful sanitation guild.  The road runs east and west.  A grungy
+ally leads of to the south.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 0 19220 0
+D2
+~
+~
+0 -1 19125 0
+D3
+~
+~
+0 -1 19118 0
+S
+#19120
+A Small Fishing Boat~
+This type of boat is the de facto standard for fishing on Lagoon.  It
+is about fifty feet long and twenty wide.  This boat probally leaves
+every morning to catch a hold full of fish and then returns at sundown
+to sell them to the local markets.  The smell of dead and rotten fish
+is dreadful as you walk down the narrow decks dodging swaying hooks
+hung from fishing poles.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19121 0
+S
+#19121
+A Small Fishing Boat~
+This type of boat is the de facto standard for fishing on Lagoon.  It
+is about fifty feet long and twenty wide.  This boat probally leaves
+every morning to catch a hold full of fish and then returns at sundown
+to sell them to the local markets.  The smell of dead and rotten fish
+is dreadful as you walk down the narrow decks dodging swaying hooks
+hung from fishing poles.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19122 0
+D3
+~
+~
+0 -1 19120 0
+S
+#19122
+A Small Fishing Boat~
+This type of boat is the de facto standard for fishing on Lagoon.  It
+is about fifty feet long and twenty wide making it a medium sized
+cutter.  This boat probally leaves every morning to catch a hold full
+of fish and then returns at sundown to sell them to the local markets.
+The smell of dead and rotten fish is dreadful as you walk down the
+narrow decks dodging swaying hooks hung from fishing poles.  A
+gankplank leads east to the docks.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19123 0
+D3
+~
+~
+0 -1 19121 0
+S
+#19123
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue north and south.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19116 0
+D2
+~
+~
+0 -1 19129 0
+D3
+~
+~
+0 -1 19122 0
+S
+#19124
+Harbor Restaraunt~
+Harbor Resturant has a whole nautical theme going for it.  As you walk
+in you are greeted by slightly pale and skinny Plains Dwarf in a
+pirate costume, complete with a stuffed parrot on his shoulder.  The
+building's windows all seem to be made of old port holes, and mooring
+rope is strung about to make quaint sections.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19118 0
+S
+#19125
+Alley~
+This small alley seems well traveled.  Tracks in the dust and dirt
+lead through, north and south.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19119 0
+D2
+~
+~
+0 -1 19131 0
+S
+#19126
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19127 0
+S
+#19127
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue west and east.  You can see the ferry ticket house to the
+south.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19128 0
+D2
+~
+~
+0 -1 19132 0
+D3
+~
+~
+0 -1 19126 0
+S
+#19128
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue east and west.    
+~
+191 0 0 0 0 1
+D1
+~
+~
+0 -1 19129 0
+D3
+~
+~
+0 -1 19127 0
+S
+#19129
+The Docks~
+The docks are made up of large planks of Nirin wood to resist the
+decomposing affect of the sea.  Even though the docks have stood here
+for twenty five years they are still in exellent condition.  The docks
+continue north and west.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19123 0
+D3
+~
+~
+0 -1 19128 0
+S
+#19130
+The Red Shark~
+The ruckus in this bar is almost deafening.  Roy's Bar is known
+through out the Alliance for being the place to be if you enjoying
+watching or being in bar fights.  This is because there is always
+atleast one going on.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19131 0
+D3
+~
+~
+0 -1 19136 0
+S
+#19131
+Alley~
+The alley comes to a dead end here against the city gates.  To the
+west you can here the low rumble of a bar full of drunk or soon to be
+drunk sailors.    
+~
+191 0 0 0 0 1
+D0
+~
+~
+0 -1 19125 0
+D3
+~
+~
+0 -1 19130 0
+S
+#19132
+Ferry Ticket House~
+This is a small booth//building on Vern'ige's docks.  Paintings and
+posters touting the wonders of such far away places as Wyndham and
+McGintey Cove hang on the walls.  There is a large sign on the wall.    
+~
+191 8 0 0 0 0
+D0
+19127
+~
+~
+0 -1 19127 0
+D1
+~
+~
+0 0 -1 0
+E
+sign wall~
+
+************************************************************
+*                                                          *
+*     Ferry tickets cost 100 gold. The ferries depart      *
+*   every two hours and you can ride as long as you want.  *
+*                                                          *
+************************************************************
+~
+S
+#19133
+A Private Residence~
+You enter a small pre-fab house built for the influx of refugees that
+Vern'ige has been receiving for the last two hundred years or so.  It
+is nothing more then four walls, a adobe shingled roof, and a wooden
+floor.  There is a small heat/co stove against the northern wall,
+while various bedroles lie against the southern wall.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19104 0
+S
+#19134
+Doll Mage Guild~
+The smoke stings your eyes as you step into a small lobby.  The smoke
+seems to be billowing out of a large oak door to the north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19135 0
+D3
+~
+~
+0 -1 19111 0
+S
+#19135
+Draken's Office~
+The smoke is coming from the twenty or so flasks Draken is using to
+make potions.  Other then the chemistry experiment the office is
+rather average.  Jammed into the far left corner is a cluttered desk,
+with a couple of chairs facing it.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19134 0
+S
+#19136
+A Small Hallway~
+This a narrow hallway with a wooden floor, walls, and ceiling.  The
+ruckus from the bar is not drowned out at by this short distance.    
+~
+191 12 0 0 0 0
+D1
+~
+~
+0 -1 19130 0
+D3
+~
+~
+0 -1 19137 0
+S
+#19137
+Vern'ige Bordello~
+Ahh...  Finally what all good adventurers really seek.  This room is
+just one giant pillow, the every square inch it seems is made into one
+large area for.....  Well you can figure it out for yourself.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19136 0
+S
+#19138
+Plains Road~
+The wooden planks make an interesting clicking sound each time you
+take a step.  On each side of the road small houses with green lawns
+serve to house the excess population of Vern'ige, mostly refugees from
+the war or Encar's conquests.  Plains Road makes a turn here.  It now
+travels west and south.  To the north a stone road leads to an old
+cathedral or maybe a church.  To the west you can smell the sweet
+smell of Lotus blossoms and east an oily blackness seems to envelop
+that area.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 0 19323 0
+D1
+~
+~
+0 0 19339 0
+D2
+~
+~
+0 -1 19104 0
+D3
+~
+~
+0 0 19329 0
+S
+#19139
+Blank Room~
+HH
+~
+191 0 0 0 0 0
+S
+#19140
+Port Master's Office~
+This is a small pre-fab office.  It consists of simply, a desk, a
+chair, a small potted plant, and, of course, the Port Master.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19145 0
+E
+desk~
+  Just a small wooden desk that could be found anywhere.
+~
+E
+chair~
+  Just a small wooden chair that could be found anywhere.
+~
+E
+plant potted~
+  A small green plant is hanging from the ceiling with its stems trying vainly
+to reach the floor
+~
+S
+#19141
+Adventurer's Guild~
+This is a small pre-fab office.  It consists of simply, a desk, a
+chair, a small potted plant, and an Adventurer's Guild Official.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19142 0
+E
+desk~
+  Just a small wooden desk that could be found anywhere.
+~
+E
+chair~
+  Just a small wooden chair that could be found anywhere.
+~
+E
+plant potted~
+  A small green plant is hanging from the ceiling with its stems trying vainly
+to reach the floor
+~
+S
+#19142
+Adventurer's Guild~
+This is a small round room with posters all over the walls proclaiming
+the wonders and adventure of questing.  There are offices to the east
+and west, and to the south the lobby continues.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19147 0
+D3
+~
+~
+0 -1 19141 0
+S
+#19144
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the south, while north it intersects with
+Merchant Way.    
+~
+191 4 0 0 0 10
+D0
+~
+~
+0 -1 19117 0
+D2
+~
+~
+0 -1 19149 0
+S
+#19145
+Port Authority Office~
+The Port Authorities lobby is a large rectangular room with small
+models of wooden ships on pedestals in the corners.  The Port
+Authority deals with the day to day running of Vern'ige harbor.  To
+the north is the Port Master's Office.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19140 0
+D2
+~
+~
+0 -1 19152 0
+S
+#19147
+Adventurer's Guild~
+This is a small round room with posters all over the walls proclaiming
+the wonders and adventure of questing.  There are offices to the east
+and west, and to the north the lobby continues.    
+~
+191 12 0 0 0 0
+D0
+~
+~
+0 -1 19142 0
+D1
+~
+~
+0 -1 19148 0
+D2
+~
+~
+0 -1 19154 0
+S
+#19148
+Adventurer's Guild~
+This is a small pre-fab office.  It consists of simply, a desk, a
+chair, a small potted plant, and an Adventurer's Guild Official.    
+~
+191 8 0 0 0 0
+D3
+~
+~
+0 -1 19147 0
+E
+desk~
+  Just a small wooden desk that could be found anywhere.
+~
+E
+chair~
+  Just a small wooden chair that could be found anywhere.
+~
+E
+plant potted~
+  A small green plant is hanging from the ceiling with its stems trying vainly
+to reach the floor
+~
+S
+#19149
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the north and south.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19144 0
+D2
+~
+~
+0 -1 19156 0
+S
+#19150
+A Sublime House~
+You stand inside of a small one bedroom house just north of south
+street.  In the center of the room stands a round cherry wood table
+with matching cherry chairs surrounding it.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 0 19187 0
+D2
+~
+~
+0 -1 19157 0
+S
+#19151
+A Private Residence~
+You stand within a small one room house.  The floor is bare wood and
+so are the walls.  In the center of the room stands a table surrounded
+by chairs.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19158 0
+S
+#19152
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  The back enterance to the
+Senate building lies to the south and to the north you see the Port
+Authority Office.  South Street continues to the east.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19145 0
+D1
+~
+~
+0 -1 19153 0
+D2
+~
+~
+0 -1 19160 0
+S
+#19153
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19154 0
+D3
+~
+~
+0 -1 19152 0
+S
+#19154
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.  To the north you see the enterance to the
+Adventurer's Guild.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19147 0
+D1
+~
+~
+0 -1 19155 0
+D3
+~
+~
+0 -1 19153 0
+S
+#19155
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19156 0
+D3
+~
+~
+0 -1 19154 0
+S
+#19156
+Clive Avenue and South Street Intersection~
+Clive Avenue and South Street meet here in one grand intersection.  
+Both of the roads are made of cobble stone and stretch for quite a
+distance.  South Street continues east and west, while Clive Avenue
+travels north and south.    
+~
+191 65536 0 0 0 1
+D0
+~
+~
+0 -1 19149 0
+D1
+~
+~
+0 -1 19157 0
+D2
+~
+~
+0 -1 19164 0
+D3
+~
+~
+0 -1 19155 0
+S
+#19157
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.  Small houses line the sides of the road and young
+children play in their yards.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19150 0
+D1
+~
+~
+0 -1 19158 0
+D3
+~
+~
+0 -1 19156 0
+S
+#19158
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.  Small houses line the sides of the road and young
+children play in their yards.    
+~
+191 0 0 0 0 10
+D0
+~
+~
+0 -1 19151 0
+D1
+~
+~
+0 -1 19159 0
+D3
+~
+~
+0 -1 19157 0
+S
+#19159
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.  Small houses line the sides of the road and young
+children play in their yards.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 0 19233 0
+D3
+~
+~
+0 -1 19158 0
+S
+#19160
+A hallway within the Senate Building~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 12 0 0 0 0
+D0
+~
+~
+0 -1 19152 0
+D1
+~
+~
+0 -1 19161 0
+D2
+~
+~
+0 -1 19168 0
+S
+#19161
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 0 19162 0
+D2
+~
+~
+0 0 19169 0
+D3
+~
+~
+0 0 19160 0
+S
+#19162
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19163 0
+D2
+~
+~
+0 -1 19170 0
+D3
+~
+~
+0 -1 19161 0
+S
+#19163
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 -1 19171 0
+D3
+~
+~
+0 -1 19162 0
+S
+#19164
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the south.  To the east is the Alliance
+Traders' Guild.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19156 0
+D1
+~
+~
+0 -1 19165 0
+D2
+~
+~
+0 -1 19172 0
+S
+#19165
+Alliance Traders Guild~
+The Trader's Guild hall is down right boring.  The walls are brick,
+the floors are brick and a large desk lies against the east wall.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19166 0
+D3
+~
+~
+0 -1 19164 0
+S
+#19166
+Alliance Traders Guild~
+This room is sparsely furnished, but what they do have in here is
+nothing but the best.  The walls are white and spotlessly clean.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19167 0
+D2
+~
+~
+0 -1 19174 0
+D3
+~
+~
+0 -1 19165 0
+S
+#19167
+Alliance Traders Guild~
+This description is yet unfinished...  A couch lies in the center of
+the room, beckoning one to take a rest upon it.  Spotless white walls
+and ceiling show that this guild likes to keep things orderly and
+clean.    
+~
+191 8 0 0 0 0
+D3
+~
+~
+0 -1 19166 0
+S
+#19168
+The Senate Chambers~
+You stand within a large round room with a large number of seats
+circling a smaller number of steats in the middle which are occupied
+by the senators of the Alliance.  All the senators do is scream at
+each other.  It makes you wonder how anything gets done...    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19160 0
+D1
+~
+~
+0 0 19169 0
+D2
+~
+~
+0 -1 19175 0
+S
+#19169
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19161 0
+D1
+~
+~
+0 -1 19170 0
+D2
+~
+~
+0 -1 19176 0
+D3
+~
+~
+0 0 19168 0
+S
+#19170
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19162 0
+D1
+~
+~
+0 -1 19171 0
+D2
+~
+~
+0 -1 19177 0
+D3
+~
+~
+0 -1 19169 0
+S
+#19171
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.  Clive Avenue is to the east.    
+~
+191 12 0 0 0 0
+D0
+~
+~
+0 -1 19163 0
+D1
+~
+~
+0 -1 19172 0
+D2
+~
+~
+0 -1 19178 0
+D3
+~
+~
+0 -1 19170 0
+S
+#19172
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the north and south.  To the west you see
+the majestic marble columns of the Alliance Senate building.  In the
+east you see the enterance to a small pub.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19164 0
+D1
+~
+~
+0 -1 19173 0
+D2
+~
+~
+0 -1 19179 0
+D3
+~
+~
+0 -1 19171 0
+S
+#19173
+Government Road House~
+Watered down cocktails!
+~
+191 8 0 0 0 0
+D3
+~
+~
+0 -1 19172 0
+S
+#19174
+Alliance Traders Guild~
+White walls and plain, yet exotic furniture lend an air of relaxation
+in this room.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19166 0
+S
+#19175
+A hallway within the Senate Building~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19168 0
+D1
+~
+~
+0 -1 19176 0
+S
+#19176
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19169 0
+D1
+~
+~
+0 -1 19177 0
+D3
+~
+~
+0 -1 19175 0
+S
+#19177
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19170 0
+D1
+~
+~
+0 -1 19178 0
+D3
+~
+~
+0 -1 19176 0
+S
+#19178
+The Grand Hall~
+This hallway is lined with pictures of the heroes of the Alliance and
+the old empire.  The door to the senate chambers is south and south
+street is north.    
+~
+191 8 0 0 0 0
+D0
+~
+~
+0 -1 19171 0
+D3
+~
+~
+0 -1 19177 0
+S
+#19179
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the north and south.  To the east is the
+enterance to the Alliance Militia Headquarters.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19172 0
+D1
+~
+~
+0 -1 19180 0
+D2
+~
+~
+0 -1 19186 0
+S
+#19180
+Alliance Militia Headquarters~
+The Militia Headquarters is like most newer building of Vernige a
+almost prefab rock and mortar building, with a hard wood floor.    
+~
+191 8 0 0 0 0
+D1
+~
+~
+0 -1 19181 0
+D3
+~
+~
+0 -1 19179 0
+S
+#19181
+Alliance Militia Headquarters~
+A large desk sits in the middle of the room.  A smaller conference
+table, surrounded by several leather-backed chairs lie in the back of
+the room.  A hoop of metal, bearing several candles, lends light to
+the room as a rope suspends it from the ceiling.    
+~
+191 8 0 0 0 0
+D3
+~
+~
+0 -1 19180 0
+S
+#19182
+Wall Road~
+Wall road runs flush with Vern'ige's southern wall.  It is made of
+small cobble stones just like all of Vern'ige's other streets.  Wall
+road continues to the east.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19183 0
+S
+#19183
+Wall Road~
+Wall road runs flush with Vern'ige's southern wall.  It is made of
+small cobble stones just like all of Vern'ige's other streets.  Wall
+road continues to the east and west.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19184 0
+D3
+~
+~
+0 -1 19182 0
+S
+#19184
+Wall Road~
+Wall road runs flush with Vern'ige's southern wall.  It is made of
+small cobble stones just like all of Vern'ige's other streets.  Wall
+road continues to the east and west.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19185 0
+D3
+~
+~
+0 -1 19183 0
+S
+#19185
+Wall Road~
+Wall road runs flush with Vern'ige's southern wall.  It is made of
+small cobble stones just like all of Vern'ige's other streets.  Wall
+road continues to the west and intersects with Clive Avenue to the
+north.    
+~
+191 65536 0 0 0 10
+D1
+~
+~
+0 -1 19186 0
+D3
+~
+~
+0 -1 19184 0
+S
+#19186
+Clive Avenue~
+The street is a wide cobble stone road with wooden sidewalks on both
+sides.  Clive Avenue is one of Vern'ige's newest and most well kept
+streets, hardly even a stray pebble degrades the roads surface.  
+Clive Avenue continues to the north.    
+~
+191 65536 0 0 0 10
+D0
+~
+~
+0 -1 19179 0
+D2
+~
+~
+0 0 19188 0
+D3
+~
+~
+0 -1 19185 0
+S
+#19187
+A Bedroom~
+No One shall ever see this.
+No one should ever see this room.
+~
+191 8 0 0 0 0
+D2
+~
+~
+0 0 19150 0
+S
+#19188
+The Southern Gates~
+The tall stone wall of Vernige surrounds you.  High above cityguards
+patrol the walls of the city, keeping it safe.  Clive avenue contiues
+north and south lies the tenemant district of Vernige.    
+~
+191 0 0 0 0 10
+D0
+~
+~
+0 0 19186 0
+D2
+~
+~
+0 0 19700 0
+S
+$~

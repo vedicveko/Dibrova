@@ -1,0 +1,475 @@
+#6300
+herring salted food~
+/cwa salted /ccherring/c0~
+A dried and salted fish lies at your feet.~
+~
+19 0 0 0 0 1 0 0 0
+25 0 0 0 0 0 0 0
+2 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+herring salted~
+The slender and shrivelled herring comes from waters far away,
+and looks tasty despite its delapidated appearance.
+~
+#6301
+quill feather white swan~
+a white /cWfeather /cwQuill/c0~
+/cwA swan's feather drifts along the ground in the breeze./c0~
+~
+21 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 440 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+quill feather white swan~
+A single, slender swan's feather stands from the end of an ivory-
+colored ink quill.
+~
+#6302
+shard crystal pc~
+/cwa shard of /ccbroken crystal/c0~
+A sharp-edge shard sparkles dimly from the ground.~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shard crystal~
+The broken crystal glass has a sharp edge, and looks like it could
+hurt someone. Since wielding it may hurt your hand, however, it
+remains a mystery exactly how it may accomplish this end..
+~
+#6303
+gloves silk~
+/cwa pair of /cmsilk gloves/c0~
+Someone has left a pair of silk gloves crumpled here.~
+~
+11 143360 0 0 0 129 0 0 0
+0 0 0 0 0 0 0 0
+2 30100 0 105 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gloves silk~
+You see a pair of creased gloves of dark silk. There are tiny
+holes in the ends of the fingers, as if this was once worn by
+a clawed creature.
+~
+A
+17 -3
+A
+2 2
+A
+18 5
+#6304
+shawl blue silk~
+/cwa laced /cbblue shawl/c0~
+A pile of blue silk is lying on the ground.~
+~
+11 0 0 0 0 257 0 0 0
+0 0 0 0 0 0 0 0
+5 28000 0 105 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shawl blue silk~
+The trellised shawl is handmade of a dusty-blue silk, and is framed
+to wrap about the shoulders.
+~
+A
+17 -4
+A
+19 3
+A
+18 4
+A
+25 -2
+#6305
+gown indigo silk~
+/cwa gown of /cbindigo silk/c0~
+A pile of indigo-blue silk lies here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+7 23100 0 105 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gown indigo silk~
+The gown has a deep indigo blue shine to its silken folds. When worn
+by a creature of medium size, its hem lightly trails the ground. 
+It looks appropriate for festive occasions, the sort of thing that
+may be donned by ladies attending an execution at the gallows.
+~
+A
+17 -4
+A
+26 5
+A
+1 -1
+#6306
+wine wine glass drink~
+a Glass of Wine~
+/cwA glass of white wine sits primly on the ground./c0~
+~
+17 0 0 0 0 16385 0 0 0
+5 5 2 0 0 0 0 0
+10 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wine glass~
+It's a tall, clear glass rimmed in genuine crystal and filled with
+sparkling white wine.
+~
+#6307
+map sundhaven~
+/cwa map of Sundhaven/c0~
+/cwA colorful map is lying here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 20 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+map~
+  It is a simplified map of Sundhaven.
+  
+                          Cliff Gate
+   Tower of Sorcery            |     Cartographers Shop
+                Alchemy Shop                           Corner Store
+ <--To Homes________________________________________________
+                 |                           Bakery         |
+    Jewellers    |        Temple of Mercy    Silver Scale   |   Dragons      
+  Town Treasury  |   Library    *                Armoury    |    Wrath
+   Post Office   |             ***           Dirk & Dagger  |   Alehouse
+                 |            *****              Weaponry   |
+                 |                                          |
+West Gate________|_________The Gallows______________________|_____East Gate
+                                |
+                                |  Nightbreak Cafe
+                   Town Dump    |
+                                |
+                                |
+                          Southern Gate
+
+ The Tower of Sorcery is a refuge of the mages of Sundhaven.
+ The western chambers of the temple house the local priests.
+ The guild of warriors lies beneath the Alehouse.
+ Rumour has it that the thieves lurk below the town's waste.
+~
+#6308
+potion crystal~
+/cwa /cccrystal /cwpotion/c0~
+A crystalline potion sits here.~
+$n embarrassingly farts as the potion causes a build-up of gas!
+~
+10 64 0 0 0 1 0 0 0
+88 3 0 0 0 0 0 0
+2 138 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion crystal~
+The potion sparkles with a diamond-like shine.
+~
+#6309
+twisted staff~
+/cwa twisted staff/c0~
+A corkscrew-shaped wooden staff lies here discarded.~
+The staff suddenly straightens out, spewing forth a blast of color!
+~
+4 68 0 0 0 16385 0 0 0
+88 10 10 10 0 0 0 0
+10 3820 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff twisted~
+The staff has been carved into a twisting spiral from a light
+grey pliant wood.
+~
+#6311
+bottle blue~
+/cwa /cbblue /cwbottle/c0~
+A blue bottle floats by in the water.~
+~
+15 0 0 0 0 0 0 0 0
+3 0 -1 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bottle blue~
+You see a bottle floating listlessly, carved from blue glass.
+There appears to be a message inside.
+You have the impression you would do well to read it.
+~
+#6312
+message paper~
+/cwa message/c0~
+/cwA wet and crumpled paper lies on the ground./c0~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+message paper~
+The words are scrawled in black ink and leave crooked trails
+as they run down the page.
+...."You who would enter this forsaken place! Stir it not,
+leave it be, lest you would waken the underworld creatures
+that swim these infested waters.
+Only those of evil thoughts and deeds may pass unscathed.
+~
+#6313
+sword heraldry~
+/cwa heraldry sword/c0~
+/cwA sword marked with the insignia of a noble house is lying here./c0~
+~
+5 930816 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 44852 0 116 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword heraldry~
+The sword is of silver with a slender, tapering point, sharp as
+a needle. The hilt is inscribed with the insignia of a noble
+house of Sundhaven.
+~
+A
+19 2
+A
+18 5
+A
+2 -2
+#6314
+mithril dagger~
+/cwa /cwmithril /cwdagger/c0~
+/cwA shining /ccmithril dagger /cwlies here./c0~
+~
+5 1843200 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 36000 0 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dagger mithril~
+It's a silver-colored dagger, with a crescent-like blade.
+~
+A
+19 4
+A
+18 4
+A
+1 -2
+#6315
+wall~
+a Wall~
+A solid looking wall stands here.~
+~
+15 0 0 0 0 0 0 0 0
+100 5 -1 0 0 0 0 0
+50 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wall stone~
+A grey stone wall covers the entrance.
+~
+#6316
+cloak taupe~
+a flowing /cbtaupe /cwcloak/c0~
+/cwA billowing cloak blows in the wind nearby./c0~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+5 35573 0 116 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak taupe~
+It is long with full folds that catch the wind, and soft as angora
+or lambs wool. Whoever wears this must be doing well for themselves.
+~
+A
+2 -2
+A
+18 3
+A
+26 3
+A
+19 3
+A
+25 -2
+#6317
+gung ma bowl food~
+/cwa bowl of ma gung/c0~
+/cwA steaming hot bowl of ma gung sits here./c0~
+~
+19 0 0 0 0 1 0 0 0
+16 0 0 0 0 0 0 0
+2 64 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bowl ma gung~
+You slightly burn your fingers touching the ornamented bowl, which is
+small but filled to the rim with a spicy exotic soup.
+~
+#6318
+basket~
+/cya basket/c0~
+A basket sits on the ground.~
+~
+15 0 0 0 0 16385 0 0 0
+20 5 -1 0 0 0 0 0
+5 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+basket~
+  The basket is small, wicker, and bowl-shaped.. a perfect container
+for collecting berries and other food in.
+~
+#6319
+blackberries berries black food~
+/cwa handful of /cmblackberries/c0~
+Some blackberries lie in a pile in the dirt.~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+1 48 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+blackberries berries black~
+  The blackberries are ripe and full, growing to be large in
+this region of the world.
+~
+#6320
+message guild sign~
+/cwa guild message/c0~
+A message is inscribed over the doorway to the west.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+message guild sign~
+  The message reads..
+    "Within this sanctum do the priests learn the holy words
+     of their gods, that they may work their healings and
+     destructions upon the world. We bid you turn back
+     if you do not belong.
+ 
+     WARNING! Courtesy of the Sundhaven Ministry:
+     Do not venture below, those halls of the temple
+     have fallen into serious neglect.
+     If your death is untimely you have none to blame
+     but yourself."
+~
+#6321
+heap refuse sign guild~
+/cLa heap of refuse/c0~
+A heap of refuse emits a foul smell.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+200 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+heap rubble refuse~
+  This enormous pile of trash is disgusting, no one would touch it..
+you think...
+  Yet.. if you look down, you will find an entrance to someplace
+else beneath.
+~
+#6322
+potion white~
+a /cWwhite /cwPotion/c0~
+A misty-white potion sits here.~
+$n's eyes glow with a misty-white light and suddenly clear up!
+~
+10 64 0 0 0 1 0 0 0
+88 19 0 0 0 0 0 0
+1 118 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion white~
+  A mist whirls about the surface of the liquid, which is milky-
+white in color. 
+~
+#6323
+potion bubbling~
+/cwa /cbbubbling /cwpotion/c0~
+Bubbles rise and pop from a potion on the ground.~
+$n's eyes widen and begin to tear uncontrollably!
+~
+10 64 0 0 0 1 0 0 0
+88 19 20 0 0 0 0 0
+1 206 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion bubbling~
+  The potion is multi-colored, with small bubbles shivering
+chaotically to the surface.
+~
+#6324
+wand silver~
+/cwa /ccsilver /cwwand/c0~
+/cwA silvery wand rests here./c0~
+The fabric of space seems to distort and suddenly reverts to normal!
+~
+3 96 1024 0 0 16385 0 0 0
+88 2 2 29 0 0 0 0
+4 206 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wand silver silvery~
+  The short silver wand is inscribed with runes for a single spell 
+of invisibility.
+~
+#6325
+bottle spanish wine drink~
+/cwa bottle of /cmSpanish wine/c0~
+A port-red bottle of Spanish wine is resting here, bubbling merrily.~
+~
+17 0 0 0 0 16385 0 0 0
+20 20 2 0 0 0 0 0
+25 45 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bottle wine spanish~
+It looks and smells luxuriously inebriating, and brings to mind ponderous
+philosophical thoughts.  
+~
+#6326
+foil fencing athos rapier~
+/cwa thin /ccfencing foil/c0~
+A gallant rapier of silver is lying here.~
+~
+5 8193 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+6 25132 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+foil fencing rapier~
+Forged entirely from silver but for a hilt of black ruby, it was
+given to a great warrior by the gods and would be wisely returned.
+~
+A
+18 1
+A
+19 3
+#6327
+potion cure blind~
+/cwa potion of /cccure blind/c0~
+/cwA potion of /cccure blind/cw has been left here./c0~
+$n howls in joy upon quaffing the potion!
+~
+10 1 0 0 0 1 0 0 0
+88 14 0 0 0 0 0 0
+2 118 0 88 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6328
+grey sharpening stone~
+/cwa /cLgrey /cwsharpening stone/c0~
+A grey sharpening stone lies on the ground.~
+~
+27 1847296 0 0 0 16385 0 0 0
+10 0 0 0 0 0 0 0
+5 95 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

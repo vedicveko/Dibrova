@@ -1,0 +1,1678 @@
+#11900
+Vale of Khera~
+Walking through the woods you stumble onto the path to Khera Vale.  
+Khera Vale goes from the relm beneath the city of Stonekeep, to the
+realm ot the Carkulroth.  It also includes the small remains of the
+village of Adra, and the village Goth-Meg.  On a tree you see a large
+sign.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 0 11884 0
+D3
+~
+~
+0 -1 11901 0
+E
+sign~
+                               NOTICE
+                         Keep an eye out for
+                         the  gods.  You may
+                         not be able  to see
+                         them, however more
+                         than anywhere else
+                         in the realm, they
+                              are here.
+~
+S
+#11901
+Vale of Khera~
+On the sides of the trails tall trees grow up to the sky.  On the
+ground under the trees grows small shrubbery and weeds.  You can see
+some tree stumps that have been cut off by blades.  In the distance
+you can hear shouts and trees crashing down.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11902 0
+D1
+~
+~
+0 -1 11900 0
+S
+#11902
+Vale of Khera~
+Small trees grow in the middle of the trail and slap you in the face
+as you walk by.  On the right of the trail you see an animal hole of
+some sort that is several feet wide.  Small signs are lined up on the
+trail pointing the way the Khera Vale.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11903 0
+D2
+~
+~
+0 -1 11901 0
+S
+#11903
+Fallen Tree~
+The trail ends abruptly at another trail that leads off to the west.
+There is a sign on the tree that says "Detour <===".  To the east of
+the trail is a small clearing where you can see small rabbits and deer
+eating grass.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11902 0
+D3
+~
+~
+0 -1 11904 0
+S
+#11904
+Detour Trail~
+Walking along you come to a stream with a small wooden bridge built to
+cross over.  Small ducks are swimming in the water, and you can see
+large fish eating on the floor of the stream.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11903 0
+D3
+~
+~
+0 -1 11905 0
+S
+#11905
+Vale of Khera~
+You are back on the path that extends on in to Khera Vale.  To the far
+west you can see the saw mill that cuts down the trees in the forest.
+It would seem it is the same mill that sells its lumber to the
+surrounding underground cities to keep its tunnels up.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11904 0
+D3
+~
+~
+0 -1 11906 0
+S
+#11906
+Vale of Khera~
+To the far west you can see the saw mill that cuts down the trees in
+the forest.  It would seem it is the same mill that sells its lumber
+to the surrounding underground cities to keep its tunnels up.  To the
+north you can see the village of Goth-Meg.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11907 0
+D1
+~
+~
+0 -1 11905 0
+S
+#11907
+Vale of Khera~
+Walking along you see that there are many thorn bushes in front of
+you.  You prick your finger on one of the thorns and you wince in
+pain.  On either side of you the thorns get much wider, so it seems
+smartest to go straight on in.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11908 0
+D2
+~
+~
+0 -1 11906 0
+S
+#11908
+Thorn Bushes~
+Many thorns are poking at your sides here.  Small animals run past
+your feet at a brisk pace.  Finally you are through and on to the
+north you can see the tiny village of Goth-Meg.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11909 0
+D2
+~
+~
+0 -1 11907 0
+S
+#11909
+West Boundry of Goth-Meg~
+You are at the west boundry of the village of Goth-Meg.  For some
+reason the village seems pretty deserted for the most part.  Maybe its
+just the time of day that no one is out.  Small huts made of mud and
+wicker stand all around you with small fences surrounding them.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11910 0
+D2
+~
+~
+0 0 11908 0
+D3
+~
+~
+0 -1 11938 0
+S
+#11910
+Southern Goth-Meg~
+Walking along the southern street in Goth-Meg you see smoke coming out
+of the chimneys of the huts.  This seems to be a human village for the
+most part, but not a very advanced one.  The homes are crude, and so
+are the streets you walk along.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11939 0
+D1
+~
+~
+0 -1 11911 0
+D3
+~
+~
+0 -1 11909 0
+S
+#11911
+Goth-Meg~
+To the south of you is seen a small shack with a sign on the roof that
+says 'Shop'.  It would seem that the shack is a store that sells goods
+of some sort.  The streets here are very muddy, perhaps from a recent
+rain.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11913 0
+D2
+~
+~
+0 -1 11912 0
+D3
+~
+~
+0 -1 11910 0
+S
+#11912
+Shop in Goth-Meg~
+You walk through the doorway and see many shelves with goods of all
+kinds.  On some of them are weapons and armor that you have never seen
+the likes.  Up on the walls above the shelves are the heads of many
+wild mutant beasts.  It seems that the owner of this store is a big
+game hunter.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11911 0
+S
+#11913
+Goth-Meg~
+On either side of you is a small adobe hut.  They are both very crude
+in the making, and they both have fences around them so you can't get
+in.  Small pigs and other animals you do not recognize are running in
+the pens around the rear of each house.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11914 0
+D3
+~
+~
+0 -1 11911 0
+S
+#11914
+Vale of Khera~
+You are now outside the village of Goth-Meg.  Off to the north you can
+see the forest towering overhead.  On a tree you can see a small hole
+that squirrels are running in and out of.  There are weeds and grass
+on the ground that easily comes up to your chest.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11915 0
+D3
+~
+~
+0 -1 11913 0
+S
+#11915
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11916 0
+D2
+~
+~
+0 -1 11914 0
+S
+#11916
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11917 0
+D2
+~
+~
+0 -1 11915 0
+S
+#11917
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11918 0
+D2
+~
+~
+0 -1 11916 0
+S
+#11918
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11917 0
+D3
+~
+~
+0 -1 11919 0
+S
+#11919
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11918 0
+D3
+~
+~
+0 -1 11920 0
+S
+#11920
+Vale of Khera~
+All around you trees grow up hundreds of feet, and the undergrowth is
+very thick.  It is hard to walk here, but none the less you do see a
+path.  On the trees you see small animals and strange insects walking
+and running.  A wind gusts through kicking up dust.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11919 0
+D3
+~
+~
+0 -1 11921 0
+S
+#11921
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11922 0
+D1
+~
+~
+0 -1 11920 0
+S
+#11922
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11923 0
+D2
+~
+~
+0 -1 11921 0
+S
+#11923
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11922 0
+D3
+~
+~
+0 -1 11924 0
+S
+#11924
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11923 0
+D3
+~
+~
+0 -1 11925 0
+S
+#11925
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11924 0
+D3
+~
+~
+0 -1 11926 0
+S
+#11926
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11925 0
+D3
+~
+~
+0 -1 11927 0
+S
+#11927
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11926 0
+D2
+~
+~
+0 -1 11928 0
+S
+#11928
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11927 0
+D2
+~
+~
+0 -1 11929 0
+S
+#11929
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11928 0
+D3
+~
+~
+0 -1 11930 0
+S
+#11930
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11929 0
+D2
+~
+~
+0 -1 11931 0
+S
+#11931
+Three Points~
+You are now at the tri-point in the Vale of Khera.  In the
+intersection you see a small sign.  The trees here are still rather
+large, and the insects here seem to be much bigger too.  Wind kicks up
+the dust at your feet.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11930 0
+D2
+~
+~
+0 -1 11932 0
+D3
+~
+~
+0 -1 11955 0
+E
+sign~
+                       __________________________
+                      | <=== Carkulroth          |
+                      | /\                   ||  |
+                      | ||   Forest of Khera ||  |
+                      | ||                   ||  |
+                      | ||   Ruins of Adra   \/  |
+                      |__________________________|
+~
+S
+#11932
+Khera Forest~
+The trees here are about four times as wide as your armspan, and tower
+atleast a hundred feet in the air.  Large insects are running up and
+down the trees.  On the ground you see moss, mushrooms, snakes, and
+bugs.  The undergrowth here is not as bad as it is to the north.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11931 0
+D2
+~
+~
+0 -1 11933 0
+S
+#11933
+Khera Forest~
+The trees here are about four times as wide as your armspan, and tower
+atleast a hundred feet in the air.  Large insects are running up and
+down the trees.  On the ground you see moss, mushrooms, snakes, and
+bugs.  The undergrowth here is not as bad as it is to the north.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11932 0
+D2
+~
+~
+0 -1 11934 0
+S
+#11934
+Khera Forest~
+The trees here are about four times as wide as your armspan, and tower
+atleast a hundred feet in the air.  Large insects are running up and
+down the trees.  On the ground you see moss, mushrooms, snakes, and
+bugs.  The undergrowth here is not as bad as it is to the north.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11933 0
+D1
+~
+~
+0 -1 11935 0
+D2
+~
+~
+0 -1 11945 0
+S
+#11935
+Khera Forest~
+The trees here are about four times as wide as your armspan, and tower
+atleast a hundred feet in the air.  Large insects are running up and
+down the trees.  On the ground you see moss, mushrooms, snakes, and
+bugs.  The undergrowth here is not as bad as it is to the north.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11936 0
+D3
+~
+~
+0 -1 11934 0
+S
+#11936
+Khera Forest~
+The trees here are about four times as wide as your armspan and tower
+at least a hundred feet in the air.  Large insects are running up and
+down the trees.  On the ground, one sees moss, mushrooms, snakes and
+bugs.  The undergrowth is not too thick, though they seem to be hiding
+something.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11938 0
+D3
+~
+~
+0 -1 11935 0
+D5
+~
+~
+0 0 11937 16
+S
+#11937
+Snake Pit~
+You have fallen into a giant snake pit.  Looking around, you see walls
+that are a good ten foot over your head.  There are snake trails all
+around in the dirt.  It seems that whatever is kept in here is rather
+large.    
+~
+119 0 0 0 0 0
+D4
+~
+~
+0 -1 11936 0
+S
+#11938
+Outside Goth-Meg~
+You are outside the trails of Goth-Meg.  Over to the east you can see
+the back sides of the shacks that are built there.  A fog has moved in
+all around you, and it seems you could cut it with your blade.  You
+feel a animal run past your foot, but you hear nothing.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11909 0
+D3
+~
+~
+0 -1 11936 0
+S
+#11939
+Goth-Meg~
+You are at the northern tip of the village of Goth-Meg.  From here is
+the only enterance to the mine.  You see all sorts of undergroth all
+around the hole, and the tree branches are hanging so low, its almost
+impossible to find it.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11910 0
+D5
+~
+~
+0 -1 11940 0
+S
+#11940
+Goth-Meg Mine~
+Looking up you can see daylight, but ahead of you is total darkness.
+At your feet you notice several burnt out torches.  Bordering the
+cieling is the large wooden support beams that keep up the mine.  
+Although you are only ten or so feet down from the surface, the grade
+in this mine is about a ten foot drop per five feet walked.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11941 0
+D4
+~
+~
+0 -1 11939 0
+S
+#11941
+Goth-Meg Mine~
+Bordering the cieling you still notice the large wooden pillars and
+beams.  The floor is wet and damp, and next to the wall is a few inch
+deep groove that the water has cut in from running down.  Glittery
+rocks are also lying at your feet You hear a low moan that the wind is
+making as it blows by you and on down the corridore.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11940 0
+D3
+~
+~
+0 -1 11942 0
+S
+#11942
+Goth-Meg Mine~
+Bordering the cieling you still notice the large wooden pillars and
+beams.  The floor is wet and damp, and next to the wall is a few inch
+deep groove that the water has cut in from running down.  Glittery
+rocks are also lying at your feet You hear a low moan that the wind is
+making as it blows by you and on down the corridore.    
+~
+119 603979776 0 0 0 0
+D0
+~
+~
+0 -1 11943 0
+D1
+~
+~
+0 -1 11941 0
+S
+#11943
+Goth-Meg Mine~
+Bordering the cieling you still notice the large wooden pillars and
+beams.  The floor is wet and damp, and next to the wall is a few inch
+deep groove that the water has cut in from running down.  Glittery
+rocks are also lying at your feet You hear a low moan that the wind is
+making as it blows by you and on down the corridore.    
+~
+119 603979776 0 0 0 0
+D0
+~
+~
+0 -1 11944 0
+D2
+~
+~
+0 -1 11942 0
+S
+#11944
+Mines End~
+You come to the mines end and you see a small pool of water at your
+feet.  In the pool of water you see a whirl pool that is sucking the
+water down that you see running down to here.  There must be an
+underground cavern under here that the water is flowing to.    
+~
+119 603979776 0 0 0 0
+D2
+~
+~
+0 -1 11943 0
+S
+#11945
+Northern Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11934 0
+D2
+~
+~
+0 -1 11946 0
+S
+#11946
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11945 0
+D2
+~
+~
+0 -1 11947 0
+S
+#11947
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11946 0
+D2
+~
+~
+0 -1 11948 0
+S
+#11948
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11947 0
+D1
+~
+~
+0 -1 11949 0
+S
+#11949
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11950 0
+D3
+~
+~
+0 -1 11948 0
+S
+#11950
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11949 0
+D1
+~
+~
+0 -1 11951 0
+S
+#11951
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11952 0
+D3
+~
+~
+0 -1 11950 0
+S
+#11952
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11953 0
+D3
+~
+~
+0 -1 11951 0
+S
+#11953
+Ruins of Adra~
+You are at the northern tip of the village of Adra.  The village is
+totaly silent of all life.  It seems that the village was ramsacked by
+an army of warriors of some sort.  Skulls and bones are lying all
+around.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11954 0
+D3
+~
+~
+0 -1 11952 0
+S
+#11954
+Pyramid of Skulls~
+You see before you a pyramid of skulls.  Behind you is the house of
+Kelandra.  It seems that she has taken the liberty of vengance of her
+own.  All of the skulls seem to be those of throgs.  Before them is a
+staff with a spirit mask hanging on it from a strap.  On the staff you
+see many magickal runes.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11953 0
+S
+#11955
+Khera Forest~
+In the forest you see many trees fallen over the path.  They are small
+enough to cross over, but it seems that it may take a while.  Small
+deer and other animals are watching you from all around.  Vines and
+thorns are thick through here.  They tangle your feet as you walk,
+almost tripping you.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11931 0
+D4
+~
+~
+0 -1 11956 0
+S
+#11956
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11957 0
+D5
+~
+~
+0 -1 11955 0
+S
+#11957
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11956 0
+D3
+~
+~
+0 -1 11958 0
+S
+#11958
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11957 0
+D2
+~
+~
+0 -1 11959 0
+S
+#11959
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11958 0
+D2
+~
+~
+0 -1 11960 0
+S
+#11960
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11959 0
+D1
+~
+~
+0 -1 11961 0
+D5
+~
+~
+0 -1 11967 0
+S
+#11961
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D2
+~
+~
+0 -1 11962 0
+D3
+~
+~
+0 -1 11960 0
+S
+#11962
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11961 0
+D2
+~
+~
+0 -1 11963 0
+S
+#11963
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11962 0
+D2
+~
+~
+0 -1 11964 0
+S
+#11964
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D0
+~
+~
+0 -1 11963 0
+D3
+~
+~
+0 -1 11965 0
+S
+#11965
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11964 0
+D3
+~
+~
+0 -1 11966 0
+S
+#11966
+Path on the Highroad~
+Below you is the Khera Forest, The tops of the trees are a good fifty
+feet above your head still.  You are standing on rock and dirt, and
+there are small weeds growing out of the cracks everywhere.  You see a
+path in the sand leading your way.    
+~
+119 0 0 0 0 0
+D1
+~
+~
+0 -1 11965 0
+S
+#11967
+Caverns of Carkulroth~
+You are at the enterance to the caverns of Carkulroth.  It is dark in
+every direction.  You feel a cold breeze blow by your face.  The
+ground is cold and damp.  Down the tunnels you hear voices, but you
+cannot distinguish what is being said.    
+
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11960 0
+D5
+~
+~
+0 -1 11968 0
+S
+#11968
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11967 0
+D5
+~
+~
+0 -1 11969 0
+S
+#11969
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D0
+~
+~
+0 -1 11993 0
+D2
+~
+~
+0 -1 11970 0
+D4
+~
+~
+0 -1 11968 0
+S
+#11970
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D0
+~
+~
+0 -1 11969 0
+D4
+~
+~
+0 -1 11972 0
+D5
+~
+~
+0 -1 11971 0
+S
+#11971
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11970 0
+S
+#11972
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11973 0
+D5
+~
+~
+0 -1 11970 0
+S
+#11973
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11974 0
+D5
+~
+~
+0 -1 11972 0
+S
+#11974
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11973 0
+D3
+~
+~
+0 -1 11978 0
+D4
+~
+~
+0 -1 11975 0
+S
+#11975
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11976 0
+D5
+~
+~
+0 -1 11974 0
+S
+#11976
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11977 0
+D5
+~
+~
+0 -1 11975 0
+S
+#11977
+Rune Temple~
+You are in the temple of Runes.  The floor is made of the same smooth
+black rock in the Carkulroth, but inscribed in it is a giant rune.  
+It would seem that this temple is used in some sort of magick.  The
+floor has two huge cracks in it that are about five feet wide.  There
+is a statue made of black glass rock, that is knocked over, and is
+missing its head.    
+~
+119 0 0 0 0 0
+D4
+~
+~
+0 0 11994 16
+D5
+~
+~
+0 -1 11976 0
+S
+#11978
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11974 0
+D4
+~
+~
+0 -1 11979 0
+S
+#11979
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11980 0
+D5
+~
+~
+0 -1 11978 0
+S
+#11980
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11981 0
+D5
+~
+~
+0 -1 11979 0
+S
+#11981
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11980 0
+D5
+~
+~
+0 -1 11982 0
+S
+#11982
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11981 0
+D5
+~
+~
+0 -1 11983 0
+S
+#11983
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11984 0
+D4
+~
+~
+0 -1 11982 0
+S
+#11984
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11983 0
+D5
+~
+~
+0 -1 11985 0
+S
+#11985
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11984 0
+D5
+~
+~
+0 -1 11986 0
+S
+#11986
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11987 0
+D4
+~
+~
+0 -1 11985 0
+S
+#11987
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11986 0
+D5
+~
+~
+0 -1 11988 0
+S
+#11988
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D4
+~
+~
+0 -1 11987 0
+D5
+~
+~
+0 -1 11989 0
+S
+#11989
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D1
+~
+~
+0 -1 11990 0
+D4
+~
+~
+0 -1 11988 0
+S
+#11990
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D3
+~
+~
+0 -1 11989 0
+D4
+~
+~
+0 -1 11991 0
+S
+#11991
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D2
+~
+~
+0 -1 11992 0
+D5
+~
+~
+0 -1 11990 0
+S
+#11992
+Caves of Carkulroth~
+You are in the caves that the Throgs dwell from.  You hear voices from
+further away, but you cannot distinguish any words.  A cool breeze
+blows by your face giving you a breath of fresh air.  The ground is
+cool and damp.  The walls are all black, and slick as glass.    
+~
+119 603979776 0 0 0 0
+D0
+~
+~
+0 -1 11991 0
+D4
+~
+~
+0 -1 11993 0
+S
+#11993
+Caves of Carkulroth~
+The walls here are smooth as glass but have some jagged edges.  It
+would seem that there was lava flow near by once.  Wind blows by your
+face every once in a while, reminding you that you wont run out of
+air.  You hear the echo of a chain rattling on the ground.    
+~
+119 603979776 0 0 0 0
+D2
+~
+~
+0 -1 11969 0
+D5
+~
+~
+0 -1 11992 0
+S
+#11994
+Aidan's Abode~
+Above the Rune Temple, Aidan makes his home.  Khera and all those
+below him pay him homage as the keeper of this section of the world,
+He Who Protects.    
+~
+119 2162916 0 0 0 0
+D5
+~
+~
+0 0 11977 0
+S
+#11999
+Bar and Grill~
+You are in the Bar and Grill. In the corner of the room you see a black
+1980 Mustang Racer that just hit a deer. Its motor is running and is so
+loud its making your ears hurt. The room fills up with co2 and you feel like
+curling over and dying. So have a beer. Its on me. You see a bar, tables, and
+many stools against the wall, and a bartender waiting to serve you.
+~
+119 0 0 0 0 0
+S
+$~

@@ -1,0 +1,328 @@
+#30500
+/cLEntrance to the Valley/c0~
+/cLArriving at the mouth of what appears to be an endless cave, looming
+in perfect darkness, stepping slightly closer, it becomes apparent
+that the cave is guarded by what appears to be a large two headed
+dragon, surrounded by large trees on all sides which tower above./c0
+~
+305 67174468 0 0 0 4
+D0
+/cLYou peer deeply into the cave, but cannot make out anything beyond the
+dragon, a strange shroud of perfect blackness seems to elude within
+the cave./c0
+~
+~
+0 0 30505 0
+D2
+The forest to the south seems a lot more inviting than this strange place.
+~
+~
+0 0 19436 0
+D5
+~
+~
+0 0 -1 0
+E
+cave~
+/cLYou peer deeply into the cave, but cannot make out anything beyond the
+dragon, a strange shroud of perfect blackness seems to elude within
+the cave./c0
+~
+S
+#30501
+/cLA Silent Cave Corner/c0~
+/cLThe cave is made of a dark rock worn smooth from eons of use.  All
+along the walls are lined /cybunks/cL two sometimes three high.  Each /cybunk/cL
+is covered with a simple /clblack cover/cL with a bundle of /clblack velvet/cL at
+the head of each for a pillow.  It seems that just enough /cwlight/cL is
+naturally produced to allow for people to see there way easily to a
+/cybunk/cL but not enough to make it difficult to sleep soundly.  At the far
+back of the room you can see a /crshifting shape/cL that appears to stand
+ready to protect any who sleep here./c0
+~
+305 67174468 0 0 0 17
+D1
+A passage way lies just to the east.    
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 -1 0
+D4
+A stone stairway leads to the cavern passage above.
+~
+~
+0 0 30506 0
+D5
+~
+~
+0 0 -1 0
+E
+bunk~
+/cyThe bunk is made of a sturdy dark coloured wood, and has a soft
+mattress made of fur and cotton.  Each bunk has a small box built into
+the frame of it that seems to be just the right size to hold a weapon
+and maybe a small bag./c0
+~
+S
+#30502
+/cLA cobwebbed cave corner./c0~
+/cLThe chamber is made of a /clsolid black rock/cL with /cRcrimson veins/cL running
+through the surfaces.  The /cRveins/cL provide a /crlight/cL that adds a morbid
+/crblood tint/cL to everything inside it and barely allows one to see the
+entire room.  What can be seen shows a lingering feeling of being
+around for many an eon.  Is it possible the denizens of this dark and
+/cbevil/cL place are older then many of the races that walk this world.  As
+time passes the cave slowly and constantly shifts form, from a cave of
+solid material to one of a spectral mist.  Making even the barest and
+simple sense of security and fear blend as one./c0
+~
+305 65600 0 0 0 17
+D1
+A passage way lies just to the east.    
+~
+~
+0 0 30506 0
+S
+#30503
+/cLCave of the DarkLords/c0~
+/cLThe chamber is made of a /clsolid black rock/cL with /cRcrimson veins/cL running
+through the surfaces.  The /cRveins/cL provide a /crlight/cL that adds a morbid
+/crblood tint/cL to everything inside it and barely allows one to see the
+entire room.  What can be seen shows a lingering feeling of being
+around for many an eon.  Is it possible the denizens of this dark and
+evil place are older then many of the races that walk this world.  As
+time passes the cave slowly and constantly shifts form, from a cave of
+solid material to one of a spectral mist.  Making even the barest and
+simple sense of security and fear blend as one./c0
+~
+305 327744 0 0 0 17
+D1
+The glowing glint of treasures and valuables can been seen to the east.
+~
+~
+0 0 30508 0
+D3
+A passage way lies just to the west.
+~
+~
+0 0 30506 0
+D4
+A dark passage leading to the service can be seen above.
+~
+~
+0 0 30505 0
+S
+#30504
+/cLThe Storage Cave/c0~
+/cLThe chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures. /cy A sign indicates new arrivals are placed here./c0
+~
+305 4259904 0 0 0 17
+D0
+~
+~
+0 0 30510 0
+D3
+Strange noises can be heard coming from the west.
+~
+door~
+1 30502 30508 7
+D5
+~
+~
+0 0 30507 0
+E
+treasure~
+The wealth of the world seems to be collected here for the plain
+pleasure of it captures.  What ever can be imagined seems to be held
+here for their sole enjoyment and pleasure.    
+~
+S
+#30505
+/cLA Dark Cave Tunnel/c0~
+/cLNot much can be seen within the shroud of darkness, strange sounds
+come from below, and the heavy breathing of the guardian dragon can be
+heard close by./c0
+~
+305 67174468 0 0 0 17
+D2
+/cLYou think you can just about make out the cave entrance, but it is
+hard to tell from within the shroud of darkness, the one thing you can
+be sure of, is that the heavy breathing is coming from the large
+dragon, its eyes watching you as you look back./c0~
+~
+0 0 30500 0
+D5
+You can see nothing, but you are sure that this is where the strange
+sounds you can hear are coming from.    
+~
+~
+0 0 30503 0
+S
+#30506
+/cLA Cavern Passageway/c0~
+/cLThe cavern passageway has been cut directly into the underground rock,
+expanding the hall further eastwards, to the northern side of the
+passageway, a spiral staircase cut out of the rock face leads deeper
+under the ground./c0
+~
+305 65600 0 0 0 17
+D1
+Strange noises can be heard coming from the east.
+~
+~
+0 0 30503 0
+D3
+Strange noises can be heard coming from the west.    
+~
+~
+0 0 30502 0
+D5
+Not even the whisper of the wind can be heard from the staircase.    
+~
+~
+0 0 30501 0
+S
+#30507
+/cLThe Cave Of /clMagic/c0~
+/cLThe chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures. /cy A sign indicates wands and other magical items
+are here./c0
+~
+305 4259904 0 0 0 17
+D4
+~
+~
+0 0 30504 0
+S
+#30508
+/cLThe DarkLords Fund Keeper/c0~
+/cLThe chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures./c0
+~
+305 65600 0 0 0 17
+D1
+/cLThe solid iron door is placed directly in your path, its reinforced
+structor showing clearly thruough its decrative design of weapons,
+armor and other treasures enscribed around the outer rim, whilst the
+image of 3 towers shimmers within the center./c0
+~
+door~
+1 30502 30504 7
+D3
+~
+~
+0 0 30503 0
+S
+#30509
+/cLThe Lower Storage Cave/c0~
+/cLThe chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures. /cy A notice on the wall indicates the equipment
+stored here is for the lower levels./c0
+~
+305 4259904 0 0 0 17
+D4
+~
+~
+0 0 30510 0
+S
+#30510
+/cLThe Medium Storage Cave/c0~
+/cLThe chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures. /cy A notice on the wall indicates the equipment
+stored here is for the medium levels./c0
+~
+305 4259904 0 0 0 17
+D2
+~
+~
+0 0 30504 0
+D4
+~
+~
+0 0 30511 0
+D5
+~
+~
+0 0 30509 0
+S
+#30511
+/cLThe Higher Storage Cave/c0~
+The chamber has been dug and carved from solid rock as far back as can
+be seen.  In each wall are carved large nooks holding many different
+tools and equipment.  Spaced every so often along the ceiling are
+large braziers burning strong and bright.  Throughout the chamber
+racks, shelves and piles of all sorts of treasures, armour and weapons
+can be seen.  No matter what the need these people are sure to have
+whatever they could ever want here for their personal demand and use.
+Imagine the death they must have dealt to the world to collect such a
+trove of treasures. /cy A notice on the wall indicates the equipment
+stored here is for the higher levels./c0
+~
+305 4259904 0 0 0 17
+D5
+~
+~
+0 0 30510 0
+S
+#30599
+/cLThe DarkLords Shop/c0~
+/cLThe chamber has been dug and carved from /clsolid rock/cL as far back as can
+be seen.  In each wall large, carved nooks holding many different
+/cytools/cL and/cy equipment/cL.  Spaced every so often along the ceiling are
+large /cYbraziers/cL burning strong and /cWbright/cL.  Throughout the chamber
+/cyracks/cL and /cyshelves/cL of strange /cbpotions/cL, and piles of all sorts of
+/cwscrolls/cL, crowd the large cave, even the odd weapon and item of armour
+can be seen.  A long counter blocking further passage into the cave is
+tended by a young /cgDraconian/cL who smiles at you with a strange
+mischievous grin./c0
+~
+305 67174464 0 0 0 0
+D0
+~
+~
+0 0 3534 0
+S
+$~

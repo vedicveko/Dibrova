@@ -1,0 +1,1940 @@
+#14900
+Temple Road~
+Near the center of this long road, you look north and south for exits
+from this long, tiring expanse of cobbled pavement.  South of here,
+you see the inside of the MidWest gate, while southwest is its exit.
+Southeast of here, you spy a humble temple.  To the northeast,
+however, a grand, majestic oak towers above the buildings of the city.
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14901 0
+S
+#14901
+Temple Road~
+As you walk the long, seemingly endless variety of cobblestones which
+make up this road, you notice a great vision of greenery to the east.
+Turning to look, you see a majestic, gargantuan tree...  Certainly the
+largest oak you've ever seen in a largely populated area.  It's
+singularity seems to make it some sort of symbolic presence, like a
+talisman of ultimate nature grasped cruelly in the stony talons of
+society.  The road continues from here, both to the north and the
+south.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14902 0
+D1
+~
+~
+0 -1 14921 0
+D2
+~
+~
+0 -1 14900 0
+S
+#14902
+Temple Road~
+You are standing on the Temple Road, which runs almost endlessly south
+of here, and beginning just to the north.  An equipment shop lies to
+the northeast, while you see a great oak to the southeast, filling the
+sky with its beautiful greenery.  You marvel at its size and its
+solidity, within the walls of an almost natureless city.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14903 0
+D2
+~
+~
+0 -1 14901 0
+S
+#14903
+Temple Road~
+You are standing on the northernmost end of Temple Road, leading from
+the inside of the NorthWest gate, just north of here.  The road
+continues south from here, finally meeting with South Street at its
+southern end.  East of here, you see the entryway to a small shop,
+which specializes in the selling of basic equipment for adventuring
+needs.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14904 0
+D1
+~
+~
+0 -1 14932 0
+D2
+~
+~
+0 -1 14902 0
+S
+#14904
+Inside the NorthWest Gate of Mordilnia~
+At the northwestern outskirts of town, the cobblestone road runs south
+along Temple Road, and east through Opal Court and Diamond Street.  
+What lies west, through the heavy iron gate and out of town, you'll
+not know untill you venture that way.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14906 0
+D2
+~
+~
+0 -1 14903 0
+D3
+~
+gate~
+1 -1 14905 3
+S
+#14905
+Outside the NorthWest Gate of Mordilnia~
+You are standing outside the Northwest gate of Mordilnia.  A large
+forest lies to the west, and a trail leads westward into the forest.
+~
+149 0 0 0 0 1
+D1
+~
+gate~
+1 -1 14904 3
+D3
+~
+~
+0 -1 18392 0
+S
+#14906
+Opal Court~
+This semi-road, cobble stoned as is the rest of the city, heads north,
+toward the town wall, and the jewelry shop above.  Glancing westward,
+you see a gate leading out of town, while the scenery of the east
+flows toward the center of Mordilnia, and a bit past it.  The sounds
+of a forge can be heard nearby, and you wince at the deafening
+revertebrations of the hammer as it meets the anvil, sending a ringing
+sound through the streets, a sound not unlike that of heavy weaponry
+clashing furiously in battle.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14907 0
+D1
+~
+~
+0 -1 14909 0
+D3
+~
+~
+0 -1 14904 0
+S
+#14907
+Opal Court~
+You stand at the end of Opal Court, shadowed by the jewelry shop
+above; the building seemingly levitating in mid-air.  Upon closer
+inspection, however, you see that the building is built into the top
+of the wall surrounding Mordilnia, with a strong, steel frame stairway
+leading up to the front door of the establishment.  Though the cobbled
+stone street here is shadowed by the building above it, the stones
+have an almost supernatural polished gleam to them, as if advertising
+the wares bought and sold daily just atop the stair...    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14906 0
+D4
+~
+~
+0 -1 14908 0
+S
+#14908
+Belmirek's Fine Jewelry~
+You stand in the typical shop of a jeweler; expensive carpeting,
+drapes, crystalline display cases displaying the wares, and a sense of
+monetary loss, even if nothing is bought or sold by you.  The cloving
+scent of incense floats lazily about the room, calming the mind and
+relaxing the muscles.  It, and the glittering gemstones, are the only
+things of serenity in the room.    
+~
+149 8 0 0 0 0
+D5
+~
+~
+0 -1 14907 0
+S
+#14909
+Diamond Street~
+This is the westernmost end of Diamond Street.  Even farther west is
+Opal Court, and the NorthWest Gate.  The cobblestone street is covered
+in soot and ash, and the sounds of a forge can be heard, both coming
+from the blacksmithy to the south.  A cleaner section of the street
+can be found eastward.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14911 0
+D2
+~
+~
+0 -1 14910 0
+D3
+~
+~
+0 -1 14906 0
+S
+#14910
+The Blacksmithy~
+You stand inside the sooty workshop of Mordilnia's Blacksmith.  The
+walls and ceiling are blackened with heat and grime, giving you a good
+impression of a fiery dragon's lair.  The floor is constructed of
+cobbled stone, some of which has been worked loose over the years.  A
+large assortment of armours and weapons hang from the walls here, and
+a giant cauldron of cool, steel-quenching water lies in the center of
+the room, waiting to extinguish the metal's heat.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -1 14909 0
+S
+#14911
+Diamond Street~
+The smell of roses, apples, and oranges wafts through the street here,
+coming from a beautiful courtyard to the north.  The cobblestones in
+this section of the street are so clean that they seem to have been
+polished with great care, but to the west the street is filthy with
+ashes and soot.  To the east, you see the town square.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14933 0
+D1
+~
+~
+0 -1 14912 0
+D3
+~
+~
+0 -1 14909 0
+S
+#14912
+The Mordilnia Town Square~
+At the center of town, you see that Mordilnia bustles with activity,
+as clouds of dust float lazily down the cobblestone street, marking
+the passing of many people.  Here in the the heart of the town, you
+can see the groups of establishments and small villas lining the
+streets.  Diamond Street leads west from here, Blackraven Avenue leads
+east, and Phantom Road leads south.  To the north, Wizard Way leads to
+the North Gate, and beyond.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14934 0
+D1
+~
+~
+0 -1 14939 0
+D2
+~
+~
+0 -1 14913 0
+D3
+~
+~
+0 -1 14911 0
+S
+#14913
+Phantom Road~
+The sun beats warmly down your back and on the street here.  A sense
+of friendliness and good cheer fills the air.  The cobblestone road
+runs north, into the town square, and southward.  To the east, the
+sign of a small tavern catches your eye.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14912 0
+D1
+~
+~
+0 -1 14914 0
+D2
+~
+~
+0 -1 14916 0
+E
+sign~
+You see a wooden sign, hanging from above the doorway. It reads:
+   'Der Ratskeller's Bar and Grille'
+~
+S
+#14914
+Der Ratskeller's Bar and Grille~
+You sense an air of peace and well-being here, as this is the palace
+of drunken gossip and rest from adventure.  The hardwood floor is
+finely polished and still shines, though many heeled boots have tried
+to scar its surface in the past.  The building is illuminated by many
+small candles hanging from oaken pillars, giving the room a warm,
+cheery glow.  Many tables are sitting around the room, and a long,
+oaken bar sits against the far wall.    
+~
+149 8 0 0 0 0
+D3
+~
+~
+0 -1 14913 0
+D4
+~
+~
+0 -1 14915 0
+S
+#14915
+The Inn of Der Ratskeller's~
+This room is made of finely polished wood, from which wafts a
+pleasant, and somewhat familiar smell.  The sconces holding the
+candles which illuminate the room are crafted from fine pewter, and
+the mahogany staircase leading down to the Bar looks well cared for.
+A large tome rests on the desk here.    
+~
+149 8 0 0 0 0
+D5
+~
+~
+0 -1 14914 0
+E
+tome book~
+This is the book used by the Innkeeper to take note of the names of those who
+stay at the Inn.
+~
+S
+#14916
+Phantom Road~
+You stand on Phantom Road, which leads north and south from here.  To
+the west, you see The Apothecary Shop, where one can pay to have
+spells of a beneficial sort cast to restore health and vigor.  
+Northeast from here, you see Der Ratskeller's Bar and Grille, while
+The Executioner's Block lies to the southwest.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14913 0
+D1
+~
+~
+0 0 14916 0
+D2
+~
+~
+0 -1 14918 0
+D3
+~
+~
+0 -1 14917 0
+S
+#14917
+The Apothecary Shop~
+Standing in this humble building, you can see the vast amounts of holy
+articles which serve as the rooms decor.  Splendid portraits of
+ancient gods are hung neatly upon the walls, as well as intricately
+smithed golden candelabras which hold herb-scented, multicolored
+candles of a respected and lovely craft.  Vast, almost limitless tomes
+containing holy knowledge fill countless shelves, as well as
+statuettes depicting deities of every pantheon and creed.  At the
+front of the shop, for that is the true purpose of this otherwise
+saintly abode, sits a small, mahogany desk scarred by many years of
+loving use by quill and scroll.    
+~
+149 8 0 0 0 0
+D1
+~
+~
+0 -1 14916 0
+S
+#14918
+Phantom Road~
+You are standing on Phantom Road, which continues to the north.  The
+Executioner's Block lies west of here, and you see an Apothecary Shop
+to the northwest.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14916 0
+D3
+~
+~
+0 -1 14919 0
+S
+#14919
+The Executioner's Block~
+At the center of the intersection stands a large wooden stage of
+sorts.  At the southern edge of the stage, you see a podium, its ebony
+surface a grim testament to the death which has been dealt here.  In
+the center of the wooden stage, a guillotine stands, solemnly waiting
+for its wicked blade to bite into flesh and bone.  Spectators of past
+decapitations have always gasped at the meaty thump of a severed head
+falling into the blood-lined interior of the bucket below.  East of
+here, you see Phantom Road.  East Avenue runs south into South Street
+from here, and oddly enough, you see an oak tree shading the grass of
+the Town Common to the west.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14918 0
+D2
+~
+~
+0 -1 14922 0
+D3
+~
+~
+0 -1 14920 0
+S
+#14920
+The Town Common~
+You stand on the soft, fragrant grasses of the Town Common, where
+those who seek rest or socialization often venture.  You see many
+indications of past loungings, such as soft indentations in the grass
+where someone has briefly taken seat for lunch or small talk.  Small,
+wild flowers grow in dense, well-distributed patches throughout the
+common, giving you a picture of simplistic beauty.  A great, towering
+oak resides west of here, shading that part of the common and
+providing an adequate place of slumber.  The only irony to these
+sights is the existance of the sadistic tool of death just east of
+here, a great chopping block for those of unruly nature.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14919 0
+D3
+~
+~
+0 -1 14921 0
+S
+#14921
+At The Great Oak~
+You stand at the thick base of the gargantuan Great Oak.  Its trunk is
+as thick as any building in Mordilnia, a testimony to its great age.
+None of the inhabitants know how or why it is here, but some have
+guessed that it was planted millennia ago by a wisened race of Druidic
+creatures, as a legacy of their passing, and some traveller set up
+camp at its base, eventually deciding to stay, building Mordilnia as a
+whole around this central figurehead of nature and beauty.  No one has
+dared bring blade against this tree, for some unspoken law, or perhaps
+a Druidic ritual, has forbade it.  The Town Common lies east of here,
+shaded by the branches of the oak, while the Temple Road is to the
+west.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14920 0
+D3
+~
+~
+0 -1 14901 0
+S
+#14922
+East Avenue~
+As you stand here, you see that East Avenue continues southward, to
+South Street, which eventually meanderes off into the Guild Roads.  
+North of here, you see The Executioner's Block, and shiver
+uncomfortably at the thought of your neck under the blade.  To the
+southeast, you see a sign claiming that the door beneath it leads to
+the Bank of Mordilnia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14919 0
+D2
+~
+~
+0 -1 14923 0
+S
+#14923
+East Avenue~
+You are standing on East Avenue.  The street runs north, where you can
+see a guillotine at its end, and southward to South Street.  Glancing
+to the east, you see the reputable Bank of Mordilnia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14922 0
+D1
+~
+~
+0 -1 14924 0
+D2
+~
+~
+0 -1 14925 0
+S
+#14924
+The Bank of Mordilnia~
+You stand in the lavishly furnished bank of Mordilnia.  Soft, leather
+upholstered couches line the walls, though they seem to show no signs
+of use, past or recent.  The carpeted floor and paneled walls,
+accompanied by the soft glow of the illuminating wall lamps suggest
+wealth and prosperity.  A single, barred window lies to the east,
+behind which the bank teller makes note of and executes all
+transactions.  Through the door to the west, you see East Avenue.    
+~
+149 8 0 0 0 0
+D3
+~
+~
+0 -1 14923 0
+S
+#14925
+East Avenue~
+You stand on the southernmost end of East Avenue, which seems to lack
+any prominant features...  At least any worth mention.  The roadway
+continues north and south from this point.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14923 0
+D2
+~
+~
+0 -1 14926 0
+S
+#14926
+Intersection: East Avenue and South Street~
+You stand at an intersection, looking intently at your surroundings
+for a hint of where you should travel.  East Avenue runs north from
+here, eventually to the infamous executioner's block.  South Street
+runs both west and east.  Along the westernmost section of te street,
+you see a few shops and other buildings, while eastward the road
+abruptly ends, meandering to the south, onto the Guild Roads.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14925 0
+D1
+~
+~
+0 -1 14927 0
+D3
+~
+~
+0 -1 14928 0
+S
+#14927
+South Street~
+You are at the eastern end of South Street, which continues to the
+west some distance untill merging with Temple Road.  Northwest of here
+lies East Avenue, and to the south you see the famous Guild Roads - so
+named for the almost central concentration of the guilds.    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14943 0
+D3
+~
+~
+0 -1 14926 0
+S
+#14928
+South Street~
+The dust which comes up from your walking is thick here; this road is
+less travelled than the others.  It continues both to the east and
+west, turning north to the immediate east onto East Avenue.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14926 0
+D3
+~
+~
+0 -1 14929 0
+S
+#14929
+South Street~
+You stand on South Street, which continues to the east and west from
+here.  The cobbled stones of this street seem to be less worn, as this
+area is not as often travelled as the other streets in the city.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14928 0
+D3
+~
+~
+0 -1 14930 0
+S
+#14930
+South Street~
+You stand on the western end of South Street, which runs east of here.
+To the north, Temple Road continues in that direction, with no end in
+sight.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14931 0
+D1
+~
+~
+0 -1 14929 0
+S
+#14931
+Temple Road~
+You are standing at the southernmost end of Temple Road.  Its rough,
+cobbled surface extends far to the north, and suddenly ends south of
+here, turning eastward on South Street.  To the northeast, you see the
+Temple of Mordilnia, just opposite the MidWest gate.    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14930 0
+S
+#14932
+Heimslan's Surplus Equipment Shop~
+You stand in a small, comfortable shop.  The stone floor has a few
+rugs thrown on it, so that wet or muddied adventurers have a spot to
+clean their boots.  Shelves line the walls here, lined and neatly
+packed with a great multitude of adventuring equipment; from bags to
+torches, and beyond.    
+~
+149 8 0 0 0 0
+D3
+~
+~
+0 -1 14903 0
+S
+#14933
+In Front of the Villa~
+You stand in the front yard of this lavish courtyard.  There is a
+beautiful marble fountain of a dragon with water flowing from its
+mouth, positioned in the center of the walkway.  Large apple and
+orange trees line the sides of the building as you look at it, giving
+you a sense of peaceful splendor.  The fresh-cut lawn and exotic
+flowers show you that the owner of this place has much wealth.    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14911 0
+S
+#14934
+Wizard Way~
+Nearly in the center of town, you can hear, if not taste, the
+goings-on of the inhabitants.  The cobblestone road leads north,
+eventually out of town, and south, into the Town Square and beyond.  
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14935 0
+D1
+~
+door~
+1 0 14996 3
+D2
+~
+~
+0 -1 14912 0
+S
+#14935
+Wizard Way~
+Here at the northernmost sector of town, you can still hear the sounds
+of the wilderness, mixed in with the more familiar bustlings of
+civilization.  To the north, a gate leads out of town, into the
+wilderness, and southward, the road continues.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14936 0
+D2
+~
+~
+0 -1 14934 0
+S
+#14936
+Inside the North Gate of Mordilnia~
+You are inside the walls of the town, an unpaved dirt road leading
+north, and Wizard Way leading southward.  The walls look strong and
+new, but are much weaker than those surrounding Midgaard.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14937 0
+D2
+~
+~
+0 -1 14935 0
+S
+#14937
+Outside the North Gate of Mordilnia~
+You are outside of the protective walls of Mordilnia, just south of
+here, and are exposed to the elements of the wilderness, so close to
+the haven of the town.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14938 0
+D2
+~
+~
+0 -1 14936 0
+S
+#14938
+On the Road to Mordilnia~
+You walk on an old dirt road, though it seems less abused here than it
+is farther north.  Either side of the road here is surrounded by thick
+shrubbery, which starts here and extends southward until it reaches
+the walls of Mordilnia.    
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14982 0
+D2
+~
+~
+0 -1 14937 0
+S
+#14939
+Blackraven Avenue~
+You stand at the beginning of Blackraven avenue, which heads east to
+the town square, and west to an eventual dead end.  Clouds of dust
+float close to the ground here, touching down on the cobbled stone
+street and lifting off again with the changes in the wind.  To the
+northwest, you see an alchemy shop.  The faint scent of sulphur and
+exotic spices wrestle with your sense of smell.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14940 0
+D3
+~
+~
+0 -1 14912 0
+S
+#14940
+Blackraven Avenue~
+Here, the scents of chemical and spice are nearly overpowering, and
+your hair at the base of your neck stands on end with the strong
+magical energy that is pulsating through the atmosphere.  Some sort of
+hallucigenic residue floats through the air here, for your vision
+blurs and colors change; from magenta to fuscia, to every visible
+color imaginable.  The sign of the shop to the north seems to waver
+and dance writhingly, and the cobbled stones beneath your feet seem to
+shift restlessly, as if they were tiny, sentient beings, set on
+carrying your weight with only their sheer size in numbers.  Then a
+fresh wind tugs at your face and through your hair, and all is normal
+in the world once again.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14942 0
+D1
+~
+~
+0 -1 14941 0
+D3
+~
+~
+0 -1 14939 0
+S
+#14941
+Blackraven Avenue~
+You are standing at the easternmost end of Blackraven Avenue, which
+stops here with the eastern gate.  The street continues to the west
+from here, and to the immediate west you see a spiralling cloud of
+multicolored gases, just it front of the Alchemy Shop.  The source of
+these gases seems to be a ventillation pipe leading from the roof of
+the establishment.  Here, it is dead calm.    
+~
+149 0 0 0 0 1
+D3
+~
+~
+0 -1 14940 0
+S
+#14942
+The House of Supreme Alchemy~
+As you stand in this dim, musty room, you discover that the cloying
+smells of exotic spices and strange chemicals are not as strong as
+they are out on the street.  In fact, this doesn't look to be a
+laboratory of any sort, so the room where the various potions and
+other oddities are made must be located in the back somewhere, with a
+ventillation shaft extanding above the shop.  Here, you see strange,
+arcane symbols attached to the walls here and there along with shelves
+full of bottled liquids and jarred powders.  A large, stone-carved
+counter lies in the center of the room, with neatly stacked papers and
+other secretarial paraphanelia lining its top.  To the south, you see
+the street.    
+~
+149 8 0 0 0 0
+D2
+~
+~
+0 -1 14940 0
+S
+#14943
+The Guild Roads~
+You are standing at the beginning of a mazelike procession of streets,
+which contain and are compromised of all the guilds of every
+profession.  The odd construction of these roads has never been fully
+understood...  As if some deranged architect were put to the task of
+designing a trap of knowledge for the unwary.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14927 0
+D1
+~
+~
+0 -1 14944 0
+D2
+~
+~
+0 -1 14957 0
+S
+#14944
+The Guild Roads~
+Walking along the cobbled stone street, with the wind whipping through
+your hair, you notice a lone Knight standing before a majestic oaken
+door to the south.  The road leads east and west, but stops in either
+direction.  You feel boxed in for some unspecified reason...    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14945 0
+D2
+~
+~
+0 -1 14956 0
+D3
+~
+~
+0 -1 14943 0
+S
+#14945
+The Guild Roads~
+You stand at the eastern corner of the northernmost block of the Guild
+Roads.  You wonder why the roads were not constructed as one, with the
+various guilds lining it, instead of its current configuration.  The
+road continues both to the west and the south, and you see the
+entrance to the Warriors' Guild to the southwest.    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14946 0
+D3
+~
+~
+0 -1 14944 0
+S
+#14946
+The Guild Roads~
+You are standing on the Guild Roads, which twist and wind their way
+together in a strange, mysterious fashion.  To the north, the road
+ends, but turns to the west.  Southward, the road continues into an
+entryway of some sort, but turns eastward.  West of here, you see the
+entrance to the guild of Warriors.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14945 0
+D2
+~
+~
+0 -1 14947 0
+D3
+~
+~
+0 -1 14956 0
+S
+#14947
+The Guild Roads~
+You are standing on The Guild Roads, which continue to the north and
+the east, though both directions end with the town wall.  Where the
+road ends to the north, it turns westward, and where it ends to the
+east, it turns to the south.  An odd configuration of streets, if you
+ever saw one...  South of here is the Entryway to the Guild of
+Clerics, while to the northwest you see the Entryway to the Warriors'
+Guild.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14946 0
+D1
+~
+~
+0 -1 14948 0
+D2
+~
+~
+0 -1 14976 0
+S
+#14948
+The Guild Roads~
+You are standing on The Guild Roads, wondering how anyone could keep
+track of themselves through this barrage of mazelike roads.  The road
+heads east and west from here, ending in both directions but turning
+northward to the west and turning southward toward the east.  You hear
+cries of anger and frustration from somewhere on the roads...    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14949 0
+D3
+~
+~
+0 -1 14947 0
+S
+#14949
+The Guild Roads~
+You stand on the northern corner of the eastern block of the Guild
+Roads.  The road continues both to the west and to the south.  The
+southern stretch ends with the town wall, but turns westward once
+again, while just south of here lies the SouthEast gate, the only
+eastern gate in all of Mordilnia.    
+~
+149 0 0 0 0 1
+D2
+~
+~
+0 -1 14950 0
+D3
+~
+~
+0 -1 14948 0
+S
+#14950
+Inside the SouthEast Gate of Mordilnia~
+You stand at the SouthEast gate of Mordilnia, a heavy oaken portal
+with overlapping iron bands for reinforcement.  It stands nearly three
+men tall, and looks to be a cumbersome thing to open.  Looking closely
+at its surface, you see that it has been hacked in several places, as
+if someone from the inside were trying to get out.  The Guild Roads
+continue north and south of here, the northern stretch turning
+westward as does the southern end.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14949 0
+D1
+~
+gate~
+1 -1 14980 1
+D2
+~
+~
+0 -1 14951 0
+S
+#14951
+The Guild Roads~
+You stand on the southern corner of the eastern block of the Guild
+Roads.  The road continues both to the west and to the north.  The
+northern stretch ends with the town wall, but turns westward once
+again, while just north of here lies the SouthEast gate, the only
+eastern gate in all of Mordilnia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14950 0
+D3
+~
+~
+0 -1 14952 0
+S
+#14952
+The Guild Roads~
+You are standing on The Guild Roads, wondering how anyone could keep
+track of themselves through this barrage of mazelike roads.  The road
+heads east and west from here, ending in both directions but turning
+northward to the east and turning southward toward the west.  You hear
+cries of anger and frustration from somewhere on the roads...    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14951 0
+D3
+~
+~
+0 -1 14953 0
+S
+#14953
+The Guild Roads~
+You are standing on The Guild Roads, which continue to the south and
+the east, though both directions end with the town wall.  Where the
+road ends to the south, it turns westward, and where it ends to the
+east, it turns to the north.  An odd configuration of streets, if you
+ever saw one...  North of here is the Entryway to the Guild of
+Clerics, while to the southwest you see the Entryway to the Guild of
+Thieves.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14976 0
+D1
+~
+~
+0 -1 14952 0
+D2
+~
+~
+0 -1 14954 0
+S
+#14954
+The Guild Roads~
+You are standing on the Guild Roads, which twist and wind their way
+together in a strange, mysterious fashion.  To the south, the road
+ends, but turns to the west.  Northward, the road continues into an
+entryway of some sort, but turns eastward.  West of here, you see the
+entrance to the guild of Thieves.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14953 0
+D2
+~
+~
+0 -1 14955 0
+D3
+~
+~
+0 -1 14972 0
+S
+#14955
+The Guild Roads~
+You stand at the eastern corner of the southernmost block of the Guild
+Roads.  You wonder why the roads were not constructed as one, with the
+various guilds lining it, instead of its current configuration.  The
+road continues both to the west and the north, and you see the
+entrance to the Thieves' Guild to the northwest.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14954 0
+D3
+~
+~
+0 -1 14969 0
+S
+#14956
+The Entryway to The Guild of Warriors~
+You are standing at the entryway of the Guild of Warriors; a guild of
+brute strength and instinct, a guild of people who revel in hacking
+the life out of their adversaries.  The roof above you is made of
+finely polished ceramic tile, while the walls are made of a hard,
+granite-like substance.  The southern door, which leads into the main
+room itself, is crafted of a sturdy wood which has been sanded and
+finished to a gleaming shine.  On either side of the door, exquisite
+marble columns as big around as an average sized tree hold up the
+ceiling above your head, so beautiful and yet so stonily strong and
+cold.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -1 14944 0
+D1
+~
+~
+0 -1 14946 0
+D2
+~
+~
+0 -1 14975 0
+D3
+~
+~
+0 -1 14957 0
+S
+#14957
+The Guild Roads~
+You are standing on the Guild Roads, which twist and wind their way
+together in a strange, mysterious fashion.  To the north, the road
+ends, but turns to the west.  Southward, the road continues into an
+entryway of some sort, but turns westward.  East of here, you see the
+entrance to the guild of Warriors.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14943 0
+D1
+~
+~
+0 -1 14956 0
+D2
+~
+~
+0 -1 14958 0
+S
+#14958
+The Guild Roads~
+You are standing on The Guild Roads, which continue to the north and
+the west, though the northern stretch intersects with South Street,
+while west ends end with the town wall.  Where the road ends to the
+north, it turns westward, and where it ends to the west, it turns to
+the south.  An odd configuration of streets, if you ever saw one...  
+South of here is the Entryway to the Guild of Magic-Users, while to
+the northeast you see the Entryway to the Warriors' Guild.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14957 0
+D2
+~
+~
+0 -1 14966 0
+D3
+~
+~
+0 -1 14959 0
+S
+#14959
+The Guild Roads~
+You are standing on The Guild Roads, wondering how anyone could keep
+track of themselves through this barrage of mazelike roads.  The road
+heads east and west from here, ending in both directions but turning
+northward to the east and turning southward toward the west.  You hear
+cries of anger and frustration from somewhere on the roads...    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14958 0
+D3
+~
+~
+0 -1 14960 0
+S
+#14960
+The Guild Roads~
+You stand on the northern corner of the western block of the Guild
+Roads.  The road continues both to the east and to the south.  The
+southern stretch ends with the town wall, but turns both east and
+west, the western stretch leading to the SouthWest Gate of Mordilnia.
+  
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14959 0
+D2
+~
+~
+0 -1 14961 0
+S
+#14961
+The Guild Roads~
+Looking at the city from overhead, you would see that, at your present
+location, this side of the Guild Roads differs from the eastern side
+in that there is no gate here.  It lies south and west of here...  
+Another testament to the strangeness of the Roads' creator.  You can
+go north and south from here.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14960 0
+D2
+~
+~
+0 -1 14962 0
+S
+#14962
+The Guild Roads~
+You stand at the southern corner of the western block of The Guild
+Roads.  The road continues to the north, west, and east.  The northern
+stretch ends with the town wall, but turns eastward.  East of here,
+the road continues, but turns southward, while to the immediate west,
+the road makes a sharp turn southward, to the SouthWest Gate of
+Mordilnia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14961 0
+D1
+~
+~
+0 -1 14967 0
+D3
+~
+~
+0 -1 14963 0
+S
+#14963
+The Guild Roads~
+You stand at the westernmost end of the Guild Roads.  The road leads
+back to the east, turning northward to the immediate east.  South of
+here, you see the SouthWest Gate of Mordilnia.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14962 0
+D2
+~
+~
+0 -1 14964 0
+S
+#14964
+Inside the SouthWest Gate of Mordilnia~
+You are standing at the entrance (or exit) of the western gate.  It
+stands open at the ready as the bustle of the common trader and
+merchant walk up and down the streets of Mordinia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14963 0
+D3
+~
+~
+0 -1 14965 0
+S
+#14965
+Outside the SouthWest Gate of Mordilnia~
+You are standing at the edge of town.  A large gate rusted over from
+storm after storm is left in a state of open.  Grass and rocks have
+piled up against the gate engraving it forever into the ciries
+landscape.    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14964 0
+S
+#14966
+The Entryway to The Guild of Magicians~
+You are standing at the entryway of the Guild of Magicians; a guild of
+arcane lore, ancient runes, and mysterious ways.  The sorcery which
+encircles this building leaves you in awe of its power, for you can
+taste an electricity in the air just standing here.  The roof above
+you is made of finely polished ceramic tile, while the walls are made
+of a hard, granite-like substance.  The western door, which leads into
+the main room itself, is crafted of a sturdy wood which has been
+sanded and finished to a gleaming shine.  On either side of the door,
+exquisite marble columns as big around as an average sized tree hold
+up the ceiling above your head, so beautiful and yet so stonily strong
+and cold.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -1 14958 0
+D2
+~
+~
+0 -1 14968 0
+D3
+~
+~
+0 -1 14974 0
+S
+#14967
+The Guild Roads~
+You are standing on The Guild Roads, wondering how anyone could keep
+track of themselves through this barrage of mazelike roads.  The road
+heads east and west from here, ending in both directions but turning
+northward to the west and turning southward toward the east.  You hear
+cries of anger and frustration from somewhere on the roads...    
+~
+149 0 0 0 0 1
+D1
+~
+~
+0 -1 14968 0
+D3
+~
+~
+0 -1 14962 0
+S
+#14968
+The Guild Roads~
+You are standing on The Guild Roads, which continue to the south and
+the west, though both directions end with the town wall.  Where the
+road ends to the south, it turns eastward, and where it ends to the
+ewst, it turns to the north.  An odd configuration of streets, if you
+ever saw one...  North of here is the Entryway to the Guild of
+Magic-Users, while to the southeast you see the Entryway to the
+Thieves' Guild.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14966 0
+D2
+~
+~
+0 -1 14971 0
+D3
+~
+~
+0 -1 14967 0
+S
+#14969
+The Guild Roads~
+From here, both directions meeting with the wall and turning
+northward.  To the north, you can see the Entryway to The Guild of
+Thieves, while south of here is the South Gate of Mordilnia.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14972 0
+D1
+~
+~
+0 -1 14955 0
+D2
+~
+~
+0 -1 14978 0
+D3
+~
+~
+0 -1 14970 0
+S
+#14970
+The Guild Roads~
+You stand at the western corner of the southernmost block of the Guild
+Roads.  You wonder why the roads were not constructed as one, with the
+various guilds lining it, instead of its current configuration.  The
+road continues both to the east and the north, and you see the
+entrance to the Thieves' Guild to the northeast.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14971 0
+D1
+~
+~
+0 -1 14969 0
+S
+#14971
+The Guild Roads~
+You are standing on the Guild Roads, which twist and wind their way
+together in a strange, mysterious fashion.  To the south, the road
+ends, but turns to the east.  Northward, the road continues into an
+entryway of some sort, but turns westward.  East of here, you see the
+entrance to the guild of Thieves.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14968 0
+D1
+~
+~
+0 -1 14972 0
+D2
+~
+~
+0 -1 14970 0
+S
+#14972
+The Entryway to The Guild of Thieves~
+You are standing at the entryway of the Guild of Thieves; a guild of
+quick thinking and even quicker hands.  A guild where shadows are home
+and trust is impossible.  The roof above you is made of finely
+polished ceramic tile, while the walls are made of a hard,
+granite-like substance.  The northern door, which leads into the main
+room itself, is crafted of a sturdy wood which has been sanded and
+finished to a gleaming shine.  On either side of the door, exquisite
+marble columns as big around as an average sized tree hold up the
+ceiling above your head, so beautiful and yet so stonily strong and
+cold.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -2 14973 0
+D1
+~
+~
+0 -1 14954 0
+D2
+~
+~
+0 -1 14969 0
+D3
+~
+~
+0 -1 14971 0
+S
+#14973
+The Room of Shadowed Pasts~
+The room is filled with a thick cloud of smoke, spewing forth from a
+large urn filled with exotic incense and dried spices.  The smoke and
+its pleasant odor do not fill you with dull, meditative thoughts.  
+Rather, they sharpen your senses, hone your instincts...  Make you
+slightly paranoid.  Instruments of the thieving trade line the walls
+and rest upon tables throughout the room, but you can tell they are
+not of high-quality; mere toys for trainees.  All is quiet here, as is
+the way of the silent and sure thief.    
+~
+149 8 0 0 0 0
+D2
+~
+~
+0 -2 14972 0
+S
+#14974
+The Room of Magical Arts~
+You are standing in a large room, full of scrolls and inkwells, arcane
+runes and the like.  Large, oaken tables line the walls, cluttered
+with unfinished scrolls and alchemical experiments.  Over in one
+corner of the room, a circle of candles containing a chalked pentacle
+lies undisturbed, a circle of summoning.  Large portraits of past
+mages unleashing powerful dweaomercraeft upon their foes hang on the
+walls, as do strange words of advice for powerful spells.    
+~
+149 8 0 0 0 0
+D1
+~
+~
+0 -1 14966 0
+S
+#14975
+The Chamber of War~
+You stand in a fortress-like room, walled with reinforced iron, and
+adorned with a multitude of deadly and artfully crafted weapons.  
+Double- edged swords and serrated blades, as well as huge axes of war
+and weapons designed to literally crush the life out of one's opponent
+are carefully, and almost lovingly cleaned and displayed in
+museum-fasion in glass cases and velvet-lined chests.  Large, bulky
+suits of armor rest on quilted tables and crates, as well as some that
+have been put up on display.  The room is strangely clean, though that
+is due to the fact that if it were not, weapons and armor both would
+go to ruin in a dry heap of crimson rust and corrosion.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -1 14956 0
+S
+#14976
+The Entryway to The Guild of Clerics~
+You are standing at the entryway of the Guild of Clerics; a guild of
+priests whom have devoted their lives to adventuring and the art of
+healing.  An aura of extreme holiness radiates from the walls of this
+place.  The roof above you is made of finely polished ceramic tile,
+while the walls are made of a hard, granite-like substance.  The
+eastern door, which leads into the main room itself, is crafted of a
+sturdy wood which has been sanded and finished to a gleaming shine.  
+On either side of the door, exquisite marble columns as big around as
+an average sized tree hold up the ceiling above your head, so
+beautiful and yet so stonily strong and cold.    
+~
+149 8 0 0 0 0
+D0
+~
+~
+0 -1 14947 0
+D1
+~
+~
+0 -1 14977 0
+D2
+~
+~
+0 -1 14953 0
+S
+#14977
+The Room of the Healing Arts~
+You stand within a small shrine, dedicated to no specific deity, yet
+to all gods known throughout the realms.  Marble arches and granite
+columns add to the grand scene of holiness, as does the gold and
+silver altar in the center of this vast room.  Clerics of every creed
+and social class kneel before the precious oracle, heads bowed in
+silent prayer, awaiting their magical reward for fufilling their
+religous duties.    
+~
+149 8 0 0 0 0
+D3
+~
+~
+0 -1 14976 0
+S
+#14978
+Inside the Southern Gate of Mordilnia~
+The wide open expanse of the southern gate shows signs of severe
+neglect.  The stone is cracked, the wood has rotted, and the hinges
+have been rusted.  The infrequent use of the gate has made it a low
+priority in this city.  The guards watch the occasional traveler or
+farmer enter and leave, periodically they compare a face with drawings
+of known criminals as this gate is near the less than lawful part of
+town.  To the north is the guild road and the outer walls of the city
+lie south through the gate.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14969 0
+D2
+~
+gate~
+1 -1 14979 1
+S
+#14979
+Outside the Southern Gate of Mordilnia~
+The southern gate shows signs of severe neglect, with partially
+rotting wooden beams of the gate itself to rusted hinges.  The gate
+will probably never be able to close again, that dosn't seem to be a
+problem because very few travels use this gate anyway.  A pair of
+board looking guards lounge against the outer walls, occassionally
+inspecting a cart or checking the papers of outlanders.  The entrance
+through the gate is north and a neglected marble road goes south.    
+~
+149 0 0 0 0 1
+D0
+~
+gate~
+1 -1 14978 1
+S
+#14980
+The Port of Mordilnia~
+This is the port of Mordilnia.  Ships come in and out all day long,
+and there is a smell of mixed seafood, and other cargo engulfing the
+pier and landing docks.  The town of Mordilnia lies to the west, and
+to the east is nothing but pure blue open ocean.    
+~
+149 0 0 0 0 1
+D3
+~
+gate~
+1 -1 14950 1
+S
+#14981
+At The Altar~
+You stand before a stunningly white altar make of shimmering, polished
+marble.  Tapestries of long ago arorn the walls here, casting long
+shadows on the walls where they are positioned.  Looking over the
+balcony, you feel an extremely vivid rush of vertigo as you see the
+temple floor below.  The mahogany staircase leads downward, while
+bright rays of multicolored light flit playfully from its surface,
+reflected from the sunlight that floats down through the stained glass
+dome above.    
+~
+149 8 0 0 0 0
+S
+#14982
+The Road to Mordilnia~
+Just outside of the canopy of trees, your feet trod upon an ages old
+road, unpaved and eroded, leading south into the town of Mordilnia.  
+Perhaps the sign at the bridge is obsolete, for you see no sign of the
+bandits it warned of, not even an old footprint.    
+~
+149 0 0 0 0 1
+D0
+~
+~
+0 -1 14983 0
+D2
+~
+~
+0 -1 14938 0
+S
+#14983
+A Path Through the Woods~
+You are walking along a small, seemingly unused, woods path...  
+Branches and leaves litter the path on both sides and a large tree
+seems to have fallen over part of the path to the south...    
+~
+149 0 0 0 0 3
+D1
+~
+~
+0 -1 14984 0
+D2
+~
+~
+0 -1 14982 0
+S
+#14984
+A Path Through a Murky Forest~
+There is an ominous whistling as the wind whips through the dead trees
+here.  Though they sport no leaves, the trees completely block out the
+sky as their branches interlock.  You neither see or hear any wildlife
+in this area, giving you the feeling that all is not well.  The path
+leads north, to a stone bridge, and west through the forest.    
+~
+149 0 0 0 0 3
+D0
+~
+~
+0 -1 14985 0
+D3
+~
+~
+0 -1 14983 0
+S
+#14985
+The Stone Bridge~
+You are standing on the crumbling remains of an ancient stone bridge,
+which spans the width of a wide but shallow stream.  The forest around
+you sways in unison with the breeze which pulls through your hair and
+clothing.  An ancient, weathered sign has been posted by the bridge.
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14986 0
+D2
+~
+~
+0 -1 14984 0
+E
+sign~
+An ancient, warped sign with an arrow carved into its surface, pointing the
+way south. The sign reads 'Beware: Bandits on path to Mordilnia...'
+~
+S
+#14986
+A Trail Through the Light Forest~
+You stand at the beginning of a long path leading out of the forest,
+and eventually to the city of Mordilnia.  A gentle, but chilling
+breeze blows through the dark, heavy oaks which border the path,
+casting their sinister shadows over everything around.  The path
+continues southward, over a bridge, then curves toward the west.    
+~
+149 0 0 0 0 3
+D0
+~
+~
+0 -1 14987 0
+D2
+~
+~
+0 -1 14985 0
+S
+#14987
+A Trail Through the Light Forest~
+You are in a green and fair valley amidst the gently murmuring oaks.
+The sun shines gently through the trees sending dancing, golden beams
+rippling across the shadowy grass while midges dance between the
+branches.  A path leads southward, to a bridge and beyond, while
+civilization can be found to the north.    
+~
+149 0 0 0 0 3
+D0
+~
+~
+0 -1 14988 0
+D2
+~
+~
+0 -1 14986 0
+S
+#14988
+On a Steep Hill~
+You are at the crest of a steep hill overlooking a dilapidated bridge
+that crosses the river to the north.  Further north the woods appear
+to have a gloomy and darkened reflection.  South of here the road
+becomes little more than a path as it heads down into a valley.    
+~
+149 0 0 0 0 4
+D0
+~
+~
+0 -1 14989 0
+D2
+~
+~
+0 -1 14987 0
+S
+#14989
+A Decaying Bridge~
+You have reached the remains of a bridge crossing the porling river.
+From here you can look upstream toward the seemingly endless forest.
+The water, cold and dark, rushes through the narrow channel created by
+the bridge and the large stones that have fallen from the pilings.  
+The wood looks rotted and groans loudly with every step.  On the south
+side of the bridge the road rises suddenly up a steep bank.    
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14990 0
+D2
+~
+~
+0 -1 14988 0
+S
+#14990
+A Forest Road~
+Travel on this old road is difficult.  Here and there it is partially
+blocked by brambles that reach out and grab your clothing as you pass.
+Deep ruts and large stones make you stumble.  A bit further south is
+the river, you can hear it from here.    
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14991 0
+D2
+~
+~
+0 -1 14989 0
+S
+#14991
+A Forest Road~
+The road is overgrown with weeds, and large roots catch at your feet.
+The road continues south toward the river or north toward the gloomy
+part of the forest.    
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14992 0
+D2
+~
+~
+0 -1 14990 0
+S
+#14992
+Wide Way Through the Forest~
+You are traveling a rather wide path along the forest edge.  The path
+is actually the remains of an old road that once carried trade to and
+from the southern parts of the continent.  Few people travel this way
+nowadays...  Too dangerous.    
+~
+149 0 0 0 0 10
+D0
+~
+~
+0 -1 14993 0
+D2
+~
+~
+0 -1 14991 0
+S
+#14993
+Small Path Leading South~
+You are standing on a small path, just north of here is a
+intersection, seemingly widely used, aswell as this small path appears
+to have once been a large thoroughfair.  Now weeds and brambles choke
+the road, making going difficult.  Few travel this road nowadays,
+especially not merchants.    
+~
+149 0 0 0 0 10
+D2
+~
+~
+0 -1 14991 0
+S
+#14994
+A Small Path~
+A small path overgrown leads westward through the trees.  You hear
+small animals rustling in the low bushes to the side.  Birds are
+merrily singing in the trees, fly from branch to branch.    
+~
+149 0 0 0 0 10
+D1
+~
+~
+0 0 14905 0
+D3
+~
+~
+0 0 14995 0
+S
+#14995
+A Bend in the Path~
+The path starts to bend northwards deeper into the forest.  It seems a
+bit more worn now, as if it was seeing more use by travellers like
+yourself.  To the west is a long, wide road stretching far out into a
+farmland area.    
+~
+149 0 0 0 0 10
+D1
+~
+~
+0 0 14994 0
+S
+#14996
+Room of the Master Telepath~
+You stand in a room that is fairly misty.  The mist swirls around you
+as you look around.  You can barely make out the far wall as you wait
+for the Master Telepath to appear.    
+~
+149 92 0 0 0 0
+D3
+~
+door~
+1 0 14934 3
+S
+#14997
+The badly damaged Halls of Ultima~
+
+You are in a large cavern, badly worn, seemily abused in some
+time long past.  Huge, but shattered gates, hang badly angled
+before you.  What was one a brilliant white marble now resembles
+ashen grey mortar. Just above the gate, you notice parts of the
+word 'U ti a' in cryptic letters.
+
+You can hardly stand to look at it, there are torn and badly
+damaged murials on the walls, depicting scenes of battles and
+ancient victories.
+
+As you stumble towards the back of the hall, you see piles of
+bone and refuge stattered all over the area.
+
+~
+149 0 0 0 0 0
+D0
+~
+~
+0 0 14998 0
+D2
+~
+~
+0 0 14941 0
+S
+#14998
+Badly damaged halls of an ancient clan~
+
+As you contine into the back portion of this building, you are
+dumbfounded by the site.  A putrid odor makes you very dizzy,
+almost making you want to vomit.  As you gaze deeper into the hall
+you see the remains of a sign nailed to a wooden post.
+
+In large, stained letters, the statement "One f r All and A l fo One"
+
+There us a large, polished skull lying here.
+
+~
+149 0 0 0 0 0
+D2
+~
+~
+0 0 14997 0
+D5
+~
+~
+0 0 14999 0
+S
+#14999
+Damaged beyond repair~
+
+Large wooden shelves lie strewn all over the room.  What was once
+a fully stocked and well tended shop now resembles a garbage dump.
+
+When the clan was dissolved, the shopkeeper was murdered and his
+shop plundered for whatever worth there was to find.
+
+~
+149 0 0 0 0 0
+D4
+~
+~
+0 0 14998 0
+S
+$~

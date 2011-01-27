@@ -1,0 +1,1471 @@
+#20000
+/cGEntrance /cBto/cG the/cB Garden/c0~
+There is an old white gate here, or perhaps it once was white, now
+rust has covered most of it.  The fence leading away from the gate is
+covered in weeds and old moss.  A wonderful smell of fresh flowers
+blows by from the south.    
+~
+200 4 0 0 0 0
+D0
+~
+~
+0 0 3072 0
+D2
+~
+gate~
+1 0 20001 3
+S
+#20001
+/cGT/cRh/cGe/cR G/cGa/cRr/cGd/cRe/cGn/c0~
+The black earth is sticking to your feet here.  With every step you
+feet feel more and more like bricks.  There are small peat moss stems
+poking through the black earth.    
+~
+200 0 0 0 0 2
+D0
+~
+gate~
+1 0 20000 3
+D1
+~
+~
+0 0 20002 0
+D2
+~
+~
+0 0 20003 0
+S
+#20002
+/cRT/cGh/cRe/cG G/cRa/cGr/cRd/cGe/cRn /c0~
+There is more peat moss here but still a perfect mixture of earth and
+moss, also you see little traces of cow dung mixed through it all.  
+You get a horrid whiff of something wafting in from the east.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20011 0
+D2
+~
+~
+0 0 20007 0
+D3
+~
+~
+0 0 20001 0
+S
+#20003
+/cYT/cRh/cYe/cR G/cYa/cRr/cYd/cRe/cYn/c0~
+This section of the garden is oddly filled with flowers and vegetables
+which move about with a life of their own.  This is obviously no
+ordinary garden at all.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20001 0
+D1
+~
+~
+0 0 20007 0
+D2
+~
+~
+0 0 20004 0
+S
+#20004
+/cBT/cGh/cBe/cG H/cBe/cGr/cBb/cG S/cBe/cGc/cBt/cGi/cBo/cGn/c0~
+Small herbs are all lined up in perfect rows, as yet unplanted and
+still in long clay potting trays.  A few of the herbs are the more
+obvious, others are of a variety not widely known...    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20003 0
+D1
+~
+~
+0 0 20008 0
+D2
+~
+~
+0 0 20005 0
+S
+#20005
+/cRT/cGh/cYE/cB H/cRe/cBM/cGp/cY S/cBe/cGC/cRt/cYI/cGo/cBN /c0~
+A lovely hemp plant stands here in a clay pot - what a beatiful site!!
+Large vines and weeds surround this fabulous plant...  Maybe they were
+meant to hide it from people passing by.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20004 0
+D1
+~
+~
+0 0 20009 0
+D2
+~
+~
+0 0 20006 0
+S
+#20006
+/cRThe /cGUnkempt/cY Section /c0~
+This part of the garden seems rather unkempt.  It just has a lot of
+weeds and a few nastier things.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20005 0
+D1
+~
+~
+0 0 20010 0
+D2
+~
+Gate~
+1 0 20026 1
+S
+#20007
+/cGT/cRh/cGe/cR G/cGa/cRr/cGd/cRe/cGn/c0~
+You are surrounded by the flowers!  They don't seem to be attacking
+you, but if they do you will have nowhere to run!  It is of utmost
+importance that you keep yourself composed, lest they think of you as
+an easy target.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20002 0
+D1
+~
+~
+0 0 20012 0
+D2
+~
+~
+0 0 20008 0
+D3
+~
+~
+0 0 20003 0
+S
+#20008
+/cYT/cRh/cYe/cR G/cYa/cRr/cYd/cRe/cYn/c0~
+As you wander through all the flowers, you wish you'd brought a
+machete.  To the south, however, there aren't flowers, But there
+appear to be other things for which you'd need a machete even more.  
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20007 0
+D1
+~
+~
+0 0 20013 0
+D2
+~
+~
+0 0 20009 0
+D3
+~
+~
+0 0 20004 0
+S
+#20009
+/cGW/cRe/cGe/cRd/cG P/cRa/cGt/cRc/cGh/c0~
+This part of the garden seems rather unkempt.  It is just a lot of
+weeds with a few nastier things.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20008 0
+D1
+~
+~
+0 0 20014 0
+D2
+~
+~
+0 0 20010 0
+D3
+~
+~
+0 0 20005 0
+S
+#20010
+/cRThe Unkempt/cY Section /c0~
+This part of the garden seems rather unkempt.  It just has a lot of
+weeds and a few nastier things
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20009 0
+D1
+~
+~
+0 0 20015 0
+D3
+~
+~
+0 0 20006 0
+S
+#20011
+/cBT/cYh/cBe/cY C/cBo/cYm/cBp/cYo/cBs/cYt /c0~
+Rotting veggies are stacked in a small hole,mold and little bugs are
+crawling all through it.  This must be the most feared place for all
+veggies.  The stench of the rotting vegetables is enough to quell even
+the boldest of hearts.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20016 0
+D2
+~
+~
+0 0 20012 0
+D3
+~
+~
+0 0 20002 0
+S
+#20012
+/cYT/cRh/cYe/cR G/cYa/cRr/cYd/cRe/cYn/c0~
+As you enter this room, you are struck with a feeling of how wonderful
+everything thing is.  How everybody can all just get along.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20011 0
+D1
+~
+~
+0 0 20017 0
+D2
+~
+~
+0 0 20013 0
+D3
+~
+~
+0 0 20007 0
+S
+#20013
+/cGT/cRh/cGe/cR G/cGa/cRr/cGd/cRe/cGn/c0~
+SURPRISE!  There's a bunch of flowers here.  To the south though,
+there doesn't seem to be many flowers, more like weeds
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20012 0
+D1
+~
+~
+0 0 20018 0
+D2
+~
+~
+0 0 20014 0
+D3
+~
+~
+0 0 20008 0
+S
+#20014
+/cGW/cRe/cGe/cRd/cG P/cRa/cGt/cRc/cGh/c0~
+The small weeds have grown up here and the sun or something is killing
+them.  There is a ant hill directly in the center of this section.  
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20013 0
+D1
+~
+~
+0 0 20019 0
+D2
+~
+~
+0 0 20015 0
+D3
+~
+~
+0 0 20009 0
+S
+#20015
+/cYThe Unkempt Section /c0~
+The weeds have overcome everything.  The fence can barely be seen
+through the weeds and old vines which have grown all through it.  It
+is obvious that this was once a piece of the garden from the amount
+old broken clay pots lying about.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20014 0
+D1
+~
+~
+0 0 20020 0
+D3
+~
+~
+0 0 20010 0
+S
+#20016
+/cRT/cBh/cRe/cB P/cRo/cBt/cRa/cBt/cRo/cBe/cRs /c0~
+This part of the garden seems to be devoted to vegetables which grow
+in the ground.  Or at least, the masses of potatoes make you suspect
+that.  The old fence that goes along the border of the garden has
+fallen down here, it has fungi growing all over it and a green moss.
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20022 0
+D2
+~
+~
+0 0 20017 0
+D3
+~
+~
+0 0 20011 0
+S
+#20017
+/cbP/cBl/cbo/cbw/cBe/cbd/cB M/cbu/cBd/c0~
+There isn't much of anything here, just a whole lot of dirt.  The dirt
+has been well-tilled, however, keeping the weeds out of this section.
+It appears that this area might be planted soon.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20016 0
+D1
+~
+~
+0 0 20023 0
+D2
+~
+~
+0 0 20018 0
+D3
+~
+~
+0 0 20012 0
+S
+#20018
+/c0T/cGh/c0e/cG O/c0n/cGi/c0o/cGn/c0 F/cGi/c0e/cGl/c0d/c0~
+As you enter you get so sad over what happened to poor little Jimmy
+that you just cry.  Or maybe it's cause you're standing in an onion
+field Entering into this place brings an overwhelming urge for you to
+think of all the sad, unfortunate children of the world who never had
+that chance that all the others seem to get so very easily.  Nah...  
+That's not the reason you're crying.  You're crying because you're
+standing in the middle of an onion field!    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20017 0
+D1
+~
+~
+0 0 20024 0
+D2
+~
+~
+0 0 20019 0
+D3
+~
+~
+0 0 20013 0
+S
+#20019
+/cBU/cGnf/cBin/cGis/cBhe/cGd/cB Pl/cGow/cB Jo/cGb  /c0~
+This is an untended section of the garden.  The plow line simply ends,
+the weeds and bracken overtaking most of the soil from here on out.  
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20018 0
+D1
+~
+~
+0 0 20025 0
+D2
+~
+~
+0 0 20020 0
+D3
+~
+~
+0 0 20014 0
+S
+#20020
+/cGT/cYh/cGe/cY V/cGi/cYn/cGe/cYs/c0 ~
+The old vine leaves crackle under your feet with every step.  You use
+the old broken fence to scrape the mud off your boots.  The vines look
+to be somewhat unkept and very dry.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20019 0
+D1
+~
+~
+0 0 20021 0
+D2
+~
+~
+0 0 20037 0
+D3
+~
+~
+0 0 20015 0
+S
+#20021
+/cR The Rose Patch /c0~
+The smell of small pine chips are steaming from the ground that
+surround the rose bush.  Small rose flowers have been blown off the
+the rose bush and are lying on the ground under it mangled and such
+from the thorns.  Small buds replace the old flowers that have blown
+off.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20025 0
+D3
+~
+~
+0 0 20020 0
+S
+#20022
+/cBT/cGh/cBe /cGC/cBa/cGr/cBr/cGo/cBt /cGP/cBa/cGt/cBc/cGh/c0~
+Carrots, carrots and more carrots...  How many do you need?  There are
+rows of them all perfectly layed and spaced.  No wonder they are so
+big!  The soil here is a bit lighter than that which you have
+previously seen.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20048 0
+D2
+~
+~
+0 0 20023 0
+D3
+~
+~
+0 0 20016 0
+S
+#20023
+/cYS/cRu/cYg/cRa/cYr/cR B/cYe/cRe/cYt/cR p/cYa/cRt/cYc/cRh /c0~
+Wonderful, hearty beets are poking around here.  There are so many...
+No one would notice if you took a few.  Would they?    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20022 0
+D2
+~
+~
+0 0 20024 0
+D3
+~
+~
+0 0 20017 0
+S
+#20024
+/cRT/cGh/cRe/cG A/cRp/cGp/cRl/cGe/cR O/cGr/cRc/cGh/cRa/cGr/cRd /c0~
+This small orchard is very well kept.  The trees are pruned and there
+are metal bands around the bottoms of the trees for the pest problem.
+The apples have fallen off the tree and are half eaten by small
+animals and worms.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20023 0
+D2
+~
+~
+0 0 20025 0
+D3
+~
+~
+0 0 20018 0
+S
+#20025
+/cYS/cBu/cYn/cYf/cBl/cYo/cBw/cYe/cBr/cY P/cBa/cYt/cBc/cYh /c0~
+Small seeds make a circular pattern around the larger sunflower,
+obviously these seeds have fallen out of the flower's core.  Small
+sprouts poke their way through the topsoil, working hard at growing as
+tall as the larger sunflower.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20024 0
+D2
+~
+~
+0 0 20021 0
+D3
+~
+~
+0 0 20019 0
+S
+#20026
+/cBSmall Pond/c0~
+You are on the edge of a small pond, this must be where the water for
+the garden is drawn from..  There are small shrubs around the pond.  
+~
+200 4 0 0 0 6
+D0
+~
+~
+0 0 20006 0
+D1
+~
+~
+0 0 20030 0
+D2
+~
+~
+0 0 20036 0
+D3
+~
+~
+0 0 20027 0
+S
+#20027
+/cGAlong the Pond/c0~
+The still water of the pong emits a horrid smell, one which nauseates
+you as soon as you get a whiff.  Looking out into the center of the
+pond, you see the dead carcass of a deer floating motionless.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20026 0
+D2
+~
+~
+0 0 20028 0
+S
+#20028
+/cYAlong the Pond/c0~
+The bank of the pond has corroded itself away, sliding down into the
+pond.  The weeds along the sides have slowly begun to die out from the
+tepid water, and the shrubs are no more.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20027 0
+D1
+~
+~
+0 0 20036 0
+D2
+~
+~
+0 0 20029 0
+S
+#20029
+/cGAlong the Pond/c0~
+Weeds grow in small tufts out into the skank water.  The smell of the
+pond enough to make anyone retch.  Take care that you do not fall in.
+The little growth there is gets more and more sparse as you continue
+along the shore.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20028 0
+D1
+~
+~
+0 0 20033 0
+S
+#20030
+/cREast Side of the Pond/c0~
+Small shrubs grow here, hanging and limp things which are half dead
+from the flood waters.  Old cattails grow tall and strong here, that
+is about it.    
+~
+200 0 0 0 0 2
+D2
+~
+~
+0 0 20031 0
+D3
+~
+~
+0 0 20026 0
+S
+#20031
+/cGEast Side of the Pond/c0~
+It all begins to look much the same along this pond.  The water is a
+formless goo of nastiness radiating pure stench.  The black water
+repulses your every sense, the foul gasses of the place making you
+choke.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20030 0
+D2
+~
+~
+0 0 20032 0
+D3
+~
+~
+0 0 20036 0
+S
+#20032
+/cBEast Side of the Pond/c0~
+The Weeds are floating next to the shore, the small bank is getting
+slimmer now hope you don't fall in you would never get the smell off
+!!.  The small weeds are getting fewer and fewer as you go along the
+shore.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20031 0
+D3
+~
+~
+0 0 20033 0
+S
+#20033
+/cbOn the /cYDike/c0~
+The dike is made of sod and rock held together by large iron spikes.  It seems
+to accomplish its intended function, as a small trickle of water is flowing
+through the dike and nothing else.    
+~
+200 0 0 0 0 0
+D0
+~
+~
+0 0 20034 0
+D1
+~
+~
+0 0 20032 0
+D3
+~
+~
+0 0 20029 0
+S
+#20034
+/cROn the Pond/c0~
+The stink that comes out of this pond is horrid!!!  The is almost a green smell
+coming in waves off of the water.  You can only imagine what might lie at the
+bottom beneath all the muck and goo.    
+~
+200 0 0 0 0 0
+D0
+~
+~
+0 0 20035 0
+D2
+~
+~
+0 0 20033 0
+S
+#20035
+/cB The /cGStinky/cR  Pond/c0~
+The stink that comes out of this pond is horrid!!!  The is almost a
+green smell coming in waves off of the water.  You can only imagine
+what might lie at the bottom beneath all the muck and goo.    
+~
+200 0 0 0 0 7
+D0
+~
+~
+0 0 20036 0
+D2
+~
+~
+0 0 20034 0
+S
+#20036
+/cYThe /cGDirty /cBPond/c0~
+There is a dead deer floating here (must of drank the water!!  )
+Maggots crawl all over and through the corpse loving all of it.  The
+huge rock that the corpse is caught on is covered in a thick green
+slime - you dont dare try to stand on it.    
+~
+200 0 0 0 0 7
+D0
+~
+~
+0 0 20026 0
+D1
+~
+~
+0 0 20031 0
+D2
+~
+~
+0 0 20035 0
+D3
+~
+~
+0 0 20028 0
+D5
+~
+~
+0 0 20049 0
+S
+#20037
+/cGT/cRh/cYe/cB S/cRh/cGr/cYo/cBo/cRm/cB P/cYa/cRt/cGc/cYh/c0~
+What a place!  There are shrooms poking up all over the place.  Time
+to kick back and chill out!  These particualar shrooms seem quite odd,
+though.  They are round and multi-colored, different from most other
+types of mushrooms.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20020 0
+D2
+~
+~
+0 0 20038 0
+S
+#20038
+/cRThe /cBShroom /cGPatch/c0~
+This whole area seems quite surreal, almost as if you are existing
+here but not really truly existing at all.  Odd colored lights float
+in and out of your vision, the entire thing a panorama of sight.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20037 0
+D1
+~
+~
+0 0 20039 0
+S
+#20039
+/cGThe /cBShroom /cYPatch/c0~
+A hazy fog hangs over this section of the garden, your vision obscured
+and odd-seeming.  This seems a very good place to sit down and relax
+for a while.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20040 0
+D3
+~
+~
+0 0 20038 0
+S
+#20040
+/cYThe /cGShroom /cBPatch/c0~
+A hazy fog hangs over this section of the garden, your vision obscured
+and odd-seeming.  This seems a very good place to sit down and relax
+for a while.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20042 0
+D2
+~
+~
+0 0 20047 0
+D3
+~
+~
+0 0 20038 0
+S
+#20041
+/cBThe /cGEnd /cYof the /cRShrooms/c0~
+Ahh the inevitable conclusion to the end of the shroom patch, but then
+- what can you do?  It could be worse than a pounding head and loss of
+memory - it could still be going on.    
+~
+200 1 0 0 0 2
+D2
+~
+~
+0 0 20046 0
+S
+#20042
+/cGThe /cRShroom /cBPatch/c0~
+A hazy fog hangs over this section of the garden, your vision obscured
+and odd-seeming.  This seems a very good place to sit down and relax
+for a while.    
+~
+200 0 0 0 0 2
+D1
+~
+~
+0 0 20043 0
+D2
+~
+~
+0 0 20045 0
+D3
+~
+~
+0 0 20040 0
+S
+#20043
+/cGThe /cRShroom /cBPatch/c0~
+A hazy fog hangs over this section of the garden, your vision obscured
+and odd-seeming.  This seems a very good place to sit down and relax
+for a while.    
+~
+200 0 0 0 0 2
+D2
+~
+~
+0 0 20044 0
+D3
+~
+~
+0 0 20042 0
+S
+#20044
+/cGThe Fringes of the Shroom Patch/c0~
+The odd sensations you experienced in the mushroom patch are gone now,
+your vision is a bit more clear and the feeling of lethargy has gone
+away.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20043 0
+D3
+~
+~
+0 0 20045 0
+S
+#20045
+/cRAt the /cYEdge /cGof the /cRShroom /cBPatch/c0~
+The memory of the mushroom patch still lingers, however it is now more
+of vague idea than an actual full memory.  A broken-down fence lies to
+the south.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20042 0
+D1
+~
+~
+0 0 20044 0
+D3
+~
+~
+0 0 20046 0
+S
+#20046
+/cRAt the /cYEdge /cGof the /cRShroom /cBPatch/c0~
+The memory of the mushroom patch still lingers, however it is now more
+of vague idea than an actual full memory.  A small fence lies to the
+south.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20041 0
+D1
+~
+~
+0 0 20045 0
+D3
+~
+~
+0 0 20047 0
+S
+#20047
+/cRAt the /cYEdge /cGof the /cRShroom /cBPatch/c0~
+The memory of the mushroom patch still lingers, however it is now more
+of vague idea than an actual full memory.  A small fence lies to the
+south.    
+~
+200 0 0 0 0 2
+D0
+~
+~
+0 0 20040 0
+D1
+~
+~
+0 0 20046 0
+S
+#20048
+The Remains of an Old Wagon~
+An old wagon lies on a crazy angle, one of its wheels broken and lying
+next to the wreckage.  Small blankets still cover the interior to the
+thing, could it be that someone actually lives within?    
+~
+200 0 0 0 0 0
+D3
+~
+~
+0 0 20022 0
+S
+#20049
+/cB Under the Pond /c0~
+The coating of slimy crud which lies at the bottom of this pond is
+beyond disgusting!  There are old bits of junk and trash scattered
+about the floor of the pond, more of the same in every direction you
+can move.    
+~
+200 0 0 0 0 8
+D2
+~
+~
+0 0 20050 0
+D4
+~
+~
+0 0 20036 0
+S
+#20050
+/cB Under the Pond /c0~
+There is an old canoe here laying in it's watery grave.  The pond
+grass has taken it as it's home now, and a few of the sick fish too.
+~
+200 0 0 0 0 8
+D0
+~
+~
+0 0 20049 0
+D2
+~
+~
+0 0 20051 0
+S
+#20051
+/cB Under the Pond /c0~
+The water is a bit more shallow now, the nasty seagrass getting
+tangled about your feet and ankles.  This is a very disgusting place
+to be.    
+~
+200 0 0 0 0 8
+D0
+~
+~
+0 0 20050 0
+D3
+~
+~
+0 0 20052 0
+S
+#20052
+/cGUnder the Bank/c0~
+The bank of the pond opens up into a darkened cave, oen which does not
+look to be very friendly at all.  To the east is the way back through
+the pond, west lies the cave.    
+~
+200 4 0 0 0 8
+D1
+~
+~
+0 0 20051 0
+D3
+~
+~
+0 0 20053 0
+S
+#20053
+/cGCaves/c0~
+Entering into the small cave, you set foot into a dry, clean place.  
+Quite odd after having been under the nasty water of the pond just a
+moment ago.  The cave continues to the north.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20054 0
+D1
+~
+~
+0 0 20052 0
+S
+#20054
+/cGCaves/c0~
+Darkness becomes a constant companion the further into the cave you
+travel.  The ceiling is long with slim spikes of rock pointing
+downward, nasty obstacles to dodge your head around.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20055 0
+D2
+~
+~
+0 0 20053 0
+S
+#20055
+/cGCaves/c0~
+The spikes are lower now, you have to duck under and weave your way
+around them.  Walking carefully, you step around them trying not to
+make a noise that would start them to fall.  To the south there is
+darker cave.    
+~
+200 8 0 0 0 0
+D2
+~
+~
+0 0 20056 0
+D3
+~
+~
+0 0 20054 0
+S
+#20056
+/cGCaves/c0~
+There are puddles of water laying all through this part of the cave
+that get your feet sopping wet.  A very familiar screeching moise
+comes from somewhere in the darkness overhead.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20055 0
+D1
+~
+~
+0 0 20057 0
+S
+#20057
+/cGCaves/c0~
+The ceilings have raised about a hundred feet up from what they were ,
+but there are still rock spikes pointing down at you so you still try
+to move silent.  Far off to the east is the sound of running water.  
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20058 0
+D3
+~
+~
+0 0 20056 0
+S
+#20058
+/cGCaves/c0~
+A small trickling stream flows here untouched by man, the crystal
+clear water moves with life through the jagged rocks.  The walls here
+are washed away by the years of water movement of the stream.  To the
+north you can go up the stream.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20059 0
+D3
+~
+~
+0 0 20057 0
+S
+#20059
+/cGCaves/c0~
+The stream goes further underground through a deep cavern which you
+can not fit in.  There is moss growing from the moisture all over the
+walls.  There is a huge crack in the wall to the west that you could
+probably fit through.    
+~
+200 8 0 0 0 0
+D2
+~
+~
+0 0 20058 0
+D3
+~
+~
+0 0 20060 0
+S
+#20060
+/cGCaves/c0~
+This small crack is filled with moss and small grubs and worms . You
+lower it to try not to hit your head on the ceiling and try gripping
+your hands one the unstable moss on the sides of the crack.  To the
+north you can exit the crack.    
+~
+200 256 0 0 0 0
+D0
+~
+~
+0 0 20061 0
+D1
+~
+~
+0 0 20059 0
+S
+#20061
+/cGCaves/c0~
+The stream can still be heard from here.  The ceilings are still low,
+forcing you to have to duck in through the rock spikes.  The water
+drips off the spikes making little pools of water all over the place.
+To the east there are more caves.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20062 0
+D2
+~
+~
+0 0 20060 0
+S
+#20062
+/cGCaves/c0~
+There is a small opening here with the small stream flowing through
+it.  The darkness is making you very wary of the sounds ahead.  To the
+north are more caves.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20063 0
+D3
+~
+~
+0 0 20061 0
+S
+#20063
+/cGCaves/c0~
+The ground here is not as jagged as they are to the south and the
+walls seem to be smoothing out a bit, but the ceiling still has jagged
+rock spikes all along it.  Moss lays about the floor, torn off the
+walls by someone or something.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20064 0
+D2
+~
+~
+0 0 20062 0
+S
+#20064
+/cGCaves/c0~
+The cave looks to be a home to someone or something . There are
+remains of burnt moss here, and what looks to have been an old camp
+fire.  The noises get louder as you keep going further into the caves.
+To the south there are more caves.    
+~
+200 8 0 0 0 0
+D2
+~
+~
+0 0 20065 0
+D3
+~
+~
+0 0 20063 0
+S
+#20065
+/cRMudlicon/cB Caves/c0~
+Scrawlings upon the wall spell the word 'Mudlicon', gouged into the
+rock by what must have been a small piece of sharp rock.  Torches line
+the sides of the walls, leading east and west through the caves or
+north into some sort of home.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20064 0
+D1
+~
+~
+0 0 20067 0
+D3
+~
+~
+0 0 20066 0
+S
+#20066
+/cRMudlicon/cB Caves/c0~
+The small house cave is lit by one torch with one stone bed and a
+small raggedy blanket sitting on it.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20065 0
+S
+#20067
+/cRMudlicon/cB Caves/c0~
+Very odd, indeed.  To the north is the garden from wence you came, a
+bright ray of sunlight pouring in from a crack in the northern wall.
+South and west lie more caves.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20068 0
+D2
+~
+~
+0 0 20069 0
+D3
+~
+~
+0 0 20065 0
+S
+#20068
+/cRMudlicon/cB Caves/c0~
+This is a garden to rival even the one which lies above ground, which
+it appeared this one was from the view in the caves.  Somehow,
+sunlight gets through to this place, refracted off many crystallized
+rocks in a thousand ways to land here.    
+~
+200 8 0 0 0 0
+D2
+~
+~
+0 0 20067 0
+S
+#20069
+/cRMudlicon/cB Caves/c0~
+The sound of laughter can be heard from another room which lies just
+to the west.  There are caves lying in every direction from here.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20067 0
+D1
+~
+~
+0 0 20072 0
+D2
+~
+~
+0 0 20071 0
+D3
+~
+door~
+1 0 20070 1
+S
+#20070
+/cRMudlicon/cB Caves/c0~
+This entire room is filled with an odd sort of smoke, one which makes
+your eyes water and your throat very dry and scratchy.  The exit lies
+to the east.    
+~
+200 8 0 0 0 0
+D1
+~
+door~
+1 0 20069 1
+S
+#20071
+/cRMudlicon/cB Caves/c0~
+This way seems to take you out of the little coline, and into more
+dark moist cave.  Looking ahead all you see is darkness.  To the south
+there are more caves.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20069 0
+D2
+~
+~
+0 0 20076 0
+S
+#20072
+/cRMudlicon/cB Caves/c0~
+The large rock spikes have fallen and been crushed on the ground here.
+There is some noise coming from a house to the north.  There is
+another house to the east.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20074 0
+D1
+~
+~
+0 0 20073 0
+D2
+~
+~
+0 0 20075 0
+D3
+~
+~
+0 0 20069 0
+S
+#20073
+/cRMudlicon/cB Caves/c0~
+The house is empty, there is a small stone bed in the corner of the
+room with a pool of water laying on the top of it.  The water drips
+form the ceiling of this small house and it is making pools of water
+all over the place.  In the other corner there is a small stone shelf.
+~
+200 8 0 0 0 0
+D3
+~
+~
+0 0 20072 0
+S
+#20074
+/cRMudlicon/cB Caves/c0~
+The noises heard from the south are those made by old wind chime which
+clanks against itself repetitively.  This house is very much like
+every other home in these caves with nothing more than a crude bed and
+a stone shelf.    
+~
+200 8 0 0 0 0
+D2
+~
+~
+0 0 20072 0
+S
+#20075
+/cRDeath/crTrap/c0~
+You have fallen through a small crack in the floor!  Luckily for you,
+you land on a ledge in an otherwise seemingly endless drop.  A thick
+carpet of moss grows here, making the surfaces very slippery.  What a
+drop!!    
+~
+200 260 0 0 0 0
+S
+#20076
+/cRMudlicon/cB Caves/c0~
+You are plunged into darkness once again, the hollow echo of your
+footsteps runs through the caverns once again.  It seems the further
+that you travel in this direction, the lower the spikes come down from
+the ceiling.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20071 0
+D2
+~
+~
+0 0 20077 0
+D3
+~
+~
+0 0 20078 0
+S
+#20077
+/cRMudlicon/cB Jail/c0~
+This is the Mudlicon Jail.  Some of the rock spikes from the ceiling
+have been fashioned into bars which block the exit from this place
+when a prisoner is put in here.  There are a pair of stone shackles
+lying here on the floor.    
+~
+200 8 0 0 0 0
+D0
+~
+~
+0 0 20076 0
+S
+#20078
+/cRMudlicon/cB Caves/c0~
+This small passage seems to lead somewhere special, like to the river
+again.  You think you hear the river and this path is well traveled.
+The noise comes from the west.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20076 0
+D3
+~
+~
+0 0 20079 0
+S
+#20079
+/cRMudlicon/cB Caves/c0~
+The river is indeed here, looking much larger and extremely impassable
+from this spot.  There is no way to go from here except back the way
+you came.    
+~
+200 8 0 0 0 0
+D1
+~
+~
+0 0 20078 0
+S
+$~

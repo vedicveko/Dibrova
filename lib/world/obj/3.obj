@@ -1,0 +1,304 @@
+#300
+sign important~
+/cWa Very Important Sign/c0~
+/cWA very important sign has been erected here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+look sign~
+   If you wish to begin this quest simply travel up.  If not, head back the way
+you came.  For only the brave and strong hearted will win the prize.  In this
+quest you must first conquer the Great Maze.  Then, when you reach your
+destination you must defeat the Oracle of the Sea and then you will recieve
+your prize.  Good Luck!!    
+~
+#301
+sword oracle~
+/cwthe /cCSword of the Oracle/c0~
+A brightly glowing sword lies here.~
+Nothing.
+~
+5 816129 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 11400 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+2 1
+#302
+potion brown~
+a Brown Potion~
+A brown potion is lying here.~
+A faint hum echos about as the potion is quaffed!
+~
+10 0 0 0 0 1 0 0 0
+20 51 0 0 0 0 0 0
+2 100 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#303
+armor oracle~
+/cwthe /cCArmor of the Oracle/c0~
+Some shiney armor lies here~
+~
+9 263171 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+15 5600 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+#304
+potion onyx~
+/cLan Onyx Potion/c0~
+A pitch black potion lies here.~
+A rosy glow engulfs $s body as the potion is swallowed down!
+~
+10 0 0 0 0 1 0 0 0
+20 1 0 0 0 0 0 0
+2 350 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#305
+potion maroon~
+/cwa /cpMaroon Potion/c0~
+/cwA /cpMaroon Potion/c0 lies here.~
+$n chokes as $e gingerly sips the potion!
+~
+10 0 0 0 0 1 0 0 0
+20 28 0 0 0 0 0 0
+2 1050 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#319
+cloak red~
+/cwa /cRRed/cw cloak/c0~
+/cwA /cRRed/cw cloak of some sort lies here./c0~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+3 4533 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#350
+tin can~
+a tin Can~
+A tin can lies on the ground, rusty and dented.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#351
+rosary ruby bead~
+a ruby-beaded Rosary~
+A beautiful rosary made from ruby beads lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#352
+breath redemption~
+the Breath of Redemption~
+A breath of redemption floats here, just out of reach.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#353
+rag bloodsoaked~
+a bloodsoaked Rag~
+A bloodsoaked rag lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#354
+key ransacked~
+a ransacked Key~
+A ransaked kay~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#355
+strip linen~
+a strip of Linen~
+A clean strip of linen lies unused here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#356
+razor nicked~
+a nicked Razor~
+A sharp razor with several nicks in it's edge lies here.~
+Nothing.
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#357
+epitah fools~
+an Epitah of Fools~
+A wrinkled paper, the epitah of fools, lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#358
+heart key~
+a Key to the Heart~
+A magical key lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#359
+passport heaven~
+a Passport to Heaven~
+A holy passport lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#360
+angelic key~
+an Angelic Key~
+A special key lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#361
+wing angel~
+a pair of /cWAngel Wings/c0~
+A holy pair of angel wings lie here, waiting to be worn.~
+~
+11 67174412 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+angel wing wings~
+A powerful force radiates from the angel wings, tugging at you.
+You get the feeling that you MUST WEAR IT!
+~
+#362
+broken bottle~
+a broken Bottle~
+A broken bottle lies here amidst the dust.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#363
+trash piece~
+a piece of Trash~
+A piece of trash lies here, flies swarming all over it.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#364
+pile of litter~
+a pile of Litter~
+A pile of litter is here.~
+~
+13 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#365
+piece of junk~
+a piece of Junk~
+A piece of junk is lying here.~
+~
+13 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#366
+rubble pile~
+a pile of Rubble~
+A large pile of rubble lies here, home to many vermin.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#367
+mess fragmented glass~
+a mess of fragmented Glass~
+A mess of fragmented glass lies everywhere.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#368
+mass spoiling food~
+a mass of spoiling Food~
+A mass of spoiling food lies here, squirming with maggots!~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#369
+dirt potion~
+a dirt-covered Potion~
+A dirt-covered potion lies here in the dust.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#370
+syringe filthy~
+a filthy Syringe~
+A filthy syringe lies here, containing gross ooze inside.~
+~
+12 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#371
+twisted gates~
+the twisted gates~
+/cyThe mighty gates lie here, all twisted and broken./c0~
+~
+12 65548 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#372
+pillars~
+the crumbling Pillars~
+/cyA pair of massive pillars stand here, slowly crumbling away./c0~
+~
+12 65548 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#399
+deed bandar~
+the deed to Bandar~
+The deed to Bandar has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+3 0 0 0 0 0 0 0
+1 6000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

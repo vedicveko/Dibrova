@@ -1,0 +1,1597 @@
+#10100
+Wide Road Through the Foothills~
+A very well-used roadway leads west into the foothills.  It has been
+recently cleared and looks to be a fairly safe direction to take.  To
+the east lies the path back toward the main road near Midgaard and
+Jareth.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10163 0
+D1
+~
+~
+0 0 7981 0
+D2
+~
+~
+0 0 10151 0
+D3
+~
+~
+0 0 10101 0
+S
+#10101
+Wide Road Through the Foothills~
+The road continues on through the foothills to the east and the west.
+On either side of the road are the rolling hills of the area, their
+grassy slopes broken only once in a while by trees and bushes.  It is
+truly a beautiful area of the world here in the foothills of Jareth.
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10162 0
+D1
+~
+~
+0 0 10100 0
+D2
+~
+~
+0 0 10150 0
+D3
+~
+~
+0 0 10181 0
+S
+#10102
+At the Castle Entry~
+The castle door lies west from you, the way in flanked by huge, proud
+banners of the Lord and Lady of this place.  Looking off to the east,
+you can see why this place might be a nice visit for some of the more
+affluent members of society - the rolling hills and the lush scenery
+give a very serene, peaceful feeling.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10159 0
+D1
+~
+~
+0 0 10182 0
+D2
+~
+~
+0 0 10147 0
+D3
+~
+door~
+1 0 10103 3
+S
+#10103
+Foyer~
+This small, enclosed area holds the many coats and overboots of the
+guests here in the Castle.  Doors leading into the interior of the
+castle lie on the north, south and west sides.  The door on the east
+sides does, of course, lead to the outdoors.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10104 3
+D1
+~
+door~
+1 0 10102 3
+D2
+~
+door~
+1 0 10107 3
+D3
+~
+~
+0 0 10110 0
+S
+#10104
+Short Hallway~
+This is hardly even big enough to be called a hallway in itself,
+however hallway it is.  A door lies on the south wall, another such
+door lies to the north only a short distance away.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10105 0
+D2
+~
+door~
+1 0 10103 3
+S
+#10105
+Short Hallway~
+This is hardly even big enough to be called a hallway in itself,
+however hallway it is.  A door lies on the north wall, another such
+door lies to the south only a short distance away.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10106 3
+D2
+~
+~
+0 0 10104 0
+S
+#10106
+The Lord's State Room~
+As if the Lord of this manse would ever truly need a state room and
+truly - as if this could even fall under the category of a state room
+in any capacity.  Either way, it is the Lord's retreat from his Lady
+and from all of the guests when he feels the need and he does feel the
+need often.  The fact that there is a small bed in the far corner
+means nothing at all...  Does it?    
+~
+101 8 0 0 0 0
+D2
+~
+door~
+1 0 10105 3
+D3
+~
+door~
+1 0 10114 3
+S
+#10107
+Short Hallway~
+This is hardly even big enough to be called a hallway in itself,
+however hallway it is.  A door lies on the north wall, another such
+door lies to the south only a short distance away.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10103 3
+D2
+~
+~
+0 0 10108 0
+S
+#10108
+Short Hallway~
+This is hardly even big enough to be called a hallway in itself,
+however hallway it is.  A door lies on the south wall, another such
+door lies to the north only a short distance away.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10107 0
+D2
+~
+door~
+1 0 10109 3
+S
+#10109
+The Lord and Lady's Bedchamber~
+The first, and most odd, thing that strikes you upon entry into this
+room is that there is not one but two beds set apart from each other.
+They are both quite comfortable seeming, but not anywhere near each
+other in the room.  Possibly the Lord and his Lady do not enjoy each
+other's company as much as they show in public?    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10108 3
+D3
+~
+door~
+1 0 10122 3
+S
+#10110
+The Main Hall~
+The ceiling of this enormous chamber rises high into the upper reaches
+of the castle, its domed roof at least a good hundred feet above your
+head.  To the north is the grand ballroom, a room used on an almost
+nightly basis where the Lord and Lady entertain their guests.  To the
+south is the kitchen.  A door lies in the west wall.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10113 0
+D1
+~
+~
+0 0 10103 0
+D2
+~
+~
+0 0 10119 0
+D3
+~
+~
+0 0 10111 0
+S
+#10111
+The Main Hall~
+The ceiling of this enormous chamber rises high into the upper reaches
+of the castle, its domed roof at least a good hundred feet above your
+head.  To the north is the grand ballroom, a room used on an almost
+nightly basis where the Lord and Lady entertain their guests.  To the
+south is a storage area where all of the dry foodstuffs are kept.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10112 0
+D1
+~
+~
+0 0 10110 0
+D3
+~
+door~
+1 0 10126 3
+S
+#10112
+The Grand Ballroom~
+This wide open chamber is permanently festooned with all manner of
+decorations and party favors.  An attendant is always on hand, as is a
+musician for any who might wish to make merry - no matter what the
+time of day or night.  The main hall lies to the south.    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10113 0
+D2
+~
+~
+0 0 10111 0
+S
+#10113
+The Grand Ballroom~
+This wide open chamber is permanently festooned with all manner of
+decorations and party favors.  An attendant is always on hand, as is a
+musician for any who might wish to make merry - no matter what the
+time of day or night.  The main hall lies to the south.    
+~
+101 8 0 0 0 0
+D2
+~
+~
+0 0 10110 0
+D3
+~
+~
+0 0 10112 0
+S
+#10114
+Back Hall~
+This hall does not appear to be used very often, nor does it appear to
+be very well maintained by the staff of the castle.  Possibly this
+small, narrow passage is held a secret by the Lord himself?    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10106 3
+D3
+~
+~
+0 0 10115 0
+S
+#10115
+Back Hall~
+This hall does not appear to be used very often, nor does it appear to
+be very well maintained by the staff of the castle.  Possibly this
+small, narrow passage is held a secret by the Lord himself?    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10114 0
+D3
+~
+~
+0 0 10116 0
+S
+#10116
+Back Hall~
+This hall does not appear to be used very often, nor does it appear to
+be very well maintained by the staff of the castle.  Possibly this
+small, narrow passage is held a secret by the Lord himself?  It ends
+here without notice, small doors etched into the walls on the south
+and north side, both looking as if they havent been opened in years.
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10117 0
+D1
+~
+~
+0 0 10115 0
+S
+#10117
+The Back Exit~
+The Lord - that sneaky bugger - has a nice in and out way for the
+ladies in waiting to come and visit him any time he pleases.  Must be
+that his State Room sees a bit more action than it appears - and that
+would explain the bed.    
+~
+101 8 0 0 0 0
+D2
+~
+~
+0 0 10116 0
+S
+#10118
+Storage~
+All of the castle's dry goods are stored in this room, included the
+enormous amounts of alchohol that it takes to keep the continuous
+party going that the Lord and Lady perpetrate year round.  Through a
+door on the east wall is the kitchen.    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10119 0
+S
+#10119
+Kitchen~
+The cooks of the castle labor daily, round the clock, to keep good
+eats on the tables in the grand ballroom and here in the kitchen
+itself.  It is not uncommon for a stray guest to come shuffling on,
+half sleeping and drunk to grab something from the counter or out of
+the stove.  The cooks don't mind - that's what they are here for.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10110 0
+D2
+~
+door~
+1 0 10183 3
+D3
+~
+~
+0 0 10118 0
+S
+#10120
+Southern Hallway~
+This is the wide hallway that connects the Lord and Lady's Bedchamber
+to the Main Hall - it is a side passage used by the two as a getaway
+when they feel exhausted from the day's merry making and need some
+peace and quiet.  The hall runs east and west.    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10121 0
+D3
+~
+~
+0 0 10123 0
+S
+#10121
+Southern Hallway~
+This is the wide hallway that connects the Lord and Lady's Bedchamber
+to the Main Hall - it is a side passage used by the two as a getaway
+when they feel exhausted from the day's merry making and need some
+peace and quiet.  The hall runs east and west.    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10122 0
+D3
+~
+~
+0 0 10120 0
+S
+#10122
+Southern Hallway~
+This is the wide hallway that connects the Lord and Lady's Bedchamber
+to the Main Hall - it is a side passage used by the two as a getaway
+when they feel exhausted from the day's merry making and need some
+peace and quiet.  The hall runs west, the door to the Lord and Lady's
+bedchamber lies to the east.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10109 3
+D3
+~
+~
+0 0 10121 0
+S
+#10123
+A Bend in the Hallway~
+The hallway bends to the north and the east, the way north leading
+toward the entry into the main hall and the way east leading toward
+the Lord and Lady's bedchamber.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10124 0
+D1
+~
+~
+0 0 10120 0
+S
+#10124
+Western Hallway~
+This short hallway is used by the Lord and Lady to escape to their
+bedchamber when the night has grown long and they need their rest.  
+The hallway runs north and south.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10125 0
+D2
+~
+~
+0 0 10123 0
+S
+#10125
+Western Hallway~
+This short hallway is used by the Lord and Lady to escape to their
+bedchamber when the night has grown long and they need their rest.  
+The hallway runs south, a door lies in the north wall.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10126 3
+D2
+~
+~
+0 0 10124 0
+S
+#10126
+The Base of the Stairwell~
+Steps lead upward into the guestroom area where all of the bedrooms
+for any visitors are located.  To the east is the entryway into the
+main hall and through a door on the south wall can be had the hallway
+leading toward the Lord and Lady's bedchamber.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10111 3
+D2
+~
+door~
+1 0 10125 3
+D4
+~
+~
+0 0 10132 0
+S
+#10127
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the south.    
+~
+101 8 0 0 0 0
+D2
+~
+door~
+1 0 10130 3
+S
+#10128
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10129 3
+S
+#10129
+Northern End of the Hall~
+The hallway ends at a door, presumably to one of the guest suites
+which riddle this upper level.  There is a door on the east wall, the
+hallway heads off to the west.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10128 3
+D3
+~
+~
+0 0 10130 0
+S
+#10130
+Upper Hallway~
+A door lies in the north wall, leading into one of the many guest
+rooms on this upper level of the castle.  The hallway runs south for
+quite some distance past a number of doors on either side, all of
+which enter into guest rooms.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10127 3
+D1
+~
+~
+0 0 10129 0
+D2
+~
+~
+0 0 10131 0
+S
+#10131
+Upper Hallway~
+The hallway runs north and south past a number of doors both on the
+east and west sides.  This upper area is set aside exclusively for the
+use of the guests of the Lord and Lady, the rooms all lush and well
+appointed.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10130 0
+D1
+~
+door~
+1 0 10142 3
+D2
+~
+~
+0 0 10132 0
+D3
+~
+door~
+1 0 10143 3
+S
+#10132
+Upper Hallway~
+The hallway runs north and south past a number of doors both on the
+east and west sides.  This upper area is set aside exclusively for the
+use of the guests of the Lord and Lady, the rooms all lush and well
+appointed.  A sets stairs lead downward onto the main floor of the
+castle.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10131 0
+D1
+~
+door~
+1 0 10141 3
+D2
+~
+~
+0 0 10133 0
+D3
+~
+door~
+1 0 10144 3
+D5
+~
+~
+0 0 10126 0
+S
+#10133
+Upper Hallway~
+The hallway runs north and south past a number of doors both on the
+east and west sides.  This upper area is set aside exclusively for the
+use of the guests of the Lord and Lady, the rooms all lush and well
+appointed.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10132 0
+D1
+~
+door~
+1 0 10140 3
+D2
+~
+~
+0 0 10134 0
+D3
+~
+door~
+1 0 10145 3
+S
+#10134
+Upper Hallway~
+The hallway runs north and south past a number of doors both on the
+east and west sides.  This upper area is set aside exclusively for the
+use of the guests of the Lord and Lady, the rooms all lush and well
+appointed.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10133 0
+D1
+~
+door~
+1 0 10139 3
+D2
+~
+~
+0 0 10135 0
+D3
+~
+door~
+1 0 10146 3
+S
+#10135
+Upper Hallway~
+A door lies in the south wall, leading into one of the many guest
+rooms on this upper level of the castle.  The hallway runs north for
+quite some distance past a number of doors on either side, all of
+which enter into guest rooms.    
+~
+101 8 0 0 0 0
+D0
+~
+~
+0 0 10134 0
+D1
+~
+~
+0 0 10136 0
+D2
+~
+door~
+1 0 10138 3
+S
+#10136
+Southern End of the Hall~
+The hallway ends at a door, presumably to one of the guest suites
+which riddle this upper level.  There is a door on the east wall, the
+hallway heads off to the west.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10137 3
+D3
+~
+~
+0 0 10135 0
+S
+#10137
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10136 3
+S
+#10138
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the north.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10135 3
+S
+#10139
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10134 3
+S
+#10140
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10133 3
+S
+#10141
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10132 3
+S
+#10142
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the west.    
+~
+101 8 0 0 0 0
+D3
+~
+door~
+1 0 10131 3
+S
+#10143
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the east.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10131 3
+S
+#10144
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the east.    
+~
+101 0 0 0 0 0
+D1
+~
+door~
+1 0 10132 3
+S
+#10145
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the east.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10133 3
+S
+#10146
+Guest Room~
+The rooms for the guests are done lavishly and in tones that are
+obviously meant to sooth and relax.  This entire castle is more of a
+retreat than a private home for the Lord and Lady.  The door to the
+hallway lies to the east.    
+~
+101 8 0 0 0 0
+D1
+~
+door~
+1 0 10134 3
+S
+#10147
+Along the Castle Wall~
+The wall of the caste runs along your west side, the uneven masonry of
+the bricks evident from this close.  To the east and south lie the
+wide open foothills which the castle sits in the dead center of, a
+beautiful vision of nature.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10102 0
+D1
+~
+~
+0 0 10148 0
+D2
+~
+~
+0 0 10152 0
+S
+#10148
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10182 0
+D1
+~
+~
+0 0 10149 0
+D2
+~
+~
+0 0 10154 0
+D3
+~
+~
+0 0 10147 0
+S
+#10149
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10181 0
+D1
+~
+~
+0 0 10150 0
+D2
+~
+~
+0 0 10155 0
+D3
+~
+~
+0 0 10148 0
+S
+#10150
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10101 0
+D1
+~
+~
+0 0 10151 0
+D2
+~
+~
+0 0 10158 0
+D3
+~
+~
+0 0 10149 0
+S
+#10151
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10100 0
+D3
+~
+~
+0 0 10150 0
+S
+#10152
+Along the Castle Wall~
+The wall of the caste runs along your west side, the uneven masonry of
+the bricks evident from this close.  To the east and south lie the
+wide open foothills which the castle sits in the dead center of, a
+beautiful vision of nature.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10147 0
+D1
+~
+~
+0 0 10154 0
+D2
+~
+~
+0 0 10153 0
+S
+#10153
+Along the Castle Wall~
+You have reached the southern end of the castle wall, where it makes a
+corner and heads north and west.  All about you lies the splendor of
+the foothills which surround this castle and Jareth, a beautiful piece
+of land, full of greenery.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10152 0
+D1
+~
+~
+0 0 10156 0
+S
+#10154
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10148 0
+D1
+~
+~
+0 0 10155 0
+D2
+~
+~
+0 0 10156 0
+D3
+~
+~
+0 0 10152 0
+S
+#10155
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10149 0
+D1
+~
+~
+0 0 10158 0
+D2
+~
+~
+0 0 10157 0
+D3
+~
+~
+0 0 10154 0
+S
+#10156
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10154 0
+D1
+~
+~
+0 0 10157 0
+D3
+~
+~
+0 0 10153 0
+S
+#10157
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10155 0
+D3
+~
+~
+0 0 10156 0
+S
+#10158
+The Rolling Foothills~
+All around lie the rolling green hills of this area.  It is hard to
+see very far in any direction due to the fact that there are a great
+many hills that obscure vision, but what you can see is beautiful.  
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10150 0
+D3
+~
+~
+0 0 10155 0
+S
+#10159
+A Side Path~
+This path leads north along the castle walls to the stables where all
+guests keep their steeds.  To the south is the entryway into the
+castle and in all other directions lies the splendor of the rolling
+foothills that surround this place.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10164 0
+D1
+~
+~
+0 0 10160 0
+D2
+~
+~
+0 0 10102 0
+S
+#10160
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10165 0
+D1
+~
+~
+0 0 10161 0
+D2
+~
+~
+0 0 10182 0
+D3
+~
+~
+0 0 10159 0
+S
+#10161
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10166 0
+D1
+~
+~
+0 0 10162 0
+D2
+~
+~
+0 0 10181 0
+D3
+~
+~
+0 0 10160 0
+S
+#10162
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10167 0
+D1
+~
+~
+0 0 10163 0
+D2
+~
+~
+0 0 10101 0
+D3
+~
+~
+0 0 10161 0
+S
+#10163
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D2
+~
+~
+0 0 10100 0
+D3
+~
+~
+0 0 10162 0
+S
+#10164
+A Side Path~
+The path runs along the castle wall toward the stables and a barn.  
+Out to the east lies the rolling green foothills of this lush area, a
+wonderfully beautiful place of almost surreal perfection.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10170 0
+D1
+~
+~
+0 0 10165 0
+D2
+~
+~
+0 0 10159 0
+S
+#10165
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10169 0
+D1
+~
+~
+0 0 10166 0
+D2
+~
+~
+0 0 10160 0
+D3
+~
+~
+0 0 10164 0
+S
+#10166
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10168 0
+D1
+~
+~
+0 0 10167 0
+D2
+~
+~
+0 0 10161 0
+D3
+~
+~
+0 0 10165 0
+S
+#10167
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D2
+~
+~
+0 0 10162 0
+D3
+~
+~
+0 0 10166 0
+S
+#10168
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10176 0
+D2
+~
+~
+0 0 10166 0
+D3
+~
+~
+0 0 10169 0
+S
+#10169
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10175 0
+D1
+~
+~
+0 0 10168 0
+D2
+~
+~
+0 0 10165 0
+D3
+~
+~
+0 0 10170 0
+S
+#10170
+A Side Path~
+The path runs along the castle wall toward the stables and a barn.  
+Out to the east lies the rolling green foothills of this lush area, a
+wonderfully beautiful place of almost surreal perfection.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10171 0
+D1
+~
+~
+0 0 10169 0
+D2
+~
+~
+0 0 10164 0
+S
+#10171
+A Side Path~
+The path ends here, as well as the castle wall.  On the north side of
+the path lies a barn, mostly used for the storage of hay and grain to
+feed the animals of the guests.  On the west side is the stable where
+the animals are kept.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10172 0
+D1
+~
+~
+0 0 10175 0
+D2
+~
+~
+0 0 10170 0
+D3
+~
+~
+0 0 10174 0
+S
+#10172
+Barn~
+It looks as if some of the more raggedy types are given housing out
+here in the hay barn - and on a regular basis - while their more
+affluent masters stay within the castle.  There is an enormous amount
+of hay and grain stacked neatly about the place, some of it made into
+comfortable beds.    
+~
+101 8 0 0 0 0
+D2
+~
+~
+0 0 10171 0
+S
+#10173
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D1
+~
+~
+0 0 10179 0
+S
+#10174
+Stable~
+All of the guests steeds are kept and tended to in this small but very
+manageable structure.  The exit to the place lies to the east.    
+~
+101 8 0 0 0 0
+D1
+~
+~
+0 0 10171 0
+S
+#10175
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10177 0
+D1
+~
+~
+0 0 10176 0
+D2
+~
+~
+0 0 10169 0
+D3
+~
+~
+0 0 10171 0
+S
+#10176
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10178 0
+D2
+~
+~
+0 0 10168 0
+D3
+~
+~
+0 0 10175 0
+S
+#10177
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10179 0
+D1
+~
+~
+0 0 10178 0
+D2
+~
+~
+0 0 10175 0
+S
+#10178
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 10180 0
+D2
+~
+~
+0 0 10176 0
+D3
+~
+~
+0 0 10177 0
+S
+#10179
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D1
+~
+~
+0 0 10180 0
+D2
+~
+~
+0 0 10177 0
+D3
+~
+~
+0 0 10173 0
+S
+#10180
+Rolling Foothills~
+All about you lies the green, verdant land of the foothills.  It is
+hard to see very far in any direction due to the way the land swells
+and drops, but in any direction it looks beautiful.    
+~
+101 0 0 0 0 2
+D0
+~
+~
+0 0 2694 0
+D2
+~
+~
+0 0 10178 0
+D3
+~
+~
+0 0 10179 0
+S
+#10181
+Wide Road Through the Foothills~
+The road continues on through the foothills to the east and the west.
+On either side of the road are the rolling hills of the area, their
+grassy slopes broken only once in a while by trees and bushes.  Off to
+the west, the pennants of a castle can be seen poking above the hill
+lines which block your sight.  Obviously, someone owns these lands
+upon which you travel and lives just west of here.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10161 0
+D1
+~
+~
+0 0 10101 0
+D2
+~
+~
+0 0 10149 0
+D3
+~
+~
+0 0 10182 0
+S
+#10182
+Wide Road Through the Foothills~
+You come round a slight curve in the roadway and get your first solid
+glimpse of the castle which lies only a short span away.  It is a
+well-kept place, one which appears to be frequented by many as the
+hedges are all neatly trimmed and the banners which fly from the tall
+masts on the ramparts and which hang from either side of the grand
+entry are fresh and clean.  The roadway runs east and west.    
+~
+101 0 0 0 0 10
+D0
+~
+~
+0 0 10160 0
+D1
+~
+~
+0 0 10181 0
+D2
+~
+~
+0 0 10148 0
+D3
+~
+~
+0 0 10102 0
+S
+#10183
+Cold Storage~
+The costs involved in maintaining this room is really quite amazing.
+Every single day, a man drives his cart out to the frozen sea at the
+fringes of the land where the minotaurs rule and brings back with him
+huge, solid chunks of ice which are kept here in this sealed room
+where all perishable items are kept.    
+~
+101 8 0 0 0 0
+D0
+~
+door~
+1 0 10119 3
+S
+$~

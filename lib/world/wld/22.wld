@@ -1,0 +1,1674 @@
+#2200
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 32768 0 0 0 14
+D0
+~
+~
+0 0 2202 0
+D2
+~
+~
+0 0 4145 0
+S
+#2201
+A Small Piece Of Land~
+You are on a small piece of land, that's not to say that it's very
+dry, but there is dirt here.  A roaring sound can be heard off in the
+distance, followed by a scream.  You are beginning to sense the evil
+of the swamp.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2204 0
+D3
+~
+~
+0 0 2238 0
+S
+#2202
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 32768 0 0 0 14
+D0
+~
+~
+0 0 2206 0
+D1
+~
+~
+0 0 2203 0
+D2
+~
+~
+0 0 2200 0
+S
+#2203
+A Murky Pool~
+You are standing knee deep in a dark murky water.  It does not look
+drinkable.  There seems to be some sort of fishlike creature swimming
+in the water.  You don't believe that to be eatable.  You'd better get
+out of here before the water starts to corrode your legs.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2207 0
+D3
+~
+~
+0 0 2202 0
+S
+#2204
+In The Thick Reeds~
+You are standing in a thick patch of reeds.  So thick, in fact, that
+you can barely walk through them.  You are making a lot of noise and
+hope you aren't attracting attention to yourself.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2205 0
+D2
+~
+~
+0 0 2201 0
+S
+#2205
+By An Old Tree~
+You are next to an old oak tree.  It looks to have died a long time
+ago, but amazingly it is still standing.  It is covered with moss and
+is a testament to what can happen from years in the swamp.  A large
+bird has made a home on an old branch.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2210 0
+D1
+~
+~
+0 0 2206 0
+D3
+~
+~
+0 0 2204 0
+S
+#2206
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2211 0
+D2
+~
+~
+0 0 2202 0
+D3
+~
+~
+0 0 2205 0
+S
+#2207
+A Murky Pool~
+You are standing knee deep in a dark murky water.  It does not look
+drinkable.  There seems to be some sort of fishlike creature swimming
+in the water.  You don't believe that to be eatable.  You'd better get
+out of here before the water starts to corrode your legs.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2212 0
+D1
+~
+~
+0 0 2208 0
+D2
+~
+~
+0 0 2203 0
+S
+#2208
+A Shallow Pool~
+The bottom of the swamp can be seen somewhat now in this shallow pool
+of water.  There is nothing in the water right now but a frog and he
+looks friendly enough.  The good fourtune of not finding a an ugly
+monster here may not last long.  You hear roaring not so far away.  
+~
+22 0 0 0 0 14
+D3
+~
+~
+0 0 2207 0
+D5
+~
+~
+0 0 15 16
+S
+#2209
+From Out of Nowhere~
+From out of nowhere indeed, a structure of darkness and decay rises up
+out of the swamp, as if a part of the slime that covers most of this
+area.  To the north is the gate to Hell itself, or so one might think
+from the looks of it.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 8601 0
+D1
+~
+~
+0 0 2210 0
+S
+#2210
+In Thick Mud~
+You are standing in a deep splotch of mud.  Your feet squish as you
+walk.  You can only hope that you don't get stuck here for a monster
+to come and eat you.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2213 0
+D1
+~
+~
+0 0 2211 0
+D2
+~
+~
+0 0 2205 0
+D3
+~
+~
+0 0 2209 0
+S
+#2211
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2214 0
+D1
+~
+~
+0 0 2212 0
+D2
+~
+~
+0 0 2206 0
+D3
+~
+~
+0 0 2210 0
+S
+#2212
+Waist High In Dark Water~
+You are almost swimming in a dark liquid.  You belive that this was
+once clear water, but was unfiltrated for hundreds of years.  The
+creatures in the swamp do not take kindly to new forms of life, so you
+might think twice about going for a relxaing swim.    
+~
+22 0 0 0 0 14
+D2
+~
+~
+0 0 2207 0
+D3
+~
+~
+0 0 2211 0
+S
+#2213
+In Thick Mud~
+You are standing in a deep splotch of mud.  Your feet squish as you
+walk.  You can only hope that you don't get stuck here for a monster
+to come and eat you.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2214 0
+D2
+~
+~
+0 0 2210 0
+S
+#2214
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2221 0
+D1
+~
+~
+0 0 2215 0
+D2
+~
+~
+0 0 2211 0
+D3
+~
+~
+0 0 2213 0
+S
+#2215
+A Small Dry Trail~
+You are on a small trail that is actually somewhat dry.  A wooden
+structure looms off to the east.  It looks more that a little eerie.
+Maybe you should say away from it.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2216 0
+D3
+~
+~
+0 0 2214 0
+S
+#2216
+A Small Dry Trail~
+You are on a small trail that is actually somewhat dry.  A wooden
+structure looms off to the east.  It looks more that a little eerie.
+Maybe you should say away from it.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2223 0
+D1
+~
+~
+0 0 2217 0
+D3
+~
+~
+0 0 2215 0
+S
+#2217
+An Old Cabin~
+You are standing in a musty old cabin.  It is amazing that it is still
+standing.  The floorboards are almost totally rotten and the walls
+don't look much better.  There does seem to be a second floor, do you
+dare to take a look?    
+~
+22 0 0 0 0 14
+D3
+~
+~
+0 0 2216 0
+D4
+~
+~
+0 0 2218 0
+S
+#2218
+The Second Floor Of The Cabin~
+The second floor of the cabin looks no better than the first, in fact
+it looks worse and if you dont want to take a nasty spill through the
+floor, you might consider going back down.    
+~
+22 0 0 0 0 14
+D5
+~
+~
+0 0 2217 0
+S
+#2219
+Deep In The Swamp~
+You are now deep into the swamp.  The heat is starting to get to you
+and you are losing your sense of direction.  You have all kinds of bug
+bites and will probably get some deadly disease.  Maybe this trip to
+the swamp wasn't such a good idea.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2224 0
+D1
+~
+~
+0 0 2220 0
+S
+#2220
+In Thick Vines~
+You are climbing over thick vines.  What is this a jungle?  The vines
+almost seem alive as you look at the intricate pattern they form.  
+You think they might mean something, but you don't understand it.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2221 0
+D3
+~
+~
+0 0 2219 0
+S
+#2221
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2226 0
+D2
+~
+~
+0 0 2214 0
+D3
+~
+~
+0 0 2220 0
+S
+#2222
+Deep In The Swamp~
+You are now deep into the swamp.  The heat is starting to get to you
+and you are losing your sense of direction.  You have all kinds of bug
+bites and will probably get some deadly disease.  Maybe this trip to
+the swamp wasn't such a good idea.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2227 0
+D1
+~
+~
+0 0 2223 0
+S
+#2223
+Deep In The Swamp~
+You are now deep into the swamp.  The heat is starting to get to you
+and you are losing your sense of direction.  You have all kinds of bug
+bites and will probably get some deadly disease.  Maybe this trip to
+the swamp wasn't such a good idea.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2228 0
+D2
+~
+~
+0 0 2216 0
+D3
+~
+~
+0 0 2222 0
+S
+#2224
+Deep In The Swamp~
+You are now deep into the swamp.  The heat is starting to get to you
+and you are losing your sense of direction.  You have all kinds of bug
+bites and will probably get some deadly disease.  Maybe this trip to
+the swamp wasn't such a good idea.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 31800 0
+D1
+~
+~
+0 0 2225 0
+D2
+~
+~
+0 0 2219 0
+S
+#2225
+A Pool Of Clear Water~
+What's this?  It is a pool of crystal clear water.  This spot of the
+swamp looks to be blessed.  There are flowers growing at the waters
+edge and a small goldfish swims merrily in the water.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2230 0
+D1
+~
+~
+0 0 2226 0
+D3
+~
+~
+0 0 2224 0
+S
+#2226
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2231 0
+D1
+~
+~
+0 0 2227 0
+D2
+~
+~
+0 0 2221 0
+D3
+~
+~
+0 0 2225 0
+S
+#2227
+A Patch Of Moss~
+You are in a thick patch of moss.  It hangs from tree limbs and it's
+spores are clinging to your lungs.  You'd best get out of here before
+your collapse.    
+~
+22 0 0 0 0 14
+D2
+~
+~
+0 0 2222 0
+D3
+~
+~
+0 0 2226 0
+S
+#2228
+In Thick Weeds~
+You are in a heavily wooded part of the swamp.  Small lizards are
+climbing trees and making screeching noises.  There is still a small
+amount of water that squishes under your feet, it looks as if it is
+about to rain.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2233 0
+D2
+~
+~
+0 0 2223 0
+S
+#2229
+A Dead End~
+A small cliff hangs just out of reach.  This is a dea end pure and
+simple.  The earth is much too wet to attempt and climb.  You have no
+other choice, but to turn back and face the dangers of the swamp.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2230 0
+S
+#2230
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+A trail of sloppy footprints have been pressed into the muck leading north.
+~
+~
+0 0 2235 0
+D1
+A wide path has been cut through the much to the east.
+~
+~
+0 0 2231 0
+D2
+~
+~
+0 0 2225 0
+D3
+You see the swampy trail seem to end a short ways to the west.
+~
+~
+0 0 2229 0
+S
+#2231
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D1
+The ground looks as if it may be more firm to the east.  A thickening
+cloud of insects a buzzing over what looks to be a heavily-decayed
+corpse of a small animal.    
+~
+~
+0 0 2232 0
+D2
+A trail of sloppy footprints have been pressed into the muck leading south.
+~
+~
+0 0 2226 0
+D3
+A trail of sloppy footprints have been pressed into the muck leading west.
+~
+~
+0 0 2230 0
+S
+#2232
+Moss Covered Ground~
+You are on a patch of mossy ground.  There are many insects here
+buzzing over a mostly-decayed corpse.  Your feet still squish wetly in
+the soft ground but the moss is certainly more firm than the more
+common slop of this swamp.  Squish sound.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2233 0
+D3
+The ground seems softer to the west where the moss thins.
+~
+~
+0 0 2231 0
+E
+corpse~
+The corpse has been picked clean in most parts.  The bugs have been
+working very hard at cleaning the bones.  Despite their efforts, rot
+has taken in and caused the carcas take on a putrid stink.    
+~
+S
+#2233
+In Thick Reeds~
+You are standing in a thick patch of reeds.  So thick, in fact, that
+you can barely walk through them.  You are making a lot of noise and
+hope you aren't attracting attention to yourself.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2234 0
+D2
+~
+~
+0 0 2228 0
+D3
+~
+~
+0 0 2232 0
+S
+#2234
+An Old Log~
+You are standing next to an old and decaying log.  It looks to be
+infested with some sort of poisnous maggots.  You'd better stay away
+from it, in any case.  You feel once again, as though you are being
+watched.    
+~
+22 0 0 0 0 14
+D3
+~
+~
+0 0 2233 0
+S
+#2235
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.  Oddly, just to the north, you see a what
+appears to be the entrance to the city.  What kind of people would
+live out in the middle of a swamp?    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2239 0
+D1
+You see a swampy path where some fresh-looking footprints have been
+left in the muck.    
+~
+~
+0 0 2236 0
+D2
+~
+~
+0 0 2230 0
+S
+#2236
+A Swampy Path~
+You are standing on a small swampy path.  You hear various noises
+coming from the swamp.  The ground squishes under your feet as you
+walk.  You feel as though all your moves in this strange place are
+being watched by someone or something.  The air here is musty, making
+it harder the breathe.    
+~
+22 0 0 0 0 14
+D0
+You see a giant wall of slime off in the distance.
+~
+~
+0 0 2237 0
+D3
+You see a swampy path where some fresh-looking footprints have been
+left in the muck.    
+~
+~
+0 0 2235 0
+S
+#2237
+Outside an Immense Wall of Vines~
+A tall, sloping wall of vines completely prohibits any movement to the
+north.  It runs along east and west from your current locale - a high,
+almost domed shape rising up into the swamp air.  From the way it
+appears, one might think that it may contain something within although
+from here no doors are visible at all.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2241 0
+D2
+~
+~
+0 0 2236 0
+D3
+~
+~
+0 0 2239 0
+S
+#2238
+A Fog-Shrouded Area of the Swamp~
+It is nearly impossible to see more than a foot in front of your face.
+The fog in this area of the swamp disallows any sort of sight.  The
+fog seems quite odd, here.  Quite odd indeed - almost as if it were
+alive.    
+~
+22 69 0 0 0 14
+D1
+~
+~
+0 0 2201 0
+S
+#2239
+Standing Before a Huge Wall of Vines~
+A wall of vines lies just north of here, disallowing further progress
+in that direction.  Looking to the east and west, you can see that the
+wall continues far quite some distance, gently sloping at the top and
+along the way.  It could almost be a large dome, but if it were it
+would be an extremely large dome.    
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2237 0
+D2
+~
+~
+0 0 2235 0
+D3
+~
+~
+0 0 2240 0
+S
+#2240
+Along a Vine Wall~
+A small path follows along the wall, hugging tight to the edge of the
+wall.  The wall begins its slow curve to the north here, curving far
+away and out of sight.  From all indications, this thing is round.  
+The path you stand upon no longer follows the wall westward, but ends
+here in this very spot.  The only apparent way out is to the east.  
+~
+22 0 0 0 0 14
+D1
+~
+~
+0 0 2239 0
+S
+#2241
+Along a Vine Wall~
+The vine wall runs along to the east far out of sight, the same true
+to the west.  This small path that you stand upon runs for a short
+distance further east along the wall and then appears to terminate.  
+Odd that a growth of vines would grow so symmetrically - could it be
+that this is not a natural entity?    
+~
+22 4 0 0 0 14
+D0
+~
+~
+0 0 2243 16
+D1
+~
+~
+0 0 2242 0
+D3
+~
+~
+0 0 2237 0
+S
+#2242
+Path's End~
+The path continues no further to the east, however travel back to the
+west is no problem whatsoever.  The vine wall continues to run along
+to east, far past the end of this path, its wall sloping slightly
+north as it curves out sight.  Looking at the tangled vines, one must
+wonder how they became so strongly interwoven as to make the way
+impassable.    
+~
+22 0 0 0 0 14
+D3
+~
+~
+0 0 2241 0
+S
+#2243
+Inside the Vine Fortress~
+The interior of this place is strangely sedate, the vine walls almost
+artfully twisted around each to give the place a very pleasing look.
+A wide entryway runs north deeper into the fortress while to the east
+is a downward sloping passage, the way looking dark and foreboding.  
+~
+22 105 0 0 0 0
+D0
+~
+~
+0 0 2244 0
+D1
+~
+~
+0 0 2259 0
+D2
+~
+~
+0 0 2241 0
+S
+#2244
+The Entryway of the Vine Fortress~
+The way runs north deep into the heart of the fortress.  The floor of
+this place is wide and soft, made from some strange substance that
+looks and feels when walked upon like mud, yet it does not cling to
+the feet.  Far to the north this hall opens into a large room, some
+light source glowing, visible even from here.    
+~
+22 41 0 0 0 0
+D0
+~
+~
+0 0 2245 0
+D2
+~
+~
+0 0 2243 0
+S
+#2245
+Entrance to the Shrine~
+A very odd place for a shrine to be, yet that is exactly what the room
+to the north appears to be.  There is a long table draped with a white
+cloth with the corpse of someone laid out upon the table.  An opening
+in the vine wall leads west into a darkened passage from here.  The
+exit to the place lies a ways south.  The corpse is the source of the
+light that you saw from back in the entryway.    
+~
+22 41 0 0 0 0
+D0
+~
+~
+0 0 2246 0
+D2
+~
+~
+0 0 2244 0
+D3
+~
+~
+0 0 2247 0
+S
+#2246
+The Shrine to Ollcas~
+It is easily apparent that Ollcas was a bullywog, as his corpse is
+still quite intact and no signs of decay show at all.  His mottled,
+olive green skin still appears to be moist, as any living bullywog's
+skin is.  It seems odd that anyone would keep a corpse in such a state
+in a room such as this, protected and enshrined.  It is even more odd
+when the corpse is that of a bullywog - not a highly respected
+creature in any habitat.    
+~
+22 44 0 0 0 0
+D2
+~
+~
+0 0 2245 0
+S
+#2247
+Narrow Vineway~
+The vines, close on either side, allow passage through to the west
+into another vineway much like this one.  To the east is the entryway.
+A very claustrophobic feel lends itself to this area, as the vines
+only allow limited movement and when looking at them for too long,
+they begin to move.  Obviously an optical illusion...?  There are some
+scrawlings on the vine wall here.    
+~
+22 301 0 0 0 0
+D1
+~
+~
+0 0 2245 0
+D3
+~
+~
+0 0 2248 0
+E
+wall~
+Beware the five hideous bitches!
+~
+E
+scrawlings~
+Beware the five hideous bitches!
+~
+S
+#2248
+North / South Vineway~
+The narrow way through the vineway strangely opens into a quiet,
+comfortable hallway where doors line the walls at intervals.  The
+vines here are very obviously arranged, as they make patterns on the
+walls that no natural growth could fashion.  The hall runs north and
+south, the way out to the east.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2249 0
+D1
+~
+~
+0 0 2247 0
+D2
+~
+~
+0 0 2251 0
+S
+#2249
+Comfortable Hallway~
+A door leads off this main vineway to the east, the room within well
+lit.  The sound of quiet, gentle humming can be heard from within.  
+Seems sort of an odd place for someone of good-nature to be relaxing
+and humming the day away.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2250 0
+D1
+~
+~
+0 0 2256 0
+D2
+~
+~
+0 0 2248 0
+S
+#2250
+North End of the Hallway~
+An opening in the vines lies to the north and east, both into rooms
+from light pours.  To the south the hallway runs past many more
+doorways which really are no more than openings in the vine wall.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2258 0
+D1
+~
+~
+0 0 2257 0
+D2
+~
+~
+0 0 2249 0
+S
+#2251
+In a Strange Vine Hallway~
+The walls of the hallway continue to be very pleasing to the eye,
+intricate patterns of vine interlacing through each other in wild
+twisting ways.  The end of the hall lies just to the south, an opening
+into a room visible from here.  To the immediate west is another
+opening much like the one to the south, a warm flood of light spilling
+from that direction.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2248 0
+D2
+~
+~
+0 0 2252 0
+D3
+~
+~
+0 0 2255 0
+S
+#2252
+The South End of the Vine Hallway~
+An opening the wall of vines allows passage south into a well-lit
+room.  The hall itself runs north for quite some distance before
+ending at a similar opening at that end.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2251 0
+D2
+~
+~
+0 0 2253 0
+S
+#2253
+Gretchen's Room~
+This is a strange thing...  The vines open up on the south wall into
+open section of swamp all surrounded in mossy vines.  A horse or
+something very similar stands in that room.  It seems sort of odd that
+someone would keep an outdoor pet like a horse in a room so close to
+their own place of living, but then - this is one of the five hideous
+bitches, here.    
+~
+22 44 0 0 0 0
+D0
+~
+~
+0 0 2252 0
+D2
+~
+~
+0 0 2254 0
+S
+#2254
+Gretchen's Stable~
+Gretchen bitched and moaned and generally made her mother's life
+miserable until Agatha finally gave in and bought her a horse for
+traveling the swamps.  With Gretchen's large bulk, it was difficult
+for her to move any long distances, so really the horse made sense.  
+However, none of the family could have guessed that Gretchen's extreme
+weight would cause the horse to forever have back trouble.  Poor
+fella.    
+~
+22 0 0 0 0 14
+D0
+~
+~
+0 0 2253 0
+D1
+~
+~
+0 0 2229 16
+S
+#2255
+The Playroom~
+This room is where the five hideous bitches (Agatha's daughters) get
+together and play with their dolls or paint themselves up with colored
+mud or just sit and gossip about the latest catastrophies the mudmen
+have caused.    
+~
+22 40 0 0 0 0
+D1
+~
+~
+0 0 2251 0
+S
+#2256
+Tammera's Room~
+This small but comfortable room has been decorated in all the
+disgusting pastel hues that one might be able to imagine and then
+some.  The smell of cheap swamp perfume hangs like a pall about the
+room, as if so much of the stuff has been sprayed that the smell never
+truly goes away.  An odd-looking picture hangs on the wall.    
+~
+22 40 0 0 0 0
+D3
+~
+~
+0 0 2249 0
+S
+#2257
+Abode of the Twins~
+Or more aptly described as the TWINS, these huganomous girls more than
+use the space in this room to the full extent.  It is quite a large
+room, kept very untidy.  The entire place has a moldy, dirty smell.  
+One that greatly resembles sweaty socks.  A set of wide, sagging bunk
+beds lie one atop the other in the far corner of the room amid a pile
+of dirty, stinking clothes.    
+~
+22 44 0 0 0 0
+D3
+~
+~
+0 0 2250 0
+E
+bed~
+Each of the beds seem wide enough to hold three people, the center of
+the top one sagging nearly down so far as to only be a foot or two
+from the bottom one.    
+~
+E
+clothes~
+All sorts of different types of clothing litter the floor, all of it
+unwashed and stained.  These two must be the pride of Agatha.    
+~
+S
+#2258
+Yillnette's Room~
+This room is avoided by most of the other sisters - Yillnette was the
+only one of the five who escaped the curse of their father and
+retained all vestiges of humanity from her mother's side.  The other
+sisters are all a bit jealous of Yillnette - though of course they
+deny it - and though not outright rude to her, they do keep their
+distance.    
+~
+22 44 0 0 0 0
+D2
+~
+~
+0 0 2250 0
+S
+#2259
+Downward Twisting Passage~
+The passge slowly loses the glorified artful vine look to the walls,
+surrendering themselves after a short distance to dirt walls carved
+from the earth where an occasional wet and dirty root protrudes.  The
+passage twists down out of sight from here.  More stable footing lies
+to the west in the main entrance of the fortress.    
+~
+22 41 0 0 0 0
+D3
+~
+~
+0 0 2243 0
+D5
+~
+~
+0 0 2260 0
+S
+#2260
+The Passage Gets a Bit Damp~
+The smell of wet earth begins to be quite prominent, the ground
+underfoot turning a bit less solid with every step.  Just around to
+the north and down a bit, the end of the downward slant can be seen
+and a hallway leads north, deep into the underarea of the swamp.  A
+flickering light source can be seen in the hallway below, most likely
+that of sconced torches.    
+~
+22 41 0 0 0 0
+D0
+~
+~
+0 0 2261 0
+D4
+~
+~
+0 0 2259 0
+S
+#2261
+Just Above a Foreboding Hallway~
+Looking down those last few steps into the hallway below, being that
+much closer to whatever might lie in the depths of this place, you
+realize that only a fool goes into a place such as this - not knowing
+what lies ahead or if the way back will be the same as the way in.  
+Of course, it can also be reasoned that only someone brave and strong
+would attempt such a daring feat.  Yes, that's it - brave, strong,
+daring...  Yeah.    
+~
+22 40 0 0 0 0
+D2
+~
+~
+0 0 2260 0
+D5
+~
+~
+0 0 2262 0
+S
+#2262
+Earthen Hallway~
+The walls and floor are made of dry, caked mud.  Torches are embedded
+into the walls, their handles jammed deep into the mud.  The hallway
+runs north into a wide chamber full of light where a large amount of
+activity ensues.  A strange smell fills the air, almost like that of
+burnt or scalded earth.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2263 0
+D4
+~
+~
+0 0 2261 0
+S
+#2263
+Earthen Hallway~
+Just north of here is the entrance to a large chamber where large
+steel couldrons are standing upon steel legs atop roaring fires.  The
+sound of a slow bubbling can be heard now, the sound of something very
+thick and soupy.  One would assume that it would be coming from
+whatever steams in the cauldrons.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2264 0
+D2
+~
+~
+0 0 2262 0
+S
+#2264
+Outside the Vat Room~
+The room to the north contains four large couldrons, used as vats by
+the evil hag, Agatha.  Along the east and west walls of the room, sets
+of doors can be seen.  They appear to be of similar shape and size.  
+A sitting area lies past the cauldrons, a daybed and a large chair can
+be seen.    
+~
+22 44 0 0 0 0
+D0
+~
+~
+0 0 2265 0
+D2
+~
+~
+0 0 2263 0
+S
+#2265
+South End of the Vat Room~
+Just north from here is the first of four large vats which boil over
+top of log fires.  The vats are all raised up on steel legs so that
+they are not directly in the fire, but above.  The way out of this
+room lies directly south.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2277 0
+D1
+~
+~
+0 0 2266 0
+D2
+~
+~
+0 0 2264 0
+D3
+~
+~
+0 0 2267 0
+S
+#2266
+South End of the Vat Room~
+Large vats lie just to the north, boiling and bubbling their contents
+within.  The room is filled with a perpetual, dirty haze that would
+make any being blink repeatedly to keep from teary eyes.  Small doors
+line the east and west walls.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2280 0
+D1
+~
+~
+0 0 2270 0
+D3
+~
+~
+0 0 2265 0
+S
+#2267
+South End of the Vat Room~
+In the center of this room are four huge vats, boiling over top of log
+fires.  Agatha's cackling fills the air as she works about the room,
+tending to the vats as she gleefully cackles.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2268 0
+D1
+~
+~
+0 0 2265 0
+S
+#2268
+West Wall of the Vat Room~
+A small door lies on this west wall, no openings, markings or windows
+on it.  To the east are the vats, boiling and spewing their muddy
+contents incessantly.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2269 0
+D1
+~
+~
+0 0 2277 0
+D2
+~
+~
+0 0 2267 0
+D3
+~
+door~
+1 0 2282 3
+S
+#2269
+West Wall of the Vat Room~
+A door, small and insignificant-looking lies on the west wall.  It
+does not appear to be locked, however it does appear to be strongly in
+place.  East from here is one of the large vats, raised on its steel
+legs over a roaring fire.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2276 0
+D1
+~
+~
+0 0 2278 0
+D2
+~
+~
+0 0 2268 0
+D3
+~
+door~
+1 0 2281 3
+S
+#2270
+South End of the Vat Room~
+In the center of the room are four vats boiling constantly over
+flames.  The walls of the room come to a curved corner, the bulk of
+the room lying to the north and west.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2271 0
+D3
+~
+~
+0 0 2266 0
+S
+#2271
+East Wall of the Vat Room~
+The east wall of the room sports a small, solid looking door.  There
+are no windows, no openings or markings of any kind upon the door, it
+is just a small, solid and simple affair.  To the west is one of the
+many cauldrons which boils incessantly over the flaming fires lit
+beneath.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2272 0
+D1
+~
+door~
+1 0 2284 3
+D2
+~
+~
+0 0 2270 0
+D3
+~
+~
+0 0 2280 0
+S
+#2272
+East Wall of the Vat Room~
+The east wall holds a small, featureless door.  To the west are the
+large vats which are set in stands over roaring fires.  The way out of
+this hellish place lies to the southwest.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2273 0
+D1
+~
+door~
+1 0 2283 3
+D2
+~
+~
+0 0 2271 0
+D3
+~
+~
+0 0 2279 0
+S
+#2273
+North Wall of the Vat Room~
+A small sitting area lies just west from here, the place where Agatha
+researches her work on swamp mud, in hopes of using its magical nature
+to bring her dead husband back.  To the southwest is the vat area
+where four cauldrons all stand wide and strong over flaming logs,
+boiling constantly.    
+~
+22 40 0 0 0 0
+D2
+~
+~
+0 0 2272 0
+D3
+~
+~
+0 0 2274 0
+S
+#2274
+Agatha's Sitting Area~
+A low divan lies centered in this section of the vat room, it being
+the place where Agatha lounges while being serviced by her faithful
+mudmen.  To the west is a short day bed, the place where Agatha naps
+between research.  South of this sitting area is one of the four
+cauldrons which boil over the hot flames.    
+~
+22 40 0 0 0 0
+D1
+~
+~
+0 0 2273 0
+D2
+~
+~
+0 0 2279 0
+D3
+~
+~
+0 0 2275 0
+S
+#2275
+Agatha's Sleeping Area~
+A small day bed dominates this small area, the covers on it rumpled
+and dirty.  A low divan lies to the east, the place where Agatha
+lounges while receiving the favors of her mudmen.  To the south is one
+of the four cauldrons which boil and bubble over a large fire.    
+~
+22 40 0 0 0 0
+D1
+~
+~
+0 0 2274 0
+D2
+~
+~
+0 0 2278 0
+D3
+~
+~
+0 0 2276 0
+S
+#2276
+North Wall of the Vat Room~
+The vat area lies to the southeast, the huge steel cauldrons bubbling
+and spewing the their contents without ceassation.  To the east is a
+small lounging area where Agatha rests and studies her black arts.  
+~
+22 40 0 0 0 0
+D1
+~
+~
+0 0 2275 0
+D2
+~
+~
+0 0 2269 0
+S
+#2277
+The Vat Room~
+The large cauldron holds a mess of thick, oozing, brown muck which
+boils constantly - a neverending goo fest.  The logs beneath never
+seem to lose their intensity nor diminish in any way, as they are
+magically maintained by Agatha.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2278 0
+D1
+~
+~
+0 0 2280 0
+D2
+~
+~
+0 0 2265 0
+D3
+~
+~
+0 0 2268 0
+S
+#2278
+The Vat Room~
+The large cauldron holds a mess of thick, oozing, brown muck which
+boils constantly - a neverending goo fest.  The logs beneath never
+seem to lose their intensity nor diminish in any way, as they are
+magically maintained by Agatha.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2275 0
+D1
+~
+~
+0 0 2279 0
+D2
+~
+~
+0 0 2277 0
+D3
+~
+~
+0 0 2269 0
+S
+#2279
+The Vat Room~
+The large cauldron holds a mess of thick, oozing, brown muck which
+boils constantly - a neverending goo fest.  The logs beneath never
+seem to lose their intensity nor diminish in any way, as they are
+magically maintained by Agatha.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2274 0
+D1
+~
+~
+0 0 2272 0
+D2
+~
+~
+0 0 2280 0
+D3
+~
+~
+0 0 2278 0
+S
+#2280
+The Vat Room~
+The large cauldron holds a mess of thick, oozing, brown muck which
+boils constantly - a neverending goo fest.  The logs beneath never
+seem to lose their intensity nor diminish in any way, as they are
+magically maintained by Agatha.    
+~
+22 40 0 0 0 0
+D0
+~
+~
+0 0 2279 0
+D1
+~
+~
+0 0 2271 0
+D2
+~
+~
+0 0 2266 0
+D3
+~
+~
+0 0 2277 0
+S
+#2281
+A Holding Cell~
+This cell is no more than four foot by four foot, barely large enough
+for a human male to sit down and stretch his legs out.  There is no
+light when the door is closed, nor are there any ways to pass the time
+save for sitting, staring into nothingness.    
+~
+22 41 0 0 0 0
+D1
+~
+door~
+1 0 2269 3
+S
+#2282
+A Holding Cell~
+The walls of this small cell have been glazed in some sort of solid
+covering, rendering the dirt solid as steel.  There is barely enough
+room to lay on the floor curled in a ball, the place is so small and
+uncomfortable.    
+~
+22 40 0 0 0 0
+D1
+~
+door~
+1 0 2268 3
+S
+#2283
+A Holding Cell~
+The walls of this small cell are made of hardened mud, glazed over
+with some sort of hardener which make the walls hard as steel.  The
+area of the cell is no more than four foot square, with no light
+whatsoever once the door is closed.    
+~
+22 41 0 0 0 0
+D3
+~
+door~
+1 0 2272 3
+S
+#2284
+A Holding Cell~
+The walls of this small cell are glazed over with some sort of
+covering which renders the dirt of the walls solid as steel.  Some
+barely discernable scratches mar the dirt walls, but nothing deep.  
+The solidity of the walls prohibits any such carving.    
+~
+22 41 0 0 0 0
+D3
+~
+door~
+1 0 2271 3
+E
+scratches~
+The Gods forgive me as a mudman.  I can only pray a for a swift death
+as such a monster.    
+
+Salagas of the Red Belt
+~
+S
+$~

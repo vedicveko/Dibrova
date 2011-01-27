@@ -1,0 +1,594 @@
+#17901
+oldstyle zeus god~
+Zeus~
+Zeus sits here on a throne.
+~
+You see before you the greatest of the Olympians.  It seems as if he
+could destroy you with a thought.  Every glance penetrates deep into
+your soul.  You now know what true fear is.    
+~
+641306 0 0 0 268763472 131072 0 0 0 E
+200 204 -100 0d0+0 40d45+133
+7500 4144996
+8 8 1
+BareHandAttack: 12
+Str: 10
+Dex: 5
+Int: 8
+Wis: 18
+Con: 12
+Cha: 19
+Luck: 6
+Class: 4
+Race: 45
+E
+#17902
+oldstyle prometheus~
+Prometheus~
+Prometheus is here, playing with fire.
+~
+This mortal risked the wrath of Zeus to give the gift of fire to
+humans.  He looks up at you and smiles.    
+~
+8505688 0 0 0 805634384 0 0 0 500 E
+180 176 -100 0d0+0 29d29+120
+6300 3168417
+8 8 1
+BareHandAttack: 6
+Str: 22
+Dex: 25
+Int: 12
+Wis: 13
+Con: 12
+Cha: 16
+Luck: 6
+Class: 4
+Race: 45
+E
+#17903
+oldstyle hermes~
+Hermes~
+Hermes is busy, delivering a message.
+~
+This is the messenger of the Gods.  He wears a winged helm and boots,
+and darts from place to place.  He looks very busy, and it seems as if
+he doesn't even notice your presence.    
+~
+248140 0 0 0 713097296 256 0 0 500 E
+180 176 -100 0d0+0 29d29+120
+6300 2772366
+8 8 1
+BareHandAttack: 13
+Str: 21
+Dex: 21
+Int: 24
+Wis: 22
+Con: 23
+Cha: 22
+Luck: 19
+Race: 45
+E
+#17904
+oldstyle poseidon~
+Poseidon~
+Poseidon, the God of the Seas, is dining here, inviting you to join him.
+~
+He is the brother of Zeus himself, chosen to rule the seas.  He must
+be visiting Mount Olympus.  He nods at you and motions for you to
+enter and have a seat.    
+~
+772106 0 0 0 587203024 0 0 0 350 E
+180 176 -100 0d0+0 29d29+120
+6300 2904383
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 25
+Int: 16
+Wis: 14
+Con: 10
+Cha: 12
+Luck: 21
+Class: 5
+Race: 45
+E
+#17905
+oldstyle apollo~
+Apollo~
+Apollo, the God of Prophecy, is standing here, playing a musical tune.
+~
+This jovial God is strumming on a lyre.  He smiles at you and asks you
+to join him.  You notice a dangerous looking bow by his side, however,
+and think that he knows more than music.    
+~
+772122 0 0 0 671088976 0 0 0 350 E
+180 176 -100 0d0+0 29d29+120
+6300 3036400
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 18
+Int: 10
+Wis: 22
+Con: 5
+Cha: 10
+Luck: 10
+Class: 4
+Race: 45
+E
+#17906
+oldstyle ares~
+Ares~
+Ares, the God of War, is here, eyeing your every move.
+~
+The God of War is here, studying some maps.  He scowls at you as you
+enter and says 'I am very busy.  What do you want?  '
+~
+567834 0 0 0 604307792 0 0 0 -850 E
+180 176 -100 0d0+0 29d29+120
+6300 3300434
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 19
+Int: 5
+Wis: 5
+Con: 9
+Cha: 13
+Luck: 9
+Class: 9
+Race: 45
+E
+#17907
+oldstyle athena~
+Athena~
+Athena, the Goddess of Wisdom, is relaxing here.
+~
+Zeus' favorite daughter is sitting on a couch eating grapes.  She
+smiles at you and invites you to join her.    
+~
+8440090 0 0 0 973078864 0 0 0 350 E
+190 190 -100 0d0+0 34d35+126
+7000 3485265
+8 8 2
+BareHandAttack: 12
+Str: 12
+Dex: 9
+Int: 6
+Wis: 12
+Con: 17
+Cha: 17
+Luck: 17
+Class: 2
+Race: 45
+E
+#17908
+oldstyle hephaestus smith~
+Hephaestus~
+Hephaestus, God of Fire and Metalwork, is here, crafting a fine weapon.
+~
+This God is the only one who is not physically perfect.  He is lame
+and very ugly.  You get the impression that he is kind, however, and
+would go out of his way to help you.  He is attended by three golden
+maidens.    
+~
+9029642 0 0 0 134479952 131328 0 0 350 E
+180 176 -100 0d0+0 29d29+120
+6300 3036400
+8 8 1
+BareHandAttack: 5
+Str: 9
+Dex: 9
+Int: 10
+Wis: 10
+Con: 13
+Cha: 9
+Luck: 8
+Class: 6
+Race: 45
+E
+#17909
+oldstyle handmaid golden~
+a Golden Maiden~
+A golden handmaid is here, smiling softly.
+~
+As you gaze upon this creation, you realize that she is made from
+solid gold.  She seems to be very lifelike as she assists the smith in
+his work.    
+~
+55306 0 0 0 570425424 0 0 0 350 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+BareHandAttack: 10
+Str: 9
+Dex: 18
+Int: 13
+Wis: 16
+Con: 19
+Cha: 18
+Luck: 16
+Race: 33
+E
+#17910
+oldstyle soldier~
+a Soldier~
+A grand soldier is standing here, keeping an eye out!
+~
+This man is waiting on Ares.  Although he does not look very strong,
+you realize that Ares would not have any weaklings working for him.  
+~
+88602 0 0 0 100663376 0 0 0 -350 E
+150 136 -60 0d0+0 20d20+100
+5000 1741559
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 21
+Int: 24
+Wis: 25
+Con: 15
+Cha: 25
+Luck: 24
+Race: 14
+E
+#17911
+oldstyle musician apprentice~
+an Apprentice Musician~
+An apprentice musician is playing here, learning from the almighty Apollo.
+~
+This man has mastered his first profession, and is now studying music
+from the immortal Apollo.    
+~
+22794 0 0 0 536870992 0 0 0 350 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+BareHandAttack: 13
+Str: 17
+Dex: 17
+Int: 5
+Wis: 8
+Con: 7
+Cha: 21
+Luck: 23
+Race: 14
+E
+#17912
+oldstyle boy serving servant~
+a Serving Boy~
+A master servant is here, feeding Athena her grapes.
+~
+This boy is truly lucky to be able to serve Athena herself.
+~
+22794 0 0 0 80 0 0 0 350 E
+145 130 -60 0d0+0 18d18+96
+4600 1521265
+8 8 1
+Str: 22
+Dex: 8
+Int: 20
+Wis: 18
+Con: 10
+Cha: 5
+Luck: 22
+Race: 14
+E
+#17913
+oldstyle hound dog war~
+a Hound of War~
+A bloody Hound of War snarls as you enter!
+~
+This great beast can barely be called a dog.  It has been bred to
+cause fear on the battle field, and you have no doubt that it does its
+job well.    
+~
+68177992 0 0 0 33556560 2 0 0 -500 E
+105 82 -40 0d0+0 10d11+70
+0 667958
+8 8 1
+BareHandAttack: 4
+Str: 23
+Dex: 24
+Int: 16
+Wis: 25
+Con: 10
+Cha: 5
+Luck: 25
+Race: 8
+E
+#17914
+oldstyle Odin~
+Odin~
+The patron God of Midgaard, Odin, is resting here.
+~
+As you gaze at Odin, you realize how insignificant you truly are.  He
+towers over you, and is so intent on his activities that he barely
+recognizes your presence.    
+~
+608538 0 0 0 570490888 0 0 0 500 E
+170 162 -60 0d0+0 25d26+113
+6000 2282239
+5 5 1
+BareHandAttack: 7
+Str: 21
+Dex: 23
+Int: 15
+Wis: 23
+Con: 15
+Luck: 18
+Class: 4
+Race: 45
+E
+#17915
+oldstyle grocer greengrocer julius~
+Julius the Green Grocer~
+Julius, the Green Grocer, is standing here, awaiting your orders.
+~
+This jovial man has devoted his life to selling fruit and other foods
+to the inhabitants of this city.  Although he may seem like a wimp, it
+would be wise not to underestimate him.  He smiles warmly at you and
+shows you his selection of delicious looking foods.    
+~
+18442 0 0 0 570425424 0 0 0 350 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 14
+E
+#17916
+oldstyle alchemist~
+the Alchemist~
+The ancient, wizened Alchemist stands here.
+~
+Skilled in all manner of magic, as well as the ancient art of alchemy,
+he stands ready to supply the citizens here (but not you) with all
+manner of arcane supplies.    
+~
+2122 0 0 0 65624 0 0 0 350 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+BareHandAttack: 15
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 14
+E
+#17917
+oldstyle clive~
+Clive the Weapons Master~
+Clive the Weapons Master is practicing with his bow and axe.
+~
+Clive looks VERY big and VERY tough.  All those years in the army must
+have paid off.    
+~
+690186 0 0 0 570427472 0 0 0 100 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 14
+Wis: 19
+Con: 25
+Cha: 12
+Luck: 12
+Class: 4
+Race: 10
+E
+#17918
+oldstyle armourer samuel~
+Samuel the Armourer~
+Samuel the Armourer glares at you.
+~
+Samuel looks just like Clive the Weapons Master: VERY big and VERY
+tough.  He doesn't like what you've been doing in his city.    
+~
+559114 0 0 0 570427472 0 0 0 100 E
+150 136 -60 0d0+0 20d20+100
+5000 1658628
+8 8 1
+Str: 5
+Dex: 16
+Int: 10
+Wis: 19
+Con: 14
+Cha: 21
+Luck: 20
+Class: 4
+Race: 10
+E
+#17919
+oldstyle ra sun god~
+Ra, the God of the Sun~
+Ra the Egyptian Sun God is resting here.
+~
+Ra is very bright!  It hurts your eyes to look at him, so you can tell
+little about his appearance.  What you can tell, however, suggests
+that he is no one to be trifled with.    
+~
+583706 0 0 0 328016 4194304 0 0 1 E
+200 204 -100 0d0+0 40d45+133
+7500 4144996
+8 8 1
+BareHandAttack: 16
+Str: 15
+Dex: 19
+Int: 17
+Wis: 10
+Con: 7
+Cha: 18
+Luck: 5
+Class: 1
+Race: 45
+E
+#17920
+oldstyle chimera~
+a Chimera~
+A chimera prowls the cell.
+~
+This bizarre creature has three heads - one of a goat, one of a lion,
+and one of a dragon.  It growls at you as you enter the cell, then
+suddenly attacks!    
+~
+101206088 0 0 0 33818704 2 0 0 -600 E
+145 130 -60 0d0+0 18d18+96
+0 1673391
+8 8 1
+Str: 9
+Dex: 23
+Int: 7
+Wis: 25
+Con: 23
+Cha: 23
+Luck: 21
+Race: 8
+E
+#17921
+oldstyle hera~
+Hera~
+Hera stands here, looking radiant yet evil.
+~
+Hera, the wife of Zeus is here.  She smiles at you as you enter and
+invites you to rest and sit for a while.    
+~
+617994 0 0 0 570425680 0 0 0 1000 E
+200 204 -100 0d0+0 40d45+133
+7500 3799580
+8 8 2
+BareHandAttack: 15
+Str: 10
+Dex: 14
+Int: 5
+Wis: 19
+Con: 18
+Cha: 15
+Luck: 8
+Class: 1
+Race: 45
+E
+#17922
+oldstyle roc~
+a Roc~
+A roc is here.
+~
+This is a giant bird.  It looks at you quizzically, then makes a noise
+and looks away.    
+~
+854026 0 0 0 8388688 4325376 0 0 300 E
+125 105 -60 0d0+0 15d15+83
+0 1041926
+8 8 1
+BareHandAttack: 8
+Str: 9
+Dex: 18
+Int: 23
+Wis: 17
+Con: 14
+Cha: 21
+Luck: 5
+Race: 3
+E
+#17923
+oldstyle citizen resident~
+a Citizen~
+A citizen strolls down Zeus Street, looking for something to do.
+~
+He looks happy and carefree.  He smiles and tips his hat to you.
+~
+22604 0 0 0 33620048 2 0 0 500 E
+130 111 -60 0d0+0 15d16+86
+3500 1151521
+8 8 1
+Str: 18
+Dex: 6
+Int: 22
+Wis: 15
+Con: 24
+Cha: 13
+Luck: 23
+Class: 12
+Race: 14
+E
+#17924
+oldstyle pegasus horse~
+a Pegasus~
+A large horse with wings is here.
+~
+This horse is snow white with large wings.  Although it doesn't look
+very threatening, it seems as though it would be dangerous if
+provoked.    
+~
+34342922 0 0 0 8388688 4194304 0 0 800 E
+115 94 -40 0d0+0 13d13+76
+0 842356
+8 8 1
+BareHandAttack: 9
+Str: 24
+Dex: 5
+Int: 9
+Wis: 9
+Con: 23
+Cha: 15
+Luck: 20
+Race: 52
+E
+#17925
+oldstyle cook~
+a Cook~
+A cook is here, hard at work.
+~
+This man looks as is he has been spending WAY too much time in the
+kitchen.    
+~
+6282 0 0 0 33554448 0 0 0 300 E
+125 105 -60 0d0+0 15d15+83
+3500 1041926
+8 8 1
+Str: 17
+Dex: 20
+Int: 6
+Wis: 10
+Con: 16
+Cha: 15
+Luck: 10
+Race: 14
+E
+#17926
+oldstyle jailer~
+the Jailer~
+The jailer is here, watching for intruders.
+~
+He looks as though he has spent a lot of time underground, guarding
+the prisoners.    
+~
+759818 0 0 0 2128 163840 0 0 -300 E
+145 130 -60 0d0+0 18d18+96
+4600 1521265
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 21
+Int: 16
+Wis: 15
+Con: 23
+Cha: 6
+Luck: 14
+Class: 4
+Race: 14
+E
+$

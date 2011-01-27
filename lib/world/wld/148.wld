@@ -1,0 +1,102 @@
+#14800
+The Throne Room~
+You have entered the Throne Room of Lord Krothgar.  He sits here, upon
+his throne, located in the center of the 5 towers which emerge in all
+directions from this room.  In each tower resides a powerful dragon,
+loyal allies of the Lord.  Long wall hangings depict the many
+victories won by Krothgar, and in between them stand members of his
+elite guard, ready to defend their lord.    
+~
+148 8 0 0 0 0
+D0
+~
+~
+0 -1 14801 0
+D1
+~
+~
+0 -1 14804 0
+D2
+~
+~
+0 -1 14803 0
+D3
+~
+~
+0 -1 14802 0
+D4
+~
+~
+0 -1 14805 0
+D5
+~
+~
+0 -1 14799 0
+S
+#14801
+Dragon Tower~
+In this tower rests a huge dragon, the largest of its kind.  It will
+not appreciate being disturbed by a mortal such as yourself...    
+~
+148 8 0 0 0 0
+D2
+~
+~
+0 -1 14800 0
+S
+#14802
+Dragon Tower~
+In this tower rests a huge dragon, the largest of its kind.  It will
+not appreciate being disturbed by a mortal such as yourself...    
+~
+148 8 0 0 0 0
+D1
+~
+~
+0 -1 14800 0
+S
+#14803
+Dragon Tower~
+In this tower rests a huge dragon, the largest of its kind.  It will
+not appreciate being disturbed by a mortal such as yourself...    
+~
+148 8 0 0 0 0
+D0
+~
+~
+0 -1 14800 0
+S
+#14804
+Dragon Tower~
+In this tower rests a huge dragon, the largest of its kind.  It will
+not appreciate being disturbed by a mortal such as yourself...    
+~
+148 8 0 0 0 0
+D3
+~
+~
+0 -1 14800 0
+S
+#14805
+Dragon Tower~
+In this tower rests a huge dragon, the largest of its kind.  It will
+not appreciate being disturbed by a mortal such as yourself...    
+~
+148 8 0 0 0 0
+D5
+~
+~
+0 -1 14800 0
+S
+#14806
+Stables~
+Here, the blackguard keep their steeds, evil destriers bred on the
+plains of Hel itself.    
+~
+148 9 0 0 0 0
+D4
+~
+~
+0 -1 14768 0
+S
+$~

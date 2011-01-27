@@ -1,0 +1,2482 @@
+0
+ALIGNMENT
+
+Alignment is the scale of measure that the game uses to judge how Good
+(Lawful) or Evil (Chaotic) you are as a player.  The scale of your alignment
+is display in your character's score.
+
+A numeric scale from -1000 (as evil as you can be) to 1000 (as Good as you
+can be) is used to interpret which alignment you are.
+
+The following text definitions are used on the score screen at the following
+amounts per alignment scale:
+
+  Saintly           ----->  750 or above
+  Good              ----->  350 to 750
+  Neutral           -----> -350 to 350
+  Bad               -----> -350 to -750
+  The Devil's Spawn -----> -750 or below
+
+Alignment can be changed by fighting creatures of opposite alignment to
+the one you wish to obtain.
+
+Alignment will affect your ability to wear certain pieces of equipment if
+that equipment is flagged as such.
+
+The Paladin and Dark Knight classes are unable to cast their spells if they
+are not above or below the Neutral designation (350) - above or below depends
+on which class - as their primary source of mana comes from their worship of
+the Gods of Good and Evil.
+
+See also: SCORE
+#
+AC "ARMOR CLASS"
+
+"AC" is your armor class.  Armor class takes part in determining how well
+you are capable of avoiding attacks.  Armor class is based on a number
+system from -100 to 100.  This system is roughly defined as follows:
+
+  Armor class roughly equivalent to:
+  ----------------------------------
+  100  Naked person
+    0  Very Heavily armored (Plate mail, and "two shields") 
+ -100  Armored battle tank
+
+The score command displays your armor class as a number.  For example, let's
+say you have an armor class of 78.  This means a 78 armor class on a rating
+system based from 100 to -100.
+
+Your armor class can be determined by spells, skills, and equipment.
+
+See also: SCORE
+#
+ACROBAT
+
+An Acrobat is the combination of a Thief and Monk.
+The best races for this remort is a Goblin or Triton.
+A fair race for this remort is a Dwarf.
+#
+TOKEN "ARENA TOKEN"
+
+There are three different types of arenas on Dibrova. One is the arena that
+can only be opened by a God, another is accessable just by walking north
+a few rooms from the temple and then heading east. Within these two arenas,
+players may fight each other and any creatures found within without fear of
+experience or equipment loss - its all for fun. Immortal arenas (those arenas
+opened by a God) will award money and sometimes quest points and/or prizes
+to the winner.
+
+The last type of arena is through the arena quest which is available to
+players whose level is a multiple of ten. In this arena, YOU CAN LOSE BOTH
+EXPERIENCE AND EQUIPMENT and most times when death occurs in this place,
+a player loses their equipment forever due to the fact that normally they
+do not have another token to enter. THERE IS NO OTHER WAY INTO THIS ARENA
+WITHOUT A TOKEN. Also, be warned that to go back with another token after a
+death means that you will face two of the creatures instead of the one that
+killed you the last time. This is by far the most dangerous arena in Dibrova,
+be wary when entering.
+
+Given to any player whos level is a multiple of ten, arena tokens are used
+to participate in the arena quest.
+
+All arena tokens are given as owned eq. This means that once you receive an
+arena token, you are the only player who can use it.
+
+/ccAny player who does not wish to complete the arena quest may trade their
+arena token to the arena master for a random amount of experience based on
+their level. Simply type 'trade' in the presence of the arena master to use
+this option./c0
+
+See also: ARENA, QUEST, OWNED EQ
+#
+ARINFO
+
+Usage: arinfo
+
+This is a toggle for players to use to allow or disallow the arena messages
+which show while arenas are run.
+
+See also: ARENA
+#
+ASSASSIN
+
+An Assassin is the combination of a Thief and Dark Knight.
+The best races for this remort is a Drider or Harpy.
+A fair race for this remort is a Drow.
+#
+AQUEST "QUESTMASTER"
+
+Usage: aquest
+       aquest points
+       aquest time
+       aquest info
+       aquest request
+       aquest complete
+       aquest fail
+
+The Questmaster is located at the Temple Altar in Midgaard. He is the only mob
+that offers aquests (auto-quests) in Dibrova.
+
+To begin a quest, type AQUEST REQUEST in the presence of the Questmaster
+and he will either assign you a mob to kill or a piece of eq to retrieve.
+All mob and eq choices are random based on your own level.
+
+Once you have completed your quest, get back to the Questmaster as quickly
+as possible and type AQUEST COMPLETE and you will be rewarded with quest
+points and gold.
+
+All quests are given a time limit for completion, using the AQUEST TIME
+command will allow you to see how much time is left in your quest. After
+completing a quest, you are required to wait for an amount of time determined
+randomly by the Questmaster. The AQUEST TIME command  will tell you how much
+time left until you can quest if you are waiting to quest again.
+
+If you have forgotten what your quest is, type AQUEST INFO.
+
+AQUEST FAIL allows you to quit the quest you are on and reset your quest
+timer to 20 minnutes.
+
+See also: QUEST, QUESTPOINTS, EXPERIENCE, EQ
+#
+AVIADES
+
+Aviades are the winged folk of Dibrova.  They are slender and 
+light-boned in appearance, lending to their extremely agile 
+state.  They are a peaceful race, spending much time amongst 
+them pursuing knowledge and questing for balance and harmony.  
+With their wings, they are blessed with the ability to soar and
+fly over vast spaces with ease.  Many of them posses a natural
+ability to control magic, although choose the path of balance 
+and harmony.
+
+Aviades excel as monks.  They make fair clerics and sorcerors.
+For remort, they excel as a Psionist and Storr.  They are also 
+decent as an Arcanic.
+
+Aviades have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	16	23	18	25	18	15	19
+#
+BOARDS
+
+Usage: look board
+       write <subject>
+       read <message number>
+       remove <message number>
+
+Note: To finish a post, start on a new line of your message and type "/s".
+      This will complete and save the post as is.
+
+Boards are the forum of inter-player communication on Dibrova.
+There are different bulletin boards for different purposes.  For example, a
+standard mortal board, a board for immortals, a board for fun "social"
+messages, and so forth.  Naturally, not all players may be allowed to read
+all types of boards.
+
+Example:
+
+  > look at board
+  > write Hello Dibrova
+    (creates a post with a subject of "Hello Dibrova")
+  > look at board
+  > read 12
+  > remove 12
+
+See also: MAIL, READ, WRITE
+#
+BOUNTY
+
+By placing the substantial amount of 550,000 gold down at Contracts, Ltd. in
+Dun Pith, a bounty can be placed on the life of another player.
+
+Some general rules apply to bounties:
+
+- The player has be online at the time the bounty is placed
+- A bounty cannot be placed on any player under level 100
+  (remorts are an exception to the level 100 rule)
+- Contracts, Ltd. charges a flat rate of 50,000 gold for services rendered
+- The remaining 500,000 gold is immediately passed along to the
+  one who slays the player
+- Players under the minimum level for pkill (100) will be able to attack
+  those with the (Bounty) flag if they have the guts
+#
+"CARD QUEST" "POKER QUEST"
+
+Throughout Dibrova, cards from a full poker deck load randomly in rooms. They
+can be found either on the ground where they load or on a mob who may've
+picked them up.
+
+Quest points can be had through getting jacks or better in a five card
+hand. You *must* have five cards together to get any quest points at all.
+
+Quest point rewards are as follows:
+
+One Pair (jacks or better) -  10 qps
+Two Pair                   -  20 qps
+Three of a Kind            -  30 qps
+Straight                   -  50 qps
+Flush                      -  60 qps
+Full House                 -  70 qps
+Four of a Kind             -  80 qps
+Straight Flush             - 150 qps
+
+Good Luck!
+
+#
+"CLAN MAILER" PETITION MUTINY
+
+The clan mail shop in Midgaard is the only place where you can go to place
+orders for new clan items, mob or rooms. You can also use this service to
+order a new clan (please read 'help clan' for all info on new clan regulations).
+
+To place an order through the clan mailer, simply use the /cworder/c0 command
+and write your order as if you were sending a mail.
+
+Clans may also use the clan mailer in times of distress, when their leader
+is performing in a less than adequate way. If six or more members of a clan
+petition to have their leader removed from his or her position through use
+of the /cwpetition/c0 command at the clan mailer, the will of the people
+will prevail and a new leader will be chosen.
+/cRWarning to all clan leaders: If you are mutinied upon by your clan, the
+/cY(/cyExile/cY)/cR flag will be set upon you./c0
+
+See also: CLAN, CLANPRICES, PETITION, MUTINY
+#
+CLANCOMMAND CLANCOMMANDS
+
+The following commands are available to players who are members of clans.
+
+* Items denoted with an asterisk are LEADER only.
+^ Items denoted with a hat are LEADER and RECRUITER only.
+
+Usage: clan who
+       clan status
+       clan info <clan>
+       clan enroll^
+       clan expel^
+       clan promote*
+       clan demote*
+
+See also: CLANS, CLANPRICES, CLANEQ, CTELL
+#
+"CLAN TOKENS"
+
+Clan Tokens are created and deposited randomly throught the mud.
+The tokens will each have different values and can be gathered and
+handed in to an immortal to be used to update clan halls and clan 
+shops.
+
+Example: collect 10 Room Tokens and you can add a new room to your
+	 clan hall
+
+	
+ITEMS		 			TOKENS NEEDED
+
+Rooms					10 Room Tokens
+Doors                                    6 Door Tokens
+ * keys (if wanted)		 	 2 Door Tokens
+Room or Mob Flags			12 Flag Tokens
+Mob Flags				14 Flag Tokens
+Portal exits				14 Portal Tokens
+Shopkeeper				 8 Mob Creation Tokens
+Healer					13 Mob Creation Tokens
+Guard					20 Mob Creation Tokens
+Wandering Mascots			 5 Mob Creation Tokens
+Fountain			  	 6 Object Tokens
+Statue or Misc Stationary Obj   	 8 Object Tokens
+
+Clan Equipment:
+   Starting Piece (no stats)		80 Object Tokens
+   1 Hitroll, Damroll, or Spellpower	40 Stat Tokens
+   5 Maxhit				30 Stat Tokens
+   1 Affect				40 Stat Tokens
+
+See also: CLANPRICES
+#
+CLANEQ
+
+Your clan can purchase wearable equipment that can only be worn by members
+of your clan.  The equipment would be custom, with any name, description and
+stats that your clan desires (within reason).
+
+Guidelines for clan eq are as follows:
+
+  - Eq must be set at minlevel 50.
+  - Eq can have hitroll, damroll and/or spellpower as high as +9.
+  - Eq can have regular stats such as STR, INT, WIS as high as +5.
+  - Eq can be any wear position.
+  - Eq can have permanent affections, but not protective affections such as
+    SANCTUARY or FIRESHIELD.  Affects such as SEE INVIS or DETECT MAGIC would
+    be perfectly acceptable.  See an imm for more detail if you desire to
+    have any affections on your clan eq
+  - Clan eq can only be sold by a clan shopkeeper (if your clan does not
+    already have one you must buy one).  The shopkeeper must be in it's own
+    room (shop).
+  - Clan eq can only be sold within the clan's private zone (clan hall).
+  - Clan eq must be sold for the price it costs to initially create. The eq
+    divided by ten (If it costs the clan 10mil to make the eq, it will be
+    sold in the clan shop for 1mil).
+  - Armor class can be set to a max -2 AC. 
+  - Once a piece of clan eq has been created, it may not be edited in any way
+    again.
+
+Note: Please read 'HELP CLANPRICE' for information on costs of eq, stat
+      increases, rooms, and mobs.
+
+For further information on object statting, refer to the website.
+
+         http://www.dibrova.org
+
+Click on the 'Building' link and then check the objstats file on that page.
+
+See also: CLANS, CLANPRICES, CLANCOMMANDS, CTELL
+#
+CLAN CLANS
+
+Clans can be established through an immortal at any time during gameplay.  
+There is no fee to begin a clan, the only criteria that must be met is:
+
+- There must be at least one level 50 LEADER to establish the clan.
+- There must be at least six members to start the clan 
+- Clans must establish a purpose for existance
+   *ie, some clans may devote themselves to info gathering on eq,
+        some might devote to mapping areas, others might devote
+        themselves to pkill and yet others might choose to devote
+        themselves to helping newbies
+
+Please note that the leader and the members must be ACTIVE players.  A 
+clanthat lacks active players will be deleted.  The purpose of a clan is
+to allow players to interact with other players in an attempt to benefit
+the group in raising financial and material wealth that can be of use by 
+the entire clan. Clans can also provide a basis for fighting groups to be
+formed for easier interaction between players which, in some circumstances,
+would not normally be had.
+
+To see a list of current clans, simply type CLAN INFO.  
+To see more information about a specific clan, simply type CLAN INFO #CLAN.  
+For further information, please contact the Clan Master or any clan member
+in person or via mudmail.
+
+Please note that once a clan is made, it remains in existence on Dibrova forever.  
+No new clans may be made until ALL inactive clans are occupied first.  Maximum 
+number of clans that will be allowed is 20.
+
+See also:  CLANPRICES,  CLANCOMMANDS,  CLANEQ,  CTELL, CLAN MAILER
+#
+CLANPRICES
+
+The following information about objects and the prices for each are explained
+in the following helpfiles:  
+
+CLANROOMS,  CLANMOBS,  CLANOBJECTS,  CLANSHOPS, CLANZONES,  CLANTOLLS
+
+Once you have decided on what you want and have the money for it, please email
+the details to kaan@dibrova.org also sending a mudmail to Greyfeather to remind
+him to check his email.  Your order will be checked and necessary action taken.
+#
+CLANROOMS
+
+The first five rooms in the clan hall are FREE.  This includes the entry 
+room with one clan guard, an inn with a receptionist, a meeting room with 
+a clan board, a vault, and a plain room. All beginning clan halls must be
+at least five zones from Midgaard.
+
+-  subsequent rooms		 		1 million
+-  doors					500,000
+-  key						500,000
+-  heal flag					3 million
+-  other flags					2 million
+-  special exits				5 million
+		(portal exits are restricted)
+
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANMOBS
+
+The following mobs can be purchased by the clan to aid them in a variety of ways.
+
+	-  Shopkeeper				1 million
+	-  Healer				3 million
+		(randomly casts a variety of spells)
+	-  Postmaster				1 million
+		(must have their own room)
+	-  Guard				5 million
+	-  Mascot				500,000
+		(level 1 mob with level 1 stats)
+	-  Banker				1 million
+	-  Promoter				2 million
+		(standard level 30 mob walking around mud announcing
+		random statements about the clan)
+
+Any improvements can be sold back for 1/4 the original cost.
+#
+CLANOBJECTS
+
+The clan for enjoyment and functionality can purchase the following objects.
+
+	- statues				500,000
+	- fountain				1 million
+	- misc. objects				500,000
+		(objects will be stationary)
+
+The following apply to objects which are sold in the clan shops.
+
+	-  existing items 			500,000
+		sell rate will be 1.65 %
+		500,000 for every 0.05% decrease 
+		bottom rate is 0.75%
+	-  new items				2 million
+		2.5million for every +1 stat increase
+			(max of +2 each)
+		1 million for every +5 maxhit, maxmana, or maxmove
+			(max of +100 each)
+		5 million for an affect
+			(some affects are not available)
+	-  potions
+		1,000 times the cost of the potion
+		*the following potions/scrolls/wands/staves are not available:
+                 /cwhaste
+		 /cwgrowth
+		 /cwindestructable aura
+		 /cwblazeward
+		 /cwsanctuary
+		 /cwsacred shield
+		 /cwdivine aura
+		 /cwancient protection
+		 /cwdarkward
+		 /cwcure all/c0
+
+Items with a MAX or LIMITED loadrate are NOT ALLOWED in shops.
+	i.e., /cwthe Staff of the /cRDungeon Master/c0
+
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANSHOPS
+
+All clan shops sell all objects at an automatic upgrade of 1.5 times 
+their worth, as do all shops in Dibrova.  A clan may purchase a reduction
+to the shop markup by 0.01% for the price of 100,000 gold.  The markup can
+be reduced down as low as 1.0% but no lower.
+
+Clans may be able to set up brand-new shops to see products outside of the clan hall.  
+
+		6million for a shop in a zone NOT OWNED by clan
+		5 million for a shop in a zone OWNED by clan
+
+A clan may purchase a vendor to sell goods to make a profit for the clan.  
+Please check out HELP VENDOR for more information.
+
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANZONES
+
+Clans may purchase zones to reap in any profits the zone may
+offer (hospitals, shops, tolls). Clans may only purchase zones
+which are adjacent to (linked or next to) a zone that they
+already own. Clans can only buy zones which are adjacent to
+zones which they already own.
+
+Clans members will receive a 25% discount in shops which are on
+lands that they own.
+A 10% shop discount is awarded to any clan members who are in a 
+shop on allied-owned lands.
+A 75% shop markup is set against any members of clans who are at
+war with a clan who owns the land the shop is on.
+
+The deeds may be purchased in the Deed Shop found in Midgaard:
+
+	-  20 to 30 rooms			10 million
+	-  31 to 50 rooms			12 million
+	-  51 to 70 rooms 			15 million
+	-  71 to 100 rooms			20 million
+	-  101+ rooms				30 million
+
+Should a clan wish to sell a zone back to the Deed Shop,
+the buy-back prices are as follows:
+
+	-  20 to 30 rooms			2.5 million
+	-  31 to 50 rooms			3 million
+	-  51 to 70 rooms			3.75 million
+	-  71 to 100 rooms 			5 million
+	-  101+ rooms				7.5 million
+#
+CLANTOLLS
+
+Toll guards can be purchased as a means to generate profit for the clan.
+They will stand at the entrance of your zone and charge a toll to all
+who enter.  Toll proceeds will get deposited into the clan bank account.  
+A max of 500 gold fee is allowed.
+
+	-  level 50				2 million
+	-  level 100				5 million
+	-  level 150 				7 million
+	-  level 200				10 million
+
+
+#
+CLASS CLASSES
+
+Each player has a class.  A class (sort of like an "occupation")
+determines many characteristics of your player.  The skills and 
+spells you will be able to learn, what equipment you can wear are
+in part determined by your class.  Additionally, certain limitations
+and/or priveleges are given to various classes.
+
+Dibrova offers 8 basic classes for players.  The mortal classes 
+are broken down into categories of Casters, Fighters, and Hybrids. 
+
+   Casters: Sorcerer, Clerics
+  Fighters: Gladiator, Thief
+   Hybrids: Paladins, Dark Knights, Monks, Druids
+
+There are also 26 remort classes available.  These remort classes 
+are combinations of the basic eight classes on Dibrova.  There are 
+also 4 immort classes available for those who have reached the max
+as a remort.
+
+See also: 	SORCERER, DARK KNIGHT, CLERIC, MONK, GLADIATOR, 
+		PALADIN, THIEF,  DRUID, REMORT, IMMORT
+#
+CLERIC
+
+Clerics are, as a general rule, not a very strong class in terms of
+combat.  They are the healers and buffers in a group, providing 
+protective magics that rival no other.  Clerics possess the strongest 
+protection in the game as well as the strongest healing magic in the 
+game.
+
+Clerics are best played in a group, leaving the fighting to the other
+members as clerics have very few choices for weapons and offensive 
+magic which does minimal damage at best.
+
+A cleric's magic comes in the form of prayers.  Use the "pray" command 
+to use prayers.
+
+The following races make the best clerics:
+Gnome, Nymph, Centaur
+
+The following races make fair clerics:
+Giant, Kender, Aviades, Sprite, Eldar, Valkyrie, Draconian
+
+To see a list of skills available to you, type 'skills'.
+To see a list of prayers available to you, type 'prayers'.
+
+See also: CLASSES, PRACTICE, PRAYERS, SKILLS
+#
+CENTAUR
+
+Centaurs are half-breeds, having the body of a horse and the 
+torso of a human.  The are strong, hardy, and intelligent 
+beings.  They are comfortable in living out in the open spaces,
+abhorring the confines of civilization and crowded developments.
+They can traverse large expanses of space with ease, being 
+half-horse and hardy in stamina.
+
+Centaurs excel as clerics.  They make fair gladiators and paladins.
+For remort, they excel as a Templar and Crusader.  They are also
+decent as a Champion.
+
+Centaurs have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	25	16	23	19	18	15	18
+#
+"CLERIC SKILLS" "CLERIC PRAYERS"
+
+To see a list of cleric prayers, visit the website at WWW.DIBROVA.ORG.
+
+If you are a cleric, type SKILLS or PRAYERS to see lists of each.
+
+#
+COURTHOUSE "HIGH COURT OF DIBROVA"
+
+Players may use the Court Board located downward from the main board
+to post greivances against each other which they feel cannot be resolved
+without help or intervention.
+
+If a greivance is seen as fit to warrant a trial, an immortal
+will post a court date and time (use the DATE command to see 
+what machine time is) and the trial will be held at the scheduled time.
+
+If either of the involved parties are unable to be present for the trial,
+they may mudmail the immortal who is handling the case with their side
+of the story or they may appoint another player as their lawyer in the
+case of their absence. In either case, the player must notify the immortal
+handling the case via mudmail. Players may appoint another mortal as
+their lawyer if they wish, present or not. 
+
+A panel of mortal players, used as a jury, will render the actual decision
+which the immortal (judge) will uphold, handing out any rewards or
+punishments as the jury sees fit.
+
+All jury decisions are final, there is no court of appeals.
+
+#
+DAMAGE
+
+The following is a list of damage messages that appear when in combat on
+Dibrova.  The list goes in order from least to greatest amount of damage.
+
+  - Miss
+  - Tickle
+  - Barely
+  - Hit
+  - Hard
+  - Very hard
+  - Extremely hard
+  - Massacre
+  - Obliterate
+  - Raze
+  - Wreck
+  - Waste
+  - Desolate
+  - Maim
+  - Pulverize
+  - Ruin
+  - Demolish
+  - Mangle
+  - Annihilate
+  - Devastate
+  - Decimate
+  - Eradicate
+  - Cremate
+  - Butcher
+  - Liquefy
+
+See also: DAMROLL, HITROLL
+#
+"COMBAT MASTER"
+
+Combat Masters are a remort class in Dibrova that is the combination of the
+Gladiator and Monk classes. They are without any doubt the most feared of
+all classes in terms of raw fighting ability. They combine the brute strength
+of the gladiator with the agility and technique of the monk, making a most
+dangerous combination.
+
+See also: GLADIATOR, MONK, REMORT, SKILLS, CHANTS
+#
+DAMROLL
+
+Damroll is applied to player stats that measures the improved ability to deal
+damage to an opponent during combat.  Damroll affects the damage of attacks. 
+
+Damroll can be affected through equipment, skills, spells, or stats.
+
+See also: HITROLL, SPELLPOWER, EQUIPMENT, STATS
+#
+DARKKNIGHT "DARK KNIGHT"
+
+Dark Knights are the class exactly opposite of the Paladin class.  
+Their goals in life are toward personal gain and causing misery upon 
+those around them.  They do not believe in Chaos as a rule, as they 
+are a very organized military class.  Dark Knights, like Paladins, get 
+the benefit of both spells and skills as their main strength comes from
+their strong belief in the Gods of Chaos and Evil.
+
+Dark knights are fighters first and casters second.  They possess 
+fairly strong protective magic, receiving darkward at the higher 
+levels. The rest of their spells are offensive-oriented.
+
+The following races make the best dark knights:
+Harpy, Draconian, Scorpius
+
+The following races make fair dark knights:
+Troll, Drider, Human, Wolfen, Drow
+
+To see a list of skills available to you, type 'skills'.
+To see a list of spells available to you, type 'spells'.
+
+See also: CLASSES, PRACTICE, SPELLS, SKILLS
+#
+"DOUBLE EXPERIENCE"
+
+Every so often a kindly god will set double experience for everyone in
+the game. When this happens, you will see on the WHO display how long is
+left of double experience. World messages will also be displayed every
+time the time for double experience changes.
+
+Whenever any player remorts, there is an automatic setting of 10 minutes of
+double experience.
+
+#
+DROW
+
+Drow are commonly known as the Dark Elves.  They are pale in 
+appearance, slender and lithe.  Their extraordinary ability to
+manipulate magic is only exceeded by their extreme cruelty and 
+evilness.  However, it cannot be denied, that they are fiercely
+driven and loyal to their own kind.  Being subterranean and 
+avoiding venturing above ground, they have the innate ability 
+to see in absolute darkness with crystal clarity.  When they 
+do venture forth, others vehemently shun them due to their evil 
+nature.
+
+Drows excel as sorcerors.  They make fair gladiators and dark 
+knights.  For remort, they excel as a Darkmage and Warlock.  
+They are also decent as an Assassin.
+ 
+Drow have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	19	17	23	25	17	14	19
+#
+DRUID
+
+Druids combine magic and fighting skills to create a class with 
+extremely unique and exciting abilities. Take note: a druid is a 
+caster before a fighter, the offensive spells possessed by them 
+second in force only to sorcerers and monks.
+
+Some Druid spells require a certain constellation or phase of the 
+moon to be present in order to work. Use LOOK SKY to see the current 
+state of the heavens.
+
+The following races make the best druids:
+Sprite, Elf, Wolfen
+
+The following races make fair druids:
+Giant, Kender, Human, Nymph, Pixie, Valkyrie, Scorpius
+
+To see a list of skills available to you, type 'skills'.
+To see a list of spells available to you, type 'spells'.
+
+See also: CLASSES, PRACTICE, SKILLS, LOOK
+#
+DWARF
+
+Dwarves are a short, stocky race who tends toward brawling
+and drinking.  They are a surly race, usually short-tempered
+and not always very smart.  They are good with metal, being 
+expert smiths.  They prefer living underground, in caves or
+the equivalent, but can just as easily adapt to city life 
+above ground.
+
+Dwarves excel as gladiators.  They make fair thieves, paladins,
+and monks.  For remort, they excel as a Champion, Combat Master,
+and Mercenary.  They are also decent as an Acrobat and Samurai.
+
+Dwarves have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats : 19   	25   	16   	18   	23   	15    	18
+#
+ELDAR	
+
+Eldar are very humanoid in appearance, one would almost mistake
+one for a human, except for the fact that every Eldar has an 
+extra two fingers on their right hand.  Some say that these 
+extra fingers are the reason they are such natural spell casters,
+it would help with some of the more complex gestures associated
+with casting.
+
+Eldars excel as sorcerors.  They make fair clerics, paladins, 
+and monks.  For remort, they excel as a Magi, Psionist, and Arcanic.  
+They are also decent as a Templar.
+
+Eldars have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	16	16	25	19	15	18	23
+#
+DRACONIAN
+
+Draconians are the product of dragons and evil magical intervention.
+They are dragon-like humanoids with unusually strong and hardy 
+physiques.  Their scaly hides provide them with extra armor, giving
+them an edge against other races.  They are inherently evil, being 
+the product of evil magic.
+
+Draconians excel as dark knights.  They make fair clerics and monks.
+For remort, they excel as an Inquistor and Destroyer.  They are also
+decent as a Combat Master.
+
+Draconians have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, or
+level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	23	17	16	16	25	18	19
+#
+DRIDER
+
+Driders are the feared crossbreeds of drow and arachnid.  Staying
+strictly to the dark confines of the underground, they sometimes
+venture forth to wreak havoc and terror.  Being subterranean, 
+they are blessed with the innate ability of being able to see in
+the dark, or infravision.  Most others will shun this race upon 
+sight, providing they survive the encounter, for they make fierce
+fighters when the situation demands it.
+
+Driders excel as thieves.  They make fair gladiators and dark 
+knights.  For remort, they excel as an Assassin and Mercenary.
+They are also decent as a Reaper.
+
+Drider have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	25	19	17	16	19	15	23
+#
+ELF
+
+Elves are slender and wise beings, sharing a strong empathy 
+with nature.  Almond-colored skin, brown eyes, and pointed ears
+make them easy to recognize from other races.  Due to their 
+affinity with nature, they are well liked by others and have 
+incredible constitution.  Many of their kind are known to fare 
+well in harnessing the powers of magic.
+
+Elves excel as druids.  They make fair thieves, paladins, and 
+monks.  For remort, they excel as a Ranger, Fianna, and Shaman.
+They are also decent as a Forestal.
+
+Elves have the following natural base stats.  Keep in mind
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	17	19	16	16	25	23	18
+#
+EXILE
+
+Exiles are generally considered the part of the clan society in Dibrova that
+are untrustable and not likely to stay committed to one set of standards.
+
+Players who have already been in a clan once and have been expelled will
+receive the (Exile) flag after their title.  The flag is a way for other
+clans who might want to enroll the player to know that the player has shown
+that their loyalty is less than firm when committed.
+
+Once a player has joined into a new clan, the flag is gone.
+
+Note: Those with the exile flag can be PKill and can PKill others as well.
+
+See also: CLANS, PKILL
+#
+EXPERIENCE XP
+
+Whenever you kill a monster or a player, you earn experience points.  When
+enough experience points are earned, you raise a level.
+
+Things you should know about experience points:
+
+  - When damaging a monster, you get experience points.
+
+  - If you kill a monster of higher level than yourself, you get bonus
+    experience points.  If killing a monster of lower level you'll gain
+    less experience points
+
+See also: GROUP, SCORE, MOB
+#
+GARGOYLE
+
+Gargoyles are magical creatures forged from the very essence 
+of rocks.  The type of stone they were carved from reflects 
+the essence and personality of the Gargoyle.  They are very 
+hardy and strong, yet not very agile due to their hardened 
+physique.  Their extreme loyalty to the forces of good and 
+magical origins grants them a permanent aura of bless about 
+them.
+
+Gargoyles excel as paladins.  They make fair gladiators and 
+sorcerors.  For remort, they excel as a Champion and Magi.  
+They are also decent as a Warlock.
+
+Gargoyles have the following natural base stats.  Keep in mind
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	23	15	15	18	25	19	19
+#
+GIANT
+
+Giants are biggest of races found in Dibrova.  Along with their
+size, they are also very strong and of good constitution.  They
+are usually a good-tempered race, of good reputation.  Due to
+their height and ability to see great distances, they are born 
+with an innate ability to sense life as they approach them.  
+They are somewhat clumsy and have the stigma of being rather unlucky.
+
+Giants excel as gladiators.  They make fair clerics and druids.
+For remort, they excel as a Crusader and Beastmaster.  They are
+also decent as a Sage.
+
+Giants have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR  	DEX  	INT  	WIS  	CON 	CHA  	LUCK
+Maximum stats :	23   	19   	15   	16   	25   	17    	13
+#
+GLADIATOR
+
+Gladiators are known to have more strength than the average player.
+This makes them better at hand-to-hand-combat, as they possess skills 
+of violence and fighting unequaled by the members of any other class.  
+However, they lack the ability to use magic of any sort.
+
+The following races make the best gladiators:
+Dwarf, Troll, Giant
+
+The following races make fair gladiators:
+Drider, Triton, Wolfen, Centaur, Drow, Gargoyle, Scorpius
+
+To see a list of skills available to you, type 'skills'.
+
+See also: CLASSES, PRACTICE, SKILLS, GLADIATOR PIT
+#
+"GLADIATOR PIT"
+
+The gladiator pit is located in the gladiator guild section of McGintey Cove.
+Players may wager quest points or gold on a fight which will be between 
+themselves and a single mob of a slightly (or maybe much) higher level.
+
+Players do not lose any equipment from death in the Pit.
+Players do not lose any experience from death in the Pit.
+
+Players will lose whatever amount they wager from death in the Pit.
+
+Players below level 50 can not enter the Pit.
+Remorts and immortal classes can not enter the Pit.
+Players can not enter the Pit while anyone else is fighting in the Pit.
+Players can not enter the Pit for 90 minutes after they've left the Pit,
+either through victory or defeat.
+
+Note: Players can not use any healing magic or abilities in the Pit,
+      nor can they use sanctuary, blazeward or indestructable aura.
+      Players do not regenerate hit points, move, mana, qi or vim
+      while in the Pit.
+
+The command to enter the Pit must be used in the presence of the ticket
+taker in front of the Pit, the command is PITBET.
+#
+GNOME
+
+Gnomes are a shy and reclusive race, spending much of their 
+time exploring the secrets of nature and discovering new ways 
+to improve life.  They are short in stature, their frame hiding
+deceptive strength.  They have excellent eyesight, able find 
+their way in the dark with ease.  They are generous at heart 
+and will help those in need.
+
+Gnomes excel as clerics.  They make fair thieves and sorcerors.
+For remort, they excel as an Arcanic and Rogue.  They are also 
+decent as a Shadowmage.
+
+Gnomes have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	23	16	19	25	16	18	17
+#
+GOBLIN
+
+Goblins are a devious race, capable of great cruelty when it
+suits them.  Favoring the dark and spooky areas of the realm, 
+goblins are short, green-skinned, and varied in appearances.  
+They are masters of stealth, blessed with the innate ability 
+to be constantly sneaking.  A few of their kind are know to be
+able to rein in the powers of magic.
+
+Goblins excel as thieves.  They make fair sorcerors and monks.
+For remort, they excel as a Shadowmage and Acrobat.  They are 
+also decent as a Psionist.
+
+Goblins have the following natural base stats.  Keep in mind
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR  	DEX	INT	WIS	CON  	CHA  	LUCK
+Maximum stats:  19	25	17	17	17	16	23
+#
+GRID
+
+You can only access the Grid through the Grid Master who accepts Grid Tokens.
+In the Grid, you cannot heal nor use protective magics. There are ten
+mobs within the Grid every time you enter, their level dependant on your
+own. All mobs, upon death, will transfer to you a single quest point.
+Quest points can be used at the quest shop to buy eq, trade for gold,
+buy strong potions, as well as other things.
+
+The Grid is flagged ARENA, so death in the Grid will not cost any exp
+and will not take your eq away.  If at any time you wish to leave the
+Grid before death, you may use the END command to do so.
+
+/ccAny players who do not wish to enter the Grid may trade their grid tokens
+in to the Grid Master for 1 quest point. To use this option, use the 'trade'
+command in the presence of the Grid Master./c0
+
+See also: ARENA, QUEST
+#
+"GRID TOKEN"
+
+Grid tokens are given automatically every time a mortal levels. If a player
+has a grid token in their possession, they can go 2 north from the Temple
+and type 'grid' to enter the Grid.
+
+For more information, see HELP GRID.
+#
+GUILD
+
+The Guildhouse is the place where players may go to escape the troubles and
+perils of a cruel world.  Each guild is heavily guarded, so that only members
+may enter the building.  Guilds are also the places where people come to
+learn and practice the skills of their class.
+
+See also: CLASSES, PRACTICE
+#
+HARPY
+
+Harpys are half-breeds, having the body of a vulture and the 
+torso of a female human.  They are generally nasty, foul, and 
+quick to harass others not of their race.  They are aligned 
+with the forces of evil, excelling in the dark arts and thievery.
+Their wings grant them the ability to fly and some degree of 
+agility.  Due to their repulsive nature, most races shun them.
+
+Hapries excel as dark knights.  They make fair thieves and sorcerors.
+For remort, they excel as an Assassin and Darkmage.  They are 
+also decent as an Inquistor.
+
+Harpies have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	19	19	17	17	23	14	25
+#
+HERBS
+
+Herbs are the ingredients used by the druid class to create magical
+mixtures which, when mixed properly, will give numerous affects.
+
+There are only nine known herbs within the world, many of which can
+be found at different herbalist's shops throughout the world. Some,
+however, are extremely rare.
+
+KNOWN HERBS:
+Aconite
+Caledonia
+Goldenseal
+Wildroot
+Nirinbark
+Coltsfoot
+Burdock
+Angelica
+Salstine
+
+See also: JAR, MIX, SPRINKLE, IMBIBE
+#
+HITROLL
+
+Hitroll is applied to player stats that measures the improved ability to
+strike an opponent during combat.  Hitroll affects how often attacks will
+connect.
+
+Hitroll can be affected through equipment, skills, spells, or stats.
+
+See also: DAMROLL, SPELLPOWER, EQUIPMENT, STATS
+#
+HOMETOWNS
+
+Hometowns are a predesignated zone that will set where a player will load in
+the game when using scrolls of recall and upon game entry.  A player's
+hometown is initially set at the time of character creation but can be
+changed during gameplay if an imm is given a good enough reason to do so.
+Players will only donate objects to their hometown's donation room - there
+is a donation room in every hometown.  This way players will be helping
+their fellow townsmen along in their gameplay and not some sorry, pathetic
+excuse for an adventurer from some other town.
+
+Hometowns are much like clans - they can be added to for a price, they can
+provide a starting point for players to make friends in Dibrova.  They can
+also be a way to inherit enemies from rival towns who despise anyone from
+your town - so choose wisely!
+
+Hometowns currently available in Dibrova:
+
+  - Elven Tree City
+  - Jareth
+  - Malathar
+  - McGintey Cove
+  - Midgaard
+  - Ofingia
+  - Silverthorne
+
+Note: It is not encouraged that players have multis with seperate hometowns.
+
+See also: AREAS
+#
+HOUSES
+
+/cWHOUSES ARE NO LONGER AVAILABLE TO INDIVIDUAL PLAYERS
+12/7/00/c0
+#
+HUMAN
+
+Humans are a race of extraordinary luck, which helps them 
+overcome their lack of outstanding physical or mental ability 
+compared to other races, as well as their susceptibility to 
+corruption and vices.  They are a fairly respected race in 
+terms of their ability to adopt more classes than most races.
+
+Humans excel as monks.  They make fair paladins, dark knights, 
+and druids.  For remort, they excel as a Shaman, Destroyer, and
+Inquistor.  They are also decent as a Fianna and Styxian.
+
+Humans have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	17	19	16	23	17	17	25
+#
+IMBIBE
+
+Usage: imbibe <jar>
+
+When a druid mixes a set of herbs in a magical druid's jar, the contents
+may be imbibed to grant magical affects.
+
+See also: JAR, HERB, MIX, SPRINKLE
+#
+INN INNS CRYOGENIC CRYO RECEPTION
+
+Inns are places where the weary traveler may exit the game while the
+innkeeper looks after his equipment and treasure.
+
+In order to rent a fee is applied for saving your character's information.
+Some inkeeper's charge more than others, but all charge a fixed rate per
+item.
+
+See also: OFFER, RENT
+#
+INSURANCE "EQUIPMENT INSURANCE"
+
+For a daily rate dependant on the player's level, a player can buy a 
+policy from an agent in Midgaard. Every day at noon, the fee for the 
+policy is auto-withdrawn from the player's bank account. If the player 
+doesn't have the cash in their account, their policy gets canceled. 
+The player gets a message on their screen in either case.
+ 
+If a player has an active policy, they will load into the game after a 
+death with all of their eq still intact and on their person.
+#
+JAR "MAGICAL DRUID JAR"
+
+Magical Druid Jars are the only containers in which herbs may be sprinkled
+and then mixed to make the many affections that druids are capable of creating.
+The jars are sold in Midgaard at the General Store and also at any of the
+many herbalists located throughout the world. 
+
+Note: most jars cannot withstand the magical energy of the herb mixtures
+      created within them and will shatter upon use
+
+See also: MIX, HERB, IMBIBE, SPRINKLE
+#
+KENDER
+
+Kenders are a very small, sneaky race tending toward the art of
+thievery and pranks of any and all sorts. Kender usually don't 
+grow much over four and a half feet, they have small, pointed 
+ears and usually go through life with a big, sloppy grin on their
+face.  They shy from physical labor, making their money the old
+fashioned way, and love to dance and party.  Their innate ability
+of being able to detect hidden things aids them greatly in their
+sport of thievery.
+
+Kenders excel as thieves.  They make fair clerics and druids.
+For remort, they excel as a Ranger and a Rogue.  They are also 
+decent as Storr.
+
+Kenders have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+               	STR  	DEX  	INT  	WIS  	CON 	CHA  	LUCK
+Maximum stats : 19	23	17	15	18	17	25
+#
+LINK "LINK DEAD"
+
+A lot of players have problems with their links to the game.  This can be
+very hazardous to your health in the middle of a battle, of course.
+
+  - If your link is broken, you will automatically attempt to flee each
+    time someone attempts to hit you.  If you manage to flee, then you will
+    be saved by divine forces, and put in a safe place until you reconnect to
+    the game.
+
+  - If your link jams (freezes), you have a problem.  The only solution we
+    can give is that you break your link as quickly as possible.  By
+    breaking the link you can hope that the above procedure is initiated.
+
+  - Do not try to get out of a fight by breaking link.  You will be not
+    reimbursed for any experience or equipment if you purposefully cut your
+    link.
+
+See also: -
+#
+"LOW LEVEL AREAS"
+
+After finishing in the newbie zones and reaching level 11, it can be very
+frustrating and confusing in the main world.  The following are a list of
+areas which are considered 'prime' for those just out of the newbie zone.
+Directions are all from the Temple of Midgaard.
+
+Midgaard Asylum:		6n,2e
+Jareth Farmlands:		2s,8w,3s,2w,s,w,7s,6w,3s,16w
+Midgaard Graveyard:		2s,3w,5s,4e,s,w,s
+Dangerous Neighborhood:		2s,3w,8s,e
+The Coven:			2s,11e,2s,e,s,e,n
+The Dearthwood:			10s
+
+See also: NEWBIE, TIPS
+#
+MANA
+
+Mana is used when casting spells.  You must have a certain amount of mana
+in order to cast any particular spell.  If you do not have enough mana to
+cast the spell you must rest until you gain enough points to cast.
+
+See also: SPELLS
+#
+MAP
+
+Displays a map of the surrounding rooms. AUTOMAP will automaticly
+display this map when you enter a room.
+
+To see a basic overview of the world of Dibrova, go to:
+
+/cBhttp:///www.dibrova.org/map.shtml/c0
+
+All zones are not listed, however most of them are.
+#
+MONK
+
+Monks are the 'mental' class in Dibrova.  They combine mental focus 
+in creating spells with the ability of using that same mental focus 
+to use superior fighting skill in combat.  Monks are generally not a 
+strong class physically, but are very smart fighters, who will always 
+have the upper hand in close combat. Monks tend to keep to themselves, 
+usually shunning the city and the folk therein.
+
+Monk's derive additional power from ancients and mystical forces.  
+These powers are conjured by the monk's chants.    
+
+The following races make the best monks:
+Aviades, Human, Triton
+
+The following races make fair monks: 
+Dwarf, Goblin, Elf, Nymph, Eldar, Naga, Draconian
+
+To see a list of skills available to you, type 'skills'.
+To see a list of chants available to you, type 'chants'.
+
+See also: CHANTS, MONK TECHNIQUES, PRACTICE, SKILLS
+#
+"MONK TECHNIQUES"
+
+Monks have the ability to excel in barehanded combat provided they wield
+no weapon and keep their hands free of other accoutrements (no shield,
+gauntlets or hold item) (lights are permitted).  Being free to move
+allows them to create devastating offensive attacks.  Offensively, monks
+traverse the path of enlightenment through many kick and hand techniques.  In
+order of difficulty.  These monk techniques are as follows.
+            
+Kick techniques:
+
+  - Lotus Kick - A basic front foot kick.
+  - Tornado Kick - A wild spinning kick able to strike many times.
+  - Crescent Kick - A high striking kick able to blind opponents.
+  - Butterfly Kick - A ferocious double-leg kick able to topple foes.
+  - Rabid Squirrel Kick - A legendary kick, does it even exist?
+   
+Hand techniques:
+  - Iron Fist - A basic crushing blow.
+  - Dragon Claw - A raking strike.
+  - Red Buddha Fist - A spiritual flaming palm.
+  - Devil's Claw - A wicked strike able to draw the life from opponents.
+  - Eye Of The Phoenix - An extremely focused pressure-point strike.
+  - Seven Star Earthquake Fist - A brutal flurry able to knock down foes.
+  - Heavenly Thunder Palm - A spiritual electrical palm.
+  - Quivering Palm - A legendary strike, but does it even exist?
+            
+All techniques are performed randomly and automatically and new techniques
+will begin to surface as you attain higher levels.  Techniques are also
+determined by DEX, WIS, and INT.
+
+The Monk combat capacity is enhanced through the ability to accurately strike
+(hitroll) instead of raw power (damroll).  Of course, when fighting with a
+weapon, monks are affected by damroll.
+
+See also: MONKS, SKILLS
+#
+MULTIPLAY
+
+Multiplay is not allowed on Dibrova and is restricted by code to only allow
+for one player per ip.
+
+#
+NAGA	
+
+Naga are a mystical race of beings, capable of assuming the 
+guise of a large snake, a human, or half-human half-snake.  
+They are fiercely aligned with the forces of good and are 
+often found protecting holy relics and sacred ground.  Not 
+much is known about this race, except for the fact that they 
+are skilled in magic and combat as well as being adept at 
+detecting the true alignments of others.
+
+Nagas excel as paladins.  They make fair thieves and monks.  
+For remort, they excel as a Templar and Samurai.  They are 
+also decent as a Crusader.
+
+Nagas have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	25	19	17	17	19	23	14
+#
+NEEDLES
+
+Needles are object types that are used primarily for the INJECT skill that
+thieves possess. When wielded, a needle can be used in conjunction with a
+number of poisons to inject with the poison, causing various forms of harm or
+help.
+
+Needles can also be used as weapons, but only do half the damage that a
+weapon of the same level would do.
+
+See also: INJECT, INJECTED POISONS
+#
+NEWCLAN
+
+/cWCLAN LEADERS:: You may want to change the existing descriptions in your
+clan halls. Please use the clan mailer if this is the case.
+Many members might need re-inducting into your clan./c0
+
+Clans have been altered somewhat in terms of pkill and zone ownership.
+Clan zones have also been changed, but not in any way detracted from.
+
+Zone ownership is still declared through the use of deeds, however it
+is not by holding the deed that a clan declares their ownership but by
+dropping the deed in their clan vault (donation room). The clan that owns
+the zone WILL NOT BE ABLE TO PICK THE DEED UP AGAIN, only members of
+opposing clans will be able to pick up deeds from clan vaults. Anyone
+carrying a deed may be pkilled at any time regardless of what level they
+are or where they are.
+
+Clan halls CAN NOW BE RAIDED. This means that guards are no longer in
+PEACEFUL rooms and can be killed. A clan may have up to five guards per
+room in their clan hall, all guards will block until killed. All guards
+are level 200 and will send notification that they are being attacked
+over a world channel so that clans may defend their property.
+*CLANS WILL NOT BE RAIDABLE UNTIL ALL CLANS HAVE HAD A CHANCE TO PURCHASE
+ AS MANY GUARDS AS THEY LIKE. GUARDS ARE 5 MIL EACH.
+
+Clan zones have been slightly redone, no rooms were removed but some were
+changed around a bit. If you wish to change any room descrips please use
+the clan mailer.
+
+Clan vaults are now the new donation rooms for all clans. Donation rooms
+no longer use the HOUSE flag, they are set with a VAULT flag.
+(no need to 'house' new members)
+
+Clans can now declare an ALLIANCE
+When two clans declare alliance with each other, they gain PKill priviledges
+in zones that their allies own.
+
+Clans can also declare WAR.
+When two clans declare war on each other, they gain PKill rights anywhere in
+the game. WAR may not be turned off be thirty minutes after a Player vs. Player
+fight.
+
+Any addition concerns or needs, please feel free to email kaan@thevedic.net
+#
+NEWBIE
+
+Hi there, and welcome to Dibrova.  The following is a basic run-down of the
+basic aspects of Dibrova and gameplay.
+
+Basic aspects:
+
+  - You are loaded with a minimal amount of gold and equipment.  The
+    equipment is not the best equipment on the mud, but it is sufficient to
+    get you through your first levels.  More eq can be found on the corpses
+    of your kills, or at the shops. 
+      - See Also: BUY GET TAKE
+  - Most of the equipment in Dibrova is level-based, meaning that it cannot
+    be worn by a player below a certain level.   This is determined by the
+    level of the creature wearing it.
+  - When gaining levels, it is best to try and wear equipment which raises
+    your CON and WIS, and in the case of spell casters, your INT.
+      - See also: STATS
+  - There is a level 50 stipulation on grouping.  Meaning players may group
+    with anyone they desire, as long as they're withing 50 levels of one
+    another.  For you newbies, it is not a bad idea to try and get some help
+    from higher up.
+      - See also: GROUPING
+  - Potions, scrolls and wands can be a big help.  Each casts their own
+    seperate spell which can be very beneficial to you as a player.
+      - See also: STAFFS WANDS
+  - You cannot go on forever being hungry and thirsty.  After a period of .
+    time you will begin losing hitpoints from starvation or dehydration.  You
+    will also gain hitpoints faster if you are not hungry or thirsty.
+
+Any other questions, feel free to ask an immortal or a player.
+
+SEE ALSO: LOW LEVEL AREAS, NEWBIE AREAS, COMMANDS, TIPS, OUTFIT
+#
+"NPC VAMPIRES"
+
+Any vampire mob in the MUD may not be damaged by the normal weaponry, but
+must be either damaged by items which are flagged SILVER or by simple bare
+hand damage.
+
+#
+NYMPH
+
+Nymphs are creatures of nature, having very strong ties with 
+their natural environment.  They come in various appearances, 
+depending on where they originate.  They are very wise and 
+intelligent, many of them having lived and seen many centuries
+gone by.  They are extremely frail, being so dependent on their
+natural environment.  They have an innate ability to travel 
+over water with ease, being creatures of nature and magic.  One
+should be aware that as kind as they can be, they could also be
+extremely vicious and vengeful.
+
+Nymphs excel as sorcerors.  They make fair monks and druids.  
+For remort, they excel as a Storr and Sage.  They are also 
+decent as a Shaman.
+
+Nymphs have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	19	18	25	23	15	16	18
+#
+"OWNED EQUIPMENT"
+
+Some equipment in Dibrova is assigned to a certain player, making it so
+that the player who owns the equipment is the only one who can wear it,
+grab it, take it, or take it from a bag.
+
+Some examples of owned eq are Quest Equipment and Arena Tokens.
+
+See also: ARENA TOKEN, EQUIPMENT
+#
+PALADIN
+
+Paladins are considered the 'white knights' of Dibrova.  They live to 
+serve the various people of the world, they do good deeds and worship 
+the Gods of Law and Peace.  Paladins are given the ability to not only 
+fight well, but cast spells as well.
+
+The following races make the best paladins:
+Valkyrie, Naga, Gargoyle
+
+The following races make fair paladins:
+Dwarf, Human, Elf, Centaur, Eldar
+
+To see a list of skills available to you, type 'skills'.
+To see a list of spells available to you, type 'spells'.
+
+See also: CLASSES, PRACTICE, SPELLS, SKILLS
+#
+PIXIE
+
+Pixies are of the fairy people, wise and brimming with luck.  
+They are among the smallest of the races on Dibrova, yet what 
+they lack in brawn, they make up in magical prowess.  They are
+often sneaky, perhaps resorting to "innocent" thievery now and 
+then.  They sport pointed ears, are covered with shimmering 
+fairy dust, and bear a delicate pair of wings which enable them
+to fly.
+
+Pixies excel as sorcerors.  They make fair thieves and druids. 
+For remort, they excel as a Shadowmage and Forestal.  They are 
+also decent as a Ranger.
+
+Pixies have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	15	19	19	23	16	17	25
+#
+PITBET
+
+See: GLADIATOR PIT
+#
+PKILL "PLAYER KILLING"
+
+Player killing is sanctioned on Dibrova in certain situations only
+when both players consent to becoming player killers.
+
+A player may designate themselves as a player-killer by finding
+Hannibal's shop in Midgaard and typing 'pkill'.
+
+/cRNOTE: Once a player decides to become a player killer, there is /cwNO WAY/cR
+      to reverse that decision./c0
+
+Exiles also fall under the catagory of those who may be PKilled.  Please
+refer to help exile for more information.
+
+Player killing and the etiquette involved can sometimes be a hazy issue for
+the more sadistic of the player base, so we will attempt at beast to clear
+some of the basic issues now:
+
+   - Corpse looting: Containers, Runes, Gold, and Deeds are lootable from
+     corpses.  Attempting to loot other items because of a bug will not be
+     tolerated.
+
+  - 'Cherry Picking': It is not considered even reasonably acceptable to wait
+     over a player's corpse in ambush after you have killed them. Let the
+     player retrieve their items and gain some health before you attempt to
+     kill them again.     
+
+  - No Multis, one player, one character. PKilling in groups is ok as long as no
+    multis are involved.
+
+  - Killing players or your own multis for exp is considered a bannable offense
+    Minimum loss will be 20 levels and all exp.
+
+Repeated offenses and abuse of pkill to other players will result in a level
+loss of a minimum of 51 levels.
+
+See also: CLAN, EXILES
+#
+PKTIMEOUT
+
+Pktimeout is a flag on a player that is set every time he or she dies.
+This flag prohibits any other player from initiating an attack on the
+player who died for ten minutes. The purpose of this flag is to prevent
+players from cherry picking over their enemies' corpse, thus allowing
+the player who was killed to have time to retrieve their equipment from
+their corpse before being attacked again.
+#
+PORTAL
+
+You will find portals in random zones which will allow access to other areas
+of the mud through the use of a simple command - 'jump'.
+
+There is no danger to using a portal unless it ends you up in a room with
+agressive mobs. The actual transfer from room to room is instantaneous and
+causes no damage or movement.
+
+See also: JUMP, AGGRO
+#
+QI
+
+Qi is the equivalent of mana for a monk. It is the harnessed energy of
+spirituality, oneness and mental focus that a monk must have in order to use
+his many abilities.
+
+See also:  CHANT, MANA, MONKS
+#
+QP QPOINTS "QUEST POINTS"
+
+Quest points are awarded as a prize for winning a quest.  These points show
+up on a character score as QPOINTS.
+
+Note: The Quest Shop lays down from the Temple of Midgaard.  Here quest
+      points can be spent in return for quest objects.
+
+See also: QUEST
+#
+RACE RACES
+
+Dibrova offers 24 races at present.  Every race that is offered is
+Humanoid in shape and made with a uniqueness that sets it apart from
+any of the other races offered.
+
+For specifics on each race type: help <race>
+
+The races offered on Dibrova are:
+
+  - Dwarf		- Troll			- Giant
+  - Kender		- Goblin		- Drider
+  - Aviades		- Human			- Triton
+  - Sprite		- Elf			- Wolfen
+  - Gnome		- Nymph			- Centaur
+  - Pixie		- Eldar			- Drow
+  - Valkyrie		- Naga			- Gargoyle
+  - Harpy		- Draconian		- Scorpius
+
+
+See also: CLASSES , REMORT , IMMORTAL CLASSES
+#
+RAID "CLAN RAID"
+
+Clans are able to raid one another for the loot that may or may not be
+in the clan's vault. Clan guards will call for help over a public channel,
+informing any clan members online that their clan hall is under attack.
+
+Items in the vault can be stolen, /ccincluding deeds,/c0 however remember that
+any player with a deed in their possession is fair game for pkill.
+
+See also: NEWCLAN, CLANS
+#
+RANKS FREEMAN SERF BARON
+
+Higher ranks can be earned through completion of quests and player killing.
+
+The ranks offered in Dibrova are, from lowest to highest:
+
+  - Serf
+  - Freeman
+  - Citizen
+  - Lord
+  - Baron
+  - VisCount
+  - Count
+  - Earl
+  - Marquee
+  - Duke
+  - Prince
+  - King
+  - Emperor
+
+See Also: QUEST, PKILL
+#
+RECALL
+
+Recall instantly teleports a player to the last place they entered the
+game. Most commonly used for recall is the SCROLL OF RECALL, which is
+sold in every magic shop in every hometown.
+
+Recall is also a  command that newbies may use up to level 10 without 
+need of a spell or scroll to aid them.
+
+Usage: recall
+#
+REMORT
+
+Usage:  remort
+	remort <classname>
+
+Remort is the combining of two class' abilities into one and is
+available to all mortal classes at level 150.
+
+To use this option, go to your guild master and type 'remort' in
+their presence.
+
+Remorting will immediately set you back 100 levels, it will remove
+all of your equipment and will set your experience to 1. Remort costs
+10 million gold and you must have 1,900,000,000 total experience before
+you may remort.  You will also receive a 25% reduction in all experience
+gained in kills.
+
+Your hit points, mv, mana, and qi will remain the same as it was when
+you were level 150, increasing again at every level of remort. HOWEVER,
+the gains will be half of what would be normal for the second class you
+chose to pick up.  Therefore, your first class basically determines how
+you will primarily play.  The addition of a second class simply adds more
+options and the like.
+
+The Grid will not be an option anymore at remort, as the scale of difficulty 
+would be dramatically decreased with such high maxhit on every player.
+
+Skills, spells, chants and prayers that were learned and over level 50 
+will not be usable to remorts until the skills' minlevel requirements are
+met (a level 50 cleric could not use sanctuary anymore, a level 75 prayer).
+The skills will, however still have the same level of learnedness when the 
+remort reaches the minlevel, having no practices lost. 
+
+To see the remort list, please look at HELP REMORTLIST
+#
+REMORTLIST
+
+Classes available for remort:
+
+	- Assassin	(Thief and Dark Knight)
+	- Shadowmage	(Thief and Sorceror)
+	- Acrobat	(Thief and Monk)
+	- Mercenary	(Thief and Gladiator)
+	- Ranger	(Thief and Druid)
+	- Warlock	(Gladiator and Sorceror)
+	- Champion	(Gladiator and Paladin)
+	- Reaper	(Gladiator and Dark Knight)
+	- Crusader	(Gladiator and Cleric)
+	- Beastmaster	(Gladiator and Druid)
+	- Arcanic	(Sorceror and Cleric)
+	- Magi		(Sorceror and Paladin)
+	- Darkmage	(Sorceror and Dark Knight)
+	- Forestal	(Sorceror and Druid)
+	- Psionist	(Sorceror and Monk)
+	- Templar	(Cleric and Paladin)
+	- Rogue		(Cleric and Thief)
+	- Storr		(Cleric and Monk)
+	- Sage		(Cleric and Druid)
+	- Iniquisitor	(Cleric and Dark Knight)
+	- Fianna	(Druid and Paladin)
+	- Styxian	(Druid and Dark Knight)
+	- Shaman	(Druid and Monk)
+	- Destroyer	(Monk and Dark Knight)
+	- Combat Master	(Monk and Gladiator)
+	- Samurai	(Monk and Paladin)
+#
+"IMMORTAL CLASSES"
+
+The Immortal classes of Dibrova are the final stage of player development 
+on Dibrova and can be taken to strengths as high as a player is willing to
+stick with their character.
+
+The four Immortal classes of Dibrova are:
+
+	-  Vampire
+	-  Saint
+	-  Demon
+	-  Titan
+
+Only the basics of how Immortal classes function are detailed in this help 
+file.  For more specific information on each class, please read the help files 
+on each individual one.
+
+Players can only become Immortal if they have reached the maximum level of
+their remort class (150).
+
+Players *do not* use a guild master to become an Immortal, rather they must 
+seek out a Master of the Immortal class they have chosen to become. Depending
+on the class chosen, a player will have to issue a command (which differs 
+depending on the class) in order for the Master to make them Immortal.
+
+Immortals use an additional measure of their hierarchy to levels, this additional
+measure being Tiers. Tiers are displayed on the who list to the left of the 
+player's level. Immortals have a set limit of 30 levels per Tier, each and every 
+level 50 million experience to attain. Upon completion of the 30th level in a 
+Tier, the Immortal will be reset to level 1 and move up one Tier. Gains in mana,
+hits, qi, vim, and move will be bestowed for every level the Immortal gains.  
+There is no limit on the number of Tiers that an Immortal can gain. This allows 
+for unlimited power in terms of hitpoints, mana, qi, and vim.
+
+Each Immortal class is granted a number of skills that can be learned through
+Masters of their class. Each skill is is taught by a seperate Master which must
+be sought out, they are not easy to find and may require payment for their teachings. 
+All skills that the Immortal knew before becoming Immortal will be retained, however
+none of the skills that were known can ever be improved upon except through repeated
+use. Guild Masters are no longer of any use to an Immortal.
+
+-  Immortals may wear any level of equipment.
+-  Immortals may be pkilled at any level.
+-  Immortal corpses can be fully looted for any equipment.
+
+Every immortal class has special sets of equipment which can be found scattered 
+randomly throughout the world. For more information on these eqs, please see the 
+indivdual help files for each class.
+#
+SAINTS
+
+Saints are one of the four immortal classes of Dibrova. They are the chosen
+of the Gods, due to their inherant goodness and implied doings of all things
+right.
+
+Saints have an affinity for magic, the Gods lending them - at the time of
+their canonization - an additional amount of spellpower, a permanent
+part of their being after achieving sainthood.
+
+In addition to the extra spellpower, saints receive a bonus to their damroll
+as well as permanent sanctuary, protection from evil, detect alignment, and
+waterwalk.
+
+Saints have special abilities, those abilities heavily dependant on the
+alignment of the saint. All new saint abilities are learned through the
+teachings of a Saint Master, their whereabouts unknown except to those
+saints who have already been to them. To learn these abilities, a saint
+must /cwkneel/c0 before the Master. These abilities are:
+
+/cwHoly Water
+/cwExorcism
+/cwAfterlife
+/cwHeaven's Beam
+/cwDivine Shield
+/cwEthereal
+/cwChoir
+/cwEnlightenment/c0
+
+For further information on these skills, please refer to each seperate skill's
+help file.
+
+As with all immortal classes, these skills can only be learned through a 
+master. These masters are not easy to find, but their reward is great and
+they ask nothing in return for their teachings.
+
+Saints also have their own sets of equipment, five sets to be exact, which
+are said to be scattered over the land in an array of places, known to none
+except those who find them. These eqs are undetectable by any but saints,
+and can only be worn as a set.
+
+#
+SCAN
+
+Usage: scan
+
+Scan allows you to see what players or mobs may be in adjacent rooms from
+the one you stand within. If an adjacent room is dark, you will not be able
+to see what is in the next room.
+
+See also: EXITS
+
+#
+SCORPIUS
+
+Scorpius are half-breeds, having the body of a giant scorpion 
+and the torso of a human.  They are an inherently evil and cruel
+race, shunned by most.  They are strong and have good stamina,
+able to travel and climb with ease.  They bear a pair of pinchers,
+which lend them an edge in combat.
+
+Scorpius excel as dark knights.  They make fair gladiators and 
+druids.  For remort, they excel as a Reaper and Styxian.  They 
+are also decent as a Beastmaster.
+
+Scorpius have the following natural base stats.  Keep in mind 
+that these are stats without the occurrence of equipment, spells,
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	25	18	18	16	19	15	23
+#
+SHADOWMAGE
+
+A Shadowmage is the combination of a Thief and Sorcerer.
+The best races for this remort is a Goblin or Pixie.
+A fair race for this remort is a Gnome.
+#
+SHOPS
+
+Shops are places where the adventurer may purchase equipment for his quests,
+and where he may sell his treasure if he should manage to survive the perils
+with his life and sanity intact.  Many shops trade only in a specific type of
+merchandise.  Thus, a baker may well refuse to buy your armor, even if it is
+of high quality!
+
+To some people, the prospect of obtaining the entire inventory of a shop by
+murdering the keeper may appear tempting - but beware: The shopkeepers are 
+often rugged, capable men; roughened by years of trading and, indeed, surviving
+in a world where the only safe prospect is death in the end.
+
+See also: BUY, SELL, LIST, VALUE
+#
+SKILLS
+
+These are the abilities that your class has to offer to you and the lvels
+that they are available at.
+
+Skills which are listed are only for the class which your character is,
+listings for skills within other classes can only be had by those classes.
+
+A list of the spells which are offered by your class can be had by using
+the command SPELLS.
+
+See also: SPELLS
+#
+SORCERER
+
+This is the class of powerful and violent magic, but the magic user
+does not control nature, and can therefore not bless and such.  They 
+are frail in constitution, yet their magic prowess is unrivaled.  
+They play best blasting opponents with spells under the cover of a 
+fighter or the group who leads the way.
+
+The following races make the best sorcerers:  
+Pixie, Eldar, Drow
+
+The following races make fair sorcerers:  	
+Troll, Goblin, Aviades, Sprite, Gnome, Gargoyle, Harpy
+
+To see a list of skills available to you, type 'skills'.
+To see a list of spells available to you, type 'spells'.
+
+See also: CLASSES, PRACTICE, SKILLS, SPELLS
+#
+SPELL SPELLS 
+
+Spells represent the magical aspect of Dibrova.  Spells may only be cast by
+certian classes; SORCERER, DARK KNIGHT, CLERIC, MONK, PALADIN.
+
+Classes that are not spell-casters can use magic only through instruments
+such as scrolls, potions, wands, and staves.
+
+When a spell is cast by a player, it uses up a set amount of a player's
+mana.  Each spell has its own cost in mana.  When a player's supply of mana
+is exhausted, they must wait for enough time to pass to regain mana.
+
+To display a list of spells available to your class, the following applies.
+
+Usage: spells
+       chants
+       prayers
+
+Note: Monks and Clerics do not use spells, but are still spell-casters.
+      Chants apply to Monks.  Prayers apply to Clerics.  Chants and Prayers
+      are where these two classes pull their spells from.
+
+
+See also: CHANTS, PRAYERS, SKILLS, SPELLPOWER
+#
+SPELLPOWER "SPELL POWER"
+
+
+Spellpower is applied to player stats that measures the improved ability to
+cast spells, chants, or prayers.  Spellpower determines damage or success of
+a spell.
+
+Spellpower can be affected through equipment and stats.
+
+See also: DAMROLL, HITROLL, EQUIPMENT, STATS
+#
+SPRINKLE
+
+Sprinkling is the technique in which herbs are dropped into magical druid
+jars so that they may be mixed to create mixtures which grant magical affects.
+Anyone can sprinkle herbs into the jars, however only druids know the proper
+way to mix the herbs within the jars.
+
+See also: IMBIBE, JAR, HERB, MIX
+#
+SPRITE
+
+Sprites are small; intelligent winged folks who enjoy playing 
+pranks on others, often pushing their luck in doing so.  They 
+have a tight affinity with nature and are well received by most
+creatures in nature.  Their small size and ability to fly grants
+them great agility despite being rather frail and weak in stature.
+
+Sprites excel as druids.  They make fair clerics and sorcerors.
+For remort, they excel as a Forestal and Sage.  They are also 
+decent as a Rogue.
+
+Sprites have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	15	23	18	18	19	25	16
+#
+STAT STATS
+
+Stats determine much of how your character may act within Dibrova.
+
+The following stats affect gameplay in the following manner:
+
+  STR:  Affects how much a player may carry.
+        Affects how hard a play may hit.
+  DEX:  Affects how quickly a player reacts in a combat situation.
+        Affects how often a player may hit.
+  INT:  Affects how quickly a skill or spell may be learned.
+        Affects how much mana may be gained per level.
+        Affects how well a spell may be cast.
+  WIS:  Affects how many practices are gained per level.
+  CON:  Affects how much movement can be gained per level.
+        Affects how quickly movement is regained.
+  CHA:  Affects number of followers a player may have.
+        Affects mob attitude towards you, including but not limited to
+           whether aggr mobs will attack.
+  LUCK: Affects gambling.
+        Affects chances of hit per round.
+
+Stats can be trained (increased) at various trainers within Dibrova.
+
+The maximum amount of your stats depends on your race.  The varied races on
+Dibrova have various maximum stats.  There is also a minimum natural stat
+that race's have.  For more information refer to the appropriate help file
+for the appropriate race.
+
+Example: Humans have a maximum base strength of 19.   Keep in mind this is a
+         natural base stat.  Without the aid of equipment or spells, 19
+         strength is the most a human can achieve.
+
+In addition to race applications of stats, levels also effect how far a
+player's stats may rise.  The following list takes into consideration spells
+and equipment.
+
+Level        Max Stat
+------------ ---------
+1   - 49     18
+50  - 74     21
+75  - 99     22
+100 - 124    23
+125 +        25
+
+See also: RACES
+#
+THIEF
+
+Thieves are known to have very special qualities, that no other class 
+offers.  Their specialty tends to be in the darker, sneakier arts.  
+Many of these qualities can come in handy in many situations, such as 
+picking locks.
+
+They fight best utilizing a hit-and-run style from behind the cover of 
+a fighter or group.
+
+The following races make the best thieves:
+Kender, Goblin, Drider
+
+The following races make fair thieves:
+Dwarf, Triton, Elf, Gnome, Pixie, Naga, Harpy
+
+To see a list of skills available to you, type 'skills'.
+
+See also: CLASSES, PRACTICE, SKILLS
+#
+TIPS
+
+There are a list of tips which will randomly be shown to players as they
+play the game.  These can be toggled on and off by using the command TIPS.
+
+See also: NEWBIE
+#
+TIERS
+
+Tiers only apply to the Immortal classes of Dibrova. They appear on the
+who list to the left of the player's level. When an immortal completes the
+experience requirements for level 30, they are set back to level 1 and
+moved up one Tier. Tiers may rise to unlimited amounts.
+#
+TITANS
+
+Titans are one of the immortal classes offered in Dibrova. In order to
+be able gain the Titan class, a player must first be a level 150 remort.
+
+Titans are born of the earth, having fantastic powers which harness much
+of the earth's energies. They are enormous in size, having a brute force
+which no other creature on Dibrova can rival.
+
+In order to become a titan, a player must find and drink from the Chalice
+of the Titans. The fluids within the chalice will begin the transformation
+of the player into a Titan.
+
+Titans are amazing warriors, having the brute strength to cause heavier
+damage than any other of the immortal classes. Because of their immense
+size, Titans have a difficult time in hitting their targets in the right
+spots as a smaller creature might. Titans also have a penalty to fleeing
+due to their size, making it difficult for them to flee quickly from a
+fight.
+
+Titans may only group with remorts or mortals over level 100.
+
+Titans have permanent GROWTH, BALANCE, AWARE and REGENERATE.
+Titans also have a permenant affect, EARTH SHROUD, which gives
+a sanctuary-like protection.
+
+Titans have assorted abilities, these abilities not learnedable through
+a regular guild master but only through a Titan Master, the whereabouts
+of each one unknown. To learn a skill from a Master, a titan need only
+/cwkneel/c0 before the Master and the titan will learn.
+All titan skills are listed below:
+
+/cwHarness Wind
+/cwHarness Water
+/cwHarness Fire
+/cwHarness Earth
+/cwScorched Earth
+/cwAbsorb
+/cwLocator Cloud
+/cwIntimidate
+/cwSummon Elemental
+/cwBellow/c0
+
+Further information for each skill can be found in their individual
+help files.
+#
+TRITON
+
+Tritons are a secretive race, shunning any contact outside of 
+their watery realm.  They are humanoid in appearance, save for 
+scales in place of skin and the presence of gills along with 
+lungs.  They have the natural ability to breathe with ease in 
+or out of water, making them extremely adaptable in the 
+environment.  Due to their secretiveness and haughtiness towards
+others, most races dislike Tritons.
+
+Tritons excel as monks.  They make fair gladiators and thieves.
+For remort, they excel as an Acrobat and Combat Master.  They 
+are also decent as a Mercenary.
+
+Tritons have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	18	25	17	19	19	13	23
+#
+TROLL
+
+Trolls are a large-sized race, deceptively stronger and more 
+agile than what their bulk suggests.  Despite their relatively 
+weak constitution, they have an innate ability to regenerate 
+quickly, healing much faster than most other races.  Trolls 
+tend to avoid the daylight, seeking solace in dark and dismal 
+places.
+
+Trolls excel as gladiators.  They make fair sorcerors and dark 
+knights.  For remort, they excel as a Warlock and Reaper.  They
+are also decent as a Darkmage.
+
+Trolls have the following natural base stats.  Keep in mind
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX  	INT 	WIS  	CON 	CHA  	LUCK
+Maximum stats : 25   	23   	19   	18   	19   	14    	16
+#
+UNDERTAKER MORGUE RETRIEVE
+
+At the east gate of Midgaard lies the Midgaard Morgue where you may pay
+for the service of retrieving your corpse if it is lost within the world
+somewhere. The command is /cwretrieve/c0 and the cost is 5000 gold times
+that of your own level. This service is purposely expensive and is to be
+considered as a last resort for retrieving you equipment after a death.
+#
+VAMPIRES
+
+Vampires are one of the four Immortal classes of Dibrova, and certainly 
+the most mysterious of the four. Vampires are considered the loners of 
+the world, shunned by most mortals and feared by all.
+
+In order to become a vampire, a player must find the Vampyre Lord and
+supplicate before the Lord.
+
+Vampires must have blood to survive. In order to get the blood they need,
+they must find corpses and /crdrain/c0 them of their precious fluids or
+find other mortals and /crbite/c0 them.
+
+Sunlight will harm a vampire, even indoors the light of day will cause the
+vampire to lose great amounts of health unless the vampire is wearing an
+item of equipment which bears the SHROUD affection. Shrouds can be found
+throughout the world, usually in the possession of other vampires.
+
+Vampires do not regain health over time the way that mortals do, nor do
+they get thirsty, hungry or drunk. The only way that a vampire can gain
+in health is to drink the blood of a mortal, drain a corpse of its blood,
+or burrow down into the earth using the SACRED EARTH skill.
+
+Vampires can not set their wimpy due to their tenacious nature and fierce
+pride in their belief that they are superior over all others. Vampires can
+not flee from battle for the same reasons, nor can they use mounts due to
+their chilling touch - mounts of any kind can not withstand such a touch.
+
+Vampires may only group with remorts or mortals over level 100.
+
+Vampires receive permanent infravision, sense life, haste, and protection
+from good. They also exude a vampiric aura which protects them from much
+of the damage inflicted by physical attacks.
+
+Vampires can retreat to haven rooms where the light of the sun will not
+harm them, where also the vampiric mist which is permanently cast about
+the room harms all other classes of creature.
+
+
+
+
+
+
+
+Specialized skills available to Vampires are:
+
+/cwVanish			Tear
+Mesmerize		Rend
+Hiss			Sacred Earth
+Hover			Find Flesh
+Swoop			Death Call
+	Spit Blood/c0
+
+See Also: NPC VAMPIRES
+
+#
+WOLFEN
+
+Wolfen are humanoid creatures raised in the wild by beasts of 
+the wild that train them in the arts of woodslore and fighting.
+They are not normally found in cities, and if so, their stay is
+not a long one.  They are most times lone fighters, preferring
+to fend for themselves.
+
+Wolfens excel as druids.  They make fair gladiators and dark 
+knights.  For remorts, they excel as a Styxian and Beastmaster.
+They are also decent as a Destroyer.
+
+Wolfen have the following natural base stats.  Keep in mind 
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	19	25	15	15	23	19	18 
+#
+VALKYRIE
+
+Legend has it that Valkyries were warriors in the service of 
+the God Odin who fell in battle, were resurrected and were 
+given the ability fly.  This is just a legend (or is it?) but
+the fact that Valkyries have a somewhat mystical aura about 
+them and have wings to give them the power of flight cannot be
+denied.
+
+Valkyries excel as paladins.  They make fair clerics and druids.  
+For remort, they excel as a Samurai and Fianna.  They are also
+decent as a Crusader.
+
+Valkyrie have the following natural base stats.  Keep in mind
+these are stats without the occurrence of equipment, spells, 
+or level applications.
+
+		STR	DEX	INT	WIS	CON	CHA	LUCK
+Maximum stats:	19	18	18	16	23	25	15
+#
+VENDOR "VENDOR MOBILE"
+
+Vendors Mobiles let players and clans get away from the killing and looting
+of normal life and settle down as a nice merchant to seek out their fortune.
+
+Upon buying a Vendor you will be given your choice of locations to place the
+vendor.
+
+The only outlawed locations being:
+
+  - Rooms with Vendors already placed.
+  - Inns.
+  - Existing game or clan run shops.
+  - PEACEFUL rooms
+  - Rooms that are deemed 'unfit' by the Immortal helping with the Vendor
+    creation.
+
+After you have placed your Vendor you will be given a room that will serve as
+a store room for your Vendor Mobile.  Objects that you place in this room
+will be sold by your Vendor at a 3x markup of the objects value.  When the
+item is sold at the Vendor, the owner will receive %75 of the sell value, the
+remaining %25 will go to the Vendor himself for operating costs.
+
+It is up to the owner of the Vendor to keep the Vendor stocked with items!
+The Vendor can only sell what is in his storeroom.
+
+In order for an individual to purchase a Vendor they must already own at
+least one house.
+
+In order for a clan to purchase a Vendor they must already own at least own
+zone.  A clan hall is counted as a zone.
+
+Vendors are priced thus:
+
+Vendor Level:
+
+  - Level  50               500K 
+  - Level 100               750k 
+  - Level 150               1 mil 
+  - Level 200               2 mil
+
+Vendor Location:
+
+  - Within City Limits   -     1 mil
+  - Outside City Limits  -     500K
+
+Examples:
+
+  - A level 50 Vendor placed in Midgaard would cost 1.5 mil.
+  - A level 100 Vendor placed in the Dibrovan Grasslands would cost 1.25 mil.
+
+See Also: CLANS, CLANPRICES, HOUSES, HOUSEFEE
+#
+VIM
+
+Vim the equivalent of what mana represents to the casting classes, but is
+used only by the druids. It is the essence of their own personal strength
+combined with that of the earth around them.
+
+See also: QI, MANA
+#
+CREDITS
+                    C  I  R  C  L  E  M  U  D     3  .  0
+
+CircleMUD was developed from DikuMUD (Gamma 0.0) by Jeremy "Ras" Elson at
+Johns Hopkins University's Department of Computer Science.  All code unique
+to CircleMUD is protected under a copyright by the Trustees of the Johns
+Hopkins University.
+
+Many, many people contributed to CircleMUD in one way or another throughout
+the course of its development.  Although it's impossible for me to remember
+them all, I'd like to extend special thanks to certain people:
+
+  -- Jeff Fink and George Greer, for submitting a veritable mountain of
+     excellent code.
+  -- Chris Epler and Chris Herringshaw for extensive beta-testing and bug
+     reporting.
+  -- Furry (Alex Fletcher), for single-handedly managing Circle's world files.
+  -- Fred Merkel, Ryan Watkins, Jay Levino, and Sharon Goza, for other
+     code and area submissions.
+  -- Jean-Jack Riethoven for porting the code to the Amiga, David Carver
+     for porting it to OS/2, and Jack Patton and Steffen Haeuser for the
+     Amiga port.
+  -- Bill Bogstad and Tim Stearns for allowing Circle to exist at JHU.
+  -- The DikuMUD folk, and the good old WhatMUD implementors Dave & Justin,
+     for starting the ball rolling.
+  -- Bryan Jolson, Steven Lacher, Cat Stanton, and Naved Surve, for being 
+     there in the very early days of Circle's development.
+  -- Sharon, Ben, Erica, Aly, and Josh, for keeping me sane.
+  -- Jules (hamotek sheli) for being the greatest.
+
+...plus everyone else in the Circle community who has submitted material!
+Thanks everyone!
+
+  Anonymous FTP:  ftp.circlemud.org or ftp2.circlemud.org in pub/CircleMUD
+Author's E-Mail:  jelson@circlemud.org
+            URL:  http://www.circlemud.org/
+   Mailing List:  listserv@post.queensu.ca (write "subscribe circle")
+#
+RANGER
+
+A Ranger is the combination of a Thief and Druid.
+The best races for this remort is a Kender or Elf.
+A fair race for this remort is a Pixie.
+#
+WARLOCK
+
+A Warlock is the combination of a Gladiator and Sorcerer.
+The best races for this remort is a Troll or Drow.
+A fair race for this remort is a Gargoyle.
+#
+CHAMPION
+
+A Champion is the combination of a Gladiator and Paladin.
+The best races for this remort is a Dwarf or Gargoyle.
+A fair race for this remort is a Centaur.
+#
+REAPER
+
+A Reaper is the combination of a Gladiator and Dark Knight.
+The best races for this remort is a Troll or Scorpius.
+A fair race for this remort is a Drider.
+#
+COMBAT MASTER
+
+A Combat Master is a combination of a Monk and Gladiator.
+The best races for this remort is a Dwarf or Triton.
+A fair race for this remort is a Draconian.
+#
+CRUSADER
+
+A Crusader is a combination of a Gladiator and Cleric.
+The best races for this remort is a Giant or Centaur.
+A fair race for this remort is a Valkyrie.
+#
+BEASTMASTER
+
+A Beastmaster is the combination of a Gladiator and Druid.
+The best races for this remort is a Giant or Wolfen.
+A fair race for this remort is a Scorpius.
+#
+ARCANIC
+
+An Arcanic is the combination of a Sorcerer and Cleric.
+The best races for this remort is a Gnome or Eldar.
+A fair race for this remort is an Aviades.
+#
+MAGI
+
+A Magi is the combination of a Sorcerer and Paladin.
+The best races for this remort is an Eldar or Gargoyle.
+A fair race for this remort is a Naga.
+#
+DARKMAGE
+
+A Darkmage is the combination of a Sorcerer and Dark Knight.
+The best races for this remort is a Drow or Harpy.
+A fair race for this remort is an Troll.
+#
+FORESTAL
+
+A Forestal is the combination of a Sorcerer and Druid.
+The best races for this remort is a Sprite or Pixie.
+A fair race for this remort is an Elf.
+#
+PSIONIST
+
+A Psionist is the combination of a Sorcerer and Monk.
+The best races for this remort is an Aviades or Eldar.
+A fair race for this remort is a Goblin.
+#
+TEMPLAR
+
+A Templar is the combination of a Cleric and Paladin.
+The best races for this remort is a Centaur or Naga.
+A fair race for this remort is an Eldar.
+#
+STORR
+
+A Storr is the combination of a Cleric and Monk.
+The best races for this remort is an Aviades or Nymph.
+A fair race for this remort is a Kender.
+#
+SAGE
+
+A Sage is the combination of a Cleric and Druid.
+The best races for this remort is a Sprite and Nymph.
+A fair race for this remort is a Giant.
+#
+INQUISTOR
+
+An Inquistor is the combination of a Cleric and Dark Knight.
+The best races for this remort is a Draconian or Human.
+A fair race for this remort is a Harpy.
+#
+SAMURAI
+
+A Samurai is the combination of a Monk and Paladin.
+The best races for this remort is a Valkyrie or Naga.
+A fair race for this remort is a Dwarf.
+#
+FIANNA
+
+A Fianna is the combination of a Druid and Paladin.
+The best races for this remort is an Elf or Valkyrie.
+A fair race for this remort is a Human.
+#
+SHAMAN
+
+A Shaman is the combination of a Druid and Monk.
+The best races for this remort is a Human and Elf.
+A fair race for this remort is a Nymph.
+#
+MERCENARY
+
+A Mercenary is the combination of a Thief and Gladiator.
+The best races for this remort is a Dwarf or Drider.
+A fair race for this remort is a Triton.
+#
+ROGUE
+
+A Rogue is the combination of a Cleric and Thief.
+The best races for this remort is a Kender or Gnome.
+A fair race for this remort is a Sprite.
+#
+DESTROYER
+
+A Destroyer is the combination of a Monk and Dark Knight.
+The best races for this remort is a Human or Draconian.
+A fair race for this remort is a Wolfen.
+#
+STYXIAN
+
+A Styxian is the combination of a Druid and Dark Knight.
+The best races for this remort is a Wolfen or Scorpius.
+A fair race for this remort is a Human.
+#
+$

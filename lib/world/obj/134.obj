@@ -1,0 +1,255 @@
+#13400
+piece skull blackened~
+/cwa /cLblackened /cwskull piece/c0~
+/cwA charred piece of skull lies on the floor./c0~
+~
+9 0 0 0 0 17 0 0 0
+11 0 0 0 0 0 0 0
+9 56000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 8
+A
+18 6
+A
+26 4
+A
+13 50
+A
+1 -4
+A
+2 -3
+#13402
+mask anguish~
+/cwa mask of /cranguish/c0~
+/cwA mask is on the floor, emitting pain and anguish./c0~
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+8 45000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 3
+A
+13 50
+A
+12 50
+A
+3 2
+A
+25 -3
+#13403
+eyes orange red peryton~
+/cwthe dull, /cyorange/cw-/crred eyes /cwof a peryton/c0~
+/cwA strange set of eyes lie here./c0~
+~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+4 19000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -5
+A
+12 50
+A
+13 60
+A
+14 30
+A
+1 -2
+#13404
+shawl glimmering white~
+/cwa /cWglimmering white/cw shawl/c0~
+/cwA /cWglimmering white/cw shawl lies upon the ground./c0~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+6 30000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 100
+A
+12 50
+#13405
+trappings power body armor~
+/cwthe /cCTrappings/cw of/cC Power/c0~
+/cwA glowing set of body armor lies on the ground./c0~
+~
+9 0 0 0 0 9 0 0 0
+16 0 0 0 0 0 0 0
+21 79000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 3
+A
+19 8
+A
+18 4
+A
+13 -50
+A
+25 -4
+#13407
+brace wrist warrior's~
+/cwa /cbwarrior's /cwwrist brace/c0~
+/cwA large metal wrist brace has been left here./c0~
+~
+9 0 0 0 0 4097 0 0 0
+8 0 0 0 0 0 0 0
+7 75000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 3
+A
+19 6
+A
+18 8
+A
+13 -50
+#13408
+claws ghoul~
+/cwthe /cgclaws/cw of a /cgghoul/c0~
+/cwA set of moldy, green claws lie on the ground./c0~
+~
+9 0 0 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+12 59000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 7
+A
+26 6
+A
+13 -50
+A
+3 -3
+A
+2 -3
+#13410
+twine nether lord ring~
+/cwthe /ccTwine /cwof the /ccNether Lord/c0~
+/cwA twined ring lies on the ground, thrumming with power./c0~
+~
+11 0 0 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+5 48000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 8
+A
+1 -4
+A
+13 -50
+#13412
+dress remnants tattered banshee's cloth~
+/cwthe /cLtattered remnants /cwof a /cLbanshee's /cwdress/c0~
+/cwA soiled scrap of cloth lies upon the ground./c0~
+~
+9 0 0 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+11 69000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 7
+A
+26 5
+A
+1 -3
+A
+25 -3
+#13413
+tail barbed ixitxachitl~
+/cwthe /cgbarbed tail /cwof an /cgixitxachitl/c0~
+/cwA greenish, barbed-tail lies upon the ground./c0~
+~
+9 0 0 0 0 2049 0 0 0
+8 0 0 0 0 0 0 0
+14 47000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 70
+A
+13 100
+A
+1 3
+A
+25 -3
+#13417
+bone piece brittle~
+/cwa brittle piece of bone/c0~
+/cwA human bone lies upon the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+11 0 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 8
+A
+18 7
+A
+6 -3
+A
+25 -3
+#13418
+wisp darkness~
+/cwa wisp of /cLdarkness/c0~
+/cwA rolling darkness floats just above the ground./c0~
+~
+12 0 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+4 0 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 7
+A
+13 -50
+A
+25 -4
+#13419
+essence nether light coalescation~
+/cwthe /ccEssence/cw of the /ccNether/c0~
+/cwA glowing coalescation of light lies gleaming upon the ground./c0~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+15 38000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 3
+A
+24 -6
+A
+4 2
+A
+5 1
+A
+13 -40
+#13420
+scale translucent~
+/cwa /cCtranslucent /cwscale/c0~
+/cwA /cCtranslucent /cwscale lies upon the ground./c0~
+~
+9 0 0 0 0 513 0 0 0
+15 0 0 0 0 0 0 0
+11 64000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 7
+A
+19 7
+A
+26 6
+A
+2 -4
+A
+1 -3
+$~

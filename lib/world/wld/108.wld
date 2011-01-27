@@ -1,0 +1,1271 @@
+#10800
+General's Office~
+This is the office of General Chow, head of the militia at the temple.
+He normally sits in his office, drinks wine and laughs alot.  Most
+people are smart enough not to cause trouble at the temple.  His
+office is decorated with beautiful vases and pots full of fine chinese
+wine.  A large wooden door is to the north.    
+~
+108 536870920 0 0 0 0
+D0
+You see a large wooden door with a dragon head carved in it.
+~
+door wooden~
+1 -1 10799 1
+S
+#10801
+Wooden Hall~
+You are in a large wooden hall that runs north south.  Here there are
+various stories of dragons, wars and temples carved into the polished
+wooden walls.  To the north and to the west you hear loud sounds of
+voices.  The hall continues to the north and south.  There are rooms
+to either side of you.    
+~
+108 536871176 0 0 0 0
+D0
+You see a wooden hallway.
+~
+hall~
+0 -1 10804 0
+D1
+You see a room full of racks.
+~
+room~
+0 -1 10802 0
+D2
+You see a wooden hallway.
+~
+hall~
+0 -1 10794 0
+D3
+You see barracks.
+~
+room barracks~
+0 -1 10803 0
+S
+#10802
+Weapons Room~
+This is a large room filled with weapons for the militia.  Many
+different carvings depicting battles atop of the mountain at the
+temple of the White Lotus clan span the walls.  The only exit is too
+the west.    
+~
+108 536870920 0 0 0 0
+D3
+You see a wooden hallway.
+~
+hall~
+0 -1 10801 0
+S
+#10803
+Barracks~
+These are the barrack for the temple guard.  Many beds and tables fill
+the room.  This is where the militia spends most of its time, since
+few people ever are stupid enough to attack the temple and anger the
+White Lotus Chief.  The only exit is too the east.    
+~
+108 536870920 0 0 0 0
+D1
+You see a wooden hallway.
+~
+hall~
+0 -1 10801 0
+S
+#10804
+End of Long Wooden Hall~
+This is the end of a long wooden hallway.  As you look to the south
+you see the entrance far down the hall.  To the east and west come
+sounds of conversation and gambling.  The hall continues to the south.
+There are rooms to the east and west.    
+~
+108 536871176 0 0 0 0
+D1
+You see a room.
+~
+room~
+0 -1 10805 0
+D2
+You see a long wooden hall.
+~
+hall~
+0 -1 10801 0
+D3
+You see a room.
+~
+room~
+0 -1 10806 0
+S
+#10805
+Barracks~
+These are the barrack for the temple guard.  Many beds and tables fill
+the room.  This is where the militia spends most of its time, since
+few people ever are stupid enough to attack the temple and anger the
+White Lotus Chief.  The only exit is too the west.    
+~
+108 536870920 0 0 0 0
+D3
+You see a wooden hallway.
+~
+hall~
+0 -1 10804 0
+S
+#10806
+Barracks~
+These are the barrack for the temple guard.  Many beds and tables fill
+the room.  This is where the militia spends most of its time, since
+few people ever are stupid enough to attack the temple and anger the
+White Lotus Chief.  The only exit is too the east.    
+~
+108 536870920 0 0 0 0
+D1
+You see a wooden hallway.
+~
+hall~
+0 -1 10804 0
+S
+#10807
+Inside the Temple Doors~
+You stand in a grand hallway, decorated with many statues of Buddha.
+Golden dragons climb the wooden columns that reach up to the ceiling
+far above.  The large white lotus emblem is embedded into the black
+marble floor of the hallway.  A pair of red wood doors lie to the
+north.  The red wood of the doors are bound by black iron braces.  
+Twin white and golden dragons adorn the doors.  Two halves of a white
+lotus come together as the door closes to make the single white flower
+of the clan.  The hall continues to the south.    
+~
+108 536870912 0 0 0 0
+D0
+You see the Temple doors.
+~
+door doors red~
+1 -1 10706 3
+D2
+You see a large hallway.
+~
+hall hallway~
+0 -1 10808 0
+S
+#10808
+Hall of the Dragon~
+You stand in a grand hallway, decorated with many statues of Buddha.
+Golden dragons climb the wooden columns that reach up to the ceiling
+far above.  To the west you can hear the sounds of chanting.  The
+smell of incense fills the air.  To the east is a stairway up and a
+dark hall.    
+~
+108 536870920 0 0 0 0
+D0
+You see a large hallway.
+~
+hall hallway~
+0 -1 10807 0
+D1
+You see a stairway up and a dark hall
+~
+hall hallway stairway stair stairs~
+0 -1 10810 0
+D2
+You see a large hallway.
+~
+hall hallway~
+0 -1 10809 0
+D3
+You see a room full of incense smoke.
+~
+room smoke~
+0 -1 10816 0
+S
+#10809
+Inside the Temple Doors~
+You stand in a grand hallway, decorated with many statues of Buddha.
+Golden dragons climb the wooden columns that reach up to the ceiling
+far above.  The large white lotus emblem is embedded into the black
+marble floor of the hallway.  A pair of red wood doors lie to the
+south.  The red wood of the doors are bound by black iron braces.  
+Twin white and golden dragons adorn the doors.  Two halves of a white
+lotus come together as the door closes to make the single white flower
+of the clan.  The hall continues to the north.    
+~
+108 536870920 0 0 0 0
+D0
+You see a large hallway.
+~
+hall hallway~
+0 -1 10808 0
+D2
+You see the Temple doors.
+~
+door doors red~
+1 -1 10716 3
+S
+#10810
+Hall of the Dragon~
+This is a very dark wooden hallway.  Stairs lead up to the second
+floor from here.  This hall is drastically different from that of the
+main hall.  It has no carvings, no dragons, and basically has no
+decorations at all.  The wooden paneled walls are adorn only with
+small candles.  The hall continues to the north.  A stairway here
+leads up to the second floor.  The main hall is to the west.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+hall hallway~
+0 -1 10811 0
+D3
+You see a hallway.
+~
+hall hallway~
+0 -1 10808 0
+D4
+You see a flight of wooden stairs.
+~
+stairs wooden~
+0 -1 10822 0
+S
+#10811
+Hall of the Dragon~
+This is a very dark wooden hallway.  This hall is drastically
+different from that of the main hall.  It has no carvings, no dragons,
+and basically has no decorations at all.  The wooden paneled walls are
+adorn only with small candles.  The hall continues to the east and
+south.    
+~
+108 536870920 0 0 0 0
+D1
+You see a hallway.
+~
+hall hallway~
+0 -1 10812 0
+D2
+You see a hallway.
+~
+hall hallway~
+0 -1 10810 0
+S
+#10812
+Hall of the Dragon~
+This is a very dark wooden hallway.  This hall is drastically
+different from that of the main hall.  It has no carvings, no dragons,
+and basically has no decorations at all.  The wooden paneled walls are
+adorn only with small candles.  The hall continues to the south and
+west.    
+~
+108 536870920 0 0 0 0
+D2
+You see a hallway.
+~
+hall hallway~
+0 -1 10813 0
+D3
+You see a hallway.
+~
+hall hallway~
+0 -1 10811 0
+S
+#10813
+Hall of the Dragon~
+This is a very dark wooden hallway.  This hall is drastically
+different from that of the main hall.  It has no carvings, no dragons,
+and basically has no decorations at all.  The wooden paneled walls are
+adorn only with small candles.  The hall continues to the north and
+south.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+hall hallway~
+0 -1 10812 0
+D2
+You see a hallway.
+~
+hall hallway~
+0 -1 10814 0
+S
+#10814
+Hall of the Dragon~
+This is a very dark wooden hallway.  This hall is drastically
+different from that of the main hall.  It has no carvings, no dragons,
+and basically has no decorations at all.  The wooden paneled walls are
+adorn only with small candles.  The hall continues to the north and
+west.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+hall hallway~
+0 -1 10813 0
+D3
+You see a hallway.
+~
+hall hallway~
+0 -1 10815 0
+S
+#10815
+Hall of the Dragon~
+This is a very dark wooden hallway.  This hall is drastically
+different from that of the main hall.  It has no carvings, no dragons,
+and basically has no decorations at all.  The wooden paneled walls are
+adorn only with small candles.  You see here a large wooden arch.  
+The arch is covered with different chinese characters depicting the 36
+basic styles of the clan.  The hall continues to the east.  You see a
+large stone steps that lead down into the darkness.    
+~
+108 536870920 0 0 0 0
+D1
+You see a hallway.
+~
+hall hallway~
+0 -1 10814 0
+D5
+You see stone steps leading down in to the darkness.
+~
+steps darkeness~
+0 -1 10837 0
+S
+#10816
+Temple~
+The temple is filled with incense smoke and the resonant sounds of
+many monks chanting.  The chanting seems to almost have a life of its
+own as it can be felt even through the hard granite below you.  There
+are red candles and incense burners along the wall and on small
+pedestals around the room.    
+~
+108 536870920 0 0 0 0
+D0
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10821 0
+D1
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10808 0
+D2
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10817 0
+D3
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10819 0
+S
+#10817
+Southern end of the Temple~
+Around you are many monks chanting and praying.  Tall wooden pillars
+disappear in the haze above you.  The constant and monotonous tapping
+of a some wooden object rattles your brain and seems to be almost
+hypnotizing.  The temple is filled with incense smoke and the resonant
+sounds of many monks chanting.  The chanting seems to almost have a
+life of its own as it can be felt even through the hard granite below
+you.  There are red candles and incense burners along the wall and on
+small pedestals around the room.    
+~
+108 536870920 0 0 0 0
+D0
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10816 0
+D3
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10818 0
+S
+#10818
+Golden Buddha of Contentment~
+Before you stands a giant golden statue of a buddha.  This is the
+Buddha of Contentment.  Many red candles surround the statue's base
+and all around the floor.  Many offerings of oranges and rice cakes
+sit in front of the statue.    
+~
+108 603979944 0 0 0 0
+D0
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10819 0
+D1
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10817 0
+S
+#10819
+Golden Buddha of Wisdom~
+Before you stands a giant golden statue of a buddha.  This is the
+Buddha of Wisdom.  Many monks come here to pray for enlightenment to a
+problem or a decision.  Many red candles surround the statue's base
+and all around the floor.  Many offerings of oranges and rice cakes
+sit in front of the statue.    
+~
+108 536870920 0 0 0 0
+D0
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10820 0
+D1
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10816 0
+D2
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10818 0
+S
+#10820
+Golden Buddha of Enlightenment~
+Before you stands a giant golden statue of a buddha.  This is the
+Buddha of Wisdom.  The chanting here seems to be the loudest.  The
+constant sounding of a gold and the tapping of a hollow wooden ball
+drowned out any other sound that you might hear.  The monks chanting
+is rythmic and a deep monotone bu108.  Any individual voice almost
+undistinguishable from the others.  Many red candles surround the
+statue's base and all around the floor.  Many offerings of oranges and
+rice cakes sit in front of the statue.    
+~
+108 536870920 0 0 0 0
+D1
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10821 0
+D2
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10819 0
+S
+#10821
+Northern end of the Temple~
+Around you are many monks chanting and praying.  Tall wooden pillars
+disappear in the haze above you.  The constant and monotonous tapping
+of a some wooden object rattles your brain and seems to be almost
+hypnotizing.  The temple is filled with incense smoke and the resonant
+sounds of many monks chanting.  The chanting seems to almost have a
+life of its own as it can be felt even through the hard granite below
+you.  There are red candles and incense burners along the wall and on
+small pedestals around the room.    
+~
+108 536870920 0 0 0 0
+D2
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10816 0
+D3
+You can't see much through the haze of incense smoke.
+~
+~
+0 -1 10820 0
+S
+#10822
+Top of the Stairs~
+You stand at the top of a flight of wooden stairs.  Loud chanting and
+murmurs can be heard from downstairs.  These halls seem to be more
+lavishly furnished than the ones below.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  There is a stairway that descends to the temple below.  The
+hall leads off to the east.    
+~
+108 536870920 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 10823 0
+D5
+You see a wooden stairway descending to the temple below.
+~
+~
+0 -1 10810 0
+S
+#10823
+2nd floor hallway~
+You are in a lavishly furnish hallway.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  Brightly color red lanterns hang from the ceiling, flickering
+gently as the candles inside of them burn slowly away.  The hall
+continues to the north and west.  To the west you can see a wooden
+stairway leading down.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 10824 0
+D3
+You see a hallway.
+~
+~
+0 -1 10822 0
+S
+#10824
+2nd floor hallway~
+You are in a lavishly furnish hallway.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  Brightly color red lanterns hang from the ceiling, flickering
+gently as the candles inside of them burn slowly away.  The hall
+continues to the north and south.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 10825 0
+D2
+You see a hallway.
+~
+~
+0 -1 10823 0
+S
+#10825
+2nd floor hallway~
+You are in a lavishly furnish hallway.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  Brightly color red lanterns hang from the ceiling, flickering
+gently as the candles inside of them burn slowly away.  The hall
+continues to the west and south.    
+~
+108 536870920 0 0 0 0
+D2
+You see a hallway.
+~
+~
+0 -1 10824 0
+D3
+You see a hallway.
+~
+~
+0 -1 10826 0
+S
+#10826
+2nd floor hallway~
+You are in a lavishly furnish hallway.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  Brightly color red lanterns hang from the ceiling, flickering
+gently as the candles inside of them burn slowly away.  The hall
+continues to the east and south.    
+~
+108 536870920 0 0 0 0
+D1
+You see a hallway.
+~
+~
+0 -1 10825 0
+D2
+You see a hallway.
+~
+~
+0 -1 10827 0
+S
+#10827
+2nd floor hallway~
+You are in a lavishly furnish hallway.  The walls are covered with
+gold and silver dragons and small tables with ancient vases line the
+hall.  Brightly color red lanterns hang from the ceiling, flickering
+gently as the candles inside of them burn slowly away.  The hall
+continues to the north and west.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 10826 0
+D3
+You see a hallway.
+~
+~
+0 -1 10828 0
+S
+#10828
+Rooms of the White Lotus Chief~
+These are the rooms of the White Lotus Chief.  He is often meditating
+or reading.  He does not like to be disturbed.  This room is furnished
+with the occasional chair or table.  Although not poor looking, it
+isn't furnished with much.  It is basically an entry for the other
+rooms.  The hall continues to the east.  There are rooms to the north,
+south and west.    
+~
+108 603979976 0 0 0 0
+D0
+You see a  guest room.
+~
+~
+0 -1 10830 0
+D1
+You see a hallway.
+~
+~
+0 -1 10827 0
+D2
+You see a guest room.
+~
+~
+0 -1 10829 0
+D3
+You see the meditation room of the White Lotus Chief.
+~
+~
+0 -1 10831 0
+S
+#10829
+Guest Room~
+This is where the personal guests of the White Lotus Chief stay.  The
+room is nicely done, with bamboo walls and a wooden floor.  A
+luxurious bed with silk sheets and pillows stands against the far
+wall.  The only exit is to the north.    
+~
+108 536870920 0 0 0 0
+D0
+You see a hallway.
+~
+~
+0 -1 10828 0
+S
+#10830
+Room of Wei Chin~
+This is the room of Wei Chin, the nephew of the White Lotus Chief.  
+He is here to serve his uncle and practice his kung fu.  His room
+looks very much unlived in.  Wei Chin is usually out traveling and
+looking over the towns that the Lotus clan controls.  The only exit is
+to the south.    
+~
+108 536870920 0 0 0 0
+D2
+You see a hallway.
+~
+~
+0 -1 10828 0
+S
+#10831
+Meditation Chamber~
+This room is filled with long scrolls that hang on the walls.  The
+scrolls recite many teachings of Buddha.  Small incense burners sit in
+each corner of the room.  A small knee high table stands in the middle
+of the room.  The White Lotus Chief often comes here to pray and
+meditate.  Except for the the day of the Dragon Boat festival, on that
+day he relaxes and spends his day in the steaming pool.  There are
+exits in all directions.    
+~
+108 536870920 0 0 0 0
+D0
+You see a shrine in the room to the north.
+~
+~
+0 -1 10834 0
+D1
+You see the entrance chamber.
+~
+~
+0 -1 10828 0
+D2
+You see a room full of books.
+~
+~
+0 -1 10832 0
+D3
+You see a room.
+~
+~
+0 -1 10836 0
+S
+#10832
+Library~
+You stand amidst many rows of shelves.  The shelves tower above you
+and are full of texts from many different areas of the world.  The
+only exit is to the north.    
+~
+108 536870920 0 0 0 0
+D0
+You see a shrine in the room to the north.
+~
+~
+0 -1 10831 0
+D3
+~
+bookcase~
+0 -1 10833 16
+S
+#10833
+Hidden Room~
+This is a secret room hidden behind one of the bookshelfs.  This is
+where many special books and scrolls are kept.  The room is lit by a
+dim lightsource that is out of sight up above.  The only exit is to
+the east.    
+~
+108 536870984 0 0 0 0
+D1
+~
+bookcase~
+0 -1 10832 0
+S
+#10834
+Shrine~
+This is the private shrine of the White Lotus Chief.  He spends many
+hours every day here praying and studying.  The room is pretty much
+bare with the exception of a large shrine, decorated with golden
+buddhas and many offerings.  There are exits to the south and west.  
+~
+108 536870920 0 0 0 0
+D2
+~
+~
+0 -1 10831 0
+D3
+~
+~
+0 -1 10835 0
+S
+#10835
+Steaming Pool~
+This is a very large steaming pool.  The White Lotus Chief comes here
+during dragon boat festival to relax.  Numerous stone dragon heads
+spit steaming streams into the pool.  There are exits to the south and
+east.    
+~
+108 536870920 0 0 0 6
+D1
+~
+~
+0 -1 10834 0
+D2
+~
+~
+0 -1 10836 0
+S
+#10836
+Chamber of the White Lotus Chief~
+This is the lavishly furnished bedroom of the White Lotus Chief.  The
+few hours of the day that he is not meditating nor studying, he is
+here sleeping.  Many ancient and beautiful vases adorn the corners of
+the room.  There are exits to the north and east.    
+~
+108 536870920 0 0 0 0
+D0
+~
+~
+0 -1 10835 0
+D1
+~
+~
+1 -1 10831 1
+S
+#10837
+Entrance to the 36 Chambers~
+This cold stone room is complete bare except for a door on the east
+wall.  This is the entrance to the 36 Chambers of the White Lotus.  
+It is here that the higher monks and students come to test their
+skills.  The stairway seems to have disappeared behind you.  The only
+exit is to the east.    
+~
+108 536870924 0 0 0 0
+D1
+~
+door~
+2 10725 10838 15
+D4
+~
+~
+0 0 10815 0
+S
+#10838
+1st Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the first chamber.  It is a basic skill chamber
+where students test thier skill at punches.  The only exit is to the
+east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10726 10839 15
+S
+#10839
+2nd Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the second chamber.  It is a basic skill
+chamber where students test thier skill at kicks.  The only exit is to
+the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10727 10840 15
+S
+#10840
+3rd Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Whirlwind Kick technique.  
+It is a a more difficult chamber than the two previous ones.  From
+here on, your skills are tested against the masters of the temple.  
+And to lose from this chamber on..  Is to lose ones life...  The only
+exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10728 10841 15
+S
+#10841
+4th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Chin Kang Palm technique.  
+The only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10730 10842 15
+S
+#10842
+5th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Lizard style.  The only exit
+is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10732 10843 15
+S
+#10843
+6th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the south
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Northern Crane style.  The
+only exit is to the south.    
+~
+108 536870920 0 0 0 0
+D2
+~
+door~
+2 10734 10844 15
+S
+#10844
+7th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Dragon style.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10736 10845 15
+S
+#10845
+8th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Tiger style.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10738 10846 15
+S
+#10846
+9th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Scorpion style.  The only
+exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10740 10847 15
+S
+#10847
+10th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Snake style.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10742 10848 15
+S
+#10848
+11th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Centipede style.  The only
+exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10743 10849 15
+S
+#10849
+12th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the south
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Toad style.  The only exit
+is to the south.    
+~
+108 536870920 0 0 0 0
+D2
+~
+door~
+2 10745 10850 15
+S
+#10850
+13th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Iron Monk style.  The only
+exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10747 10851 15
+S
+#10851
+14th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Iron head technique.  The
+only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10749 10852 15
+S
+#10852
+15th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Southern Hawk style.  The
+only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10751 10853 15
+S
+#10853
+16th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Quivering Palm technique.  
+The only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10753 10854 15
+S
+#10854
+17th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Five Pace Palm style.  The
+only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10755 10855 15
+S
+#10855
+18th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the south
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Chamber of mediation.  This
+room is a room to rest and consider what you have accomplished.  You
+are half way to the end of the chambers.  No one has every completed
+all 36 chambers.....  The only exit is to the south.    
+~
+108 536870920 0 0 0 0
+D2
+~
+door~
+2 10755 10856 15
+S
+#10856
+19th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Weightless Boxing Style.  
+The only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10757 10857 15
+S
+#10857
+20th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Lightning Punch.  The only
+exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10758 10858 15
+S
+#10858
+21st Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Poison touch.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10759 10859 15
+S
+#10859
+22nd Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Shaolin Long Sword.  The
+only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10761 10860 15
+S
+#10860
+23rd Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Shaolin Butterfly Swords.  
+The only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10763 10861 15
+S
+#10861
+24th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the south
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Shaolin Long Spear.  The
+only exit is to the south.    
+~
+108 536870920 0 0 0 0
+D2
+~
+door~
+2 10767 10862 15
+S
+#10862
+25th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Deadly Palm technique.  The
+only exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10769 10863 15
+S
+#10863
+26th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Flying Buddha.  The only
+exit is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10771 10864 15
+S
+#10864
+27th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the Angry Buddha.  The only exit
+is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10773 10865 15
+S
+#10865
+28th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the 1st Master.  The only exit
+is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10775 10866 15
+S
+#10866
+29th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the east
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the 2nd Master.  The only exit
+is to the east.    
+~
+108 536870920 0 0 0 0
+D1
+~
+door~
+2 10777 10867 15
+S
+#10867
+30th Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the south
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the 3rd Master.  The only exit
+is to the south.    
+~
+108 536870920 0 0 0 0
+D2
+~
+door~
+2 10778 10868 15
+S
+#10868
+31st Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the 4th Master.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10779 10869 15
+S
+#10869
+32nd Chamber of the White Lotus~
+This cold stone room is complete bare except for a door on the west
+wall.  It is here that the higher monks and students come to test
+their skills.  This is the chamber of the 5th Master.  The only exit
+is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10780 10870 15
+S
+#10870
+33rd Chamber of the White Lotus~
+This is the chamber of the Abbot of the White Lotus Clan.  If you have
+reached this room you are indeed an excellent fighter.  The Abbot
+comes here periodically when there is a student that is proficient
+enought with their skills.  The only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10781 10871 15
+S
+#10871
+34th Chamber of the White Lotus~
+You are indeed and expert!  This is the 34th Chamber of the White
+Lotus Clan.  Very few people have the stamina or skill to make it
+here.  The Grand Abbot of the the Temple awaits you.  He is here as
+the last test of your skills before you move on to the 36th Chamber.
+The only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10782 10872 15
+S
+#10872
+35th Chamber of the White Lotus~
+This is a room of meditation and rest.  You may drink deeply from the
+fountain and eat to fill your body.  Ahead is the 36th chamber.  From
+there you will have graduated from the Temple and sent out to explore
+the lands.  Know well that the last chamber will truely test your
+skills and stamina.  Focus your mind, and rest your body......  And
+may you be enlightened....  The only exit is to the west.    
+~
+108 536870920 0 0 0 0
+D3
+~
+door~
+2 10783 10873 15
+S
+#10873
+36th Chamber of the White Lotus~
+This is the 36th Chamber of the White Lotus Clan.  It is the ultimate
+test of one's abilities.  If you survive, you will surely be blessed
+by Buddha...    
+~
+108 805306376 0 0 0 0
+S
+#10874
+Saint's Abode~
+This grassy section of the temple walkway is where Thomas Aquinas
+spends most of his days, surrounded by the goodness that he himself
+followed so very closely as a mortal.    
+~
+108 2162916 0 0 0 2
+D3
+~
+~
+0 0 10711 0
+S
+$~

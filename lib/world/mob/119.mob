@@ -1,0 +1,629 @@
+#11900
+tam~
+Tam~
+Tam is looking for her watch-commander.
+~
+Tam is a strong looking woman that has many battle scars.
+~
+18504 0 0 0 65536 4194304 0 0 500 E
+93 69 -40 0d0+0 6d8+62
+1775 490171
+8 8 2
+BareHandAttack: 7
+Str: 24
+Dex: 21
+Int: 12
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 22
+Race: 13
+E
+#11901
+jhen~
+Jhen~
+Jhen is waiting for her brother.
+~
+Jhen is a smaller dwarf who is used to the dark. She sits quietly.
+~
+30734 0 0 0 16 0 0 0 400 E
+85 61 -40 0d0+0 6d7+56
+1525 389703
+8 8 2
+Str: 9
+Dex: 16
+Int: 21
+Wis: 14
+Con: 6
+Cha: 25
+Luck: 9
+Race: 13
+E
+#11902
+rathe~
+Rathe~
+Rathe is standing here practicing his rune magick.
+~
+Rathe is a good six-feet tall and is wearing his watch-guard uniform.
+He assumed command when the Watch-Commander was killed by the
+whispering death.    
+~
+534538 0 0 0 262224 0 0 0 200 E
+95 72 -40 0d0+0 6d8+63
+1825 569251
+8 8 1
+Str: 15
+Dex: 6
+Int: 12
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 16
+Class: 1
+Race: 14
+E
+#11903
+orvig~
+Orvig~
+Orvig is looking for his sister.
+~
+Orvig is a small old man who is in his sixtys. He has a long grey beard and
+small eyes. On his side he carries his sack full of potions.
+~
+22604 0 0 0 80 0 0 0 400 E
+86 62 -40 0d0+0 6d7+57
+1550 401501
+8 8 1
+Str: 13
+Dex: 16
+Int: 23
+Wis: 16
+Con: 15
+Cha: 8
+Luck: 7
+Class: 2
+Race: 13
+E
+#11904
+loric~
+Loric~
+Loric is looking for Tam.
+~
+Loric is a small man wearing a green uniform.
+~
+18508 0 0 0 65552 0 0 0 500 E
+87 63 -40 0d0+0 6d7+58
+1575 413514
+8 8 1
+Str: 15
+Dex: 24
+Int: 12
+Wis: 25
+Con: 14
+Cha: 22
+Luck: 22
+Class: 4
+Race: 14
+E
+#11905
+corpse watch-master hoth~
+the Corpse of the Watchmaster Hoth~
+The corpse is wandering around looking for his head.
+~
+The corpse is a headless creature. It would seem that he died of decapitation.
+~
+67815500 0 0 0 80 2 0 0 0 E
+96 73 -40 0d0+0 5d7+48
+0 531505
+8 8 1
+BareHandAttack: 15
+Str: 22
+Dex: 8
+Int: 17
+Wis: 24
+Con: 21
+Cha: 5
+Luck: 10
+Race: 6
+E
+#11906
+quin~
+Quin~
+Quin is looking for Tam.
+~
+Quin is dressed in a green suit.  He has orders to goto warn stonekeep
+about the whispering death.    
+~
+22600 0 0 0 16 0 0 0 600 E
+90 66 -40 0d0+0 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 15
+Int: 7
+Wis: 8
+Con: 6
+Cha: 5
+Luck: 25
+Race: 13
+E
+#11907
+corpse calvert~
+the Corpse of Calvert~
+The corpse of Calvert searches for its final rest.
+~
+The corpse is dead and rotting.  Maggots are falling out of its eyes
+and mouth.    
+~
+67297368 0 0 0 80 0 0 0 0 E
+93 69 -40 0d0+0 5d7+46
+0 490171
+8 8 1
+Str: 24
+Dex: 8
+Int: 13
+Wis: 9
+Con: 8
+Cha: 19
+Luck: 5
+Class: 9
+Race: 6
+E
+#11908
+corpse dren~
+the Corpse of Dren~
+The corpse of Dren searches for those who killed him.
+~
+The corpse is dead. Period.
+~
+67825736 0 0 0 80 131072 0 0 0 E
+92 68 -40 0d0+0 5d6+46
+0 476843
+8 8 1
+Str: 13
+Dex: 17
+Int: 19
+Wis: 24
+Con: 20
+Cha: 15
+Luck: 8
+Race: 6
+E
+#11909
+kelandra~
+Kelandra~
+Kelandra is waiting for Rathe to come back to her.
+~
+Kelandra is a tall slender beautiful woman.  She has glowing blue
+eyes, and dark toned skin.    
+~
+51210 0 0 0 16 0 0 0 600 E
+83 59 -40 0d0+0 6d7+55
+1475 366746
+8 8 2
+Str: 12
+Dex: 18
+Int: 14
+Wis: 15
+Con: 21
+Cha: 17
+Luck: 20
+Class: 1
+Race: 14
+E
+#11910
+serpent~
+the Serpent~
+The serpent was charmed into going into this pit.
+~
+The serpent is almost 20 feet long and has a head that is twice as big
+as your own.  Its best you leave it alone.    
+~
+17006650 0 0 0 570425360 4325376 0 0 0 E
+97 74 -40 0d0+0 5d7+48
+0 545738
+8 8 1
+BareHandAttack: 6
+Str: 21
+Dex: 22
+Int: 7
+Wis: 20
+Con: 22
+Cha: 7
+Luck: 14
+Race: 2
+E
+#11911
+jevaka raye~
+Jevaka Raye~
+Raye sits here waiting for his time.
+~
+Raye is a blind old throg who has had his eyes cut out.  His skin is
+also burnt black, instead of green.  It seems that someone has
+tortured him badly.    
+~
+41945098 0 0 0 258 0 0 0 200 E
+80 56 -40 0d0+0 6d7+53
+1400 367272
+8 8 1
+Dex: 13
+Int: 8
+Wis: 16
+Con: 10
+Cha: 6
+Luck: 14
+Race: 7
+E
+#11912
+akeshi~
+Akeshi~
+Akeshi is here to protect Kel.
+~
+Akeshi is a snake that is about 10 ft long and about as wide as your
+wrist.  Although he is not that big, he is deadly.    
+~
+17307674 0 0 0 33554512 131072 0 0 0 E
+83 59 -40 0d0+0 5d6+41
+0 366746
+8 8 1
+BareHandAttack: 4
+Str: 10
+Dex: 19
+Int: 18
+Wis: 16
+Con: 6
+Cha: 10
+Luck: 5
+Race: 2
+E
+#11913
+whispering death~
+Whispering Death~
+Whispering Death floats past, searching for its next victim.
+~
+The death has a blood rune painted on its chest, so someone must be
+controlling it.  It looks like a giant, winged bug of some sort, but
+has claws as sharp as razors.    
+~
+755832 0 0 0 645924944 0 0 0 -1000 E
+100 77 -40 0d0+0 9d10+66
+0 619305
+8 8 0
+BareHandAttack: 8
+Str: 8
+Dex: 23
+Int: 12
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 20
+Race: 49
+E
+#11914
+tse'mara tse mara~
+the Tse'mara~
+The Tse'mara is hunting rabbits here.
+~
+The mara are the same things as the whispering death, but they are not
+under the controll of blood runes.  These only hunt small animals, but
+still are just as strong.    
+~
+235608 0 0 0 75497552 0 0 0 -800 E
+90 66 -40 0d0+0 5d6+45
+0 473394
+8 8 0
+BareHandAttack: 9
+Str: 12
+Dex: 13
+Int: 7
+Wis: 19
+Con: 5
+Cha: 14
+Luck: 10
+Race: 5
+E
+#11915
+throg~
+a Throg~
+The throg is on a mission for his leader.
+~
+The throg is about the same height as you, and has green skin.  Its
+suit it is wearing is brown and black.  It smells very bad too.    
+~
+530504 0 0 0 80 0 0 0 200 E
+70 47 -40 0d0+0 6d6+46
+1150 237528
+8 8 1
+Str: 22
+Dex: 9
+Int: 24
+Wis: 9
+Con: 5
+Cha: 7
+Luck: 17
+Race: 7
+E
+#11916
+throg guard~
+a Throg Guard~
+A throg guard mans his post.
+~
+The guard is just like every other throg, but is following an evil leader.
+~
+6186 0 0 0 80 0 0 0 -200 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 15
+Wis: 17
+Con: 14
+Cha: 20
+Luck: 15
+Class: 10
+Race: 7
+E
+#11917
+gotha karn~
+Gotha Karn~
+Karn is the evil ruler of death.
+~
+Karn dressed in long cloaks, and has a long staff in his hands.  He
+has runes sewn into his clothes, obviously he is a shaman.  It is he
+who controlls the whispering death.    
+~
+755832 0 0 0 578879744 4194304 0 0 -1000 E
+110 88 -40 0d0+0 11d12+73
+2200 827294
+8 8 1
+BareHandAttack: 15
+Str: 24
+Dex: 17
+Int: 8
+Wis: 8
+Con: 25
+Cha: 20
+Luck: 5
+Class: 9
+Race: 35
+E
+#11918
+khull-khuum khull khuum~
+Khull-Khuum~
+Khull-Khuum, self proclaimed God of the Sun, stands here.
+~
+Khull looks like a giant fireball.
+~
+223304 0 0 0 262480 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 801548
+8 8 1
+BareHandAttack: 12
+Str: 12
+Dex: 15
+Int: 21
+Wis: 22
+Con: 5
+Cha: 5
+Luck: 22
+Class: 4
+Race: 45
+E
+#11919
+helion god fire~
+Helion~
+Helion, the self-proclaimed God of Fire, stands before you.
+~
+Helion looks like a fireball.
+~
+254040 0 0 0 579076176 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 734753
+8 8 1
+Str: 24
+Dex: 25
+Int: 7
+Wis: 21
+Con: 7
+Cha: 15
+Luck: 20
+Class: 4
+Race: 45
+E
+#11920
+aquila~
+Aquila~
+Aquila, self-proclaimed God of the Stars, stands regally before you.
+~
+Aquila looks like a schimmering bright light.
+~
+780360 0 0 0 578814032 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+Str: 24
+Dex: 20
+Int: 15
+Wis: 16
+Con: 17
+Cha: 16
+Luck: 9
+Class: 5
+Race: 45
+E
+#11921
+thera~
+Thera~
+Thera the god of the earth stands before you.
+~
+Thera is no more than you.
+~
+260168 0 0 0 570425424 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+Str: 12
+Dex: 19
+Int: 13
+Wis: 12
+Con: 24
+Cha: 7
+Luck: 6
+Class: 5
+Race: 45
+E
+#11922
+azrael~
+Azrael~
+Azrael, God of the Red Rock, stands here.
+~
+Azrael looks like molten rock.
+~
+755784 0 0 0 570425680 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 734753
+8 8 1
+Str: 22
+Dex: 17
+Int: 12
+Wis: 8
+Con: 17
+Cha: 5
+Luck: 16
+Class: 4
+Race: 45
+E
+#11923
+marif~
+Marif~
+Marif, God of the Moon, stands before you with a pale face.
+~
+Maris looks like the man on the moon.
+~
+256072 0 0 0 578813968 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 16
+Str: 9
+Dex: 20
+Int: 13
+Wis: 23
+Con: 24
+Cha: 8
+Luck: 9
+Class: 5
+Race: 45
+E
+#11924
+safrinni~
+Safrinni~
+Safrinni, God of the Ringed Planets, stands before you.
+~
+You see a bunch of rings here.
+~
+256072 0 0 0 578879504 4194304 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 12
+Str: 14
+Dex: 12
+Int: 21
+Wis: 17
+Con: 12
+Cha: 16
+Luck: 21
+Class: 1
+Race: 45
+E
+#11925
+yoth-soggoth yoth soggoth~
+Yoth-Soggoth~
+Yoth-Soggoth, one of the Unseen Pair, stands here.
+~
+You cant see Yoth.
+~
+755784 0 0 0 579862608 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 14
+Str: 6
+Dex: 21
+Int: 12
+Wis: 6
+Con: 16
+Cha: 15
+Luck: 21
+Class: 4
+Race: 45
+E
+#11926
+ko-soggoth ko soggoth~
+Ko-Soggoth~
+Ko-Soggoth, one of the Unseen Pair, stands here quietly.
+~
+You cant see Ko.
+~
+755784 0 0 0 579862608 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 11
+Str: 6
+Dex: 23
+Int: 13
+Wis: 6
+Con: 8
+Cha: 7
+Luck: 24
+Class: 4
+Race: 45
+E
+#11927
+god light darkness~
+God of Light and Darkness~
+The Creator stands in glow of radiant light before you.
+~
+The god is both bright and dark, day and night, all together.  It is
+believed that it was he that created all.    
+~
+755800 0 0 0 713032016 0 0 0 0 E
+200 204 -100 0d0+0 40d45+133
+2900 3972288
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Class: 2
+Race: 45
+E
+#11928
+chad~
+Chad~
+This is Chad, the Bartender.
+~
+Chad will kick your ass if you even look at him funny.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+Str: 17
+Dex: 18
+Int: 19
+Wis: 6
+Con: 22
+Cha: 19
+Luck: 25
+E
+$

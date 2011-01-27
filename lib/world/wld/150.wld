@@ -1,0 +1,1612 @@
+#15000
+Steps Leading Down to the Sea~
+You are on a long flight of steps cut into a cliff face.  Just above
+you, the top of the steps looms, while below you, the steps continue
+for what seems an eternity.    
+~
+150 32768 0 0 0 5
+D4
+~
+~
+0 -1 3574 0
+D5
+~
+~
+0 -1 15001 0
+S
+#15001
+Down the Cliff-Face~
+The steps continue down toward the sea, or up to the crest of the
+cliff, depending on the way you're heading.  It looks as if there may
+be some sort of cave down from here.    
+~
+150 32768 0 0 0 5
+D4
+~
+~
+0 -1 15000 0
+D5
+~
+~
+0 -1 15002 0
+S
+#15002
+On the Cliff Face~
+The stairs continue, however you are much closer to the bottom than
+the top now.  There appears to be an opening in the rock to your east.
+Inside you can only see darkness, so it is possible that it is simply
+a natural fissure, but then again, who knows?    
+~
+150 32768 0 0 0 5
+D1
+~
+~
+0 0 1531 0
+D4
+~
+~
+0 -1 15001 0
+D5
+~
+~
+0 -1 15003 0
+S
+#15003
+On the Steps~
+Nearing the bottom, you really begin to get a good whiff of the clean
+sea air as a breeze ruffles your clothing.  You begin to feel a bit
+better about your day - the sea can do that to a person.    
+~
+150 32768 0 0 0 5
+D4
+~
+~
+0 -1 15002 0
+D5
+~
+~
+0 -1 15004 0
+S
+#15004
+The Base of the Steps~
+You stand at the bottom of a set of steps cut into the face of the
+cliff here.  The beach runs along east to west here as far as you can
+see.    
+~
+150 32768 0 0 0 5
+D1
+~
+~
+0 0 15007 0
+D3
+~
+~
+0 -1 15005 0
+D4
+~
+~
+0 -1 15003 0
+S
+#15005
+Along the Beach~
+You stand on a beach which stretches east and west from here.  The
+waves, not very large at this time, lap gently near your, making
+patterns in the fine sand.  To the west you see a few rocks jutting
+from the sand and sea.  East is flat beach to the horizon.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 -1 15004 0
+D3
+~
+~
+0 -1 15006 0
+S
+#15006
+Along the Beach~
+You stand on a beach which stretches east to west for as far as your
+eyes can see.  Jumbles of rock and scree litter the way here, making
+it so you must watch your step.  You notice a bit of wood, partially
+buried in the sand of the beach here.  West is more rocky beach, while
+east the way gets a bit more flat.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 -1 15005 0
+D3
+~
+~
+0 0 15011 0
+D5
+~
+wood piece~
+1 -1 1507 3
+E
+wood~
+At closer inspection, you see that there are letters on the wood, mostly
+rubbed out.  /cyA ba ross/c0 is all you can make out of what's left.
+There seems to be some sort of handle on the wood as well!
+~
+S
+#15007
+Sandy Beach~
+You stand on a sandy beach which runs along the shore east to west.  
+To the east you can just barely make out the rooftops of a large city
+which sits nestled in a cove on the shore of the ocean.  To your west
+you see that the beach gets a bit rockier than where you currently
+stand.  A set of steps lead up the cliff face just to the west of you.
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 -1 15008 0
+D2
+~
+~
+0 0 5141 0
+D3
+~
+~
+0 -1 15004 0
+S
+#15008
+Sandy Beach~
+The beach continues it's way east toward what appears to be a large
+coastal town.  A large pier juts out into the sea, ships dot the
+horizon as far out to sea as you can see from the city.  To your west
+you may continue along the beach.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 0 15009 0
+D2
+~
+~
+0 0 5146 0
+D3
+~
+~
+0 -1 15007 0
+S
+#15009
+Sandy Beach~
+The beach slopes upwards, slowly, gently toward the city to your east
+which sits on a huge plateau.  You can now hear the sounds of a great
+many voices coming from that direction, however traffic along this
+beach is at a bare minimum, which is to say not at all.  There must be
+another entrance into the city somewhere.  To your west, the beach
+continues into the western horizon.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 5001 0
+D3
+~
+~
+0 0 15008 0
+E
+stairs~
+The stairs are old, but in good repair. They lead up into the tower.
+~
+S
+#15011
+Along a Rocky Beach~
+The way gets much too rocky here for you to continue along the water
+any further.  You do however, notice a trail through the rocks which
+heads southwest.    
+~
+150 32768 0 0 0 0
+D1
+You see more of the beach.
+~
+~
+0 -1 15006 0
+D3
+~
+~
+0 0 15012 0
+S
+#15012
+Rocky Path~
+The path meanders it's way through the rocks on this littered beach.
+In the distance, you can see a lighthouse out at the end of a jetty,
+it's gentle light guiding sailors safely past this rocky area.    
+~
+150 32768 0 0 0 0
+D1
+~
+~
+0 -1 15011 0
+D2
+~
+~
+0 -1 15013 0
+S
+#15013
+Rocky Path~
+The path continues it's way in a southwesterly direction toward the
+lighthouse, or you may head northeast toward a less cluttered-looking
+beach.    
+~
+150 32768 0 0 0 0
+D0
+~
+~
+0 -1 15012 0
+D3
+~
+~
+0 -1 15014 0
+S
+#15014
+Rocky Path~
+The path runs east to west over jumbled rock and fine beach sand.  
+Just to your west, you see a jetty running out into the ocean, a
+lighthouse at it's end.  To the east the path curves it's way along
+the beach.    
+~
+150 32768 0 0 0 0
+D1
+~
+~
+0 0 15013 0
+D3
+~
+~
+0 0 15015 0
+S
+#15015
+Rocky Path at Takker's Jetty~
+The path continues east or west from you, depending which way you are
+heading.  A jetty runs out into the sea to your south, a strong, bold
+lighthouse at it's end.    
+~
+150 32776 0 0 0 0
+D1
+~
+~
+0 -1 15014 0
+D2
+~
+~
+0 -1 15017 0
+D3
+~
+~
+0 0 15016 0
+S
+#15016
+Rocky Path~
+The path, still rocky and hard to navigate, continues along to the
+east and west.  Directly east of you begins a jetty which hosts a
+lighthouse at it's end.  West seems only to host more rocks and
+possibly a cave or two.    
+~
+150 32776 0 0 0 0
+D1
+~
+~
+0 -1 15015 0
+D3
+~
+~
+0 0 15031 0
+S
+#15017
+Takker's Jetty~
+The jetty heads south into the sea ending at a lighthouse.  All along
+the way, fishermen try their luck.    
+~
+150 134250496 0 0 0 0
+D0
+~
+~
+0 0 15015 0
+D2
+~
+~
+0 -1 15018 0
+S
+#15018
+Takker's Jetty~
+All along the jetty, men relax in the sun, sitting in comfortable
+niches in the rocks where they can wile away their time telling tall
+tales about 'the ones that got away', discussing politics, or every
+now and then, doing some fishing.    
+~
+150 134250496 0 0 0 2
+D0
+~
+~
+0 0 15017 0
+D2
+~
+~
+0 -1 15019 0
+S
+#15019
+Takker's Jetty at the Lighthouse~
+You stand at the entrance to the lighthouse, a solid oak door set back
+into the rounded wall.  To your north, the jetty leads you back to dry
+land.    
+~
+150 134250496 0 0 0 2
+D0
+~
+~
+0 -1 15018 0
+D2
+~
+door~
+1 -1 15020 3
+S
+#15020
+Entryway - Lighthouse~
+You stand in a small chamber just inside the front door of the
+lighthouse.  Just south of these cramped stucco walls is the main
+living room of the lighthouse.  You can hear and smell a crackling,
+warm fire in the fireplace, a dog's contented panting, and the sound
+of a young lady's laughter from the next room.    
+~
+150 32776 0 0 0 0
+D0
+~
+door~
+1 -1 15019 3
+D2
+~
+~
+0 -1 15021 0
+S
+#15021
+Main Living Area - Lighthouse~
+This large room looks as if it has spent many happy times in the
+company of the Lighthouse Keeper and his family.  The dinner table
+looks as if it always would have room for one more, the fire always
+warm and comforting, and of course, Max would always be around to play
+catch or get his ears scratched.  To the east, you see what looks to
+be one of the family's bedrooms, the same to the west.  Both have
+doors, but both doors are wide open.  A spiral stairway leads up into
+the lighthouse top, where the Keeper must spend a great deal of his
+time.    
+~
+150 32776 0 0 0 0
+D0
+~
+~
+0 0 15020 0
+D1
+~
+door~
+1 -1 15022 1
+D3
+~
+door wood~
+1 -1 15024 1
+D4
+~
+~
+0 0 15023 0
+S
+#15022
+Lighthouse Keeper's Bedroom~
+A huge plush king size bed, four posted with satin drapes.  A
+mahoganey dresser with a matching vanity desk and mirror.  This
+lighthouse keeper must be one heck of a guy!    
+~
+150 32776 0 0 0 0
+D3
+~
+~
+0 -1 15021 0
+D5
+~
+secret door~
+2 15001 15025 15
+S
+#15023
+Light Room~
+This small room is more or less just the roof top of the lighthouse
+which houses the light.  A narrow walkway encircles the light, so that
+regular maintenance can be performed.  Some shelves on the walls hold
+tools and oils which keep the machinery in fine tune so that no ships
+run afoul of the many rocks in this part of the ocean.    
+~
+150 32776 0 0 0 0
+D5
+~
+~
+0 0 15021 0
+S
+#15024
+Lighthouse Keeper's Daughter's Bedroom~
+What a cute little room!  Twin bed with a pink down comforter, a doll
+collection which even impresses you, and many other assorted toys sit
+on shelves, all neatly stacked and color-coordinated.    
+~
+150 32776 0 0 0 0
+D1
+~
+~
+0 0 15021 0
+S
+#15025
+On the Spiral Staircase~
+You have begun a descent down into the Lower Reaches of the
+Lighthouse.  You wonder why the basement of this happy home would not
+only be called the 'Lower Reaches', but also capitalized for a moment
+- and then you see what lies below you.  Looking almost like a
+medieval torture chamber, you see a room all in stone, a deep
+cavernous hole in the center of it.  What looks to be am operating
+table is set to one side with tables covered in instruments of
+dissection and bubbling vials close by.  Do you really wish to descend
+into that room and visit with the 'good' Lighthouse Keeper?    
+~
+150 32776 0 0 0 0
+D4
+The spiral stair leads up to a trap door.
+~
+secret door~
+2 15001 15022 15
+D5
+~
+~
+0 0 15026 0
+S
+#15026
+Lighthouse Keeper's Operating Room~
+You see all and more of what you saw from the staircase.  Four cells
+lie in all cardinal directions, each with a whimpering human subject
+in it!  Diagrams cover the walls, notes jotted on many of them, all
+dealing with one goal in mind - the creation of the perfect sexual
+companion!  It seems the 'good Lighthouse Keeper' may be a bit more
+than everyone believes him to be...    
+~
+150 32776 0 0 0 0
+D0
+~
+cell door~
+2 15002 15027 15
+D1
+~
+cell door~
+2 15002 15028 15
+D2
+~
+cell door~
+2 15002 15029 15
+D3
+~
+cell door~
+2 15002 15030 15
+D4
+~
+~
+0 0 15025 0
+S
+#15027
+Keeper's Playroom~
+This small ten by ten room once was a simple like the others which
+connect to the Operating Room, however because of the nature of the
+specimen which abides in this space, it has been spruced up just a
+bit.  A huge bed dominates the ENTIRE room, pillows strewn everywhere
+with lace and frills and all.    
+~
+150 32776 0 0 0 0
+D2
+~
+cell door~
+2 15002 15026 15
+E
+bed~
+Looks very comfortable indeed.
+~
+S
+#15028
+Cell~
+This bleak cell hosts only an uncomfortable looking cot and small hole
+in one corner for necessary functions.    
+~
+150 32776 0 0 0 0
+D3
+~
+cell door~
+2 15002 15026 15
+S
+#15029
+Cell~
+This bleak cell hosts only an uncomfortable looking cot and small hole
+in one corner for necessary functions.    
+~
+150 32776 0 0 0 0
+D0
+~
+cell door~
+2 15002 15026 15
+S
+#15030
+Cell~
+This bleak cell hosts only an uncomfortable looking cot and small hole
+in one corner for necessary functions.    
+~
+150 32776 0 0 0 0
+D1
+~
+cell door~
+2 15002 15026 15
+S
+#15031
+Rocky Path~
+The path continues along the beach, over rocks and scree.  Your
+options are east or west.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 -1 15016 0
+D3
+~
+~
+0 -1 15032 0
+S
+#15032
+Rocky Path~
+You stand on a rocky beach path near the mouth of a cave.  The
+entrance to the cave must be at least thirty feet high and just as
+wide.  It doesn't look as if anything could live there, as the water
+from the sea laps right inside the cave, but then, you never know.  
+~
+150 32768 0 0 0 2
+D0
+~
+~
+0 0 15033 0
+D1
+~
+~
+0 -1 15031 0
+D3
+~
+~
+0 0 15035 0
+S
+#15033
+Cave Entrance~
+You realize that if you wish to explore the confines of this cave, you
+will have to get wet.  As you stand looking into the cold, wet,
+darkness of the cave, the idea of jumping into that water just for the
+sake of exploring does seem a bit nutty.    
+~
+150 32768 0 0 0 2
+D0
+~
+~
+0 0 15034 0
+D2
+~
+~
+0 0 15032 0
+S
+#15034
+In the Kracken's Den~
+Something seems wrong here, very wrong.  Something makes the water
+move and not just in a small spot, ALL of the water is moving from
+some kind of monstrous movement under the water.    
+~
+150 32776 0 0 0 6
+D2
+~
+~
+0 0 15033 0
+S
+#15035
+End of the Rocky Path~
+You have come to the end of the rocky path you've been following along
+the sea.  South of you is the open sea, west is a moss- covered rock
+face, and to the north the way is impassable.    
+~
+150 32768 0 0 0 2
+D1
+~
+~
+0 -1 15032 0
+D3
+~
+moss~
+1 0 15036 1
+S
+#15036
+End of the Path~
+The path can go no farther.  The cliff face runs directly into the sea
+from here, no longer leaving the little bit of beach that you have
+been enjoying just west and south and here.  Strange that a path would
+end so abruptly at a cliff without leading anywhere...  Oh well!    
+~
+150 32776 0 0 0 0
+D0
+~
+cliff~
+1 0 22000 3
+D1
+~
+moss~
+1 0 15035 1
+E
+cliff~
+You think you may see a faint outline of some sort of entryway in the cliff.  
+Maybe if you tried OPENing it...?    
+~
+S
+#15040
+Armory~
+You walk in to a corner room in the castle. There are weapons of various types
+all over the walls. Barrels of a black powder are sitting on the ground and
+lying open.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15041 0
+S
+#15041
+Northwest Corner~
+You are in a hallway corner in the castle of Blackwind. There are crystal
+chandaleirs, and various ancient torches on the walls. The walls are made of
+a grey cobblestone, and the floors are like a giant jig saw puzzle. The room
+shows the wear of heavy use.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15042 0
+D1
+~
+~
+0 -1 15043 0
+D2
+~
+~
+0 -1 15063 0
+D3
+~
+~
+0 -1 15040 0
+S
+#15042
+The Foyer~
+You enter a corner room in the castle. Its obvious that this room has not been
+used in quite some time, for there is dust everywhere along with cobwebs. The
+torches on the walls have long since been used up, and are now decorations in
+this desolate place.
+~
+150 536870920 0 0 0 0
+D2
+~
+~
+0 -1 15041 0
+S
+#15043
+Hallway~
+You are in the hallway of the castle. The walls are grey and black, and the 
+floor seems to have paths worn into the rock from the heavy useage by knights
+and squires. There is a large broken glistening shield on the wall. Above the 
+shield is a large crack in the wall.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15044 0
+D3
+~
+~
+0 -1 15041 0
+S
+#15044
+Entryway~
+You are in the entryway of the Castle Blackwind. Standing in front of you is 
+the largest gate that you have ever seen. It does not seem that the gate will
+be giving way to any foes anytime soon. The chains that hold the gate up have
+links the size of your head. There is also a small peek door through the gate.
+~
+150 536870920 0 0 0 0
+D0
+~
+Gate~
+1 -1 15094 3
+D1
+~
+~
+0 -1 15045 0
+D3
+~
+~
+0 -1 15043 0
+S
+#15045
+Hallway~
+This hallway has a large banner hanging on the wall. It is atleast twice your
+height, and almost ten feet wide. On the banner is sewn in the pattern of the
+castles coat of arms. It resembeles a skull, swords, candle holders, and some
+other item that you have never seen before.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15046 0
+D3
+~
+~
+0 -1 15044 0
+S
+#15046
+Northeast Corner~
+You enter the room and see the statue of a great king in front of you. It 
+stands almost ten feet tall, and is made of black marble. It almost seems 
+that the eyes of the statue are watching your every move. In its hands is 
+a very large axe used in battle. 
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15047 0
+D1
+~
+~
+0 -1 15048 0
+D2
+~
+~
+0 -1 15049 0
+D3
+~
+~
+0 -1 15045 0
+S
+#15047
+The Kitchen~
+You see many pots, pans, knives, and other utensels used in cookery. You hear
+the busy bustle of the cooks in the back of the kitchen preparing a meal fit 
+for a king. Lying on the table is a raw chicken, and a dead pig. 
+~
+150 536870920 0 0 0 0
+D2
+~
+~
+0 -1 15046 0
+S
+#15048
+The Library~
+In the library you see books that are stacked up in the middle of the room
+a good twenty feet tall. Each of the books is a good size, weighing atleast
+five pounds. The walls have ladders by them to get books off the top shelves
+which are almost thirty feet up.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15046 0
+S
+#15049
+Hallway~
+In the hallway you see a rat run into a rather large hole in the wall. There
+is a small chair in the corner that has a leg missing. Hanging on the wall is
+a tapestry that covers the entire wall. It seems that it was made almost one
+thousand years ago, and preserved quite well in this room.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15046 0
+D2
+~
+~
+0 -1 15050 0
+S
+#15050
+Hallway~
+You are standing in the hallway on the east side of the castle. There is 
+nothing special in this room, except the faint smell of food being cooked.
+Perhaps you are by the kitchen and can find some food there.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15049 0
+D2
+~
+~
+0 -1 15051 0
+S
+#15051
+Hallway~
+You are standing in the hallway on the east side of the castle. there is 
+nothing special at all in this room. There is however small tracks in the
+dust on the floor from rats and other varmin.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15050 0
+D2
+~
+~
+0 -1 15052 0
+S
+#15052
+Southeast Corner~
+You come to the south eastern corner of the castle. There is a large light
+fixture hanging from the walls, and some sort of pipe that runs down the 
+corner of the wall. It must be for the use of drainage from the upper floor.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15051 0
+D1
+~
+~
+0 -1 15053 0
+D2
+~
+~
+0 -1 15054 0
+D3
+~
+~
+0 -1 15055 0
+S
+#15053
+Study Room~
+This is the room where the nobles of the kingdom come to study. It has various
+books, note pads, diagram boards, and several desks and couches. There is one
+window in this room and it is on the north wall. Looking out you can see the
+north east tower of the castle.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15052 0
+S
+#15054
+War Room~
+War schematics, and tactics are strung all over the tables in this room. You
+also notice many maps of caverns and lands tacked on the walls, with pins 
+sticking in areas of them. Perhaps the next crusade will take you to one of 
+places, if you chose to go.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15052 0
+S
+#15055
+Hallway~
+The hallway has stone walls that are grey and seem brittle from the long  
+support of the castle. There is a large tapestry on the wall that has a 
+picture of the king sewn into it. In the corner there is a torch in the wall 
+that is burnt out.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15052 0
+D3
+~
+~
+0 -1 15056 0
+S
+#15056
+Hallway~
+The hallway has stone walls that are grey and brittle from the long support of
+the castle. There is a large tapestry on the wall that has a picture of the 
+king sewn into it. In the corner there is a torch in the wall that is burnt
+out.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15055 0
+D3
+~
+~
+0 -1 15057 0
+S
+#15057
+Hallway~
+The hallway has stone walls that are grey and brittle from the long support of
+the castle. There is a large tapestry hanging from the wall that has a picture
+of the king sewn into it. In the corner there is a torch in the wall that is
+burnt out.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15056 0
+D3
+~
+~
+0 -1 15060 0
+S
+#15058
+Map Room~
+The maps of the kingdom are rolled up on the shelves on these walls. There are
+many other maps and scrolls in the room too. In the back of the room is a desk
+that has a pen and paper on it used for drawing new maps.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15060 0
+S
+#15059
+Pantry~
+This is the room where all the food is stored for the kitchen. The shelves are
+stacked with food and goods. There are rats scuffeling around at your feet. 
+Several grain sacks sit in the corner with rips in them spilling grain all 
+over the floor.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15060 0
+S
+#15060
+Southwest Corner~
+This room has one large chandalier hanging from the cieling. There is a torch
+in each corner of the room that lights up the room. Large beams of wood hold
+up the wall over each door. A small breeze blows by your face and gives you a
+chill.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15061 0
+D1
+~
+~
+0 -1 15057 0
+D2
+~
+~
+0 -1 15058 0
+D3
+~
+~
+0 -1 15059 0
+S
+#15061
+Hallway~
+The hallway has stone walls that are grey and seem brittle from the long 
+support of the castle. There is a large tapestry hanging from the wall with a 
+picture of the king sewn into it. In the corner is a torch that is burnt out.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15062 0
+D2
+~
+~
+0 -1 15060 0
+S
+#15062
+Hallway~
+The hallway has stone walls that are grey and seem brittle from the long
+support of the castle. There is a large tapestry hanging from the wall with a
+picture of the king sewn into it. In the corner is a torch that is burnt out.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15063 0
+D1
+~
+~
+0 -1 15064 0
+D2
+~
+~
+0 -1 15061 0
+S
+#15063
+Hallway~
+The hallway has stone walls that are grey and seem brittle from the long
+support of the castle. There is a large tapestry hanging from the wall with a
+picture of the king sewn into it. There is a torch in the corner that is burnt
+out.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15041 0
+D2
+~
+~
+0 -1 15062 0
+S
+#15064
+Hallway~
+The hallway has stone walls that are grey and seem brittle from the long
+support of the castle. There is a large tapestry hanging from the wall with a 
+picture of the king sewn into it. A torch is in the corner that is burnt out.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15065 0
+D3
+~
+~
+0 -1 15062 0
+S
+#15065
+First Floor~
+A set of stairs with a hand rail leads to the next floor. The steps are made 
+of small red bricks. Small sections of the hand rail are missing. Small burnt
+out torches are lined up the walls, used to light the way.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15064 0
+D4
+~
+~
+0 -1 15066 0
+D5
+~
+down d trap door~
+1 -1 -1 3
+S
+#15066
+Staircase~
+A set of stairs with a hand rail leads to the next floor. The steps are made
+of small red bricks. Small sections of the hand rail are missing. Small burnt
+out torches are lined up the walls, used to light the way.
+~
+150 536870920 0 0 0 0
+D4
+~
+~
+0 -1 15067 0
+D5
+~
+~
+0 -1 15065 0
+S
+#15067
+Second Floor~
+A set of stairs with a hand rail leads to the next floor. The steps are made
+of small red bricks. Small sections of the hand rail are missing. Small burnt
+out torches are lined up the walls, used to light the way.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15068 0
+D4
+~
+~
+0 -1 15084 0
+D5
+~
+~
+0 -1 15066 0
+S
+#15068
+Hallway~
+The walls are made of a grey rock that are cracked and brittle with time. 
+There is a small torch in the corner of the room that is burnt out. On the 
+wall is a large tapestry that has a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15081 0
+D2
+~
+~
+0 -1 15069 0
+D3
+~
+~
+0 -1 15067 0
+S
+#15069
+Southeast Corner~
+You are standing in the corner hallway on the second floor of the castle. The
+walls are decorated with battle sheilds. The stones in the wall are laid in a
+fashion that makes out a castle design. A cold wind blows at your feet.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15068 0
+D1
+~
+~
+0 -1 15070 0
+D2
+~
+~
+0 -1 15071 0
+D3
+~
+~
+0 -1 15072 0
+S
+#15070
+Bedroom~
+There is a large bed in the middle of the room. It has satin sheets and there
+is a mirror on the wall with a wash pan under it on a table. Out the window
+you see the ventalation shafts for the underground city of Stonekeep.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15069 0
+S
+#15071
+Bedroom~
+There is a large bed in the middle of the room. It has satin sheets and there
+is a mirror on the walls with a wash pan sitting on a table. Out the window
+you see the ventalation shafts for the underground city of Stonekeep.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15069 0
+S
+#15072
+Hallway~
+You walk into a hallway in the castle. The walls in this room are charred 
+black from what seems to be a fire. There is a rod hanging from the wall that
+used to support a tapestry. There is a holder in the corner for a torch.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15069 0
+D3
+~
+~
+0 -1 15073 0
+S
+#15073
+Hallway~
+The walls in this room are charred black from what seems to have been a fire.
+The ground is cold to the touch, and you feel a cool breeze blow by your face.
+In a corner of the room is a blackend suit of armor that is warped and seems
+to be slightly melted from the fire.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15076 0
+D1
+~
+~
+0 -1 15072 0
+D2
+~
+~
+0 -1 15074 0
+D3
+~
+~
+0 -1 15075 0
+S
+#15074
+Bedroom~
+There is a large bed in the middle of the room. It has satin sheets and there
+is a mirror on the wall with a wash pan sitting on a table underneath it. Out
+the window you see the ventalation shafts for Stonekeep.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15073 0
+S
+#15075
+Bedroom~
+There is a small bed in the middle of the room. It has red satin sheets and
+there is a mirror on the wall, with a wash pan sitting on a table underneath
+it. Out the window you see the ventalation shafts for the city of Stonekeep.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15073 0
+S
+#15076
+Hallway~
+The walls in this room are both bland and dull. Mortar has been smeared into
+the cracks of all the rocks to give it a smooth look. To the touch it is rough
+and jagged from the poor masonry. There is a torch bolted into a corner of the
+room that is long since burnt out.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15077 0
+D2
+~
+~
+0 -1 15073 0
+S
+#15077
+Northwest Corner~
+The top points on all the arches of the doorways have cracks. The walls and 
+floor are both cold to the touch. A small breeze blows by your face, and you
+can smell an odd fragrance in the air.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15079 0
+D1
+~
+~
+0 -1 15080 0
+D2
+~
+~
+0 -1 15076 0
+D3
+~
+~
+0 -1 15078 0
+S
+#15078
+Bedroom~
+This room has a small bed offset in the corner. It has a curtan overhang made
+of silk sheets. The bed is unmaid, looks comfortable, but is missing a leg. 
+In the opposite corner of the room is a small table with a pan and cloth on 
+it. Out the window you can see for miles.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15077 0
+S
+#15079
+Bedroom~
+This room has a small bed offset in the corner. It has small curtians covering
+the bed made of silk. The bed, however is unmaid and has a broken leg. In the
+opposite corner of the room is a small table with a pan and cloth on it. Out 
+the window you can see a storm moving in from the north.
+~
+150 536870920 0 0 0 0
+D2
+~
+~
+0 -1 15077 0
+S
+#15080
+Hallway~
+On the walls you see various swords and shields hanging. There is a suit of
+armor in the corner, holding a battle axe of some sort. On the opposite wall
+is a tapestry with the castles picture sewn into it.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15081 0
+D3
+~
+~
+0 -1 15077 0
+S
+#15081
+Northeast Corner~
+The rocks on the walls are grey and black. The mortar between them is falling
+out in small chips. The floor has a small smooth path worn through it where
+everyone usually walks through.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15082 0
+D1
+~
+~
+0 -1 15083 0
+D2
+~
+~
+0 -1 15068 0
+D3
+~
+~
+0 -1 15080 0
+S
+#15082
+Bedroom~
+There is a small bed sitting in the middle of the room with no sheets on it.
+It seems that this room has been abandoned, because there is a lot of dust on
+the floors and bed. Out of the window you can see a storm moving in from the 
+north.
+~
+150 536870920 0 0 0 0
+D2
+~
+~
+0 -1 15081 0
+S
+#15083
+Bedroom~
+There is a small bed sitting in the middle of the room. The legs off the foot
+of the bed are missing, and there are no sheets on it. There is a small table
+next to the wall with a pan and cloth. There is also a broken mirror on the 
+wall above the table.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15081 0
+S
+#15084
+Staircase~
+A set of stairs with a handrail leads to the next floor. The steps are made of 
+small red bricks. Small sections of the handrail are missing, and there are 
+small cracks on the steps next to the edge. Small torches are aligned on the 
+walls.
+~
+150 536870920 0 0 0 0
+D4
+~
+~
+0 -1 15085 0
+D5
+~
+~
+0 -1 15067 0
+S
+#15085
+Third Floor~
+A set of stairs with a handrail leads to the lower floor. The steps are made of
+small red bricks. Small sections of the handrail are missing, and you can feel
+a small breeze blow by your face. Small torches are aligned on the walls.
+~
+150 536870920 0 0 0 0
+D1
+~
+door~
+2 15040 15086 11
+D5
+~
+~
+0 -1 15084 0
+S
+#15086
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch. 
+There is a small torch in a corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D2
+~
+~
+0 -1 15087 0
+D3
+~
+door~
+1 -1 15085 7
+S
+#15087
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch.
+There is a small torch in the corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15086 0
+D3
+~
+~
+0 -1 15088 0
+S
+#15088
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch.
+There is a small torch in the corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15087 0
+D3
+~
+~
+0 -1 15089 0
+S
+#15089
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch.
+There is a small torch in the corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15090 0
+D1
+~
+~
+0 -1 15088 0
+S
+#15090
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch.
+There is a small torch in the corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15091 0
+D2
+~
+~
+0 -1 15089 0
+S
+#15091
+Hallway~
+The stones on the walls are made of a black rock, and are cold to the touch.
+There is a small torch in the corner of the room that is long since burnt out.
+On the wall is a tapestry with a picture of the king sewn into it.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15092 0
+D2
+~
+~
+0 -1 15090 0
+S
+#15092
+Waiting Room~
+This is the waiting room of the king. All who wish to see him come here and
+wait for there turn. There are two torches in the corners of the room. Large
+curtains cover the doors.
+~
+150 536870920 0 0 0 0
+D1
+~
+~
+0 -1 15093 0
+D3
+~
+~
+0 -1 15091 0
+S
+#15093
+Throne Room~
+This is the throne room for the king of Blackwind Castle. There is a large 
+throne in the center of the room. Out the windows of this room you can see the
+land that he rules.
+~
+150 536870920 0 0 0 0
+D3
+~
+~
+0 -1 15092 0
+S
+#15094
+Blackwind Gate~
+You see the gigantic gate to the castle of Blackwind.  Two monstrous
+sized chains raise and lower the bridge.  Up in the top of the archway
+is a spiked gate that lowers if needed.    
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15095 0
+D2
+~
+Gate~
+1 -1 15044 3
+S
+#15095
+Blackwind Moat~
+You are standing on the drawbridge of the castle. Underneath it you can see 
+the deep murky waters of the moat. Various types of fish and snakes are seen
+moving around in the water. On the top of the water grows small amounts of
+moss and lillipads.
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 -1 15096 0
+D2
+~
+~
+0 -1 15094 0
+S
+#15096
+Path to Blackwind Castle~
+You are on the path that leads to Blackwind Castle.  In the distant
+you can see the farmlands bordering the great mountain city of
+Ofingia.  The skies are clear and blue in the sky, but there are a few
+clouds.  There is a small dirt path outlined with large rocks leading
+to a big castle.    
+~
+150 536870920 0 0 0 0
+D0
+~
+~
+0 0 8354 0
+D2
+~
+~
+0 -1 15095 0
+D5
+~
+~
+0 -1 -1 0
+S
+$~

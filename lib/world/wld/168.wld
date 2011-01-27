@@ -1,0 +1,1414 @@
+#16800
+Raider Fort Entrance~
+You come to the entrance of the raiders fort.  Many raiders, children,
+warriors, and scouts, come to see who has invaded their home.  The
+fort is made of wood and stone, it is so solid that a catapult couldnt
+even knock down its walls.  Although its walls are low, they are very,
+very sturdy.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16801 0
+D2
+~
+~
+0 0 15175 0
+S
+#16801
+Raider Fort Hallway~
+You walk down a clean and tidy hall, you can see that the raiders like
+to keep their home clean.  The stone walls feel cold to your touch,
+but the bright light of a torch makes you feel more at home, for now
+anyways.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16806 0
+D2
+~
+~
+0 0 16800 0
+D3
+~
+~
+0 0 16803 0
+S
+#16802
+Raider Inn~
+This is where the raiders put their guests, although they usually dont
+have guests, once in awhile they will have the occasional guest.  
+This room is made completely of wood, nothing here is stone.  It seems
+as if this was a great fire pit.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16803 0
+S
+#16803
+Raider Hallway~
+You walk down along hallway, torches glow brightly along the walls so
+you can see.  Once in a while you can hear people walking or talking
+behind you.  The long stone floor is cold to the touch, you think that
+your shoes might just freeze to the cold floor, the walls are equally
+cold.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16802 0
+D1
+~
+~
+0 0 16801 0
+D3
+~
+~
+0 0 16804 0
+S
+#16804
+Raider Hallway~
+You walk down a long brightly lit hallway, the once stone floor is now
+mostly made of wood.  This is one of the oldest parts of this whole
+entire fort.  It isnt as clean here as the rest of the fort, its very
+dusty.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16803 0
+D2
+~
+~
+0 0 16805 0
+S
+#16805
+Raider Shop~
+You walk into a shop which was made mostly for raiders.  The floor
+nice and polished, although it is clean, the weapons look extremely
+dirty.  This store sells mostly weapons, but a few magical devices.  
+~
+168 24 0 0 0 0
+D0
+~
+~
+0 0 16804 0
+S
+#16806
+Raider Hallway~
+You walk down a hallway with a shining stone floor.  The floor gleams
+a color to your eyes that you have never seen before.  Some sort of
+purple-red shade.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16807 0
+D3
+~
+~
+0 0 16801 0
+S
+#16807
+Raider Circle Hall~
+This hallway continues in a small circle, it was made for tacticle
+advantages for flanking an enemy who has made it past the first wall
+of defence.  The raiders themselves are really quite proud of their
+little trap.  But so far in the history of raiders no one has ever
+made it this far at all.    
+~
+168 12 0 0 0 0
+D0
+~
+~
+0 0 16808 0
+D2
+~
+~
+0 0 16806 0
+S
+#16808
+Start of Raider Circle~
+This is the firt point of the raiders tacticle battle field.  They
+come in from both sides and force the attacking forces back.  For such
+an evil group of soldiers, they sure know their battle skills.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16810 0
+D2
+~
+~
+0 0 16807 0
+D3
+~
+~
+0 0 16809 0
+S
+#16809
+Raider Circle~
+This is one of the most tactical spots in the fort, from where you are
+now, raiders could sneak up behind you and trap you in, with no route
+of escape.  This is one of the best fighting fields anyone has ever
+seen.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16813 0
+D1
+~
+~
+0 0 16808 0
+S
+#16810
+Raider Circle~
+This is one of the most tactical areas in the world.  Raiders could
+come from anywhere, they could circle around the hall and end up
+behind you trapping you and your team.  This fort could mean death in
+manys ways.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16811 0
+D3
+~
+~
+0 0 16808 0
+S
+#16811
+Raider Circle~
+The circle you walk around is a well guarded and easily guarded spot.
+Raiders could fly in from the south and the north, walking this
+hallway almost means causing trouble.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16814 0
+D2
+~
+~
+0 0 16810 0
+S
+#16812
+Raider Circle~
+This is one of the more dangerous of spots in this fort, you can't
+even see around the corner, making it possible for any kind of raider
+to be waiting around the corner.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16815 0
+D2
+~
+~
+0 0 16813 0
+S
+#16813
+Raider Circle~
+This part of the hall isnt quite as tactical as the hallway to your
+north and south, because you have a clear view of what is to your
+north and south.  But in the case of one of the turning points in the
+hallway, you can't see around the corner.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16812 0
+D2
+~
+~
+0 0 16809 0
+S
+#16814
+Raider Circle~
+This is one of the most important tactical positions for an assault
+force to hold, if they are able to successfully hold this position
+they can hide behind the corner waiting for raiders, but then they
+could do the same thing.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16811 0
+D3
+~
+~
+0 0 16815 0
+S
+#16815
+Raider Circle~
+No assault force has ever made it past the walls of the fort, but even
+if they did the resistance they would find would overwhelm them and
+destroy them.  The raider force is huge, not even a force full of
+millions of troups could scale the walls and defeat the raiders.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16816 0
+D1
+~
+~
+0 0 16814 0
+D3
+~
+~
+0 0 16812 0
+S
+#16816
+Raider Hallway~
+This hallway is wide enough for scores of men to come rushing up to
+the front line in case of an attack.  This fort is so well prepared
+for attack that it is scarry, the soldiers are the best around.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16817 0
+D2
+~
+~
+0 0 16815 0
+S
+#16817
+Raider Hallway~
+The raider fort is so well prepared is what made them turn evil in the
+first place, they used to be a small tribe of friend men and women,
+but now even their children are vicious.    
+~
+168 0 0 0 0 0
+D0
+~
+~
+0 0 16818 0
+D2
+~
+~
+0 0 16816 0
+S
+#16818
+Raider Circle~
+Another tactical circle hallway, the raiders put many of these just to
+make sure that if an assault did make it past the first one, they
+would have to face even more.    
+~
+168 0 0 0 0 0
+D1
+~
+~
+0 0 16821 0
+D2
+~
+~
+0 0 16817 0
+D3
+~
+~
+0 0 16819 0
+S
+#16819
+Raider Circle~
+This is another tactical advantage to hold, although this time it
+leads also to a captains room it makes it easier to be flanked from
+not just two sides, but three.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16825 0
+D1
+~
+~
+0 0 16818 0
+D3
+~
+~
+0 0 16820 0
+S
+#16820
+Captains Hall~
+This long hallway leads directly to one of the captains room, it was
+placed here so in case of an attack the captains could easily make it
+to the front line.  Unlike the soldiers rooms which are farther back.
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16819 0
+D2
+~
+~
+0 0 16824 0
+S
+#16821
+Raider Circle~
+This is another tactical advantage to hold, although this time it
+leads also to a captains room it makes it easier to be flanked from
+not just two sides, but three.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16829 0
+D1
+~
+~
+0 0 16822 0
+D3
+~
+~
+0 0 16818 0
+S
+#16822
+Captain Hall~
+You walk down a hallway which leads straight to the captains room, the
+captains room was placed so close to the front of the fort because
+raiders believe that captains should sacrifice themselves for the good
+of others.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16823 0
+D3
+~
+~
+0 0 16821 0
+S
+#16823
+Captain's Room~
+You walk into a room which belongs to one of the captains of the
+raider forces, the job of the captain is to sacrifice himself to take
+out as many of his enemies as he could possibly kill.  Its like a
+sport for these captains.  They are just unmerciful killers.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16822 0
+S
+#16824
+Captain's Room~
+You walk into a room belonging to one of the raider captains.  The
+room is made completely of stone, the bed is even made of a soft
+stone.  The way the captain lives is very interesting, he doesnt have
+anything that isnt stone.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16820 0
+S
+#16825
+Raider Circle~
+You walk around the raider circle, you see all the tactical advantages
+a person would have in such a well planned out fort, there is almost
+no way someone could lose a war holding a fort of this sort.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16826 0
+D2
+~
+~
+0 0 16819 0
+S
+#16826
+Raider Circle~
+You walk through a hallway which is big enough to hold many men
+walking side by side, for that reason they can clean many soldiers out
+to the front line to protect the ever growing raider people.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16827 0
+D2
+~
+~
+0 0 16825 0
+S
+#16827
+Raider Circle~
+One of the most tactical forts in the world, this is the best place to
+defend, it is nearly impossible to get over the fort walls in the
+first place, but to get pass the raider defense will never happen.  
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16830 0
+D1
+~
+~
+0 0 16828 0
+D3
+~
+~
+0 0 16826 0
+S
+#16828
+Raider Circle~
+You follow one of the most tactical battle hallways, you notice all
+the little things the raiders did to make it easier to win battles
+everywhere, it would be nearly impossible for even a sizable force to
+attack.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16829 0
+D3
+~
+~
+0 0 16827 0
+S
+#16829
+Raider Circle~
+You follow the tactical hallway around a sharp turn, their is a chance
+that you will meet up with a group of raiders, which isn't something
+that many people want to do.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16828 0
+D2
+~
+~
+0 0 16821 0
+S
+#16830
+Raider Hall~
+You walk down a long hallway, it leads north to the soldier hallway,
+and south to the circle hallway.  Either way could be completely
+covered with raiders, so be aware for raider attacks.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16831 0
+D2
+~
+~
+0 0 16827 0
+S
+#16831
+Soldier Hallway~
+You walk down a long hallway, it leads to all the soldier bunks.  It
+doesn't matter which way you go because it is just one big cirlce.  
+You can see that to either side of you the hallway continues until you
+can no longer see, this is one long hallway.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16849 0
+D1
+~
+~
+0 0 16838 0
+D2
+~
+~
+0 0 16830 0
+D3
+~
+~
+0 0 16832 0
+S
+#16832
+Soldier Hallway~
+You walk down a long hallway, you cant see a wall to neither the east
+nor the west.  You can smell the blood and sweat of the raider
+soldiers, they are always either working out or training, thats how
+they have such a huge army.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16845 0
+D1
+~
+~
+0 0 16831 0
+D2
+~
+~
+0 0 16846 0
+D3
+~
+~
+0 0 16833 0
+S
+#16833
+Soldier Hall~
+You walk down a long stone hallway, the walls and the floor, even the
+torch holders are stone.  They are extremely cold to the touch, you
+dont know weather they are curse, or if the air seems to have nod
+warmed the cold stone.  The air is hot and muggy, it makes it hard to
+breath.  You can tell that this warm air seems to be coming from the
+north, and the south.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16832 0
+D3
+~
+~
+0 0 16835 0
+S
+#16834
+Soldier Hall~
+The soldier hallway seems to go on forever, you can't see an end at
+either side.  You could always follow the, cold, stone hallway until
+you found an end.  Who knows if there actually is an end, maybe it
+does go on forever, that would always be a good tactical advantage for
+the raiders, we all know they take all the advantages they can get.  
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16833 0
+S
+#16835
+Soldier Hall~
+You follow a long hallway, the floors and walls are dead cold, they
+are colder than a corpse.  But the air surrounding you makes you feel
+warm, although it is muggy warm air, it still feels better than the
+cold walls.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16843 0
+D1
+~
+~
+0 0 16833 0
+D2
+~
+~
+0 0 16844 0
+D3
+~
+~
+0 0 16836 0
+S
+#16836
+Soldier Hall~
+You walk down a long stone hallway, you can smell the sweat and blood
+of the raider soldiers.  It is a warm damp room, even in the middle of
+the winter this hallway seems to stay warm.  Although it isnt as much
+of a tactical spot as the raiders wish, it is still fairly protected.
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16835 0
+D3
+~
+~
+0 0 16837 0
+S
+#16837
+Soldier Hall~
+You walk down a long damp hallway, you can hear and smell the raider
+soldiers working out, it sounds as if the already well trained
+soldiers are training to get even better.  It seems as if you have
+been overtaken by the smell of sweat, it is so strong.  It comes in
+waves from the north and south.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16841 0
+D1
+~
+~
+0 0 16836 0
+D2
+~
+~
+0 0 16842 0
+D3
+~
+~
+0 0 16840 0
+S
+#16838
+Soldier Hall~
+You walk down a long damp hall, it is hot in this hallway.  You would
+imagine that in the winter it would still stay pretty warm.  You hear
+sounds coming from all angles, as if people are training from
+everywhere.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16839 0
+D3
+~
+~
+0 0 16831 0
+S
+#16839
+Soldier Hall~
+The long hallway you walk down seems to have been made for its easy
+entrance and exits, a soldier could quickly get to the front line from
+here.  Once again the raiders show their ability to quickly engage the
+enemy.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16847 0
+D1
+~
+~
+0 0 16840 0
+D2
+~
+~
+0 0 16848 0
+D3
+~
+~
+0 0 16838 0
+S
+#16840
+Raider Hall~
+You walk down a long stone hallway, it is so warm in this hallway that
+you feel the heat slowly burning your skin.  Somehow the stone walls
+continue to be cold even though you seem to be burning.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16837 0
+D3
+~
+~
+0 0 16839 0
+S
+#16841
+Soldier Bunks~
+You walk into a room full of bunks, sweating soldiers lay on the
+bunks.  The body heat from the soldiers have made this room very warm.
+The soldiers do not like it when someone intrudes in on them when they
+are in their crude home.  Although it isn't perfect, raiders are used
+to living in conditions like this.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16837 0
+S
+#16842
+Soldier Bunk~
+You walk into a room full of soldiers on bunks.  This isn't where the
+soldiers train, but it smells like the training hall.  Considering
+these soldiers only get to have a bath once a month tops.  The raider
+maids don't even stop at these rooms.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16837 0
+S
+#16843
+Soldier Bunk~
+The raider bunks are much like most soldier rooms around the world,
+the only difference is that these bunks are the dirtiest.  You
+wouldn't be suprised if some of these soldiers got ill from all the
+things on the floor.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16835 0
+S
+#16844
+Soldier Bunk~
+You walk into a hot damp room, bunks and soldiers are scattered all
+over the room, much like the trash and clothing.  The raider soldiers
+are very unorganized, it is suprising how a powerful group can be so
+disorganized.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16835 0
+S
+#16845
+Soldier Bunk~
+You walk into a large stone room, many bunks line the walls.  You can
+see all the soldiers either sleeping on their bunks or sitting around
+talking.  Many soldiers are placed in one room, they are jammed in
+until no more bunks will fit in the room.  It must be because they
+have doubled their military in the past decade or two.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16832 0
+S
+#16846
+Soldier Bunk~
+The soldier bunk you have walked into seems to be full of vicious
+warriors, the strongest warriors in the raider line come from this
+room.  This is just another one of those battle tactics, think of the
+speed that the raiders can use to get their best soldiers out to the
+front line from here.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16832 0
+S
+#16847
+Soldier Bunk~
+You walk into a messy room full of bunks.  This is where the soldiers
+of the raider military sleep, in much different corridors then that of
+the captains.  Although the captains sacrifice their lives for their
+men in battle, they don't in the bunks.    
+~
+168 8 0 0 0 0
+D2
+~
+~
+0 0 16839 0
+S
+#16848
+Soldier Bunk~
+You walk into a large room which has many bunks lining the walls.  
+The room could fit a possible 30 soldiers, but they are rarely all in
+the room at once, because most of them are either hunting or
+patroling.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16839 0
+S
+#16849
+Raider Hall~
+You walk down a long hallway, raiders travel this hallway very much,
+considering it is the hallway leading to the raider throneroom, anyone
+who enters that room and is not a raider, usually does not return.  
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16850 0
+D2
+~
+~
+0 0 16831 0
+S
+#16850
+Raider Hall~
+You walk down a raider hall.  You see the occasional rat run from one
+hole in the wall to another, most likely going to the over crowded
+soldier bunks.  The hallway is warm, from the air coming in from the
+south, from the soldier rooms.  It is very warm air coming in gust
+which warms this room.    
+~
+168 12 0 0 0 0
+D0
+~
+~
+0 0 16851 0
+D2
+~
+~
+0 0 16849 0
+S
+#16851
+Training Hall~
+You walk down a long training hall.  The soldiers come down this
+hallway when they are training for battle.  This is the most common
+spot for one to see raider soldiers, considering they are required to
+train six hours a day at least.  What a tough life raiders live.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16852 0
+D1
+~
+~
+0 0 16854 0
+D2
+~
+~
+0 0 16850 0
+D3
+~
+~
+0 0 16853 0
+S
+#16852
+Royal Hallway~
+You walk down the royal hallway, it leads directly to the raider king
+himself.  Most men do not wish to visit the king, he is so caught up
+in war that he doesn't want to be disturbed.    
+~
+168 12 0 0 0 0
+D0
+~
+~
+0 0 16855 0
+D2
+~
+~
+0 0 16851 0
+D3
+~
+handle~
+1 0 16877 1
+S
+#16853
+Training Hall~
+You walk down a long hall, many soldiers and trainees walk down the
+hall.  They seem to be practicing all of their many skills.  The
+raiders have many different types of fighters.  Much like the fighting
+team of a large castle, this fort is battle ready.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16851 0
+D3
+~
+~
+0 0 16872 0
+S
+#16854
+Training Hall~
+You walk down a long hallway completely full of training soldiers.  
+Equipment is scattered all over the floor, and once in a while you can
+see a corpse of one of the weak raider soldiers.  The raiders see war
+in such a view that human sacrifice doesn't even bother them.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16868 0
+D3
+~
+~
+0 0 16851 0
+S
+#16855
+Royal Hallway~
+You walk down the royal hallway, towards the ever cruel raider king.
+The king isn't quite as mean as some of the other kings, but his
+thirst for war makes him evil.  Most of the time the raiders are in
+war with one group of people or another, they can't seem to stay out
+of trouble.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16858 0
+D1
+~
+~
+0 0 16856 0
+D2
+~
+~
+0 0 16852 0
+D3
+~
+~
+0 0 16857 0
+S
+#16856
+Guard Room~
+You walk into the first line of royal guards room.  These guards are
+the first rank of guards which are responsible for protecting the king
+from assassins.  Once in a long while a small brave group of raiders
+will rebel against the king, but most of the time they don't make it
+past this group of guards.    
+~
+168 8 0 0 0 0
+D3
+~
+~
+0 0 16855 0
+S
+#16857
+Guard Room~
+You walk into a royal guard room.  Many guards stand at attention
+peering past you at the royal hallway, making sure no assassin can
+make it past them, it is very important for a soldier to protect his
+king.  If one does not protect his king, they themselves will be
+executed.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16855 0
+S
+#16858
+Royal Hallway~
+You walk just north of the first guards post, and just south of the
+second.  The king has lots of guards protecting him, getting to him
+isn't easy.  Once you do get to the king, it still isn't easy, the
+king raider himself is really quite the fighter.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16859 0
+D2
+~
+~
+0 0 16855 0
+S
+#16859
+Royal Hallway~
+You walk down the royal hallway, the second guards post is here.  To
+your west and east you can see many guards aiming all sorts of weapons
+at your throat.  Most raider guards are quite protective of their
+king, considering if he gets hurt they get killed.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16860 0
+D2
+~
+~
+0 0 16858 0
+S
+#16860
+Guard Room~
+You walk into a very large guard room, many guards can be patroling
+this area at one time.  Although the attack on the new king is really
+quite common, the raider guards are usually loyal to their royal king.
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16862 0
+D1
+~
+~
+0 0 16861 0
+D3
+~
+~
+0 0 16859 0
+S
+#16861
+Guard Room~
+You walk into a guard room, most of the guards in this room are
+actually napping.  They don't seem to actually care much about their
+king, this room has most of the raider traitors in it.  The raiders
+are glad that you were not one of the loyal raider guards, because
+then they would be executed instantly.    
+~
+168 8 0 0 0 0
+D3
+~
+~
+0 0 16860 0
+S
+#16862
+Royal Hallway~
+The raider forces are great troops.  They have won many a battle in
+their day.  The raider king is one of the many commanders of the
+military.  The king is unlike most kings, he doesn't sit back and
+watch his commanders do all the work, he helps.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16863 0
+D2
+~
+~
+0 0 16860 0
+S
+#16863
+Royal Hallway~
+The royal hallway is a warm carpeted hall.  Many raider guards march
+back and forth down this hallway, it is very important for the guards
+to be alert, not all of the kings people like him.  Many raiders
+actually hate their king, for him sending off their good men to battle
+every week, and day.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16864 0
+D2
+~
+~
+0 0 16862 0
+S
+#16864
+Royal Hallway~
+The royal hallway that you walk on branches off to the guard rooms.  
+These rooms contain the most guards, because they are so close to the
+king.  This is the last line of defence for the king, not that the
+king needs it, he is a very well trained soldier of war.    
+~
+168 8 0 0 0 0
+D0
+~
+~
+0 0 16867 0
+D1
+~
+~
+0 0 16865 0
+D2
+~
+~
+0 0 16863 0
+D3
+~
+~
+0 0 16866 0
+S
+#16865
+Guard Room~
+Many guards stand alert in this room, if any guard is caught sleeping,
+or not paying attention, in this room, they are instantly killed.  
+Many guards are killed every month, considering many of the killed
+guards aren't even loyal to the king, most of the other soldiers agree
+with the acts of the king.    
+~
+168 8 0 0 0 0
+D3
+~
+~
+0 0 16864 0
+S
+#16866
+Guard Room~
+The guard rooms are put where they are to protect their king, although
+no full assault force has made it past the first circle hall, they
+still stay alert just outside the kings room.    
+~
+168 8 0 0 0 0
+D1
+~
+~
+0 0 16864 0
+S
+#16867
+Kings Room~
+You walk into the kings room, the room is full of scattered maps and
+battle plans.  The king has a sword hung above his throne.  He is
+truly the king of war, there are a few pictures of past kings, but all
+the pieceful kings have been taken off the walls.  The raider king is
+not very fond of anyone but his own people, everyone else is
+considered a trader to him, and must be destroyed.  The king doesn't
+take any prisoners, so he doesn't have any cells, all of his enemys
+are executed, most of the time in public.  The king doesn't take any
+prisoners, so he doesn't have any cells, all of his enemys are
+executed, most of the time in public.    
+~
+168 65544 0 0 0 0
+D0
+~
+~
+0 0 16899 16
+D2
+~
+~
+0 0 16864 0
+S
+#16868
+Training Field~
+You walk out into the cool air.  The field is covered with training
+soldiers, they practice as much as they can, being a good soldier in
+the raider culture means being a high rated person in sociaty.    
+~
+168 8 0 0 0 2
+D0
+~
+~
+0 0 16869 0
+D1
+~
+~
+0 0 16876 0
+D2
+~
+~
+0 0 16875 0
+D3
+~
+~
+0 0 16854 0
+S
+#16869
+Training Field~
+You walk onto a field with soldiers fighting out their hearts, many
+using wooden tools, but some using metal.  They train so hard the
+occasional death does occur.  Raiders practice the art of war more
+than any other race in the world, they would match the might of anyone
+they meet.    
+~
+168 8 0 0 0 2
+D1
+~
+~
+0 0 16870 0
+D2
+~
+~
+0 0 16868 0
+S
+#16870
+Training Field~
+You watch as the many soldiers training practice many different battle
+tactics they were taught during the initial battle classes.  These
+soldiers are the most educated in the category of war all around the
+world, taking one of these lovely fellows on one on one, could be the
+quickest way to ending ones life.    
+~
+168 0 0 0 0 2
+D1
+~
+~
+0 0 16871 0
+D2
+~
+~
+0 0 16876 0
+D3
+~
+~
+0 0 16869 0
+S
+#16871
+Training Field~
+The flowing grass, and the creak of the trees, make you feel like you
+are in a nice friendly forest, but when you look around at the chaos,
+the sight is amazingly sick.  Tribes and other groups of soldier have
+tried to end the pain and suffering that the raiders have caused, but
+most end the same way, in defeat and slavery.    
+~
+168 0 0 0 0 2
+D2
+~
+~
+0 0 16872 0
+D3
+~
+~
+0 0 16870 0
+S
+#16872
+Training Field~
+The brilliant light shining off the swords of raider soldiers blind
+you.  The raiders don't even seem to notice you standing their
+watching them train.  They fear no one, and nothing, not even death.
+~
+168 0 0 0 0 2
+D0
+~
+~
+0 0 16871 0
+D1
+~
+~
+0 0 16853 0
+D2
+~
+~
+0 0 16873 0
+D3
+~
+~
+0 0 16876 0
+S
+#16873
+Training Field~
+You walk on the worn grass of the training field, wooden splinters and
+left over pieces of broken equipment and weapons scatter the ground,
+training in one of the raider fields isn't a joke.    
+~
+168 0 0 0 0 2
+D0
+~
+~
+0 0 16872 0
+D3
+~
+~
+0 0 16874 0
+S
+#16874
+Training Field~
+You walk on the worn grass of the training field, many injured
+soldiers are scattered around, their training of battle tactics
+haven't proven to be successful against trained soldiers.  The best
+trained soldiers are ready for all sorts of tricks one has to offer.
+~
+168 0 0 0 0 2
+D0
+~
+~
+0 0 16876 0
+D1
+~
+~
+0 0 16873 0
+D3
+~
+~
+0 0 16875 0
+S
+#16875
+Training Field~
+You walk down a worn path, it travels around the training field.  
+Many soldiers march this barren trail.  Soldiers who wish to be
+trained are struck down by their own masters in the training field, if
+you don't know your tactics, you shall not fight.    
+~
+168 0 0 0 0 2
+D0
+~
+~
+0 0 16868 0
+D1
+~
+~
+0 0 16874 0
+S
+#16876
+Training Field~
+You walk into the center of the training field, in all directions you
+can see the training of soldiers happening.  You can watch as weapons
+of mass destruction are practiced.  This is a grim sight, for one who
+doesn't like war.    
+~
+168 0 0 0 0 2
+D0
+~
+~
+0 0 16870 0
+D1
+~
+~
+0 0 16872 0
+D2
+~
+~
+0 0 16874 0
+D3
+~
+~
+0 0 16868 0
+S
+#16877
+Room of Talisman~
+You walk into the small marble room, this room seems to have been
+constructed with more care then the rest.  The marble walls are laced
+with some kind of magic protection spell.  The walls of this room are
+covered with ancient pictures of old wizards and mages.  You scan the
+rest of the room, you discover a small pot in the corner, only it is
+not food which is being cooked.  The smell of rotten human flesh makes
+you sick!  Your only instinct is to flee from the scene, but you know
+you stumbled upon this room for a reason.    
+~
+168 33554632 0 0 0 0
+D1
+~
+Door~
+1 0 16852 1
+S
+#16899
+In honour of the Queen~
+The floor in this room is completely empty, except a large statue in
+the middle shining with glory.  There are paintings on the walls
+resembling a queen and her king.  The marble stones that the floor is
+made of shines bright white, with a touch of darkness in them,
+memories from the past.  There are candles hanging in the roof,
+lighting up the room.    
+~
+0 2097160 0 0 0 0
+D2
+~
+~
+0 0 16867 16
+E
+statue queen raider~
+The statue is made of marble stones and diamonds, with details in gold
+and silver.  The hands of the statue is held out togheter, looking
+like it is waiting for something to be given to it.    
+~
+S
+$~

@@ -1,0 +1,110 @@
+#11200
+marker~
+/cwthe /cGquest room/cR marker/c0~
+/cRIn the city where the /ccsilver knights/cR keep ever vigil, the first marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11201
+marker zone 57 silverthorne~
+/cwthe /ccSilverthorne/cR marker/c0~
+/cRBarghest and corpse candles roam the Dark and Sinister place where the next marker can be found./c0~
+Nothing.
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11202
+marker zone 14 Dark and Sinister Forest~
+/cwthe /ccDark and Sinister Forest/cR marker/c0~
+/cRGoldmoon and Riverwind war with the Fewmaster on the shores of this tranquil place where the next marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11203
+marker zone 76 crystalmir lake~
+/cwthe /ccCrystalmir Lake/cR marker/c0~
+/cRTakker and his disciples await their next catch at the entrance to the place where the next marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11204
+marker zone 150 Lighthouse~
+/cwthe /ccLighthouse/cR marker/c0~
+/cRThe next marker can be found in the same area as the Leader of a Cult who resides at the fringes of the Plains of Blood in an old asylum./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11205
+marker zone 318 Bear Cult~
+/cwthe /ccBear Cult/cR marker/c0~
+/cRSt. Murphy holds sway over the island where the next marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11206
+marker zone 2 st murphy's isle~
+/cwthe /ccSt. Murphy's/cR marker/c0~
+/cRThe Baroness is quite a socialite. In her keep is where the next marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11207
+marker zone 103 Baroness Landestine~
+/cwthe /ccBaroness Landestine's/cR marker/c0~
+/cRGreat Caesar makes his home in the city where the next marker can be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11208
+marker zone 78 rome~
+/cwthe /ccRome/cR marker/c0~
+/cRArmies on the eastern fringes keep watch where the next marker might be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11209
+marker zone 18 Eastern Army Perimeter~
+/cwthe /ccEastern Army/cR marker/c0~
+/cREntertainers, tinkerers, gypsies - all of them make their home and living where the last marker and the prize for the quest might be found./c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11210
+marker zone 23 gypsy festival~
+/cwthe /ccGypsy Festival/cR marker/c0~
+/cRYou have found the last marker! You win!/c0~
+~
+12 67108864 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11299
+deed dibrovan grasslands~
+the deed to the Dibrovan Grasslands~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+112 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

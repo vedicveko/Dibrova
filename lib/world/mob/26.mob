@@ -1,0 +1,1009 @@
+#2600
+Haggler~
+a Haggler~
+A shrewd looking man runs back and forth shouting out prices for wares.
+~
+This is someone you wouldnt trust alone with your things for even a
+second.  Shifty, beedy eyes dart about nervously.  Quick hands, always
+ready for a opportune moment to lift something.  The haggler is
+actually a thief in disguise.    
+~
+6158 0 0 0 2048 0 0 0 -300 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 19
+Luck: 12
+Class: 3
+Race: 14
+E
+#2601
+Peasant~
+a Peasant~
+A poor peasant wanders about.
+~
+The peasant has been working hard in the fields all day.  He is now
+taking a break from all that labor.    
+~
+6284 0 0 0 0 0 0 0 400 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 6
+Luck: 12
+Class: 12
+Race: 14
+E
+#2602
+Blacksmith~
+the Blacksmith~
+This big brute of a man will craft or repair anything for you.
+~
+Rippling muscles and a broad back make this man intimidating to most
+folks.  Raising the hammer, he strikes yet another blow to the hot
+metal.    
+~
+6174 0 0 0 2128 0 0 0 800 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 9
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 24
+Luck: 12
+Race: 14
+E
+#2603
+stable master man~
+the Stable Master~
+A grumpy man stands here, complaining about the weather.
+~
+The stable master is a dour man.  Despite his grumblings, his
+twinkling eyes reveal that he is a kind man at heart.  He has never
+mistreated anyone or any animal.  However, that does not mean he wont
+fight hard if any of his loved ones were in danger.    
+~
+6174 0 0 0 2064 0 0 0 400 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 24
+Luck: 12
+Race: 14
+E
+#2604
+Stable Boy~
+a Stable Boy~
+A lanky boy walks by carrying buckets of water to the animals.
+~
+The stable boy truly loves his job.  He tenderly cares for the animals
+who all love him.  Sandy brown hair and dark blue eyes grace his
+appearance.  Tan and well-toned from the hard work outdoors, he is a
+pleasure to have around.    
+~
+6170 0 0 0 2128 0 0 0 500 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 20
+Luck: 12
+Race: 14
+E
+#2605
+hooker~
+a Hooker~
+A woman wearing skimpy clothing beckons you to come to her.
+~
+Not excatly beautiful nor ugly, she offers her body for a price.  
+Only the dieties know why she does this.    
+~
+4236 0 0 0 0 0 0 0 200 E
+11 3 56 1d11+250 1d2+7
+25 2119
+8 8 2
+BareHandAttack: 4
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 6
+Luck: 12
+Race: 14
+E
+#2606
+noble~
+a Noble~
+A noble strides forth.
+~
+Putting on haughty airs, the noble scoffs as you approach him.  He is
+indeed wealthy, especially when you catch a glimpse of the plump
+moneybag he carries.  He must have great faith in the guards of the
+castle to be walking about with so much money.    
+~
+6172 0 0 0 2064 0 0 0 670 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 7
+Luck: 12
+Race: 14
+E
+#2607
+guard royale~
+the Royale Guard~
+A richly dressed guard stands here.
+~
+Do not be fooled by the garbs of the royale guard.  He is a lethal and
+trained killer.  He stands guard, watching for any trouble.    
+~
+6172 0 0 0 2128 0 0 0 1000 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 0
+BareHandAttack: 3
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 22
+Luck: 12
+Class: 10
+Race: 14
+E
+#2608
+Guard~
+a Guardsman~
+A Guardsman sits here.
+~
+A Guardsman sits here looking through some important looking papers.
+His deadly gaze meets yours.
+~
+6170 0 0 0 2128 0 0 0 750 E
+14 4 44 1d14+400 1d2+9
+50 3920
+6 6 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 13
+Luck: 12
+Race: 14
+E
+#2609
+jailer~
+the Jailer~
+A Jailer suddenly appears beside you, sword drawn!!
+~
+A Jailer, dressed in all black, suddenly appears beside you sword
+drawn!!    
+~
+6174 0 0 0 2128 0 0 0 750 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+BareHandAttack: 7
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 12
+Luck: 12
+Class: 4
+Race: 14
+E
+#2610
+Torturer~
+the Torturer~
+A Torturer stands here grinning wickedly.
+~
+A Torturer stands here, grinning wickedly as he considers all the
+fun you and he will have.
+~
+2078 0 0 0 2128 0 0 0 -300 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 9
+Luck: 12
+Class: 9
+Race: 14
+E
+#2611
+Torturer~
+the Senior Torturer~
+The Sr. Torturer stands here awaiting his next victim...YOU!
+~
+The Sr. Torturer is standing here grinning evilly, awaiting his
+next victim...YOU!
+~
+6170 0 0 0 2128 0 0 0 -700 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 24
+Luck: 12
+Class: 9
+Race: 14
+E
+#2612
+master torturer~
+the Master Torturer~
+The Master Torturer waits here.
+~
+The Master Torturer is waiting here, blood dripping from his hands.
+~
+6206 0 0 0 2128 0 0 0 -1000 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 1
+BareHandAttack: 5
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 8
+Luck: 12
+Class: 9
+Race: 14
+E
+#2613
+warden~
+the Warden~
+The Warden is standing here, the keys to your room in her hand.
+~
+The Warden, dressed in a long flowing black robe stands here.  She
+holds the keys to your room in her hand.
+~
+6170 0 0 0 2128 0 0 0 750 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 9
+Luck: 12
+Class: 4
+Race: 14
+E
+#2616
+mother bear~
+the mother Bear~
+A mother bear sleeps here next to her playing cubs.
+~
+Snoring loudly, she tosses about in her sleep as if she was having a 
+nightmare.  It would be a nightmare for you if she ever woke up and saw
+you near her cubs for she has five three inch claws on each paw.
+~
+6174 0 0 0 2128 0 0 0 400 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 2
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Race: 1
+E
+#2617
+cub bear~
+a bear Cub~
+A small cub tumbles playfully while her mother sleeps nearby.
+~
+A furry bundle of joy, the cub poses no danger to you.  You smile as it
+tumbles and frolics with her sister.  
+~
+6170 0 0 0 2128 0 0 0 600 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 2
+BareHandAttack: 8
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 16
+Luck: 12
+Race: 1
+E
+#2618
+doe deer~
+a Doe~
+A doe stands here, eating.
+~
+Sleek and healthy, the doe is quick to run at any sign of danger.  It 
+continues to nibble at the lush grasses, keeping its ears alert for any
+unfriendly sounds.
+~
+6216 0 0 0 0 0 0 0 400 E
+9 2 64 1d9+175 1d3+4
+0 1270
+8 8 2
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 1
+E
+#2619
+grey fox~
+a grey Fox~
+A fox walks by stalking its prey.
+~
+Grey fur, white-tiped ears, and a busy tail give this creature's
+idenity away.  It glances up at you for a brief moment and then
+resumes stalking its prey before the trail gets cold.    
+~
+2120 0 0 0 0 0 0 0 400 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 7
+Luck: 12
+Race: 1
+E
+#2620
+bird~
+a Bird~
+A small bird hops about on the ground and then takes to the air
+~
+Cocking it's head and looking at you, it chitters excitedly and flys
+away.  Landing a short distance from you, it repeats its silly antics.
+~
+2120 0 0 0 0 0 0 0 400 E
+6 1 76 1d6+70 1d2+3
+0 451
+8 8 1
+BareHandAttack: 8
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 18
+Luck: 12
+Race: 3
+E
+#2621
+butterfly~
+a Butterfly~
+A small, colorful butterfly flitters by gracefully.
+~
+It is busy at work looking for sweet nectar.  It only pauses a moment
+to check you out, then it flitters away happily.    
+~
+72 0 0 0 8388608 0 0 0 600 E
+6 1 76 1d6+70 1d2+3
+0 451
+8 8 0
+BareHandAttack: 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 13
+Luck: 12
+Race: 5
+E
+#2622
+pig~
+a wallowing Pig~
+A pig blissfully covered in mud oinks happily.
+~
+Small and rotund, it wallows in the mud.  Oinking happily, it seems like
+it doesnt have a care in the world.
+~
+10 0 0 0 0 0 0 0 400 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 9
+Luck: 12
+Race: 1
+E
+#2623
+cow~
+a lazy Cow~
+A cow, chewing her cud, rests on the ground.
+~
+The cow is no different from any other cow you have seen.  Stupid and
+lazy, they rest here waiting for the stable boy to feed them.    
+~
+262154 0 0 0 0 0 0 0 400 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 2
+BareHandAttack: 7
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 25
+Luck: 12
+Race: 1
+E
+#2624
+draft horse~
+a Draft Horse~
+A draft horse stands here dozing off.
+~
+Muscular and large, the draft horse is enjoying its well-deserved rest
+after having worked hard all day in the fields.    
+~
+262154 0 0 0 0 0 0 0 400 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 1
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 22
+Luck: 12
+Race: 52
+E
+#2625
+war horse~
+a War Horse~
+A battle-scarred horse nieghs impatiently.
+~
+Scars from countless battles decorate the horse's hide.  It paws at
+the ground, anxious to get out into the open again.    
+~
+262154 0 0 0 0 0 0 0 400 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 2
+BareHandAttack: 9
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 23
+Luck: 12
+Race: 52
+E
+#2626
+baker~
+the Baker~
+A fine baker stands here selling his latest new baked goods.
+~
+He looks very tired, after all he has to get up very early in the
+morning so he can sell you those wonderful breads you love to eat.  
+~
+2074 0 0 0 2128 0 0 0 1000 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Race: 14
+E
+#2627
+squire~
+a Squire~
+A young aspiring squire stands here.
+~
+The squire awaits here for his master to return.  As he waits, he is
+busy polishing the knight's armor.  Someday this squire shall join the
+ranks of knighthood and be able to join the festivities outside.    
+~
+6158 0 0 0 0 0 0 0 600 E
+9 2 64 1d9+175 1d2+6
+15 1270
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+Class: 12
+Race: 14
+E
+#2628
+weaponsmith~
+the Weaponsmith~
+A man sits behind the counter, twirling a dagger absent-mindedly.
+~
+The weaponsmith is a tall, thin man sporting a neatly trimmed goatee.
+He once was a Man-for-hire who has traveled all over the realm.  He is
+now retired and applies his extensive knowledge in a new trade...  
+Business.    
+~
+2074 0 0 0 2128 0 0 0 1000 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 21
+Luck: 12
+Race: 14
+E
+#2629
+armorer~
+the Armorer~
+A beautiful woman with a scar on her face is busily linking iron rings together.
+~
+Once a reknown warrior, she has retired to making armors after a freak 
+accident blinded her in one eye.  Thats how the long scar got on her face.
+~
+10 0 0 0 0 0 0 0 1000 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 24
+Luck: 12
+Race: 14
+E
+#2630
+baker's wife~
+the baker's Wife~
+A smiling woman greets you as you enter the room.
+~
+This is the woman to which the credit belongs for making the delicious
+baked goods that you see here.  Her husband merely sells and overlooks
+the other aspects of the bakery.    
+~
+2074 0 0 0 2128 0 0 0 1000 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 25
+Luck: 12
+Race: 14
+E
+#2631
+King Jorus~
+King Jorus~
+An imposingly-built man wearing regal robes paces the room.
+~
+He is a kind and generous man who has ruled Midan for a long time.  
+Under his rule, the kingdom has seen nothing but prosperity...  Until
+now.  Recent reports of crop failure and sickness siezing the lands
+has been weighing heavily on his mind as of late.    
+~
+6170 0 0 0 2384 0 0 0 1000 E
+23 9 8 1d23+1600 1d4+15
+150 15293
+8 8 1
+BareHandAttack: 3
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 18
+Luck: 12
+Class: 4
+Race: 14
+E
+#2632
+queen elsa~
+Queen Elsa~
+A woman of grace and beauty arises and greets you kindly.
+~
+Queen Elsa has been married and remained faithful to her husband for
+thirty-two years.  A kind and generous woman, she is quick to lend a
+hand to those who need it.  She has been the mastermind behind the
+court politics, while her husband handled the affiars outside the
+castle.    
+~
+22554 0 0 0 67920 4194304 0 0 1000 E
+23 9 8 1d23+1600 1d4+15
+150 15293
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Class: 2
+Race: 14
+E
+#2633
+mercenary~
+a Mercenary~
+A mercenary wanders about looking for ways to make easy money.
+~
+The mercenary is more of a thief than a warrior.  He can fight well to
+save his skin, but he would rather let someone else so the fighting.
+After all, it is easier to loot a corpse than it is to loot from a
+live person.    
+~
+6168 0 0 0 2128 0 0 0 -500 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 5
+Luck: 12
+Class: 3
+Race: 14
+E
+#2634
+Cut-throat~
+a Cut-throat~
+Someone slinks among the shadows.
+~
+This woman moves with such stealth, she probably could walk through a
+room full of dried leaves and approach someone undetected.  Such a
+skill has provided useful for her in her forays.    
+~
+6668 0 0 0 1048592 0 0 0 -600 E
+11 3 56 1d11+250 1d2+7
+25 2119
+8 8 2
+BareHandAttack: 14
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 14
+E
+#2635
+squire~
+a Squire~
+A young aspiring squire stands here.
+~
+A tall girl stands here, busily sharpening weapons.  One of the few to
+buck the traditionally male-dominated knighthood, she does not seem
+daunted by the task before her.  In fact, she accepts and enjoys the
+challenge.    
+~
+6158 0 0 0 0 0 0 0 0 E
+9 2 64 1d9+175 1d2+6
+15 1270
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 24
+Luck: 12
+Class: 12
+Race: 14
+E
+#2636
+trainer grizzled veteran~
+the Trainer~
+A grizzled veteran of many wars looks up as you enter the tent.
+~
+Waving a blood-soaked hand, he bids you welcome to his tent.  Quickly
+scanning about you, he realizes that you are not in any need of
+medical attention and returns to cleaning the surgical instruments.  
+Strong and sure hands show that the Trainer is not only adept with
+surgical items, but with weapons as well.    
+~
+6170 0 0 0 2128 0 0 0 800 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+BareHandAttack: 11
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 8
+Luck: 12
+Class: 8
+Race: 14
+E
+#2637
+Paladin~
+the Paladin~
+A tall, lithe woman sits at her desk, organizing the day's events.
+~
+The mightiest fighter in all of Midan is not what one expected from
+what the legends mention.  For starters, she is not cruel nor
+battle-worn.  She is pleasant and her skills at battle is what keeps
+her looking intact and beautiful.  A dirk and dagger lie at her belt,
+as well as a broadsword resting upright aside the desk.    
+~
+6426 0 0 0 10584 0 0 0 1000 E
+16 5 36 1d16+600 1d3+10
+75 6061
+6 6 2
+BareHandAttack: 3
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 20
+Luck: 12
+Class: 6
+Race: 14
+E
+#2638
+knight white rose~
+the Knight of the White Rose~
+A knight in brilliant white armor smiles upon you as you enter the tent.
+~
+A dear friend of the Paladin, he has traveled from afar to help with
+organinzing the Training Grounds.  Although not a tall nor muscular
+man, he moves about with the gracefulness of a cat.  His eyes notice
+everything that moves about.  A veteran of many battles, he knows no
+fear.    
+~
+7194 0 0 0 268437848 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+50 5141
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 16
+Luck: 12
+Class: 4
+Race: 14
+E
+#2639
+man fame~
+a Man-of-Fame~
+A man driven by bloodlust jumps at you!
+~
+A shady character who no one trusts completely, the man-of-fame will
+do whatever he can to gain attention.  What he often does isn't always
+good, but as long as people notice him, he will do it nonetheless.  
+~
+7192 0 0 0 2136 0 0 0 800 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 7
+Luck: 12
+Race: 14
+E
+#2640
+wandering knight~
+a wandering Knight~
+A knight, new to these lands, assumes a defensive stance as you approach.
+~
+Having heard of the fabled Training Grounds for knights, he has come
+from a long way to arrive here.  With lofty goals of becoming famous
+someday, he hones his skills.    
+~
+6232 0 0 0 2128 0 0 0 1000 E
+13 4 48 1d13+350 1d2+8
+25 3245
+8 8 1
+BareHandAttack: 7
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 15
+Luck: 12
+Class: 4
+Race: 14
+E
+#2641
+leech~
+a Leech~
+A large, black creature swims up to the surface and suddenly dives back down.
+~
+This leech is larger than your average leech.  Reaching a length of
+three feet, this is not something you would want attached to your leg
+sucking you empty of blood!    
+~
+67109064 0 0 0 64 0 0 0 300 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 16
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 12
+Race: 4
+E
+#2642
+moat monster~
+the Moat Monster~
+A hulking monster emerges from the murky depths and lunges towards you.
+~
+Huge and reptilian, the moat monster is made for life in the moat.  
+Large eyes help it see in the darkness and a powerful tail propels it
+through the water with ease.  Four muscular arms and two legs make
+this monster a handful in a fight.    
+~
+2090 0 0 0 64 0 0 0 -200 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 0
+BareHandAttack: 4
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 16
+Luck: 12
+E
+#2643
+stag male~
+the Stag~
+A noble Stag snorts at you as you approach.
+~
+The stag sports a massive twelve-point rack.  Having been hunted by
+humans for his rack, the stag has grown wary of humans.    
+~
+530552 0 0 0 0 0 0 0 400 E
+11 3 56 1d11+250 1d4+5
+0 2119
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 7
+Luck: 12
+Race: 1
+E
+#2644
+Manager general Rizzo~
+Rizzo the general store manager~
+Rizzo stands next to his cart selling general goods here.
+~
+Rizzo is a retired army veteran, who has returned to his family
+heritage of selling general goods.  Though he has aged somewhat, his
+strength and grace is still evident in his carriage and movements.  
+~
+72 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d50+6000 3d3+20
+250 27376
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 22
+Luck: 12
+Race: 14
+E
+#2645
+knight black thorn~
+the Knight of Black-thorn~
+With an angry snarl, a knight dressed in black challenges you to a fight!
+~
+Forever banned from the enclave of Paladins for committing horrible
+crimes against the realm, the Knight of the Black-thorn embraces evil.
+Firey eyes show that he lives for the thrill and joy of killing at all
+costs.    
+~
+174618 0 0 0 18792 0 0 0 -1000 E
+15 5 40 1d15+500 1d3+10
+50 5141
+8 8 1
+BareHandAttack: 12
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 12
+Luck: 12
+Class: 9
+Race: 14
+E
+$

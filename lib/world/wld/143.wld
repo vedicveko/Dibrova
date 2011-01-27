@@ -1,0 +1,889 @@
+#14300
+Pet Storage (Zeinia)~
+Empty~
+143 0 0 0 0 0
+S
+#14301
+Elite Pets Counter~
+The walls are draped with classy gold and black wall hangings.  A
+magical curtain hangs off to one side, next to the dark marble counter
+in the center of the room.  Affixed to the top of the counter is an
+ornate golden plaque.    
+~
+143 536870992 0 0 0 0
+D3
+You see the entrance room to the west.
+~
+~
+0 -1 14299 0
+E
+marble counter golden plaque~
+
+         -= Pets for the Experienced Adventurer =-
+
+        Type 'list' to see what we currently have in stock.
+        Type 'buy' to purchase the pet of your choice!
+~
+E
+magical curtain~
+A sign above the curtain reads:  "Employees Only".
+~
+S
+#14302
+Pet Storage (Zeinia elite)~
+Empty~
+143 0 0 0 0 0
+S
+#14303
+Shadowy Tunnel~
+You stand in a narrow tunnel hewn of dark stone.  A dark ladder,
+almost invisible against the north wall, ascends to an opening in the
+ceiling above.  The tunnel continues east.    
+~
+143 603979776 0 0 0 0
+D1
+The tunnel continues eastward.
+~
+~
+0 -1 14304 0
+D4
+An opening is visible above.
+~
+trapdoor trap door~
+1 -1 14281 3
+S
+#14304
+Shadowy Tunnel~
+The tunnel bends south and west here.  Your footfalls seem unaturally
+loud in the silence.    
+~
+143 603979776 0 0 0 0
+D2
+The tunnel darkens to the south.
+~
+~
+0 -1 14305 0
+D3
+The tunnel continues west.
+~
+~
+0 -1 14303 0
+S
+#14305
+Dead End~
+The stone tunnel dead ends here.    
+~
+143 603979776 0 0 0 0
+D0
+The tunnel continues northward.
+~
+~
+0 -1 14304 0
+D1
+The faint outline of a doorway is visible in the stone wall to the east.
+~
+stone door~
+2 14302 14306 15
+S
+#14306
+Dark Hallway~
+Black stone arcs overhead to form a narrow hallway.  The stone seems
+unnaturally smooth, devoid of the pick and chisel marks which usually
+mar tunnels hewn in stone.  The hallway branches east and south here.
+~
+143 603979776 0 0 0 0
+D1
+The hallway continues east.
+~
+~
+0 -1 14307 0
+D2
+The hallway continues south.
+~
+~
+0 -1 14309 0
+D3
+The outline of an opening is visible in the rock wall to the west.
+~
+stone door~
+2 14302 14305 15
+S
+#14307
+Dark Hallway~
+The dark stone walls gleam eerily in the faint light.  A narrow wooden
+doorway is set into the northern wall.    
+~
+143 603979776 0 0 0 0
+D0
+A plain wooden door opens northward.
+~
+door wooden~
+1 -1 14308 3
+D3
+The hallway continues west.
+~
+~
+0 -1 14306 0
+S
+#14308
+Small Chamber~
+You find yourself in a plain square chamber about 8 meters in width.
+The sole furnishings are four narrow wooden bunks, a basin, and a
+small bookshelf and desk.  A single torch above the desk casts a faint
+flickering light across the room.    
+~
+143 536870912 0 0 0 0
+D2
+A plain wooden door is set into the south wall.
+~
+door wooden~
+1 -1 14307 3
+E
+furnishings bunks basin bookshelf shelf desk~
+The furnishings are well plain, but well made.
+~
+E
+torch~
+The torch is mounted in a small, unadorned brass sconce.
+~
+S
+#14309
+Dark Hallway~
+Your footsteps echo eerily in the silent corridor.  A plain wooden
+door is set into the west wall, and the hallway continues east and
+north.    
+~
+143 603979776 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 14306 0
+D1
+The hallway continues east.
+~
+~
+0 -1 14312 0
+D3
+A plain wooden door opens westward.
+~
+door wooden~
+1 -1 14310 3
+S
+#14310
+Sleeping Quarters~
+You stand at the northern end of a long stone walled room.  Bunk beds
+line the western wall.  Space along the remaining walls is filled with
+plain wooden desks and bookcases and several chests and hooks for
+clothing and personal belongings.  Torches, spaced infrequently along
+the walls, light the room with a flickering glow.  A wooden door exits
+the chamber to the east.    
+~
+143 536870912 0 0 0 0
+D1
+A plain wooden door is set into the eastern wall.
+~
+door wooden~
+1 -1 14309 3
+D2
+The room continues south.
+~
+~
+0 -1 14311 0
+E
+torch torches~
+Plain wooden torches are affixed to the walls.
+~
+E
+beds desks bookcases chests hooks belongings~
+The furnishings and equipment are of little value.
+~
+S
+#14311
+Sleeping Quarters~
+You stand at the southern end of a long stone walled room.  Bunk beds
+line the western wall.  Space along the remaining walls is filled with
+plain wooden desks and bookcases and several chests and hooks for
+clothing and personal belongings.  Torches, spaced infrequently along
+the walls, light the room with a flickering glow.    
+~
+143 536870912 0 0 0 0
+D0
+The chamber continues north.
+~
+~
+0 -1 14310 0
+E
+torch torches~
+Plain wooden torches are affixed to the walls.
+~
+E
+beds desks bookcases chests hooks belongings~
+The furnishings and equipment are of little value.
+~
+S
+#14312
+Dark Hallway~
+Strange pock marks mar the glassy surface of the northern wall of the
+hallway here, opposite a large oaken door set into the south wall.  
+The door itself is slightly charred around the edges and appears to
+have been recently replaced.    
+~
+143 603979776 0 0 0 0
+D1
+The hallway continues east.
+~
+~
+0 -1 14316 0
+D2
+A charred oaken door is set into the south wall.
+~
+door charred oaken~
+1 -1 14313 3
+D3
+The hallway continues west.
+~
+~
+0 -1 14309 0
+S
+#14313
+Smokey Room~
+You stand in a large stone room centered by two long oaken tables.  A
+low bookcase stacked with tomes stands against the western wall.  A
+light smoke seems to have permanently settled in the room, dulling the
+glassy black walls to a dark gleam.  Burn marks score both tables and
+the oaken door in the north wall.  A smaller door, also slightly
+charred, opens southward.    
+~
+143 536870912 0 0 0 0
+D0
+An oaken door is set into the north wall.
+~
+door charred oaken~
+1 -1 14312 3
+D2
+A plain wood door opens southward.
+~
+door wood~
+1 -1 14314 3
+D3
+Books line the low bookcase to the west.
+~
+bookcase book case~
+1 -1 14315 3
+E
+bookcase book case~
+The faint shimmer of a protective shield hangs above the bookcase.
+~
+S
+#14314
+Bare Stone Room~
+Faint torchlight flickers over a plain stone room, furnished only by
+several charred wooden targets affixed to the walls.  A plain wood
+door leads north.    
+~
+143 536870912 0 0 0 0
+D0
+A plain wood door is set into the north wall.
+~
+door wood~
+1 -1 14313 3
+E
+wooden targets~
+The targets, vaguely human shaped, are crisscrossed by burn marks.
+~
+S
+#14315
+Laboratory~
+Acrid smoke fills the air, nearly choking you.  Long workbenches line
+the north, west, and south walls, covered with open tomes and racks of
+strange instruments, apparently experiments in progress.  The center
+table bears pieces of armor and weaponry.  To the east, a tall
+bookcase stands against the wall.    
+~
+143 536870912 0 0 0 0
+D1
+A tall bookcase fills the eastern wall.
+~
+bookcase book case~
+1 -1 14313 3
+E
+armor weaponry~
+Pieces of leather and chain armor and lethal looking stilettos
+and blades lay on the tabletop, awaiting enchantment by Zdreni mages.
+~
+E
+workbenches tomes racks instruments experiments~
+The blue-white haze of a protective shield hovers over everything.
+~
+S
+#14316
+Dark Hallway~
+The hallway leads east and west here.  Wooden doors are set into the
+walls to the north and south.    
+~
+143 603979776 0 0 0 0
+D0
+An oak door opens northward.
+~
+door oak~
+1 -1 14317 3
+D1
+The hallway continues east.
+~
+~
+0 -1 14321 0
+D2
+A dark mahogany door opens southward.
+~
+door dark mahogany~
+1 -1 14319 3
+D3
+The hallway continues west.
+~
+~
+0 -1 14312 0
+S
+#14317
+Instruction Area~
+You stand in a large stone chamber.  An empty weapons rack hangs
+against the western wall.  Doors open east and south.    
+~
+143 603979776 0 0 0 0
+D1
+A plain wooden door is set into the eastern wall.
+~
+door wooden~
+1 -1 14318 3
+D2
+An oak door opens southward.
+~
+door oak~
+1 -1 14316 3
+E
+weapons rack~
+The rack is designed to hold a wide variety of weapons.  It appears to
+be empty at the moment.
+~
+S
+#14318
+Practice Area~
+Scuffed sand covers the floor this large chamber.  Several humanoid
+shaped cloth figures stand against the walls.  A plain wooden door is
+set into the western wall.    
+~
+143 603979776 0 0 0 0
+D3
+A wooden door opens westward.
+~
+door wooden~
+1 -1 14317 3
+E
+humanoid cloth figures~
+Slashes disfigure the cloth figures.  You notice that several rather
+well aimed holes mar the backs of the figures, and some have been
+beheaded at the neck.
+~
+S
+#14319
+Laboratory~
+The acrid odor of smoke mingles with several noxious and less
+identifiable fumes, forcing you to close your eyes momentarily against
+the stinging.  Wooden tables line the walls and center of the floor,
+covered with beakers and fluid filled constructions of glass tubing
+and test tubes.  A narrow steel door is set into the southern wall,
+and a dark mahogany door opens northward.    
+~
+143 603979776 0 0 0 0
+D0
+A dark mahogany door opens northward.
+~
+door dark mahogany~
+1 -1 14316 3
+D2
+A narrow steel door opens southward.
+~
+door steel~
+2 14303 14320 15
+S
+#14320
+Testing Room~
+The putrid odor of unwashed and dying bodies permeates the room.  Two
+rows of long, narrow tables line the center, some occupied by bodies.
+A narrow steel door is set into the northern wall.    
+~
+143 603979776 0 0 0 0
+D0
+A narrow steel door leads north.
+~
+door steel~
+2 14303 14319 15
+E
+tables bodies~
+Bodies, mostly humanoid, are strapped to some of the tables.
+Most appear to be in the process of dying, their skins turned
+strange hues of blue and black (and in one case, green). 
+~
+S
+#14321
+Dark Hallway~
+The hallway forks east, west, and south here.    
+~
+143 603979776 0 0 0 0
+D1
+The hallway continues east.
+~
+~
+0 -1 14322 0
+D2
+The hallway continues south.
+~
+~
+0 -1 14329 0
+D3
+The hallway continues west.
+~
+~
+0 -1 14316 0
+S
+#14322
+Dark Hallway~
+The hallway stretches west and east, a dark tunnel of silent, glassy
+black stone.  An oak door is set into the north wall here.    
+~
+143 603979776 0 0 0 0
+D0
+An oak door opens northward.  Carved above the doorknob is a
+depiction of a stiletto.
+~
+door oak~
+1 -1 14323 3
+D1
+The hallway continues east.
+~
+~
+0 -1 14325 0
+D3
+The hallway continues west.
+~
+~
+0 -1 14321 0
+S
+#14323
+Silent Chamber~
+You stand at the southern end of a wide stone chamber.  Well made oak
+beds line the east and western walls, separated by matching desks and
+wardrobes.  An oak door is set into the south wall.    
+~
+143 603979776 0 0 0 0
+D0
+The chamber continues northward.
+~
+~
+0 -1 14324 0
+D2
+An oak door opens south.
+~
+door oak~
+1 -1 14322 3
+E
+beds desks wardrobes~
+The furnishings are plain, but solid and well made.  Wood portions are
+covered by a light coat of varnish.
+~
+S
+#14324
+Silent Chamber~
+You stand at the northern end of a wide stone chamber.  Well made oak
+beds line the east and western walls, separated by matching desks and
+wardrobes.    
+~
+143 603979776 0 0 0 0
+D2
+The chamber continues south.
+~
+~
+0 -1 14323 0
+E
+beds desks wardrobes~
+The furnishings are plain, but solid and well made.  Wood portions are
+covered by a light coat of varnish.
+~
+S
+#14325
+Dark Hallway~
+Wooden doors are set into the black stone walls to the north, south,
+and east.  The hallway stretches westward.    
+~
+143 603979776 0 0 0 0
+D0
+An oak door carved with the depiction of a shortsword is set into the
+north wall.  The black paint of the carving glistens wetly, like poison.
+~
+door oak~
+1 -1 14326 3
+D1
+The mahogany door to the east bears a depiction of a dark, slender
+dagger.
+~
+door mahogany~
+1 -1 14328 3
+D2
+A dark ashwood door carved with the depiction of a shortsword is set into
+the north wall.  The black paint of the carving glistens wetly, like poison.
+~
+door ashwood~
+1 -1 14327 3
+D3
+The hallway continues west.
+~
+~
+0 -1 14322 0
+S
+#14326
+Shadowy Chamber~
+Dark curtains cover the walls, shrouding the chamber in deep shadows.
+The furnishings are simply adorned and well crafted.  An oak door
+exits the room to the south.    
+~
+143 603979776 0 0 0 0
+D2
+An oak door is set into the southern wall.
+~
+door oak~
+1 -1 14325 3
+E
+furnishings~
+The furnishings are finely crafted, if simply adorned.
+~
+S
+#14327
+Shadowy Chamber~
+Dark curtains cover the walls, shrouding the chamber in deep shadows.
+The furnishings are simply adorned and well crafted.  An ashwood door
+exits the room to the north.    
+~
+143 603979776 0 0 0 0
+D0
+An ashwood door is set into the northern wall.
+~
+door ashwood~
+1 -1 14325 3
+E
+furnishings~
+The furnishings are finely crafted, if simply adorned.
+~
+S
+#14328
+Shadowy Chamber~
+Dark curtains cover the walls, shrouding the chamber in deep shadows.
+The furnishings are simply adorned and well crafted.  A mahogany door
+exits the room to the west.    
+~
+143 603979776 0 0 0 0
+D3
+A dark mahogany door is set into the west wall.
+~
+door mahogany~
+1 -1 14325 3
+E
+furnishings~
+The furnishings are finely crafted, if simply adorned.
+~
+S
+#14329
+Dark Hallway~
+The muffled noise of clanging metal is audible through the thick steel
+door to the east, echoing eerily down the quiet hallway.    
+~
+143 603979776 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 14321 0
+D1
+A thick steel door is set into the eastern wall.
+~
+door thick steel~
+1 -1 14330 3
+D2
+The hallway continues south.
+~
+~
+0 -1 14331 0
+S
+#14330
+Forge~
+A shimmering haze of heat permeates the huge circular chamber, almost
+unbearably hot despite several vents to the surface.  Rods and plates
+of dark blue black metal lie stacked in bins against the walls.  A
+forge and several anvils are spaced about the remainder of the room.
+To the west, a thick steel door exits the room.    
+~
+143 536870912 0 0 0 0
+D3
+A thick steel door is set into the western wall of the chamber.
+~
+door thick steel~
+1 -1 14329 3
+E
+rods plates metal bins~
+The shimmer of protective shields cover the bins.
+~
+S
+#14331
+Dark Hallway~
+A dark ashwood door is set into the black stone wall to the east.  
+The hallway continues north and south into darkness.    
+~
+143 603980033 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 14329 0
+D1
+The mahogany door to the east bears a depiction of a dark, slender
+dagger.
+~
+door mahogany~
+1 -1 14332 3
+D2
+The hallway continues south.
+~
+~
+0 -1 14333 0
+S
+#14332
+Shadowy Chamber~
+Dark curtains cover the walls, shrouding the chamber in deep shadows.
+The furnishings are simply adorned and well crafted.  An ashwood door
+exits the room to the west.    
+~
+143 603979809 0 0 0 0
+D3
+An ashwood door is set into the western wall of the chamber.
+~
+door ashwood~
+1 -1 14331 3
+E
+furnishings~
+The furnishings are well crafted and bear a few simple decorations.
+~
+S
+#14333
+Dark Hallway~
+Door open east, west, and south.  The hallway continues northward into
+blackness.    
+~
+143 603980033 0 0 0 0
+D0
+The hallway continues north.
+~
+~
+0 -1 14331 0
+D1
+An oaken door is set into the east wall.
+~
+door oaken~
+2 14304 14336 15
+D2
+An ashwood door is set into the south wall.
+~
+door ashwood~
+1 -1 14335 3
+D3
+A dark mahogany door is set into the west wall.
+~
+door dark mahogany~
+1 -1 14334 3
+S
+#14334
+Dark Chamber~
+You stand in a large, well furnished chamber carved of black stone.  
+A woven black rug covers the floor, softening your footfalls to
+whispers.  A dark mahogany door is set into the eastern wall.    
+~
+143 603979777 0 0 0 0
+D1
+A dark mahogany door opens eastward.
+~
+door dark mahogany~
+1 -1 14333 3
+S
+#14335
+Dark Chamber~
+You stand in a large, well furnished chamber carved of black stone.  
+A woven black rug covers the floor, softening your footfalls to
+whispers.  An ashwood door is set into the north wall.    
+~
+143 603979777 0 0 0 0
+D0
+An ashwood door opens northward.
+~
+door ashwood~
+1 -1 14333 3
+S
+#14336
+Quiet Corridor~
+A dark grey carpet extends the length of the long east west corridor,
+muffling your footfalls and leaving and almost unnerving silence in
+their wake.  An oaken door is set into the western wall.    
+~
+143 606076961 0 0 0 0
+D1
+The corridor continues east.
+~
+~
+0 -1 14337 0
+D3
+An oaken door is set into the west wall.
+~
+door oaken~
+2 14304 14333 15
+E
+grey carpet~
+It appears to be made of some sort of dark woven wool.
+~
+S
+#14337
+Quiet Corridor~
+The dark stone walls gleam sinisterly in the silence.  To the east,
+the corridor terminates at a dark redwood door.  A black oak door is
+set into the south wall.  You notice an inscription above the handle
+of the eastern door.    
+~
+143 606076961 0 0 0 0
+D1
+A dark redwood door stands to the east, its varnished surface gleaming
+like fresh blood in the dim light.  Carved above the door handle is
+a depiction of a stooping hawk over a pair of crossed daggers.
+An inscription below the carving reads:
+
+                Ir'vekire zai'Zdreni
+
+Another inscription, scrawled in blood, reads:
+
+            sh'keva Zdreni zeraika shai !
+
+
+A chill tingles the back of your neck.
+
+~
+door redwood~
+1 -1 14340 3
+D2
+A black oak door is set into the south wall of the corridor.
+~
+door black oak~
+2 14305 14338 15
+D3
+The corridor continues west.
+~
+~
+0 -1 14336 0
+E
+redwood door inscription~
+A dark redwood door stands to the east, its varnished surface gleaming
+like fresh blood in the dim light.  Carved above the door handle is
+a depiction of a stooping hawk over a pair of crossed daggers.
+An inscription below the carving reads:
+
+                Ir'vekire zai'Zdreni
+
+Another inscription, newly scrawled in blood, reads:
+
+            sh'keva Zdreni ke'zeraika shai !
+
+
+A chill tingles the back of your neck.
+
+~
+S
+#14338
+Guarded Corridor~
+You stand in a narrow black stone corridor terminating in doorways at
+both ends.  A shiver of forboding crawls up your spine.    
+~
+143 603979777 0 0 0 0
+D0
+A black oak door is set into the north wall.
+~
+door black oak~
+2 14305 14337 15
+D2
+Double adamantite doors open into the southern wall.
+~
+doors double adamantite~
+2 14306 14339 15
+S
+#14339
+Meeting Chamber~
+Dark velvet curtains drape the black stone walls, absorbing nearly all
+light in the area.  A circular stone table rests in the center of the
+room, around which stand three chairs.  Double adamantite doors are
+set into the northern wall.    
+~
+143 603979776 0 0 0 0
+D0
+Double adamantite doors exit the chamber to the north.
+~
+doors double adamantite~
+2 14306 14338 15
+E
+chairs~
+Three oaken chairs are spaced around the table.
+~
+E
+circular stone table~
+Inlayed in ivory in the dark marble table top is the depiction of two
+crossed daggers.
+~
+E
+dark velvet curtains~
+The curtains seem to absorb the light, leaving the chamber in shrouded in
+shadow.
+~
+S
+#14340
+Crimson Chamber~
+Drapes of dark crimson entirely cover the walls of this chamber,
+gleaming the color of wet blood in the dim light.  A dark marble table
+rests in the center of the room, ringed by five chairs covered with
+the same blood red fabric as the drapes.  A dark redwood door is set
+into the western wall.    
+~
+143 603979776 0 0 0 0
+D3
+A redwood door exits the chamber to the west.
+~
+door redwood~
+1 -1 14337 3
+E
+chairs~
+The chairs are draped in dark crimson velvet.  Each bears the embroidered
+form of a stooping hawk over a pair of crossed daggers.
+~
+E
+marble table~
+A depiction of a stooping hawk over two crossed daggers is inlaid in
+red stone in the black tabletop.
+~
+E
+crimson drapes~
+The dim light reflects off the drapes, permeating the chamber with a
+bloody glow.
+~
+S
+#14399
+Void of Souls~
+You are in an unfinished room.
+~
+0 2162916 0 0 0 0
+D4
+~
+~
+0 0 14271 16
+S
+$~

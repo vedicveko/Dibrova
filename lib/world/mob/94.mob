@@ -1,0 +1,127 @@
+#9400
+crazy chicken~
+the Crazy Chicken~
+A crazy chicken wanders around here, being crazy.
+~
+He looks to have gone crazy from his years in the cornfield.
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 1d24+1800 1d3+4
+0 941
+8 8 0
+BareHandAttack: 8
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Race: 3
+E
+#9401
+insane rooster~
+the Insane Rooster~
+An insane rooster wanders around here, being insane.
+~
+He looks to have gone insane from his years in the cornfield.
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 1d26+2050 1d2+3
+0 669
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 7
+Luck: 12
+Race: 3
+E
+#9402
+insane pig~
+the Insane Pig~
+An insane pig wanders around here, being insane.
+~
+He looks to have gone insane from his years in the cornfieild.
+~
+72 0 0 0 0 0 0 0 -10 E
+8 2 68 1d27+2100 1d3+4
+0 941
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 18
+Luck: 12
+Race: 1
+E
+#9403
+crazy cow~
+the Crazy Cow~
+A crazy cow wander around here, being crazy.
+~
+He looks to be crazy from his years in the cornfield.
+~
+72 0 0 0 0 0 0 0 0 E
+9 2 64 1d28+2150 1d3+4
+0 1270
+8 8 0
+BareHandAttack: 7
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 12
+Luck: 12
+Race: 1
+E
+#9404
+insane bull~
+the Insane Bull~
+An insane bull wanders around here, being insane.
+~
+He looks to have gone insane from all his years in the cornfield.
+~
+16456 0 0 0 65536 4194304 0 0 10 E
+10 3 60 1d29+2200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 7
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 21
+Luck: 12
+Race: 1
+E
+#9405
+mad horse~
+the Mad Horse~
+A horse is walking around here, he looks as if he's gone mad!
+~
+He looks like his years in the cornfield have mad his go MAD!
+~
+262154 0 0 0 0 0 0 0 100 E
+9 2 64 1d30+2250 1d3+4
+0 1270
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Race: 52
+E
+$

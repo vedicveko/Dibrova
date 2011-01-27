@@ -1,0 +1,1871 @@
+#9100
+A Dusty Trail~
+You are heading along a dusty trail that runs toward the town ahead.
+There is a horrid stench detectable even here.  You see a sign up
+ahead.    
+~
+91 32772 0 0 0 2
+D0
+~
+~
+0 -1 9101 0
+D2
+~
+~
+0 -1 9584 0
+E
+sign~
+W E L C O M E    T O    G H O S T T O W N
+
+                       Population : 0
+
+--- This area brought to you by Yaegar on behalf of AnonyMud ---
+
+~
+S
+#9101
+The Town~
+You have reached the Ghost Town, a place rumored to be inhabited by
+the most ghastly of undead, as well as their fell minions.  Should you
+proceed, you may find yourself unable to return home by conventional
+means, and instead have to travel through until you find another means
+of escape.  Your choice.    
+~
+91 32772 0 0 0 1
+D0
+~
+~
+0 -1 9102 0
+D2
+~
+~
+0 -1 9100 0
+S
+#9102
+The Main Street~
+Stepping onto this street, you immediately feel a wave of fear and
+dread wash over you.  Shaking, you collect yourself and prepare to
+advance into this literally god-forsaken area.  Houses line the street
+to the left and right.  Up ahead lies a small town square.    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9106 0
+D1
+~
+door east~
+1 0 9104 3
+D2
+~
+~
+0 0 9101 0
+D3
+~
+door west~
+1 0 9103 3
+S
+#9103
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D1
+~
+door east~
+1 0 9102 3
+S
+#9104
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D3
+~
+door west~
+1 0 9102 3
+S
+#9105
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9108 0
+D1
+~
+~
+0 -1 9106 0
+S
+#9106
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9109 0
+D1
+~
+~
+0 -1 9107 0
+D2
+~
+~
+0 -1 9102 0
+D3
+~
+~
+0 -1 9105 0
+S
+#9107
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9110 0
+D3
+~
+~
+0 -1 9106 0
+S
+#9108
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9111 0
+D1
+~
+~
+0 -1 9109 0
+D2
+~
+~
+0 -1 9105 0
+D3
+~
+~
+0 -1 9114 0
+S
+#9109
+The Well in the Town Square~
+You are standing in the middle of the town square, at the well.  
+Paths stretch past houses and shops in every direction.  There must
+still be some water in the well, as a small amount of grass has
+managed to grow around it.    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9112 0
+D1
+~
+~
+0 -1 9110 0
+D2
+~
+~
+0 -1 9106 0
+D3
+~
+~
+0 -1 9108 0
+S
+#9110
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9113 0
+D1
+~
+~
+0 -1 9124 0
+D2
+~
+~
+0 -1 9107 0
+D3
+~
+~
+0 -1 9109 0
+S
+#9111
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D1
+~
+~
+0 -1 9112 0
+D2
+~
+~
+0 -1 9108 0
+S
+#9112
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9134 0
+D1
+~
+~
+0 -1 9113 0
+D2
+~
+~
+0 -1 9109 0
+D3
+~
+~
+0 -1 9111 0
+S
+#9113
+The Town Square~
+You have come to the Town Square.  You can proceed in several
+directions from here across the square, which is now nothing more than
+a flat square of scorched earth and decimated vegetation, or down one
+of the side streets.  There is a well in the middle of the square.  
+~
+91 40960 0 0 0 1
+D2
+~
+~
+0 -1 9110 0
+D3
+~
+~
+0 -1 9112 0
+S
+#9114
+A Side Street~
+You are advancing along a side street that runs west away from the
+Town Square.  Houses lie to the north and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9115 3
+D1
+~
+~
+0 -1 9108 0
+D2
+~
+door south~
+1 0 9116 3
+D3
+~
+~
+0 -1 9117 0
+S
+#9115
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9114 3
+S
+#9116
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9114 3
+S
+#9117
+A Side Street~
+You are advancing along a side street that runs west away from the
+Town Square.  Houses lie to the north and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9118 3
+D1
+~
+~
+0 -1 9114 0
+D2
+~
+door south~
+1 0 9119 3
+D3
+~
+~
+0 -1 9120 0
+S
+#9118
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9117 3
+S
+#9119
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9117 3
+S
+#9120
+A Side Street~
+You have reached the end of a side street that runs west away from the
+Town Square.  Houses lie to the north, west and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9121 3
+D1
+~
+~
+0 -1 9117 0
+D2
+~
+door south~
+1 0 9122 3
+D3
+~
+door west~
+1 0 9123 3
+S
+#9121
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9120 3
+S
+#9122
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9120 3
+S
+#9123
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D1
+~
+door east~
+1 0 9120 3
+S
+#9124
+A Side Street~
+You are advancing along a side street that runs east away from the
+Town Square.  Houses lie to the north and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9125 3
+D1
+~
+~
+0 -1 9127 0
+D2
+~
+door south~
+1 0 9126 3
+D3
+~
+~
+0 -1 9110 0
+S
+#9125
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9124 3
+S
+#9126
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9124 3
+S
+#9127
+A Side Street~
+You are advancing along a side street that runs east away from the
+Town Square.  Houses lie to the north and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9128 3
+D1
+~
+~
+0 -1 9130 0
+D2
+~
+door south~
+1 0 9129 3
+D3
+~
+~
+0 -1 9124 0
+S
+#9128
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9127 3
+S
+#9129
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9127 3
+S
+#9130
+A Side Street~
+You have reached the end of a side street that runs east away from the
+Town Square.  Houses lie to the north, east and south.    
+~
+91 40960 0 0 0 1
+D0
+~
+door north~
+1 0 9131 3
+D1
+~
+door east~
+1 0 9133 3
+D2
+~
+door south~
+1 0 9132 3
+D3
+~
+~
+0 -1 9127 0
+S
+#9131
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D2
+~
+door south~
+1 0 9130 3
+S
+#9132
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9130 3
+S
+#9133
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D3
+~
+door west~
+1 0 9130 3
+S
+#9134
+Main Street~
+You are heading along Main Street, which heads south to the Town
+Square and North toward an intersection.  Houses line the street.    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9137 0
+D1
+~
+door east~
+1 0 9136 3
+D2
+~
+~
+0 -1 9112 0
+D3
+~
+door west~
+1 0 9135 3
+S
+#9135
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D1
+~
+door east~
+1 0 9134 3
+S
+#9136
+A Ruined House~
+The interior of this house reeks of death.  The dried blood smeared on
+the walls and the piles of bones on the floor bespeak of the fate of
+the former inhabitants of this residence.  The current inhabitants may
+not be so easy to kill...    
+~
+91 40968 0 0 0 0
+D3
+~
+door west~
+1 0 9134 3
+S
+#9137
+An Intersection~
+You are standing at an intersection devoid of houses.  A park looms to
+the northwest of here, while the former residences of the Mayor lie
+directly west.  You aren't sure where the northern path goes, as that
+area is enshrouded in dark fog...    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9155 0
+D2
+~
+~
+0 -1 9134 0
+D3
+~
+~
+0 -1 9138 0
+S
+#9138
+The Road to the Mayor's House~
+This road was at one time spacious and beautiful, but is now cluttered
+with debris and overgrown with tough, gray weeds that have sprouted
+through the carefully-laid cobblestones.  There are junctions to the
+east and west of here.    
+~
+91 40960 0 0 0 1
+D1
+~
+~
+0 -1 9137 0
+D3
+~
+~
+0 -1 9139 0
+S
+#9139
+A Junction~
+At this point, a dirt track runs north toward a dismal-looking garden
+that once flourished with the most beautiful flora on the continent,
+but is now home to the same sickly-gray weeds that sprout through the
+footpath, as well as some very tall, sinister-looking trees.    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9171 0
+D1
+~
+~
+0 -1 9138 0
+D3
+~
+~
+0 -1 9140 0
+S
+#9140
+Outside the Mayor's House~
+The path ends at a decrepit manse that once served as home for the
+Mayor of this town.  Since the incursion of the undead, it has fallen
+into disrepair, though not to the state that the other dwellings have,
+leading you to suspect that perhaps someone (or thing) important now
+resides here...    
+~
+91 40960 0 0 0 1
+D1
+~
+~
+0 -1 9139 0
+D3
+~
+door wesst~
+1 0 9141 3
+S
+#9141
+The Hallway~
+You are advancing along a dimly-lit hall lined with garish paintings
+depicting rather macabre-looking members of some decadent family.  To
+the west lies a crooked stairway that leads up to the next level.  
+Doors lie to the north and south of here.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9143 3
+D1
+~
+door east~
+1 0 9140 3
+D2
+~
+door south~
+1 0 9142 3
+D3
+~
+~
+0 -1 9144 0
+S
+#9142
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9141 3
+S
+#9143
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D2
+~
+door south~
+1 0 9141 3
+S
+#9144
+The Hallway~
+You are advancing along a dimly-lit hall lined with garish paintings
+depicting rather macabre-looking members of some decadent family.  To
+the west lies a crooked stairway that leads up to the next level.  
+Doors lie to the north and south of here.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9146 3
+D1
+~
+~
+0 0 9141 0
+D2
+~
+door south~
+1 0 9145 3
+D3
+~
+~
+0 -1 9147 0
+S
+#9145
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9144 3
+S
+#9146
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D2
+~
+door south~
+1 0 9144 3
+S
+#9147
+The Stairway~
+This crooked staircase looks very unstable, and this, coupled with the
+dreadful stench emanating from upstairs, makes you reluctant to
+proceed...    
+~
+91 40969 0 0 0 0
+D1
+~
+~
+0 -1 9144 0
+D4
+~
+~
+0 -1 9148 0
+S
+#9148
+The Stairway~
+At the top of the stairs you pause to catch your breath, and are
+immediately sorry as horrid-smelling air fills your lungs.  Coughing,
+you fight to breathe, and steel yourself to continue.    
+~
+91 40969 0 0 0 0
+D1
+~
+~
+0 -1 9149 0
+D5
+~
+~
+0 -1 9147 0
+S
+#9149
+The Hallway~
+You are advancing along a dimly-lit hall lined with garish paintings
+depicting rather macabre-looking members of some decadent family.  
+Doors lie to the north and south of here.  The hall ends at an
+impressive portal to the east.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9150 3
+D1
+Nothing.
+~
+door east~
+1 0 9152 3
+D2
+~
+door south~
+1 0 9151 3
+D3
+~
+~
+0 -1 9148 0
+S
+#9150
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D2
+~
+door south~
+1 0 9149 3
+S
+#9151
+A Room in the Mayor's Manse~
+This room reeks of decay, perhaps mainly due to the decaying corpses
+lying about.  Blood has been smeared all over the walls, and a
+sickly-looking vine has crawled in through the broken panes of the
+windows.  You gag and try not to vomit.    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9149 3
+S
+#9152
+The Mayor's Study~
+As you enter this room, you are amazed to notice a complete absence of
+the stench you detected earlier.  In addition, you are further amazed
+to notice the surprisingly good condition of this study, a comfortable
+den lined with shelves full of ancient texts.  A large oak desk
+dominates the room, and behind this sits a plush leather chair.  
+Wonder whose domain this is...?    
+~
+91 40968 0 0 0 0
+D0
+~
+door north~
+1 0 9153 3
+D2
+~
+door south~
+1 0 9154 3
+D3
+~
+door west~
+1 0 9149 3
+S
+#9153
+A Bedroom~
+In this room lies an ornately-carved four poster bed with satin
+sheets.  Opposite it lies a comfortable divan, upon which the maidens
+of the master of this domain usually recline.  A painting on one wall
+catches your eye.    
+~
+91 40969 0 0 0 0
+D2
+~
+door south~
+1 0 9152 3
+E
+painting~
+It is a painting of one Count Philippe Gaspar duGascoigne, a handsome but
+evil-looking gentleman of middle years.
+~
+S
+#9154
+A Bedroom~
+This bedroom is as ruinous as its northern counterpart was lavish, as
+decayed and despoiled as it was well-presented and comfortable.  The
+furniture, while obviously once fine, is now ruined beyond repair.  
+Blood stains coat the walls, and a corpse hangs by a rope from the
+chandelier in the center of the room.  Whoever lives here must have a
+disagreeable personality to say the very least...    
+~
+91 40969 0 0 0 0
+D0
+~
+door north~
+1 0 9152 3
+S
+#9155
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.    
+~
+91 40961 0 0 0 1
+D1
+~
+~
+0 -1 9156 0
+D2
+~
+~
+0 -1 9137 0
+S
+#9156
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9159 0
+D2
+~
+~
+0 -1 9157 0
+D3
+~
+~
+0 -1 9155 0
+S
+#9157
+A Small House~
+The mist clears suddenly, and you find yourself standing outside a
+rather creepy little stone dwelling, with no windows, but a stout oak
+door directly to the east.    
+~
+91 40960 0 0 0 1
+D0
+~
+~
+0 -1 9156 0
+D1
+~
+door east~
+1 0 9158 3
+S
+#9158
+Temporary Residence of a Demon~
+OH NO!  You have inadvertently stumbled upon the temporary Prime
+Material Plane lair of ORCUS!  If he isn't here, leave quickly.  If he
+is...  There is a shimmering portal to his home dimension to the east.
+~
+91 40968 0 0 0 0
+D3
+~
+door west~
+1 0 9157 3
+S
+#9159
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9163 0
+D1
+~
+~
+0 -1 9160 0
+D2
+~
+~
+0 -1 9156 0
+S
+#9160
+A Clearing~
+You have reached an area devoid of mist, the front yard of a ruined
+cottage whose door lies to the east.  Peering through the windows, you
+imagine you can see shapes moving about.    
+~
+91 40961 0 0 0 1
+D1
+~
+door east~
+1 0 9161 3
+D3
+~
+~
+0 -1 9159 0
+S
+#9161
+The Interior of the Cottage~
+This cottage is, as all the other residences of this place, a ruined
+mess.  Broken furniture and decaying corpses litter the floor.  To the
+east, you can see a staircase leading down.    
+~
+91 40961 0 0 0 0
+D1
+~
+~
+0 -1 9162 0
+D3
+~
+door west~
+1 0 9160 3
+S
+#9162
+A Staircase~
+This staircase is an ancient stone structure that looks far older than
+the other structures in the village.  You peer down in an attempt to
+ascertain what may below, but can see only darkness.    
+~
+91 40965 0 0 0 0
+D3
+~
+~
+0 -1 9161 0
+D5
+~
+~
+0 -1 -1 0
+S
+#9163
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9164 0
+D2
+~
+~
+0 -1 9159 0
+S
+#9164
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.  You think you can make out
+a small stone building to the east.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9195 0
+D1
+~
+~
+0 -1 9165 0
+D2
+~
+~
+0 -1 9163 0
+S
+#9165
+Outside The Crypt~
+The small stone building is actually a crypt, which is in good
+condition, not surprising considering the nature of the current
+inhabitants of this ghoulish town.  A large iron door looms to the
+east, and you notice runes inscribed into its surface in silver.    
+~
+91 40964 0 0 0 1
+D1
+~
+door east~
+1 0 9166 3
+D3
+~
+~
+0 -1 9164 0
+E
+runes door~
+The runes on the door read-
+
+  "Here is the final resting place of the Evil Baron Shereck, former
+   tyrant of the Barony of Palem, and his two foul brothers. Imprisoned
+   here by the powerful magic of Xanad, the ArchMage of Jareth, their
+   rest may not be disturbed by their undead allies. Pray, whoever reads
+   this, do not breach this portal, for you will once again unleash their
+   undead madness upon the world."
+~
+S
+#9166
+Inside The Crypt~
+The interior of the crypt is dark, damp and cramped.  It looks as
+though no-one has been here in centuries.  A layer of dust ankle-deep
+makes progress difficult, as do the hanging cobwebs, with strands as
+thick as your wrist.  You hope you don't run into the spinner of these
+webs.    
+~
+91 41089 0 0 0 0
+D3
+~
+door west~
+1 0 9165 3
+D5
+~
+~
+0 -1 9167 0
+S
+#9167
+The Crypt Proper~
+Three doors and a staircase allow escape from this area, and that is a
+prominent urge you have right now as you glance about the hellish
+murals on the walls, and the rotting corpses hanging in metal frames
+from the arched ceiling.    
+~
+91 41089 0 0 0 0
+D0
+~
+door north~
+1 0 9168 3
+D1
+~
+door east~
+1 0 9170 3
+D2
+~
+door south~
+1 0 9169 3
+D4
+~
+~
+0 -1 9166 0
+S
+#9168
+A Room In the Crypt~
+These three resting places that lead off the Crypt's main chamber are
+all identical- a raised stone sarcophagus with a bas-relief of the
+image of its occupant in life embossed on the lid.  Other than that,
+the place is bare.  Or is it...?    
+~
+91 41089 0 0 0 0
+D2
+~
+door south~
+1 0 9167 3
+S
+#9169
+A Room In the Crypt~
+These three resting places that lead off the Crypt's main chamber are
+all identical- a raised stone sarcophagus with a bas-relief of the
+image of its occupant in life embossed on the lid.  Other than that,
+the place is bare.  Or is it...?    
+~
+91 41089 0 0 0 0
+D0
+~
+door north~
+1 0 9167 3
+S
+#9170
+A Room In the Crypt~
+These three resting places that lead off the Crypt's main chamber are
+all identical- a raised stone sarcophagus with a bas-relief of the
+image of its occupant in life embossed on the lid.  Other than that,
+the place is bare.  Or is it...?    
+~
+91 41089 0 0 0 0
+D3
+~
+door west~
+1 0 9167 3
+S
+#9171
+The Path To The Garden~
+This path runs past some very ugly, dead plants that look like they've
+had the life drained from them by some disturbingly healthy looking
+plants with thorns that look like teeth...    
+~
+91 40960 0 0 0 3
+D0
+~
+~
+0 -1 9172 0
+D2
+~
+~
+0 -1 9139 0
+S
+#9172
+The Path To The Garden~
+This path runs past some very ugly, dead plants that look like they've
+had the life drained from them by some disturbingly healthy looking
+plants with thorns that look like teeth.  You suddenly curse as you
+nearly fall into a small hole in the center of the path which was
+partially covered by a nest of branches.    
+~
+91 40964 0 0 0 3
+D0
+~
+~
+0 -1 9173 0
+D2
+~
+~
+0 -1 9171 0
+D5
+~
+~
+0 -1 9174 0
+S
+#9173
+The Path To The Garden~
+This path runs past some very ugly, dead plants that look like they've
+had the life drained from them by some disturbingly healthy looking
+plants with thorns that look like teeth.  The garden gates are
+directly ahead...  Peering through, you become reluctant to enter.  
+It looks like a virtual maze...    
+~
+91 40964 0 0 0 3
+D0
+~
+door north~
+1 0 9177 1
+D2
+~
+~
+0 -1 9172 0
+S
+#9174
+A Bolthole~
+Here the cowardly necromancer Xantharus lurks, terrified of the evil
+he brought to his village.  He would do anything to escape, but is
+currently too petrified to leave his hole.    
+~
+91 40961 0 0 0 0
+D4
+~
+~
+0 -1 9172 0
+S
+#9175
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9180 0
+D1
+~
+~
+0 -1 9176 0
+S
+#9176
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9181 0
+D1
+~
+~
+0 -1 9177 0
+D3
+~
+~
+0 -1 9175 0
+S
+#9177
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9182 0
+D1
+~
+~
+0 -1 9178 0
+D2
+~
+~
+0 0 9173 0
+D3
+~
+~
+0 -1 9176 0
+S
+#9178
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9183 0
+D1
+~
+~
+0 -1 9179 0
+D3
+~
+~
+0 -1 9177 0
+S
+#9179
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9184 0
+D3
+~
+~
+0 -1 9178 0
+S
+#9180
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9185 0
+D1
+~
+~
+0 -1 9181 0
+D2
+~
+~
+0 -1 9175 0
+S
+#9181
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9186 0
+D1
+~
+~
+0 -1 9182 0
+D2
+~
+~
+0 -1 9176 0
+D3
+~
+~
+0 -1 9180 0
+S
+#9182
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9187 0
+D1
+~
+~
+0 -1 9183 0
+D2
+~
+~
+0 -1 9177 0
+D3
+~
+~
+0 -1 9181 0
+S
+#9183
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9188 0
+D1
+~
+~
+0 -1 9184 0
+D2
+~
+~
+0 -1 9178 0
+D3
+~
+~
+0 -1 9182 0
+S
+#9184
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9189 0
+D2
+~
+~
+0 -1 9179 0
+D3
+~
+~
+0 -1 9183 0
+S
+#9185
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9190 0
+D1
+~
+~
+0 -1 9186 0
+D2
+~
+~
+0 -1 9180 0
+S
+#9186
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9191 0
+D1
+~
+~
+0 -1 9187 0
+D2
+~
+~
+0 -1 9181 0
+D3
+~
+~
+0 -1 9185 0
+S
+#9187
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9192 0
+D1
+~
+~
+0 -1 9188 0
+D2
+~
+~
+0 -1 9182 0
+D3
+~
+~
+0 -1 9186 0
+S
+#9188
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9193 0
+D1
+~
+~
+0 -1 9189 0
+D2
+~
+~
+0 -1 9183 0
+D3
+~
+~
+0 -1 9187 0
+S
+#9189
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D0
+~
+~
+0 -1 9194 0
+D2
+~
+~
+0 -1 9184 0
+D3
+~
+~
+0 -1 9188 0
+S
+#9190
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D1
+~
+~
+0 -1 9191 0
+D2
+~
+~
+0 -1 9185 0
+S
+#9191
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D1
+~
+~
+0 -1 9192 0
+D2
+~
+~
+0 -1 9186 0
+D3
+~
+~
+0 -1 9190 0
+S
+#9192
+The Garden~
+You suddenly enter a brightly-lit glade full of towering oaks and
+fresh, green grass.  Here the powers of good have managed to create a
+foothold in this realm of darkness, to aid those stranded or trapped
+here.  You may rest in peace (if you'll pardon the inappropriate
+euphemism) for as long as you wish here.    
+~
+91 41988 0 0 0 3
+D1
+~
+~
+0 -1 9193 0
+D2
+~
+~
+0 -1 9187 0
+D3
+~
+~
+0 -1 9191 0
+S
+#9193
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D1
+~
+~
+0 -1 9194 0
+D2
+~
+~
+0 -1 9188 0
+D3
+~
+~
+0 -1 9192 0
+S
+#9194
+The Garden~
+You find yourself lost in a tangled maze of thorny bushes and rotted
+trees that all seem to move as if with a life of their own.  Howls and
+screams of pain and delight occasionally rent the still air- otherwise
+you are engulfed by a silent dimness that only exaggerates the
+already-eerie quality of your surroundings.    
+~
+91 40961 0 0 0 3
+D2
+~
+~
+0 -1 9189 0
+D3
+~
+~
+0 -1 9193 0
+S
+#9195
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.  You think you can make out
+a small stone building to the east.  A gaping hole looms out of the
+fog in the ground to the right.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9197 0
+D2
+~
+~
+0 -1 9164 0
+D5
+~
+~
+0 -1 9196 0
+S
+#9196
+The Dragon's Lair~
+Dragons of all types, alive or undead, keep certain habits, and one of
+them is how they decorate their lair.  So when you enter and see
+treasure splashed everywhere, along with a generous helping of blood
+and fried corpses, you are at least 90% sure you have entered the lair
+of one...    
+~
+91 40961 0 0 0 0
+D4
+~
+~
+0 -1 9195 0
+S
+#9197
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.  You think you can make out
+a small stone building to the east.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9198 0
+D2
+~
+~
+0 -1 9195 0
+S
+#9198
+A Murky Mist~
+You are plowing through a thick mist that has suddenly enshrouded the
+trail.  You can still make it out beneath your feet, but only barely.
+Howls, screams and shouts of anger and terror ring out on all sides,
+and you feel fear clutching at your heart.  You think you can make out
+a small stone building to the east.  You aren't sure, but you think
+you can see a dark tunnel up ahead.    
+~
+91 40961 0 0 0 1
+D0
+~
+~
+0 -1 9199 0
+D2
+~
+~
+0 -1 9197 0
+S
+#9199
+A Dark Tunnel~
+Can it be?  YES!  An escape route!  From this tunnel emanates the
+sweet smell of green grass and fresh air.  You can clamber through and
+escape, though the tunnel is so narrow you doubt you'd be able to
+return through it.    
+~
+91 40965 0 0 0 1
+D0
+~
+~
+0 -1 4112 0
+D2
+~
+~
+0 -1 9198 0
+S
+$~

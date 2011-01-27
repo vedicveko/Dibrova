@@ -1,0 +1,463 @@
+#15700
+robes black~
+/cwsome /cLblack /cwrobes/c0~
+/cwSome /cLblack /cwrobes have been left here./c0~
+~
+9 0 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+5 7800 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+13 10
+#15701
+staff bone~
+/cwa /cWbone /cwstaff/c0~
+/cwA /cWbone /cwstaff lies here./c0~
+As $n aims $s staff, a blast of energy issues forth!
+~
+4 67174413 0 0 0 16385 0 0 0
+30 5 5 104 0 0 0 0
+2 2780 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15702
+sword bone~
+/cwa /cWbone /cwsword/c0~
+/cwA /cWbone /cwsword is stuck in the ground here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 11200 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 1
+#15703
+helm bronze~
+/cwa /cybronze /cwhelm/c0~
+/cw A/cg bronze/cw helm covered in runes has been left here./c0~
+~
+9 2 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+7 6800 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 2
+A
+23 1
+#15704
+bandolier leather~
+/cwa leather bandolier/c0~
+/cwA leather bandolier lies here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+50 1 -1 0 0 0 0 0
+4 100 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+#15705
+potion green~
+/cwa /cGgreen /cwpotion/c0~
+/cwA bright /cGgreen /cwpotion has been left here./c0~
+~
+10 1 0 0 0 1 0 0 0
+28 66 34 20 0 0 0 0
+1 214 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15706
+potion red candy~
+/cwa /cRred /cwpotion/c0~
+/cwA bright /cRred /cwpotion has been left here./c0~
+~
+10 6 0 0 0 1 0 0 0
+28 1 61 0 0 0 0 0
+1 1386 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15707
+scroll lightning~
+/cwa /cYlightning /cwscroll/c0~
+/cwA /cYlightning /cwscroll is curled up on the floor here./c0~
+The scroll unleashes crackling electrical energy!
+~
+2 65537 0 0 0 1 0 0 0
+28 30 0 0 0 0 0 0
+1 2337 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15708
+scroll fire~
+/cwa /cRfire /cwscroll/c0~
+/cwA /cRfire /cwscroll is curled up on the floor here./c0~
+The scroll suddenly distingerates into nothing but ashes!
+~
+2 65550 0 0 0 1 0 0 0
+28 61 0 0 0 0 0 0
+1 1587 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15709
+wand~
+/cwa wand/c0~
+/cwA wand inscribed with strange runes lies here./c0~
+A blast of acid leaps forth as $n uses the wand!
+~
+3 65549 0 0 0 16385 0 0 0
+28 5 5 115 0 0 0 0
+1 3726 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15710
+dagger~
+/cwa dagger/c0~
+/cwA rune-covered dagger has been left here./c0~
+~
+5 8192 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 10453 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 1
+#15711
+staff garthalanium~
+/cwa garthalanium staff/c0~
+/cwA staff fashioned of garthalanium has been left here./c0~
+Unearthly screams shatter the silence as $n brandishes forth the staff!
+~
+4 1 0 0 0 16385 0 0 0
+28 10 10 45 0 0 0 0
+5 44023 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15712
+pentagram~
+/cwa /cLpentagram/c0~
+/cwA /cLpentagram /cwhas been inscribed upon the floor here./c0~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pentagram~
+The meaning of these strange symbols is unclear, but one can be
+assured that it is the work of evil.    
+~
+#15713
+spiked club~
+/cwa spiked club/c0~
+/cwA spiked club lies here./c0~
+~
+5 524288 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+20 8000 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 -1
+#15714
+leather hauberk~
+/cwa leather hauberk/c0~
+/cwA leather hauberk has been dropped here./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+10 5833 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15715
+drake hide~
+/cwa /crfire /cwdrake hide/c0~
+/cwThe hide of a /crfire /cwdrake has been removed and left here./c0~
+~
+9 1 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+25 7466 0 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 1
+#15716
+bronze suit plate~
+/cwa suit of /cybronze /cwplate/c0~
+/cwA suit of /cybronze /cwplate has been piled up here./c0~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+15 4080 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15717
+bronze shield~
+/cwa /cybronze /cwshield/c0~
+/cwA /cgbronze /cwshield lies here./c0~
+~
+9 0 0 0 0 513 0 0 0
+4 0 0 0 0 0 0 0
+10 4080 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15718
+bronze helm~
+/cwa /cybronze /cwhelm/c0~
+/cwA /cybronze /cwhelm has been left here./c0~
+~
+9 0 0 0 0 17 0 0 0
+3 0 0 0 0 0 0 0
+6 3960 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15719
+bronze sword~
+/cwa /cybronze /cwsword/c0~
+/cwA /cybronze /cwsword is buried in the ground here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+12 6240 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#15720
+robes green~
+/cwsome /cggreen /cwrobes/c0~
+/cwSome /cggreen /cwrobes are crumpled up on the floor here./c0~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+3 4760 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 20
+#15721
+staff wooden~
+/cwa wooden staff/c0~
+/cwA wooden staff with a bronze head lies here./c0~
+~
+5 524290 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+9 7980 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+2 1
+#15722
+spellbook book~
+/cwa spellbook/c0~
+A spellbook lies here, adorned with a stamped-bronze emblem.~
+The spellbook radiates a dark aura for a brief moment!
+~
+2 67108864 0 0 0 1 0 0 0
+21 68 0 0 0 0 0 0
+1 1579 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15723
+pit~
+/cwa deep /cLpit/c0~
+/cwA deep /c0pit/cw yawns before you./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 1 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15724
+collar~
+/cwa spiked collar/c0~
+/cwA spiked dog collar lies here./c0~
+~
+9 128 0 0 0 5 0 0 0
+2 0 0 0 0 0 0 0
+5 3093 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 -1
+#15725
+assassin robes~
+/cwthe robes of an assassin/c0~
+/cwThe /cLblack /cwrobes of an assassin have been torn from her and left here./c0~
+~
+9 1323008 11 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+3 5199 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+18 1
+#15726
+dagger throwing~
+/cwa throwing dagger/c0~
+/cwA throwing dagger has been left here./c0~
+~
+5 569344 11 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+3 10800 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+#15727
+sword steel~
+/cwa /cWsteel /cwsword/c0~
+/cwA rare /cWsteel /cwsword covered in runes lies here./c0~
+~
+5 552960 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 9000 0 27 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15728
+ring magic~
+/cwa /cpmagic /cwring/c0~
+/cwA /cpmagic /cwring floats by here./c0~
+~
+9 64 0 0 0 3 0 0 0
+2 0 0 0 0 0 0 0
+1 6480 0 27 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 2
+#15729
+boots elven~
+/cGelven /cwboots/c0~
+/cwA pair of /cGelven /cwboots lie here./c0~
+~
+9 0 11 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+5 6660 0 27 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+14 15
+#15731
+pick~
+/cwa pick/c0~
+/cwA pick rests here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+10 4000 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15732
+shovel~
+/cwa shovel/c0~
+/cwA shovel rests here./c0~
+~
+5 524288 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+10 4000 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15733
+rubble~
+/cwa pile of rubble/c0~
+/cwA pile of rubble has been made here./c0~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+75 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15734
+whip~
+/cwa whip/c0~
+/cwA whip has been curled up here./c0~
+~
+5 524288 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+5 4000 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15735
+flind bar~
+/cwa flind bar/c0~
+/cwA flind bar has been left here./c0~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 300 0 0 0 0 0
+5 100 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#15736
+rubbish~
+/cwa huge pile of rubbish/c0~
+/cwA huge pile of rubbish is here./c0~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+150 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15737
+rack~
+/cwa torturer's rack/c0~
+/cwA torturer's rack sits near one wall./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rack~
+It is not currently in use. The warlock enjoys executions, so people he
+captures rarely live long enough to be tortured.
+~
+#15738
+gallows~
+/cwa gallows/c0~
+/cwA gallows has been erected here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gallows~
+They are used regularly to hang those who piss off the warlock.
+~
+#15739
+stocks~
+/cwthe stocks/c0~
+/cwThe stocks sit here, holding a pathetic wretch of a gnoll./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stocks gnoll~
+This unfortunate has been left here for a week for insubordination.
+~
+#15740
+pot boiling oil~
+/cwa pot of /crboiling /cwoil/c0~
+/cwA pot of /crboiling /cwoil bubbles away here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pot boiling oil~
+The warlock enjoys immersing insubordinate or irritating lackeys in here.
+~
+#15741
+flag~
+/cwa /cLblack /cwflag/c0~
+/cwA /cLblack /cwflag flutters atop a pole here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+flag~
+It is plain black. The warlock isn't very imaginative.
+~
+#15742
+leg irons~
+/cwa set of leg irons/c0~
+/cwA set of leg irons rest here./c0~
+~
+9 0 0 0 0 33 0 0 0
+0 0 0 0 0 0 0 0
+10 2160 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 -1
+A
+14 -20
+$~

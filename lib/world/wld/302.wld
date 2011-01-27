@@ -1,0 +1,292 @@
+#30200
+/cw/crNear a Vampiric Forest/c0~
+Xastar or Nyara: Write desc.
+~
+302 68 0 0 0 3
+D0
+~
+~
+0 0 30201 0
+D2
+~
+gate~
+1 0 7880 3
+S
+#30201
+/cw/crVampiric Forest/c0~
+You find yourself standing in the midst of a dark forest.  The air is
+as still and silent as death.  The earth itself seemed drained dry of
+all life by the unnatural vegetation.  A tunnel in a large tree leads
+downwards.  The visage of solid stone walls is to the south, shrouded
+in darkness as if near but truly distant, obscured by some dark magic.
+~
+302 65600 0 0 0 3
+D2
+~
+~
+0 0 30200 0
+D5
+~
+~
+0 0 30211 0
+S
+#30202
+/cw/crA Bloody Path/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D0
+~
+~
+0 0 30205 0
+D1
+~
+~
+0 0 30211 0
+D2
+~
+~
+0 0 30209 0
+D3
+~
+~
+0 0 30213 0
+S
+#30203
+/cw/crA Narrow Passageway trough a Root/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D3
+~
+~
+0 0 30211 0
+D5
+~
+~
+0 0 30204 0
+S
+#30204
+/cw/crThe Warehouse of /cWEt/cLerna/cWls/c0~
+Xastar or Nyara: Write this desc.
+~
+302 4259904 0 0 0 17
+D1
+~
+~
+0 0 30206 0
+D4
+~
+~
+0 0 30203 0
+S
+#30205
+/cw/crAngelica's Shop/c0~
+This is a small, well lit chamber.  Row upon row of sturdy nirin wood
+shelves line the walls, each laden with a multitude of goods both
+exotic and commonplace.  The cool air is heavily perfumed with the
+scent of exotic spices and rare herbs and the dark stone floor looks 
+like it has been carefully swept clean.  A large cauldron full of a
+golden liquid is bubbling over a fireplace in the far corner. 
+~
+302 65600 0 0 0 17
+D2
+~
+~
+0 0 30202 0
+S
+#30206
+/cw/crEsbelzar's Warehouse/c0~
+Xastar or Nyara: Write this desc.
+~
+302 4259904 0 0 0 17
+D2
+~
+~
+0 0 30204 0
+D3
+~
+~
+0 0 30204 0
+E
+sign~
+The property contained in this room is the store house 
+of E.  Any thief caught stealing from here will be 
+charged and killed.
+~
+S
+#30207
+/cw/crThe Chamber of Healing/c0~
+Xastar or Nyara: Write this desc.
+~
+302 327744 0 0 0 17
+D1
+~
+~
+0 0 30210 0
+D5
+~
+~
+0 0 30215 0
+S
+#30208
+/cw/crAriag's Reception/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D1
+~
+~
+0 0 30209 0
+S
+#30209
+/cw/crCrimson Tear Inn/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D0
+~
+~
+0 0 30202 0
+D3
+~
+~
+0 0 30208 0
+E
+trees~
+Shadowy trees with trunks and leaves blacker than night itself tower
+above you, draining life out of its very surroundings, and your flesh
+crawls as it to seems to be affected.  On the largest tree, you see a
+hole shaped like a gaping maw with four sharp welcoming canine teeth.
+The hole leads down into a tunnel.    
+~
+S
+#30210
+/cw/crA Deep Stone Chamber/c0~
+Far underground, and protected from sunlight, this dry stone chamber
+have been carved out of black rock with traces of small, dark reddish
+veins in them, as though dried blood had fused with the stone itself.
+Totally sandless and with a high ceiling, the chamber appears to have
+rich occupants, favoring dark mahogany wood for furnishings.  The
+first thing noticeable is a dragon head high chair sitting among
+lesser ones at the sides of a long oval table.  Richly decorated
+coffins line the walls, standing upright.  A tunnel opens south from
+the chamber.    
+~
+302 65600 0 0 0 17
+D2
+~
+~
+0 0 30211 0
+D3
+~
+~
+0 0 30207 0
+D6
+~
+~
+0 0 30212 0
+E
+chair dragon~
+This chair rises from the ground as the head of a dragon, with its
+jaws opened wide.  Rubies glitter as the dragon's eyes, and dark red
+paint covers the chair.  The fangs of the dragon protrudes at the
+edges of the chair, tinted red as though it had drawn blood quite
+recently.    
+~
+E
+table oval~
+This dark mahogany table has the carved impression of a giant fanged
+bat in the middle with its wings wide open.  Two rubies gleam in the
+center of the table where the bat's eyes would be.  Along the edge of
+the table, a shallow recess runs in a circle, joining with the bat
+carving.  You suddenly realize that should blood flow onto the table,
+it would circulate and fill the form of the bat.    
+~
+E
+coffin upright~
+The coffin snugly fits into a carved recess in the wall.  It is richly
+inlaid with various precious gems, noticeably rubies.  Upon closer
+examination, the rubies appear to be hollow, and a dark red liquid
+that could only be blood fills it giving it a deep reddish look.  The
+coffin is lined with soft felt, and is shaped to comfortably fit
+someone who wishes to rest here.    
+~
+S
+#30211
+/cw/crWhere Roots Drain Life/c0~
+A dark and narrow tunnel in the black earth, the air here is dry,
+unlike the usual dampness of an underground tunnel walled by earth.  
+The roots of the great tree above you reaches deep into the ground
+here, jutting out from the walls as though reaching and grasping for
+something.  Various dead corpses litter the sides of the tunnel, each
+entangled in roots, shrivelled as though the life has been sucked out
+of them.  The darkness looms northward.    
+~
+302 65600 0 0 0 17
+D0
+~
+~
+0 0 30210 0
+D1
+~
+~
+0 0 30203 0
+D3
+~
+~
+0 0 30202 0
+D4
+~
+~
+0 0 30201 0
+S
+#30212
+/cw/crA Secret Storage Room/c0~
+Xastar or Nyara: Write this Desc.
+~
+302 4259904 0 0 0 17
+D9
+~
+~
+0 0 30210 0
+S
+#30213
+/cw/crAt the End of a Bloody Path/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D0
+~
+~
+0 0 30214 0
+D1
+~
+~
+0 0 30202 0
+S
+#30214
+/cw/crCivatateo's Treasury/c0~
+Xastar or Nyara: Write this desc.
+~
+302 65600 0 0 0 17
+D2
+~
+~
+0 0 30213 0
+S
+#30215
+/cw/crChamber of Portals/c0~
+Xastar or Nyara: Write this desc..
+~
+302 65600 0 0 0 0
+D0
+~
+~
+0 0 17522 0
+D4
+~
+~
+0 0 30207 0
+S
+$~

@@ -1,0 +1,167 @@
+#13600
+mewling patient man~
+a mewling Patient~
+A man sits curled into a ball in the far corner of the room.
+~
+He makes strange, half coherent sounds almost like that of a small
+animal when its afraid.    
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 1
+Race: 14
+E
+#13601
+slobbering woman patient~
+a slobbering Patient~
+A woman stares blankly at you, a line of drool falling from her open mouth.
+~
+She doesn't blink or move - she just stares flatly.  Straight ahead.
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 2
+Race: 14
+E
+#13602
+guard slumbering~
+a slumbering Guard~
+A guard sits at his post, his chin on his chest - snoring.
+~
+Obviously this is a very difficult job if the guard is so tired.
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 1
+Race: 14
+E
+#13603
+patient woman violent~
+a violent Patient~
+A woman howls and shrieks at you, her face contorted with rage.
+~
+She just screams and screams without stopping.  It would almost seem
+like she knew you personally the way she carries on.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+9
+200 1662
+8 8 2
+Race: 14
+E
+#13604
+patient man schizoid~
+a schizoid Patient~
+A man looks right, then left, then right again in rapid movements.
+~
+He is constantly on the watch for... something.
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+6
+200 1662
+8 8 1
+Race: 14
+E
+#13605
+guard cruel~
+a cruel Guard~
+A guard stands outside the cells holding a thick stick with anticipation.
+~
+He stares in at the patients with a slight curl at the corners of his
+mouth, just waiting for the right moment to be able to go in and beat
+the shit out of them.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+0 1d2+9
+200 1662
+8 8 1
+Race: 14
+E
+#13606
+patient recovering~
+a recovering Patient~
+A recovering patient kicks back in comfort in her room.
+~
+She smiles as you enter, displaying a calm that would rival that of
+the Pope.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+325 4674
+8 8 2
+Race: 14
+E
+#13607
+janitor~
+a Janitor~
+A janitor mops at the floor with a thick mop.
+~
+He doesn't look up you, just keeps on mopping.
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+325 4674
+8 8 1
+Class: 12
+Race: 14
+E
+#13608
+patient recovering~
+a recovering Patient~
+A recovering patient kicks back in comfort in his room.
+~
+He beams a bright smile your way and motions to an empty chair.  Pull
+it up - stay a while.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+325 4674
+8 8 1
+Race: 14
+E
+#13609
+doctor psychiatrist man~
+an off-duty Doctor~
+An off-duty doctor kicks back in a chair, relaxing after a day's work.
+~
+He leans way back in his chair, his feet up on his desk.
+~
+10 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 1d4+13
+550 9735
+8 8 1
+Class: 2
+Race: 14
+E
+#13610
+nurse pretty~
+a pretty Nurse~
+A pretty nurse smiles and flirts with the doctor.
+~
+She laughs too loud at all his jokes and moves too quickly when he
+asks her to - looks like a gold-digger for sure.    
+~
+10 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 1d4+13
+550 9735
+8 8 2
+Race: 14
+E
+#13611
+doctor~
+a Doctor~
+A doctor finds excuses to keep from making his rounds.
+~
+He fidgets with anything he can find, doing his best to appear too
+bust to head downstairs.    
+~
+10 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 1d4+13
+550 9735
+8 8 1
+Class: 2
+E
+$

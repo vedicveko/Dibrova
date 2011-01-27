@@ -1,0 +1,1289 @@
+#20800
+Boardwalk~
+The newly-replaced planks are beginning to age in the sun and warp
+alongside the old planks.  The salty spray of the ocean drifts in from
+the south.  The Boardwalk continues to the west and east.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20812 0
+D3
+~
+~
+0 0 20801 0
+S
+#20801
+Boardwalk~
+The newly-replaced planks are beginning to age in the sun and warp
+alongside the old planks.  The salty spray of the ocean drifts in from
+the south.  The Boardwalk continues to the west and east.  To the
+south is the western dock and ocean.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20800 0
+D2
+~
+~
+0 0 20870 0
+D3
+~
+~
+0 0 20802 0
+S
+#20802
+Boardwalk~
+The newly-replaced planks are beginning to age in the sun and warp
+alongside the old planks.  The salty spray of the ocean drifts in from
+the south.  The Boardwalk continues to the west and east.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20801 0
+D3
+~
+~
+0 0 20849 0
+S
+#20803
+Before the Great Gates of Sinistral~
+Huge wrought-iron gates mark northern boundary of Sinistral.
+The gates are machine-opperated, for no mortal could ever
+possess the strength to open them.  The road continues to
+the north and south.
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20773 0
+D2
+~
+~
+0 0 20804 0
+S
+#20804
+Archway into Sinistral~
+The cliffs of the pass merge into a solid wall, in which a tunnel was
+cut through.  The stonework that went into the archway is marvelous,
+rarely does one see such expert craftmanship.  The archway is adorned
+with carvings, despicting the grandeur of the city in old times.    
+~
+208 0 0 0 0 1
+D0
+~
+~
+0 0 20803 0
+D2
+~
+~
+0 0 20805 0
+S
+#20805
+Ul'Dren Street~
+The cobblestone street has seen better times, weeds sprouting in
+between stones and litter blowing about.  Everything here seems to be
+shrouded in shadows, or in colors of grey and dull earthen tones.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20804 0
+D2
+~
+~
+0 0 20806 0
+S
+#20806
+Ul'Dren Street~
+The cobblestone street goes through a rough-looking part of town.  
+Raucous laughter can be heard to the west, while sounds of animals can
+be heard to the east.  Everything here seems to be shrouded in
+shadows, or in colors of grey and dull earthen tones.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20805 0
+D1
+~
+~
+0 0 20843 0
+D2
+~
+~
+0 0 20807 0
+D3
+~
+~
+0 0 20844 0
+S
+#20807
+Ul'Dren Street~
+The cobblestone street goes through a rough-looking part of town.  A
+sign proclaiming 'Desuld's Weapons' points west and another sign
+proclaiming 'Vergoth's Armory' points east.  Everything here seems to
+be shrouded in shadows, or in colors of grey and dull earthen tones.
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20806 0
+D1
+~
+~
+0 0 20827 0
+D2
+~
+~
+0 0 20808 0
+D3
+~
+~
+0 0 20831 0
+S
+#20808
+Center Sqaure of Sinistral~
+The square is a broad expanse of cobblestone, the junction of Ul'Dren
+street and Brin Mawr Way.  The place is in a state of disrepair and
+neglect.  Gaping potholes and sprouting weeds dot the ground.  Litter
+tumbles and blows by as the wind picks up.  The appearance of the
+place is somber and seedy.    
+~
+208 0 0 0 0 1
+D0
+~
+~
+0 0 20807 0
+D1
+~
+~
+0 0 20816 0
+D2
+~
+~
+0 0 20809 0
+D3
+~
+~
+0 0 20813 0
+S
+#20809
+Ul'Dren Street~
+The cobblestone street goes through a rough-looking part of town.  A
+sign proclaiming 'Zak's Grocery' points west and another sign
+procaliming 'Argil's Market' points east.  Everything here seems to be
+shrouded in shadows, or in colors of grey and dull earthen tones.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20808 0
+D1
+~
+~
+0 0 20830 0
+D2
+~
+~
+0 0 20810 0
+D3
+~
+~
+0 0 20834 0
+S
+#20810
+Ul'Dren Street~
+A broken sign, barely hanging from the chains, proclaim the location
+of the City Hall to the east.  The cobblestone street is in a state of
+disrepair, potholes everywhere and weeds here and there.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20809 0
+D1
+~
+~
+0 0 20853 0
+D2
+~
+~
+0 0 20811 0
+S
+#20811
+Ul'Dren Street~
+The cobblestone street winds it's way north and south.  Scores of
+potholes and multitudes of weeds mar the once smooth surface of the
+street.  A hard dirt road branches off to the west.  Sounds of the
+ocean can be heard to the south.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20810 0
+D2
+~
+~
+0 0 20812 0
+D3
+~
+~
+0 0 20857 0
+S
+#20812
+Central Boardwalk~
+The Boardwalk is made of warped, sun-aged planks upon barnacle-crusted
+posts overlooking the ocean to the south.  Ul'Dren Street lies north
+while the Boardwalk stretches west and east.    
+~
+208 4 0 0 0 10
+D0
+~
+~
+0 0 20811 0
+D1
+~
+~
+0 0 20865 0
+D2
+~
+~
+0 0 20871 0
+D3
+~
+~
+0 0 20800 0
+S
+#20813
+Brin Mawr Way~
+The road here once offered smooth travelling, planks firmly joined
+together to create a wooden surface for travel.  However, time has
+caused the planks to rot and warp.  A sign proclaiming 'Desuld's
+Weaponry' points north and another sign proclaiming 'Zak's Market'
+points south.  All around, the place looks run-down.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20831 0
+D1
+~
+~
+0 0 20808 0
+D2
+~
+~
+0 0 20834 0
+D3
+~
+~
+0 0 20814 0
+S
+#20814
+Brin Mawr Way~
+The road here once offered smooth travelling, planks firmly joined
+together to create a wooden surface for travel.  However, time has
+caused the planks to rot and warp.  A sign proclaiming 'Mok's Cafe'
+points north and another sign proclaiming 'Marn's Swap Barn' points
+south.  All around, the place looks beaten and run-down.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20832 0
+D1
+~
+~
+0 0 20813 0
+D2
+~
+~
+0 0 20833 0
+D3
+~
+~
+0 0 20815 0
+S
+#20815
+West Sqaure of Sinistral~
+The sqaure is nothing more than a well-trodden area between the shops
+and the homes.  A dried-out well sits in the middle of the sqaure.  
+Stringy plants grow here and there, while an occasional tumbleweed
+rolls by.  A hitching post, the bar broken, can be seen at the far
+west of the sqaure.    
+~
+208 0 0 0 0 1
+D0
+~
+~
+0 0 20823 0
+D1
+~
+~
+0 0 20814 0
+S
+#20816
+Brin Mawr Way~
+The road here once offered smooth travelling, planks firmly joined
+together to create a wooden surface for travel.  However, time has
+caused the planks to rot and warp.  A sign proclaiming 'Vergoth's
+Armoury' points north and another sign proclaiming 'Argil's Grocery'
+points south.  All around, the place looks run-down.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20827 0
+D1
+~
+~
+0 0 20817 0
+D2
+~
+~
+0 0 20830 0
+D3
+~
+~
+0 0 20808 0
+S
+#20817
+Brin Mawr Way~
+The road here once offered smooth travelling, planks firmly joined
+together to create a wooden surface for travel.  However, time has
+caused the planks to rot and warp.  A sign proclaiming 'Shrike's Odds
+and Bits' points north and another sign proclaiming 'Gatt's
+Outfitters' points south.  All around, the place looks beaten and
+run-down.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20828 0
+D1
+~
+~
+0 0 20818 0
+D2
+~
+~
+0 0 20829 0
+D3
+~
+~
+0 0 20816 0
+S
+#20818
+East Sqaure of Sinistral~
+A well sits in the middle of the sqaure, still providing water despite
+the lack of maintence seen elsewhere here.  A hitching post stands at
+the far east of the sqaure, a place for folks to tie up their beasts
+of burden.  A few tumbleweeds roll by every now and then.    
+~
+208 0 0 0 0 1
+D0
+~
+~
+0 0 20819 0
+D2
+~
+~
+0 0 20821 0
+D3
+~
+~
+0 0 20817 0
+S
+#20819
+Northeast Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20820 0
+D1
+~
+~
+0 0 20838 0
+D2
+~
+~
+0 0 20818 0
+S
+#20820
+Northeast Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20836 0
+D1
+~
+~
+0 0 20837 0
+D2
+~
+~
+0 0 20819 0
+D3
+~
+~
+0 0 20835 0
+S
+#20821
+Southeast Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20818 0
+D1
+~
+~
+0 0 20842 0
+D2
+~
+~
+0 0 20822 0
+S
+#20822
+Southeast Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20821 0
+D1
+~
+~
+0 0 20841 0
+D2
+~
+~
+0 0 20840 0
+D3
+~
+~
+0 0 20839 0
+S
+#20823
+Northwest Spoke~
+The spoke leads through what was the residential section of the
+city.  The area has long since been abandoned by the upper-class
+people.  The houses that line each side of the spoke were once
+beautiful, all of them now in a state of disrepair and filth.
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20824 0
+D2
+~
+~
+0 0 20815 0
+D3
+~
+~
+0 0 20825 0
+S
+#20824
+Northwest Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20846 0
+D1
+~
+~
+0 0 20845 0
+D2
+~
+~
+0 0 20823 0
+D3
+~
+~
+0 0 20847 0
+S
+#20825
+Southwest Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20823 0
+D2
+~
+~
+0 0 20826 0
+D3
+~
+~
+0 0 20852 0
+S
+#20826
+Southwest Spoke~
+The spoke leads through what was the residential section of the city.
+The area has long since been abandoned by the upper-class people.  
+The houses that line each side of the spoke were once beautiful, all
+of them now in a state of disrepair and filth.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20825 0
+D2
+~
+~
+0 0 20850 0
+D3
+~
+~
+0 0 20851 0
+S
+#20827
+Vergoth's Armory~
+Tattered pieces of leather and broken rings of chain lie scattered all
+about the room.  A broken counter lies in a heap in the corner.  A few
+intact shelves are stocked with armour made here.  A layer of dust
+seems to indicate a long period of inactivity here.    
+~
+208 24 0 0 0 1
+D2
+~
+~
+0 0 20816 0
+D3
+~
+~
+0 0 20807 0
+S
+#20828
+Sprike's Odds and Bits Shop~
+The room is a mess, odds and ends littering the floor of the shop.  A
+counter sits in the back end of the room.  Display cases, showing
+items for sale, are broken open and left ajar.  A thick cloud of smoke
+hangs about the room.    
+~
+208 24 0 0 0 1
+D2
+~
+~
+0 0 20817 0
+S
+#20829
+Gatt's Outfitters~
+Despite the general state of disrepair around the town, the shop is
+well-tended and tidy.  Shelves, bearing all kinds of tools for
+survival in the wilderness, line the walls.  A counter sits right next
+to the doorway.    
+~
+208 24 0 0 0 1
+D0
+~
+~
+0 0 20817 0
+S
+#20830
+Argil's Market~
+The stench of rotting meat fills the air in this room.  A filthy
+butcher table and various knives sit in the back of the room.  
+Several smaller tables carry various cuts of meat and other foods.  A
+swarm of flies buzz around the room, landing on the food for sale.  
+~
+208 24 0 0 0 1
+D0
+~
+~
+0 0 20816 0
+D3
+~
+~
+0 0 20809 0
+S
+#20831
+Desuld's Weaponry~
+Weapons adorn the walls of this shop.  Scrap metal and filings litter
+the floor, making it difficult to traverse safely.  A forge and anvil
+sit in the middle of the room.  A counter, all run-down and pockmarked
+with nicks, sits near the south doorway.    
+~
+208 24 0 0 0 1
+D1
+~
+~
+0 0 20807 0
+D2
+~
+~
+0 0 20813 0
+S
+#20832
+Mok's Cafe~
+Several unclean tables sit here and there in the cafe.  A smell of bad
+tasting stew wafts behind the doors in the kitchen.  A bar sits in the
+back of the room, all vandalized with carven initials of those who
+once drank here.  The floor is messy, covered with spilled drinks and
+uneaten food.    
+~
+208 24 0 0 0 1
+D2
+~
+~
+0 0 20814 0
+S
+#20833
+Marn's Swap Barn~
+Piles of assorted junk and useless items lie scattered all about.  A
+counter, overflowing with bric-a-brac, sits in the back of the room.
+A sign above the door declares that no refunds on items purchased here
+will be given.    
+~
+208 24 0 0 0 1
+D0
+~
+~
+0 0 20814 0
+S
+#20834
+Zak's Grocery~
+A pile of moldy bread sits near the east doorway, waiting to be
+disposed of.  An oven sits in the middle of the room, burning weakly
+and smoking a lot.  Flour and dust cover everything in here.  Some
+broken bread baskets lie scattered about in here.    
+~
+208 24 0 0 0 1
+D0
+~
+~
+0 0 20813 0
+D1
+~
+~
+0 0 20809 0
+S
+#20835
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20820 0
+S
+#20836
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D2
+~
+~
+0 0 20820 0
+S
+#20837
+Northeast Watchtower~
+The watchtower is one of four that look over the edges of Sinistral
+Port.  Rising some fifty feet into the air, they offer a spectacular
+paroramic view of the landscape surrounding the city.
+~
+208 9 0 0 0 1
+D3
+~
+~
+0 0 20820 0
+S
+#20838
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D3
+~
+~
+0 0 20819 0
+S
+#20839
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20822 0
+S
+#20840
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D0
+~
+~
+0 0 20822 0
+S
+#20841
+Southeast Watchtower~
+The watchtower is one of four that look over the edges of Sinistral
+Port.  Rising some fifty feet into the air, they offer a spectacular
+paroramic view of the landscape surrounding the city.
+~
+208 9 0 0 0 1
+D3
+~
+~
+0 0 20822 0
+S
+#20842
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D3
+~
+~
+0 0 20821 0
+S
+#20843
+Stables~
+A few stalls still stand, despite the ransacking and vandalism that
+occured over the years here.  Some of the gates lie ajar, their hinges
+smashed beyond repair.  Straw and moldy grain litter the floor of the
+stable.    
+~
+208 8 0 0 0 1
+D3
+~
+~
+0 0 20806 0
+S
+#20844
+Seedy Bar~
+A bar, gouged and nicked by abusive customers, lies in the back of the
+bar.  A couple of small round tables and chairs sit here and there.  
+A heavy cloud of stiffling smoke hangs about, casting a gloom about
+the room.  Some bits of broken glass lie on the floor, evident of an
+occasional brawl in here.    
+~
+208 8 0 0 0 1
+D1
+~
+~
+0 0 20806 0
+S
+#20845
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D3
+~
+~
+0 0 20824 0
+S
+#20846
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D2
+~
+~
+0 0 20824 0
+S
+#20847
+Northwest Watchtower~
+The watchtower is one of four that look over the edges of Sinistral
+Port.  Rising some fifty feet into the air, they offer a spectacular
+paroramic view of the landscape surrounding the city.
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20824 0
+S
+#20848
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20823 0
+S
+#20849
+Searfarer's Supplies~
+Assorted fishing tackle and items for repairing nets lie neatly upon a
+counter in the middle of the shop.  A smell of fish and sea hangs
+heavily in the air here.    
+~
+208 8 0 0 0 1
+D1
+~
+~
+0 0 20802 0
+S
+#20850
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D0
+~
+~
+0 0 20826 0
+S
+#20851
+Southwest Watchtower~
+The watchtower is one of four that look over the edges of Sinistral
+Port.  Rising some fifty feet into the air, they offer a spectacular
+paroramic view of the landscape surrounding the city.    
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20826 0
+S
+#20852
+House~
+The house once was a place of happiness, but over the years it has
+fallen into a haphazard state and is now abandoned.  Nothing left
+remains to be seen, for it has been razed and looted out.  A sense
+of lonliness hangs about the air here.
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20825 0
+S
+#20853
+Council Hall~
+The hall once was a place where respected folks would gather to
+discuss thier plans for the city.  Now, it is a place of neglect.  
+The walls are vandalized and the furniture smashed beyond repair.  
+Broken benches lie scattered about the room and a podium lies tilted
+on it's side.    
+~
+208 9 0 0 0 1
+D1
+~
+~
+0 0 20854 0
+D2
+~
+~
+0 0 20856 0
+D3
+~
+~
+0 0 20810 0
+S
+#20854
+Arguing Chambers~
+The chamber is completely destroyed, nothing was left or spared.  Two
+smashed podiums and broken benches lie scattered all about the room.
+The walls are stripped bare and full gaping holes.    
+~
+208 9 0 0 0 1
+D2
+~
+~
+0 0 20855 0
+D3
+~
+~
+0 0 20853 0
+S
+#20855
+High Magistrate Chambers~
+An empty stage sits forlornly in the back of the chamber.  Broken
+chairs lie scattered about.  All of the pictures in here have been
+slashed and ruined beyond repair.  A tall bookshelf lies toppled over
+in the corner, it's contents long since stolen.  A lone chair sits in
+the middle of the room, the velvety cushions all tattered and torn.  
+~
+208 9 0 0 0 1
+D0
+~
+~
+0 0 20854 0
+S
+#20856
+Mayor's Chamber~
+Despite the heavy vandalism, a desk and some chairs neatly arranged in
+the room show that someone still occupies this chamber.  A lantern
+hangs from a rope on the ceiling, providing some soft light.  All
+around the room lie shredded papers and torn volumes, no doubt once
+used to record the ancient history of Sinistral.    
+~
+208 9 0 0 0 2
+D0
+~
+~
+0 0 20853 0
+S
+#20857
+Path to the Training Grounds~
+The path was once well-trod, as evidenced by the firmness of the
+ground.  Now weeds and litter lay claim to this lonely stretch.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20858 0
+D1
+~
+~
+0 0 20811 0
+S
+#20858
+Before the Training Grounds~
+The path was once well-trod, as evidenced by the firmness of the
+ground.  Now weeds and litter lay claim to this lonely stretch.    
+~
+208 0 0 0 0 2
+D2
+~
+~
+0 0 20857 0
+D3
+~
+~
+0 0 20859 0
+S
+#20859
+Training Sqaure~
+Weeds and litter tumble about in the breeze.  The ground is firm,
+hardened from the years of wear and tear in the past.  Some broken
+wooden training weapons lie here and there, exposed and rotting away.
+~
+208 131072 0 0 0 2
+D1
+~
+~
+0 0 20858 0
+D2
+~
+~
+0 0 20861 0
+D3
+~
+~
+0 0 20863 0
+S
+#20860
+Marshalling Platform~
+The tower is in a dangerous state of disrepair.  Years of being
+exposed to the weather and not being tended to has led to severe
+rotting of the timber that make up this room.  One can see all around
+the training fields, the city to the north, and even the floor below
+the tower.    
+~
+208 0 0 0 0 2
+D5
+~
+~
+0 0 20864 0
+S
+#20861
+Training Sqaure~
+Broken skeletal frames, once filled with padding and used as dummies,
+lie here and there.  A cracked wooden shield and a broken wooden lance
+can be seen here and there.  All around, weeds grow in abundance.    
+~
+208 131072 0 0 0 2
+D0
+~
+~
+0 0 20859 0
+D3
+~
+~
+0 0 20862 0
+S
+#20862
+Training Sqaure~
+A wooden railing divides the field in half.  This was where jousting
+was practiced, when the city was young and vibrant.  Shattered lances
+and dented shields lie here and there.  Weeds grow all around, a sad
+testiment to the times.    
+~
+208 131072 0 0 0 2
+D0
+~
+~
+0 0 20863 0
+D1
+~
+~
+0 0 20861 0
+S
+#20863
+Training Sqaure~
+A well sits in the middle of the field, it's stone walls crumbling
+away.  The bucket and rope have decayed away, as well as the roof that
+once stood over it.  Several wooden posts still stand, nicked and
+scarred from years of use, in the west end of the field.  A tower can
+be seen to the north.    
+~
+208 131072 0 0 0 2
+D0
+~
+~
+0 0 20864 0
+D1
+~
+~
+0 0 20859 0
+D2
+~
+~
+0 0 20862 0
+S
+#20864
+Commander's Pavillion~
+The wood floor of the pavilion is soft and crumbling away in some
+places.  Up above is the tower, it's floor now missing several planks.
+A ladder made of thick rope still hangs from the ceiling, allowing
+access up into the tower itself.    
+~
+208 0 0 0 0 1
+D2
+~
+~
+0 0 20863 0
+D4
+~
+~
+0 0 20860 0
+S
+#20865
+Boardwalk~
+The newly-replaced planks are beginning to age in the sun and warp
+alongside the old planks.  The salty spray of the ocean drifts in from
+the south.  The Boardwalk continues to the west and east.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20866 0
+D3
+~
+~
+0 0 20812 0
+S
+#20866
+Boardwalk~
+The newly-replaced planks are beginning to age in the sun and warp
+alongside the old planks.  The salty spray of the ocean drifts in from
+the south.  The Boardwalk continues to the west and east.  To the
+south is the eastern dock and ocean.    
+~
+208 0 0 0 0 10
+D1
+~
+~
+0 0 20867 0
+D2
+~
+~
+0 0 20869 0
+D3
+~
+~
+0 0 20865 0
+S
+#20867
+Repair Platform~
+A crude wooden platform juts out from the Boardwalk, serving as a
+working floor for repairing boats.  A small channel leading from the
+sea into the beach is controled by a pair of massive gates.  A series
+of pulleys allow for the platform to be raised or lowered as needed.
+~
+208 0 0 0 0 1
+D0
+~
+~
+0 0 20868 0
+D3
+~
+~
+0 0 20866 0
+S
+#20868
+Dry Docks~
+The ground is sloping here, currently free of water for as long as the
+gates to the south remain closed.  Two massive beams lie on the
+ground, parallel to each other, greased and used as skid ramps.  
+Workhorses and benches lie here and there, scuffed from hard use.    
+~
+208 0 0 0 0 1
+D2
+~
+~
+0 0 20867 0
+S
+#20869
+East Pier~
+The ocean laps gently against the bulwarks that support the eastern
+pier.  Scores of seabirds soar and circle high above, riding the
+oceanic breeze.  Fishing nets hang on racks and traps lie piled neatly
+in the center of the dock.  To the south is the ocean, in all it's
+splendor.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20866 0
+S
+#20870
+West Pier~
+Piles of weathered bouys and markers oft interfere with traversing
+through here.  An occasional splash can be heard as a fish briefly
+jumps out of the water somewhere to the south.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20801 0
+S
+#20871
+Central Dock~
+The Central Dock overlooks the sea to the south.  This is the main
+area for loading and unloading ships that sail these waters.  The
+salty spray of sea air is refreshing, as is the sounds of the waves
+striking the pilars that support the dock.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20812 0
+D2
+~
+~
+0 0 20872 0
+S
+#20872
+Central Dock~
+A massive pole at the very end of the dock rises high in the air,
+bearing a torchlight.  Assorted banners of Sinistral guilds in power
+wave gaily from their lofty perch.  The sea sprawls all about, save
+north, for as far as the eye can see here.    
+~
+208 0 0 0 0 10
+D0
+~
+~
+0 0 20871 0
+S
+#20880
+5780~
+Empty
+~
+208 0 0 0 0 0
+S
+#20899
+Adrift in Strange Waters!~
+Rushing bubbles and swirling froth create a dizzying atmosphere of
+shock as one realizes that they are underwater!  Worse yet, these
+waters seem unnaturally different than what one would find around
+Dibrova Main.    
+~
+208 65765 0 0 0 8
+D4
+~
+~
+0 0 20870 0
+S
+$~

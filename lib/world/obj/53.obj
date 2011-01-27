@@ -1,0 +1,215 @@
+#5300
+crate~
+/cwa crate/c0~
+/cwA wooden crate has been dropped here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+25 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5301
+rope thick~
+/cwa length of thick rope/c0~
+/cwA length of thick rope hangs down from the docks./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5302
+hawser~
+/cwa hawser/c0~
+/cwA long hawser keeps a boat tied here securely./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5303
+suit body tight~
+/cwa /cctight fitting /cwbody suit/c0~
+/cwSomeone left a suit of clothing here./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+6 233 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5304
+suitcase case~
+/cwa large suitcase/c0~
+/cwA large suitcase has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+40 1 -1 0 0 0 0 0
+4 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5305
+ring thumb opal~
+/cwa /ccbright /cwopal thumb ring/c0~
+Someone dropped some jewelry here.~
+~
+9 0 0 0 0 65537 0 0 0
+3 0 0 0 0 0 0 0
+4 3500 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#5306
+crate~
+/cwa large /cywooden/cw crate/c0~
+/cwA large /cywooden/cw crate lies on the dock, waiting to be loaded./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9000 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5307
+sea algae~
+/cwa clump of /cgsea algae/c0~
+/cwA formless clump of /cgsea algae/cw floats on the water's surface./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+3 8 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5308
+buoy~
+/cwa /crb/cwou/cry/c0~
+/cwA /crred /cwand white /crb/cwou/cry /cwfloats here, anchored to the bottom by a chain./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+999 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5309
+boat fishing~
+/cwa small /cyfishing/cw boat/c0~
+/cwa small /cyfishing/cw boat has been left here./c0~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+22 50 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5310
+flotsam~
+/cwa lump of/cL flotsam/c0~
+/cwA lump of/cL flotsam/cw bobs on the surface of the water./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+7 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5311
+jetsam~
+/cwa floating clump of /cbjetsam/c0~
+/cwA clump of formless/cb jetsam/cw floats by./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+8 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5312
+pole fishing~
+/cwa fishing pole/c0~
+/cwA fishing pole has been carelessly left here./c0~
+~
+34 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+6 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5313
+tatoo~
+/cwa tough-looking /cbt/cra/cbt/crt/cbo/cro/c0~
+/cwThere is a tough-looking /cbt/cra/cbt/crt/cbo/cro/cw lying on the ground here./c0~
+~
+11 0 0 0 0 257 0 0 0
+0 0 0 0 0 0 0 0
+1 4666 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 1
+#5314
+hat wide straw~
+/cwa wide /cystraw /cwhat/c0~
+/cwA wide /cystraw /cwhat has been left here./c0~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+4 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5315
+boots thick sailor~
+/cwa pair of /cLthick sailor's /cwboots/c0~
+/cwA pair of /cLthick sailor's /cwboots lie in a grungy heap./c0~
+~
+9 0 0 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+8 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5316
+shirt tight sleeveless~
+/cwa tight, sleeveless /cLworkman's /cwshirt/c0~
+/cwA small /cLblack shirt /cwwithout sleeves has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+3 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5317
+shirt blue~
+/cwa /cbblue /cwshirt/c0~
+/cwA /cbblue /cwshirt has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+3 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5318
+slacks pair white~
+/cwa pair of /cWwhite/cw slacks/c0~
+/cwA pair of /cWwhite/cw slacks have been left here./c0~
+Nothing.
+~
+9 0 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+5 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5319
+undergarments garments~
+/cwa pair of clean undergarments/c0~
+/cwA pair of clean undergarments have been left here./c0~
+~
+9 0 0 0 0 2049 0 0 0
+2 0 0 0 0 0 0 0
+2 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5320
+socks pair~
+/cwa pair of /cGgreen /cwsocks/c0~
+/cwA pair of cool /cGgreen /cwsocks have been left here./c0~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0 0 0 0 0
+1 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5321
+whiskey pint~
+/cwa /cypint /cwof/cy whiskey/c0~
+/cwA /cypint /cwof/cy whiskey /cwhas been left here./c0~
+~
+17 0 0 0 0 16385 0 0 0
+6 6 5 0 0 0 0 0
+11 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5322
+rigging~
+/cwa rigging line/c0~
+/cwA rigging line hangs down from the docks into the water./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+999 10 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

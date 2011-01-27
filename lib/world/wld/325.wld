@@ -1,0 +1,420 @@
+#32500
+Descent into the Lair of Jher~
+As one enters the lair, the sound of howling wargs becomes louder.  
+You feel a tingling in your spine, and the hair on the back of your
+neck stands on end.    
+~
+325 32769 0 0 0 3
+D1
+~
+~
+0 -1 32502 0
+D2
+~
+~
+0 -1 32501 0
+S
+#32501
+Mouth of a Cave~
+You see an eerie crack in the mountain face.  Some strange power
+creates an urge to explore further.    
+~
+325 32769 0 0 0 3
+D0
+~
+~
+0 -1 32500 0
+D3
+~
+~
+0 0 4150 0
+S
+#32502
+The Depths of the Lair of Jher~
+The descension into the home of Jher is one into the unknown, a place
+of impending doom and danger.  Only the bold and strong would continue
+the downward trek into his lair.  Upward lies safety.    
+~
+325 32769 0 0 0 0
+D3
+~
+~
+0 -1 32500 0
+D5
+~
+~
+0 -1 32503 0
+S
+#32503
+A Room in the Cave~
+This room is lit by torches, but even brighter are the eyes of the
+wargs that come to this room to feast.  These creatures are unique
+because they are continuously hungry.  This is not a good place to be.
+Your gaze passes from a young warg's glowing eyes to his drooling
+mouth.    
+~
+325 32776 0 0 0 0
+D2
+~
+~
+0 -1 32504 0
+D3
+~
+~
+0 -1 32506 0
+D4
+~
+~
+0 -1 32502 0
+S
+#32504
+A Room in the Cave~
+This room stinks of warg defecation.  The room is also scattered about
+with bones from old kills.  One dim torch in the corner provides the
+only light.  You feel very frightened.  As you look in disgust at the
+bones, you can see the traces of a trapdoor underneath.    
+~
+325 32776 0 0 0 0
+D0
+~
+~
+0 -1 32503 0
+D5
+A trapdoor is buried under a pile of bones.~
+trapdoor~
+1 -1 32505 3
+S
+#32505
+Small Treasure Room~
+Before you came along this room had not seen light since Jher was only
+a young man studying the ways of taming the wild.  Your eyes are
+stunned by a glistening pile of gold at your feet.  Once you can pry
+your eyes away from the pile of gold, you notice the snakes slithering
+up and around your legs.    
+~
+325 32777 0 0 0 0
+D4
+~
+~
+1 -1 32504 3
+S
+#32506
+An Unlit Hallway~
+As you journey deeper into the cave, the sounds of howling get louder.
+However, the only thing you can hear is the sound of your pounding
+heart.  The hallway continues west, but you also see a crack you may
+be able to pass through to the south.  You hear the sound of bats
+flapping overhead.    
+~
+325 32777 0 0 0 0
+D1
+~
+~
+0 -1 32503 0
+D2
+~
+~
+0 -1 32507 0
+D3
+~
+~
+0 -1 32512 0
+S
+#32507
+A Crack in the Wall~
+For some unknown reason, you have decided to explore this crack.  The
+thing you never know about caves is when you might fall into a
+bottomless pit.  You hear the dripping of an underground stream, and
+think about the horrible things that may be swimming or growing in it.
+~
+325 32781 0 0 0 0
+D0
+~
+~
+0 -1 32506 0
+D3
+~
+~
+0 -1 32508 0
+S
+#32508
+The Disgusting Underground Pool~
+You find youself up to your waist in muck.  The stench is overwhelming
+and you have the urge to vomit, but are afraid what creatures that
+might attract.    
+~
+325 32777 0 0 0 6
+D1
+~
+~
+0 -1 32507 0
+D2
+~
+~
+0 -1 32509 0
+D3
+~
+~
+0 -1 32511 0
+S
+#32509
+The Disgusting Underground Pool~
+You are waist deep in muck.  The stench is overwhelming.
+~
+325 32777 0 0 0 6
+D0
+~
+~
+0 -1 32508 0
+D3
+~
+~
+0 -1 32510 0
+S
+#32510
+The Disgusting Underground Pool~
+You are waist deep in muck.  The stench is overwhelming.
+~
+325 32777 0 0 0 6
+D0
+~
+~
+0 -1 32511 0
+D1
+~
+~
+0 -1 32509 0
+S
+#32511
+The Disgusting Underground Pool~
+You are waist deep in muck.  The stench is overwhelming.
+~
+325 32777 0 0 0 6
+D1
+~
+~
+0 -1 32508 0
+D2
+~
+~
+0 -1 32510 0
+S
+#32512
+An Unlit Hallway~
+The celing of this hall is getting higher.  You do not have to be in a
+crouch as you walk.  As you straighten your back and look ahead you
+see the most hideous thing you have ever seen.    
+~
+325 32780 0 0 0 0
+D1
+~
+~
+0 -1 32506 0
+D3
+~
+~
+0 -1 32513 0
+S
+#32513
+Breeding Room~
+You see two cages, one to the north, and one to the south.  The
+screaming and howling from the two cages blend together into a
+terrifying sound which brings you to the border of insanity.    
+~
+325 32776 0 0 0 0
+D0
+~
+door~
+1 32501 32515 7
+D1
+~
+~
+0 -1 32512 0
+D2
+~
+door~
+1 32501 32514 7
+D3
+~
+~
+0 -1 32516 0
+S
+#32514
+The Male Warg Holding Cage~
+The animals in this cage, jump at you as you open the cage door.  The
+door you just opened provides the fastest route to the female cage
+across the room.  These disgusting wargs never get enough of two
+things, food and female wargs.  You may have just provided them with
+both.    
+~
+325 32777 0 0 0 0
+D0
+~
+~
+1 32501 32513 3
+S
+#32515
+The Female Warg Holding Cage~
+These female wargs are in absolute terror of the males in the cage
+across the room.  As you entered this cage, they mistake you for a
+male sent in to proliferate the dirty warg race.  However once they
+realize it is only you, they then try to remember when it was that
+they had their last meal.    
+~
+325 32777 0 0 0 0
+D2
+~
+door~
+1 -1 32513 3
+S
+#32516
+A Further Descent~
+This path is totally devoid of light.  As you keep walking west you
+bump into a slimy wall and by feeling determine that the tunnel now
+turns southward.    
+~
+325 32777 0 0 0 0
+D1
+~
+~
+0 -1 32513 0
+D2
+~
+~
+0 -1 32517 0
+S
+#32517
+A Further Descent~
+After making the turn southwards, you are dismayed to discover that
+once again the tunnel goes down.  But you are comforted because you
+know that you have at least made it this far alive.    
+~
+325 32777 0 0 0 0
+D0
+~
+~
+0 -1 32516 0
+D5
+~
+~
+0 -1 32518 0
+S
+#32518
+The Passage to the Throne Room~
+As you reach the bottom of your climb you straighten up and look
+northwards.  There is a huge wood and iron door, with a round brass
+handle.  There are two large warg warriors standing guard at either
+side of this door.  To get by, you will either have to kill them or
+sneak by and pick the lock.    
+~
+325 32777 0 0 0 0
+D0
+~
+door~
+1 32507 32519 7
+D4
+~
+~
+0 -1 32517 0
+S
+#32519
+Southern end of the Throne Room~
+This must be a throne room.  The ruler of these wargs must be very
+wealthy, but he also must be cruel to live in such luxury while all
+his slaves suffer.    
+~
+325 32776 0 0 0 0
+D0
+~
+~
+0 -1 32520 0
+D2
+~
+door~
+1 -1 32518 3
+S
+#32520
+Northern End of the Throne Room~
+There is a huge throne made of the finest gold and glistening with the
+finest jewels.  Even with all this brightness, you are overwhelmed by
+darkness, for Jher sits on the throne.    
+~
+325 32776 0 0 0 0
+D0
+~
+door~
+2 32509 32521 15
+D2
+~
+~
+0 -1 32519 0
+D5
+~
+~
+0 0 20 16
+S
+#32521
+Jher's Bedroom~
+This is where Jher sleeps.  To avoid the chance of the wargs attacking
+him in anger while he sleeps, he specially bred Knanath to protect
+him.  The bedroom is dark, for Jher loves the darkness.  Above the bed
+you see a hole to another tunnel.  This was to be his escape route if
+was ever trapped in his room.    
+~
+325 32777 0 0 0 0
+D2
+~
+~
+2 -1 32520 11
+D4
+~
+~
+0 -1 32522 0
+S
+#32522
+Tunnel Above Jher's Bedroom~
+This tunnel has never been used because Jher never had the need.
+After the climb up here, it levels off and turns south.
+~
+325 32777 0 0 0 0
+D2
+~
+~
+0 -1 32523 0
+D5
+~
+~
+0 -1 32521 0
+S
+#32523
+A Small Tunnel~
+Since Jher had never used this tunnel, he never paid any attention to
+its upkeep.  You have to crawl now, and as you crawl, you seem to be
+ascending.    
+~
+325 32777 0 0 0 0
+D0
+~
+~
+0 -1 32522 0
+D2
+~
+~
+0 -1 32524 0
+S
+#32524
+The Secret Room~
+When you finally make it to this room, you are incredibly exhausted.
+You sit down to rest on an old trunk.  As you sit, you brush aside
+some dust on the trunk.  The shine from your light off the golden
+chest is blinding.  As you try to open it, you realize in
+disappointment that it is locked.  However if you look around, you may
+find something hidden that will open it.    
+~
+325 32777 0 0 0 0
+D0
+~
+~
+0 0 32523 0
+S
+$~

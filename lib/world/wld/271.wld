@@ -1,0 +1,1911 @@
+#27100
+The Entrance of the Dream~
+Emerging from the waterfall portal, breathless imagining the wonders
+that could be beyond your sight.  You now stand on a barren,
+desert-like cloud, which depresses slightly underneath your weight.  
+This vast expanse awes you, but you see something to the east, west,
+north, and up.    
+~
+271 0 0 0 0 2
+D0
+~
+~
+0 0 27102 0
+D1
+~
+~
+0 0 27101 0
+D2
+~
+~
+0 0 27103 0
+D3
+~
+~
+0 0 27103 0
+D4
+~
+~
+0 0 27104 0
+D5
+~
+~
+0 0 27108 0
+S
+#27101
+The Field of Dreams~
+As you leave the relatively sane portal entrance, your external and
+internal sense become bombarded almost immediately by seperate,
+totally beautiful ideas which you suspect is only a microcosm of the
+entire place.  You "see" a tree growing out of its roots, branches
+waving in the breeze.  You "smell" everything nice youve ever smelled,
+wrapped up into one burst of feeling.  You feel the likes of soft
+silk, or of stroking a body with perfect skin, gently.  You taste all
+the wonderful foods youve ever tasted--of recipes that once existed
+but are gone forever, of your mother's soup as she brought it to you
+when you were sick.  And finally, you hear all the wonderful things to
+hear--Of beautiful lake-side nymphs, tittering in their innocence, of
+two lovers breaking a sustained kiss.  You feel you could simply lie
+down and wra yourself in these emotions until the day you die.  Exits
+lead east, north, and west.    
+~
+271 0 0 0 0 2
+D0
+~
+~
+0 0 27108 0
+D1
+~
+~
+0 0 27107 0
+D3
+~
+~
+0 0 27100 0
+D4
+~
+~
+0 0 27100 0
+S
+#27102
+A Vast Expanse of Cloud Cover~
+You wander out of the strange portal into the room directly north of
+you.  Almost as if walking through a thick door, the utter vastness of
+this new room astounds you.  You can't even hope to see the end of it,
+no matter how far you look.  Its simpy enourmous!!  Exits lead in all
+directions.    
+~
+271 0 0 0 0 2
+D0
+~
+~
+0 0 27102 0
+D1
+~
+~
+0 0 27102 0
+D2
+~
+~
+0 0 27100 0
+D3
+~
+~
+0 0 27102 0
+D4
+~
+~
+0 0 27102 0
+D5
+~
+~
+0 0 27102 0
+S
+#27103
+The Cheery Path Before the Cottage~
+You step onto a well worn path that extends into a coatto some 30 feet
+hence.  This small path is extremely pleasant, as the purple
+over-hanging trees filter light through their square leaves, and the
+lions have just woken up to sing their morning songs as they flit
+about the tree.  Around you on the path are shrubs, little stalks of
+grass, and...  As you lean closer, you discover it isin't grass--It is
+chewing into your hand.  Exits lead east, west into the cottage and
+north.    
+~
+271 4 0 0 0 10
+D0
+~
+~
+0 0 27106 0
+D1
+~
+~
+0 0 27100 0
+D3
+~
+Cottage~
+1 0 27105 3
+S
+#27104
+The Lair of the Not-so-Terrible Cousin of the Newbie Monster~
+You wander up from the portal into the lair of the not-so-terrible
+cousin of the Newbie Monster.  Instead of bones, you see balls and
+toys lying around, and instead of attacking you, hes trying to get you
+to play!  The lair itself is small, and the monster is even smaller.
+He has short green fur, and 2 blunt teeth.    
+~
+271 1 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 27100 0
+S
+#27105
+Inside the Cottage~
+This hut is a homy, warm, comfortable looking little abode, with a
+large stone fireplace, small rickety bed and a rotting rocking chair.
+In that chair, you see an extremely old goat, sitting upright, somehow
+knitting a scarf.  The material she is holding obscures her hoofs, and
+prevents you from divining how she is actually holding it.    
+~
+271 8 0 0 0 0
+D1
+~
+Cottage~
+1 0 27103 3
+S
+#27106
+The Branching Path Into the Deep Hairbrushes~
+Avoiding the cottage, you veer north onto a small path which seems to
+be made out of a sticky green substance.  As you advance further into
+the "forest", you see what you mistook as trees were really bristles
+on large, silver hairbrushes.  And some animals seem to be sweeping
+about in the trees as well.  The path leads north and south.    
+~
+271 0 0 0 0 10
+D0
+~
+~
+0 0 27113 0
+D2
+~
+~
+0 0 27103 0
+S
+#27107
+The Sub-Conscious Mind~
+As you step into this room, yet another memory/emotion overcomes you.
+You are experiencing someone elses life.  You are a mortal, young, and
+have a healthy greed for power.  As you get older and aquire more
+power, you are voted a demi-god by your followers.  Now, you want even
+more.  You displace a leading god, and quicky assume that position.  
+You are now on par with the other gods.  And yet, it is still not
+enough.  Eventually you manage to form the gods into a panthenon, with
+you as the leader.  You now have ultimate power--but you are still not
+happu with your position.  You come back into this world as the vision
+fades into the present.    
+~
+271 8 0 0 0 0
+D3
+~
+~
+0 0 27101 0
+S
+#27108
+The Inverted Mountain~
+You step into the next area, and almost go tumbling down a
+mile-high(low) mountain.  Yes, tumbling down--it is inverted!  
+However, at the bottom of the mountain you see something faintly
+glowing in an unholy light.  Exits least east, west, south, north and
+down.    
+~
+271 4 0 0 0 5
+D0
+~
+~
+0 0 27111 0
+D1
+~
+~
+0 0 27109 0
+D2
+~
+~
+0 0 27101 0
+D3
+~
+~
+0 0 27110 0
+D4
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 27112 0
+S
+#27109
+Concepts~
+You sidestep the inverted mountain and enter the room to the east.  
+Knowledge permeates your pores, flooding you with concepts never even
+thought of, let along practiced.  Of destroying monsters, cities, even
+Worlds with something called an "anti-matter reaction".  You try to
+make sense of the wisdom that is flooding you, but you can barely
+grasp concepts, let along specifics.  You somehow know wherever you
+are, There is someone here who is supremely more powerful than you.  
+~
+271 8 0 0 0 0
+D3
+~
+~
+0 0 27108 0
+S
+#27110
+A Completely Drawkcab Room~
+As you sidestep around the inverted mountain and come into the room to
+the west, you find yourself standing on the "ceiling", staring down at
+the floor.  Thats not all thats backward--You notice your body itself
+beginning to invert itself and bone to poke through the skin.  The
+monster that stumbled in here seems to be feeling the same thing, and
+dosen't look to pleased about it either.    
+~
+271 136 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 27108 0
+S
+#27111
+The 8-fold Path~
+You step into yet another medium sized room.  The room is grassy, with
+a feeling of utter peace and calm.  The wind rustles through your
+hair, and a beautiful crystal lake laps gently at the short.  Only one
+thought squeezes inside your skull: Siddharta.  You have no idea who
+or what it means, but you feel it represents power and knowledge.    
+~
+271 16 0 0 0 10
+D0
+~
+~
+0 0 27126 0
+D1
+~
+~
+0 0 27116 0
+D2
+~
+~
+0 0 27108 0
+D3
+~
+~
+0 0 27119 0
+S
+#27112
+The Bottom of the Inverted Mountain~
+You go tumbling, rolling, turning, careening, and caroming down the
+mountain into the bottom.  (top) You see a cute little monster with
+pincers giggling, and below it you see a hole that leads to a
+strangely familiar room.  You see now there is no way you can climb
+back up these slick, shiny walls.  The only exit is down.    
+~
+271 1 0 0 0 0
+D4
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 27100 0
+S
+#27113
+The Path Deep Within the Hairbrush Forest~
+You continue on down the path, and feel nervous as Now-golden brushes
+begin to press close to the path.  You cannot see an end to the green
+trail, but the animals swinging in the bristles make you wish you
+could.  Exits lead north and south.    
+~
+271 1 0 0 0 10
+D0
+~
+~
+0 0 27114 0
+D1
+~
+bristle~
+1 0 27115 3
+D2
+~
+~
+0 0 27106 0
+S
+#27114
+Clearing the Forest~
+You push by a last strand of golden bristle, and emerge into a circle
+of daggers.  No, wait.  They seem to be alive.  As you emerge into
+this room, the forest behind you seals off and new pathways open up.
+This room is bright, with sunlight streaming down through distant
+treetops, making interesting patterns on the floor.  However, the
+monsters in here arent so natural.  You see horribly disfigured
+daggers that seem to sprout small limbs and mouths.  Exits lead east,
+west and north.    
+~
+271 0 0 0 0 2
+D0
+~
+~
+0 0 27133 0
+D1
+~
+~
+0 0 27131 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+Love~
+1 0 27132 3
+S
+#27115
+The Secret Alcove~
+You haul open the lustrous bristle and step inside.  Instantly,
+blackness overwhelms your senses and you fall forward, banging your
+head on the ceiling.  Youre not sure how, but something isisnt right
+here...  You try to feel around the walls, but only feel up yourself.
+It seems everything is reversed.  This could be a problem..    
+~
+271 129 0 0 0 0
+D3
+~
+bristle~
+1 0 27113 3
+S
+#27116
+A Branch of the 8-fold Path~
+This path is just as beautiful as the main one, but is slightly
+smaller and you hear an eerie singing from the north.  The path
+continues to the east or west.    
+~
+271 16 0 0 0 10
+D0
+~
+~
+0 0 27125 0
+D1
+~
+~
+0 0 27117 0
+D3
+~
+~
+0 0 27111 0
+S
+#27117
+A Branch of the 8-fold Path~
+This path is just as beautiful as the main one, but is slightly
+smaller and you hear a rumbling sound eminating from the north.  The
+path continues to the east or west.    
+~
+271 16 0 0 0 10
+D0
+~
+~
+0 0 27124 0
+D1
+~
+~
+0 0 27118 0
+D3
+~
+~
+0 0 27116 0
+S
+#27118
+A Branch of the 8-fold Path~
+This is the last of the 8-fold paths, and a loud screech reaches your
+ears from the north.  The path leads only back west, or north into
+unknown territory.    
+~
+271 16 0 0 0 10
+D0
+~
+~
+0 0 27123 0
+D3
+~
+~
+0 0 27117 0
+D5
+~
+~
+1 0 -1 1
+S
+#27119
+A Branch of the 8-fold Path~
+You stroll west off the main path, and find yourself in another
+pleasent place, warm yet comfortable due to the gentle breeze playing
+through your hair.  The path leads back to the main room, or west to
+more of the 8-fold path.    
+~
+271 16 0 0 0 10
+D0
+~
+~
+0 0 27127 0
+D1
+~
+~
+0 0 27111 0
+D3
+~
+~
+0 0 27120 0
+S
+#27120
+A Branch of the 8-fold Path~
+You continue down the 8-fold path, seeking wisdom, knowledge but
+answers most of all.  This whole area causes you distress, as its
+incognito nature threatens to overwhelm you.  As almost in answer to
+your desperate mental cry, a sound is heard from the north, as of
+untold answers and soon to be asked questions.    
+~
+271 0 0 0 0 10
+D0
+~
+~
+0 0 27128 0
+D1
+~
+~
+0 0 27119 0
+D3
+~
+~
+0 0 27121 0
+S
+#27121
+A Branch of the 8-fold Path~
+Again, the feeling of non-violence envelops you.  You begin to despise
+your weapon, and start to ponder where the best place to grow flowers
+would be.  From the north, you hear a melifflous singing, luring you
+in.    
+~
+271 0 0 0 0 10
+D0
+~
+~
+0 0 27129 0
+D1
+~
+~
+0 0 27120 0
+D3
+~
+~
+0 0 27122 0
+S
+#27122
+A Branch of the 8-fold Path~
+The feeling of peace is less overhwelming here, but still prevents you
+from causing any trouble of any kind.  A crunching sound is heard from
+the north.    
+~
+271 0 0 0 0 10
+D0
+~
+~
+0 0 27130 0
+D1
+~
+~
+0 0 27121 0
+S
+#27123
+The Garden of Tears~
+You step off the 8-fold path, and wander into a beautiful garden, much
+like the hanging gardens of Babylonia.  Exotic plants and bushes line
+the room, and lakes of crystal clear water dot the landscape.  From
+across the room, you see 2 boys converge upon you, swinging wooden
+toys and wagons.    
+~
+271 0 0 0 0 2
+D0
+~
+~
+0 0 27150 0
+D2
+~
+~
+0 0 27118 0
+S
+#27124
+Gray Light~
+Gray light surrounds you from no apparent source, causing you to
+attempt to peer deeper into this lumination.  You try to see around
+it, but only find yourself more lost.  You feel strange presences as
+you stumble about, and you believe they are spirits.  You are pushed,
+burned, and toyed with yet that one presence that has been with you
+for the whole trip leads you into the next room.    
+~
+271 1 0 0 0 0
+D0
+~
+~
+0 0 27149 0
+D2
+~
+~
+0 0 27117 0
+D4
+~
+~
+0 0 -1 0
+S
+#27125
+Path of Temptation~
+You step off the 8-fold path and see a bouncy, buxom maiden playing a
+harp about 10 feet north of here.  She exclaims, and calls to you
+"come in, sirrah.  " have a drink, methinks you should play a game
+with me.  Then, a somber man steps out.  Come in.  I shall delight you
+with my entertainements and delights from all across the world.  You
+see now he is handsome, and built well.    
+~
+271 0 0 0 0 10
+D0
+~
+~
+0 0 27148 0
+D2
+~
+~
+0 0 27116 0
+S
+#27126
+Through the Barrier~
+You wade your way through a seemingly endless barrier of ethereal,
+blinding fog, penetrating it in less time that you thought you would
+spend.  You have arrived at a suprisingly familiar place, and every
+step seems to be a re-enactment of some sort, a constant deja-vu set
+into motion.  Searching deep within your memories, you succeed in
+finding the hidden corner that corresponds to the scenery before you..
+And the view metamorphosizes into something else altogether.  Your
+mouth gaping wide in shock, your senses gradually become accustomed to
+the sudden change, and once again you deel the nostalgic familiarity
+from the beginning...  As you wander through the mnemonic diary of
+your lifetime, you are suddenly swallowed up by a burst of cold,
+unearthly mist, and transported to a different place.    
+~
+271 165 0 0 0 0
+D0
+~
+~
+0 0 27147 0
+D2
+~
+~
+0 0 27111 0
+S
+#27127
+The Chamber of the Mako Shark~
+The Mako shark is a long, brown shark with teeth and feet.  A thought
+tells you this was his pet before the Sleep.  It looks hungry, though.
+~
+271 8 0 0 0 0
+D2
+~
+~
+0 0 27119 0
+S
+#27128
+The Soft in the Hard~
+You step into this room, and collapse into a liquid.  Using deft
+strokes, you swim toward the edge, you encounter a transparent
+substance, blocking you in.  There seems to be a strange shape in the
+glass, though...    
+~
+271 8 0 0 0 6
+D0
+~
+Glass~
+1 0 27146 3
+D2
+~
+Glass~
+1 0 27120 1
+S
+#27129
+Loves Labor Lost~
+You step off the safety of the 8-fold path, and immediately your
+entire being is swept up in the emotion of lust as the singing from
+the northern room clasps you tightly like a lovers embrace.  You must
+find out what is in that room.  Exits lead north and south.    
+~
+271 40 0 0 0 0
+D0
+~
+~
+0 0 27145 0
+D2
+~
+~
+0 0 27121 0
+S
+#27130
+The Rest Stop Before Maligranda~
+You begin to wade through the ether, becoming lost in a swirl of time
+and dimensions.  After what could have been an eternity, or half a
+second, you emerge through the cloud on the other side.  To your
+south, you see chaos, and to the north some sort of metallic beast.  
+You smell something very strange, however...    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27144 0
+D2
+~
+~
+0 0 27122 0
+S
+#27131
+Departure~
+You step into a new room, off the clearing in the forest.  Almost
+immediately torrents of rain begin to beat at your body, and the wind
+tears through your armor.  You are standing, imperceptible, next to a
+grave, with a young man paying homage to some lost soul, obviously
+important to him.  The mans face is familiar, but you can't quite
+place it.  The young man places flowers on the grave, and steps back,
+tears rolling down his cheek.  Even admist the thunder and rain, you
+sense a feeling of peace and devotion radiate out from the man,
+encompassing all there is see.    
+~
+271 1 0 0 0 0
+D3
+~
+~
+0 0 27114 0
+S
+#27132
+The Crystal Clear, Flowing Waterfall~
+The crystal clear water flows down the cliffside, landing with
+thundering force onto the river below.  Yet within this powerful
+force, a small alcove is created by the sheet of water.  A beautiful
+room, hidden from all behind the protection of crystal clear power.  
+This room is small, yet easily accomodates two people.  The ground and
+walls are soft earth, and it depressed slightly under pressure.  It is
+sensual, comfortable, and exciting to the senses.    
+~
+271 65684 0 0 0 0
+D1
+~
+Love~
+1 0 27114 3
+S
+#27133
+Love~
+A whirlwind of emotion lifts you up beyond the stars as you are
+wrapped in the feeling of love, and amour.  You are with a girl,
+becoming a woman, and you stare into the eyes of each other.  You
+exchange gifts, secrets, kisses, and you know this is the woman you
+want to marry.  The feeling fades out as the brush closes in behind
+you.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27134 0
+D2
+~
+~
+0 0 -1 0
+S
+#27134
+Remorse~
+So soon after the emotion of love, you feel battered as Remorse hits
+you like a sledgehammer in the back of the skull.  You feel out of
+place, and angry.  You stand helpless as a man comes, and buys your
+love.  She cries out, but the man drags her out the door as you stand
+helpless against the power of greed.  You know she will be raped, and
+killed.  A burst of phantasmic colors releases you back into the
+present.    
+~
+271 128 0 0 0 0
+D0
+~
+~
+0 0 27135 0
+D2
+~
+~
+0 0 27133 0
+S
+#27135
+Revenge~
+A blindind flash.  2 inches of steel penetrates your flesh, slipping
+in and out of your ribs so easily and quickly you believed it was
+magic.  Just as the bleeding begins, a heavy, metal boot smashes into
+your now-opened wound, causing pain to echo within every corner of
+your body.  The fall to the ground means nothing.  Your pain is
+intense, yet when the scalpel begins to slowly flay your flesh, you
+realize that death is all you could possibly ever want.  Finally, a
+heavy flail is brought into play.  What was once called your legs now
+become what most call jelly.  Finally, an axe severs your ligaments
+and bone while your head is beaten in with your own arm.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27136 0
+D2
+~
+~
+0 0 27134 0
+S
+#27136
+Panic~
+An eddie of thought hits you: You have to flee the city!  After
+killing the slave trader, you know you will be hunted by the death
+squad and killed, so you flee to a temple in tarsis to pray for mercy.
+Sune, the goddess, recognizes your potential and takes you up as a
+demi-god.  The eddie swirls south, as you return to your senses.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27137 0
+D2
+~
+~
+0 0 27135 0
+S
+#27137
+Immortality~
+A burst of light, and new powers are granted upon you.  Sune has made
+you a demi-god, and assigned you followers.  Serve her well, and you
+will prosper in this world.  This is what you hear as you slowly fade
+back into the present.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27138 0
+D2
+~
+~
+0 0 27136 0
+S
+#27138
+The Clearing Before the D'rahana~
+Trees and bushes line the Stone walls of the D'Rahana.  There is a
+metal porticullis in front of you, large and ominous.    
+~
+271 0 0 0 0 0
+D0
+~
+Porticullis~
+1 0 27139 3
+D2
+~
+~
+0 0 27137 0
+S
+#27139
+Entrance Hall to D'rahana~
+You are in a grand hall, in the middle of the D'rahana.  The walls are
+covered with rich tapestries, and the floor polished teak.  A door
+leads to the east.    
+~
+271 8 0 0 0 0
+D1
+~
+Door~
+1 0 27140 3
+D2
+~
+Porticullis~
+1 0 27138 3
+S
+#27140
+The Branching Within D'rahana ~
+You step into a smaller room, yet seemingly larger due to the ivory
+floors and golden walls and ceilings.  Exits lead north, south and
+east.  From the east, you hear sobbing.    
+~
+271 4 0 0 0 0
+D0
+~
+~
+0 0 27143 0
+D1
+~
+Cell~
+2 27124 27142 15
+D2
+~
+~
+0 0 27141 0
+D3
+~
+Door~
+1 0 27139 1
+S
+#27141
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling.    
+~
+271 5 0 0 0 0
+D0
+~
+~
+0 0 27140 0
+D2
+~
+~
+0 0 27152 0
+S
+#27142
+The Chambers of Princess Smallbody~
+You step into a small, dungeon-like chamber..  You see Dirty straw
+spread on a grimy floor.  To the side of the chamber, a family of rats
+seems to be nesting.  At the back of the chamber, you see a filthy
+woman who still seems to be regal despite her current state.  
+Focusing on the thoughts in the room, you sense This woman is Princess
+Smallbody, and is one of the first concubines Sunes Demi-god took.  
+She seems to have been recreated by a small part of a sub-conscious.
+Still, she seems luscious, and looks up at you with hopeful,
+tear-stained eyes.  She wears A collar, chained to the wall.    
+~
+271 8 0 0 0 0
+D3
+~
+Cell~
+2 27132 27140 15
+S
+#27143
+The Hall Before the Chamber of Bellion~
+You step into a medium sized chamber that is made of onyx and black
+paint.  To the north, you see a black door with black bars and an evil
+sound eminating from behind it.  The walls seem to glow in an unholy
+light, as if just the presence of that being behind the door causes
+them to become evil.    
+~
+271 8 0 0 0 0
+D0
+~
+Bars~
+1 0 27151 3
+D2
+~
+~
+0 0 27140 0
+S
+#27144
+Maligranda~
+As you step into this room, a stench overcomes you--about the time the
+blast of flame strikes you.  Maligranda is huge, metallic, and emits a
+crunching sound as he stomps around his room.  He seems to be emitting
+some sort of foul odor, and jets of fire emit from his nostrils.    
+~
+271 8 0 0 0 0
+D2
+~
+~
+0 0 27130 0
+S
+#27145
+Lost the Confused~
+You step into the room, expecting to sweep some beautiful person into
+your arms, and...  You find a small elf, playing with emotion magic.
+He tells you his name is lost, and he IS lost.  He needs his belt to
+get back home, and can you please help him?  Hes really a cute little
+fellow once you get over the knife hes grabbing with vigorous
+anticipation.    
+~
+271 1 0 0 0 0
+D2
+~
+~
+0 0 27129 0
+S
+#27146
+Under the Net~
+A huge net falls on you as a crap tries to flay with a big metal
+pincer.  Run!  Flee!  Exit, leave, escape and get out of here!    
+~
+271 0 0 0 0 0
+D2
+~
+Glass~
+1 0 27128 3
+S
+#27147
+The Other-Dimension~
+A man is here.  He is of average stature, slightly muscular, and has
+light brown hair.  Still, as you walk in the room, you fall to your
+knees, and bow your head in worship.  He smiles gently, and touches
+your head.  Immediately, you scream out in pain.  You feel as if you
+are being violated over and over, or like a snake is eating you from
+inside out.  You feel dirty, unclean and hurt.  When you look up
+again, You see nothing, except yourself--cold and shivering on the
+barren stone floor.    
+~
+271 128 0 0 0 0
+D2
+~
+~
+0 0 27126 0
+S
+#27148
+The Lair of the Temptations~
+You step into the dingy lair, and the man/woman team immediately
+converge on you, she turning into an ugly hag, him discarding his
+pretense of illusion and turning into a goblin with a knobby club.  
+You see she wields a golen bow.    
+~
+271 9 0 0 0 0
+D2
+~
+~
+0 0 27125 0
+S
+#27149
+The Portal~
+You are plunged into a shimmering portal.  Again, you hack your way
+through the ether, and enter a new and mysterious room.    
+~
+271 1 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 27124 0
+S
+#27150
+THE PIT~
+Oh no!  Youre stuck!  Theres.....  No.....  Way....  Out.  Also, youre
+running out of air.  You manage to stop your descent halfway down, and
+see that it is dark, smelly and very very hot...    
+~
+271 289 0 0 0 0
+D2
+~
+~
+0 0 -1 0
+S
+#27151
+Bellion's Quarters~
+Bellion is not overly tall, but very muscular with stringy black hair.
+He leans against a wall, sharpening his black sword with a black
+whetstone.  He glances up, his black eyes reflecting his black soul as
+he points his blade at your neck and charges, screaming some twisted
+warcry.    
+~
+271 65544 0 0 0 0
+D2
+~
+Bars~
+1 0 27143 1
+S
+#27152
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27141 0
+D2
+~
+~
+0 0 27153 0
+S
+#27153
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27152 0
+D2
+~
+~
+0 0 27154 0
+S
+#27154
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27153 0
+D2
+~
+~
+0 0 27155 0
+S
+#27155
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 8 0 0 0 0
+D0
+~
+~
+0 0 27154 0
+D2
+~
+~
+0 0 27156 0
+S
+#27156
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27155 0
+D2
+~
+~
+0 0 27157 0
+S
+#27157
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27156 0
+D2
+~
+~
+0 0 27158 0
+S
+#27158
+The Long Tunnel Within the D'rahana~
+You enter a long, dank tunnel with visibility 0.  You cant see the
+end, and can only feel dark sloping walls curving up in an arch-like
+formation to create the ceiling, a 6 foot high dark piece of metal.  
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27157 0
+D2
+~
+~
+0 0 27159 0
+S
+#27159
+The End of the Long Tunnel Within the D'rahana~
+You enter the final junction of the tunnel, and a massive oaken door
+lies to the south.  Luckily, it seems to have been recently used and
+unlocked.  Behind the door, a strange smell eminates out, and a
+snuffling sound is heard.    
+~
+271 9 0 0 0 0
+D0
+~
+~
+0 0 27158 0
+D2
+~
+~
+0 0 27160 0
+S
+#27160
+The Entrance to Narel's Home~
+A very powerful thought eddie strikes you as you enter this room: This
+is the home of the gods dream you are exploring!  You look around in
+amazement, awed at being able to witness this directly.  The smell is
+"dinner", and the snuffling sound is a pet pig Narel kept.  The house
+is rather large, uncommon for these times, but you see his family was
+somewhat wealthy.  Exits lead up to the second floor, and east to the
+dining room.  West and south are blocked off by doors.    
+~
+271 4 0 0 0 0
+D0
+~
+~
+0 0 27159 0
+D1
+~
+~
+0 0 27163 0
+D2
+~
+Door~
+1 0 27161 3
+D3
+~
+Door~
+1 0 27162 3
+S
+#27161
+The Hallway~
+You step out of the main room into a bright hallway.  Guest rooms lead
+east and west, and the hallway itself continues down the hall, with
+more rooms to each side.    
+~
+271 0 0 0 0 0
+D0
+~
+Door~
+1 0 27160 3
+D1
+~
+Guest~
+1 0 27164 1
+D2
+~
+~
+0 0 27166 0
+D3
+~
+Guest~
+1 0 27165 1
+S
+#27162
+The Workshop~
+After the beautiful home you have seen, it is a shock to enter back
+into something closer to what you can relate to.  The thought eddie
+tells you this is a workshop Narel's father built in, constantly
+trying to further the cause of Magic and Might.  Various tools lie
+strewn about the room, and a big workbench is off to the side.    
+~
+271 0 0 0 0 0
+D1
+~
+Door~
+1 0 27160 3
+S
+#27163
+The Dining Room~
+You step into a grand, majestic hall that seems to ripple with wealth.
+Though the ceilings are high, it feels rather homey, and the
+tapestries along the wall demonstrate pictures of past relatives, and
+the weapon that killed them while they fought honorably in a battle.
+There is a large table in the middle of the room, with steaming hot
+dishes laid out on it.    
+~
+271 0 0 0 0 0
+D3
+~
+~
+0 0 27160 0
+S
+#27164
+A Guest Room~
+You enter a small, cramped guest room that nonetheless has a workable
+bed easily big enough to accomodate 2.  There is an oil light and
+persian carpet strewn across the floor.    
+~
+271 0 0 0 0 0
+D3
+~
+~
+0 0 27161 0
+S
+#27165
+A Guest Room~
+You step out of the main room into a bright hallway.  Guest rooms lead
+east and west, and the hallway itself continues down the hall, with
+more rooms to each side.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 27161 0
+S
+#27166
+The Hallway~
+You continue on the bright hallway.  Guest rooms lead east and west,
+and the hallway itself continues down the hall, with more rooms to
+each side, giving the hallway many exits.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27161 0
+D1
+~
+~
+0 0 27167 0
+D2
+~
+~
+0 0 27169 0
+D3
+~
+~
+0 0 27168 0
+D5
+~
+Trap~
+1 0 27170 3
+S
+#27167
+A Guest Room~
+You enter a small, cramped guest room that nonetheless has a workable
+bed easily big enough to accomodate 2.  There is an oil light and
+persian carpet strewn across the floor.    
+~
+271 0 0 0 0 0
+D3
+~
+~
+0 0 27166 0
+S
+#27168
+A Guest Room~
+You enter a small, cramped guest room that nonetheless has a workable
+bed easily big enough to accomodate 2.  There is an oil light and
+persian carpet strewn across the floor.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 27166 0
+S
+#27169
+The Hallway~
+You continue on down the long hallway.  To the east, you see Narels
+bedroom as a child, and to the west you see Fremps room.  The hallway
+continues further south with more family bedrooms and guest sleeping
+quarters.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27166 0
+D1
+~
+~
+0 0 27172 0
+D2
+~
+~
+0 0 27171 0
+D3
+~
+~
+0 0 27173 0
+S
+#27170
+An Alcove~
+You climb down into a dark alcove.  Nothing much to see here, except a
+pair of glowing red rat eyes.  The ladder leads back up to narel's
+home.    
+~
+271 1 0 0 0 0
+D4
+~
+trap~
+1 0 27166 3
+S
+#27171
+The Hallway~
+You continue down the hallway.  Narel's mother and father reside east
+and west of here.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+0 0 27169 0
+D1
+~
+~
+0 0 27174 0
+D2
+~
+~
+0 0 27177 0
+D3
+~
+~
+0 0 27175 0
+S
+#27172
+Narel's Room~
+You enter a giant room, lavish with tapestries and pillars.  The only
+problem with this image is the numerous wooden toys and cyprus books
+covering the floor in the manner a carpet does.  A large bed is half
+covered with junk, and a wooden cabinet off in the corner is almost
+complete buried, overgrown with things bought but never used.  The
+thought eddie relates to this room.  It was his, when he was a mortal.
+The thought fades out, but the room remains.  The magic seems to be
+growing stronger...    
+~
+271 0 0 0 0 0
+D3
+~
+~
+0 0 27169 0
+S
+#27173
+Fremp's Room~
+You step into Fremp, narel's sisters room.  Its completely brown, from
+the floor to the bed to the clothes on the floor.  There nothing much
+in here but A bed, dresses, carpet...  And Fremp.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 27169 0
+S
+#27174
+Matra's Room~
+Matra's room is cozy and warm.  Very small--strange for this house.  
+All you really see in this room is a small, wooden bed and a hearth
+with a fire burning merrily.  Patra's room is across the hall, and you
+hear a bustling from there.    
+~
+271 0 0 0 0 0
+D3
+~
+~
+0 0 27171 0
+S
+#27175
+Patra's Room~
+Patra's room is Grand, expensive and flaunts many rare statues and
+pictures.  The floor is a thick red carpet you could drown in, and the
+walls are pure ivory.  The ceiling seems to be melted silver mix, and
+rubies line the dressers and beds.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 27171 0
+S
+#27176
+Sacrifice~
+You continue with Narel in his godhood as he does chores for Sune and
+slowly rises in power.  You watch in amazement as he displaces Sune in
+his now ever-present quest for power.  Higher, and higher Narel climbs
+as he destroys god after god, reaping in their followers.  You realize
+he spoke to the lord of death, and sold his compassion, purity, and
+all good for the ability to gain power quickly and efficently.  The
+thought slips out of your soul, and you are left alone.    
+~
+271 256 0 0 0 0
+D3
+~
+~
+0 0 27196 0
+S
+#27177
+The Portal~
+From the normal house, you suddenly step into a strange glittering
+Portal room.  All are opaque, but you can sense each leads to some
+important part of Narel's life.    
+~
+271 0 0 0 0 0
+D0
+~
+~
+1 0 27171 1
+D1
+~
+Portal~
+1 0 27178 3
+D2
+~
+portal~
+1 0 27182 3
+D3
+~
+Portal~
+1 0 27179 3
+D4
+~
+Portal~
+1 0 27181 3
+D5
+~
+Portal~
+1 0 27180 3
+S
+#27178
+The Whip~
+A powerful thought slams into your mind as you enter this room.  The
+whip is the bane of Narel's mortal life.  Patra would carry it about
+like a taskmaster, whipping Narel and his sister.  The laceration, the
+blood..  The thought flees as you ponder the implications of what you
+have learned.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 27107 0
+D3
+~
+~
+0 0 -1 0
+S
+#27179
+The Voice~
+The eddie enters your mind again.  The voice was used by Narel's
+mother.  The harsh, high overtones.  It threatens to drive you insane
+as you hear the shrill pitch of what could only be an irate mother.  
+Her voice cuts into you like the wail of a siren with a throat
+disease.    
+~
+271 0 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 27104 0
+S
+#27180
+Pain~
+Pain is what inhabits this room, as you double over from an imagined
+cramp as blisters begin to appear down your back and a headache splits
+your skull.  You are experiencing every pain Narel ever felt,
+channeled off into this room.  As the thought fades out, a strange
+presence is still hovering in the room...  And it looks PAINful.    
+~
+271 0 0 0 0 0
+D4
+~
+~
+0 0 27177 0
+D5
+~
+~
+0 0 27124 0
+S
+#27181
+Chorkle, the Pig~
+Chorkle is a big, mean hog which Narel has had as a pet for a long
+time.  He was forced to take the pig, and care for it.  When he tried
+to show it affection, it bit him.  He hated this pig--but if he harmed
+both the whip and the voice would crack down upon him.  Chorkle is
+here, snuffling at your shoes.    
+~
+271 0 0 0 0 0
+D4
+~
+~
+0 0 27100 0
+D5
+~
+~
+1 0 -1 1
+S
+#27182
+The Passage to the Mighty Narel~
+You step into the southern portal.  In a burst of varied colors, you
+arrive in a long, beautiful hallway with a room to the east, and more
+of the hallway south.  This section of the Dream is very intense.  
+Already, you are picking up bits of thought-currents from adjoining
+rooms, and it both scares and excites you at the same time, like
+riding a dragon bare-back.  Dare you go on?    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 27184 0
+D2
+~
+~
+0 0 27183 0
+D3
+~
+~
+0 0 -1 0
+S
+#27183
+The Passage to the Mighty Narel~
+You continue down the lavish hallway.  There is a glowing wall to the
+east, and to the west you hear the faint rustling of branches, and the
+faint call of birds fluttering through leaves like water through a
+funnel, unrestricted yet slippery, smooth yet sleak.    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 27182 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 27186 0
+D3
+~
+~
+0 0 27188 0
+S
+#27184
+Innocence~
+As you approach Narel, you sense his presence becoming stronger, and
+the thought eddies are lasting longer than ever.  Yes, even the mighty
+Narel once possessed Innocence.  He knew nothing of war, or plague, or
+famine.  His mortal family was rich, and coddled him.  You relive his
+childhood, until you see his wife-to-be bought, raped and murdered.  
+The eddie vaporizes itself, and you are left to mull over the
+implications.    
+~
+271 256 0 0 0 0
+D3
+~
+~
+0 0 27182 0
+S
+#27185
+Sleep~
+Narel, the now High-God-Of-All, rests on his throne, you inhabiting
+his body.  You gaze down upon your gods, who have begged to have a
+meeting with you.  Now Bane, a representative of the lower gods steps
+forward.  Narel, the shadow upon the heavens and earth...  We Address
+you.  Suddenly, a well-rehearsed chant eminantes from the assembled
+mass of Gods.  "You may be able to kill some of us, Narel, but not
+all.  We can and will displace you if you do not remedy your ways.  
+We proffer a deal.  " You ponder for a bit, listen to their demands,
+and acede to them.  You must sleep for an eon, where you may ponder
+the correct way to rule.  You graciously step down off the throne and
+allow a new temporary high-god to rule in your place.  He waves his
+hand, and you are banished to a chamber...  You awake out of the
+dream-state, muddled and confused.    
+~
+271 256 0 0 0 0
+D1
+~
+~
+0 0 27196 0
+S
+#27186
+The Passage to the Mighty Narel~
+You continue on down the passageway.  The ceilings are getting higher,
+but the walls to the east and the west are frightfully constricting.
+To the south, you see more of the long hallway, with doors to the east
+or west.  When you breathe, it feels like breathing water.  You know
+it is the presence, but yet it is difficult to remind yourself of
+that.    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 27183 0
+D2
+~
+~
+0 0 27189 0
+S
+#27187
+Something has Gone Wrong. . .~
+Congratulations.  You have just taken the first step toward killing
+yourself: Hopping off of a 1000-foot cliff onto a jagged, rocky seabed
+below.  However, instead of impaling yourself on some stone party
+hats, you seem to be free floating in some sort of limbo-type air.  
+You seem to be able to swim through the ether with ease, and you are
+beginning to feel somewhat light-headed.  The cliffside stretches back
+to your west, and to your north you see a large, ominous portal that
+stretches across the sky like some temporal gash, so out of place that
+the very sight induces feelings of queasiness and death.  Choose
+wisely, young adventurer.    
+~
+271 4 0 0 0 0
+D3
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 27198 0
+S
+#27188
+A Secret Spot High up in a Banyon Tree~
+Another though penetrates your mind as you enter this room.  You are a
+child, 8 years old, hiding from his mother and father after breaking
+his sisters toy.  You are in a banyon tree, a tree with wide-spread
+branches, comfortable and peaceful while allowing you to remain
+undetected.  The two main fears of Narel are heard...  His mothers
+voice and the cracking of his fathers whip as they search for him to
+inflict punishment for a mistake.  You relax, smile and wait for the
+rage to pass...    
+~
+271 272 0 0 0 0
+D1
+~
+~
+0 0 27183 0
+S
+#27189
+The Passage to the Mighty Narel~
+As you continue to stroll down the hallway, weird images flit through
+your mind like so many ants feasting off human flesh, little bits and
+pieces that add up into one big charred husk of a corpse--or one
+complete idea.  It seems Narel is very, very close to here, and his
+immense thoughts are radiating outward like ripples on a pond...  Yet
+ripples cannot kill.    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 27186 0
+D1
+~
+~
+0 0 27190 0
+D2
+~
+~
+0 0 27192 0
+D3
+~
+~
+0 0 27191 0
+S
+#27190
+The Presence~
+You step into this room, expecting to perhaps inhabit a body...  But
+instead you are subject to the presence itself.  Some mystical force
+keeps your head bowed down as you are examined.  Your body, armor,
+soul...  All is tweaked and pinched, and finally the presence fades
+out and leaves you in a stone, earthy room with a faint light hovering
+in front of you.    
+~
+271 257 0 0 0 0
+D3
+~
+~
+0 0 27189 0
+S
+#27191
+Narel, Childhood~
+You are thrust into a boy, a stripling as he first discovers the
+things of the world.  You get your first burn, your first kiss...  
+Your first lashing with the whip.  Innocence is still retained...  
+You are elated within this host, and feel a wrenching as the scene
+vanishes.    
+~
+271 256 0 0 0 0
+D1
+~
+~
+0 0 27189 0
+S
+#27192
+The Passage to the Mighty Narel~
+You continue walking down the long passageway, complete with arched
+ceilings and marble floors.  You see more rooms to the east, fairly
+pulsing with the contained energy of Narel and his thought eddies.  
+Stone columns extend from floor to ceiling, giving this section of the
+hallway a majestic, archaic look, stoic in its representation.  To the
+south, you see a glowing, pulsing light.    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 27189 0
+D1
+~
+~
+0 0 27193 0
+D2
+~
+~
+0 0 27195 0
+D3
+~
+~
+0 0 27194 0
+S
+#27193
+Narel, Adolesence~
+Entering from the branch of the hallway, you are thrust into a host.
+Of course, by this time you are an old-hat at this.  Casually, you
+look around and see whats going on.  You are Narel as a teenager, the
+thought thinks to you.  You relive years in minutes as you experience
+your first major bone break, first sexual experience, and first major
+schooling that expands your mind as you begin to wonder...  The
+thought fades out, leaving a shell of Narel as a teenager.    
+~
+271 256 0 0 0 0
+D3
+~
+~
+0 0 27192 0
+S
+#27194
+Narel, Adult~
+Adulthood...  As you step out of the hallway, you are thrust into an
+adult host.  With a shock, you realize this never happened.  This is
+what could have been, had Narel not joined Sune in the ranks of the
+heavens.  You stare on in wonder as, for the first time, you have the
+control of the host.  You know it is fruitless, but you shape his life
+like a god, over come with power even at this small bit of control you
+have.  Finally, the thought leaves your soul and you are left standing
+in an empty, bare room...  Except for the Adult Narel.    
+~
+271 256 0 0 0 0
+D1
+~
+~
+0 0 27192 0
+S
+#27195
+The Passage to the Mighty Narel~
+As you walk down the passage, it continues to change.  Now the walls
+flow with nectar, rich and pure and sweet.  The floors are still hard,
+yet radiate patterns of totally entrancing light, and you are unable
+to keep your eyes off them.  On the ceiling is all the colors of the
+universe, arranged perfectly to make them beautiful.  This is a
+wonderful room...  Do you want to leave?    
+~
+271 256 0 0 0 0
+D0
+~
+~
+0 0 27192 0
+D1
+~
+~
+0 0 27197 0
+D2
+~
+~
+0 0 27196 0
+D3
+~
+~
+0 0 -1 0
+S
+#27196
+The Entranceway to the Chambers of Narel, the Mighty lord~
+You step out of the long hallway, and enter a new room.  To the east
+and west, you see both Sacrifice and sleep, and to the south you can
+make out a pulsing, holy light which can only be the actual
+Present-day Narel, deep within sleep.  This room is actually very
+plain--gods have no need of jewelry or fancy furniture--and Narel is
+the high-god of All.    
+~
+271 257 0 0 0 0
+D0
+~
+~
+0 0 27195 0
+D1
+~
+~
+0 0 27101 0
+D2
+~
+~
+0 0 27199 0
+D3
+~
+~
+0 0 27102 0
+S
+#27197
+Narel, God~
+This is it.  You are finally in the beginning of Narel's true reality.
+You watch as Sune floats to the ground, envelops you in a cloak and
+gently takes off to induct you into Godhood.  You sit at a temple,
+enjoying a glass of nectar, though nervously as Sune has been watching
+you for the past 10 minutes.  Then she speaks.  "You have potential,
+Narel...  I want to exploit that potential, so we ca eventually
+collaborate as equals.  However, you will have to do exactly what I
+say...  Do you agree?  " You nod emphatically, and she waves her
+servants away.  Suddenly, she draws you toward her and grasps your
+arms.  Suddenly, power is coursing through your body as your mortal
+shell explodes, and a new godly shell is inducted through your soul.
+Of course, by this time youve blacked out, but the thought remains, in
+the shape of a motionless God.    
+~
+271 256 0 0 0 0
+D3
+~
+~
+0 0 27195 0
+S
+#27198
+A Jagged, Rocky Seabed~
+If youre down here, either you a) fell to a bloody death, or b)
+floated down here using your fly spell.  If youve chosen B, continue
+reading.  This rocky, cliffside seabed is comparable to those B-rate
+horror movies, with the flashing lightning and pouring rain.  You see
+numerous rocks, all black and jagged, wickedly protuding spikes
+jutting out of them.  A rather violent wave crashes against the
+cliffside, spraying cold, salty water edged with the feeling of death
+and demise.  The limbo above you seems more comfortable than this
+salty hell.    
+~
+271 65700 0 0 0 0
+D4
+~
+~
+0 0 27187 0
+S
+#27199
+The Final Chamber, Sleeping Place of Narel, the Mighty All-God~
+You swim your way through an endless, totally misdirecting barrier of
+ethereal chaos.  You are in the void.  Time and space have no meaning,
+here, and you feel your senses slowly slipping away as your frail,
+mortal frame drifts in the essence of entropy, forever spinning the
+chaos to create some semblance of order.  Images flash through whats
+left of your mind order, clawing at your sub-conscious barriers and
+hacking through your soul with quivering blades of bloody flesh.  
+Your very essence is becoming Chaos, as your mortal mind cannot grasp
+the whole, but simply creates analogies to rationalize the total truth
+to your simpering psyche.  A flash, and you are again drifting in
+light, beams of it spearing deep within your body, penetrating you in
+ways you have never thought possible.  You begin to get a small sense
+of your mortal shell as you slowly drift out of chaos, something
+unconquerable by even the mighty All-god.  Water invades your lungs!
+You splash underwater, not even having taken a br~
+271 193 0 0 0 0
+S
+$~

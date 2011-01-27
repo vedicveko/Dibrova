@@ -1,0 +1,1553 @@
+#20700
+Eastern Spires of Kaedier Mountains~
+As you walk along the path you hear the crunch of 
+snow in the back of you. You turn around to see nothing
+there but your snow prints you made. Toward the east 
+you can see many huge mountains towering over you. They
+seem to touch the sky.
+~
+207 0 0 0 0 13
+D1
+~
+~
+0 0 20701 0
+S
+#20701
+Eastern Spires of Kaedier Mountains~
+   You follow a small trail which looks to be a game trail.  Though
+youd rather not follow it, you imagine the large beasts urking
+throughout the deep trail of snow.  The snow as at least as high as
+your waist.    
+~
+207 0 0 0 0 13
+D1
+~
+~
+0 0 20702 0
+D3
+~
+~
+0 0 20700 0
+S
+#20702
+Eastern Spires of Kaedier Mountains~
+   You walk along the path and come to a solid wall of ice.  This wall
+seems very suspicious and seems to move a little.  The path continues
+to the south through this frozen taundra.    
+~
+207 0 0 0 0 13
+D2
+~
+~
+0 0 20703 0
+D3
+~
+~
+0 0 20701 0
+S
+#20703
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20702 0
+D2
+~
+~
+0 0 20704 0
+S
+#20704
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20703 0
+D2
+~
+~
+0 0 20705 0
+S
+#20705
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20704 0
+D2
+~
+~
+0 0 20706 0
+S
+#20706
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20705 0
+D2
+~
+~
+0 0 20707 0
+S
+#20707
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20706 0
+D2
+~
+~
+0 0 20708 0
+S
+#20708
+Eastern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20707 0
+D5
+~
+~
+0 0 20709 0
+S
+#20709
+At a cliff's edge on Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D2
+~
+~
+0 0 20717 0
+D3
+~
+~
+0 0 20710 0
+D4
+~
+~
+0 0 20708 0
+S
+#20710
+At a cliff's edge on Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D1
+~
+~
+0 0 20709 0
+D2
+~
+~
+0 0 20711 0
+S
+#20711
+At a cliff's edge on Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20710 0
+D1
+~
+~
+0 0 20717 0
+D2
+~
+~
+0 0 20712 0
+S
+#20712
+At a cliff's edge on Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20711 0
+D1
+~
+~
+0 0 20718 0
+D2
+~
+~
+0 0 20713 0
+S
+#20713
+At a cliff's edge on Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20712 0
+D1
+~
+~
+0 0 20719 0
+D2
+~
+~
+0 0 20714 0
+S
+#20714
+Eastern Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20713 0
+D1
+~
+~
+0 0 20720 0
+D5
+~
+~
+0 0 20715 0
+S
+#20715
+Eastern Branch of Kaedier Mountains~
+This is a small rise which marks the beginning of the eastern parts
+of the Kaedier mountain range.  The wind drifts through here, picking
+up some dust now and then.  The face of the mountain is rough and
+various rocks litter the ground.  One can see the Wastelands to the
+north, while all around lies the mountain range.  A small trail
+leads passage upward.
+~
+207 0 0 0 0 13
+D2
+~
+~
+0 0 20750 0
+D3
+~
+~
+0 0 20716 0
+D4
+~
+~
+0 0 20714 0
+S
+#20716
+Eastern Branch of Kaedier Mountains~
+This is a small rise which marks the beginning of the eastern parts
+of the Kaedier mountain range.  The wind drifts through here, picking
+up some dust now and then.  The face of the mountain is rough and
+various rocks litter the ground.  One can see the Wastelands to the
+north, while all around lies the mountain range.
+~
+207 0 0 0 0 13
+D1
+~
+~
+0 0 20715 0
+D2
+~
+~
+0 0 20749 0
+D5
+~
+~
+0 0 20745 0
+S
+#20717
+Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20709 0
+D2
+~
+~
+0 0 20718 0
+D3
+~
+~
+0 0 20711 0
+S
+#20718
+Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20717 0
+D2
+~
+~
+0 0 20719 0
+D3
+~
+~
+0 0 20712 0
+S
+#20719
+Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20718 0
+D2
+~
+~
+0 0 20720 0
+D3
+~
+~
+0 0 20713 0
+S
+#20720
+Kaedier Bluffs~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20719 0
+D3
+~
+~
+0 0 20714 0
+S
+#20721
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D3
+~
+~
+0 0 20722 0
+S
+#20722
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20721 0
+D3
+~
+~
+0 0 20723 0
+S
+#20723
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20722 0
+D3
+~
+~
+0 0 20724 0
+S
+#20724
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20723 0
+D2
+~
+~
+0 0 20725 0
+S
+#20725
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20724 0
+D2
+~
+~
+0 0 20727 0
+D4
+~
+~
+0 0 20758 0
+S
+#20726
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+S
+#20727
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20725 0
+D2
+~
+~
+0 0 20728 0
+S
+#20728
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20727 0
+D2
+~
+~
+0 0 20729 0
+S
+#20729
+Western Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20728 0
+D5
+~
+~
+0 0 20730 0
+S
+#20730
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20731 0
+D4
+~
+~
+0 0 20729 0
+S
+#20731
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20730 0
+D1
+~
+~
+0 0 20732 0
+S
+#20732
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20733 0
+D3
+~
+~
+0 0 20731 0
+D4
+~
+~
+0 0 20765 0
+S
+#20733
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20734 0
+D3
+~
+~
+0 0 20732 0
+S
+#20734
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20735 0
+D3
+~
+~
+0 0 20733 0
+S
+#20735
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20736 0
+D3
+~
+~
+0 0 20734 0
+S
+#20736
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20737 0
+D3
+~
+~
+0 0 20735 0
+S
+#20737
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20738 0
+D3
+~
+~
+0 0 20736 0
+S
+#20738
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20739 0
+D3
+~
+~
+0 0 20737 0
+S
+#20739
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20740 0
+D3
+~
+~
+0 0 20738 0
+S
+#20740
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20741 0
+D3
+~
+~
+0 0 20739 0
+S
+#20741
+West Branch of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D3
+~
+~
+0 0 20740 0
+D5
+~
+~
+0 0 20743 0
+S
+#20742
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20747 0
+D2
+~
+~
+0 0 20769 0
+D3
+~
+~
+0 0 20751 0
+S
+#20743
+Krull Valley~
+A rocky corridor which allows access to the upper reaches of
+the Kaedier Mountains lies to the west, while eastward offers
+a view of the dreaded pass.  Rocks of all sizes lie scattered
+about the place and no vegetation grows here.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 20744 0
+D4
+~
+~
+0 0 20741 0
+S
+#20744
+Before Krull Pass~
+The Valley of Krull sprawls out below like a ominous hallway.
+It cuts between the Kaedier Mountains and is the only passageway
+to the other side.  The ground rises to the east and west, marking
+the beginning of the ascent of Kaedier.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20678 0
+D2
+~
+~
+0 0 20746 0
+S
+#20745
+Krull Valley~
+A rocky corridor which allows access to the upper reaches of
+the Kaedier Mountains lies to the east, while westward offers
+a view of the dreaded pass.  Rocks of all sizes lie scattered
+about the place and no vegetation grows here.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 20744 0
+D4
+~
+~
+0 0 20716 0
+S
+#20746
+Krull Pass~
+The pass is an awe inspiring sight.  The rocky walls rise high
+above, as if to block the sun from shining in here.  Striations
+and patterns mark the layers of rock, showing that it is as old
+as the earth it sprung from.  Travel through here is rocky and
+rough, for the pass is increasingly narrower as one goes to the
+south.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20744 0
+D2
+~
+~
+0 0 20773 0
+S
+#20747
+Overlooking Krull Pass~
+Empty
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20768 0
+D3
+~
+~
+0 0 20742 0
+S
+#20748
+Overlooking Krull Pass~
+Empty
+~
+207 0 0 0 0 13
+D1
+~
+~
+0 0 20749 0
+D2
+~
+~
+0 0 20771 0
+S
+#20749
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20716 0
+D1
+~
+~
+0 0 20750 0
+D3
+~
+~
+0 0 20748 0
+S
+#20750
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20715 0
+D3
+~
+~
+0 0 20749 0
+S
+#20751
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20742 0
+D3
+~
+~
+0 0 20752 0
+S
+#20752
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20751 0
+D3
+~
+~
+0 0 20753 0
+S
+#20753
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20752 0
+D3
+~
+~
+0 0 20754 0
+S
+#20754
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20753 0
+D3
+~
+~
+0 0 20755 0
+S
+#20755
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20754 0
+D3
+~
+~
+0 0 20756 0
+S
+#20756
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20755 0
+D3
+~
+~
+0 0 20757 0
+D4
+~
+~
+0 0 -1 0
+S
+#20757
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20756 0
+D3
+~
+~
+0 0 20767 0
+S
+#20758
+Apex of Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20759 0
+D5
+~
+~
+0 0 20725 0
+S
+#20759
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20758 0
+D2
+~
+~
+0 0 20760 0
+S
+#20760
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20759 0
+D2
+~
+~
+0 0 20761 0
+D4
+~
+~
+0 0 20774 0
+S
+#20761
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20760 0
+D2
+~
+~
+0 0 20762 0
+S
+#20762
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20761 0
+S
+#20763
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+S
+#20764
+Lofty Heights of the Western Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+S
+#20765
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20766 0
+D5
+~
+~
+0 0 20732 0
+S
+#20766
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20767 0
+D3
+~
+~
+0 0 20765 0
+S
+#20767
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20757 0
+D3
+~
+~
+0 0 20766 0
+S
+#20768
+Overlooking Krull Pass~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20747 0
+D3
+~
+~
+0 0 20769 0
+S
+#20769
+Southern Spires of Kaedier Mountains~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20742 0
+D1
+~
+~
+0 0 20768 0
+D3
+~
+~
+0 0 20770 0
+S
+#20770
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20769 0
+S
+#20771
+Overlooking Krull Pass~
+Empty
+~
+207 0 0 0 0 13
+D0
+~
+~
+0 0 20748 0
+D1
+~
+~
+0 0 20772 0
+S
+#20772
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D3
+~
+~
+0 0 20771 0
+S
+#20773
+Before the First Defenses of Sinistral~
+A set of massive gates bar the way to the south.  Across the top of
+the gates is the word "Sinistral" and a strange crest.  The walls of
+the pass are narrow, making this an easy place to defend.  High above
+on the gates are bunkers, places where the defenders can easily pick
+off attackers.  The way is rocky, littered with pebbles and small
+stones.    
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20746 0
+D2
+~
+~
+0 0 20803 0
+S
+#20774
+Ledge~
+Empty
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20775 0
+D5
+~
+~
+0 0 20760 0
+S
+#20775
+Oracle of Kaedier~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20774 0
+S
+#20776
+In the Bowels of Kaedier~
+The rock walls in this chamber seem to have been hewn out, as 
+opposed to being naturally made.  Torches, set into alcoves,
+line the walls.  Up above in the ceiling of the chamber is an
+opening, made from a sinkhole ages ago.
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20777 0
+D4
+~
+~
+0 0 -1 0
+S
+#20777
+Hewn Stone Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20776 0
+D2
+~
+~
+0 0 20778 0
+S
+#20778
+Hewn Stone Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20777 0
+D1
+~
+~
+0 0 20781 0
+D2
+~
+~
+0 0 20779 0
+S
+#20779
+Hewn Stone Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.  An occasional burst of fierce heat shatters the
+stillness of the place.  A stairway leads down in an opening
+in the ground.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20778 0
+D2
+~
+~
+0 0 20780 0
+D3
+~
+~
+0 0 20786 0
+D5
+~
+~
+0 0 20789 0
+S
+#20780
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20779 0
+S
+#20781
+Eastern Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20782 0
+D3
+~
+~
+0 0 20778 0
+S
+#20782
+Intersection~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.  An occasional burst of fierce heat shatters the
+stillness of the place. 
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20783 0
+D1
+~
+~
+0 0 20784 0
+D3
+~
+~
+0 0 20781 0
+S
+#20783
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20782 0
+S
+#20784
+End of the Eastern Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.  An occasional burst of fierce heat shatters the
+stillness of the place. 
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20785 0
+D3
+~
+~
+0 0 20782 0
+S
+#20785
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20784 0
+S
+#20786
+Western Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20779 0
+D3
+~
+~
+0 0 20787 0
+S
+#20787
+End of the Western Hallway~
+The hewn walls of the hallway show that this place was not
+created by the forces of nature, but rather by someone mortal.
+Torches, set in alcoves, line the walls.  Footfalls in here
+are silenced by the softness of the earth.  The air is heavy
+and hot.  An occasional burst of fierce heat shatters the
+stillness of the place.
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20786 0
+D2
+~
+~
+0 0 20788 0
+S
+#20788
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20787 0
+S
+#20789
+In the deep recesses of the Bowels~
+The air is very hot here, almost unbearable for most folks.
+Magical tongues of flames adorn the walls, lighting the way.
+The chamber is expertly hewn out from solid stone and marked
+with glowing runes.  The runes seem to be of fire elemental
+sorcery.  One can go up to leave this place, or forge on to 
+the south.
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20790 0
+D4
+~
+~
+0 0 20779 0
+S
+#20790
+Cavernous Chamber~
+The huge cavern is adorned with runes, which blaze with a
+power to behold.  Magical flames dance and flicker on the
+walls, creating shadows that seem to laugh with glee.  The
+place is carved out of stone and adorned with firey rubies.
+The heat is searing, yet it is not painful.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20789 0
+D1
+~
+~
+0 0 20793 0
+D2
+~
+~
+0 0 20791 0
+D3
+~
+~
+0 0 20796 0
+S
+#20791
+Dias~
+A firey altar lies in the middle of the raised dias.  The red
+flames burn hotly, yet harmlessly.  On each side of the altar
+burns a column of searing blue flames.  Magical runes adorn the
+dias, humming powerfully.  A chair, made of living fire, sits
+behind the altar.  All around, tongues of fire light the chamber.
+~
+207 128 0 0 0 0
+D0
+~
+~
+0 0 20790 0
+D1
+~
+~
+0 0 20794 0
+D2
+~
+~
+0 0 20792 0
+D3
+~
+~
+0 0 20797 0
+S
+#20792
+Abode of the Grand Fire Conjurer~
+A large table, bearing scrolls and tomes of power, sits in the
+center of the abode.  The presence of fire cannot be unavoided
+here for it covers the entire room like a blanket.  Eternally
+burning, yet harmless, it gives off a gentle light and cackles
+quietly.  A rune, symbolizing the power of the fire elemental
+plane, encircles the table.  Glyphs and magical wards buzz and
+hum with power as they glow softly in the abode.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20791 0
+D5
+~
+~
+0 0 20799 0
+S
+#20793
+Cavernous Chamber~
+The huge cavern is adorned with runes, which blaze with a
+power to behold.  Magical flames dance and flicker on the
+walls, creating shadows that seem to laugh with glee.  The
+place is carved out of stone and adorned with firey rubies.
+The heat is searing, yet it is not painful.
+~
+207 0 0 0 0 0
+D2
+~
+~
+0 0 20794 0
+D3
+~
+~
+0 0 20790 0
+S
+#20794
+Cavernous Chamber~
+The huge cavern is adorned with runes, which blaze with a
+power to behold.  Magical flames dance and flicker on the
+walls, creating shadows that seem to laugh with glee.  The
+place is carved out of stone and adorned with firey rubies.
+The heat is searing, yet it is not painful.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20793 0
+D2
+~
+~
+0 0 20795 0
+D3
+~
+~
+0 0 20791 0
+S
+#20795
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20794 0
+S
+#20796
+Cavernous Chamber~
+The huge cavern is adorned with runes, which blaze with a
+power to behold.  Magical flames dance and flicker on the
+walls, creating shadows that seem to laugh with glee.  The
+place is carved out of stone and adorned with firey rubies.
+The heat is searing, yet it is not painful.
+~
+207 0 0 0 0 0
+D1
+~
+~
+0 0 20790 0
+D2
+~
+~
+0 0 20797 0
+S
+#20797
+Cavernous Chamber~
+The huge cavern is adorned with runes, which blaze with a
+power to behold.  Magical flames dance and flicker on the
+walls, creating shadows that seem to laugh with glee.  The
+place is carved out of stone and adorned with firey rubies.
+The heat is searing, yet it is not painful.
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20796 0
+D1
+~
+~
+0 0 20791 0
+D2
+~
+~
+0 0 20798 0
+S
+#20798
+Lair~
+Empty
+~
+207 0 0 0 0 0
+D0
+~
+~
+0 0 20797 0
+S
+#20799
+Safehold~
+Empty
+~
+207 0 0 0 0 0
+D4
+~
+~
+0 0 20792 0
+S
+$~

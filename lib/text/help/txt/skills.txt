@@ -1,0 +1,380 @@
+0
+BACKSLASH
+
+Usage: backslash <victim>
+
+Level 41 paladin.
+
+Paladin does a spin move and a backward slash with a weapon that must be
+damage type SLASH.
+
+Damage is random number between 50 & 100 based on skill learnedness.
+#
+BEARHUG
+
+Level 70, gladiator
+
+Usage: bearhug <victim>
+
+Using this skill, a gladiator can wrap their victim in a tight embrace,
+crushing ribs and cutting off air flow, causing major damage.
+#
+BEFRIEND
+
+Level 10, ranger
+
+Usage: befriend <target>
+
+Befriend will only work on animals, creatures of the forest in particular.
+A ranger has the ability to befriend an animal, receiving the help of the
+animal for a fair amount of time. When given an order, an animal will do
+as asked as long as it is within the bounds of friendship.
+
+#
+BERSERK
+ 
+Usage       : berserk 
+Duration    : while fighting
+Level       : Gladiator 1
+
+Gladiators have an innate ability to fight with furious rage.
+They must be in battle to feel the bloodlust, which gives them
+a substantial edge in combat. This skill can only be called
+occasionally, and the berserker can not retreat from battle
+under the influence of the rage.
+ 
+See also: GLADIATOR 
+#
+BODYSLAM
+
+Level 80, gladiator
+
+Usage: bodyslam <victim>
+
+A gladiator bodily lifts their victim off the ground and then throws them
+down, knocking the air from their body and causing severe damage.
+#
+BURY
+
+Usage: bury <item> 
+
+All levels, all players.
+
+This skill is offered in conjunction with the DIGUP skill which allows
+for players to bury items in a room and go back at a later date to
+retrieve the item. You may not dig in a city, nor may you dig in
+water. This skill can be learned by completing the 'Giant's Stomach'
+quest which is located within the newbie zone.
+
+See also: DIGUP 
+#
+CHARGE
+
+Usage: charge <victim>
+
+Level 27 paladin.
+
+Initiates fights only.  The paladin charges into battle with his slashing 
+or stabbing weapon and catches his opponent off guard.  Damage is based on 
+the paladins strength and his natural weight (not including his eq.)
+#
+DIGUP
+
+Usage: digup
+
+All levels, all players.
+
+This skill is offered in conjunction with the BURY skill which allows
+for players to bury items in a room and go back at a later date to
+retrieve the item. You may not dig in a city, nor may you dig in
+water. This skill can be learned by completing the 'Giant's Stomach'
+quest which is located within the newbie zone.
+
+See also: BURY
+#
+DROWN
+
+Usage: drown <victim>
+
+This skill, usable only when over water, is used to hold a victim under
+until the air is drained from their body and they die a slow death of
+lost hit points. The victim's chance of successfully wresting themselves
+from their attacker's grip is based upon their STR, DEX and knowledge of
+the FLAIL skill.
+
+See also: FLAIL
+#
+"DUAL WIELD"
+
+Level 100, paladin
+Level 100, dark knight
+Level 100, gladiator
+Level 100, thief
+
+Usage: dualwield <weapon>
+
+Secondary weapons can be used in the <held> position for all of the
+fighting classes over level 100. Using a secondary weapon will give
+the user an extra attack which will use the damage specific to the
+second weapon that is being used.
+
+NOTE: The only weapon type that thieves can dualwield are PIERCE weapons.
+#
+ELEMENTAL
+
+Usage: elemental <victim>
+
+Level 60, ranger
+
+Rangers can use this skill to call the elements to their bidding, harming
+their opponent(s) with the sheer ferocity of the elements.
+#
+FURY
+
+See: BLADED FURY
+#
+HEADBUT
+
+Level 20, gladiator
+
+Usage: headbut <victim>
+
+This low-level skill allows a gladitor to use the hardest part of their
+to aim a well-placed blow on their victim's skull, cauaing some little
+damage.
+#
+HEADCUT
+
+Level 130, monk
+
+Usage: headcut <victim>
+
+This is a barehanded skill where monks use their hands to deal stunning
+blows to the head / temple area. Every now and again, a solid hit will
+result in the monk actually slicing through a victim's neck with their
+bare hands.
+#
+HONE
+
+Level 55, gladiator
+
+Usage: hone <weapon>
+
+Gladiators can HOLD an object of type STONE and HONE their edged weapons 
+(PIERCE, STAB or SLASH) to an ultra-sharp edge.  The sharp edge doesn't 
+last very long, however.  The sharpness is set to learnedness when hone is 
+used.  When damage is caused with that weapon, the sharpness is added 
+directly to the damage amount and the sharpness is decreased by 3/4.  
+The first hit is AWESOME, the senond hit is pretty damned good.  The 
+third hit, you don't even notice.  After that, there's nothing special 
+about the weapon.
+
+The weapon may be wielded or in inventory when honed.
+#
+KAMIKAZE
+
+Level 140, monk
+
+Usage: kamikaze <victim>
+
+More or less, to put it as simply as it can be put, this is when a monk
+goes apeshit on their victim, dealing massive damage without any regard
+whatsoever for their own personal safety.
+#
+KI
+
+Level 121, monk
+
+Usage: ki <victim>
+
+Ki is an ancient cry for glory made by the monks of old, taught to those
+of the younger faith. It is a start to a fight for the monk class, one
+that deals an extremely large amount of damage.
+#
+MONSOON
+
+Level 70, ranger
+
+Usage: monsoon <victim>
+
+Rangers can use their powers in nature to call furious storms to attack
+their victims, causing heavy damage.
+#
+MOUNT
+
+Usage:   mount mob
+
+Certain mobs can be mounted and ridden.  These mobs are generally more
+efficient and faster travellers than people.  When you are riding,
+you will not tire, however if you are not competetent at riding, you
+may fall off when you try to move, doing light damage to yourself.
+
+Gladiators, Death Knights, and Paladins get bonuses to damroll and
+hitroll when fighting mounted.
+
+See also: RIDE, DISMOUNT, STABLE, REDEEM
+#
+POWERSLASH
+
+Usage: powerslash <victim>
+
+Paladin, level 75
+
+This skill can only be used while wielding a SLASH weapon (usually a sword).
+A paladin uses their inner strength and extreme fighting capabilities to
+viciously slash their victim through the body in an attempt to cut the
+victim in half.
+#
+"PRESSURE POINTS"
+
+Usage: pressure <victim>
+
+Monk, level 90
+
+Monks are extremely adept at finding the areas of the body which are
+most succeptable to pain. Using the ancient arts taught by the monk
+guildmasters, monks can cause serious pain with this skill.
+#
+PUSH
+
+Usage: push <victim> <dir>
+
+Gladiator, level 25
+Paladin, level 25
+Dark Knight, level 25
+
+By using the PUSH skill, players are able to forcefully push any mob or
+player from a room. This is especially useful for mobs who have wandered
+or fled into PEACEFUL rooms.
+#
+RIDE RIDING
+
+The riding skill helps one control a mount from bucking and misbehaving.
+Mounts vary in their disposition.  Some are wilder than others. If you are
+not well-trained in the art of riding, there is a chance that your mount
+might buck and make you fall off if you attempt movement.
+
+You can find a trainer for riding in Jareth.
+
+See also: MOUNT, DISMOUNT, STABLE, REDEEM
+#
+SHIELDPUNCH
+
+Usage: shieldpunch <victim>
+
+Paladin, level 21
+
+This is a straight damage skill which can only be used if a player is
+wearing a shield. The damage inflicted is based solely upon the weight
+of the shield the player is carrying.
+#
+"SLEIGHT OF HAND"
+
+Thief, level 65
+
+Usage: sleight <obj>
+       sleight <obj> <corpse or container>
+
+SLEIGHT works exactly like GET or TAKE, but if successfully executed, 
+the thief will acquire the object without anyone else seeing him grab 
+it!  If he fails, the players in the room will see him take the item 
+as normal.  This works for items in a room or items in containers.
+#
+SWARM
+
+Usage: swarm <victim>
+
+Level 35, ranger
+
+Rangers can use this skill to call in swarms of deadly insects, swarming
+their victim and doing major damage.
+
+#
+SWORDTHRUST
+
+Usage: swordthrust
+Level: 50 Paladin, Gladiator 
+
+Experienced warriors (level 50 or greater) are able to lunge forward with  
+a sword thrust (command is "swordthrust") for extra damage at the expense
+of move.
+ 
+Use of this skill requires at least 250 movement points. As the
+attack drains move, it can not be used often, but serves as a backup
+attack form in dire emergencies.
+
+#
+TACKLE
+
+See: FLYING TACKLE
+#
+TANGLEWEED
+
+Usage: tangleweed <victim>
+
+Ranger, level 50
+
+This skill will call a flurry of vines and roots to reach out of the
+ground to ensnare a victim and knock them down doing some minor damage.
+#
+"FLYING TACKLE"
+
+Usage: tackle <victim>
+
+Level 75, monk
+
+Monks, with their superior fighting and acrobatic skills, are able to
+leap high into the air, landing on their opponent dealing heavy damage
+and knocking the opponent to the ground.
+#
+THROW
+
+Any class, any level.
+
+Usage: throw <obj> <target>
+
+Throw allows you to throw any items you have at your opponent dealing extra
+damage. Damage is, STR / 2 + obj weight + level. If the obj is of type
+POTION, there is a 50% chance of the potion being imbibed by the person
+who it is being thrown at. There is a 3 round wait state after all throws.
+
+The only way to obtain the throw skill for your character is to find Pon
+Neroth in Midgaard and get him what he needs - and that is just the beginning.
+#
+"TRICK PUNCH"
+
+Usage: trickpunch <victim>
+
+Level 2, thief
+
+One of the first things that thieves are taugh within their guild is the art
+of quick and precise movement. Newer thieves can usually move in on an
+opponent, dealing a relatively small amount of damage and then getting out
+again very quickly.
+#
+TRICKPUNCH
+
+See: TRICK PUNCH
+#
+UPPERCUT
+
+Usage: uppercut <victim>
+
+Level 20 paladin
+
+Just what it sounds like.  An uppercut punch to the chops.  This skill 
+requires at least one free hand and damage is improved based on the AC 
+apply of the punchers hand armor and the punchers strength.  No hand 
+armor results in a slight penalty.
+#
+WARCRY
+
+Usage: warcry
+
+Level 27, paladin
+
+Warcry is a skill paladins possess that will enable them to raise their
+voice in a cry of gloriious battle which lifts their spirits and strikes
+fear into their opponents. Warcry will give a +2 to a paladin's hitroll.
+#
+$

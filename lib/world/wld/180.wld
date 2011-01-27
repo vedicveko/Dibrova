@@ -1,0 +1,1746 @@
+#18000
+The Streets Outside the Dungeon~
+You are making your way through the crowds to the entrance of the
+infamous Deathtrap Dungeon, wherein you, along with several other
+adventurers, will quest for fame, glory and, of course, gold.  Five
+other adventurers are gathered outside, waiting for the Baron to begin
+the Trial of Champions, at which point you will enter the maze, and
+find your way through to the finish, at which point you will be
+granted a fabulous reward!  Four of them enter before you- then its
+your turn, and you stride purposefully into the dungeon, taking the
+first few steps of what is known as "The Walk".    
+~
+180 4 0 0 0 1
+D0
+~
+~
+0 -1 18001 0
+D2
+~
+~
+0 -1 8045 0
+E
+entrance dungeon~
+The entrance is flanked by two massive pillars, covered with carvings of
+snakes, demons and witches, all screaming soundlessly or leering evilly.
+You shiver and decide not to think about what this portends...
+~
+S
+#18001
+Inside the Dungeon~
+You enter into the gloomy interior, walking along a damp earth floor
+that runs far to the north.  Presently, all exterior light has
+dissipated, and you have to rely solely on your own light source.  
+Water drips occasionally from the ceiling, the soft plop it makes as
+it hits the floor echoing eerily in this stony tunnel.  Tiny insects,
+disturbed by your light and noise, scurry away into many tiny cracks
+and holes in the walls.  The sets of the footprints of those who
+entered before you can be seen on the ground.    
+~
+180 13 0 0 0 0
+D0
+~
+~
+0 -1 18002 0
+D2
+~
+door~
+1 -1 18000 7
+S
+#18002
+A Junction~
+You have reached a junction, where you may proceed east, west or
+south.  A white arrow on the wall opposite the southern branch points
+west, and judging by the footprints several of your opponents decided
+to follow its silent advice- three pairs head in that direction.  One
+pair, however, heads east.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18003 0
+D2
+~
+~
+0 -1 18001 0
+D3
+~
+~
+0 -1 18015 0
+S
+#18003
+An Eastern Path~
+You are heading along a narrow passage that runs east away from the
+entrance junction.  At this point the corridor is quite damp and dark,
+and you have to proceed slowly.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18004 0
+D3
+~
+~
+0 -1 18002 0
+S
+#18004
+A Bend in the Passage~
+At this point the passage bends, heading north and west.  The passage
+to the west is damp and dark, while to the north it grows suddenly
+dry, hot even.  You can feel a sudden wave of heat from the north.  
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18005 0
+D3
+~
+~
+0 -1 18003 0
+S
+#18005
+A Hot Corridor~
+Proceeding along this dry corridor, you suddenly begin to sweat
+profusely as it grows unbearably hot.  You steel yourself and rush
+onward to minimise the damage you may suffer from the heat.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18006 0
+D2
+~
+~
+0 -1 18004 0
+S
+#18006
+Outside An Iron Door~
+Further along on the western wall there is an iron door, with an iron
+plate at chest height which can be slid aside to allow one to gaze
+within.  From the north you can hear grunting and cursing, while from
+the south comes a sudden wave of intense heat.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18009 0
+D2
+~
+~
+0 -1 18005 0
+D3
+Peering through the eyehole, you see a small room which contains a deep pit.
+It doesn't look to be very interesting.
+~
+door west iron plate~
+1 0 18007 3
+S
+#18007
+A Pit Chamber~
+The center of this chamber is dominated by a deep pit, which you
+barely avoid falling into as you enter.  It has plenty of finger and
+toe holds, however, should you wish to climb into (or out of) it.    
+~
+180 13 0 0 0 0
+D1
+~
+door~
+1 0 18006 3
+D5
+~
+~
+0 -1 18008 0
+S
+#18008
+A Pit~
+You are in a pit, whether by design or mishap.  It is a crude affair,
+having been roughly carved from the earth using small shovels, if the
+marks in the earth are any indication.    
+~
+180 9 0 0 0 0
+D4
+~
+~
+0 -1 18007 0
+S
+#18009
+A Sudden Corner~
+Rounding the corner here, you find yourself in a position where you
+can head west or south.  There are tracks in the dirt here, Orcish by
+the look of them.  There is also a faint Orcish odor here- perhaps
+you'd better remain alert in case the horrid humanoids lair near
+here...?    
+~
+180 9 0 0 0 0
+D2
+~
+~
+0 -1 18006 0
+D3
+~
+~
+0 -1 18010 0
+S
+#18010
+A Long Corridor~
+The humidity has returned to the air in this section of the corridor,
+and you can once again see footprints in the dirt- heading from the
+east to a door north of here.  But they don't appear to lead out
+again...  Ominous.  You can see nothing else of interest besides the
+iron door.    
+~
+180 9 0 0 0 0
+D0
+A heavy iron door, unlocked.
+~
+door iron~
+1 0 18011 3
+D1
+~
+~
+0 -1 18009 0
+D3
+~
+~
+0 -1 18012 0
+S
+#18011
+A Horrid Fate...~
+You stumble into a debris-strewn chamber, gagging at the stench of
+death.  You then learn rather graphically the fate of one of your
+opponents.  He is impaled on a rather lethal trap, evidently one he
+triggered quite unknowingly (well, he wouldn't do it KNOWINGLY, would
+he now?  Tsk.  ) while heading for an alcove on the far wall...    
+~
+180 9 0 0 0 0
+D2
+~
+door~
+1 0 18010 3
+S
+#18012
+A Junction~
+Paths head in all four cardinal directions at this point, with
+footprints leading back and forth each way.  You cannot see or hear
+anything from here, but the passage does appear to be lit far to the
+north, by what you cannot tell...    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18021 0
+D1
+~
+~
+0 -1 18010 0
+D2
+~
+~
+0 -1 18013 0
+D3
+~
+~
+0 -1 18020 0
+S
+#18013
+A Long Corridor~
+This section of the corridor is particularly cold, dark and silent,
+and you shiver as you consider your options.  The ground is too hard
+and shrouded in darkness to yield any substantial tracks.  From the
+south you suddenly hear a faint grunt, either of pain or anger, you
+aren't sure which.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18012 0
+D2
+~
+~
+0 -1 18014 0
+S
+#18014
+A Cave~
+The passage widens sufficently here to form a small cave, in which you
+spy the remains of a campfire and the bones of someone's recent meal.
+It suddenly occurs to you that the occupant may not be too far away...
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18013 0
+D2
+~
+~
+0 -1 18015 0
+S
+#18015
+A Junction in the Wet Passageway~
+The footprints are clear in the muddy ground here- two pairs head
+west, and one pair heads north along the northern branch.  A vile
+smell wafts from the north, and you crinkle your nose in disgust.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18014 0
+D1
+~
+~
+0 -1 18002 0
+D3
+~
+~
+0 -1 18016 0
+S
+#18016
+A Western Passageway~
+You are advancing along a passage that heads west away from the
+entrance junction, skirting two sets of muddy footprints that head
+westward.  There is a large bell hanging here, which looks extremely
+heavy (and useless).    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18015 0
+D3
+~
+~
+0 -1 18017 0
+S
+#18017
+A Bend~
+Here you may proceed north or east.  Two sets of footprints head from
+the east round this bend to the north, from where you can hear a
+tremendous howling and snarling!    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18018 0
+D1
+~
+~
+0 -1 18016 0
+S
+#18018
+A Dimly Lit Section of Corridor~
+At this point a dim light pervades the corridor from some distant
+crack in the ceiling, illuminating a small circular area, which seems
+to be serving as some sort of fighting ground for two angry
+hobgoblins, battling over whatever is lying on the floor.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18019 0
+D2
+~
+~
+0 -1 18017 0
+S
+#18019
+A Corner~
+The passage bends sharply here, heading off to the south and east.  
+You see that both sets of tracks that you saw to the south continue
+east from here- evidently your opponents are making good time!    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18020 0
+D2
+~
+~
+0 -1 18018 0
+S
+#18020
+Poles~
+A series of poles have been laid across the passageway here, and you
+must step between them to continue.  Gingerly you do so, avoiding
+touching any- a gut feeling tells you that that would be a very bad
+thing to do...    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18012 0
+D3
+~
+~
+0 -1 18019 0
+S
+#18021
+A Large Cavern~
+You have entered a large cavern, the floor of which is much drier than
+that to the south, but it is also much darker.  A massive gold idol of
+some oriental deity rises in the center of the room.  You may climb up
+it, to its head, where you spy two large gems which depict the idol's
+eyes, as well as two large stuffed birds, which seem almost alive
+somehow...    
+~
+180 13 0 0 0 0
+D0
+~
+~
+0 -1 18023 0
+D2
+~
+~
+0 -1 18012 0
+D4
+~
+~
+0 -1 18022 0
+S
+#18022
+Atop the Idol~
+As you near the top, you notice the birds move slightly, and you ready
+yourself for what could be a mad dash for the gems.  Then, suddenly,
+they come to life with an angry squawk, and you know you are in
+trouble.    
+~
+180 9 0 0 0 0
+D5
+~
+~
+0 -1 18021 0
+S
+#18023
+A North South Passage~
+This passage heads north and south, disappearing into the darkness in
+each direction before and behind you.  To the west a metal door is set
+into the ancient cracked wall.  Listening at it, you hear nothing.  
+In fact the only noise you can hear is a constant dripping far to the
+south, and a faint humming noise from the north.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18025 0
+D2
+~
+~
+0 -1 18021 0
+D3
+~
+door~
+1 -1 18024 3
+S
+#18024
+An Empty Chamber~
+This bare room has a damp, earthy odor, and the mold and moisture you
+have encountered in other parts of the dungeon is even more prevalent
+here.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18023 3
+S
+#18025
+The Passage Continues~
+The passage continues without event, running to the north and south as
+far as you can see with your limited light source.  There are at least
+two pairs of footprints in the dirt that covers the floor.    
+~
+180 16 0 0 0 0
+D0
+~
+~
+0 -1 18026 0
+D2
+~
+~
+0 -1 18023 0
+S
+#18026
+The Passage Continues~
+The passage continues without event, running to the north and south as
+far as you can see with your limited light source.  There are at least
+two pairs of footprints in the dirt that covers the floor.  From
+behind a door to the east you can hear a faint humming sound, as of
+bees, or other insects.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18029 0
+D1
+~
+door~
+1 0 18027 3
+D2
+~
+~
+0 -1 18025 0
+S
+#18027
+A Chamber~
+This chamber is dominated by a large circular pit, which you could
+climb down into if you so desired.  The humming is now very loud, and
+you peer about expectantly, looking for its source.  You may wish you
+didn't find it.  You see something moving about down in the pit, a
+squirming, wriggling mass of...  Something.    
+~
+180 9 0 0 0 0
+D3
+~
+door~
+1 0 18026 3
+D5
+Your torchlight does not penetrate deep enough into the darkness to be sure,
+but it looks like worms or grubs crawling around down there.
+~
+pit~
+0 -1 18028 0
+S
+#18028
+A Breeding Pit~
+Some sort of giant insect, a fly or mosquito, has chosen to raise its
+many offspring in this damp, warm pit.  Larvae crawl about all around
+you, their disgusting slimy ichor and stench making you feel rather
+nauseous.    
+~
+180 9 0 0 0 0
+D4
+~
+~
+0 -1 18027 0
+S
+#18029
+A Junction~
+At this point, there are three passages to the east, south and west,
+all stretching away into the dimness.  From the west you can hear what
+sounds like rock being crushed, while to the south you can hear a
+faint humming.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18033 0
+D2
+~
+~
+0 -1 18026 0
+D3
+~
+~
+0 -1 18030 0
+S
+#18030
+Rock Grubs!~
+At this point, a massive rock grub has burst through the north wall,
+collapsing the old stone sufficiently to allow it to enter the
+corridor from its tunnel.  Slime-covered rocks and other debris litter
+the corridor.  You may proceed east or west, or venture into its
+tunnel to the north...    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18031 0
+D1
+~
+~
+0 -1 18029 0
+D3
+~
+~
+0 -1 18032 0
+S
+#18031
+A Dead End~
+The tunnel ends after a short distance in a cave-in, and you see the
+bloated corpse of a rock grub half-buried under the rubble.  
+Evidently the rock grubs are not qualified excavators...  But perhaps
+there is still another one around...?    
+~
+180 9 0 0 0 0
+D2
+~
+~
+0 -1 18030 0
+S
+#18032
+A Dead End~
+The passage ends at a sudden dead end, a newly-constructed brick wall
+barring further passage onwards.  However, there may still be
+something of interest lying about...    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18030 0
+S
+#18033
+A Deep, Dark Pit~
+You have reached a point where a large pit gapes in the middle of the
+corridor.  It is rather narrow, however, and you could easily jump
+across it, and continue east.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18034 0
+D3
+~
+~
+0 -1 18029 0
+E
+pit~
+You are too scared to look down.
+~
+S
+#18034
+A Turn~
+The passage turns at this point, heading north and west as far as you
+can see.  A large pit looms to the west, while to the north you see a
+couple of doors on the western wall.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18035 0
+D3
+~
+~
+0 -1 18033 0
+S
+#18035
+A North-South Passage~
+At this point there is a wooden door set in the west wall.  No noise
+can be heard from whatever lurks within.  The path continues north and
+south.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18037 0
+D2
+~
+~
+0 -1 18034 0
+D3
+~
+door~
+1 0 18036 3
+S
+#18036
+A...Museum???~
+This room is littered with a variety of stone statues, depicting all
+types of classes and races.  They are strikingly realistic...  
+STRIKINGLY realistic...  And the subjects appear to have been in great
+pain at the time they posed for these replicas.  The room is currently
+empty, the trialmaster who works here being called away on other
+business (lunch), and you think maybe it would be best if you were not
+present upon his return...    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18035 3
+S
+#18037
+A North-South Passage~
+At this point there is a wooden door set in the west wall.  No noise
+can be heard from whatever lurks within.  A large "X" has been
+scrawled upon it in blood.  The path continues north and south, though
+the path northward looks rather suspicious and barren...    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18038 0
+D2
+~
+~
+0 -1 18035 0
+D3
+~
+door~
+1 0 18040 3
+S
+#18038
+North~
+Ok.  So you decided to head up here anyway.  Well you proceed for
+several hundred meters along a totally featureless passageway, with
+neither door nor monster to relieve the tedium.  Presently, you detect
+a faint rumbling sound from the north that grows steadily louder, and
+you think you can see something large and solid moving down the
+passageway toward you.  Perhpas you'd better turn back...    
+~
+180 8201 0 0 0 0
+D0
+~
+~
+0 -1 18039 0
+D2
+~
+~
+0 -1 18037 0
+S
+#18039
+BOULDER DASH!~
+Ack!  Haven't you seen Indiana Jones?  You have just run smack into a
+huge boulder, which rumbles right down onto you, squashing you flat
+before continuing down the corridor.  You lay in its wake for a few
+minutes, very badly injured, before realizing you are too hurt to
+continue, and you will have to recall.  Next time, be more careful,
+hmmm?    
+~
+180 13 0 0 0 0
+S
+#18040
+A Chamber... Or a Crypt?~
+This dark chamber is devoid of any items of interest, save for an
+alcove you can enter to the west, and a large stone chair containing a
+skeleton, who appears to be not quite dead yet...  A sudden crash from
+outside that sounds very much like a large boulder connecting with
+solid stone can suddenly be heard, and without even testing you get
+the feeling your eastern exit has been blocked...    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18037 7
+D3
+The alcove is surrounded by what looks like a large crop of mushrooms.
+~
+alcove~
+0 -1 18041 0
+S
+#18041
+The Alcove~
+You proceed down a short flight of steps into a rubbish-strewn cellar,
+and on top of the rubbish grows a large crop of mushrooms.  An archway
+on the opposite wall allows one to proceed west into a crystal-lit
+tunnel.    
+~
+180 8 0 0 0 0
+D1
+~
+~
+0 -1 18040 0
+D3
+~
+~
+0 -1 18042 0
+S
+#18042
+The Tunnel~
+The tunnel ends here at a set of stone steps leading up to a trapdoor,
+from behind which you can hear the voices of Goblins.  Light streams
+through cracks in the trapdoor, and you are grateful that you will
+soon be in a nice brightly lit room instead of a gloomy dungeon, even
+though you may have to share it with aggressive humanoids.    
+~
+180 8 0 0 0 0
+D1
+~
+~
+0 -1 18041 0
+D4
+Through the cracks you can see two Goblins sharpening and cleaning their
+weapons, chatting about girls, drinking and the tough trialmasters as they do.
+~
+trapdoor trap door~
+1 0 18043 3
+S
+#18043
+The Guard Room~
+You emerge into a brightly-lit, sparsely furnished guard room.  There
+are two chairs and a table, as well as a small cupboard.  The room is
+in surprisingly good order for Goblin quarters.  Doors lead to the
+north and west, as well as back down.    
+~
+180 8 0 0 0 0
+D0
+~
+door~
+1 0 18045 3
+D3
+~
+door~
+1 0 18044 3
+D5
+~
+door~
+1 0 18042 3
+S
+#18044
+Another Tunnel~
+You are in a rough hewn east west tunnel that ends in a door to the
+east and a bend to the north far to the west.  There is a wooden door
+to the north here.    
+~
+180 9 0 0 0 0
+D0
+~
+door~
+1 0 18047 3
+D1
+~
+door~
+1 0 18043 3
+D3
+~
+~
+0 -1 18048 0
+S
+#18045
+An Ascending Tunnel~
+This passage heads steadily uphill to the north at a slight angle,
+before evening out near a door on the east wall, to which a hand has
+been nailed.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18049 0
+D1
+The hand is human.
+~
+door hand~
+1 0 18046 3
+D2
+~
+door~
+1 0 18043 3
+S
+#18046
+A Jail Cell~
+You have entered one of the Trialmasters' punishment cells.  A man
+with one hand missing has been chained to the far wall.  You feel
+anger at their cruelty, but don't know if you want to get involved.  
+Perhaps the prisoner may be able to tell you something useful, though?
+~
+180 9 0 0 0 0
+D3
+~
+door~
+1 0 18045 3
+S
+#18047
+A Game~
+You have entered a room containing several items of interest, which
+you may explore at leisure.  You see what was once apparently a
+crossbow trap of some sort, though your entry doesn't seem to trigger
+it...    
+~
+180 9 0 0 0 0
+D2
+~
+door~
+1 0 18044 3
+S
+#18048
+A Gallery~
+At the bend, you gaze northward into what appears to be a gallery of
+mirrors, while to the east lies damp, dark tunnel.  There appears to
+be someone or something moving about to the north, and you suddenly
+feel rather uneasy.    
+~
+180 8 0 0 0 0
+D0
+~
+~
+0 -1 18052 0
+D1
+~
+~
+0 -1 18044 0
+S
+#18049
+A Pipe~
+You reach a bend in the passage, with passages heading south down a
+slope to a locked door, and west to a junction.  To the east gapes the
+entrance to a smelly, slimy sewerage pipe, which you can enter if you
+wish *shudder*.    
+~
+180 9 0 0 0 0
+D1
+Looks bad, smells bad.
+~
+pipe~
+0 -1 18050 0
+D2
+~
+~
+0 -1 18045 0
+D3
+~
+~
+0 -1 18054 0
+S
+#18050
+Inside the Pipe~
+This slimy affair is barely more than a meter in diameter, and you are
+forced to crawl on your hands and knees through the sludge.  You feel
+that the tunnel is beginning to slope ever so slightly downward, and
+you get the distinct impression that were you to continue, you would
+not be able to find sufficient purchase on the slimy walls to slow
+your descent and you would most certainly plummet far down into the
+murky depths.  So NOW WOULD BE A GOOD TIME TO HEAD BACK!    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18051 0
+D3
+~
+~
+0 -1 18049 0
+S
+#18051
+A Slimy Death~
+You ignore all your instincts and proceed deeper into the pipe.  
+Suddenly, you feel the pipe drastically change its angle, and you feel
+yourself sliding very quickly down the sludge into a wide pipe that
+goes down for over 50 meters.  You plummet screaming into the depths,
+and land with a soft squelch in a lake of sewerage.  Dying, exhausted
+and filthy, you have no option but to be grateful you are still alive
+and recall.    
+~
+180 13 0 0 0 0
+S
+#18052
+A Gallery~
+You are walking along a long corridor lined with hundreds of mirrors.
+The sheer number of reflections you cast boggles you, and you barely
+notice the presence of another, more sinister, traveller...  It is
+only when you see a skeleton that looks like it has been half-dragged
+into a mirror do you really begin to realize you could be in serious
+trouble.  A staircase fashioned of skulls allows one to proceed upward
+from this place.    
+~
+180 8 0 0 0 0
+D2
+~
+~
+0 -1 18048 0
+D4
+Like I said, totally composed of skulls.
+~
+staircase~
+0 -1 18053 0
+S
+#18053
+A Bend~
+The passage turns here, heading east toward a junction and south
+toward a staircase heading down into a mirrored hall.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18054 0
+D5
+~
+~
+0 -1 18052 0
+S
+#18054
+A Battle~
+Bloodstained walls and floors indicate that a battle took place only
+recently at this junction.  Evidently some of your competitors have
+also made it this far.  The passage to the north seems to be the one
+to take from here.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18055 0
+D1
+~
+~
+0 -1 18049 0
+D3
+~
+~
+0 -1 18053 0
+S
+#18055
+A Junction~
+You have reached a T-junction, with passages heading east, south and
+west.  The north wall is heavily decorated with gruesome murals
+depicting screaming humans being chased by foul demons.  You shudder
+and decide which way to go.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18056 0
+D2
+~
+~
+0 -1 18054 0
+D3
+~
+~
+0 -1 18057 0
+S
+#18056
+A Dead End~
+A dead end with nothing to recommend it.  Perhaps there IS something
+of interest left lying around, though...    
+~
+180 9 0 0 0 0
+D3
+~
+~
+0 -1 18055 0
+S
+#18057
+A Chasm~
+The passage ends at the lip of a narrow ravine here.  You may proceed
+down into the ravine, or back east.  Suddenly, you hear voices from
+the west, across the ravine, and see crowds of cheering people,
+hailing you and telling you that you have made it through, and to come
+out and celebrate.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18055 0
+D3
+~
+~
+0 -1 18058 0
+D5
+~
+~
+0 -1 18059 0
+S
+#18058
+The End~
+With great joy, you leap across and run into the crowd, rejoicing in
+your triumph.  Suddenly, the crowd of admirers turns into a pile of
+corpses, and the air around you grows thick and heavy.  You gaze about
+in panic and see that you are locked in a small room littered with the
+bodies of those fooled before you.  Cursing, you realize that you have
+been tricked by the Baron, and will have to recall and try again...  
+~
+180 13 0 0 0 0
+S
+#18059
+A Ravine~
+You are standing at the bottom of a ravine.  The only way onward from
+here is north- the climb back up is too arduous for someone of your
+limited mountaineering skills.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18060 0
+S
+#18060
+A Bend~
+You proceed along the tunnel to a sharp bend, where you can proceed
+east or south.  You hear footsteps, grunting and heavy breathing
+coming from the east, and your nose detects the unmistakable odor of
+trolls.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18061 0
+D2
+~
+~
+0 -1 18059 0
+S
+#18061
+Trolls n' Stuff~
+You stumble right into the lair of a rather large and angry troll.  
+It has just discovered the corpse of one of its fellows, slain by one
+of yours, and it is in a rage!    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18062 0
+D3
+~
+~
+0 -1 18060 0
+S
+#18062
+A Cavern~
+You enter a dimly-lit cavern, illuminated by the phosphorescent glow
+of some subterranean mold that can be seen between the many
+stalagmites and stalactites that grow here.  There is a large oak door
+to the east of here.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18063 3
+D3
+~
+~
+0 -1 18061 0
+S
+#18063
+A Testing Chamber~
+You have entered a testing chamber, but the Trialmaster of this room
+is nowhere to be seen.  You hear a click as the door locks behind you,
+and realize that the only way out is to the north.    
+~
+180 8 0 0 0 0
+D0
+~
+~
+0 -1 18064 0
+D3
+~
+door~
+1 0 18062 3
+S
+#18064
+The Central Area~
+There are three doors and a southern passage leading from this room.
+There is also an empty snake basket in the center of this room- where
+is its occupant...?    
+~
+180 8 0 0 0 0
+D0
+~
+door~
+1 18126 18067 7
+D1
+This door has "NO CROP IS" written upon it.
+~
+door east~
+1 0 18066 3
+D2
+~
+~
+0 -1 18063 0
+D3
+This door has "RUIN MOAT" written upon it.
+~
+door west~
+1 0 18065 3
+S
+#18065
+A Bloodstained Arena~
+The floor of this place is covered in bloodstained sand.  You can
+smell the scent of death, heavy on the air, and wonder if any or all
+of your competitors have met their ends here.    
+~
+180 8 0 0 0 0
+D1
+~
+door~
+1 -1 18064 3
+S
+#18066
+A Bloodstained Arena~
+The floor of this place is covered in bloodstained sand.  You can
+smell the scent of death, heavy on the air, and wonder if any or all
+of your competitors have met their ends here.    
+~
+180 8 0 0 0 0
+D3
+~
+door~
+1 -1 18064 3
+S
+#18067
+The Final Test~
+Here, there is a small but securely locked door leading back into the
+dungeons, the key to which is held by the trialmaster.  He is willing
+to give it to you in exchange for another item, but would much rather
+have a good fight over it.    
+~
+180 8 0 0 0 0
+D0
+~
+door~
+1 18127 18068 7
+D2
+~
+door~
+1 18126 18064 7
+S
+#18068
+A Divided Tunnel~
+Paths run to the north and west from this point.  Passage southward is
+blocked by a door that cannot be opened from this side.  You hear a
+faint buzzing coming from the west.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18075 0
+D3
+~
+~
+0 -1 18069 0
+S
+#18069
+A Glass Door~
+You pass a glass door set in the north wall here.  Looking through it,
+you see a swarm of nasty insects circling round a bejewelled crown
+that is resting in the center of the room.  It looks very valuable.  
+~
+180 9 0 0 0 0
+D0
+You see that the crown is totally encrusted with gems. The catch is how to
+get it out without being overwhelmed by the swarm...
+~
+glass door crown~
+1 0 18070 3
+D1
+~
+~
+0 -1 18068 0
+D3
+~
+~
+0 -1 18071 0
+S
+#18070
+Insects~
+You are surrounded by thousands of biting, stinging insects of all
+descriptions.  You curse and swat as you are constantly stung and more
+than once you have to remove insects from your hair and mouth.    
+~
+180 9 0 0 0 0
+D2
+~
+glass~
+1 0 18069 3
+S
+#18071
+A Long Passageway~
+You are travelling along a narrow passage, the walls of which are
+lined with deep cracks.  You hear slow, shuffling footsteps
+approaching, and prepare to see who or what is coming.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18069 0
+D3
+~
+~
+0 -1 18072 0
+S
+#18072
+A Junction~
+From this point you may head north, east or west.  A faint buzzing is
+barely audible from the east, while from the north comes the faint
+sound of running water.  To the west, you see a bend in the corridor,
+with a door on the east wall of the bend.  You fancy you can hear
+cries for help emanating from this direction...    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18073 0
+D1
+~
+~
+0 -1 18071 0
+D3
+~
+~
+0 -1 18085 0
+S
+#18073
+A Pit Stop~
+At this point in the passage, a rather ugly chair has been placed in a
+recess.  Deeply suspicious of everything in this place by now, you
+consider what you should do.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18074 0
+D2
+~
+~
+0 -1 18072 0
+S
+#18074
+A Deep Pool~
+The passage heads down a small slope toward a deep, still pool.  You
+may enter the pool if you wish, or you may head back up to the chair.
+~
+180 9 0 0 0 0
+D2
+~
+~
+0 -1 18073 0
+D5
+It appears safe enough.
+~
+pool~
+0 -1 18096 0
+S
+#18075
+A Cobwebby Passage~
+You proceed along a section of corridor that is enshrouded in spider
+webs.  As you cut and tear your way through them, you find yourself
+fervently hoping that you don't run into whatever made them...    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18076 0
+D2
+~
+~
+0 -1 18068 0
+S
+#18076
+Two Doors...Or is it..?~
+You enter a chamber with doors on the east and west walls.  You can
+hear nothing from behind the east door, but as you go to check the
+west door, you suddenly see, or think you see, it *move* somehow, and
+you instinctively draw your weapon.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18077 3
+D2
+~
+~
+0 -1 18075 0
+S
+#18077
+A Bend~
+You come to yet another of the many bends in the corridor in this
+place.  To the north, you can see what looks like two fountains, while
+to the west the passage ends in a door.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18078 0
+D3
+~
+door~
+1 0 18076 3
+S
+#18078
+Fountain Room~
+This room contains two fountains, one on the east wall and one on the
+west, each of which is filled with clear fresh drinking water.  
+Wondering what the dungeon has in store for you now, you cautiously
+approach.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18079 0
+D2
+~
+~
+0 -1 18077 0
+S
+#18079
+Slime...~
+The walls of this section of corridor are covered in acidic green
+slime.  Being in here even for a few seconds, you can feel it
+beginning to eat away at your clothes and skin.  You exclaim in pain
+and hurry onwards.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18080 0
+D2
+~
+~
+0 -1 18078 0
+S
+#18080
+More Slime...~
+The walls of this section of corridor are covered in acidic green
+slime.  Being in here even for a few seconds, you can feel it
+beginning to eat away at your clothes and skin.  You exclaim in pain
+and hurry onwards.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18081 0
+D2
+~
+~
+0 -1 18079 0
+S
+#18081
+A Side Passage~
+At this point a narrow passage branches off this one, forming a
+junction where you may head north, west or south.  There is a potent
+odor emanating from the south, while you can hear a crackling sound
+from the west.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18083 0
+D2
+~
+~
+0 -1 18080 0
+D3
+~
+~
+0 -1 18082 0
+S
+#18082
+An Energy Field~
+The corridor at this point is suffused with a barely visible energy
+field, crackling and humming as is sparks about here.  You hesitate
+before continuing, until you find that the field actually blocks the
+passage onward.    
+~
+180 8 0 0 0 0
+D1
+~
+~
+0 -1 18081 0
+S
+#18083
+The End of the Corridor~
+At this point any further passage forward is impossible.  The north
+wall contains a narrow chute leading down into darkness, however,
+which you may enter if you wish.  To the west, a set of ornate double
+doors stand partially open, and you think that you may be able to see
+whats inside if you look through the crack.    
+~
+180 9 0 0 0 0
+D2
+~
+~
+0 -1 18081 0
+D3
+You see a dead warrior with his hand outstretched, clasping a huge diamond.
+The room appears deserted otherwise.
+~
+door room west double ornate~
+1 0 18084 3
+S
+#18084
+The Story Falls Flat~
+As you enter, the door slams behind you, but you do not notice- your
+avaricious gaze is directed solely at the huge diamond.  Suddenly both
+the corpse and the gem disappear, and a faint click is followed by a
+loud rumbling.  Staring upwards, you see that the ceiling is slowly
+but surely descending upon you.  With despair, you realize that your
+only option is to recall and try again, or be crushed to death by one
+of the Baron's favorite traps.    
+~
+180 13 0 0 0 0
+S
+#18085
+Another Bend, Another Mob~
+I'm sick of writing it and you're sick of reading it.  Yes, it's
+another BEND.  You can head north or east.  You can hear someone
+crying for help from a door to the west.  It is standing slightly
+ajar, allowing you to peek in if you wish.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18088 0
+D1
+~
+~
+0 -1 18072 0
+D3
+Peeking in, you see a cage covered with a heavy drape, and the cries are
+coming from behind this. Hmmm...
+~
+door ajar west help whatever~
+1 0 18086 3
+S
+#18086
+A Strange Sight~
+Upon entering the room, you see a cage covered with a heavy drape.  
+There is a rope with which you can pull the drape back and thus enter
+the cage.  The voice is crying louder now, as if the occupant knows
+you are here, crying for release.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18085 3
+D3
+The drape is quite heavy and dirty. There are several holes in it around
+head height, as if tiny animals had been biting at it.
+~
+drape cage west door~
+1 0 18087 3
+S
+#18087
+Inside the Cage~
+Oops.  Upon entering the cage, you quickly notice that it was never in
+fact locked.  Indeed, it is starting to look more and more like a
+trap.  You ready your weapons and prepare to deal with whatever is
+lurking in here.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+1 0 18086 3
+S
+#18088
+Old Tunnels, New Tunnels~
+You may at this point head north or south along a long, narrow tunnel,
+or west along a short one that ends in a bend to the north.  You can
+see a door on the east wall to the north, and one on the west wall, at
+a bend to the east in the southern tunnel.  From this end you can hear
+cries for help.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18091 0
+D2
+~
+~
+0 -1 18085 0
+D3
+~
+~
+0 -1 18089 0
+S
+#18089
+A Mysterious Corner~
+Rounding the bend here, you can here high pitched whispering and
+sniggering coming from the north.  Wondering what sort of subterfugal
+skullduggery is being perpetrated, you hesitate before continuing.  
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18090 0
+D1
+~
+~
+0 -1 18088 0
+S
+#18090
+A Jolly Sight~
+You emerge into a long tunnel and suddenly find yourself overwhelmed
+by leprechauns, emerging from tiny secret doors to bound alongside,
+over and underneath you.  You feel hands groping at your possessions,
+and start to angrily force your way through.  Perhaps a bit more of a
+physical deterrent is needed to be rid of these noisome pests, say, a
+sword to their heads?  :)
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18094 0
+D2
+~
+~
+0 -1 18089 0
+S
+#18091
+A Curtain~
+At this point, a brown velvet curtain hangs over an archway on the
+eastern wall.  You cannot hear anything from behind it, though you may
+be able to peek through before you enter.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18095 0
+D1
+You peek through and see a tightrope stretched across a deep chasm, and on
+the other side rests a magnificent winged helm.
+~
+drape east door arch archway~
+1 0 18092 3
+D2
+~
+~
+0 -1 18088 0
+S
+#18092
+A Chasm~
+You step out onto a tightrope, almost losing your balance in surprise.
+It stretches across a small chasm to a helm stuck on a pole on the far
+side.  A few short steps will take you across to fetch it, should you
+wish.    
+~
+180 8 0 0 0 0
+D1
+~
+~
+0 -1 18093 0
+D3
+~
+drape arch archway door west~
+1 0 18091 3
+S
+#18093
+The Far Side~
+You make it across without mishap, and can now grab the helm abd be
+off.    
+~
+180 8 0 0 0 0
+D3
+~
+~
+0 -1 18092 0
+S
+#18094
+A Corner~
+Here the passage turns, heading east toward a large chute, and south.
+To the south you can hear high pitched whispering and sniggering, and
+it makes you feel both amused and uneasy.    
+~
+180 9 0 0 0 0
+D1
+~
+~
+0 -1 18095 0
+D2
+~
+~
+0 -1 18090 0
+S
+#18095
+A Chute~
+There is little of interest at this bend save for a chute, from which
+a horrid smell emanates.  You CAN enter it if you so desire...    
+~
+180 9 0 0 0 0
+D2
+~
+~
+0 -1 18091 0
+D3
+~
+~
+0 -1 18094 0
+S
+#18096
+In the Pool~
+You are swimming along a narrow underwater passage.  A strong current
+suddenly grabs you and drags you forward!    
+~
+180 13 0 0 0 11
+D0
+~
+~
+0 -1 18097 0
+D4
+~
+~
+0 -1 18074 0
+S
+#18097
+The Other Side~
+The current carries you under a wall and into another area.  Up above
+you can see the surface, and you strike out for it.    
+~
+180 13 0 0 0 11
+D2
+~
+~
+0 -1 18096 0
+D4
+~
+~
+0 -1 18098 0
+S
+#18098
+A New Corridor~
+You crawl from the pool onto a small stone ledge, and examine your
+immediate surroundings.  A long passageway stretches away to the
+north, as far as you can see, while to your immediate west there is a
+door, which is slightly ajar.  You can hear sounds of a struggle
+coming from here.    
+~
+180 9 0 0 0 0
+D0
+~
+~
+0 -1 18100 0
+D3
+Peering through, you see a nubile female elf in the crushing grip of a huge
+Boa Constrictor. You recognize the girl as one of your competitors, and you
+pause to wonder if it would be prudent to save her or not...
+~
+door ajar west~
+1 0 18099 3
+S
+#18099
+Snake Bowl~
+You enter the room and see a young elven thief rolling about,
+attempting to free herself of the crushing embrace of just about the
+biggest Boa anyone's ever seen.  Neither of them have noticed your
+entry.    
+~
+180 9 0 0 0 0
+D1
+~
+door~
+0 0 18098 2
+S
+$~

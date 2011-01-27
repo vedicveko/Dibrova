@@ -1,0 +1,461 @@
+#100
+badge guest~
+/cwan Asylum /cy"GUEST" /cwBadge/c0~
+/cwThere is a Newbie Asylum /cy"GUEST" /cwBadge here./c0~
+Nothing.
+~
+18 65548 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+badge~
+It is a simple badge with a strange key dangling from it.  It might be
+able to unlock something?    
+~
+#101
+jacket straight~
+a Straight Jacket~
+A single-sleeved jacket lies here.~
+Nothing.
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0 0 0 0 0
+8 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+jacket straight~
+It is a simple jacket with several restraining straps on it.
+~
+#102
+needle hypodermic~
+a Hypodemic Needle~
+/cwThis Hypodermic needle looks used (YUCKIE!)/c0~
+Gunk explodes out from the tip of the needle as $n uses it!
+~
+3 1 0 0 0 1 0 0 0
+10 3 3 15 0 0 0 0
+2 150 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hypodermic needle~
+The inside of the chamber appears to hold some sort of gummy
+substance.  Might be best not to find out what it is...    
+~
+#103
+club billy~
+a guard's /cbBilly Club/c0~
+A guard's billy club is lying here.~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+billy club~
+On the side, it says : Newbie Asylum.  It looks heavily used.
+~
+#104
+shield guard~
+a guard's /cbShield/c0~
+A Newbie Asylum guard's shield lies here.~
+Nothing.
+~
+9 0 0 0 0 513 0 0 0
+4 0 0 0 0 0 0 0
+5 226 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shield~
+This is a Newbie Asylum Guard's Shield.  It looks battered.
+~
+#105
+facemask guard~
+a guard's /cbFacemask/c0~
+A Newbie Asylum guard's facemask lies here.~
+Nothing.
+~
+9 0 0 0 0 262145 0 0 0
+3 0 0 0 0 0 0 0
+2 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+facemask~
+It looks all battered up, as it is actually used for protection.
+~
+#106
+bottle~
+a Bottle~
+/cwA bottle of whiskey has been dropped here./c0~
+Nothing.
+~
+17 0 0 0 0 16385 0 0 0
+2 2 5 0 0 0 0 0
+2 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bottle~
+Why is there a skull and crossbones on the front?  Oh well...
+~
+#107
+robe patient's~
+/cwa Patient's Open-Assed Robe/c0~
+A robe with the ass wide open has been left here.~
+Nothing.
+~
+9 0 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+4 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+open robe ass~
+It would not be so bad wearing one of these if your ugly ass didn't
+hang out. 
+~
+#108
+scarf green~
+a /cGgreen /cwScarf/c0~
+A green scarf has been dropped here.~
+Nothing.
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+3 206 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+green scarf~
+It is long and green.  Seems to be made of pure silk.
+~
+A
+17 -1
+#109
+mohawk~
+/cwa /cWwhite /cwMohawk/c0~
+A white Mohawk lies here, awaiting to adorn someone's scalp.~
+Nothing.
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0 0 0 0 0
+4 1920 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+white mohawk~
+It is a bushy strip of hair which goes down the middle of one's head.
+~
+#110
+cards deck~
+/cwa Deck of Cards/c0~
+A glowing deck of Cards, revealing a Joker, lies here.~
+Nothing.
+~
+1 0 0 0 0 16385 0 0 0
+0 0 50 0 0 0 0 0
+4 1080 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deck cards~
+The cards are brand-new and have not yet been used.
+
+Odd... the jokers seem to be missing.
+~
+#111
+ring villians~
+/cwa Ring o' /cLVillians/c0~
+A wicked-looking ring lies here, half-buried in the dust.~
+Nothing.
+~
+9 0 0 0 0 3 0 0 0
+1 0 0 0 0 0 0 0
+4 1860 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ring villians~
+An evil aura radiates from this cold piece of steel.
+~
+#112
+electrode~
+/cwan /cCElectrode/c0~
+A small plug of iron lies here, waiting to be charged up.~
+Nothing.
+~
+9 0 0 0 0 5 0 0 0
+1 0 0 0 0 0 0 0
+7 1860 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+electrode~
+A small plug of steel, seemingly unordinary, save for the static
+charge that cackles and leaps forth from it!
+~
+#113
+mask opera~
+/cwan Opera Mask/c0~
+A fragmented opera mask lies discarded here.~
+Nothing.
+~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+7 1740 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mask opera~
+It is fragmented and the once feathery plumes on it are tattered.
+The stick, which held the mask to the face, has been broken into
+two.
+~
+A
+17 -1
+#114
+goatee~
+/cwa /cWGoatee/c0~
+A small, furry clump of hair lies here in the corner.~
+Nothing.
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+4 1740 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+goatee~
+It is a clump of white, bushy hair.  It seems to add age to whoever
+wears it on their chin.
+~
+A
+17 -1
+#115
+robe dissidents~
+/cwa Robe o' /crDissidents/c0~
+A rebellious-looking robe lies here in a jumbled heap.~
+Nothing.
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+0 1680 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+dissident robe~
+A powerful aura of rebellious nature radiates from this robe.
+Be warned of possible drastic change to personality should one
+wear this robe.
+~
+A
+17 -2
+#116
+ring dictator~
+/cwa /cRDictator's /cwRing/c0~
+A ring symbolizing dictatorship lies here, forgotten.~
+Nothing.
+~
+11 0 0 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+3 1740 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ring dictator~
+It is a plain gold ring with the image of shackles stamped on it.
+~
+A
+17 -1
+#117
+pipe crack~
+/cwa /cyCrack /cwPipe/c0~
+A small burnt pipe lies here.~
+An evil glow shines brightly, then fades away!    
+~
+10 1 0 0 0 1 0 0 0
+9 16 16 0 0 0 0 0
+0 99 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#118
+broom~
+/cwa Broom/c0~
+A witch's broom lies here, abandoned and covered in cobwebs.~
+A brilliant FLASH blinds everyone in the room for a brief moment!
+~
+4 0 0 0 0 16385 0 0 0
+10 5 5 52 0 0 0 0
+7 160 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+broom~
+The straw part of the broom is tattered and worn.  The handle is
+chipped and dented in numerous places.
+~
+#119
+sleeve ringmail fishhook~
+a pair of fishhook-ringmail Sleeves~
+A wicked-looking pair of ringmail, linked by fishhooks, sleeves lie here.~
+~
+9 0 0 0 0 257 0 0 0
+2 0 0 0 0 0 0 0
+5 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sleeve fishhook ringmail~
+It is composed of hundreds of wicked fishhooks linked together.
+It is cleverly designed so that the barbs all point to the outside,
+posing a prickly defense.
+~
+#120
+cape candyman's~
+/cLCandyman's /cwCape/c0~
+A ruffled, dark cape lies in a pile here.~
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0 0 0 0 0
+8 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+candyman cape~
+The cape is twofold, the outside being white satin and the inside
+being red velvet.  A very comfortable cape to wear if it wasn't tinged
+with an aura of evil.    
+~
+#121
+teeth cannibal~
+/cwa set of /crCannibalistic /cwTeeth/c0~
+A set of bloody, cannibalistic teeth snap away at nothing here.~
+~
+5 67108864 0 0 0 8193 0 0 0
+0 0 0 4 0 0 0 0
+7 5466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+C
+139 1
+#122
+basket head-holding~
+/cwa Head-holding basket/c0~
+A bloodstained basket lies here, waiting to be used once again.~
+~
+15 0 0 0 0 1 0 0 0
+30 1 -1 0 0 0 0 0
+0 200 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#123
+legging lard strip~
+/cwa strip of /cyLard/c0~
+A disgusting strip of moldy lard lies here, decaying away.~
+~
+9 0 0 0 0 33 0 0 0
+2 0 0 0 0 0 0 0
+10 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#124
+gloves breaking entering~
+/cwa pair of /cLBreak-n-Entering /cwGloves/c0~
+A tough, sneaky-looking pair of gloves lie here.~
+~
+9 0 0 0 0 129 0 0 0
+2 0 0 0 0 0 0 0
+6 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#125
+boots icicles~
+/cwa pair of /cCI/cWc/cCi/cWc/cCl/cWe /cwboots/c0~
+A pair of boots lie here with frost radiating out about it.~
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0 0 0 0 0
+8 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#160
+goblin sword~
+a /cGgoblin's/c0 sword~
+A /cGgoblin's/c0 sword lies here.~
+~
+5 532480 9 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+3 346 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#161
+red robe~
+a /crred Robe/c0~
+A red pile of cloth lies here.~
+~
+9 512 0 0 0 1025 0 0 0
+2 0 0 0 0 0 0 0
+3 1280 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#162
+white robe~
+a /cWwhite Robe/c0~
+A white pile of cloth lies here.~
+~
+9 1024 0 0 0 1025 0 0 0
+2 0 0 0 0 0 0 0
+2 1280 0 6 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#163
+kitchen sink~
+/cwa Kitchen Sink/c0~
+A kitchen sink lies here.~
+Okay, that's just plain cheesy.    
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+20 130 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+kitchen sink~
+Okay, that's just plain cheesy.    
+~
+#164
+dented helm~
+/cwa dented Great Helm/c0~
+A dented great helm lies here.~
+~
+9 0 0 0 0 17 0 0 0
+2 0 0 0 0 0 0 0
+3 640 0 3 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#165
+spiney bug shell~
+/cwa /cgSpiney Bug /cGShell/c0~
+A spiney bug shell has been dropped here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+4 906 0 4 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 5
+#166
+sword giant slayer~
+a sword named '/cgGiant Slayer/c0'~
+A large sword sticks up from the ground.~
+Nothing.
+~
+5 532480 6 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+2 346 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#167
+light joker mystery~
+/cwthe Joker's /cLLight of Mystery/c0~
+/cwAn eerily pulsing light source lies upon the ground./c0~
+~
+1 514 0 0 0 16385 0 0 0
+0 0 50 0 0 0 0 0
+3 240 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+#199
+undefined~
+undefined~
+An unfinished object is lying here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

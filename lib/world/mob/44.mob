@@ -1,0 +1,1546 @@
+#4400
+duke ruler stalatharata~
+Duke Stalatharata~
+Duke Stalatharata, ruler of the Duchy of Malathar, stands here.
+~
+The Duke is a fair elf of middle years, who carries himself with a
+grace impossible for lesser creatures to match.  A palpable aura
+surrounds the good Duke, and you feel at awe in his noble presence.  
+~
+75 0 0 0 304 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+350 44614
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 23
+Luck: 12
+Race: 15
+E
+#4401
+duchess destelandara~
+Duchess Destelandara~
+Duchess Destelandara, wife of the Duke of Malathar, glares at you.
+~
+The Duchess is a creature of incredible beauty, a haughty fair elf of
+unmatched poise and appearance.  She seems slightly amused by your
+presence, but never does her calm face break into even a hint of a
+smile.  She also seems to expect you to be respectful and subservient.
+Maybe you had better bow...    
+~
+74 0 0 0 280 0 0 0 1000 E
+33 16 -20 1d33+2350 3d4+22
+300 38398
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 9
+Luck: 12
+Race: 15
+E
+#4402
+archmage mage tuo~
+the Archmage Tuo~
+The Archmage Tuo, loyal half-elven advisor to the Duke, stands here.
+~
+Despite his mixed blood (half-elven, half-human), the archmage Tuo
+still commands considerable respect in the court of the Duke of
+Malathar.  He is an elderly male, but still has full control of his
+faculties, and has never been more proficient with his magicks.  If
+you're lucky, he may even take the time to grant you some of his
+knowledge.    
+~
+584 0 0 0 280 0 0 0 1000 E
+31 15 -20 1d31+2300 3d4+20
+300 32739
+8 8 1
+BareHandAttack: 15
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 21
+Luck: 12
+Class: 1
+Race: 15
+E
+#4403
+priest lallinthenera~
+the High Priest Lallinthera~
+The High Priest Lallinthera stands before you.
+~
+This kindly old elf has been the direct representative of the major
+elven deity, Yaegar, in the duchy of Malathar for centuries.  His
+wisdom and ability in the sciences of astrology and healing are
+unparalleled, and he may even heal you.    
+~
+2122 0 0 0 88 0 0 0 1000 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 25
+Luck: 12
+Class: 2
+Race: 15
+E
+#4404
+haan dragon platinum wyrm~
+the Platinum Dragon~
+The Platinum Dragon known as Haan, ally and friend of the Duke, sleeps here.
+~
+The mighty Haan served as the Duke's steed during the Goblin Wars many
+centuries ago, but is now way past his prime, and he spends most of
+his time sleeping and dreaming of past glories.  For, long-lived as
+Wyrms are, Elves are much longer-lived, being virtually immortal, and
+it saddens both Haan and his master that their days together are now
+numbered.    
+~
+6222 0 0 0 80 0 0 0 1000 E
+32 15 -20 1d32+2325 3d4+21
+300 32273
+4 4 1
+BareHandAttack: 8
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 25
+Luck: 12
+Class: 4
+Race: 9
+E
+#4405
+guard elite elf elven~
+an Elite Elven Guard~
+One of the Duke's Elite Elven Guard stands rigidly at attention here.
+~
+The Duke's Elite Elven Guard are recruited from amongst his finest
+warriors, many of them being veterans of the Goblin Wars, and they
+serve their Duke with undying loyalty.    
+~
+75 0 0 0 16400 0 0 0 1000 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 5
+Luck: 12
+Class: 10
+Race: 15
+E
+#4406
+scout elite elf elven~
+an Elite Elven Scout~
+One of the Duke's Elite Elven Scouts stares at you suspiciously.
+~
+The Duke's Elite Elven Scouts are veteran rangers and spies who have
+for many decades helped him spy on his treacherous goblin and trollish
+enemies, and have helped patrol the borders of his duchy.    
+~
+76 0 0 0 80 0 0 0 1000 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+BareHandAttack: 14
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 25
+Luck: 12
+Class: 5
+Race: 15
+E
+#4407
+guard city elf elven~
+a Malatharan City Guard~
+A loyal Malatharan City Guard patrols the streets of his Duke's city.
+~
+The Guards of the City of Malathar are legendary for their loyalty and
+devotion to their benevolent Duke.  They are clad in the crimson and
+gold tabards of the city, and carry sharp swords and stout shields.  
+~
+72 0 0 0 0 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 21
+Luck: 12
+Class: 10
+Race: 15
+E
+#4408
+citizen elf elven~
+a Citizen of Malathar~
+A Citizen of Malathar strolls idly by.
+~
+One of the many peaceful citizens of this city, who has reason to feel
+safe when under the protection of such powerful people as the Guard,
+the Elite Guards, Haan the Dragon and of course the Duke himself.    
+~
+201 0 0 0 0 0 0 0 1000 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 22
+Luck: 12
+Class: 12
+Race: 15
+E
+#4409
+citizen elf elven~
+a Citizen of Malathar~
+A Citizen of Malathar strolls idly by.
+~
+One of the many peaceful citizens of this city, who has reason to feel
+safe when under the protection of such powerful people as the Guard,
+the Elite Guards, Haan the Dragon and of course the Duke himself.    
+~
+201 0 0 0 0 0 0 0 1000 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 2
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 7
+Luck: 12
+Class: 12
+Race: 15
+E
+#4410
+acolyte yaegar~
+an Acolyte of Yaegar~
+An Acolyte of Yaegar stands here.
+~
+An Acolyte of Yaegar, protective deity of this city, rushes
+purposefully about on business of his own.  He wears the traditional
+black robes of Yaegar, the color representing the doom that fell on
+the Elves at the hands of the fell Goblins of Miden'Nir from which
+Yaegar and the Duke rescued them.    
+~
+200 0 0 0 16 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 7
+Luck: 12
+Race: 15
+E
+#4411
+acolyte yaegar~
+an Acolyte of Yaegar~
+An Acolyte of Yaegar stands here.
+~
+An Acolyte of Yaegar, protective deity of this city, rushes
+purposefully about on business of her own.  She wears the traditional
+black robes of Yaegar, the color representing the doom that fell on
+the Elves at the hands of the fell Goblins of Miden'Nir from which
+Yaegar and the Duke rescued them.    
+~
+200 0 0 0 16 0 0 0 1000 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 19
+Luck: 12
+Race: 15
+E
+#4412
+guardian high elf elven~
+the High Guardian of Malathar~
+The High Guardian of Malathar stands stoically before you.
+~
+A brave Elven knight of the Goblin Wars, the High Guardian was
+captured by his foes and mutilated beyond recognition.  Left for dead,
+he was rescued by Yaegar, who gave him powers unimaginable in return
+for the knight's vow to protect the City and the Duke to the best of
+his (significant) abilities for the rest of his days.  This the Elf
+gladly did, for he was of pure heart and fair courage, and he has kept
+his vow ever since.    
+~
+4168 0 0 0 16464 0 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 23
+Luck: 12
+Class: 4
+Race: 15
+E
+#4413
+cooshee dog pet~
+a Cooshee~
+A Cooshee, faithful pet and hunting dog of elves across the world, is here.
+~
+A gift from the Elves of the Valley to their cousins in Malathar, this
+species of dogs is renowned for its loyalty and intelligence.  The
+Elves use them as pets, hunting dogs, guard dogs and scout dogs.  To
+kill or injure one carries penalties nearly as severe as those applied
+to Elves who kill other Elves, such is the love the Elves have for
+these beasts.    
+~
+204 0 0 0 80 0 0 0 400 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 1
+BareHandAttack: 4
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 18
+Luck: 12
+Race: 1
+E
+#4414
+pegasus~
+a Pegasus~
+A Pegasus, faithful steed for some Elite Guard, stands here.
+~
+Pegasii act as steeds for the High Elven Guard who protect and fight
+for the Duke.  This handsome, winged cousin of the equine herds that
+roam the plains of Human lands is noble and intelligent, and will
+gladly sacrifice its life to save its master.    
+~
+262216 0 0 0 8388624 0 0 0 500 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 1
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 10
+Luck: 12
+Race: 52
+E
+#4415
+unicorn~
+a Unicorn~
+A Unicorn, steed of one of the Nobles of Malathar, stands here.
+~
+Unicorns serve as steeds for the Nobles of Malathar who are worthy of
+such a servant.  The beasts are very intelligent, and won't throw
+themselves into a fight they know they have no chance of prevailing
+in, though they will not willingly abandon their masters to an
+untimely death if it can at all be avoided.    
+~
+262216 0 0 0 81 0 0 0 1000 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 17
+Luck: 12
+Race: 1
+E
+#4416
+scout elf elven~
+an Elven Scout~
+An Elven Scout is here, preparing to brave the frontiers to scout for Goblins.
+~
+The Scouts that serve the Duke are younger Elves who hope one day to
+join the ranks of the Elite Scouts, though full will survive the
+ardous tours of futy on the frontiers scouting the movements of and
+fighting the many enemies of Elvenkind.    
+~
+72 0 0 0 16 0 0 0 1000 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 21
+Luck: 12
+Class: 5
+Race: 15
+E
+#4417
+child elf elven~
+an Elven child~
+An Elven child plays here.
+~
+This child happily frolics in the streets of its parents' home town,
+blissfully unaware of how narrowly his entire race escaped decimation
+at the hands of the Goblins so recently.    
+~
+72 0 0 0 0 0 0 0 400 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 15
+Luck: 12
+Race: 15
+E
+#4418
+child elf elven~
+an Elven child~
+An Elven child plays here.
+~
+This child happily frolics in the streets of its parents' home town,
+blissfully unaware of how narrowly her entire race escaped decimation
+at the hands of the Goblins so recently.    
+~
+72 0 0 0 0 0 0 0 400 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Race: 15
+E
+#4419
+menelas mage~
+Menelas the Mage~
+Menelas the Mage welcome you to his place of business.
+~
+Menelas is a former apprentice of Tuo, the Archmage of Malathar, who
+has established a fluorishing business selling magical artefacts,
+favored items among the magically-inclined Elves.    
+~
+16462 0 0 0 2128 131072 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+BareHandAttack: 15
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Class: 1
+Race: 15
+E
+#4420
+grein armorer~
+Grein the Armorer~
+Grein the Armorer gruffly welcomes you to his armory.
+~
+Grein is a crusty old veteran of the Goblin Wars, an Elven foot
+soldier of low caste who, like so many of his fellow lesser Elves,
+fought valiantly for the Nobles who have since almost forgotten the
+role these "Khallq" (grunts) played in their salvation.  
+Nevertheless, Grein has managed to make a healthy profit in his
+armory, and, along with his brother Tolos, is one of the most
+respected dealers in items of war in the whole nation.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 5
+Luck: 12
+Class: 4
+Race: 15
+E
+#4421
+tolos weaponsmith smith~
+Tolos the Weaponsmith~
+Tolos the Weaponsmith stares coldly at you as you enter his store.
+~
+Tolos is the brother of Greig, and has even less liking for his fellow
+Elves for his treatment after the war.  Nevertheless, he still shares
+the Elven disdain for foreigners, and will treat you coldly whatever
+your race.  Despite his shortcomings, Tolos is a fair dealer, and will
+give you good prices for your weapons.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 9
+Luck: 12
+Race: 15
+E
+#4422
+mithara herbalist healer~
+Mithara the Herbalist~
+Mithara the Herbalist welcomes you with a sweet smile to her shop.
+~
+Mithara is a respected Herbalist and Healer, and will help you with
+any purchase or sales of pills, herbs, potions or similar that you may
+wish to undertake.  She will also, for a small fee, heal your
+injuries.    
+~
+18506 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 16
+Luck: 12
+Race: 15
+E
+#4423
+loothala cook elf~
+Loothala the fine Elven Cook~
+Loothala the fine Elven Cook welcomes you to her restaurant.
+~
+<NO, she does NOT cook elves...  > Loothala makes remarkably tasty
+food and refreshments, and any gastronomic needs you may have can be
+met here, and at reasonable prices besides.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 12
+Luck: 12
+Class: 11
+Race: 15
+E
+#4424
+dyenkalas grocer~
+Dyenkalas the Grocer~
+Dyenkalas the Grocer welcomes you to his General Store.
+~
+Dyenkalas can help you with your needs in basic adventuring equipment,
+such as lamps, torches, blankets, backpacks, bags and such.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+15 5 40 1d99+11780 1d3+10
+50 4674
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 20
+Luck: 12
+Race: 15
+E
+#4425
+wolthan blacksmith smith~
+Wolthan the Blacksmith~
+Wolthan the Blacksmith offers to repair your damaged equipment.
+~
+Wolthan is a fine smith, and will help repair your damaged equipment.
+People say he is a little expensive, but his work is excellent, his
+repairs faultless.    
+~
+16462 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 13
+Luck: 12
+Race: 15
+E
+#4426
+sage tasstellat~
+Tastellat the Sage~
+Tastellat the Sage offers to identify any items of unknown nature you have.
+~
+Tastellat is a wise and learned, if a trifle greedy, Sage who can
+identify any item you may have, magical or mundane.  A nephew of the
+great Thesius, he does well to hide the taint of Human blood he has.
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Race: 15
+E
+#4427
+cartograhper kas~
+Kas the Cartographer~
+Kas the Cartographer welcomes you to his store and offers you a map.
+~
+Kas is a well-travelled Elf who has mapped virtually every corner of
+the known world, and can sell you some of the maps he has made, if you
+are of a level high enough to withstand the perils of the land it
+leads you to.  (He doesn't want the death of his customers on his
+conscience.  )
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 9
+Luck: 12
+Race: 15
+E
+#4428
+noble elf elven~
+an Elven Noble~
+An Elven Noble haughtily demands your respect.
+~
+Since the Goblin Wars, the Elven Nobles, who were reduced to humility
+by the War, have now returned to their former haughty ways.  Although
+they are indeed loyal and brave citizens, their attitude towards the
+"Gwellenknach" (Lower Castes) makes them the target of the hatred of
+many citizens and servants.    
+~
+76 0 0 0 16 0 0 0 100 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 9
+Luck: 12
+Race: 15
+E
+#4429
+noble elf elven~
+an Elven Noble~
+An Elven Noble haughtily demands your respect.
+~
+Since the Goblin Wars, the Elven Nobles, who were reduced to humility
+by the War, have now returned to their former haughty ways.  Although
+they are indeed loyal and brave citizens, their attitude towards the
+"Gwellenknach" (Lower Castes) makes them the target of the hatred of
+many citizens and servants.    
+~
+76 0 0 0 16 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 13
+Luck: 12
+Race: 15
+E
+#4430
+guildmaster rastellagnar~
+the Druid Guildmaster~
+Rastaellagnar, the Druid Guildmaster, stands ready to train you.
+~
+Rastellagnar has been helping Druids and other willing students
+advance in their knowledge of Woodland Lore, and you are but one in a
+long line of students.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 5
+Luck: 12
+Race: 15
+E
+#4431
+guildmaster human julistha~
+the Deathknight Guildmistress~
+Julistha, the Deathknight Guildmistress, coldly appraises your abilities.
+~
+Julistha is very good at fighting, so good in fact that she even
+trains Elves in the Martial Arts, and Elves are NOT renowned for
+admitting ANY other race can do ANYTHING better than they can...    
+~
+16458 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 21
+Luck: 12
+Race: 32
+E
+#4432
+guildmaster macy thief~
+the Thief Guildmistress~
+Macy, the Thief Guildmistress, smiles at you - hmm, best check your pockets.
+~
+Macy is one of the best Kender scouts in history, and the Elves, who
+do not condone her skills at all, allow her to stay because she can
+teach their scouts so much about subterfuge and similar skills.    
+~
+16458 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 14
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 9
+Luck: 12
+Race: 18
+E
+#4433
+guildmaster master gladiator keruggan~
+the Gladiator Guildmaster~
+Keruggan, the Gladiator Guildmaster is here training people like you to fight.
+~
+Keruggan is an old dwarf from Juargen, the Dwarven Capitol, and as
+such is surly and rude like most of the dwarves from there.  If you
+would like to train, I suggest you get on with it before Keruggan asks
+you to leave.    
+~
+16458 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 14
+Luck: 12
+Race: 13
+E
+#4434
+guildmaster sorceror moredhein~
+the Sorceror Guildmaster~
+Moredhein, the Sorceror Guildmaster, stands ready to help you practice.
+~
+You aren't even sure if you have his attention until he lifts his eyes
+from the tome - but only briefly - and gives you a quick nod.    
+~
+16458 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 23
+Luck: 12
+Race: 15
+E
+#4435
+guildmaster master cleric priest~
+the High Priest~
+The High Priest of Malathar, Bloonit, awaits your training needs.
+~
+Bloonit is considered to be one of the more mysterious of the
+higher-ups in Malathar.  Although he is the High Priest, he usually
+keeps himself locked up in this tower, poring over old tomes and
+praying to his God.    
+~
+16474 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 5
+Luck: 12
+Race: 15
+E
+#4436
+guildmaster monk aelian~
+the Monk Guildmaster, Aelian~
+Aelian, the Monk Guildmaster, stares solemnly at you.
+~
+Aelian will train in the skills of your class, but only if you are
+prepared to advance.    
+~
+16793674 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 14
+E
+#4437
+servant elf elven~
+a surly Elven Servant~
+A surly Elven Servant glumly completes his tasks.
+~
+"It's ALWAYS me, isn't it?  Just 'c os MY Daddy isn't some bigshot
+noble and just 'cos MY Daddy didn't fight in the stoopid Goblin Wars,
+I gotta clean up other people's crap an' cook their meals an' carry
+their stuff an'...  Well I think it sucks!  "
+~
+200 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 17
+Luck: 12
+Race: 15
+E
+#4438
+servant elf elven~
+a surly Elven Servant~
+A surly Elven Servant glumly completes her tasks.
+~
+"It's ALWAYS me, isn't it?  Just 'c os MY Daddy isn't some bigshot
+noble and just 'cos MY Daddy didn't fight in the stoopid Goblin Wars,
+I gotta clean up other people's crap an' cook their meals an' carry
+their stuff an'...  Well I think it sucks!  "
+~
+200 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 15
+E
+#4439
+owner t'kana shopkeeper pet~
+T'Kana, the Pet Shop Owner~
+T'Kana welcomes you with great hospitality to his humble store.
+~
+T'Kana came to Malathar with a wide variety of strange and mysterious
+pets from the south many years ago.  His pets proved to be so popular,
+that he decided to stay and set up shop.    
+~
+16458 0 0 0 2128 0 0 0 1000 E
+31 15 -20 1d99+11780 3d4+20
+300 29763
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 9
+Luck: 12
+Race: 24
+E
+#4440
+allertathala guard captian elf~
+Captain Allertathala~
+Captain Allertathala cordially welcomes you to his office.
+~
+The Captain is a middle-aged Elf whose hardened, muscular form speaks
+of many battles, and Elves were not immune to scarring you'd wager he
+would have accumulated more than his share.  He is polite but
+cautious, and during his conversation with you he is constantly on
+guard.  He loves his City and Duke, and would sooner die than have
+anything happen to either of them.    
+~
+74 0 0 0 16 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 13
+Luck: 12
+Class: 4
+Race: 15
+E
+#4441
+rabbit~
+a Rabbit~
+A cute little Rabbit hops along here.
+~
+AWWWWW!  Look at da purty wabbit!  Wonder what it'd look like on the
+end of my Xcalibur and then in my belly?  Thats what you're thinking
+isn't it?  Why dontcha find out?  Yeah, abuse and victimise the poor
+rabbit.  But be careful!  Malatharan Rabbits are BAD.    
+~
+200 0 0 0 16 0 0 0 400 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 22
+Luck: 12
+Race: 1
+E
+#4442
+deer~
+a noble-looking Deer~
+A noble-looking deer stares proudly at you.
+~
+WOW!  That sucker must be at LEAST a ten-pointer!  Wouldn't THAT look
+great over the fireplace?  But I advise caution- all the wildlife in
+this area have been granted special powers to help enable their
+survival...    
+~
+200 0 0 0 16 0 0 0 500 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 5
+Luck: 12
+Race: 1
+E
+#4443
+squirrel~
+a Squirrel~
+A ferocious-looking Squirrel is sizing you up!
+~
+Malatharan Squirrels are a by-product of an experiment by the ArchMage
+Tuo gone horribly wrong and as such they are generally avoided by sane
+folk.    
+~
+72 0 0 0 1048592 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 0
+BareHandAttack: 4
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Race: 1
+E
+#4444
+stablemaster master elf~
+the Stablemaster~
+The Stablemaster eyes you cautiously.
+~
+'Ere!  Keep yer ruddy 'ands orf m' Pegasii, ya dirty sod!  The
+Stablemaster has a terrible temper and it wouldnt do to anger him...
+~
+74 0 0 0 16 0 0 0 1000 E
+45 25 -24 1d45+3000 4d5+30
+625 76985
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 15
+Luck: 12
+Race: 15
+E
+#4445
+stablehad hand elf~
+a surly Stablehand~
+A surly stablehand glares sullenly at you.
+~
+These half-elven orphans are used by the City for menial tasks such as
+cleaning out the stables, scrubbing the public toilets and such.  
+They are thus not the best company, due to both their manner and their
+godawful smell.    
+~
+200 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 10
+Luck: 12
+Race: 15
+E
+#4446
+golem~
+a Huge Golem~
+A Huge Stone Golem blocks your progress.
+~
+This massive magical construct was fashioned by the Archmage Tuo and
+is an excellent guard, seeing as it never grows weary, bored or
+greedy, and never succumbs to bribery or coercion of any form.    
+~
+74 0 0 0 540752 0 0 0 0 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 17
+Luck: 12
+Class: 4
+Race: 33
+E
+#4447
+librarian elf elven~
+an Elven Librarian~
+An Elven Librarian rushes madly past you, scattering books everywhere.
+~
+These frantic, overworked librarians are constantly fighting to keep
+up with the demanding process of reshelving and cataloguing the
+millions of books stored here.    
+~
+200 0 0 0 0 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 12
+Luck: 12
+Race: 15
+E
+#4448
+librarian elf elven~
+an Elven Librarian~
+An Elven Librarian rushes madly past you, scattering books everywhere.
+~
+These frantic, overworked librarians are constantly fighting to keep
+up with the demanding process of reshelving and cataloguing the
+millions of books stored here.    
+~
+200 0 0 0 0 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 7
+Luck: 12
+Race: 15
+E
+#4449
+griffon~
+an Angry Griffon~
+An Angry Griffon lunges forth and attacks!
+~
+/cRRRRRRROOOOOOOOAAAARRRRRR!/c0
+~
+106 0 0 0 16464 0 0 0 -400 E
+30 14 -20 1d30+2250 3d3+20
+0 27376
+8 8 1
+BareHandAttack: 8
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Race: 3
+E
+#4450
+ocelot~
+an Ocelot~
+An Ocelot bears it claws and snarls ferociously!
+~
+Ocelots are kinda like very big domestic cats, save that they could
+probably tear your throat out.    
+~
+328 0 0 0 8 0 0 0 0 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 1
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 13
+Luck: 12
+Race: 1
+E
+#4451
+alsatian dog~
+an Alsatian~
+A savage Alsatian bears its teeth and growls menacingly.
+~
+Pliny wrote that if animals could talk, then they would tell us of the
+wonders of the world.  But if this dog could talk, all it would
+probably say would be "Bugger Off!  "
+~
+328 0 0 0 8 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+Race: 1
+E
+#4452
+sloth~
+a Three-toed Sloth~
+A Three-toed Sloth hangs here.
+~
+The Sloth may look harmless enough, but get it mad and it'll kill you!.
+~
+328 0 0 0 8 0 0 0 0 E
+16 5 36 1d16+600 1d6+8
+0 5510
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Race: 1
+E
+#4453
+kangaroo~
+a Kangaroo~
+A friendly Kangaroo hops playfully towards you.
+~
+Playful.  Yeah.  Right.  When this big red gets near you he'll put a
+hurting on you like you wouldn't believe.    
+~
+328 0 0 0 8 0 0 0 0 E
+14 4 44 1d14+400 1d5+7
+0 3920
+8 8 1
+BareHandAttack: 5
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Race: 1
+E
+#4454
+rhino rhinocerous~
+a Rhinocerous~
+A Rhinocerous rumbles along here.
+~
+This baby'll spear you like a shish kebab.
+~
+328 0 0 0 8 0 0 0 0 E
+17 6 32 1d17+700 1d6+8
+0 6432
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 25
+Luck: 12
+Race: 1
+E
+#4455
+gorilla~
+a Huge Gorilla~
+A Huge Gorilla beats its chest and growls menacingly.
+~
+This feller will tear your arms off for a banana.
+~
+328 0 0 0 8 0 0 0 0 E
+20 8 20 1d20+1000 2d3+10
+0 9735
+8 8 1
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 5
+Luck: 12
+Race: 1
+E
+#4456
+pegasus~
+a Pegasus~
+A well-trained Pegasus waits obediently here.
+~
+This beast is army-surplus.  Having exceeded her flying hours, she is
+now sub-standard and is being flogged off to the public at rock-bottom
+prices.  Believe me, don't even THINK about trying to buy a new one...
+~
+328 0 0 0 8388616 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+0 27376
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 25
+Luck: 12
+Race: 52
+E
+#4458
+teleport operator~
+the Teleport Operator~
+A man wearing a Sorceror's Guild robe is here teleporting his cutomers away.
+~
+He looks as if he would be pleased to be at a pig fucking contest, so
+content does this man seem doing such a simple and mindless job.  Ah,
+well - to each his own.    
+~
+16395 0 0 0 2128 0 0 0 0 E
+60 37 -36 1d60+7100 5d6+40
+1000 160325
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 17
+Luck: 12
+Class: 1
+Race: 14
+E
+#4459
+newbie helper Zeldane~
+Zeldane the Newbie Helper~
+Zeldane the Newbie Helper is here helping newbies get to the Newbie Headquarters.
+~
+Zeldane smiles a wecome at you and tells you, /cr'If you'd like to go
+to the Newbie Headquarters, just type NEWBIE and I'll send you there.
+~
+16395 0 0 0 2384 0 0 0 0 E
+100 77 -40 1d100+12000 9d10+66
+1950 648796
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 10
+Luck: 12
+Class: 2
+Race: 15
+E
+T 3000
+#4460
+woman sorceror guild guard~
+the Sorceror Guildguard~
+A woman sits on the floor cross-legged, playing a game of cards.
+~
+At first glance you thought maybe she might be playing solitaire or
+something, but those are Tarot Cards.    
+~
+188426 0 0 0 336 0 0 0 0 E
+120 100 -40 1d50+6000 14d14+80
+2450 1032812
+8 8 2
+BareHandAttack: 15
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 25
+Luck: 12
+Class: 1
+Race: 15
+E
+#4461
+cleric guild guard man~
+the Cleric Guild Guard~
+A man in white robe stands here, looking bored.
+~
+He wanders back and forth in this small room, looking for all the
+world like he has much better things he could be doing with his time.
+~
+190474 0 0 0 336 0 0 0 800 E
+120 100 -40 1d50+6000 14d14+80
+2450 1032812
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 18
+Luck: 12
+Class: 2
+Race: 15
+E
+#4462
+ranger guild guard~
+the Ranger Guild Guard~
+The Guild Guard for the Ranger Guild stands here.
+~
+A towering man with dark hair and blue eyes guards the way to the Ranger guild.
+~
+190474 0 0 0 336 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 0
+Str: 20
+Dex: 5
+Int: 24
+Wis: 22
+Con: 18
+Cha: 22
+Luck: 21
+Class: 5
+Race: 15
+E
+#4463
+assassin guild guard~
+the Assassin's Guild Guard~
+The Assassin's guild guard stands in the shadows here.
+~
+A cowled person leans idly against the wall.
+~
+190474 0 0 0 336 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 0
+Str: 14
+Dex: 24
+Int: 6
+Wis: 16
+Con: 20
+Cha: 10
+Luck: 13
+Class: 4
+Race: 15
+E
+#4464
+monk guild guard~
+a quiet Monk~
+A quite Monk guards his guild.
+~
+A robed man stands quietly before the doors of the guild.
+~
+190474 0 0 0 336 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 1
+Str: 23
+Dex: 19
+Int: 15
+Wis: 16
+Con: 23
+Cha: 7
+Luck: 6
+Class: 8
+Race: 15
+E
+#4465
+warrior guild guard~
+a large Warrior~
+A warrior guards the entrance here.
+~
+An enormous man stands with his hand on his sword hilt.
+~
+59402 0 0 0 336 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 0
+BareHandAttack: 3
+Str: 20
+Dex: 12
+Int: 19
+Wis: 13
+Con: 18
+Cha: 15
+Luck: 13
+Class: 4
+Race: 15
+E
+#4466
+deathknight guard death guild~
+an evil Knight~
+A Deathknight guild guard stands ever watchful.
+~
+A knight in black armor scans the area continually.
+~
+190474 0 0 0 2384 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 0
+BareHandAttack: 3
+Str: 25
+Dex: 17
+Int: 23
+Wis: 12
+Con: 5
+Cha: 5
+Luck: 24
+Class: 9
+Race: 15
+E
+#4467
+paladin guard guild knight~
+a Paladin~
+A knight in shinning armor stands here.
+~
+A tall man in brightly shinning armor stands here before the doors.
+~
+190474 0 0 0 336 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 21
+Int: 8
+Wis: 20
+Con: 18
+Cha: 8
+Luck: 19
+Class: 6
+Race: 15
+E
+$

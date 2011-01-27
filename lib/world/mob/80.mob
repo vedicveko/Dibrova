@@ -1,0 +1,545 @@
+#8000
+stablehand hand girl~
+the Stablehand~
+A young girl works hard, making sure all the horses are well-cared for.
+~
+She looks like she couldn't be a day over thirteen, and tired as any
+young girl you've ever seen, but she also holds her head proudly.  
+She may not be able to go out and fight the goblin hordes, but she can
+do her part here, helping to ensure that all the cavalry officers have
+fresh mounts.    
+~
+14 0 0 0 16 0 0 0 800 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Race: 14
+E
+#8001
+doctor harried~
+a harried Doctor~
+A tired, harried doctor hurries from bed to bed, trying to tend his wounded.
+~
+The poor guy looks as if he hasn't slept in months, his movements are
+automatic and somewhat jerky as he goes through his daily routine.  
+You would think that a town under siege would be able to receive more
+than just this one doctor.    
+~
+16394 0 0 0 2128 0 0 0 700 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 18
+Luck: 12
+Class: 2
+Race: 14
+E
+#8002
+nurrse worn-out~
+a worn-out Nurse~
+A nurse trudges around the room, making her rounds while half-asleep.
+~
+She looks like she must be only half aware of what goes on around her,
+the other half of her awareness completely shut down months ago.    
+~
+6154 0 0 0 16 0 0 0 800 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 0
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 15
+Luck: 12
+Class: 2
+Race: 14
+E
+#8003
+patient moaning~
+a moaning Patient~
+A patient lays on the floor in a swath of blankets, moaning in pain.
+~
+He does even seem to be aware of the fact that he is in a hospital or
+that he has the possibility of dying - all he knows is that he is in
+pain.    
+~
+10 0 0 0 0 0 0 0 400 E
+20 8 20 7d8+1000 1d4+13
+150 9735
+2 2 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 9
+Luck: 12
+Race: 14
+E
+#8004
+soldier injured~
+an injured Soldier~
+An injured soldier rests with his back propped up against the wall.
+~
+He does appear to be asleep, but his eyes remain half-closed, as if he
+making a wish.  Possibly a wish for peace.    
+~
+10 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+5 5 1
+BareHandAttack: 13
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 15
+Luck: 12
+Race: 14
+E
+#8005
+wife sleeping~
+a sleeping Wife~
+A wife sleeps, curled in a ball next to her husband's bed.
+~
+By the looks of the cirles under her eyes and the way her husband's
+chest barely moves, it appears she has been spending a lot of time
+here, awaiting her husband's death.    
+~
+6154 0 0 0 0 0 0 0 900 E
+15 5 40 1d15+500 1d3+10
+50 4674
+4 4 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Class: 12
+Race: 14
+E
+#8006
+mortician man~
+the Mortician~
+A man with deep-set eyes quietly works on a corpse.
+~
+He looks almost like a cadaver himself, with his deep-set eyes and
+hunched-over posture.  Strange how a job like this attracts those
+sorts of people.    
+~
+526350 0 0 0 2064 0 0 0 -100 E
+40 21 -20 1d40+2525 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 11
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 5
+Luck: 12
+Race: 14
+E
+#8007
+Frond banker~
+Frond~
+Frond waits here in his bank, hoping for a customer or two today.
+~
+He is idly flipping a coin as you walk in.  He looks up hopefully upon
+hearing the door, quickly shoving the coin in his pocket and smiling a
+welcome at you.    
+~
+10 0 0 0 16 0 0 0 800 E
+46 26 -24 1d46+3500 5d5+30
+650 81423
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 10
+Luck: 12
+Race: 14
+E
+#8008
+postmaster worker woman Ursella~
+Ursella~
+Ursella works behind the counter, sorting mail.
+~
+She may be the postmaster, but she is also a hard worker.  None of
+that civil service 'Holier than Thou' attitude here, no sir!    
+~
+16394 0 0 0 2128 0 0 0 400 E
+45 25 -24 1d45+3000 4d5+30
+625 76985
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Race: 14
+E
+#8009
+man cleric guild master~
+the Cleric's Guildmaster~
+A man stands before you, head bowed in prayer.
+~
+His manner and dress is very simple.  Not simple unintelligent, but
+simple without flare.  He is the type of man who could appear
+dignified and respectable in rags.    
+~
+16458 0 0 0 2384 131072 0 0 1000 E
+200 204 -100 1d200+24000 40d45+133
+0 3799580
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+E
+#8010
+woman cleric guard~
+the Cleric's Guard~
+A woman stands quietly near the door to the Cleric's Guild.
+~
+She does seem extraordinary or even out of the ordinary in any way.  
+She wears no armor and carries no blade, she needs only her faith in
+her God.    
+~
+16458 0 0 0 2128 131072 0 0 1000 E
+200 204 -100 1d200+24000 40d45+133
+0 3454164
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 14
+Luck: 12
+Class: 14
+Race: 23
+E
+#8011
+man paladin guild master~
+the Paladin Guildmaster~
+The master works with squires and knights, training them in the arts of the class.
+~
+You need not look long to know that the Master has been working all
+day with these men, training them diligently so that they might go out
+and help to rid Ofingia of the goblins, yet he does not even appear
+tired.  It must be his faith that keeps him strong and vigorous.    
+~
+16458 0 0 0 2384 131072 0 0 1000 E
+200 204 -100 1d200+24000 40d45+133
+0 3799580
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 9
+Luck: 12
+E
+#8012
+knight paladin guild guard~
+a Paladin Guardian~
+A knight stands at strict attention beside the door to his guild.
+~
+He is tall and proud, dressed in full gear bearing the crest of the
+White Rose, the Paladin's token signia.    
+~
+16458 0 0 0 2128 131072 0 0 900 E
+200 204 -100 1d200+24000 40d45+133
+0 3454164
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 25
+Luck: 12
+Class: 6
+Race: 14
+E
+#8013
+thief high guild master~
+the High Thief~
+The Master for your guild steps from the shadows as you enter.
+~
+He is the type of thief who is beyond being proud or boastful of his
+considerable skills.  Rather, he takes great pride in boasting the
+skills of his pupils.    
+~
+16458 0 0 0 2384 131072 0 0 -200 E
+200 204 -100 1d200+24000 40d45+133
+0 3799580
+8 8 1
+BareHandAttack: 14
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 18
+Luck: 12
+E
+#8014
+guild guard thief sly~
+the Sly Thief~
+A thief leans against the door to his guild, grinning at you slyly.
+~
+He appears completely casual in the way he relaxes against the door,
+but his eyes never leave you for a moment.    
+~
+16458 0 0 0 2128 131080 0 0 -300 E
+200 204 -100 1d53+6360 40d45+133
+0 3454164
+8 8 1
+BareHandAttack: 11
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 16
+Luck: 12
+Class: 4
+Race: 14
+E
+#8015
+woman elder druidic~
+the Druidic Elder~
+A woman relaxes on the floor, whittling a piece of wood.
+~
+She certainly isn't what you might have expected from a Guild Master,
+one who is supposed to be a Master in every technique of your class.
+~
+16458 0 0 0 2384 131072 0 0 500 E
+200 204 -100 1d60+7100 40d45+133
+0 3799580
+8 8 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 22
+Luck: 12
+E
+#8016
+guild guard man~
+the Solitary Ranger~
+A man stands here, picking his fingernails with a hunting knife.
+~
+He looks like he'd be a bit more at home in the woods, but hey - who's
+gonna tell him he's lost?!?    
+~
+16458 0 0 0 2128 131072 0 0 300 E
+200 204 -100 1d50+6000 40d45+133
+0 3454164
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 17
+Luck: 12
+Class: 5
+Race: 15
+E
+#8017
+woman master combat~
+the Master of Combat~
+A short, slender woman dressed in leather armor works with her pupils.
+~
+Hey, now, this could actually be some fun training here!
+~
+16458 0 0 0 2384 131072 0 0 0 E
+200 204 -100 1d60+7100 40d45+133
+0 3799580
+8 8 2
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 16
+Luck: 12
+E
+#8018
+man huge guild guard~
+a Huge Warrior~
+A huge man stands here protecting his guild from intruders.
+~
+He certainly appears to be an effective blocker - don't you think so?
+~
+245770 0 0 0 2128 131072 0 0 90 E
+200 204 -100 1d50+6000 40d45+133
+0 3454164
+8 8 1
+BareHandAttack: 6
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 15
+Luck: 12
+Class: 4
+Race: 19
+E
+#8019
+master knight dark~
+the Master of the Deathknights~
+A knight dressed all in shining black armor is waiting to train you.
+~
+You cannot see very far into his eyes, they reflect absolutely nothing
+in them.  Not even anger.    
+~
+245770 0 0 0 2384 131072 0 0 -900 E
+200 204 -100 1d60+7100 40d45+133
+0 3799580
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 9
+Luck: 12
+E
+#8020
+guild guard knight~
+a formidable Deathknight~
+A knight stands stiffly by the door of his guild, unblinking.
+~
+He stands so still, so at attention that you have to wonder if he is
+even breathing at all.    
+~
+245770 0 0 0 2128 131072 0 0 -1000 E
+200 204 -100 1d50+6000 40d45+133
+0 3454164
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 13
+Luck: 12
+Class: 9
+Race: 29
+E
+#8021
+monk guild master~
+the Monk Master~
+Your Master stands in the center of the room, awaiting your arrival.
+~
+How does he know that you are coming every single time?
+~
+245770 0 0 0 2384 131072 0 0 0 E
+200 204 -100 1d60+7100 40d45+133
+0 3799580
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 21
+Luck: 12
+E
+#8022
+man monk guard~
+a solemn Monk~
+A simply dressed man guards the door to his guild.
+~
+He does not appear threatening or mean in any way, he simply is doing
+what he has been ordained to do for this period of his life.    
+~
+245770 0 0 0 2128 131072 0 0 0 E
+200 204 -100 1d50+6000 40d45+133
+0 3454164
+8 8 1
+BareHandAttack: 12
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 20
+Luck: 12
+Class: 8
+Race: 14
+E
+#8023
+wizard master~
+the Grand Wizard~
+Your Master hovers a few inches above the floor, awaiting pupils.
+~
+He gives you a slight nod and a gesture that indicates he is ready to begin.
+~
+245834 0 0 0 8653136 131072 0 0 500 E
+200 204 -100 1d60+7100 40d45+133
+0 4144996
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+E
+#8024
+sorceror guild guard~
+the smiling Sorceror~
+A man, obviously a sorceror, is guarding the door to his guild.
+~
+He gives you a slight nod in greeting, but even so, he will not let
+you pass unless you are of his guild.    
+~
+245770 0 0 0 264272 131072 0 0 600 E
+200 204 -100 1d50+6000 40d45+133
+0 3799580
+8 8 1
+BareHandAttack: 15
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 13
+Luck: 12
+Class: 1
+Race: 14
+E
+$

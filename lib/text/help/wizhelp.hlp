@@ -1,0 +1,1616 @@
+151
+ABILSTAT
+
+This command gives a general breakdown of a player's skills, spells,
+prayers, songs or chants (depending on what level they are).
+
+Usage: abilstat <player>
+#
+ADDEXP
+
+Usage: addexp <player> <amount>
+
+Because of the enormous number of experience points that a player can attain,
+sometimes the SET command can not be used. The addexp command allows you to
+add a number of experience to the amount a player already has.
+#
+ADDLAG
+
+Usage: addlag <player> <amount>
+
+This command should never be used on a player unless that player has been
+deemed by the majority of the immortal staff as unwanted.
+
+This is a handy command that can cause a player lag defined by the number
+that you assign it. The player will be unable to do ANYTHINg during the
+time that you have lagged them out.
+#
+ADDPRAC
+
+Usage: addprac <player> <amount>
+
+Used as the basis of many rewards to quests, this command is the one that
+allows you to add quest points to a player. DO NOT award quest points for
+anything except the completion and/or winning of a quest.
+#
+ADVANCE
+
+Usage: advance <victim> <level>
+
+ADVANCE moves a player to a new level.  If used to promote a player to an
+immortal level, and if you have the autowiz program installed, the wizlist and
+immlist will automatically be recreated.
+
+Example:
+
+  > advance rasmussen 34
+
+See also: SET
+#
+WIZAT
+
+Usage: at <room VNUM | item | mob | player name> <command> <arguments>
+
+AT can be used to perform an action in a location other than where you are
+standing.  The first argument can be a virtual room number or the name of a
+character or object.  The remainder of the line is passed to the command
+interpreter.
+
+Examples:
+
+  > at 3001 look
+  > at fido kill fido
+  > at 3.corpse get all corpse
+  > at catje wave catje
+
+See also: GOTO
+#
+ATTACH
+
+Attach is a dg-related command currently not in use.
+
+#
+BAN UNBAN
+
+Usage: ban [<all | new | select> <site>]
+       unban <site>
+
+These commands prevent anyone from a site with a hostname containing the
+site substring from logging in to the game.  You may ban a site to ALL, NEW
+or SELECT players.  Banning a site to NEW players prevents any new players
+from registering.  Banning a site to ALL players disallows ANY connections
+from that site.  Banning a site SELECTively allows only players with site-ok
+flags to log in from that site.  Ban with no argument returns a list of
+currently banned sites.
+
+Unban removes the ban.
+
+Examples:
+
+  > ban all whitehouse.gov
+  > unban ai.mit.edu
+
+See also: WIZLOCK
+#
+BITCHSLAP
+
+Usage: bitchslap <player>
+
+This is a handy tool to use when a player is getting out of line but you
+do not wish to take drastic measures such as muting or banning.
+
+Bitchslap will incapacitate the player and set them to 1 hp.
+#
+CHOWN
+
+Usage: chown <item> <player>
+
+CH.OWN. (CHange OWNer)
+
+This command is used to forcibly take an item from a player.
+#
+COPYTO
+
+Usage: copyto <room vnum>
+
+Used when creating rooms which will have identical descriptions.
+This command does not duplicate the room title, only the main description.
+
+Note: room must already be in existance to copy a descrip to it
+#
+DETACH
+
+This is a dg-related command that is not in use.
+
+#
+DOUBLEXP
+
+Usage: doublexp <time>
+
+When using this command, you grant all mortals to receive double the normal
+amount of experience for the number of real time minutes that you specify.
+
+Use this command very sparingly.
+#
+ENABLE
+
+Usage: enable <player>
+
+This command is to be used in conjunction with court proceedings.
+
+When used first on a player, it will set the SPEAK flag which will
+allow the player to speak in COURT flagged rooms.
+
+When used again on a players, it removes the SPEAK flag, disallowing
+speech in COURT rooms.
+
+Players who have the SPEAK flag set and leave a COURT flagged room 
+will automatically have the flag removed.
+#
+IMMBLESS
+
+Usage: immbless <player>
+
+Sometimes a player will go above and beyond the call of duty, sometimes their
+roleplaying will be exemplary - sometimes they've just been around a long time
+and you're feeling pretty damn good about life.
+
+When you bless a player (no mobs), one of four things can happen:
+
+- The player will receive 15 hrs of BALANCE & SANCTUARY
+- The player will receive 15 hrs of BLAZEWARD & AWARE
+- The player will receive 15 hrs of INDESTRUCTABLE AURA & NOMAGIC 
+- The player will receive 15 hrs of BLAZEWARD & BALANCE
+
+The player will receive the "IMMBLESSED" flag and can not be blessed again
+until the first one wears off.
+#
+BUILDERS BUILDING
+
+Builders Handbook - Dibrova
+
+This file details all aspects of building, any preferences we have in
+terms of building, and our basic goals and ideals at Dibrova.
+
+First off, know that this mud is medieval based, all zones, eq and mobs
+must follow that general criteria.  Please make no reference to anything
+that might imply anything modern in your descripts.  Also, please do not
+attempt any duplications of other zones from other muds.  We pride 
+ourselves on having a large number of very original zones.  It is fine
+if you wish to use a general idea that another mud uses, as long as the 
+zone is not the same.
+
+As far as obscenity in descrips is concerned, we have no problem with 
+humor and if it involves the use of some slang or 'bad' words, no biggie.
+Just don't abuse the use of any words.  We don't want the mud filthy, 
+just fun!
+
+In the course of reading this document, you will see the use of the word
+BALANCE many times.  Many of you have probably heard and seen this used 
+on other muds as well.  It is a word very open to interpretation.  To 
+us, it basically means make' the game worth playing - don't make all 
+kick ass eq with no '-' stats.  Players love it when they get great eq, 
+but they love it even more when they get great eq after having gone 
+through a bunch of shitty eq first - they get a feeling of having 
+'conquered' some part of the mud.  Watch for the word - BALANCE will be 
+foremost in your mind when creating your zones after reading this - we 
+hope ;-)
+
+
+World Files
+
+Before even beginning in an redit file for a zone, take some time and
+think it out.  Make a map offline before starting it online, you will
+find that it is much easier (and quicker) to keep your mental focus on
+where you are with each room if you are looking at a map.
+
+If you think that your zone idea might not fit into the theme of the
+overall mud, BE SURE TO ASK AN IMP OR A HEAD BUILDER.  Do not just
+assume that it would be ok, only to find out 20 rooms later that your
+zone will not fit in the mud anywhere.
+
+When you design a room, make sure to use the room to develop and expound
+on the already existing storyline.  Have the areas interweave into each
+other, to help dissolve the truth that each zone is seperate.  Also make
+sure all room titles are set in caps using the same rules that apply to
+book titles.
+
+Try not to do the generic same-room descriptions that are seen so often 
+in mazes and forests.  Make each room unique to the other.  Sure, you 
+may be making a long hallway that seems basically the same at first 
+glance, but has minor differences that can be used.  Remember to use all 
+five senses when describing a room, not just sight.  Does it smell?  Is 
+there any noise?
+
+It is not a good idea to refer to mobs in your descrips.  There may be
+those mobs in your rooms at each zone reset, but once the mob is killed,
+it no longer exists in that room, thus spoiling the descrip for other
+players who may walk in later.
+
+If you mention non-loading objs in the room - i.e., fireplace, chair,
+closet - make sure you use the extra description feature to give a bit
+of info on the obj you said was there.  If you say there is a bookshelf
+in a room and don't set the extra descrip, it will say "You do not see
+that."  Pretty lame.
+
+Room flags and light should be set after the zone is complete.  It is 
+too easy to forget such small details when engrossed in making good 
+decrips that it is best to go back and do that after the zone is 
+finished.
+
+Some rules:
+
+- No DEATH flags allowed set, we aren't in this to kill off players
+
+- Color is not encouraged for room descrips, it can be used, but
+  minimally, please.
+
+- After finishing your room, please use the /fi command to format the 
+  descrip.  (it keeps the mud looking uniform throughout)
+
+- We have no minimum amount that we set for a zone in terms of how
+  many rooms.  Make a quality zone and we don't care if it's only ten
+
+- Any god rooms must be mudmailed to Kaan.  They will be added to zone 
+  12, please do not make any god rooms in any other zones.
+
+- Everyone's favorite - spell-check your zone before you submit it to 
+  Kaan for the final walk-through.  If there are a million spelling
+  errors, we will not look at the zone until those are fixed.  ;-)
+
+- Do NOT use the dig command to connect your zone to an existing zone
+  that is part the main mud until it has been ok'd by Kaan.  Players
+  going into an unchecked zone could die or even worse, leave our mud
+  from a zone that has errors or is unbalanced.
+
+Commands available to aid in rediting:
+
+dig - allows builder to link rooms without going into OLC.
+         usage: dig (dir) (room vnum)
+
+rlist, mlist, olist - allows builder to see complete list of all mobs,
+       objs, or rooms in given zone.
+         usage: rlist (zone #)
+
+purge - removes all objs and mobs from a room
+
+zreset - resets entire zone, loading objs and mobs to rooms - it is 
+         good to purge a room before resetting it - old mobs and objs
+         will remain in the room until killed or purged.
+         usage: zreset (zone #)
+
+
+Mob Files
+
+We have a mobstats file online on Dibrova, just type HELP MOBSTATS and 
+the complete file will list.  You can use it from there or use your cut
+and copy command and plunk it into a file and print it out.  That's up
+to you.
+
+If applicable, give your mobs names, or at least an occupation.  Seeing
+the generic "a citizen" gets boring pretty quick and makes the game
+become a drone, room-to-room hack and slash.  As a player, which would 
+you like to say that you killed more - "The Great Speaker of the Land", 
+or "the town crier"?  Both could easily be the same mob, but one sounds
+more impressive than the other.
+
+Try to keep the mobs varied.  Rememeber, though, that if you intend to
+put a high level mob in the same zone as a low level mob, make it so
+that it is harder for a player to 'stumble on' the harder one.  A newbie
+could be wandering through that zone, happily killing the low level mobs
+and suddenly walk in on an aggro high level and be not only toast, but
+have irretrievable eq because the mob is aggro and standing over the
+player's corpse.
+
+In a mob's description, do not mention wearables.  The description 
+should be what the mob looks like and is, not what it is wearing.  Try 
+to keep emotions out of the description as well, do not make an angry 
+mob unless it is an aggro that attacks on sight.
+
+Gold is not listed in the mobstats file because it is expected to vary 
+and there is no 'set in stone' limit for levels.  Most of the eq sold on
+the mud is very inexpensive, as such mobs SHOULD NOT CARRY LARGE AMOUNTS.
+The max for a mob to carry (a level 50 mob) is 5000 gold.  And that is 
+the MAX!  At around level 40 the amount should drop dramatically.  
+Anything lower than level 40 should carry less than 1500 gold.  These are
+ROUGH ESTIMATES, however, and if you have a good reason that Kaan will go 
+for, then you can vary from these amounts.
+
+Aggro and Wimpy mob flags should be at a minimum, especially wimpy.  In 
+low level zones, please do not set wimpy flags unless the mob is level
+3 or below.  Players who are killing in a zone that is low level are 
+there because they themselves are low level - remember that.
+
+For all other mob creation options, please refer to HELP MOBSTATS.
+
+
+Obj Files
+
+- Take your time on making your descrips for your mobs, be very
+  liberal in how you describe.  Remember that a player's mental
+  view on an object is based solely on what you tell them about it.
+  There's nothing worse than looking at an obj and seeing "The sword
+  is big."  Yes, this tells the player that it is a sword and it is
+  big, but what else?  What color?  Is it sharp, notched, dull...?
+  Make your objs interesting.
+
+- Before even making an obj, make sure (using VNUM OBJ (obj name)) that
+  another similar or identical obj hasn't already been made.  Nothing
+  worse than having wasted disk space and time!
+
+- Make your objs personal to the mob that carries them.  If you make a 
+  cloak that loads on the wizard Throm, make it "The Magic Cloak of 
+  Throm" or even just "the wizard's cloak".  Anything but just a plain 
+  old cloak.  Which would you rather have, as a player?
+
+- All objects should have color in the S-descrip and the L-descrip.
+  Please color all objs.
+
+- Please set all information and values on objects before moving on
+  or adding it to the zone file.  There have been too many zones that
+  come through with every object in the database having weight 0 or
+  cost 0.
+
+- All God objs are to be mudmailed to Kaan.  They will be added to
+  zone 12 if needed.
+
+- The cost of the object is up to the creator.  As mentioned in the
+  mob section, we prefer that obj prices be very low unless they are
+  not sold in shops.
+
+- Weight max is 40 (body armor).  Weight min is 2 (ring)
+
+- Minimum level should never be any more than the mob that carries it.
+
+- When making objs, DO NOT OVERLOAD THEM WITH ADD-AFFECTS, especially
+  low level objs.  Most objs should not have add-affects at all.  When 
+  giving add-affects to an item, it is best to use values lower than the
+  max allowed.  Just make sure that the more powerful objects in the
+  game are given a low load percent so that it will actually become a
+  valuable item.
+
+- Spell and extra affects are only permitted to be added ONE PER OBJ.  
+  Do not add spell affects to an object that is below level 35.  Certain
+  concessions can be made on this rule, please inquire with Kaan if you
+  wish to add affects to a low level obj.
+
+- The MAX for hit and dam is 4, and that is on a VERY high level obj.
+  There are 21 wear positions and it will be too easy for a character
+  to get the highest hit and dam possible if stats get too high on objs.
+  When adding affects such as hit and dam, there should always be a 
+  negative stat on the obj that means just as much as the positive 
+  affect.  That way, the player will be forced to choose which eq to 
+  use and which stats mean the most to them.
+
+- Applies for stats such as str, dex, wis, con, int, and cha should 
+  never be more then +3 or -3.
+
+- Maxhit and maxmove should fall within the -30 to +30 range.
+
+  
+  No more than 1 apply type per item levels 19 and below
+  No more than 2 apply types per item levels 20 - 39
+  No more than 3 apply types per item levels 40 - 50
+
+
+- When doing the aliases, put the most common word used for an obj, then
+  the second most common, so on and so forth.
+  i.e. - a red teapot     aliases - pot teapot tea red
+
+
+Max AC and Hit and Dam Applies for Wear Positions:
+
+POSITION                AC APPLY                HIT AND DAM APPLY
+
+Head                       8                            3
+Eyes                       4                            1
+Face                       4                            1
+Ears                       4                            2
+Neck                       5                            1
+About                     10                            2
+Body                      10                            2
+Arm                        8                            2
+Hands                      8                            3
+Ring                       3                            1
+Thumb                      3                            1
+Waist                      7                            1
+Leg                        8                            3
+Feet                       7                            3
+Hold                       6                            3
+Shield                    10                            3
+Wield                      0                            4
+
+
+Zone Files
+
+- New zones (zones which are still under construction) must all have
+  the Builder's name in parenthesis.  This helps Kaan keep track of 
+  all of you ;)
+
+- An average Lifespan for a zone is 30 minutes, but can vary as the
+  builder sees fit.
+
+- Top of the zone will always be number **99 of your zone.
+
+- Resets are typically NORMAL.
+
+- If a zone is under construction, choose YES for Developing.
+
+- Max existing is for the ENTIRE mud.  If you want to allow players 
+  to get a certain obj when another player online has the same obj, then
+  your max must be higher than 1.
+
+- When giving or equipping a mob with an obj, be sure to set the if-flag
+  to 1.  i.e. - make it dependent on the mob loading
+
+- When loading a stationary object to a room, be sure to put the 
+  (R)Remove command in above the (O) Load object command.
+
+
+Shop Files
+
+- Shops do not need to be the same vnum as the room they are in.  
+  Typically, the first shop file will be **00, the second **01, etc. etc.
+
+- Keeper is the vnum of the mob who is the shoopkeeper.  The mob must
+  have the items in its inventory (in the zone file) before the shop
+  will work.
+
+- Most shops are to be open all day long and are set as such from the 
+  get-go.  Shops can be modified to close at certain hours.  There are
+  28 hours in a mud day.
+
+- Sell rate is the percentage profit the shop makes on items sold.  
+  Typically, it should be 1.5%, but can vary slightly from that
+  amount.  Buy rate is the percentage the shop pays of an obj's value
+  when buying from a player.  This is normally set at .85%, but again 
+  can vary slightly.
+
+- Items 7 - D should be kept the same - please leave all shop msgs the 
+  same.
+
+- There are 2 flags that can be set for (F)shop flags.  One will cause 
+  the shopkeeper to fight when a player attempts to steal, the other 
+  puts most of the keeper's money in the bank (past a certain amnt.) and
+  keeps the keeper from attacking when attempts are made at stealing.
+
+- You may have more than one room set for keepers to sell their objs,
+  however it is most common for shops to only be in one room.
+
+- Any objs sold in a shop must be designated in the Products Menu before 
+  the item can be sold.  The shop will not work unless this is 
+  designated.
+
+- A shopkeeper will not buy an item unless it is listed in the ACCEPT 
+  TYPES.
+
+
+BALANCE-
+ 
+One of the biggest problems with some muds is balance between 
+characters, objects and mobiles. Most of the time, this isn't the case 
+only with older, more tested muds. But even the old greats don't have
+it completely down.  The mud should be a challenge to the character, 
+yet not too frustrating. 
+ 
+Attaining this balance will take a lot of adjustment to the mud in
+general. For one, objects, mobiles and such, when generated, usually end
+up being very balanced. Since certain objects, we understand, can be
+different and more/less powerful, we've allowed it so only certain 
+aspects are generated. This way builders have the option to make unique 
+changes. 
+ 
+BUT, with power there must also be price, so don't create 'THE ULTIMATE
+AXE' and let it sit out in the open! This would be catastrophic! Also,
+don't make items too common that are really good. Use low repop percents
+and negative addaffects to make a great piece of equipment not so great
+after all. 
+ 
+Having a mithril set of armor for all characters doesn't cut it. Most
+objects SHOULD NOT HAVE ANY special properties. If all the characters
+know EXACTLY what the best item is, then something is wrong, and we'll
+have to change it. There shouldn't be a set of the best equipment that
+everyone knows about, and there should not be a 'run to this' 'lets get
+that' 'I need this' atmosphere. 
+ 
+Follow the standards that have been set for all builders. If you feel a
+piece of eq should be slightly higher than the values in the guidelines,
+ask first, and be prepared to justify your reason. Use load percentages
+to limit good objects from loading into the game, and let the weaker, 
+more common objects saturate the mud all you want. Also remember to add a
+size value to your armor. 
+
+
+*This file is not an attempt to inhibit your creativity - only to help
+answer frequently asked questions and make building quicker and more
+comprehensive for new builders.  Any questions not answered by this
+text, feel free to ask Kaan.
+
+If you'd like this file e-mailed to you, just ask Kaan.
+#
+CHAOS
+
+Usage: chaos lo hi start_delay cost/lev length
+
+Where:  lo = the minimum level to enter the arena
+        hi = the maximun level allowed to join
+        start_delay = mud hours until the arena actually begins
+        cost/lev = amount in gold it will cost a player to join the fight.
+        length = duration.  Mud hours the fighting will go (assuming
+                 nobody wins first)
+
+Starts the arena.  The arena lets players fight each other to the finish.
+NOTE:  Using a start_delay of 1 could be a problem.  Because it actually
+stands for the NEXT hour tick that passes, which could be only seconds 
+away - not enough time to join.
+
+#
+DATE
+
+Shows the current real time. (Not a social)
+#
+DC
+
+Usage: dc <descriptor number>
+
+DC (DisConnect) is used to disconnect a socket.  If used on a playing socket,
+the player will lose his/her link, but, unlike PURGE, will not extract the
+player or dump the player's inventory on the ground.
+
+DC is also useful for disconnecting people who have accidentally left
+themselves at the main menu, or connections sitting in the "Get name" state.
+
+See also: USERS
+#
+DEPARTMENT
+
+The department of a particular immortal can be changed using the SET command,
+changing their appearance on the WHO screen.
+
+Usage: set (imm name) depart (department)
+
+The departments and their titles are as follows:
+
+DEPARTMENT             TITLE
+
+Implementor            Divinity
+Coder                  Weaver
+Builder                Creator
+Administrator          Mortal Emissary
+Questor                Questor
+
+So - for instance - to set an immortal as a builder, the command would be:
+
+set kaan depart builder
+
+Thereafter, Kaan's title on the who screen would be:
+
+<Ancient> Creator - Kaan 
+
+See also: SET
+#
+ECHO GECHO QECHO SEND
+
+Usage: echo <message>
+       gecho <message>
+       send <victim> <message>
+       qecho <message>
+
+ECHO displays a string to everyone in your room.
+GECHO displays the string to everyone in the game.
+QECHO displays the string to everyone with the QUEST flag.
+SEND displays the string to a particular person.
+
+Examples:
+
+  > echo Hi, everyone in the room.
+  > gecho Hi, everyone in the game, isn't this annoying?
+  > send rasmussen You are being watched.
+#
+FILE
+
+Usage: file <option> <num lines>
+
+File options:
+bug            ../lib/miscgs
+typo           ../lib/misc/typos
+ideas          ../lib/misc/ideas
+xnames         ../lib/misc/xnames
+levels         ../log/levels
+rip            ../log/rip
+players        ../log/newplayers
+rentgone       ../log/rentgone
+godcmds        ../log/godcmds
+syslog         ../syslog
+crash          ../syslog.CRASH
+#
+FLUX
+
+usage:  flux <optional message>
+
+Causes a world-wide healing flux.  Restores Hitpoints, Movement, Chi,
+Endurance and Mana for all connected players.  If the optional message
+is supplied, that message will replace the standard, "A chilling..."
+message.
+
+#
+FORCE
+
+Usage: force <victim | all> <command> <arguments>
+
+FORCE forces a character, either monster or player, to perform a certain
+action.  FORCE ALL forces everyone in the game; FORCE ROOM forces everyone in
+your room.
+
+Example:
+
+  > force fido drop meat
+  > force all save
+  > force room look fido
+
+If you are invisible to the one being forced, the force will be performed
+silently.
+#
+FREEZE THAW
+
+Usage: freeze <victim>
+       thaw <victim>
+
+FREEZE, originally invented here at CircleMUD (we think), is used to prevent
+a player from playing.  If frozen, the game will ignore all commands entered
+by the player, including QUIT, until the player is unfrozen with THAW.
+
+Obviously, this command should only be used in extreme disciplinary
+circumstances.
+
+See also: SET -> FROZEN
+#
+GENERIC
+
+Generic is the only quest type that is not specified and has no true level
+stipulation. This is a quest that is thought up by an imm 'off the cuff' and
+does not work with any of the other quests that are currently defined. If a
+quest is run in GENERIC mode and is received well by the playerbase, keep
+in mind that it is a good idea to tell a coder to add the new quest to the
+QADMIN list.
+
+See also: QUEST, QADMIN
+#
+GOTO TRANS WIZTELEPORT
+
+Usage: goto <location>
+       trans <victim>
+       teleport <victim> <location>
+
+These commands are used to transports yourself and others to different rooms.
+GOTO allows you to go to other rooms; TRANS transports a person from wherever
+they are to the room YOU are in; TELEPORT transports your victim to some other
+location.
+
+For both GOTO and TELEPORT, the location specifier can be either a virtual
+room number, or the name of a character or object.
+
+Examples:
+
+  > goto 3001
+  > goto rasmussen
+  > trans fido
+  > teleport fido 3001
+  > teleport fido 2.fido
+
+See also: POOFIN, POOFOUT, SET -> ROOM, WIZAT
+#
+HANDBOOK
+
+Usage: handbook
+
+Guidelines for having an Immortal character -- you should read it.
+#
+HCONTROL
+
+Usage: hcontrol build <house vnum> <exit dir> <player name>
+       hcontrol destroy <house vnum>
+       hcontrol pay <house vnum>
+       hcontrol show
+
+House control, controls the addition, removal, and payments of houses.
+Hcontrol show will show all the houses currently defined in the game
+along with their last 'rent' payment date.
+
+See also: HOUSE, HOUSES
+#
+HOLYLIGHT
+
+Usage: holylight
+
+A toggle which allows you to see:
+   Invisible people and objects, even if you don't have 'detect invisibility'
+   Hidden people, even if you don't have 'sense life'
+   Dark rooms, even if you don't have a light
+
+It is expected most immortals will keep HOLYLIGHT on most of the time;
+it exists so that you have the ability to see what mortals see for
+debugging purposes.
+#
+IMOTD
+
+Usage: imotd
+
+Displays the Immortal message of the day.  This file usually contains
+new information on commands recently added, new features and other
+important information that immortals should be aware of.
+
+See also: MOTD
+#
+INVIS
+
+Usage: invis [level]
+
+INVIS sets your invisibility level.  With no argument, invis toggles between
+making you fully visible and fully invisible.  If you specify a level, only
+people at and above the level you specify will be able to see you.
+
+Examples:
+
+  > invis
+  > invis 31
+
+See also: VISIBLE
+#
+LAST
+
+Usage: last <player_name>
+
+For checking the last time a person logged on, their sitename, and their
+ID number.
+
+Example: 
+
+  > last ras
+  [  24] [14 Cl] Ras          : somesite.edu : Tue May 16 22:07:09 1995
+
+See also: STAT
+#
+LOAD
+
+Usage: load <mob | obj> <virtual number>
+
+LOAD is used to create mobiles and objects.  The first argument specifies if
+you are trying to load a mobile or an object; the second is the virtual
+number.
+
+Example:
+
+  > load obj 3099
+  You create a bulletin board.
+
+  > load mob 3005
+  You create the receptionist.
+
+See also: VNUM
+#
+"MARKER QUEST"
+
+The marker quest is a fairly difficult one. Zone 112 holds all the quest
+markers which must be loaded and placed before the quest can be announced to
+the players.
+
+Marker sets are 10 in number and are as follows: 01-10, 11-20, 21-30, 31-40,
+41-50, 51-60, 61-70, 71-80, and 81-90
+
+Load those markers (from zone 112) and place them in their designated zones.
+Each marker gives a clue as to which zone the next marker is located within.
+
+The player to find the last marker wins the quest.
+#
+"MAZE QUEST"
+
+The maze quest is a premade zone, or rather a set of zones. There are three
+maze zones, each of them different so that players never get a clear idea
+of where to go in the quest.
+
+Zones 7, 19, and 42 are set aside for the maze quest.
+
+Start: Load all questors into the first room of one of the maze zones. All
+       mazes begin at ##00.
+
+Rules: Players questing must find as many quest tokens as they can within 
+       the maze. Maze loads 10 tokens in various locations in the zone every
+       minute. Dozens of mobs are scattered throughout the zone, all of them 
+       aggro. All token rooms are PEACEFUL and !MOB. The player who ends the
+       quest with the most tokens wins.
+
+#
+MOBSTATS
+
+These are the recommended stats to use when creating new mobiles on Dibrova.
+
+Level	Hitroll	Damroll		Level	Hitroll	Damroll
+1	 1	 1		26	10	11
+2	 1	 2		27	11	12
+3	 1	 3		28	11	12
+4	 2	 4		29	11	12
+5	 2	 5		30	11	12
+6	 3 	 6		31	11	12
+7	 4	 6		32	11	13
+8	 4	 7		33	12	13
+9	 5	 7		34	12	13
+10	 5	 7		35	12	13
+11	 5	 8		36	12	14
+12	 6	 8		37	12	14
+13	 6	 8		38	12	14
+14	 6	 8		39	12	15
+15	 6	 8		40	13	15
+16	 7	 8		41	13	15
+17	 7	 9		42	13	15
+18	 8	 9		43	13	16
+19	 8	 9		44	13	16
+20	 8	10		45	13	16
+21	 8	10		46	13	16
+22	 9	10		47	14	17
+23	 9	10		48	14	17
+24	 9	10		49	15	17
+25	10	11		50	15	18
+
+
+[A]NumDamDice and [B]SizeDamDice
+
+Level	Num	Size		Level	Num	Size
+1	1	1		26	2	4
+2	1	1		27	2	4
+3	1	1		28	2	4
+4	1	2		29	2	4
+5	1	2		30	2	5
+6	1	2		31	2	5
+7	1	2		32	2	6
+8	1	3		33	2	6
+9	1	3		34	3	4
+10	1	4		35	3	4
+11	1	4		36	3	4
+12	1	4		37	3	5
+13	1	4		38	3	5
+14	1	4		39	3	6
+15	1	5		40	3	6
+16	1	5		41	3	6
+17	1	5		42	3	7
+18	1	5		43	4	5
+19	1	6		44	4	5
+20	1	6		45	4	5
+21	1	6		46	4	6
+22	1	6		47	4	6
+23	2	3		48	5	6
+24	2	3		49	5	7
+25	2	3		50	5	8
+
+[C]Num Hp Dice, [D]Size Hp Dice, and [E]Hp Bonus
+Level	Num	Size	Bonus	Level	Num	Size	Bonus
+1	1	4	10	26	9	10	2050
+2	1	6	15	27	9	11	2100
+3	1	7	20	28	9	12	2150
+4	1	9	30	29	10	10	2200
+5	2	4	50	30	10	11	2250
+6	2	6	70	31	10	12	2300
+7	2	7	125	32	11	11	2325
+8	2	9	150	33	11	12	2350
+9	3	6	175	34	11	15	2375
+10	3	7	200	35	12	13	2400
+11	3	8	250	36	12	14	2425
+12	3	9	300	37	12	15	2450
+13	4	7	350	38	13	14	2475
+14	4	8	400	39	13	16	2500
+15	4	9	500	40	13	18	2525
+16	5	7	600	41	14	16	2550
+17	5	8	700	42	14	17	2575
+18	6	7	800	43	14	18	2600
+19	6	9	900	44	16	16	2625
+20	7	8	1000	45	16	17	2650
+21	7	9	1200	46	16	18	2700
+22	7	10	1400	47	17	16	2750
+23	8	9	1600	48	17	18	2800
+24	8	10	1800	49	17	20	2900
+25	8	11	2000	50	20	22	3000
+
+[F]Armor Class:  For base AC up to level 39 use the formula: ((4*level) - 100) * -1
+                                                    For all mobs level 40 and above use -60 as base AC.
+
+[G]Experience:
+Level	Exp	Level	Exp	Level	Exp	Level	Exp	Level	Exp
+  1	150	  11	 4800	  21	39000	31	69000	41	132000
+  2 	300	  12	 6000 	  22	42000	32	72000	42	144000
+  3	600	  13	 7200 	  23	45000	33	75000	43	156000
+  4	900	  14 	 9000	  24	48000	34	78000	44	168000
+  5	1500	  15	15000	  25	51000	35	81000	45	180000
+  6	1800	  16	21000	  26	54000	36	84000	46	210000
+  7	2400	  17	27000	  27	57000	37	87000	47	255000
+  8	3000	  18	30000	  28	60000	38	90000	48	285000
+  9	3600	  19	33000     29	63000	39	108000	49	310000
+ 10	4200	  20	36000	  30	66000	40     120000	50	360000
+
+#
+MLIST OLIST RLIST
+
+Usage:  Take a wild fucking guess...
+
+These commands will show you lists of stuff in specified zones.
+#
+MUTE
+
+Usage: mute <victim>
+
+MUTE is used to shut a player up.  When muted, a player will not be able to
+use most communication channels until he/she is unmuted.
+
+See also: FLAGS
+#
+"OBJECT HUNT QUEST"
+
+The object of this quest is to hide a particular object that is a rare within
+Dibrova and then give clues as to where that object is located.
+
+Start with the more obscure clues, working your way toward the more obvious
+clues as you go along.
+#
+NOHASSLE
+
+Usage: nohassle
+
+Toggles a flag to prevent aggressive monsters from attacking.
+#
+NOTITLE
+
+Usage: notitle <vicitim>
+
+Prevent players from being able to set their own titles; i.e., if the
+player consistently has an offensive title.  The definition of offensive
+is left as an exercise for the reader.
+
+See also: TITLE
+#
+NOWIZ
+
+Usage: nowiz
+
+Allows you to hear or ignore messages coming over the wiznet.
+
+See also: WIZNET
+#
+OLC
+
+Usage: olc { . | set | show | obj | mob | room} [args]
+
+   .: Repeat last modification command
+ set: Set OLC characteristics
+show: Show OLC characteristics
+ obj: Modify an object
+ mob: Modify a mob
+room: Modify a room
+
+OnLine Creation.  A feature which will eventually allow the creation
+of areas ONLINE, without having to reboot the system.
+
+See also: SHOW->ZONES, ZRESET
+#
+PAGE
+
+Usage: page <player | all> <message>
+
+PAGE is used to send a message, along with a beep, to another player.  Use
+PAGE ALL to send a message and a beep to everyone in the game.
+
+Examples:
+
+  > page rasmussen Hey, are you still at the keyboard?
+  > page all GAME WILL BE SHUTTING DOWN IN 10 MINUTES
+
+Do not abuse this command.
+#
+PARDON
+
+Usage: pardon <victim>
+
+Removes killer and thief flags from a player.
+#
+POOFIN POOFOUT
+
+Usage: poofin <message>
+       poofout <message>
+
+Sets the message seen by players when you use GOTO to move to a different
+room.  POOFIN with no argument resets your poofin to the default "appears with
+an ear-splitting bang"; POOFOUT with no argument defaults to "disappears in
+a puff of smoke."
+
+See also: GOTO
+#
+PURGE
+
+Usage: purge [name]
+
+Purge destroys things.  If used with no arguments, it will clear a room of all
+mobiles and objects, but will not harm players.  If the argument is an object,
+that object (and all of its contents, if any) will be destroyed.  If the
+argument is a mobile, the mobile will be destroyed, leaving its inventory and
+equipment lying on the ground.
+
+If the argument is the name of a player, the player's inventory and equipment
+will drop on the ground and the player will lose his/her connection.  For this
+reason, PURGE should only be used on players in disciplinary situations.
+
+Examples:
+
+  > purge
+  > purge Pom
+  > purge sword
+  > purge dragon
+
+See also: DC
+#
+QADMIN
+
+Qadmin is considered the mother of all quest commands. It is the prefix used to
+Start, open, close, etc quests by an immortal.
+
+A list of the various commands can be found simply by typing 'qadmin'.
+
+- qadmin list
+
+  This will give you a list of the different quests which are already defined
+  within the quest code. Each quest has its own identification number and has 
+  a minimum level requirement for joining specified.  Individual help on each 
+  quest can be had for mortals and immortals alike by typing HELP <quest name>.
+
+- qadmin open <quest #>
+
+  You can open any of the quests defined in qadmin list by typing :
+                        QADMIN OPEN <quest #>
+  The number preceeding every quest name in qadmin list is the number you 
+  use. At this point (after using qadmin open) the quest is open for all 
+  players who qualify for the quest. Quests which are part of the qadmin 
+  list have prefined level stipulations and time settings which will be a 
+  part of the invitation sent to all players upon the opening of the quest.
+
+- qadmin begin
+
+  This will send a world emote that the quest has begun and that all players 
+  in the quest may begin at that time. 
+  * If the quest's rating is '1' you will get 5 potions of either BLAZEWARD 
+    or INDESTRUCTABLE AURA. These potions will load automatically into your 
+    inventory, randomly.
+  * If the quest's rating is '5' you will get one piece of the quest eq 
+    located at vnums 25075-25089 loaded into your inventory, at random.
+
+- qadmin close
+
+  This closes the quest which is running, taking all players who are 
+  involved in the quest back to the their loadroom, allowing you to declare 
+  a winner.
+
+OTHER QUEST COMMANDS
+--------------------------------------------------
+
+- qsay
+
+  This allows you to communicate on a channel only with those who are 
+  entered into the quest.
+
+- qecho
+
+  This is a gecho which can be used by the questor that only participants 
+  of the quest will see.
+
+- qtransport
+  
+  This will instantly transport all players in the quest to your current 
+  location.
+
+- qpadd <number>
+  
+  This adds quest points to a player's file, adding to whatever number 
+  they currently possess.
+
+QUEST RATINGS
+------------------------------------------------------------------------
+
+1 - Easiest quest. Prize is 5 potions, split between winner(s) any way 
+    that the questor sees fit
+2-  Prize is 5 qps to the winner
+3 - Prize is 10 qps to the winner
+4 - Prize is 25 qps to the winner
+5 - Hardest quest. Prize is one piece of the quest eq
+
+#
+RELOAD
+
+Usage: reload < '*' | all | file >
+
+Reload is used to reload text files such as the MOTD from disk into memory.
+reload * reloads all the text files below.
+
+Valid files are:
+
+  background (/mud_dir/lib/text/background)
+  credits    (/mud_dir/lib/text//credits)
+  handbook   (/mud_dir/lib/text/handbook)
+  help       (/mud_dir/lib/text/help)
+  immlist    (/mud_dir/lib/text/immlist)
+  imotd      (/mud_dir/lib/text/imotd)
+  news       (/mud_dir/lib/text/news)
+  motd       (/mud_dir/lib/text/motd)
+  info       (/mud_dir/lib/text/info)
+  policy     (/mud_dir/lib/text/policies)
+  wizlist    (/mud_dir/lib/text/wizlist)
+  xhelp      (/mud_dir/lib/text/help/*)
+#
+REROLL
+
+Usage: reroll <player>
+
+REROLL gives a player new stats (i.e., Str, Int, Wis, Dex, Con, and Cha)
+
+See also: STAT
+#
+RESTORE
+
+Usage: restore <player | mobile>
+
+RESTORE restores a player or mobile to full hit, mana, and movement points.
+If used on immortals, it also sets all skill levels to 100%.
+#
+RETURN
+
+Usage: return
+
+RETURN returns you to your regular body if you are switched into a mob.
+
+See also: SWITCH
+#
+"RIDDLE QUEST"
+
+- Bring all players to room 1223
+- Load note vnums 26600-26609 and distribute one to each player
+        *if there are more than ten players, duplicate a couple of notes
+- All players are to read their note
+- Goal is to find the object which the riddle on the note describes
+- When the object is found, use the CONNECT command: connect <note> <obj>
+- First and second connects will give the player a new note with a
+  new riddle. Last connect gives player a quest object
+- Timer for this quest is normally 15-20 minutes depending on the level
+  range and experience of the group of questers
+#
+ROOMFLAGS
+
+Usage: roomflags
+
+Toggles a flag which causes the virtual room number and room flags, if any,
+to be displayed next to room names.
+#
+SET
+
+Usage: set [ file | player ] <character> <field> <value>
+
+SET is an extremely powerful command, capable of setting dozens of aspects of
+characters, both players and mobiles.
+
+SET PLAYER forces set to look for a player and not a mobile; useful for
+players with names such as 'guard'.
+
+SET FILE lets you change players who are not logged on.  If you use SET FILE
+on a player who IS logged on, your change will be lost.  If you wish to set
+a player who is in the game but is linkless, use set twice -- once with the
+FILE argument, and once without -- to make sure that the change takes.
+
+For toggled fields (BINARY), the value must be ON, OFF, YES, or NO.
+
+The following are valid fields:
+
+Field          Level Required   Who     Value Type   Decription
+-----------------------------------------------------------------------------
+brief          LVL_GOD          PC      BINARY       Brief mode
+invstart       LVL_GOD          PC      BINARY       Invisible @ Start
+title          LVL_GOD          PC      MISC         Player's title
+nosummon       LVL_GRGOD        PC      BINARY       NOSUMMON flag
+maxhit         LVL_GRGOD        BOTH    NUMBER       Max HP
+maxmana        LVL_GRGOD        BOTH    NUMBER       Max mana
+maxmove        LVL_GRGOD        BOTH    NUMBER       Max movement
+hit            LVL_GRGOD        BOTH    NUMBER       Current HP
+mana           LVL_GRGOD        BOTH    NUMBER       Current mana
+move           LVL_GRGOD        BOTH    NUMBER       Current movement
+align          LVL_GOD          BOTH    NUMBER       Alignment
+str            LVL_GRGOD        BOTH    NUMBER       Strength
+stradd         LVL_GRGOD        BOTH    NUMBER       Additional STR (18/xx)
+int            LVL_GRGOD        BOTH    NUMBER       Inteligence
+wis            LVL_GRGOD        BOTH    NUMBER       Wisdom
+dex            LVL_GRGOD        BOTH    NUMBER       Dexterity
+con            LVL_GRGOD        BOTH    NUMBER       Constitution
+cha            LVL_GRGOD        BOTH    NUMBER       Charisma
+sex            LVL_GRGOD        BOTH    MISC         Sex
+ac             LVL_GRGOD        BOTH    NUMBER       Armor class
+gold           LVL_GOD          BOTH    NUMBER       Gold (On hand)
+bank           LVL_GOD          PC      NUMBER       Gold in bank
+exp            LVL_GRGOD        BOTH    NUMBER       Experience points
+hitroll        LVL_GRGOD        BOTH    NUMBER       To-Hit modifier
+damroll        LVL_GRGOD        BOTH    NUMBER       Damage modifier
+invis          LVL_IMPL         PC      NUMBER       Invisible (level)
+nohassle       LVL_GRGOD        PC      BINARY       NOHASSLE flag
+frozen         LVL_FREEZE       PC      BINARY       FROZEN flag
+practices      LVL_GRGOD        PC      NUMBER       # of practices
+lessons        LVL_GRGOD        PC      NUMBER       # of practices
+drunk          LVL_GRGOD        BOTH    MISC         Drunkeness
+hunger         LVL_GRGOD        BOTH    MISC         Hrs to hunger
+thirst         LVL_GRGOD        BOTH    MISC         Hrs to thirst
+killer         LVL_GOD          PC      BINARY       KILLER flag
+thief          LVL_GOD          PC      BINARY       THIEF flag
+level          LVL_IMPL         BOTH    NUMBER       Level
+room           LVL_IMPL         BOTH    NUMBER       Move to room
+roomflag       LVL_GRGOD        PC      BINARY       ROOMFLAGS flag
+siteok         LVL_GRGOD        PC      BINARY       SITEOK flag
+deleted        LVL_IMPL         PC      BINARY       DELETED flag
+class          LVL_GRGOD        BOTH    MISC         Class (W/T/C/M)
+nowizlist      LVL_GOD          PC      BINARY       Not Wizlistable flag
+quest          LVL_GOD          PC      BINARY       QUESTING flag
+loadroom       LVL_GRGOD        PC      MISC         Room to load in (#/off)
+color          LVL_GOD          PC      BINARY       COLOR flag
+idnum          LVL_IMPL         PC      NUMBER       ID Number
+passwd         LVL_IMPL         PC      MISC         Player password
+nodelete       LVL_GOD          PC      BINARY       Undeletable flag
+remort         LVL_IMPL         PC      MISC         Sets remort class
+
+See also: STAT, "SET REMORT"
+#
+"SET REMORT"
+
+To set a remort class, you must assign the number associated with the
+remort class in class.c - these are as follows:
+
+9  - Assassin		20 - Arcanic
+10 - Shadowmage		21 - Magi
+11 - Inquisitor		22 - Darkmage
+12 - Acrobat		23 - Forestal
+13 - Ranger		24 - Psionist
+14 - Warlock		25 - Templar
+15 - Champion		26 - Storr
+16 - Reaper		27 - Sage
+17 - Combat Master	28 - Samurai
+18 - Crusader		29 - Fianna
+19 - Beastmaster	30 - Shaman
+
+*Setting a player's remort to any number less than 9 will give them
+   the assassin class
+
+See also: SET, CLASS
+#
+SHOW
+
+Usage: show <mode> [argument]
+
+Valid Modes:
+
+death          errors         godrooms       houses
+player         rent           shops          stats
+zones   
+
+The SHOW command displays information.  Some modes of show require additional
+information, such as a player name.
+
+   death: Shows all death traps in the game.
+  errors: Shows errant rooms.
+godrooms: Shows the rooms in the 'god zone'.
+  houses: Shows the houses that are currently defined.
+  player: Shows player summary information, simply provide a player name.
+    rent: Shows the filename and path to a players rent file.
+   shops: Shows all the shops in the game and their buy/sell parameters.
+   stats: Shows game status information including players in game, mobs etc.
+   zones: Shows all the zones in the game and their current reset status.
+          An age of -1 means it is in the 'to be reset next' queue.
+
+See also: STAT, ZRESET
+#
+SHUTDOWN
+
+Usage: shutdown [reboot | die | pause]
+
+SHUTDOWN shuts the MUD down.  The SHUTDOWN command works in conjunction with
+CircleMUD's 'autorun' script.  If you are not using autorun, the arguments are
+meaningless.  If you are using autorun, the following arguments are available:
+
+REBOOT     Pause only 5 seconds instead of the normal 40 before trying to
+           restart the MUD.
+
+DIE        Kill the autorun script; the MUD will not reboot until autorun is
+           explicitly run again.
+
+PAUSE      Create a file called 'paused' in Circle's root directory; do not
+           try to restart the MUD until 'paused' is removed.
+
+UPDATE     Moves the current development binary (circle) to the production
+           port and reboots the game.
+#
+SKILLSET
+
+Usage: skillset <name> '<skill>' <value>
+
+Sets the specified skill to the specified value.
+
+Also under the same syntax of usage: PRAYSET, CHANTSET, SPELLSET, SONGSET
+
+See also: SET
+#
+CHANTSET
+
+Usage: chantset <name> '<chant>' <value>
+
+Sets the specified skill to the specified value.
+
+Also under the same syntax of usage: PRAYSET, SKILLSET, SPELLSET, SONGSET
+
+See also: SET
+
+#
+SPELLSET
+
+Usage: spellset <name> '<spell>' <value>
+
+Sets the specified skill to the specified value.
+
+Also under the same syntax of usage: PRAYSET, CHANTSET, SKILLSET, SONGSET
+
+See also: SET
+#
+PLIST
+
+Usage: plist <min_level>
+
+PLIST will show you a listing of all the players in the database
+above min_level.  If min_level is omitted, PLIST will list all
+players above level 0 (this excludes players who never connected
+at the main menu.)
+
+NOTE:  The "Total Line" shows the total number of players in
+the database.  Listed of not.
+
+See also: WHO, WHOIS
+#
+PRAYSET
+
+Usage: prayset <name> '<pray>' <value>
+
+Sets the specified skill to the specified value.
+
+Also under the same syntax of usage: SKILLSET, CHANTSET, SPELLSET, SONGSET
+
+See also: SET
+#
+SKILLSTAT
+
+Usage: skillstat player
+
+Lists the skills and spells for the given player along with the level
+at which each skill or spell is learned.  This level is listed in
+numeric for and represents a percentage.  Generally, this level will
+not exceed 90% (superb).
+
+See also: STAT
+#
+SLOWNS
+
+Usage: slowns
+
+Toggles whether or not IP addresses are resolved into readable site names.
+If slow nameserver is enabled, USERS will show only IP addresses.
+(128.123.222.111 etc).
+
+See also: USERS
+#
+SNOOP
+
+Usage: snoop [player]
+
+Snoop allows you to listen in on another player's session; everything the
+player sees or types will be displayed on your terminal preceded by a '%'.
+
+Obviously, there are many ethical considerations to the use of this command; 
+snoop should be used minimally, and only for disciplinary purposes.
+
+Type snoop <your name> or just snoop to stop snooping.
+#
+SNOWBALL
+
+Snowball is just a social -- it prints a funny message, and nothing more.
+#
+STAT
+
+Usage: stat [player | object | mobile | file] <name>
+
+Gives information about players, monsters, and objects in the game.  The type
+argument is optional.
+
+STAT PLAYER will search only for players; useful for statting people with
+names such as Red or Cityguard.
+
+STAT OBJECT will search only for objects.
+
+STAT MOBILE will search only for monsters.
+
+STAT FILE is used to stat players who are not logged in; the information
+displayed comes from the playerfile.
+
+Examples:
+
+  > stat fido
+  > stat player red
+  > stat mobile red
+  > stat file niandra
+  > stat object thunderbolt
+
+See also: VSTAT
+#
+STRING
+
+Usage: string <type> <name> <field> [<string> | <keyword>]
+
+For changing the text-strings associated with objects and characters.  The
+format is:
+
+Type is either 'obj' or 'char'.
+
+Field is one of the following(the names may be abbreviated):
+
+Name                  (the call-name of an obj/char - kill giant)
+Short                 (for inventory lists (obj's) and actions (char's))
+Long                  (for when obj/character is seen in room)
+Title                 (for players)
+Description           (For look at.  For obj's, must be followed by a keyword)
+Delete-description    (only for obj's. Must be followed by keyword)
+
+Where a string is expected as the last argument, a newline will make you enter
+a string mode, and the game will prompt you for new lines to the string until
+you exceed the maximum length for the string or you end a line with a '@'.
+
+Mobiles and objects currently cannot be strung.
+#
+SWITCH
+
+Usage: switch <monster>
+
+SWITCH is used to take over the body of mobiles; useful for interactive
+adventures.  If the monster in which you are switched is killed you will be
+returned to your own body.
+
+See also: RETURN
+#
+SYSLOG
+
+Usage: syslog [off | brief | normal | complete]
+
+The SYSLOG command controls how detailed of an on-line system log you see.
+Messages surrounded by '[' and ']' are syslog messages and are in green
+if you have color on.
+
+The messages you receive are level dependent.
+
+Examples:
+
+  > syslog complete
+  > syslog off
+
+See also: COLOR
+#
+UNAFFECT
+
+Usage: unaffect <victim>
+
+Removes all affections (i.e., spell effects) from a player.
+
+See also: STAT
+#
+UPTIME
+
+Usage: uptime
+
+Displays when the game was booted and calculates how long ago that was.
+#
+USERS
+
+Usage: users [switches]
+
+USERS gives a list of all sockets (i.e., connections) currently active on the
+MUD.  The multi-column display shows the socket number (used by DC), class,
+level, and name of the player connected, connection state, idle time, and
+hostname.
+
+The following switches are available:
+
+-k or -o   Show only outlaws (killers and thieves).
+-p         Show only sockets in the playing sockets.
+-d         Show only non-playing (deadweight) sockets.
+-l min-max Show only sockets whose characters are from level min to max.
+-n <name>  Show the socket with <name> associated with it.
+-h <host>  Show all sockets from <host>.
+-c list    Show only sockets whose characters' classes are in list.
+
+See also: DC, SLOWNS
+#
+VNUM
+
+Usage: vnum <mob | obj> <name>
+
+Gives a list of the virtual numbers of objects or mobiles which have the
+specified name.
+
+Examples:
+
+  > vnum obj ring
+  1. [  904] a platinum ring
+  2. [ 2543] a seashell ring
+  3. [ 2588] a small emerald ring
+  
+  > vnum mob dragon
+  1. [    1] Puff
+  2. [  908] the dragon turtle
+  3. [ 2548] the Master of Illusions
+#
+VSTAT
+
+Usage: vstat < mob | obj > <virtual number>
+
+Used to stat a prototypical mobile or object by virtual number.
+
+Examples:
+
+  > vstat obj 3000
+  > vstat mob 3001
+
+See also: LOAD, STAT, VNUM
+#
+VWEAR
+
+Usage: vwear <obj type>
+       vwear <wear position>
+
+VWEAR lists all objs of a particular wear position or type. This coommand
+is especially useful to builders who may want to make certain that an
+item they wish to create does not already exist.
+#
+WIZHELP
+
+Usage: wizhelp
+
+Gives a list of the special commands available at your level.
+#
+WIZLOCK
+
+Usage: wizlock [value]
+
+WIZLOCK allows you to restrict the game.  WIZLOCK 1 prevents new characters
+from being created.  WIZLOCK n, 2 <= n <= 34, prevents new characters and
+allows only characters level n and above to log on.  WIZLOCK with no argument
+displays the current WIZLOCK level.
+
+See also: BAN
+#
+WIZNET ;
+
+The immortal communication channel.
+
+Usage: wiznet [ '@' | '+' | '-' | '#' ] [<text>]
+
+Examples:
+
+  >; <text>    - just sends text
+  >; @         - shows all gods that are on and visible to you
+               - also shows if the gods who are visible to you are writing
+
+This code was provided by Gnort.
+
+See also: NOWIZ
+#
+ZRESET
+
+Usage: zreset < zone | '*' | '.' >
+
+Used to force a zone to reset.  '*' forces all zones to reset.  '.' forces
+the zone you are in to reset.
+
+See also: SHOW -> ZONES
+#
+$

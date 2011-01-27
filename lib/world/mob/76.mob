@@ -1,0 +1,320 @@
+#7601
+Goldmoon girl~
+Goldmoon~
+Goldmoon is singing a beautiful song here.
+~
+The girl's eyes are a bright sky blue; her skin is a buttery tan. 
+Most striking of all is the flowing white gold of her hair. Plush 
+white furs trim her woven cape. A single feather folds back along 
+the right side of her head.
+~
+61450 0 0 0 134283280 0 0 0 800 E
+35 17 -20 0d0+0 3d5+23
+350 42586
+8 8 1
+Str: 5
+Dex: 17
+Wis: 7
+Con: 7
+Cha: 20
+Luck: 14
+Class: 5
+Race: 14
+E
+#7602
+Fewmaster Toede~
+Fewmaster Toede~
+The Fewmaster Toede is here.
+~
+Toede's wispy, white hair tops a very ugly face.  His speckled gray
+skin, double chins, and pot belly all resemble those of a vicious
+little toad.    
+~
+16394 0 0 0 65536 4194304 0 0 -200 E
+37 19 -20 0d0+0 3d6+24
+400 46733
+8 8 1
+Str: 24
+Dex: 7
+Int: 20
+Wis: 7
+Con: 8
+Cha: 19
+Luck: 14
+Race: 14
+E
+#7603
+riverwind man~
+Riverwind~
+Riverwind the Ranger is standing here.
+~
+A black haired ranger whos muscles surge with power.  He looks travel
+weary and tired.    
+~
+571402 0 0 0 524304 0 0 0 700 E
+40 21 -20 0d0+0 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 14
+Str: 12
+Dex: 10
+Int: 23
+Con: 24
+Cha: 17
+Luck: 5
+Class: 5
+Race: 15
+E
+#7604
+Baaz Draconian robed~
+Baaz Draconian~
+A robed figure is standing here.
+~
+Its hard to tell anything about the figure.  It is concealed by its
+heavy robe and hood.    
+~
+16906 0 0 0 8 0 0 0 -700 E
+30 14 -20 0d0+0 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 8
+Str: 21
+Dex: 10
+Int: 9
+Wis: 23
+Con: 13
+Cha: 8
+Luck: 9
+Class: 1
+Race: 42
+E
+#7605
+Farmer~
+the Farmer~
+The farmer is standing here, looking after his workers.
+~
+He looks like a farmer.....go figure...
+~
+10 0 0 0 0 0 0 0 300 E
+30 14 -20 0d0+0 3d3+20
+250 27376
+8 8 1
+Str: 19
+Int: 9
+Wis: 25
+Con: 15
+Cha: 17
+Luck: 13
+Race: 14
+E
+#7606
+Farm worker~
+a Farm Worker~
+A farm worker is here harvesting grain.
+~
+The worker is very busy...leave him alone.
+~
+6154 0 0 0 0 0 0 0 200 E
+28 13 -12 0d0+0 2d4+18
+250 22959
+8 8 1
+Str: 14
+Dex: 20
+Int: 20
+Wis: 9
+Con: 21
+Cha: 6
+Luck: 17
+Race: 14
+E
+#7607
+bar'lan~
+a Bar'lan~
+There is a Bar'lan prowling about.
+~
+It is a very hungry-looking fish with a mouthful of sharp teeth!
+~
+72 0 0 0 16777232 0 0 0 -500 E
+28 13 -12 0d0+0 2d6+14
+0 22959
+8 8 1
+BareHandAttack: 4
+Str: 6
+Int: 13
+Wis: 18
+Con: 15
+Cha: 12
+Luck: 18
+Race: 3
+E
+#7608
+Turtle Dragon~
+the Turtle Dragon~
+There is a very large Turtle dragon here.
+~
+This is a very big dragon.  It looks more turtle than dragon though.
+Its blue-green scales glisten with moisture.  Steam jets from its
+nostrals.  It looks intently at you as if you look you over before
+eating you.    
+~
+237610 0 0 0 16 0 0 0 -300 E
+38 19 -20 0d0+0 4d5+19
+0 50022
+8 8 1
+BareHandAttack: 6
+Str: 21
+Dex: 18
+Int: 7
+Con: 6
+Luck: 6
+Race: 9
+E
+#7609
+farmers guard dog~
+a farmer's Guard Dog~
+The Farmer's guarddog is here guarding whatever he's suppose to guard.
+~
+This is a very mean looking dog.  And since it doesn't know you ...  
+I think he's thinking of biting You!!....    
+~
+4106 0 0 0 0 0 0 0 100 E
+25 11 0 0d0+0 2d4+12
+0 17197
+8 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 23
+Int: 7
+Wis: 25
+Con: 16
+Cha: 22
+Luck: 5
+Race: 1
+E
+#7610
+strange amphibian~
+a strange Amphibian~
+A strange amphibian slowly waddles by.
+~
+It is small and harmless, capable of wandering out on land after
+spending some time in the water.    
+~
+72 0 0 0 16777216 0 0 0 100 E
+10 3 60 0d0+0 1d2+6
+0 1662
+8 8 1
+BareHandAttack: 10
+Str: 10
+Dex: 5
+Int: 5
+Wis: 22
+Con: 8
+Cha: 6
+Luck: 5
+Race: 4
+E
+#7611
+hobgoblin flunky~
+a hobgoblin Flunky~
+A small hobgoblin seems to be searching for something.
+~
+The hobgoblin screams at you, "Give me the blue crystal staff!!!!"
+~
+72 0 0 0 0 0 0 0 -800 E
+25 11 0 0d0+0 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 11
+Str: 6
+Dex: 10
+Int: 24
+Wis: 20
+Con: 7
+Cha: 18
+Luck: 8
+Class: 3
+Race: 31
+E
+#7612
+White Stag~
+the White Stag~
+A beautiful white stag is here.
+~
+This is the White Stag.  You can't believe you actually see it....  
+Its suppose to be just a legend...    
+~
+516184 0 0 0 65536 4194816 0 0 1000 E
+35 17 -20 0d0+0 3d6+17
+0 40559
+8 8 1
+Str: 13
+Dex: 13
+Int: 9
+Wis: 12
+Con: 14
+Cha: 20
+Luck: 23
+Race: 1
+E
+#7613
+Old teddy bear~
+an old Teddy Bear~
+An old worn-out teddy bear is here.
+~
+This is an old bear.  It looks as if it has been loved just a little
+too much.    
+~
+10 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 1
+Str: 10
+Dex: 6
+Int: 18
+Wis: 19
+Con: 16
+Cha: 19
+Luck: 18
+E
+#7614
+rat large~
+a large Rat~
+A large rat is here eating grain.
+~
+You have the urge to kill this vile creature.  I'm sure the farmers
+would appreciate it too.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 0d0+0 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 8
+Dex: 21
+Int: 19
+Wis: 13
+Con: 9
+Cha: 24
+Luck: 19
+Race: 1
+E
+#7615
+mouse field~
+a Field Mouse~
+A small mouse runs across your foot.
+~
+The Mouse is a cute little creature.
+~
+10 0 0 0 0 0 0 0 0 E
+8 2 68 0d0+0 1d2+5
+0 941
+8 8 1
+BareHandAttack: 4
+Str: 7
+Dex: 21
+Int: 10
+Wis: 19
+Con: 9
+Luck: 8
+Race: 1
+E
+$

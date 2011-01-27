@@ -1,0 +1,245 @@
+#18201
+mob wolf~
+a Timberwolf~
+A hungry timberwolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+16460 0 0 0 65536 4194304 0 0 -200 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 22
+Int: 13
+Wis: 14
+Con: 5
+Cha: 25
+Luck: 6
+Race: 1
+E
+#18202
+mob white wolf~
+a huge White Wolf~
+A huge white wolf is here, looking for food.
+~
+It looks like it would be more at home in a forest. I wonder why it left.
+~
+542792 0 0 0 65536 4194304 0 0 -100 E
+50 29 -28 0d0+0 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 17
+Int: 14
+Wis: 7
+Con: 20
+Cha: 21
+Luck: 13
+Race: 1
+E
+#18203
+mob shadow wolf~
+a huge Shadow Wolf~
+A huge wolf shadow is here, it howls eerily as it hunts for life force.
+~
+Although faintly transparent, its probably solid enough to rip your
+throat out.  Its obviously very evil, and very nasty.  I hope you have
+friends.    
+~
+67881032 0 0 0 65536 4194304 0 0 -400 E
+75 51 -40 0d0+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 9
+Wis: 23
+Con: 23
+Cha: 5
+Luck: 19
+Race: 11
+E
+#18204
+mob vampire shaman orc~
+the Vampire Orc-Shaman~
+An Orc-Shaman is here with he has very well developed canines and a pale coloration.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+203272 0 0 0 536936464 4194304 0 0 -790 E
+101 78 -40 0d0+0 9d10+67
+3200 604972
+8 8 1
+Str: 14
+Dex: 14
+Int: 22
+Wis: 25
+Con: 16
+Cha: 14
+Luck: 8
+Class: 14
+Race: 32
+E
+#18205
+mob bodyguard orc~
+an orc Bodyguard~
+A large orc bodyguard is here, eyeing you suspiciously.
+~
+Looks pretty tough, as orcs go...
+~
+67129420 0 0 0 65536 4194304 0 0 -540 E
+92 68 -40 0d0+0 6d7+61
+3200 476843
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 19
+Int: 8
+Wis: 23
+Con: 9
+Cha: 18
+Luck: 17
+Class: 4
+Race: 32
+E
+#18206
+mob vampire mayor~
+the Vampire Mayor~
+The mayor is here grinning evily, his eyes are red and glowing.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+706586 0 0 0 33556816 0 0 0 -1000 E
+95 72 -40 0d0+0 6d8+63
+3200 569251
+8 8 1
+BareHandAttack: 4
+Str: 14
+Dex: 7
+Int: 17
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 16
+Class: 14
+Race: 32
+E
+#18207
+mob shadow wolf~
+an enormous Shadow Wolf~
+An Enormous shadow wolf is here, it growls eerily.
+~
+Although you can see right though it, it still seems quite dangerous...
+perhaps thats because its the size of a large horse...
+~
+542796 0 0 0 589904 4194304 0 0 -200 E
+80 56 -40 0d0+0 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 15
+Int: 18
+Wis: 5
+Con: 18
+Cha: 15
+Luck: 25
+Race: 11
+E
+#18208
+mob vampire mistress~
+a Vampire Mistress~
+A provocatively dressed woman is here, her eyes glow red in the darkness.
+~
+Unless your mother raised a moron, you're quite sure this is a vampire...
+I hope you have a wooden stake handy...
+~
+23050 0 0 0 68225112 4194304 0 0 -450 E
+82 58 -40 0d0+0 6d7+54
+3100 373362
+8 8 2
+BareHandAttack: 4
+Str: 15
+Dex: 24
+Int: 24
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 10
+Class: 14
+Race: 32
+E
+#18209
+mob rat~
+the Giant Rat~
+A giant rat is here, it rushes at you with mindless hunger.
+~
+It looks much like any other rat except that its about 3 feet long.
+~
+57384 0 0 0 65536 4194304 0 0 -300 E
+25 11 0 0d0+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 23
+Int: 12
+Wis: 10
+Con: 17
+Cha: 23
+Luck: 17
+Race: 1
+E
+#18210
+mob vampire nosferatu~
+Nosferatu~
+Nosferatu snarls with rage, and prepares to cast a spell.
+~
+Unless your mother raised a moron, you're quite sure this is a
+vampire...  I hope you have a wooden stake handy...  In fact I hope
+you have an army handy...  (Nosferatu is not to be trifled with)
+~
+182330 0 0 0 340 0 0 0 -777 E
+112 90 -40 0d0+0 12d12+74
+3500 866192
+8 8 1
+BareHandAttack: 15
+Str: 17
+Dex: 25
+Int: 18
+Wis: 21
+Con: 16
+Cha: 16
+Luck: 25
+Class: 14
+Race: 41
+E
+#18211
+wanderer man~
+the Wanderer~
+A man wanders past, eyes fixed straight ahead.
+~
+He does not look at you, indeed he doesnt appear to look at anything,
+not even where he is going.    
+~
+72 0 0 0 0 0 0 0 0 E
+88 64 -40 1d1+0 6d7+58
+3200 425742
+8 8 1
+BareHandAttack: 14
+Str: 17
+Dex: 6
+Int: 12
+Wis: 19
+Con: 20
+Cha: 14
+Luck: 10
+Race: 14
+E
+$

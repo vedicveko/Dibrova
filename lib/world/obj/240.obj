@@ -1,0 +1,264 @@
+#24000
+log~
+a log~
+A log is here.~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+25 34 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24001
+statue goddess dawn~
+a Statue of the Goddess of Dawn~
+A statue of the goddess of dawn is here.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+9999 0 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24002
+scales silver~
+/cCSilver /cWScales/c0~
+A pile of silver scales lies here.~
+~
+9 0 0 0 0 1025 0 0 0
+8 0 0 0 16777216 0 0 0
+10 25520 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+26 2
+A
+18 1
+#24003
+shell turtle~
+a /cgTurtle Shell/c0~
+A turtle shell lies here.~
+~
+9 0 0 0 0 513 0 0 0
+8 0 0 0 0 0 0 0
+8 22000 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+18 2
+A
+26 1
+#24004
+a large pool of water~
+a pool of water~
+A large pool of fresh cold water is here.~
+~
+11 0 1 0 0 5 0 0 0
+0 0 0 0 4 0 0 0
+8 13600 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24005
+egg roc~
+a roc egg~
+A roc egg is here.~
+$n chokes a roc egg down, /cGYUCK/c0
+~
+10 0 0 0 0 1 0 0 0
+66 52 59 0 0 0 0 0
+8 1162 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24006
+feather roc~
+a /cRRoc /cbFeather/c0~
+A roc's huge feather lies here.~
+~
+9 0 0 0 0 16385 0 0 0
+1 0 0 0 8388608 0 0 0
+8 23320 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+26 3
+#24007
+leggings goat~
+goat leggings~
+A pair of leggings made from goat skin lies here.~
+~
+9 0 0 0 0 33 0 0 0
+5 0 0 0 0 0 0 0
+8 14960 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 3
+#24008
+snake eye ring ser~
+a /cgS/cyn/cga/cyk/cge/cy-/cge/cyy/cge /cYRing/c0~
+A ring with a snake's eye lies here.~
+~
+9 0 0 0 0 65537 0 0 0
+2 0 0 0 2048 0 0 0
+8 23760 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+26 2
+A
+19 1
+#24009
+crown fishbone~
+a /cWFishbone Crown/c0~
+A crown made from fishbones lies here.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+8 48600 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 45
+A
+18 5
+A
+19 4
+#24010
+cloak fishskin~
+a /cyFishskin Cloak/c0~
+A smelly cloak made of strange skins lies here.~
+~
+9 0 0 0 0 1025 0 0 0
+12 0 0 0 16777216 0 0 0
+8 63000 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 40
+A
+19 5
+A
+18 4
+#24011
+mace turtleshell~
+a /cgTurtleshell /cLMace/c0~
+A mace made from a turtle's shell lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+8 48600 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -4
+#24012
+bracer bark~
+a /cyBark /cgBracer/c0~
+A bracer made from bark lies here.~
+~
+9 0 0 0 0 4097 0 0 0
+3 0 0 0 128 0 0 0
+8 29766 0 95 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+19 -3
+#24013
+rune stone black~
+a /clblack /cpRune Stone/c0~
+A black rune stone has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rune stone black~
+Type RECITE RUNE to use me.
+~
+#24014
+blue stone rune~
+a /cbblue /cpRune Stone/c0~
+A blue rune stone has been dropped here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rune stone blue~
+Type RECITE RUNE to use me.
+~
+#24015
+stone rune red~
+a /crred /cpRune Stone/c0~
+A red rune stone has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rune red stone~
+Type RECITE RUNE to use me.
+~
+#24016
+stone rune green~
+a /cggreen /cpRune Stone/c0~
+A green rune stone has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+rune stone green~
+Type RECITE RUNE to use me.
+~
+#24017
+rune stone yellow~
+a /cYyellow /cpRune Stone/c0~
+A /cYyellow /cprune stone /c0has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24018
+rune stone white~
+a /cWwhite /cpRune Stone/c0~
+A /cWwhite /cprune stone/c0 has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24019
+rune stone cyan~
+a /cCcyan /cpRune Stone/c0~
+A /cCcyan /cprune stone /c0has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24020
+rune stone purple~
+a /cPpurple /cpRune Stone/c0~
+A /cPpurple /cprune stone /c0has been left here.~
+~
+29 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+5 10000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#24099
+deed little sister lake~
+the Deed to Little Sister~
+A sheet of paper lies here.~
+~
+28 0 0 0 0 16385 0 0 0
+240 0 0 0 0 0 0 0
+1 7000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deed little sister~
+Hold this deed within Little Sister to claim it for your clan!
+~
+$~

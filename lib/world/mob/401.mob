@@ -1,0 +1,384 @@
+#40100
+undead rotting~
+the rotting Undead~
+The rotting undead reaches for your throat.
+~
+The undead corpse is foul smelling, pieces of flesh and cloth hang
+from its body.  Glowing red lights emits from the eye sockets, boring
+into you.    
+~
+21068 0 0 0 16408 0 0 0 -600 E
+100 77 -40 0d0+0 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 10
+Race: 6
+E
+#40101
+fur trapper~
+the Fur Trapper~
+The Fur Trapper is skinning a fox carcass.
+~
+The trapper is a heavy set man, who looks like he can handle a sword.
+He is dressed is in heavy fur coat.    
+~
+542840 0 0 0 524368 0 0 0 -500 E
+125 105 -60 0d0+0 15d15+83
+3500 1041926
+8 8 1
+BareHandAttack: 14
+Class: 4
+Race: 14
+E
+#40102
+norns priest~
+Norns Priest~
+The Norns priest is waiting for someone.
+~
+The priest is dressed in a long flowing robe.  He is very tall and
+thin, pale hands stick out of the sleeves.  His face is thin and pale
+and eyes are oval shaped and very dark.    
+~
+18570 0 0 0 16 0 0 0 -500 E
+160 149 -60 0d0+0 22d23+106
+5400 1955340
+8 8 0
+BareHandAttack: 15
+Class: 2
+Race: 16
+E
+#40103
+norns commander~
+Norns Commander~
+The Norns Commander is keeping his troops in order.
+~
+The Commander is dressed in dark grey metal armor.  He is very tall
+and thin, strong pale hands stick out of the sleeves.  His face is
+thin and pale and eyes are oval shaped and very dark.    
+~
+6170 0 0 0 16 0 0 0 -750 E
+175 169 -100 0d0+0 28d28+116
+6000 2457330
+8 8 0
+BareHandAttack: 3
+Class: 4
+Race: 16
+E
+#40104
+norns soldier~
+Norns soldier~
+The Norns soldier is waiting for orders.
+~
+The soldier is dressed in dark grey metal armor.  He is very tall and
+thin, strong pale hands stick out of the sleeves.  His face is thin
+and pale and eyes are oval shaped and very dark.    
+~
+22542 0 0 0 16 0 0 0 -500 E
+115 94 -40 0d0+0 13d13+76
+3500 842356
+8 8 0
+BareHandAttack: 6
+Class: 10
+Race: 16
+E
+#40105
+norns soldier~
+Norns soldier~
+The Norns soldier is waiting for orders.
+~
+The soldier is dressed in dark grey metal armor.  He is very tall and
+thin, strong pale hands stick out of the sleaves.  His face is thin
+and pale and eyes are oval shaped and very dark.    
+~
+4110 0 0 0 16 0 0 0 -500 E
+118 97 -40 0d0+0 13d14+78
+3500 899529
+8 8 0
+BareHandAttack: 7
+Class: 10
+Race: 16
+E
+#40106
+mad priest~
+the Mad Priest~
+The priest mumbles something incomprehensible.
+~
+The priest is dressed in what was once a beautiful gold embroidered
+robe.  It now hangs on his thin frame in tatters.  His eyes are blood
+shot and his beard is all in knots.    
+~
+67651656 0 0 0 67108880 0 0 0 -600 E
+135 117 -60 0d0+0 16d17+90
+3800 1331241
+8 8 0
+BareHandAttack: 8
+Class: 2
+Race: 14
+E
+#40107
+dog~
+a starving Dog~
+A slavering starving dog looks at you hungrily.
+~
+You can see ribs through the dog's shaggy coat.  His eyes gleam with
+an inner hunger that won't be satisfied by anything natural.    
+~
+67125262 0 0 0 16 0 0 0 -900 E
+65 42 -40 0d0+0 6d6+43
+0 196628
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#40108
+sithi ghost~
+a Sithi ghost~
+A Sithi ghost whispers to you to leave.
+~
+The ghost is floating around.  It has long flowing veils.  The face
+has a sad farlone look as if it wishes for bygone days.    
+~
+65624 0 0 0 8912896 0 0 0 -750 E
+120 100 -40 0d0+0 14d14+80
+0 938920
+8 8 0
+BareHandAttack: 9
+Race: 34
+E
+#40109
+sithi ghost~
+a Sithi ghost~
+A Sithi ghost whispers to you to leave.
+~
+The ghost is floating around.  It has long flowing veils.  The face
+has a sad forlone look as if it wishes for bygone days.    
+~
+74312 0 0 0 8388608 131072 0 0 -750 E
+115 94 -40 0d0+0 13d13+76
+0 842356
+8 8 0
+BareHandAttack: 9
+Race: 34
+E
+#40110
+fire-drake drake fire Shurakai~
+Shurakai~
+Shurakai looks at you as a cat looks at a mouse.
+~
+This is a huge red fire-drake.  She looks like she has survived many
+battles.  As you look into her eyes, you feel like you are looking
+into ancient death.    
+~
+606746 0 0 0 1310728 4194304 0 0 -750 E
+145 130 -60 0d0+0 18d18+96
+0 1673391
+8 8 2
+BareHandAttack: 12
+Class: 4
+Race: 9
+E
+#40111
+bukken digger~
+a Bukken~
+A digger erupts from the ground and attacks.
+~
+This is a small creature under 2 feet tall.  It is dressed in dirty
+rags and is caked in dirt.  It carrys a small dagger and has large
+pointy teeth.    
+~
+67158092 0 0 0 2128 2 0 0 -900 E
+75 51 -40 0d0+0 6d7+50
+1011 283219
+8 8 0
+BareHandAttack: 8
+Race: 8
+E
+#40112
+pryrate~
+Pryrate~
+Pryrate wanders around looking for his next victim.
+~
+Pryrate is a slight inteligent man.  He has a furtive cunning look
+about him.  He eyes you suspiciously, then dismiss you as
+inconsquential.    
+~
+608344 0 0 0 33554688 4194304 0 0 -500 E
+169 161 -60 0d0+0 25d26+112
+5950 2472977
+8 8 1
+BareHandAttack: 11
+Str: 20
+Dex: 25
+Int: 15
+Con: 22
+Luck: 18
+Class: 4
+Race: 16
+E
+#40113
+king elias~
+King Elias~
+King Elias caresses his sword.
+~
+Elias is a pale man with dark black hair and dark eyes.  His features
+look skeletal.  His dark bleak eyes stare at you.    
+~
+575498 0 0 0 65616 512 0 0 -1000 E
+170 162 -60 0d0+0 25d26+113
+6000 2282239
+8 8 1
+BareHandAttack: 3
+Class: 9
+Race: 16
+E
+#40114
+camaris knight~
+Camaris~
+An old knight is sitting with his sword on his lap.
+~
+He is an old man with a white beard and hair pokeing out of his
+helmet.  There is still strength in his arms.  In his earlier years he
+would have been a formidable opponent, as for now he can probably turn
+you into a pretzel.    
+~
+8472602 0 0 0 436273168 0 0 0 500 E
+165 156 -60 0d0+0 24d25+110
+5650 2220699
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 16
+Class: 6
+Race: 14
+E
+#40115
+guthwulf~
+Guthwulf~
+Guthwulf wanders aimlessly around.
+~
+Guthwulf, Earl of Utanyeat, is a strong man.  His face had been badly
+burnt recently, and his once fine clothes, now hang in rags on his
+body.    
+~
+18504 0 0 0 65552 4194304 0 0 200 E
+145 130 -60 0d0+0 18d18+96
+4600 1521265
+8 8 1
+BareHandAttack: 1
+Str: 25
+Dex: 20
+Luck: 18
+Class: 4
+Race: 14
+E
+#40116
+rachel~
+Rachel~
+Rachel, the Hayholt Mistress of Chambermaids, looks for her chambermaids.
+~
+Rachel is an old women, who keeps a constant vigel on the cleaning of
+the keep.    
+~
+16456 0 0 0 0 0 0 0 -100 E
+70 47 -40 0d0+0 6d6+46
+2500 237528
+8 8 2
+Class: 2
+Race: 14
+E
+#40117
+hunen giant~
+a Hunen~
+The giant stands ready to pound someone.
+~
+This is a huge hairy beast.  He is dressed in a simple ragged leather
+jerkin.  He doesn't look very intelligent
+~
+20556 0 0 0 16 4194304 0 0 -500 E
+127 108 -60 0d0+0 15d15+84
+3500 1084965
+8 8 1
+BareHandAttack: 7
+Str: 25
+Dex: 10
+Int: 8
+Con: 20
+Luck: 9
+Class: 4
+Race: 8
+E
+#40118
+mercenary soldier~
+a mercenary Soldier~
+The mercenary soldier is looking for some action.
+~
+She looks pretty mean, but not bad looking.  You imagine she'd do
+anything for money.    
+~
+16472 0 0 0 16 0 0 0 -400 E
+105 82 -40 0d0+0 10d11+70
+3250 667958
+8 8 2
+BareHandAttack: 14
+Class: 3
+Race: 14
+E
+#40119
+chapel priest~
+Chapel Priest~
+The priest mumbles something incomprehensible.
+~
+The priest is dressed in what was once a beautiful gold embroidiered
+robe.  It now hangs on his thin frame in tatters.  His eyes are blood
+shot and his beard is all in knots.    
+~
+18570 0 0 0 80 512 0 0 100 E
+102 79 -40 0d0+0 9d10+68
+3200 620364
+8 8 1
+BareHandAttack: 16
+Class: 2
+Race: 14
+E
+#40120
+red hand priest~
+Red Hand Priest~
+The Red Hand Priest is making preparations for his master's coming.
+~
+The priest is dressed in a long flowing robe.  He is very tall and
+thin, pale hands stick out of the sleeves.  A hood covers his face
+leaving only a shadowy dark opening where no light can escape.    
+~
+575498 0 0 0 570425616 131072 0 0 -100 E
+120 100 -40 0d0+0 14d14+80
+3500 1032812
+8 8 1
+BareHandAttack: 15
+Str: 20
+Dex: 18
+Con: 20
+Class: 1
+Race: 16
+E
+#40121
+norns commander~
+Norns Commander~
+The Norns commander is on the lookout for enemies.
+~
+The Commander is dressed in dark grey metal armor.  He is very tall
+and thin, strong pale hands stick out of the sleaves.  His face is
+thin and pale and eyes are oval shaped and very dark.    
+~
+6216 0 0 0 33554448 0 0 0 -500 E
+160 149 -60 0d0+0 22d23+106
+5400 1955340
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 20
+Class: 4
+Race: 16
+E
+$

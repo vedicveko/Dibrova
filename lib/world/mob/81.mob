@@ -1,0 +1,1735 @@
+#8100
+innkeeper reilly~
+Reilly the Innkeeper~
+The innkeeper watches for customers and drinks imported Scotch.
+~
+Reilly doesn't keep this inn open by sitting and watching the goblins
+invade!  He looks more like a hobo than an innkeeper but you can at
+least see that he is wearing a huge Scotch sword at his side.  He is
+also drinking from a huge bottle of Scotch whiskey, probably not the
+single-malt variety.    
+~
+182298 0 0 0 80 0 0 0 200 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 5
+Luck: 12
+Class: 11
+Race: 14
+E
+#8101
+priest pater vinci~
+Pater Vinci~
+Pater Vinci greets you as you pass by.
+~
+Pater Vinci did not bear a weapon in the good old days, but now the
+goblins ought to avoid him, because the good priest fought for King
+Korbor before he took holy orders, and still carries a sturdy club.  
+~
+10392 0 0 0 0 0 0 0 900 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 7
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 5
+Luck: 12
+Class: 2
+Race: 14
+E
+#8102
+sheriff zeb~
+Zeb Rykalp~
+Zeb Rykalp, sheriff of Ofingia, watches you closely.
+~
+You had better keep on Zeb's good side.  He has few qualms about
+roughing up the Midgaarders, and is ever-vigilant for evil.    
+~
+10332 0 0 0 0 0 0 0 700 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 6
+Luck: 12
+Class: 10
+Race: 14
+E
+#8103
+smith dorig dwarf~
+Dorig Foehammer~
+Dorig the Dwarf welds bars together with a 10-pound hammer.
+~
+He is too strong for you to beat easily in a fight, and if he had a
+beer or two in him Dorig would be invincible.  At least, he would
+think himself invincible.    
+~
+182298 0 0 0 16 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 19
+Luck: 12
+Class: 4
+Race: 13
+E
+#8104
+carpenter joel~
+Joel Kreb~
+Joel Kreb, the village carpenter, rests with an axe close at hand.
+~
+That axe he has has a long spike opposite its blade, and you do not
+think it is intended for wood, but for flesh and bone, particularly of
+goblin-kind.    
+~
+182298 0 0 0 16 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 5
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 23
+Luck: 12
+Race: 14
+E
+#8105
+maxtrum halfling shopkeeper~
+Maxtrum Holloknob~
+A stout halfling shopkeeper eyes your moneybag with a glinting eye.
+~
+Guard your wallet carefully! Rumor has it that Maxtrum rarely runs
+out of money, which would be wonderful, if only his customers didn't
+so often find their pockets lighter after leaving his store, though
+they bought nothing.
+~
+190687 0 0 0 56 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 21
+Luck: 12
+Race: 17
+E
+#8106
+churt elf elven alchemist~
+Churt Agenris~
+An elven alchemist inhales the fumes deeply and sighs happily.
+~
+Churt notices you gagging as you enter his shop and peers at you with
+some surprise.  He is a powerful wizard, having practiced such great
+spells as `Churt's Irresistable Retch' and `Word of Command: Go away,
+I...  ' Well, never mind that one.    
+~
+182299 0 0 0 56 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 21
+Luck: 12
+Race: 14
+E
+#8107
+dek ranger elf elven leatherworker~
+Dek Shattershock~
+A retired elven ranger works here as a leatherworker.
+~
+Dek Shattershock- the name inspires fear in goblin and githyanki 
+warrior alike! You ought to be scared, too, you shrimp.
+~
+182302 0 0 0 56 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 14
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Race: 15
+E
+#8108
+marya woman baker~
+Marya the Baker~
+A young Ofintine woman kneads dough here.
+~
+She is not a noblewoman, but is a lady all the same.  After all, lady
+means `loaf-kneader' just as lord means `loaf-ward' in the old Anglo-
+Saxon tongue.  She has bashed more goblins with her rolling pin than
+Jewish rye has caraway seeds.    
+~
+182298 0 0 0 56 0 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 6
+Luck: 12
+Race: 14
+E
+#8109
+serathana priestess librarian~
+Serathana the Guardian of Lore~
+A priestess watches you carefully.
+~
+This priestess is an old friend of Dek, Dorig, Churt, and Maxtrum.  
+They saved the world from destruction, but there isn't much need for
+heroes in peacetime.  You can see Sara's long spear hung on the wall
+where she can instantly reach it.    
+~
+182298 0 0 0 2128 131072 0 0 700 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 11
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Class: 2
+Race: 14
+E
+#8110
+kelek guard captain~
+Sir Kelek~
+Passing guards raise their visors in salute to Sir Kelek, their captain.
+~
+He did not reach this rank by staying close by the Newbie Zone.
+~
+10266 0 0 0 0 0 0 0 700 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 16
+Luck: 12
+Class: 6
+Race: 14
+E
+#8111
+king korbor~
+King Korbor~
+Clad in bright mail and girt with a sword, King Korbor goes to war.
+~
+Once King Korbor sat in his lofty hall, but now he marches with his
+army to drive off the goblins which threaten his realm.
+~
+26650 0 0 0 65536 4194304 0 0 800 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 8
+Luck: 12
+Class: 4
+Race: 14
+E
+#8112
+tim thief boy~
+Tim the Thief~
+A small boy sneaks silently through the shadows.
+~
+Guard your money! It is that dratted Tim!
+~
+557085 0 0 0 524288 0 0 0 100 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 15
+Luck: 12
+Class: 3
+Race: 14
+E
+#8113
+sir mischa~
+Sir Mischa~
+Sir Mischa guards his town from evil creatures.
+~
+This knight could easily kill Curley GreenLeaf.
+~
+2120 0 0 0 0 0 0 0 700 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 14
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 7
+Luck: 12
+Class: 6
+Race: 14
+E
+#8114
+guard~
+the Ofingian Guard~
+A guard of Ofingia patrols his town.
+~
+A sturdy guardsman, loyal to King Korbor.
+~
+2120 0 0 0 16 0 0 0 400 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 3
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Class: 10
+Race: 14
+E
+#8115
+guard~
+the Ofintine Guard~
+An Ofintine guard watches the gate.
+~
+A sturdy guardsman, ever vigilant for evil.
+~
+2058 0 0 0 0 0 0 0 400 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+BareHandAttack: 14
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 9
+Luck: 12
+Class: 10
+Race: 14
+E
+#8116
+volunteer~
+an Ofintine Volunteer~
+An Ofintine volunteer patrolls his town.
+~
+He has taken up arms to fight the goblins.
+~
+4168 0 0 0 0 0 0 0 400 E
+11 3 56 1d11+250 1d2+7
+25 2119
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 8
+Luck: 12
+Class: 12
+Race: 14
+E
+#8117
+volunteer~
+an Ofintine Volunteer~
+An Ofintine volunteer patrolls her town.
+~
+She has taken up arms to fight the goblins.
+~
+4172 0 0 0 0 0 0 0 400 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 2
+BareHandAttack: 13
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 25
+Luck: 12
+Class: 12
+Race: 14
+E
+#8118
+man~
+a Lonoyan Man~
+A man of Ofingia stands here.
+~
+He won't desert his town for a million goblins, all waving axes.
+~
+72 0 0 0 0 0 0 0 400 E
+11 3 56 1d11+250 1d2+7
+25 2119
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Class: 12
+Race: 14
+E
+#8119
+woman~
+a Lonoyan Citizen~
+An Lonoyan woman walks through town.
+~
+Though the goblins poured in through every gate, she would stay here.
+~
+72 0 0 0 0 0 0 0 400 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 2
+BareHandAttack: 13
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Luck: 12
+Class: 12
+Race: 14
+E
+#8120
+boy~
+a small Boy~
+A small boy runs around shouting at unseen foes.
+~
+He is ready for the goblins when they come!
+~
+72 0 0 0 0 0 0 0 300 E
+7 1 72 1d7+125 1d2+4
+10 669
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 9
+Luck: 12
+Race: 14
+E
+#8121
+girl~
+a young Girl~
+A young girl stands here, smiling sweetly.
+~
+You are sure she has killed many trolls and more goblins.
+~
+72 0 0 0 0 0 0 0 300 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 20
+Luck: 12
+Race: 14
+E
+#8122
+big dog~
+the big Dog~
+A huge dog runs about, tongue lolling out of his mouth in a silly way.
+~
+A big goofy retriever, with a rough, coarse black coat.
+~
+4296 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 1
+BareHandAttack: 4
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 1
+E
+#8123
+dog~
+Reilly's Dog~
+You cringe in fear when a small black dog growls menacingly.
+~
+Reilly's miniature schnauzer looks tougher than a small dragon.
+~
+4297 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 1
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 24
+Luck: 12
+Race: 1
+E
+#8124
+farmer man~
+a Lonoyan Farmer~
+A farmer strolls about town in his Sunday clothes.
+~
+As he walks past you, you see him stop and stare with an expression of
+recognition, changing to anger.  Perhaps you left his gate open on the
+way here.    
+~
+200 0 0 0 0 0 0 0 400 E
+13 4 48 1d13+350 1d2+8
+25 3245
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 17
+Luck: 12
+Race: 14
+E
+#8125
+dwarf~
+a Dwarf~
+A drunken Dwarf rests here, singing loud enough to wake the dead.
+~
+It takes more than a beer or two to intoxicate the sturdy mountain
+folk; he must have had enough to stun a giant.    
+~
+200 0 0 0 16 0 0 0 400 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 9
+Luck: 12
+Race: 13
+E
+#8126
+hobbit~
+a Hobbit Landowner~
+A fine fat gentlehobbit swaggers around, whistling merrily.
+~
+There aren't too many hobbits living in Lonoya, and he is most likely
+a visitor from the Shire.    
+~
+200 0 0 0 0 0 0 0 400 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 21
+Luck: 12
+Race: 17
+E
+#8127
+woman barmaid maid~
+the Bar Maid~
+A lovely Lonoyan woman serves mead to Reilly's customers.
+~
+No one bothers her as she serves drinks, because they know that she
+has a dagger ready for anyone who gets `fresh'.
+~
+10 0 0 0 0 0 0 0 400 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 6
+Luck: 12
+Race: 14
+E
+#8128
+man~
+the old Man~
+An old Lonoyan man sweeps the road clean.
+~
+Too old to wield a glaive, this man has taken upon himself the task of
+picking up the litter that passerby drop in Lonoyan gutters.  
+Ofingia, the "Jewel of Lonoya", would not sparkle as it does in
+Korbor's crown if he was not so busy.  The old man really hates
+adventurers who don't clean up after themselves.    
+~
+4172 0 0 0 80 2 0 0 400 E
+7 1 72 1d7+125 1d2+4
+10 669
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 14
+Luck: 12
+Race: 14
+E
+#8129
+goblin~
+the Goblin~
+A forest goblin roams Lonoya, arguing with himself.
+~
+He doesn't seem to notice you right away, but I wouldn't wait for him
+to stop talking and see you.  Goblins hate strangers, especially if
+they are armed.    
+~
+6248 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 15
+Luck: 12
+Race: 31
+E
+#8130
+goblin raider~
+the Goblin~
+A goblin raider prowls Lonoya, looking for travellers to rob.
+~
+Stumpy-short but thick, green-skinned and great-headed.  Ugly, ain't
+he?    
+~
+6248 0 0 0 524288 0 0 0 -250 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+Race: 31
+E
+#8131
+goblin~
+the Goblin~
+A goblin crouches in ambush here.
+~
+Another goblin, another battle, another notch in your newbie dagger.
+~
+67115080 0 0 0 0 0 0 0 -250 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 25
+Luck: 12
+Race: 31
+E
+#8132
+goblin~
+the Goblin Watchman~
+A goblin stands watch here.
+~
+Goblins, it seems, are not trusty watchmen. You'd expect no more.
+~
+6186 0 0 0 16 0 0 0 -250 E
+16 5 36 1d16+600 1d3+10
+75 5510
+4 8 1
+BareHandAttack: 7
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 6
+Luck: 12
+Class: 4
+Race: 31
+E
+#8133
+serpent~
+a Serpent~
+A great serpent slithers through the caverns, ignoring you.
+~
+For a little while you fear poison, but this snake looks about as
+harmless as any forty-five-foot reptile can.  Perhaps this serpent
+lives off the carcasses of those killed by these goblins.    
+~
+624716 0 0 0 16 0 0 0 0 E
+16 5 36 1d16+600 1d3+10
+0 5510
+8 8 0
+BareHandAttack: 6
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 19
+Luck: 12
+Race: 2
+E
+#8134
+gnome~
+the lost Gnome~
+A stone-gnome is far from home.
+~
+He is wandering, as you are, through these tunnels to find an exit.
+~
+2204 0 0 0 0 0 0 0 400 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 24
+Luck: 12
+Race: 17
+E
+#8135
+goblin~
+the Goblin Guard~
+A goblin stands here alert, vigilant for intruders.
+~
+No one will pass by him unnoticed.
+~
+4138 0 0 0 16 0 0 0 -350 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 17
+Luck: 12
+Class: 10
+Race: 31
+E
+#8136
+goblin~
+the tough Goblin~
+A green-skinned goblin warrior stands here, clutching a bloody scimitar.
+~
+He looks tougher than the average goblin.
+~
+6248 0 0 0 0 0 0 0 -400 E
+17 6 32 1d16+600 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Race: 14
+E
+#8137
+goblin~
+the Goblin Warrior~
+A goblin warrior glares at you, angry at having been awakened.
+~
+He looks tougher than the average goblin.
+~
+6248 0 0 0 0 0 0 0 -400 E
+16 5 36 1d16+600 1d3+10
+75 5510
+4 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 8
+Luck: 12
+Race: 31
+E
+#8138
+hobgoblin goblin~
+a Hobgoblin~
+A large goblin clad in stinking hides glares at you.
+~
+You would NEVER wear his armor; untanned cowhide is not your style.  
+He doesn't seem to mind it, however, and in any case this fellow is a
+dangerous foe for any knight.    
+~
+6248 0 0 0 2064 0 0 0 -400 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 9
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 9
+Luck: 12
+Race: 31
+E
+#8139
+toadstool goblin chieftain~
+Toadstool the Goblin~
+Toadstool, chief of the forest goblins, shouts and throws things at you.
+~
+What does he throw?  Rocks, mostly.  Toadstool is taller than a dwarf,
+and ugly as a toad.  He is larger than any goblin you have seen, in
+fact; maybe Toadstool is orcish or half-orcish.    
+~
+67197000 0 0 0 65552 4194304 0 0 -500 E
+21 8 16 1d20+1000 1d4+14
+150 11024
+8 8 1
+BareHandAttack: 6
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 16
+Luck: 12
+Class: 4
+Race: 31
+E
+#8140
+goblin~
+a Goblin~
+A goblin gnaws a bone here.
+~
+That bone looks very tasty, but he probably won't share it.
+~
+6248 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 12
+Luck: 12
+Race: 31
+E
+#8141
+groff troll cook~
+Groff the Troll~
+A huge hairy troll stirrs a bubbling pot.
+~
+As you watch, safely hidden, he picks up a dead goblin and throws it
+into his pot, followed by a few spotted mushrooms and a halfling.  
+Then he catches sight of you, and wonders what flavor you'd add to his
+concoction.  Oops!  Should have stayed still, you idiot.    
+~
+100663310 0 0 0 2128 2 0 0 -800 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 5
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 9
+Luck: 12
+Class: 4
+Race: 7
+E
+#8142
+mimic barrel~
+the Mimic~
+A sturdy oaken barrel bound with iron hoops stands in the corner.
+~
+This barrel has no tap, but perhaps you could borrow one from the
+goblins.  No, I doubt it.  Besides, there is something queer about
+that cask.  Did it just move?    
+~
+196618 0 0 0 0 0 0 0 10 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+BareHandAttack: 8
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+E
+#8143
+mimic cabinet~
+the Mimic~
+A cabinet marked `Magical Items Only' stands in the corner.
+~
+You nearly open the cabinet when you realize goblins don't write in
+the Common Speech.  Perhaps it's a trap.
+~
+67305482 0 0 0 0 0 0 0 10 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 24
+Luck: 12
+E
+#8144
+hybrid centipede cementipede~
+the Cementipede~
+A strange hybrid of stone and centipede prowls the caves.
+~
+Half-crawler, half-concrete; it could only be the legendary
+Cementipede!    
+~
+73944 0 0 0 0 0 0 0 0 E
+26 11 -4 1d26+2050 2d3+17
+0 19006
+8 8 0
+BareHandAttack: 10
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 21
+Luck: 12
+Race: 5
+E
+#8145
+goblin~
+the drunk Goblin~
+A drunken goblin staggers around.
+~
+You don't want to THINK about what he's been drinking.
+~
+6248 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 12
+Race: 31
+E
+#8146
+warg~
+the hungry Warg~
+A hungry warg stands here, growling at you.
+~
+The goblins sometimes ride wargs, and maybe this one is trained as a
+mount.  You only know that the white fangs it now shows as it sees you
+approaching look very sharp.    
+~
+104 0 0 0 16 0 0 0 -350 E
+16 5 36 1d16+600 1d3+10
+0 5510
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Race: 8
+E
+#8147
+mold~
+the Green Mold~
+A peculiar green mold looks at you from the wall.
+~
+Looks at you? Molds don't usually have EYES! But this one does.
+~
+196682 0 0 0 0 0 0 0 0 E
+21 8 16 1d21+1200 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 23
+Luck: 12
+E
+#8148
+orc~
+the Orc~
+An Orc guards the caves here.
+~
+He is not as large as the usual Orc, probably half a goblin. 
+~
+6186 0 0 0 0 0 0 0 -400 E
+16 5 36 1d16+600 1d3+10
+75 5510
+4 8 1
+BareHandAttack: 9
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 14
+Luck: 12
+Race: 32
+E
+#8149
+goblin~
+a Goblin Miner~
+A goblin miner chips away at the mountains' stony innards.
+~
+He doesn't seem to be in the best of spirits. It's been a long day.
+~
+6186 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 22
+Luck: 12
+Race: 31
+E
+#8150
+stalker~
+the Stalker~
+The invisible stalker is, fortunately, not after you.
+~
+You can't see him.
+~
+755800 0 0 0 524532 0 0 0 -1000 E
+33 16 -20 1d33+2350 3d4+22
+0 34908
+8 8 0
+BareHandAttack: 8
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 25
+Luck: 12
+Race: 11
+E
+#8151
+kobold~
+the Kobold~
+A kobold slave hauls rubble for the goblins.
+~
+He is always looking for a way to escape.
+~
+76 0 0 0 0 0 0 0 -100 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 8
+Luck: 12
+Race: 7
+E
+#8152
+goblin~
+the Goblin Miner~
+A goblin miner rests here, out of his master's sight.
+~
+He is not too tired to kill you with that big nasty pick.
+~
+6186 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+5 5 1
+BareHandAttack: 11
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 6
+Luck: 12
+Race: 31
+E
+#8153
+mimic boulder~
+the Mimic~
+A great boulder nearly blocks the tunnel.
+~
+Where did that thing come from?  It didn't just MOVE, did it?  
+Hmmm...    
+~
+196618 0 0 0 0 0 0 0 -10 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+BareHandAttack: 6
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 19
+Luck: 12
+E
+#8154
+goblin slave driver~
+the Slave Driver~
+A goblin slave driver supervises the miners and cracks his whip!
+~
+He lashes fiercely at you with that great whip when he sees you in his
+mine tunnels.    
+~
+6252 0 0 0 0 0 0 0 -800 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 12
+Race: 31
+E
+#8155
+slave~
+the Human Slave~
+An Ofintine works as a goblin slave, with no hope of escape.
+~
+The goblins captured him in a raid and now work him to death in their
+huge mines.    
+~
+72 0 0 0 0 0 0 0 400 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 14
+E
+#8156
+slave~
+the Human Slave~
+An Ofintine works as a goblin slave, with no hope of escape.
+~
+The goblins captured her in a raid and now work her to death in their
+huge mines.    
+~
+72 0 0 0 0 0 0 0 400 E
+13 4 48 1d13+350 1d2+8
+0 3245
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 17
+Luck: 12
+Race: 14
+E
+#8157
+goblin blacksmith~
+the Goblin Blacksmith~
+Wielding two great hammers, the goblin smith toils at his forge.
+~
+His knotted, iron-hard muscles attest to long hours at the anvil.
+~
+6186 0 0 0 16 0 0 0 -800 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Class: 4
+Race: 31
+E
+#8158
+goblin~
+a Goblin~
+A goblin pumps the great forge-bellows here.
+~
+He works at a furious pace as the overseer cracks his whip, to keep
+the goblins' iron furnace white-hot.    
+~
+6248 0 0 0 0 0 0 0 -250 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 13
+Luck: 12
+Race: 31
+E
+#8159
+kobold slave~
+the Kobold Slave~
+A kobold shuffles quickly about, carrying iron ore and lime.
+~
+He avoids the whip nimbly as he feeds the roaring furnace.
+~
+76 0 0 0 0 0 0 0 -100 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 25
+Luck: 12
+Race: 7
+E
+#8160
+giant overseer~
+the Hill Giant~
+A hill giant `encourages' the slaves with a huge flint-studded whip.
+~
+He is not very bright, as few giants are, and might think you work
+here if you stay much longer.  Like any evil giant, he loves causing
+pain.    
+~
+6186 0 0 0 0 0 0 0 -900 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 8
+Luck: 12
+Race: 10
+E
+#8161
+mimic pig iron~
+the Mimic~
+A glowing iron pig cools in the sand, away from the others.
+~
+This iron pig seems to be chuckling softly. Odd.
+~
+196618 0 0 0 0 0 0 0 -10 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+E
+#8162
+ogre~
+the Ogre~
+A large ogre trudges about, pushing boulders that must weigh tons.
+~
+He looks very strong.
+~
+6154 0 0 0 0 0 0 0 -900 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+BareHandAttack: 7
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 22
+Luck: 12
+Class: 4
+Race: 19
+E
+#8163
+elf elven~
+an Elf~
+An Elven hunter stalks goblins here.
+~
+He, like you, has crept into Goblin-Town to hunt goblins.  Seems as
+though he is doing a good job of it, so why not let him continue?    
+~
+526680 0 0 0 524344 0 0 0 1000 E
+16 5 36 1d16+600 1d3+10
+75 5510
+4 8 1
+BareHandAttack: 14
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 22
+Luck: 12
+Class: 5
+Race: 15
+E
+#8164
+dragon~
+the Red Dragon~
+A large red dragon stands here, angry that you disturbed his rest.
+~
+He can't see you when he's sleeping, and you had best let him stay
+that way.    
+~
+90218 0 0 0 8 131072 0 0 -1000 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+4 8 0
+BareHandAttack: 8
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 12
+Luck: 12
+Race: 9
+E
+#8165
+troll guard~
+the Troll Guard~
+A huge troll of the Olog-Hai stands guard here.
+~
+Oh dear! Time to leave the way you came in!
+~
+42 0 0 0 0 0 0 0 -900 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 23
+Luck: 12
+Class: 10
+Race: 7
+E
+#8166
+orc~
+the Orc~
+A large Orc stands here, looking for dinner.
+~
+Offering him a waybread was a BAD idea, you now think.  Orcs don't
+like elves very much.  Well, they do like elves dead.  In fact, they
+like almost any meat.  You probably look like a tasty meal.    
+~
+108 0 0 0 0 0 0 0 -800 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+BareHandAttack: 9
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 14
+Luck: 12
+Race: 32
+E
+#8167
+wall~
+the Living Wall~
+A section of stone wall has many treasures embedded in it.
+~
+You have heard of walls that came alive by wicked sorcery and absorb
+great treasures within their magical masonry.    
+~
+253978 0 0 0 8 0 0 0 -750 E
+33 16 -20 1d33+2350 3d4+22
+300 34908
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 8
+Luck: 12
+E
+#8168
+mimic chest~
+the Mimic~
+A fine iron-bound chest would catch any cabinetmaker's eye.
+~
+The chest was truly the work of a master carpenter.
+~
+196618 0 0 0 0 0 0 0 -10 E
+14 4 44 1d14+400 1d2+9
+0 3920
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 15
+Luck: 12
+E
+#8169
+goblin moragd~
+Moragd the Goblin~
+Moragd the Goblin stands here.
+~
+Moragd is a great goblin warrior, son of Gorgh the Knob-headed.
+~
+6314 0 0 0 0 0 0 0 -900 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 7
+Luck: 12
+Class: 4
+Race: 31
+E
+#8170
+goblin gorgh~
+Gorgh the Goblin~
+Gorgh the Knob-Headed stands here.
+~
+Gorgh, father of Moragd , is the greatest goblin warrior yet to taint
+this world.    
+~
+6186 0 0 0 0 0 0 0 -900 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 17
+Luck: 12
+Class: 4
+Race: 31
+E
+#8171
+goblin Khos~
+Khos the Goblin~
+Khos the Greatnosed stands here.
+~
+Khos, Gorgh, and Moragd are the three best soldiers of the Great
+Goblin.    
+~
+22570 0 0 0 65536 4194304 0 0 -900 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 13
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 17
+Luck: 12
+Class: 4
+Race: 31
+E
+#8172
+goblin~
+a Goblin~
+A goblin warrior stands here.
+~
+Ugly, slime-green, and bull-strong.
+~
+6248 0 0 0 0 0 0 0 -400 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 13
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 9
+Luck: 12
+Race: 31
+E
+#8173
+ogre guard Thrash~
+Thrash the Ogre~
+Thrash the Ogre Mercenary guards the Great Goblin.
+~
+You are sure you have seen Thrash before, somewhere.  Maybe he was in
+the Grunting Boar the other day with Pippin.  Anyway, the Great Goblin
+has hired him as a bodyguard.    
+~
+530478 0 0 0 0 0 0 0 -900 E
+27 12 -8 1d27+2100 2d4+18
+200 20926
+8 8 1
+BareHandAttack: 6
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 23
+Luck: 12
+Class: 4
+Race: 19
+E
+#8174
+giant guard Throm~
+Throm the Giant~
+Throm the Giant guards the Great Goblin.
+~
+You are sure you have seen Throm before, somewhere.  Maybe he was at
+the weapon shop the other day?  Anyway, the Great Goblin has hired
+this reknowned giant to guard his person.    
+~
+6186 0 0 0 0 0 0 0 -900 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 10
+Luck: 12
+Class: 4
+Race: 10
+E
+#8175
+human guard Tarus~
+Tarus~
+Tarus the Swordpupil guards the Great Goblin.
+~
+You are sure you have seen Tarus before, perhaps on BluemageMUD.  
+This sturdy human is one of the Great Goblin's bodyguards.    
+~
+6186 0 0 0 0 0 0 0 -900 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 24
+Luck: 12
+Class: 4
+Race: 14
+E
+#8176
+great goblin~
+the Great Goblin~
+The Great Goblin sees you and calls his guards!
+~
+His head is bigger than any goblin's you have seen, and he is quite
+proud of it.  This goblin is quite strong, and quite ugly, and has
+quite a few guards around him.  Kill him, and King Korbor will repay
+you handsomely.    
+~
+6186 0 0 0 65536 4194304 0 0 -990 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 22
+Luck: 12
+Class: 8
+Race: 31
+E
+#8177
+teleport operator drunk~
+the Teleport Operator~
+A drunk mage wearing a Sorceror Guild robe waits to teleport you.
+~
+Oh yeah, this is just wonderful.  This guy - probably cast out of
+Jareth for some wrongdoing when drunk - is gonna dissolve your
+molecular structure and reform it somewhere else hundreds of miles
+away?  Wonderful.    
+~
+11 0 0 0 16 131072 0 0 0 E
+60 37 -36 1d60+7100 5d6+40
+1000 160325
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 10
+Luck: 12
+Class: 1
+Race: 14
+E
+#8178
+newbie helper Dallin~
+Dallin the Newbie Helper~
+Dallin the Newbie Helper is here helping out, teleporting newbies.
+~
+Dallin tells you, /cr'If you'd like to go to the Newbie Headquarters,
+just type NEWBIE and I'll send you there.  '/c0
+~
+11 0 0 0 2128 33685506 0 0 0 E
+200 204 -100 1d100+12000 40d45+133
+0 3454164
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 17
+Luck: 12
+Class: 2
+Race: 14
+E
+T 3000
+$

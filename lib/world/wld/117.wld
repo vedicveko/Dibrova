@@ -1,0 +1,1779 @@
+#11700
+Entrance to the Mutant Dump~
+You find yourself at the edge of the Dump.  The howls of unknown
+horrors can be heard as you stand and gaze out over these strange
+lands.  Far off on the horizon, rising high above the forest, you can
+see a great snow capped spire.  A trail leads off the east.  There is
+a sign posted here.    
+~
+117 4 0 0 0 2
+D1
+~
+~
+0 0 11701 0
+D3
+~
+~
+0 0 9593 0
+S
+#11701
+Wandering through the Brush~
+Following the trail as it zigzags through the brush, there are old
+campsites not far off the trail.  Old fire pits and trampled areas
+show that this area is not deserted.  There are small paths to the
+west and north.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11702 0
+D3
+~
+~
+0 0 11700 0
+S
+#11702
+Wandering through the Brush~
+Following the trail as it zigzags through the brush, there are old
+campsites not far off the trail.  Old fire pits and trampled areas
+show that this area is not deserted.  There are paths lead to the
+south and east.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11703 0
+D2
+~
+~
+0 0 11701 0
+S
+#11703
+Wandering through the Brush~
+Following the trail as it zigzags through the brush, there are old
+campsites not far off the trail.  Old fire pits and trampled areas
+show that this area is not deserted.  This trail continues north and
+south.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11711 0
+D2
+~
+~
+0 0 11704 0
+D3
+~
+~
+0 0 11702 0
+S
+#11704
+Start of a large Trail~
+Off to the east a large trail starts.  There are signs of fresh tracks
+from the hooves of some large beast.  The brush has been stomped down
+making the going a little easier.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11703 0
+D1
+~
+~
+0 0 11705 0
+S
+#11705
+Along the Trail~
+Following the trail as it zigzags through the brush, there are old
+campsites not far off the trail.  Old fire pits and trampled areas
+show that this area is not deserted.  The trail gets wider to the
+north.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11706 0
+D3
+~
+~
+0 0 11704 0
+S
+#11706
+Along the Trail~
+You are crossing a very thick area of brush.  The trail runs north and
+south.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11707 0
+D2
+~
+~
+0 0 11705 0
+S
+#11707
+Bend in the Trail~
+The trail takes a sharp turn to the east and also runs to the south.
+The signs of passage are very easy to see here.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11708 0
+D2
+~
+~
+0 0 11706 0
+E
+passage signs~
+Something has left hugh footprints here along side some sort of animal tracks.
+~
+S
+#11708
+Around the Bend~
+You are crossing an area of very dense brush.  There is a crude stone
+structure visible through the brush to the south.  The trail continues
+south and west.    
+~
+117 0 0 0 0 2
+D2
+~
+~
+0 0 11709 0
+D3
+~
+~
+0 0 11707 0
+S
+#11709
+Before the crumbling Statue~
+You're standing before a stone structure.  You can see that it was
+once a statue of some human male.  The distance is too great to tell
+more, but you can see the trail leads directly to it.    
+~
+117 4 0 0 0 2
+D0
+~
+~
+0 0 11708 0
+D2
+~
+~
+0 0 11710 0
+S
+#11710
+At the base of the Statue~
+You crane your neck to look up at the statue.  The face is weather
+worn and there are several chunks missing.  There is a crude altar set
+up behind the statue.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11709 0
+S
+#11711
+Wandering through the Brush~
+You're traveling through dense brush.  There is a game trail running
+north and south with the tracks of some strange beast upon it.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11712 0
+D2
+~
+~
+0 0 11703 0
+S
+#11712
+A sharp Turn~
+The brush is becoming dense again and traveling has become more
+difficult.  To the south the trail appears to be a little better.  To
+the east is a small path.    
+~
+117 0 0 0 0 3
+D1
+~
+~
+0 0 11713 0
+D2
+~
+~
+0 0 11711 0
+S
+#11713
+A faint Trail~
+The trail has become faint again.  The brush is as closely knitted as
+most cloak weaves.  There are small breaks in the brush to the east,
+west and north.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11716 0
+D1
+~
+~
+0 0 11714 0
+D3
+~
+~
+0 0 11712 0
+S
+#11714
+Through the thick Brush~
+The grey and brown brush grabs at your legs like some hungry beggar.
+The going looks easier to the north and west.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11715 0
+D3
+~
+~
+0 0 11713 0
+S
+#11715
+Through the thick Brush~
+You're traveling along a path in very thick brush.  To the west and
+south the passage looks easier.    
+~
+117 0 0 0 0 3
+D2
+~
+~
+0 0 11714 0
+D3
+~
+~
+0 0 11716 0
+S
+#11716
+Through the thick Brush~
+The brush is extremely thick here.  If each plant were a tree, you
+would be in choking forest.  You can make out small breaks in the
+brush to the east, south and north.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11717 0
+D1
+~
+~
+0 0 11715 0
+D2
+~
+~
+0 0 11713 0
+S
+#11717
+Another Bend~
+You can again see a trail.  It runs south and east with a sharp turn
+on the eastern end.  The brush seems to keep getting more dense.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11718 0
+D2
+~
+~
+0 0 11716 0
+S
+#11718
+Trudging Along~
+The brush is so dense here that you have to force your way through it.
+To the east, you can see the trail turns south again.  The other exit
+from here is to the west.    
+~
+117 0 0 0 0 3
+D1
+~
+~
+0 0 11719 0
+D3
+~
+~
+0 0 11717 0
+S
+#11719
+Rounding the Bend~
+A faint trail through the brush turns south here or you can follow it
+west.  There is a circle of stones down the trail to the south.  A
+faint smell of smoke is in the air.    
+~
+117 0 0 0 0 2
+D2
+~
+~
+0 0 11720 0
+D3
+~
+~
+0 0 11718 0
+S
+#11720
+Looking at the Circle~
+Just to the south there is a circle of stones.  The stones and the
+ground within are charred black.  The circle is 3 paces in diameter.
+The smell of smoke is very strong here.    
+~
+117 4 0 0 0 2
+D0
+~
+~
+0 0 11719 0
+D2
+~
+~
+0 0 11721 0
+S
+#11721
+After the FLASH!~
+There is a /cwFLASH of LIGHT/c0!!  Your clothing is still smoking a
+bit as your vision clears.  There is no sign of the circle, but you
+can see a way through the underbrush to the north.    
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 0 11722 0
+S
+#11722
+A change of Scenery~
+There is a change coming over the land here.  The air is more humid
+and the brush is starting to become small bent trees.  There is a
+trail to the west.    
+~
+117 0 0 0 0 3
+D3
+~
+~
+0 0 11723 0
+S
+#11723
+The beginnings of a Forest~
+The trees are becoming more numerous.  The underbrush that was
+grabbing at you is starting to give way.  To the west there are more
+trees and to the south you can skirt the forest's edge.    
+~
+117 0 0 0 0 3
+D2
+~
+~
+0 0 11724 0
+D3
+~
+~
+0 0 11731 0
+S
+#11724
+The beginnings of a Forest~
+The trees are very numerous here.  The underbrush is thick, but not so
+thick as to be much of a hindrance . To the south and north you can
+skirt the forest and west leads you toward the denser trees.    
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 0 11723 0
+D2
+~
+~
+0 0 11725 0
+D3
+~
+~
+0 0 11730 0
+S
+#11725
+Along the edge of a Forest~
+The trees are very numerous here, but the underbrush is very sparse.
+To the south and north you can skirt the forest and west leads you
+toward the denser trees.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11724 0
+D2
+~
+~
+0 0 11726 0
+D3
+~
+~
+0 0 11729 0
+S
+#11726
+Along the edge of a Forest~
+The trees are very numerous here, but the underbrush is somewhat
+sparse.  To the north you can skirt the forest and west leads you
+toward the denser trees.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11725 0
+D3
+~
+~
+0 0 11727 0
+S
+#11727
+Just inside a Forest~
+You are within a forest.  There is little in the way of underbrush
+here, but the trees are dense enough to prevent traveling in a
+straight line.  You can go south, east, north or west into a thicker
+part of the forest.    
+~
+117 32768 0 0 0 3
+D0
+~
+~
+0 0 11729 0
+D1
+~
+~
+0 0 11726 0
+D2
+~
+~
+0 0 11728 0
+D3
+~
+~
+0 0 11735 0
+S
+#11728
+Coming to a Halt~
+You travel south and see that your way is blocked by a great rock
+face.  How you didn't see it through the trees is hard to understand,
+but there is no way past it.  The only way out to to go back north.  
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11727 0
+S
+#11729
+Just inside the Forest~
+You are within a forest.  There is little in the way of underbrush
+here, but the trees are dense enough to prevent traveling in a
+straight line.  You see a break in the trees to the east, north and
+south.  To the west the forest thickens.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11730 0
+D1
+~
+~
+0 0 11725 0
+D2
+~
+~
+0 0 11727 0
+D3
+~
+~
+0 0 11734 0
+S
+#11730
+Just inside the Forest~
+You are within a forest.  There is little in the way of underbrush
+here, but the trees are dense enough to prevent traveling in a
+straight line.  To the east the forest tapers, it continues to the
+north and south and westward it thickens.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11731 0
+D1
+~
+~
+0 0 11724 0
+D2
+~
+~
+0 0 11729 0
+D3
+~
+~
+0 0 11733 0
+S
+#11731
+Just inside the Forest~
+You are within a forest.  There is little in the way of underbrush
+here, but the trees are dense enough to prevent traveling in a
+straight line.  You can see easier going east and south, to the west
+the forest thickens.    
+~
+117 0 0 0 0 3
+D1
+~
+~
+0 0 11723 0
+D2
+~
+~
+0 0 11730 0
+D3
+~
+~
+0 0 11732 0
+S
+#11732
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and dead falls.  You can see small trails leading
+east and south.    
+~
+117 1 0 0 0 3
+D1
+~
+~
+0 0 11731 0
+D2
+~
+~
+0 0 11733 0
+S
+#11733
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and dead falls.  You can see small zigzagging trails
+leading east, west, north and south.    
+~
+117 1 0 0 0 3
+D0
+~
+~
+0 0 11732 0
+D1
+~
+~
+0 0 11730 0
+D2
+~
+~
+0 0 11734 0
+D3
+~
+~
+0 0 11739 0
+S
+#11734
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and dead falls.  You can see small zigzagging trails
+leading west, north and south.    
+~
+117 32768 0 0 0 0
+D0
+~
+~
+0 0 11733 0
+D1
+~
+~
+0 0 11729 0
+D2
+~
+~
+0 0 11735 0
+D3
+~
+~
+0 0 11740 0
+S
+#11735
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and dead falls.  You can see small trails leading
+east, north and south.    
+~
+117 32769 0 0 0 3
+D0
+~
+~
+0 0 11734 0
+D1
+~
+~
+0 0 11727 0
+D2
+~
+~
+0 0 11736 0
+D3
+~
+~
+0 0 11741 0
+S
+#11736
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and dead falls.  You can see a faint trail going
+north and south.    
+~
+117 32769 0 0 0 3
+D0
+~
+~
+0 0 11735 0
+D2
+~
+~
+0 0 11737 0
+S
+#11737
+Within the Forest~
+The normal woodland sounds seem to be absent within these trees.  The
+forest is very thick and dark.  The floor of the forest is littered
+with old branches and deadfalls.  You can see a small trail leading
+north.  To the west the forest thickens.    
+~
+117 32769 0 0 0 3
+D0
+~
+~
+0 0 11736 0
+D3
+~
+~
+0 0 11743 0
+S
+#11738
+Under the vast Branches~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness feels almost repressive.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+The trees and thorn bushes to the north, east and west are so dense
+they form a living wall.  There is a path to the south.    
+~
+117 1 0 0 0 3
+D2
+~
+~
+0 0 11739 0
+S
+#11739
+In the gloom of the Forest~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness closes in around you.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+You can make a way out to the north and east through the dim light.  
+~
+117 1 0 0 0 3
+D0
+~
+~
+0 0 11738 0
+D1
+~
+~
+0 0 11733 0
+S
+#11740
+In the gloom of the Forest~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness closes in around you.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+You can make a way out to the south and east through the dim light.  
+~
+117 1 0 0 0 3
+D1
+~
+~
+0 0 11734 0
+D2
+~
+~
+0 0 11741 0
+S
+#11741
+In the gloom of the Forest~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness closes in around you.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+You can make a way out to the north and to the west you can see a mist
+forming.    
+~
+117 32769 0 0 0 3
+D0
+~
+~
+0 0 11740 0
+D1
+~
+~
+0 0 11735 0
+D3
+~
+~
+0 0 11746 0
+S
+#11742
+In the gloom of the Forest~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness closes in around you.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+You can make a way out to the south and to the west you can see a mist
+forming.    
+~
+117 1 0 0 0 14
+D2
+~
+~
+0 0 11743 0
+D3
+~
+~
+0 0 11745 0
+S
+#11743
+In the gloom of the Forest~
+The trees are huge and there are years of fallen leaves and branches
+on the ground.  The darkness closes in around you.  The air is so
+humid that even the drooping leaves seem to feel the weight of it.  
+You can make a way out to the north and east through the dim light.  
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11742 0
+D1
+~
+~
+0 0 11737 0
+S
+#11744
+A path in the Jungle~
+Swarms of biting insects surround you as you traverse the jungle.  
+The thick vines and twisted trunks of the trees block out light and
+whatever breeze there might have been.  You see a path running north
+and west.    
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11745 0
+D3
+~
+~
+0 0 11747 0
+S
+#11745
+Welcome to the Jungle~
+You chop your way through the dense jungle, teeming with insects and
+other parasites.  The air is very humid within this cookpot of twisted
+trees and vines.  To the east, you can just make out the forest and,
+to the south, you can see a pathway.    
+~
+117 1 0 0 0 14
+D1
+~
+~
+0 0 11742 0
+D2
+~
+~
+0 0 11744 0
+S
+#11746
+Just north of the Jungle~
+The air is noticeably warmer and humid here.  The foliage is dripping
+with condensation and the ground is spongy.  To the south you can see
+a jungle but no way to get there from here.  To the east is the
+forest.    
+~
+117 1 0 0 0 14
+D1
+~
+~
+0 0 11741 0
+S
+#11747
+Along a path in the Jungle~
+There is a path that runs east and west here.  The ground is becoming
+very wet and your boots sink in a little as you walk along.  The one
+constant is, the insects seem happy to see you.  There is an old sign
+nailed to the base of a huge tree.    
+~
+117 5 0 0 0 14
+D1
+~
+~
+0 0 11744 0
+D3
+~
+~
+0 0 11748 0
+S
+#11748
+Deep in the Jungle~
+The thick vines and twisted trunks of the trees block out light and
+whatever breeze there might have been in this place.  To the east and
+north the path goes on.    
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11749 0
+D1
+~
+~
+0 0 11747 0
+S
+#11749
+Deep in the Jungle~
+Swarms of biting insects surround you as you traverse the jungle.  
+The thick vines and twisted trunks of the trees block out light and
+whatever breeze there might have been.  To the west and south the way
+looks passable.    
+~
+117 1 0 0 0 14
+D2
+~
+~
+0 0 11748 0
+D3
+~
+~
+0 0 11750 0
+S
+#11750
+Deep in the Jungle~
+You continue to make your way through the jungle.  To the east, west
+and south the path continues.    
+~
+117 1 0 0 0 14
+D1
+~
+~
+0 0 11749 0
+D2
+~
+~
+0 0 11751 0
+D3
+~
+~
+0 0 11753 0
+S
+#11751
+Deep in the Jungle~
+The jungle heat hammers down upon you, uncaring of your discomfort.  
+As you are slowly being eaten alive your options present themselves in
+the form of a path that goes to the west and north.    
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11750 0
+D3
+~
+~
+0 0 11752 0
+S
+#11752
+On swampy Ground~
+The ground is nearly saturated here.  Your boots make slurping sounds
+as they come up out of the muck.  No sooner does your foot leave the
+ground, than the hole it made fills itself back in.  To the east,
+north, and west, there is only more swamp.    
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11753 0
+D1
+~
+~
+0 0 11751 0
+D3
+~
+~
+0 0 11754 0
+S
+#11753
+On swampy Ground~
+The ground is nearly saturated here.  Your boots make slurping sounds
+as they come up out of the muck.  No sooner does your foot leave the
+ground, than the hole it made fills itself back in.  To the east,
+there are more twisted trees and to the south there is only more
+swamp.    
+~
+117 1 0 0 0 14
+D1
+~
+~
+0 0 11750 0
+D2
+~
+~
+0 0 11752 0
+S
+#11754
+On swampy Ground~
+The ground is nearly saturated here.  Your boots make slurping sounds
+as they come up out of the muck.  No sooner does your boot leave the
+hole than it fills itself back in.  To the east and north there is
+only more swamp.    
+~
+117 0 0 0 0 0
+D0
+~
+~
+0 0 11755 0
+D1
+~
+~
+0 0 11752 0
+S
+#11755
+On swampy Ground~
+The ground is nearly saturated here.  Your boots make slurping sounds
+as come up out of the muck.  No sooner does your foot leave the hole
+than it fills itself back in.  There are puddles to the north and more
+swamp to the south.    
+~
+117 1 0 0 0 14
+D0
+~
+~
+0 0 11756 0
+D2
+~
+~
+0 0 11754 0
+S
+#11756
+At the beginning of a Trail~
+There are puddles all around.  Making its way through them is a small
+trail heading north and east.  To the south is swampy ground.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11758 0
+D1
+~
+~
+0 0 11757 0
+D2
+~
+~
+0 0 11755 0
+S
+#11757
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to your north.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+The trail dead ends here.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11759 0
+D3
+~
+~
+0 0 11756 0
+S
+#11758
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the east.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+There is a trail leading north and south.    
+~
+117 0 0 0 0 3
+D0
+~
+~
+0 0 11760 0
+D1
+~
+~
+0 0 11759 0
+D2
+~
+~
+0 0 11756 0
+S
+#11759
+In the murky Waters~
+The waves of stench are thick here.  The noxious fumes continue to
+waft up as the brown water churns.  There is a small island not far to
+the east and the lake continues to the north.  Just to the west there
+is dry ground.    
+~
+117 64 0 0 0 7
+D0
+~
+~
+0 0 11771 0
+D1
+~
+~
+0 0 11772 0
+D2
+~
+~
+0 0 11757 0
+D3
+~
+~
+0 0 11758 0
+S
+#11760
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the east.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+There is a trail leading north and south.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11761 0
+D1
+~
+~
+0 0 11771 0
+D2
+~
+~
+0 0 11758 0
+S
+#11761
+Bend in the trail by the Lake~
+You are on a sparsely wooded trail.  To the east and south the trail
+continues.    
+~
+117 0 0 0 0 0
+D1
+~
+~
+0 0 11762 0
+D2
+~
+~
+0 0 11760 0
+S
+#11762
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the south.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+The trail goes east and west.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11763 0
+D2
+~
+~
+0 0 11771 0
+D3
+~
+~
+0 0 11761 0
+S
+#11763
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the south.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+There is a trail going east and west.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11764 0
+D2
+~
+~
+0 0 11770 0
+D3
+~
+~
+0 0 11762 0
+S
+#11764
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the south.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+There is a trail going east and west.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11765 0
+D2
+~
+~
+0 0 11769 0
+D3
+~
+~
+0 0 11763 0
+S
+#11765
+Bend in the trail by the Lake~
+You are on a sparsely wooded trail.  The is a trail goes west and
+south.    
+~
+117 0 0 0 0 2
+D2
+~
+~
+0 0 11766 0
+D3
+~
+~
+0 0 11764 0
+S
+#11766
+On the trail by the Lake~
+You are on a sparsely wooded trail with a lake to the west.  The
+stagnant waters churn slowly, causing waves of stench to roll out.  
+The trail goes north and south.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11765 0
+D2
+~
+~
+0 0 11767 0
+D3
+~
+~
+0 0 11769 0
+S
+#11767
+At the end of a Trail~
+This is a sparsely wooded area.  To the west you see a lake and a
+trail leads north.  Near the lake, there is an old rowboat.    
+~
+117 0 0 0 0 2
+D0
+~
+~
+0 0 11766 0
+D3
+~
+~
+0 0 11768 0
+S
+#11768
+In the murky Waters~
+The waves of stench are thick here.  The noxious fumes continue to
+waft up as the brown water churns.  There is a small island not far to
+the west and the lake continues to the north.  Just to the east there
+is dry ground.    
+~
+117 64 0 0 0 7
+D0
+~
+~
+0 0 11769 0
+D1
+~
+~
+0 0 11767 0
+D3
+~
+~
+0 0 11772 0
+S
+#11769
+In the murky Waters~
+The waves of stench are thick here.  The noxious fumes continue to
+waft up as the brown water churns.  To the north and east there is dry
+ground and the lake continues to the west and south.    
+~
+117 64 0 0 0 7
+D0
+~
+~
+0 0 11764 0
+D1
+~
+~
+0 0 11766 0
+D2
+~
+~
+0 0 11768 0
+D3
+~
+~
+0 0 11770 0
+S
+#11770
+In the murky Waters~
+The waves of stench are thick here.  The noxious fumes continue to
+waft up as the brown water churns.  There is a small island not far to
+the south and the lake continues to the east and west.  Just to the
+north there is dry ground.    
+~
+117 64 0 0 0 7
+D0
+~
+~
+0 0 11763 0
+D1
+~
+~
+0 0 11769 0
+D2
+~
+~
+0 0 11772 0
+D3
+~
+~
+0 0 11771 0
+S
+#11771
+In the murky Waters~
+The waves of stench are thick here.  The noxious fumes continue to
+waft up as the brown water churns.  Just to the north and west there
+is dry ground and to the south and east the lake continues.    
+~
+117 64 0 0 0 7
+D0
+~
+~
+0 0 11762 0
+D1
+~
+~
+0 0 11770 0
+D2
+~
+~
+0 0 11759 0
+D3
+~
+~
+0 0 11760 0
+S
+#11772
+On the Isle~
+After crossing the murky waters, you finally arrive at the island.  
+It is even smaller than it appeared to be from the distance.  A small.
+Stone hut is half-sunken in the middle of the island.  You see nothing
+but water all around you.    
+~
+117 0 0 0 0 14
+D0
+~
+~
+0 0 11770 0
+D1
+~
+~
+0 0 11768 0
+D3
+~
+~
+0 0 11759 0
+D5
+~
+~
+0 0 11773 0
+E
+hut old~
+   The hut is unremarkable.  You can see the door has long ago been
+torn from it's hinges.    
+~
+S
+#11773
+Inside the Hut~
+By all appearances the hut hasn't been used in quite some time.  
+Thick dust on the sills is the only thing inside.  The only exit is
+back out to the east.    
+~
+117 262725 0 0 0 0
+D1
+~
+~
+0 0 11774 0
+D4
+~
+~
+0 0 11772 0
+S
+#11774
+Front Yard~
+The front yard of the hut has a few tufts of grass and that's about
+all.  A spire is visible off to the north.  The hut is to the west and
+a footpath leads east to the thickly-forested foothills.    
+~
+117 0 0 0 0 2
+D1
+~
+~
+0 0 11775 0
+D3
+~
+~
+0 0 11773 0
+E
+hut~
+   The old run-down hut sags to one side.    
+~
+E
+spire~
+   The spire is so tall you can see it over the forest and hills.  
+The top is snow capped.    
+~
+S
+#11775
+Start of the steep Hills~
+The steep hills rise all around you and the shadows under the trees
+are deep.  There is a canyon of sorts to the north and a trail to the
+west.    
+~
+117 1 0 0 0 4
+D0
+~
+~
+0 0 11776 0
+D3
+~
+~
+0 0 11774 0
+S
+#11776
+Through the Hills~
+The steep hills rise on both sides and the wind howls through the
+trees.  The hills continue to the north and south.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11781 0
+D2
+~
+~
+0 0 11775 0
+S
+#11777
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  The hills continue to the north and there is a path to the
+east.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11781 0
+D1
+~
+~
+0 0 11778 0
+S
+#11778
+Through the Hills~
+You're crossing some very steep and thickly-wooded hills.  You can see
+a trampled path north and west.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11779 0
+D3
+~
+~
+0 0 11777 0
+S
+#11779
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  The hills continue to the north and south.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11785 0
+D2
+~
+~
+0 0 11778 0
+S
+#11780
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  There is an old trail that runs west and south.    
+~
+117 0 0 0 0 4
+D2
+~
+~
+0 0 11777 0
+D3
+~
+~
+0 0 11781 0
+S
+#11781
+Through the Hills~
+You're crossing some very steep and thickly-wooded hills.  It is
+impossible to see very far, but there is an old footpath to the east.
+To the south are more hills.    
+~
+117 1 0 0 0 4
+D1
+~
+~
+0 0 11780 0
+D2
+~
+~
+0 0 11776 0
+S
+#11782
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  Between the trees the spire can be glimpsed off to the north.
+There is a trail heading north and a path to the east.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11789 0
+D1
+~
+~
+0 0 11784 0
+S
+#11783
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  The hills continue to the east and west.  To the south is a
+poor trail.    
+~
+117 0 0 0 0 4
+D1
+~
+~
+0 0 11784 0
+D2
+~
+~
+0 0 11781 0
+D3
+~
+~
+0 0 11782 0
+S
+#11784
+Through the Hills~
+The hills are very steep and thickly-wooded.  There is an old trail
+that follows the canyon north and a game trail to the west.  A poor
+path leads south.    
+~
+117 1 0 0 0 4
+D0
+~
+~
+0 0 11787 0
+D2
+~
+~
+0 0 11780 0
+D3
+~
+~
+0 0 11783 0
+S
+#11785
+Through the Hills~
+The steep hills rise all around you and the wind howls through the
+trees.  There is a rugged trail to the north and south.    
+~
+117 0 0 0 0 4
+D0
+~
+~
+0 0 11786 0
+D2
+~
+~
+0 0 11779 0
+S
+#11786
+The edge of the Mountain~
+The lower sweeps of the mountains begin here.  Over the high cliffs, a
+spire is visible to the north.  There is a trail running west and
+south here.    
+~
+117 0 0 0 0 5
+D2
+~
+~
+0 0 11785 0
+D3
+~
+~
+0 0 11787 0
+S
+#11787
+The edge of the Mountain~
+The lower sweeps of the mountains begin here.  Over the high cliffs, a
+spire is visible to the north.  The trail runs east and south here.  
+~
+117 0 0 0 0 5
+D1
+~
+~
+0 0 11786 0
+D2
+~
+~
+0 0 11784 0
+S
+#11788
+The edge of the Mountain~
+The lower sweeps of the mountains begin here.  Over the high cliffs, a
+spire is visible to the north.  There is a trail to the west and a
+rocky path leading north.    
+~
+117 0 0 0 0 5
+D0
+~
+~
+0 0 11791 0
+D3
+~
+~
+0 0 11789 0
+S
+#11789
+The edge of the Mountain~
+The lower sweeps of the mountains begin here.  Over the high cliffs, a
+spire is visible to the north.  There is a trail to the south and
+east.    
+~
+117 0 0 0 0 5
+D1
+~
+~
+0 0 11788 0
+D2
+~
+~
+0 0 11782 0
+S
+#11790
+A boxed-in Canyon~
+You come down the path only to find that you must go right back up.  
+The towering cliffs to the north, west and south effectively cut off
+any travel in this direction.    
+~
+117 1 0 0 0 4
+D1
+~
+~
+0 0 11791 0
+D4
+~
+rock~
+1 0 11799 19
+S
+#11791
+On the side of the Mountain~
+The mountain is very steep here.  The spire is in clear view now to
+the north.  The ground gently slopes down to the west, a trail leads
+east, and there is a path back to the hills to the south.    
+~
+117 0 0 0 0 5
+D1
+~
+~
+0 0 11792 0
+D2
+~
+~
+0 0 11788 0
+D3
+~
+~
+0 0 11790 0
+S
+#11792
+On the side of the Mountain~
+The mountain climbs sharply here and the shale threatens to dislodge
+you with every step.  There is a broad path to the east and a trail
+leads through the mountains to the west.    
+~
+117 0 0 0 0 5
+D1
+~
+~
+0 0 11793 0
+D3
+~
+~
+0 0 11791 0
+S
+#11793
+On the broad Path~
+There is a broad path here running north and west.    
+~
+117 0 0 0 0 5
+D0
+~
+~
+0 0 11794 0
+D3
+~
+~
+0 0 11792 0
+S
+#11794
+Topping another Rise~
+Following the path eventually brings you to a high rise in the ground.
+From this vantage point a full view of the spire to the north is
+possible.  Barely visible on the side of the spire is a complex of
+some sort.  The path goes north and south.  There is a sign posted
+here.    
+~
+117 0 0 0 0 5
+D0
+~
+~
+0 0 11795 0
+D2
+~
+~
+0 0 11793 0
+S
+#11795
+Southside of a Bridge~
+A strong looking bridge spans a small chasm here.  To the north is a
+bridge and a broad path leads to the south.    
+~
+117 4 0 0 0 5
+D0
+~
+~
+0 0 11796 0
+D2
+~
+~
+0 0 11794 0
+S
+#11796
+On the Bridge~
+Your footsteps thump solidly upon the bridge.  Whoever made this
+bridge, they made it to last.  The bridge continues to the north and
+south.    
+~
+117 0 0 0 0 10
+D0
+~
+~
+0 0 11797 0
+D2
+~
+~
+0 0 11795 0
+S
+#11797
+Northside of the Bridge~
+You can see a village to the north and a bridge spans a small chasm to
+the south.  A path leads up to the village.    
+~
+117 4 0 0 0 10
+D0
+~
+~
+0 0 11798 0
+D2
+Nothing.
+~
+~
+0 0 11796 0
+S
+#11798
+A well-used Path~
+The path has been rutted into the ground by the usage it has taken.  
+To the north a village gate can been seen and to the south is a bridge
+over a chasm.    
+~
+117 0 0 0 0 10
+D0
+~
+~
+0 0 11500 0
+D2
+~
+~
+0 0 11797 0
+S
+#11799
+A dirty Cave~
+This cave is a natural formation.  It is the lair of a beast of some
+kind and the smell for it is very strong.    
+~
+117 1 0 0 0 0
+D5
+~
+rock~
+1 0 11790 19
+S
+$~

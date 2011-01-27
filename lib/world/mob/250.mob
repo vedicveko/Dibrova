@@ -1,0 +1,741 @@
+#25000
+Pon Neroth~
+Pon Neroth~
+Pon Neroth stands here.
+~
+Pon is a middle aged human who doesn't look much like a warrior. Perhaps he
+is a merchant or a well to do peasant.
+
+As you look him over he asks you, "Can you get me a lion mane? My kid has been
+bugging me for one I can make it worth your while."
+~
+73 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 2d3+10
+550 13385
+8 8 1
+Str: 14
+Dex: 5
+Int: 10
+Wis: 21
+Con: 16
+Cha: 6
+Luck: 10
+E
+#25001
+Omel~
+Omel~
+Omel sits here, drinking a local ale.
+~
+Omel is dressed in very expensive but flithy clothing.  He looks like
+he is down on his luck.  If you happen to have the nose of the booger
+beast, feel free to /cwPRESENT/c0 it at any time.    
+~
+11 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 2d3+10
+550 13385
+8 8 1
+Str: 18
+Dex: 9
+Int: 23
+Wis: 23
+Con: 19
+Cha: 12
+Luck: 9
+E
+#25002
+booger beast~
+the booger beast~
+A small fury creature looks at you and says, '/cGeep, eep./c0'
+~
+You spy a small round shaped creature covered in a thick green fur. Cute nose
+you remark to yourself.
+~
+73 0 0 0 1040474368 0 0 0 0 E
+20 8 20 1d1+5000 2d3+10
+550 12653
+8 8 0
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Class: 4
+E
+#25003
+guard duke~
+the Duke's guard~
+The Duke's guard stands here, looking pissed.
+~
+.
+~
+9 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+0 2d3+10
+550 13385
+8 8 1
+Str: 19
+Dex: 15
+Int: 6
+Wis: 22
+Con: 13
+Cha: 5
+Luck: 9
+E
+#25004
+Dworn dwarf~
+Dworn the Dwarf~
+Dworn the Dwarf stands here.
+~
+.
+~
+11 0 0 0 0 0 0 0 0 E
+180 176 -100 1d1+0 12d14+90
+9000 3630480
+8 8 1
+Str: 12
+Dex: 23
+Int: 23
+Wis: 25
+Con: 20
+Cha: 14
+Luck: 7
+E
+#25005
+crazed turkey~
+a crazed turkey~
+A crazed turkey strolls around, creating havoc.
+~
+It's big, it's pissed, and splashing you with drool.
+
+To bad you're outta stuffing.
+~
+34615336 0 0 0 8454272 4194304 0 0 0 E
+1 0 96 1d1+0 1d1+0
+10 4
+8 8 1
+Str: 9
+Dex: 25
+Int: 10
+Wis: 10
+Con: 24
+Cha: 12
+Luck: 5
+Race: 3
+E
+T 26000
+#25006
+gaffer magroin~
+Gaffer MaGroin~
+Gaffer MaGroin stands here, telling a story.
+~
+Ole Gaffer MaGroin is the eldest surviving MaGroin to date.  He passes
+his time telling old stories that put everyone listening to sleep.  
+
+~
+16395 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+0 1d1+0
+10 6
+8 8 1
+Str: 7
+Dex: 7
+Int: 16
+Wis: 25
+Con: 20
+Cha: 8
+Luck: 22
+Class: 15
+E
+#25007
+hermit~
+a Hermit~
+A Hermit stands here, warming himself by the fire.
+~
+He wears old and ragged clothing which hides his face and body except for an occasional horrid glimpse.
+
+As you look him over he says, "Type OKAY to hear my sad tale."
+
+~
+16395 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+1050 37642
+8 8 1
+Str: 8
+Dex: 6
+Int: 25
+Wis: 15
+Con: 9
+Cha: 14
+Luck: 8
+Class: 2
+E
+#25008
+fairy~
+a fairy~
+A fairy flits around, giggling.
+~
+I bet if you had a bottle you could catch her!    
+~
+81993 0 0 0 8388608 0 0 0 0 E
+13 4 48 1d1+0 1d2+8
+275 4462
+8 8 2
+Str: 16
+Dex: 23
+Int: 18
+Wis: 7
+Con: 19
+Cha: 22
+Luck: 10
+Class: 2
+E
+#25009
+fairy~
+a fairy~
+A fairy flits about, giggling.
+~
+If she was about six feet taller she would be pretty hot!
+~
+8331 0 0 0 8390672 0 0 0 0 E
+13 4 48 1d1+0 1d2+8
+275 4462
+8 8 2
+Str: 20
+Dex: 15
+Int: 21
+Wis: 10
+Con: 23
+Cha: 24
+Luck: 16
+Class: 2
+E
+#25010
+gladiator arena Ital Neroth~
+Ital Neroth~
+Ital Neroth grins at you from a few feet away.
+~
+Pon Neroth's older brother isn't quite the push over Pon is.    
+~
+606248 0 0 0 67108864 0 0 0 0 E
+20 8 20 1d1+0 1d4+13
+550 10221
+8 8 1
+Str: 12
+Dex: 23
+Int: 15
+Wis: 22
+Con: 14
+Cha: 22
+Luck: 17
+Class: 9
+E
+#25011
+gladiator arena Sike Sion~
+Sike Sion~
+Sike Sion stands here.
+~
+.
+~
+540712 0 0 0 536870912 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 7
+Str: 7
+Dex: 24
+Int: 25
+Wis: 8
+Con: 10
+Cha: 18
+Luck: 21
+Class: 6
+E
+#25012
+gladiator arena yles ho~
+Yles Ho~
+Yles Ho stands here.
+~
+He's mean and nasty.
+~
+606248 0 0 0 256 0 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+1300 62713
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 21
+Int: 5
+Wis: 17
+Con: 8
+Cha: 9
+Luck: 15
+E
+#25013
+Estiana Inst~
+Estiana Inst~
+Estiana Inst stands here.
+~
+.
+~
+606248 0 0 0 134217728 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+1550 105749
+8 8 2
+BareHandAttack: 8
+Str: 17
+Dex: 14
+Int: 18
+Wis: 23
+Con: 25
+Cha: 17
+Luck: 25
+Class: 8
+E
+#25014
+Renth Ipart~
+Renth Ipart~
+Renth Ipart stands here.
+~
+.
+~
+606248 0 0 0 536870912 1 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+2500 375592
+8 8 1
+BareHandAttack: 5
+Str: 19
+Dex: 5
+Int: 12
+Wis: 25
+Con: 19
+Cha: 15
+Luck: 24
+Class: 7
+E
+#25015
+Wlett Darka~
+Wlett Darka~
+Wlett Darka stands here.
+~
+.
+~
+606248 0 0 0 536870912 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 459090
+8 8 1
+BareHandAttack: 15
+Str: 13
+Dex: 15
+Int: 24
+Wis: 24
+Con: 25
+Cha: 18
+Luck: 13
+Class: 9
+E
+#25016
+Annette Boudeux~
+Annette Boudeux~
+Annette Boudeux stands here.
+~
+.
+~
+606248 0 0 0 256 0 0 0 0 E
+90 66 -40 1d1+0 6d7+60
+3200 681914
+8 8 2
+BareHandAttack: 16
+Str: 22
+Dex: 7
+Int: 13
+Wis: 23
+Con: 20
+Cha: 10
+Luck: 21
+Class: 6
+E
+#25017
+catherine jareth~
+Catherine of Jareth~
+Catherine of Jareth stands here.
+~
+.
+~
+540712 0 0 0 671088640 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 851545
+8 8 2
+BareHandAttack: 16
+Str: 18
+Dex: 22
+Int: 24
+Wis: 9
+Con: 9
+Cha: 21
+Luck: 9
+Class: 8
+E
+#25018
+Tain Vidimous~
+Tain Vidimous~
+Tain Vidimous stands here.
+~
+.
+~
+606248 0 0 0 67371008 0 0 0 0 E
+110 88 -40 1d1+0 11d12+73
+3400 1189235
+8 8 1
+BareHandAttack: 15
+Str: 7
+Dex: 15
+Int: 16
+Wis: 7
+Con: 21
+Cha: 24
+Luck: 7
+Class: 6
+E
+#25019
+Lilly Burress~
+Lilly Burress~
+Lilly Burress stands here.
+~
+.
+~
+606248 0 0 0 537133312 0 0 0 0 E
+120 100 -40 1d1+0 14d14+80
+3500 1549217
+8 8 2
+Str: 25
+Dex: 7
+Int: 24
+Wis: 13
+Con: 5
+Cha: 19
+Luck: 6
+Class: 7
+E
+#25020
+Samhadi~
+Samhadi~
+Samhadi stands here.
+~
+.
+~
+606248 0 0 0 536870916 1 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+3500 1820842
+8 8 1
+Str: 9
+Dex: 10
+Int: 10
+Wis: 16
+Con: 12
+Cha: 18
+Luck: 24
+Class: 8
+E
+#25021
+Able~
+Able~
+Able stands here.
+~
+.
+~
+606248 0 0 0 537133056 1 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 2390867
+8 8 1
+Str: 17
+Dex: 20
+Int: 20
+Wis: 25
+Con: 16
+Cha: 18
+Luck: 19
+Class: 8
+E
+#25022
+brachet clone~
+the Brachet Clone~
+A Brachet Clone stands here.
+~
+.
+~
+606248 0 0 0 537133056 1 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 2850767
+8 8 1
+Str: 20
+Dex: 21
+Int: 6
+Wis: 24
+Con: 5
+Cha: 23
+Luck: 25
+Class: 8
+E
+#25023
+Kaan~
+Kaan~
+Kaan stands here.
+~
+.
+~
+606248 0 0 0 100663316 1 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+5400 3226310
+8 8 1
+Str: 9
+Dex: 15
+Int: 18
+Wis: 13
+Con: 12
+Cha: 17
+Luck: 8
+Class: 8
+E
+#25024
+Vedic Veko~
+Vedic Veko~
+Vedic Veko stands here.
+~
+.
+~
+606264 0 0 0 738459924 0 0 0 0 E
+170 162 -60 1d1+0 25d26+113
+6000 2966907
+8 8 1
+Str: 14
+Dex: 7
+Int: 5
+Wis: 16
+Con: 13
+Cha: 8
+Luck: 20
+Class: 8
+E
+#25025
+dunkan vendor~
+Dunkan, Vendor~
+Dunkan stands here, selling his wares.
+~
+Dunkan is a dwarven monk employed as a vendor by Oddjob.
+~
+188491 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+Str: 19
+Dex: 21
+Int: 16
+Wis: 16
+Con: 25
+Cha: 20
+Luck: 9
+E
+#25026
+arena master~
+the Arena Master~
+The Arena Master waits here.
+~
+He says, 'Type OKAY for instructions.'
+~
+16395 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 4749475
+8 8 1
+Str: 23
+Dex: 15
+Int: 10
+Wis: 24
+Con: 19
+Cha: 17
+Luck: 15
+Class: 9
+E
+#25027
+master arena~
+the Arena Master~
+The Arena Master stands here, waiting for your token.
+~
+He is an old man who has been in charge of this arena for as long as
+anyone can remember.    
+~
+11 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+Str: 22
+Dex: 5
+Int: 9
+Wis: 13
+Con: 20
+Cha: 16
+Luck: 18
+E
+#25028
+hugh ben hadd vendor~
+Brachet's Vendor, Hugh Ben Hadd~
+Hugh Ben Hadd stands here, trying to get you to buy something.
+~
+.
+~
+24587 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+Str: 25
+Dex: 16
+Int: 8
+Wis: 24
+Con: 21
+Cha: 14
+Luck: 15
+E
+#25030
+north country girl~
+the girl from north country~
+The girl from north country stands here.
+~
+Cool! She isn't wearing a bra!
+~
+10 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 4749475
+8 8 2
+Str: 8
+Dex: 5
+Int: 12
+Wis: 14
+Con: 17
+Cha: 12
+Luck: 17
+Class: 15
+E
+#25031
+Eleanor Elesia vendor starlyx~
+Starlyx's Vendor, Eleanor Elesia~
+Eleanor Elesia stands here, selling her wares.
+~
+.
+~
+253963 0 0 0 256 131072 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+0 3799580
+8 8 2
+Str: 23
+Dex: 13
+Int: 9
+Wis: 8
+Con: 24
+Cha: 23
+Luck: 20
+E
+#25032
+test~
+test~
+test
+~
+Nothing.
+test
+~
+10 0 0 0 0 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+10000 4500000
+8 8 2
+Str: 20
+Dex: 6
+Int: 24
+Wis: 13
+Con: 16
+Cha: 5
+Luck: 13
+E
+#25050
+seer blind man~
+the Seer~
+A robed man with cloth over his eyes sits cross-legged upon the ground.
+~
+His face remains impassive, his body motionless.
+He appears to be waiting for something, listening.
+~
+253963 0 0 0 65792 4194304 0 0 500 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+8 8 1
+Str: 10
+Dex: 21
+Int: 15
+Wis: 13
+Con: 18
+Cha: 12
+Luck: 7
+Class: 1
+Race: 7
+E
+#25070
+grid master~
+the Grid Master~
+The Grid Master awaits the receiving of a token.
+~
+Simply type the word "grid" and this man will transfer you bodily to
+the Grid where you might attempt to earn quest points for killing the
+creatures therein.    
+~
+16395 0 0 0 0 0 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4500000
+8 8 1
+Str: 20
+Dex: 16
+Int: 20
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 19
+Class: 1
+Race: 14
+E
+#25098
+reindeer~
+the reindeer~
+A reindeer stand here, foaming at the mouth.
+~
+.
+~
+106 0 0 0 536870912 0 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+3500 1583341
+8 8 0
+Str: 10
+Dex: 8
+Int: 6
+Wis: 24
+Con: 7
+Cha: 22
+Luck: 14
+Class: 9
+E
+#25099
+easter bunny~
+the Easter Bunny~
+The Easter Bunny stands here.
+~
+.
+~
+69736 0 0 0 537133312 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 5699369
+8 8 1
+Str: 24
+Dex: 25
+Int: 23
+Wis: 22
+Con: 9
+Cha: 8
+Luck: 23
+Class: 8
+E
+$

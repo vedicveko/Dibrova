@@ -1,0 +1,351 @@
+#18400
+fountain blood~
+/cwa Marble fountain shooting geysers of blood from the top/c0~
+/crOVER/cbKILL/cw's fountain rests in the center of the room, spouting blood./c0~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 13 1 0 0 0 0
+11111 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18401
+sign~
+/cya sign/c0~
+/cgAn /cyold, battered sign/cg lies on the ground./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+2332 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+Only some of the letters are legible :-
+                _
+      _________| |_________
+     /         | |         \
+    /  CAR.AX  | |  M.STY   \
+    \  M..SI.N | |  SW..P   /
+     \_________| |_________/
+               | |
+
+~
+#18402
+tree opening~
+/cwa colossal tree/c0~
+/cgA /cycolossal tree/cg allows passage through its trunk westward./c0~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tree~
+This enormous tree must be a thousand years old.  Its rough bark looks grey
+and pale and is decorated with scratches and clawmarks. A huge path was cut
+through the tree to allow passage through to the plains beyond the forest.
+~
+#18403
+branch grey long~
+/cwa long, grey branch/c0~
+/cgA long,/cw grey branch/cg rests heavily on the ground./c0~
+~
+4 67108896 0 0 0 16385 0 0 0
+10 3 3 56 0 0 0 0
+8 1542 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+branch grey long~
+It is quite heavy and looks as if it has been dropped from great height.  It
+is long dead and very dry.  Could probably be lighted quite easily.
+~
+#18404
+branch grey long~
+/cwa long, grey branch/c0~
+/cgA long,/cw grey branch/cg rests heavily on the ground./c0~
+~
+4 67108896 0 0 0 16385 0 0 0
+10 3 3 138 0 0 0 0
+9 1522 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+branch grey long~
+It is very heavy and looks as if it has been dropped from great height.  It
+is long and straight and the wood is very hard, still being full of sap.
+Although it does not fit very well in your hand, it could be used as a clumsy
+but very heavy weapon.
+~
+A
+18 -2
+#18405
+branch grey long~
+/cwa long, grey branch/c0~
+/cgA long,/cw grey branch/cg rests heavily on the ground./c0~
+~
+4 67108900 0 0 0 16385 0 0 0
+10 2 2 36 0 0 0 0
+10 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+branch grey long~
+It is very heavy and looks as if it has been dropped from great height.  It
+is somewhat twisted and the hard wood is still full of sap.
+~
+#18406
+toadstool~
+/cwa toadstool/c0~
+/cgA/cw large toadstool/cg grows nearby./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 94 0 0 0 0 0 0
+2 35 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  The top
+surface is covered in a thin layer of transparent slime that emits a weak,
+musty smell.  Not the most delicious thing you have seen.
+~
+#18407
+toadstool~
+/cwa large toadstool/c0~
+/cgA/cw large toadstool/cg grows nearby./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 170 172 0 0 0 0 0
+3 12000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+toadstool~
+It is a large, brown boletus that must weigh nearly five pounds.  It
+has small white spots and the top surface is covered in a thin layer
+of transparent slime that emits a weak, musty smell.  Not the most
+delicious thing you have seen.
+~
+#18408
+coins gold bigpile~
+/cYa big pile of gold coins/c0~
+/cgA /cYbig pile of gold coins/cg is lying here./c0~
+~
+20 0 0 0 0 1 0 0 0
+2200 0 0 0 0 0 0 0
+21 2200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18409
+potion blue royal heal~
+/cba royal blue potion/c0~
+/cgA/cb royal blue potion/cg has been left here./c0~
+~
+10 1 0 0 0 1 0 0 0
+10 28 28 0 0 0 0 0
+2 1900 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion blue~
+It has a nice deep royal blue color and a smells like peppermint.
+~
+#18410
+potion yellow musky strength~
+/cYa musky yellow potion/c0~
+/cgA/cY yellow potion/cg has been left here./c0~
+~
+10 0 0 0 0 1 0 0 0
+10 170 0 0 0 0 0 0
+1 925 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion yellow musky~
+It has a deep yellow color and a strong spicy smell.
+~
+#18411
+shield round large~
+/cya large round shield/c0~
+A large round shield has been left here.~
+~
+9 0 0 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+12 2800 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shield round large~
+It is made from hard wood that has been reinforced with heavy iron bands.
+~
+A
+1 1
+#18412
+crown ironcrown~
+/cwan iron crown/c0~
+/cgAn /cwiron crown/cg rests on the ground./c0~
+~
+8 0 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+9 1311 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crown iron~
+It is a heavy human-sized crown made from solid iron.
+~
+#18413
+sceptre ironscep~
+/cwan iron sceptre/c0~
+/cgAn/cw iron sceptre/cg lies on the ground./c0~
+~
+4 2 0 0 0 16385 0 0 0
+50 5 5 137 0 0 0 0
+7 1541 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sceptre iron~
+It is a heavy sceptre made from solid iron.
+~
+A
+4 2
+#18414
+ring ironring~
+/cwan iron ring/c0~
+/cgAn/cw iron ring/cg has been left here./c0~
+~
+11 2 9 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+2 15706 0 62 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+ring iron~
+It is a quite heavy human-sized ring made from solid iron.  It lacks
+decorations of any kind.
+~
+A
+9 1
+A
+26 4
+A
+18 3
+A
+1 -2
+#18415
+star morning-star~
+/cwthe morning star/c0~
+/cgThe/cw morning star/cg is here collecting dust while it lies on the ground./c0~
+~
+5 667648 0 0 0 8193 0 0 0
+0 0 0 10 0 0 0 0
+8 12100 0 33 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+5 1
+#18416
+shirt scale~
+/cLa black dragon scale shirt/c0~
+/cgA /cLblack dragon scale shirt/cg has been left here./c0~
+~
+9 1581568 3 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+8 46613 0 92 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shirt scale~
+It is a sleeveless shirt made from big, black dragon scales joined
+with silver threads.  Its inside has been made from the soft skin
+on the dragon's belly, making it very comfortable to wear.  The word
+'Isha' has been engraved on one of the scales.
+~
+A
+19 5
+A
+26 2
+A
+18 2
+A
+4 1
+A
+13 -40
+#18417
+skirt scale~
+/cLa black dragon scale skirt/c0~
+/cgA /cLblack dragon scale skirt/cg has been left here./c0~
+~
+9 1049088 3 0 0 33 0 0 0
+6 0 0 0 0 0 0 0
+7 29760 0 93 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+skirt scale~
+It is a short skirt made from big, black dragon scales joined with
+silver threads.  Its inside has been made from the soft skin on the
+dragon's belly, making it very comfortable to wear.  The word 'Isha'
+has been engraved on one of the scales.
+~
+A
+26 3
+A
+19 5
+A
+18 1
+A
+3 -2
+#18418
+cloak black hooded~
+/cLa black, hooded cloak/c0~
+/cgA large,/cL hooded cloak/cg, as dark as the night, has been left here./c0~
+~
+11 1049088 3 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+4 25480 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak black~
+It is a heavy, black cloak with a large hood.  The word 'Isha' is written
+inside it with a silver thread.
+~
+A
+26 2
+A
+19 2
+A
+18 5
+A
+5 -2
+#18419
+belt silver~
+/cwa broad silver belt/c0~
+/cgA broad/cw silver belt/cg has been left here./c0~
+~
+9 1049088 3 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+4 20853 0 92 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+belt silver~
+It is a broad belt made from tiny silver rings woven together.
+~
+A
+1 2
+A
+13 50
+A
+12 25
+A
+3 -2
+#18420
+sword long slender~
+/cwa long, slender sword/c0~
+/cgA long,/cw slender sword/cg lies on the ground./c0~
+~
+5 537088 3 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+6 45119 0 94 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword long slender~
+It is a long, slender sword that seems to be made from silver.  The word
+'Isha' has been engraved on the hilt.
+~
+A
+19 5
+A
+18 3
+A
+2 2
+A
+13 -50
+$~

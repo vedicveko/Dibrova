@@ -1,0 +1,486 @@
+#17400
+cyclops~
+a Cyclops~
+A cyclops is here, waiting to rip you in half.
+~
+You see a mammoth beast before you.  His eyes glow fire red as he
+takes a swing at you!!    
+~
+596076 0 0 0 80 0 268435456 0 -777 E
+180 176 -100 0d0+0 29d29+120
+2700 2640349
+8 8 1
+BareHandAttack: 6
+Str: 16
+Dex: 8
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 13
+Class: 4
+Race: 10
+E
+#17401
+huge cyclops polyphemus~
+Polyphemus~
+Polyphemus, the grand-daddy cyclops is standing here.
+~
+He looks tough, mean, and hungry.  Something tells you he is not
+interested in making new friends.    
+~
+596026 0 0 0 336 0 268435456 0 -666 E
+230 248 -100 0d0+0 52d52+153
+3200 4950000
+8 8 1
+BareHandAttack: 12
+Str: 15
+Dex: 7
+Int: 14
+Wis: 8
+Con: 5
+Cha: 14
+Luck: 15
+Class: 4
+Race: 10
+E
+#17402
+drasmin harpy~
+Drasmin~
+Drasmin, the oldest harpy, is sitting here.
+~
+With beautiful golden bat wings and a long green scale body.  Drasmin
+is one of the most beautiful creatures you have ever seen.    
+~
+661546 0 0 0 336 131074 0 0 -232 E
+210 218 -100 0d0+0 47d48+140
+3000 4302970
+8 8 0
+BareHandAttack: 8
+Str: 9
+Dex: 20
+Int: 10
+Wis: 22
+Con: 6
+Cha: 18
+Luck: 6
+Class: 9
+Race: 7
+E
+#17403
+gargoyle bronze~
+the Bronze Gargoyle~
+The holy Bronze Gargoyle is standing here.
+~
+The grotesque figure before you stares into your eyes with an evil glare.
+~
+133128 0 0 0 2097152 0 0 0 0 E
+125 105 -60 0d0+0 15d15+83
+3500 1041926
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 5
+Int: 19
+Wis: 25
+Con: 23
+Cha: 24
+Luck: 9
+E
+#17404
+gargoyle silver~
+the Silver Gargoyle~
+The holy Silver Gargoyle is standing here.
+~
+Hidden in the shadows, the creature before you waits for your
+challenge.
+~
+2088 0 0 0 256 0 0 0 -32 E
+125 105 -60 0d0+0 15d15+83
+3500 1146118
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 24
+Int: 16
+Wis: 10
+Con: 21
+Cha: 8
+Luck: 13
+E
+#17405
+gargoyle golden~
+the Golden Gargoyle~
+The holy Golden Gargoyle is standing here.
+~
+For centuries, the beast before you has seen weary travellers
+come and go. Some used wisdom in outwitting him. Others chose 
+the hard way. You can see their bones beneath his feet.
+~
+247850 0 0 0 604307712 0 0 0 0 E
+140 124 -60 0d0+0 17d17+93
+4200 1738812
+8 8 0
+BareHandAttack: 10
+Str: 17
+Dex: 19
+Int: 17
+Wis: 19
+Con: 22
+Cha: 8
+Luck: 9
+E
+#17406
+shadow beast~
+a shadow beast~
+A shadow beast is lurking about here.
+~
+The beast before you moves effortlessly among the forest seeking
+out its victims.
+~
+2088 0 0 0 67108864 0 0 0 -943 E
+135 117 -60 0d0+0 16d17+90
+3800 1331241
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 20
+Int: 12
+Wis: 23
+Con: 16
+Cha: 10
+Luck: 16
+E
+#17407
+griffon~
+a griffon~
+A griffon is resting here looking for more prey.
+~
+With huge bird-like talons, the griffons rips its prey apart.
+~
+530472 0 0 0 256 32768 0 0 -344 E
+147 132 -60 0d0+0 18d19+98
+4800 1732879
+8 8 0
+BareHandAttack: 3
+Str: 13
+Dex: 23
+Int: 10
+Wis: 8
+Con: 14
+Cha: 18
+Luck: 9
+E
+#17408
+harpy~
+a harpy~
+A harpy is hovering above the ground here.
+~
+The creature before you is both strange and deadly....BEWARE!!
+
+~
+133288 0 0 0 65536 268435456 0 0 0 E
+125 105 -60 0d0+0 15d15+83
+3500 1041926
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 9
+Int: 7
+Wis: 25
+Con: 19
+Cha: 6
+Luck: 7
+E
+#17409
+poisonous vine~
+a poisonous vine~
+A poisonous vine has grown around a tree here.
+~
+Huge thorny leaves adorn the trunk of the vine like scales.
+~
+16795688 0 0 0 2 0 0 0 0 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+8 8 0
+BareHandAttack: 2
+Str: 8
+Dex: 16
+Int: 18
+Wis: 25
+Con: 10
+Cha: 18
+Luck: 15
+E
+#17410
+hydra~
+the Hydra~
+A multi-headed hydra is hissing about.
+~
+At least 20 snake heads rest atop its gruesome face.
+
+~
+67624 0 0 0 67436800 268468736 16 0 -666 E
+160 149 -60 0d0+0 22d23+106
+5400 2444175
+8 8 0
+BareHandAttack: 10
+Str: 15
+Dex: 17
+Int: 13
+Wis: 16
+Con: 16
+Cha: 9
+Luck: 15
+E
+#17411
+circe~
+Circe~
+Circe, witch of Aeaea stands before you here.
+~
+Her beautiful hair and luscious eyes seem to hypnotize your very soul.
+~
+137224 0 0 0 67109120 0 0 0 0 E
+160 149 -60 0d0+0 22d23+106
+2550 2248641
+8 8 0
+BareHandAttack: 16
+Str: 15
+Dex: 9
+Int: 6
+Wis: 10
+Con: 10
+Cha: 20
+Luck: 17
+E
+#17412
+crystal statue~
+a crystal statue~
+A crystal statue watches over the tower here.
+~
+Like a huge shard of ice, the statue stands before you, gleaming
+in the night moon.
+~
+10280 0 0 0 262402 0 0 0 0 E
+150 136 -60 0d0+0 20d20+100
+5000 1990352
+8 8 0
+BareHandAttack: 7
+Str: 13
+Dex: 9
+Int: 15
+Wis: 15
+Con: 7
+Cha: 16
+Luck: 13
+E
+#17413
+tree sprite~
+a Tree Sprite~
+A Tree Sprite is here.
+~
+You see a beautiful women made completely out of bark.
+~
+16781320 0 0 0 0 0 2 0 0 E
+130 111 -60 0d0+0 15d16+86
+3500 1151521
+8 8 0
+BareHandAttack: 1
+Str: 19
+Dex: 6
+Int: 8
+Wis: 10
+Con: 7
+Cha: 13
+Luck: 20
+E
+#17414
+sailor sailor's ghost~
+a sailor's ghost~
+A sailor's ghost is looking for gold.
+~
+Only a hazy mist of what was once a live man. You can still make out
+the peg for his left leg and the hook on his right hand.
+~
+589832 0 0 0 0 397312 0 0 -22 E
+140 124 -60 0d0+0 17d17+93
+4200 1391050
+8 8 0
+BareHandAttack: 6
+Str: 13
+Dex: 7
+Int: 7
+Wis: 9
+Con: 15
+Cha: 13
+Luck: 17
+E
+#17415
+slith~
+a slith~
+A slith is basking in the sun here.
+~
+The slith appears to be an oversized serpent.
+~
+526376 0 0 0 258 0 0 0 -223 E
+139 122 -60 0d0+0 16d17+92
+4100 1502438
+8 8 0
+BareHandAttack: 4
+Str: 10
+Dex: 18
+Int: 10
+Wis: 20
+Con: 6
+Cha: 14
+Luck: 19
+E
+#17416
+fisherman man~
+a fisherman~
+A fisherman is looking over his catch.
+~
+With his pant's legs rolled up, the fisherman before you is
+standing at the water's edge, waiting for a big fish to take
+his hook.
+~
+1106056 0 0 0 4194304 0 0 0 33 E
+155 143 -60 0d0+0 21d22+103
+5150 1803276
+8 8 0
+BareHandAttack: 13
+Str: 15
+Dex: 13
+Int: 9
+Wis: 13
+Con: 10
+Cha: 7
+Luck: 6
+E
+#17417
+sheep ~
+a sheep~
+A sheep is quietly grazing here.
+~
+Yep, its a sheep alright.
+~
+12 0 0 0 65536 0 0 0 88 E
+121 101 -60 0d0+0 14d14+80
+3500 959001
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 10
+Int: 12
+Wis: 9
+Con: 7
+Cha: 7
+Luck: 5
+E
+#17418
+druid old~
+an old druid~
+An old druid is here mixing potions.
+~
+Soft grey eyes show wisdom and age.
+~
+589832 0 0 0 262400 0 0 0 0 E
+150 136 -60 0d0+0 20d20+100
+5000 1990352
+8 8 1
+BareHandAttack: 7
+Str: 15
+Dex: 10
+Int: 9
+Wis: 10
+Con: 14
+Cha: 7
+Luck: 16
+E
+#17419
+pig~
+a pig~
+A pig is here in the mud.
+~
+Yep, its a pig.
+~
+8 0 0 0 0 0 0 0 66 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 10
+Int: 10
+Wis: 7
+Con: 7
+Cha: 9
+Luck: 13
+E
+#17420
+elven woodsman elf~
+an elven woodsman~
+A little elf is here wandering around.
+~
+The little elf before you quietly hums a tune, as he looks 
+for fire wood and berries.
+~
+540680 0 0 0 256 0 0 0 0 E
+136 119 -60 0d0+0 16d17+90
+3850 1421128
+8 8 0
+BareHandAttack: 9
+Str: 13
+Dex: 10
+Int: 7
+Wis: 13
+Con: 14
+Cha: 9
+Luck: 13
+E
+#17421
+cyclops shepherd~
+the cyclops shepherd~
+A cyclops shepherd is standing here sharpening his scissors.
+~
+   Almost too large to fit in the shack, the sheperd is in a crouched position.
+His woolen tunic has the dull grey color of a sheep.  A long scar arches over
+his eye and stretches down across his left cheek.  Although still towering, he
+appears to be somewhat smaller than the other cyclops around the cliffside.  
+
+~
+737324 0 0 0 256 131072 0 0 0 E
+160 149 -60 0d0+0 22d23+106
+5400 2150874
+8 8 1
+BareHandAttack: 10
+Str: 15
+Dex: 16
+Int: 12
+Wis: 15
+Con: 17
+Cha: 20
+Luck: 21
+E
+#17422
+baby sheep~
+a baby sheep~
+A baby sheep is standing here with a wild look in its eyes.
+~
+The short soft wool on the baby sheep seems to be sheered often.
+It's shiny coat glistens in the afternoon sun.
+~
+8 0 0 0 0 0 0 0 44 E
+120 100 -40 0d0+0 14d14+80
+3500 938920
+8 8 1
+BareHandAttack: 4
+Str: 25
+Dex: 6
+Int: 7
+Wis: 6
+Con: 10
+Cha: 9
+Luck: 17
+E
+$

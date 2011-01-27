@@ -1,0 +1,1007 @@
+#12100
+monster moat~
+the Moat Monster~
+The Moat Monster is swimming here.
+~
+Once a normal man in the employ of the Forest Barondom, he was sent on
+a mission to talk to the High Warlock, who was in self exile.  The
+warlock, annoyed at the interruption, transformed the man into the
+monster you see before you.  The moat monster returned and lived in
+the moat of the Forest Castle, enjoying his new form and the joys of
+pure nature.  It now keeps the castle safe from intruders, such as
+yourself.    
+~
+42 0 0 0 80 0 0 0 -600 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 10
+Str: 7
+Dex: 21
+Int: 23
+Wis: 19
+Con: 24
+Cha: 20
+Luck: 25
+Race: 8
+E
+#12101
+guard sentry ~
+a Sentry~
+A sentry of Forest Castle has been posted here.
+~
+This sentry has been posted here to ensure that no trouble makers like
+yourself will wreak havoc inside Forest Castle.  Wielding a wicked
+looking sword, the guard glares at you menacingly and hefts a shield.
+~
+33560650 0 0 0 80 131072 0 0 300 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 14
+Wis: 13
+Con: 25
+Cha: 7
+Luck: 7
+Class: 4
+Race: 14
+E
+#12102
+guard forest castle~
+the Forest Castle Guard~
+A guard of Forest Castle is keeping watch.
+~
+This guard watches you very carefully, noticing your equipment and
+weapons as you wander about Forest Castle.  He readies his own weapons
+and glare cautiously at you.    
+~
+33642506 0 0 0 80 131072 0 0 400 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 13
+Str: 9
+Dex: 18
+Int: 24
+Wis: 12
+Con: 23
+Cha: 7
+Luck: 7
+Class: 4
+Race: 14
+E
+#12104
+servant~
+the Servant~
+A servant of Forest Castle is here.
+~
+This servant is one of the many indentured erfs, serving tenure by
+working at Forest Castle.  They clean all day and all night, endlessly
+toiling into the wee hours of the morn.  
+~
+1052748 0 0 0 16 0 0 0 200 E
+53 31 -32 0d0+0 5d6+35
+825 116847
+8 8 1
+Str: 23
+Dex: 21
+Int: 13
+Wis: 14
+Con: 9
+Cha: 25
+Luck: 25
+Class: 12
+Race: 14
+E
+#12105
+courtier~
+the Courtier~
+A courtier of Forest Castle is here.
+~
+This courtier is here trying to seem important.  Dressed in the latest
+fashions, he tries to involve himself in the schemes and intrigue that
+permeate the court.  As you try to move past him, he elbows you in the
+ribs and smirks.    
+~
+34244618 0 0 0 33554512 131072 0 0 100 E
+90 66 -40 0d0+0 6d7+60
+1700 450852
+8 8 1
+Str: 25
+Dex: 15
+Int: 23
+Wis: 5
+Con: 7
+Cha: 14
+Luck: 25
+Class: 8
+Race: 14
+E
+#12106
+lady waiting~
+the Lady-in-Waiting~
+A lady in waiting is here.
+~
+This lady in waiting flutters her lashes as you approach her.  She
+curtseys gracefully and smiles winsomely at you.  You can only wonder
+how she can breathe in the gown she is in.    
+~
+34670664 0 0 0 16 0 0 0 400 E
+51 30 -32 0d0+0 5d5+34
+775 105930
+8 8 2
+Str: 22
+Dex: 19
+Int: 13
+Wis: 14
+Con: 10
+Cha: 8
+Luck: 7
+Class: 12
+Race: 14
+E
+#12107
+farmer~
+a Farmer~
+A farmer is here, requesting guards to protect his family.
+~
+This hardworking farmer has traveled a great distance to talk to the
+Baron.  He wishes to request for some troops to help guard his farm
+and family from the demons that attack at night.    
+~
+10 0 0 0 16 0 0 0 500 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 15
+Dex: 25
+Int: 20
+Wis: 23
+Con: 6
+Cha: 17
+Luck: 6
+Class: 12
+Race: 14
+E
+#12108
+Baron Helsing~
+Baron Helsing~
+Baron Helsing is here, sitting upon his throne.
+~
+Baron Helsing is the ruler of the Forest Barondom.  He tries his best
+to rule the Barondom fairly, listening to the advice of his long time
+friend Thomas Grey.  He never wanted to be a ruler, but without a
+choice, he tries to make the best out of the situation.    
+~
+33708042 0 0 0 33554768 131072 0 0 700 E
+100 77 -40 0d0+0 9d10+66
+1950 648796
+8 8 1
+BareHandAttack: 7
+Str: 9
+Dex: 15
+Int: 5
+Wis: 17
+Con: 15
+Cha: 24
+Luck: 15
+Class: 8
+Race: 14
+E
+#12109
+astrologer thomas grey~
+Thomas Grey~
+The Court Astrologer is here, advising the Baron.
+~
+Thomas Grey is the advisor to the Baron.  Unknown, however, is his
+burning ambition to rule the Forest Barondom himself.  He has
+traitored himself over to the forces of evil and secretly hates Baron
+Helsing.    
+~
+34101258 0 0 0 67108944 131072 0 0 -600 E
+90 66 -40 0d0+0 6d7+60
+1700 473394
+8 8 1
+BareHandAttack: 15
+Str: 23
+Dex: 13
+Int: 16
+Wis: 12
+Con: 22
+Cha: 10
+Luck: 7
+Class: 1
+Race: 14
+E
+#12110
+horse~
+a Horse~
+A horse is stabled here.
+~
+Neigh.
+~
+262154 0 0 0 0 0 0 0 0 E
+25 11 0 0d0+0 2d4+12
+0 17197
+8 8 0
+Str: 24
+Dex: 17
+Int: 24
+Wis: 14
+Con: 21
+Cha: 8
+Luck: 16
+Race: 52
+E
+#12111
+rat~
+a Rat~
+A rat is squeaking at you.
+~
+Squeak!
+~
+76 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 15
+Int: 7
+Wis: 7
+Con: 24
+Cha: 6
+Luck: 23
+Race: 1
+E
+#12112
+minister war lord darius~
+Lord Darius~
+Lord Darius, the Minister of War, is here.
+~
+The Minister of War, a hereditary post, is a short fat man in gorgeous
+gravy-stained robes.  Sharp, piggy eyes peer from under plucked
+eyebrows, and his rouged mouth is in a constant scowl.  He has
+traitored over the side of the Demon Prince, and now bars your path,
+ready to attack!    
+~
+34244618 0 0 0 33554512 0 0 0 -400 E
+85 61 -40 0d0+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 14
+Int: 12
+Wis: 5
+Con: 13
+Cha: 6
+Luck: 9
+Class: 4
+Race: 14
+E
+#12113
+guest~
+a Guest~
+A guest of Forest Castle is here.
+~
+This person is a guest of Forest Castle.  As the guest wanders around,
+you wonder if killing guests is allowed here.    
+~
+1054792 0 0 0 16 0 0 0 300 E
+56 34 -32 0d0+0 5d6+37
+900 134460
+8 8 2
+BareHandAttack: 13
+Str: 22
+Dex: 14
+Int: 20
+Wis: 9
+Con: 17
+Cha: 6
+Luck: 7
+Class: 12
+Race: 14
+E
+#12114
+lady cecelia~
+Lady Cecelia~
+Lady Cecelia is here, looking for Gregory.
+~
+Lady Cecelia looks rich, gorgeous, and aristocratic.  Dressed in the
+latest fashions, she can barely walk normally.  Instead, she takes
+tiny, mincing little steps, too constricted in her corset to move
+properly.  While married to Lord Darius, the Minister of War, almost
+everyone knows that she is in love with Gregory, a guardsman.  This is
+fine with Lord Darius, who has married her only for convenience.    
+~
+33573192 0 0 0 80 0 0 0 400 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 2
+Str: 18
+Dex: 21
+Int: 14
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 17
+Race: 14
+E
+#12115
+Gregory~
+Gregory~
+Gregory is here.
+~
+Gregory is a young man in the guard.  Ruggedly handsome and quick of
+wit and sword, he makes for a fine figure of a man.  He is deeply in
+love with Lady Cecelia and will protect her to whatever extent he can.
+~
+34097162 0 0 0 671088720 131072 0 0 600 E
+80 56 -40 0d0+0 6d7+53
+1400 350578
+8 8 1
+BareHandAttack: 14
+Str: 20
+Dex: 12
+Int: 8
+Wis: 6
+Con: 14
+Cha: 13
+Luck: 22
+Class: 4
+Race: 14
+E
+#12116
+sir blays landsgrave~
+Sir Blays~
+Sir Blays is here, conspiring.
+~
+Sir Blays represents the Gold Barons of the Forest Barondom.  He is
+here now to discuss disposing the current Baron and seat Prince Harald
+as a figurehead puppet.  While essential a fair man, he sees a need to
+remove Baron Helsing from power, no matter what the cost.  Fear
+motivates him.    
+~
+34212426 0 0 0 80 131072 0 0 -300 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+Str: 17
+Dex: 5
+Int: 12
+Wis: 20
+Con: 5
+Cha: 17
+Luck: 24
+Class: 9
+Race: 14
+E
+#12117
+sir bedivere landsgrave~
+Sir Bedivere~
+Sir Bedivere is here, conspiring.
+~
+Sir Bedivere represents the Copper Barons of the Forest Barondom.  He
+is a large and unstable man, willing to die for his cause.  He
+conspires with the other Landsgraves and Barons to depose the current
+Baron and place Harald upon the throne as a figurehead puppet.    
+~
+34084874 0 0 0 16 131072 0 0 -300 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+Str: 21
+Dex: 20
+Int: 25
+Wis: 14
+Con: 14
+Cha: 21
+Luck: 5
+Class: 9
+Race: 14
+E
+#12118
+sir guillam landsgrave~
+Sir Guillam~
+Sir Guillam is here, conspiring.
+~
+Sir Guillam is a slight man that represents the Silver Barons.  He is
+also a Bladesmaster, almost unbeatable with a sword in his hand.  He
+conspires to depose of Baron Helsing and install Harald as a
+figurehead puppet.    
+~
+34277386 0 0 0 33554512 131072 0 0 -300 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 5
+Int: 20
+Wis: 21
+Con: 12
+Cha: 20
+Luck: 10
+Class: 4
+Race: 14
+E
+#12119
+lord vivian~
+Lord Vivian~
+Lord Vivian is here.
+~
+Lord Vivian is in charge of the castle guards while the Champion is
+away.  He wishes to become the High Commander of the Guard, and so
+plots with the other conspirators to overthrow Baron Helsing.    
+~
+34314250 0 0 0 67108944 131072 0 0 -300 E
+77 53 -40 0d0+0 6d7+51
+1325 318021
+8 8 1
+Str: 18
+Dex: 12
+Int: 10
+Wis: 20
+Con: 22
+Cha: 8
+Luck: 9
+Class: 4
+Race: 14
+E
+#12120
+lord rakel~
+Lord Rakel~
+Lord Rakel is drinking punch here.
+~
+Lord Rakel is one of the local nobles, a short portly man that enjoys
+drinking a little TOO much.  Right now he is busy guzzling as much
+alcholoic party punch as he can get his pudgy fingers around.    
+~
+33576970 0 0 0 65552 4325376 0 0 300 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+Str: 7
+Dex: 15
+Int: 14
+Wis: 5
+Con: 7
+Cha: 18
+Luck: 20
+Class: 12
+Race: 14
+E
+#12121
+Minister Rabber~
+Minister Rabber~
+Minister Rabber is here, talking animatedly.
+~
+Minister Rabber is a medium sized man with long black hair tied back
+fashionably in a ponytail.  He enjoys all the Royal parties and
+attends each one with a vengeance.    
+~
+33576970 0 0 0 16 131072 0 0 800 E
+70 47 -40 0d0+0 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 7
+Str: 16
+Dex: 24
+Int: 17
+Wis: 13
+Con: 17
+Cha: 19
+Luck: 21
+Race: 14
+E
+#12122
+Duchess Willamsby~
+Duchess Willamsby~
+Duchess Willamsby is here, being fashionable.
+~
+Duchess Willamsby is a haughty, arrogant woman, with dreams of
+grandeur.  As she stalks about the hall, she tries to make sure
+everyone notices the sequinned party gown she has on.    
+~
+33572936 0 0 0 16 131072 0 0 200 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 2
+Str: 5
+Dex: 12
+Int: 10
+Wis: 14
+Con: 13
+Cha: 21
+Luck: 6
+Class: 12
+Race: 14
+E
+#12123
+Lord Mykal~
+Lord Mykal~
+Lord Mykal is here.
+~
+Lord Mykal is a smallish man who enthusiastically attends every social
+function.  He flirts incessantly with all the women, trying to find
+himself a suitable match.    
+~
+34080778 0 0 0 80 131072 0 0 300 E
+70 47 -40 0d0+0 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 11
+Str: 24
+Dex: 23
+Int: 14
+Wis: 6
+Con: 18
+Cha: 10
+Luck: 19
+Class: 3
+Race: 14
+E
+#12124
+count christopher~
+Count Christopher~
+Count Christopher is here.
+~
+Count Christopher is the big talking dreamer with grand ideas.  He
+attends the parties at Forest Castle, hoping to find supporters and
+contributors.  
+~
+34244680 0 0 0 80 131072 0 0 100 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+Str: 8
+Dex: 22
+Int: 13
+Wis: 9
+Con: 18
+Cha: 15
+Luck: 7
+Class: 4
+Race: 14
+E
+#12125
+Lady Flynn~
+Lady Flynn~
+Lady Flynn is dancing here.
+~
+Lady Flynn is the widowed wife of a noble.  She searches for a new
+husband to provide her with more wealth.    
+~
+33560648 0 0 0 16 131072 0 0 400 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 2
+BareHandAttack: 1
+Str: 21
+Dex: 13
+Int: 21
+Wis: 18
+Con: 19
+Cha: 15
+Luck: 6
+Race: 14
+E
+#12126
+captain hawk~
+Captain Hawk~
+Captain Hawk is here, fixing you with his one eyed glare.
+~
+Captain Hawk is a captain of the guard in the city of Dun Pith.  
+Originally from the Forest Barondom, he has returned to take watch
+over this party.  Once a tall, dark, and handsome man, he is now older
+and become fatter.  One of his eyes is missing, covered with a single
+black eyepatch, but the gleam in his remaining eye tells you that you
+better not mess with him.    
+~
+34097224 0 0 0 80 163840 0 0 400 E
+80 56 -40 0d0+0 6d7+53
+1400 333884
+8 8 1
+Str: 22
+Dex: 23
+Int: 16
+Wis: 17
+Con: 21
+Cha: 24
+Luck: 24
+Class: 4
+Race: 14
+E
+#12127
+captain fisher~
+Captain Fisher~
+Captain Fisher is here, watching you closely.
+~
+Captain Fisher is Hawk's wife an a captain of the city guard in Dun
+Pith.  She has accompanied her husband in watching over the party at
+Forest Castle.  She is a tall blonde woman, with striking features and
+a glint in her eyes that makes you shiver.    
+~
+34084936 0 0 0 80 163840 0 0 230 E
+77 53 -40 0d0+0 6d7+51
+1325 302878
+8 8 2
+BareHandAttack: 3
+Str: 13
+Dex: 16
+Int: 9
+Wis: 16
+Con: 8
+Cha: 17
+Luck: 9
+Class: 4
+Race: 14
+E
+#12128
+giles dancer~
+the Dancer~
+Giles Dancer is here, watching you.
+~
+Giles Dancer is one of the rangers of the Forest Barondom.  He is
+Jessica Flint's partner and a Bladesmaster as well.  He is a tad
+shorter than average with a slight build and a flat, bland face that
+would blend in any crowd.    
+~
+34080840 0 0 0 33554512 131072 0 0 800 E
+85 61 -40 0d0+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 23
+Int: 18
+Wis: 6
+Con: 15
+Cha: 6
+Luck: 18
+Class: 4
+Race: 14
+E
+#12129
+jessica flint~
+Jessica Flint~
+Jessica Flint is here, watching you.
+~
+Jessica Flint is a good looking brunette in her late twenties.  She is
+a little over average height, wears her hair cropped like a man's, and
+has a figure that would be considered voluptuous if she wasn't so
+muscular.  She is a trained swordswoman and looks like it.    
+~
+34146392 0 0 0 33554448 131072 0 0 500 E
+78 54 -40 0d0+0 6d7+52
+1350 313009
+8 8 2
+Str: 21
+Dex: 25
+Int: 25
+Wis: 8
+Con: 23
+Cha: 17
+Luck: 16
+Class: 4
+Race: 14
+E
+#12130
+duncan macneil~
+Duncan MacNeil~
+Duncan MacNeil is here.
+~
+Duncan MacNeil is one of the group leaders of the Rangers of the
+Forest Barondom.  He is a tall and muscular man in his late twenties,
+a well trained swordsman who lied about his age to get into the guard.
+~
+34084936 0 0 0 301989904 131072 0 0 600 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+Str: 20
+Dex: 23
+Int: 15
+Wis: 6
+Con: 20
+Cha: 19
+Luck: 17
+Class: 4
+Race: 14
+E
+#12131
+constance~
+Constance~
+Constance is here, watching you.
+~
+Constance is one of the Rangers of the Forest Barondom.  Trained at the
+Academy of the Sisters of the Moon, she is a formidable witch.  She wishes
+to impressed Duncan MacNeil, and he is one of the main reasons why she
+joined the Rangers.  
+~
+34248776 0 0 0 16 131072 0 0 300 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 2
+BareHandAttack: 3
+Str: 8
+Dex: 20
+Int: 20
+Wis: 16
+Con: 13
+Cha: 21
+Luck: 15
+Class: 4
+Race: 14
+E
+#12132
+Duchess Blacker~
+Duchess Blacker~
+Duchess Blacker is here.
+~
+Duchess Blacker is a small woman with not much to do.  In her late
+sixties, she is old and tired.  
+~
+33556552 0 0 0 16 0 0 0 200 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 2
+Str: 6
+Dex: 18
+Int: 14
+Wis: 6
+Con: 6
+Cha: 24
+Luck: 18
+Class: 12
+Race: 14
+E
+#12133
+Lord Birden~
+Lord Birden~
+Lord Birden is here.
+~
+Lord Birden was at one time a Ranger, and one of the best at that.  
+His time with the Rangers has long since passed, though, and he has
+fallen to the duldrous life at court.    
+~
+34084936 0 0 0 16 131072 0 0 200 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 14
+Str: 25
+Dex: 10
+Int: 9
+Wis: 6
+Con: 19
+Cha: 8
+Luck: 25
+Class: 4
+Race: 14
+E
+#12134
+Lord Travest~
+Lord Travest~
+Lord Travest is here.
+~
+Lord Travest was one of the finest Rangers ever to be one of the
+ranks, however his true calling, that of politics, came upon him at an
+early age and he has decided to turn his attention upon that focus
+rather than staying with the Rangers.    
+~
+34330696 0 0 0 33619984 4325376 0 0 700 E
+80 56 -40 0d0+0 6d7+53
+1400 333884
+8 8 1
+Str: 6
+Dex: 19
+Int: 20
+Wis: 9
+Con: 18
+Cha: 6
+Luck: 15
+Class: 4
+Race: 14
+E
+#12135
+Sir Wells~
+Sir Wells~
+Sir Wells is here.
+~
+Sir Wells is as courteous and chivalrous as any man can be, but it is
+all a front.  He curries favor throughout the Barondon in an attempt
+to gain support for himself for a run for his own land.    
+~
+33556552 0 0 0 80 131072 0 0 -500 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 11
+Str: 6
+Dex: 21
+Int: 6
+Wis: 16
+Con: 5
+Cha: 5
+Luck: 21
+Class: 9
+Race: 14
+E
+#12136
+guest royal~
+a royal Guest~
+A royal guest is here.
+~
+This person is a royal guest of the Forest Castle.  
+~
+65608 0 0 0 16 0 0 0 400 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+Str: 13
+Dex: 17
+Int: 6
+Wis: 18
+Con: 10
+Cha: 9
+Luck: 20
+Class: 12
+Race: 14
+E
+#12137
+prince harald~
+Prince Harald~
+Prince Harald is here.
+~
+Prince Harald, like the rest of the Royal family, knows his duty.  
+While sometimes seeming to be a total prick, he does seem to do his
+job well.  He is the oldest son of Baron Helsing, and although he does
+not seem to bear anyone except his younger brother, Rupert, malice, at
+times he seems to have his own agenda.    
+~
+34097224 0 0 0 336 131072 0 0 100 E
+80 56 -40 0d0+0 6d7+53
+1400 367272
+8 8 1
+BareHandAttack: 5
+Str: 19
+Dex: 5
+Int: 7
+Wis: 10
+Con: 23
+Cha: 21
+Luck: 5
+Class: 6
+Race: 14
+E
+#12138
+sir seneschal~
+Sir Seneschal~
+The royal Seneschal is here, exploring.
+~
+The royal Seneschal is in charge of the domestic services of the
+castle.  This old man is currently exploring the lost South Wing of
+Forest Castle.  Haughty and arrogant, he is sure of foot and senses
+and is almost completely oblivious to any threats about him.    
+~
+526408 0 0 0 16 0 0 0 300 E
+65 42 -40 0d0+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 3
+Str: 24
+Dex: 18
+Int: 25
+Wis: 20
+Con: 7
+Cha: 5
+Luck: 16
+Class: 5
+Race: 14
+E
+#12139
+bodeen~
+Bodeen~
+Bodeen is here.
+~
+Bodeen is one of the castle guard, assigned to help the Seneschal
+explore the South Wing.  He is a strong man, willing to help, but is
+also in need of money.    
+~
+530504 0 0 0 1572944 0 0 0 600 E
+70 47 -40 0d0+0 6d6+46
+1150 237528
+8 8 1
+Str: 19
+Dex: 19
+Int: 24
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 22
+Class: 10
+Race: 14
+E
+#12140
+julia princess~
+Princess Julia~
+Princess Julia is here, exploring.
+~
+Princess Julia is a handsome woman, medium height with long blonde
+hair.  She has a strong jaw, set with determination.  Originally from
+Hillsdown, she was sent off to be eaten by a dragon when it was
+learned that she was not a virgin.  Rescued by Prince Rupert, she fell
+in love with him, only to find that she was engaged to Prince Harald.
+~
+247880 0 0 0 80 4194304 0 0 500 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 2
+Str: 12
+Dex: 24
+Int: 16
+Wis: 7
+Con: 16
+Cha: 22
+Luck: 22
+Class: 1
+Race: 14
+E
+#12141
+guard riverhaven westgate~
+Riverhaven WestGate Guard~
+An elite guard stands here protecting the gates of a great city.
+~
+Its face is a blackened skull covered with shards of shriveled,
+rotting flesh.  It has two tiny, glowing orange-red pinpoints for
+eyes.  Its armor is scorched black as if it had been in a fire.  The
+demeanor of the guard is so terrifying that even kender have been
+known to become frightened.    
+~
+170010 0 0 0 33554512 131072 0 0 -1000 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 15
+Int: 7
+Wis: 5
+Con: 12
+Cha: 25
+Luck: 7
+Class: 4
+Race: 29
+E
+#12142
+necrophidius~
+a Necrophidius~
+An undead Necrophidius seems to be lurking about the room!
+~
+It is animated for a single task, such as protection or assassination.
+It has the bleached-white skeleton of a giant snake, a fanged human
+skull, and constantly whirling, milk-white eyes.  Its bones are warm
+to the touch.  It is odorless and absolutely silent as it moves the
+skeleton makes no noise, even when slithering across a floor strewn
+with leaves.    
+~
+84510808 0 0 0 1574992 163850 0 0 -1000 E
+185 183 -100 1d1+0 32d32+123
+0 2831420
+8 8 0
+Str: 23
+Dex: 6
+Int: 6
+Wis: 25
+Con: 9
+Cha: 7
+Luck: 17
+Class: 3
+Race: 49
+E
+$

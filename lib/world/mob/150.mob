@@ -1,0 +1,443 @@
+#15000
+pelican~
+a Pelican~
+A pelican is here, taking a break in the sun.
+~
+Looks like every other pelican you've seen....
+~
+200 0 0 0 64 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 3
+E
+#15001
+otter sea~
+a Sea Otter~
+A sea otter is here, basking in the warmth of the sun.
+~
+Cute little guy, even though he looks a bit slimy.
+~
+204 0 0 0 64 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+6 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#15002
+seagull gull~
+a Seagull~
+A seagull pokes about, looking for scraps.
+~
+Dirty little bird, you wish you had a wrist-rocket (more fun).
+~
+200 0 0 0 64 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 3
+E
+#15003
+lighthouse keeper~
+the Lighthouse Keeper~
+The Lighthouse Keeper looks unsure of what he should do about you being here.
+~
+"/crAll I ever wanted was sexual fulfillment", /c0the Lighthouse Keeper
+explains, "/crI never intended to hurt anyone, it seems that this all
+just got a bit out of hand...."/c0
+~
+202 0 0 0 268435456 0 0 0 -200 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15004
+thing hermaphrodite~
+the Hermaphrodite~
+A strange looking...thing(?) is standing here, no expression on its face at all.
+~
+It looks as it it may be a man, but then, being that it is naked, you
+can see that it is just a bit of both.
+~
+74 0 0 0 0 0 0 0 800 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15005
+woman naked battered~
+the battered Woman~
+A woman lies here on her cot, bruised, naked, and bleeding.
+~
+It looks as if she may have been a very beautiful woman at one time,
+however she is now so covered in dirt and grime, it is hard to tell.
+~
+74 0 0 0 0 0 0 0 800 E
+11 3 56 1d11+250 1d4+5
+225 2119
+5 8 2
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15006
+man tits~
+the Man with Tits~
+A naked man stands, boasting a HUGE set of knockers.
+~
+You're not sure what he is, how he came to be what he is now, and
+you're not sure you want to know.    
+~
+74 0 0 0 0 0 0 0 800 E
+11 3 56 1d11+250 1d4+5
+225 2119
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15007
+perfect companion~
+the Perfect Companion~
+The Perfect Companion lies stretched out on the bed, waiting to give pleasure.
+~
+It is not describable, simply not describable.
+~
+74 0 0 0 16 0 0 0 900 E
+13 4 48 1d13+350 1d5+6
+275 3245
+6 6 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15008
+wife lighthouse keeper's~
+the Lighthouse Keeper's Wife~
+The Lighthouse Keeper's wife is here, sewing and humming a happy song.
+~
+Such a kind looking lady, I'm sure she'd let you stay to dinner if you
+had the urge.    
+~
+74 0 0 0 0 0 0 0 900 E
+16 5 36 1d16+600 1d6+8
+350 5510
+6 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15009
+dog max~
+Max~
+Max, the Lighthouse Keeper's dog rests before the fire.
+~
+Mostly mutt, but very friendly, this black dog looks like the stereo-
+typical house-dog.
+~
+528458 0 0 0 0 0 0 0 900 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 1
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#15010
+daughter lighthouse keeper's~
+the Lighthouse Keeper's Daughter~
+The Lighthouse Keeper's Daughter is here, playing house.
+~
+Although she looks as if she must be at least fifteen or sixteen years
+old, she still seems quite content with her dolls.  What a nice girl!
+~
+74 0 0 0 0 0 0 0 900 E
+15 5 40 1d15+500 1d5+7
+325 4674
+6 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15011
+takker man~
+Takker~
+Old man Takker sits here, fishing away his life.
+~
+It is said by many that Old Man Takker hasn't left this spot for over
+twenty.  His disciples bring him any food he needs, and they say he
+never sleeps - just fishes.    
+~
+16458 0 0 0 65792 4194304 0 0 900 E
+30 14 -20 1d30+2250 3d4+15
+1050 30113
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 8
+Race: 14
+E
+#15012
+fisherman disciple~
+Takker's Disciple~
+A fisherman sits here, trying to imitate Takker as best he can.
+~
+Man! This guy smells bad!
+~
+74 0 0 0 0 0 0 0 900 E
+19 7 24 1d19+900 2d3+9
+500 8541
+6 6 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#15013
+kracken~
+the Kracken~
+With a tremendous blast of force, the Kracken lunges up from the water! 
+~
+This creature is larger than a city block and older than the Gods
+themselves.    
+~
+67340298 0 0 0 591952 4194304 0 0 -900 E
+55 33 -32 1d55+6600 4d5+27
+3437 128422
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+#15040
+small spectre~
+a small Spectre~
+A small spectre floats in and out of the walls.
+~
+What seems to be a schimmering life force floats in front of you.
+~
+237676 0 0 0 8388612 0 0 0 -300 E
+17 6 32 0d0+0 1d6+8
+0 6432
+8 8 1
+Race: 34
+E
+#15041
+crusader~
+the Crusader~
+A crusader waits for his king.
+~
+A man dressed in armor, and white and red clothing stands here.
+~
+26 0 0 0 0 0 0 0 600 E
+27 12 -8 0d0+0 2d6+13
+900 20926
+8 8 1
+BareHandAttack: 3
+Race: 14
+E
+#15042
+thief~
+the Thief~
+A sneaky thief is standing here.
+~
+You think you see something hiding in the shadows, but when you look
+it takes off and is no longer there.
+~
+588 0 0 0 1572864 0 0 0 -300 E
+23 9 8 0d0+0 2d4+11
+700 13903
+8 8 1
+BareHandAttack: 11
+Class: 3
+Race: 14
+E
+#15043
+medium spectre~
+a medium Spectre~
+A good sized spectre floats here.
+~
+A white light fades in and out of existence.
+~
+76 0 0 0 8388672 0 0 0 -400 E
+22 9 12 0d0+0 2d3+11
+0 12413
+8 8 1
+BareHandAttack: 16
+Race: 34
+E
+#15044
+white knight~
+a White Knight~
+A white knight contradicts himself.
+~
+This is one of the White Knights of the Castle Blackwind.
+~
+6216 0 0 0 0 0 0 0 700 E
+29 13 -16 0d0+0 3d4+14
+1000 25109
+8 8 1
+BareHandAttack: 3
+Class: 6
+Race: 14
+E
+#15045
+darkman~
+the Darkman~
+A darkman runs in the shadows.
+~
+A man dressed with a long black cloaks disappears in front of you.
+~
+16456 0 0 0 524288 0 0 0 -300 E
+30 14 -20 0d0+0 3d4+15
+1050 27376
+8 8 1
+BareHandAttack: 13
+Race: 14
+E
+#15046
+angel witch~
+the Angel Witch~
+An angel witch screeches loudly.
+~
+The Angel Witch is clad with death. Beware of it.
+~
+522 0 0 0 142622720 0 0 0 -700 E
+30 14 -20 0d0+0 3d4+15
+1050 28744
+8 8 1
+BareHandAttack: 15
+Class: 1
+Race: 8
+E
+#15047
+man oval headed small~
+the Diamondhead~
+A small, oval-headed man laughs silently.
+~
+The Diamondhead sings silently to its self its favorite melodies it
+wrote centuries ago.    
+~
+76 0 0 0 0 0 0 0 200 E
+18 7 28 0d0+0 1d3+12
+450 7441
+8 8 1
+Race: 33
+E
+#15048
+dark knight~
+the Dark Knight~
+A Dark Knight glares at you.
+~
+The Dark Knight of the Castle stands before you with a crooked face.
+~
+526920 0 0 0 536870912 0 0 0 -700 E
+29 13 -16 0d0+0 3d4+14
+1000 25109
+8 8 1
+BareHandAttack: 3
+Class: 9
+Race: 14
+E
+#15049
+kaylar~
+Kaylar~
+Kaylar sits on his throne.
+~
+Kaylar has been a slave to the wicked Archvile for years.  Its best
+that you do not get in his way.    
+~
+245786 0 0 0 570490880 4194816 0 0 -600 E
+35 17 -20 0d0+0 3d6+17
+1200 40559
+8 8 1
+Race: 14
+E
+#15050
+guard~
+the Castle Guard~
+The castle guard is tired of his duty.
+~
+A guard yawns out loud, obviously exhausted from his duty.
+~
+526346 0 0 0 16 0 0 0 100 E
+25 11 0 0d0+0 2d4+12
+800 17197
+8 8 1
+BareHandAttack: 3
+Class: 10
+Race: 14
+E
+#15051
+killing joker~
+the Killing Joker~
+The killing joker taunts you.
+~
+The court jester laughs at you and grins showing his razor sharp teeth.
+~
+530442 0 0 0 16 0 0 0 -600 E
+28 13 -12 0d0+0 2d6+14
+950 22959
+8 8 1
+BareHandAttack: 4
+Class: 3
+Race: 41
+E
+#15099
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 1
+E
+$

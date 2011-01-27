@@ -1,0 +1,412 @@
+#10100
+lord castle~
+the Lord of the Castle~
+The Lord gives you a sloppy smile and nods your way.
+~
+He is obviously quite drunk most of his waking moments - and rightly
+so.  Being married to the dreadful wench of a Lady must be quite
+demanding on one's nerves.    
+~
+526408 0 0 0 0 0 0 0 600 E
+27 12 -8 1d1+0 2d4+18
+200 20926
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 19
+Int: 25
+Wis: 7
+Con: 18
+Cha: 24
+Luck: 6
+Class: 4
+Race: 14
+E
+#10101
+lady castle~
+the Lady of the Castle~
+The Lady narrows here eyes at you, wondering who you are.
+~
+She seems to come to some sort of decision about you, one that must
+have been favorable on your part, because she suddenly dons a bright
+smile and comes walking your way.    
+~
+2120 0 0 0 0 0 0 0 600 E
+25 11 0 1d1+0 2d3+16
+200 17197
+8 8 2
+Str: 25
+Dex: 9
+Int: 22
+Wis: 20
+Con: 8
+Cha: 18
+Luck: 12
+Race: 14
+E
+#10102
+maiden handmaiden~
+the Lady's Handmaiden~
+The Lady's handmaiden fusses about the castle, making sure all is perfect.
+~
+She is a young and beautiful thing, handpicked by the Lady for her
+aesthetic pleasantness.  Her manners in court are unmatched and yet
+she knows her place enough to never overstep her bounds.    
+~
+72 0 0 0 0 0 0 0 780 E
+24 10 4 1d1+0 2d3+16
+150 15497
+8 8 2
+Str: 22
+Dex: 8
+Int: 8
+Wis: 21
+Con: 13
+Cha: 9
+Class: 12
+Race: 14
+E
+#10103
+servant manservant~
+the Lord's Manservant~
+The Lord's manservant regards you solemnly.
+~
+He regards you with calm, clear eyes that reflect almost nothing at
+all within them.  His only desire seems to be to serve his Lord.    
+~
+72 0 0 0 0 0 0 0 200 E
+24 10 4 1d1+0 2d3+16
+150 15497
+8 8 1
+Str: 9
+Dex: 12
+Int: 9
+Wis: 12
+Con: 17
+Cha: 6
+Luck: 25
+Class: 12
+Race: 14
+E
+#10104
+brother drunk~
+the Lady's drunk Brother~
+The Lady's drunk brother leans over a windowledge, his feet almost leaving the floor.
+~
+He is obviously a guest-turned-permanent-resident.  The fact that the
+Lady and her husband throw a nonstop party appeals greatly to this
+man.  Coupled with the fact that everything is free plus whatever gold
+he can sponge from his sister, he has it made.    
+~
+10 0 0 0 0 0 0 0 100 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 1
+Str: 24
+Dex: 9
+Int: 16
+Con: 9
+Cha: 10
+Luck: 24
+Race: 14
+E
+#10105
+brother knight lord~
+the Lord's Brother~
+A very militaristic man stands rigidly while the gala goes on around him.
+~
+He is abviously unused to the informalities of court life and spends
+most of his time in the field, doing whatever it is that knights do
+best.    
+~
+6154 0 0 0 0 0 0 0 700 E
+26 11 -4 1d1+0 2d3+17
+200 19006
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 14
+Int: 9
+Wis: 25
+Con: 12
+Cha: 13
+Luck: 10
+Race: 14
+E
+#10106
+contingent member knight lesser soldier~
+a Soldier~
+A soldier from the Lord's brother's contingent beds down in the hay.
+~
+He seems more than content to relax for this short duration, even
+though it be out in this barn rather than indoors where it is much
+more festive.    
+~
+4106 0 0 0 0 0 0 0 500 E
+22 9 12 1d1+0 1d4+14
+150 12413
+5 5 1
+BareHandAttack: 14
+Str: 10
+Dex: 25
+Int: 23
+Wis: 24
+Con: 6
+Cha: 19
+Luck: 24
+Race: 14
+E
+#10107
+impatient soldier~
+an impatient Soldier~
+An impatient soldier paces back and forth, waiting for his captain.
+~
+Some of his other men may feel comfortable standing still, but this
+one is ready to get back out into action.    
+~
+4106 0 0 0 0 0 0 0 800 E
+24 10 4 1d1+0 2d3+16
+150 15497
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 17
+Int: 7
+Wis: 22
+Con: 20
+Cha: 5
+Luck: 15
+Race: 14
+E
+#10108
+soldier bored~
+a bored Soldier~
+A bored soldier leans against a wood post in the barn, waiting for something to happen.
+~
+He stares off into space with a vacant look, idly picking at the hay
+beneath him.    
+~
+4106 0 0 0 0 0 0 0 300 E
+23 9 8 1d1+0 1d4+15
+150 13903
+8 8 1
+Str: 19
+Dex: 16
+Int: 14
+Wis: 22
+Con: 10
+Cha: 10
+Luck: 7
+Race: 14
+E
+#10109
+lady in waiting~
+a Lady-in-Waiting~
+A lady-in-waiting fusses and fritters about the Lady's bedroom, tidying up.
+~
+This one is a neat freak, for sure.  She seems almost on the verge of
+tears when she finds the slightest smudge of dirt anywhere.    
+~
+10 0 0 0 0 0 0 0 600 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 2
+Dex: 12
+Int: 9
+Con: 23
+Cha: 12
+Luck: 22
+Class: 12
+Race: 14
+E
+#10110
+lady in waiting~
+a Lady-in-Waiting~
+A lady-in-waiting wanders about the keep, searching for her Lady.
+~
+After all, what good is a lady-in-waiting if she can't wait on her Lady?
+~
+72 0 0 0 0 0 0 0 500 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 2
+Str: 15
+Dex: 7
+Wis: 23
+Con: 16
+Cha: 20
+Luck: 18
+Class: 12
+Race: 14
+E
+#10111
+scholar visiting~
+a Visiting Scholar~
+A visiting scholar rests from a long day in the Grand Ballroom.
+~
+The man is obviously not one for the party life and hasn't the stamina
+that the Lord and Lady possess for drinking and carousing.    
+~
+10 0 0 0 0 0 0 0 700 E
+23 9 8 1d1+0 1d4+15
+150 13903
+8 8 1
+Str: 25
+Dex: 21
+Int: 15
+Wis: 19
+Con: 9
+Cha: 7
+Luck: 8
+Race: 14
+E
+#10112
+whore~
+a Whore~
+A scantily-clad woman pats the drunk man's back soothingly, giving you a wink.
+~
+She is obviously hired company for the awful man who probably is
+leaving most of his dinner on the ground outside the castle at this
+very moment.    
+~
+10 0 0 0 0 0 0 0 300 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 2
+Str: 15
+Dex: 15
+Int: 17
+Wis: 9
+Con: 18
+Cha: 17
+Luck: 21
+Race: 14
+E
+#10113
+entertainer man~
+an Entertainer~
+A man with a bowed fiddle plays with vigor for the room.
+~
+He is older, with crows feet in the corners of his eyes that he
+scrunches up everytime he gets going really well into an overture.  
+~
+10 0 0 0 0 0 0 0 500 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 1
+Str: 20
+Dex: 21
+Int: 23
+Wis: 10
+Con: 23
+Cha: 20
+Luck: 8
+Race: 14
+E
+#10114
+cook~
+a Cook~
+A cook works about the kitchen, keeping the food fresh and tasty.
+~
+He and his co-workers look more than pleased to be doing to be doing
+what they are for the Lord and Lady.  They must be well paid.    
+~
+4106 0 0 0 0 0 0 0 500 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 7
+Str: 13
+Dex: 13
+Int: 19
+Wis: 20
+Con: 21
+Cha: 23
+Luck: 9
+Race: 14
+E
+#10115
+stable boy~
+the Stable Boy~
+The stable boy smiles up at you, looking to take your horse.
+~
+He says nothing, only looks you dead in the eye and smiles.  Its
+actually sort of annoying.    
+~
+10 0 0 0 0 0 0 0 900 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 1
+Str: 14
+Dex: 22
+Int: 7
+Con: 12
+Cha: 19
+Luck: 18
+Race: 14
+E
+#10116
+salesman ale~
+an Ale Salesman~
+An ale salesman lies stretched out on the bed, catching some Z's.
+~
+He must have had himself a few too many tastes of his own product last
+night and now has to sleep it off.    
+~
+10 0 0 0 0 0 0 0 500 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 1
+Str: 6
+Int: 20
+Wis: 15
+Con: 10
+Cha: 21
+Luck: 16
+Race: 14
+E
+#10117
+alanis sorceress~
+Alanis~
+Alanis the sorceress waits patiently for the Lady to return.
+~
+It seems the Lady has been dabbling in magic of late and has asked
+Alanis to join the staff permanently - unbeknownst to the Lord.    
+~
+22538 0 0 0 65536 4194304 0 0 400 E
+24 10 4 1d1+0 2d3+16
+150 15497
+8 8 2
+BareHandAttack: 15
+Str: 5
+Dex: 13
+Int: 14
+Wis: 16
+Con: 7
+Cha: 14
+Luck: 18
+Class: 1
+Race: 14
+E
+#10118
+felice healer~
+Felice~
+Felice, the castle healer, relaxes on the bed, reading a thick book.
+~
+He smiles at you as you enter, inviting you to come sit near him and talk.
+~
+6154 0 0 0 0 0 0 0 900 E
+24 10 4 1d1+0 2d3+16
+150 15497
+5 5 1
+Str: 14
+Dex: 24
+Int: 22
+Wis: 19
+Con: 18
+Cha: 7
+Luck: 15
+Class: 2
+Race: 14
+E
+$

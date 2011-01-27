@@ -1,0 +1,1933 @@
+0
+"TEST SPELL"
+Dummy entry.
+#
+ABOMINATION
+
+Usage: pray 'abomination' <victim>
+
+Cleric, level 100
+
+This is a high-level damage prayer which does heavy damage to the victim.
+Damage inflicted is 15d15 + caster's level.
+#
+"ACID STREAM"
+
+Usage: cast 'acid stream' <victim>
+
+Dark Knight, level 90
+
+A dark knight uses this spell to shoot a stream of lethal acid at their
+opponent, spraying them and doing great damage.
+Damage inflicted is (10d10 + (caster's level * 1.5))
+#
+AFTERLIFE
+
+Usage: pray 'afterlife'
+
+Saint prayer only.
+
+By praying to the Gods for afterlife, saints can elude the loss of both
+equipment and experience in death. Saints will be taken to the Temple in
+Midgaard at the time of death with all stats (hps, mana, mv, vim, qi) set
+to '1', however no experience will be lost and all eq will remain with
+them.
+
+Saints will lose this affection if their alignment drops below 0.
+#
+AGITATION
+
+Usage       : cast 'agitation' <victim>
+Accumulative: no
+Duration    : 4 hours + 1 hours per 10 caster levels
+Level	    : Undecided
+
+  This spell cause extreme iratation and itching in the victim. The result
+of this iratation is a -5 to hitroll and damroll and a +10 to AC for the
+duration of the spell.
+#
+"ANCIENT PROTECTION"
+
+Usage       : chant 'ancient protection' (self)
+Accumulative: no
+Duration    : 4 hours
+Level       : Monk level 60
+
+This is a protective ward endowed by the monk immortals which will absorb
+one half all damage done to the wearer.
+#
+"ANIMATE CORPSE"
+
+Usage       : cast 'animate corpse' (corpse)
+Accumulative: -
+Duration    : Instantaneous
+Level       : Dark Knight level 75
+
+You may animate the corpses of mobs (not players), creating undead minions
+to help you in your struggles. You may only have as many as two minions at
+a time, their level will vary depending on your own.
+
+See also: PET, CHARM, FOLLOW
+#
+"ANGEL BREATH"
+
+Usage: pray 'angels breath' <victim>
+
+Cleric, level 130
+
+The essence of the angels can be imbibed by the holy, transforming the
+energy into high-level damage which the cleric expels through their mouth.
+Damage inflicted is 20d16 + caster's level.
+#
+ARMOR
+
+Usage       : cast 'armor' [target]
+Accumulative: No
+Duration    : 24 Hours
+Level       : Mage level 4, Cleric level 1.
+
+The Armor spell will improve your AC by 10.
+
+See also: AC
+#
+AWE
+
+Usage: awe <target>
+
+Level 22 monk
+
+Will decrease the target's hitroll by 2 when successfully used. If target's
+level is over 100, will decrease hitrol by 3.
+#
+BALANCE
+
+Usage: chant 'balance'
+
+Monk, level 110
+
+Monks use this chant in order to, for a short duration, maintain a
+perfect balance, staving of all attacks such as BASH, SWEEP, and TRIP.
+
+See also: BASH, SWEEP, TRIP
+#
+BALEFIRE
+
+Usage: cast 'balefire' <target>
+
+Sorceror, level 120
+
+Sorcerors throw a magical wall of ultra-hot flame at their victim, cauing
+serious damage.
+Damage inflicted is 20d20 + caster's level.
+#
+"BLACK BREATH"
+
+Usage       : cast 'black breath' [target]
+Accumulative: No
+Duration    : Several hours
+Level       : Dark Knight level 23.
+
+The target of Black Breath will be weakened and made clumsy by its affect 
+making the target a much less dangerous opponent in battle.
+#
+"BLACK DART"
+
+Usage       : cast 'black dart' [target]
+Accumulative: No
+Duration    : The caster level.
+Level       : Dark Knight level 11.
+
+The black dart will harm, weaken and poison its victim.
+Damage inflicted is 2d10 + 5.
+
+#
+"BLADES OF LIGHT"
+
+Usage: cast 'blades of light' <victim>
+
+Paladin, level 100
+
+With this spell, paladins can conjure into being twin blades of pure light
+and energy which will do their victim heavy damage.
+Damage inflicted is 15d15 + caster's level.
+#
+"BLADED FURY"
+
+Usage: fury <victim>
+
+Paladin, level 130
+
+A paladin can learn to use his weapon with lightning speed, moving faster
+than his or her opponent can keep up with, slashing and stabbing the
+victim many times in one round.
+
+SLASH, STAB, or PIERCE WEAPON only with this skill.
+
+#
+BLAZEWARD
+
+Blazeward is a spell that can only be had through the potions sold in the
+Quest Shop or by receiving one of the potions through winning a quest.
+
+Blazeward offers stronger protection than SANCTUARY, protection that cannot
+be found anywhere else save for INDESTRUCTABLE AURA.
+
+See Also: SANCTUARY, INDESTRUCTABLE AURA
+#
+BLESSING
+
+Usage       : cast 'bless' <victim | object>
+Accumulative: No
+Duration    : 6 Hours, permanent for objects.
+Level       : Cleric level 12.
+
+Bless on a victim will improve the victims saving throw versus spells
+by 1, and furthermore improve the hitroll by 3.
+
+Bless on an item currently has no defined action.  It is only possible
+to bless non-evil items, and the object blessed may weigh no more
+than five pounds per level of caster. 
+#
+BLINDNESS
+
+Usage       : cast 'blindness' <victim>
+Accumulative: No
+Duration    : 2 hours.
+Level       : Mage level 9, Cleric level 29.
+
+Blindness will blind a victim failing its saving throw.
+A blinded person will have -4 penalty to both hitroll and AC.
+
+See also: AC
+#
+BLUR
+
+Usage       : cast 'blur'
+Accumulative: NO
+Duration    : Level / 5
+Level       : Mage level 35
+
+Blur will give the caster the appearance of indistinction, making it
+difficult for their attackers to see them clearly. It will set a -15 AC
+bonus, and is castable only upon one's self.
+#
+BREATHE
+
+Breathe is a spell only found in potions, scrolls, staves and wands.
+It gives the ability to breathe underwater in areas of the game that
+are under water (such as in a lake or under the sea).
+
+Tritons have a permanent affection of breathe, being children of the sea.
+#
+BREW
+
+Usage: brew (ITEM_LIQ_CONTAINER) 'spell'
+
+Mage only.
+
+Allows for any spell which the caster has the ability to cast to be brewed
+into a potion.
+
+There is a chance of failure for brew, causing the liquid to explode and
+do damage to the brewer.
+
+Spells that may be brewed:
+
+Cure Light
+Cure Blind
+Cure Critic
+Detect Poison
+Remove Poison
+Strength
+Word of Recall
+Fly
+Waterwalk
+Sanctuary
+Heal
+Infravision
+Detect Invisible
+Detect Magic
+
+See also: SCRIBE
+#
+"BURNING HANDS"
+
+Usage       : cast 'burning hands' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 5.
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the chill touch spell.
+Damage inflicted is 2d6 + 2.
+
+See also: "CHILL TOUCH"
+#
+"CALL LIGHTNING"
+
+Usage       : cast 'call lightning' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 35.
+Save        : Versus spell for half damage.
+
+This spell will use the "force of nature" to make a lightning
+strike the victim.  It is therefore only possible to call lightning
+outside, and it has to be raining (or worse).
+Damage inflicted is 6d11 + 12.
+
+See also: "CONTROL WEATHER", WEATHER
+#
+CAST
+
+Usage: cast '<spell name>' [target]
+
+For "magical" people.  If you want to throw a spell at someone or something.
+
+Example:
+
+  > cast 'burning hands' <player>
+  Note that the name of the spell must be enclosed by "'"s.
+
+See also: help on each individual spell:
+
+Examples:
+
+  > help cure ligh
+  > help ventri
+  > help energy drain
+#
+"CAUSE LIGHT"
+
+Usage       : cast 'cause light' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Dark knight, level 1.
+
+Causes light wounds upon the victim.
+Damage inflicted is (1d2 + (caster's level / 2))
+#
+"CAUSE CRITICAL"
+
+Usage       : cast 'cause critical' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Dark knight, level 15.
+
+Causes critical wounds upon the victim.
+Damage inflicted is (2d4 + (caster's level / 4))
+#
+"CAUSTIC RAIN"
+
+Usage: cast 'caustic rain' <victim>
+
+Sorceror, level 90
+
+Sorcerors summon a lethal rain with this spell, causing serious damage to
+one who receives the brunt of the brief downpour.
+Damage inflicted is (10d23 + (caster's level * 1.5))
+#
+"CHAMPIONS STRENGTH" "CHAMPION STRENGTH"
+
+Usage       : cast 'champion' target
+Accumulative: NO
+Duration    : 5 hours.
+Level       : Paladin, level 47
+
+Gives a bonus of +3 to STR and +3 to DAMROLL.
+#
+"CHAOS ARMOR"
+
+Usage       : cast 'chaos armor' target
+Accumulative: No
+Duration    : 8 hours.
+Level       : Dark knight, level 17.
+
+Chaos armor is magical protection by the gods of evil.  The gods armor
+lowers the targets armor class drastically and the gods favor greatly
+assists the damage the wearor can inflict.
+
+See also: DAMROLL
+#
+"CHARM PERSON"
+
+Usage       : cast 'charm person' <victim>
+Accumulative: No
+Duration    : (432/Intelligence points of person) hours
+Level       : Mage level 16.
+
+Is is not possible to charm anyone that is already charmed, if
+you're charmed yourself, or if the person is higher level than
+yourself.  The person will get a saving throw versus "paralysation".
+
+A charmed person will follow you, and not be able to attack you, you
+can order the charmed person using the order command.
+
+See also: FOLLOW, ORDER
+#
+"CHILL TOUCH"
+
+Usage       : cast 'chill touch' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 3.
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the magic missile spell.
+A victim failing its saving throw will get its strength
+reduced by one.
+
+See also: "MAGIC MISSILE"
+#
+CHOIR
+
+Usage: pray 'choir'
+
+Saint prayer only.
+
+Using choir, saints sing out to the Gods, begging for safe passage to one
+of the many Saint Rooms scattered througout the world. This prayer can
+only be used in combat and is quite costly in mana.
+
+Saints must have a positive alignment in order to use this prayer.
+#
+CHOP
+
+Usage: chop <victim>
+
+Level 55 monk.
+
+Will do (qi / 3) damage with a two round wait state.
+#
+"CLEAR SKY"
+
+Class: Druid Remorts Only
+
+Usage: cast 'clear sky'
+
+This spell will part a cloudy sky allowing for Druid spells that require
+certian elements of the heavens to be present to be cast.
+
+#
+COLORSPRAY "COLOR SPRAY"
+
+Usage       : cast 'color spray' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 11.
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the lightning bolt spell.
+
+See also: "LIGHTNING BOLT"
+
+For help on actual color, see:  ANSI
+#
+"CONE OF COLD"
+
+Usage       : cast 'cone of cold' <victim>
+Accumulative: No
+Duration    : 1 hour
+Level       : Sorceror level 135
+
+This spell, used as a defensive maneuver in combat situations, can only
+be used on other players and only if both players are above level 100.
+The victim will remain encased in a solid chunk of ice, unable to move
+or speak for the duration of the spell.
+
+This spell is designed as a spell to enable mages to flee from pkill
+situations that are 'sure death' - as most pkill situations are for
+mages. Players who are encased in ice cannot be harmed, as the ice 
+deflects any attempts at harm.
+#
+CONFUSE
+
+Usage       : cast 'confuse'
+Accumulative: no
+Duration    : instantaneous
+Level       : sorceror level 85
+
+Confuse disorient all mobs or players in a room for 4 rounds of
+fighting. If a player or mob has already been confused, they cannot
+be confused again.
+
+This spell is designed for use in rooms with more than one victim
+in it that might assist or aggro if a fight is initiated, giving the
+attacker time to do ample damage to his or her first victim.
+#
+"CONTROL WEATHER"
+
+Usage       : cast 'control weather' <'better' | 'worse'>
+Accumulative: Yes
+Duration    : -
+Level       : Cleric level 17.
+
+This spell will change the "course" of the current weather.
+
+Example:
+
+  > cast 'control wea' worse
+#
+"FIND FAMILIAR"
+
+Usage       : cast 'find familiar'
+Accumulative: no
+Duration    : -
+Level       : sorceror level 8
+
+Find famliar allows the caster to summon a creature, usually a cat or an
+owl. The caster can see through the summoned creatures eyes and can manipulate
+it completely for the duration that the caster maintains contact.
+
+Using the RETURN command will allow the caster to return to his or her own
+body, severing the link between the creature and the caster.
+
+See also: INVISIBLE STALKER
+#
+"FOOD"
+
+Usage       : cast 'create food'
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 5.
+
+This spell instantly creates a fresh waybread.  The waybread will be
+filling for the next (5+level) hours, up to a maximum of 24 hours.
+
+See also: "WATER"
+#
+"WATER"
+
+Usage       : cast 'create water' <drink container>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Cleric level 11.
+
+Expect disastrous results if cast upon a drink container which contains
+another liquid than water.  Empty or water containers will be filled
+depending on the level of the caster.
+
+Double amount of water will be created if it is raining (or worse).
+
+See also: "FOOD", "CREATE SPRING"
+#
+"CREATE SPRING"
+
+Usage       : cast 'create spring'
+
+Creates a magical spring of clear water in the room.
+
+See also: "CREATE WATER"
+#
+"CRY FOR JUSTICE"
+
+Usage: cast 'cry for justice' <victim>
+
+Paladin, level 150
+
+A paladin who has reached the highest status within the paladin order can
+be trained by his or her guildmaster to learn a particular cry to the Gods
+that can be heard and answered, causing a paladin's enemy great pain.
+#
+"CURE ALL"
+
+Usage       : cast 'cure all' <target>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Level 50 mage
+
+This spell casts a healing surge of movement and hitpoints which will
+fully heal any player.
+
+See also: "CURE LIGHT" "CURE CRITIC"
+#
+"CURE BLINDNESS"
+
+Usage       : cast 'cure blind' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Cleric level 6.
+
+This spell will cure a person blinded by the "blindness" spell, it
+can not remove blindness caused by for example cursed items.
+#
+"CURE CRITIC"
+
+Usage       : cast 'cure critic' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 33.
+
+This spell cures 3d8+3 hitpoints of damage.
+#
+"CURE LIGHT"
+
+Usage       : cast 'cure light' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 3.
+
+Cures minor wounds and scratches.
+#
+CURSE
+
+Usage       : cast 'curse' <victim | object>
+Accumulative: Yes
+Duration    : 7 Days, permanent on objects.
+Level       : Mage level 14.
+
+Curse cast on a person that fails the saving throw, will reduce their
+hitroll and damage roll both by one.  It will also reduce the saving
+throw versus paralysation by one. 
+
+When cast upon an object, the object will become undropable.
+#
+DARKWARD
+
+Usage       : cast 'darkward' <target>
+Accumulative: no
+Duration    : 4 hrs
+Level       : Dark Knight level 95
+
+This is the highest level of protection afforded to the dark knight class.
+It is not as powerful as sanctuary, but is a very close rival in terms of
+protection.
+#
+DEFLECTION
+
+Usage       : pray 'deflection'
+Accumulative: no
+Duration    : 6 hrs
+Level       : Cleric level 85
+
+Castable only upon themselves, clerics can use this prayer to surround
+themselves with a deflective shield that - 70% of the time - will deflect
+all damage-based magic that is cast upon them back upon the caster.
+#
+"DEMON FIRE" DEMONFIRE
+
+Usage       : cast 'demon fire' [target]
+Accumulative: No
+Duration    : (n/a)
+Level       : Dark Knight level 37.
+
+Much like a fireball, the demon fire flies from the caster.  Spiritual
+energies of evil power the blast.
+
+#
+"DETECT ALIGNMENT"
+
+Usage       : cast 'detect alignment'
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+Level       : Cleric level 4.
+
+Allows the caster to detect the alignment of those around them.
+Evil will show as a red aura, good in a blue aura.
+
+See also: "DETECT INVISIBILITY"
+#
+"DETECT INVISIBILITY"
+
+Usage       : cast 'detect invisibility' [self]
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level/4
+Level       : Mage level 2, Cleric level 6.
+
+This spell enables you to see invisible items and players.
+#
+"DETECT MAGIC"
+
+Usage       : cast 'detect magic' [self]
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+Level       : Mage level 2.
+
+This spell will let you see the magical aura surrounding magical
+objects.
+#
+"DETECT POISON"
+
+Usage       : cast 'detect poison' <victim | food | drink>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Mage level 10, Cleric level 8.
+
+Cast on food or drinks (drink containers) you will be able to
+sense if it is poisoned.
+
+Cast on a person you will be able to see if that person is
+poisoned.
+#
+"DIMENSIONAL DOOR" "DIMENSION DOOR"
+
+Usage       : cast 'dimensional door' <target>
+Accumulative: No
+Duration    : Disappears upon use of portal
+Level       : Mage level 70
+
+This spell will create a door in the fabric of existance which allows
+you to create a gateway to a specific mob or player.
+
+See also: PORTAL
+#
+DISARM
+
+Usage: disarm <victim>
+
+Level 17, Gladiator only
+
+This skill will allow you to knock the weapon out of your opponent's
+hands. If this skills is used upon you, a higher DEXTERITY will help
+you to hold onto your weapon.
+#
+"DISPEL EVIL"
+
+Usage       : cast 'dispel evil' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 32.
+Save        : Special
+
+This spell will only affect evil creatures.  An evil person of level
+equal or less than caster will suffer up to 54 damage points.
+
+If the victim is of good alignment, they will not be harmed at all.
+
+See also: DISPEL GOOD
+#
+"DISPEL GOOD"
+
+Usage       : cast 'dispel good' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 32.
+Save        : Special
+
+This spell will only affect good creatures.  A good person of level
+equal or less than caster will suffer up to 54 damage points.
+
+If the victim is of evil alignment, they will not be harmed at all.
+
+See also: DISPEL EVIL
+#
+"DIVINE SHIELD"
+
+Usage: pray 'divine shield'
+
+Saint only prayer.
+
+Saints have the ability to appear harmless, even friendly, to those around
+them, causing those that would normally be aggressive to refrain from attack.
+A saint with a negative alignment will lose this affection immediately.
+#
+DROWSE
+
+Usage       : pray 'drowse' <victim>
+Accumulative: No
+Duration    : 2 - 5 hours
+Level       : Cleric level 117
+
+Intended for use in pkill situations, this prayer only works on players.
+Victims of this spell will lose 5 hitroll, 10 on their AC and have their
+movement costs doubled.
+#
+DUMBNESS
+
+Usage       : cast 'dumbness' <victim>
+Accumulative: No
+Duration    : 5 hrs
+Level       : Cleric level 2
+
+This spell causes the victim to lose 3 points off of their INT.
+#
+EARTHQUAKE
+
+Usage       : cast 'earthquake'
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 18.
+Save        : -
+
+This spell will damage everybody except the caster by
+1d8+level_of_caster hitpoints.
+#
+"ELEMENTAL BURST"
+
+Usage: pray 'elemental burst' <victim>
+
+Cleric, level 47
+
+The cleric is able to send an elemental burst at an opponent, dealing heavy
+damage with this prayer.
+#
+"ENCHANT WEAPON"
+
+Usage       : cast 'enchant weapon' <weapon>
+Accumulative: No
+Duration    : Permanent
+Level       : Mage level 127.
+
+This spell will enchant non-magical (non-modifying) weapons only.
+By non-modifying weapons we refer to weapons that might alter any
+ability such as for example damage.  The only way to know if a weapon
+is suitable for enchantment is to fully identify it.
+
+The enchantment will modify the weapon as:
+
+    Level    Hit Roll    Damage
+
+     0..17     +1         +1
+    18..19     +2         +1
+    20..20+    +2         +2
+
+#
+ENLIGHTENMENT
+
+Usage: pray 'enlightenment'
+
+Saint prayer only.
+
+Saints use enlightentment from the Gods as a battle benediction. Any saint with
+the affection given by a successful praying for Enlightenment will do 1.25 the
+amount of normal damage done.
+#
+ENTANGLE
+
+Usage	    : cast 'entagle' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Druid level 100
+
+This spell will cause your victim to become entagled in weeds, thus making them
+unable to move.
+
+#
+"ENERGY DRAIN"
+
+Usage       : cast 'energy drain' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 23.
+Save        : Versus spell for half damage.
+
+This spell does not give much damage, but victims failing their
+saving throws will loose up to 40,000 XP points.  You will gain
+a quarter of this XP.
+
+Beware that this spell is evil.
+#
+ETHEREAL
+
+Usage: pray 'ethereal'
+
+Saint only prayer.
+
+Saints can use ethereal to pass themselves directly through doors, making
+most any place in the world barrier free to them. The mana cost is high, and
+the duration is short.
+
+#
+EXORCISM
+
+Usage: pray 'exorcism' victim
+
+Saint only prayer.
+
+Saints can exorcise the evil from a victim's body with this prayer, causing
+the victim to gradually become positively aligned. The only drawback is that
+the victim tends to suffer great pain in the process, a process that usually
+ends up killing the victim.
+
+The damage done to the victim is based solely upon the saint's alignment
+against the victim's alignment.
+
+Saints must be positively aligned to use this prayer.
+#
+EXTERMINATE
+
+Usage: cast 'exterminate' <victim>
+
+Dark Knight, level 150
+
+Dark Knights hold this as their most powerful of offensives, calling forth
+a host of demons which are unmatched in strength, size and bloodlust.
+#
+"EYES OF THE DEAD"
+
+Usage       : cast 'eyes of the dead' <target>
+Accumulative: No
+Duration    : Several hours
+Level       : Dark knight, level 21.
+
+The spell lets the target see invisible things and see in the dark
+for its duration.  The eyes of the dead also bring a significant 
+bonus to hitroll.
+#
+FELLBLADE
+
+Usage: cast 'fellblade' <victim>
+
+Dark Knight, level 140
+
+Dark Knights can call into being a blackened sword of evil which will not
+only do major damage to their victim, but also guide the Dark Knight's hand
+to a killing blow.
+#
+"FIND CENTER"
+
+Usage       : chant 'find center'
+Accumulative: no
+Level       : Monk level 27
+
+Will increase STRENGTH by 2 and DEXTERITY by 2 for a length of 4 hours.
+
+Must be in resting position to use this chant.
+#
+"FINGER OF DEATH"
+
+Usage: cast 'finger of death' <victim>
+
+Dark Knight, level 110
+
+Dark Knights are able to stop another being's heart with a simple gesture.
+They point their right pointer finger at a being and speak the words.
+
+This spell has no affect on undead.
+#
+FIREBALL
+
+Usage       : cast 'fireball' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 27.
+Save        : Versus spell for half damage.
+
+Fireball is a straight damage spell which hurls a ball of flame at the 
+victim.
+
+See also: "COLOR SPRAY"
+#
+"FIRE BLADE"
+
+Usage: cast 'fire blade' <victim>
+
+Dark Knight, level 80
+
+Dark knights can conjure into being a blade of flame which will attack
+an opponent for one round of battle.
+#
+"FIRE SHIELD" FIRESHIELD
+
+Usage       : cast 'fire shield' target
+Accumulative: No
+Duration    : 6 hours.
+Level       : Sorcerer level 47, Dark knight level 31
+
+This spell creates a protective shroud of fire around the target.  The
+shroud lowers AC by 15 points and applies a small bonus to the hosts
+damroll.  Occasionally, the fire shield will flare up during battle 
+sending a ball of fire into the body of the opponent.
+
+#
+FIRESTORM
+
+Usage       : cast 'firestorm' [victim]
+Accumulative: No
+Duration    : (n/a)
+Level       : Dark Knight level 41, Sorcerer level 49
+
+Opens a channel of firey rain from the heavens upon the victim.
+#
+"FLAMES OF PURIFICATION"
+
+Usage: cast 'flames of purification' <victim>
+
+Paladin, level 110
+
+When a paladin deems another player or a mob unworthy of living in the Light,
+the paladin may try and purge their soul with Flames of Purification. Most
+often, this is a very painful process.
+
+#
+FLAMESTRIKE
+
+Usage: cast 'flamestrike' <victim>
+
+Dark Knight, level 100
+
+Dark knights can conjure sheets of flame for the energy in the air about
+them, weaving the evil forces they possess into fire which will scorch
+their opponents, doing them heavy damage.
+#
+"FLYING FIST"
+
+Usage: cast 'flying fist' <victim>
+
+Sorceror, level 71
+
+Sorcerors can conjure an invisible fist into being that will slam into
+their opponent, doing large amounts of damage.
+#
+"FROST BLADE"
+
+Usage: cast 'frost blade' <victim>
+
+Dark Knight, level 70
+
+Dark knights can conjure a cold blade of icy frost which will attack an
+opponent for one round of battle.
+#
+"GODS FURY"
+
+Usage: pray 'gods fury' <victim>
+
+Cleric, level 120
+
+Gods Fury is the prayer that will invoke the wrath of the cleric's token
+deity upon their opponent.
+
+Gods Fury will do anywhere between 62 and 91 points of damage.
+
+#
+"GROUP ARMOR"
+
+Usage       : cast 'group armor'
+Accumulative: NO
+Duration    :
+Level       : Cleric level 29
+
+Casts ARMOR upon every member of the group.
+#
+"GROUP CURE LIGHT"
+
+Usage       : cast 'group cure light'
+Accumulative: (n/a)
+Duration    : Immediately
+Level       : Cleric Level 38
+
+Casts CURE LIGHT WOUNDS on every member of the group.
+#
+GROWTH
+
+Usage: cast 'growth'
+
+Sorceror, level 90
+
+Sorcerors can increase their height and weight with this spell.
+By using this spell, a player's hitroll, damroll and strength
+will also increase.
+#
+"GUIDING LIGHT"
+
+Usage: pray 'guiding light'
+
+Cleric, level 40
+
+This is an instant teleportation back to where a cleric entered the game.
+#
+"HAIL OF STONE"
+
+Usage: cast 'hail of stone' <victim>
+
+Sorceror, level 61
+
+Hails of stones rain down on the victim, causing them great pain.
+#
+"HAND OF BALANCE"
+
+Cleric, level 77
+
+Usage: pray 'hand of balance' <victim>
+
+This prayer unleashes straight damage onto the victim, doing damage
+based on the proximity of levels between the cleric and the victim.
+At like levels damage will be relatively high, if the cleric is a
+higher level than the victim, damage will be less, and if the cleric
+is lower level than the victim damage will increase incrementally.
+#
+HARM
+
+Usage       : cast 'harm' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 24.
+Save        : Versus spell for half damage.
+
+This is a straight damage prayer that will do anywhere between 10 and 14
+points of damage to the victim.
+#
+HASTE
+
+Usage       : caste 'haste' <target>
+Accumulative: No
+Duration    : 
+Level       : Cleric level 45
+
+This spell set the recipient's hitroll back by -2, but increases their
+speed to allow them an extra attack.
+#
+HEAL
+
+Usage       : cast 'heal' <victim>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Cleric level 69
+
+Heal will heal hitpoints for a person, except 1d4 points.
+Maximum 100 points can be healed.  A victim who is blinded will also
+be cured by the heal spell.
+
+See also: "CURE BLINDNESS"
+#
+"HEALING HAND"
+
+Usage       : chant 'healing hand' <victim>
+Accumulative: no
+Duration    : instantaneous
+Level       : monk level 16
+
+Healing hand will heal 5d6 plus the chanter's level divided by four of 
+hit points. This chant costs vim which varies depending on the chater's
+level.
+#
+"HEAVENS BEAM"
+
+Usage: pray 'heavens beam' <victim>
+
+Saint only prayer.
+
+Heavens beam is a straight-out offensive prayer for saints. It will cause
+damage to the victim based on the saint's spellpower and tier and also has
+the chance of not only blinding the victim, but stunning them for random
+amounts of combat rounds.
+
+Saints cannot use this prayer unless they are positively aligned.
+#
+"HEAVY SKIN"
+
+Usage       : pray 'heavy skin' <target>
+Accumulative: no
+Duration    : 3 - 25 hrs (dependant on level)
+Level       : Cleric, level 1
+
+Heavy skin creates a hardening shell of extra skin on a person's body,
+giving them a bonus of -10 on their AC.
+#
+HELLFIRE
+
+Usage: cast 'hellfire' <victim>
+
+Dark Knight, level 60
+
+Dark knights can take from the very fires of Hell, bringing them into
+being during fights and burning their opponent(s).
+#
+"HOLY FURY"
+
+Usage       : cast 'holy fury'
+Accumulative: No
+Duration    : (Level/2)
+Level       : Paladin level 35 
+
+Adds an extra attack (like HASTE without the HITROLL penalty)
+
+See also: HASTE
+#
+"HOLY MACE"
+
+cast 'holy mace' <target>
+
+Level 51 paladin.
+
+Causes a mace of light to come into existance, brought forth by the paladin's
+enormous faith in religion. Mace will smite for one round of damage to the
+paladin's opponent.
+
+Causes (4d8+4) / 2 damage.
+#
+"HOLY WATER"
+
+Usage: pray 'holy water' <container>
+
+Saint prayer only.
+
+Through their purity and closeness to the Gods, saints can give their
+benediction to liquids, causing the liquids to take on properties which
+give any who drink it a more poisitive alignment.
+
+This prayer can only be used on liquids in drink containers, as fountains
+hold far too much liquid to be blessed in such a way.
+#
+HOLOCAUST
+
+Usage: cast 'holocaust' victim
+
+Paladin, level 140
+
+This spell is a straight damage spell which does more than considerable
+damage to the victim.
+#
+IDENTIFY
+
+Usage       : cast 'identify' <target>
+Accumulative: No
+Duration    : Instantaneous
+Level       : 54 Sorcerer
+
+Identify offers the caster the stats of the specified target.  Identify is a
+spell in the Sorcerer class, but identify is more commonly seen in identify
+scrolls.
+
+Identify scrolls are available for purchase in the Midgaard magic shop.
+
+See also: RECITE, SCROLLS, SCRIBE
+#
+IMMOLATE
+
+Usage: cast 'immolate' <victim>
+
+Sorceror, level 140
+
+When a sorceror reaches this level of casting ability, he or she is able to 
+cause great pain to a victim simply with a look and a gesture. This is the 
+spell that does this for them.
+#
+"INDESTRUCTABLE AURA"
+
+Indesctructable aura is a spell that can only be had through potions sold
+in the quest shop or by winning a quest that gives the potion as an award.
+
+Indestructable aura is the strongest protection in the game, no exceptions.
+#
+INFRAVISION
+
+Usage       : cast 'infravision'
+Accumulative: Yes (Duration)
+Duration    : 12 hours + level
+Level       : Mage level 3, Cleric level 27.
+
+Allows the caster to detect the heat given off by objects giving them
+the ability to have much better vision in dark conditions.
+
+See also: "DETECT INVISIBILITY"
+#
+"INVISIBLE STALKER"
+
+Usage       : cast 'invisible stalker'
+Accumulative: no
+Duration    : -
+Level       : sorceror level 12
+
+Invisible stalker allows the caster to summon an interloper. The caster 
+can see through the summoned creature's eyes and can manipulate
+it completely for the duration that the caster maintains contact.
+
+Using the RETURN command will allow the caster to return to his or her own
+body, severing the link between the creature and the caster.
+
+See also: FIND FAMILIAR
+#
+INVISIBILITY
+
+Usage       : cast 'invisibility' <victim | object>
+Accumulative: Yes (Duration)
+Duration    : 24 hours, permanent on objects.
+Level       : Mage level 4.
+
+Makes the target of the spell invisible to everyone except those who have
+the "detect invisibility" spell.
+
+Attacking while invisible will immediately break the spell.
+
+See also: "DETECT INVISIBILITY"
+#
+KICKFLIP
+
+Usage: kickflip <victim>
+
+Level 40 monk skill
+
+This skill does the same amount of damage as a the KICK skill, however it
+also adds the possibility that the victim will get knocked down when a kick
+is landed.
+#
+KNOCKOUT
+
+Usage: knockout <victim>
+
+Gladiator only.
+
+Knock a victim out using a BLUDGEONING weapon only.
+#
+"LAY HANDS"
+
+Usage       : cast 'lay hands' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Paladin level 11
+
+Offensive spell does 4d10 + 4 + (level/2) damage to victim.
+#
+"LEND HEALTH"
+
+Usage       : chant 'land health' <target>
+Accumulative: yes
+Duration    : Instantaneous
+Level       : Level 33 monk
+
+This will allow a monk to give of his / her essence of life to another
+player, strengthening the player with 6d3 hitpoints per chant. The hitpoints
+lose 20% in the transfer, so if the player receives 10 from the monk, the
+monk will lose 12.
+#
+"LIFT CURSE"
+
+Usage       : pray 'lift curse' <target>
+Accumulative: no
+Duration    : Instantaneous
+Level       : Cleric, level 22
+
+This prayer allows a cleric to remove any curse that may be upon themselves
+or on other people who may be in need of help in removing a curse.
+#
+"LIGHTNING BOLT"
+
+Usage       : cast 'lightning bolt' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 16.
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the shocking grasp spell.
+
+See also: "SHOCKING GRASP"
+#
+"LOCATE OBJECT"
+
+Usage       : cast 'locate object' <object>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 43.
+
+If possible you will know exactly where an object is, or the
+name of the person using it.  If more than one object by the
+same name exists, you will get a listing of several objects.
+The maximum number of objects you can simultaneously locate is
+your level divided by 2.
+#
+"MAGIC MISSILE"
+
+Usage       : cast 'magic missile' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 1.
+Save        : Versus spell for half damage.
+
+Causes a bolt of magical energy to be thrown from the casters hands at the
+victim.
+
+#
+"MAJOR STRENGTH"
+
+Usage       : cast 'major strength' <target>
+Accumulative: no
+Duration    : (level / 2) + 4
+Level       : Sorceror, level 101
+
+This is the strongest of the strength spells, giving a bonus of +5 STR
+for its duration. This spell can be cast on other people.
+#
+"MINOR STRENGTH"
+
+Usage       : cast 'minor strength' <target>
+Accumulative: no
+Duration    : (level / 2) + 4
+Level       : Sorceror, level 11
+
+This is the weakest of the strength spells, giving a bonus of +2 STR
+for its duration. This spell can be cast on other people.
+#
+"MANA ECONOMY"
+
+Usage       : cast 'mana economy'
+Accumulative: no
+Duration    : 4 hours
+Level       : Mage, level 102
+
+This spell sets an affection upon the mage which reduces mana usage by half.
+#
+"MENTAL BARRIER"
+
+Usage       : chant 'mental barrier' <self>
+Accumulative: no
+Duration    : 4d2 + 1
+Level       : Monk, level 120
+
+Converts negative energy from your attacker into hitpoints for you.
+
+High WISDOM will help to increase the frequency of this influx during battle.
+#
+"METEOR SWARM"
+
+Usage: cast 'meteor swarm' <victim>
+
+Sorceror, level 110
+
+Sorcerors can summon into being a swarm of small meteors to slam into an
+opponent, casuing heavy damage.
+
+#
+"MIST FORM"
+
+Usage       : cast 'mist form'
+Accumulative: No
+Duration    : 1 hour
+Level       : 127 Sorceror
+
+Mist form will grant you insubstantibility, making it so that you get a
+-10 bonus to your AC as well as allowing you to travel under doors without
+need of opening or even unlocking them.
+#
+OMM
+
+Usage       : chant 'omm'
+Accumulative: no
+Duration    : 2d(level / 8) hours
+Level       : 42 monk
+
+Increases hitroll by 2 or 3. Higher wisdom helps to attain the higher amount.
+#
+PACIFY
+
+Level 70, cleric
+
+Usage: pray 'pacify'
+
+This will cause all fighting within the room that the cleric is standing to
+cease completely.
+#
+"PHANTOM ARMOR"
+
+Usage       : cast 'phantom armor'
+Accumulative: No
+Duration    : 2 hrs
+Level       : Dark Knight level 32
+
+Applies a bonus of -10 to AC.
+#
+PLAGUE
+
+Usage: pray 'plague' <victim>
+
+Clerics, level 140
+
+Clerics can a plague of fury to be visited upon their foes, causing major
+damage with this prayer.
+
+#
+POISON
+
+Usage       : cast 'poison' <victim | food | drink>
+Accumulative: Yes on persons.
+Duration    : Level hours, or permanent on food and drinks.
+Level       : Cleric Level 8, Mage level 14.
+
+Casting poison on food or drink (containers) will poison it.  Eating
+poisoned food/drinks will poison the person eating or drinking.
+
+A person who is poisoned will suffer damage every hour, lose strength, and
+gain less points than usual.
+
+See also: "REMOVE POISON", "DETECT POISON"
+#
+"POWER SLASH"
+
+Usage: powerslash <victim>
+
+Paladin, level 75
+
+With this skill, paladins can land a well-placed blow using a SLASH weapon
+only, laying their opponent open and doing great damage.
+#
+"PRISMASTIC BEAM"
+
+Usage: cast 'prismatic beam' <victim>
+
+Paladin, level 120
+
+With this spell, paladins can shoot a multicolored ray of beam at their
+opponents which will both damage and blind them.
+#
+"PROTECTION FROM EVIL"
+
+Usage       : cast 'protection from evil' [self]
+Accumulative: Yes (Duration)
+Duration    : 24 hours
+Level       : Cleric level 21, Monk level 19.
+
+The meaning of this spell is not yet fully defined.
+#
+"PROTECTION FROM GOOD"
+
+Usage       : cast 'protection from good' [self]
+Accumulative: Yes (Duration)
+Duration    : 24 hours
+Level       : Dark knight level 5.
+#
+"PSIONIC DRAIN"
+
+Usage       : chant 'psionic drain' <victim>
+Accumulative: no
+Level       : Monk level 46
+
+Does damage to victim (5d2+5), causes SLOW to victim for two hours, and
+sets a -3 to hitroll for two hours.
+
+See also: SLOW, HITROLL
+#
+"PSYCHIC FURY"
+
+Usage: chant 'psychic fury' <victim>
+
+Monk, level 148
+
+The power of the mind is a strong force, one that is dangerously strong
+the monks of the land. When a monk has achieved near-mastery of their
+art, they can unleash the power of their mind upon an opponent, dealing
+extreme mental damage and many times death.
+
+#
+"RAY OF LIGHT"
+
+Usage: cast 'ray of light' <target>
+
+Level 61 paladin.
+
+Causes (4d10+10) / 2 damage to the victim.
+
+#
+REFRESH
+
+Usage       : cast 'refresh' <target>
+Accumulative: (n/a)
+Duration    : Instantaneous
+Level       : Cleric level 16
+
+Adds 25 to target's movement points.
+#
+REGENERATION
+
+Usage       : cast 'regeneration' <target>
+
+This spell will cause the target to begin receiving an additional
+1.5x their normal amount per tick for hitpoints, mana, and mv.
+#
+"REMOVE CURSE"
+
+Usage       : cast 'remove curse' <victim | object>
+Accumulative: No
+Duration    : Instantaneous
+Level       : Cleric level 26.
+
+Will remove a curse on carried objects or any persons in the room.
+#
+"REMOVE POISON"
+
+Usage       : pray 'remove poison' <victim | food | drink> 
+Accumulative: No
+Duration    : Instantaneous
+Level       : Cleric level 10.
+
+Will remove the affects of poison from a victim or an object.
+
+See also: POISON
+#
+"RETRIEVE CORPSE"
+
+Usage: pray 'retrieve corpse' (name)
+
+Level 135 Cleric.
+
+This prayer allows clerics to conjure a corpse into the same room that they
+are in. Mana cost is high, as this is a very difficult and complex prayer.
+#
+ROUNDHOUSE
+
+Usage: roundhouse <victim>
+
+Level 24 monk
+
+Does level / 2 damage to victim.
+#
+"SACRED SHIELD"
+
+Usage       : pray 'sacred shield' (self)
+Accumulative: no
+Duration    : 4 hours
+Level       : Cleric level 62
+
+Will absorb 1/4 of all damage done for duration of prayer. 
+#
+SANCTUARY
+
+Usage       : cast 'sanctuary' [self]
+Accumulative: Yes (Duration)
+Duration    : 4 hours
+Level       : Cleric level 75.
+
+When protected by sanctuary you will only receive 1/2 the normal damage
+caused by a particular blow.
+
+See also: ARMOR, BLESSING
+#
+SCORCH
+
+Usage: cast 'scorch' <victim>
+
+Sorceror, level 130
+
+Sorcerors can use this spell to burn opponents with a very specifically
+aimed burst of flame.
+#
+SCOURGE
+
+Usage: cast 'scourge' <victim>
+
+Dark Knight, level 120
+
+Dark Knights can at times summon hosts of demons to do their bidding. In
+this case, the pack of demons they summon is called 'the Scourge', a pack
+of bloodthirsty demons who will almost always come gladly to feast upon
+the victim of their master's choice.
+#
+SCRIBE RUNE
+
+Usage:  scribe (ITEM_PAPER) 'prayer'
+Or for runes: scribe (ITEM_RUNE)
+
+Cleric only.
+
+Allows you to inscribe a special RUNE item with the location you are standing in
+letting you recall back to that location by reciting the rune. Runes are
+rentable. Be warned though, inscribing runes is a dangerious process and failure
+to scribe the rune properly can cause it to explode.
+
+Scribing can also be used to inscribe blank scrolls into magical scrolls
+which cast particular prayers. The cleric who is scribing the scroll must
+already know the prayer in order to be able to successfully scribe the
+scroll.
+
+Scrolls are !RENT and when transfering magic onto the paper there is a
+chance of failure, causing an explosion which can do damage to the scriber.
+
+Prayers that may be scribed:
+
+Cure Light
+Cure Critical
+Sanctuary
+Heal
+Blessing
+Heavy Skin
+Refresh
+Cure Blind
+#
+"SECOND SIGHT"
+
+Cleric level 7
+
+Usage: pray 'second sight'
+
+This prayer will enable the cleric to see in another dimension of visual
+focus, that of the invisible creatures and objects that are all around us.
+#
+"SEAL PERSON"
+
+Dark Knight, level 105
+
+Usage: cast 'seal person' <victim>
+
+This is a rather nasty little spell that will effectively seal a person to
+a room, making it so that they cannot leave until the affects of the spell
+wear off. Fleeing is also impossible with the SEALED affect on.
+#
+"SHIELD PUNCH"
+
+Usage: punch <victim>
+
+Level 20 paladin.
+
+Successful hit does 3x shield weight.
+#
+"SHOCKING GRASP"
+
+Usage       : cast 'shocking grasp' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 7.
+Save        : Versus spell for half damage.
+
+This spell is more powerful than the burning hands spell.
+
+See also: "BURNING HANDS"
+#
+"SHOCK SPHERE"
+
+Usage: cast 'shock sphere' <victim>
+
+Sorceror, level 81
+
+A sphere of energy is called into being, which the sorceror can hurl at
+their opponents, doing them great damage.
+#
+"SENSE LIFE"
+
+Usage       : cast 'sense life'
+Accumulative: Yes (Duration)
+Duration    : Level hours.
+Level       : Cleric level 5, Mage level 17.
+
+Allows the caster to sense the presence of a player or monster in the
+room which is hiding.  The true identity will remain hidden however.
+Invisible persons are also considered hidden.
+
+See also: HIDE
+#
+"SENSE SPAWN"
+
+Usage       : cast 'sense spawn'
+Accumulative: n/a
+Duration    : instantaneous
+Level       : Druid level 90
+
+This is a very unique spell given only to the druid class. Being so in
+touch with the world around them, druids have the ability to sense when
+a zone will re-spawn with inhabitants. 
+#
+SHADOW
+
+Usage: shadow
+
+Level 20 monk skill.
+
+Sets a -4 bonus to armor class and sets an affect much like SNEAK for
+thieves for (level / 4) hours.
+
+See also: AC, SNEAK
+#
+SHIELD
+
+Shield is a spell available to most of the casting classes and is a
+potion sold in a few different magic shops throughout Dibrova.
+
+Shield gives a -20 to AC for a duration determined by the level of
+the caster or the strength of the potion.
+#
+SNARE
+
+Level:        Druid, level 110
+Usage:        cast 'snare' <target>
+Mana Cost:    45 max, 40 min
+Accumulative: No
+Duration:     Lvl 110-120, 1 hr
+              Lvl 121-135, 2 hrs
+              Lvl 136+, 3hrs
+
+Casting snare upon a mob or player will cause their feet to adhere to the
+ground for the duration of the spell. Players will be unable to flee for as
+long as this spell lasts. This will not affect a player's ability to move
+about normally, only in cases of fleeing.
+#
+"SONIC WALL"
+
+Usage       : cast 'sonic wall' <victim>
+Accumulative: No
+Duration    : One tenth level plus 2 hours.
+Level       : Mage, level 27.
+
+The caster conjures a wall of intense sound that causes massive pain
+and even deafness.
+#
+"SOUL RIP"
+
+Usage: cast 'soul rip' <victim>
+
+Dark Knight, level 130
+
+Dark Knights can train the ability to reach their evil hands into the
+depths of a being's soul and tear out the very essence of that being,
+causing great pain and many times death.
+#
+"SOUL SCOURGE"
+
+Usage: pray 'soul scourge' <victim>
+
+Cleric, level 150
+
+The most damaging of all clerical prayers, soul scourge rends a victim
+where the worst pain can be felt - deep down in the soul. Soul scourge
+rends the victim's soul, tearing out the bad parts without replacing
+anything in its place.
+#
+"SPECTRAL WINGS"
+
+Usage       : cast 'spectral wings'
+Accumulative: -
+Duration    : 24 hrs
+Level       : Dark Knight level 20
+
+Casts FLY on caster for duration of spell.
+#
+"SPIRIT STRIKE"
+
+Usage: pray 'spirit strike' <victim>
+
+Cleric, level 90
+
+A cleric has the ability to pray for a victim's demise through striking them
+deep within their inner spirit.
+#
+STRENGTH
+
+Usage       : cast 'strength' <target>
+Accumulative: no
+Duration    : (level / 2) + 4
+Level       : Mage level 48
+
+This is the middle ground in terms of power in the strength spells. This
+spell will give the target a +3 bonus to STR. This spell is castable on
+other players.
+#
+SUMMON
+
+Usage       : cast 'summon' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 75.
+
+Will summon a person of the name spoken.  It is not possible to
+summon someone of three or more levels above yourself.
+If you attempt to summon a monster, it will get a saving throw.
+
+See also: NOSUMMON
+#
+TREEWALK
+
+Usage       : cast 'treewalk <location>'
+Accumlative : N/A
+Duration    : Instantaneous
+Level       : Varies depending on target location
+
+This spell, awarded to the druid class only, allow druis to travel to
+many of the forested areas of Dibrova. Magically enchanted Druid Stones
+lie within certain forests, which harness some of the power that allows
+this magic to work.
+
+Druids are awarded this spell for the first time at level six, allowing
+the druid to travel to the Druid Stone in the Dearthwood at any time.
+New target destinations get added at progressive levels, allowing the
+druid to travel farther and farther as they grow in ability and level.
+
+#
+VENTRILOQUATE
+
+Usage       : cast 'ventriloquate' <victim | object> <text>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Mage level 1.
+Save        : Versus spell victim only sees attempted cast.
+
+For all people in the same room as the caster that fail a saving throw, the
+spell will make the object or victim appear to say the text written.
+
+Example:
+
+  > cast 'vent' Mirlen I got 399,823 coins, don't even consider killing me!
+#
+VITALITY
+
+Usage       : pray 'vitality' <target>
+Accumulative: Yes
+Duration    : Instantaneous
+Level       : Cleric level 125
+
+Vitality is the highest level healing magic that exists in Dibrova. It will
+heal up to 325 hp per casting with a minimum of 185.
+#
+"WEAKENED FLESH"
+
+Usage       : pray 'weakened flesh' <target>
+
+Cleric, level 135
+
+Clerics can call upon their God to weaken their foes, causing the victim
+to take more damage per hit.
+#
+"WINDS OF PAIN"
+
+Usage: pray 'winds of pain' <victim>
+
+Cleric, level 60
+
+Clerics can summon and focus purified winds which will tear at a victim's
+skin, causing them great pain and anguish.
+
+#
+"WINDS OF RECKONING"
+
+Usage: pray 'winds of reckoning' <victim>
+
+Cleric, level 110
+
+Clerics have the ability to call the righteous winds of their faith into
+being, blowing them directly onto their victim, causing heavy damage. 
+
+#
+WITHER
+
+Usage: cast 'wither' <victim>
+
+Sorceror, level 100
+
+A sorceror, when backed into a fight, can cast this pell on their victim,
+causing the skin to wither from the victim's body and causing major pain.
+
+Wither also sets a non-cummulative -1 to STR on the victim.
+#
+"WORD OF RECALL"
+
+Usage       : cast 'word of recall' 
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 12.
+
+The caster will be transferred back to his hometown sanctuary (usually the
+Temple of Midgaard).
+#
+"WRATH OF GOD"
+
+Usage       : cast 'wrath' <victim>
+Accumulative: -
+Duration    : Instantaneous
+Level       : Cleric level 33
+
+This is an offensive spell which will do a random number of damage to the
+vict (8d100) plus the caster's level.
+#
+"YANG XU"
+
+Usage: chant 'yang xu' <victim>
+
+Level 100 monk.
+
+Does damage 8d5 + 10 + level/4.
+#
+"YIN XU"
+
+Usage: chant 'yin xu' <victim>
+
+Level 30 monk.
+
+Does damage 6d4 + 6 + level/8.
+#
+$

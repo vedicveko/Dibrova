@@ -1,0 +1,429 @@
+#2100
+hatchling dragon baby~
+a dragon Hatchling~
+A dragon hatchling is here, chewing on a bone.
+~
+This small dragon hisses at you as you enter the room.  Although it is
+only a few feet long, its sharp teeth make you think twice about
+petting it.    
+~
+74 0 0 0 0 0 0 0 -900 E
+30 14 -20 1d7+125 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 4
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Luck: 12
+Race: 9
+E
+#2101
+draconian~
+the Draconian~
+The Draconian is standing here.
+~
+This horrible creature is a bizarre cross between a man and a dragon.
+He has black scales and a seven foot wingspan.  He scowls at you and
+hefts his spear as you enter the room.    
+~
+46 0 0 0 80 0 0 0 -900 E
+40 21 -20 1d13+350 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 11
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Luck: 12
+Race: 42
+E
+#2102
+master~
+the Dragon Master~
+The lord of this crypt is here.
+~
+He doesn't look happy to see you.    
+~
+46 0 0 0 64 0 0 0 -1000 E
+45 25 -24 1d37+2450 4d5+30
+625 76985
+8 8 1
+BareHandAttack: 12
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Class: 9
+Race: 42
+E
+#2103
+man mage wizard~
+a powerful Mage~
+A man is here, studying some books.
+~
+A powerful looking mage is standing in this room studying his spells.
+You are surprised at the fact that he is human, and realize that he
+must be very powerful to have been accepted by the creatures which
+live here.    
+~
+10 0 0 0 20 0 0 0 -900 E
+27 12 -8 1d32+2325 2d4+18
+200 20926
+8 8 1
+BareHandAttack: 15
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Luck: 12
+Class: 1
+Race: 14
+E
+#2104
+cleric draconian~
+the holy Draconian~
+A Draconian is here, deep in thought.          
+~
+A Draconian stands here, dressed in simple robes.  Around his neck you
+notice a golden medallion in the shape of a five headed dragon.    
+~
+46 0 0 0 16 0 0 0 -900 E
+47 26 -28 1d32+2325 5d5+31
+675 86013
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 8
+Luck: 12
+Class: 2
+Race: 42
+E
+#2105
+king draconian~
+the Draconian King~
+A Draconian wearing fine clothes is here, pondering his greatness.          
+~
+The king of the draconians sits here on a golden throne.  He looks as
+though he could crush your head with a single blow.  Yet you sense
+that he is controlled by a greater power.    
+~
+14 0 0 0 272 0 0 0 -900 E
+50 29 -28 1d26+2050 5d5+33
+750 110785
+8 8 1
+BareHandAttack: 6
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 12
+Luck: 12
+Class: 4
+Race: 42
+E
+#2106
+concubine draconian~
+a Concubine~
+A concubine is resting here. 
+~
+This is a concubine of the king.  She is lounging here, wearing
+nothing at all.  You find yourself strangely repulsed as she draws a
+knife and prepares to defend herself.    
+~
+10 0 0 0 0 0 0 0 -500 E
+35 17 -20 1d6+70 3d5+23
+350 40559
+8 8 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 17
+Luck: 12
+Race: 42
+E
+#2107
+bodyguard draconian~
+a Bodyguard~
+A bodyguard is here, staring at you menacingly. 
+~
+This creature has devoted its life to defending the king.  Your
+intrusion has not pleased it.    
+~
+4138 0 0 0 88 0 0 0 -800 E
+46 26 -24 1d18+800 5d5+30
+650 81423
+8 8 1
+BareHandAttack: 13
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 18
+Luck: 12
+Race: 42
+E
+#2120
+tiamat dragon~
+Tiamat~
+A five headed dragon hisses at you as you enter this room.
+~
+You see before you the master of this Tower, Tiamat.  She frowns at
+you as she prepares to make you pay for your insolence ...  With your
+lives!    
+~
+46 0 0 0 80 0 0 0 -1000 E
+60 37 -36 1d47+4000 5d6+40
+1000 160325
+8 8 2
+BareHandAttack: 8
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Class: 4
+Race: 9
+E
+#2121
+dragon red~
+the Great Red Dragon~
+A red dragon is here, contemplating your existence. 
+~
+This huge red dragon dominates the chamber.  As you turn to flee, he
+grins at you and invites you to stay ...  Forever!    
+~
+46 0 0 0 80 0 0 0 -1000 E
+59 37 -36 1d41+2600 5d6+39
+975 153599
+8 8 1
+BareHandAttack: 6
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 24
+Luck: 12
+Class: 4
+Race: 9
+E
+#2122
+dragon black~
+the Great Black Dragon~
+A black dragon is here, laughing at your insolence. 
+~
+This huge black wyrm laughs at your puny weapons.  You realize that he
+is not going to roll over and die for you.    
+~
+46 0 0 0 80 0 0 0 -900 E
+58 36 -36 1d36+2425 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 10
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 21
+Luck: 12
+Class: 4
+Race: 9
+E
+#2123
+dragon white~
+the Great White Dragon~
+A white dragon is here, waiting for you. 
+~
+This dragon towers over you.  Recalling your previous experiences with
+white dragons, you are not afraid.  She smiles at you and says 'I
+think you will find me a greater challenge than my offspring.  '
+~
+46 0 0 0 80 0 0 0 -1000 E
+57 35 -32 1d39+2500 5d6+38
+925 140668
+8 8 2
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 9
+Luck: 12
+Class: 4
+Race: 9
+E
+#2125
+dragon green~
+the Ancient Green Dragon~
+A green dragon is here, looking distraught. 
+~
+This huge beast appears to be the most directly related to the
+draconians.  She looks at you with sorrow in her eyes and says 'You
+have slaughtered my children.  Prepare to die.  '
+~
+46 0 0 0 80 0 0 0 -1000 E
+56 34 -32 1d41+2600 5d6+37
+900 134460
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 12
+Luck: 12
+Class: 4
+Race: 9
+E
+#2126
+hydra~
+a large Hydra~
+A hydra is here, blocking the doorway. 
+~
+A hydra is here, guarding the entrance to a sealed vault.  You have
+the feeling it isn't happy to see you.    
+~
+46 0 0 0 80 0 0 0 -800 E
+55 33 -32 1d18+800 5d6+36
+875 128422
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 14
+Luck: 12
+Class: 4
+Race: 27
+E
+#2127
+slave human~
+a human Slave~
+A Human slave is here, hard at work.          
+~
+He looks like he's under a lot of stress.  He would probably like it
+if you left him alone.    
+~
+10 0 0 0 0 0 0 0 0 E
+30 14 -20 2d4+50 3d3+20
+0 27376
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+Race: 14
+E
+#2140
+zombie draconian~
+a draconian Zombie~
+A draconian zombie is here, staring at nothing in particular.
+~
+This used to be one of the warriors of this tribe.  He was denied his
+final rest, however, and now guards this corridor tirelessly as a
+zombie.    
+~
+46 0 0 0 80 0 0 0 -400 E
+35 17 -20 1d9+175 3d5+23
+0 40559
+8 8 0
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 20
+Luck: 12
+Race: 6
+E
+#2141
+dragon phase~
+a Phase Dragon~
+A Phase Dragon is darting around the room.          
+~
+This small dragon looks like he's up to no good.    
+~
+506 0 0 0 80 0 0 0 -300 E
+40 21 -20 1d10+200 4d5+26
+0 57012
+8 8 1
+BareHandAttack: 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 10
+Luck: 12
+Race: 9
+E
+#2142
+fool draconian~
+the draconian Fool~
+A Fool is here, making fun of you.          
+~
+This dragon man looks VERY foolish, dressed in a green and blue
+striped suit.  As you enter the room, he points at you and laughs.  
+~
+200 0 0 0 0 0 0 0 0 E
+30 14 -20 1d5+50 3d3+20
+250 27376
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 3
+Race: 42
+E
+#2143
+queen draconian~
+the Draconian Queen~
+A Female Draconian sits, here, looking very important.          
+~
+This draconian looks VERY busy as she orders her slaves around.  You
+think it might be a good idea to leave her alone.    
+~
+16398 0 0 0 65872 4194304 0 0 -600 E
+45 25 -24 1d20+1000 4d5+30
+625 84683
+8 8 2
+BareHandAttack: 12
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 14
+Luck: 12
+Class: 2
+Race: 42
+E
+$

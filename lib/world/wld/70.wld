@@ -1,0 +1,1375 @@
+#7000
+The Begining~
+Not much here.
+~
+70 0 0 0 0 0
+S
+#7001
+West Main~
+The road continues downhill to the south, toward wine, women and
+drunken brawls.  The stench fish and sea-goers gets stronger and
+stronger with each step you take down toward the docks.  To the north
+is the way into the main business section of the City.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 6771 0
+D2
+~
+~
+0 0 7002 0
+S
+#7002
+West Main~
+You are nearing sea level, which is just south and downhill from where
+you stand.  The repugnant smell of fish and guts, sailors and sweat is
+still all around you, but to your shame you find that you are
+beginning to get a bit used to it.  North leads the way uphill into
+McGintey's business district.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7001 0
+D2
+~
+~
+0 0 7003 0
+S
+#7003
+West Main~
+You have come to the southern end of West Main, where the street stops
+it's travel downhill and south, allowing the Dock Road to take over,
+which is just west from here.  The road heads north, uphill toward the
+main city section of McGintey Cove, or east into a tightly packed
+alley where a sizable crowd of people seem to be gathered around,
+watching something.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7002 0
+D1
+~
+~
+0 0 7007 0
+D3
+~
+~
+0 0 7024 0
+S
+#7004
+East Main~
+The road heads south at a steep downhill angle, making travel a bit
+difficult, especially with the poor condition if the roads.  To the
+north is the main business section of McGintey Cove.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 6773 0
+D2
+~
+~
+0 0 7005 0
+S
+#7005
+East Main~
+The road heads steeply downhill toward the docks and all the mariad
+life which seems to frequent that area.  Just south of you is the
+final step where you reach sea level and what looks to be the
+grubbiest section of any town you have ever seen begins.  To the
+north, the road heads uphill toward the main business area for the
+Cove.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7004 0
+D2
+~
+~
+0 0 7006 0
+S
+#7006
+East Main~
+You have reached the bottom of the large hill which runs north from
+here into the main business area.  South of you is mroe of the road,
+which runs along side a very large building, presumably the Boat
+Station, where one may book passage to any of the islands of Dibrova.
+West of you is an alley where it looks like a sizable crowd has
+gathered, all intent and yelling at something in their center.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7005 0
+D2
+~
+~
+0 0 7008 0
+D3
+~
+~
+0 0 7007 0
+S
+#7007
+Alley at the Cock Fights~
+You stand in a cramped alley which is made all the more cramped by all
+the people who have crowded together to watch and bet on these beasts
+which battle on the ground in the center of this man-made ring.  The
+exits lead east and west.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7006 0
+D3
+~
+~
+0 0 7003 0
+S
+#7008
+East Main~
+The road runs north and south here.  On your west is the wall of the
+enormous boat station here in McGintey Cove.  The entrance looks to be
+just south of here.  To the east is an old, three story building which
+looks from this angle to be completely abandoned.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7006 0
+D1
+~
+~
+0 0 7050 0
+D2
+~
+~
+0 0 7009 0
+S
+#7009
+East Main~
+You stand on before a huge concrete building which holds the Boat
+Station here in McGintey Cove.  This Boat Station is said to be the
+largest commercial outlet for personal travel overseas in Dibrova.  A
+great number of people go in and come out of this place, many
+obviously foreigners.  The entrance to the Boat Station is to the west
+and the road runs north and south.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7008 0
+D2
+~
+~
+0 0 7010 0
+D3
+~
+~
+0 0 7013 0
+S
+#7010
+East Main~
+The road continues north and south, a small shop lies just east of
+you.  To the south you can see the very tops of ships' masts that are
+docked in the harbor.  The shop east of here looks to be that of a
+netweaver's.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7009 0
+D1
+~
+~
+0 0 7012 0
+D2
+~
+~
+0 0 7011 0
+S
+#7011
+East Main~
+Still heading north and south, this road has turned from the easily
+traveled paving to the north to a muddy, sludgy mess that you must
+literally make an effort each time you take a step to lift your foot
+high enough to clear the mud that threathens to ruin your footwear and
+bog you down.  To the east is a very crude looking building, a sign
+hanging out front with no writing, just a badly painted picture of a
+cracked beer mug on it.  To the west, a narrow, dark alley allows
+limited access.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7010 0
+D1
+~
+~
+0 0 7031 0
+D2
+~
+~
+0 0 7032 0
+D3
+~
+~
+0 0 7020 0
+S
+#7012
+Netweaver~
+This small shop is festooned with nets of assorted size, color and
+shape.  Most are made for fishing, for those commercial fisherman who
+supply the town with fish to eat.  Some, however, are made for a more
+deadly purpose, one which a player may find quite useful....    
+~
+70 0 0 0 0 0
+D3
+~
+~
+0 0 7010 0
+S
+#7013
+McGintey Boat Station~
+Upon entering into this huge hall, the first thing you notice is the
+rush of sound that comes at you from every side.  It seems everyone is
+trying desperately to yell over everyone else to make sure they get
+the right ticket to the right destination.  The next thing you notice
+is the amount of people who seem to have found a home here at the
+station, on the benches which are rowed neatly in the center of the
+floor.  These benches were obviously intended for use by the customers
+who await the arrival of their boat, but it seems that some the lower
+class, possibly less fortunates have decide that these benches work
+very well as a bed, too.  There are ticket booths to the north and
+south.  The exit is east.    
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7017 0
+D1
+~
+~
+0 0 7009 0
+D2
+~
+~
+0 0 7015 0
+D3
+~
+~
+0 0 7014 0
+S
+#7014
+McGintey Boat Station~
+This part of the station is no different from the front section.  
+Bums and screaming people.  Everywhere.  Love it here, yep!  (That WAS
+sarcasm) There are more ticket booths to the north, the south, and the
+west.  The exit is off to the east.  Past more bums.    
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7018 0
+D1
+~
+~
+0 0 7013 0
+D2
+~
+~
+0 0 7016 0
+D3
+~
+~
+0 0 7019 0
+S
+#7015
+Dibrova Travels~
+You stand at a glass window with a small hole cut in the bottom
+center.  A sign hangs behind the receptionist, detailing the ports of
+call for this particular travel company.    
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7013 0
+S
+#7016
+Travels Abroad~
+You stand at a glass window with a small hole cut in the bottom
+center.  A sign hangs behind the receptionist, detailing the ports of
+call for this particular travel company.    
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7014 0
+S
+#7017
+Island Escapes~
+You stand at a glass window with a small hole cut in the bottom
+center.  A sign hangs behind the receptionist, detailing the ports of
+call for this particular travel company.    
+~
+70 0 0 0 0 0
+D2
+~
+~
+0 0 7013 0
+S
+#7018
+Ocean Adventures~
+You stand at a glass window with a small hole cut in the bottom
+center.  A sign hangs behind the receptionist, detailing the ports of
+call for this particular travel company.    
+~
+70 0 0 0 0 0
+D2
+~
+~
+0 0 7014 0
+S
+#7019
+Hodges Travel, Inc.~
+You stand at a glass window with a small hole cut in the bottom
+center.  A sign hangs behind the receptionist, detailing the ports of
+call for this particular travel company.    
+~
+70 0 0 0 0 0
+D1
+~
+~
+0 0 7014 0
+S
+#7020
+Narrow Alley~
+With the Boat Station wall to your north and the wall of a two story
+brothel to your south, this alley is so covered in shadows as to be
+dark.  It continues west into more darkness or allows entrance back
+onto East Main to the east.    
+~
+70 257 0 0 0 1
+D1
+~
+~
+0 0 7011 0
+D3
+~
+~
+0 0 7021 0
+S
+#7021
+Narrow Alley~
+The alley stills seems to lead somewhere to the west, but still
+without enough light to see by.  A faint trickle of light comes from
+the east, where the alley opens up into the main street.    
+~
+70 257 0 0 0 1
+D1
+~
+~
+0 0 7020 0
+D3
+~
+~
+0 0 7022 0
+S
+#7022
+Dead End in Narrow Alley~
+Ahhh, finally some light!  Although, with the light that is available
+here, you may have been better off not seeing.  There is a small,
+hooded lantern casting light on the alley floor where five large punks
+huddle around a craps game they were gambling on.  Notice the word
+'WERE' there.  See, you have interrupted their game, and they don't
+seem pleased.  No, not at all.    
+~
+70 1 0 0 0 1
+D0
+~
+door~
+1 0 7023 3
+D1
+~
+~
+0 0 7021 0
+S
+#7023
+The HQ of the Bloody Scythe Gang~
+This place, what appears to be an abandoned warehouse, is home to one
+of the deadliest gangs of thugs in McGintey Cove.  All crime, all
+prostitution, and all illegal gambling activities are controlled from
+this room.  Well, that is all crime, prostitution and gambling that
+the Dead Boys (McGintey's other gang) don't control is controlled from
+here.  Seems that the Bloody Scythes don't take a shine to having
+unexpected company, either.  Better duck!    
+~
+70 0 0 0 0 0
+D2
+~
+door~
+1 0 7022 3
+S
+#7024
+Dock Road~
+You are at the northern end of Dock Road which at this point, isn't
+anywhere near the docks, but leads to them directly.  To the east is
+West Main street and to the south is the way leading to the docks.  
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7003 0
+D2
+~
+~
+0 0 7025 0
+S
+#7025
+Dock Road~
+The road heads south toward the docks where all vessels commercial and
+private are kept when in port.  The sound of the sea begins to be much
+more prevalent as you make your way toward the docks.  The sounds, the
+smell, and the excitement of a busy seaport seems to call to you as
+you hurry along.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7024 0
+D2
+~
+~
+0 0 7026 0
+S
+#7026
+Dock Road~
+The Dock Road continues south toward the docks or north toward a large
+hill which leads up into the main business section of McGintey Cove.
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7025 0
+D2
+~
+~
+0 0 7027 0
+S
+#7027
+Dock Road~
+Dock Road comes to an intersection on itself just south of you, where
+it splits east and west and runs along the docks where all of the many
+ships are kept while in port.  To the east is a small dirt trail.  It
+looks to be fairly well used, however there is something about it,
+something slightly unsettling that makes you think maybe you'd better
+not head that way.  Don't you have a ship to catch anyway?    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7026 0
+D1
+~
+~
+0 0 7028 0
+D2
+~
+~
+0 0 7048 0
+S
+#7028
+Dirt Trail~
+The trail makes a turn to the north, where it leads up to a small
+wooden shack, sittig all by itself in the shadow of this big city.  
+How in the world did this little shack go unnoticed by you when you
+walked by on Dock Road?    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7029 0
+D3
+~
+~
+0 0 7027 0
+S
+#7029
+In Front of a Shack~
+You stand before the shack, wondering if it would be a good idea to
+knock, or just walk right in.  There is definitely someone home from
+the sounds you can from out here, there are probably quite a few
+someones home.  They are making a loud-assed racket.  You may head
+south away from the shack or north into it.    
+~
+70 0 0 0 0 1
+D0
+~
+door~
+1 0 7030 3
+D2
+~
+~
+0 0 7028 0
+S
+#7030
+HQ for the Dead Boys~
+These boys are, of course, not dead.  In fact, they are far from it.
+They seem to have a non-stop party that goes on and on and on.  
+Almost makes you want to join them, but just as you begin to think
+these party animals might be cool to hang out with for a few drunken
+hours, they turn as one and decide that kicking your ass would be more
+fun than the beer for a while.  Hey, you know, You Gotta Fight...  
+For Your Right...    
+~
+70 0 0 0 0 0
+D2
+~
+door~
+1 0 7029 3
+S
+#7031
+The Cracked Mug~
+A gaggle of sailors all huddle around an old battered piano, most of
+them drunker than drunk can be.  They all sing along in off-keys to an
+off-key tune played by a sailor who probably has never touched a piano
+before in his life.  Seems like a harmless enough place to come in and
+have a drink or two...    
+~
+70 8 0 0 0 0
+D3
+~
+~
+0 0 7011 0
+S
+#7032
+East Main~
+East Main heads south toward the docks, which you can faintly see in
+the distance now.  A wide road heads off to your east, past a bar and
+a warehouse.  To the west is nicely kept house decorated in pastel
+colors.  For some reason, there are a number of women leaning on the
+front balcony, smiling and waving.  Hm, you must look extra good today
+or something!    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7011 0
+D1
+~
+~
+0 0 7034 0
+D2
+~
+~
+0 0 7039 0
+D3
+~
+~
+0 0 7033 0
+S
+#7033
+Myra's House of Ill Repute~
+Madame Myra hosts the only business of this nature in this town,
+thereby granting her the luxury of picking and choosing her custom,
+not to mention her price.  A sign on the wall catches your eye.    
+~
+70 8 0 0 0 0
+D1
+~
+~
+0 0 7032 0
+S
+#7034
+Warehouse Road~
+The road runs along a couple of large warehouses which seem for the
+most part unused or at least, unguarded.  One lies directly south from
+you and the other just northeast.  To the west is East Main.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7035 0
+D2
+~
+~
+0 0 7040 0
+D3
+~
+~
+0 0 7032 0
+S
+#7035
+Warehouse Road~
+The road runs east and west from here, dead ending just east at a
+large, empty looking house.  To the north is the entrance to a large
+warehouse.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7038 0
+D1
+~
+~
+0 0 7036 0
+D3
+~
+~
+0 0 7034 0
+S
+#7036
+Warehouse Road~
+The road ends here, warehouse walls to the north and south with no
+entrances, and an old, empty looking house to the east.  To the west
+the street heads toward East Main and the docks.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7037 0
+D3
+~
+~
+0 0 7035 0
+S
+#7037
+Abandoned Building~
+This ransacked home must have been the home of either the owner of
+these warehouses or teh place where the guard lived who watched over
+them.  It makes little difference who lived here then, because the
+house has been completely gutted by the various hoodlums and punks of
+the town.  It also looks as if it could be a favorite of some of the
+squatters of this town.  The exit lies west.    
+~
+70 8 0 0 0 0
+D3
+~
+~
+0 0 7036 0
+S
+#7038
+Warehouse~
+A few crates lay scattered throughout the room, all of them seem to
+have the appearance of having been left here for quite some time.  
+Never hurts to check, though...    
+~
+70 8 0 0 0 0
+D2
+~
+~
+0 0 7035 0
+S
+#7039
+East Main~
+East Main runs south into Dock Road, the road which runs east to west
+along the docks where all vessels are required to tie up when in port.
+To the west is a small motel which offers vacancy, however it does
+look as if it would most probably be a favorite hangout for sailors
+and call girls, not the affluent qworld traveller type like yourself.
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7032 0
+D2
+~
+~
+0 0 7042 0
+D3
+~
+~
+0 0 7041 0
+S
+#7040
+Warehouse~
+Boxes and crates litter the floor.  Your footsteps echo hollowly in
+this huge building, convincing you that you are most probably alone in
+this place.  A quick search might reveal a prize or two.    
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 0 7034 0
+S
+#7041
+Roach Motel~
+There is a door in the east wall, presumably leading to the rooms
+where one might rest for the night.  A man sits behind a thick plate
+of glass reading a small pamphlet and ignoring you.  It seems if you
+want any help, you'll have to ask for it.    
+~
+70 8 0 0 0 0
+D1
+~
+~
+0 0 7039 0
+S
+#7042
+Dock Road~
+You stand on the Dock Road which runs east to west along McGintey's
+docks.  To the south is Dock 5, designated for pleasure crafts and
+commercial travel.  To your north East Main heads up toward the main
+business district of McGinety Cove.    
+~
+70 0 0 0 0 1
+D0
+~
+~
+0 0 7039 0
+D1
+~
+~
+0 0 7043 0
+D2
+~
+~
+0 0 5373 0
+D3
+~
+~
+0 0 7046 0
+S
+#7043
+Dock Road~
+You stand on the Dock Road which runs east to west along McGintey's
+docks.  To the south is Dock 6, designated for pleasure crafts only.
+To your north is the wall of a large warehouse, the entrance to which
+must be on another side.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7044 0
+D2
+~
+~
+0 0 5375 0
+D3
+~
+~
+0 0 7042 0
+S
+#7044
+Dock Road~
+You stand on teh Dock Road which runs east to west along McGintey's
+docks.  To the south is Dock 7, the last of seven docks, this one
+designated as pleasure crafts only.  The shipyard lies to the east or
+you may head west back along the Dock Road.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7045 0
+D2
+~
+~
+0 0 5377 0
+D3
+~
+~
+0 0 7043 0
+S
+#7045
+Shipyard~
+This is where the boats of McGintey Cove are made and repaired.  Hard
+working men work round the clock to make sure that the commerce and
+trade which this great city depends so much on does not come to a
+halt.    
+~
+70 0 0 0 0 0
+D3
+~
+~
+0 0 7044 0
+S
+#7046
+Dock Road~
+You stand on the Dock Road which runs east and west along McGintey's
+docks.  To the south is Dock 4 which is designated as commercial
+travel only.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7042 0
+D2
+~
+~
+0 0 5371 0
+D3
+~
+~
+0 0 7047 0
+S
+#7047
+Dock Road~
+You stand on the Dock Road which runs east and west along McGintey's
+docks.  To the south is Dock 3 which is designated as commercial
+travel only.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7046 0
+D2
+~
+~
+0 0 5369 0
+D3
+~
+~
+0 0 7048 0
+S
+#7048
+Dock Road~
+You stand on the Dock Road which runs east and west along McGintey's
+docks.  To the south is Dock 2 which is designated as commercial
+travel and commercial business.  To the north, Dock Road runs toward a
+large hill that leads up into the main business section of the Cove.
+  
+A small sign points west.
+~
+70 0 0 0 0 0
+D0
+~
+~
+0 0 7027 0
+D1
+~
+~
+0 0 7047 0
+D2
+~
+~
+0 0 5367 0
+D3
+~
+~
+0 0 7049 0
+S
+#7049
+Dock Road~
+You have come to the western end of Dock Road, where the only exit
+besides the way you came os south, onto Dock 1, designated as
+commercial business crafts only.  A small sign points south.    
+~
+70 0 0 0 0 1
+D1
+~
+~
+0 0 7048 0
+D2
+~
+~
+0 0 5365 0
+S
+#7050
+A Garbage Littered Hallway~
+You stand just inside a building that appears to have been some sort
+of housing project in it heyday.  There are doors both north and south
+of you - both of them are closed at this time.  Of course, the doors
+don't look like they would do much to keep anyone in or out of the
+rooms beyond.  They are all nasty and corroded, most of the wood
+peeling away in strips.  The hallway heads east into more filth, best
+to watch your step, there is no light and you could trip on some
+garbage.    
+~
+70 8 0 0 0 0
+D1
+~
+~
+0 0 7051 0
+D3
+~
+~
+0 0 7008 0
+S
+#7051
+Bottom Floor of an Old Apartment Building~
+This place appears to have been abandoned quite some time ago - like
+years - but you never know.  There are doors to the east, south and
+north from where you stand now.  The hallway leads west toward the
+doorless entrance out onto East Main.  Was that a -clunk!  - you just
+heard from one of the levels above?    
+~
+70 8 0 0 0 0
+D3
+~
+~
+0 0 7050 0
+S
+#7060
+Entry to the Pits~
+You are heading down a steep staircase toward a dimly-lit room which serves
+as the entry to the Pits- the bloodstained arenas where lethal fights between
+pit fighters and animals take place, accompanied by the betting of the
+bloodthirsty spectators.
+~
+70 8 0 0 0 0
+D5
+~
+~
+0 -1 7061 0
+S
+#7061
+The Entryway~
+Passages run in all directions from this large central area. Spectators
+rush back and forth, toward the main pits to the east and west, eager for
+action. You hear shouts, cheers and screams echoing from each of these
+directions. There is a large sign post in the center of the room which
+gives directions.
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 -1 7062 0
+D1
+~
+~
+0 -1 7066 0
+D2
+~
+~
+0 -1 7064 0
+D3
+~
+~
+0 -1 7074 0
+D4
+~
+~
+0 -1 7060 0
+E
+signpost~
+The signpost reads-
+
+NORTH- The Dog Pens. Keep Out!
+
+SOUTH- The Cock Pens. Keep Out!
+
+EAST- The Beast Pit.
+
+WEST- The Fighter Pit.
+~
+S
+#7062
+Outside the Dog Pens~
+From behind the door to the east you can hear the barking and growling of
+what sounds like several large savage dogs. A huge sign on the door reads-
+"DANGER. WILD DOGS. KEEP OUT!". Hmm...
+~
+70 9 0 0 0 0
+D1
+The door has a sign warning people to stay away~
+door~
+1 0 7063 3
+D2
+~
+~
+0 -1 7061 0
+S
+#7063
+The Dog Pens~
+Yup. This is them all right. You aren't sure what gives it away more- the
+piles of raw meat and steaming dog turds, or the rather large and mean-
+looking dogs themselves...
+~
+70 9 0 0 0 0
+D3
+~
+~
+1 0 7062 7
+S
+#7064
+Outside the Cock Pens~
+From the east comes the sounds of several roosters squabbling and feeding.
+The sound of their steel-tipped claws scraping on the stone floor causes
+you to shudder. There seems to be little to be gained by disturbing them,
+but then again adventurers are always barging into the lairs of aggressive
+animals.
+~
+70 9 0 0 0 0
+D0
+~
+~
+0 -1 7061 0
+D1
+~
+~
+1 0 7065 3
+S
+#7065
+Inside the Cock Pens~
+This room looks like a subterranean farmyard, complete with a small wooden
+shed and troughs containing bird seed and water. You see a water pump in
+one corner. These cocks are well looked after.
+~
+70 9 0 0 0 0
+D3
+~
+~
+1 0 7064 7
+S
+#7066
+Outside the Beast Pits~
+To the west lie a series of beast pits where a variety of animals battle
+each other as well as the occasional pit fighter. You hear loud cheers amid
+the cries of wounded animals.
+~
+70 8 0 0 0 0
+D1
+~
+~
+0 -1 7067 0
+D3
+~
+~
+0 -1 7061 0
+S
+#7067
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see what looks like wild boars battling with a rather
+beleagured pit fighter, who seems to have little chance of winning. The
+spectators are all betting on the boars...
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 -1 7068 0
+D2
+~
+~
+0 -1 7069 0
+D3
+~
+~
+0 -1 7066 0
+D5
+~
+~
+0 -1 7070 0
+S
+#7068
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see what looks like wild dogs battling each other, snapping
+and snarling as they gnaw at each other's vitals. The spectators are all
+cheering wildly. You find yourself feeling rather ill.
+~
+70 8 0 0 0 0
+D2
+~
+~
+0 -1 7067 0
+D5
+~
+~
+0 -1 7071 0
+S
+#7069
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see what looks like roosters battling with each other
+in a small ring. They are rather battered-looking, and both look close to
+exhaustion.
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 -1 7067 0
+D5
+~
+~
+0 -1 7072 0
+S
+#7070
+The Boar Pit~
+Uh Oh. You have jumped down into the boar pit. Not a wise move. Its likely
+that the boars will turn on you, and also probable that the pit fighter
+will as well, for making him look weak by trying to save him (even if you
+weren't...).
+~
+70 8 0 0 0 0
+D1
+~
+~
+1 0 7073 3
+D4
+~
+~
+0 -1 7067 0
+S
+#7071
+The Dog Pit~
+Way to go slick. Just drop right on down into a pit full of savage dogs.
+How brilliant. The crowd up above goes wild though, at the thought of fresh
+blood.
+~
+70 8 0 0 0 0
+D1
+~
+~
+1 0 7084 3
+D4
+~
+~
+0 -1 7068 0
+S
+#7072
+
+The Cock Pit~
+You are standing in a small ring with two roosters. Amazingly enough, they
+don't react violently to your intrusions- they are probably too tired. The
+audience above is yelling for you to clear out.
+~
+70 8 0 0 0 0
+D1
+~
+~
+1 0 7085 3
+D4
+~
+~
+0 -1 7069 0
+S
+#7073
+The Boar Pens~
+The boars are kept in this room that runs off the pit. They are released
+near combat time by the pit guards, then ushered back with tridents and
+large clubs.
+~
+70 9 0 0 0 0
+D3
+~
+~
+1 0 7070 3
+S
+#7074
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see pit fighters battling with each other using a variety
+of weapons and armor. The audience is busy placing bets. A staircase leads
+up to the owner's box.
+
+More pits lie to the north and south.
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 -1 7075 0
+D1
+~
+~
+0 -1 7061 0
+D2
+~
+~
+0 -1 7076 0
+D4
+~
+~
+0 -1 7081 0
+D5
+~
+~
+0 -1 7078 0
+S
+#7075
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see pit fighters battling with each other using a variety
+of weapons and armor. The audience is busy placing bets.
+~
+70 8 0 0 0 0
+D2
+~
+~
+0 -1 7074 0
+D5
+~
+~
+0 -1 7077 0
+S
+#7076
+The Stands~
+Crowds gather here to observe the fighting taking place in the pit below.
+Peering down, you see pit fighters battling with each other using a variety
+of weapons and armor. The audience is busy placing bets.
+~
+70 8 0 0 0 0
+D0
+~
+~
+0 -1 7074 0
+D5
+~
+~
+0 -1 7079 0
+S
+#7077
+A Pit~
+Pit fighters in this pit rush at each other with the most bizarre weapons
+you have ever seen. They seem to be designed more for their ability to
+inflict pain than for practicality. The fighters are intent on their combat
+and ignore you, though the audience above issues catcalls and demand you
+get out at once. Or join in ;)
+~
+70 8 0 0 0 0
+D3
+~
+~
+1 0 7082 3
+D4
+~
+~
+0 -1 7075 0
+S
+#7078
+A Pit~
+Pit fighters in this pit rush at each other with the most bizarre weapons
+you have ever seen. They seem to be designed more for their ability to
+inflict pain than for praticality. The fighters are intent on their combat
+and ignore you, though the audience above issues catcalls and demand you
+get out at once. Or join in ;)
+~
+70 8 0 0 0 0
+D3
+~
+~
+1 0 7080 3
+D4
+~
+~
+0 -1 7074 0
+S
+#7079
+A Pit~
+Pit fighters in this pit rush at each other with the most bizarre weapons
+you have ever seen. They seem to be designed more for their ability to
+inflict pain than for praticality. The fighters are intent on their combat
+and ignore you, though the audience above issues catcalls and demand you
+get out at once. Or join in ;)
+~
+70 8 0 0 0 0
+D3
+~
+~
+1 0 7083 3
+D4
+~
+~
+0 -1 7076 0
+S
+#7080
+Pit Fighter Barracks~
+The Pit Fighters are quartered in these dingy rooms that open up onto the
+pit. Guards are usually here to make sure that they don't escape. The guards
+live in the town above.
+~
+70 9 0 0 0 0
+D1
+~
+~
+1 0 7078 3
+S
+#7081
+The Owner's Box~
+The Pit master sits up here, with whatever young girl (or boy) he is courting
+at the time, and observes his fighters battle to death in the pits below.
+It is a luxuriously appointed affair, with silk curtains and soft cushions
+from Araby. An opium pipe sits on a table nearby.
+~
+70 8 0 0 0 0
+D5
+~
+~
+0 -1 7074 0
+S
+#7082
+Pit Fighter Barracks~
+The Pit Fighters are quartered in these dingy rooms that open up onto the
+pit. Guards are usually here to make sure that they don't escape. The guards
+live in the town above.
+~
+70 9 0 0 0 0
+D1
+~
+~
+1 0 7077 3
+S
+#7083
+Pit Fighter Barracks~
+The Pit Fighters are quartered in these dingy rooms that open up onto the
+pit. Guards are usually here to make sure that they don't escape. The guards
+live in the town above.
+~
+70 9 0 0 0 0
+D1
+~
+~
+1 0 7079 3
+S
+#7084
+A Dog Pen~
+While the bulk of the dogs are kept in the kennels near the entrance, some
+who are used frequently are quartered here, in this filthy pit.
+~
+70 9 0 0 0 0
+D3
+~
+~
+1 0 7071 3
+S
+#7085
+A Cock Pen~
+The majority of the fighting cocks are kept in the well-appointed pens near
+the entrance. The ones who are considered expendable or too weak are kept
+here for frequent use.
+~
+70 9 0 0 0 0
+D3
+~
+~
+1 0 7072 3
+S
+$~

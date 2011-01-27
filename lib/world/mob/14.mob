@@ -1,0 +1,179 @@
+#1400
+barghest dog thing~
+the Barghest~
+A huge, black doglike thing blasts from behind trees, attacking you!
+~
+This demon dog is a Barghest, guardian of all things evil and cruel.    
+~
+108 0 0 0 2128 0 0 0 -800 E
+94 71 -40 1d30+2250 6d8+62
+0 503723
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Race: 41
+E
+#1401
+candle corpse~
+a Corpse Candle~
+A corpse candle shimmers before you, trying to find its way to Peace.
+~
+This unlucky soul lost its way to Heaven or Hell, wherever it was
+headed, and wound up roaming this forest in search of the Way.    
+~
+237768 0 0 0 0 0 0 0 -300 E
+97 74 -40 1d28+2150 6d8+64
+0 545738
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 14
+Luck: 12
+Race: 34
+E
+#1402
+cucubeth thing pale~
+the Cucubeth~
+A strange, pale manlike thing ambles into view, slowing turning its head your way.
+~
+This thing, half blood sucker and half were-man looks as if it has not
+fed in some time.    
+~
+172616 0 0 0 268451848 0 0 0 -900 E
+113 91 -40 1d38+2475 12d13+75
+0 805501
+8 8 0
+BareHandAttack: 9
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 13
+Luck: 12
+Race: 39
+E
+#1403
+ankou king lord~
+Lord Ankou~
+Lord Ankou, King of the Dead, rides his ghostly cart through the forest.
+~
+This awful spectre of death rides his cart throught the forest
+searching for dead souls that he may claim as his own.    
+~
+254552 0 0 0 84304 4194304 0 0 -1000 E
+123 103 -60 1d48+4500 14d15+82
+2500 1099935
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 23
+Luck: 12
+Class: 9
+Race: 49
+E
+#1404
+spectre ghostly~
+a ghostly Spectre~
+A ghostly spectre follows alongisde its Lord, guarding the captured souls.
+~
+With no distinct facial features it is hard to tell if this thing was
+once a man or woman or if it ever was alive at all.    
+~
+258121 0 0 0 2384 0 0 0 -900 E
+119 98 -40 1d49+5000 14d14+79
+0 1011005
+8 8 0
+BareHandAttack: 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 10
+Luck: 12
+Race: 34
+E
+#1405
+man hunter vampyre~
+a Vampyre Hunter~
+A man stands here, a wooden stake sticking out of a backpack he is wearing.
+~
+He gives you a piercing look, one that seems to borrow down into your
+soul.  He raises one side of his upper lip in a snarl and attacks.  
+~
+72 0 0 0 0 0 0 0 100 E
+103 80 -40 1d28+2150 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 14
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 24
+Luck: 12
+Class: 4
+Race: 14
+E
+#1406
+buzzard~
+a Buzzard~
+A buzzard spots you and heads your way, watch out!
+~
+This nasty, dirty bird looks hungry and mean and ready to bite your face off.
+~
+42 0 0 0 2128 0 0 0 -500 E
+90 66 -40 1d15+500 6d7+60
+0 450852
+8 8 0
+BareHandAttack: 8
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 3
+E
+#1407
+cleric forgotten lore woman~
+the Cleric of Forgotten Lore~
+An old woman sits here, gently rocking back and forth in her plush chair.
+~
+She smiles gently, knowing that you come here for more than just
+knowledge.  Most who come here, simply come to kill, a fact of life
+among most people in Dibrova.  Her blue eyes twinkle, knowingly safe
+by the powerful clerical magic which wards the very room she resides
+in.    
+~
+122890 0 0 0 65872 4325378 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+6 6 0
+Str: 12
+Dex: 14
+Int: 10
+Wis: 15
+Con: 6
+Cha: 12
+Luck: 14
+Class: 2
+Race: 17
+E
+$

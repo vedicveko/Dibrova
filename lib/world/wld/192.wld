@@ -1,0 +1,1769 @@
+#19200
+Thieve's Guild~
+You in a small room behind the bar in the Smelly Cow Inn.  A single
+oil lamp stands on a table in the middle of the room providing light.
+The only way out is through a trap door east.    
+~
+192 12 0 0 0 0
+D1
+~
+~
+0 -1 19215 0
+S
+#19201
+Hall of Learning~
+Adventurers of all types mill about here, trying to perfect their
+skills.  The walls are covered with racks of weapons and armor that
+are used in the training.  A huge book case lines the west wall,
+containing numerous books and scroll on magic and the art of war.  
+The heavy smell of sweat permeates the room.    
+~
+192 8 0 0 0 0
+D1
+~
+~
+0 -1 19202 0
+D2
+~
+~
+0 -1 19204 0
+S
+#19202
+Bard's Guild~
+This room is very large and built to accommodate many people.  A
+podium stands along the north with a small lute resting on it.  The
+walls and the floor are made of a red colored wood that gives off a
+nice aroma.  The Hall of Learning is to the west.    
+~
+192 8 0 0 0 0
+D3
+~
+~
+0 -1 19201 0
+S
+#19203
+Dark Knight's Guild~
+A large circle has been built in the middle of this room for use as an
+arena.  A blood stain here and there, some quite old, tells you that
+the circle gets a lot of use.  The Hall of Learning is to the east.  
+~
+192 8 0 0 0 0
+D1
+~
+~
+0 -1 19204 0
+S
+#19204
+Hall of Learning~
+Adventurers of all types mill about here, trying to perfect their
+skills.  The walls are covered with racks of weapons and armor that
+are used in the training.  A huge book case lines the west wall,
+containing numerous books and scroll on magic and the art of war.    
+~
+192 12 0 0 0 0
+D0
+~
+~
+0 -1 19201 0
+D1
+~
+~
+0 -1 19205 0
+D2
+~
+~
+0 -1 19207 0
+D3
+~
+~
+0 -1 19203 0
+S
+#19205
+Mage's Guild~
+Where the hell is the master?  You peer about the room looking for him
+but to no avail.  He must have left to go about an errand in town.  
+The Hall of Learning is to the west.    
+~
+192 8 0 0 0 0
+D3
+~
+~
+0 -1 19204 0
+S
+#19206
+Harbor and North Street Intersection~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 1
+D1
+~
+~
+0 -1 19207 0
+D2
+~
+~
+0 -1 19213 0
+S
+#19207
+North Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19204 0
+D1
+~
+~
+0 -1 19208 0
+D3
+~
+~
+0 -1 19206 0
+S
+#19208
+North Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19209 0
+D3
+~
+~
+0 -1 19207 0
+S
+#19209
+Nirin Highway and Wyndham Highway Junction~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  North
+street runs east and west.  The highway runs north and south.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19247 0
+D1
+~
+~
+0 -1 19210 0
+D2
+~
+~
+0 -1 19216 0
+D3
+~
+~
+0 -1 19208 0
+S
+#19210
+North Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19211 0
+D3
+~
+~
+0 -1 19209 0
+S
+#19211
+North Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19212 0
+D3
+~
+~
+0 -1 19210 0
+S
+#19212
+North and East Street Intersection~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 1
+D2
+~
+~
+0 -1 19219 0
+D3
+~
+~
+0 -1 19211 0
+S
+#19213
+Harbor Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19206 0
+D2
+~
+~
+0 -1 19220 0
+S
+#19214
+Magic Shop~
+This is a small room with a counter along the eastern wall.  There is
+nothing else in the room exept a small potted tree in the far corner.
+Apparently all the of the shops goods are conjured when needed.  The
+Merchant way back to the south.    
+~
+192 67108892 0 0 0 0
+D2
+~
+~
+0 -1 19221 0
+S
+#19215
+Smelly Cow Inn~
+It doesn't smell like a cow, you think to yourself as you step inside.
+The only thing you can smell is fresh ale, stew, and sweaty customers.
+A bar spans the entire length of the north wall and a flight of stairs
+lead up.  The Merchant Way is back to the south.    
+~
+192 67108888 0 0 0 0
+D2
+~
+~
+0 -1 19222 0
+D3
+~
+~
+0 -1 19200 16
+D4
+~
+~
+0 -1 19293 0
+S
+#19216
+Nirin Highway~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  The
+road runs north and south.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19209 0
+D2
+~
+~
+0 -1 19223 0
+S
+#19217
+Thuler's House of Armours~
+Amor of every kind is on display here, from the most simple to the
+state-of-the-art gear in existence.  A lone counter sits in the back
+of the room.    
+~
+192 67108888 0 0 0 0
+D2
+~
+~
+0 -1 19224 0
+S
+#19218
+Equipment Shop~
+Pieces of various equipment have been placed neatly on the large
+shelves and case that have been arranged here.  In the north end of
+the building lies a large counter and behind it, the shopkeep.    
+~
+192 8 0 0 0 0
+D2
+~
+~
+0 -1 19225 0
+S
+#19219
+East Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19212 0
+D2
+~
+~
+0 -1 19226 0
+S
+#19220
+harbor Street and Merchant Way Intersection~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  The two
+roads meet to form a busy intersection here.  You can smell the
+seawater in the air as you near the harbor.    
+~
+192 65536 0 0 0 1
+D0
+~
+~
+0 -1 19213 0
+D1
+~
+~
+0 -1 19221 0
+D2
+~
+~
+0 -1 19227 0
+D3
+~
+~
+0 0 19119 0
+S
+#19221
+Merchant Way~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  You see
+the magic shop to the north and the weapon shop to the south, the road
+leads east and west.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19214 0
+D1
+~
+~
+0 -1 19222 0
+D2
+~
+~
+0 -1 19228 0
+D3
+~
+~
+0 -1 19220 0
+S
+#19222
+Merchant Way~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  You see
+the Smelly Cow Inn to the north and the Vern'ige Bank to the south.  
+The city square is east.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19215 0
+D1
+~
+~
+0 -1 19223 0
+D2
+~
+~
+0 -1 19229 0
+D3
+~
+~
+0 -1 19221 0
+S
+#19223
+Vern'ige Square~
+You stand in the middle of Vern'ige's quaint square.  Pigeons mill
+about looking for food and the whole square is bordered by round
+shrubbery.  To the east and west lies the Merchant Way.  South leads
+to the city gates.  Aways to the west the tall masts of the ships
+docked in Vern'ige harbor are faintly visible.    
+~
+192 65536 0 0 0 1
+D0
+~
+~
+0 -1 19216 0
+D1
+~
+~
+0 -1 19224 0
+D2
+~
+~
+0 -1 19240 0
+D3
+~
+~
+0 -1 19222 0
+S
+#19224
+Merchant Way~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  To the
+north you see Thuler's House Of Armours, south is the enterance to
+Vern'ige's Guard Station.  The city square is to the west.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19217 0
+D1
+~
+~
+0 -1 19225 0
+D2
+~
+~
+0 -1 19230 0
+D3
+~
+~
+0 -1 19223 0
+S
+#19225
+Merchant Way~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  In the
+north you see the enterance to the equipment shop, south the grocery
+store.  The road leads east and west.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19218 0
+D1
+~
+~
+0 -1 19226 0
+D2
+~
+~
+0 -1 19231 0
+D3
+~
+~
+0 -1 19224 0
+S
+#19226
+Merchant Way and East Street Intersection~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.  The
+Merchant Way meets East Street here forming a three way intersection,
+East Street runs north and south.  Merchant Way leads west.  Walking
+east will take out of the city gates and onto the Old Highway.    
+~
+192 0 0 0 0 1
+D0
+~
+~
+0 -1 19219 0
+D2
+~
+~
+0 -1 19232 0
+D3
+~
+~
+0 -1 19225 0
+S
+#19227
+Harbor Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19220 0
+D1
+~
+~
+0 -1 19245 0
+D2
+~
+~
+0 -1 19233 0
+S
+#19228
+Wersgo's Weapons~
+Racks of weapons stand along the walls, ready to be used, for a price.
+Along the walls you see broadswords, daggers, flail, polearms, and
+anything else you would need to slay a person.    
+~
+192 67108888 0 0 0 0
+D0
+~
+~
+0 -1 19221 0
+S
+#19229
+Vernige Bank and Trust~
+You stand within a plush office building with potted plants of all
+kinds giving the room an outdoorsie feel.  Along the south wall of the
+building lies a row of tellers just waiting to take your money.    
+~
+192 8 0 0 0 0
+D0
+~
+~
+0 -1 19222 0
+S
+#19230
+Guard Station~
+You stand within a small brick building which serves as the nucleus
+for all guard activity in Vernige.  The guards on duty stand tall and
+proud in their issued chainmail.  A staircase leads up from here.    
+~
+192 8 0 0 0 0
+D0
+~
+~
+0 -1 19224 0
+D4
+~
+~
+0 -1 19251 0
+S
+#19231
+The Vern'ige Grocery Store~
+Fresh meats lie packed in ice at the southern end of the store.  
+Bread and other produce take up the rest of the store.  Along the east
+wall of the store lies a large counter and behind it, the shopkeep.  
+~
+192 67108888 0 0 0 0
+D0
+~
+~
+0 -1 19225 0
+S
+#19232
+East Street~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 4259840 0 0 0 10
+D0
+~
+~
+0 -1 19226 0
+D2
+~
+~
+0 -1 19239 0
+S
+#19233
+Harbor and South Street Intersection~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 1
+D0
+~
+~
+0 -1 19227 0
+D1
+~
+~
+0 -1 19234 0
+D3
+~
+~
+0 0 19159 0
+S
+#19234
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19235 0
+D3
+~
+~
+0 -1 19233 0
+S
+#19235
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19236 0
+D3
+~
+~
+0 -1 19234 0
+S
+#19236
+The City Gates~
+You stand before the large metal gates looking south down Nirin
+Highway.  The road is bordered by fields and farm houses.  South
+Street is a narrow cobble stone road that runs through the southern
+part of Vern'ige.  It would seem that the city planners are not to
+creative with their street names.  South Street continues to the east
+and west.    
+~
+192 65540 0 0 0 1
+D0
+~
+~
+0 -1 19240 0
+D1
+~
+~
+0 -1 19237 0
+D2
+~
+~
+0 -1 19601 0
+D3
+~
+~
+0 -1 19235 0
+S
+#19237
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19238 0
+D3
+~
+~
+0 -1 19236 0
+S
+#19238
+South Street~
+South Street is a narrow cobble stone road that runs through the
+southern part of Vern'ige.  It would seem that the city planners are
+not to creative with their street names.  South Street continues to
+the east and west.    
+~
+192 65536 0 0 0 10
+D1
+~
+~
+0 -1 19239 0
+D3
+~
+~
+0 -1 19237 0
+S
+#19239
+East and South Street Intersection~
+East and South Street form a three way intersection here.  East Street
+leads north and south, while South Street runs west.  You notice the
+sewer grate has been pried up enough for you to fit through.    
+~
+192 65536 0 0 0 1
+D0
+~
+~
+0 -1 19232 0
+D3
+~
+~
+0 -1 19238 0
+S
+#19240
+Nirin Highway~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19223 0
+D2
+~
+~
+0 -1 19236 0
+D3
+~
+~
+0 -1 19248 0
+S
+#19241
+The Vern'ige Ferry~
+You're inside a large wooden boat, that serves as a ferry on Lagoon,
+there is a map on the wall.    
+~
+192 8 0 0 0 0
+E
+map wall~
+The map says:
+
+ Vern'ige Ferry loop:
+
+       W---
+       |   \
+      /     \
+      |      V          ------J
+      K       \        /      /
+      |       `--B---'      / 
+      `--------------------'
+
+     [V]ern'ige Central Station
+     [W]yndham Station
+     [K]erofk Station
+     [B]lack River Station
+     [J]holem Station
+
+~
+S
+#19244
+The Vern'ige Ferry~
+You're inside a large wooden boat, that serves as a ferry on Lagoon,
+there is a map on the wall.    
+~
+192 8 0 0 0 0
+E
+map wall~
+The map says:
+
+ Vern'ige Ferry loop:
+
+       W---
+       |   \
+      /     \
+      |      V          ------J
+      K       \        /      /
+      |       `--B---'      / 
+      `--------------------'
+
+     [V]ern'ige Central Station
+     [W]yndham
+     [K]erofk Station
+     [B]lack River Station
+     [J]holem
+
+~
+S
+#19245
+The Temple of Dor~
+The Temple of Dor is a large marble structure, kept sound by all of
+the Dorian monks for generations.  South of you lies the Cleric's
+guild and north is the Paladin's Guild.  A staircase leads up, farther
+in to the temple.    
+~
+192 12 0 0 0 0
+D0
+~
+~
+0 -1 19296 0
+D2
+~
+~
+0 -1 19246 0
+D3
+~
+~
+0 -1 19227 0
+D4
+~
+~
+0 0 19297 0
+S
+#19246
+Cleric's Guild~
+In front of you, a large group of Dorian apprentices kneel before a
+marble statue of Dor, seeking guidance.  All of the apprentices wear
+long white robes trimmed with blue and hold a strange half smile upon
+their faces.    
+~
+192 8 0 0 0 0
+D0
+~
+~
+0 -1 19245 0
+S
+#19247
+The Old City Gates~
+These gates are a hold over from a time when Vern'ige was much
+smaller.  The surrounding wall is beginning to crack and crumble from
+age.  Now the gate and wall only server as an eye-sore.    
+~
+192 4 0 0 0 1
+D0
+~
+~
+0 -1 19266 0
+D2
+~
+~
+0 -1 19209 0
+S
+#19248
+Vern'ige City Hall~
+The coolest of the marble walls envelopes you as you step inside of
+the city hall.  Doors that lead to the offices of various city
+officials line the walls.  North is the war time registration office
+and west is the mayors office.    
+~
+192 8 0 0 0 0
+D0
+~
+~
+0 -1 19249 0
+D1
+~
+~
+0 -1 19240 0
+D3
+~
+~
+0 -1 19250 0
+S
+#19249
+War Registration Office~
+This is a small cubicle style office.  Cramed against the back wall is
+a wooden desk with chairs facing it.  There is a large sign on the
+wall.    
+~
+192 8 0 0 0 0
+D2
+~
+~
+0 -1 19248 0
+E
+sign wall~
+The sign says:
+
+      You must register if you wish to join the war! If you have had enough
+      you can retire.
+~
+S
+#19250
+Mayor's Office~
+This is a small cramped office dominated by a large desk that takes up
+most of the room.  Good thing the mayor isn't fat or he wouldn't be
+able to fit in his office.    
+~
+192 8 0 0 0 0
+D1
+~
+~
+0 -1 19248 0
+S
+#19251
+The top floor of the Guard Station~
+This is where the city guards of Vernige practice their fighting
+skills in order to better at protecting the local populous.  Straw and
+cloth dummies have been placed around the room and city guards take
+turns bashing, kicking, and stabbing them.    
+~
+192 8 0 0 0 0
+D5
+~
+~
+0 -1 19230 0
+S
+#19252
+Wyndham Highway~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19290 0
+D1
+~
+~
+0 -1 19253 0
+D2
+~
+~
+0 -1 19259 0
+D3
+~
+~
+0 -1 19292 0
+S
+#19253
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.    
+~
+192 0 0 0 0 2
+D1
+~
+~
+0 -1 19254 0
+D2
+~
+~
+0 -1 19260 0
+D3
+~
+~
+0 -1 19252 0
+S
+#19254
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.  A small pond lies to
+south and you cam hear the quacking of ducks from the same direction.
+~
+192 0 0 0 0 2
+D1
+~
+~
+0 -1 19255 0
+D2
+~
+~
+0 -1 19261 0
+D3
+~
+~
+0 -1 19253 0
+S
+#19255
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.  A small pond lies to
+south and you cam hear the quacking of ducks from the same direction.
+~
+192 0 0 0 0 2
+D1
+~
+~
+0 -1 19256 0
+D2
+~
+~
+0 -1 19262 0
+D3
+~
+~
+0 -1 19254 0
+S
+#19256
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.  A small pond lies to
+south and you cam hear the quacking of ducks from the same direction.
+~
+192 0 0 0 0 2
+D1
+~
+~
+0 -1 19257 0
+D2
+~
+~
+0 -1 19263 0
+D3
+~
+~
+0 -1 19255 0
+S
+#19257
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.  You can see a temple
+of some sort far off to the east.    
+~
+192 0 0 0 0 2
+D1
+~
+~
+0 -1 19258 0
+D2
+~
+~
+0 -1 19264 0
+D3
+~
+~
+0 -1 19256 0
+S
+#19258
+Vern'ige Park~
+This area appears to be a park area of sorts.  Small gazebos and
+picnic tables and benches line the edges of the road.  Looking up, you
+see the dense canopy of branches.  This place is very tranquil and you
+feel safe and at ease.  Beautiful flowers and ferns grow all around
+you.  The scar of society cannot be seen here.  You can see a temple
+of some sort off to the east.    
+~
+192 0 0 0 0 3
+D1
+~
+~
+0 0 19303 0
+D2
+~
+~
+0 -1 19265 0
+D3
+~
+~
+0 -1 19257 0
+S
+#19259
+Wyndham Highway~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19252 0
+D1
+~
+~
+0 -1 19260 0
+D2
+~
+~
+0 -1 19266 0
+D3
+~
+~
+0 -1 19295 0
+S
+#19260
+Vern'ige Park~
+Tall trees line the road here.  Except to the east, you can see a
+small pond.  Dense foliage and beautiful flowers are everywhere.  
+Just begging you to run around and play.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19253 0
+D1
+~
+~
+0 -1 19261 0
+D2
+~
+~
+0 -1 19267 0
+D3
+~
+~
+0 -1 19259 0
+S
+#19261
+A Small Pond~
+You are waist deep in murky brown water and lily pads.  Small fish and
+tadpoles swim in between your toes in and inside of your clothes with
+every move you make.    
+~
+192 0 0 0 0 6
+D0
+~
+~
+0 -1 19254 0
+D1
+~
+~
+0 -1 19262 0
+D2
+~
+~
+0 -1 19268 0
+D3
+~
+~
+0 -1 19260 0
+S
+#19262
+A Small Pond~
+The reeds and lily pads tangle together here making the water of the
+pond virtually unseen.  Although you know the water is there as it
+seeps into your clothes and begins to wrinkle your skin.    
+~
+192 0 0 0 0 6
+D0
+~
+~
+0 -1 19255 0
+D1
+~
+~
+0 -1 19263 0
+D2
+~
+~
+0 -1 19269 0
+D3
+~
+~
+0 -1 19261 0
+S
+#19263
+A Small Pond~
+A duck has built a nest in the reeds here by piling them high and
+knotting them together.  The water is about waist deep and is murky
+and brown colored.  Small water bugs swim around your legs in search
+of food.    
+~
+192 0 0 0 0 6
+D0
+~
+~
+0 -1 19256 0
+D1
+~
+~
+0 -1 19264 0
+D2
+~
+~
+0 -1 19270 0
+D3
+~
+~
+0 -1 19262 0
+S
+#19264
+Vern'ige Park~
+Tall trees line the road here.  Except to the west, you can see a
+small pond.  Dense foliage and beautiful flowers are everywhere.  
+Just begging you to run around and play.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19257 0
+D1
+~
+~
+0 -1 19265 0
+D2
+~
+~
+0 -1 19271 0
+D3
+~
+~
+0 -1 19263 0
+S
+#19265
+Vern'ige Park~
+The biggest tree you have ever seen lies to your south.  The tree's
+huge branches stretch far over your head and the rest of the trees in
+the park.  Wild flowers of all sorts grow here, painting the ground in
+a rainbow of colors.  A temple can be seen to the east.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19258 0
+D1
+~
+~
+0 -1 19302 0
+D2
+~
+~
+0 -1 19272 0
+D3
+~
+~
+0 -1 19264 0
+S
+#19266
+Wyndham Highway~
+This road, like most in Vern'ige is made up of a well kept cobble
+stone.  The road is kept looking neat and clean by the cities
+sanitation guild which works not stop to keep the city clean.    
+~
+192 65536 0 0 0 10
+D0
+~
+~
+0 -1 19259 0
+D1
+~
+~
+0 -1 19267 0
+D2
+~
+~
+0 -1 19247 0
+S
+#19267
+Vern'ige Park~
+Small trees line the sides of the trail through the park as you inhale
+the fresh sent of plant life.  Small flowers and ferns of all kinds
+grow here adding to the wonderful smells.  The old city wall is
+directly to the south.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19260 0
+D1
+~
+~
+0 -1 19268 0
+D3
+~
+~
+0 -1 19266 0
+S
+#19268
+Vern'ige Park~
+Small trees line the sides of the trail through the park as you inhale
+the fresh sent of plant life.  Small flowers and ferns of all kinds
+grow here adding to the wonderful smells.  The old city wall is
+directly to the south and a small pond in just north of you.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19261 0
+D1
+~
+~
+0 -1 19269 0
+D3
+~
+~
+0 -1 19267 0
+S
+#19269
+Vern'ige Park~
+Small trees line the sides of the trail through the park as you inhale
+the fresh sent of plant life.  Small flowers and ferns of all kinds
+grow here adding to the wonderful smells.  The old city wall is
+directly to the south and a small pond in just north of you.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19262 0
+D1
+~
+~
+0 -1 19270 0
+D3
+~
+~
+0 -1 19268 0
+S
+#19270
+Vern'ige Park~
+Small trees line the sides of the trail through the park as you inhale
+the fresh sent of plant life.  Small flowers and ferns of all kinds
+grow here adding to the wonderful smells.  The old city wall is
+directly to the south and a small pond in just north of you.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19263 0
+D1
+~
+~
+0 -1 19271 0
+D3
+~
+~
+0 -1 19269 0
+S
+#19271
+Vern'ige Park~
+Small trees line the sides of the trail through the park as you inhale
+the fresh sent of plant life.  Small flowers and ferns of all kinds
+grow here adding to the wonderful smells.  The old city wall is
+directly to the south.    
+~
+192 0 0 0 0 2
+D0
+~
+~
+0 -1 19264 0
+D1
+~
+~
+0 -1 19272 0
+D3
+~
+~
+0 -1 19270 0
+S
+#19272
+The Base of a Tree~
+You are at the base of the largest tree you have ever seen.  Looking
+up, you see many limbs you can climb up into.  A temple of some sort
+is to the north east.    
+~
+192 4 0 0 0 2
+D0
+~
+~
+0 -1 19265 0
+D1
+~
+~
+0 0 19301 0
+D3
+~
+~
+0 -1 19271 0
+D4
+~
+~
+0 -1 19276 0
+S
+#19273
+GET THE FUCK OUTTA THIS ROOM!!!~
+READ THE TITLE BIOTCH!
+~
+192 0 0 0 0 0
+S
+#19274
+Out on a Limb~
+The branch you stand upon is large and thick with many smaller
+branches branching off of it.  Sadly all of them are to small for you
+to walk on.  The trunk of the tree lies south.    
+~
+192 0 0 0 0 3
+D2
+~
+~
+0 -1 19276 0
+S
+#19275
+Bottom Branches~
+Leaves, Leaves and more leaves, oh wait that was a branch.  It is a
+long ways down you can see people playing in the park below you.    
+~
+192 0 0 0 0 3
+D1
+~
+~
+0 -1 19276 0
+S
+#19276
+The Tree Trunk~
+You are on the trunk of a huge tree.  Large branches stretch out in
+all directions.  You can climb up the tree or go back down.    
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19274 0
+D1
+~
+~
+0 -1 19277 0
+D2
+~
+~
+0 -1 19278 0
+D3
+~
+~
+0 -1 19275 0
+D4
+~
+~
+0 -1 19281 0
+D5
+~
+~
+0 -1 19272 0
+S
+#19277
+Bottom Branches~
+The branches of the tree sway back and forth, back and forth.  Better
+not puke on the park goers, that wouldn't sit well with the city
+guard...    
+~
+192 0 0 0 0 3
+D3
+~
+~
+0 -1 19276 0
+S
+#19278
+Bottom Branches~
+The branches sway back and forth, back and forth.  Better not puke on
+the park goers, that wouldn't sit well with the city guard...    
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19276 0
+S
+#19279
+Middle Branches~
+As you climb higher up the tree the branches begin to thin out.  
+While they are still able to hold your weight they bend in a most
+distressing fashion.    
+~
+192 0 0 0 0 3
+D2
+~
+~
+0 -1 19281 0
+S
+#19280
+Middle Branches~
+As you climb higher up the tree the branches begin to thin out.  
+While they are still able to hold your weight they bend in a most
+distressing fashion.    
+~
+192 0 0 0 0 0
+D1
+~
+~
+0 -1 19281 0
+S
+#19281
+The Tree Trunk~
+You are on the trunk of a huge tree.  Large branches stretch out in
+all directions.  You can climb up the tree or go back down.    
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19279 0
+D1
+~
+~
+0 -1 19282 0
+D2
+~
+~
+0 -1 19283 0
+D3
+~
+~
+0 -1 19280 0
+D4
+~
+~
+0 -1 19286 0
+D5
+~
+~
+0 -1 19276 0
+S
+#19282
+Middle Branches~
+As you climb higher up the tree the branches begin to thin out.  
+While they are still able to hold your weight they bend in a most
+distressing fashion.    
+~
+192 0 0 0 0 3
+D3
+~
+~
+0 -1 19281 0
+S
+#19283
+Middle Branches~
+As you climb higher up the tree the branches begin to thin out.  
+While they are still able to hold your weight they bend in a most
+distressing fashion.    
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19281 0
+S
+#19284
+Top Branches~
+The branches are really thin up here.  They crack and groan with every
+step you take.  Perhaps You should make your way back to the trunk.  
+~
+192 0 0 0 0 3
+D2
+~
+~
+0 -1 19286 0
+S
+#19285
+Top Branches~
+The branches are really thin up here.  They crack and groan with every
+step you take.  Perhaps You should make your way back to the trunk.  
+~
+192 0 0 0 0 3
+D1
+~
+~
+0 -1 19286 0
+S
+#19286
+High Up In a Tree~
+You are high on the trunk of a huge nirin tree.  The altitude makes
+you dizzy and lightheaded.  You can see the ships docked in the harbor
+and the mason working on the buidlings in town from up here.  
+Branches lead out in all directions and the trunk continues up.    
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19284 0
+D1
+~
+~
+0 -1 19287 0
+D2
+~
+~
+0 -1 19288 0
+D3
+~
+~
+0 -1 19285 0
+D4
+~
+~
+0 -1 19289 0
+D5
+~
+~
+0 -1 19281 0
+S
+#19287
+Top Branches~
+The branches are really thin up here.  They crack and groan with every
+step you take.  Perhaps You should make your way back to the trunk.  
+~
+192 0 0 0 0 3
+D3
+~
+~
+0 -1 19286 0
+S
+#19288
+Top Branches~
+The branches are really thin up here.  They crack and groan with every
+step you take.  Perhaps You should make your way back to the trunk.  
+~
+192 0 0 0 0 3
+D0
+~
+~
+0 -1 19286 0
+S
+#19289
+Top of the Tree~
+You are a top the huge tree.  You hang out into nothingness and feel
+the wind push you towards open space.  You can see the entire world
+from here.    
+~
+192 0 0 0 0 3
+D5
+~
+~
+0 -1 19286 0
+S
+#19290
+The City Gates~
+The large metal portcellis of the gates hangs directly over your head,
+just waiting to drop at the first sigh of trouble to seal of the city.
+North of you a vast plain stretches out in all directions and farther
+north you can see snow capped mountains at the edge of the horizon.  
+~
+192 65540 0 0 0 1
+D2
+~
+~
+0 -1 19252 0
+S
+#19291
+GET THE FUCK OUTTA THIS ROOM!!!~
+READ THE TITLE BIOTCH!
+~
+192 0 0 0 0 0
+S
+#19292
+Vern'ige Stable~
+You stand in a large barn like structure with a dirt floor.  On both
+sides of the building large wooden stalls hold various mounts, just
+waiting to be sold.  Most of the mounts are in good condition but some
+are sickly and in poor condition, best you choose wisely.    
+~
+192 8 0 0 0 0
+D1
+~
+~
+0 -1 19252 0
+S
+#19293
+Smelly Cow Inn~
+Hallways lead in all direction.  All of the hallways are lined with
+doors, some open, some closed.  In the center of the room stands a
+wooden desk.    
+~
+192 8 0 0 0 0
+D5
+~
+~
+0 -1 19215 0
+S
+#19294
+GET THE FUCK OUTTA THIS ROOM!!!~
+READ THE TITLE BIOTCH!
+~
+192 0 0 0 0 0
+S
+#19295
+Vern'ige Petshop~
+Pet's of all sort have been chained to small posts placed firmly in
+the floor of the pet shop.  Most of the pets whimper and whine and
+look at you with imploring eyes, just begging to be purchased.    
+~
+192 8 0 0 0 0
+D1
+~
+~
+0 -1 19259 0
+S
+#19296
+Paladin's Guild~
+At the center of this room is a large poduim from which the Paladin
+guild master gives long lectures and honor and virtue.  So much for
+grand adventure and daily heroism of being a Paladin.    
+~
+192 8 0 0 0 0
+D2
+~
+~
+0 -1 19245 0
+S
+#19297
+The Temple of Dor~
+The stairs come to a stop here, entering into a large room.  The room
+has several large tables with chairs neatly spaced in two by two rows.
+This must be the eating area for the temple monks and apprentices.  
+~
+192 8 0 0 0 0
+D0
+~
+~
+0 0 19298 0
+D5
+~
+~
+0 0 19245 0
+S
+#19298
+The Temple of Dor~
+This is the sleeping area of the temple monks and apprentices.  Bunk
+beds, four beds high are all arranged into a neat pattern.  The beds
+are placed along the east and west wall with another set running down
+the middle of the room.    
+~
+192 8 0 0 0 0
+D2
+~
+~
+0 0 19297 0
+D4
+~
+~
+0 0 19299 0
+S
+#19299
+The Temple of Dor~
+This is the sleeping area of the temple monks and apprentices.  Bunk
+beds, four beds high are all arranged into a neat pattern.  The beds
+are placed along the east and west wall with another set running down
+the middle of the room.    
+~
+192 8 0 0 0 0
+D5
+~
+~
+0 0 19298 0
+S
+$~

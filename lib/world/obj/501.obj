@@ -1,0 +1,41 @@
+#50100
+trade barge~
+a trade barge~
+A trade barge floats upon the water.~
+~
+32 0 0 0 0 1 0 0 0
+0 50100 0 0 0 0 0 0
+9999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#50101
+tiller~
+the tiller~
+A tiller rises from the deck.~
+~
+33 20 0 0 0 1 0 0 0
+50100 50100 50121 0 0 0 0 0
+9999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#50150
+Ring of Bloodthirst~
+a Ring of Bloodthirst~
+A Ring of Bloodthirst is lying at the ground.~
+~
+11 513 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+5 15600 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+18 1
+#50199
+bow~
+bow~
+A bow is here~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+10 0 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

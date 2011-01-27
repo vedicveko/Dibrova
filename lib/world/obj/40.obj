@@ -1,0 +1,149 @@
+#4001
+horns set~
+/cwa set of horns/c0~
+A set of horns lies here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+5 3666 3 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4002
+bladder milk~
+/cWa milk bladder/c0~
+/cWA milk bladder/cw has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+20 20 10 0 0 0 0 0
+25 2 2 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4003
+shovel~
+/cwa shovel/c0~
+A shovel lies here.~
+~
+5 524288 0 0 0 8193 0 0 0
+0 0 0 9 0 0 0 0
+2 6666 3 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4004
+short sword~
+/cwa /ccshort sword/c0~
+/cwA /ccshort sword/cw lies here./c0~
+Nothing.
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+3 7333 3 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4005
+hand axe~
+/cwa hand axe/c0~
+A hand axe lies here.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+3 333 3 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4006
+chainmail~
+/cwa chainmail shirt/c0~
+/cwA chainmail shirt lies here./c0~
+~
+9 2048 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+10 11833 10 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 20
+A
+18 1
+A
+1 -1
+#4007
+pick~
+/cwa pick/c0~
+A pick lies here.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+7 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4011
+broad axe~
+/cwa /cLbroad axe/c0~
+/cwA /cLbroad axe /cwhas been left here./c0~
+~
+5 1049152 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+15 5132 100 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#4012
+leather suit~
+/cwa /cyleather suit/c0~
+/cwA /cyleather suit/cw has been left here./c0~
+~
+9 65 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+3 5866 100 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#4013
+mace gleaming~
+/cwa /ccgleaming mace/c0~
+/cwA /ccgleaming mace/cw lies here./c0~
+~
+5 1986561 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+10 7560 20 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+A
+19 2
+#4014
+potion orange~
+/cwan /crorange potion/c0~
+/cwAn /crorange potion/cw lies here./c0~
+$n suddenly contorts as $e feels better and worse at the same time?!?
+~
+10 67108940 0 0 0 1 0 0 0
+21 61 0 0 0 0 0 0
+1 1051 10 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4015
+egg newt~
+/cwa /cRnewt/cw egg/c0~
+/cwA /cRnewt/cw egg lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+3 40 1 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4016
+anklet scaly~
+a scaly /cgAnklet/c0~
+/cwAn anklet, made from the scales of some kind of lizard, lie here./c0~
+~
+9 67108864 0 0 0 1048577 0 0 0
+2 0 0 0 64 0 0 0
+2 6133 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+A
+14 15
+#4099
+deed fire newt volcano~
+the deed to Fire Newt Volcano~
+The deed to Fire Newt Volcano has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+40 0 0 0 0 0 0 0
+1 6000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

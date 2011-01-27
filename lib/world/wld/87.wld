@@ -1,0 +1,1442 @@
+#8700
+Mouth of the Cave~
+Entering in through this cave somehow must have jarred something in
+the walling or ceiling loose, because as soon as you get both feet
+inside the cave, a gaint slab of ice comes crashing down, sealing the
+exit off without any hope of exit.    
+~
+87 65544 0 0 0 13
+D0
+~
+~
+0 0 8701 0
+D2
+~
+~
+0 0 3999 0
+E
+sign~
+This area is owned by the clan Genocide.
+
+Members of other clans can be pkilled
+here at any level.
+~
+S
+#8701
+Inside the Cave of the Frost Giants~
+This cave is made from solid ice and snow which has formed into
+smooth, white walls over many centuries.  Huge footprints are all over
+the floor, footprints from creatures easily three times the size of
+your feet - and judging by the width and height of this tunnel, that
+estimation is almost right on.    
+~
+87 65544 0 0 0 13
+D0
+~
+~
+0 0 8702 0
+D2
+~
+~
+0 0 8700 0
+S
+#8702
+Inside the Cave of the Frost Giants~
+This cave is made from solid ice and snow which has formed into
+smooth, white walls over many centuries.  Huge footprints are all over
+the floor, footprints from creatures easily three times the size of
+your feet - and judging by the width and height of this tunnel, that
+estimation is almost right on.    
+~
+87 65544 0 0 0 13
+D0
+~
+~
+0 0 8703 0
+D2
+~
+~
+0 0 8701 0
+S
+#8703
+Before the Ice Chute~
+This room is colder the the others, with a thick ice slide going
+deeper into the caves, there are strange drawings on the wall
+picturing a giant frost giant with a double bladed axe and no upper
+lip, beheading a smaller giant.  Each of the drawings seems to have
+the bigger giant getting bigger and bigger.    
+~
+87 65545 0 0 0 13
+D2
+~
+~
+0 0 8702 0
+D5
+~
+~
+0 0 8704 0
+S
+#8704
+On the Ice Slide~
+WOW!  This is kinda fun, sliding as fast as you can down a chute of
+solid ice, you see giant icicles hanging form the ceiling of the cave
+and realize that you'd never in a million years be able to climb back
+up this slide.    
+~
+87 65545 0 0 0 0
+D3
+~
+~
+0 0 8724 16
+D5
+~
+~
+0 0 8705 0
+S
+#8705
+Bottom of the Chute~
+Rubbing numb - or at the very least, cold - parts of your body, you
+take stock of where you are.  The chute angles upward into the heights
+of the cave, unclimbable by any creature.  There is a tunnel to the
+south and a rope leading down into darkness.    
+~
+87 65545 0 0 0 0
+D2
+~
+~
+0 0 8706 0
+D5
+~
+~
+0 0 8715 0
+S
+#8706
+Cave of the frost giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run north and south from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65544 0 0 0 13
+D0
+~
+~
+0 0 8705 0
+D2
+~
+~
+0 0 8707 0
+S
+#8707
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run north and south from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8706 0
+D2
+~
+~
+0 0 8708 0
+S
+#8708
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run north, west and south from here, the distance
+in either direction hard to discern from the same white color which
+the walls are made of.    
+~
+87 65544 0 0 0 13
+D0
+~
+~
+0 0 8707 0
+D2
+~
+~
+0 0 8709 0
+D3
+~
+~
+0 0 8713 0
+S
+#8709
+Cave of the frost giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run north and south from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8708 0
+D2
+~
+~
+0 0 8710 0
+S
+#8710
+Bend in the Tunnel~
+The tunnel makes a corner, running to the east and the north from
+here.  Odd noises come from the east, loud garbled sounds that chill
+you even further than the ice which surrounds you.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8709 0
+D1
+~
+~
+0 0 8711 0
+S
+#8711
+Dead End in the Frost Caves~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  They end here, the only apparent way out of here back to the
+west.  Looking down, you see a fairly large hole in the floor leading
+down into a dark area.  It does not look as if you would be able to
+get out of there.    
+~
+87 65545 0 0 0 13
+D1
+~
+~
+0 0 8721 16
+D3
+~
+~
+0 0 8710 0
+D5
+~
+~
+0 0 8712 0
+S
+#8712
+AVALANCHE!!!~
+OH NO as you step into this small chamber snow and ice crash all around
+you blocking the only exit and leaving you traped and at the mercy of the
+giant ice creature perched at the back of this chamber. ENJOY!
+~
+87 65548 0 0 0 13
+S
+#8713
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run east and west from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D1
+~
+~
+0 0 8708 0
+D3
+~
+~
+0 0 8714 0
+S
+#8714
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run east and west from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D1
+~
+~
+0 0 8713 0
+D3
+~
+~
+0 0 8716 0
+S
+#8715
+Icy Ledge~
+You come to a high ledge made of ice and snow, luckily there is a thick
+rope hanging down for you to climb up.    
+~
+87 65545 0 0 0 13
+D4
+~
+~
+0 0 8705 0
+S
+#8716
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run east and north from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8717 0
+D1
+~
+~
+0 0 8714 0
+S
+#8717
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run south and north from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8718 0
+D2
+~
+~
+0 0 8716 0
+S
+#8718
+Cave of the Frost Giants~
+The caves are solid ice and snow, surrounding you on every side.  The
+way through the caves are very open and clean, free of debris or
+garbage.  The caves run south and north from here, the distance in
+either direction hard to discern from the same white color which the
+walls are made of.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8719 0
+D2
+~
+~
+0 0 8717 0
+S
+#8719
+Before a Giant chamber~
+This chamber is dark and cold, but to the north you can see a bright
+light.  It seems to draw you, to call to you even as you just stand
+here.    
+~
+87 65545 0 0 0 13
+D0
+~
+~
+0 0 8720 0
+D2
+~
+~
+0 0 8718 0
+S
+#8720
+Biggrin's Room~
+This is the biggest room of the cave and is furnished to the extreme.
+A huge ice throne is in the center of the room, covered with polar
+bear skins.  A spring of ice cold watter bubbles loudly to your right,
+to the left you see a desk made of dwarf bones, and sitting in a chair
+made of elf bone is the largest frost giant you have ever seen.    
+~
+87 65548 0 0 0 0
+D0
+~
+~
+0 0 8726 0
+D2
+~
+~
+0 0 8719 0
+S
+#8721
+Secret Passage~
+The passage runs east through a much smaller portion of cave.  Maybe
+thats why its blocked off and basically unused - the giants can't fit
+through it.  Its hard to tell how far it goes with the way your light
+reflects off of the ice and snow.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 0 8722 0
+D3
+~
+~
+0 0 8711 16
+S
+#8722
+Secret Passage~
+The passage runs east to west through a much smaller portion of cave.
+Maybe thats why its blocked off and basically unused - the giants
+can't fit through it.  Its hard to tell how far it goes in either
+direction with the way your light reflects off of the ice and snow.  
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 0 8723 0
+D3
+~
+~
+0 0 8721 0
+S
+#8723
+Secret Passage~
+The passage ends apruptly with no warning at all.  A carved door in
+the east wall looks solid and unyielding - one that might hold BACK
+intruders.    
+~
+87 65544 0 0 0 0
+D1
+~
+door~
+1 0 9800 3
+D3
+~
+~
+0 0 8722 0
+S
+#8724
+Secret Passage~
+Somehow you've found this side-chamber from the chute.  Its not quite
+a cold in here as it was on the slide - its even possible that the
+flooring underfoot is rock rather than ice, although in this darkness
+its hard to tell.    
+~
+87 9 0 0 0 0
+D1
+~
+~
+0 0 8704 16
+D3
+~
+~
+0 0 8725 0
+S
+#8725
+Secret Ledge~
+You step out on to this ledge and realize that it must be used as a
+way to spy on the occupant of the room you see below you.  Unlike the
+rest of the cave this room is adorned with furniture, a great ice
+throne coverd with polar bear skins, a spring of ice cold watter
+bubbles in the center of the room, and a thick mat of bar and moose
+hide's piled in the corner of the room.  Off to your left there is a
+huge desk made of dwarf skulls, and in a giant chair made of elf
+bone's you see the largest frost giant you have ever seen.    
+~
+87 8 0 0 0 0
+D1
+~
+~
+0 0 8724 0
+D5
+~
+~
+0 0 8720 0
+S
+#8726
+Biggrin's Holding Tank~
+Sometimes Biggrin likes to hold his prisoners a bit longer than usual,
+keeping them in a state of terror for as long as he can.  When the
+prisoner becomes less afraid and accepts their fate is usually when
+Biggrin grows tired of them and eats them.  There is no one here now.
+~
+87 65548 0 0 0 0
+D2
+~
+~
+0 0 8720 0
+S
+#8730
+Entrance to the Golem Settlement~
+This is the entrance to a small settlement of rogue golems, golems which
+have fled from the fortress of an evil mage.  The settlement is composed of
+large huts made of straw, wood, and any other materials found in the
+surrounding land.  North leads into the settlement.
+~
+87 65536 0 0 0 1
+D0
+~
+~
+0 -1 8731 0
+D2
+~
+~
+0 0 4148 0
+S
+#8731
+The South Entrance to the Settlement~
+Golems can be seen going about their business in the streets, and some
+pause shortly to look at you, quite puzzled as to what one of your
+kind is doing in their small settlemnt.  To the east and west are
+huts, north leads farther into the settlement, and south leads out of
+the south gate.    
+~
+87 65536 0 0 0 0
+D0
+~
+~
+0 -1 8736 0
+D1
+~
+~
+0 -1 8732 0
+D2
+~
+~
+0 -1 8730 0
+D3
+~
+~
+0 -1 8734 0
+S
+#8732
+In a Hut~
+This is one of the residential huts of the golems which occupy this
+settlement.  It is sparsely furnished, only a few large chairs and a
+table are in this main room.  The floor is covered with straw and the
+smell of fresh leaves waft from the roof.  West leads from the hut and
+east leads into the dining area of the hut.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8733 0
+D3
+~
+~
+0 -1 8731 0
+S
+#8733
+In the Kitchen~
+This is where the golems come to make their food and to eat in the
+privacy of their own home.  All that is in this room is a table and a
+few chairs, along with a pit containing a pile of burned logs.  West
+leads back into the main room of the hut.    
+~
+87 65544 0 0 0 0
+D3
+~
+~
+0 -1 8732 0
+S
+#8734
+In a Hut~
+This is one of the residential huts of the golems which occupy this
+settlement.  It is sparsely furnished, only a few large chairs and a
+table are in this main room.  The floor is covered with straw and the
+smell of fresh leaves waft from the roof.  East leads from the hut and
+west leads into the dining area of the hut.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8731 0
+D3
+~
+~
+0 -1 8735 0
+S
+#8735
+The Kitchen~
+This is where the golems come to make their food and to eat in the
+privacy of their own home.  All that is in this room is a table and a
+few chairs, along with a pit containing a pile of burned logs.  East
+leads back into the main room of the hut.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8734 0
+S
+#8736
+In the Street~
+This is the main street in the settlement, all of the huts branch of
+from here.  To the east is a store, and a hut lies to the west.    
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8740 0
+D1
+~
+~
+0 -1 8737 0
+D2
+~
+~
+0 -1 8731 0
+D3
+~
+~
+0 -1 8738 0
+S
+#8737
+The General Store~
+The General is a very popular gathering place for the citizens of this
+settlemnet, for it has all the necessities for the people.  The store
+is well-kept and clean, having many items for sale on shelves along
+the walls.  West leads back to the street.    
+~
+87 65564 0 0 0 0
+D3
+~
+~
+0 -1 8736 0
+S
+#8738
+In a Hut~
+This is one of the residential huts of the golems which occupy this
+settlement.  It is sparsely furnished, only a few large chairs and a
+table are in this main room.  The floor is covered with straw and the
+smell of fresh leaves waft from the roof.  East leads from the hut and
+west leads into the dining area of the hut.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8736 0
+D3
+~
+~
+0 -1 8739 0
+S
+#8739
+The Kitchen~
+This is where the golems come to make their food and to eat in the
+privacy of their own home.  All that is in this room is a table and a
+few chairs, along with a pit containing a pile of burned logs.  East
+leads back into the main room of the hut.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8738 0
+S
+#8740
+Main Street~
+Two empty patches of grass lie to each side, awaiting a family of
+golems to build their house there.  Main Street continues north and
+south.    
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8741 0
+D2
+~
+~
+0 -1 8736 0
+S
+#8741
+Main Street~
+Workers mill about here.  On either side of the street are workplaces
+of different types.  To the east is a construction site, while to the
+west is a mill of some kind.  Main Street continues north and south.
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8744 0
+D1
+~
+
+~
+0 -1 8743 0
+D2
+~
+~
+0 -1 8740 0
+D3
+~
+~
+0 -1 8742 0
+S
+#8742
+The Lumber Mill~
+This is where all of the wood for the huts comes first to be shaped
+into appropriate pieces.  Workers work hard everywhere, preparing the
+wood for the different huts which are being built around the
+settlement.  East leads back to the street.    
+~
+87 65544 0 0 0 0
+D1
+~
+~
+0 -1 8741 0
+S
+#8743
+The Construction Site~
+It looks like a new hut is being built here, most likely another
+house.  Pieces of wood, bundles of hay, and piles of leaves are
+everywhere.  West leads back into the street.    
+~
+87 65536 0 0 0 0
+D3
+~
+~
+0 -1 8741 0
+S
+#8744
+Before the Temple~
+The hut which serves as the temple for the golems lies to the north.
+It is larger and better made than the rest of the huts.  The straw
+walls are more tightly woven and the roof made of wood, instead of
+just leaves.  Main Street leads south, while another street leads east
+and west here.    
+~
+87 65536 0 0 0 0
+D0
+~
+~
+0 -1 8745 0
+D1
+~
+~
+0 -1 8756 0
+D2
+~
+~
+0 -1 8741 0
+D3
+~
+~
+0 -1 8746 0
+S
+#8745
+The Temple~
+This is the hut which the golems use as their temple.  This is where
+they have come to rest after a long hard day of work, a hunt, or
+perhaps a battle.  The floor is covered with finely woven rugs bought
+from elsewhere, and the walls are adorned with holy symbols.  South
+leads back to the street.    
+~
+87 65544 0 0 0 0
+D2
+~
+~
+0 -1 8744 0
+S
+#8746
+Beginning of West Street~
+West street is composed mainly of small, dirty shacks, and filthy
+streets.  This is where the poorer golems come to live, since they
+can't afford the nicer huts on Main Street or East Street.  To the
+east is a temple, shacks lie to the north and south while West Street
+continues west.    
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8747 0
+D1
+~
+~
+0 -1 8744 0
+D2
+~
+~
+0 -1 8748 0
+D3
+~
+~
+0 -1 8749 0
+S
+#8747
+In a Shack~
+The shack is filthy, with trash all over the floor, and the walls and
+roof falling apart.  There is a small pit in the center with wood for
+burning in it, and no furniture save a few small cots next to the
+walls.  South leads back to West Street.    
+~
+87 65544 0 0 0 0
+D2
+~
+~
+0 -1 8746 0
+S
+#8748
+In a Shack~
+The shack is filthy, with trash all over the floor, and the walls and
+roof falling apart.  There is a small pit in the center with wood for
+burning in it, and no furniture save a few small cots next to the
+walls.  North leads back to West Street.    
+~
+87 65544 0 0 0 0
+D0
+~
+~
+0 -1 8746 0
+S
+#8749
+West Street~
+West street is a small, filthy street.  Rats and other small rodents
+scamper around the trash.  West Street heads east and west.    
+~
+87 65536 0 0 0 10
+D1
+~
+~
+0 -1 8746 0
+D3
+~
+~
+0 -1 8750 0
+S
+#8750
+West Street~
+West street is extremely dirty here, with rodents running about
+everywhere.  A small shack lies to the north, an abandoned hut lies to
+the south, and West Street heads east and west.    
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8752 0
+D1
+~
+~
+0 -1 8749 0
+D2
+~
+~
+0 -1 8751 0
+D3
+~
+~
+0 -1 8753 0
+S
+#8751
+An Abandoned Store~
+This was once a profitable store in the settlement, but has since been
+run down and forgotten.  The counter on the south wall is cracked in
+many places, and there is no furniture.  There is a sign on the east
+wall, and north leads back to West Street.    
+~
+87 65544 0 0 0 0
+D0
+~
+~
+0 -1 8750 0
+E
+sign wall~
++------------------------+
+|  Grink's Supply Store  |
+|========================|
+|                        |
+|  Dealing in the Best   |
+| Adventuring Equipment  |
+|                        |
++------------------------+~
+S
+#8752
+A Shack~
+The shack is filthy, with trash all over the floor, and the walls and
+roof falling apart.  There is a small pit in the center with wood for
+burning in it, and no furniture save a few small cots next to the
+walls.  South leads back to West Street.    
+~
+87 65544 0 0 0 0
+D2
+~
+~
+0 -1 8750 0
+S
+#8753
+End of West Street~
+You have reached the end of West Street, the dirtiest part of the
+settlement.  The west wall is covered with writing, and the center is
+made of a different colored bricks.  Abandoned shacks lie to the north
+and south, and West Street heads back to the east.    
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8754 0
+D1
+~
+~
+0 -1 8750 0
+D2
+~
+~
+0 -1 8755 0
+S
+#8754
+An Abandoned Shack~
+This shack has been long abandoned by the inhabitants, most likely in
+order to find a better living place.  The shack is now inhabited by
+rodents and other vermin.  South leads back to West Street.    
+~
+87 65544 0 0 0 0
+D2
+~
+~
+0 -1 8753 0
+S
+#8755
+In an Abandoned Shack~
+This shack has been long abandoned by the inhabitants, most likely in
+order to find a better living place.  The shack is now inhabited by
+rodents and other vermin.  North leads back to West Street.    
+~
+87 65544 0 0 0 0
+D0
+~
+~
+0 -1 8753 0
+S
+#8756
+Beginning of East Street~
+East street is where the wealthy golems come to live.  These golems
+have mostly made their fortunes from selling their wares to the
+adventurers who come through the settlement.  To the west lies a
+temple, and East street continues to the east.    
+~
+87 65536 0 0 0 10
+D1
+~
+~
+0 -1 8757 0
+D3
+~
+~
+0 -1 8744 0
+S
+#8757
+East Street~
+East Street is very well kept, with fine huts and plants lining the
+road.  This is the only road in the settlement to have a cobblestone
+road, due to the rich occupants.  A large hut lies to the north, a
+residence lies to the south, and East Street contin ues east and west.
+~
+87 65536 0 0 0 10
+D0
+~
+~
+0 -1 8758 0
+D1
+~
+~
+0 -1 8760 0
+D2
+~
+~
+0 -1 8759 0
+D3
+~
+~
+0 -1 8756 0
+S
+#8758
+Dorak's Supplies~
+This is an expensive supply store, where only the wealthies
+adventurers may shop.  All of the equipment within is finely crafted,
+the best in the land.  South leads back to East Street.    
+~
+87 65756 0 0 0 0
+D2
+~
+~
+0 -1 8757 0
+S
+#8759
+A Residence~
+This is a residence of a wealthy golem from the settlement.  It is
+very well kept, and has fine furniture all around.  North leads back
+to East Street.    
+~
+87 65544 0 0 0 0
+D0
+~
+~
+0 -1 8757 0
+S
+#8760
+East Street~
+East Street is very clean and well kept, with no litter anywhere.  
+The cobblestones in the street are fairly new, with not many chips on
+them.  The plants lining the street are green and well watered.  East
+street heads east and west.    
+~
+87 65536 0 0 0 10
+D1
+~
+~
+0 -1 8761 0
+D3
+~
+~
+0 -1 8757 0
+S
+#8761
+End of East Street~
+This is the end of East Street.  The dead end is as well kept as the
+rest of the street, it has no writing on it, only fine brick.  East
+street continues west.    
+~
+87 65536 0 0 0 10
+D1
+~
+wall brick dead end~
+1 -1 8762 3
+D3
+~
+~
+0 -1 8760 0
+S
+#8762
+The Secret Chamber~
+You have entered the secret chamber of the master golem.  This is
+where the master golem resides and does his work, where he runs the
+settlement from.  It is very dark, but still well-kept and beautifully
+furnished.    
+~
+87 65545 0 0 0 0
+D3
+~
+wall brick~
+1 -1 8761 3
+S
+#8771
+Camp Entrance (East)~
+You are in a small clearing, it looks like some sort of camp to you,
+there are two guards a little ways north of here.  They are
+semi-hidden, off the immediate path atleast.  It's a rather poor look
+out station actually.  They are looking at you with caution, but are
+making no attempt to confront you.  This camp mustn't be attacked very
+often, certainly not by a singular person.  Besides, you could even be
+why one of the messengers was sent away.    
+~
+87 0 0 0 0 2
+D0
+~
+~
+0 0 8780 0
+D2
+~
+~
+0 0 3512 0
+D3
+~
+~
+0 0 8772 0
+S
+#8772
+Path in the Camp~
+You are on a small path running through the clearing, there are wild
+flowers growing all around you.  You can see some bushes off in the
+distance, probably a food source for the camp.  There was a small
+creek a ways back, in the woods, they probably fish there for food as
+well.  There are tents scattered all along the path, they seem to get
+larger as you approach what looks to be the center of the camp.  It
+must be some sort of rank in the camp.  The tents seem to be made of
+deer skins and other fine furs.    
+~
+87 0 0 0 0 10
+D1
+~
+~
+0 0 8771 0
+D2
+~
+~
+0 0 8781 0
+D3
+~
+~
+0 0 8773 0
+S
+#8773
+Path in the Camp~
+You are on a small path running east and west, through a field.  
+There are flowers covering most of the field except around the many
+tents that are scattered along the small path.  The path looks like it
+is the most traveled in the camp.  There isn't much grass on the
+ground where the path is and there are many huff prints from horses
+and other animals that are probably farmed in the fields.  The camp is
+probably nomadic but they probably stay here for most of the summer
+because they can grow food in the fields and there is a lot of berry
+patches in the woods.  They probably travel southwest to the plains
+during the winter, they probably have a treaty with the kenku in order
+to stay in the large plain near the Anchient Tree.  That's quite a
+ways to the south and the winter season isn't as harsh as it is in
+these woods.    
+~
+87 0 0 0 0 10
+D0
+~
+~
+0 0 8789 0
+D1
+~
+~
+0 0 8772 0
+D3
+~
+~
+0 0 8774 0
+S
+#8774
+Path in the Camp~
+You are on a path in a small field.  There are two large tents to the
+west and you guess that you are close to the center of the camp.  
+There are a few guards and other people sitting around a large fire.
+For the most part, you haven't seen too many people only a few.  The
+camp must be smaller than you first thought.  There aren't as many
+flowers around these tents and there is a smell of animals to the
+north.  They apparently keep some sort of herd for a major meat
+source.  It can't be that hard to raise grazing animals in the middle
+of a field.    
+~
+87 0 0 0 0 10
+D0
+~
+~
+0 0 8780 0
+D1
+~
+~
+0 0 8773 0
+D3
+~
+~
+0 0 8775 0
+S
+#8775
+Center of the Camp~
+You are at the center of the camp, there is a large fire here and lots
+of people.  There are a few dogs and other animals but they keep out
+of the way.  The head of the camp doesn't appear to be out here, he's
+probably in his tent, it looks like the one to the north.  The camp
+looks friendly and not a bit concerned with your intrusion.    
+~
+87 0 0 0 0 1
+D0
+~
+~
+0 0 8782 0
+D1
+~
+~
+0 0 8774 0
+D2
+~
+~
+0 0 8784 0
+D3
+~
+~
+0 0 8776 0
+S
+#8776
+Path in the Camp~
+You are still on that small path that goes through the clearing.  
+There are more tents now and you've seen a few people on your way to
+the find the person in charge.  It is getting dark now and you can see
+the fire up ahead, there are quite a few people sitting around it.  
+There are a couple guards that you can see and a few animals wondering
+around the camp.  The animals are probably tied up, except for maybe
+the dogs.    
+~
+87 0 0 0 0 10
+D0
+~
+~
+0 0 8786 0
+D1
+~
+~
+0 0 8775 0
+D3
+~
+~
+0 0 8777 0
+S
+#8777
+Path in the Camp~
+You are on a small path heading east and west.  There are a few tents
+scattered along the way.  To the side of the trail you can see
+hundreds of type of wild flowers in the fields and there are berry
+bushes here and there.  To the west there is a small stream of running
+water that winds it's way through the field.  There isn't a bridge
+over it, but then again anyone could easily hop over the small stream.
+~
+87 0 0 0 0 10
+D0
+~
+~
+0 0 8788 0
+D1
+~
+~
+0 0 8776 0
+D2
+~
+~
+0 0 8787 0
+D3
+~
+~
+0 0 8778 0
+S
+#8778
+Camp Entrance (West)~
+You are at the west enterence into a large clearing.  There seems to
+be a camp in the middle of the clearing and there is a small, well
+used path heading east, towards the center of the camp.  There are two
+guards to the west, they are looking at you with some caution, yet
+they don't seem to care much that you are about to walk right into the
+camp.  Those guards can't be paid very well to do their job, if
+they're paid at all.    
+~
+87 0 0 0 0 2
+D1
+~
+~
+0 0 8777 0
+D3
+~
+~
+0 0 8779 0
+S
+#8779
+Watch Post~
+You are at the west look out.  There are two guards here and one is
+trying to get your attention, you just continue on your way into the
+clearing.  It must be a camp or something, why else would there be
+guards posted on the parimeters?  This look out post isn't in the most
+ideal place, it is off the path and there is brush all around, it's
+not even on a higher level than the path, infact it's in a ditch.  
+The look outs mustn't be too bright.    
+~
+87 1 0 0 0 0
+D1
+~
+~
+0 0 8778 0
+S
+#8780
+Watch Post~
+You are near the east watch post.  There are three guards here and
+they are looking your way.  One calls out, "Hey, you there.  " But you
+continue on your way ignoring the guard.  There has to be someone in
+charge further in the camp, you'll just have to find them.  The guards
+make little effort to stop you, since you are alone.  It'll probably
+be one of their biggest, if not last mistakes though.  It all depends
+on how your meeting with the one in charge goes.  If you don't end up
+killing them, the guards won't have to fight you.    
+~
+87 1 0 0 0 0
+D2
+~
+~
+0 0 8774 0
+S
+#8781
+East Lookout's Tent~
+You are in a small tent, there isn't anyone in it, but there are some
+old weapons and armor on the ground.  You can see a few other
+belongings that suggests that this is the guards' tent from a ways
+back.  The tent isn't very large and there is a hole in the top to let
+out the smoke from the fire pit in the center of the tent.  It isn't
+very dark in the tent but it is hot.  You decide to continue on your
+way to the center of the camp, the leader must be close to the center
+if you guessed the ranking system correctly.    
+~
+87 9 0 0 0 0
+D0
+~
+~
+0 0 8772 0
+S
+#8782
+Head Tent~
+You are in the head tent, it is the largest in the camp and the most
+decorated.  There are painted emblems of the camp on all the walls
+inside and out.  There is plenty of food and water in baskets and
+bowls.  There are fine furs all over the ground and there is a large
+fire pit in the center of the room.  The fire is lit and there are two
+people sitting near it, eating some fish and talking to each other.  
+They haven't noticed you yet.    
+~
+87 9 0 0 0 0
+D1
+~
+~
+0 0 8783 0
+D2
+~
+~
+0 0 8775 0
+S
+#8783
+Head Tent~
+You are in the back of the head tent, this room alone is larger than
+most of the tents that you've seen further out in the camp.  This room
+could probably sleep more than half the camp itself.  It is dark and
+you can't see much but there is a nice smell in the air despite the
+lit fire to the west.  The entire ground is covered in fine furs and
+there is a large pile in the middle of the tent, this must be where
+head of the camp sleeps.    
+~
+87 9 0 0 0 0
+D3
+~
+~
+0 0 8782 0
+S
+#8784
+Large Tent~
+There are baskets of food and bowls of water in the back of this room
+and there is a doorway leading west.  This tent is actually made of
+two sections, it is quite large and must belong to a very high rank in
+the camp.  There are piles of fur to sleep on instead of hay and the
+is a nice fragrance in the are unlike the smokey smell from the other
+tents.  There are painted emblems on the outer walls and there is a
+fire pit in the center of the room.  There is also a hole in the
+ceiling for ventilation.    
+~
+87 9 0 0 0 0
+D0
+~
+~
+0 0 8775 0
+D3
+~
+~
+0 0 8785 0
+S
+#8785
+Large Tent~
+You are in the back of a large tent, this tent must be one of the
+noble's it is the largest you've seen next to the head tent that is.
+It is dark and there is a fire pit in the center of this room.  You
+can see many fine trinkets and furs all around.  There isn't any hay
+for sleeping, there are piles of furs instead.  There are many fine
+weapons hanging from poles that hold the tent up.  The tent itself has
+painted emblems on the outsides.  This tent is owned by a high rank in
+the camp that's for sure.    
+~
+87 9 0 0 0 0
+D1
+~
+~
+0 0 8784 0
+S
+#8786
+Small Tent~
+You are in a small tent.  You notice that the tents have gotten larger
+as you get closer to the center of the camp.  It could be a ranking
+system of some sort, but you haven't a clue as to what it means.  The
+tent is dark and you can't see much but you do notice a small basket
+in the back.  You can also see a small fire pit with a hole in the
+tent above it.  The tent smells a little like smoke but not as bad as
+the guard tent that you were in earlier.    
+~
+87 9 0 0 0 0
+D2
+~
+~
+0 0 8776 0
+S
+#8787
+West Lookout's Tent~
+This tent has a pile of hay in it and some other belongings.  It is
+probably the guard's tent.  There isn't anyone in it though and you
+could probably walk off with anyone of the weapons on the ground.  
+Then again, all the weapons are old and worthless so it wouldn't be
+worth the trouble.  There is a fire pit in the center of the tent and
+a hole in the top of the tent for ventilation.  Other than that, the
+tent is quite dark and smells of smoke from the recent fire.    
+~
+87 9 0 0 0 0
+D0
+~
+~
+0 0 8777 0
+S
+#8788
+Storage Tent~
+You are in a small, dark tent, it has baskets of fruit and dried fish in
+it.  This tent must be used for storing food.  Why is it so far away from
+the center of the camp though?  Maybe it's for the guards.  Maybe it's close
+to the guards so that they can watch it.  It doesn't make much sense to you.
+The guards couldn't see this tent from that far away.  Maybe there are more
+guards, ahh..  But what does it matter?  It's only food, and there's plenty
+of it in the forest anyway.  
+~
+87 9 0 0 0 0
+D2
+~
+~
+0 0 8777 0
+S
+#8789
+Storage Tent~
+This is a small, dark tent, it has dried fish and baskets of berries
+in it.  The tent must be used for storage, you wonder why it isn't
+closer to the center of the camp, it may be close enough for the
+guards to get food too.  Then again, if the camp was attacked, the
+tents with food would go first, that would save more people that way.
+That is probably the reason for the storage tents being on the outer
+edge of the camp.  It isn't a bad idea, it would be affective in most
+attacks.    
+~
+87 9 0 0 0 0
+D2
+~
+~
+0 0 8773 0
+S
+#8790
+Dark Tent~
+You are in a very dark tent, it isn't a small as the guard tent you
+saw earlier but it doesn't have any weapons in it.  It may be a slave
+tent, there aren't any furnishings only a pile of hay and a bowl of
+water.  There is no fire pit and no hole in the top for venting.  The
+tent itself looks newly constructed.  Then you notice an animal in the
+hay, it looks like a pig, wait, there are two of them.  The tent must
+have been made to hold the pigs, it doesn't look like it would work
+very well, but the pigs are probably tied up.    
+~
+87 0 0 0 0 0
+D2
+~
+~
+0 0 8774 0
+S
+$~

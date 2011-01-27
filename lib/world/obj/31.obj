@@ -1,0 +1,323 @@
+#3100
+tea cup~
+/cwa cup/c0~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 11 0 0 0 0 0
+13 5 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cup~
+It is a small simple cup.
+~
+#3101
+coffee cup~
+a /cycup/c0~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+8 8 12 0 0 0 0 0
+13 7 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cup~
+It is a small simple cup.
+~
+#3102
+water cup~
+a /cgcup/c0~
+A cup has been set here.~
+~
+17 0 0 0 0 1 0 0 0
+12 12 15 0 0 0 0 0
+17 2 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cup~
+It is a large simple cup.
+~
+#3103
+water bottle~
+a /cwbottle/c0~
+A bottle of Evian natural spring water is here.~
+~
+17 0 0 0 0 1 0 0 0
+24 24 15 0 0 0 0 0
+29 10 6 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+label~
+You've been ripped off!  It says here at the bottom of the label, in really
+really small letters, 'Bottled in the Midgaard branch of Evian Inc.  This
+water is from the natural, mostly clean River of Midgaard.'
+~
+E
+bottle~
+It is a large, clean bottle.  There is a large label pasted on the side.
+~
+#3104
+water canteen~
+a /cbcanteen/c0~
+A canteen has been set on the ground here.~
+~
+17 0 0 0 0 1 0 0 0
+30 30 15 0 0 0 0 0
+35 45 15 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+canteen~
+It is a fairly big canteen.  Looks like it can hold a lot of liquid.
+~
+#3105
+key iron~
+an /cLiron key/c0~
+An iron key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key iron~
+The iron key is not special.  In fact, it is quite boring.
+~
+#3106
+key rusty~
+a /crrusty key/c0~
+A rusty key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key rusty~
+The key is a fairly large rusty key.  You notice a lot of dirt it.
+~
+#3107
+key wooden~
+/cwa wooden key/c0~
+A wooden key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key wooden~
+The wooden key is not special.  In fact it is just about the most boring
+key you've ever seen in your life.
+~
+#3108
+key brass~
+a /cYbrass key/c0~
+A brass key has been left here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key brass~
+The brass key is small and looks like it fits a very complicated lock.
+~
+#3109
+desk drawer~
+/cwthe desk/c0~
+/cwA desk is set up against the western wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+34 15 3107 0 0 0 0 0
+10000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+desk~
+The desk looks very sparse, there is a drawer in the left side.
+~
+E
+drawer~
+You notice a keyhole in the drawer.
+~
+#3110
+safe~
+the /cLsafe/c0~
+/cLA safe/cw is placed in a /cLdark corner/cw of the room/c0~
+~
+15 0 0 0 0 0 0 0 0
+34 15 3108 0 0 0 0 0
+999 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+safe~
+The safe is very heavy and has a keyhole.
+~
+#3111
+bench~
+the /cWBench/c0~
+/cWA white-painted wooden bench is standing here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 600 200 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its front
+towards the river so you can sit and watch the river and the houses on the
+other side.
+~
+#3112
+key city~
+the /cpCity key/c0~
+/cwThe very big /cmCity Key/cw is lying here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+15 100 500 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key city~
+It is probably the biggest key you have seen in your life.  It is made from
+polished gold and has various patterns on it along with the Midgaard Coat of
+Arms.
+~
+#3113
+fountain water~
+a /cyFountain/c0~
+/cwA small white fountain is gurgling happily./c0~
+~
+23 0 0 0 0 0 0 0 0
+999 999 15 0 0 0 0 0
+999 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fountain water~
+It is very nice.  Made from fine white marble.
+~
+#3114
+coins gold~
+/cwa small pile of /cYgold coins/c0~
+/cwA small pile of /cYgold coins/cw lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+37 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3115
+gold coins~
+the /cYgold/c0~
+/cYA lot of gold is here./c0~
+~
+20 0 0 0 0 1 0 0 0
+700 0 0 0 0 0 0 0
+0 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3116
+candlestick candle stick pewter~
+/cwa candlestick/c0~
+/cwA pewter candlestick is standing here./c0~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0 0 0 0 0
+5 150 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+candlestick~
+It is a rather old-looking three-armed candlestick made from pewter.  Its
+candles are a yellowish white color.
+~
+#3117
+tree elm~
+an /cyElm /cgTree/c0~
+/cwAn old /cyElm /cgtree /cwgrows here./c0~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+elm tree~
+The fresh young leaves of the elm tree wave gently in the wind.
+~
+#3118
+Sign~
+a /cWNewbie Sign/c0~
+/cWA Newbie sign showing newbies where to go is dug into the ground before you./c0~
+Welcome newbie!  You have found /cRDibrova/cw.  We have made several
+special zones just for you.  Have fun and /ccexplore /cwthe realms
+within.  Ask any god for help, we are nice and willing to answer any
+questions you may have.  The /cCNewbie Zone /cwis four north from
+here.  Follow the signs from there.  Pick and choose the special area
+you want to kill in.  /c0
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3119
+Traffic Sign~
+a /cRTraffic Sign for Newbies/c0~
+/cwA /cRTraffic Sign /cwis here directing newbies to /cCgo west/cw./c0~
+If you have looked at this sign, you are wasting your time :)
+Go west to find the newbie headquarters and the beginning of
+the /crkilling fields/cw./c0
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3120
+sign tree~
+/cwa /cGtree /cwwith directions/c0~
+/cwA /cGTree /cwwith many different /cPdirections /cwto zones is here./c0~
+/cwTo the /cWEast /cwis the /crLabyrinth/cw.
+Just /cWdown /cwfrom here is the /ccNewbie House Zone/cw.
+The /cCNewbie Zone /cwis two /cWNorth /cwfrom here.
+Go /cWsouth and west /cwto get to the /cPNewbie Asylum/cw.
+To the /cWWest /cwis a small /cGmedieval game/cw./c0
+/cw/cWUpwards/cw lies the many branches of the /cYGreat Tree/cw./c0
+/cwTo the /cWsouth/cw is the /cMS/cBa/cRv/cYa/cGg/cMe /cBG/cRa/cYr/cGd/cMe/cBn/c0.
+/cwTo the /cWnorth/cw and /cWwest/cw /cwis a short quest for the /cbdig /cwand /cbbury/cw skills./c0
+~
+16 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3160
+desk~
+a Sturdy Desk~
+A large desk stands here with papers neatly piled upon it.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3166
+cigar box cigarbox~
+a cigar box~
+A cigar box rests on the desk, open.~
+~
+15 0 0 0 0 0 0 0 0
+99 0 -1 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3167
+cigar~
+a Cigar~
+A cigar has been discarded here.~
+~
+26 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3199
+undefined~
+undefined~
+undefined~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

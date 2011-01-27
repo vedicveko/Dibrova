@@ -1,0 +1,26 @@
+#9550
+fiend~
+a Swamp Fiend~
+A Swamp Fiend swoops down and attacks!
+~
+These foul creatures have vowed to lay waste to the city of Khellis,
+and are extremely close to doing so.  Resembling twisted, vile Elves
+with huge leathery wings, they are seemingly innumerable in number and
+insatiable in appetite.    
+~
+6248 0 0 0 8404992 0 0 0 -1000 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+7 7 0
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 23
+Luck: 12
+Class: 3
+Race: 8
+E
+$

@@ -1,0 +1,1309 @@
+#9300
+Toll Entry~
+Serving more as a guard post than a toll booth, this is where all
+would-be trespassers are detained and/or kept from entering into the
+small hamlet of Villspah.  The Baron is a generous man and a competent
+mage, but his generousity only extends to those that he invites onto
+his lands.    
+~
+93 32768 0 0 0 10
+D1
+~
+~
+0 0 9301 0
+D3
+~
+~
+0 0 8457 0
+S
+#9301
+Woodplank Roadway~
+Rough timber has been cut and laid over top of the dirt of the road,
+making progress extremely easy.  The road spans eastward for an
+extremely long distance, ending at a large castle that can be just
+barely seen from here.    
+~
+93 32772 0 0 0 10
+D1
+~
+~
+0 0 9302 0
+D3
+~
+~
+0 0 9300 0
+S
+#9302
+Woodplank Roadway~
+Rough timber has been cut and laid over top of the dirt of the road,
+making progress extremely easy.  The road spans eastward for an
+extremely long distance, ending at a large castle that can be just
+barely seen from here.    
+~
+93 32768 0 0 0 10
+D1
+~
+~
+0 0 9303 0
+D3
+~
+~
+0 0 9301 0
+S
+#9303
+At the Fringes of Villspah~
+You stand on the edge of a town named after the Barony which built and
+rules over it.  Two wooden buildings lie east of here, one on either
+side of the road.  From the look of them and the general smell, they
+must be the stables.  A small town lies just the other side of the
+buildings.    
+~
+93 32768 0 0 0 10
+D1
+~
+~
+0 0 9304 0
+D3
+~
+~
+0 0 9302 0
+S
+#9304
+Entering into Villspah~
+Wood buildings lie on both sides of the road, one a stable and one a
+horseman's shop.  Clusters of shops lean in on along the sides of the
+roads, this small community thriving quite well, from all appearances.
+~
+93 32768 0 0 0 10
+D0
+~
+door~
+1 0 9327 3
+D1
+~
+~
+0 0 9305 0
+D2
+~
+~
+0 0 9345 0
+D3
+~
+~
+0 0 9303 0
+S
+#9305
+Main Road~
+This main center road is where most of the foot traffic of this small
+hamlet passes - either on their way to or from the castle.  The castle
+itself lies a short distance to the east, dominating the view in that
+direction.  Another road criss-crosses this one, traveling to the
+north and south.    
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9319 0
+D1
+~
+~
+0 0 9306 0
+D2
+~
+~
+0 0 9320 0
+D3
+~
+~
+0 0 9304 0
+S
+#9306
+Main Road~
+Doorways open into shops on the north and south sides of the road,
+signs fronting both buildings proclaiming the northern one a tavern
+and the southern one a dry goods merchant.    
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9329 0
+D1
+~
+~
+0 0 9307 0
+D2
+~
+~
+0 0 9331 0
+D3
+~
+~
+0 0 9305 0
+S
+#9307
+Main Road~
+The wood planking is a bit more worn here in the middle of town where
+so much traffic passes on such a regular basis, but still very
+traversable.  A two-story inn lies on your north side, connected to
+the tavern just northwest of here, a store lies on the south side.  
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9330 0
+D1
+~
+~
+0 0 9308 0
+D2
+~
+~
+0 0 9332 0
+D3
+~
+~
+0 0 9306 0
+S
+#9308
+Main Road~
+This main road is met again by a road, one which travels the exact
+opposite ways of the Main Road.  The castle lies directly to the east,
+the drawbridge currently open.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9311 0
+D1
+~
+~
+0 0 9309 0
+D2
+~
+~
+0 0 9312 0
+D3
+~
+~
+0 0 9307 0
+S
+#9309
+Main Road, near the Castle~
+The wood planking of the road ends here, just to east is the start of
+a cobbled walkway leading into the Baron's home.  The castle is a very
+well-tended, clean looking place that has a welcoming air about it.  
+~
+93 0 0 0 0 10
+D1
+~
+~
+0 0 9310 0
+D3
+~
+~
+0 0 9308 0
+S
+#9310
+Main Road, West of the Drawbridge~
+Guards are stationed just east of here, standing at the side of the
+road at strict attention.  They wear the traditional magenta of the
+Baron's family, long flowing warlock's gowns over top of leather
+armor.    
+~
+93 0 0 0 0 10
+D1
+~
+~
+0 0 9346 0
+D3
+~
+~
+0 0 9309 0
+S
+#9311
+Northern Loop of Villspah, East Side~
+The road makes a slow loop from the road just south of here, curving
+northwest and then southwest meeting the same road again, like an
+upside-down horseshoe.  A short span of ragweed lies on the east side
+of the road, dropping off into the moat that surrounds the castle.  
+On the west side of the road is the east wall of the Inn.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9313 0
+D2
+~
+~
+0 0 9308 0
+S
+#9312
+Southern Loop of Villspah, East Side~
+The road makes a slow horseshoe, leaving the main road and curving
+around southwest, looping to meet the main road yet again to the west.
+A small but well-tended church lies to the southeast, its white-washed
+walls slightly peeling from the hot sun.  The east wall of the general
+store lies on your west side, a mural of lamps, coils of rope and bags
+painted on the wall.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9308 0
+D2
+~
+~
+0 0 9326 0
+S
+#9313
+Northern Loop of Villspah, East Side~
+The road, made of solid, dry timber set into the dirt, leads in a loop
+around the north side of the hamlet.  To the south is the main road
+that can take you both out of the Baron's demenses or further into it.
+A small shop lies on the west side of the road, its front door on the
+north side of the building.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9314 0
+D2
+~
+~
+0 0 9311 0
+S
+#9314
+Northern Loop of Villspah, Northeast Side~
+The road makes a loop to the south and west here, wending its way past
+small homes and shops.  A small stream runs past a small barn with a
+paddle wheel to the north - presumably the miller's place of work.  
+Over a short span of choppy ragweed on your east side lies the castle
+of the Baron Villspah, a powerful and kind mage.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9335 0
+D2
+~
+~
+0 0 9313 0
+D3
+~
+~
+0 0 9315 0
+S
+#9315
+Northern Loop of Villspah, North Side~
+A small shop lies on the southern side of the road, a faint smell of
+sulphur emitting from its open door.  The road runs east and west past
+the many homes and shops of Villspah.    
+~
+93 0 0 0 0 10
+D1
+~
+~
+0 0 9314 0
+D2
+~
+~
+0 0 9334 0
+D3
+~
+~
+0 0 9316 0
+S
+#9316
+Northern Loop of Villspah, North Side~
+Shops lie to the north and south, both in stark contrast to the other.
+On the north side, the door to the shop is closed, curtains drawn over
+clean glass windows on the interior.  To the south lies an open,
+barn-like structure where intermittant sounds of crashing metal and
+iron can be heard.  The road itself spans east and west through the
+hamlet of Villspah.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9336 0
+D1
+~
+~
+0 0 9315 0
+D2
+~
+~
+0 0 9333 0
+D3
+~
+~
+0 0 9317 0
+S
+#9317
+Northern Loop of Villspah, Northwest Side~
+A small shop lies on the north side of the road, tucked snug inbetween
+two rows of planted corn.  The road leads eastward past more shops and
+south toward the main road of Villspah.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9337 0
+D1
+~
+~
+0 0 9316 0
+D2
+~
+~
+0 0 9318 0
+S
+#9318
+Northern Loop of Villspah, West Side~
+The narrow, timbered street makes its way past a small, barn-like
+shop, the door to the shop on another side of the building.  The
+street makes a sharp curve to the east just north from here, the main
+road lies a short distance to the south.    
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9317 0
+D2
+~
+~
+0 0 9319 0
+S
+#9319
+Northern Loop of Villspah, West Side~
+A smaller branch off of the main road makes a slow loop to the
+northeast around a scattered cluster of homes and shops.  This smaller
+road is still laid in solid timber logs the same as the main road, but
+a slight bit more narrow.  The west wall of the tavern lies on the
+east side of the road, a field of corn to the west.    
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9318 0
+D2
+~
+~
+0 0 9305 0
+S
+#9320
+Southern Loop of Villspah, West Side~
+A smaller section of the main road branches off, making a slow loop to
+the southeast around a smattering of shops and homes.  On the east
+side of the road is western wall of a shop, on the west side is row
+upon row of planted corn.  The main road lies directly north.    
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9305 0
+D2
+~
+~
+0 0 9321 0
+S
+#9321
+Southern Loop of Villspah, West Side~
+The road winds past a small plank-walled shop, meandering leisurely
+through the hamlet.  Surrounding the outskirts of this small community
+is a solid planting of corn which rises a good six feet into the air.
+~
+93 32768 0 0 0 10
+D0
+~
+~
+0 0 9320 0
+D2
+~
+~
+0 0 9322 0
+S
+#9322
+Southern Loop of Villspah, Southwest Side~
+A curve in road allows travel to the north and east, cutting the corn
+fields which surround the hamlet with very well-marked, well-tended
+lines.  A short distance to the north lies the main road, the loop
+spans eastward for some way as well.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9321 0
+D1
+~
+~
+0 0 9323 0
+S
+#9323
+Southern Loop of Villspah, South Side~
+Small shops butt up against the roadway on the north and south sides,
+their open doors an invitation to enter.  The shop to the north boasts
+the engraving of a dazzling jewel just above the doorframe, the sure
+sign of a master jeweler.  The road allows access to the east and
+west.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9338 0
+D1
+~
+~
+0 0 9324 0
+D2
+~
+~
+0 0 9342 0
+D3
+~
+~
+0 0 9322 0
+S
+#9324
+Southern Loop of Villspah, South Side~
+The road travels to the east and west, a very small shop - almost a
+hut - squatting on the north side of the road.  Just east of here, the
+road makes a curve to the north, continuing the Southern Loop.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9339 0
+D1
+~
+~
+0 0 9325 0
+D3
+~
+~
+0 0 9323 0
+S
+#9325
+Southern Loop of Villspah, Southeast Side~
+The road makes a curve here, heading north and west.  On the east side
+of the road is a small path leading into a very calm and colorful
+garden where wildflowers grow, tended by the locals of the hamlet.  
+South of here, through a small iron-gated fence, lies the cemetary for
+the area, small plot of open earth with very few tombstones.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9326 0
+D1
+~
+~
+0 0 9343 0
+D2
+~
+fence~
+1 0 9341 1
+D3
+~
+~
+0 0 9324 0
+S
+#9326
+Southern Loop of Villspah, East Side~
+The road meanders south and north along the Southern Loop, a small but
+tidy church on the east side of the road.  Just a short span north of
+here lies the main road.    
+~
+93 0 0 0 0 10
+D0
+~
+~
+0 0 9312 0
+D1
+~
+~
+0 0 9340 0
+D2
+~
+~
+0 0 9325 0
+S
+#9327
+The Horseman's Tack~
+Riding equipment hangs from spikes driven into the plank walls of this
+fair-sized, single story building.  A low counter runs along most of
+the northern wall, a very worn and comfortable-looking chair behind
+it.  A set of sliding double doors are built into the north wall of
+the building, allowing the only access to the horses that are for sale
+here.    
+~
+93 32776 0 0 0 0
+D2
+~
+door~
+1 0 9304 3
+S
+#9328
+Horse Pasture~
+This span of open grassland is where the horse trader for the hamlet
+keeps his steeds until they are purchased.    
+~
+93 0 0 0 0 2
+S
+#9329
+The Towne Saloon~
+Named as simply as any outpost tavern might be, this fair-sized tavern
+serves as the local town meeting facility as well as the all-around
+eatery for the community and any visitors that may happen through.  A
+small stage lies on the north wall just left of an enormous stone
+fireplace.  A long bar runs along the west wall of the place, behind
+which the servers bustle drawing mugs of foamy ale or preparing food
+for their customers.  A set of swinging half-doors lie in the east
+wall, leading the way into the inn where travelers might book a
+night's rest.    
+~
+93 32776 0 0 0 0
+D1
+~
+~
+0 0 9330 0
+D2
+~
+~
+0 0 9306 0
+S
+#9330
+The Inn at Villspah~
+This low-ceilinged room offers a number of small, round tables to sit
+at and rest.  A small staircase at the east end of the room leads up
+into the area where the rentable rooms can be found.  A fire burns
+quietly in a fireplace on the north wall, the entire room exuding a
+warm, cozy aura.    
+~
+93 12 0 0 0 0
+D2
+~
+~
+0 0 9307 0
+D3
+~
+~
+0 0 9329 0
+S
+#9331
+Dry Goods~
+Foodstuffs kept in non-perishable containers lie on shelves, stacked
+neatly.  A small counter lies against the southeast wall of the shop,
+where you may purchase any goods you may wish to buy.    
+~
+93 32776 0 0 0 0
+D0
+~
+~
+0 0 9306 0
+S
+#9332
+Villspah General Store~
+Shelving and racks line all walls except the northmost one of this
+shop, where the main counter is located.  All manner of needful and
+needless things are on sale here, purchasable at the counter.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9307 0
+S
+#9333
+Weapon Shop~
+This open-air building doubles as a blacksmith and weapon shop for the
+town.  More of the locals need blacksmith work of the mundane variety
+than any sort of weaponry, however the proprieter's true passion lies
+with weapons.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9316 0
+S
+#9334
+The Apothecary~
+The customer area of this shop is less than ten foot by ten foot.  
+Only a small area, standing room only, is left for those who wish to
+do business here - the rest of the building is blocked off by a wall.
+Strange odors waft from the southern portion of the building, some
+sweet, some not-so-sweet.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9315 0
+S
+#9335
+Villspah Mill~
+All of the fresh water for the townspeople of Villspah is run through
+a funneling system created by the Baron himself.  Villspah boasts the
+cleanest, clearest water in all of Dibrova, a boast that is not often
+disputed anywhere.    
+~
+93 8 0 0 0 0
+D2
+~
+~
+0 0 9314 0
+S
+#9336
+The Village Grounds Cafe~
+This small but comfortable shop is a stark contrast to the sounds
+outside, where the smithy's anvil can be heard loud and clear, ringing
+through the town's air.  Small tables are set about the room with
+comfortable chairs around them.  A couple of low divans lie near
+small, round end tables where one might relax while sipping a coffee.
+~
+93 8 0 0 0 0
+D2
+~
+~
+0 0 9316 0
+S
+#9337
+The Herbalist~
+The strong scent of drying plants assaults your senses immediately
+upon entering into this building.  Behind the counter are stalks of
+who-knows-what-plants-they-are, drying out so that they might be used
+in a poultice or remedy of some sort.    
+~
+93 8 0 0 0 0
+D2
+~
+~
+0 0 9317 0
+S
+#9338
+Jewelry~
+Normally in a small town such as this, jewelry would not be a concern
+for the people, however with the Baron being a mage - and a wealthy
+one at that - the jeweler here makes a handsome living from just the
+Baron himself.  The commoners do, of course, make some small trade as
+well.    
+~
+93 8 0 0 0 0
+D2
+~
+~
+0 0 9323 0
+S
+#9339
+Villspah Cartographer~
+The cartographer here, employed by Villspah himself, is probably this
+town's best kept secret from the outside world.  Villspah has an
+enormous wanderlust and has commissioned the making of many maps of
+the more exotic locales in Dibrova.  As a side income, the
+cartographer sells any maps the Baron has commissioned for a fee.    
+~
+93 8 0 0 0 0
+D2
+~
+~
+0 0 9324 0
+S
+#9340
+The Chapel at Villspah~
+Small but sincere services are held in this open-areaed chapel every
+Sunday.  An altar lies at the east end of the chapel, pughs line in
+rows beginning only feet from the main door and leading all the way up
+to the altar.    
+~
+93 8 0 0 0 0
+D3
+~
+~
+0 0 9326 0
+S
+#9341
+Villspah Cemetary~
+The place where the bodies of the locals of this small town are laid
+to rest is a small, shady place with trees whose limbs overhang in
+almost every portion of the place giving comfort and shade.  It seems
+almost odd that there are so few cemetary plots - not that there
+should be a lot of deaths, but the town does not seem that new and it
+would seem like more folks might have passed over the years.    
+~
+93 0 0 0 0 2
+D0
+~
+fence~
+1 0 9325 1
+S
+#9342
+Aviary~
+Small and large cages hang from the ceiling all over the interior of
+this building.  The smell is less than pleasing, however the animals
+which inhabit the cages are a bit more than pleasing - formidable
+companions to be had for a price.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9323 0
+S
+#9343
+The Gardens of Villspah~
+All about the path are beautiful wildflowers awash with every color
+imaginable.  A small open area lies to the south with benches ringing
+a small fountain.    
+~
+93 0 0 0 0 2
+D2
+~
+~
+0 0 9344 0
+D3
+~
+~
+0 0 9325 0
+S
+#9344
+Outdoor Park~
+A small fountain placidly laps with clear water, ringed by a circle of
+four benches for relaxing upon.  Shade trees grow around the outer
+perimeter of the park, giving a comfort and feeling of peace that can
+only be found outdoors.  A garden lies to the north, an iron fence
+seperates this park from a cemetary on the east side.    
+~
+93 0 0 0 0 2
+D0
+~
+~
+0 0 9343 0
+S
+#9345
+Villspah Stables~
+The people of Villspah truly enjoy the peace and beauty of their small
+hamlet and try very hard to keep it as clean as possible.  You are
+encouraged to stable your mount for the duration of your stay,
+redeeming it on your way out of the territory.    
+~
+93 32780 0 0 0 0
+D0
+~
+~
+0 0 9304 0
+S
+#9346
+Drawbridge at Villspah Keep~
+Guards are stationed at the entry to the keep at all hours of the day
+and night.  The Baron is, by reputation, a very generous man however
+this does not translate into blind trust.  It is said that the Baron
+had always been a loyal subject of the old king and because of that,
+he may have some enemies within the flatlands.    
+~
+93 4 0 0 0 10
+D1
+~
+~
+0 0 9347 0
+D3
+~
+~
+0 0 9310 0
+S
+#9347
+Entry Hall~
+The inner reaches of the keep lie just to the east.  On either side of
+you, to the north and the south, lie the doors to guard towers where
+vigil is kept at all hours.  Small slits in the wood doors of the
+tower allow for arrows to be shot should any intruders make it past
+the bridge guards.    
+~
+93 0 0 0 0 0
+D0
+~
+door~
+1 0 9348 3
+D1
+~
+~
+0 0 9352 0
+D2
+~
+door~
+1 0 9350 3
+D3
+~
+~
+0 0 9346 0
+S
+#9348
+North Guard Tower~
+A stone stairwell winds around the wall of the tower leading into the
+guard room above.  A small table and a single stool sit wedged in a
+nook of the stone and mortar that makes up this keep.  The door lies
+to the south.    
+~
+93 8 0 0 0 0
+D2
+~
+door~
+1 0 9347 3
+D4
+~
+~
+0 0 9349 0
+S
+#9349
+Guard Post~
+A stairwell leads down from this small, featureless chamber where a
+guard is always to be on duty, watching the northern borders for any
+sign of invasion.  With such a peaceable town right outside and such
+goodwill from the locals, its seems odd that the Baron would feel the
+need to post guards at all times.    
+~
+93 8 0 0 0 0
+D5
+~
+~
+0 0 9348 0
+S
+#9350
+South Guard Tower~
+A stone stairwell winds around the wall of the tower leading into the
+guard room above.  A small table and a single stool sit wedged in a
+nook of the stone and mortar that makes up this keep.  The door lies
+to the north.    
+~
+93 8 0 0 0 0
+D0
+~
+door~
+1 0 9347 3
+D4
+~
+~
+0 0 9351 0
+S
+#9351
+Guard Post~
+A stairwell leads down from this small, featureless chamber where a
+guard is always to be on duty, watching the southern borders for any
+sign of invasion.  With such a peaceable town right outside and such
+goodwill from the locals, its seems odd that the Baron would feel the
+need to post guards at all times.    
+~
+93 8 0 0 0 0
+D5
+~
+~
+0 0 9350 0
+S
+#9352
+Receiving Hall~
+All visitors who wish to see the Baron, for any reason, are met with
+by his counselor and asked what their business might be first.  If
+you wish to see the Baron, you must first clear it with the
+counselor.  Or...  Maybe slip the counselor a little something
+extra?    
+~
+93 8 0 0 0 0
+D0
+~
+door~
+2 9302 9355 15
+D1
+~
+door~
+2 9300 9353 15
+D2
+~
+door~
+2 9303 9357 15
+D3
+~
+~
+0 0 9347 0
+S
+#9353
+Waiting Room~
+The Baron is a busy man, not to be trifled with petty needs.  Nearly
+all his waking moments are spent dealing with the needs of his people
+and those of any foreign emissaries.  Be patient and you will be
+admitted into the Baron's Chambers of State.    
+~
+93 8 0 0 0 0
+D1
+~
+door~
+2 9301 9354 15
+D3
+~
+door~
+2 9300 9352 15
+S
+#9354
+Chambers of State~
+A long, wide table takes up most of the space that this room has to
+offer.  A large, plush chair sits at the east end of the table,
+presumably the Baron's chair.  Smaller but just comfortable-looking
+chairs line along the sides of the table, set somewhat back from the
+Baron's own.  A magenta tapestry covers the east end of the room,
+giving a nice backdrop for the Baron to sit in front of.    
+~
+93 8 0 0 0 0
+D3
+~
+door~
+2 9301 9353 15
+D4
+~
+~
+0 0 9369 16
+S
+#9355
+Feasting Hall~
+For those who aren't able to get in to see the Baron, there is the
+ever-plentiful feast which always has plenty to go around.  There are
+no chairs in this room, only an emormous table laden with all manner
+of food - there for the taking.    
+~
+93 8 0 0 0 0
+D1
+~
+~
+0 0 9356 0
+D2
+~
+door~
+2 9302 9352 15
+S
+#9356
+Kitchen~
+Intense heat assaults you as soon as you enter, the massive ovens that
+the cooks use blasting heat without respite, day or night.  It is much
+more comfortable out in the Feasting Hall - why don't you go have a
+nice bite to eat?    
+~
+93 8 0 0 0 0
+D3
+~
+~
+0 0 9355 0
+S
+#9357
+Empty Corridor~
+Your footsteps echo in this stone corridor, an empty and featureless
+length of hallway.  Twin doors lie on the south side of the hall,
+roughly six feet from each other - one of them directly south from
+where you currently stand.  In the far eastern wall is another door,
+heavier-looking than those on the south wall.    
+~
+93 40 0 0 0 0
+D0
+~
+door~
+2 9303 9352 15
+D1
+~
+~
+0 0 9358 0
+D2
+~
+door~
+1 0 9359 3
+S
+#9358
+Empty Corridor~
+The sturdy door lies just east from here, looking very solid and very
+much like it should remain closed.  Another of the southern doors lies
+to the south.    
+~
+93 40 0 0 0 0
+D2
+~
+door~
+1 0 9360 3
+D3
+~
+~
+0 0 9357 0
+D5
+~
+door~
+2 9303 9361 15
+S
+#9359
+Guard Room~
+An armed militia?  In a place where the Baron himself is known as a
+peaceable and quiet man?  What are these men all doing here in such an
+armed presence?    
+~
+93 40 0 0 0 0
+D0
+~
+door~
+1 0 9357 3
+D1
+~
+~
+0 0 9360 0
+S
+#9360
+Guard Room~
+An armed militia?  In a place where the Baron himself is known as a
+peaceable and quiet man?  What are these men all doing here in such an
+armed presence?    
+~
+93 40 0 0 0 0
+D0
+~
+door~
+1 0 9358 3
+D3
+~
+~
+0 0 9359 0
+S
+#9361
+Dank Storeroom~
+Crates and boxes of the Baron's collectables lie stacked neatly in
+corners and on shelves.  The walls are of stone and mortar with just a
+slight bit of moisture seeping in from the earth on the other side.  
+A small archway in the stone lies to the north into another small
+area.  A very formidable-looking door lies on the west side.    
+~
+93 40 0 0 0 0
+D0
+~
+~
+0 0 9362 0
+D3
+~
+door~
+2 9319 9363 15
+D4
+~
+door~
+2 9303 9358 15
+S
+#9362
+Dry Goods~
+All foodstuffs that are not perishable are kept in this room.  
+Somehow this room has been sealed from any moisture, keeping all foods
+from taint.    
+~
+93 40 0 0 0 0
+D2
+~
+~
+0 0 9361 0
+S
+#9363
+Holding Area~
+A wide, stone-floored hall runs along the southern side of three sets
+of large cells.  It appears that the Baron may not be quite the
+congenial host that everyone thinks him.    
+~
+93 40 0 0 0 0
+D0
+~
+bars~
+2 9305 9368 15
+D1
+~
+door~
+2 9319 9361 15
+D3
+~
+~
+0 0 9364 0
+S
+#9364
+Holding Area~
+Large holding cells lie along the north end of this chamber, strong
+iron bars walling the cells.  A thick wooden door lies at the east end
+of the room - it being the only way out of the keep.    
+~
+93 40 0 0 0 0
+D0
+~
+bars~
+2 9305 9367 15
+D1
+~
+~
+0 0 9363 0
+D3
+~
+~
+0 0 9365 0
+S
+#9365
+Holding Area~
+Large holding cells lie along the north end of this chamber, strong
+iron bars walling the cells.  A thick wooden door lies at the east end
+of the room - it being the only way out of the keep.    
+~
+93 40 0 0 0 0
+D0
+~
+bars~
+2 9305 9366 15
+D1
+~
+~
+0 0 9364 0
+S
+#9366
+Holding Cell~
+There is not much beyond a very smelly chamber pot and a fairly ratty
+bundle of blankets in this room.  The people who stay within the
+confines of this cell must be bad people, indeed, for the Baron to
+treat them so badly.    
+~
+93 40 0 0 0 0
+D2
+~
+cell~
+2 9305 9365 15
+S
+#9367
+Holding Cell~
+There is not much beyond a very smelly chamber pot and a fairly ratty
+bundle of blankets in this room.  The people who stay within the
+confines of this cell must be bad people, indeed, for the Baron to
+treat them so badly.    
+~
+93 40 0 0 0 0
+D2
+~
+cell~
+2 9305 9364 15
+S
+#9368
+Holding Cell~
+There is not much beyond a very smelly chamber pot and a fairly ratty
+bundle of blankets in this room.  The people who stay within the
+confines of this cell must be bad people, indeed, for the Baron to
+treat them so badly.    
+~
+93 40 0 0 0 0
+D2
+~
+cell~
+2 9305 9363 15
+S
+#9369
+Upper Floor Guard Room~
+Guards are kept stationed outside the door to the Baron's personal
+quarters at all times.  This fifteen by fifteen foot chamber serves
+that purpose.    
+~
+93 8 0 0 0 0
+D3
+~
+door~
+2 9306 9370 15
+D5
+~
+~
+0 0 9354 0
+S
+#9370
+The Baron's Penthouse~
+These opulent rooms serve as the Baron's personal living quarters.  
+With no wife, he has no need of family situations and so has his
+furnishings few and quite spartan.  A fireplace lies on the
+northwestern wall, a large rug covers most of the floor in the
+southeastern portion of the room.  The Baron's bed lies to the south.
+~
+93 8 0 0 0 0
+D1
+~
+door~
+2 9306 9369 15
+D2
+~
+~
+0 0 9372 0
+D3
+~
+~
+0 0 9371 0
+S
+#9371
+The Baron's Penthouse~
+These opulent rooms serve as the Baron's personal living quarters.  
+With no wife, he has no need of family situations and so has his
+furnishings few and quite spartan.  A fireplace lies on the west wall
+here, a large rug covers most of the floor in the southeastern portion
+of the room.  The Baron's bed lies to the southeast.  A stained-glass
+window lies upon the south wall, the glass a strange blend of colors
+that almost seem to move of their own accord.    
+~
+93 8 0 0 0 0
+D1
+~
+~
+0 0 9370 0
+D2
+~
+~
+0 0 9373 0
+S
+#9372
+The Baron's Penthouse~
+These opulent rooms serve as the Baron's personal living quarters.  
+With no wife, he has no need of family situations and so has his
+furnishings few and quite spartan.  A fireplace lies on the northwest
+wall, a large rug covers most of the floor in the southwestern portion
+of the room.  The Baron's bed is here, wedged into the southeastern
+corner.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9370 0
+D3
+~
+~
+0 0 9373 0
+S
+#9373
+The Baron's Penthouse~
+These opulent rooms serve as the Baron's personal living quarters.  
+With no wife, he has no need of family situations and so has his
+furnishings few and quite spartan.  A fireplace lies on the northwest
+wall, a large rug covers most of the floor in this portion of the
+room.  The Baron's bed lies to the east.    
+~
+93 8 0 0 0 0
+D0
+~
+~
+0 0 9371 0
+D1
+~
+~
+0 0 9372 0
+S
+$~

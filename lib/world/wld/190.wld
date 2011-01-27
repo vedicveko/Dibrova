@@ -1,0 +1,1884 @@
+#19001
+Entrance to the Elven Forest~
+The Grasslands give way to a dense forest.  The trees are massive,
+large enough to build a home safely within its branches.  The tops of
+these trees seem to reach for miles into the sky.  The gentle scent of
+pine fills the air.  A thick layer of dried, dead leaves and needles
+coat the path.  The path leads west back to the Grasslands and ends
+here before a massive wooden gate to the north.    
+~
+190 4 0 0 0 3
+D0
+~
+gate~
+1 0 19002 1
+D3
+~
+~
+0 0 6191 0
+S
+#19002
+Guarded path through the forest~
+The leafy path gives way to a well-kept gravel path which seems to
+split the forest in half.  The lofty branches of the trees swing to
+and fro in the gentle breeze.  A doorway carved into one massive tree
+lies to the east.  A strong knotted rope dangles from a wooden
+platform far above the ground.  The path continues north and south.  
+~
+190 0 0 0 0 1
+D0
+~
+~
+0 -1 19007 0
+D1
+~
+~
+0 -1 19003 0
+D2
+~
+gate~
+1 0 19001 3
+D4
+~
+~
+0 -1 19006 0
+S
+#19003
+Guardpost~
+This is the Guardpost, where the elven guards come to rest after
+finishing their rotations.  Plain and simple furniture give the
+appearance that the guards are used to the hard life.  A weapon rack
+hangs on the far side of the room, containing extra weapons in case of
+seige.  An outline of a cellar door lies on the floor.  One can go
+west outside or go further east into the tree.    
+~
+190 8 0 0 0 3
+D1
+~
+~
+0 -1 19004 0
+D3
+~
+~
+0 -1 19002 0
+D5
+~
+cellar door~
+1 0 19005 3
+S
+#19004
+Chief of the Guards Room~
+A large oaken desk sits in the middle of the room.  Papers and
+documents lie neatly on top the desk.  A small weapon display case
+stands nearby the door, containing polished exotic weapons.  On the
+wall, opposite the weapon display case, hangs a smaller display case
+containing various medals of combat and honor.  This is the room of
+the Chief of the Guards.    
+~
+190 12 0 0 0 3
+D3
+~
+~
+0 -1 19003 0
+S
+#19005
+Cellar~
+A simple cellar carved out from the heartwood of this tree, it
+contains emergency rations and supplies in case of an emergency.  It
+is small and remarkably dry, as compared to most cellars which tend to
+be damp.    
+~
+190 9 0 0 0 3
+D4
+~
+cellar door~
+1 0 19003 3
+S
+#19006
+On the platform.~
+You are standing on a wooden platform above the entrance of the elven
+forest.  From here you can see as far as Jareth.  A small wood slatted
+bridge leads off to the east and north toward similar platforms
+attached to tree trunks.  Looking around you, its seems there is an
+entire city built high in the trees.    
+~
+190 4 0 0 0 3
+D0
+~
+~
+0 0 19028 0
+D1
+~
+~
+0 0 19036 0
+D4
+~
+~
+0 0 19080 0
+D5
+~
+~
+0 -1 19002 0
+S
+#19007
+Guarded path through the forest~
+The leafy path gives way to a well-kept gravel path which seems to
+split the forest in half.  The lofty branches of the trees swing to
+and fro in the gentle breeze.  The majestic state and appearance of
+the trees continues to be awe-inspiring.  The path continues north,
+where sounds of bustling activity can be heard, and south towards the
+gate.    
+~
+190 0 0 0 0 1
+D0
+~
+~
+0 -1 19008 0
+D2
+~
+~
+0 -1 19002 0
+S
+#19008
+Beginning of a fine path~
+The path here is still gravelly, but crispily edged and bordered with
+exotic forest plants.  This is the beginning of the commercial section
+of the Elven Tree City.  Elves of all castes, noble and common,
+traverse the path either looking for goods to purchase or to socialize
+among one another.  A fountain with fresh, clear water pouring forth
+in abundance sits here.  The braying sounds of animals can be heard to
+the west, while sounds of merriment and laughter can be heard to the
+east.    
+~
+190 28 0 0 0 1
+D0
+~
+~
+0 -1 19009 0
+D1
+~
+~
+0 0 19016 0
+D2
+~
+~
+0 -1 19007 0
+D3
+~
+~
+0 0 19098 0
+E
+runes obelisk stone~
+If you had been an old elven sage you might have known what the 
+runes told, but you are not, so this means nothing to you....
+~
+S
+#19009
+A fine path through the elven forest~
+The path here is still gravelly, but crispily edged and bordered with
+exotic forest plants.  This is the beginning of the commercial section
+of the Elven Tree City.  Elves of all castes, noble and common,
+traverse the path either looking for goods to purchase or to socialize
+among one another.  A wrought-iron sign hanging from a tree indicate
+an Armoury to the west.  The ringing sounds of a hammer on an anvil
+can be heard coming from the east.  The fine path continues north and
+south.    
+~
+190 0 0 0 0 1
+D0
+~
+~
+0 -1 19012 0
+D1
+~
+~
+0 -1 19010 0
+D2
+~
+~
+0 -1 19008 0
+D3
+~
+~
+0 -1 19011 0
+S
+#19010
+The Elven Armoury~
+The acrid smell of leather being tanned fills this room.  A simple
+counter sits against the west wall.  A sewing apparatus lies just next
+to the counter, surrounded by supple leather ready for sewing.  
+Completed leather outfits in various dyed colors hang neatly on
+display upon pegs in the walls.  Occasionally, ringmail or chainmail
+armor may be made here via special order.    
+~
+190 24 0 0 0 1
+D3
+~
+~
+0 -1 19009 0
+S
+#19011
+The Elven Weapon Shop~
+A counter, forge, and water trough decorate this otherwise plain room.
+The forge burns brightly with white flames, eagerly awaiting more
+metals to melt.  Several half-finished items can be seen in the
+trough, awaiting for their turn to be finished.  Wonderfully crafted
+weapons and useful items can be seen on display underneath the glass
+top of the sturdy counter.  The door to the east leads back to the
+fine path.    
+~
+190 24 0 0 0 1
+D1
+~
+~
+0 -1 19009 0
+S
+#19012
+A Fine Path Through the Elven Forest~
+The path here is still gravelly, but crispily edged and bordered with
+exotic forest plants.  This is the beginning of the commercial section
+of the Elven Tree City.  Elves of all castes, noble and common,
+traverse the path either looking for goods to purchase or to socialize
+among one another.  A sign finely carved on a tree reveals that a
+Common shop lies west while a Magic shop lies east.  The fine path
+continues north and south.    
+~
+190 0 0 0 0 1
+D0
+~
+~
+0 -1 19015 0
+D1
+~
+~
+0 -1 19014 0
+D2
+~
+~
+0 -1 19009 0
+D3
+~
+~
+0 -1 19013 0
+S
+#19013
+Quintor's Common Store~
+Shelves neatly loaded with all kinds of items, from daily necessities
+to travel gear, are arranged in aisles.  One can purchase items here
+for a reasonable cost.  The sweet smells of a bakery wafting down near
+the stairs invite one to go upstairs and check it out.  A small
+counter sits next to the doorway which leads east back out onto the
+fine path.    
+~
+190 24 0 0 0 1
+D1
+~
+~
+0 -1 19012 0
+D4
+~
+~
+0 0 19019 0
+S
+#19014
+The Magic Shop~
+The bittersweet aroma of incense hangs heavily in this room.  Glowing
+elven runes of power inscribed into the walls of the room indicate a
+Magic shop.  Lichen, growing upon the heartwood of the tree, glow with
+a luminous light allowing one to see clearly in the room.  Various
+items of magic can be purchased here for a price, for elven magic is
+like no other.    
+~
+190 24 0 0 0 1
+D3
+~
+~
+0 -1 19012 0
+S
+#19015
+End of the Fine Path~
+The fine path ends here in a circle before the largest tree in the
+forest.  The tree easily dwarfs its rival in mass and size.  Silvery
+leaves sigh and rustle in the breeze as if they were alive.  Glowing
+tendrils of powerful energy, reaching from deep into the ground and
+twinning around the massive trunk of the tree, pulsate with eerie
+life.  This is the Great Tree of Knowledge.  A heavy sturdy door,
+reinforced with titanium, allows access into the Tree to the north.  
+South leads back to the commerical section of the city.    
+~
+190 0 0 0 0 1
+D0
+~
+~
+0 -1 19017 0
+D2
+~
+~
+0 -1 19012 0
+D4
+~
+~
+0 0 19054 0
+S
+#19016
+The Tavern of Hope~
+The Tavern of Hope is the only bar in town, making it a popular place
+for hanging out.  The bar is set against the northern wall and a large
+fireplace is opposite it to the south.  The atmosphere in here is one
+of relaxation and good-natured fun.  A hearty, rousing cheer can be
+heard from a table somewhere in the smoky mist.  A staircase at the
+east wall leads up to the Inn and the west is the exit from the
+Tavern.    
+~
+190 8 0 0 0 1
+D3
+~
+~
+0 -1 19008 0
+D4
+~
+~
+0 -1 19090 0
+S
+#19017
+Inside the Great Tree of Knowledge~
+The power radiating from the wood of the tree is enough to make one
+giddy and dizzy at the same time.  Graceful steps, carved from the
+tree, spiral upwards inside along the mighty trunk.  Visitors from
+afar come, often at great costs, to seek redemption and knowledge from
+this tree.  One can go up further into the tree or south outside.  A
+doorway with the crest of the Protectors lies west.    
+~
+190 12 0 0 0 1
+D2
+~
+~
+0 0 19015 0
+D3
+~
+~
+0 0 19018 0
+D4
+~
+~
+0 0 19020 0
+S
+#19018
+Abode of the Protectors~
+The Protectors are a society of elves who have dedicated their lives
+to the care and protection of the Tree.  They are fierce warriors and
+compasionate healers.  This is their abode, where they live and keep
+in contact with the Tree.  The room is clean and plain.  Glowing runes
+telling the history of the Protectors decorate the walls.  A crest
+bearing the name of the Protectors graces the doorway which leads out
+into the center of the Tree.    
+~
+190 8 0 0 0 3
+D1
+~
+~
+0 -1 19017 0
+S
+#19019
+The Elven Bakery~
+Baskets of sweet rolls and cinnamon buns sit upon a counter, ready for
+sale.  A warm oven sits behind the counter, slowly baking the goods to
+perfection.  A light coating of flour seems to cover everything,
+showing that the yummy goods in this place are in popular demand.  
+One can buy freshly baked goods as well as other forms of baked goods
+here.    
+~
+190 28 0 0 0 0
+D5
+~
+~
+0 0 19013 0
+S
+#19020
+Inside the Great Tree of Knowledge~
+The power radiating from the wood of the tree is enough to make one
+giddy and dizzy at the same time.  Graceful steps, carved from the
+tree, spiral upwards inside along the mighty trunk.  One can also take
+the stairs down the Tree.    
+~
+190 8 0 0 0 3
+D4
+~
+~
+0 -1 19021 0
+D5
+~
+~
+0 -1 19017 0
+S
+#19021
+Inside the Great Tree of Knowledge~
+The spiraling staircase meets a platform here, forming a junction.  
+Four huge branches have grown out from here in the Tree.  These
+branches are known as the Branches of Knowledge, from where four of
+the eight guilds can be found.  Patches of luminescent fungus grow on
+the walls, providing a soft light from which to see.  One can go in
+any of the cardinal directions.    
+~
+190 8 0 0 0 3
+D0
+~
+~
+0 -1 19026 0
+D1
+~
+~
+0 -1 19024 0
+D2
+~
+~
+0 -1 19022 0
+D3
+~
+~
+0 0 19063 0
+D4
+~
+~
+0 0 19065 0
+D5
+~
+~
+0 -1 19020 0
+S
+#19022
+Branch of Knowledge~
+The Branch of Knowledge leads south to a guild which was established
+in the sanctity of the Tree and north to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 -1 19021 0
+D2
+~
+~
+0 -1 19092 0
+S
+#19023
+Thief Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D0
+~
+~
+0 0 19092 0
+S
+#19024
+Branch of Knowledge~
+The Branch of Knowledge leades east to a guild which was established
+in the sanctity of the Tree and west to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19089 0
+D3
+~
+~
+0 0 19021 0
+S
+#19025
+Cleric Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 516 0 0 0 0
+D3
+~
+~
+0 -1 19089 0
+S
+#19026
+Branch of Knowledge~
+The Branch of Knowledge leads north to a guild which was established
+in the sanctity of the Tree and south to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19091 0
+D2
+~
+~
+0 0 19021 0
+S
+#19027
+Gladiator Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D2
+~
+~
+0 0 19091 0
+S
+#19028
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19029 0
+D2
+~
+~
+0 0 19006 0
+S
+#19029
+Cul-de-sac~
+You are standing between houses which nestle in branches high in the
+trees of this mytsical forest.  To the west is house bearing the crest
+of two crossed scimitars.  To the east is a home with the crest of a
+roiling fireball.  North, the crest is of a large, curved, black
+sword.  You may leave this strange cul-de-sac to the south and head
+back along the bridge or enter into one of these homes.    
+~
+190 4 0 0 0 3
+D0
+~
+~
+0 0 19034 0
+D1
+~
+~
+0 0 19032 0
+D2
+~
+~
+0 0 19028 0
+D3
+~
+~
+0 0 19030 0
+S
+#19030
+House Do'Urden.~
+This home looks to have once been a very fine home, indeed.  It now
+resembles the home somewhere in the middle of a hurricane zone.  
+Every piece of furniture bears no less than forty or fifty slashes,
+the curtains and coverings are all hacked to shreds.  Seems that
+Drizzt may be as of yet a bit untrained with the sword.    
+~
+190 24 0 0 0 0
+D1
+~
+~
+0 0 19029 0
+D4
+~
+~
+0 0 19031 0
+E
+curtains~
+Slashed to hell, almost unrecognizable as curtains.
+~
+S
+#19031
+Drizzt's Practice Room.~
+This room is made from the strongest wood in the forest and then magic
+tempered with Elven Lore to withstand even more abuse.  Even with
+those precations, the walls still bear the scratches and dents from
+the abuse that Drizzt deals them.    
+~
+190 0 0 0 0 0
+D5
+~
+~
+0 0 19030 0
+E
+walls~
+They are more solid than any walls you have yet to see, but they do
+have quite a few dents.  It might be a bad idea to tangle with Drizzt.
+  
+~
+S
+#19032
+Inside house Baenre~
+Entering into this home, you get the feeling that its occupant must be
+at least a bit of a bad aim with their spells.  Furniture lies in ruin
+all around you, scorch and blast marks all over every inch.  Odd that
+anyone would keep furniture like this around, especially seeing as how
+most of it still looks well used.  Whoever lives here must not be a
+bad aim with their spells, they must be a REALLY bad aim!    
+~
+190 0 0 0 0 0
+D3
+~
+~
+0 0 19029 0
+D4
+~
+~
+0 0 19033 0
+E
+furniture~
+It is scorched beyond recognition and appears unusable, although signs
+of use are visible.  The only positive ID you can make on it is that
+it was once some sort of wood.    
+~
+S
+#19033
+Liriel's Training room~
+Here is where Liriel tries to perfect her aim with the fireball spell
+that she is so popular for.  From the looks of things around here, it
+appears that she has not quite gotten the trick of it down yet.    
+~
+190 0 0 0 0 0
+D5
+~
+~
+0 0 19032 0
+S
+#19034
+Inside house Rashemen~
+The house of Fyodor Rashemen is definitely the home of a berserker.  
+There is one chair and a thin blanket tossed carelessly in one corner.
+Seems that for a berserker, the finer things in life consist only of
+fighting, killing, and fighting some more.    
+~
+190 0 0 0 0 0
+D2
+~
+~
+0 0 19029 0
+D4
+~
+~
+0 0 19035 0
+E
+blanket~
+This must be what Fyodor passes off as his bed, although it looks much
+too thin to be used as any sort of bedding or object for warmth.    
+~
+E
+chair~
+Odd, it looks almost as new as the day it was made.  Fyodor must not
+sit much.    
+~
+S
+#19035
+Fyodor's Padded Cell~
+This large cell padded with intertwined leaves keeps Fyodor in check
+and away from the rest of the village until the time comes when he is
+needed for his particular expertise.  Long ago, Fyodor had some
+difficulties with coping with civilized life and so in one of his more
+lucid moments, he consented to locking himself in this cell for the
+majority of his days, only emerging when the time came for him to
+fight for his people.    
+~
+190 0 0 0 0 0
+D5
+~
+~
+0 0 19034 0
+E
+leaves~
+They look to have been sewn together meticulously so as not to rip or
+shred.  They are unbelievably strong in the face of Fyordor's rages.
+Must be enchanted in some way.    
+~
+S
+#19036
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19037 0
+D3
+~
+~
+0 0 19006 0
+S
+#19037
+Platform~
+Railings surround this sturdy wooden platform which is nestled high in
+the trees.  A large home lies just east, the crest of a moon obscured
+by clouds hung over the door.  To the north, south, and west are rope
+bridges leading to similar platforms and homes.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19048 0
+D1
+~
+~
+0 0 19038 0
+D2
+~
+~
+0 0 19039 0
+D3
+~
+~
+0 0 19036 0
+S
+#19038
+House Zn'Karath~
+This seems to be a very tranquil, serene place by the looks of the way
+the home is furnished.  The wood furniture is lacquered and stained to
+very mild, neutral colors as is the wood floor.  The place is very
+tidy, well kept and maintained.  The exit lies west.    
+~
+190 8 0 0 0 0
+D3
+~
+~
+0 0 19037 0
+S
+#19039
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19037 0
+D2
+~
+~
+0 0 19040 0
+S
+#19040
+Large Platform~
+This seems to be a major of junction of sorts for the village.  There
+is a set of stairs molded naturally into the trunk of the huge tree
+which this platform is built onto.  They are really quite a sight -
+never once does it seem that the tree was cut, incised, or abused in
+any way as these steps fit naturally onto the trunk of the tree.  To
+the south of you is a home with the crest of a running stag, north is
+a rope bridge leading to another platform.
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19039 0
+D2
+~
+~
+0 0 19041 0
+D4
+~
+~
+0 0 19042 0
+S
+#19041
+House Ck'Waanton~
+This home is furnished in natural tones, such as those colors that
+create the folliage of the forest.  Small carvings on flat pieces of
+wood are framed and hung in various places along the walls.  The
+resident of this abode obviously has a love of the outdoors.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19040 0
+S
+#19042
+Platform in the Heights~
+You stand roughly twenty feet above the platform below, now high
+enough above the forest floor to ensure death were you to fall off.  
+A wide rope and wood bridge leads off to the west toward what looks to
+be the largest tree in the entire forest.  A wide platform encircles
+the tree, two large buildings built into the branches of the tree,
+entrances to which lead off from the platform.    
+~
+190 0 0 0 0 3
+D3
+~
+~
+0 0 19043 0
+D5
+~
+~
+0 0 19040 0
+S
+#19043
+Wide Rope Bridge in the Heights~
+This bridge, wide enough to easily accomodate three men of substantial
+girth, leads west toward the Main Court for the High Elven Council and
+Hall of Ancient Lore.  The Court is considered sacred and holy ground
+by the villagers and as such, they do not tolerate those not of their
+race to be in that area.  To the east is a large platform with stairs
+which lead downward from it.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19042 0
+D3
+~
+~
+0 0 19044 0
+S
+#19044
+The Main Court~
+This is the Main Court of the city.  A wooden platform is all that
+holds everything up high in the trees.  The tops of the trees continue
+for about thirty more feet above, gently swaying in the breeze.  
+Sounds of chattering can be heard coming from the Council house to the
+north.  To the west is the bank, south is the post office, and east
+leads back to the rope bridge to the other parts of this city.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19045 0
+D1
+~
+~
+0 0 19043 0
+D2
+~
+~
+0 0 19047 0
+D3
+~
+~
+0 0 19046 0
+S
+#19045
+High Council Chambers~
+This polished, white-washed room offers a spectacular view of the
+forest and village below.  This is the place where the Council gathers
+to meet and discuss current issues involving the city's future.  It is
+considered an honor to be able to hold a position here, in fact most
+elves have had aspirations at one time or another of some day sitting
+on the Council.    
+~
+190 8 0 0 0 3
+D2
+~
+~
+0 0 19044 0
+S
+#19046
+Bank~
+This is the Bank of the city.  All monetary transactions and affairs
+are handled here by honest elves.  A simple wooden counter and a desk
+is all that can be seen here.  A fiancial advisor is here to help you
+with any problems or questions you may have concerning money.    
+~
+190 24 0 0 0 3
+D1
+~
+~
+0 0 19044 0
+E
+wall~
+   It is but an empty spot, just a bit less faded than the rest of the
+wall around it.  Although from appearances it is nothing more than
+that, the small spot holds a certain sort of power, an emanation which
+is not describable by any means.    
+~
+E
+place~
+It is but an empty spot, just a bit less faded than the rest of the
+wall around it.  Although from appearances it is nothing more than
+that, the small spot holds a certain sort of power, an emanation which
+is not describable by any means.    
+~
+S
+#19047
+Post Office~
+This is the Post Office of the city.  All mail coming and going is
+handled here by elves with fantastic organizational skills.  A simple
+wooden counter in the back of the room is all the furnishing there is.
+A swinging door to the sorting room is in the back BUT a sign saying
+"EMPLOYEES ONLY" prohibit any entry there.  The only exit is north to
+the courtyard.    
+~
+190 24 0 0 0 3
+D0
+~
+~
+0 0 19044 0
+S
+#19048
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19049 0
+D2
+~
+~
+0 0 19037 0
+S
+#19049
+Platform~
+This circular platform is held strong by the wooden supports which
+buttress the underside at two foot intervals.  This is a hub from
+which paths lead north, south, and east toward similar platforms.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19053 0
+D1
+~
+~
+0 0 19050 0
+D2
+~
+~
+0 0 19048 0
+S
+#19050
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19051 0
+D3
+~
+~
+0 0 19049 0
+S
+#19051
+Small Platform~
+This circular platform is held strong by the wooden supports which
+buttress the underside at two foot intervals.  This is a small private
+platform made by and for the Houses Je'Jaran and Ej'Mrolan.  
+Entrances to these houses lie to the north and south, while to the
+west one may walk along one of the many bridges which connect this
+wonderous village.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19052 0
+D2
+~
+~
+0 0 19060 0
+D3
+~
+~
+0 0 19050 0
+S
+#19052
+House Je'Jaran~
+Leriin Je'Jaran is not a sloppy man, however his home is definitely
+not the tidiest in the village.  Piles of papers on the desk and along
+the wall suggest the Je'Jaran keeps himself extremely busy with work,
+and finds little time to clean.  Besides the mess of papers, there is
+nothing of particular interest in this place.    
+~
+190 0 0 0 0 0
+D2
+~
+~
+0 0 19051 0
+S
+#19053
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19055 0
+D2
+~
+~
+0 0 19049 0
+D3
+~
+~
+0 0 19054 0
+S
+#19054
+Wooden Platform~
+This circular platform runs around the trunk of this immense tree,
+held and supported by wooden beams angled against the tree trunk from
+beneath.  A bridge made of vine rope and wood leads east from here
+toward another platform similar to the one you stand upon.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19053 0
+S
+#19055
+Platform~
+This platform serves as the entrance into the house of Ancient Reklan,
+the oldest elf in the entire village, possibly in the world.  There
+are also rope bridges leading north and south from here.    
+~
+190 0 0 0 0 3
+D0
+~
+~
+0 0 19057 0
+D1
+~
+~
+0 0 19056 0
+D2
+~
+~
+0 0 19053 0
+S
+#19056
+The Home of Ancient Reklan~
+There is absolutely no furniture in this room save for the chair upon
+which Reklan rests his old bones . The place seems extremely clean,
+most probably the younger elves of the village take care of the more
+mundane chores for the old elf.    
+~
+190 16 0 0 0 0
+D3
+~
+~
+0 0 19055 0
+E
+chair~
+The narrow, flat boards which make up this chair do not by any means
+look to be comfortable in the least.  Reklan, however, appears to
+spend a great amount of time in this chair, so settled in does he
+appear.    
+~
+S
+#19057
+Rope Bridge~
+This narrow walkway is created from wooden planks and ropes fashioned
+together to create a safe passage way between the wooden platforms.  
+Through the cracks in the wooden bridge, the forest floor can be seen
+far below, making one realize just how high up in the tree this city
+is located.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19062 0
+D2
+~
+~
+0 0 19055 0
+D3
+~
+~
+0 0 19058 0
+S
+#19058
+Platform~
+This is the personal wooden platform of Oklath, an old elf whose
+reputation in the village is so sullied that no one desires to share a
+platform with him and risk being his neighbor.  To the south is the
+entrance to old Oklath's house, and to the east is a rope bridge.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19057 0
+D2
+~
+~
+0 0 19059 0
+S
+#19059
+House Oklath~
+Old, gibbering Oklath talks constantly of the Apocolypse and the fact
+that it will soon fall upon the Elven race.  The villagers have
+avoided him for precisely that reason, shunning him and his home,
+tucking him away at the farthest reaches of the village.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19058 0
+S
+#19060
+House Ej'Mrolan~
+Housing one of the most influential members of the High Council, this
+home is filled with all sorts of memorabilia and gifts from the many
+friends which Ej'Mrolan has in the village.  The walls are covered in
+intricate artwork, beautifully woven tapestries, and other fine decor.
+The furniture appears well used, as Ej'Mrolan must have a great many
+visitors.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19051 0
+S
+#19061
+House De'Lantza~
+It is considered a great honor to pass through the doors into the
+abode of the High Priest.  De'Lantza is known for his great wisdom and
+knowledge, yet maintains an aloofness that makes some villagers
+approach this home cautiously.  Children from the village often dare
+each other to touch the outer walls of the house, and those that do
+the dare enjoy a certain status of respect from the younger folk of
+the village.    
+~
+190 0 0 0 0 0
+D3
+~
+~
+0 0 19062 0
+S
+#19062
+Platform~
+This sturdy wooden platform serves as the entryway to the High Priest
+De'Lantza's home.  The main room of the home is located to the east,
+and a rope bridge is to the west.    
+~
+190 0 0 0 0 3
+D1
+~
+~
+0 0 19061 0
+D3
+~
+~
+0 0 19057 0
+S
+#19063
+Branch of Knowledge~
+The Branch of Knowledge leads west to a guild which was established in
+the sanctity of the Tree and east to the center of the Tree.  Patches
+of glowing fungus growing on the walls illuminate the way.  The
+presence of the Guildguard, a high honor bestowed on an elf chosen by
+the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 24 0 0 0 3
+D1
+~
+~
+0 0 19021 0
+D3
+~
+~
+0 0 19093 0
+S
+#19064
+Sorcerer Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D1
+~
+~
+0 0 19093 0
+S
+#19065
+Inside the Great Tree of Knowledge~
+The spiraling staircase meets a platform here, forming a junction.  
+Four huge branches have grown out from here in the Tree.  These
+branches are known as the Branches of Knowledge, from where four of
+the eight guilds can be found.  Patches of luminescent fungus grow on
+the walls, providing a soft light from which to see.  One can go in
+any of the cardinal directions.    
+~
+190 8 0 0 0 3
+D0
+~
+~
+0 0 19072 0
+D1
+~
+~
+0 0 19068 0
+D2
+~
+~
+0 0 19066 0
+D3
+~
+~
+0 0 19070 0
+D4
+~
+~
+0 0 19074 0
+D5
+~
+~
+0 0 19021 0
+S
+#19066
+Branch of Knowledge~
+The Branch of Knowledge leads south to a guild which was established
+in the sanctity of the Tree and north to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 8 0 0 0 3
+D0
+~
+~
+0 0 19065 0
+D2
+~
+~
+0 0 19094 0
+S
+#19067
+Ranger Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D0
+~
+~
+0 0 19094 0
+S
+#19068
+Branch of Knowledge~
+The Branch of Knowledge leades east to a guild which was established
+in the sanctity of the Tree and west to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 8 0 0 0 3
+D1
+~
+~
+0 0 19095 0
+D3
+~
+~
+0 0 19065 0
+S
+#19069
+Paladin Guildroom~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D3
+~
+~
+0 0 19095 0
+S
+#19070
+Branch of Knowledge~
+The Branch of Knowledge leads west to a guild which was established in
+the sanctity of the Tree and east to the center of the Tree.  Patches
+of glowing fungus growing on the walls illuminate the way.  The
+presence of the Guildguard, a high honor bestowed on an elf chosen by
+the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 8 0 0 0 3
+D1
+~
+~
+0 0 19065 0
+D3
+~
+~
+0 0 19096 0
+S
+#19071
+Deathknight Guild~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D1
+~
+~
+0 0 19096 0
+S
+#19072
+Branch of Knowledge~
+The Branch of Knowledge leads north to a guild which was established
+in the sanctity of the Tree and south to the center of the Tree.  
+Patches of glowing fungus growing on the walls illuminate the way.  
+The presence of the Guildguard, a high honor bestowed on an elf chosen
+by the Protectors to guard the Tree and guild, will reveal the type of
+guild which lies at the end of the Branch.    
+~
+190 8 0 0 0 3
+D0
+~
+~
+0 0 19097 0
+D2
+~
+~
+0 0 19065 0
+S
+#19073
+Monk Guildroom~
+The walls of the branch merge together and form a solid wooden wall at
+the far end of the guild room.  The rest of the branch continues to
+grow healthily beyond what one can see here.  The room is plain and
+simple.  The guildmaster is here, ready to train all those who are
+worthy to enter these sacred parts.    
+~
+190 65560 0 0 0 0
+D2
+~
+~
+0 0 19097 0
+S
+#19074
+Inside the Great Tree of Knowledge~
+The spiraling staircase meets a platform here, forming a junction.  
+Four smaller branches have grown out from here in the Tree.  Patches
+of luminescent fungus grow on the walls, providing a soft light from
+which to see.  The Hospital lies to the north, the Donation room lies
+to the south, and to the west and east are Rooms of Meditation.    
+~
+190 8 0 0 0 3
+D0
+~
+~
+0 0 19078 0
+D1
+~
+~
+0 0 19076 0
+D2
+~
+~
+0 0 19075 0
+D3
+~
+~
+0 0 19077 0
+D4
+~
+~
+0 0 19079 0
+D5
+~
+~
+0 0 19065 0
+S
+#19075
+Donation Room~
+This small alcove carved into the heartwood is the donation room.  
+This is where the great elven adventurers donate their findings from
+their perilous journeys from the Elven Tree City.  It is hoped that
+these items will benefit those born in this great city, as well as
+anyone else who may come upon this room.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19074 0
+S
+#19076
+Rooms of Meditation~
+The Rooms of Meditation were created for those who wish to study and
+obtain knowledge.  A powerful force emanating from the Tree relaxes
+and quells the rebellious spirit.  Thus, many wise scholars come from
+afar to pursue their studies here.  An exit to the west leads back out
+into the center of the Tree.    
+~
+190 24 0 0 0 3
+D3
+~
+~
+0 0 19074 0
+S
+#19077
+Rooms of Meditation~
+The Rooms of Meditation were created for those who wish to study and
+obtain knowledge.  A powerful force emanating from the Tree relaxes
+and quells the rebellious spirit.  Thus, many wise scholars come from
+afar to pursue their studies here.  An exit to the east leads back out
+into the center of the tree.    
+~
+190 24 0 0 0 3
+D1
+~
+~
+0 0 19074 0
+S
+#19078
+Hospital~
+This is the famed hospital of the Elven Tree City.  It is rumored that
+the wood of the Tree offers mysterious curative powers, although most
+of the credit probably should go to the skills of the elven healers
+here.  Many of the afflictions common in the realm are being studied
+here for ways to quell them.    
+~
+190 0 0 0 0 0
+D2
+~
+~
+0 0 19074 0
+S
+#19079
+The View~
+The spiral staircase reaches an end here.  High above, the wooden
+walls gradually grow and merge together, forming a ceiling.  The
+height of the Tree continues for unknown and unseen reaches beyond the
+ceiling.  The bark shimmers strangely and becomes transparent for
+moments at a time, creating what elves fondly refer to as the View.  
+One can see the splendor and beauty of the Elven Tree City.  The
+stairs lead back down to other parts of the Tree.    
+~
+190 8 0 0 0 3
+D5
+~
+~
+0 0 19074 0
+S
+#19080
+Climbing the Tree~
+Wooden planks have been securely nailed to the tree, creating a way to
+get up the highest level of the city.  Though the planks are sturdy,
+the agility required to climb up or down speaks highly of the skills
+of the Elven people.  One may continue climbing to get to the top of
+the ladder, or go back down into the heart of the city.    
+~
+190 0 0 0 0 0
+D4
+~
+~
+0 0 19081 0
+D5
+~
+~
+0 0 19006 0
+S
+#19081
+Top of the Tree~
+The floor of the forest is way below, and the view offered from this
+height is breathtaking.  Platforms have been attached together to
+allow safe passageway along these upper reaches of the tree.  A sturdy
+railing along the edge of the platform assures that all who come to
+enjoy the view will not fall to their deaths.  This place is used for
+numerous reasons, be it for watching for intruders, or merely
+observing the beautiful surroundings.  Wooden planks lead down to the
+main part of the city and the platform continues north.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19082 0
+D5
+~
+~
+0 0 19080 0
+S
+#19082
+Top of the Tree~
+The floor of the forest is way below, and the view offered from this
+height is breathtaking.  Platforms have been attached together to
+allow safe passageway along these upper reaches of the tree.  A sturdy
+railing along the edge of the platform assures that all who come to
+enjoy the view will not fall to their deaths.  This place is used for
+numerous reasons, be it for watching for intruders, or merely
+observing the beautiful surroundings.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19083 0
+D2
+~
+~
+0 0 19081 0
+S
+#19083
+Top of the Tree~
+The floor of the forest is way below, and the view offered from this
+height is breathtaking.  Platforms have been attached together to
+allow safe passageway along these upper reaches of the tree.  A sturdy
+railing along the edge of the platform assures that all who come to
+enjoy the view will not fall to their deaths.  This place is used for
+numerous reasons, be it for watching for intruders, or merely
+observing the beautiful surroundings.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19084 0
+D2
+~
+~
+0 0 19082 0
+S
+#19084
+Top of the Tree~
+The floor of the forest is way below, and the view offered from this
+height is breathtaking.  Platforms have been attached together to
+allow safe passageway along these upper reaches of the tree.  A sturdy
+railing along the edge of the platform assures that all who come to
+enjoy the view will not fall to their deaths.  This place is used for
+numerous reasons, be it for watching for intruders, or merely
+observing the beautiful surroundings.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19085 0
+D2
+~
+~
+0 0 19083 0
+S
+#19085
+Top of the Tree~
+The floor of the forest is way below, and the view offered from this
+height is breathtaking.  Platforms have been attached together to
+allow safe passageway along these upper reaches of the tree.  A sturdy
+railing along the edge of the platform assures that all who come to
+enjoy the view will not fall to their deaths.  This place is used for
+numerous reasons, be it for watching for intruders, or merely
+observing the beautiful surroundings.  Wooden planks lead down to the
+main part of the city and the platform continues south.    
+~
+190 0 0 0 0 0
+D2
+~
+~
+0 0 19084 0
+D5
+~
+~
+0 0 19086 0
+S
+#19086
+Climbing the Tree~
+Wooden planks have been securely nailed to the tree, creating a way to
+get up the highest level of the city.  Though the planks are sturdy,
+the agility required to climb up or down speaks highly of the skills
+of the Elven people.  One may continue climbing to get to the top of
+the ladder, or go back down into the heart of the city.    
+~
+190 0 0 0 0 0
+D4
+~
+~
+0 0 19085 0
+D5
+~
+~
+0 0 19087 0
+S
+#19087
+Climbing the Tree~
+Wooden planks have been securely nailed to the tree, creating a way to
+get up the highest level of the city.  Though the planks are sturdy,
+the agility required to climb up or down speaks highly of the skills
+of the Elven people.  One may continue climbing to get to the top of
+the ladder, or go north to enter the heart of the city.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19054 0
+D4
+~
+~
+0 0 19086 0
+S
+#19088
+tree~
+You are in an unfinished room.
+~
+190 0 0 0 0 0
+S
+#19089
+Cleric Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D1
+~
+~
+0 0 19025 0
+D3
+~
+~
+0 0 19024 0
+S
+#19090
+The Reception in the Tavern of Hope~
+Leaving the smoky mists of downstairs, one comes upon a comfortable
+inn.  A receptionist is here, available to help with any need a guest
+may have.  One can rent here for the evening or head back downstairs
+to the bar.  A small sign carved out of wood is on the receptionist's
+desk.    
+~
+190 28 0 0 0 1
+D5
+You see the Tavern of Hope.
+~
+~
+0 -1 19016 0
+E
+sign~
+Rooms are expensive but good!  You may:
+
+   Offer - get an offer on a room - Time is in real life days.
+   Rent  - Rent a room (saves your stuff, and quits the game),
+           minimum charge is one day.
+
+
+                          MY WAY OR THE HIGHWAY
+                             PAY YOUR RENT!
+                WE WON'T THINK TWICE BEFORE KICKING YOU OUT.
+~
+S
+#19091
+Gladiator Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19027 0
+D2
+~
+~
+0 0 19026 0
+S
+#19092
+Thief Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19022 0
+D2
+~
+~
+0 0 19023 0
+S
+#19093
+Sorcerer's Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 24 0 0 0 3
+D1
+~
+~
+0 0 19063 0
+D3
+~
+~
+0 0 19064 0
+S
+#19094
+Ranger Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19066 0
+D2
+~
+~
+0 0 19067 0
+S
+#19095
+Paladin Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D1
+~
+~
+0 0 19069 0
+D3
+~
+~
+0 0 19068 0
+S
+#19096
+Deathknight Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D1
+~
+~
+0 0 19070 0
+D3
+~
+~
+0 0 19071 0
+S
+#19097
+Monk Boardroom~
+The wooden walls inside this huge branch is just wide enough to allow
+even an giant, the largest of races, to be able to walk through with
+comfort.  The boardroom is plain and empty of furnishings.  The only
+thing that can be seen here is a board, upon which each member of a
+class may use to relay information among fellow class members.    
+~
+190 0 0 0 0 0
+D0
+~
+~
+0 0 19073 0
+D2
+~
+~
+0 0 19072 0
+S
+#19098
+The Stables~
+The stables are very well kept, reflecting the affinity elves have
+towards nature.  The stable houses common animals raised for town
+food, as well as the beasts of burden used by travellers from far away
+lands.  Every now and then, it will house a wayward drunk from the
+tavern across the street for the night.    
+~
+190 12 0 0 0 1
+D1
+~
+~
+0 0 19008 0
+S
+#19099
+undefined~
+Nothing.
+~
+190 0 0 0 0 0
+D5
+~
+~
+0 0 3008 6
+S
+$~

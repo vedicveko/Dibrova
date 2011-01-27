@@ -1,0 +1,611 @@
+#7200
+breastplate plate red steel~
+/cwa /crred steel/cw breastplate/c0~
+/cwA red steel breastplate lies discarded on the ground./c0~
+~
+9 684032 2 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+11 11220 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 25
+A
+19 3
+A
+3 -2
+A
+5 1
+A
+14 -20
+#7201
+plate face red steel~
+/cwa /crred steel/cw face plate/c0~
+/cwA red steel face plate lies on the ground./c0~
+~
+9 749568 2 0 0 262145 0 0 0
+5 0 0 0 0 0 0 0
+5 13940 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+13 30
+#7202
+guardsman's sword red steel~
+/cwa guardsman's sword/c0~
+/cwA guardsman's sword has been dropped here./c0~
+~
+5 749568 2 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+8 19720 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 3
+A
+2 -2
+A
+13 -15
+#7203
+barrel beer~
+/cwa /cybarrel/cw of beer/c0~
+/cwA barrel of beer lies on the ground./c0~
+~
+17 0 0 0 0 1 0 0 0
+75 75 1 0 0 0 0 0
+80 300 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7204
+wheel barrow~
+/cwa wheel barrow/c0~
+/cwA wheel barrow lies at the side of the road./c0~
+~
+15 0 0 0 0 1 0 0 0
+200 0 -1 0 0 0 0 0
+24 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7205
+shovel~
+/cwa shovel/c0~
+/cwA shovel has been left on the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7206
+beads string~
+/cwa string of /cbbeads/c0~
+A string of beads have been dropped here.~
+~
+12 263170 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 100 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 3
+A
+3 1
+A
+13 -20
+#7207
+ale pint westlawn~
+/cwa pint of /cyWestlawn's Ale/c0~
+/cwA pint of container has been left on the ground./c0~
+~
+17 0 0 0 0 1 0 0 0
+4 4 3 0 0 0 0 0
+9 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7208
+jar water~
+/cwa jar of water/c0~
+/cwA clear jar has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+4 4 0 0 0 0 0 0
+9 3 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7209
+steak platter~
+/cwa steak platter/c0~
+/cwA steak platter lies on the ground./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+3 24 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7210
+paper wadded piece~
+/cwa wadded up piece of paper/c0~
+/cwA wadded up piece of paper lies on the ground./c0~
+~
+12 1312258 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+paper~
+To you my love, my dear Landestine -
+
+I have written you this very same letter a thousand times, rewriting and
+throwing away the same words time after time. I do not know why I find
+myself always writing the same thing over and over, knowing that our
+love is as futile as the attempted peace talks which go on between the
+Barons.
+
+I know that you have your realm and your people to consider, and I realize
+who I am - naught but a lowly servant, and an old one now - but even so,
+I cannot stop the hunger for your touch which still burns as strong as it
+did so many years ago.
+
+One day, when all is settled and no one can get hurt anymore, our love will
+have its chance and you and I will live in blissful peace.
+I know it in my heart.
+
+Yours -
+
+Gilsby
+~
+A
+5 1
+A
+3 -1
+#7211
+cloak jet black~
+/cwa /cLjet-black cloak/c0~
+/cwA jet-black cloak lies in a ball on the ground./c0~
+~
+9 1049089 0 0 0 1025 0 0 0
+9 0 0 0 0 0 0 0
+7 46106 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+12 40
+A
+3 2
+A
+1 -2
+A
+13 -30
+#7212
+etched staff~
+/cwan /cLetched staff/c0~
+/cwAn etched staff has been left on the ground./c0~
+The clouds suddenly darken with rage as $n holds the staff up high!
+~
+4 1049089 0 0 0 16385 0 0 0
+99 3 3 106 0 0 0 0
+6 2654 0 99 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7213
+rune thumb~
+/cwa /ccglowing/cL thumb rune/c0~
+/cwA glowing thumb rune lies on the ground./c0~
+~
+11 1049089 0 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+3 24266 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 2
+A
+19 2
+A
+18 1
+A
+13 35
+A
+14 -40
+A
+25 -2
+#7214
+harness leather~
+/cwa /cyleather /cwharness/c0~
+/cwA leather harness lies coiled on the ground./c0~
+~
+9 0 0 0 0 2049 0 0 0
+6 0 0 0 0 0 0 0
+6 10319 0 43 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 30
+#7215
+pole fishing~
+/cwa fishing pole/c0~
+/cwA fishing pole lies tossed aside./c0~
+~
+34 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7216
+shiney lure~
+/cwa /cCshiny lure/c0~
+/cwA small shiny lure lies glinting on the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#7217
+basket wicker~
+/cwa /cywicker basket/c0~
+/cwA wicker basket has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+50 1 -1 0 0 0 0 0
+4 33 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7218
+belt might~
+/cwthe /cBBelt /cwof /cBSupreme Might/c0~
+A glowing belt lies thrown to the ground.~
+~
+9 667649 2 0 0 2049 0 0 0
+7 0 0 0 0 0 0 0
+6 20353 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+25 2
+A
+12 -40
+A
+13 -20
+#7219
+shield sorcery~
+/cwthe /cmShield /cwof /cmSorcery/c0~
+/cwA small, glowing purple shield lies on the ground./c0~
+~
+9 966657 2 0 0 513 0 0 0
+11 0 0 0 0 0 0 0
+6 44639 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 35
+A
+26 3
+A
+18 2
+A
+19 -3
+A
+1 -2
+#7220
+keg beer~
+a keg of beer~
+A keg of beer of beer lies on its side.~
+~
+17 0 0 0 0 1 0 0 0
+100 100 1 0 0 0 0 0
+105 56 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7221
+eyepiece glass~
+/cwa /ccglass eyepiece/c0~
+/cwAn odd-shaped glass eyepiece has been dropped./c0~
+~
+11 536577 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+3 12000 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 30
+#7222
+charm elite~
+/cwan /crelite charm/c0~
+/cwAn elite charm hangs from a red steel chain, dropped upon the floor./c0~
+~
+11 684033 2 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+4 17039 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+1 2
+A
+25 -2
+A
+3 1
+#7223
+sword red short steel ooga~
+/cwa /crred steel short sword/c0~
+/cwA red steel short sword has been left here./c0~
+~
+5 684034 2 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+8 29686 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+19 3
+A
+1 -2
+A
+2 2
+A
+4 -1
+#7224
+boots bladed pair~
+/cwa pair of bladed boots/c0~
+/cwA pair of bladed boots have been left on the floor./c0~
+~
+9 667648 2 0 0 65 0 0 0
+8 0 0 0 0 0 0 0
+9 25000 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 2
+A
+13 -35
+#7225
+blade titanium~
+/cwa /cCtitanium blade/c0~
+/cwA beautiful titanium blade has been somehow left behind./c0~
+~
+5 684033 2 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 72719 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 4
+A
+25 1
+A
+13 -45
+A
+17 10
+C
+25 4
+#7226
+mantle red~
+/cwa /crred mantle/c0~
+/cwA red mantle lies on the ground, waiting to be worn./c0~
+~
+11 684033 2 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+7 30300 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -7
+A
+18 3
+A
+19 2
+A
+1 2
+A
+3 2
+A
+13 -45
+#7227
+red clasp~
+/cwa /crred /cwclasp/c0~
+/cwA red clasp has been dropped to the ground./c0~
+~
+11 684033 2 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+3 17507 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -4
+A
+13 35
+A
+3 2
+A
+5 -2
+#7228
+clipboard board~
+/cwa clipboard/c0~
+/cwA clipboard has been left here./c0~
+~
+16 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 134 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7229
+hammer forgeman's~
+/cwa forgeman's hammer/c0~
+/cwA huge forgeman's hammer lies on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+14 32400 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+1 2
+A
+18 -2
+A
+13 -20
+#7230
+guard brass eye~
+/cwa /cYbrass /cweye guard/c0~
+/cwA brass eye guard has been dropped on the ground./c0~
+~
+9 1 0 0 0 131073 0 0 0
+4 0 0 0 0 0 0 0
+4 5673 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 35
+A
+2 1
+#7231
+anvil~
+/cwan iron anvil/c0~
+/cwAn iron anvil sits squarely in the center of the floor./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 132 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7232
+guards forearm arm~
+/cwa set of leather forearm guards/c0~
+/cwA set of leather forearm guards lie on the ground./c0~
+~
+9 12288 0 0 0 257 0 0 0
+7 0 0 0 0 0 0 0
+6 28899 0 85 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 3
+A
+25 1
+A
+13 20
+A
+12 -20
+A
+14 -30
+#7233
+earring red steel~
+/cra red steel earring/c0~
+/cwA red steel earring has been dropped on the ground./c0~
+~
+11 263169 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+2 32266 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 -4
+A
+13 -20
+A
+1 2
+#7234
+ring plain red steel~
+/cwa plain /crred steel ring/c0~
+/cwA plain red steel ring lies on the ground./c0~
+~
+11 263168 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+3 28233 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+25 3
+A
+18 4
+A
+2 2
+A
+1 -2
+#7235
+leggings red chainmail~
+/cwa pair of /crred chainmail /cwleggings/c0~
+/cwA pair of red chainmail leggings lie on the ground./c0~
+~
+9 274433 0 0 0 33 0 0 0
+9 0 0 0 0 0 0 0
+9 41946 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 5
+A
+1 -3
+A
+13 -35
+#7236
+spoon wooden~
+/cwa large /cywooden /cwspoon/c0~
+/cwA large wooden spoon has been left on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 0 0 0 0 0
+3 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7237
+straw piece~
+/cwa piece of /cystraw/c0~
+/cwA piece of straw lies thrown to the ground./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7238
+boots thick leather~
+/cwa pair of thick /cyleather /cwboots/c0~
+/cwA pair of thick leather boots lie on the ground./c0~
+~
+9 0 0 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+8 15579 0 57 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 30
+A
+5 2
+A
+19 2
+A
+18 2
+A
+1 -2
+A
+3 -1
+#7239
+hat wide brimmed tall~
+/cwa tall, wide-brimmed hat/c0~
+/cwA tall, wide-brimmed hat lies thrown to the ground./c0~
+~
+9 1323008 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+5 17786 0 58 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 2
+A
+5 1
+A
+2 1
+A
+13 -30
+A
+1 -2
+#7240
+gong huge brass~
+/cwa /cYhuge brass/cw gong/c0~
+/cwA /cYhuge brass/cw gong has been placed here for ringing in times of emergency./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#7299
+deed westlawn keep~
+the deed to Westlawn's Keep~
+The deed to Westlawn's Keep has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+72 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

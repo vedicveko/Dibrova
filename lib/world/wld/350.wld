@@ -1,0 +1,1593 @@
+#35000
+Flat Lands~
+Strange clay roof tops stick out from the ground.  A few trees can be
+seen from here.  Small tufts of grass grow in sparse clumps along the
+ground.  Small critters scurry quickly from one hole to the next.    
+~
+350 0 0 0 0 2
+D2
+~
+~
+0 0 35001 0
+S
+#35001
+Flat Lands~
+A few strange vines grow along the ground here instead of the usual
+grasses and shrubbs, what could that mean?  The clay roof tops can be
+seen clearly from this point, smoke rises from the small chimney like
+stacks ontop of a few of these dwellings.  Just to the west of here
+where the clay rooftops start.  A stream flows south of here.    
+~
+350 0 0 0 0 2
+D0
+~
+~
+0 0 35000 0
+D1
+~
+~
+0 0 35003 0
+D3
+~
+~
+0 0 35002 0
+S
+#35002
+Clay Dwellings~
+Large pieces of what appears to be clay slabs stick out of the ground
+about two feet, a few have chimneys sticking out of them.  Sounds of
+people doing their chores and children playing can be heard coming
+from the clay rooftops.  Smoke stems from each of the chimneys filling
+the air with the smells of cooking.    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35001 0
+D2
+~
+~
+0 0 35006 0
+D3
+~
+~
+0 0 35005 0
+S
+#35003
+Near the stream~
+Off in the distance one can make out a small camp of some sort.  
+Seemingly apart from the clay dwellings just west of here.  A few flat
+landers can be seen going about their daily routine.  Some tents made
+from what looks like animal hides surround the campfire.  A small
+stream flows slowly to the south.    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35004 0
+D2
+~
+~
+0 0 35007 0
+D3
+~
+~
+0 0 35001 0
+S
+#35004
+Near the stream~
+Small animals scurry through the grass, foraging and stalking smaller
+creatures.  An occasional song or drum beat can be heard coming from
+across the river.  Tall grasses and short shrubs grow in patches here,
+more so near the river.    
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35072 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 35008 0
+D3
+~
+~
+0 0 35003 0
+S
+#35005
+Clay Dwellings~
+Clay roof tops stick out of the ground here in groups of three or
+four, almost like an entire town lives just under the surface.  A
+small dip in the ground look almost like an entrance, but upon
+inspection it is nothing more than a dip in the ground.  No doors or
+windows can be seen from here at all, one must wonder who these people
+are.  To the near west a stence of death floats in, one can see what
+look like bodies wrapped up from here.    
+~
+350 0 0 0 0 0
+D1
+~
+~
+0 0 35002 0
+D3
+~
+~
+0 0 35021 0
+S
+#35006
+Along the Stream~
+The water appears deeper here than in other parts of the stream, some
+larger fish can be seen swimming below the surface.  Tall grasses line
+the banks giving little foresight to the south.  Hard packed dirt line
+a small path to the northern plain.    
+~
+350 0 0 0 0 7
+D0
+~
+~
+0 0 35002 0
+D1
+~
+~
+0 0 35009 0
+D3
+~
+~
+0 0 35077 0
+S
+#35007
+A small stream~
+Clear blue water flows quietly gurgling along towards the south.  
+Some small fish can be seen in the crsytal clear water just below the
+surface.  Occasionally one can barely make out a dark menacing shadow
+along the bottom, of the stream.  Better becareful lest one gets too
+close and finds out what the shadow might be.  ....    
+~
+350 0 0 0 0 7
+D0
+~
+~
+0 0 35003 0
+D2
+~
+~
+0 0 35022 0
+D3
+~
+~
+0 0 35009 0
+S
+#35008
+A temple??~
+Strange symbols marr the ground here in a large circle.  Looking
+around this place one can notice the placement of the shrubs to form
+some sort of temple or holy place.  Even closer inspection will reveal
+small bits of animal skins and claws in the center of the circle.  
+Directional markers have been set into the cirlce with pieces of bone.
+  
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35004 0
+S
+#35009
+Along the Stream~
+Slight under currents make the water swirl in places.  Fish swim
+happily under the surface.  Tall grass grows along the banks, swaying
+gently in the breeze.  A small path can be seen leading up on the
+southern bank.    
+~
+350 0 0 0 0 7
+D1
+~
+~
+0 0 35007 0
+D3
+~
+~
+0 0 35006 0
+D4
+~
+~
+0 0 35010 0
+S
+#35010
+The Southern bank~
+The camp is not far from here, just to the south.  Tall grass grows
+here along the bank of the stream, aside from the path down to the
+stream.  The large tents made of hide appear ten feet tall.  
+Smoldering ashes fill the center camp where a large campfire once was.
+  
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35020 0
+D2
+~
+~
+0 0 35011 0
+D5
+~
+~
+0 0 35009 0
+S
+#35011
+The Center Camp~
+Large tents circle a large pit filled with ashes, still smoldering.  
+There appears to be somthing in the pit other than ashes, the smells
+of cooking meat waft up from the pit.  To the west one can see the
+largest of the tents, seems a chief might live there.  To the east a
+smaller tent can be seen and to the south another group of tents
+circle a smaller campfire.    
+~
+350 0 0 0 0 2
+D0
+~
+~
+0 0 35010 0
+D1
+~
+~
+0 0 35015 0
+D2
+~
+~
+0 0 35012 0
+D3
+~
+~
+0 0 35013 0
+S
+#35012
+Center of smaller camp~
+Fewer tents stand tall here most in this camp are longer and wider,
+almost as if the people here were not as tall as those in the large
+camp.  Smoldering ash fill the fire pit here, some small items can be
+seen near the pit, almost looking like childrens' play toys...  This
+area smells of fresh produce and strange cooking spice.    
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35011 0
+D3
+~
+~
+0 0 35014 0
+S
+#35013
+Large Tent~
+Much larger inside than it appears outside this tent belongs to the
+chief of this primitive tribe.  A crude bed made of grass and hides
+sits off to one side.  The inner walls have been decorated with
+paintings of war and great hunts, the walls themselves being the
+canvas.  To the east is the center camp, and to the south is the
+smaller camp for women and children.    
+~
+350 12 0 0 0 0
+D1
+~
+~
+0 0 35011 0
+D2
+~
+~
+0 0 35014 0
+S
+T 35009
+#35014
+Smaller Camp~
+Fewer tents circle the small fire pit here.  Little patches of what
+looks like gardens of some sort growing between the tents.  Small
+ropes are strung from one tent to the next, with pieces of clothing
+hanging from them.  To the north is a large tent, and to the east is
+the fire pit and center of this small camp.    
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35013 0
+D1
+~
+~
+0 0 35012 0
+S
+#35015
+A tent near the center of camp~
+A tent near the center of camp is here standing almost nine feet in
+height, making it one of the tallest tents in the camp.  A large
+bull's skull hangs over the open flap, marking this as a warrior's
+tent.  A small stream of smoke eminates from the flap on the top of
+the tent.  To the south lays the entrance of this honorable abode.  
+
+~
+350 0 0 0 0 0
+D1
+~
+~
+0 0 35017 0
+D2
+~
+~
+0 0 35016 0
+D3
+~
+~
+0 0 35011 0
+S
+#35016
+Warrior's Tent~
+A large fur bed lined with smaller furs take up the far wall.  Dream
+catcher hangs above the palette, and a stretched piece of fur hangs on
+the wall in a circle of wood.  Red clay paint sits in a jar along the
+other wall, a few other belongings take up little space in this modest
+dwelling.  Although the bed is large enough for two people, one does
+not get the feeling it has been shared in quite some time, judging by
+the lack of extra belongings.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35015 0
+S
+#35017
+The main camp~
+Tents of less than eight feet are gathered here just beyond the line
+of vision of the larger tents.  To the south there is a tent that is
+wider then tall, standing at or around eight and a half feet tall by
+what looks to be ten feet wide.  This tent has two flapped spots on
+the top instead of the normal one.  Some holy looking symbols made
+from fur and bone decorate the entrance, marking this as a holy
+person's or healers' tent.    
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35019 0
+D2
+~
+~
+0 0 35018 0
+D3
+~
+~
+0 0 35015 0
+S
+#35018
+Shamanic tent~
+Several beds lay here, a few possibly with people still in them.  The
+walls are lined with small make shift shelves constructed of twigs and
+smaller branches.  A small fire burns constantly here in the center of
+the dirt floor.  Scents of spices and herbs assualt one's nose in a
+symphany of smells.  The shelves along the walls hold small pouches
+and a few bowls of what apear to be potions of some sort.    
+~
+350 262168 0 0 0 0
+D0
+~
+~
+0 0 35017 0
+S
+#35019
+The Smallest tent~
+This small tent barely tall enough for a halfling to stand-up in, is
+filled with small boxes.  A few of the boxes has fallen over tipping
+its contents out onto the floor.  Large pieces of metal some obviously
+gold other pieces of strange metal lay on the ground.  Hundreds of
+tiny boxes stacked and piled ontop one another here in an abstract
+manner.    
+~
+350 8 0 0 0 0
+D2
+~
+~
+0 0 35017 0
+D3
+~
+~
+0 0 35020 0
+S
+#35020
+Near the Stream~
+Grasses grow tall here along the embankment, small animals can be seen
+thriving in the cover the grass provides from larger more agressive
+creatures.  Crickets' shrill chirping fill the air with their noise,
+making it hard to hear anything else.  To the south through the grass
+one can see the camp of strange people, almost savage like living in
+tents and playing drumms...    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35019 0
+D3
+~
+~
+0 0 35010 0
+S
+#35021
+The Graveyard~
+Putrid smells fill the air with the sickening smells of decay and
+rotting.  Rows of bodies have been set out here on the ground and a
+few racks made from tree limbs and bones of large animals.  The bodies
+are wrapped in cloth and decorated with ribbons and beaded jewelry.  
+A few have even been painted to resemble predatory animals, complete
+with claws or teeth from the actual animal attached to the wrapping.
+  
+~
+350 0 0 0 0 0
+D1
+~
+~
+0 0 35005 0
+S
+#35022
+The stream~
+Tall grass and the occasional patch of reeds grow thick along the
+western bank, where as the eastern bank has only a few patches of
+thick fuana.  Fewer fish can be seen in this rather shallow spread of
+water way.  Sounds of a strange bird can be heard in the distance, not
+unlike that of a SoulEater....  There is a myth that says one who hears it's
+cry is not with their soul long, then again its just a myth right?  
+
+~
+350 0 0 0 0 7
+D0
+~
+~
+0 0 35007 0
+D2
+~
+~
+0 0 35023 0
+S
+#35023
+The Stream~
+Tall grass growing along the banks reduce vision of the flat lands to
+almost nil.  Fish swim lazily along the bottem of the stream, only a
+few feet down from the surface here.  Small patches of algie grow
+giving some cover to the smaller fish here.  Sounds of crickets
+chirping can be heard coming from the northern bank, although no sound
+can be disearned from the eastern bank at all, wierd...    
+~
+350 0 0 0 0 0
+D0
+~
+~
+0 0 35022 0
+D3
+~
+~
+0 0 35024 0
+S
+#35024
+The Stream~
+The water here appears either rather deep or extremely murky here,
+occasional swirls in the water announce the inhabitants in the water
+here are larger than they appear.  To the north is some sort of small
+pool of water, willow like trees block a good veiw of this small
+alcove.  The water here is just as deep/murky as the water to the
+east, if not a bit deeper.  Most of the noise is drowned out by the
+cover of the willows.    
+~
+350 0 0 0 0 7
+D0
+~
+~
+0 0 35025 0
+D1
+~
+~
+0 0 35023 0
+S
+#35025
+The Small alcove~
+Small willow like trees drape their long sweeping branches across the
+surface, almost as if they were taking a long drink of cool refreshing
+water.  A few birds can be seen flitting from branch to branch,
+nesting and other wise enjoying this oasis of sorts.  Songs and calls
+of various birds and small land critters abound here, filling the air
+with a sort of symphony of nature.  Looking into the water will
+exspose a deep wealth of life, another look will also show somthing
+looking back.  If inspected one of the northern trees doesn't seem
+quite natural....    
+~
+350 0 0 0 0 7
+D2
+~
+~
+0 0 35024 0
+D5
+The thick bark of this tree seems slightly unnatural.  No insects can
+be seen eating the bark or taking little pieces off of it.  Only a
+handful of birds make this tree home, a strange seem runs down the
+center of the tree leading into the root system. ~
+~
+0 0 35026 16
+S
+#35026
+Inside the tree~
+Definately not what one would exspect to find inside a tree, mason
+worked stone lines the inside of this fuax tree.  A warm breeze floats
+in from the west, sounds of water lapping the outer shell of this
+passage reminds one of being deep below the ocean surface.  This
+passage continues to the north west and east, a few small sconces are
+mounted along the walls in intervals of ten to twenty feet.  Smooth
+rock with large veins of gold and silver can be seen from here to the
+east.    
+~
+350 268 0 0 0 0
+D0
+Swirls of darkness looms in the shadows, making even the darkest of
+places seem warm and inviting.    
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35027 0
+D2
+A thick glass wall allows for one to watch the underwater life in the
+small alcove.  Although the glass doesn't apear to be thick as it
+could be, one has a feeling this glass is more than strong enough to
+hold hundreds of pounds more than it is.    
+
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35031 0
+D4
+Water trickles down the wall from this corner, a small speck of light
+seeps in along with the water.  One of the seems in the wall is
+unusually wide and deep.    
+~
+~
+0 0 35025 16
+S
+#35027
+The passage~
+Smooth granite lines makes up most of the walls, large veins of what
+appear to be silver and gold stream through the walls at regular
+paces.  Almost like someone placed the veins in there physically.  
+But of course that's impossible, or is it???  Another sconce lights up
+this area of the passage, though the shadows seem to drink in the
+light in places.  Some of the shadows in the south eastern corner seem
+a bit deeper near the floor than the other corners, could be a trick
+of light or somthing more....    
+~
+350 9 0 0 0 0
+D0
+~
+~
+0 0 35028 0
+D3
+~
+~
+0 0 35026 0
+D5
+~
+~
+0 0 35032 16
+S
+#35028
+Dark room~
+Deep shadows move smoothly across the walls here drinking in much of
+the light, almost life like in their movements...  Pools of darkness
+linger along the floor and in the corners especially.  Only one sconce
+burns here, its' flame almost smothered by the shadows.  Small scraps
+of cloth lay in heaps about the floor, along with small pieces of
+metal and papers.    
+~
+350 9 0 0 0 0
+D2
+~
+~
+0 0 35027 0
+D3
+~
+~
+0 0 35029 0
+S
+#35029
+Passage Way~
+Small shadows join up with the larger ones in the center of the room
+on the floor like a dark flower blooming slowly.  The sounds of
+dripping emminate from the other side of the wall.  Small cracks line
+the wall like a spider web, branching and rejoining intricatly.  
+Darkness deepens towards the western part of the passage.    
+~
+350 265 0 0 0 0
+D1
+~
+~
+0 0 35028 0
+D3
+~
+~
+0 0 35030 0
+S
+#35030
+Passage way~
+Moisture has gathered on the floor, making a pool of dark liquid.  
+Light dances on the surface of the puddle with every ripple from
+footfalls of those who dwell deeper in the darkened tunnel.  The only
+torch on the wall has been out for quite some time, the only light
+comes from the glowing moss that grows on the walls and cieling.    
+~
+350 265 0 0 0 0
+D1
+~
+~
+0 0 35029 0
+D2
+~
+~
+0 0 35031 0
+S
+#35031
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Some
+strange pictures have been painted on the walls, almost like they were
+signs, for what one can only wonder.  The strange paintings take up
+the southern wall.    
+~
+350 269 0 0 0 0
+D0
+~
+~
+0 0 35030 0
+D1
+~
+~
+0 0 35026 0
+D2
+The painting is made from a red clay type paint.  A person dragging
+another person in a death shroud of some sort, out of a hole in the
+ground.    
+~
+wall painting~
+0 0 -1 0
+D3
+~
+~
+0 0 35042 0
+S
+#35032
+A dark passage~
+Shadows cover most of the rock surfaces, almost as if a large blanket
+of night had perminantly cloaked this place.  Scents of deep sweet
+earth and hard cold rock fill the air.  A thin layer of silt has
+settled on the floor, cushioning it abit to a travlers weary step.  
+Damp chilled air rushes into one's lungs, filling one with a feeling
+of finality.    
+~
+350 268 0 0 0 0
+D1
+~
+~
+0 0 35033 0
+D2
+~
+~
+0 0 35034 0
+D4
+~
+~
+0 0 35027 16
+S
+#35033
+A small tomb~
+One lonely torch burns in the far corner of this crypt.  Shedding
+light on an almost surrealistic scene.  A solid granite coffin takes
+up the center of this now apparent tomb.  Ancient words etched into
+the lid, one can only surmise that this was the name and mayhaps a
+kind word of the deceased.  Strangly enough no cobwebs or signs of
+vermin can be seen.    
+~
+350 8 0 0 0 0
+D3
+~
+~
+0 0 35032 0
+S
+#35034
+A dark passage~
+Most of the rock surfaces here sit in a covering of shadow, almost as
+if a large blanket of night had perminantly cloaked this place.  The
+silt and dust is a little bit thicker than in the hall just north of
+here.  Some of the rock facing of the walls has chipped away over
+time, showing its veneral age.  To the west a door looms open tuanting
+the brave and strong of heart to take a risk and enter.    
+~
+350 264 0 0 0 0
+D0
+~
+~
+0 0 35032 0
+D2
+~
+~
+0 0 35035 0
+D3
+~
+~
+0 0 35038 0
+S
+#35035
+The dark passage~
+Large chunks of the walls have fallen into the hall making travel a
+bit slower and definatly more dangerous.  Large cracks in the ceiling
+look as though any moment it may give way to the weight of earth
+above.  A dark doorway looms to the east, more uninviting by the
+second, almost as if one could feel the eyes of ancient guardians,
+sent to stand watch of these tombs.    
+~
+350 264 0 0 0 0
+D0
+~
+~
+0 0 35034 0
+D1
+~
+~
+0 0 35039 0
+D2
+~
+~
+0 0 35036 0
+S
+#35036
+A dark passage~
+Scents of deep sweet earth and hard cold rock fill the air.  Damp
+shadows cover most of the broken rock surfaces, almost as if a large
+blanket of black ink have perminantly cloaked this place.  To the west
+a wide maw makes up an entryway, a feeling of somthing dark lurking
+just beyond the line of sight seeps from this opening.  Faint noises
+of somthing or someone can be heard coming from the south and from the
+east can be heard.    
+~
+350 264 0 0 0 0
+D0
+~
+~
+0 0 35035 0
+D2
+~
+~
+0 0 35037 0
+D3
+~
+~
+0 0 35040 0
+S
+#35037
+A dark passage~
+Stone golems stand on either side of the entryway to the east.  No
+stone rubble has fallen from the walls in this far end of the passage.
+Albeit by far the oldest feeling section, it looks year if not
+hundreds of years younger.  The floor here is solid marble and covered
+in no silt, ot just a thin layer but it shines in the light coming
+from the entryway to the east!    
+~
+350 264 0 0 0 0
+D0
+~
+~
+0 0 35036 0
+D1
+~
+~
+0 0 35041 0
+S
+#35038
+A dark crypt~
+A solitary room indeed, only half lit by the pitiful flicker of flame
+left on the ever burning torch.  This tomb at one time must of been a
+work of art to gaze upon, now only small fragments of the gold and
+silver etching remain.  Although it looks as though no vandals have
+had a hand, only the robbery of time.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35034 0
+S
+#35039
+A large tomb~
+Coffins sit against the walls and take up the center of the room.  
+This must be the common burial room, one unlit torch sits in the
+corner, collecting cobwebs from disuse.  Several of the smaller
+coffins have what appears to be a baby's rattle attached to the lid.
+Some of the others have a strange skull symbol with another symbol of
+a rare flower entwined with the skull etched into the lids.    
+~
+350 9 0 0 0 0
+D3
+~
+~
+0 0 35035 0
+S
+#35040
+A forboding crypt~
+No coffin can be seen in the center of this tomb, only one small
+solitary urn.  A large stone block it's stand of forever solitude.  
+Four blue flames light this room, playing havoc with the shadows,
+dancing in a breeze that isn't there anymore.  An inscription has been
+written on the stone pedastel below the urn.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35036 0
+S
+#35041
+A large crypt~
+Two large coffins sit here in this crypt undisturbed.  Each with large
+gems and precious stones encrusting the lids, though a thick layer of
+silt has settled down on them like a winter blanket.  No torches burn
+in this room, its light comes from a strange green flame that burns in
+each corner.  No cracks or otherwise tell tale signs of age can be
+seen aside from the dust.
+~
+350 8 0 0 0 0
+D3
+~
+~
+0 0 35037 0
+S
+#35042
+The Long Passage ~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Small
+pools of moisture line the floor, allowing none to pass silently.  
+Strange red clay paintings line the wall depicting strange rituals and
+ceremonies.  The northern and southern walls are decorated with these
+macabre pieces of artwork.    
+~
+350 269 0 0 0 0
+D0
+Red streaks of paint in jagged shapes fill this section of the wall.
+A man and a woman stand facing one another hold some sort of holy
+symbol, a picture of a large skull laying at their feet.    
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35031 0
+D2
+Two smaller people stand facing one another holding hands much like
+the couple on the northern wall.  They hold a similar symbol as well.
+At the feet of this couple sits a strange flower, or plant.    
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35043 0
+S
+#35043
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Small
+pools of moisture line the floor, allowing none to pass silently.  
+Strange red clay paintings line the wall depicting strange rituals and
+ceremonies .
+~
+350 265 0 0 0 0
+D0
+A tunnel is depicted here, in this tunnel a woman lay on her back
+apperently in child birth.  A man stands over her with a small knife
+of some kind, a skull and the flower from the other paintings is shown
+floating over the prone woman.    
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35042 0
+D2
+In this picture a man is seen kneeling in front of a woman apparently
+begging for mercy.  This woman holds a child over his head, the child
+seems to glow or have rays of light coming from the crown of its head.
+  
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35044 0
+S
+#35044
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Some
+strange pictures have been painted on the walls, almost like they were
+signs, for what one can only wonder.  The strange paintings take up
+the southern wall.  As well as the northern wall.    
+~
+350 265 0 0 0 0
+D0
+In this picture it is clearly meant to be a picture of above ground.
+A sun is shining in the sky above a field much like the one directly
+over these tunnels.  Women kneel on the ground infront of two men.  
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35043 0
+D2
+Almost identical to the northern paintings, in this picture the men
+hold small children over their heads.  Wielding whips and making a
+motion as if to strike the women.    
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35045 0
+S
+#35045
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Small
+pools of moisture line the floor, allowing none to pass silently.  
+Strange red clay paintings line the wall depicting strange rituals and
+ceremonies .
+~
+350 265 0 0 0 0
+D0
+In this picture the women are under ground wielding whips and forcing
+the men to dig and tunnel.  The small children sitting behind the
+women, playing with a skull and some strange plant.    
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35044 0
+D2
+This picture shows a priest of some obscure god sacrificing the
+strange plant on and alter of men kneeling down holding the alter up.
+Under the men is that strange skull, this skull doesn't look like any
+in creation.    
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35046 0
+S
+#35046
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Some
+strange pictures have been painted on the walls, almost like they were
+signs, for what one can only wonder.  The strange paintings take up
+the southern wall.  As well as the northern wall.    
+~
+350 265 0 0 0 0
+D0
+In this picture it is much like the first one at the mouth of this
+passage.  A person dragging another out of a hole in the ground.  
+Only in this one its a man being drug by a woman on to the surface.  
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35045 0
+D2
+A woman bieng cast down into a hole filled with demons or some evil
+creature is depicted here.  Casting the woman down is a large man,
+atleast twice her size.    
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 35047 0
+S
+#35047
+The Long Passage~
+Little light shines from the glowing moss as it hangs down from the
+ceiling, draping down like some sort of a tattered curtain.  Small
+pools of moisture line the floor, allowing none to pass silently.  
+Strange red clay paintings line the wall depicting strange rituals and
+ceremonies .
+~
+350 269 0 0 0 0
+D0
+A group of what look like women are painted here, writing scralled
+under each one.  A large skull entwined with a vine sits in the
+background, the vine is of that strange plant.  The Skull is smiling.
+  
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 35046 0
+D2
+A group of large men each with bright lettering in the same language
+as the women's painting.  Only in this one there is no skull in the
+background and the vine is entangling their feet, binding them to one
+spot.    
+~
+~
+0 0 -1 0
+D5
+~
+~
+0 0 35048 0
+S
+#35048
+The Main Street~
+Large green lanterns light up this underground street, small doorways
+line this road.  No windows can be seen in the structures lining the
+street, only the solitary doorways.  Large skulls hang above every
+door along this road.  Sounds of children at play abound here, placing
+a slight smile on ones face.  The smells of cooking fill the air, with
+sweet smokiness.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35051 0
+D1
+~
+~
+0 0 35050 0
+D3
+~
+~
+0 0 35049 0
+D4
+~
+~
+0 0 35047 0
+S
+#35049
+An herbalist's shop~
+Small shelves line the walls holding many small pouches and vials of
+what surely must be herbs and remedie for what ails one.  Towards the
+back is a large oak table stained with a reddish tint, almost matching
+the clay walls.  Young apprentices hurry about their daily tasks of
+preparing potions and poltices for their mistress.    
+~
+350 28 0 0 0 0
+D1
+~
+~
+0 0 35048 0
+S
+#35050
+An underground dwelling~
+A thick fur rug lines the clay floor, giving a soft plush feeling to
+one's step.  A large table in what looks like the kitchen is set for
+atleast ten.  The smells of spices and delicous food flood one's
+senses with a barage of memories from childhood.  Cupboards with
+wooden dishes and cups line the walls.  The joyful cry of a small
+child can be heard in the distance somewhere.    
+~
+350 8 0 0 0 0
+D3
+~
+~
+0 0 35048 0
+S
+#35051
+The Main Street~
+Large green lanterns light up this underground street, small doorways
+line this road.  No windows can be seen in the structures lining the
+street, only the solitary doorways.  Large skulls hang above every
+door along this road.  Sounds of children at play abound here, placing
+a slight smile on ones face.  The smells of cooking fill the air, with
+sweet smokiness.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35058 0
+D1
+~
+~
+0 0 35052 0
+D2
+~
+~
+0 0 35048 0
+D3
+~
+~
+0 0 35053 0
+S
+#35052
+An underground dwelling~
+Beds and bedding material line the room filling it almost to the point
+of no room to walk in.  Thick feather filled blankets sit folded
+neatly againts the floor in stacks.  Large sacks filled with probably
+feathers sewn up on both ends and quilting sewn into the front and
+back of them are stacked next to the blankets.  Most of the beds have
+very colorful blankets and one of the strange sacks on them.    
+~
+350 8 0 0 0 0
+D3
+~
+~
+0 0 35051 0
+S
+#35053
+An underground dwelling~
+A large table in what looks like the kitchen is set for
+atleast ten.  The smells of spices and delicous food flood one's
+senses with a barage of memories from childhood.  Cupboards with
+wooden dishes and cups line the walls.  The joyful cry of a small
+child can be heard in the distance somewhere.
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35051 0
+S
+#35054
+Childrens' play area~
+Toys strewn everywhere, making it hazardous for adults to walk bare
+foot.  By far the brightest of all the structures, walls painted in
+many different colors ranging from bright /cBblue/cw to bright
+/cPpurple/cw.  Small furniture decorate this room, furniture just the
+right size for a child to use.  Laughter and cries of a children's joy
+can be heard from all about the room.    
+~
+350 8 0 0 0 0
+D2
+~
+~
+0 0 35060 0
+D3
+~
+~
+0 0 35055 0
+S
+#35055
+The Nap Room~
+Small mats made from thatched hay covered in soft silky sheets cover
+almost the entire floor.  Large shelves hold several mats spread out
+to act as bunks.  Very dim lighting and the smell of certain herbs
+makes one drowsy just passing through the room.  The walls here have
+been insulated with thick blankets, to reduce the outside noise level.
+  
+~
+350 40 0 0 0 0
+D1
+~
+~
+0 0 35054 0
+S
+#35056
+A large store of food~
+The smells of spiced meat and fresh produce overbound here.  Large
+sacks and barrels line the walls, big wrought iron kettles sit in
+disuse along a center row.  Sacks of almost anything edible can be
+found here, from pickled pig's feet to plain sacks of flour.  Smaller
+jars of canned goods line the shelves by the hundreds.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35058 0
+S
+#35057
+A store house of some kind~
+Bolts of cloth and sewing material sit next to quarrels of arrows.  
+Stacks of books and pieces of piece-mail sit among farming tools.  A
+large map hangs on one wall, it shows most of the surface fields that
+surround this strange community.  One odd item stands out above the
+rest of the objects, an enormous wooden statue of an older man in a
+full chief's ceremonial garb.    
+~
+350 8 0 0 0 0
+D3
+~
+~
+0 0 35058 0
+S
+#35058
+The Main Street~
+Large green lanterns light up this underground street, small doorways
+line this road.  No windows can be seen in the structures lining the
+street, only the solitary doorways.  Large skulls hang above every
+door along this road.  Sounds of children at play abound here, placing
+a slight smile on ones face.  The smells of cooking fill the air, with
+sweet smokiness.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35060 0
+D1
+~
+~
+0 0 35057 0
+D2
+~
+~
+0 0 35051 0
+D3
+~
+~
+0 0 35056 0
+S
+#35060
+The Main Street~
+Large green lanterns light up this underground street, small doorways
+line this road.  No windows can be seen in the structures lining the
+street, only the solitary doorways.  Large skulls hang above every
+door along this road.  Sounds of children at play abound here, placing
+a slight smile on ones face.  The smells of cooking fill the air, with
+sweet smokiness.    
+~
+350 12 0 0 0 0
+D0
+~
+~
+0 0 35054 0
+D1
+~
+~
+0 0 35062 0
+D2
+~
+~
+0 0 35058 0
+D3
+~
+~
+0 0 35061 0
+D4
+~
+~
+0 0 35071 0
+S
+#35061
+path towards the underground gardens~
+A cobble stone road leads to what looks like gardens of some sort...
+There is a definate slope to the ground as it accends towards the
+"fields".  Large glowing greenish-blue globes line the street here
+giving ample lighting for all who traverse this walk way.  The sounds
+of children at play fades in the distance as do the smells of tasty
+cooking.    
+~
+350 12 0 0 0 0
+D1
+~
+~
+0 0 35060 0
+D3
+~
+~
+0 0 35063 0
+S
+#35062
+A strange temple~
+A beautifully worked golden altar sits in wonderful glory.  Some sense
+of soothing calm seems to relax and envelope one in it's protective
+unseen arms.  A warm breeze flows in from a source unseen bathing all
+in good health.  Obsidian statues of unknown gods line the isle
+leading upto the golden altar.    
+~
+350 262168 0 0 0 0
+D3
+~
+~
+0 0 35060 0
+S
+#35063
+The Gardens~
+Corn grows here in perfectly straight rows, the stalks stand atleast
+eight feet tall, some almost double that.  Gazing up reveals that some
+how whoever built this cavern or atleast modified it for growing food,
+have transformed the roof of this cavern to be clear as glass.  Aqua
+ducts run down from the caverns cieling to inbetween the rows of
+prduce here, providing ample moisture.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35061 0
+D3
+~
+~
+0 0 35064 0
+S
+#35064
+The Gardens~
+Large fruit trees growing here bearing plump produce.  Many types of
+apples can be seen, from the little bitty ones to the large juicy
+ones.  Pears by the barrel full hang swollen on the branches begging
+to be picked.  Cherries sit in all their glory awaiting harvest, and
+the warmth of the ovens for a wondeful tart or pie.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35063 0
+D2
+~
+~
+0 0 35065 0
+S
+#35065
+The Gardens~
+Beans and peas line sit on their respective vines next to the plump
+juicy tomatoes.  Tendrils of the pole bean vines wind their way up the
+poles set in the soft soil for them.  The perfume of ripe tomatoes
+fill the air with their sweet scent.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35064 0
+D1
+~
+~
+0 0 35070 0
+D2
+~
+~
+0 0 35069 0
+D3
+~
+~
+0 0 35066 0
+S
+#35066
+The Gardens~
+Large fruit trees growing here bearing plump produce.  Many types of
+apples can be seen, from the little bitty ones to the large juicy
+ones.  Pears by the barrel full hang swollen on the branches begging
+to be picked.  Cherries sit in all their glory awaiting harvest, and
+the warmth of the ovens for a wondeful tart or pie.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35065 0
+D2
+~
+~
+0 0 35067 0
+S
+#35067
+The Gardens~
+Golden waves of wheat and barley grown in thick rows here make one
+feel relaxed watching it sway with the slightest breeze.  Soft soil
+underfoot and seemingly clear sky over head, one could just lay back
+and let the grain be their bed for a while.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35066 0
+D1
+~
+~
+0 0 35068 0
+S
+#35068
+The Gardens~
+Beans and peas line sit on their respective vines next to the plump
+juicy tomatoes.  Tendrils of the pole bean vines wind their way up the
+poles set in the soft soil for them.  The perfume of ripe tomatoes
+fill the air with their sweet scent.    
+~
+350 8 0 0 0 0
+D1
+~
+~
+0 0 35069 0
+D3
+~
+~
+0 0 35067 0
+S
+#35069
+The Gardens~
+Golden waves of wheat and barley grown in thick rows here make one
+feel relaxed watching it sway with the slightest breeze.  Soft soil
+underfoot and seemingly clear sky over head, one could just lay back
+and let the grain be their bed for a while.    
+~
+350 8 0 0 0 0
+D0
+~
+~
+0 0 35070 0
+D3
+~
+~
+0 0 35068 0
+S
+#35070
+The Gardens~
+Corn grows here in perfectly straight rows, the stalks stand atleast
+eight feet tall, some almost double that.  Gazing up reveals that some
+how whoever built this cavern or atleast modified it for growing food,
+have transformed the roof of this cavern to be clear as glass.  Aqua
+ducts run down from the caverns cieling to inbetween the rows of
+prduce here, providing ample moisture.    
+~
+350 0 0 0 0 0
+D2
+~
+~
+0 0 35069 0
+D3
+~
+~
+0 0 35065 0
+S
+#35071
+Throne Room~
+Thick furs cover the floors and most of the walls.  A large wooden
+throne covered in thick beautiful furs sits at the back of this room.
+A mahogany table runs the length of this room, covered in fine foods
+and several casks of wine.  Small windows sit at the very top of the
+walls letting in fresh air, and the occasional breeze.  Several
+strange symbols mark the doors connectig to this room of luxury.    
+~
+350 8 0 0 0 0
+D5
+~
+~
+0 0 35060 0
+S
+#35072
+The Hunting Field~
+Small patches of shrubbery and brush give easy but seldom cover for
+small creatures.  The tall grass sways in the occasional breeze and
+bends easily under foot.  The cry of birds and the songs of crickets
+reassure one of the life teaming in this field.    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35075 0
+D2
+~
+~
+0 0 35004 0
+D3
+~
+~
+0 0 35073 0
+S
+#35073
+The Hunting Fields~
+Coming nearly to ones shoulder the grass seems almost like a living
+wall.  The cry of birds and the songs of crickets reassure one of the
+life teaming in this field.  Golden hues mixing with reddish tints
+paints the grass beautifully.    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35072 0
+D3
+~
+~
+0 0 35074 0
+S
+#35074
+The Hunting Field~
+Golden hues mixing with reddish tints paints the grass beautifully.  
+The cry of birds and the songs of crickets reassure one of the life
+teaming in this field.  The tall grass sways in the occasional breeze
+and bends easily under foot.    
+~
+350 0 0 0 0 2
+D0
+~
+~
+0 0 35075 0
+D1
+~
+~
+0 0 35073 0
+S
+#35075
+The Hunting Fields~
+The tall grass sways in the occasional breeze and bends easily under
+foot.  The cry of birds and the songs of crickets reassure one of the
+life teaming in this field.  Golden hues mixing with reddish tints
+paints the grass beautifully.    
+~
+350 0 0 0 0 2
+D1
+~
+~
+0 0 35076 0
+D2
+~
+~
+0 0 35074 0
+D3
+~
+~
+0 0 35072 0
+S
+#35076
+The Hunting Field~
+Small shrubbery and brush give easy yet uncommon cover for the small
+creatures that live here.  An occasional mouse or rabbit can be seen
+scurrying to and from the underbrush, darting as quickly as possibly
+back under the cover.  Overhead birds can be seen swooping down on the
+unsuspecting prey.    
+~
+350 0 0 0 0 2
+D3
+~
+~
+0 0 35075 0
+S
+#35077
+Along The Stream~
+Tall grass growing along the banks reduce vision of the flat lands to
+almost nil.  Slight under currents make the water swirl in places.  
+Fish swim happily under the surface.  Occasionally one can barely make
+out a dark menacing shadow along the bottom, of the stream.  ....    
+~
+350 0 0 0 0 0
+D1
+~
+~
+0 0 35006 0
+S
+$~

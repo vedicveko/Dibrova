@@ -1,0 +1,722 @@
+#22500
+corpse ghoul rotting~
+the rotting Ghoul~
+A rotting corpse is walking around aimlessly
+~
+Powdery white skin is stretched paper thin across this abomination's
+skull.  Hollow blackness sits where its eyes used to be, and its
+lipless maw is fixed in a maniacal grin.  Sensing your approach, it
+swings blindly towards you, seeking to snuff out all reminders that it
+too was once a living, breathing creature.    
+~
+16783432 0 0 0 0 0 0 0 -1000 E
+180 176 -100 0d0+0 29d29+120
+0 2640349
+8 8 1
+Str: 22
+Dex: 15
+Int: 21
+Wis: 18
+Con: 9
+Cha: 18
+Luck: 12
+Class: 9
+Race: 6
+E
+#22501
+ghoul royal~
+the royal Ghoul~
+A ghoul in fancy clothing stands before you.
+~
+Tattered robes, their colors long faded away, hang limply from the
+skeletal body of this walking corpse.  Tarnished heavy gold jewellery
+and other gaudy baubles adorn this abomination's neck and hands, a
+souvenier of past wealth and great status.    
+~
+59480 0 0 0 0 1 0 0 -1000 E
+190 190 -100 0d0+0 34d35+126
+0 3485265
+8 8 1
+Str: 5
+Dex: 10
+Int: 16
+Wis: 9
+Con: 13
+Cha: 22
+Luck: 24
+Class: 9
+Race: 6
+E
+#22502
+wilhelm dracula corpse~
+Wilhelm Dracula~
+A shadowy figure is standing in the middle of the room.
+~
+The stench of death clings to this rotting, decomposed body like a
+lover.  Dead, grayish skin improperly preserved by dark magic, is
+stretched taut over a withered frame.  Sensing your presence, it turns
+and lurches towards you clumsily, its faded velvet robes dragging
+heavily along the ground, a souveneir from a life where this body was once
+both rich and powerful.    
+~
+784968 0 0 0 0 0 4 0 -1000 E
+215 226 -100 0d0+0 49d49+143
+3100 4153694
+8 8 1
+Str: 21
+Dex: 18
+Int: 9
+Wis: 5
+Con: 25
+Cha: 23
+Luck: 8
+Class: 14
+Race: 14
+E
+#22503
+woman mina harker~
+Mina Harker~
+A pale woman in fine dress stands here.
+~
+She is small and frail, with pale white skin and hair the color of
+burnished copper that hangs in loose waves around her shoulders.  
+Anxiety has etched lines into her face, and her clear blue eyes are
+filled with a blind panic.    
+~
+190538 0 0 0 256 0 0 0 1000 E
+210 218 -100 0d0+0 47d48+140
+3000 4302970
+8 8 2
+Str: 15
+Dex: 7
+Int: 6
+Wis: 19
+Con: 21
+Cha: 7
+Luck: 20
+Class: 6
+Race: 14
+E
+T 22508
+#22504
+professor van helsing man~
+Abraham Van Helsing~
+An odd professor stands here with crucifix in hand.
+~
+Intelligent blue eyes are set in a hawkish face weathered by time and
+years spent seeking revenge for the death of a loved one.  What might
+once have been a tall, commanding frame is now stooped over, yet his
+stride is still purposeful and charged with energy that usually comes
+only with youth.    
+~
+190794 0 0 0 256 0 0 0 1000 E
+220 233 -100 0d0+0 50d50+146
+3100 4844923
+8 8 1
+Str: 14
+Dex: 24
+Int: 21
+Wis: 16
+Con: 23
+Cha: 8
+Luck: 23
+Class: 6
+Race: 14
+E
+T 22508
+#22505
+Jonathan Harker man~
+Jonathan Harker~
+A young man lies here being seduced by vampiresses.
+~
+This is a young man of about 30 years, still in the prime of his life.
+His hair is the color of golden sunlight, and is worn in the manner
+currently fashionable with the young nobleman of the royal court.  He
+flashes a cheery grin as he sees you approach and you can almost feel
+his youthful vigour in the warmth of his smile.    
+~
+256010 0 0 0 0 0 0 0 1000 E
+210 218 -100 0d0+0 47d48+140
+3000 3911791
+8 8 1
+Str: 19
+Dex: 15
+Int: 20
+Wis: 20
+Con: 18
+Cha: 23
+Luck: 17
+Class: 4
+Race: 14
+E
+#22506
+vampiress vampire~
+the Vampiress~
+A vampiress stands here with long fangs bared.
+~
+Masses of raven black hair hang in loose waves around her body,
+reaching all the way to her hips.  Smooth skin as white as ivory is a
+stark contrast to the deep black of her eyes, and she licks her lips
+hungrily as she reaches for you.    
+~
+714826 0 0 0 0 0 4 0 -1000 E
+200 204 -100 0d0+0 40d45+133
+2900 3454164
+8 8 2
+Str: 12
+Dex: 23
+Int: 6
+Wis: 25
+Con: 19
+Cha: 23
+Luck: 14
+Class: 14
+Race: 14
+E
+T 22500
+T 22501
+#22507
+bad old memory~
+a bad Memory~
+An old memory lingers here.
+~
+Shapeless in form and as insubstantial as mist, you are unable to make
+out much about the strange creature.  You wrack your brain and force
+yourself to concentrate, but are unable to, almost as if magic has
+fogged your mind and blocked all paths of clear thought.    
+~
+251928 0 0 0 67108944 131074 0 0 -1000 E
+180 176 -100 0d0+0 29d29+120
+2700 2772366
+8 8 1
+BareHandAttack: 16
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 11
+E
+#22508
+black rat~
+a black Rat~
+A black rat scurries about on the floor.
+~
+This is the HUGEST rat you have ever seen.  Its beady eyes focus on
+you for a split second, before it scurries off into a dark recess.  
+~
+8 0 0 0 0 0 0 0 -1000 E
+40 21 -20 0d0+0 4d5+26
+0 57012
+8 8 1
+BareHandAttack: 4
+Str: 23
+Dex: 23
+Int: 23
+Wis: 23
+Con: 23
+Cha: 23
+Luck: 23
+Race: 1
+E
+#22509
+bat~
+a Bat~
+A bat flies about your head.
+~
+Small and furry, with hairless, membrane like wings, this bat looks
+like a normal bat- except for its glowing red eyes that seem to follow
+you about the room.    
+~
+8 0 0 0 0 0 0 0 -1000 E
+20 8 20 0d0+0 1d4+13
+0 9735
+8 8 1
+BareHandAttack: 8
+Str: 15
+Dex: 9
+Int: 19
+Wis: 15
+Con: 13
+Cha: 16
+Luck: 18
+Race: 1
+E
+#22510
+large bat vampire~
+a Vampire Bat~
+A large bat hangs from the ceiling.
+~
+This bat would be extremely cute, except that it has a pair of pointy
+white bloodstained fangs.  Upon closer observation you notice that
+its fur is black and matted with what appears to be a combination of
+blood, and rotting flesh.    
+~
+8 0 0 0 0 0 0 0 -1000 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 8
+Str: 6
+Dex: 14
+Int: 9
+Wis: 18
+Con: 18
+Cha: 20
+Luck: 22
+Race: 1
+E
+#22511
+gypsy worker~
+the Gypsy Worker~
+A large gypsy is standing here, shoveling dirt.
+~
+Overworked and underfed, exhaustion and malnutrition have taken their
+toll on what was once a young healthy body.  Sweat clings like a clear
+film on his bare torso, and the ribs sticking out through his skin
+make you all the more aware of how painfully thin he is.    
+~
+530504 0 0 0 0 0 0 0 -1000 E
+180 176 -100 0d0+0 29d29+120
+2700 2640349
+8 8 1
+Str: 19
+Dex: 7
+Int: 6
+Wis: 22
+Con: 17
+Cha: 22
+Luck: 25
+Class: 4
+Race: 14
+E
+#22512
+gypsy burly foreman~
+the Gypsy Foreman~
+A burly gypsy stands here spouting out orders.
+~
+Standing at least one head taller than everyone around him, this is a
+giant of a man!  His thick black hair and bushy beard frame a
+weatherbeaten face and hardened brown eyes.  A tattoo of a a huge
+dragon adorns his forearm.    
+~
+716872 0 0 0 0 0 0 0 -1000 E
+230 248 -100 0d0+0 52d52+153
+3200 4500000
+8 8 1
+Str: 25
+Dex: 25
+Int: 5
+Wis: 23
+Con: 21
+Cha: 8
+Luck: 6
+Class: 4
+Race: 13
+E
+#22513
+prince vampire dracula~
+Prince Dracula~
+Dracula, the Prince of Transylvania rises to greet you.
+~
+Dracula's long, black hair is slick and combed back in straight lines,
+revealing the angular features of his face.  The ancient prince grins
+evilly, his sharp fangs showing, reddish from his feasting on human
+blood.  His cape is drawn tightly about him, the triangular collar
+encircling his neck.  His pose is that of utter confidence, and in his
+eyes, you see your inevitable doom...    
+~
+67299402 0 0 0 0 33554432 68 0 -1000 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Class: 9
+Race: 14
+E
+T 22502
+T 22504
+#22514
+lost soul Morgaine ghost~
+Morgaine DeLarc's Ghost~
+A lost soul walks along the riverbank.
+~
+Even death could not steal her beauty.  Long dark hair floats like a
+dark halo around an anglular face with delicate features.  She looks
+young, like her life was snatched away while she was still in her
+prime and you can see the deep sorrow of betrayal in her eyes.  A pair
+of blood-encrusted puncture marks on her neck are the only stains on her
+porcelain white skin.    
+~
+190792 0 0 0 256 0 0 0 -1000 E
+230 248 -100 0d0+0 52d52+153
+3200 4950000
+8 8 1
+BareHandAttack: 15
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 6
+E
+#22515
+wolf vicious nasty~
+the vicious Wolf~
+A nasty looking wolf is standing here, searching for food.
+~
+Blood-matted fur covers a well-muscled body primed for the hunt.  The
+dark brown of his pelt blends in almost perfectly with the
+surroundings, and you are only aware of his presence because of his
+glowing red eyes.    
+~
+8 0 0 0 0 0 0 0 -1000 E
+60 37 -36 0d0+0 5d6+40
+0 160325
+8 8 1
+BareHandAttack: 4
+Str: 17
+Dex: 14
+Int: 19
+Wis: 7
+Con: 5
+Cha: 23
+Luck: 13
+Race: 1
+E
+#22516
+large tarantula spider~
+a large Tarantula~
+A huge spider scutters about.
+~
+Giant hairy legs dwarf a tiny black body.  Thie grotesque creature
+spans a full 5-6 ft, and scuttles about with the speed of a warhorse.
+Unlike most ordinary spiders however, its eyes seem to be filled with
+chilling intellgence, and you wonder if this creature is actually sapient.
+~
+8 0 0 0 0 1 0 0 -1000 E
+24 10 4 0d0+0 2d3+16
+0 17821
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 24
+Int: 12
+Wis: 12
+Con: 18
+Cha: 7
+Luck: 17
+Race: 46
+E
+#22517
+werewolf female woman hairy~
+the female Werewolf~
+A large, hairy woman with long claws stands here watching over the children.
+~
+Her features are both human and animal at the same time.  Bushy brown
+eyebrows meet at the bridge of her nose, and her ears are long and
+narrow, and laid back on her skull.  Her skin is rough, scratched and
+covered in brownish fur, and her teeth appear to be unnaturally
+pointy.    
+~
+526344 0 0 0 256 0 0 0 -1000 E
+190 190 -100 0d0+0 34d35+126
+2800 3333732
+8 8 1
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 39
+E
+#22518
+werechild child hairy~
+a Werechild~
+A hairy little kid sits here gnawing on a bone.
+~
+He looks like a normal human boy, except that he is completely covered
+in light brown fur.  There is no semblance of humanity left in his
+piercing green eyes, and you wonder if he is more beast than human.
+~
+526344 0 0 0 0 1 0 0 -1000 E
+180 176 -100 0d0+0 29d29+120
+2700 3036401
+8 8 1
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 39
+E
+#22519
+werewolf dancing wolf~
+a dancing Werewolf~
+A large werewolf dances around the fire.
+~
+He wears a human form, yet moves with the savage grace of a
+well-trained predator.  Hackles raised, and spittle foaming at his jaw
+he dances as though caught up in the blood lust of a kill.    
+~
+526856 0 0 0 256 0 0 0 -1000 E
+200 204 -100 0d0+0 40d45+133
+2900 3799580
+8 8 1
+BareHandAttack: 4
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Race: 39
+E
+#22520
+furry priest shaman werewolf wolf~
+the werewolf Shaman~
+A large furry priest stands before you, chanting.
+~
+Dressed in a gaudy assortment of multi-colored rags and garish wooden
+jewellery, he stands as still and silent as stone.  His furred face is
+thin and lined by advanced age, yet his eyes are still clear and
+coldly intelligent.    
+~
+780314 0 0 0 0 1 8 0 -1000 E
+240 263 -100 0d0+0 54d54+160
+3300 5174999
+8 8 1
+Str: 9
+Dex: 13
+Int: 14
+Wis: 16
+Con: 25
+Cha: 6
+Luck: 25
+Class: 2
+Race: 39
+E
+#22521
+Gaia essence earth mother~
+Gaia~
+Gaia, the very essence of mother earth stands here admist worshippers.
+~
+Gaia stands before you poised and enchantingly beautiful.  Her skin is
+a brownish earthen color, its moistness glistening in the soft light.
+Her eyes are alight with an inner flame, and a constant breeze
+surrounds her.  A crown of leaves adorns her head, and her cloak is
+made out of woven vines.  An armor made out of hard earth protects
+her.    
+~
+714842 0 0 0 0 0 512 0 -1000 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 2
+BareHandAttack: 7
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Cha: 25
+Luck: 25
+Class: 4
+Race: 39
+E
+#22522
+pale figure old soul ghost spirit~
+an old Soul~
+A pale figure wanders around aimlessly.
+~
+His skin has a strange ethereal quality to it, it shimmers and
+flickers in the light and appears to be almost transclucent.  Eyes
+dark with sorrow gaze upon you for a second before flicking towards
+something more interesting.    
+~
+251992 0 0 0 80 2 0 0 -1000 E
+180 176 -100 0d0+0 29d29+120
+0 2640349
+8 8 1
+BareHandAttack: 2
+Str: 24
+Dex: 19
+Int: 9
+Wis: 24
+Con: 14
+Cha: 17
+Luck: 7
+Race: 34
+E
+#22523
+crow large bird raven~
+the Crow~
+A large crow flies overhead.
+~
+With a large wingspan of about 3 ft, this is possibly the largest crow
+you have ever seen.  Its beady black eyes fix upon you for a second,
+as if trying to decide whether you would make a tasty snack.  
+~
+8 0 0 0 8388608 0 0 0 -1000 E
+31 15 -20 0d0+0 3d4+20
+0 29763
+8 8 1
+BareHandAttack: 8
+Str: 21
+Dex: 24
+Int: 19
+Wis: 14
+Con: 8
+Cha: 10
+Luck: 12
+Race: 3
+E
+#22524
+Sekhmet Vampyre Goddess~
+Sekhmet~
+Sekhmet looks at you with blood-red vampyre eyes before attackling!
+~
+Standing four feet taller than any average man, the simple visage of
+Sekhmet warns you that she is no ordinary being.  Her deep red eyes
+flare brightly against her smooth dark grayish skin.  As you watch,
+she stretches out her arms and throws back her red cloak with a
+negligent flourish, her claws flashing for a brief moment before you
+as though in warning.  Calm, collected, and even bored, she is quite
+indifferent to your presence, for nothing truly threatens her
+omnipotent divinity.    
+~
+718874 0 0 0 0 33554432 4 0 -1000 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 2
+BareHandAttack: 8
+Str: 8
+Dex: 10
+Int: 13
+Wis: 21
+Con: 7
+Cha: 9
+Luck: 18
+Class: 1
+Race: 23
+E
+T 22509
+#22525
+young vampire~
+a young Vampire~
+A young and vigorous vampire stands here, fangs bared!
+~
+This young vampire lacks the silent deathly confidence of a usual aged
+vampire.  However, a young eagerness shines through in his eyes, an
+eagerness to explore his own new found powers, and to taste new blood.
+As his cold hard eyes turn on you, a shiver runs down your spine.    
+~
+67116586 0 0 0 0 0 0 0 -1000 E
+200 204 -100 0d0+0 40d45+133
+2900 3454164
+8 8 1
+BareHandAttack: 9
+Str: 16
+Dex: 9
+Int: 16
+Wis: 24
+Con: 5
+Cha: 17
+Luck: 25
+Race: 11
+E
+#22526
+vampire lestat~
+Lestat~
+The charming Lestat stands here with a cold, empty smile.
+~
+Lestat laughs as you study him more closely.  There was no warmth in
+his mirth however, no friendliness.  It was as though he laughed out
+of habit, having been doing so for ages.  His blond hair, square jaw
+and sensous mouth accentuates his blue eyes.  There is perfection
+here, yet you cannot feel at ease...  Why?    
+~
+784394 0 0 0 0 0 4 0 -1000 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 1
+Str: 21
+Dex: 22
+Int: 24
+Wis: 18
+Con: 22
+Cha: 8
+Luck: 24
+Class: 9
+Race: 14
+E
+T 22503
+#22527
+vampyre armand~
+Armand~
+The young vampyre, Armand, stands here, his eyes alert.
+~
+The haunted eyes of this vampyre searches you as you look at him, and
+for a brief moment, you imagine you caught a flash of anguish in those
+hard eyes.  Within that instant, Armand looks young and almost
+vulnerable, remembering something of his mortal life.  He recovers
+with a jerk, and with his face twisted in a snarl, all his humanity is
+gone.    
+~
+67893274 0 0 0 0 0 0 0 -1000 E
+220 233 -100 0d0+0 50d50+146
+3100 4404476
+8 8 1
+Str: 9
+Dex: 14
+Int: 8
+Wis: 24
+Con: 19
+Cha: 9
+Luck: 24
+Class: 9
+Race: 14
+E
+T 22505
+#22528
+vampyre vittorio~
+Vittorio~
+Forever immortalized in his youth, Vittorio stands proudly before you.
+~
+This vampyre is barely in his teens, with all the youthful look and
+energy of a young man.  The confusion of youth have not left him.  
+Strong intent flares in his eyes as he peers at you.  In the depths of
+your soul, you know you have been judged unworthy.    
+~
+67860506 0 0 0 0 0 0 0 -1000 E
+220 233 -100 1d1+0 50d50+146
+3100 4404476
+8 8 1
+Str: 10
+Dex: 16
+Int: 21
+Wis: 20
+Con: 18
+Cha: 8
+Luck: 19
+Class: 9
+Race: 14
+E
+T 22506
+$

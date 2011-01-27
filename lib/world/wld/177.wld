@@ -1,0 +1,1069 @@
+#17700
+The Cell~
+You are in a cold, cramped chamber with only one exit.    
+~
+177 553 0 0 0 0
+D2
+~
+cell~
+2 17593 17695 15
+S
+#17701
+The Cell~
+You are in a cold, cramped chamber with only one exit.    
+~
+177 553 0 0 0 0
+D0
+~
+cell~
+2 17593 17692 15
+S
+#17702
+The Cell~
+You are in a cold, cramped chamber with only one exit.    
+~
+177 553 0 0 0 0
+D0
+~
+cell~
+2 17593 17693 15
+S
+#17703
+The Cell~
+You are in a cold, cramped chamber with only one exit.    
+~
+177 553 0 0 0 0
+D0
+~
+cell~
+2 17593 17694 15
+S
+#17704
+The Cell~
+You are in a cold, cramped chamber with only one exit.    
+~
+177 553 0 0 0 0
+D0
+~
+cell~
+2 17593 17695 15
+S
+#17705
+A Hall~
+You stand in a large cedar wood hall leading east and west.  On the
+floor lies a thin and narrow purple rug.  The hall leads west inside
+the Palace and east to the Grand Entrance.    
+~
+177 8 0 0 0 0
+D1
+~
+~
+0 -1 17650 0
+D3
+~
+~
+0 -1 17673 0
+S
+#17706
+A Path Through The Mountains~
+The narrow path turns here, heading south and west.  A small path
+leads northwards towards a mountain pass.    
+~
+177 0 0 0 0 5
+D2
+~
+~
+0 -1 17707 0
+D3
+~
+~
+0 -1 17711 0
+S
+#17707
+A Path Through The Mountains~
+Travel is hard and slow as you almost have to climb around large
+boulders strewn about the path.    
+~
+177 0 0 0 0 5
+D0
+~
+~
+0 -1 17706 0
+D1
+~
+~
+0 -1 17708 0
+S
+#17708
+The Edge Of The Ravine~
+The ground drops off below down to a rushing river.  A small rope
+bridge sways to and fro in the wind giving you access to the other
+side.    
+~
+177 0 0 0 0 5
+D1
+~
+~
+0 -1 17709 0
+D3
+~
+~
+0 -1 17707 0
+S
+#17709
+On A Rope Bridge~
+The small rope bridge shudders under your weight as you make your way
+across the valley.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17727 0
+D3
+~
+~
+0 -1 17708 0
+S
+#17710
+The Ledge Around The Valley~
+You are walking around a small ledge overlooking a large valley deep
+within the eastern mountains.  The ledge turns north following the
+shape of the valley and a steep trail continues to the east.    
+~
+177 0 0 0 0 10
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 -1 17711 0
+D3
+~
+~
+0 0 -1 0
+S
+#17711
+A Path Through The Mountains~
+You are walking through a rock strewn path deep within the mountains
+east of Midgaard.  The going is rough and you constantly twist your
+ankle on the small stones lying about.  To the north you can climb a
+large mountain.  Who knows what lies at the summit.    
+~
+177 0 0 0 0 5
+D1
+~
+~
+0 -1 17706 0
+D3
+~
+~
+0 -1 17710 0
+S
+#17712
+On The Eastern Edge Of The Mountains~
+You stand on the eastern edge of the eastern mountains.  The high
+peaks lie to the west and rolling hills and plains open up to your
+east.    
+~
+177 0 0 0 0 5
+D2
+~
+~
+0 -1 17713 0
+D3
+~
+~
+0 -1 17729 0
+S
+#17713
+In The Foothills~
+The path curves down the face of the mountain allowing you to move up
+or down the face of this missive hunk of stone.    
+~
+177 0 0 0 0 4
+D0
+~
+~
+0 -1 17712 0
+D1
+~
+~
+0 -1 17714 0
+S
+#17714
+In The Foothills~
+The path curves down the face of the mountain allowing you to move up
+or down as you please.    
+~
+177 0 0 0 0 4
+D2
+~
+~
+0 -1 17715 0
+D3
+~
+~
+0 -1 17713 0
+S
+#17715
+A Rocky Trail~
+The faint sound of a flowing river reaches your ears from the south
+and through the trees you can see water.  The path you are on
+continues north and east from here.    
+~
+177 0 0 0 0 4
+D0
+~
+~
+0 -1 17714 0
+D1
+~
+~
+0 -1 17730 0
+D2
+~
+~
+0 -1 17745 0
+S
+#17716
+On A Road~
+This long road continues to the east and south.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17717 0
+D2
+~
+~
+0 -1 17733 0
+S
+#17717
+On A Road~
+The well kept road continues east and west from here.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17718 0
+D3
+~
+~
+0 -1 17716 0
+S
+#17718
+On A Road~
+You stand on a well maintained road leading east towards New Thalos
+and west towards the Eastern Mountains.  To the north you can see wide
+plains stretching out as far as the eye can see.  South of you begins
+a dark green forest.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17669 0
+D3
+~
+~
+0 -1 17717 0
+S
+#17720
+River Ishtar~
+The river calms a bit after being thrashed in the interior of the
+mountain.  Although still deep within the rocks you can see faint
+traces of green to the east.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17721 0
+D3
+~
+~
+0 -1 17739 0
+S
+#17721
+River Ishtar~
+The river flows east and west through the hills.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17722 0
+D3
+~
+~
+0 -1 17720 0
+S
+#17722
+River Ishtar~
+The river begins its decent out of the mountains now and continues its
+flow to the east.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17744 0
+D3
+~
+~
+0 -1 17721 0
+S
+#17723
+River Ishtar~
+The river flows under the wall of the city to the east and stretches
+off towards high snow capped mountains far far to the west.    
+~
+177 0 0 0 0 7
+D1
+~
+grating~
+1 -1 17587 3
+D3
+~
+~
+0 -1 17749 0
+S
+#17724
+River Ishtar~
+The river flows out from the city down a long winding gully towards
+the Sea of Dragons.  To the south of you lies the Great Eastern Desert
+and north a wide open expanse of grass.  You can just barely make out
+a road that seems to be traveling along side the river but the banks
+are to steep for you to see very far.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17725 0
+D3
+~
+~
+0 -1 17583 0
+S
+#17725
+River Ishtar~
+The river continues its descent down the lowlands flowing ever so
+gently south.  It is hard to believe this is the same river that came
+cascading down the mountainside.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17726 0
+D3
+~
+~
+0 -1 17724 0
+S
+#17726
+River Ishtar~
+Small animals and herd animals can be heard in the distance, though
+you don't actually see any near the river.  Perhaps the steep slopes
+pervent them from using the river.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17784 0
+D3
+~
+~
+0 -1 17725 0
+S
+#17727
+The Edge Of The Ravine~
+You stand at the edge of a really long drop down.  A small rope bridge
+has conviently been placed here to allow you access to the other side
+of the bridge.  Unfortunately the wind seems to be kicking up making
+the bridge sway slightly.  The path leads off through the mountains to
+the east.    
+~
+177 0 0 0 0 4
+D1
+~
+~
+0 -1 17728 0
+D3
+~
+~
+0 -1 17709 0
+S
+#17728
+A Path Through The Mountains~
+The narrow path makes its way through the mountains east and west.  
+You hear the squawking of a large bird over head most likely a buzzard
+waiting for you to drop.    
+~
+177 0 0 0 0 5
+D1
+~
+~
+0 -1 17729 0
+D3
+~
+~
+0 -1 17727 0
+S
+#17729
+A Path Through The Mountains~
+A large boulder suddenly decides it wants to occupy the same space you
+are currently standing in.    
+~
+177 0 0 0 0 5
+D1
+~
+~
+0 -1 17712 0
+D3
+~
+~
+0 -1 17728 0
+S
+#17730
+On A Road~
+The road you are on continues east and west.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17731 0
+D3
+~
+~
+0 -1 17715 0
+S
+#17731
+On A Road~
+The road you are on continues east and west.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17732 0
+D3
+~
+~
+0 -1 17730 0
+S
+#17732
+On A Road~
+The road you are on continues east and west.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17733 0
+D3
+~
+~
+0 -1 17731 0
+S
+#17733
+On A Road~
+The road bends here toward the riverbank giving access to the River
+Ishtar.  The road continues north and west from the river bank.    
+~
+177 0 0 0 0 10
+D0
+~
+~
+0 -1 17716 0
+D2
+~
+~
+0 -1 17749 0
+D3
+~
+~
+0 -1 17732 0
+S
+#17739
+A Split In The River~
+You have reached the headwaters of the River Ishtar.  The river flows
+down from this spot in the mountains, travelling eastward, past New
+Thalos, finally draining into the dragon sea many miles to the east.
+The headwaters here also splits into another smaller river, which
+flows lazily southwards.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17720 0
+D2
+~
+~
+0 -1 17740 0
+S
+#17740
+The River Of Lost Souls~
+The river continues north and south from here through a water eroded
+valley.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17739 0
+D2
+~
+~
+0 -1 17741 0
+S
+#17741
+The River Of Lost Souls~
+The river continues north and south from here through a water eroded
+valley.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17740 0
+D2
+~
+~
+0 -1 17742 0
+S
+#17742
+The River Of Lost Souls~
+The river continues north and south from here through a water eroded
+valley.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17741 0
+D2
+~
+~
+0 -1 17743 0
+S
+#17743
+The River Of Lost Souls~
+The river makes a sharp bend here and heads south into a large
+mountain and north through a valley.  On a ledge above you, and to the
+west, you can see movement.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17742 0
+S
+#17744
+River Ishtar~
+The river widens here, no longer bounded by rock, and flows east
+towards a plain.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17745 0
+D3
+~
+~
+0 -1 17722 0
+S
+#17745
+River Ishtar~
+The river continues here east to east.  There is a landing area to the
+north where you can gain access to the shore.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17715 0
+D1
+~
+~
+0 -1 17746 0
+D3
+~
+~
+0 -1 17744 0
+S
+#17746
+River Ishtar~
+The river meanders through the foothills of the eastern mountains.  
+The air is dryer on this side of the continental divide and it seems a
+bit warmer.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17747 0
+D3
+~
+~
+0 -1 17745 0
+S
+#17747
+River Ishtar~
+The river continues its journey eastward flowing through the plains.
+To the west you see the peaks of large snow capped mountains and to
+the east you see the outline of a large city.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17748 0
+D3
+~
+~
+0 -1 17746 0
+S
+#17748
+River Ishtar~
+The river flows east and west from here.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17749 0
+D3
+~
+~
+0 -1 17747 0
+S
+#17749
+River Ishtar~
+The river slows as it widens and meanders through the lowlands.  A
+small dock give access to the north shore.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17733 0
+D1
+~
+~
+0 -1 17723 0
+D3
+~
+~
+0 -1 17748 0
+S
+#17750
+The Blacksmith's Workshop~
+A large anvil rests in the centre of this room where a young well
+built man pumps steadily at the bellows.  As your gaze passes over the
+rest of the room, you realize that there is an ordered neatness to it.
+Large hammers of all kinds hang on one wall, while piles of steel and
+various leathers cover a majority of the room.    
+~
+177 65564 0 0 0 0
+D4
+~
+~
+0 0 17644 0
+S
+#17751
+The New Thalos Map Shop        ~
+From the bustle of East Main Street you enter into the cool and dark
+shop of the Master Mapper for New Thalos.  Rows and rows of maps line
+the walls, and the small displays which flank the doors.  The master
+of the shop greets you coolly and invites you inside.    
+~
+177 16 0 0 0 0
+D0
+~
+~
+0 0 17531 0
+S
+#17756
+On a Hill~
+You are in an unfinished room.  This is a temporary loading room.  It
+can be deleted after 8/99.    
+~
+177 66624 0 0 0 0
+S
+#17781
+On The Plains~
+You stand on an open expanse of grass extending in all directions.  
+To the south of you stand the might northern gates of New Thalos.  
+East and west of you the grassy fields continue and north, in the
+distance, you see a line of trees.    
+~
+177 0 0 0 0 4
+D0
+~
+~
+0 -1 17782 0
+D1
+~
+~
+0 -1 17781 0
+D2
+~
+~
+0 -1 17667 0
+D3
+~
+~
+0 -1 17781 0
+S
+#17782
+On The Plains~
+You stand on an open field of grass.  The forest to the north is
+closer but still a good distance away.  To the south a small dirt path
+has been trodden into the ground heading towards New Thalos.    
+~
+177 0 0 0 0 2
+D0
+~
+~
+0 -1 17783 0
+D1
+~
+~
+0 -1 17782 0
+D2
+~
+~
+0 -1 17781 0
+D3
+~
+~
+0 -1 17782 0
+S
+#17783
+The Edge Of The Forest~
+You stand at the edge of a huge forest.  The line of trees continues
+as far as the eye can see to the north.  A large expanse of grass
+spreads out to the south.    
+~
+177 0 0 0 0 3
+D0
+~
+~
+0 0 18317 0
+D2
+~
+~
+0 -1 17782 0
+S
+#17784
+River Ishtar~
+The river broadens even more here and the waters become murky.  The
+smell of saltwater has reached you from the east.  The Dragon Sea
+cannot be far away.  To the east you can see the faint outline of a
+city and to the north you see a large expanse of grass.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17785 0
+D3
+~
+~
+0 -1 17726 0
+S
+#17785
+The Meeting of Two Rivers~
+This is where the rivers empty out into the Dragon Sea.  The backrush
+of water has kicked up a lot of sand and the blue sea is stained where
+the river empties.  Looking west all you can see is water...  All the
+way to the horizon.  North of here is a small dock you think you
+should be able to reach with out too much trouble.  The river
+stretches off to the west back towards New Thalos.    
+~
+177 0 0 0 0 7
+D1
+~
+~
+0 -1 17786 0
+D2
+~
+~
+0 0 13985 0
+D3
+~
+~
+0 -1 17784 0
+S
+#17786
+The Dragon's Teeth~
+You are on the clear blue seas of the Sea.  Water extends in all
+directions as far as the eye can see.  Off in the distance you think
+you might see a small dock to the north.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17787 0
+D2
+~
+~
+0 -1 17786 0
+D3
+~
+~
+0 -1 17785 0
+S
+#17787
+The Dragon's Teeth~
+The Sea comes up along the shore here.  The deep blue waters rolling
+in and crashing against the beach.  To the north you see a small dock
+jutting out into the surf.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17795 0
+D1
+~
+~
+0 -1 17796 0
+D2
+~
+~
+0 -1 17786 0
+S
+#17788
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.  Water extends in
+all directions as far as the eye can see.  Off in the distance you
+think you might see a small dock to the west.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17788 0
+D1
+~
+~
+0 -1 17797 0
+D2
+~
+~
+0 -1 17795 0
+S
+#17789
+On a Dock~
+You stand on a simple wooden dock that acts as an extension of the
+road to the west.  The dock seems to have been here for quite a long
+time but is still sturdy.  A small ladder has been built on the eastern
+end to allow easy access to and from ships.
+~
+177 0 0 0 0 1
+D3
+~
+~
+0 -1 17795 0
+S
+#17790
+On A Road~
+The people of New Thalos take great pride in the services their city
+may provide.  One of these services is the construction crews the go
+to great lengths to keep all the roads in order.  Although the taxes
+in New Thalos are higher then other cities in the realm most of the
+money is used for the good of the people.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17791 0
+D3
+~
+~
+0 -1 17668 0
+S
+#17791
+On A Road~
+You walk along a well used road with beautiful scenery.  To the north
+tall pine trees form a wall that goes on for miles.  Between the road
+and the trees lies a great expanse of grassy plains.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17792 0
+D3
+~
+~
+0 -1 17790 0
+S
+#17792
+On A Road~
+The Yllythad Sea can be seen to the east now spreading out to unknown lands.  
+The road continues east and west.  To the south you hear the sounds of boats
+traveling the Dragon's Teeth delivering their goods through the perils of those
+deadly straits.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17793 0
+D3
+~
+~
+0 -1 17791 0
+S
+#17793
+On A Road~
+This is the main land route through the land.  Merchants can bring
+their goods to the coastline and have them ferried onto ships for
+export.  Travel by foot west will take you through into New Thalos .
+The road runs northeast along the coastline into the distance.    
+~
+177 0 0 0 0 10
+D1
+~
+~
+0 -1 17794 0
+D3
+~
+~
+0 -1 17792 0
+S
+#17794
+Near The Shore~
+The road ends here turning into a small dirt path leading down the
+beach and onto a dock.  To the north and south you see the coastline
+stretching out before you.  West of here the lowlands roll up into
+huge snow capped mountains.    
+~
+177 0 0 0 0 10
+D0
+~
+~
+0 0 17595 0
+D1
+~
+~
+0 -1 17795 0
+D3
+~
+~
+0 -1 17793 0
+S
+#17795
+On A Dock~
+You stand on a simple wooden dock that acts as an extension of the
+road to the west.  The dock seems to have been here for quite a long
+time but is still sturdy.  A small ladder has been built on the
+eastern end to allow easy access to and from ships.    
+~
+177 0 0 0 0 1
+D0
+~
+~
+0 -1 17788 0
+D1
+~
+~
+0 -1 17789 0
+D2
+~
+~
+0 -1 17787 0
+D3
+~
+~
+0 -1 17794 0
+S
+#17796
+The Dragon Sea~
+You are on the clear blue seas of the Dragon Sea.  Water extends in
+all directions as far as the eye can see.  Off in the distance you
+think you might see a small dock to the west.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17789 0
+D1
+~
+~
+0 -1 17796 0
+D3
+~
+~
+0 -1 17787 0
+S
+#17797
+The Dragon Sea~
+The ocean spreads out in all directions rolling gently.  In the
+distance you can see an island on the horizon.  To the west you see
+the mainland.    
+~
+177 0 0 0 0 7
+D0
+~
+~
+0 -1 17797 0
+D1
+~
+~
+0 -1 17797 0
+D2
+~
+~
+0 -1 17789 0
+D3
+~
+~
+0 -1 17788 0
+S
+#17798
+Under The dock~
+You are swiming underneath the dock.  You can see the four wooden
+pylons that support the structure.  The murky water clouds you vision
+as you gaze westward, but you think you can make out an iron grating
+in that direction.    
+~
+177 1 0 0 0 6
+D3
+~
+grate~
+1 -1 17799 3
+D4
+~
+~
+0 -1 17797 0
+S
+#17799
+The Lair Of The Ixitxachitl~
+Blood swirls around in the water as the Ixitxachitl devours the last
+of its meal.  Swirling around quickly as you intrude upon his meal the
+large sting ray attacks!    
+~
+177 1 0 0 0 6
+D1
+~
+grate~
+1 -1 17798 3
+S
+$~

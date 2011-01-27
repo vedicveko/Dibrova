@@ -1,0 +1,1960 @@
+#7601
+Rock Outcropping~
+From this rock outcropping the valley below seems peaceful, untouched.
+Dense forests of pine carpet the mountainsides, broken only by thick
+aspen woods.  The mountains, deep blue in the distance, circle the
+valley floor and form a soft highland bowl.  There is a sign nailed to
+a nearby tree.    
+~
+76 0 0 0 0 5
+D3
+~
+~
+0 0 7684 0
+D5
+You see a small grove.
+~
+~
+0 -1 7602 0
+E
+sign~
+**CRYSTALMIR LAKE**
+
+For those of you who enjoy dragonlance.
+First of many dragonlance areas.
+
+Original Story and Design:
+
+Tracy Hickman
+Harold Johnson
+Douglas Niles
+Michael Dobson
+
+Brought to you by  -- Strahd
+~
+S
+#7602
+Small Grove~
+Suddenly, soft music begins. Its source is a slim, beautiful girl. Lyre in
+hand, she sits gracefully as she plays; nearby, a large plainsman raises
+a flute to his lips. Her voice clear as winter wind begins to sing...
+~
+76 0 0 0 0 3
+D2
+You see forest.
+~
+~
+0 -1 7629 0
+D3
+You see a town in the distance.
+~
+~
+0 -1 7603 0
+D4
+You see a rock outcropping.
+~
+~
+0 -1 7601 0
+S
+#7603
+Path in the Woods~
+A warm autumn breeze rustles the great vallenwood trees . The road
+that wanders through the trees blazes in the bright colors of autumn.
+  
+~
+76 0 0 0 0 3
+D1
+You see a small grove.
+~
+~
+0 -1 7602 0
+D2
+You see road through the forest.
+~
+~
+0 -1 7622 0
+D3
+You see a lake shore.
+~
+~
+0 -1 7604 0
+S
+#7604
+East shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake.
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north a patchwork of
+fields stretches toward the distant purple mountains.    
+~
+76 268435456 0 0 0 2
+D0
+You see a path along the lake.
+~
+~
+0 -1 7607 0
+D1
+You see a town in the distance.
+~
+~
+0 -1 7603 0
+D2
+You see a path that follows the lakeshore.
+~
+~
+0 -1 7611 0
+D3
+You see water.
+~
+~
+0 -1 7605 0
+S
+#7605
+Middle of Crystalmir Lake~
+You are in the middle of Crystalmir lake.  The water is so still it is
+like a thin sheet of glass.    
+~
+76 268435460 0 0 0 7
+D0
+You see north shore of lake.
+~
+~
+0 -1 7606 0
+D1
+You see east shore of lake.
+~
+~
+0 -1 7604 0
+D2
+You see south shore of lake.
+~
+~
+0 -1 7610 0
+D3
+You see west shore of lake.
+~
+~
+0 -1 7608 0
+D5
+You can't see much under the water.
+~
+~
+0 -1 7648 0
+S
+#7606
+North shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake.
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north a patchwork of
+fields stretches toward the distant purple mountains.    
+~
+76 268435456 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7614 0
+D1
+You see a path along the lake.
+~
+~
+0 -1 7607 0
+D2
+You see water.
+~
+~
+0 -1 7605 0
+D3
+You see a path along the lakeshore.
+~
+~
+0 -1 7609 0
+S
+#7607
+Path along lake~
+You are walking along a path that follows the shore of the lake.    
+~
+76 0 0 0 0 10
+D0
+You see fields of grain.
+~
+~
+0 -1 7613 0
+D2
+You see the east shore of Crystalmir Lake.
+~
+~
+0 -1 7604 0
+D3
+You see the north shore of Crystalmir Lake.
+~
+~
+0 -1 7606 0
+S
+#7608
+West shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake.
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north a patchwork of
+fields stretches toward the distant purple mountains.    
+~
+76 268435456 0 0 0 2
+D0
+You see a path along the lakeshore.
+~
+~
+0 -1 7609 0
+D1
+You see water.
+~
+~
+0 -1 7605 0
+D2
+You see a path that follows the lakeshore.
+~
+~
+0 -1 7612 0
+D3
+You see a rough path leading up a mountain.
+~
+~
+0 -1 7621 0
+S
+#7609
+Path along the Lake~
+You are walking on a path that follows the shore of the lake.    
+~
+76 0 0 0 0 10
+D0
+You see the valley floor.
+~
+~
+0 -1 7615 0
+D1
+You see north shore of lake.
+~
+~
+0 -1 7606 0
+D2
+You see west shore of lake.
+~
+~
+0 -1 7608 0
+D3
+You see the canyon floor.
+~
+~
+0 -1 7619 0
+S
+#7610
+South shore of Crystalmir Lake~
+The blue of the autumn sky darkens on the deep stillness of the lake.
+The soft forests of giant vallenwood border the serene waters on the
+eastern, southern and western shores.  To the north a patchwork of
+fields stretches toward the distant purple mountains.    
+~
+76 268435456 0 0 0 2
+D0
+You see water.
+~
+~
+0 -1 7605 0
+D1
+You see a path that follows the lakeshore.
+~
+~
+0 -1 7611 0
+D2
+You see a rocky path into the mountains.
+~
+~
+0 -1 7625 0
+D3
+You see a path that follows the lakeshore.
+~
+~
+0 -1 7612 0
+S
+#7611
+Path along the lakeshore~
+You are walking along a path that follows the shore of Crystalmir
+Lake.    
+~
+76 0 0 0 0 10
+D0
+You see the east shore of the lake.
+~
+~
+0 -1 7604 0
+D1
+You see a road winding through the forest.
+~
+~
+0 -1 7622 0
+D3
+You see the south shore of the lake.
+~
+~
+0 -1 7610 0
+S
+#7612
+Path along the lakeshore~
+You are walking along a path that follows the shore of Crystalmir
+Lake.    
+~
+76 0 0 0 0 10
+D0
+You see the west shore of the lake.
+~
+~
+0 -1 7608 0
+D1
+You see the south shore of the lake.
+~
+~
+0 -1 7610 0
+S
+#7613
+Nearfields~
+Here, farmers and thief workers tread through fields of grain.  The
+thick wheat falls smoothly before the flickering scythes.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7636 0
+D2
+You see a path along the lakeshore.
+~
+~
+0 -1 7607 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7614 0
+S
+#7614
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7631 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7613 0
+D2
+You see the shore of a lake.
+~
+~
+0 -1 7606 0
+D3
+You see the valley floor.
+~
+~
+0 -1 7615 0
+S
+#7615
+Twin Flat~
+A clear mountain valley sprawls about.  To the northwest and
+southeast, thick vallenwoods flash yellow and scarlet against the
+bright autumn sky.  To the east shimmers the cool blue of the
+Crystalmir Lake.  Westward, the valley enters a canyon rimmed by
+granite cliffs.  The valley floor itself continues to the northeast.
+Some distance away, a group of huddled men pulls a large cart slowly
+west down the Haven road.  They sway rhythmically.  Coarse, heavy
+robes completely conceal their features.    
+~
+76 0 0 0 0 3
+D1
+You see fields of grain.
+~
+~
+0 -1 7614 0
+D2
+You see a path along the lakeshore.
+~
+~
+0 -1 7609 0
+D3
+You see a trail into the forest.
+~
+~
+0 -1 7616 0
+S
+#7616
+Jakanth Vale~
+Trails lead deeper into the woods, but even at its edge an unnatural
+stillness has settled on the place.  The woods seem much the same, but
+there is a subtle difference, a heaviness in the air.  Even the
+insects are silent.    
+~
+76 0 0 0 0 3
+D0
+You see a path in the forest.
+~
+~
+0 -1 7617 0
+D1
+You see the valley floor.
+~
+~
+0 -1 7615 0
+D2
+You see the canyon floor.
+~
+~
+0 -1 7619 0
+S
+#7617
+Trail through forest~
+Heavily wrapped feet tread upon this trail a short time ago.  You
+smell smoke.    
+~
+76 0 0 0 0 3
+D2
+You see an opening the the trees.
+~
+~
+0 -1 7616 0
+D3
+You see a trail winding through the forest.
+~
+~
+0 -1 7618 0
+S
+#7618
+Smoldering Campsite~
+The campsite smells like burned hair.  Charred bones lie in the ashes
+of the fire pit.  The grass has been stamped down around the area.  
+~
+76 0 0 0 0 3
+D1
+You see a path winding through the forest.
+~
+~
+0 -1 7617 0
+S
+#7619
+Sentinal Gap~
+Walls of granite soar on either side of the narrow canyon floor.  A
+chilly breeze whistles and rumbles between the cliffs.    
+~
+76 0 0 0 0 10
+D0
+You see a path into winding into the forest.
+~
+~
+0 -1 7616 0
+D1
+You see a path along the lakeshore.
+~
+~
+0 -1 7609 0
+D2
+You see a rough path leading up a mountain.
+~
+~
+0 -1 7621 0
+D3
+You see a path winding into the canyon.
+~
+~
+0 -1 7620 0
+S
+#7620
+Twin Peaks Vale~
+The twin peaks, Tasin and Fasin, stand to either side of the Shadow
+Canyon, overlooking the north road to the city of Haven.  In front of
+them, a lush mountain valley echoes with the sweet sounds of the
+forest.    
+~
+76 0 0 0 0 3
+D1
+You see the canyon floor.
+~
+~
+0 -1 7619 0
+S
+#7621
+Prayers Eye Peak~
+The flaming colors of fall surround you, and autumn breeze ripples
+through your hair.  To the southwest, the white-capped outline of
+Prayers Eye Peak soars in the distance.  Barely visible from here, a
+sharp crack splits the peak as though it consisted of two hands
+pressed together.    
+~
+76 0 0 0 0 5
+D0
+You see the canyon floor.
+~
+~
+0 -1 7619 0
+D1
+You see the shore of a lake.
+~
+~
+0 -1 7608 0
+D2
+You see a rock path winding through the mountains.
+~
+~
+0 -1 7628 0
+S
+#7622
+Road through the forest~
+This is a well travelled dirt road.
+~
+76 0 0 0 0 10
+D0
+You see the entrance to a small town.
+~
+~
+0 -1 7603 0
+D1
+You see forest.
+~
+~
+0 -1 7629 0
+D2
+You see a stone bridge.
+~
+~
+0 -1 7623 0
+D3
+You see a path long the lakeshore.
+~
+~
+0 -1 7611 0
+S
+#7623
+Stone bridge~
+The Solace Stream sparkles beneath an ancient stone brige.  Water
+tumbles out of the forest, over the rocks, and toward the Southpass
+that lies between southern Sentinel Peaks.  West of the bridge, the
+road splits in two, branching to the south and the west.  Both roads
+wind among the great vallenwoods, whose boughs form a brilliant canopy
+over the roadway.    
+~
+76 0 0 0 0 10
+D0
+You see a road winding through the forest.
+~
+~
+0 -1 7622 0
+D1
+You see forest.
+~
+~
+0 -1 7630 0
+D3
+You see a road winding through the forest.
+~
+~
+0 -1 7624 0
+S
+#7624
+Road among the Vallenwoods.~
+This dusty road winds among the vallenwoods.  The breeze rustles the
+leaves above your head, as if to speak to you.  The Road continues
+west into the mountains and south to Darkenwood.    
+~
+76 0 0 0 0 10
+D1
+You see a stone bridge.
+~
+~
+0 -1 7623 0
+D3
+You see a rocky path into the mountains.
+~
+~
+0 -1 7625 0
+S
+#7625
+Mountain Trail~
+This rocky trail begins the ascent into the mountains.  To the north
+is Crystalmir Lake.    
+~
+76 0 0 0 0 5
+D0
+You see the shore of a lake.
+~
+~
+0 -1 7610 0
+D1
+You see a road winding through the forest.
+~
+~
+0 -1 7624 0
+D3
+You see a road winding through the mountains.
+~
+~
+0 -1 7626 0
+S
+#7626
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  
+From here you can see the whole valley and Crystalmir Lake.    
+~
+76 0 0 0 0 5
+D1
+You see a rocky trail descending into the forest.
+~
+~
+0 -1 7625 0
+D3
+You see a road winding through the mountains.
+~
+~
+0 -1 7627 0
+S
+#7627
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  
+From here you can see the whole valley and Crystalmir Lake.  From here
+it almost looks as if there is something at the bottom of the lake.  
+~
+76 0 0 0 0 5
+D0
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 7628 0
+D1
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 7626 0
+S
+#7628
+In the Mountains~
+You are walking on a rocky trail that winds through the mountains.  
+From here you can see the whole valley and Crystalmir Lake.    
+~
+76 0 0 0 0 5
+D0
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 7621 0
+D2
+You see a rocky trail winding through the mountains.
+~
+~
+0 -1 7627 0
+S
+#7629
+Among the Vallenwoods~
+You are walking among the peaceful vallenwoods.  They sway in the
+breeze in a dance of autumn.    
+~
+76 0 0 0 0 3
+D0
+You see a small grove.
+~
+~
+0 -1 7602 0
+D2
+You see forest.
+~
+~
+0 -1 7630 0
+D3
+You see a road winding through the forest.
+~
+~
+0 -1 7622 0
+S
+#7630
+Solace East Woods~
+The huge vallenwood trees tower above soft forest paths.  Sunlight
+dapples the floor of the woods, and sparrows and squirrels quarrel
+overhead.  The musty smell of fallen leaves rises through the
+fragrance of late wildflowers.    
+~
+76 0 0 0 0 3
+D0
+You see a forest.
+~
+~
+0 -1 7629 0
+D3
+You see a stone bridge.
+~
+~
+0 -1 7623 0
+S
+#7631
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7634 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7636 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7614 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7632 0
+S
+#7632
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7633 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7631 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7638 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7638 0
+S
+#7633
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D1
+You see fields of grain.
+~
+~
+0 -1 7634 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7632 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7637 0
+S
+#7634
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D1
+You see fields of grain.
+~
+~
+0 -1 7635 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7631 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7633 0
+S
+#7635
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D1
+You see fields of grain.
+~
+~
+0 -1 7638 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7636 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7634 0
+S
+#7636
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7635 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7637 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7613 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7631 0
+S
+#7637
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7638 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7633 0
+D2
+You see a house.
+~
+~
+0 -1 7639 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7636 0
+S
+#7638
+Northfields~
+A sea of grain sweeps across the north flats.  Stalks sag with ripened
+grain, ready for harvest.  But no one is around to harvest the grains
+or tend the crops.    
+~
+76 0 0 0 0 2
+D0
+You see fields of grain.
+~
+~
+0 -1 7632 0
+D1
+You see fields of grain.
+~
+~
+0 -1 7632 0
+D2
+You see fields of grain.
+~
+~
+0 -1 7637 0
+D3
+You see fields of grain.
+~
+~
+0 -1 7635 0
+S
+#7639
+A Farmer's House~
+A typical farmers house is here next to the endless fields of grain.
+~
+76 8 0 0 0 0
+D0
+You see fields of grain
+~
+~
+0 -1 7637 0
+D1
+You see the farmer's house.
+~
+door~
+1 7606 7640 7
+S
+#7640
+Living Room~
+This is the living room of the farmer.  You don't live here.  And you
+don't know the farmer.  Why are you here?    
+~
+76 12 0 0 0 0
+D3
+Front door.
+~
+door~
+1 7606 7639 7
+D4
+You see stairs
+~
+~
+0 -1 7641 0
+S
+#7641
+Top of Stairs~
+You are standing at the top of the stairs.  There is a picture of
+Grandma on the wall.    
+~
+76 8 0 0 0 0
+D0
+You see a bedroom
+~
+~
+0 -1 7642 0
+D1
+You see a bedroom
+~
+~
+0 -1 7643 0
+D5
+You see stairs
+~
+~
+0 -1 7640 0
+E
+picture~
+It is a picture of Grandma....
+
+or is it Grandpa...?
+~
+S
+#7642
+Bedroom~
+You are standing in the bedroom of the farmer.  There are family
+pictures hanging on the walls.  An antique bed sits in one corner of
+the room.    
+~
+76 8 0 0 0 0
+D1
+You see a bedroom closet.
+~
+door~
+1 -1 7644 3
+D2
+You see the top of the stairs.
+~
+~
+0 -1 7641 0
+E
+pictures~
+Thats strange...
+They all sorta look like pictures of like...
+
+Like....
+
+Farmers....
+
+well what did you expect?
+~
+S
+#7643
+Kids Room~
+You are standing in the kids bedroom.  There are posters plastered to
+every inch of wallspace.  An bunk bed sits against the wall.  You see
+a closet to the south.    
+~
+76 8 0 0 0 0
+D2
+You see a closet door.
+~
+door~
+1 -1 7682 3
+D3
+You see the top of the stairs.
+~
+~
+0 -1 7641 0
+E
+posters~
+They seem to be various posters
+of a purple dinosaur singing...
+
+There is a autograph on one poster.
+~
+S
+#7644
+In the Closet~
+It is dark within the confines of this small closet.  One would have
+to wonder why someone would enter into a closet in the first place...
+~
+76 8 0 0 0 0
+D3
+You see closet door.
+~
+~
+1 7607 7642 7
+E
+mothballs~
+They look like white Malt balls...
+I wonder if they taste like it too?
+~
+E
+cedar blocks~
+Looks like cedar blocks.
+what did you expect ? Gold?
+This is a FARMER's house.
+~
+S
+#7645
+An unfinished room~
+You are in an unfinished room.    
+~
+0 0 0 0 0 0
+S
+#7648
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7655 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7649 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7651 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7653 0
+D4
+You see the surface of Crystalmir Lake.
+~
+~
+0 -1 7605 0
+S
+#7649
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7656 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7658 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7650 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7648 0
+S
+#7650
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7649 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7659 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7661 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7651 0
+S
+#7651
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7648 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7650 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7662 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7652 0
+S
+#7652
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7653 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7651 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7663 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7665 0
+S
+#7653
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7654 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7648 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7652 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7666 0
+S
+#7654
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7669 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7655 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7653 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7667 0
+S
+#7655
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7670 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7656 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7648 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7654 0
+S
+#7656
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7671 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7657 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7649 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7655 0
+S
+#7657
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7672 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7667 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7658 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7656 0
+S
+#7658
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7657 0
+D1
+You see an opening in the lakebed.
+~
+~
+0 -1 7673 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7659 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7649 0
+S
+#7659
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7658 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7660 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7650 0
+S
+#7660
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7659 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7664 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7672 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7661 0
+S
+#7661
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7650 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7660 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7671 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7662 0
+S
+#7662
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7651 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7661 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7670 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7663 0
+S
+#7663
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7652 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7662 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7669 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7664 0
+S
+#7664
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7665 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7663 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7668 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7660 0
+S
+#7665
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7666 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7652 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7664 0
+D3
+You see an opening in the lakebed.
+~
+~
+0 -1 7674 0
+S
+#7666
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7667 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7653 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7665 0
+S
+#7667
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7668 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7654 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7666 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7657 0
+S
+#7668
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7664 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7669 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7667 0
+D3
+There seems to a small crack in the lakebed.
+~
+~
+0 -1 7677 0
+S
+#7669
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7663 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7670 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7654 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7668 0
+S
+#7670
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7662 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7671 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7655 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7669 0
+S
+#7671
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7661 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7672 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7656 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7670 0
+S
+#7672
+Underwater~
+It is very dim here.  You can make out the faint surfaces of the lake
+floor and other rocks.  You hope you can hold your breath long enough.
+It looks as if the surface of the lake is make of glass...  In fact
+you can't break the surface!...  You need air SOON!    
+~
+76 1 0 0 0 7
+D0
+Its too dark to see.
+~
+~
+0 -1 7660 0
+D2
+Its too dark to see.
+~
+~
+0 -1 7657 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7671 0
+S
+#7673
+Underwater Cave~
+This is an underwater cave that seems to have trapped some air in it.
+It seems as if the cave continued deeper, but it is blocked by a rock
+slide.    
+~
+76 1 0 0 0 7
+D3
+Its too dark to see.
+~
+~
+0 -1 7658 0
+E
+rock slide~
+There is no way you are going to clear away all the rocks.
+~
+S
+#7674
+Underwater Passageway~
+This passageway is almost completely filled with water.  It seems to
+have trapped some air.  Some thing doesn't feel right.  Maybe you
+should leave.    
+~
+76 1 0 0 0 7
+D1
+Its too dark to see.
+~
+~
+0 -1 7665 0
+D3
+Its too dark to see.
+~
+~
+0 -1 7675 0
+S
+#7675
+Underwater Passageway~
+This passageway is almost completely filled with air.  This is REALLY
+strange.  You wonder how this can be.  Something is definetly wrong.
+The air here is very humid and it seem to be getting warmer to the
+south.    
+~
+76 1 0 0 0 7
+D1
+Underwater Passageway.
+~
+~
+0 -1 7674 0
+D2
+A very large cave entrance.
+~
+~
+0 -1 7676 0
+S
+#7676
+Cave of the Turtle Dragon~
+This Cave is enormous.  It is mostly flooded with water.  The air is
+very humid and misty.  Large piles of bones lay all over.  The walls
+are covered with scratches and claw marks.    
+~
+76 9 0 0 0 0
+D0
+Underwater Passageway.
+~
+~
+0 -1 7675 0
+E
+bones~
+Mostly the are fish bones...
+But some of them look like humanoid bones...
+~
+S
+#7677
+Narrow Crack in the rock.~
+This seems to a crack caused by some earthquake or other natural
+event.  The opening is large here, but seems to get smaller as it goes
+on.    
+~
+76 0 0 0 0 0
+D1
+Its too dark to see.
+~
+~
+0 -1 7668 0
+D3
+a very small tunnel.
+~
+~
+0 -1 7678 0
+S
+#7678
+Small Tunnel~
+This is a small tunnel that seems to go deeper into the mountains.  
+It is completely filled with water.  Some light filters in through the
+muck to the east.    
+~
+76 0 0 0 0 0
+D0
+a very small tunnel.
+~
+~
+0 -1 7680 0
+D1
+Narrow crack.
+~
+~
+0 -1 7677 0
+D2
+a very small tunnel.
+~
+~
+0 -1 7679 0
+S
+#7679
+Dead end~
+The tunnel seems to dead end here.  There is nothing but mud and a
+small pocket of air.    
+~
+76 0 0 0 0 0
+D0
+a very small tunnel.
+~
+~
+0 -1 7678 0
+S
+#7680
+Nest Entrance~
+This seems to be the entrance to a nest of some kind.  The water here
+is very murky.    
+~
+76 1 0 0 0 7
+D0
+Barracuda nest.
+~
+~
+0 -1 7681 0
+S
+#7681
+Barracuda Nest~
+You have disturbed a barracuda nest.  They are none too pleased and
+now plan to use you for their next feeding....    
+~
+76 1 0 0 0 7
+D2
+a small tunnel.
+~
+~
+0 -1 7680 0
+S
+#7682
+Kids Closet.~
+You are standing in the kids closet.  There are piles of unwashed
+laundry and toys.  You see an evil looking book lying against the
+south wall.    
+~
+76 8 0 0 0 0
+D0
+You see the closet door.
+~
+door~
+1 -1 7643 3
+S
+#7683
+Path Off the River~
+This rocky path leads into the woods, angling upward almost
+immediately at a very steep angle.  Rocks slip and roll dwon behind
+you as you make your way along the trail.    
+~
+76 0 0 0 0 4
+D1
+~
+~
+0 0 7684 0
+D3
+~
+~
+0 0 534 0
+S
+#7684
+Climbing a Hill~
+You are now literally having to put effort into negotiating the trail.
+The way up is steep enough to put some strain on your legs, the same
+with the way down.  Just to the east is an opening in the trees, an
+outcrop of rock with a solid view.    
+~
+76 0 0 0 0 4
+D1
+~
+~
+0 0 7601 0
+D3
+~
+~
+0 0 7683 0
+S
+$~

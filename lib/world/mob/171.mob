@@ -1,0 +1,293 @@
+#17100
+moat monster~
+the Moat Monster~
+The Moat Monster roars as it lunges towards you.
+~
+It is a monstrous thing, easily thrity feet in length and as big
+around as a full-grown Nirin tree...  With teeth.    
+~
+67223562 0 0 0 16777216 0 0 0 -1000 E
+65 42 -40 0d0+0 6d6+43
+0 196628
+8 8 0
+BareHandAttack: 4
+Race: 8
+E
+#17101
+crystal mage~
+a Crystal Mage~
+An Old Withered Crystal Mage stands here grinning.
+~
+This Mage appears to be about as sane as crazed psychopath.
+He is short and skinny crystal humanoid with an insane cackle.
+~
+714810 0 0 0 33816656 0 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+2750 311540
+8 8 1
+BareHandAttack: 15
+Class: 1
+Race: 7
+E
+#17102
+knight crystal~
+the Crystal Knight~
+The Crystal Knight stands guard.
+~
+He is a large crystal humanoid that will definatly prove a worthy adversary.
+~
+49162 0 0 0 65536 131072 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+2750 283219
+8 8 1
+BareHandAttack: 14
+Class: 6
+Race: 7
+E
+#17103
+sentry crystal~
+a Crystal Sentry~
+A Crystal Sentry eyes you suspiciously.
+~
+A stocky crystal humanoid ready to defend against danger.
+~
+16414 0 0 0 0 0 0 0 1000 E
+67 44 -40 0d0+0 6d6+44
+2350 212425
+8 8 1
+BareHandAttack: 3
+Class: 4
+Race: 7
+E
+#17104
+guard crystal~
+a Crystal Guard~
+A Crystal Guard eyes you suspiciously.
+~
+A crystal humanoid ready to defend against danger.
+~
+86088 0 0 0 0 0 0 0 1000 E
+69 46 -40 0d0+0 6d6+46
+2450 228971
+8 8 1
+BareHandAttack: 10
+Class: 10
+Race: 7
+E
+#17105
+maiden crystal~
+a Crystal Maiden~
+A Crystal Maiden gracefully curtseys before you.
+~
+A pretty crystal humanoid female.
+~
+16456 0 0 0 0 0 0 0 1000 E
+60 37 -36 0d0+0 5d6+40
+2000 160325
+8 8 2
+BareHandAttack: 1
+Class: 12
+Race: 7
+E
+#17106
+crystal king~
+the Crystal King~
+The Crystal King of the Eastern Reaches is here sitting on his throne.
+~
+A large crystal humanoid with scars of battle on his crystal body.
+He looks at you as if he questions what you are doing in his castle,
+but then after taking a deep breath, he begins to form a warm smile on
+his face.
+~
+247834 0 0 0 65872 4194304 0 0 1000 E
+80 56 -40 0d0+0 6d7+53
+3000 367272
+8 8 1
+BareHandAttack: 9
+Class: 4
+Race: 7
+E
+#17107
+queen crystal~
+the Crystal Queen~
+The Crystal Queen stands here smiling at you.
+~
+A beautiful crystal humanoid who is obviously a very wise.
+~
+245898 0 0 0 33554432 0 0 0 1000 E
+70 47 -40 0d0+0 6d6+46
+2500 237528
+8 8 2
+BareHandAttack: 1
+Class: 2
+Race: 7
+E
+#17108
+jester crystal~
+a Crystal Jester~
+A Crystal Jester is busy juggling some balls.
+~
+A small little crystal humanoid devoted into keeping the royalty laughing
+and entertained.
+~
+16394 0 0 0 0 0 0 0 1000 E
+61 38 -40 0d0+0 5d6+40
+2050 167227
+8 8 1
+BareHandAttack: 13
+Class: 12
+Race: 7
+E
+#17109
+chef crystalchef~
+the Crystal Chef~
+The Crystal Chef is too busy cooking up a feast to even notice you.
+~
+He is a fat crystal humanoid who has probably ate more food then he actually
+served to the royalty and their guests.
+~
+18442 0 0 0 33554768 0 0 0 1000 E
+75 51 -40 0d0+0 6d7+50
+2750 311540
+8 8 1
+BareHandAttack: 7
+Race: 7
+E
+#17110
+servant crystal~
+a Crystal Servant~
+A Crystal Servant is too busy cleaning to notice you.
+~
+A small crystal humanoid who is obviouisly overworked.
+~
+72 0 0 0 0 0 0 0 1000 E
+60 37 -36 0d0+0 5d6+40
+2000 160325
+8 8 1
+BareHandAttack: 1
+Class: 12
+Race: 7
+E
+#17111
+michael angel archangel michaelangel~
+Michael the Archangel~
+Michael the Archangel looks as if he is talking directly to God.
+~
+He is absolutly breath taking. Standing well over 8' tall, with
+an overwhelming physical stature.
+~
+256010 0 0 0 33620048 37748736 0 0 1000 E
+80 56 -40 0d0+0 6d7+53
+3000 333884
+8 8 1
+BareHandAttack: 12
+Class: 6
+Race: 45
+E
+#17112
+rogue crystal~
+a crystalized Rogue~
+A crystalized Rogue almost cuts his fingers as he tries to backstab you.
+~
+A tall skinny crystal humanoid who would probably kill his mother for a
+piece of gold.
+~
+16488 0 0 0 337117264 0 0 0 1000 E
+74 50 -40 0d0+0 6d6+49
+2700 287373
+8 8 1
+BareHandAttack: 11
+Class: 3
+Race: 7
+E
+#17113
+crystal dragon crystaldragon~
+the Crystal Dragon~
+The Crystal Dragon looks at you with one of its three heads.
+~
+This giant crystal dragon has three heads on its massive body.
+~
+67231772 0 0 0 536870992 16777218 0 0 1000 E
+85 61 -40 0d0+0 6d7+56
+0 389703
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#17114
+shadow~
+the Shadow~
+The shadow of someone who already left is here.
+~
+You see the shadow of a dragon, it's huge and deadly.
+~
+254056 0 0 0 80 0 0 0 -1000 E
+75 51 -40 0d0+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 9
+Race: 11
+E
+#17115
+monk crystal~
+a Crystal Monk~
+A Crystal Monk stands silent before you.
+~
+A man who has obviously taken a vow of silence.
+~
+4106 0 0 0 0 0 0 0 500 E
+65 42 -40 0d0+0 6d6+43
+2250 196628
+8 8 1
+BareHandAttack: 13
+Class: 8
+Race: 7
+E
+#17116
+bishop crystal~
+the Crystal Bishop~
+The Crystal Bishop looks down upon you with an evil glare.
+~
+This large crystal humanoid has obviously strayed from the path intended by
+his god. You can almost see the devil in him.
+~
+16426 0 0 0 262144 4194304 0 0 -650 E
+77 53 -40 0d0+0 6d7+51
+2850 333165
+8 8 1
+BareHandAttack: 10
+Class: 2
+Race: 7
+E
+#17117
+snatcher~
+the Snatcher~
+A sneaky snatcher stands here, looking for someone to kill.
+~
+You see a humanoid creature, with a dog head, human body, claws like a
+bird, and legs like a maggot. It keeps saying 'Yiiiiiirk.' 
+~
+4168 0 0 0 1572864 0 0 0 -500 E
+64 41 -40 0d0+0 6d6+42
+0 189005
+8 8 0
+BareHandAttack: 8
+Class: 3
+Race: 8
+E
+#17118
+guardian foggy~
+the Foggy Guardian~
+A guardian of the Foggy dungeons stands here, not willing to let you in.
+~
+You see a guardian, nothing special except its made of fog.
+~
+245802 0 0 0 84 0 0 0 500 E
+75 51 -40 0d0+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 16
+Class: 4
+Race: 30
+E
+$

@@ -1,0 +1,2199 @@
+#13101
+The Entrance~
+You enter a dim room.  The stone walls make you realize that you must
+have descended underground, as does the stone ceiling.  The Floor is
+dominated by a huge pit.  Leading down into the pit is a rickety, worn
+ladder that looks as if it may fall apart at any moment.  There is a
+small sign that seemingly has been added to and taken away from.  You
+think of the huge creatures that must have taken the huge bites out of
+the sign and realize you would not want to meet any of them.  Strange
+and terrifying sounds come from the pit, leading you to think of
+immense creatures of incredible size and fury.  Large wooden doors
+lead to the East and West.  As you edge closer to the pit to get a
+better look you notice that the dirt from your boots does not fall,
+but rather stays floating in the air above the pit.  As you look
+closer you see a light blue aura covering the pit.    
+~
+131 8 0 0 0 0
+D1
+A door leads to a shadowy place containing creatures that you would
+probably rather not meet.
+~
+door large wooden~
+1 -1 13111 3
+D3
+A door leads to a shadowy place containing creatures that you would
+probably rather not meet.
+~
+door large wooden~
+1 -1 13102 3
+D4
+~
+~
+0 0 13172 0
+E
+sign~
+  This small sign stands next to the worn, rickety ladder.  You also
+notice  large bites taken out of it.  It reads:
+           *--------------------------------------*
+           |  		Welcome to Torin          |
+           | The city around you is always open to|
+           | travelers, please be welcome and stay|
+           | as long as you wish.  Below are the  |
+           | lower halls, they belong to the upper|
+           | class and we ask that you do not     |
+           | disturb them.			  |
+           *--------------------------------------*
+you notice more to the sign, apparently recently added:
+  I warn ye, above and below are monsters the like of which ye have never
+  seen.  The ones above are not to hard to fight, but the ones below, one
+  must be powerful to fight.
+~
+E
+barrier blue force~
+Written in glowing blue runes is:
+    By the order of the Great Wizard Zaylon the lower halls are closed to
+    all adventurers!  Perhaps one day they will be opened once again.
+    Though when they are many of the creatures that I have imprisoned
+    beneath may escape and cause all manner of havoc.
+~
+E
+ceiling~
+The stone ceiling looks heavily worn and has light blackening from
+campfires.
+~
+E
+walls stone~
+The walls are very uneven with the signs of combat, but the signs are
+ancient.  The battle here didn't happen recently.
+~
+S
+#13102
+The West Path~
+The shadows that surround you and seem to be everywhere make it appear
+that strange images flit by, which causes you to think that you are
+moving very quickly.  Shadowy images appear and disappear.  You can
+only catch glimpses of great, immense treasures behind the darkness.
+To the north the path continues.  There is also a room to the west,
+and you may of course goback to the entrance, east.    
+~
+131 9 0 0 0 0
+D0
+The shadows thicken.
+~
+~
+0 -1 13104 0
+D1
+A door leads back to the entrance.
+~
+door~
+1 -1 13101 3
+D3
+You see a strange dark room there.
+~
+~
+0 -1 13103 0
+E
+shadows shadow~
+These strange things, you can't be sure whether these are alive or not,
+block nearly all view of everything.  You can only catch glimpses of
+reality through them.
+~
+S
+#13103
+Room of the Bohemoth~
+A huge room opens before you.  This room is completely cloaked with
+these strange shadows.  Immediately upon entering you feel that
+something is wrong.  Suddenly, in a movement so quick that you eyes
+could not follow it, one of the Shadows that you have gotten so used
+to seeing moving about you, but neverdisturbing you, becomes fully
+visible and glowing red eyes stare down at you, as if deciding whether
+or not to eat you.  You think you can almost see the smile forming on
+those grotesque lips as it decides.  The only way out is the way you
+came in, and if your not quick you may not makeit back out!    
+~
+131 73 0 0 0 0
+D1
+The shadows thin, and you think you can see light.
+~
+~
+0 -1 13102 0
+S
+#13104
+Along the Path~
+The path becomes obscure here.  The images created by the shadows
+become less and less substantial.  The shadows themselves, however,
+seem to be becoming stronger.  You almost feel as though you are
+beginning to dream, but you are still completely awake, how strange.
+I must be the images' softness that is making you think that.  The
+path continues to the east and south through the shadows.    
+~
+131 72 0 0 0 0
+D1
+All you can see is shadows.
+~
+~
+0 -1 13105 0
+D2
+The shadows thin, and you think you can see light.
+~
+~
+0 -1 13102 0
+E
+images image~
+The images are soft.  They apparently are created by the shadows, but
+only by individual shadows.  The more shadows there are, the less of the
+images.  Maybe the shadows interfere with each others' qualities that
+induce the images . . .
+~
+E
+shadows shadow~
+These stange, dark, misty things are apparently alive, but you can move
+through them.  They are completely insubstantial.  You believe that they
+are the cause, or at least part of the cause, of the images that come to
+you.
+~
+S
+#13105
+The Dream~
+You are now sure that you are dreaming.  Right in the middle of the
+path, surrounded by the ever-present shadows, there is a royal feast
+of a meal laid out.  It is nicely laid out as if someone were
+expecting you.  . . or was making a supplication to a god.  The table
+it is lying on is made all of shadows.  How can it be holding up the
+meal?  The ever- present shadows seem to be urging you to the north,
+as if to push you towards somewhere, or something.  You may go back to
+the west, against the shadows, or to the north, where they are pushing
+you.    
+~
+131 28 0 0 0 0
+D0
+Stange markings and discarded, rusty, weapons show that there was once a
+battle ahead, or maybe an ambush.
+~
+~
+0 -1 13106 0
+D3
+More shadows lie in that direction.
+~
+~
+0 -1 13104 0
+S
+#13106
+The Ambush~
+Apparently there was an ambush here, though it must have been many
+years ago.  There are only skeletons and extremely rusty weapons and
+armor here now.  A quick search reveals that the shadows have become
+more substantial now, clinging to you like a thick mist, and all of
+the armor and weapons are too rusty to be serviceable.  Nothing of
+significant value can be found in the remains.  The path continues to
+the north and you may still return to the south.    
+~
+131 73 0 0 0 0
+D0
+The shadows become thin ahead.
+~
+~
+0 -1 13107 0
+D2
+You become dreamy once again as you look back.
+~
+~
+0 -1 13105 0
+S
+#13107
+The Beginning~
+The path becomes brighter as the shadows thin.  The shadows have
+retreated, you can no longer feel their feathery light touch, but you
+feel another presence permeating the area.  This second presence . . .
+nice.  It becomes stronger to the east, and the shadows become
+stronger to the south.    
+~
+131 72 0 0 0 0
+D1
+It is brighter, and you see no more shadows in that direction.
+~
+~
+0 -1 13108 0
+D2
+The shadows thicken.
+~
+~
+0 -1 13106 0
+S
+#13108
+Before the Gates~
+You feel a strong presence to the north, toward the two gigantic,
+glowing gates at which the path ends.  The shadows are non-existent
+here.  They seem to have shied away from these immense plates of
+light.  The huge gates are colored like adamantine steel . . . nah,
+must be your imagination, no one has forged it in millenia.  To the
+south and west the shadows become thicker.  To the south you hear what
+sounds like growls and languages so gutteral that you could not even
+begin to comprehend what they are saying, but would you want to?    
+~
+131 72 0 0 0 0
+D0
+Strange, glowing, rune covered gates lie ahead.
+~
+gates glowing gate rune~
+1 -1 13123 3
+D2
+The shadows, sensing you thinking about returning, begin to encroach...
+~
+~
+0 -1 13109 0
+D3
+The shadows, while they are thin, are still visible there.
+~
+~
+0 -1 13107 0
+E
+gate gates glowing rune~
+The gates are truly immense.  They must be 20 feet tall and made out of
+a strange brightly colored adamantine material.  They are covered with
+strange, ancient runes, that because of their intense glow, you guess to
+be magic, you are nearly blinded by them. You have no idea what they
+mean.
+~
+S
+#13109
+The misty shadows~
+As the path moves through this area you notice that the shadows are
+especially thick here.  You feel as though you were moving through a
+heavy mist.  The shadows' shadowy fingers explore all exposed parts of
+your body.  You shudder involuntarily at the closeness of the shadows
+and the fact that there are eyes watching from the darkness.  To the
+north you can see the shadows thin noticably, you can also see the
+path . . . just barely, to the south.    
+~
+131 73 0 0 0 0
+D0
+The shadows thin, and you think you can see a little light.
+~
+~
+0 -1 13108 0
+D2
+The shadows become thinner, but just barely.
+~
+~
+0 -1 13110 0
+S
+#13110
+Losing conciousness~
+The shadows here are lazy and dream-like.  You feel hypnotized by the
+shifting patterns.  The way you came seems a distant memory.  To the
+north the shadows thicken . . . oh, you are feeling sleepy . . ..  As
+you look around you see the shadows thin to the south . . . you feel
+your eyes start to close.  AHHHHHHHhhhh!  You are suddenly awakened by
+an intense scream from somewhere not to far away.  You get the feeling
+that that might have been another adventurer wandering through Torin
+and that you might be next if you fall asleep here.  You hear several
+unfriendly noises to the east.    
+~
+131 73 0 0 0 0
+D0
+The shadows thicken to a point beyond imagination.
+~
+~
+0 -1 13109 0
+D1
+You see more shadows,...and other creatures.
+~
+~
+0 -1 13113 0
+D2
+The shadows thin, and you can see light.
+~
+~
+0 -1 13111 0
+S
+#13111
+The east path~
+Strange images flit by, causing you to think that you are moving very
+quickly.  Shadowy images appear and disappear.  You only catch
+glimpses of great treasures behind the darkness.  To the north the
+path continues into greater, more monsterous, larger and more evil
+looking shadows.  To the east you notice a small guard room, that
+appears deserted, and to the west is the entrance.    
+~
+131 8 0 0 0 0
+D0
+The shadows thicken.
+~
+~
+0 -1 13110 0
+D1
+You see what's left of a guard post.
+~
+~
+0 -1 13112 0
+D3
+An old, wooden door leads back to the entrance.
+~
+door~
+1 -1 13101 3
+S
+#13112
+The abandoned guard house~
+This appears to have once been a guard house, but has since degraded
+into much less than that.  The cold stone walls are worn, and nearly
+collapsing, the wooden door that once stood in the entrance now lies
+to one side, completely rotted through, the furniture has long since
+been eaten away by termites and you can only guess what else.  You
+notice an ancient piece of paper on the ground.  The only way out is
+the way you came in, to the west.    
+~
+131 72 0 0 0 0
+D3
+You see shadows and a little light.
+~
+~
+0 -1 13111 0
+E
+note paper~
+   The yellowed, ancient, piece of paper, before crumbling away in your
+hands, reveals a few words scribbled on it, and it appears to be the
+final log of this ill-fortuned guard post:	No one, except the ones that
+are protected remain unchanged.  The ones that were out in the open were
+either killed or hideously deformed, and   some . . ..the rest of the
+note crumbles away in your hands as you try to make out the last of the
+message.
+~
+S
+#13113
+The guard room~
+You are now certain this is a dream.  Where else would you find three
+snake-men repeating over and over: "We must serve the master.  " These
+three poor souls appear to have been the result of some strange
+accident, you can vaguely make out parts of them that once were human.
+They appear to have been in this dream-like state for many, many
+years.  Perhaps they traveled to far in and could not make it out
+before the shadows overcame them . . ..  This guard room is apparently
+here to guard the entrance to the room to the north.  There is no
+indication what may lie there.  The path continues to both the east
+and west.    
+~
+131 73 0 0 0 0
+D0
+A remarkably well preserved door leads to an unknown room.
+~
+door preserved~
+1 13101 13114 3
+D1
+The shadows thicken.
+~
+~
+0 -1 13115 0
+D3
+The shadows thin a bit.
+~
+~
+0 -1 13110 0
+S
+#13114
+Deja-vu~
+Hmmm . . . you feel as though you've been in this room before.  You
+try to shake off the feeling, but it won't go away.  You almost
+remember sleeping in here, using the tall oak wardrobe that is now
+rotted into sawdust, the cedar chest at the end of the demolished bed,
+you remember holding some of your . . . dresses?  Wow, this is too
+weird, perhaps you'd better leave, before these memories overcome you.
+Now this bedroom is only inhabited by the shadows, as it seems so is
+the rest of this strange place.  This room seem also to have other
+qualities.  For instance you can't hear yourself think, not because of
+any noise but because of the lack thereof.  The only exit is the door
+to the south.    
+~
+131 765 0 0 0 0
+D2
+Out there seems a lot more normal than in here.
+~
+door~
+1 13101 13113 3
+S
+#13115
+The crowded room~
+The shadows here are becoming oppressive.  They are so thick that they
+are now impeding movement.  It feels as though you were moving through
+a heavy crowd.  Like the crowds that crowd into a concert . . . wait,
+what's a concert.  As you travel further into this place you are
+coming upon so many strange memories.  Maybe it is something wrong
+with you, or maybe it is this place, or even these strange shadows.  
+If you leave you may never know, but if you don't you may never leave
+. . ..  You feel a strong pull to the east, but you may still go back
+to the west to escape this.    
+~
+131 105 0 0 0 0
+D1
+You see a large plaza filled with more of the strange shadows.
+~
+~
+0 -1 13116 0
+D3
+You see more shadows, along with other creatures.
+~
+~
+0 -1 13113 0
+S
+#13116
+The plaza~
+A gigantic plaza stretches out before you.  In it's center is a
+monsterous fountain . . . that seems to be producing more and more
+shadows.  Wait, ...  You thought you heard your name called, and
+that's not the weirdest thing that's happening, you can see the
+fountain moving of it's own accord.  To the east lies a shop, with a
+door, that you might be able to close...  Hmmm...  Maybe it's a rest
+spot provided for weary travelers, or maybe it's a trap, well, only
+one way to find out.  To the north lies strange immense hallway, and
+to the south lies more of the strange shadows.  There still is the
+option of leaving west, perhaps you should take it while you still
+have a chance to escape.    
+~
+131 73 0 0 0 0
+D0
+You see a great hallway.
+~
+~
+0 -1 13118 0
+D1
+A small door leads into a quiet shop.
+~
+door~
+1 -1 13117 3
+D2
+The shadows thicken.
+~
+~
+0 -1 13146 0
+D3
+The shadows thin.
+~
+~
+0 -1 13115 0
+S
+#13117
+The quiet shop~
+Well this is nice.  There are no shadows in here.  The place looks
+like an abandoned shop.  It is still in good order.  In the center of
+the room is a table which dominates you attention.  There is a
+glowing, blue globe sitting in a stand.  The strange white swirls seem
+to speed up whenever you come near it.  You are not sure whether you
+would trust this thing.  The walls are lined with very exquisite
+marble cabinets,with marble counter-tops beneath them.  This shop,
+alone, seems to have withstood whatever happened in this city.  You
+feel strangely comfortable in this room, and you suspect it's more
+than a coincidence of the blue globe being in here.  You feel a strong
+magical aura coming from it.  You get the impression that you don't
+want to touch it.  To the west is a door.  You entered from there...
+Or so you think?    
+~
+131 637 0 0 0 0
+D3
+A small wooden door protects you from the outside world.
+~
+door wood small~
+1 -1 13116 3
+S
+#13118
+The misty halls~
+These halls appear to have been invaded by the same creeping shadows
+that are everywhere else.  This appears to have once been a wide
+hallway used for trade, the small wooden stands have long since
+crumbled to dust.  To the south lies the plaza, and to the north the
+shadows hid all.    
+~
+131 73 0 0 0 0
+D0
+The great hallway continues.
+~
+~
+0 -1 13119 0
+D2
+You see a large plaza.
+~
+~
+0 -1 13116 0
+S
+#13119
+The misty halls~
+The strange shadow mist is thinner here.  You gain a vague sense that
+whatever is to the west frightens the shadows.  There are no shadows
+to the west, but they continue with renewed strength to the south.  
+This hallway is wide enough to hide an army.  Hmmm.  . . maybe it
+does, only it would have to be an army like you have never seen
+before.  To the east lies a glowing blue portal, that leads to a
+richly furnished bedroom.  As you look at it more, the more it seems
+look a painting.  Perhaps you should check it out.    
+~
+131 73 0 0 0 0
+D1
+A strange painting that appears to be a portal leads to a richly furnished
+bedroom.
+~
+~
+0 -1 13114 0
+D2
+The great hallway continues.
+~
+~
+0 -1 13118 0
+D3
+The shadows thin and you can see light.
+~
+~
+0 -1 13120 0
+S
+#13120
+Before the Gates~
+You stand before an immense glowing gate.  This gate is covered with
+runes and you, yes even you, can sense an incredible magical aura
+coming from it.  There are no shadows in this room.  They appear to be
+afraid of the gate.  A single golden key lies on the ground, and it
+too glows with a strange ethereal light.  To the east lie more of the
+shadows.  To the north lies the immense gate.    
+~
+131 12 0 0 0 0
+D0
+You stand before an immense glowing gate that appears to repel the
+shadows.
+~
+gate glowing~
+1 13102 13121 7
+D1
+More of the shadows hide beyond the reach of the gate.
+~
+~
+0 -1 13119 0
+S
+#13121
+The Gateroom~
+Upon entering this room you are struck by an incredible sense of awe.
+Here before you stands a tall well groomed guard that is apparently
+very happy with his job.  The room reminds you of a room in an opulent
+palace.  Surely this was the richest section of Torin.  The gate lies
+to the south and to the west lies another bright, rich room.  A sign
+stands proudly on the wall.    
+~
+131 8 0 0 0 0
+D2
+A giant glowing gate stands in your path.
+~
+gate glowing~
+1 13102 13120 1
+D3
+A sparse, yet useful room.
+~
+~
+0 -1 13122 0
+S
+#13122
+Garin's Post~
+As you enter the room, first you notice the functionality of it.  
+Everything in it has a purpose.  Even the dark corners would allow
+someone to remain hidden while watching anyone who might enter the
+room.  Do you see eyes watching you from in one of those corners...?
+. . . Nah, can't be.  You continue to notice things around the room.
+A small eating table, which if flipped on it's side might make a fair
+shield, or the set of knives within easy reach of one of those
+corners.  You suddenly move and look around as you feel a tap on you
+shoulder.  You look around but can find noone, then you see him.  He
+is lying against the wall.  All his clothes and weapons are
+magnificently camouflaged.  You see gate rooms to the east and to the
+west.    
+~
+131 8 0 0 0 0
+D1
+You see a gateroom and an immense glowing gate.
+~
+~
+0 -1 13121 0
+D3
+You see a gateroom and an immense glowing gate.
+~
+~
+0 -1 13123 0
+S
+#13123
+The Gateroom~
+This room's opulence is incredible.  You notice the bold edging of the
+gates, some marble chairs scattered around the room, and ironically,
+no sign of any type of guard.  Although, upon entering the room you
+begin to feel watched.  You also notice a strange humming sound that
+appears to come from everywhere at once.  A rather bland, but
+functional room that lies to the east.  To the north and west lie
+boulevards lined with strangely glowing globes, and to the south lies
+the majestic, rune-covered gate.    
+~
+131 8 0 0 0 0
+D0
+There a strange boulevard lies.
+~
+~
+0 -1 13157 0
+D1
+You see a bright room that is apparently useful, but bland.
+~
+~
+0 -1 13122 0
+D2
+You see a giant rune covered gate that protects this place from the
+shadowy beings.
+~
+gate gates glowing~
+1 -1 13108 3
+D3
+You see a strange boulevard lined with glowing globes.
+~
+~
+0 -1 13124 0
+E
+gate gates glowing~
+   The gates are truly immense.  They must be 20 feet tall and made out of
+a strange brightly colored adamantine material.  They are covered with
+strange, ancient runes, that, because of their intense glow, you guess to
+be magic. You have no idea what they mean.
+~
+S
+#13124
+Along the Boulevard~
+A strange coating covers all of the buildings.  You can't seem to get
+through it either.  It acts like a barrier against intrusion.  How
+unfriendly!  You see shops to the north, west and south.  
+Unfortunately the blue covering covers the shops to the south and
+west.  To the east lies the gateroom of the massive gates.    
+~
+131 8 0 0 0 0
+D0
+You see a small, quaint little shop that once perhaps was a family
+establishment.
+~
+door~
+1 13103 13125 1
+D1
+You see the gateroom before the way back through the shadows.
+~
+~
+0 -1 13123 0
+S
+#13125
+A small shop~
+A small, indistinct shop lies here.  Even though this seems to be a
+small shop, once can notice that the countertops are marble, as well
+as the cabinets.  The table in the center of the room is an odd,
+upside-down pyramid placed on a rather odd stand.  A quick search
+reveals nothing of importance.  However, there is a cabinet that
+deserves some more consideration.  To the west, there is a slightly
+discolored patch on the wall.  Perhaps...  Yes, it looks like a hand
+print.  To the south is the entrance to the shop.    
+~
+131 9 0 0 0 0
+D2
+There lies a brightly lit boulevard.
+~
+door~
+1 13103 13124 1
+D3
+The small dicoloration on the wall is definitely a hand print.  As you
+match your hand to the hand print you notice that the wall slides inward
+just a little bit.
+~
+secret wall~
+1 -1 13126 3
+S
+#13126
+A large cave~
+As the ever changing nature of this place takes another step you find
+yourself in an immense cavern.  The walls are only dimly visible as
+you look around and notice faintly luminiscent fungus growing on the
+walls.  The ceiling stretches far into the distance as you continue to
+look around.  The cavern continues to the west and south, to the north
+lies a wall and to the east lies the door back to the shop.    
+~
+131 9 0 0 0 0
+D1
+The dark, stone door leads back into the little shop.
+~
+secret stone door~
+1 -1 13125 3
+D2
+The darkness leads further into the cavern.
+~
+~
+0 -1 13127 0
+D3
+The darkness leads further into the cavern.
+~
+~
+0 -1 13129 0
+S
+#13127
+The large cave~
+As this immense cavern continues you can't help but notice the
+smoothness of the walls, the slight greenish light that only lets you
+know where the boundaries of the cave are, and the light red eyes
+staring at you.  A pool on the cavern floor reflects you light
+amazingly well, and you hear the dripping of the stalagmites above
+you.  Wait a sec, you look around again, you could have sworn that you
+saw red eyes staring at you from the darkness.  The cavern continues
+to envelope you to the north, and west.    
+~
+131 9 0 0 0 0
+D0
+The infinite darkness continues.
+~
+~
+0 -1 13126 0
+D2
+The infinite darkness continues.
+~
+~
+0 -1 13128 0
+D3
+The infinite darkness continues.
+~
+~
+0 -1 13128 0
+S
+#13128
+The large cave~
+You enter this part of the immense cavern and once again notice the
+strange glowing fungus that illuminates the plain stone walls, but you
+also notice the incredible smoothness of those walls, impossible for
+nature alone to accomplish.  The pools of glistening water on the
+floor reflect the glow of the fungus and seem to have a strange
+greenish tinge because of it . . . and speaking of the floor, you see
+heavily engraved scrape marks to the west.  To the north, south and
+east the cave envelopes you.    
+~
+131 9 0 0 0 0
+D0
+The infinite darkness continues.
+~
+~
+0 -1 13129 0
+D1
+The infinite darkness continues.
+~
+~
+0 -1 13127 0
+D2
+The infinite darkness continues, but you notice something familiar there.
+~
+~
+0 -1 13127 0
+D3
+A huge stone wall stands before you and blocks your path, but those
+scrapes on the floor . . .
+~
+stone secret~
+1 -1 13130 3
+S
+#13129
+The large cave~
+Ahah, You've found another wall to this cave.  As you look around you
+find it disconcerting that you cannot even see your hand in front of
+your face.  The blackness is so absolute that you could not even think
+of trying to search for anything, lest you encounter something that is
+most definitely not friendly while on your knees searching the floor,
+you can only hope that you can stumble upon a door way, and not
+something less pleasant that wants to be really friendly and invite
+you to (be?  ) dinner.  Feeling around you notice that the wall allows
+passage to a direction you vaguely guess to be south and also to the
+east.  To the north of you lies a strange depression and feeling
+farther along it you can see that it is or was a tunnel, only one way
+to find out.    
+~
+131 9 0 0 0 0
+D0
+A dark depression leads into the unknown, this, unlike the other exits
+seems to be lower, more like a tunnel.
+~
+~
+0 -1 13166 0
+D1
+The all enveloping darkness continues.
+~
+~
+0 -1 13126 0
+D2
+The all enveloping darkness continues.
+~
+~
+0 -1 13128 0
+S
+#13130
+The Halls~
+An eerie feeling overcomes you as you enter these halls.  You look
+around you and are overcome with awe.  This place appears to once have
+been a monastery and still has the feeling of one.  To the right and
+left lie lines of gargantuan granite statues, whose red, glowing eyes
+appear to follow you as you move.  They appear as if they could come
+alive at any moment.  . ..  High above these 30 foot statues lies the
+richly decorated ceiling.  As you watch the ceiling you realize that
+the mural on the ceiling is moving.  It is a picture, you are sure of
+that, but it is moving.  You notice that the granite floor beneath is
+thudding, not audibly but just like when your heart beats under your
+hand.  You whisper your amazment at your surroundings but you voice
+seems to be absorbed within the walls.  Thinking back to when you
+entered you realize that this place has had no sound whatsoever.  You
+briefly scuffle your feet, pound on the walls, but no sound issues
+forth.
+~
+131 105 0 0 0 0
+D0
+A line of the gargantuan granite statues point the way to the rest of the
+halls.
+~
+~
+0 -1 13131 0
+D1
+This great stone giant blocks the way, perhaps you could move it, if you
+were a god . . .
+~
+stone giant secret~
+1 13104 13128 3
+S
+#13131
+Memory Lane~
+As you continue walking you seem to . . . remember?  , more of these
+halls.  You aren't sure how but you remember actually working in these
+halls.  The unbreakable quiet is the only mystery.  You don't remember
+it being like that.  It feels utterly dead here, as if nothing has
+lived in here for many thousands of years.  The statues end here at a
+deep dark pool that seems to block all passage to the north.  The
+glistening waters reflect everything around them, but they reflect a
+face that you do not recognize.  You see a small sign chiseled into
+the last of the statues.  You see that by skirting the edge of this
+huge pool you can proceed to the west, the beginning of the halls, or
+south, back the way you came.    
+~
+131 105 0 0 0 0
+D2
+The entrance of the halls lies there, as does the giant blocking the way.
+~
+~
+0 -1 13130 0
+D3
+A small path scirts the edge of the lake.
+~
+~
+0 -1 13132 0
+E
+sign chiseled statue~
+   	*****************************************************
+      |                                                   |
+      |     I am Storm, the Great Wizard of Torin         |
+      |     these halls are my sanctuary.  Before         |
+      |     you lies the beginning and the end. This      |
+      |     lake is known as the pool of truth. If        |
+      |     you are of stout heart than you may try       |
+      |     to cross, but be warned, across the lake      |
+      |     lies my sanctuary, do not bother me!          |
+      |     To all others : this pool reveals the         |
+      |     true existence of you.  Your first and        |
+      |     your last, and everything that has 	          |
+      |     happened in between, this is who you are.     |
+      |					                      |
+      *****************************************************
+~
+E
+pool lake truth~
+   As you look into the waters you see a strange face staring back at you.
+A strange child looks into your eyes and on another level you feel you
+know this child.  He has the strangest blue tint to his skin, and he
+seems to have strange cat's eyes, but you . . . You SCREAM as you realize
+that this is you.
+~
+S
+#13132
+The Old Stone intersection~
+You imagine the monks at one time, long ago walking through this
+intersection, in their slow somber walk.  As you imagine more and more
+about thesee halls you feel that you aren't simply imagining, but that
+you are remembering.  At this point the fact that they might be
+memories no longer frightens you though.  You have started thinking
+that maybe you lived here, many years ago in some past existence.  To
+the east and south lie intensely well preserved doors.  The oak is
+still new looking and you even think you can smell the sap from the
+newly cut timbers.  To the north and west lie more of the halls.    
+~
+131 105 0 0 0 0
+D0
+The halls continue, but that is the way to the exit...the blocked one.Ha
+Ha Ha.
+~
+~
+0 -1 13131 0
+D1
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you where it may lead.
+~
+door wood oak~
+0 -1 13131 0
+D2
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you where it may lead.
+~
+door wood oak~
+1 13104 13135 1
+D3
+A rather sparse room is over there, the doorway, the arch, and the room
+beyond can only be described as . . . plain.
+~
+~
+0 -1 13133 0
+S
+#13133
+Treasure Room~
+As you step through the doorway the room changes.  Where before there
+was an empty, plain room, there is now a sparkling, richly decorated
+room.  There is treasure here beyond your belief.  As you try to
+remove some of it your hands simply pass through it.  It appears that
+only some of it is like that though, maybe you should keep searching.
+An intensely well preserved door, that still smells of sap lies to the
+south, and to the west is an empty intersection.    
+~
+131 105 0 0 0 0
+D1
+There lies a large, but empty intersection.
+~
+~
+0 -1 13132 0
+D2
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you wehere it may lead.
+~
+door wood oak~
+1 13104 13134 3
+S
+#13134
+The gate room~
+An impressive structure lies before you.  All walls, ceilings, and
+floors are covered with mirrors.  The only breaks are the doors and
+the archway leading out.  The mirrors are positioned so that you see
+ten or more ghostly images of yourself and others in the room.  These
+images float in the are as if they were real ghosts.  Well preserved
+doors lead to the north and south, and the halls continue to the east.
+~
+131 105 0 0 0 0
+D0
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you wehere it may lead.
+~
+door wood oak~
+1 13104 13133 3
+D1
+The halls continue into a more cathedral-like setting.
+~
+~
+0 -1 13135 0
+D2
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  This door appears to be more of a gateway than
+a normal door.
+~
+door wood oak~
+1 -1 13137 1
+S
+#13135
+The Hallowed Halls~
+These halls seem to be alive.  You think you can see the walls moving
+as if great lungs worked behind them.  Along this section of the Halls
+is a line of altars.  They are to innumerable gods of many different
+peoples.  You see a shrine to Jupiter to your right, and a shrine to
+Brahman to the left.  This place, though aside from being, evidently,
+a holy place, seems to be living.  The floor you are standing on is
+slightly springy and moves rythmically beneath your feet.  Hmmm...  
+Come to think of it, ever since you crossed out of the cavern it has
+been like this, you just haven't conciously noticed it.  It was weak
+before you didn't notice it, but now you notice it.  What if this is a
+creature?  What if it's been sleeping for billions of years, and might
+for a billion more?  Well, whatever . . . you would hate to wake a
+being of this size.  To the east the rows of altars and the living
+passageway continue.  To the north lies a well preserved wooden door
+and to the west lies the gate room.    
+~
+131 105 0 0 0 0
+D0
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you where it may lead.
+~
+door wood oak~
+1 13104 13132 3
+D1
+This row of altars continues, as do these moving walls.
+~
+~
+0 -1 13136 0
+D3
+A room of mirrors and illusions lies in that direction.
+~
+~
+0 -1 13134 0
+S
+#13136
+The end of the Halls~
+   You have reached a dead end.  The walls are still moving in the
+rythmic, living pattern, and the altars are here, but this appears to be
+the end.  You notice a strange hissing.  It sounds like . . . breathing!
+You are sure that you are in a creature now.  The walls move, you can hear
+it breathing,and the floors move.  The ancient peoples must have thought
+that this was something from the gods and so they built the altars right
+here to worship them.  The only way out is the way you came in, going back
+through those halls . . . or rather through this creature.
+~
+131 105 0 0 0 0
+D1
+~
+stone secret living~
+1 -1 13142 1
+D3
+There lies the only way out and the only apparent escape, or wat to
+continue.
+~
+~
+0 -1 13135 0
+S
+#13137
+The Shadowed~
+You thought you had gotten away from this a long time ago.  Shadows
+are everywhere.  Here you are again, in the midst of the strange,
+misty shadows.  These shadows seem more friendly, somehow.  They are
+also thinner, less oppressive.  They continue to the south, and a
+well-preserved door lies to the north.    
+~
+131 73 0 0 0 0
+D0
+An intensely well preserved door lies here.  You can smell the sap of the
+freshly cut oak and as you touch the door you can still fell the
+stickyness of the varnish.  No markings tell you where it may lead.
+~
+wood oak door~
+1 -1 13134 1
+D2
+These new shadows continue down the passage.
+~
+~
+0 -1 13140 0
+S
+#13138
+The stone room~
+As you look around you see a small stone room, stone chairs, a stone
+table, even stone cups, stone plates and stone knives.  As you feel
+along the walls, you feel smoothness like nothing you have even felt
+before.  Wait a sec, you felt a place where the architect's chisel
+must have slipped, and here's another one . . ..  The only way out is
+back into the shadows and the strange place you now know is somehow
+home, south.    
+~
+131 9 0 0 0 0
+D2
+The shadows lie out there.
+~
+~
+0 -1 13141 0
+S
+#13139
+The Hall of Shadows~
+The hall of shadows, as you now vaguely remember, is the name of this
+great hallway.  The walls of the hall are a testament to the
+incredible craftsmanship of the architechts and builders of this city.
+The hard granite walls are completely smooth, with the only blemishes
+being the metal spikes sticking out of the wall every so often.  Some
+of them are holding up rusty suits of shadowy armor and the battle
+standards of Torin, and some are empty, maybe where suits of armor
+used to be.  You feel that now you know the story of this beleagured
+capital city of the once great Empire of Torin.  The memories only
+come back in pieces, so you cannot know the entire story.  You stare
+at the ground, for there is a hole with a ropeleading down into the
+darkness.  Unfortunately a strange blue field offorce holds you back
+whenever you try to go down into it.  To the east is an old, maple
+door, and to the south lies more of the Hall of Shadows.    
+~
+131 8 0 0 0 0
+D1
+A large old, maple door blocks passageto more unknown places in the Halls.
+~
+old maple door~
+1 -1 13108 1
+D2
+The Hallway of Shadows continues.
+~
+~
+0 -1 13142 0
+S
+#13140
+The Shadowed~
+The shadows mask the walls, the cielings, the floor, in fact you can
+barely see a few feet in front of you.  You feel closed in, as if the
+dark, stone tunnel you are moving through were constricting.  Can you
+even be sure of where you are any more?  You have been traveling
+through these shadows for a while, and nothing sounds familiar.  That
+could just be because of the fact that you have come from a hall
+without sounds though.  As you continue you feel as though you are
+definitely coming to some conclusive place . . . maybe you will find
+out what happened to this place to cause the shadows to take over and
+the residents to hide.  The path continues, into these shadows, to the
+north and east.    
+~
+131 9 0 0 0 0
+D0
+The shadows continue.
+~
+~
+0 -1 13137 0
+D1
+The shadows continue.
+~
+~
+0 -1 13141 0
+E
+shadows~
+The shadows seem less oppressive, though they still block your view quite
+thoroughly, they seem almost friendly.
+~
+S
+#13141
+The shadowed~
+The shadows mask the walls, the cielings, the floor, in fact you can
+barely see a few feet in front of you.  You feel closed in, as if the
+dark, stone tunnel you are moving through were constricting.  Can you
+even be sure of where you are any more?  You have been traveling
+through these shadows for a while, and nothing sounds familiar.  That
+could just be because of the fact that you have come from a hall
+without sounds though.  As you continue you feel as though you are
+definitely coming to some conclusive place . . . maybe you will find
+out what happened to this place to cause the shadows to take over and
+the residents to hide.  The shadows continue to the south, east, and
+west.  To the north you see a solid, stone room.    
+~
+131 9 0 0 0 0
+D0
+You see a stone room.
+~
+~
+0 -1 13138 0
+D1
+The shadows continue.
+~
+~
+0 -1 13142 0
+D2
+The shadows condense and appear to once again be the shadows that you saw
+at the beginning of the ruined city.
+~
+~
+0 -1 13143 0
+D3
+The shadows continue.
+~
+~
+0 -1 13140 0
+S
+#13142
+The Hall of Shadows~
+The hall of shadows, as you now vaguely remember, is the name of this
+great hallway.  The walls of the hall are a testament to the
+incredible craftsmanship of the architechts and builders of this city.
+The hard granite walls are completely smooth, with the only blemishes
+being the metal spikes sticking out of the wall every so often.  Some
+of them are holding up rusty suits of shadowy armor and the battle
+standards of Torin, and some are empty, maybe where suits of armor
+used to be.  You feel that now you know the story of this beleagured
+capital city of the once great Empire of Torin.  The memories only
+come back in pieces, so you cannot know the entire story.  The hall
+continues to the north and south, there is a stone door to the east
+and the shadows lie to the west.    
+~
+131 8 0 0 0 0
+D0
+You see the Hall of Shadows.
+~
+~
+0 -1 13139 0
+D1
+A large stone door blocks passage.
+~
+stone door large~
+1 -1 13136 3
+D2
+A strange scraping sound comes from the darkness of the shadows.
+~
+~
+0 -1 13144 0
+D3
+The shadows continue.
+~
+~
+0 -1 13141 0
+S
+#13143
+The Shadow Throne~
+What you see before you fills you with terror.  There are hundreds of
+shadows here, some fully here some caught in between dimensions.  
+They do not appear to be particulary friendly.  You hear their hisses,
+groans, and even the gutteral language that they speak.  They all
+appear to be looking at you, the intruder in their realm.  The room is
+a large cavern, and yet they fill every space.  You see a tall man
+dressed in strangely glowing black robes standing by one wall over
+what appears to be an altar.  The man looks up, sees you and points
+toward you.  All of the shadows look at you expectantly, apparently
+deciding what to do with you . . ..  There is apparently no way out of
+here, except the way in, but that too is rapidly being blocked by the
+shadows that, now having something to do, have become more
+substantial.    
+~
+131 105 0 0 0 0
+D0
+The only way out stands before you, do you wish to take it or wait for
+the shadows to decide . . . ?
+~
+~
+0 -1 13141 0
+E
+man tall black robes~
+A tall, impressive looking man dressed in black robes stands here looking
+as if he is coaxing the shadows into this dimension.  He appears not to
+notice you.
+~
+E
+shadows~
+These appear to be the same shadows that have been haunting you from the
+beginning.  These ones are stronger though.
+~
+S
+#13144
+The Pen~
+This is a strange end to the Great Hall of Shadows.  The shadows are
+very thick here.  They impede movement and impede your breathing.  
+The room looks strange.  The walls appear to be melting, and the
+pictures and suits of armor that adorn the walls of the hall also
+appear to be melting.  There appears to be something hiding within the
+concealing shadows, though you don't know what, and are afraid to
+guess.    
+~
+131 9 0 0 0 0
+D0
+The Hall of Shadows continues.
+~
+~
+0 -1 13142 0
+D2
+You see a room of all stone.
+~
+~
+0 -1 13138 0
+D3
+The Hall of Shadows continues.
+~
+~
+0 -1 13143 0
+E
+walls melting~
+How strange the walls appear to be melting as if they were wax and being
+heated, except you can feel no heat from them, and when you touch them
+they are as solid as you are.~
+E
+armor melting~
+These suits of armor are melting.  You don't see how they can still be on
+the hooks.  It is as if they were being heated, but you can feel no heat
+from them.~
+E
+shadows hiding hidden something~
+These things, whatever they are, are hidden so well in the shadows that
+you cannot tell what they might be.  You don't want to get to close, lest
+they actually be something, and that something is hungry.~
+S
+#13145
+The Room of Lorgeth~
+You stand in the personal chambers of the great Lorgeth.  This general
+of the Torin army is legendary even in your time.  He was a warrior
+poet, and even though the room is mostly rotten or destroyed you can
+still see this fact around here.  The bookcase in the far wall bears
+the rotten pieces of parchment that were once books, or what passed
+for them in that time.  The great desk in the center of the room, once
+quite impressive is now completely worm eaten and rotted out, so much
+so that you don't see how it even stands anymore.  The wooden floor
+also seems to bear the rotten feeling of the entire room as you can
+see the dirt floor beneath it, which once boards covered and great
+rugs covered the boards.  All that is left of this once great general
+is this rotted out office that you can bearly stand to be in due to
+the feeling of death that permeates everything in here.    
+~
+131 9 0 0 0 0
+D0
+The barracks continue.
+~
+~
+0 -1 13156 0
+S
+#13146
+The barracks~
+These appear to be ancient barracks of the army of Torin.  They have
+now been inhabited by the army of the shadows.  There are bunks, rusty
+weapons and rusty suits of armor lying around everywhere.  You cannot
+salvage any of them though.  The dusty floor belies that no solid
+inhabitants have come this way for a long time.  To the west lie more
+of the barracks, to the lies a better looking area of the barracks, to
+the east lies a strange hall devoid of shadows, and to the north is
+the plaza.  
+~
+131 73 0 0 0 0
+D0
+You see the plaza.~
+~
+0 -1 13116 0
+D1
+A strange hall that is polished to a shine, and is devoid of shadows,
+leads in that direction.~
+~
+0 -1 13151 0
+D2
+You see a better part of the barracks, maybe a commander's quarters.~
+~
+0 -1 13149 0
+D3
+There are more barracks.~
+~
+0 -1 13147 0
+S
+#13147
+The barracks~
+More bunks, empty footlockers and dusty floors greet you.  As you come
+in here you are overcome by revulsion.  On one of the bunks lie a less
+fortunate adventurer than yourself; he is torn in half and is
+apparently being eaten by the shadows.  They are definitely more
+substantial than you have previously thought, or maybe these are
+simply different ones.  The only way out is deeper into the barracks,
+west.  
+~
+131 9 0 0 0 0
+D1
+The barracks continue.~
+~
+0 -1 13146 0
+S
+#13148
+The lieutenant's quarters~
+You can tell someone of rank once lived here.  Instead of the standard
+drab green bunk there sits a bunk with a large grey matress filled
+with some strange whitish fur (You find out after you rip a large hole
+in it, because you thought you saw something move inside it.  ) The
+walls here are also much better quality than the rest of the barracks.
+This section of the wall even appears to have been insulated against
+the cold, which you can see could be a problem, considering this
+entire city is underground.  An ancient note grabs your attention from
+the small writing table on which it sits.  
+~
+131 9 0 0 0 0
+D1
+There lies the War Room.~
+~
+0 -1 13149 0
+E
+note~
+This ancient piece of paper nearly crumbles in your hand, but while it is
+still readable you can make out the following:
+
+Sarna,
+      I wish I could be writing you for a different purpose, but I need
+you to come back to the city.  The King has been dabbling in the mystical
+arts and has summoned things that we cannot easily fight.  They appear to
+get weaker the farther they get from his throne room, which now more
+resembles a lair that a court.  At the distance of the barracks the
+shadows are weak, and not too difficult, but when they are near him they
+get strong enough to take on many warriors at a time.  We need your
+battalions to return so that we can fight them.  I hope you get here in
+time, we will be leading an attack on his main lair in a weeks time, and
+we pray that you will be here also.
+                           Jarash, Leader of the City Guards.
+~
+S
+#13149
+The War Room~
+A huge, old, wooden table stands in the center of the room.  It still
+has many old, and rotting pieces of parchment that you suppose must
+have once been maps.  They still stay just as they were long ago, as
+if the previous owners did not have enough time before the end to pick
+up their things.  From what you have seen so far you would have to
+believe that what ever happened to the previous inhabitants of the
+city, must have happened very quickly.  You have not seen anyplace so
+far which looks like it was in any way evacuated before the end came.
+In some of the chairs, and on the floor lie many skeletons...  They
+appear to have been from some of the higher ranking officials of the
+city's guard.    
+~
+131 9 0 0 0 0
+D0
+The barracks continue.~
+~
+0 -1 13146 0
+D1
+The Commanders quarters lie in that direction.~
+~
+0 -1 13150 0
+D3
+One of the higher ranking lieutenants of the city lies in that direction.~
+~
+0 -1 13148 0
+E
+skeletons high ranking officials~
+These skeletons are the only reminders you may have of the folly of the
+ancients, in fighting the shadows.  Perhaps it would be better just to
+leave them alone.  Though that is what they would want, so you probably
+should not do it, just to annoy the shadows...~
+E
+maps old parchment~
+This ancient parchment is almost completely worn, and you can only make
+out the most distinguishable lines, which must once have represented the
+greatest of landmarks.~
+E
+table wooden~
+This ancient table stands here as a relic from the past, long having out
+lived it usefulness it now just stands as a monument to those who died.~
+S
+#13150
+The Commander's Quarters~
+The once impressive and comfortable quarters of the commander of the
+City Guard stand in ruins before you.  They are completely torn apart,
+and you now cannot see the incredible sight they once were.  His
+underlings may not have had the most comfortable quarters, or the
+nicest, but he certainly did.  You can see remnants of porcelain
+plates, real glass drinking mugs, steel armaments, and you can also
+tell that once, though now they have long since rotted, there were
+tapestries on the wall.  The possibility that he could have done this
+on the normal salary of a Commander would not stand up to much
+questioning.  Though even as corrupt and politically powerful as he
+was, evidently it did not protect him.  He sits in his small wooden
+chair at his writing table, or rather his bones do.  You can see where
+his immaculate, strong, steel sword still sticks out of his skeleton.
+The only way out of here is the way you came in, to the west.  
+~
+131 9 0 0 0 0
+D3
+The war room lies out there.~
+~
+0 -1 13149 0
+E
+skeleton sword table wooden immaculate steel~
+The commander's remains sit in the chair that seems to be molded so well
+to him that he must have spent alot of time here.  He died where he spent
+most of the time in his life, kinda ironic.  Evidently he did not even
+see the end coming.  In his skeletal hand is still clenched a small pen.
+The only things on the page, written were:
+       And so I am betrayed by the very person that I betrayed....
+There appears to be more, but it is not legible.  The sword must not have
+helped his writing.~
+S
+#13151
+The Hallway~
+This small hallway looks like it was once a barracks, but the bunks
+were torn out, probably to make room for troop gatherings.  This
+resembles nothing more, in your mind, than the hide-out of rebels.  
+You believe you may have heard something earlier about the soldiers of
+the city trying to overthrow the king, but here you can see that they
+really must have started a rebellion.  You can still see the skeletons
+of some of the less fortunate soldiers, which evidently were caught in
+here when they were attacked.  You believe that you can see something
+ahead to the east, though you can go back towards the main city to the
+west.    
+~
+131 9 0 0 0 0
+D1
+You see more of the city guards' barracks.
+~
+~
+0 -1 13152 0
+D3
+You see more of the city guards' barracks.
+~
+~
+0 -1 13146 0
+S
+#13152
+A Turn in the Hall~
+The hallowed out barracks have now come to a turn towards the north.
+From what you can tell the people digging out the barracks came to a
+grouping of rocks, and decided rather than go through them that they
+would rather dig around them.  The most decidedly odd thing that you
+have found here is that the Torinese people seem to have had enough
+technology and magic to dig out this entire underground city with
+ease, but it is places like here that make you question that.  From
+the marks on the wall and the fact that the bunks appear to have been
+torn out of the wall you do not imagine that these people were much
+better than any group of barbarians from their time.    
+~
+131 9 0 0 0 0
+D0
+The hallway continues, and continues to look like barracks.
+~
+~
+0 -1 13153 0
+D3
+The guards' barracks continue in that direction.
+~
+~
+0 -1 13151 0
+S
+#13153
+The Barracks~
+Here the barracks branch to the north and to the east.  They also
+continue back to the south.  Here the empty area, that once contained
+many bunks of the army of Torin, has been stripped of the bunks that
+you know were here.  Everything has been cleared out of here, and
+despite the age of the place you think that you can spot signs of
+recent use.  Could anyone really be here?    
+~
+131 9 0 0 0 0
+D0
+A dead end of the barracks.
+~
+~
+0 -1 13155 0
+D1
+The barracks continue, but look to be coming to an end.
+~
+~
+0 -1 13154 0
+D2
+The barracks continue, but are looking more like a hallway.
+~
+~
+0 -1 13152 0
+S
+#13154
+The Hallway~
+The barracks, or hallway, whichever they maybe, though by the look of
+them, either description would do just as well, continue here, leading
+to the east or west.  The bunks appear to have been stipped of their
+stuffing, at least mostly, but still appear to be useable, but you
+would not want to be the one who had to sleep on the stiff, unyielding
+things.    
+~
+131 9 0 0 0 0
+D1
+The barracks continue, but come to a fork up ahead.
+~
+~
+0 -1 13156 0
+D3
+The barracks continue, but appear to turn to the south ahead.
+~
+~
+0 -1 13153 0
+S
+#13155
+A Dead End in the Barracks~
+This dead end seems to have been partially dug out, but never finished
+perhaps this is just something that was started when the city fell,
+but the inhabitants never had a chance to dig to safety.  You can even
+see where they just simply left their shovels as they were no doubt
+called to fight for the city.  Some bunks lie here, barely stable
+enough to support a large enough man to even dig the tunnels, strange.
+You may only leave the same way you came from, to the south.    
+~
+131 9 0 0 0 0
+D2
+The barracks continue, but apparently branch out.
+~
+~
+0 -1 13153 0
+S
+#13156
+A Bend in the Hallway~
+Here you can actually see footprints in the thick dust that covers the
+floor.  You wonder who could be here though.  The devastated city, and
+barracks that you have passed through show no signs that there ever
+could be anyone left here to inhabit this area, unless they were in
+league with whatever force took the city.  The stark walls show no
+further signs of passage than the floors though.  It appears that this
+area has always been clear of bunks, unlike the other areas in this
+section of the city.  You imagine that this once was and possibly
+still is a sort of headquarters, or at least the ranking officer's
+quarters.  To the south the hallway continues into a large room, and
+to the east the hallway heads back towards the main part of the city.
+~
+131 9 0 0 0 0
+D2
+A large room opens before you.
+~
+~
+0 -1 13145 0
+D3
+The hallway continues towards the main part of the city.
+~
+~
+0 0 13154 0
+S
+#13157
+The Beginning of the Sacred Place~
+This boulevard seems strangely quite compared to the rest of Torin.  
+Instinctively you realize that this place is sacred to at least some
+of the people of Torin, and possibly a religious place for them.  The
+streets, unlike the streets in other parts of the city, are kept
+immaculate here.  Every once in a while you believe that you can see
+one of the keepers of the streets, but you blink and they are once
+again gone into the dust from which they appeared to arise from.  
+Strange, bright, glowing globes light the street, though you have
+never seen anything like them.  You can see no place where they could
+be lighted, but they light the way regardless.  To the east the
+boulevard continues, but passes in front of a massive structure that
+is faintly reminiscent of a temple and to the south you can see the
+Gatekeepers' Chamber.    
+~
+131 8 0 0 0 0
+D1
+The boulevard passes in front of a structure that, now that you look more
+intently at it, definitely reminds you of a temple, but it has a different
+feel about it, like nothing you have ever felt before.
+~
+~
+0 0 13158 0
+D2
+The Gatekeeper's Chamber lies in that direction, even from here you can
+see the massive glowing gates.
+~
+~
+0 -1 13123 0
+S
+#13158
+On the Street Before the Cathedral~
+Here the street is well cleaned, and passes before a monsterous clean,
+well kept structure to the north.  The strange, brightly glowing
+globes on the sides of the street light up the face of the structure
+and more than anything else you notice that a small golden door stands
+wide open to the public.  The rest of the structure is impressive and
+makes the well paved streets look much less pretty than they did just
+a second ago.  The road continues to the east and west though.    
+~
+131 8 0 0 0 0
+D0
+A very large and impressive cathedral lies ahead.
+~
+doors~
+1 -1 13165 1
+D1
+The street continues in that direction.
+~
+~
+0 -1 13159 0
+D3
+The street continues in that direction.
+~
+~
+0 -1 13157 0
+S
+#13159
+A Dead End in the Street~
+Here the clean street ends.  A large wall of the underground structure
+lies to the west, and blocks further progress.  To the north lie two
+very large golden doors, which lie open to the public, as if inviting
+everyone and anyone in.  The street, even though here is a dead end,
+remains extrememly clean, and the glowing balls light up the area
+regardless of the traffic.    
+~
+131 72 0 0 0 0
+D0
+Two large golden doors lie open to the public, belying wealth and power.
+~
+~
+0 -1 13160 0
+D3
+The road continues.
+~
+~
+0 -1 13158 0
+S
+#13160
+The Great Cathedral~
+You enter the great cathedral of Torin and are immediately awed by the
+presence you feel upon entering.  The floor here is made of a type of
+marble which is white, with gold veins running through it.  You notice
+that this marble actually extends and lines the walls to the east and
+west, moving under the velvet lined pews, which lie on both sides of
+you.  Strangely the pews at the front appear to be in much better
+condition than those at the back, as though those pews were special,
+but unfortunately there is no one around that looks like they might be
+willing to help you.  The marble stops at the front of the front pew,
+as if giving room to the golden tiles which lie under the altar.  The
+altar lies to the north and to the south lies the golden doors, which
+are always supposed to remain open by order of the Master Templar
+Mendo, says a sign written in large letters above the doors.    
+~
+131 72 0 0 0 0
+D0
+The altar and a raised area lie ahead.
+~
+~
+0 -1 13161 0
+D2
+Two large doors lie open and lead to the outside street.
+~
+~
+0 -1 13159 0
+E
+pews~
+The velvet lined pews appear to be arranged so that the newest and best
+upholstered pews lie to the north, closer to the altar, while those to
+the south appear to be in worse condition.
+~
+E
+sign above doors~
+A large golden sign, written in large letters so that you can see it
+from the ground states in a language that you can seem to understand,
+even though you have never seen that language before,
+  "These doors shall remain open to everyone that has reason to come
+  inside, be it for protection, care, or anything.  No one shall be
+  refused, but none shall leave that do not wish to.
+                    -- By Order of Master Templar Mendo"
+~
+S
+#13161
+The Raised Dias~
+A large altar dominates this raised area of the temple.  You cannot
+recognize to which god the altar was dedicted to, though from the
+appearance of the altar it is most probably a very important one.  
+The rest of the raised dias is fairly unimpressive, except for the
+gold tiling that extends to here from about the third pew back.  To
+the east you notice a small doorway that leads further into the
+temple, perhaps to the private chambers of the temple's staff.    
+~
+131 40 0 0 0 0
+D1
+A small chamber lies to the east.
+~
+~
+0 -1 13162 0
+D2
+The main part of the temple lies in that direction.
+~
+~
+0 -1 13160 0
+S
+#13162
+The Chamber of Mendo~
+You have entered a small, sparse, but suprisingly awesome for such a
+stark place.  The place itself is very minimally decorated, an
+intricately decorated rug on the floor, a small desk on one of the
+walls, and that is just about it.  A table lies in the northern most
+part of the room, and on it lies the statue of one of the gods of this
+people.  The Templar, Mendo you have heard him called, you hear is a
+massive man.  It was said of him that he was a giant among men and yet
+still a gentle creature, when not defending his god.  You can see a
+tapestry at the back of the room that was no doubt done in his image.
+To the east lies another small room, and to the east lies the temple
+proper.  To the south lies a bedroom.    
+~
+131 40 0 0 0 0
+D1
+You see a small room, which just looking from here looks greatly similar
+to this room.
+~
+~
+0 -1 13164 0
+D2
+A rather unimpressive bedroom lies to the south.
+~
+~
+0 -1 13163 0
+D3
+There lies the altar of the main temple.
+~
+~
+0 -1 13161 0
+S
+#13163
+Medno's Bedroom~
+As you would expect to see from a holy man's bedroom it is very
+simple.  Brown stone walls greet you first upon entering, and the only
+thing to break the monotony is a small bed that hardly looks large
+enough for a grown man, though you would guess from knowing that this
+is a holy man's bed that it is just large enough for him.  The only
+exit to this rather plain room is to the north, which before you may
+have thought was plain, but now having seen this room you consider to
+be as opulant as a palace compared to this.    
+~
+131 40 0 0 0 0
+D0
+You can see a rather plain meditation room.
+~
+~
+0 -1 13162 0
+S
+#13164
+A Small Room~
+Where before you assumed that this was just another room you now
+notice that the only thing in it is a small jewelled cabinet.  
+Otherwise the plain room only has wooden walls and a small stone tiles
+on the floor.  The only exit is back to the west.    
+~
+131 33 0 0 0 0
+D3
+A small meditation room lies in that direction.
+~
+~
+0 -1 13162 0
+S
+#13165
+A Small Room~
+Here lies a small room.  It appears to be a meeting room, though you
+cannot know for what it was used.  There does not appear to be anyone
+here, but you can never be sure of anything here.  The dusty floor
+appears not to have been touched in a long time.  The only exit to
+this room is to the south.    
+~
+131 65637 0 0 0 0
+D2
+The main street lies out there.
+~
+~
+0 -1 13158 0
+S
+#13166
+The Tunnel~
+Crawling through this annoying little tunnel you realize that if
+someone actually dug this tunnel out then they did so only for a
+temporary path...  There is no way, at least that you could think of,
+that anyone would want a tunnel like this for more than the most
+temporary situations.  This small tunnel is barely large enough for
+you to crawl in, you could not see staying in here for very long at
+all, otherwise you are sure that clausrophobia would take over in not
+too long.  To the north you can see a large cavern, and to the south
+you can see another large cavern.    
+~
+131 269 0 0 0 0
+D0
+A large, dark cavern, which has a strange smell lies ahead.
+~
+~
+0 -1 13167 0
+D2
+A large, dark cavern lies in that direction.  You think that you can hear
+the dripping of water over there.
+~
+~
+0 -1 13129 0
+S
+#13167
+The Realm of Melki and Adorin~
+These caverns lie in such a terrible state you cannot imagine what
+type of creatures might use this as a place to live, though some
+evidently have.  Food scraps, torn clothing you can imagine that the
+creatures here might even have once walked on two legs..  Though from
+the scraping sounds you would have to think that they have long since
+stopped walking on two legs.  You can continue through the cavern to
+the east, west and through the tunnel to the south.    
+~
+131 9 0 0 0 0
+D1
+The cavern continues.
+~
+~
+0 -1 13169 0
+D2
+A small tunnel leads away into blackness.
+~
+~
+0 -1 13166 0
+D3
+The cavern continues.
+~
+~
+0 -1 13168 0
+S
+#13168
+A Dead End in the Cavern~
+Here the massive, dark cavern walls simply come together, ending your
+journey in this direction.  Scraps of clothing and other similar
+relics of a previous occupation of this area by some civilized
+creature lie all over.  The only creatures you have seen here seem to
+have been driven mad, you could not understand what could have reduced
+them from intelligent beings into such animals, but they certainly
+have degenerated.  To the east lies more of this small section of
+cavern, though in that section of the cavern there is a way out of
+here.    
+~
+131 9 0 0 0 0
+D1
+The rest of the cavern lies out there, as does the way out of this section.
+~
+~
+0 -1 13167 0
+S
+#13169
+The Cavern~
+Here you see more of the caverns that appear to have once housed
+normal beings, though they do no longer.  Now what lives here can
+barely be called intelligent.  The creatures which live here appear to
+have lost all traces of what made them intelligent beings.  They now
+appear to only rely on instinct.  They have shed what were once their
+clothes, which now lie all over the floor, along with what appear to
+have been thier dinner.  The cave walls also appear to have been
+gouged out by the current inhabitants in places.  Some of the wall
+pieces have probably been used as tools by these degenerated beings.
+A small niche lies to the east and a small cul de sac lies to the
+south.    
+~
+131 9 0 0 0 0
+D1
+You see a small niche that looks barely big enough to get into, though
+you see what may be a small room beyond it.
+~
+~
+0 -1 13170 0
+D2
+A small cul de sac lies in that direction.
+~
+~
+0 -1 13171 0
+D3
+The cave continues...
+~
+~
+0 0 13167 0
+S
+#13170
+A large room~
+A large room lies open here, you cannot imagine how it has lasted so
+long untouched though, or apparently untouched.  A large fountain lies
+in the center of the room and a large glowing globe hovers above it.
+You are not sure why but you have the feeling that you are quite safe
+in this place.  White tile lines the floor of this room and the marble
+walls set you completely at ease.  The gentle trickling of the water
+in the fountain almost lulls you to sleep.  You are so at ease that
+you almost forget about the western, and only way out of the room.  
+~
+131 124 0 0 0 0
+D3
+A large part of the cavern lies over there.
+~
+~
+0 -1 13169 0
+S
+#13171
+A Small Alcove~
+The filthy floor in this small alcove almost makes you choke.  You can
+only think that this must be what the creatures around here use as a
+bathroom type of area.  Through the tears that this filth brings to
+your eyes, you can barely see that you can still leave to the north.
+~
+131 9 0 0 0 0
+D0
+Out of the disgusting filth that covers this area you can barely see a
+larger area of the cavern which appears to be large enough that this
+smell might clear out in.
+~
+~
+0 -1 13169 0
+S
+#13172
+A Clearing in the Forest~
+You stand within a small clearing in the Darkwood.  Leaves are
+scattered about the ground, presumably having fallen from the trees
+which surround the clearing.  The age of the forest becomes so much
+more apparent when you realize that you stand very near to a hole in
+the ground.  This must be something of import, but of what caliber
+import?  Could it be an underground cavern?  An ancient buried city?
+The treasure hoard of a small dragon?  It is hard to contain the
+excitement which wells forth, standing above this mystery.  Enter, if
+you dare - if not, the way back through the Darkwood lies to the west
+and south.    
+~
+131 0 0 0 0 3
+D2
+~
+~
+0 0 13173 0
+D3
+~
+~
+0 0 4519 0
+D5
+~
+~
+0 0 13101 0
+S
+#13173
+The Darkwood~
+Wandering this ancient forest, you begin to recall all of the tales
+that were told to you as a child regarding this place.  This forest is
+considered one of the greatest mysteries in the known world, abounding
+with stories of ancient cities buried beneath the very forest, ancient
+creatures of mass destruction and vengeance roaming free throughout
+the trees.  The way through the forest lies west with a small clearing
+just north from here.    
+~
+131 1 0 0 0 3
+D0
+~
+~
+0 0 13172 0
+D3
+~
+~
+0 0 4516 0
+S
+#13187
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13188
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13189
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13190
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13191
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13192
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13193
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13194
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13195
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13196
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13197
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13198
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+#13199
+A Statues Room~
+You have been teleported to a diminutive hexagonal area, soaring walls
+on every side thwart every escape, although no lights are provided,
+the space is surprisingly bright enough to see clearly, situated at the
+midpoint, a large figurine looms, magical and mysteriously, It waits,
+the next move, belonging to you.    
+~
+131 66812 0 0 0 0
+S
+T 13199
+T 13172
+$~

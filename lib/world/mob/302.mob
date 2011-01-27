@@ -1,0 +1,159 @@
+#30200
+receptionist Ariag~
+Ariag~
+Ariag, the Innkeeper, stands here waiting to show you to your quarters.
+~
+Rewrite this Desc Nyara or Xastar.
+~
+16394 0 0 0 65536 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+0 100714
+8 8 1
+Str: 23
+Dex: 12
+Int: 7
+Wis: 14
+Con: 13
+Cha: 23
+Luck: 23
+Class: 11
+E
+#30201
+sekhmet~
+/cw/crSekhmet/c0~
+/cw/crSekhmet, the vampyre goddess, stands here protecting the forest./c0
+~
+She is known to mortals by many names: Lady of Transformations,
+Enrapturing One, Lady of the Bloodbath, Devouring One, Terrible One.
+She stands before you now in the flesh, her skin the absolute black of
+night, her eyes a clear and startling shade of green, filled with the
+wisdom and indifference of one who has existed since the beginning of
+time itself.
+~
+260122 0 0 0 336 131074 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+8 8 2
+Str: 24
+Dex: 23
+Int: 24
+Wis: 16
+Con: 8
+Cha: 5
+Luck: 6
+Class: 13
+Race: 11
+E
+#30202
+elf, shopkeeper, female, angelica~
+Angelica the elf~
+Angelice watches you expectantly from behind the counter.
+~
+She is the most beautiful creature you have ever seen!  Delicate
+pointy ears are barely visible from under a mass of blazing copper
+hair.  Her almond colored skin is the perfect backdrop to enormous
+brown eyes that seem able to gaze right into your soul.  However, her
+slender frame belies her true strength and she could easily snap your
+neck if she wished.    
+~
+10 0 0 0 0 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 15
+Dex: 9
+Int: 24
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 9
+E
+#30203
+Esbelzar, elf, thin, wizard~
+Esbelzar~
+Esbelzar is standing here selling wares for Eternals.
+~
+The elf before you has long black hair with a scare on his left hand
+side of his face.  He has broad shoulders and walks with a cane.  His
+eyes are deep blue and you can see pointed ears sticking out from
+under his hair.    
+~
+11 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+0 3454164
+8 8 1
+Str: 20
+Dex: 10
+Int: 18
+Wis: 20
+Con: 16
+Cha: 9
+Luck: 9
+Class: 4
+Race: 15
+E
+#30204
+Elsirianna, the healer of Eternals stands here.~
+Elsirianna~
+Elsirianna stands here calmly, looking at everyone her white eyes.
+~
+The Healer of Eternity stands here calmly, concentrating on
+maintaining the plane of healing around her.  As you look at her, her
+eyes warmly welcome you, but yet seems distant at the same,
+contemplating higher matters with cosmic implications.    
+~
+16395 0 0 0 0 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 2
+Str: 9
+Dex: 23
+Int: 6
+Wis: 13
+Con: 21
+Cha: 15
+Luck: 25
+Class: 2
+Race: 20
+E
+#30205
+doppelsauger~
+/cw/crDoppelsauger/c0~
+/cw/crDoppelsauger, the german vampyre, stands here on his guard./c0
+~
+Tall, and remarkably slender, the figure standing before you moves
+with a fluid feline grace that is almost.....  Predatory in nature.
+A strange blood-red mist swirls seductively around him, obscuring much
+except for his face which is paler than alabaster.  His dark, soulless
+eyes focus upon you, staring unblinking as his lips curve into a
+wicked smile, exposing a pair of pointy fangs.
+~
+260122 0 0 0 336 131074 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+3500 4950000
+8 8 1
+BareHandAttack: 8
+Str: 21
+Dex: 23
+Int: 20
+Wis: 5
+Con: 9
+Cha: 19
+Luck: 24
+Class: 13
+Race: 11
+E
+#30206
+Civatateo~
+/cw/crCivatateo/c0~
+/cw/crCivatateo, the Witch-Vampyre, is standing here./c0
+~
+/cgWith /cwwhite/cg face, hands covered in /cwwhite/cg chalk, and with /cwcrossbones/cg
+/cgdrawn on her clothes, /cRC/crivatateo/cg makes a impressing /crvampyre/cg./c0
+~
+10 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 2
+E
+$

@@ -1,0 +1,823 @@
+#32301
+lunatic raving man~
+a raving Lunatic~
+A raving lunatic is here spouting his madness.
+~
+The man tells you 'Don't go in there, my friend'.
+
+You notice spittle dripping from his chin as he grins wide to display a mouth 
+totally devoid of teeth, less one green rotting canine.
+
+The man throws back his head and cackles insanely.
+
+'You'll die in there', he says to you.
+~
+202 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32302
+graveyard guardian~
+a Graveyard Guardian~
+A graveyard guardian keeps a watchful eye for intruders.
+~
+A graveyard guardian stands nearly as tall as you.  His militant
+stance is indicative of his well formed discipline.  He traverses the
+area in search of would-be evil doers and thieves.    
+~
+2122 0 0 0 65552 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 14
+E
+#32303
+graveyard guardian~
+a Graveyard Guardian~
+A graveyard guardian keeps a watchful eye for intruders.
+~
+A graveyard guardian stands nearly as tall as you.  His militant
+stance is indicative of his well formed discipline.  He traverses the
+area in search of would-be evil doers and thieves.    
+~
+4170 0 0 0 65552 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 14
+E
+#32304
+sentry graveyard~
+a Graveyard Sentry~
+A graveyard sentry stands here waitng for somehing to happen.
+~
+A graveyard sentry stands nearly as tall as you.  His militant stance
+is indicative of his well formed discipline.  He is posted here to
+keep an eye out for trouble.    
+~
+6154 0 0 0 16 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 14
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 10
+Race: 14
+E
+#32305
+sentry graveyard~
+a Graveyard Sentry~
+A graveyard sentry stands here waiting for something to happen.
+~
+A graveyard sentry stands nearly as tall as you.  His militant stance
+is indicative of his well formed discipline.  He is posted here to
+keep an eye out for trouble.    
+~
+10 0 0 0 80 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 10
+Race: 14
+E
+#32306
+digger grave~
+a Gravedigger~
+A graveyard digger is returning from a long nights' work.
+~
+This man looks extremely tired from a long evening of digging new
+gravesites by hand.  He is covered by dirt from head to toe, and looks
+though he could really use a long, hot bath.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32307
+grave digger~
+a puzzled Gravedigger~
+A grave digger wonders what you're doing here.
+~
+This man looks extremely tired from a long evening of digging new
+gravesites by hand.  He is covered by dirt from head to toe, and looks
+though he could really use a long, hot bath.    
+~
+204 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32308
+grave robber~
+a Grave Robber~
+A grave robber is here looting corpses.
+~
+The grave robber shows no sign of embarrassment at being caught.
+~
+108 0 0 0 589824 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 3
+Race: 14
+E
+#32309
+keeper~
+the Keeper~
+The keeper stands here.
+~
+The keeper of the graveyard looks old and a little tired.
+~
+12 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+1050 27376
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32310
+lady old~
+an Old Lady~
+An old lady is here.
+~
+The old lady is here sobbing.  She mutters something about 'joining
+that stupid club' and turns away from you.    
+~
+2248 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+800 17197
+8 8 2
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32311
+man old~
+an Old Man~
+An old man stands here, talking to himself.
+~
+The man is trembling and reciting a prayer.
+~
+6344 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+800 17197
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32312
+demon~
+a Demon~
+A graveyard demon beckons you to leave this place.
+~
+The demon hovers over you, and appears to be aflame.
+~
+2090 0 0 0 9437264 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#32313
+demon~
+a Demon~
+A graveyard demon hovers about.
+~
+The demon hovers over you, and appears to be aflame.
+~
+42 0 0 0 9437264 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d5+23
+1200 40559
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#32314
+bat~
+a Bat~
+A black bat is here.
+~
+The bat dives at you!
+~
+65640 0 0 0 8388624 131072 0 0 0 E
+10 3 60 1d25+2000 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#32315
+gargoyle stone~
+a Stone Gargoyle~
+A stone gargoyle is here, mounted on a pedestal.
+~
+The gargoyle seems to be here to instill some fear in your bones.
+~
+38922 0 0 0 16464 0 0 0 -300 E
+25 11 0 1d25+2000 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 33
+E
+#32316
+Preskille~
+the Ghost of Acconda Preskille~
+The ghost of Acconda Preskille.
+~
+Acconda was one of the most feared criminals of all time.  His
+specialty was that of sexual exploitation before the kill.  When
+finally caught and sentenced to death for his crimes, he vowed to
+never leave his place of burial, forever violating those who trespass
+near his grave.    
+~
+67207240 0 0 0 16 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32317
+Jopli~
+the Ghost of Jopli the Atheist~
+Jopli the Aetheist screams her hatred at you.
+~
+Jopli was sentenced to death by the ArchBishop of Jareth for her
+extreme outspokeness in relation to her lack of belief in a God of any
+kind.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 2
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32318
+Hendrolien~
+the Ghost of Hendrolien~
+The ghost of Hendrolien seems to take no notice of you.
+~
+Hendrolien took his own life after hearing that his fiance had been
+killed in a horse riding accident, only to find out in his last
+moments that the story was a cruel hoax.  He now roams forever in
+search of his lost love.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32319
+Moon~
+the Ghost of Moon~
+A pale looking apparition glides past you.
+~
+So named for his pale complexion and his forays into the night when he
+was among the land of the living, Moon was hung for peeping in the
+windows of the Lord's daughter, Penelope.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32320
+kobain man~
+the Ghost of Kobain~
+A shimmering shape of a man with a knife through his throat is barely visible.
+~
+He turns to you, grinning wickedly around his knife.  This man was and
+is obviously a complete lunatic.    
+~
+2152 0 0 0 0 0 0 0 1000 E
+36 18 -20 1d36+2425 3d5+24
+0 43580
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32321
+Lennox~
+the Ghost of Lennox~
+The ghost of a man dressed in simple clothes walks past with a smile and wave.
+~
+Lennox was taken from the world before his time, yet bears no ill will.
+~
+8388680 0 0 0 16 0 0 0 1000 E
+34 17 -20 1d34+2375 3d4+22
+1200 37669
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32322
+Hollistor~
+the Ghost of Hollistor~
+Hollister floats purposefully past, toward another spirit in distress.
+~
+Hollistor lost his life in a carriage crash at a tender age.  He now
+wanders this place in hopes of placating as many of his neighbors as
+possible.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32323
+Valenxa~
+the Ghost of Valanxa~
+A pale shade of a strikingly attractive woman grins menacingly at you.
+~
+Valanxa was the worst sort of whore.  Not only would she steal her
+customer's money after service, but also their lives.  She was caught
+and burned as a witch over fifty years ago yet she continues on in her
+wickedness as often as possible.    
+~
+67110984 0 0 0 0 0 0 0 1000 E
+37 19 -20 1d37+2450 3d6+24
+0 46733
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32324
+Zaplaa~
+the Ghost of Zaplaa~
+The ghost of a man in mage's robes floats past.
+~
+Zaplaa was a master mage at the Lord's Court until he turned to the
+darker arts and was caught and burned for his transgressions.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32325
+morgane ghost~
+the Ghost of Morgane~
+A shimmering spectre, eternally ablaze, comes flying at you.
+~
+Morgane closes his eyes, grins, and reaches out for you.
+~
+524392 0 0 0 0 0 0 0 1000 E
+34 17 -20 1d34+2375 3d4+22
+0 37669
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32326
+lycanthrope~
+the Lycanthrope~
+A lycanthrope lunges at you and goes for the jugular.
+~
+OUCH!
+~
+106 0 0 0 65616 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 39
+E
+#32327
+lucifer~
+Lucifer~
+Lucifer is here to give you directions.
+~
+Or maybe this is Lucifer's friend. In any event, he is not of this world.
+~
+106 0 0 0 65616 0 0 0 -1000 E
+40 21 -20 1d37+2450 4d5+26
+1300 57012
+8 8 1
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 9
+Race: 41
+E
+#32328
+reaper grime~
+the Reaper~
+The Grime Reaper is ready for your soul. Do not be afraid.
+~
+The GRIME Reaper? Hrm...
+~
+618 0 0 0 65616 0 0 0 -1000 E
+39 20 -20 1d35+2400 4d5+26
+1275 53447
+8 8 1
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 35
+E
+#32329
+angel~
+the Angel of Hope~
+A nice angel floats above you.
+~
+The angel is immersed in white and glowing.
+~
+2120 0 0 0 537919760 0 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+0 110785
+8 8 1
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 45
+E
+#32330
+manic deprssion lunatic~
+the Manic Depression~
+An escaped lunatic comes flying at you from out nowhere!
+~
+This man has been depressed for so long that he has gone crazy.  Best
+to stay out of his path until he becomes more sane.    
+~
+67127370 0 0 0 82004 4194304 0 0 0 E
+40 21 -20 1d40+2525 4d5+26
+0 57012
+8 8 1
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32331
+suicidal tendencies~
+the Suicidal Tendencies~
+An escaped lunatic comes flying at you from out nowhere!
+~
+Unfortunately this man has seen many bad things happen in his life.  
+He has now become so depressed, he thinks of nothing but suicide.  He
+wouldn't mind taking you with him in death.    
+~
+106 0 0 0 65620 0 0 0 0 E
+41 22 -24 1d41+2600 4d5+27
+0 60717
+8 8 1
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32332
+reckless lifestyle~
+the Reckless Lifestyle~
+An escaped lunatic comes flying at you from out nowhere!
+~
+Without a care in the world, this being represents living on the edge
+in a way that is dangerous.  Being in its presence, one feels reckless
+and careless of the consequences of any actions.    
+~
+106 0 0 0 65620 0 0 0 0 E
+39 20 -20 1d39+2500 4d5+26
+0 53447
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32333
+stress~
+the Stress~
+An escaped lunatic comes flying at you from out nowhere!
+~
+Feeling pressure from all aspects of life, this being embodies the
+concept of "stress".    
+~
+98410 0 0 0 65620 0 0 0 0 E
+42 22 -24 1d42+2700 4d5+28
+0 64565
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32334
+apathy~
+the Apathy~
+An escaped lunatic comes flying at you from out nowhere!
+~
+No matter what happens, this being does not care.  Should one look up
+the word apathy, this being would be pictured.    
+~
+106 0 0 0 65620 0 0 0 0 E
+41 22 -24 1d41+2600 4d5+27
+0 60717
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32335
+hopelessness feeling ~
+an overwhelming Feeling of Hopelessness~
+An escaped lunatic comes flying at you from out nowhere!
+~
+It seems as though no matter what is done, nothing can be
+accomplished.  This being embodies the feeling of utter hopelessness.
+~
+526410 0 0 0 65620 0 0 0 0 E
+40 21 -20 1d40+2525 4d5+26
+1300 57012
+8 8 1
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32336
+insecurity feelings~
+the Feelings of Insecurity~
+An escaped lunatic comes flying at you from out nowhere!
+~
+Embodying the feeling of insecurity, this being is not sure what is
+going on, nor if something is right or wrong.    
+~
+524394 0 0 0 65620 0 0 0 0 E
+38 19 -20 1d38+2475 3d6+25
+0 50022
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32337
+not enough love from Mom~
+the Not enough love from Mom~
+An escaped lunatic comes flying at you from out nowhere!
+~
+This poor guy looks dejected and sad, feeling as though he never got
+enough love from his mother.    
+~
+106 0 0 0 65620 0 0 0 0 E
+39 20 -20 1d39+2500 4d5+26
+0 53447
+8 8 1
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#32338
+Garcian~
+the Ghost of Garcian~
+The spectre of Garcian comes flying at you.
+~
+Garcian was never quite right in the head, and when he finally lit his
+hair on fire in the Town Proper of Jareth, people figured it would be
+a mercy to let him go out swimming deep in the lake.  He never made it
+back from that trip to the beach.    
+~
+72 0 0 0 0 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32339
+ghost vicint~
+the Ghost of Vicint~
+A man dressed all in finery floats past, taking no notice of you at all.
+~
+This man, Vicint, made his fortune in obsidian mining near the Swamps
+of Desolation, but when asked to pay his taxes, he refused.  He paid,
+but with his life, not money.    
+~
+72 0 0 0 0 0 0 0 -1000 E
+36 18 -20 1d36+2425 3d5+24
+0 43580
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32340
+Rodatiil~
+the Ghost of Rodatiil~
+The ghost of Rodatiil mourns his own death.
+~
+Rodatiil mutters something about a woman and looks away.
+~
+72 0 0 0 0 0 0 0 1000 E
+36 18 -20 1d36+2425 3d5+24
+0 43580
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32341
+Marlin~
+the Ghost of Marlin~
+Marlin, even for a ghost, seems a bit high.
+~
+Marlin partook a bit too much of the finer herbs which are rumored to
+grow in the western swamp in abundance.  They found Marlin sprawled
+atop a swamp log more than a month after his death, a smile still on
+his face.    
+~
+72 0 0 0 0 0 0 0 1000 E
+34 17 -20 1d34+2375 3d4+22
+0 37669
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+#32342
+Bonhagh~
+the Ghost of Bonhagh~
+The ghost of Bonhagh floats past.
+~
+Bonhagh was a socialite with a taste for strong drink.  He was coming
+home one night from a party and fell into the fountain in the Town
+Proper of Jareth.  He never got back out.    
+~
+72 0 0 0 0 0 0 0 0 E
+37 19 -20 1d37+2450 3d6+24
+0 46733
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 34
+E
+$

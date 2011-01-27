@@ -1,0 +1,1723 @@
+#32301
+A Path Through the Woods~
+You notice a dusty path that leads north through the trees to a small
+hill.  An unseasonably cold gust of wind causes a chill to run down
+your spine.  Or was it the sound of wolves howling in the distance
+that caused it?    
+~
+323 0 0 0 0 3
+D0
+The path continues north.
+~
+~
+0 -1 32302 0
+D2
+~
+~
+0 0 9506 0
+S
+#32302
+On a Dark Path~
+You stand where a path through the woods intersects with a smaller
+path that runs east and west.  To the north you see a small hill.    
+~
+323 0 0 0 0 3
+D0
+You see the overlook.
+~
+~
+0 -1 32305 0
+D1
+You see a smaller path.
+~
+~
+0 -1 32304 0
+D2
+You see the path back toward Ofcol.
+~
+~
+0 -1 32301 0
+D3
+You see a smaller path.
+~
+~
+0 -1 32303 0
+S
+#32303
+A Smaller Path~
+This smaller path leads north and east.
+~
+323 0 0 0 0 3
+D0
+The path continues north.
+~
+~
+0 -1 32368 0
+D1
+The dark path is to the east.
+~
+~
+0 -1 32302 0
+S
+#32304
+A Smaller Path~
+This smaller path leads north and west through the woods.
+~
+323 0 0 0 0 3
+D0
+The path continues north.
+~
+~
+0 -1 32350 0
+D3
+The dark path is to the west.
+~
+~
+0 -1 32302 0
+S
+#32305
+A Grassy Knoll~
+You stand atop a grassy knoll which overlooks a cemetary.  You see
+hoofprints in the dirt.  The path leads down to the entrance.    
+~
+323 0 0 0 0 4
+D2
+You see the path back which leads back the way you came.
+~
+~
+0 -1 32302 0
+D5
+You see the entrance to the graveyard.
+~
+~
+0 -1 32306 0
+E
+hoofprints dirt~
+These tracks were made by a large animal.~
+S
+#32306
+The Entrance to the Graveyard~
+You are at the entrance to the Graveyard of the Setting Sun.    
+~
+323 0 0 0 0 2
+D0
+The graveyard is to the north, beyond the gate.
+~
+gate~
+1 -1 32311 3
+D1
+The graveyard continues east.
+~
+~
+0 -1 32308 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32307 0
+D4
+The overlook is above you.
+~
+~
+0 0 32305 0
+E
+note~
+The note reads:
+
+     *************************
+     *   PLEASE DON'T JOIN   *
+     *   THAT STUPID CLUB!   *
+     *                       *
+     *       - MOM -         *
+     *************************
+~
+E
+plaque~
+The plaque reads:
+
+     ---------------------
+     |                   |
+     |   Setting Sun    |
+     |     MEMORIAL      |
+     |                   |
+     ---------------------~
+S
+#32307
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues north and east.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32310 0
+D1
+The entrance to the graveyard is to the east.
+~
+~
+0 0 32306 0
+S
+#32308
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues north and west.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32312 0
+D3
+The entrance to the graveyard is to the west.
+~
+~
+0 0 32306 0
+S
+#32309
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues north and east.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32314 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32310 0
+S
+#32310
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32315 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32311 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32307 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32309 0
+S
+#32311
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.  The entrance to the graveyard is towards the
+south.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32316 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32312 0
+D2
+You see the entrance to the graveyard.
+~
+gate~
+1 0 32306 3
+D3
+The graveyard continues west.
+~
+~
+0 0 32310 0
+S
+#32312
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32317 0
+D1
+The graveyard continues east.
+~
+~
+0 -1 32313 0
+D2
+The graveyard continues south.
+~
+~
+0 -1 32308 0
+D3
+The graveyard continues west.
+~
+~
+0 -1 32311 0
+S
+#32313
+The Edge of the Graveyard~
+You are at the edge of the graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues north and west.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32318 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32312 0
+S
+#32314
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  A steep path
+leads up toward the deer path circling the graveyard.  The graveyard
+continues north, south, and east.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32319 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32315 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32309 0
+D4
+The steep path leads up.
+~
+~
+0 0 32364 0
+S
+#32315
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32320 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32316 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32310 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32314 0
+S
+#32316
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32321 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32317 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32311 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32315 0
+S
+#32317
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32322 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32318 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32312 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32316 0
+S
+#32318
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  A steep path
+leads up toward the deer path circling the graveyard.  The graveyard
+continues north, south, and west.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 -1 32323 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32313 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32317 0
+D4
+The steep path leads up.
+~
+~
+0 0 32354 0
+S
+#32319
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues south and east.    
+~
+323 0 0 0 0 2
+D1
+The graveyard continues east.
+~
+~
+0 -1 32320 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32314 0
+S
+#32320
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 0 32324 0
+D1
+The graveyard continues east.
+~
+~
+0 -1 32321 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32315 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32319 0
+S
+#32321
+The Graveyard of the Setting Sun~
+You are in the graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 0 32325 0
+D1
+The graveyard continues east.
+~
+~
+0 -1 32322 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32316 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32320 0
+S
+#32322
+The Graveyard of the Setting Sun~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues north.
+~
+~
+0 0 32326 0
+D1
+The graveyard continues east.
+~
+~
+0 -1 32323 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32317 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32321 0
+S
+#32323
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues south and west.    
+~
+323 0 0 0 0 2
+D2
+The graveyard continues south.
+~
+~
+0 -1 32318 0
+D3
+The graveyard continues west.
+~
+~
+0 -1 32322 0
+S
+#32324
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues south and east.    
+~
+323 0 0 0 0 2
+D1
+The graveyard continues east.
+~
+~
+0 0 32325 0
+D2
+The graveyard continues south
+~
+~
+0 0 32320 0
+S
+#32325
+The Edge of the Graveyard~
+You are in the Graveyard of the Setting Sun.  The graveyard continues
+in all directions.  To the north, a small, narrow path leads away from
+the graveyard.    
+~
+323 0 0 0 0 2
+D0
+A small path leads away from the graveyard.
+~
+~
+0 0 32327 0
+D1
+The graveyard continues east.
+~
+~
+0 0 32326 0
+D2
+The graveyard continues south.
+~
+~
+0 0 32321 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32324 0
+S
+#32326
+The Edge of the Graveyard~
+You are at the edge of the Graveyard of the Setting Sun.  High above
+you, you see a small path circling the entire graveyard.  The
+graveyard continues south and west.    
+~
+323 0 0 0 0 2
+D2
+The graveyard continues south.
+~
+~
+0 0 32322 0
+D3
+The graveyard continues west.
+~
+~
+0 0 32325 0
+S
+#32327
+A Path Leading Away From the Graveyard~
+You are on a narrow path leading away from the Graveyard of the
+Setting Sun.  This path leads north and south.  A rope ladder leads up
+to a bridge.    
+~
+323 0 0 0 0 2
+D0
+The path continues north.
+~
+~
+0 0 32328 0
+D2
+The path leads back to the graveyard.
+~
+~
+0 0 32325 0
+D4
+You see the rope bridge above you.
+~
+~
+0 0 32359 0
+S
+#32328
+Along the Path~
+You are on the path away from the graveyard of the Setting Sun.  The
+hills around you keep this path narrow.  The path continues east,
+south, and west.    
+~
+323 0 0 0 0 2
+D1
+The path continues east.
+~
+~
+0 0 32329 0
+D2
+The path continues south back toward the graveyard.
+~
+~
+0 0 32327 0
+D3
+The path continues west.
+~
+~
+0 0 32369 0
+S
+#32329
+A Bend in the Path~
+You are on the path away from the graveyard of the Setting Sun.  The
+hills around you keep this path narrow.  The path continues north and
+back west.    
+~
+323 0 0 0 0 2
+D0
+You see a small graveyard north.
+~
+~
+0 0 32330 0
+D3
+The path goes back to the west.
+~
+~
+0 0 32328 0
+S
+#32330
+A Smaller Graveyard~
+You are in another graveyard within these hills.  To the north, you
+can see a building, and to the south you see the path away from this
+graveyard.  The west and east paths surround this building.    
+~
+323 0 0 0 0 2
+D0
+You see the building.
+~
+door~
+1 -1 32335 3
+D1
+You see the path around the building.
+~
+~
+0 0 32332 0
+D2
+You see the path leading away from this graveyard.
+~
+~
+0 0 32329 0
+D3
+You see the path around the building.
+~
+~
+0 0 32331 0
+S
+#32331
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and east.  To the north-east is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32333 0
+D1
+You see the path.
+~
+~
+0 0 32330 0
+S
+#32332
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads west and east.  To the north is a building.    
+~
+323 0 0 0 0 2
+D1
+You see the path.
+~
+~
+0 0 32334 0
+D3
+You see the path.
+~
+~
+0 0 32330 0
+S
+#32333
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and south.  To the east is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32338 0
+D2
+You see the path.
+~
+~
+0 0 32331 0
+S
+#32334
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and west.  To the north-west is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32337 0
+D3
+You see the path.
+~
+~
+0 0 32332 0
+S
+#32335
+A Crypt~
+You are in the home of the Graveyard Setting Sun.  The building
+continues to the north and the east, and the exit is to the south.  
+~
+323 8 0 0 0 0
+D0
+The building continues to the north.
+~
+~
+0 0 32339 0
+D1
+The building continues to the east.
+~
+~
+1 0 32336 1
+D2
+The exit is to the south.
+~
+door~
+1 -1 32330 3
+S
+#32336
+Within the Crypt~
+You are deep within a forgotten crypt in the graveyard.    
+~
+323 8 0 0 0 0
+D0
+The building continues to the north.
+~
+door~
+1 -1 32340 3
+D3
+The building continues to the west.
+~
+door~
+1 -1 32335 3
+S
+#32337
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and south.  To the west is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32341 0
+D2
+You see the path.
+~
+~
+0 0 32334 0
+S
+#32338
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and south.  To the east is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32342 0
+D2
+You see the path.
+~
+~
+0 0 32333 0
+S
+#32339
+Within the Crypt~
+You are within a crypt in the graveyard.  It is dark an eery.    
+~
+323 9 0 0 0 0
+D1
+The building continues to the east.
+~
+~
+0 0 32340 0
+D2
+The entrance is to the south.
+~
+~
+0 0 32335 0
+S
+#32340
+Deep Within the Crypt~
+You are deeper with in a crypt in the graveyard.  Exits are west and
+up.    
+~
+323 8 0 0 0 0
+D2
+The building continues to the south.
+~
+door~
+1 0 32336 1
+D3
+The building continues to the west.
+~
+~
+0 0 32339 0
+D4
+You see the second floor.
+~
+~
+0 0 32349 0
+S
+#32341
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads north and south.  To the west is a building.    
+~
+323 0 0 0 0 2
+D0
+You see the path.
+~
+~
+0 0 32345 0
+D2
+You see the path.
+~
+~
+0 0 32337 0
+S
+#32342
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads south and east.  To the south-east is a building.    
+~
+323 0 0 0 0 2
+D1
+You see the path.
+~
+~
+0 0 32343 0
+D2
+You see the path.
+~
+~
+0 0 32338 0
+S
+#32343
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads west and east.  To the south is a building.    
+~
+323 0 0 0 0 2
+D1
+You see the path.
+~
+~
+0 0 32344 0
+D3
+You see the path.
+~
+~
+0 0 32342 0
+S
+#32344
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads east and west.  To the south is a building.    
+~
+323 0 0 0 0 2
+D1
+You see the path.
+~
+~
+0 0 32345 0
+D3
+You see the path.
+~
+~
+0 0 32343 0
+S
+#32345
+A Path in the Graveyard~
+You are on the path in the Graveyard of the Setting Sun.  This path
+leads south and west.  To the south-west is a building.    
+~
+323 0 0 0 0 2
+D2
+You see the path.
+~
+~
+0 0 32341 0
+D3
+You see the path.
+~
+~
+0 0 32344 0
+S
+#32346
+The Keepers' Room~
+You are in the room of the graveyard guardian.    
+~
+323 8 0 0 0 0
+D0
+You see another room.
+~
+door~
+1 -1 32348 3
+D1
+You see another room.
+~
+door~
+1 32305 32347 7
+S
+#32347
+A Storage Room~
+You are in a storage room.
+~
+323 8 0 0 0 0
+D0
+You see another room.
+~
+door~
+1 32305 32349 7
+D3
+You see another room.
+~
+door~
+1 32305 32346 7
+S
+#32348
+The Break Room~
+You are in the break room of the graveyard keepers.  Cots line the
+floor, with two windows showing a view of the graveyard.    
+~
+323 8 0 0 0 0
+D1
+You see another room.
+~
+door~
+1 -1 32349 3
+D2
+You see another room.
+~
+door~
+1 -1 32346 3
+S
+#32349
+The Keeper's Office~
+You are in the graveyard keepers office.    
+~
+323 8 0 0 0 0
+D2
+You see another room.
+~
+door~
+1 32305 32347 7
+D3
+You see another room.
+~
+door~
+1 -1 32348 3
+D5
+You see the first floor.
+~
+~
+0 0 32340 0
+S
+#32350
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sons.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32351 0
+D2
+~
+~
+0 0 32304 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32351
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sons.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32352 0
+D3
+~
+~
+0 0 32350 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32352
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sons.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32353 0
+D2
+~
+~
+0 0 32351 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32353
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sons.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32354 0
+D3
+~
+~
+0 0 32352 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32354
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sons.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.  A safe path leads down into the
+graveyard.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32355 0
+D2
+~
+~
+0 0 32353 0
+D5
+The path down looks safe.
+~
+~
+0 0 32318 0
+S
+#32355
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D2
+~
+~
+0 0 32354 0
+D3
+~
+~
+0 0 32356 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32356
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32357 0
+D1
+~
+~
+0 0 32355 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32357
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D2
+~
+~
+0 0 32356 0
+D3
+~
+~
+0 0 32358 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32358
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32357 0
+D3
+You see a bridge~
+~
+0 0 32359 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32359
+On the Bridge~
+You are on a bridge.  From here, you can see the whole graveyard of
+the Setting Sun.  To the south, you see the main graveyard.  To the
+north-east, you see a smaller graveyard with a building in the center
+of it.  To the north-west, you can see a very small graveyard with a
+shack in its center.  A ladder leads down into a path.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32358 0
+D3
+~
+~
+0 0 32360 0
+D5
+You see the path.
+~
+~
+0 0 32327 0
+S
+#32360
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+You see a rope bridge.
+~
+~
+0 0 32359 0
+D3
+~
+~
+0 0 32361 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32361
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32360 0
+D2
+~
+~
+0 0 32362 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32362
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32361 0
+D3
+~
+~
+0 0 32363 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32363
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D1
+~
+~
+0 0 32362 0
+D2
+~
+~
+0 0 32364 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32364
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.  A safe path leads down into the
+graveyard.    
+~
+323 0 0 0 0 4
+D0
+~
+~
+0 0 32363 0
+D2
+~
+~
+0 0 32365 0
+D5
+The path down looks safe.
+~
+~
+0 0 32314 0
+S
+#32365
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32364 0
+D1
+~
+~
+0 0 32366 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32366
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D2
+~
+~
+0 0 32367 0
+D3
+~
+~
+0 0 32365 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32367
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D0
+~
+~
+0 0 32366 0
+D1
+~
+~
+0 0 32368 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32368
+Along a Spooky Path on the Confines of the Graveyard~
+You are on a narrow path on the confines of the Graveyard of the
+Setting Sun.  Below you, you can see the graveyard, filled with wild
+flowers and tall, green grasses.    
+~
+323 0 0 0 0 2
+D2
+~
+~
+0 0 32303 0
+D3
+~
+~
+0 0 32367 0
+D5
+The path down doesn't look safe to travel on at all.
+~
+~
+0 0 32384 0
+S
+#32369
+A Bend in the Path~
+You are on a bend in the path leading from the main graveyard.  The
+hills around you make this path quite narrow.    
+~
+323 0 0 0 0 2
+D0
+The path continues north.
+~
+~
+0 0 32370 0
+D1
+The path continues east.
+~
+~
+0 0 32328 0
+S
+#32370
+A Bend in the Path~
+You are on a bend in the path leading from the main graveyard.  The
+hills around you make this path quite narrow.  To the west, you can
+see an even smaller graveyard, with looks like a small shack in the
+center of it.    
+~
+323 0 0 0 0 2
+D2
+The path continues south.
+~
+~
+0 0 32369 0
+D3
+The entrance to the small graveyard is to the west.
+~
+~
+0 0 32371 0
+S
+#32371
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  The exit from
+this graveyard is to the east, and the entrance to the shack is to the
+west.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues to the north.
+~
+~
+0 0 32372 0
+D1
+The exit from this small graveyard is to the east.
+~
+~
+0 0 32370 0
+D2
+The graveyard continues to the south.
+~
+~
+0 0 32373 0
+D3
+You see the small shack.
+~
+door~
+1 -1 32379 3
+S
+#32372
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the south-west
+is a small shack.    
+~
+323 0 0 0 0 2
+D2
+The graveyard continues to the south.
+~
+~
+0 0 32371 0
+D3
+The graveyard continues to the west.
+~
+~
+0 0 32374 0
+S
+#32373
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the north-west
+is a small shack.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues to the north.
+~
+~
+0 0 32371 0
+D3
+The graveyard continues to the west.
+~
+~
+0 0 32378 0
+S
+#32374
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the south is a
+small shack.    
+~
+323 0 0 0 0 2
+D1
+The graveyard continues to the east.
+~
+~
+0 0 32372 0
+D3
+The graveyard continues to the west.
+~
+~
+0 0 32375 0
+S
+#32375
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the south-east
+is a small shack.    
+~
+323 0 0 0 0 2
+D1
+The graveyard continues to the east.
+~
+~
+0 0 32374 0
+D2
+The graveyard continues to the south.
+~
+~
+0 0 32376 0
+S
+#32376
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the east is a
+small shack.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues to the north.
+~
+~
+0 0 32375 0
+D2
+The graveyard continues to the south.
+~
+~
+0 0 32377 0
+S
+#32377
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the north-east
+is a small shack.    
+~
+323 0 0 0 0 2
+D0
+The graveyard continues to the north.
+~
+~
+0 0 32376 0
+D1
+The graveyard continues to the east.
+~
+~
+0 0 32378 0
+S
+#32378
+The Small Graveyard~
+You are in the small graveyard.  Strangely, tall trees grow here,
+almost as if some magic was used to help them grow.  To the north is a
+small shack.    
+~
+323 0 0 0 0 2
+D1
+The graveyard continues to the east.
+~
+~
+0 0 32373 0
+D3
+The graveyard continues to the west.
+~
+~
+0 0 32377 0
+S
+#32379
+A Crematorium~
+You are inside the small crematorium.  A hearth is on the side, with
+something burning in it.    
+~
+323 8 0 0 0 0
+D1
+You see the graveyard outside.
+~
+door~
+1 -1 32371 3
+D5
+You see a trap door!
+~
+trap door~
+1 -1 32380 3
+S
+#32380
+A Catacomb~
+You are beneath the crematorium, in a tunnel that leads south.  It
+feels quite cold down here.    
+~
+323 9 0 0 0 0
+D2
+A cold breeze billows from there.
+~
+~
+0 0 32381 0
+D4
+Back to known territory!
+~
+trap door~
+1 -1 32379 3
+S
+#32381
+The Lair of the Demon~
+You are in the lair of the demon.  The walls are cold and damp, and
+there is a stench beyond your wildest imagination.  Doors lead east
+and west.  But you have to ask yourself...  Do I really want to know
+what's on the other side of the doors??    
+~
+323 9 0 0 0 0
+D0
+You see the relative safety to the north.
+~
+~
+0 0 32380 0
+D1
+You see breaks in the charred rock to the east.
+~
+secret~
+1 32305 32383 7
+D3
+You see a door to the west.
+~
+door~
+1 32305 32382 7
+S
+#32382
+A Closet of Skeletons~
+Now you've done it.
+~
+323 8 0 0 0 0
+D1
+~
+door~
+1 32305 32381 7
+S
+#32383
+A Closet of Skeletons~
+Now you've done it.
+~
+323 8 0 0 0 0
+D3
+~
+door~
+1 32305 32381 7
+S
+#32384
+An Open Grave~
+You have fallen into a freshly-dug grave.
+
+*BONK* *OUCH* *DOH!*
+~
+323 4 0 0 0 0
+S
+$~

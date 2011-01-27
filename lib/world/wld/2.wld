@@ -1,0 +1,1707 @@
+#200
+Entrance~
+You stand before Saint Murphy's Church.  Looking up, you can see the
+grand outer arc of the steeple.  In the steeple is a large bell.  You
+find it odd that there are no guards or lookouts posted before such an
+obviously expensive and grand palacial temple.  But then, you must
+admit that you feel a bit peaceful, anyway.  Almost as if all the
+day's worries and cares have evaporated and left you cleansed, ready
+for anything.    
+~
+2 0 0 0 0 0
+D1
+You see a set of mamouth double doors.
+~
+door double mamouth~
+0 0 202 0
+D3
+You see a narrow, stone-covered path.
+~
+~
+0 0 201 0
+S
+#201
+Rock Covered Path~
+This narrow path is covered with small stones and lined with large
+stones which were obviously chosen with care.  Each stone is the exact
+same size, shape and color.  Far to the west you see a dense forest,
+beyond which lies the volcano that created this island.  The path
+continues east to the grand entranceway to Saint Murphy's Temple.    
+~
+2 0 0 0 0 1
+D0
+~
+~
+0 0 224 0
+D1
+You see the grand arched foyer of St. Murphy's tower.
+~
+~
+0 0 200 0
+D2
+~
+~
+0 0 220 0
+S
+#202
+Main Room~
+You stand under the grand steeple of Saint Murphy's temple.  Far
+above, you see a dulled bell.  You can see a hallway lined with
+torches to the east while two iron, spiral staircase touch the ground
+to the north and south.    
+~
+2 8 0 0 0 0
+D0
+You see the base of a large, iron spiral staircase
+~
+~
+0 0 205 0
+D1
+~
+~
+0 0 203 0
+D2
+~
+~
+0 0 206 0
+D3
+You see a set of mamouth double doors.
+~
+door double mamouth~
+1 0 200 1
+E
+bell~
+   The bell is very large.  You see a sturdy rope attached to its brace that
+reaches the floor.  Pulling the rope would ring the bell.    
+~
+S
+#203
+Torch-Lit Hallway~
+This hallway is dimly lit by the fickering torches which line the
+wall.  Your footsteps echo from the polished marble floor.  
+Nondescript doors are notched in the stones of the north and south
+walls.  You can see a large, oak altar off to the east.    
+~
+2 8 0 0 0 0
+D0
+~
+door~
+1 0 217 3
+D1
+~
+~
+0 0 204 0
+D2
+~
+door~
+1 0 218 3
+D3
+~
+~
+0 0 202 0
+S
+#204
+Oratory~
+Empty pews surround you as you enter this place of worship.  You try
+to remember your history but you can't, for the life of you, remember
+exactly what this temple represents.  In children's stories you've
+heard wonderful tales of Saint Murphy's adventures.  She, as a mortal,
+tamed Oryhip, the Dark Lord protector, to allow the crusading mortals
+to defeat the powers of iK.  You wonder how those stories for children
+represent the truth.  A set of marble stairs leads up to the balcony
+where one can overlook the temple and the services being performed
+there.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 0 219 0
+D3
+You see more torches dimly lighting this hallway.  There are giant doors far to
+the west.    
+~
+~
+0 0 203 0
+D4
+~
+~
+0 0 213 0
+S
+#205
+Bottom of Spiraling Staircase~
+An narrow, iron spiral staircase looks to be both practical and
+decorative.  The railing is embossed with figures of angels.  The main
+room is to the south.    
+~
+2 8 0 0 0 0
+D2
+~
+~
+0 0 202 0
+D4
+~
+~
+0 0 211 0
+S
+#206
+Bottom of Spiraling Staircase~
+An narrow, iron spiral staircase looks to be both practical and
+decorative.  The railing is embossed with figures of angels.  The main
+room is to the north.    
+~
+2 8 0 0 0 0
+D0
+~
+~
+0 0 202 0
+D4
+~
+~
+0 0 207 0
+S
+#207
+Top of Spiral Staircase~
+You've reached the top of the stairs, finding yourself in a beautiful,
+clean, white marble hallway.  You hear the sound of soft music from
+somewhere, but you can't tell where it comes from.  The hallway runs
+to the east, the stairs back down into the temple.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 0 208 0
+D5
+~
+~
+0 0 206 0
+S
+#208
+Southern Landing~
+The hallway heads north into a junction with another hallway heading
+east.  To the west is a short bit of hallway leading to the spiral
+staircase which allows entrance into the main part of the temple.  
+The soft light and music all around you is very soothing, very
+soothing indeed.    
+~
+2 8 0 0 0 0
+D0
+~
+~
+0 0 209 0
+D3
+~
+~
+0 0 207 0
+S
+#209
+Upper Hallway~
+The hallway opens up into a wide meeting of hallways.  You may go
+north or south toward the spiral staircases or east out onto a
+balcony.  You can still hear the faint music coming from all around
+you, and although you have been moving almost constantly, you feel
+neither closer nor farther from the music's source.    
+~
+2 8 0 0 0 0
+D0
+~
+~
+0 0 210 0
+D1
+~
+~
+0 0 212 0
+D2
+~
+~
+0 0 208 0
+S
+#210
+Ornate Marble Hallway~
+The hallway leads west toward a flight of iron spiral stairs, or south
+to a joining of hallways.  The walls seem so spotlessly clean that you
+have to actually touch them to make sure that they are real.  
+Somewhere in the distance you hear soft music being played, or maybe
+sung - it's hard to tell.    
+~
+2 8 0 0 0 0
+D2
+~
+~
+0 0 209 0
+D3
+~
+~
+0 0 211 0
+S
+#211
+Top of Spiral Staircase~
+You stand at the top of the spiral stairs which lead down to the main
+temple proper.  An ornate hallway leads east, turning south almost
+immediately.  The walls here are all done in spotless white marble,
+the floors much the same.  The light that filters throught this
+hallway comes from an unknown source, as you see no windows from here.
+Not that the light seems menacing at all, it even gives you a sort of
+comfort, it's just a curious phenomenon.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 0 210 0
+D5
+~
+~
+0 0 205 0
+S
+#212
+Hallway~
+The marble hallway heads toward a large balcony that must look down
+upon the temple itself.  To the west the hallway junctures with
+another hallway, turning both north and south.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 0 213 0
+D3
+~
+~
+0 0 209 0
+S
+#213
+Hallway~
+The hallway ends just east of you at the blacony.  To the west the
+hallway runs for a short distance, ending at a meeting of halls.  The
+music continues unabated, just out of sight, just out of reach, just
+far enough away that you can't pinpoint the direction from which it
+comes.  A small staircase leads down into the Oratory.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 0 214 0
+D3
+~
+~
+0 0 212 0
+D5
+~
+~
+0 -1 204 0
+S
+#214
+Balcony~
+The balcony looks out and down into the main room of the Temple, where
+St.  Murphy gives her benedictions and such.  A marble railing, thick
+as three of your wrists, with fat marble posts encloses the entire
+balcony at about hip height, giving you a safe, comfortable feeling
+about being so high up over another room.  There is a long, low bench
+up close to the railing where one may sit and enjoy the scenery or
+watch St.  Murphy and her daily miracles.  The balcony stretches out
+to the north and south or you may leave west into a long marble
+hallway.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 0 215 0
+D2
+~
+~
+0 0 216 0
+D3
+~
+~
+0 0 213 0
+S
+#215
+Balcony~
+This is the north end of the balcony, where you must either turn
+around and head south along the balcony or sit down and relax for a
+while.  Being that this temple is so well kept, it is actually very
+tempting to sit down for a bit.    
+~
+2 0 0 0 0 0
+D2
+~
+~
+0 0 214 0
+S
+#216
+Balcony~
+The balcony ends here in a graceful curve of the railing.  You must go
+back north along the balcony or sit down on the marble bench here and
+relax for a while.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 0 214 0
+S
+#217
+Saint Murphy's Office~
+You can't help being impressed by Saint Murphy's exquisite taste in
+furnishings.  Expensive-looking trinkets, no doubt from her crusading
+days, are carefully displayed on delicate glass shelving.  Her desk is
+tidy and the wood is polished to a high shine.  In fact, everything in
+this room seems to be polished including the ceiling while is
+decorated with cut marble tiles.    
+~
+2 8 0 0 0 0
+D2
+~
+door~
+1 0 203 3
+D4
+~
+tile~
+1 0 225 3
+S
+#218
+Office~
+You find yourself in a small office.  Although it is tidy, and the
+simple furniture seems to be in good condition, you get the impression
+it is rarely used.  A door is in the north wall.    
+~
+2 8 0 0 0 0
+D0
+~
+door~
+1 0 203 3
+S
+#219
+At the Altar~
+Before you is Saint Murphy's Altar.  Behind it, on the eastern-most
+wall, is a humungous tapestry depicting a battle between an army of
+humans and a pack of wolves.  The Humans' flags stand taller but the
+wolves seem to be winning the fight.  What does this mean?    
+~
+2 65592 0 0 0 0
+D1
+~
+~
+0 0 299 16
+D3
+~
+~
+0 0 204 0
+S
+#220
+Path Surrounding the Temple~
+This smal path, no less beautiful than it's larger counterpart to the
+north, leads the way around the temple to the back gardens.  You may
+go east into the gardens, or north back in front of the main entrance.
+  
+~
+2 0 0 0 0 1
+D0
+~
+~
+0 0 201 0
+D1
+~
+~
+0 0 227 0
+S
+#221
+Scenic Lookout~
+The rocks here have actually given birth to a few small green plants,
+which are currently in bloom with beautiful orange and white flowers.
+You can see most of the island from here, at least as far as that huge
+volcano will allow you to see.  The volcano dominates your entire
+field of vision to the southwest, all you are able to see is it's
+sheer cliffs rising toward it's mouth.  To the southeast there appears
+to be some sort of church or temple with a huge steeple rising up from
+it's front wall.  The only way out of here is north through the
+boulders.    
+~
+2 0 0 0 0 2
+D0
+~
+~
+0 0 222 0
+S
+#222
+An Outcrop of Rock~
+You stand nestled in between two boulders at the to of the hill you
+just climbed.  You may climb back down to the riverbank or head south
+between the boulders to a vantage point where you can see most of the
+island.    
+~
+2 0 0 0 0 2
+D2
+~
+~
+0 0 221 0
+D5
+~
+~
+0 0 223 0
+S
+#223
+Riverbank~
+The sandy riverbank ends here at a steep sandy hill which heads up to
+a small outcrop of rock.  To the west is more of the rivernbank where
+it appears a small trail leads south deep into the island.    
+~
+2 268435456 0 0 0 2
+D0
+~
+~
+0 0 513 0
+D3
+~
+~
+0 0 230 0
+D4
+~
+~
+0 0 222 0
+S
+#224
+A Beautiful Stone Path~
+As you get deeper and deeper into this island, you begin to realize
+that it is not the uninhabited rock you thought it might be.  The path
+here looks almost manicured, as if someone or thing tended to it
+regularly.  The path itself is made up of brilliant white stones
+packed neatly along the trees that now some almost trimmed.  But this
+is a forest, isn't it?  Why would anyone want to trim the trees?  
+Southeast of here you can make out a huge white marble edifice.  It
+looks to be some sort of temple, from the steeple which rises high
+into the clouds above the rest of the building.  The path heads west,
+as well, back into the deep forest.    
+~
+2 0 0 0 0 3
+D2
+~
+~
+0 0 201 0
+D3
+~
+~
+0 0 226 0
+S
+#225
+A Secret Stash~
+This is the craziest thing you've ever seen!  This short cubby leaves
+barely enough room to crawl.  The floor is covered with carefully
+placed bones.  You make out a definate pattern and it seems that...  
+They spell out the word 'Woof.  ' How odd.    
+~
+2 8 0 0 0 0
+D5
+~
+tile~
+1 0 217 3
+S
+#226
+A Long Path Deep in the Island~
+The island forest is very dark here, the trees surrounding the path
+blocking the sun out with their thick branches overhead.  You can here
+the sounds of birds, at least you hope they are just birds, high up in
+the trees fidgeting and hopping around.  Looking up into the trees,
+you notice a tall white steeple rising out of the forest to the east.
+To the west the path seems to get a bit brighter, leading into more
+open forest.    
+~
+2 1 0 0 0 3
+D1
+~
+~
+0 0 224 0
+D3
+~
+~
+0 0 228 0
+S
+#227
+Around the Back~
+The trail ends here where it is replaced by the sculptured shrubs of
+Saint Murphy's Gardens.  The gardens continue to the east, all in
+perfect order, no weeds or twigs lying about.  Odd that there is no
+evidence of a gardener here - no tools, no nothing.  To the west is
+the small perfect trail that leads back to the temple's entrance.    
+~
+2 0 0 0 0 1
+D1
+~
+~
+0 0 233 0
+D3
+~
+~
+0 0 220 0
+S
+#228
+Near the Base of the Volcano~
+You are near the base of the volcano, which lies just south of here.
+It's been dormant since Civilization has been recording history but
+it's constant humming makes your heart beat faster.  A dark path leads
+east.  There is a narrow opening leading in to the volcano to west.  
+~
+2 0 0 0 0 5
+D0
+~
+~
+0 0 229 0
+D1
+~
+~
+0 0 226 0
+D2
+~
+~
+0 0 232 0
+D3
+~
+~
+0 0 231 0
+S
+#229
+A Sandy Path~
+You walk a sandy trail which leads deep into the forest island and the
+volcano which seems to dominate your vision no matter which way you
+turn.  To the north is a sandy riverbank where you may enter onto the
+River Alquandon.    
+~
+2 0 0 0 0 2
+D0
+~
+~
+0 0 230 0
+D2
+~
+~
+0 0 228 0
+S
+#230
+Riverbank~
+What a beautiful island.  Many birds and shellfish carrouse this are
+where the river water licks the sand.  Bits of dead fish cause a
+flurry of excitement nearby, where some crows pound their wings in a
+race to the treasure.  A small trail cuts into the island heading
+south.    
+~
+2 268435456 0 0 0 2
+D0
+~
+~
+0 0 514 0
+D1
+~
+~
+0 0 223 0
+D2
+~
+~
+0 0 229 0
+S
+#231
+A Crack~
+You are wedged in a narrow crack in the base of the volcano.  You hear
+the sounds of life to the east and voilently boiling lava to the west.
+The blistering heat is scorching your flesh.  To continue west could
+be a fatal mistake.    
+~
+2 321 0 0 0 5
+D1
+~
+~
+0 0 228 0
+D3
+~
+~
+0 0 234 0
+S
+#232
+Base Of the Volcano~
+You stand at the base of the massive volcano which seems to form most
+of this river island.  Looking up toward the top of the volcano, you
+can't help but feel just a bit curious about what might be up there,
+inside the volcano.  As things stand now, the sides look way too steep
+and the rocks much too loose, but you never know till you try, right?
+~
+2 0 0 0 0 5
+D0
+~
+~
+0 0 228 0
+D4
+~
+~
+0 0 4000 16
+S
+#233
+The Garden~
+This beautiful garden brings to mind all the peaceful things you have
+ever known.  You can almost here the sound of music, soft singing
+which reaches your ears as if from a far away distance.  Sitting down
+and taking in the many beautiful scents of this place is all that you
+could desire at this time in your life.  The exit lies to the west,
+but then, why would you ever want to leave?    
+~
+2 0 0 0 0 2
+D3
+~
+~
+0 0 227 0
+S
+#234
+Inside the Crack~
+You are in a very cramped, very uncomfortable crack leading through
+the base of the volcano.  The crack continues toward the west,
+although even with your light all you are able to see in that
+direction is darkness.  Things look a great deal more friendly to the
+east where a trickle of light comes through from the outside.    
+~
+2 321 0 0 0 5
+D1
+~
+~
+0 0 231 0
+D3
+~
+~
+0 0 10401 0
+S
+#240
+A Dark Trail~
+You step off of the main trail and immediately realize that this part
+of the road is only recently made - and not well-travelled at that.  
+Off into the trees it travels, northward into a darker, shadier
+section of the land.    
+~
+2 4 0 0 0 3
+D0
+~
+~
+0 -1 241 0
+D2
+~
+~
+0 0 3516 0
+S
+#241
+A Forest Trail~
+You walk along this trail, every core of your being telling you to
+beware: danger lurks somewhere within.  The trees lean in close along
+the pathway, a tight squeeze that barely filters any light through.  
+~
+2 0 0 0 0 3
+D0
+~
+~
+0 -1 242 0
+D2
+~
+~
+0 -1 240 0
+S
+#242
+A Forest Trail~
+To the north is some sort of obstruction to the path, forcing the
+trail to split in two directions.  The way south looks so very
+inviting, so very well-lit...    
+~
+2 0 0 0 0 3
+D0
+~
+~
+0 -1 243 0
+D2
+~
+~
+0 -1 241 0
+S
+#243
+A Trail Splitting~
+The trail splits at this junction.  To the east you see more trees
+lining the path, and to the west as well.  To the north, peeking
+through the trees you detect a clearing.  You can't make out much from
+here tho'.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 244 0
+D2
+~
+~
+0 -1 242 0
+D3
+~
+~
+0 -1 249 0
+S
+#244
+Overhanging Limbs~
+The trees along the trail hang down to the ground.  The leaves are
+shaking and you are beginning to be afraid.  The forest is just too
+quiet.  Too quiet.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 245 0
+D3
+~
+~
+0 -1 243 0
+S
+#245
+A Curving Trail~
+The trail curves to the north.  You begin to believe that you are not
+alone.  Perhaps the village sounds you detect have clued you in?  The
+clearing to the north is very near now.  You can detect smoke and the
+sounds of people talking.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 246 0
+D3
+~
+~
+0 -1 244 0
+S
+#246
+An Oak Stand~
+The oak trees have squeezed out the younger pines and created an oak
+zone.  No other tree grows in this area.  Several of the trees have
+been cut and you can see many tree trunks from recent cutting.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 247 0
+D2
+~
+~
+0 -1 245 0
+S
+#247
+The Oak Stand~
+The trail has now taken you into a stand of oak trees that are huge
+and old.  They are not happy trees...  You can tell.  Many branches
+are lying on the ground where someone has thrown them.  Sap is leaking
+from open wounds in the side of several of the trees.    
+~
+2 4 0 0 0 0
+D0
+~
+~
+0 -1 248 0
+D2
+~
+~
+0 -1 246 0
+S
+#248
+Clearing Entrance~
+You have stepped from the security of the forest into an armed camp of
+invading Kobolds.  Their huts are scattered about the clearing,
+campfires are burning with pots hanging low above the flames.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 253 0
+D1
+~
+~
+0 -1 254 0
+D2
+~
+~
+0 -1 247 0
+D3
+~
+~
+0 -1 252 0
+S
+#249
+Green Tree Trail~
+The trail you are following looks like it's about to dead end.  Now
+what?    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 243 0
+D3
+~
+~
+0 -1 250 0
+S
+#250
+Trail's Dead End~
+The trail continues to the north and to the east.  You thought for
+sure it ended but that must have been just an optical illusion.  The
+birds and small animals that you normally would see or hear are
+missing.  Something, or someone must have scared them off.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 251 0
+D1
+~
+~
+0 -1 249 0
+S
+#251
+A Clearing~
+You have stepped into a little trouble.  This clearing has many huts
+built from tree limbs and mud.  There are several kobolds walking
+around and they don't look friendly.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 271 0
+D2
+~
+~
+0 -1 250 0
+S
+#252
+Kobold Hut~
+You have squeezed into a small two person hut built from twigs and
+sticks.  There are several dirty blankets on the floor and ......  
+Yes, in the corner is a small, plate sized pool of urine.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 -1 248 0
+S
+#253
+Clearing~
+To your west is another hut, dirty like the rest.  To your east is a
+fire pit.  There are better places, cleaner places, in the world...  
+Aren't there?    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 257 0
+D1
+~
+~
+0 -1 256 0
+D2
+~
+~
+0 -1 248 0
+D3
+~
+~
+0 -1 255 0
+S
+#254
+Clearing~
+To your south is the forest..  To the north a fire pit.  To the east
+the clearing continues and as you look, you detect the movement of
+more Kobolds.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 256 0
+D1
+~
+~
+0 -1 260 0
+D3
+~
+~
+0 -1 248 0
+S
+#255
+Kobold Hut~
+This hut has been coated with dirty red mud.  Perhaps it belongs to
+someone special...  Or perhaps to someone who likes the color?    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 253 0
+S
+#256
+Clearing~
+There are several logs lying about..  Obviously for people to sit on.
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 259 0
+D1
+~
+~
+0 -1 265 0
+D2
+~
+~
+0 -1 254 0
+D3
+~
+~
+0 -1 253 0
+S
+#257
+Clearing~
+From this vantage point you can see hand hewn stairs in the mountain
+to your west.  There appears to be some caves at the top.  A flash of
+light off of metal confirms your suspicions that the path is guarded.
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 286 0
+D1
+~
+~
+0 -1 259 0
+D2
+~
+~
+0 -1 253 0
+D3
+~
+~
+0 -1 258 0
+S
+#258
+Kobold Hut~
+This filthy dirty hut has seen better days.  Perhaps you should find
+and kill the owner?    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 -1 257 0
+S
+#259
+Clearing~
+To your south is a fire pit.  To the north you see another hut.  To
+the east you see several more huts along the eastern side of this
+small clearing.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 261 0
+D1
+~
+~
+0 -1 262 0
+D2
+~
+~
+0 -1 256 0
+D3
+~
+~
+0 -1 257 0
+S
+#260
+Clearing~
+The stench of Kobold cooking has just engulfed you.  You look for the
+pot but can't see it from here.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 265 0
+D1
+~
+~
+0 -1 267 0
+D3
+~
+~
+0 -1 254 0
+S
+#261
+Kobold Hut~
+This hut is a charnel house.  Blood is everywhere.  It looks like
+something, or someone was slaughtered here.    
+~
+2 8 0 0 0 0
+D2
+~
+~
+0 -1 259 0
+S
+#262
+Clearing~
+To the north is a hut, northwest there is a hut, and to the far east
+there is another hut.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 263 0
+D1
+~
+~
+0 -1 264 0
+D2
+~
+~
+0 -1 265 0
+D3
+~
+~
+0 -1 259 0
+S
+#263
+A Kobold Hut~
+All over the inside of this hut are symbols.  Wierd symbols which you
+have never seen before.  Perhaps this is the hut of a Kobold shaman?
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 279 0
+D2
+~
+~
+0 -1 262 0
+S
+#264
+Kobold Hut~
+Ok...  Now you've seen everything.  This hut is actually this armies
+outhouse.  However, they didn't dig a pit.  There's ofal everywhere.
+Urine has ran down the sides and is pooling with the feces in the
+middle of the hut.    
+~
+2 8 0 0 0 0
+D3
+~
+~
+0 -1 262 0
+S
+#265
+Clearing~
+From this area of the clearing you can see the trees beyond the
+numerous huts you are standing amoungst.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 262 0
+D1
+~
+~
+0 -1 266 0
+D2
+~
+~
+0 -1 260 0
+D3
+~
+~
+0 -1 256 0
+S
+#266
+Kobold Hut~
+From the marks on the floor and walls you determine that this is where
+the Kobolds held their captives.  Scratched into the dirt floor are
+the words, "mommy...  Where are you?  "
+~
+2 8 0 0 0 0
+D3
+~
+~
+0 -1 265 0
+S
+#267
+Clearing~
+You are surrounded by huts.  Most of them are decrepid and poorly
+made.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 268 0
+D3
+~
+~
+0 -1 260 0
+S
+#268
+Clearing~
+The Kobold huts are beyond or before you.  Perhaps you can rest here a
+moment?    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 269 0
+D3
+~
+~
+0 -1 267 0
+S
+#269
+Kobold Hut~
+You have entered a clean, well travelled area.  The stupid kobolds
+placed a hut on one of their major pathways.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 -1 270 0
+D3
+~
+~
+0 -1 268 0
+S
+#270
+Clearing~
+To your west is a dirty hut.  To the east is the entrance to a forest
+trail.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 275 0
+D1
+~
+~
+0 -1 271 0
+D2
+~
+~
+0 -1 278 0
+D3
+~
+~
+0 -1 269 0
+S
+#271
+Clearing~
+To the south of you is a small forest trail.  The trees are ominous
+and you get the feeling that there is danger within the forest.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 274 0
+D1
+~
+~
+0 -1 272 0
+D2
+~
+~
+0 -1 251 0
+D3
+~
+~
+0 -1 270 0
+S
+#272
+Clearing~
+There are several huts around you.  The back of one hut is to your
+east, while many huts can be seen north of here.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 273 0
+D2
+~
+~
+0 -1 283 0
+D3
+~
+~
+0 -1 271 0
+S
+#273
+Clearing~
+From this vantage point you can see a small cave high in the mountain
+to the west of you.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 282 0
+D2
+~
+~
+0 -1 272 0
+D3
+~
+~
+0 -1 274 0
+S
+#274
+Clearing~
+There are several logs lying about.  The Kobolds have cut down some
+beautiful oak trees to sit on.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 280 0
+D1
+~
+~
+0 -1 273 0
+D2
+~
+~
+0 -1 271 0
+D3
+~
+~
+0 -1 275 0
+S
+#275
+Clearing~
+You are standing west of a collection of huts built from tree limbs
+and small branches.  From here they look good, but I'm sure the closer
+you get the worse they will look.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 276 0
+D1
+~
+~
+0 -1 274 0
+D2
+~
+~
+0 -1 270 0
+D3
+~
+~
+0 -1 287 0
+S
+#276
+Clearing~
+This dirt clearing reeks of Kobold cooking.  The wind must have
+shifted and you are now in the wrong position.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 278 0
+D1
+~
+~
+0 -1 280 0
+D2
+~
+~
+0 -1 275 0
+D3
+~
+~
+0 -1 277 0
+S
+#277
+Kobold Hut~
+This disgusting hut has several trophies on the wall.  You see the
+skulls of a gypsy child, a halfling child, and a human baby.    
+~
+2 8 0 0 0 0
+D1
+~
+~
+0 -1 276 0
+S
+#278
+Clearing~
+Many Kobolds have come this way.  Perhaps there is something around
+here?    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 270 0
+D2
+~
+~
+0 -1 276 0
+D3
+~
+~
+0 -1 279 0
+S
+#279
+Clearing~
+There are several scratches in the ground where you are standing.  It
+appears that a captive was able to scratch a warning in the ground.  
+It reads, "Beware Tabbor and his rat mask".    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 278 0
+D3
+~
+~
+0 -1 263 0
+S
+#280
+Clearing~
+Running around this place is like being in a maze.  The huts and small
+paths have a confusing effect upon persons who do not rely upon smell
+to find their way.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 281 0
+D1
+~
+~
+0 -1 282 0
+D2
+~
+~
+0 -1 274 0
+D3
+~
+~
+0 -1 276 0
+S
+#281
+Kobold Hut~
+There are several drawings on the inside walls of this hut.  There is
+a drawing of a huge Kobold leader, wearing a headdress and carrying a
+spear.  Nearby, there is picture of a rat's face.    
+~
+2 8 0 0 0 0
+D2
+~
+~
+0 -1 280 0
+S
+#282
+Clearing~
+The ground is covered with thousands of little claw prints.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 283 0
+D2
+~
+~
+0 -1 273 0
+D3
+~
+~
+0 -1 280 0
+S
+#283
+Clearing~
+There are several huts to your east, and a major pathway to the north.
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 272 0
+D1
+~
+~
+0 -1 284 0
+D2
+~
+~
+0 -1 282 0
+S
+#284
+Clearing~
+There are mountains to the west of this clearing and the forest
+surrounds the other three sides.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 285 0
+D1
+~
+~
+0 -1 286 0
+D3
+~
+~
+0 -1 283 0
+S
+#285
+Pool of Water~
+Many of the kobolds get their water here.  However, some seem to think
+that it is a toilet.    
+~
+2 0 0 0 0 0
+D2
+~
+~
+0 -1 284 0
+S
+#286
+Clearing~
+This is a well travelled pathway.  There are huts to the south of you
+and to the east.    
+~
+2 0 0 0 0 0
+D2
+~
+~
+0 -1 257 0
+D3
+~
+~
+0 -1 284 0
+S
+#287
+Clearing~
+This is a nondescript part of the clearing.  It doesn't appear well
+travelled.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 275 0
+D3
+~
+~
+0 -1 288 0
+S
+#288
+Clearing~
+You are standing against the side of a mountain.  There are stairs
+leading upwards, however, they do not appear to be well travelled.  
+There is really no reason you should go up there.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 287 0
+D4
+~
+~
+0 -1 289 0
+S
+#289
+Mountain Steps~
+You are climbing up a set of hand hewn steps in the side of the
+mountain.  There are few handholds and you had better be careful .
+~
+2 0 0 0 0 0
+D4
+~
+~
+0 -1 290 0
+D5
+~
+~
+0 -1 288 0
+S
+#290
+Mountain Steps~
+You are still climbing a set of hand hewn steps which were carved into
+the mountain by the Kobold invaders.  To your east is a nice overlook
+site from which you can look over the clearing below you.    
+~
+2 0 0 0 0 0
+D1
+~
+~
+0 -1 291 0
+D4
+~
+~
+0 -1 292 0
+D5
+~
+~
+0 -1 289 0
+S
+#291
+Overlook~
+This mountain overlook allows you a tremendous view of the clearing
+below.  From here you see about twenty Kobolds moving about ten huts.
+~
+2 0 0 0 0 0
+D3
+~
+~
+0 -1 290 0
+S
+#292
+Top of the Mountain~
+You have reached the top of the mountain.  To the north you see a
+small cave.  There also appears to be some additional guards up here.
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 296 0
+D3
+~
+~
+0 -1 293 0
+D5
+~
+~
+0 -1 290 0
+S
+#293
+Mountain Top~
+You have made it to the mountaintop.  Want to quit?  This would be a
+good place to retire to...  Except for the Kobolds of course.    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 294 0
+D1
+~
+~
+0 -1 292 0
+S
+#294
+Top of the Mountain~
+Many of the worlds mysteries have been solved on the top of mountains.
+There is a cave to your north.  Perhaps you will discover the missing
+piece of the puzzle?    
+~
+2 0 0 0 0 0
+D0
+~
+~
+0 -1 295 0
+D1
+~
+~
+0 -1 296 0
+D2
+~
+~
+0 -1 293 0
+D3
+~
+door~
+1 259 297 7
+S
+#295
+A Cave on Top of the Mountain~
+You have entered a small cave.  It has been cleaned and decorated by
+the Kobold soldiers presently occupying space in the clearing below.
+~
+2 8 0 0 0 0
+D2
+~
+~
+0 -1 294 0
+S
+#296
+Top of the Mountain~
+From this vantage point you can see snow covered mountain peaks around
+you.    
+~
+2 0 0 0 0 0
+D2
+~
+~
+0 -1 292 0
+D3
+~
+~
+0 -1 294 0
+S
+#297
+Secret Cave~
+This cave has drawings on the walls.  The drawings are evil and give
+you the creeps.    
+~
+2 8 0 0 0 0
+D1
+~
+door~
+1 259 294 7
+D3
+~
+door~
+1 259 298 7
+S
+#298
+Treasure Cave~
+You are standing inside the treasure cave of the Kobold raiding party.
+~
+2 8 0 0 0 0
+D1
+~
+door~
+1 259 297 7
+S
+#299
+Cyprian's Domocile~
+This enormous room, laid out with the most lavish of decor, is the
+home, study and resting place of Saint Cyprian.  The worshippers at
+St.  Murphy's temple regard Cyprian as their token saint, almost as a
+deity, and pay homage to him as such.  Cyprian in turn heals their
+wounded and intructs their young in dealing of philosophy.    
+~
+2 2162924 0 0 0 0
+D3
+~
+~
+0 0 219 0
+S
+$~

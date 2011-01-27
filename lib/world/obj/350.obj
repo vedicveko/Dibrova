@@ -1,0 +1,248 @@
+#35000
+Piece pipe~
+a /cLPiece/cb Pipe/c0~
+A large pipe lays here smoking.~
+~
+26 64 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 3000 0 90 -1 -1 -1 -1 -1 -1
+0 -72 0 0 0 0 0 0 0
+T 35005
+E
+pipe piece~
+The stem of this masterful work of art is emblazened with many sigils
+and holy symbols.  A large reptile is etched around the bowl, this
+reptile appears to be shedding it skin and regenerating new flesh.  
+
+~
+A
+4 2
+A
+5 -2
+C
+59 6
+#35002
+small pendant necklace~
+a /cCsmall pendant/c0~
+A small pendant comprised of what looks to be flawless crystal and sterling silver, lays here begging to be worn.~
+A small crystal pendant hangs on a sterling chain, smaller crystals hang on either side of the multi-faceted shard.
+~
+11 64 0 0 0 5 0 0 0
+0 0 0 0 33554432 0 0 0
+4 17020 10 69 -1 -1 -1 -1 -1 -1
+0 -72 10 0 0 0 0 0 0
+A
+2 1
+A
+3 -2
+#35003
+bolas set~
+a/cR nice set of/cr bolas/c0~
+A battle worn and stretched set of bolas lays here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+8 24266 1 70 -1 -1 -1 -1 -1 -1
+0 50 1 0 0 0 0 0 0
+A
+18 1
+A
+15 -50
+#35004
+tomahawk axe hatchet tom~
+a /cbL/cLarge /cbT/cLomahawk/c0~
+A large glinting steel and wood tomahawk lays here.~
+~
+5 2 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+10 300 5 75 -1 -1 -1 -1 -1 -1
+0 44 5 0 0 0 0 0 0
+E
+Tomahawk  hatchet~
+A sturdy steel blade is held firmly in place by thick leather
+strapping.  Large feathers are tied to the back of the handle, strange
+feathers.    
+~
+A
+1 1
+A
+12 -20
+#35005
+moccasins shoes~
+a/cL leather pair of moccasins/c0~
+A simple pair of moccasins lay here~
+~
+9 0 0 0 0 65 0 0 0
+10 0 0 0 0 0 0 0
+4 25000 2 75 -1 -1 -1 -1 -1 -1
+0 -56 2 0 0 0 0 0 0
+#35006
+ring bone~
+a/cW Bone/cL Ring/c0~
+A small ring made of bones lay here.~
+~
+9 0 0 0 0 65537 0 0 0
+4 0 0 0 8 0 0 0
+2 22000 1 75 -1 -1 -1 -1 -1 -1
+0 -24 1 0 0 0 0 0 0
+#35007
+spoon~
+a/cC Wooden /ccSpoon/c0~
+A large wooden spoon lays here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+5 10000 5 70 -1 -1 -1 -1 -1 -1
+0 16 5 0 0 0 0 0 0
+A
+1 2
+A
+12 -10
+#35008
+paint war~
+a /cGJar /cYWar /cGpaint/c0~
+A small vial of dark paint sits here.~
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+5 18666 0 70 -1 -1 -1 -1 -1 -1
+0 -24 0 0 0 0 0 0 0
+C
+50 2
+#35009
+stomach gut~
+/cga stomach/c0~
+A large stomach lays here.~
+~
+15 0 0 0 0 1 0 0 0
+1000 0 -1 0 0 0 0 0
+10 53333 1 80 -1 -1 -1 -1 -1 -1
+0 5 1 0 0 0 0 0 0
+#35010
+helm~
+a/cY Golden Helm/c0~
+A beautiful helm made of gold is here.~
+~
+9 0 0 0 0 17 0 0 0
+4 0 0 0 64 0 0 0
+5 24933 20 85 -1 -1 -1 -1 -1 -1
+0 -104 20 0 0 0 0 0 0
+C
+90 3
+#35011
+sword short obsidian~
+an/cL Obsidian Short Sword/c0~
+A glistening dark blade awaits a wielder.~
+~
+5 1 0 0 0 1 0 0 0
+0 0 0 3 0 0 0 0
+10 20000 20 75 -1 -1 -1 -1 -1 -1
+0 32 20 0 0 0 0 0 0
+A
+18 2
+A
+19 2
+A
+25 -2
+#35012
+spade~
+a simple wooden spade/c0~
+A simple wooden spade lays in the dirt.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+5 50 1 30 -1 -1 -1 -1 -1 -1
+0 50 1 0 0 0 0 0 0
+A
+2 -1
+A
+9 5
+#35013
+holy symbol golden~
+a /cYGolden Holy Symbol/c0~
+A beautifully worked Holy Symbol hangs on a chain.~
+~
+11 321 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+5 18666 20 70 -1 -1 -1 -1 -1 -1
+0 16 20 0 0 0 0 0 0
+#35014
+cape silken~
+a/cC Silken/cW Cape/c0~
+A beautifully worked capes lays here in a heap.~
+~
+11 0 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+20 24000 20 90 -1 -1 -1 -1 -1 -1
+0 -64 20 0 0 0 0 0 0
+C
+68 1
+#35015
+apron~
+/cWA plain cotton apron/c0~
+A plain cotton apron is here.~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+5 3867 1 20 -1 -1 -1 -1 -1 -1
+0 20 1 0 0 0 0 0 0
+A
+17 -1
+#35016
+potion red~
+/crA Red Potion/c0~
+A vial of red liquid sits here.~
+Gurgle Gurgle
+~
+10 0 0 0 0 1 0 0 0
+75 61 0 0 0 0 0 0
+5 3625 5 75 -1 -1 -1 -1 -1 -1
+0 -80 5 0 0 0 0 0 0
+#35017
+potion violet~
+/cPA Violet Potion/c0~
+A vial of violet fluid sits here.~
+~
+10 1 0 0 0 1 0 0 0
+75 36 36 36 0 0 0 0
+5 1500 10 75 -1 -1 -1 -1 -1 -1
+0 -36 10 0 0 0 0 0 0
+#35018
+potion paisley~
+a /cWP/cPa/cGi/cBs/cYl/cRe/cCy /cwPotion/c0~
+A funny colored liquid sits in a small vial.~
+~
+10 0 0 0 0 1 0 0 0
+70 43 43 43 0 0 0 0
+5 7980 5 70 -1 -1 -1 -1 -1 -1
+0 -80 5 0 0 0 0 0 0
+#35019
+potion pulsating~
+a /cCPulsating /ccPotion/c0~
+A pulsating liquid sit here in a small vial.~
+~
+10 0 0 0 0 1 0 0 0
+75 76 76 76 0 0 0 0
+5 8625 5 75 -1 -1 -1 -1 -1 -1
+0 20 5 0 0 0 0 0 0
+#35020
+potion hodge podge~
+/cYHodge/cP Podge /cBPotion/c0~
+An unfinished object is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+75 68 68 68 0 0 0 0
+5 2500 20 75 -1 -1 -1 -1 -1 -1
+0 -60 20 0 0 0 0 0 0
+#35026
+sconce torch light~
+a sconce of /cYgold/cw and/cW silver/cw~
+/cgA sconce of /cYgold /cgand /cWsilver /cgsheds light on the surrounding area.~
+~
+1 1 0 0 0 524288 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 160 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+C
+94 8
+$~

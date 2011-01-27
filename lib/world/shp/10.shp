@@ -1,0 +1,521 @@
+CircleMUD v3.0 Shop File~
+#1000~
+1052
+1053
+1057
+1084
+3050
+1055
+1054
+-1
+1.15
+0.15
+2
+3
+4
+-1
+%s Sorry, but like, I haven't got exactly that item.~
+%s Maybe if you had one of those...~
+%s I don't get into that funky stuff, man.~
+%s That is too expensive for me!~
+%s You don't got the green!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+2
+1000
+0
+1035
+-1
+0
+28
+0
+0
+#1001~
+6403
+-1
+1.40
+1.00
+8
+-1
+%s Haven't got that on storage - try list!~
+%s I don't know what that is!~
+%s I don't buy those!~
+%s I can't afford to buy that!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s You'll get %d coins for it!~
+1
+0
+1011
+0
+1034
+-1
+0
+28
+0
+0
+#1002~
+1022
+1051
+3062
+1090
+3052
+-1
+1.50
+0.40
+10
+2scroll
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I don't buy THAT... Try another shop.~
+%s I can't afford such a strong potion.~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+2
+1024
+0
+1017
+-1
+0
+28
+0
+0
+#1003~
+-1
+1.30
+0.40
+9
+-1
+%s I haven't got that kind of boots!~
+%s You don't carry those boots!~
+%s I only buy boots.~
+%s I can't afford such a great pair of boots!~
+%s sorry, but NO CREDIT!~
+%s That costs just %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1007
+0
+1033
+-1
+0
+28
+0
+0
+#1004~
+1060
+1061
+1062
+1063
+-1
+1.00
+0.50
+22
+-1
+%s Haven't got that on storage - try list!~
+%s You don't seem to have that.~
+%s I only buy boats.. Go away!~
+%s That is too expensive for me - Try a wizard!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+2
+1006
+0
+1010
+-1
+0
+28
+0
+0
+#1005~
+1004
+1064
+-1
+1.20
+0.90
+17
+-1
+%s Sorry pal, I have not got that kind of drink.~
+%s Okay, but let me see it first.~
+%s I only buy drinks.~
+%s I can't afford such a drink.~
+%s This drink is too expensive for you.~
+%s Here is your drink, I'll take %d gold coins.~
+%s What a fine deal, you get %d gold coins.~
+1
+2
+1046
+0
+1089
+-1
+0
+28
+0
+0
+#1006~
+1065
+1104
+-1
+1.00
+1.00
+17
+-1
+%s Sorry, that isn't on my list of things I can sell.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, I don't buy from outsiders.~
+%s Sorry, but here, no money means no goods!~
+%s That will be %d coins, please.  Thank you.~
+%s Here, you can have %d coins for that.~
+1
+2
+1009
+0
+1009
+-1
+0
+28
+0
+0
+#1007~
+1002
+1003
+1012
+1013
+-1
+1.00
+1.00
+-1
+%s No such - try list!~
+%s No buying, buddy.~
+%s No buying, buddy.~
+%s No buying, buddy.~
+%s No flow!  Hit the road!~
+%s That'll be %d coins, buddy.~
+%s Here, you can have %d coins for that.~
+1
+2
+1040
+0
+1032
+-1
+0
+28
+0
+0
+#1008~
+1040
+1041
+1042
+1043
+1044
+-1
+1.50
+0.50
+9
+-1
+%s Sorry, I don't have that -- try list!~
+%s Sorry, I don't buy armor from outsiders.~
+%s Sorry, I don't buy armor from outsiders.~
+%s Sorry, I don't buy armor from outsiders.~
+%s Sorry, but here, no money means no armor!~
+%s That will be %d coins, please.  Thank you.~
+%s I'll give you %d coins for that.~
+1
+2
+1004
+0
+1000
+-1
+0
+28
+0
+0
+#1009~
+1013
+1014
+-1
+1.10
+1.00
+-1
+%s It's very noisy in here, what did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Are you drunk or what?? - NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1042
+56
+1024
+-1
+0
+28
+0
+0
+#1010~
+1030
+1031
+1032
+1033
+-1
+1.50
+0.50
+1
+9
+15
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1002
+0
+1062
+-1
+0
+28
+0
+0
+#1011~
+1020
+1021
+1023
+1024
+1025
+-1
+1.10
+0.50
+5
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1003
+0
+1063
+-1
+0
+28
+0
+0
+#1012~
+1001
+1038
+1039
+-1
+1.70
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1043
+0
+1031
+1015
+-1
+0
+28
+0
+0
+#1013~
+1000
+1037
+-1
+1.50
+1.00
+-1
+%s Haven't got that on storage - try list!~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s If you have no money, you'll have to go!~
+%s That'll be %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1044
+88
+1019
+-1
+0
+28
+0
+0
+#1014~
+1009
+1010
+1011
+-1
+1.00
+1.00
+19
+-1
+%s What did you say you wanted to buy?~
+%s I don't buy!~
+%s I don't buy!~
+%s I don't buy!~
+%s Oh, bugger off, NO CREDIT!~
+%s That'll be - say %d coins.~
+%s Here, you can have %d coins for that.~
+1
+2
+1001
+0
+1016
+-1
+0
+28
+0
+0
+#1015~
+1066
+1067
+1068
+1069
+-1
+1.50
+0.50
+9
+-1
+%s Thorry, I don't thell those.~
+%s Sorry, Ducky, I don't buy those.!~
+%s Can't help, you there, love.~
+%s Can't afford to buy that, sweety.~
+%s You can't afford that, but maybe for a favor...~
+%s Thank you SO much, lovey, DO come again.~
+%s Come back anytime!~
+1
+2
+1016
+0
+1086
+-1
+0
+28
+0
+0
+#1016~
+1070
+1071
+-1
+1.50
+0.50
+9
+-1
+%s Nope.~
+%s Nope.~
+%s Nope.~
+%s Nope.~
+%s Nope.~
+%s Nope.~
+%s Nope.~
+1
+2
+1029
+84
+1067
+-1
+0
+28
+0
+0
+#1017~
+1072
+1073
+1074
+-1
+1.50
+0.50
+15
+-1
+%s Sorry, can't.~
+%s Sorry, can't.~
+%s I only offer carts and the like.~
+%s I can't afford that.~
+%s You can't afford that.~
+%s Thank you.~
+%s Thanks.~
+1
+2
+1090
+0
+1053
+-1
+0
+28
+0
+0
+#1020~
+-1
+1.50
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+1013
+88
+1020
+-1
+0
+28
+0
+0
+#1073~
+1093
+-1
+1.25
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+1015
+0
+1073
+-1
+0
+28
+0
+0
+$~

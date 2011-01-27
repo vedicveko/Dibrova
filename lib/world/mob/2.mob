@@ -1,0 +1,383 @@
+#200
+crow bird black~
+a large Crow~
+A fat, black crow is scavenging for food here.
+~
+It looks hungry.
+~
+12 0 0 0 64 0 0 0 -200 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Str: 8
+Dex: 20
+Int: 12
+Wis: 22
+Con: 12
+Cha: 8
+Luck: 10
+Race: 3
+E
+#201
+cub lion baby~
+a cute lion Cub~
+You see a cute little lion cub.  Where is it's mother?
+~
+It looks harmless.  The little cub is furry and playful but you know
+it is destined to become a fierce fighter.    
+~
+2248 0 0 0 0 0 0 0 40 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Str: 19
+Dex: 15
+Int: 22
+Wis: 22
+Con: 13
+Cha: 24
+Luck: 23
+Race: 1
+E
+#202
+murphy st saint~
+Saint Murphy~
+St. Murphy is here and her eyes are focused on you.
+~
+She is the picture of beauty and strength.  You understand completely
+that this magnificent creature is perhaps as near perfect as any a
+mortal will see.    
+~
+155674 0 0 0 268437840 0 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+750 110785
+8 8 2
+Str: 18
+Dex: 15
+Int: 6
+Wis: 5
+Cha: 18
+Luck: 20
+Class: 2
+Race: 14
+E
+#203
+golem wandering~
+a wandering Golem~
+A wandering golem is here.
+~
+This thing does the bidding of St.  Murphy day in and day out without
+thought.  It has no malice, no greed, and no feelings.  The perfect
+servant.    
+~
+72 0 0 0 2048 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 0
+Str: 8
+Dex: 21
+Int: 16
+Wis: 9
+Con: 16
+Cha: 13
+Luck: 17
+Race: 33
+E
+#204
+wolf white~
+a handsome, white Wolf~
+A handsome, white wolf eyes you curiously.
+~
+This wolf has impossible white fur and large paws.  It doesn't seem
+especially aggressive.    
+~
+8 0 0 0 0 0 0 0 200 E
+6 1 76 1d6+70 1d2+3
+0 451
+8 8 0
+Str: 18
+Dex: 19
+Int: 5
+Wis: 9
+Con: 16
+Cha: 14
+Luck: 10
+Race: 1
+E
+#205
+boy child playing~
+a young Boy~
+A young boy is playing nearby.
+~
+The boy is playing contentedly by himself.  His hair is neatly styled
+with, no doubt, his mothers spittle.    
+~
+204 0 0 0 0 0 0 0 40 E
+3 0 88 1d3+20 1d1+1
+50 77
+8 8 1
+Str: 14
+Dex: 5
+Int: 13
+Wis: 8
+Con: 8
+Cha: 8
+Luck: 17
+Class: 14
+E
+#206
+pelican~
+a Pelican~
+a fat pelican waddles nearby eating bits of washed-up fish.
+~
+The pelican doesn't seem to bothered by your presence.  It's much too
+preoccupied with a rotting fish-carcass at the moment.    
+~
+142 0 0 0 0 0 0 0 -60 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Str: 7
+Dex: 8
+Int: 9
+Wis: 15
+Con: 20
+Cha: 6
+Luck: 23
+Race: 3
+E
+#207
+shrubbery walrus~
+the ferocious Shrubbery~
+Some sculpted shrubbery is here.  Did it move?  There's no wind.
+~
+This thing is really very creepy.  It seems must too realistic for a
+plant.  In fact, you are almost certain that its eyes are following
+your movements but that's just crazy, right?    
+~
+57354 0 0 0 8192 0 0 0 400 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 2
+Str: 16
+Dex: 20
+Int: 12
+Wis: 21
+Con: 13
+Cha: 14
+Luck: 10
+Race: 26
+E
+#208
+angel woman~
+a beautiful Angel~
+An angel is here tending to the garden.
+~
+The angel show you a friendly smile and turns back to her chores.
+~
+8330 0 0 0 402663504 0 0 0 1000 E
+40 21 -20 1d40+2525 4d5+26
+500 59862
+8 8 2
+Str: 10
+Dex: 12
+Int: 6
+Wis: 15
+Con: 20
+Cha: 25
+Luck: 18
+Class: 2
+Race: 45
+E
+#209
+yo mama~
+the Yo Mama Monster~
+A yo mama monster stands here.
+~
+A yo mama monster stands here.
+~
+8 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+Str: 8
+Dex: 8
+Int: 14
+Wis: 16
+Con: 18
+Cha: 15
+Luck: 21
+E
+#210
+cherub~
+a Cherub~
+A cherub shimmers in the air before you, existing on some higher plane.
+~
+It does not even seem to notice you there.  Maybe it really is on some
+higher plane of existance.    
+~
+72 0 0 0 260 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 0
+Str: 8
+Dex: 17
+Int: 23
+Wis: 19
+Con: 12
+Cha: 19
+Luck: 25
+Class: 2
+Race: 45
+E
+#211
+seraph~
+a Seraph~
+A beautiful seraph hovers just before you, the image shifting a bit as you stare.
+~
+You try to reach out and touch it, but your hands pass right through.    
+~
+72 0 0 0 524548 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 0
+Str: 18
+Dex: 15
+Int: 22
+Wis: 14
+Con: 13
+Cha: 25
+Luck: 24
+Class: 6
+Race: 45
+E
+#212
+maximillon~
+the Archangel Maximillon~
+The Archangel Maximillon wanders by, pining for his lost love, St. Murphy.
+~
+You find it almost impossible to believe that you are actually staring
+at an archangel right now.  An archangel that doen't even care that
+you are looking at him.    
+~
+16456 0 0 0 590084 4194304 0 0 1000 E
+50 29 -28 1d50+6000 5d5+33
+750 110785
+8 8 0
+Str: 20
+Dex: 10
+Int: 19
+Wis: 14
+Con: 22
+Cha: 8
+Luck: 9
+Class: 6
+Race: 45
+E
+#240
+dog guard~
+a Guard Dog~
+The vicious guard dog attacks you!
+~
+This mangy bitch is dark brown, except where her fur has fallen out.
+~
+532522 0 0 0 0 0 0 0 -200 E
+6 1 76 0d0+0 1d2+3
+0 451
+8 8 1
+Str: 9
+Dex: 22
+Int: 8
+Wis: 5
+Con: 15
+Cha: 12
+Luck: 21
+Race: 1
+E
+#241
+guard kobold~
+the kobold Guard~
+A kobold guard stops you.
+~
+This tiny four foot kobold guard has stepped in front of you.  I guess
+he wants you to stop.  He should have said please.    
+~
+6154 0 0 0 0 0 0 0 -400 E
+9 2 64 0d0+0 1d2+6
+15 1270
+8 8 1
+Str: 6
+Dex: 8
+Int: 12
+Wis: 15
+Con: 5
+Cha: 24
+Luck: 18
+Race: 31
+E
+#242
+Tabbor kobold leader~
+Tabbor, the kobold Leader~
+Tabbor, the kobold leader attacks you.
+~
+Tabbor is wearing the fingers of small children around his neck.  He
+has a baby's thigh bones through his ears and wears a wig of blond
+hair on his gross little green head.    
+~
+16426 0 0 0 65536 4194304 0 0 -500 E
+15 5 40 0d0+0 1d5+7
+325 4674
+8 8 1
+Str: 22
+Dex: 22
+Int: 19
+Wis: 7
+Con: 24
+Cha: 12
+Luck: 6
+Class: 4
+Race: 31
+E
+#243
+soldier kobold~
+a kobold Soldier~
+An armed kobold soldier stands here.
+~
+This little guy looks like a 10 year old with a few pieces of armor on.
+~
+72 0 0 0 0 0 0 0 -400 E
+11 3 56 0d0+0 1d2+7
+25 2119
+8 8 1
+Str: 16
+Dex: 19
+Int: 15
+Wis: 7
+Con: 24
+Cha: 19
+Luck: 14
+Race: 31
+E
+#244
+shaman kobold~
+the kobold Shaman~
+The kobold shaman is here chanting in a strange tongue.
+~
+This little guy is trying hard to be impressive.  His squeaky little
+voice hurts the attempt tho'.    
+~
+10 0 0 0 0 0 0 0 -200 E
+12 3 52 0d0+0 1d2+8
+25 2646
+8 8 1
+Str: 15
+Dex: 9
+Int: 21
+Wis: 13
+Con: 5
+Cha: 22
+Luck: 24
+Class: 2
+Race: 31
+E
+$

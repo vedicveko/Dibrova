@@ -1,0 +1,1775 @@
+#5700
+On The Cobblestone Road~
+You are walking on a cobblestone road just outside of the town of
+Silverthorne.  The town is to the east surrounded by its great wall.
+Guards are patrolling on the top of the wall.    
+~
+57 0 0 0 0 2
+D1
+~
+~
+0 0 5701 0
+D3
+~
+~
+0 0 639 0
+S
+#5701
+On The Cobblestone Road~
+You are walking on a cobblestone road just outside of the town of
+Silverthorne.  The town is to the east surrounded by its great wall.
+Guards are patrolling on the top of the wall.    
+~
+57 0 0 0 0 2
+D1
+~
+~
+0 0 5702 0
+D3
+~
+~
+0 0 5700 0
+S
+#5702
+Before The Great Wall~
+You stand before the gate of Silverthorne.  Traditionally, this is the
+post where two Silver Knights stand guard, keeping Silverthorne safe
+from its enemies.  There is a small rope ladder leading to the top of
+the wall.  The town is to the east.    
+~
+57 8 0 0 0 1
+D1
+~
+gate~
+1 0 5737 1
+D3
+~
+~
+0 0 5701 0
+D4
+~
+~
+0 0 5703 0
+S
+#5703
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5704 0
+D2
+~
+~
+0 0 5736 0
+D5
+~
+~
+0 0 5702 0
+S
+#5704
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5705 0
+D2
+~
+~
+0 0 5703 0
+S
+#5705
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5706 0
+D2
+~
+~
+0 0 5704 0
+S
+#5706
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5707 0
+D2
+~
+~
+0 0 5705 0
+S
+#5707
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5708 0
+D2
+~
+~
+0 0 5706 0
+S
+#5708
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5709 0
+D2
+~
+~
+0 0 5707 0
+S
+#5709
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5710 0
+D3
+~
+~
+0 0 5708 0
+S
+#5710
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5711 0
+D3
+~
+~
+0 0 5709 0
+S
+#5711
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5712 0
+D3
+~
+~
+0 0 5710 0
+S
+#5712
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5713 0
+D3
+~
+~
+0 0 5711 0
+S
+#5713
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5714 0
+D3
+~
+~
+0 0 5712 0
+S
+#5714
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D2
+~
+~
+0 0 5715 0
+D3
+~
+~
+0 0 5713 0
+S
+#5715
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5714 0
+D2
+~
+~
+0 0 5716 0
+S
+#5716
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5715 0
+D2
+~
+~
+0 0 5717 0
+S
+#5717
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5716 0
+D2
+~
+~
+0 0 5718 0
+S
+#5718
+On The Great Wall~
+The wall has ended here because this is where one of the twin towers
+is erected.  It stands high into the sky.  There is no other choice
+but to turn back.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5717 0
+S
+#5719
+The Bottom Of The Watch Tower~
+You are in the base of the great watchtower.  There is a staircase
+that leads up to the top of the tower.  The walls are a greyish-white
+color and the floor is the earth.  The stairs are made out of a rich
+colored wood.  They seem to spiral up forever.  There is a small table
+in the corner of the room.    
+~
+57 0 0 0 0 0
+D2
+~
+~
+0 0 5720 0
+D4
+~
+~
+0 0 5758 0
+E
+table~
+It is a simple, small round table that is used by the guards when they
+are on break or off duty.    
+~
+S
+#5720
+Between The Twin Towers~
+You are standing between the two watch towers.  They are to the north
+and south.  The towers were build long ago for Silverthorne to prevent
+another disaster like that of the red dragon.  You can explore both
+towers though you feel they are the same.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5719 0
+D1
+~
+~
+0 0 9860 0
+D2
+~
+~
+0 0 5721 0
+D3
+~
+~
+0 0 5757 0
+S
+#5721
+The Bottom Of The Watch Tower~
+You are in the base of the great watchtower.  There is a staircase
+that leads up to the top of the tower.  The walls are a greyish-white
+color and the floor is the earth.  The stairs are made out of a rich
+colored wood.  They seem to spiral up forever.  There is a small table
+in the corner of the room.    
+~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5720 0
+D4
+~
+~
+0 0 5761 0
+E
+table~
+It is a simple, small round table that is used by the guards when they
+are on break or off duty.    
+~
+S
+#5722
+On The Great Wall~
+The wall has ended here because this is where one of the twin towers
+is erected.  It stands high into the sky.  There is no other choice
+but to turn back.    
+~
+57 0 0 0 0 10
+D2
+~
+~
+0 0 5723 0
+S
+#5723
+On The Great Wall~
+You stand on the Great Wall looking out over the horizon.  With the
+woods to your west, the breeze gently blowing through the treetops,
+and the plains stretching out to the north, you could almost believe
+that the land is full of nothing but goodness and purity.  Until you
+hear a far-off cry from somewhere in the city of, "STOP!  THIEF!".
+Ah, well...  You may continue to the north or south.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5722 0
+D2
+~
+~
+0 0 5724 0
+S
+#5724
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5723 0
+D2
+~
+~
+0 0 5725 0
+S
+#5725
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5724 0
+D2
+~
+~
+0 0 5726 0
+S
+#5726
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5725 0
+D3
+~
+~
+0 0 5727 0
+S
+#5727
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5726 0
+D3
+~
+~
+0 0 5728 0
+S
+#5728
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5727 0
+D3
+~
+~
+0 0 5729 0
+S
+#5729
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5728 0
+D3
+~
+~
+0 0 5730 0
+S
+#5730
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5729 0
+D3
+~
+~
+0 0 5765 0
+S
+#5731
+On The Great Wall~
+You are in an unfinished room.  Structure seems to be in good
+condition.  It is constructed of of many smallstones and pebbles
+cemented together.  There are a few guards patrolling on the top of
+the wall.  You can see all of the town of Silverthorne from up here.
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5730 0
+D3
+~
+~
+0 0 5732 0
+S
+#5732
+On The Great Wall~
+You are standing on the great wall of Silverthorne.  This ancient
+structure seems to be in good condition.  It is constructed of many
+small stones and pebbles cemented together.  There are a few guards
+patrolling on the top of the wall.  You can see all of the town of
+Silverthorne from up here.    
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5733 0
+D1
+~
+~
+0 0 5765 0
+S
+#5733
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5734 0
+D2
+~
+~
+0 0 5732 0
+S
+#5734
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5735 0
+D2
+~
+~
+0 0 5733 0
+S
+#5735
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5736 0
+D2
+~
+~
+0 0 5734 0
+S
+#5736
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of 
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D0
+~
+~
+0 0 5703 0
+D2
+~
+~
+0 0 5735 0
+S
+#5737
+The Entrance Road~
+You are on a small dirt road.  The bulk of the town is to the east.  
+The wall is to the west.  To the north is the town stable, where you
+may shelter your steed for duration of your stay.    
+~
+57 8 0 0 0 1
+D0
+~
+~
+0 0 5772 0
+D1
+~
+~
+0 0 5738 0
+D3
+~
+~
+0 0 5702 0
+S
+#5738
+Western City Square~
+You are standing just west of the center of town.  Passers by nod
+their heads as they pass.  You feel a sense of peace in this small
+farming community.  You can go in any direction here.    
+~
+57 8 0 0 0 1
+D0
+~
+~
+0 0 5739 0
+D1
+~
+~
+0 0 5747 0
+D2
+~
+~
+0 0 5740 0
+D3
+~
+~
+0 0 5737 0
+S
+#5739
+Northwestern City Square~
+You are standing just north and west of the center of town.  Passers
+by nod their heads as they pass.  You feel a sense of peace in this
+small farming community.  To the north is the Post Office, west is the
+Bank.  The City Square continues to the east and south.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5767 0
+D1
+~
+~
+0 0 5746 0
+D2
+~
+~
+0 0 5738 0
+D3
+~
+~
+0 0 5766 0
+S
+#5740
+Southwestern City Square~
+You are standing just south and west of the center of town.  Passers
+by nod their heads as they pass.  You feel a sense of peace in this
+small farming community.  The square continues off to the north and
+east, to your south is the small road which leads to the Guild Area in
+Silverthorne.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5738 0
+D1
+~
+~
+0 0 5748 0
+D2
+~
+~
+0 0 5774 0
+S
+#5741
+The Bake Shop~
+A burst of heat hits you as you enter the bake shop.  The baker is
+just getting a pan of baked goods from his oven.  He smiles at you as
+you drool over his creations.  He wipes the sweat from his brow and
+gets back to work.    
+~
+57 16 0 0 0 0
+D1
+~
+~
+0 0 5744 0
+S
+#5742
+The Weapons Shop~
+You have entered the weapons shop.  A heavily muscled man is in the
+corner forging a new warhammer.  There are all kinds of implements of
+destruction hanging on the walls.  You think you could use a new
+weapon.    
+~
+57 0 0 0 0 0
+D1
+~
+~
+0 0 5750 0
+S
+#5743
+The Scribe's Shop~
+You have entered the scribe's shop.  Various scrolls are on the
+shelves.  The scribe seems not to notice you until you approach.  He
+is busily working on a new scroll.    
+~
+57 16 0 0 0 0
+D2
+~
+~
+0 0 5744 0
+S
+#5744
+The Market Square~
+You are standing in a small sized square dedicated to personal needs.
+The scribe is to the north, baker to the west, and the local tavern
+'The Dead Chimpmunk' is east.  You can head back toward the center of
+town by going south.  You can see the twin watch towers far off th the
+east and south.  The ground here feels odd beneath your feet - almost
+hollow.  It makes you wonder if something might lie beneath you.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5743 0
+D1
+~
+~
+0 0 5752 0
+D2
+~
+~
+0 0 5745 0
+D3
+~
+~
+0 0 5741 0
+D5
+~
+trapdoor~
+1 0 527 3
+S
+#5745
+The Dusty Road~
+You are on a small dirt path between the center square and the market
+square.  The center is south and the market is north.  To the east is
+a small stone obelisk raised on a dias, upon which lay a clutter of
+objects.  Just west of you is the entrance to the Town Meeting Hall.
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5744 0
+D1
+~
+~
+0 0 5770 0
+D2
+~
+~
+0 0 5746 0
+D3
+~
+~
+0 0 5794 0
+S
+#5746
+Northern City Square~
+You are standing just north of the center of town.  Passers by nod
+their heads as they pass.  You feel a sense of peace in this small
+farming community.  You can go in any direction here.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5745 0
+D1
+~
+~
+0 0 5754 0
+D2
+~
+~
+0 0 5747 0
+D3
+~
+~
+0 0 5739 0
+S
+#5747
+The Center Of City Square~
+You are standing in the center of the town of Silverthorne.  People go
+about their daily rountines paying no attention to one another.  You
+notice the intricate carvings on the fountain in the middle of the
+square.  They seem to tell a tale of times past when a great warrior
+killed the mighty red dragon.  You can go in any direction you please
+from here.    
+~
+57 20 0 0 0 1
+D0
+~
+~
+0 0 5746 0
+D1
+~
+~
+0 0 5755 0
+D2
+~
+~
+0 0 5748 0
+D3
+~
+~
+0 0 5738 0
+S
+#5748
+Southern City Square~
+You are standing just south of the center of town.  Passers by nod
+their heads as they pass.  You feel a sense of peace in this small
+farming community.  You can go in any direction here.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5747 0
+D1
+~
+~
+0 0 5756 0
+D2
+~
+~
+0 0 5749 0
+D3
+~
+~
+0 0 5740 0
+S
+#5749
+The Dusty Road~
+You are on a small dirt path between the center square and the hunter
+square.  The center is north and the hunter is south.  To the west is
+the entrance to Abernathy's General Store, a landmark in this here
+town.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5748 0
+D2
+~
+~
+0 0 5750 0
+D3
+~
+~
+0 0 5771 0
+S
+#5750
+The Hunting Square~
+You are in a small sized square dedicated to hunting needs.  The men
+that are shopping here are large and burly.  The cobbler is to the
+south.  The weaponsmith is west and the armoury is east.  You can head
+back to the center of town north.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5749 0
+D1
+~
+~
+0 0 5764 0
+D2
+~
+~
+0 0 5751 0
+D3
+~
+~
+0 0 5742 0
+S
+#5751
+The Cobbler's Shop~
+You have entered a very small shop belonging to the cobbler.  He sits
+at a table sewing a new pair of shoes.  He seems to have quite a
+collection of shoes on the shelves and you wonder in he has made them
+all by hand.    
+~
+57 0 0 0 0 0
+D0
+~
+~
+0 0 5750 0
+S
+#5752
+The Dead Chimpmunk Tavern~
+As you enter, the stench almost knocks you over.  There are many
+patrons seated at the bar.  There are also a few unused tables next to
+the west windows.  The bartender is the largest man you have ever laid
+eyes on.  He wears a bearskin coat and has a grizzly face.    
+~
+57 0 0 0 0 0
+D3
+~
+~
+0 0 5744 0
+S
+#5753
+The Lazy Elk Inn~
+You have entered Silverthorne's small inn.  The innkeeper sits behind
+a small table widdling a piece of wood into what looks like a duck.  
+The fire on the east wall is warming and you feel a great peace.    
+~
+57 20 0 0 0 0
+D2
+~
+~
+0 0 5754 0
+S
+#5754
+Northeastern City Square~
+You are standing just north and east of the center of town.  Passers
+by nod their heads as they pass.  You feel a sense of peace in this
+small farming community.  You can go south or west here.  To the north
+is the Lazy Elk Inn, a small, tidy inn with a good reputation in this
+town as being a good place to rest the night.  To the east is the
+teleporter's shop, where one may purchase instant travel to other
+realms of Dibrova.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5753 0
+D1
+~
+~
+0 0 5769 0
+D2
+~
+~
+0 0 5755 0
+D3
+~
+~
+0 0 5746 0
+S
+#5755
+Eastern City Square~
+You are standing just east of the center of town.  Passers by nod
+their heads as they pass.  You feel a sense of peace in this small
+farming community.  You can go in any direction here.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5754 0
+D1
+~
+~
+0 0 5757 0
+D2
+~
+~
+0 0 5756 0
+D3
+~
+~
+0 0 5747 0
+S
+#5756
+Southeastern City Square~
+. Citizens nod their heads as they pass.  You feel a sense of peace in
+this small farming community.  You can go north or west here.  To the
+east is the Water Master's small shop.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5755 0
+D1
+~
+~
+0 0 5768 0
+D3
+~
+~
+0 0 5748 0
+S
+#5757
+The Dusty Road~
+You are on a small dirt road.  The bulk of the town is to the west.  
+The twin towers stand to the east.  They seem to stretch to the
+heavens.  To your north is the entrance to the Town Clinic where Abel
+Jonstone, the town physician, fumbles drunkenly through each
+operation.    
+~
+57 0 0 0 0 1
+D0
+~
+~
+0 0 5773 0
+D1
+~
+~
+0 0 5720 0
+D3
+~
+~
+0 0 5755 0
+S
+#5758
+The Spiral Staircase~
+You are on a spiral staircase leading up and down in the watch tower.
+The bottom of the tower is just down from here, the stairs go on for quite
+some distance.    
+~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5759 0
+D5
+~
+~
+0 0 5719 0
+S
+#5759
+The Spiral Staircase~
+You are on a spiral staircase leading up and down in the watch tower.
+The stairs lead up to a flooring just above your head - the top of the
+tower where a viglant stands watched.  Downward, the stairs spiral for
+quite some distance.    
+~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5760 0
+D5
+~
+~
+0 0 5758 0
+S
+#5760
+The Top Of The Watchtower~
+You have reached the top of the tower.  You can see for miles from up
+here.  The town of Silverthorne has never been surprised by a battle
+and now you can see why.  The wind blows briskly reminding you how far
+off the ground you are.  The staircase leads down.    
+~
+57 0 0 0 0 10
+D5
+~
+~
+0 0 5759 0
+S
+#5761
+The Spiral Staircase~
+You are on a spiral staircase that spirals up and down the length of
+the tower.  The bottom of the tower is just down from here, the stairs
+go up for quite some distance.    
+~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5762 0
+D5
+~
+~
+0 0 5721 0
+S
+#5762
+The Spiral Staircase~
+You are on a spiral staircase leading up and down in the watch tower.
+The stairs lead up to a flooring just above your head - the top of the
+tower where a viglant stands watched.  Downward, the stairs spiral for
+quite some distance.    
+~
+57 0 0 0 0 0
+D4
+~
+~
+0 0 5763 0
+D5
+~
+~
+0 0 5761 0
+S
+#5763
+The Top Of The Watchtower~
+You have reached the top of the tower.  You can see for miles from up
+here.  The town of Silverthorne has never been surprised by a battle
+and now you can see why.  The wind blows briskly reminding you how far
+off the ground you are.  The staircase leads down.    
+~
+57 0 0 0 0 10
+D5
+~
+~
+0 0 5762 0
+S
+#5764
+The Armour Shop~
+You have entered a medium size, but very tidy store.  A small man sits
+behind a counter.  There are pieces of armour for sale here.  They sit
+on table or hang on the wall.  They look to be well crafted and
+durable.  Good qualities for an adventurer like yourself.    
+~
+57 0 0 0 0 0
+D3
+~
+~
+0 0 5750 0
+S
+#5765
+On The Great Wall~
+You are standing on the great wall of Silverthorne. This ancient
+structure seems to be in good condition. It is constructed of many
+small stones and pebbles cemented together. There are a few guards 
+patrolling on the top of the wall. You can see all of the town of
+Silverthorne from up here.
+~
+57 0 0 0 0 10
+D1
+~
+~
+0 0 5730 0
+D3
+~
+~
+0 0 5732 0
+S
+#5766
+Silverthorne City Bank~
+Unlike many of the larger towns and cities in Dibrova, this bank has
+not taken the profits they make to create a gaudily decorated building
+for all to envy and admire, rather they have given better interest
+rates and helped to support the community with the funds that are in
+excess of the small salaries the employees take.  The people of
+Silverthorne are very proud of their bank and its proprieter.    
+~
+57 20 0 0 0 0
+D1
+~
+~
+0 0 5739 0
+S
+#5767
+Post Office~
+You may only enter within a small lobby which is fronted by a counter
+running the length of the place.  Behind the counter are heaps and
+stacks of disorderly papers, boxes, and crates.  How the postmaster
+can find a damn thing in that mess is beyond you...    
+~
+57 24 0 0 0 0
+D2
+~
+~
+0 0 5739 0
+S
+#5768
+The Water Master~
+To one side of you casks have been stacked to the rafters, on the
+opposite wall canteens hang from leather straps off hooks.  Various
+sized goblets are arrayed in a display case which doubles as the front
+counter for the shop.    
+~
+57 16 0 0 0 0
+D3
+~
+~
+0 0 5756 0
+S
+#5769
+Silverthorne Teleporters~
+This room has been made into a very fancy, opulent place where one may
+enjoy many luxuries while awaiting transport time if need be.  A
+comfortable divan lies against the north wall facing the main
+teleportation area where one may watch others as they get transfered
+from this room to any of the wondrous realms this shop services.    
+~
+57 16 0 0 0 0
+D3
+~
+~
+0 0 5754 0
+S
+#5770
+Donation Area~
+Here one may find objects that could be of use.  Remember that the
+only people who may use these objects are others of your town kindred,
+so do not frivolously waste the items here - another of your townsmen
+may have need of one of these items.    
+~
+57 20 0 0 0 1
+D3
+~
+~
+0 0 5745 0
+S
+#5771
+Abernathy's General Store~
+This little hole in the wall general store has been a functioning part
+of Silverthorne since before it was known as Silverthorne.  Old
+Abernathy started tending shop back when he realized that his chances
+of being a successful farmer were slim and none (due to a bad back),
+so he decided that - instead of leaving all the fine folk of the
+village - he would open a general store to help serve all his friends
+that much the better.  And he stills tends shop to this day.    
+~
+57 8 0 0 0 0
+D1
+~
+~
+0 0 5749 0
+S
+#5772
+City Stables~
+The place is not large, but definitely adequate for the size of this
+small farming community.  The stableboy will gladly take your steed
+and care for it for the duration of your stay if you desire.    
+~
+57 24 0 0 0 0
+D2
+~
+~
+0 0 5737 0
+S
+#5773
+The Clinic~
+This one-room building with a small guerney and a counter with a water
+basin on top services the whole of this small community, caring for
+its people.  The once white washed walls have faded into a dingy
+tan-brown color, the guerney looks as if Abel might use it for his bed
+when he's on the outs with the wife.  Ah well, if the locals can deal
+with it, so can you.    
+~
+57 24 0 0 0 0
+D2
+~
+~
+0 0 5757 0
+E
+counter~
+There is a drawer at the top, two doors which appear to open outward
+(Abel's medical tools and whiskey would probably be there), and in the
+very top, a built-in space for a water basin.  Pretty cool.    
+~
+E
+guerney~
+It's a bit rusted, maybe a few holes in the cushions that lay atop it,
+but it appears functional.  Have a seat.    
+~
+S
+#5774
+The Guild Road~
+This neatly cobbled road runs south past identical buildings made of
+stone which respresent the eight guilds of Dibrova here in
+Silverthorne.  It is almost beyond belief that all eight guilds could
+function so close to each other, due to their natural tendency toward
+competition and in some cases, dislike.  The City Square lies just
+north of here.  To the east is the Mage's Guild, to the west the
+Paladin Guild.    
+~
+57 16 0 0 0 1
+D0
+~
+~
+0 0 5740 0
+D1
+~
+~
+0 0 5778 0
+D2
+~
+~
+0 0 5775 0
+D3
+~
+~
+0 0 5780 0
+S
+#5775
+The Guild Road~
+This neatly cobbled road runs south past identical buildings made of
+stone which respresent the eight guilds of Dibrova here in
+Silverthorne.  It is almost beyond belief that all eight guilds could
+function so close to each other, due to their natural tendency toward
+competition and in some cases, dislike.  To the east is the Gladiator
+Guild, to the west the Cleric's Guild.    
+~
+57 16 0 0 0 1
+D0
+~
+~
+0 0 5774 0
+D1
+~
+~
+0 0 5782 0
+D2
+~
+~
+0 0 5776 0
+D3
+~
+~
+0 0 5784 0
+S
+#5776
+The Guild Road~
+This neatly cobbled road runs south past identical buildings made of
+stone which respresent the eight guilds of Dibrova here in
+Silverthorne.  It is almost beyond belief that all eight guilds could
+function so close to each other, due to their natural tendency toward
+competition and in some cases, dislike.  To the east is the Thieven
+Guild, to the west is the Deathknight's Guild.    
+~
+57 16 0 0 0 1
+D0
+~
+~
+0 0 5775 0
+D1
+~
+~
+0 0 5786 0
+D2
+~
+~
+0 0 5777 0
+D3
+~
+~
+0 0 5788 0
+S
+#5777
+The Guild Road~
+This neatly cobbled road runs south past identical buildings made of
+stone which respresent the eight guilds of Dibrova here in
+Silverthorne.  It is almost beyond belief that all eight guilds could
+function so close to each other, due to their natural tendency toward
+competition and in some cases, dislike.  To the east is the Monk's
+Guild, to the west is the Ranger's Guild.    
+~
+57 16 0 0 0 1
+D0
+~
+~
+0 0 5776 0
+D1
+~
+~
+0 0 5790 0
+D3
+~
+~
+0 0 5792 0
+S
+#5778
+Mage's Board Room~
+This room serves as the antchamber and Board Room for the Mage Guild.
+Mages from any Mage guild in Dibrova may leave messages for other
+mages on this board and it will be duplicated in every Mage Guild in
+Dibrova.  There are a few comfortable chairs and divans scattered
+around the room for those who wish to rest in comfort.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5779 0
+D3
+~
+~
+0 0 5774 0
+S
+#5779
+Mage's Guild~
+Most of the blast marks from inept sorceror's bungled spells are able
+to be cleaned away, leaving the walls of this room very clean looking.
+This is where one may practice in the arts of Sorcery or gain level
+through advancement and the benediction of the Master.    
+~
+57 28 0 0 0 0
+D3
+~
+~
+0 0 5778 0
+S
+#5780
+Board Room~
+This clean, white walled room serves as the antechamber and Board Room
+for the Paladin Guild.  Any messages posted on this board will
+instantly be posted on every Paladin Guild Board in Dibrova.  There
+are a few comfortable chairs scattered about the room if you wish to
+rest in this safe haven.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5774 0
+D3
+~
+~
+0 0 5781 0
+S
+#5781
+Paladin Guild~
+This room hardly seems large enough to practice your skills of battle
+in, but then you are not the Master and he is not the student.  You
+may practice any skills not yet learned yet, or advance to the next
+level if deemed worthy.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5780 0
+S
+#5782
+Board Room~
+This room serves asthe antechamber and Board Room to the Guild of
+Gladiators.  Any message posted on this board will instantly be posted
+on every Gladiator Guild Board in Dibrova.  There are a few
+uncomfortable looking chairs scattered about if you wish to relax
+before entering into the main guild room.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5783 0
+D3
+~
+~
+0 0 5775 0
+S
+#5783
+Gladiator Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill, type PRAC (skillname), if you are ready to
+advance a level and have your level eq on, type GAIN.    
+~
+57 28 0 0 0 0
+D3
+~
+~
+0 0 5782 0
+S
+#5784
+The Holy Board Room~
+   This room serves asthe antechamber and Board Room to the Guild of
+Clerics.  Any message posted on this board will instantly be posted on
+every Cleric Guild Board in Dibrova.  There are a few low couches and
+chairs lied against the south wall, if you wish to rest in this
+tranquil place.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5775 0
+D3
+~
+~
+0 0 5785 0
+S
+#5785
+Cleric's Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill or spell, type PRAC (skill or spell name), if
+you are ready to advance a level and have your level eq on, type GAIN.
+  
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5784 0
+S
+#5786
+Board Room~
+This room serves as the antechamber and Board Room to the Guild of
+Thieves.  Any message posted on this board will instantly be posted on
+every Thieven Guild Board in Dibrova.  There are a scattered
+assortment of expensive looking chairs and couches scattered about, if
+you wish to relax here for a while.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5787 0
+D3
+~
+~
+0 0 5776 0
+S
+#5787
+Thieve's Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill, type PRAC (skillname), if you are ready to
+advance a level and have your level eq on, type GAIN.    
+~
+57 28 0 0 0 0
+D3
+~
+~
+0 0 5786 0
+S
+#5788
+Board Room~
+This room serves as the antechamber and Board Room to the Guild of
+Deathknights.  Any message posted on this board will instantly be
+posted on every Deathknight Guild Board in Dibrova.  If you wish to
+relax before continuing on your way, there are a few chairs scattered
+about the room for just that purpose.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5776 0
+D3
+~
+~
+0 0 5789 0
+S
+#5789
+Deathknight's Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill or spell, type PRAC (skill or spell name), if
+you are ready to advance a level and have your level eq on, type GAIN.
+  
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5788 0
+S
+#5790
+Board Room~
+This room serves as the antechamber and Board Room to the Guild of
+Monks.  Any message posted on this board will instantly be posted on
+every Monk Guild Board in Dibrova.  There are some cushions scattered
+about the floor if you wish to meditate or simply rest before
+continuing on your journeys.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5791 0
+D3
+~
+~
+0 0 5777 0
+S
+#5791
+Monk's Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill or spell, type PRAC (skill or spell name), if
+you are ready to advance a level and have your level eq on, type GAIN.
+~
+57 28 0 0 0 0
+D3
+~
+~
+0 0 5790 0
+S
+#5792
+Board Room~
+This room serves as the antechamber and Board Room to the Guild of
+Rangers.  Any message posted on this board will instantly be posted on
+every Ranger Guild Board in Dibrova.  This is a wonderful place to
+rest a bit before heading back out into the wilderness, if you so
+desire.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5777 0
+D3
+~
+~
+0 0 5793 0
+S
+#5793
+Ranger's Guild~
+This small rooms is the practice and advancement room for your Guild.
+To practice any skill, type PRAC (skillname), if you are ready to
+advance a level and have your level eq on, type GAIN.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5792 0
+S
+#5794
+The Town Meeting Hall~
+This building's function is exactly what its name implies it might be.
+Additions to the town, laws and ordinances and all town matters are
+discussed here once a month, the town mayor or the immortal sponsor
+for this town presiding.  To the north, south and west or small rooms
+dedicated to various boards which act as the main hub of communication
+for Dibrova.    
+~
+57 28 0 0 0 0
+D0
+~
+~
+0 0 5796 0
+D1
+~
+~
+0 0 5745 0
+D2
+~
+~
+0 0 5797 0
+D3
+~
+~
+0 0 5795 0
+S
+#5795
+Reading Room~
+This is where players may post messages to other players, to the gods,
+or just post messages about whatever is on their mind at the time.  
+This is not meant to be used as a flame board, if a message is deemed
+to be a flame, it will be removed immediately.    
+~
+57 28 0 0 0 0
+D1
+~
+~
+0 0 5794 0
+S
+#5796
+The Suggestion Room~
+This room and its board are here for players who wish to make
+suggestions in the development of Dibrova, at any level.  We are very
+willing to take any suggestions you may have, so please feel free to
+post anything that may be something you'd like to be a part of the
+game.    
+~
+57 28 0 0 0 0
+D2
+~
+~
+0 0 5794 0
+S
+#5797
+The Quest Room~
+This is generally where quests will begin.  If not in this room, then
+in a similar room in another hometown.  The quest board supplied here
+is for players to talk about quests, ask questions pertaining to
+quests, or suggest new quests that they feel might be fun.  Feel free
+to post as you will.    
+~
+57 28 0 0 0 0
+D0
+~
+~
+0 0 5794 0
+S
+$~

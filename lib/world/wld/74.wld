@@ -1,0 +1,1628 @@
+#7400
+Wide White Stone Road~
+This opulent boulevard belies the undertone of latent danger and
+promiscuity that is the trademark of this guild area.  Dominating most
+of your vision is the guild house, a huge gleamingly clean white manor
+house that lies at the east end of the street, its pillared front
+promising wealth and fame to all those who join.  A well-tended park
+lies on the north side of the road.  On the south side is a well-kept
+tavern, the sounds of music drifting out fom the inside.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7408 0
+D1
+~
+~
+0 0 7403 0
+D2
+~
+~
+0 0 7401 0
+D3
+~
+~
+0 0 5864 0
+S
+#7401
+Wide White Stone Road~
+This polished white road is a wonder - how could any organization keep
+a road which peoples' dirty feet and horses' nasty hooves stomp and
+tromp all over every day clean?  On the south side of the road is a
+clean, pseudo-rustic looking tavern with music coming from within.  
+The dominating presence of this area is the huge white manor house
+that is the guild house to the Bard's Guild.  It lies at the east end
+of the street.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7400 0
+D1
+~
+~
+0 0 7404 0
+D2
+~
+~
+0 0 7402 0
+D3
+~
+~
+0 0 5863 0
+S
+#7402
+The Lonesome Troubadour~
+The people in this inn seem not only friendly and expansive, but clean
+and respectable.  The single bard up on stage who plays a wonderful
+song on his flute has to be, hands down, the best flutist you ever
+have had the occasion to hear.  The barman smiles broadly in your
+direction, welcoming you to Dun Pith and the Lonesome Troubadour.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7401 0
+S
+#7403
+Wide White Stone Road~
+The opera house lies on the north side of the road, its chiseled stone
+front giving it an air of pomp and ceremony even when an opera is not
+in session.  To the east is the always present manor hous ewhich
+houses the bard's guild, south is the symphony.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7409 0
+D1
+~
+~
+0 0 7405 0
+D2
+~
+~
+0 0 7404 0
+D3
+~
+~
+0 0 7400 0
+S
+#7404
+Wide White Stone Road~
+The road is so wide, so expansive in the way that it leads toward the
+guild house like a white carpet of honor.  To the south is the
+symphony, the building itself a work of art with it fluted pillar
+front and its wide stone steps leading up to the entrance.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7403 0
+D1
+~
+~
+0 0 7406 0
+D2
+~
+~
+0 0 7407 0
+D3
+~
+~
+0 0 7401 0
+S
+#7405
+Wide White Stone Road~
+You stand before the Grand Entrance to the guild house for the bards.
+The majesty and awe which is naturally associated with this profession
+is naturally inferred upon anyone who stands before the hallowed halls
+of this place - the mother-house of the guild.  State Road runs north
+and south from the guild, the walkways lined in beautiful flowers of
+all colors.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7410 0
+D1
+~
+door~
+1 0 7432 3
+D2
+~
+~
+0 0 7406 0
+D3
+~
+~
+0 0 7403 0
+S
+#7406
+Wide White Stone Road~
+The guild lies directly east, the grand entryway visible even from
+here - the place where all great musicians of the land visit, learn,
+and play - or at least dream of playing.  State Road runs south and
+north past the guild house, lined with beautiful flowers on either
+side.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7405 0
+D1
+~
+door~
+1 0 7433 3
+D2
+~
+~
+0 0 7418 0
+D3
+~
+~
+0 0 7404 0
+S
+#7407
+The Symphony~
+The interior to this place is perpetually dark, the candelabra along
+the walls which run on the outside of the seating area only lit when
+the opera is about to begin or end.  The stage is a dark mystery, the
+folds of the curtain obscuring most of what might lie upon the stage.
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7404 0
+S
+#7408
+Peaceful Park~
+The west side of this park is the back stone wall of Olis' Country
+Market, making the Metier Street on the other side of the building
+seem almost non-existant.  A small pond holds what appear to be tiny
+golden fish which swim about happily.  Butterflies play about the many
+wild flowers which grow in abundance.  This would certainly be a prime
+spot to rest.    
+~
+74 16 0 0 0 2
+D0
+~
+~
+0 0 7416 0
+D2
+~
+~
+0 0 7400 0
+S
+#7409
+Opera House~
+This was indeed once a house, albeit an extremely large one.  The
+entire front-facing facade of the building was revamped, as was this
+interior, all but the main support beams for the place gutted and
+removed.  A wide stage lies on the far west side of the place, past
+many rows of seats.  All of the walls have been reworked, rounded near
+the ceilings to help to amplify the sound of the singers' voice.    
+~
+74 8 0 0 0 0
+D2
+~
+~
+0 0 7403 0
+S
+#7410
+State Road~
+The street has quite a peaceful setting to it - low flowers grow in
+neat rows alongside the road, the walkway itself layed with bricks
+neatly mortared together without a single one missing or askew.  
+State Road makes a crossing with another just north of here and runs
+in front of the guild house to the south.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7411 0
+D2
+~
+~
+0 0 7405 0
+S
+#7411
+State Road~
+State Road meets up with a smaller road which runs to west toward
+Metier boulevard.  On the east side of the road is a small shop, the
+home to the finest instrument maker in all the land - or so it is
+said.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7412 0
+D1
+~
+~
+0 0 7413 0
+D2
+~
+~
+0 0 7410 0
+D3
+~
+~
+0 0 7415 0
+S
+#7412
+State Road~
+The din and general commotion which is so pervasive to the north in
+the main section of town is very dimished on this small nook of a road
+which just barely enters into the property owned by the bards guild.
+Things are distinctly different here - the sides of the road lined in
+colorful flowers, the street itself well-kept and clean.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 5813 0
+D2
+~
+~
+0 0 7411 0
+S
+#7413
+Finelyn's House of Music~
+Finelyn started his days as a street musician, a man with some fair
+talent at playing various instruments.  Upon reaching the requisite
+age for joining the bard's guild, he did so, only to find that he was
+not the maestro that he hoped he was.  He left the guild after two
+years of disappointing study and went to work for a local cobbler,
+where he found that his talent with wood far surpassed he talent at
+making music.  He first lyre, made when he was but seventeen years of
+age, is still used by the Guild Master in the guild house, a fine
+honor for Finelyn and testament that his instruments are the finest in
+the land.    
+~
+74 8 0 0 0 0
+D3
+~
+~
+0 0 7411 0
+S
+#7414
+Coffee House~
+This is a small, quaint little shop which small, round tables set
+against dark oak walls.  The tables are all covered in clean cloths,
+not a drop of coffee spilled on them.  A light tune is played by a
+musician who sits on a stool against the north wall.    
+~
+74 8 0 0 0 0
+D2
+~
+~
+0 0 7415 0
+S
+#7415
+Small Back Street~
+This narrow back street is not as beautified as the other streets in
+the area, but it is still very well-kept.  The back wall of the opera
+house faces you on the south side, a small coffee house lies to north.
+East and west are meetings with other streets.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7414 0
+D1
+~
+~
+0 0 7411 0
+D3
+~
+~
+0 0 7416 0
+S
+#7416
+Small Back Street~
+It is amazing how much more quiet it can get taking a step from one
+street to another.  You now stands within the confines of the bard
+area of town, a place where the appearance of calm and dignity is all
+that matters.  It is, of course, all a sham - but a well-played sham
+played by the masters of deception and playing, the bards.  On the
+north and south sides of the street are beautiful gardens, well-kept
+and open to the public.  To the east, the street heads further into
+the bard area, bordered by trees which are kept trimmed and businesses
+which are maintained immaculate.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7417 0
+D1
+~
+~
+0 0 7415 0
+D2
+~
+~
+0 0 7408 0
+D3
+~
+~
+0 0 5866 0
+S
+#7417
+Iron-Fenced Park~
+This park is all that is left of the 'natural' splendor that was here
+before Dun Pith grew to the monster that it is today - or at least
+that is what the bard's guild claims.  The shrubbery that grows here
+is all of native origin, the flowers all claim the same decendancy.  
+A black iron fence with spiked rails seperates this tranquil place
+from the main section of town, the main square visible through the
+fence to the northwest.    
+~
+74 0 0 0 0 2
+D2
+~
+~
+0 0 7416 0
+S
+#7418
+State Road~
+A side entrance to the syphony lies to the west, one which is
+generally used more by the staff and performers than patrons of the
+place.  To the south the road runs past a smattering of homes, ending
+at a square which fronts a beautiful garden.  To the east is a
+clothing shop, the wares of which are expensive even to the more
+affluent memebers of the society of Dun Pith.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7406 0
+D1
+~
+~
+0 0 7419 0
+D2
+~
+~
+0 0 7420 0
+S
+#7419
+Stage Apparel~
+The finest and probably oddest clothing in the land can be found right
+here in Stage Apparel, Inc.  The owner of the place had always hoped
+that his name and clothing line could go franchise, however the demand
+for the theatre and all that goes along with it has always centered
+around the Dun Pith area, never really spreading out in force to other
+cities
+~
+74 8 0 0 0 0
+D3
+~
+~
+0 0 7418 0
+S
+#7420
+State Road~
+A fair-sized house lies on the east side of the road, the home to one
+of the many teachers employed by the guild.  On the west side of the
+road, a large white gazebo lies set back in a beautifully trimmed
+lawn, a great place for all to sit in shade and comfort.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7418 0
+D1
+~
+~
+0 0 7422 0
+D2
+~
+~
+0 0 7423 0
+D3
+~
+~
+0 0 7421 0
+S
+#7421
+Gazebo~
+The wood of the gazebo is coated in a thick, white paint which is not
+scraped or carved in any way.  It seems that the locals have enough
+respect for things of beauty that they are able to keep their hands
+off and not vandalize what has been given to them.    
+~
+74 0 0 0 0 0
+D1
+~
+~
+0 0 7420 0
+S
+#7422
+Teacher's Home~
+This quiet home is owned by the guild, given over to the more affluent
+staff members in the guild house.  Occupancy is switched over every
+season, when the classes are rotated and the staff changes.  More
+often than not, the same members of the staff reside in this home
+season after season, however a committee is still called to session to
+decide officially every time.    
+~
+74 8 0 0 0 0
+D3
+~
+~
+0 0 7420 0
+S
+#7423
+State Road~
+Just south of here is a beautiful square surrounded on all sides by
+lush gardens full of all manner of colorful flowers and such.  On your
+west side is the home of one of the teachers at the guild, on the east
+side is the permanent home of the Maestro, an enormous manor house
+used as his private residence and place for entertaining.    
+~
+74 4 0 0 0 1
+D0
+~
+~
+0 0 7420 0
+D1
+~
+~
+0 0 7425 0
+D2
+~
+~
+0 0 7429 0
+D3
+~
+~
+0 0 7424 0
+S
+#7424
+Teacher's House~
+This is the residence of one of the teachers at the guild, given over
+for their private residence for the duration of their employment at
+the guild.  Every season when the new classes begin, a new resident is
+chosen to live in this place, however due to the fact that the guild
+rarely changes staff, the place is usually used year-round by the same
+teacher.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7423 0
+S
+#7425
+Main Room~
+This is the main section of the Maestro's manse where folk of all sort
+are entertained, many times for nights on end.  The Maestro is
+well-known for being a socialite and well liked throughout the town.
+To the east is more of the house, to the west is the exit to the road.
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7426 0
+D3
+~
+~
+0 0 7423 0
+S
+#7426
+Banquet Hall~
+This room is used for dual purposes - during parties it is cleared
+away and used as a dining hall where guests sample and partake of the
+many delicious foods the Maestro is so fond of.  When there are no
+events going on, the Maestro uses this as his private living space,
+most of the furniture in the house scattered about the room for
+comfort.  There is a set of doors to the south, the main room lies to
+the west.    
+~
+74 8 0 0 0 0
+D2
+~
+door~
+1 0 7427 1
+D3
+~
+~
+0 0 7425 0
+S
+#7427
+The Maestro's Apartments~
+These are the private quarters of the Maestro, off limits to any but
+the Maestro himself and any lovers he may wish to bring to bed.  The
+room is immaculate, plush and loudly decorated in tones of red and
+burgundy.    
+~
+74 8 0 0 0 0
+D0
+~
+door~
+1 0 7426 1
+S
+#7428
+The Gardens~
+You are immediately surrounded by the thick aroma of the many flowers
+and wild plants which grow in abundance all over this area.  This is
+certainly a place of serene contemplation, where all worries can be
+washed away and one can find inner tranquility and balance.    
+~
+74 0 0 0 0 2
+D3
+~
+~
+0 0 7429 0
+S
+#7429
+Garden Square~
+State Road ends here at Garden Square, a famous area of the city where
+the gardens of the bard's guild are kept in such splendor and
+magnificence as to be considered almost surreal.  Almost all bards who
+study under the tutelage of the guild come to these gardens to try and
+find their muse, to meditate upon life's higher meanings.  To all
+directions except north are the gardens, to the north is State Road
+and the way to the guild.    
+~
+74 0 0 0 0 1
+D0
+~
+~
+0 0 7423 0
+D1
+~
+~
+0 0 7428 0
+D2
+~
+~
+0 0 7430 0
+D3
+~
+~
+0 0 7431 0
+S
+#7430
+The Gardens~
+You are immediately surrounded by the thick aroma of the many flowers
+and wild plants which grow in abundance all over this area.  This is
+certainly a place of serene contemplation, where all worries can be
+washed away and one can find inner tranquility and balance.    
+~
+74 0 0 0 0 2
+D0
+~
+~
+0 0 7429 0
+S
+#7431
+The Gardens~
+You are immediately surrounded by the thick aroma of the many flowers
+and wild plants which grow in abundance all over this area.  This is
+certainly a place of serene contemplation, where all worries can be
+washed away and one can find inner tranquility and balance.    
+~
+74 0 0 0 0 2
+D1
+~
+~
+0 0 7429 0
+S
+#7432
+The Grand Entrance~
+The name of this enormous hall is known throughout the bardic circles
+of the word as THE place to play.  Once one has been asked to
+entertain in this grand hall, it is generally felt that the future of
+that one is secure as a bard.  This is also the main entry room of the
+guild, made so large and opulent on purpose to discourage any who
+might come to study and not give their full effort.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7448 0
+D1
+~
+door~
+1 0 7451 3
+D2
+~
+~
+0 0 7433 0
+D3
+~
+door~
+1 0 7405 3
+S
+#7433
+The Grand Entrance~
+Named for not only the fact that this room is as beautific and grand
+as any room in any house in Dun Pith, but also for the general
+attitude which must be conveyed by all bards in the world.  Much of
+what a bard is regarded by is through their entrance, their opening
+walk to the stage or forefront, when every one of their audince's eyes
+are upon them.  Ah, the Grand Entrance.  The moment for every bard.  
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7432 0
+D1
+~
+door~
+1 0 7452 3
+D2
+~
+~
+0 0 7434 0
+D3
+~
+door~
+1 0 7406 3
+S
+#7434
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  To the east is the
+entryway into the auditorium where many recitals are held on a daily
+basis and many practices are had - also on a daily basis.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7433 0
+D1
+~
+~
+0 0 7453 0
+D2
+~
+~
+0 0 7435 0
+S
+#7435
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  To the east is the
+entryway into the auditorium where many recitals are held on a daily
+basis and many practices are had - also on a daily basis.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7434 0
+D1
+~
+door~
+1 0 7454 3
+D2
+~
+~
+0 0 7436 0
+S
+#7436
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  The hallway makes a
+turn, rounding a corner which follows along the outer wall of the
+auditorium and the outer wall of the house itself.  You may head east
+or north down the hallway.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7435 0
+D1
+~
+~
+0 0 7437 0
+S
+#7437
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  To the north is the
+entryway into the auditorium where many recitals are held on a daily
+basis and many practices are had - also on a daily basis.    
+~
+74 8 0 0 0 0
+D0
+~
+door~
+1 0 7454 3
+D1
+~
+~
+0 0 7438 0
+D3
+~
+~
+0 0 7436 0
+S
+#7438
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  The hallway makes a
+turn, rounding a corner which follows along the outer wall of the
+auditorium and the outer wall of the house itself.  You may head west
+or north down the hallway.  A set of carpeted steps lead up into the
+second story of the house.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7439 0
+D3
+~
+~
+0 0 7437 0
+D4
+~
+~
+0 0 7462 0
+S
+#7439
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  To the west is the
+entryway into the auditorium where many recitals are held on a daily
+basis and many practices are had - also on a daily basis.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7440 0
+D2
+~
+~
+0 0 7438 0
+D3
+~
+door~
+1 0 7454 3
+S
+#7440
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  To the west is the
+entryway into the auditorium where many recitals are held on a daily
+basis and many practices are had - also on a daily basis.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7441 0
+D2
+~
+~
+0 0 7439 0
+D3
+~
+~
+0 0 7453 0
+S
+#7441
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  There are no doors on
+either side of the hallway at this point, only clean walls running
+north and south.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7443 0
+D2
+~
+~
+0 0 7440 0
+S
+#7442
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  The hallway makes a
+bend, following along the outer wall of the house itself, heading
+south and west.  A set of carpeted steps lead up into the second story
+of the house.    
+~
+74 8 0 0 0 0
+D2
+~
+~
+0 0 7444 0
+D3
+~
+~
+0 0 7445 0
+D4
+~
+~
+0 0 7457 0
+S
+#7443
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  Faint smells of good
+things cooking waft from a door on the west wall, presumably where the
+kitchen lies.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7444 0
+D2
+~
+~
+0 0 7441 0
+D3
+~
+door~
+1 0 7450 3
+S
+#7444
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  On the west wall is the
+open entryway into the cafeteria-style dining area where all of the
+students of the guild eat their regular meals.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7442 0
+D2
+~
+~
+0 0 7443 0
+D3
+~
+~
+0 0 7449 0
+S
+#7445
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  On the south wall is
+the open entryway into the cafeteria-style dining area where all of
+the students of the guild eat their regular meals.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7442 0
+D2
+~
+~
+0 0 7449 0
+D3
+~
+~
+0 0 7446 0
+S
+#7446
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  The hallway makes a
+bend, following along the outer wall of the house itself, heading
+south and east.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7445 0
+D2
+~
+~
+0 0 7447 0
+S
+#7447
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  On the eastern wall of
+the hallway is an open entryway into the dining hall where the
+students of the guild take their regular meals.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7446 0
+D1
+~
+~
+0 0 7449 0
+D2
+~
+~
+0 0 7448 0
+S
+#7448
+Plush Hallway~
+Thick carpeting covers the floor of this wide hallway, the walls
+freshly painted and free of stain or blemish.  On the eastern wall is
+a door from which delicious smells waft.  It is presumed that the
+kitchen lay behind that door.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7447 0
+D1
+~
+door~
+1 0 7450 3
+D2
+~
+~
+0 0 7432 0
+S
+#7449
+Dining Hall~
+This is more of a worked-over cafeteria, a large room with many round
+tables scattered throughout.  The kitchen lies to the south, behind a
+buffet-style table where food is always laid out for those students
+who go hungry.  Doors to the hallway lie to the east, west and south.
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7445 0
+D1
+~
+~
+0 0 7444 0
+D2
+~
+door~
+1 0 7450 3
+D3
+~
+~
+0 0 7447 0
+S
+#7450
+Kitchen~
+There is always a constant din, a commotion which rivals that of a
+first recital, in this room.  The cooks labor all day long and many
+times into the night to provide food to the students and faculty of
+the place, all of which eat at different hours.  The door on the north
+side opens into the dining hall, the doors on the east and west sides
+access the main hallway.    
+~
+74 8 0 0 0 0
+D0
+~
+door~
+1 0 7449 3
+D1
+~
+door~
+1 0 7443 3
+D3
+~
+door~
+1 0 7448 3
+S
+#7451
+Administration~
+Any would-be student must first meet the criteria of the
+administration at the guild.  The administration decides on talent,
+class placement, courses of study and which teachers to place the
+musician(s) with.  This, truly, is the place where the guild house's
+wheels are kept oiled and smooth.    
+~
+74 8 0 0 0 0
+D2
+~
+~
+0 0 7452 0
+D3
+~
+door~
+1 0 7432 3
+S
+#7452
+Administration~
+Any would-be student must first meet the criteria of the
+administration at the guild.  The administration decides on talent,
+class placement, courses of study and which teachers to place the
+musician(s) with.  This, truly, is the place where the guild house's
+wheels are kept oiled and smooth.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7451 0
+D3
+~
+door~
+1 0 7433 3
+S
+#7453
+Auditorium North~
+Most of this end of the auditorium is taken up by the stage, which
+faces to the south and lies up a few steps from teh aisleway you walk
+along currently.  South of here is the seating area, with exits lying
+in every direction.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7440 0
+D2
+~
+~
+0 0 7454 0
+D3
+~
+~
+0 0 7434 0
+S
+#7454
+Auditorium South~
+This is the main seating area for the auditorium, the stage itself
+lying to the north.  Exits to the main hallway lie in every direction,
+the doors usually closed.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7453 0
+D1
+~
+door~
+1 0 7439 3
+D2
+~
+door~
+1 0 7437 3
+D3
+~
+door~
+1 0 7435 3
+S
+#7455
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  To the east is more of the hallway, the same to the
+south.  On the west wall is a door leading to a private teacher's room
+where a member of the staff is always on hand to keep the peace and
+help the students of the guild.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7456 0
+D2
+~
+~
+0 0 7468 0
+D3
+~
+door~
+1 0 7469 3
+S
+#7456
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  A door on the south wall leads into a room, the
+hallway runs east and west from here.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7457 0
+D2
+~
+door~
+1 0 7481 3
+D3
+~
+~
+0 0 7455 0
+S
+#7457
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  To the east is a door into one of the student rooms,
+a carpeted stairway leads down into the main hallway and this hallway
+runs south and west from here.    
+~
+74 8 0 0 0 0
+D1
+~
+door~
+1 0 7471 3
+D2
+~
+~
+0 0 7458 0
+D3
+~
+~
+0 0 7456 0
+D5
+~
+~
+0 0 7442 0
+S
+#7458
+Second-Story Hallway~
+You are in an unfinished room.  The hallway on this level is just as
+plush and comfortable as the one below, however it is a bit more worn,
+as if more feet tread upon it on a regular basis.  A door on the east
+wall leads into one of the many student rooms, otherwise the hallway
+runs north and south.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7457 0
+D1
+~
+door~
+1 0 7472 3
+D2
+~
+~
+0 0 7459 0
+S
+#7459
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  A door on the east wall leads into one of the many
+student rooms, otherwise the hallway runs north and south.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7458 0
+D1
+~
+door~
+1 0 7473 3
+D2
+~
+~
+0 0 7460 0
+S
+#7460
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  A door on the east wall leads into one of the many
+student rooms, otherwise the hallway runs north and south.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7459 0
+D1
+~
+door~
+1 0 7474 3
+D2
+~
+~
+0 0 7461 0
+S
+#7461
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  A door on the east wall leads into one of the many
+student rooms, otherwise the hallway runs north and south.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7460 0
+D1
+~
+door~
+1 0 7475 3
+D2
+~
+~
+0 0 7462 0
+S
+#7462
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  A door on the east wall leads into one of the many
+student rooms, the hallway itself runs north and west from here,
+rounding a corner.  A carpeted stairway heads downward into the main
+hallway on the ground floor.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7461 0
+D1
+~
+door~
+1 0 7476 3
+D3
+~
+~
+0 0 7463 0
+D5
+~
+~
+0 0 7438 0
+S
+#7463
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  On the south wall is the door to the Maestro's Suite
+- the place from which the Maestro reigns this guild.  It is more an
+office than a suite, a place where the Maestro can take care of the
+daily business of running the guild.  Only a few students have
+actually seen the interior of that room, and then only those who
+possess great talent.    
+~
+74 8 0 0 0 0
+D1
+~
+~
+0 0 7462 0
+D2
+~
+door~
+1 0 7477 3
+D3
+~
+~
+0 0 7464 0
+S
+#7464
+Second-Story Hallway~
+The hallway on this level is just as plush and comfortable as the one
+below, however it is a bit more worn, as if more feet tread upon it on
+a regular basis.  The hallway makes a curve, heading north and east
+through the upper level of the house.  A door on the west wall leads
+into the private quarters of one of the teachers, a room which is
+shared by all of the teachers throughout the day, making sure that at
+least two staff members are on hand at all times to keep fights and
+trouble to a minimum.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7465 0
+D1
+~
+~
+0 0 7463 0
+D3
+~
+door~
+1 0 7470 3
+S
+#7465
+Second-Story Hallway~
+This is the section of the house that runs along the many classrooms
+of the guild.  The hallway runs north and south with doors along the
+east side for the entire length of the hall.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7466 0
+D1
+~
+door~
+1 0 7478 3
+D2
+~
+~
+0 0 7464 0
+S
+#7466
+Second-Story Hallway~
+This is the section of the house that runs along the many classrooms
+of the guild.  The hallway runs north and south with doors along the
+east side for the entire length of the hall.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7467 0
+D1
+~
+door~
+1 0 7479 3
+D2
+~
+~
+0 0 7465 0
+S
+#7467
+Second-Story Hallway~
+This is the section of the house that runs along the many classrooms
+of the guild.  The hallway runs north and south with doors along the
+east side for the entire length of the hall.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7468 0
+D1
+~
+door~
+1 0 7480 3
+D2
+~
+~
+0 0 7466 0
+S
+#7468
+Second-Story Hallway~
+This is the section of the house that runs along the many classrooms
+of the guild.  The hallway runs north and south with doors along the
+east side for the entire length of the hall.    
+~
+74 8 0 0 0 0
+D0
+~
+~
+0 0 7455 0
+D2
+~
+~
+0 0 7467 0
+S
+#7469
+Teacher's Lounge~
+This rooms hosts nothing more than a small desk and an easy chair with
+a bookcase near the arm of the chair.  There is not supposed to be
+much in the way of relaxation for the teachers when they are in this
+room, but more a constant studying and planning of lessons for the
+students, all the while keeping an ear out for trouble.    
+~
+74 8 0 0 0 0
+D1
+~
+door~
+1 0 7455 3
+S
+#7470
+Teacher's Lounge~
+This rooms hosts nothing more than a small desk and an easy chair with
+a bookcase near the arm of the chair.  There is not supposed to be
+much in the way of relaxation for the teachers when they are in this
+room, but more a constant studying and planning of lessons for the
+students, all the while keeping an ear out for trouble.  There is not
+supposed to be much in the way of relaxation for the teachers when
+they are in this room, but more a constant studying and planning of
+lessons for the students, all the while keeping an ear out for
+trouble.    
+~
+74 8 0 0 0 0
+D1
+~
+door~
+1 0 7464 3
+S
+#7471
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7457 3
+S
+#7472
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7458 3
+S
+#7473
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7459 3
+S
+#7474
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7460 3
+S
+#7475
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7461 3
+S
+#7476
+Student Room~
+Every student within the guild house is given a place in one of the
+many rooms which line this hallway.  Every room is identical with four
+matching cots, two of which are bunk beds.  The beds lie along the
+north and south walls with a large desk seperating them on the east
+wall.  Trunks lie at the foot of both sets of beds, presumably
+containing the personal articles of the students which sleep in this
+room.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7462 3
+S
+#7477
+Maestro's Suite~
+It is a place of the highest honor within the Bards Guild to become
+the Maestro at the guild house here in Dun Pith.  Along with the title
+inferred, all amenities including this opulent office are also endowed
+to the wearer of that title.  This is very much a working office,
+however lavish the furnishings might be.  The desk is enormous and
+worked with carvings depicting the Gods of music and art as they
+frolic about.  The only exit from this room lies to the north through
+a massive oaken door.    
+~
+74 8 0 0 0 0
+D0
+~
+door~
+1 0 7463 3
+S
+#7478
+Acrobatics~
+This high-ceilinged room is not carpeted as most of the house is, but
+covered in a thick mat of soft material which breaks the falls of
+those training in the arts of tumbling and dramatics.  There is
+nothing in the way of furnishings here except a single small desk from
+which the instructor works.    
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7465 3
+S
+#7479
+Vocals~
+This very small room is used for the training of some of the best
+voices that the guild has to offer.  Pitch, tone, resonance - all of
+it is perfected in this room through intense training and practice.  
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7466 3
+S
+#7480
+Solo~
+This small room is where the students of the guild usually make it or
+break it.  Every entertainer gets put on the spot at one time or
+another to perform without the aid of any backup or accompaniment.  
+The very last test for every student who wishes to graduate to the
+world of dancing, singing, music and love is given in this very room.
+~
+74 8 0 0 0 0
+D3
+~
+door~
+1 0 7467 3
+S
+#7481
+Symphony~
+This is probably the largest of all the rooms on the upper level,
+aside from the Maestro's Suite.  Rows of chairs make neat rows upon a
+bleacher setup, wooden music stands set before each chair.  Music is
+fine when played by a virtuoso, however not every virtuoso can perform
+well with a group.  This is the place where those who fall short are
+found to be what they are.    
+~
+74 8 0 0 0 0
+D0
+~
+door~
+1 0 7456 3
+S
+$~

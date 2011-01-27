@@ -1,0 +1,849 @@
+#50000
+On A Road To CronoCross Tower~
+You find yourself traveling a worn path towards a rainbow horizon.  
+The plains around you are alive with nature.  As you glaze further you
+become tranquil and one with your surroundings.    
+~
+500 32768 0 0 0 10
+D0
+~
+~
+0 0 50001 0
+D2
+~
+~
+0 0 11209 0
+S
+#50001
+On A Road To CronoCross Tower~
+The path you walk leads deeper into a dense forest area.  Along this
+path your mind finds a new view of nature.  The path ahead shines more
+so greatly than when you started your journey.    
+~
+500 32768 0 0 0 10
+D0
+~
+~
+0 0 50002 0
+D2
+~
+~
+0 0 50000 0
+S
+#50002
+Approaching ChronoCross Tower~
+The blur of rainbow colors on the horizon has now become clear to you.
+A tower gleaming with colors fills your view upwards into the heavens.
+What fate lays within such a place of beauty?    
+~
+500 32768 0 0 0 10
+D0
+~
+~
+0 0 50003 0
+D2
+~
+~
+0 0 50001 0
+S
+#50003
+Inside ChronoCross Court~
+You stand on the courts of ChronoCross Tower.  The tower spans upward
+quite some distance.  The outside walls are a multi colored
+combination of age old brick.  The presence of the tower alone invokes
+inspiriation never before felt.    
+~
+500 32776 0 0 0 0
+D2
+~
+~
+0 0 50002 0
+D3
+~
+~
+0 0 50004 0
+S
+#50004
+Ground Floor Of ChronoCross Tower~
+You stand on the ground floor of ChronoCross Tower.  The color of the
+bricks you outside are no more.  An old stone brick makes the walls
+here on the ground floor.    
+~
+500 32777 0 0 0 0
+D1
+~
+~
+0 0 50003 0
+D3
+~
+~
+0 0 50005 0
+S
+#50005
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 32777 0 0 0 0
+D1
+~
+~
+0 0 50004 0
+D4
+~
+trapdoor~
+2 50000 50006 15
+S
+#50006
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays in front leading to more of the tower.    
+~
+500 33033 0 0 0 0
+D0
+~
+~
+0 0 50007 0
+D5
+~
+trapdoor~
+2 50000 50005 15
+S
+#50007
+Upper Hall Of ChronoCross Tower~
+You travel down an upper hall of ChronoCross Tower.  The poor
+condition of the brick amazes you.  From the bricks appearence you
+assume the tower would have collapsed long ago.  The effort in
+constructing this tower must have been great.    
+~
+500 33033 0 0 0 0
+D0
+~
+~
+0 0 50008 0
+D2
+~
+~
+0 0 50006 0
+S
+#50008
+Upper Hall Of ChronoCross Tower~
+The upper hall continues to lead you through the tower.  Torch light
+feeds a continuous light source as you make your trek.  You ponder how
+many halls there are in this place.    
+~
+500 33033 0 0 0 0
+D0
+~
+~
+0 0 50009 0
+D2
+~
+~
+0 0 50007 0
+S
+#50009
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 33033 0 0 0 0
+D2
+~
+~
+0 0 50008 0
+D4
+~
+trapdoor~
+2 50001 50010 15
+S
+#50010
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 33033 0 0 0 0
+D1
+~
+~
+0 0 50011 0
+D5
+~
+trapdoor~
+2 50001 50009 15
+S
+#50011
+Above Grounds Of ChronoCross Tower~
+The hallways here take you up another level within the tower.  Some
+windows carved from the brick show the surrounding plains.  These
+plains glow a rainbow color just as you saw when you approached the
+tower.    
+~
+500 33033 0 0 0 0
+D1
+~
+~
+0 0 50012 0
+D3
+~
+~
+0 0 50010 0
+S
+#50012
+Above Grounds Of ChronoCross Tower~
+The hallways takes you further into ChronoCross Tower.  You glaze out
+the carved brick windows and admire the plains.  The beauty the
+tower's light sheds onto the plains is simply inspiring.    
+~
+500 33033 0 0 0 0
+D1
+~
+~
+0 0 50013 0
+D3
+~
+~
+0 0 50011 0
+S
+#50013
+Above Grounds Of ChronoCross Tower~
+The hallway approaches another ladder room.  The carved brick windows
+stop here with their view of the plains.  Torch light ahead can be
+made out and the age old brick walls continue.    
+~
+500 33033 0 0 0 0
+D1
+~
+~
+0 0 50014 0
+D3
+~
+~
+0 0 50012 0
+S
+#50014
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 33033 0 0 0 0
+D3
+~
+~
+0 0 50013 0
+D4
+~
+trapdoor~
+2 50002 50015 15
+S
+#50015
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 32777 0 0 0 0
+D2
+~
+~
+0 0 50016 0
+D5
+~
+trapdoor~
+2 50002 50014 15
+S
+#50016
+Garden Court Atop ChronoCross Tower~
+What magic!  You find yourself on an outside garden porch of
+ChronoCross Tower.  The power flowing from the plants refreshes your
+ability.  You find yourself resting and taking in an even higher view
+of the plains surrounding ChronoCross Tower.    
+~
+500 294912 0 0 0 2
+D0
+~
+~
+0 0 50015 0
+D2
+~
+~
+0 0 50017 0
+D5
+~
+trapdoor~
+1 0 50046 3
+S
+#50017
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 32777 0 0 0 0
+D0
+~
+~
+0 0 50016 0
+D4
+~
+trapdoor~
+2 50003 50018 15
+S
+#50018
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 32777 0 0 0 0
+D3
+~
+~
+0 0 50019 0
+D5
+~
+trapdoor~
+2 50003 50017 15
+S
+#50019
+Shrine Hallway of ChronoCross Tower~
+Shrines of beings unkown to you line up along the walls.  Creatures of
+foreign places stand quiet as statues.  Some of the beings here
+slightly resemble a few of the creatures you have encountered so far.
+~
+500 32777 0 0 0 0
+D1
+~
+~
+0 0 50018 0
+D3
+~
+~
+0 0 50020 0
+S
+#50020
+Shrine Hallway of ChronoCross Tower~
+Shrines pay tribute to what were great people.  No where is this
+writen on any of the statues.  The impression and expresion these
+statues offer can mean nothing else.    
+~
+500 32777 0 0 0 0
+D1
+~
+~
+0 0 50019 0
+D3
+~
+~
+0 0 50021 0
+S
+#50021
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 32777 0 0 0 0
+D1
+~
+~
+0 0 50020 0
+D4
+~
+trapdoor~
+2 50004 50022 15
+S
+#50022
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 32809 0 0 0 0
+D0
+~
+~
+0 0 50023 0
+D5
+~
+trapdoor~
+2 50004 50021 15
+S
+#50023
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 32809 0 0 0 0
+D2
+~
+~
+0 0 50022 0
+D4
+~
+trapdoor~
+2 50005 50024 15
+S
+#50024
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 32809 0 0 0 0
+D1
+~
+~
+0 0 50025 0
+D5
+~
+trapdoor~
+2 50005 50023 15
+S
+#50025
+High Atop CronoCross Tower~
+You take an exterior view of the tower from a carved block window.  
+You glaze down to the base of the tower and see the courts from which
+you entered.  You take notice to the thick vines growing along side
+the tower.    
+~
+500 32809 0 0 0 0
+D1
+~
+~
+0 0 50026 0
+D3
+~
+~
+0 0 50024 0
+S
+#50026
+A Ladder Room Of ChronoCross Tower~
+You find a ladder room in ChronoCross Tower.  A good amount of torch
+light brings sight to the room you stand in.  An old shakey ladder
+leads upwards to a trapdoor in the ceiling.    
+~
+500 32809 0 0 0 0
+D3
+~
+~
+0 0 50025 0
+D4
+~
+trapdoor~
+2 50006 50027 15
+S
+#50027
+A Ladder Room Of ChronoCross Tower~
+You find yourself in a ladder room of ChronoCross Tower.  A trapdoor
+in the floor is here providing access to a shakey wooden ladder.  A
+hallway lays infront leading to more of the tower.    
+~
+500 32809 0 0 0 0
+D2
+~
+~
+0 0 50028 0
+D5
+~
+trapdoor~
+2 0 50026 15
+S
+#50028
+The Top Floor Of ChronoCross Tower~
+This is the top hallway of ChronoCross Tower.  The hallway continues
+to bend just ahead of you.  The age old brick here looks more worn
+than on the lower floors.    
+~
+500 32809 0 0 0 0
+D0
+~
+~
+0 0 50027 0
+D3
+~
+~
+0 0 50029 0
+S
+#50029
+Beneath CronoCross Tower Keeps~
+ChronoCross Tower keep's lay above you.  There are no more hallways
+remaining in which you have not exlpored.  Merely an intimidating
+climb that leads only upwards is before you.    
+~
+500 32809 0 0 0 0
+D1
+~
+~
+0 0 50028 0
+D4
+~
+~
+0 0 50030 0
+S
+#50030
+The Keep Of ZOAH~
+The Keep of ZOAH is a battle worn room.  Often ZOAH uses his keep to
+spar opponents who challenge his combat skills.  Other times it is
+used to perfect his already great warriors skills.  You take special
+notice to the fresh blood marking the floor and walls.    
+~
+500 32809 0 0 0 0
+D1
+~
+bounty~
+2 50007 50031 15
+D4
+~
+~
+0 0 50032 0
+D5
+~
+~
+0 0 50029 0
+S
+#50031
+The Bounty Room Of ZOAH~
+ZOAH's personal bounty room is filled with interesting pieces of
+battle equipment.  Weapons from foreign lands are mounted on the walls
+along side the skulls of defeated opponents.    
+~
+500 33065 0 0 0 0
+D3
+~
+bounty~
+2 50007 50030 15
+S
+#50032
+The Keep Of NeoFio~
+Gadzooks!  The plant life in here threatens you.  Vines and shrubs
+shake violently around their master NeoFio.  This room is of a corrupt
+mother nature.    
+~
+500 32809 0 0 0 0
+D1
+~
+garden~
+2 50008 50033 15
+D4
+~
+~
+0 0 50034 0
+D5
+~
+~
+0 0 50030 0
+S
+#50033
+The Garden Sanctuary Of NeoFio~
+Ahh...  The beast of nature here is at rest.  Plants sway gently back
+and forth.  Almost as if communicating.  This is where NeoFio comes to
+harness his plant life abilities and become one with nature.  Be not
+fooled, the plant life here is threatening, but tranquil for the time
+being.    
+~
+500 33065 0 0 0 0
+D3
+~
+garden~
+2 50008 50032 15
+S
+#50034
+The Keep Of Starky~
+You appear to have traveled to a new dimension.  The walls here twist
+and turn with images of the cosmos.  Light bends in all directions
+making it difficult to keep focus.  This is no doubt the keep of
+Starky.  A visitor from another planet studying here at ChronoCross
+Tower.    
+~
+500 32809 0 0 0 0
+D1
+~
+starship~
+2 50009 50035 15
+D4
+~
+~
+0 0 50036 0
+D5
+~
+~
+0 0 50032 0
+S
+#50035
+The Starship Of Starky~
+Starky's starship is his means to trek across the stars.  Gizmos and
+gadgets clutter work stations.  The control surfaces are complicated
+to your little intelligence.  What useful objects can you find here of
+Starky's?    
+~
+500 33057 0 0 0 0
+D3
+~
+starship~
+2 50009 50034 9
+S
+#50036
+The Keep Of Razzly~
+The keep of Razzly appears to be filled with fairy magik.  A fairy may
+be small in size, but its understanding with nature and magiks are far
+beyond any human abilities.  Some swirls of color appear and disappear
+at random within the keep.    
+~
+500 32809 0 0 0 0
+D1
+~
+forest~
+2 50010 50037 15
+D4
+~
+~
+0 0 50038 0
+D5
+~
+~
+0 0 50034 0
+S
+#50037
+The Forest Of Razzly~
+A hidden away forest within the ChronoCross Tower.  You look past some
+trees and notice how endless this whole room seems.  A clearing has
+been made from where you stand.  No doubt a place that Razzly comes to
+in order to focus her magiks.    
+~
+500 33065 0 0 0 3
+D3
+~
+forest~
+2 50010 50036 15
+S
+#50038
+The Keep Of Draggy~
+The Keep of Draggy is an interesting one.  The only dragon inhabitant
+of ChronoCross Tower, Draggy gets very lonely.  The age old brick you
+are use to seeing is now a black charred color.    
+~
+500 32809 0 0 0 0
+D1
+~
+roost~
+2 50011 50039 15
+D4
+~
+~
+0 0 50040 0
+D5
+~
+~
+0 0 50036 0
+S
+#50039
+The Roost Of Draggy~
+A roost, a home to all dragons.  A nest, similiar to one of a bird,
+has been constructed here in the corner.  More charred brick surrounds
+you.  This is the obvious place of rest for Draggy.    
+~
+500 33033 0 0 0 0
+D3
+~
+roost~
+2 50011 50038 9
+S
+#50040
+The Keep Of Poshul~
+The Keep of Poshul is a playful one.  Some dog chew toys and bones lay
+about from place to place.  As you look in the room you wonder if you
+too can play with Poshul.    
+~
+500 32809 0 0 0 0
+D1
+~
+doghouse~
+2 50012 50041 15
+D4
+~
+~
+0 0 50047 0
+D5
+~
+~
+0 0 50038 0
+S
+#50041
+The Doghouse Of Poshul~
+The doghouse of Poshul has some more chew toys tossed here and there.
+The wood board siding makes you feel at home.  No doubt when Poshul
+comes to rest here he to has a relaxing time.    
+~
+500 33065 0 0 0 0
+D3
+~
+doghouse~
+2 50012 50040 15
+S
+#50042
+The Observatory Of ChronoCross Tower~
+This is it!  The obsolute peak of ChronoCross Tower.  You attempt to
+look off the observatory deck but the rainbow colors blur your vision.
+Exits lead in all directions from this room.  The power is
+overwhelming.    
+~
+500 32809 0 0 0 0
+D0
+~
+~
+0 0 50045 0
+D1
+~
+~
+0 0 50044 0
+D2
+~
+~
+0 0 50048 0
+D3
+~
+~
+0 0 50043 0
+D5
+~
+~
+0 0 50049 0
+S
+#50043
+The Keep Of Evil Pip~
+A evil power of corruption and destruction fill this room.  The Evil
+Pip being resides here controlling all that is evil within ChronoCross
+Tower.    
+~
+500 32809 0 0 0 0
+D1
+~
+~
+0 0 50042 0
+S
+#50044
+The Keep Of Saintly Pip~
+A saintly power of churches and crusaders fill this room.  The Saintly
+Pip being resides here controlling all that is good within ChronoCross
+Tower.    
+~
+500 32809 0 0 0 0
+D3
+~
+~
+0 0 50042 0
+S
+#50045
+The Keep Of Rainbow Pip~
+This room is filled with a sense of balance.  Here Rainbow Pip resides
+ensuring the force of good and evil balance themselves to make
+ChronoCross Tower an equal place.  The concentration this must require
+of Rainbow Pip must be immense.    
+~
+500 32809 0 0 0 0
+D2
+~
+~
+0 0 50042 0
+S
+#50046
+The Shakker Brother's Lair~
+   You have stumbled upon the Shakker Brother's Lair.  Here the
+Shakker Brother's call home within ChronoCross Tower.  Books of
+cooking knowledge from all over the realm lay about in a clutter.  
+Spices and herbs fill your nose.    
+~
+500 32905 0 0 0 0
+D4
+~
+trapdoor~
+1 0 50016 3
+S
+#50047
+A Void Peak Atop ChronoCross Tower~
+You stand in an empty room high atop ChronoCross Tower.  Some carved
+brick windows show how far you have climbed since first entering the
+tower.  But as you stand in this empty point of the tower, you ponder.
+Is this all that ChronoCross Tower offers?    
+~
+500 33065 0 0 0 0
+D4
+~
+ChronoCross~
+2 50035 50051 15
+D5
+~
+~
+0 0 50040 0
+S
+#50048
+The Keep Of ChronoCross ~
+The magik being of ChronoCross works within this keep.  Hard at work
+controlling the pips and controlling the forces that make ChronoCross
+Tower so inspiring.  To challenge such forces would be daring to say
+the least.    
+~
+500 32809 0 0 0 0
+D0
+~
+~
+0 0 50042 0
+S
+#50049
+A Stairwell To The Peak Of ChronoCross Tower~
+You find yourself climbing upwards.  The clouds invade this room
+through the carved block windows.  An element of cold creeps in as
+well.  The powers of ChronoCross Tower grow stronger as you climb.  
+You feel somewhat insignificant as you continue.    
+~
+500 32809 0 0 0 0
+D4
+~
+~
+0 0 50042 0
+D5
+~
+~
+0 0 50050 0
+S
+#50050
+A Magic Teleport Room Of ChronoCross Tower~
+The magic of ChronoCross Tower amazes you again!  You find yourself in
+a magik filled room.  Energies surge infront of your face.  The true
+magiks at work in ChronoCross Tower must rest near by.    
+~
+500 32809 0 0 0 0
+D4
+~
+~
+0 0 50049 0
+D5
+~
+~
+0 0 50051 0
+S
+#50051
+A Tucked Away Room In ChronoCross Tower~
+You stumble into a room tucked away from all the rest.  It is a
+lightly protected room that connects to the rest of ChronoCross Tower
+which you have previously explored.  A passage provides access below.
+The age old brick construction continues to impress you.    
+~
+500 32809 0 0 0 0
+D4
+~
+~
+0 0 50050 0
+D5
+~
+ChronoCross~
+2 50035 50047 15
+S
+$~

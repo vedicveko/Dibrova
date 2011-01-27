@@ -1,0 +1,161 @@
+CircleMUD v3.0 Shop File~
+#19200~
+19207
+3031
+3032
+-1
+1.20
+0.10
+1
+12
+15
+16
+17
+21
+-1
+%s sorry, we don't have that in stock.~
+%s How can you sell what you don't have?~
+%s Sorry, I can't buy that.~
+%s Sorry, we can't afford that.~
+%s You don't have enough gold.~
+%s That'll be %d gold, please.~
+%s I'll give %d gold for that.~
+1
+2
+19226
+0
+19218
+-1
+0
+28
+0
+0
+#19201~
+19110
+19103
+19104
+19105
+19106
+19107
+-1
+1.50
+0.60
+9
+-1
+%s I don't have that.~
+%s Are you trying to cheat me?~
+%s We don't buy that.~
+%s I can't afford it!~
+%s Come back when you have more gold.~
+%s That will be %d gold.~
+%s Here is %d gold.~
+0
+2
+19221
+0
+19217
+-1
+0
+28
+0
+0
+#19202~
+-1
+1.20
+0.90
+5
+-1
+%s Sorry, we don't have that in stock.~
+%s How can you sell what you don't have?~
+%s Sorry, I can't buy that.~
+%s Sorry, we can't afford that.~
+%s You don't have enough gold.~
+%s That'll be %d gold, please.~
+%s I give %d gold for that.~
+1
+2
+19227
+0
+19228
+-1
+0
+28
+0
+0
+#19203~
+19113
+19114
+19115
+-1
+1.20
+0.90
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+2
+19222
+0
+19215
+-1
+0
+28
+0
+0
+#19204~
+19200
+19130
+3052
+3050
+-1
+1.15
+0.15
+-1
+%s Sorry, I haven't got exactly that item.~
+%s You don't seem to have that.~
+%s I don't buy such items.~
+%s That is too expensive for me!~
+%s You can't afford it!~
+%s That'll be %d coins, please.~
+%s You'll get %d coins for it!~
+1
+2
+19228
+0
+19214
+-1
+0
+28
+0
+0
+#19231~
+19210
+19211
+19212
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You need to pay me first!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+19234
+0
+19231
+-1
+0
+28
+0
+0
+$~

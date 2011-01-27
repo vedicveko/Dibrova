@@ -1,0 +1,283 @@
+#3700
+black pawn~
+the Pawn of the Black Court~
+You see a pawn standing here waiting for orders.
+~
+The Black Pawn looks quite like a small knight without his powerful
+steed.  His armor is shiny and black.  He stands ready to give his
+life for the Crown.    
+~
+2254 0 0 0 16 0 0 0 -400 E
+6 1 76 1d6+70 1d2+4
+10 451
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 6
+Luck: 12
+Race: 33
+E
+#3701
+white pawn~
+the Pawn of the White Court~
+You see a pawn standing here waiting for orders.
+~
+The White Pawn looks quite like a small knight without his powerful
+steed.  His armor is spotless and white.  He stands ready to give his
+life for the Crown.    
+~
+2254 0 0 0 16 0 0 0 400 E
+6 1 76 1d6+70 1d2+4
+10 451
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Luck: 12
+Race: 33
+E
+#3702
+black rook castle~
+the Black Rook~
+In the corner you see a large, black, stone castle on wheels.
+~
+The Black Rook is a very large man-made tomb on wheels.  Just from the
+looks of it, it will probably be YOUR tomb.    
+~
+229386 0 0 0 16 0 0 0 -600 E
+27 12 -8 1d27+2100 2d4+18
+200 20926
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 24
+Luck: 12
+Class: 9
+Race: 33
+E
+#3703
+white rook castle~
+the White Rook~
+In the corner you see a large, white, stone castle on wheels.
+~
+The White Rook is a very large man-made tomb on wheels.  Just from the
+looks of it, it will probably be YOUR tomb.    
+~
+229386 0 0 0 16 0 0 0 600 E
+27 12 -8 1d27+2100 2d4+18
+200 20926
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 14
+Luck: 12
+Class: 6
+Race: 33
+E
+#3704
+black knight~
+the Black Knight~
+Here stands a magnificent knight of the dark realm.
+~
+The Black Knight is here, riding his ebony black war horse.  His eyes
+flash behind his visor in vengence.    
+~
+42 0 0 0 80 0 0 0 -400 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+Class: 4
+Race: 33
+E
+#3705
+white knight~
+the White Knight~
+Here stands a magnificent knight of the light realm.
+~
+The White Knight is here, riding his ivory white war horse.  His eyes
+gleam behind his visor in joy.    
+~
+42 0 0 0 80 0 0 0 400 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Class: 4
+Race: 33
+E
+#3706
+black bishop priest~
+the Black Bishop~
+A dark priest stands here.
+~
+The Black Bishop seems willing to help you straight into your grave so
+he can bless you properly.    
+~
+10 0 0 0 16 0 0 0 -500 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 22
+Luck: 12
+Class: 2
+Race: 33
+E
+#3707
+white bishop priest~
+the White Bishop~
+A light priest stands here.
+~
+The White Bishop seems willing to help you in any possible so that he
+can attain a higher spirituality.    
+~
+10 0 0 0 16 0 0 0 500 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 0
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 10
+Luck: 12
+Class: 2
+Race: 33
+E
+#3708
+black queen~
+the Black Queen~
+The Black Queen stands here.
+~
+The Black Queen is a strikingly beautiful woman with pale skin and a
+mass of dark hair that crowns her head like a black cloud.  If looks
+could kill, you would already be dead.
+~
+2094 0 0 0 336 0 0 0 -750 E
+35 17 -20 1d32+2325 3d5+23
+350 44614
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Luck: 12
+Class: 1
+Race: 33
+E
+#3709
+white queen~
+the White Queen~
+The White Queen stands here.
+~
+The White Queen is a stunningly beautiful woman with dark skin and a mass
+of light hair that frames her head like the sun.  This is surely love at
+first sight for you.
+~
+2094 0 0 0 336 0 0 0 750 E
+35 17 -20 1d32+2325 3d5+23
+350 44614
+8 8 2
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Class: 1
+Race: 33
+E
+#3710
+black king~
+the Black King~
+The Black King stands here.
+~
+The Black King is a menacing figure.  You can easily understand why he
+is the king and you are not.    
+~
+2110 0 0 0 336 0 0 0 -999 E
+45 25 -24 1d45+3000 4d5+30
+625 84683
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 6
+Luck: 12
+Class: 9
+Race: 33
+E
+#3711
+white king~
+the White King~
+The White King stands here.
+~
+The White King is a stately figure.  You can easily understand why he
+is the king and you are not.    
+~
+526398 0 0 0 336 0 0 0 999 E
+45 25 -24 1d45+3000 4d5+30
+625 84683
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Luck: 12
+Class: 6
+Race: 33
+E
+#3712
+A Wisp of Vedic~
+the Wisp of Vedic~
+A Wisp of Vedic hovers here.
+~
+Nothing.
+~
+65576 0 0 0 0 0 0 0 0 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 1
+BareHandAttack: 15
+Dex: 10
+Int: 25
+Wis: 20
+Con: 25
+Cha: 20
+Luck: 7
+Class: 6
+E
+$

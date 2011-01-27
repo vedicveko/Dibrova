@@ -1,0 +1,172 @@
+#16800
+sword green raidersword~
+/cwa /cggreen /cwraider sword/c0~
+/cwA /cggreen /cwraider sword is lying here./c0~
+~
+5 667648 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+8 32606 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+18 4
+A
+1 1
+#16801
+bracelet raiderbracelet~
+/cwa /cLraider /cwbracelet/c0~
+/cwA /cLraider /cwbracelet is lying on the floor./c0~
+~
+9 667648 0 0 0 4097 0 0 0
+5 0 0 0 0 0 0 0
+3 23520 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 3
+#16802
+shield dusty~
+/cwa /cydusty/cw shield/c0~
+/cwA /cydusty /cwshield is lying in the dirt./c0~
+~
+9 667648 0 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+11 18026 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+18 3
+#16803
+leggings raiderleggings~
+/cwa set of /cLraider /cwleggings/c0~
+/cwA set of /cLraider /cwleggings lay on the ground./c0~
+~
+9 667648 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+7 21773 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 25
+A
+19 4
+A
+18 2
+#16804
+amulet barbarian~
+a barbarian amulet/c0~
+A barbarian amulet is lying here./c0~
+~
+9 1994752 0 0 0 5 0 0 0
+2 0 0 0 0 67108864 0 0
+3 21900 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 35
+A
+1 1
+#16805
+bracelet barbarian~
+a barbarian bracelet/c0~
+A barbarian bracelet is sitting against the wall./c0~
+~
+9 1994752 0 0 0 4097 0 0 0
+3 0 0 0 0 0 0 0
+5 20926 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+#16806
+forest green leggings~
+a pair of /cgforest-green Leggings/c0~
+/cwA pair of forest-green leggings are sitting here./c0~
+~
+9 684032 6 0 0 33 0 0 0
+7 0 0 0 0 0 0 0
+7 27500 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+19 4
+A
+18 2
+A
+13 -25
+#16807
+colorful belt~
+a /cbco/cglo/cyrf/crul /cwbelt/c0~
+A colorful belt is lying on the floor./c0~
+~
+9 0 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 17760 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+3 2
+A
+13 20
+A
+4 -2
+#16808
+green light~
+/cwa /cggreen light/c0~
+/cyA /cggreen light /cysits in the middle of the room./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+5 871 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+4 2
+#16809
+rat tooth poison sharp~
+a sharp rat's tooth~
+A sharp rat's tooth is here dripping blood.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+2 3520 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 -1
+#16810
+raider mask~
+a raider mask~
+A raider mask is lying here.~
+~
+9 667648 0 0 0 262145 0 0 0
+5 0 0 0 0 0 0 0
+4 21046 0 77 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+13 30
+#16811
+raider boots~
+a pair of raider boots/c0~
+A pair of raider boots sit in the corner./c0~
+~
+9 667648 0 0 0 65 0 0 0
+8 0 0 0 0 0 0 0
+7 22386 0 73 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+#16899
+statue queen raider~
+/cy/cwthe Statue of the Raider Queen/c0~
+/cy/cwthe Statue of the Raider Queen stands here./c0~
+~
+8 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+120 942 0 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

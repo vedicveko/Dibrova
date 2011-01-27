@@ -1,0 +1,1212 @@
+#1000
+beer bottle cracked fermented~
+/cwa fermented bottle/c0~
+/cwSome fermented /cybeer /cwin a cracked bottle is here./c0~
+Looking at it you would think it might be a pretty nasty brew, but now
+that you can taste it, you KNOW it is nasty!    
+~
+17 0 0 0 0 1 0 0 0
+8 50 1 0 0 0 0 0
+55 4 8 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1001
+beer bottle imported~
+/cwa bottle/c0~
+/cwA bottle of imported beer has been left here./c0~
+Brought in from McGintey's docks, this is the finest of beers offered
+in Jareth.    
+~
+17 0 0 0 0 1 0 0 0
+8 8 1 0 0 0 0 0
+13 5 8 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1002
+stout bottle malt liquor~
+/cwa bottle/c0~
+/cwA dark bottle of stout malt liquor has been left here./c0~
+The label reads /cBGrainey's Finest/c0.
+~
+17 0 0 0 0 1 0 0 0
+8 8 3 0 0 0 0 0
+13 7 3 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1003
+blasco's bottle revenge~
+/cwa bottle of Blasco's Revenge/c0~
+/cwA bottle of Blasco's Revenge has been left here./c0~
+There is a reason why they call it Blasco's Revenge, and it is not
+because it goes down smooth...    
+~
+17 0 0 0 0 1 0 0 0
+8 8 7 0 0 0 0 0
+13 5 17 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1004
+sally's special~
+/cwa bottle of Sally's Special/c0~
+/cwA dark bottle of Sally's Special has been left here./c0~
+Sally's Special is a local favorite - inexpensive and it gets you well
+toasted.    
+~
+17 0 0 0 0 1 0 0 0
+8 8 8 0 0 0 0 0
+13 5 7 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1005
+key dull metal~
+/cwa key of dull metal/c0~
+/cwA key made of a dull metal is lying on the ground here./c0~
+It is a simply made affair - looks very plain.
+~
+18 65548 0 0 0 16385 0 0 0
+3100 0 0 0 0 0 0 0
+1 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1006
+sunglasses mirrored glasses~
+/cwsome /cCmirrored /cwsunglasses/c0~
+CwA pair of orange-tinted, mirrored sunglasses sit here./c0~
+Kind of makes you want to get a spleef, sit down and take a load off.
+~
+9 65536 0 0 0 131073 0 0 0
+-1 0 0 0 0 0 0 0
+1 193 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sunglasses glasses mirrored~
+Lenses in the shape of rectangles, these orange-tinted mirrored sunglasses 
+are UV protected.
+~
+#1007
+tie dyed robe~
+/cwa /cptie /cgdye /crrobe/c0~
+/cwA tie dyed robe sits here./c0~
+Colored in every shade under the rainbow, this robe is sure to attract attention.
+~
+9 65536 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+5 220 50 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1008
+round fishing hat~
+/cwa fishing hat/c0~
+/cwA round fishing hat has been left here./c0~
+Round, rumpled, and covered in lures, this hat must have been someone's favorite.
+~
+9 65536 0 0 0 17 0 0 0
+-1 0 0 0 0 0 0 0
+1 193 50 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1009
+waybread bread~
+/cwa waybread/c0~
+/cwSome waybread has been put here./c0~
+This is the traditional food of the 'on the road' traveler who needs a
+good hearty meal, but quick.    
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+1 96 50 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+waybread bread~
+The waybread is the traditional feed of elves when traveling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#1010
+rations dried~
+/cwsome dried rations/c0~
+/cwSome dried rations has been left here./c0~
+These items will stay good for a long time, but they are not all that
+tasty.    
+~
+19 0 0 0 0 1 0 0 0
+18 0 0 0 0 0 0 0
+1 72 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1011
+apple~
+/cwan /crapple/c0~
+/cwA nice looking delicious /crred /cwapple has been left here./c0~
+It looks so plump, so juicy, so red - wait..  Is that a worm hole?  
+
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 16 5 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1012
+hoagie sandwich~
+/cwa hoagie/c0~
+/cwA tasty looking hoagie has been dropped here./c0~
+It is piled high with steak and onions - all on a sesame seed bun!  
+
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0
+1 60 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1013
+shot bourbon~
+/cwa shot/c0~
+/cwA shot of bourbon is here./c0~
+You take a whiff - WHEW!  Strong stuff.
+~
+17 0 0 0 0 1 0 0 0
+1 1 5 0 0 0 0 0
+1 5 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1014
+nachos nacho~
+/cwsome /cynachos /cwwith /cYcheese/c0~
+/cwSome /cynachos /cwhave been left here./c0~
+The cheese has long since gotten cold, but hey - its food!!
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+1 20 5 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+nachos nacho~
+They have cheese on them.  Looks like one of The Goat's specials.
+~
+#1015
+chest coins gold treasure~
+/cwa heaping chest of /cYcoins/c0~
+/cwA heaping chest of /cYcoins /cwsits in the floor here./c0~
+What are you crazy?  Get the gold!
+~
+15 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+500 10000 400 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1016
+bench~
+/cwthe bench/c0~
+/cwA white painted bench is standing here./c0~
+The paint is thick and unscratched.  It appears that Jareth is very
+proud of their Boardwalk.    
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100 600 200 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bench~
+It is a quite heavy but very comfortable bench.  It is placed with its
+front towards the river so that you may enjoy the view of the river and
+all the shops and homes on the opposite bank.
+~
+#1017
+glowing rack armor~
+/cwa /cYglowing /cwrack of armor/c0~
+/cwA golden, glowing rack of armor and weapons rests here against one wall./c0~
+A golden broadsword, chain mail shirt, leggings, and helm rest on the rack.
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+500 0 400 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1018
+menu~
+/cwa menu/c0~
+/cwA menu from the Kitty Kat Club sits at your table./c0~
+Try the READ command instead - does wonders with a menu.
+~
+12 65536 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+menu~
+                              ****** THE KITTY KAT CLUB ******
+                            fine dining and exotic entertainment
+
+                             Ask for any of our dinner specials
+    
+                                          -OR-
+   
+                                if you are in the mood for
+                           something a bit more on the WILD side,
+                       try our upper lounge's wonderful facilities
+~
+#1019
+bag gold coins~
+/cwa bag of /cYgold/c0~
+/cwA bag of /cYgold /cwcoins sits here./c0~
+Yes, its true.  You really are all alone and there really is a pile of
+gold in front of you.    
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 100 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1020
+dagger~
+/cwa dagger/c0~
+/cwA dagger with a long thin blade is here./c0~
+It looks like it would be good for cleaning fingernails, but as for
+any real damage, you really doubt it.    
+~
+5 8192 0 0 0 8193 0 0 0
+0 1 4 11 0 0 0 0
+1 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1021
+sword small~
+/cwa small sword/c0~
+/cwA small sword lies here./c0~
+It is not small enough to be a short sword, but it is certainly
+smaller than any regular sword you might be used to.    
+~
+5 532480 0 0 0 8193 0 0 0
+0 3 4 11 0 0 0 0
+3 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1022
+aqua potion~
+/cwan /ccaqua /cwpotion/c0~
+/cwAn /ccaqua /cwpotion has been left here./c0~
+$n giggles as a weird glow surrounds $m!
+~
+10 1 0 0 0 1 0 0 0
+10 16 0 0 0 0 0 0
+1 40 10 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1023
+club wooden~
+/cwa wooden club/c0~
+/cwA simple looking wooden club is here./c0~
+It is carved from a single tree branch, wide enough to do adequate
+damage to your target.    
+~
+5 0 0 0 0 24577 0 0 0
+0 3 4 7 0 0 0 0
+3 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1024
+staff stout careworn~
+a stout, careworn /cgStaff/c0~
+/cwA stout, careworn staff lies here, awaiting adept hands to pick it up./c0~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 1 4 5 0 0 0 0
+6 359 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+#1025
+flail large~
+/cwa flail/c0~
+/cwA large flail is here./c0~
+Kind of makes you want to get naked and party a bit, don't it?
+~
+5 0 0 0 0 24577 0 0 0
+0 1 4 7 0 0 0 0
+6 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1026
+dark pin-striped suit~
+/cwa /cLdark /cwpin-striped suit/c0~
+/cwA /cLdark/cw, pin-striped suit sits here./c0~
+Now, you could certainly look BUFF in this sweet get-up.
+~
+9 65536 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+5 233 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1027
+brass knuckles~
+/cwsome /cybrass /cwknuckles/c0~
+/cwSome /cybrass /cwknuckles are here./c0~
+They feel pretty damn good in the palm of your hand, almost like they
+belong there.    
+~
+5 598016 0 0 0 8192 0 0 0
+0 2 5 7 0 0 0 0
+5 333 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1028
+joint cigarette pot herb spleef~
+/cwa /cgjoint/c0~
+/cwAn un-smoked /cgjoint /cwhas been left here./c0~
+Reefer, herb, joint, spleef - who cares!  Smoke it!
+~
+12 65539 0 0 0 16385 0 0 0
+12 36 0 0 0 0 0 0
+1 83 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1029
+nose plugs~
+/cwa pair of nose plugs/c0~
+/cwA pair of nose plugs attached to a head strap have been left here./c0~
+These odd-looking sets of schnoz-stoppers will keep you from smelling
+even the foulest stenches.    
+~
+11 65536 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+1 200 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1030
+torch bitchingass~
+/cwa torch/c0~
+/cwA large torch./c0~
+Although this is nothing but a simple torch, it looks large enough
+that it should be able to burn most of the day.    
+~
+1 0 0 0 0 16385 0 0 0
+0 0 24 0 0 0 0 0
+1 10 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1031
+lantern brass~
+/cwa lantern/c0~
+/cwA brass lantern is here./c0~
+There are no windows to help protect the flame from wind, so you must
+be careful with this light.    
+~
+1 0 0 0 0 16385 0 0 0
+0 0 96 0 0 0 0 0
+5 7 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1032
+bag~
+/cwa bag/c0~
+/cwA small bag is here./c0~
+It is made of burlap stitched together.
+~
+15 0 0 0 0 16385 0 0 0
+50 0 0 0 0 0 0 0
+2 5 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1033
+backpack~
+/cwa backpack/c0~
+/cwA backpack is here./c0~
+Nothing.
+~
+15 0 0 0 0 2097153 0 0 0
+100 1 -1 0 0 0 0 0
+13 66 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1034
+shoe horn~
+/cwa shoe horn/c0~
+/cwA shoe horn has been left here./c0~
+Well, at least now you'll be able to get into those pesky boots that
+have been giving you so much trouble lately!    
+~
+12 65536 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 189 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1035
+fountain water~
+/cwthe large /cbfountain/c0~
+/cgA large /cbfountain /cgwith a statue of a man holding a sword aloft dominates the town proper.  A single word /cw- FREEDOM - /cgis engraved into the base./c0~
+Simply by looking at this beautiful work of art, you are able to catch
+some of the pride and glory that built this glorious town so long ago.
+~
+23 92 0 0 0 0 0 0 0
+9999 9999 15 0 0 0 0 0
+9999 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+large fountain statue~
+It is a well crafted fountain, carved from a single piece of granite
+beautifully rendered so to represent a feeling of victory.  It seems to be
+enchanted in some manner, as the water level seems to never lower.    
+~
+#1036
+footy sanitary~
+/cwa sanitary footy/c0~
+/cwA sanitary footy sits on the ground./c0~
+Why you would want to wear this little floppy piece of cloth rather
+than a nice sturdy pair of boots, one may never know.    
+~
+11 65536 0 0 0 65 0 0 0
+0 0 0 0 0 0 0 0
+1 194 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -1
+#1037
+dirty glass rye~
+/cwa dirty glass/c0~
+/cwA dirty glass of rye is here./c0~
+Hey at least it'll get you a buzz!
+~
+17 0 0 0 0 1 0 0 0
+5 5 5 0 0 0 0 0
+10 5 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1038
+white wine glass~
+/cwa glass/c0~
+/cwA glass of white wine is here./c0~
+Remember, pinky up!
+~
+17 0 0 0 0 1 0 0 0
+5 5 2 0 0 0 0 0
+10 15 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1039
+champagne~
+/cwa /ccchampagne /cwglass/c0~
+/cwA /ccchampagne /cwglass rests on the ground./c0~
+The glass shines and sparkles with the crystal clear color of the
+liquid inside.    
+~
+17 0 0 0 0 1 0 0 0
+4 4 8 0 0 0 0 0
+9 25 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1040
+jacket blue~
+/cwa /cbblue /cwjacket/c0~
+/cwA /cbblue /cwjacket is lying on the floor./c0~
+Maybe this thing wouldn't be such a great item to wear - its pretty loud.
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+9 233 50 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1041
+glove ringmail flexible~
+a pair of flexible /cLringmail /cyGloves/c0~
+A pair of flexible ringmail gloves lie here.~
+Nothing.
+~
+9 0 0 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+5 272 50 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+#1042
+shield wooden~
+/cwa shield/c0~
+/cwA small wooden shield is lying on the ground./c0~
+It is made from three small planks bracketed together.
+~
+9 0 0 0 0 513 0 0 0
+4 0 0 0 0 0 0 0
+3 226 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1043
+pants pair black leather~
+/cwa pair of /cLblack /cwleather pants/c0~
+/cwA pair of /cLblack /cwleather pants lie on the ground./c0~
+They are made from the wily black hogs of the Plains of Blood.  
+Actually quite a novelty item.    
+~
+9 0 0 0 0 33 0 0 0
+5 0 0 0 0 0 0 0
+6 233 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1044
+helm ringmail steel~
+a /cLringmail-veiled /cysteel Helm/c0~
+A small helm, with a veil of ringmail in back, lies here.~
+Nothing.
+~
+9 0 0 0 0 17 0 0 0
+7 0 0 0 0 0 0 0
+7 272 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+#1045
+jacket scale~
+/cwa scale mail jacket/c0~
+/cwA scale mail jacket is lying on the ground./c0~
+It does not have any clasps or buttons to keep it closed, but it does
+provide decent protection.    
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+17 226 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1046
+plate bronze breast~
+/cwa /cybronze /cwbreast plate/c0~
+/cwA /cybronze /cwbreast plate is lying on the ground./c0~
+It is exquisitely worked with a great brass dragon carved into it.
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+18 240 100 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1047
+poster wanted~
+a /cYwanted/c0 poster~
+/c0A /cYwanted/c0 poster hangs on the wall.~
+Try READing it, hombre.
+~
+12 69120 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wanted poster~
+The poster has no picture, only a short description:
+                REWARD!!!!!
+    WANTED DEAD OR ALIVE
+Karandon the Sly, alias Jacques the Jackal
+Known to be fond of strong drink and women.  Wears
+black cloak and boots.
+~
+#1048
+poster wanted~
+/cwa /cGwanted /cwposter/c0~
+/cwA /cGwanted /cwposter hangs on the wall./c0~
+Try READing it, hombre.
+~
+12 69120 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wanted poster~
+The poster has no picture, only a short description:
+
+                  /cRREWARD!!!
+            WANTED DEAD OR ALIVE
+ /cySaracaphos Bejis, alias Harah the Horsemaster
+Known horse thief and murderer.  Wears brown jacket
+          and rawhide riding boots.
+~
+#1049
+dustpan dust pan~
+/cwa dustpan/c0~
+/cwA dustpan has been left here./c0~
+It is made from a solid light-weight metal, very useful for picking up
+trash.    
+~
+11 2 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 306 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+6 4
+#1051
+potion yellow~
+/cwa /cYyellow /cwpotion of see invisible/c0~
+/cwA small /cYyellow /cwpotion has carelessly been left here./c0~
+$n eyes shimmer and begin to glow brightly!
+~
+10 64 0 0 0 16385 0 0 0
+10 19 0 0 0 0 0 0
+1 40 10 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+potion yellow~
+The potion has a small label 'Detect The Invisible'.
+~
+#1052
+scroll recall~
+/cwa magical scroll of /cBrecall/c0~
+/cwA scroll has carelessly been left here./c0~
+A brilliant flash blinds you as $n dissapears!
+~
+2 65600 0 0 0 16385 0 0 0
+10 42 0 0 0 0 0 0
+8 40 10 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scroll recall~
+The scroll has written a formulae of 'Word of Recall' upon it.
+~
+#1053
+wand grey invisibility~
+/cwa /cLgrey /cwwand of invisibility/c0~
+A grey wand has carelessly been left here.~
+The wand shimmers and hums loudly as $n uses it!
+~
+3 64 0 0 0 16385 0 0 0
+10 2 2 29 0 0 0 0
+2 110 100 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wand grey~
+The wand is an old dark grey stick.  You notice a small symbol etched at
+the base of the wand.  It looks like this:
+
+     \ /
+    - O -
+     / \
+
+~
+#1054
+staff gnarled~
+/cwa gnarled staff/c0~
+/cwA gnarled staff has been carelessly abandoned./c0~
+A sense of sleepiness fills the room as $n uses the staff!
+~
+4 64 0 0 0 16385 0 0 0
+10 3 3 38 0 0 0 0
+17 1120 5000 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff gnarled~
+The staff is made of old oak, and is around five feet long. It fits
+perfectly into your hand. You notice a small symbol etched at the
+base of the staff, it looks like:
+
+  ZZZZZ
+     Z
+    Z
+   Z
+  ZZZZZ  z   z
+
+~
+#1055
+staff metal~
+a Metal Staff~
+/cwA metal staff has been carelessly left here./c0~
+A warm glow leaps forth from the staff as $n grips it tightly!
+~
+4 64 0 0 0 16385 0 0 0
+10 8 8 15 0 0 0 0
+7 320 300 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff metal~
+The staff is made of metals unknown to you.
+~
+#1056
+gold~
+/cwsome /cYgold /cwcoins/c0~
+/cwA heap of /cYgold /cwcoins lies here in a pile./c0~
+Are you going to admire it long?  Take it!
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+100 1000 5 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1057
+scroll remove curse~
+/cwa scroll of remove curse/c0~
+/cwA scroll has been left here./c0~
+$n suddenly seems to feel less burdened!
+~
+2 65536 0 0 0 1 0 0 0
+10 35 0 0 0 0 0 0
+8 60 10 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1058
+pile slips slip deposit~
+/cwa deposit slip/c0~
+/cwA pile of deposit slips sit here on a table./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 50 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1059
+pile slips slip withdrawal~
+/cwa withdrawal slip/c0~
+/cwA pile of withdrawal slips sit here on a table./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100000 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1060
+raft~
+/cwa raft/c0~
+/cwA raft has been dropped here./c0~
+It is made of lightweight bamboo logs twined together with hemp rope.
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+28 110 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+raft~
+The raft looks very primitive.
+~
+#1061
+canoe~
+/cwa canoe/c0~
+/cwA canoe has been drug here and left for the taking./c0~
+If you really want to drag that big thing around, go right ahead - but
+I wouldn't suggest it.  /c0
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+32 125 100 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+canoe~
+The canoe is fairly light.
+~
+#1062
+row boat~
+/cwa row boat/c0~
+/cwA row boat has been lugged to this point and then dropped./c0~
+You can see why someone would only carry it this far - this thing is HEAVY.
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+32 174 100 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1063
+rubber ducky floatation device~
+/cwa rubber /cYducky/c0~
+/cwA floatation device has been left here./c0~
+Odd that it would be considered a 'floatation device' by most people
+when it says /cwNOT A FLOATATION DEVICE/c0 right on the side of it.  
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+9 101 15 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1064
+red lager beer~
+/cwa /crred /cwlager/c0~
+/cwA /crred /cwlager has been left here./c0~
+The finest of beers, or so some say, is the red lager - slow brewed
+and and hand crafted.    
+~
+17 0 0 0 0 1 0 0 0
+3 3 3 0 0 0 0 0
+8 5 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1065
+cup~
+/cwa cup/c0~
+/cwA cup has been left here./c0~
+It is made from the wood of a maple tree - watch for splinters.
+~
+17 0 0 0 0 1 0 0 0
+3 3 0 0 0 0 0 0
+8 5 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1066
+bright green checkered yellow pants~
+/cwsome /cGbright /cYcheckered /cwpants/c0~
+/cwA pair of bright /cGgreen /cwand /cYyellow /cwcheckered pants have been left here./c0~
+Maybe your grandpa might wear these on a bad day - MAYBE.
+~
+9 0 0 0 0 33 0 0 0
+2 0 0 0 0 0 0 0
+5 213 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bright green yellow checkered pants~
+Reading the tag in the back, you see that it was Made in Jareth, by Franz's Clothier.
+~
+#1067
+hot pink golfers cap ball~
+/cwa golfer's cap/c0~
+/cwA hot /cPpink /cwgolfer's cap with a white ball on top rests on the ground./c0~
+Now THIS is the height of style and fashion.
+~
+9 0 0 0 0 17 0 0 0
+1 0 0 0 0 0 0 0
+1 206 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1068
+red satin shirt~
+/cwa /crred /cwsatin shirt/c0~
+/cwA /crred /cwsatin shirt lays on the ground./c0~
+This would definately be a nice addition to your wardobe for those hot
+summer days out on the patio.  Think you'll have many of those days in
+Dibrova?    
+~
+9 0 0 0 0 9 0 0 0
+2 0 0 0 0 0 0 0
+5 213 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1069
+blue suede shoes~
+/cwa pair of /cbblue /cwsuede shoes/c0~
+/cwA pair of /cbblue /cwsuede shoes are here./c0~
+They still gleam with the spit and polish that was placed on them when
+they were first made.    
+~
+9 0 0 0 0 65 0 0 0
+2 0 0 0 0 0 0 0
+1 213 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1070
+gloves stealing~
+/cwsome /cLblack /cwleather gloves/c0~
+/cwA pair of /cLblack /cwgloves have been left here./c0~
+Black, leather, with the fingers cut off, these gloves radiate power.
+~
+9 110593 0 0 0 129 0 0 0
+5 0 0 0 0 0 0 0
+5 273 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#1071
+boots sneaking~
+/cwa pair of /cLblack /cwboots/c0~
+/cwA pair of low-cut /cLblack /cwboots are here./c0~
+There are almost no soles on these shoes, they could almost be called
+a slipper.    
+~
+9 110593 0 0 0 65 0 0 0
+5 0 0 0 0 0 0 0
+5 273 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#1072
+wagon~
+/cwa wagon/c0~
+/cwA wagon has been left here./c0~
+Quite combersome to drag around with you, but it can carry a LOT of
+things.    
+~
+15 0 0 0 0 1 0 0 0
+1000 0 -1 0 0 0 0 0
+33 200 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1073
+hand cart~
+/cwa hand cart/c0~
+/cwA hand cart has been left here./c0~
+It even comes complete with a tie-string to keep all your goods
+secured on the cart.    
+~
+15 0 0 0 0 1 0 0 0
+300 0 -1 0 0 0 0 0
+5 200 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1074
+carriage~
+/cwa carriage/c0~
+/cwA carriage has been left sitting here./c0~
+It certainly would be nice to ride in that thing rather than walk all
+day, but you'd have to have a horse to pull it...    
+~
+15 0 0 0 0 1 0 0 0
+1000 0 -1 0 0 0 0 0
+15 300 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1075
+tray donuts~
+/cwa tray of stale donuts/c0~
+/cwA tray of stale donuts sits here./c0~
+Hey man who cares if they're stale!  They're DONUTS!
+~
+19 0 0 0 0 1 0 0 0
+40 0 -1 0 0 0 0 0
+5 160 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1076
+syringe~
+/cwa /ccsyringe/c0~
+/cwA /ccsyringe /cwhas been dropped here./c0~
+A murky fluid suddenly squirts out of the syringe! YUCK!!
+~
+3 65538 0 0 0 16385 0 0 0
+1 5 5 15 0 0 0 0
+3 1 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1077
+pool table~
+/cwa pool table/c0~
+/cwA beautiful regulation length pool table stands proudly in the center of the room./c0~
+~
+12 2 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+5 0 5 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1078
+hot tub 3 ft pool water~
+/cwKaan's hot tub/c0~
+/cwKaan's hot tub is sunk into the northeast corner of the room./c0~
+~
+24 1 0 0 0 0 0 0 0
+3001 0 0 0 0 0 0 0
+5 0 5 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1079
+water canteen~
+/cwa canteen/c0~
+/cwA canteen has been set down on the ground here./c0~
+This is considered by many to be the perfect vessel for transporting
+water long distances.    
+~
+17 0 0 0 0 1 0 0 0
+20 20 15 0 0 0 0 0
+25 12 15 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1080
+jacque pinky finger~
+/cwJacque's pinky finger/c0~
+/cwJacque the Jackal's pinky finger lies on the ground here./c0~
+Is that a booger on the end?  Yuck!
+~
+12 0 0 0 0 1 0 0 0
+10 0 -1 0 0 0 0 0
+1 10000 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1081
+board wall sign~
+/cwthe wall sign/c0~
+/cwA sign hangs on the wall./c0~
+Try READing it.
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+/cWGiving /crblood
+/cwThis establishment will pay any being who gives blood a flat sum
+of gold in return for their donation.
+Simply GIVE BLOOD and you shall be rewarded.
+~
+#1082
+sign~
+/cwthe wall sign/c0~
+/cwA sign hangs on the wall./c0~
+Try READing it.
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+/cYHouse Rules/cw
+To wager coin, simple GAMBLE (AMT).
+Be warned, chances are slim that you will be a winner!
+~
+#1083
+vial empty~
+/cwan empty vial/c0~
+/cwAn empty vial is laying here./c0~
+Looks like it could probably hold a little something in it - maybe water?
+~
+17 0 0 0 0 1 0 0 0
+1 0 -1 0 0 0 0 0
+1 1 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+vial~
+It's just an empty vial.
+~
+#1084
+blank scrolled paper~
+/cwsome blank, scrolled paper/c0~
+/cwSome blank, scrolled paper has been left here./c0~
+This would be perfect for scribing scrolls on.
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 90 1 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1085
+sign wall~
+/cwa sign/c0~
+/cwThere is a sign hanging on the south wall./c0~
+Try READing it!
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+-/cWTraining Hall/c0-
+
+- /cyTo train a stat, type TRAIN (stat).  Cost will vary depending on player level.
+~
+#1086
+sign~
+/cwthe sign/c0~
+/cwThere is a sign hanging on the wall here./c0~
+-/cWLibrary/c0
+
+-/cyTo train your intelligence or wisdom, simply type TRAIN (stat).
+
+AND KEEP YOUR VOICE DOWN!!!!!!!!!!
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+-/cWLibrary/c0
+
+-/cyTo train your intelligence or wisdom, simply type TRAIN (stat).
+
+-/cwAND KEEP YOUR VOICE DOWN!!!!!!!!!!
+~
+#1087
+ruby gem~
+/cwa large /cRruby/c0~
+/cwA large /cRruby /cwlies on the ground, collecting dust./c0~
+It could be a valuable gem - might be best to take itandtry and sell
+it at a jeweler's store.    
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 3000 200 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1088
+diamond gem~
+/cwa glittering /cCdiamond/c0~
+/cwA glittering /cCdiamond /cwlies at your feet./c0~
+It could be a valuable gem - might be best to take itandtry and sell
+it at a jeweler's store.    
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+8 1026 9500 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1089
+sapphire gem~
+/cwa brilliant /cBsapphire/c0~
+/cwA brilliant /cBsapphire /cwhas been left here./c0~
+It could be a valuable gem - might be best to take it and try and sell
+it at a jeweler's store.    
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 997 3500 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1090
+potion green deep~
+/cwa /cgdeep-green /cwpotion/c0~
+/cwA /cgdeep-green /cwpotion has been left here./c0~
+A refreshing breeze blows by as $n quaffs the potion.
+~
+10 65537 0 0 0 1 0 0 0
+10 53 53 0 0 0 0 0
+2 533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1091
+nuts berries~
+/cwsome /cynuts /cwand /cpberries/c0~
+/cwAn assortment of /cynuts /cwand /cpberries /cwhave been left here./c0~
+These are the original trail mix, straight the trail's edge.
+~
+19 0 0 0 0 1 0 0 0
+16 0 0 0 0 0 0 0
+2 64 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1092
+sign~
+/cwa large sign/c0~
+/cwA large sign hangs on the wall, explaining the shop policy on teleportation./c0~
+To see a list of locales serviced by this establishment, type LIST.
+
+To purchase travel to any locale on the list, type BUY (locale #).
+
+Thank you for supporting your local Mage's Guild.
+
+-/cM*Guild is not responsible for lost or stolen items before, during, or
+after teleport sequence./c0
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign~
+To see a list of locales serviced by this establishment, type LIST.
+
+To purchase travel to any locale on the list, type BUY (locale #).
+
+Thank you for supporting your local Mage's Guild.
+
+-/cM*Guild is not responsible for lost or stolen items before, during, or
+after teleport sequence./c0
+~
+#1093
+fishing pole~
+/cwa fishing pole/c0~
+/cwA fishing pole lies on the ground./c0~
+~
+34 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+6 102 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1096
+wooden drop box~
+/cwa wooden drop box/c0~
+/cwA wooden drop box is mounted on a wall here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+box~
+If you can read this, the drop box is not working.
+~
+E
+drop box message~
+Use 'look box' to write a message.
+~
+#1097
+board frozen bulletin~
+/cwa /cWfrozen /cwbulletin board/c0~
+/cwA large bulletin board is here, carved from a block of /cWice/cw./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+freeze bulletin~
+Use 'look board' to read the board.
+~
+#1098
+board holy bulletin~
+/cwa /cCholy /cwbulletin board/c0~
+/cwA large /cCholy /cwbulletin board is mounted on the wall./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+holy bulletin~
+Use 'look board' to read the board.
+~
+#1099
+board bulletin~
+/cwa bulletin board/c0~
+/cwA large bulletin board is mounted on a wall here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+board~
+If you can read this, the board is not working.
+~
+E
+bulletin~
+Use 'look board' to read the board.
+~
+$~

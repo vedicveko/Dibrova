@@ -1,0 +1,14 @@
+151
+"RIDDLE QUEST"
+
+- Bring all players to room 1223
+- Load note vnums 26600-26609 and distribute one to each player
+	*if there are more than ten players, duplicate a couple of notes
+- All players are to read their note
+- Goal is to find the object which the riddle on the note describes
+- When the object is found, use the CONNECT command: connect <note> <obj>
+- First and second connects will give the player a new note with a
+  new riddle. Last connect gives player a quest object
+- Timer for this quest is normally 15-20 minutes depending on the level
+  range and experience of the group of questers
+#

@@ -1,0 +1,1575 @@
+#5800
+The Gates to Dun Pith~
+And so here it begins - the entry into the fabled city of Dun Pith,
+where the local law is ruled by the local politicians who in turn are
+ruled by the masters of the three guilds of the city.  The tales of
+this city brought back into the more civilized circles of the world
+are both magnificent and atrocious, more often than not close to
+unbelievable.  The way into the city is wide and inviting, the smells
+and sounds are that of most other cities but appearances are nearly
+always deceiving - especially in the City of Rogues.    
+~
+58 4 0 0 0 0
+D0
+~
+~
+0 0 5801 0
+D2
+~
+~
+0 0 5870 0
+S
+#5801
+Metier Boulevard~
+The road here is well-tended, the stones of the street solid and
+strong, suggesting that the city might be changing their image in an
+attempt to get more people to migrate in this direction.  A
+large-sized wooden building lies to the east, the sign over the large
+barn door proclaiming it the city stables.  The boulevard stretches
+far to the north, a very large and impressive building visible at its
+end.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5802 0
+D1
+~
+~
+0 0 5860 0
+D2
+~
+~
+0 0 5800 0
+D3
+~
+door~
+1 0 5822 3
+S
+#5802
+Metier Boulevard~
+Homes of all sizes line the boulevard directly alongside the
+businesses of the town.  Many of the houses appear unused - at least
+from a casual look - with paint peeling from their exterior, chipped
+off in many places, even with some holes in the walls.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5805 0
+D1
+~
+~
+0 0 5861 0
+D2
+~
+~
+0 0 5801 0
+D3
+~
+door~
+1 0 5823 3
+S
+#5803
+Olinn's Livery~
+This is an extremely well-tended stable.  The owner of the place
+obviously takes great pride in what he does - the place reflects that.
+Neat rows of stalls run along the south wall, the occassional swish of
+a tail or the snort of a horse can be heard from that general
+direction.    
+~
+58 8 0 0 0 0
+D3
+~
+~
+0 0 5860 0
+S
+#5804
+Metier Boulevard~
+The boulevard continues to run north toward an enormous manor house
+which dominates your field of vision to the north, however two roads
+run off to the east and west as well.  To the east is an opulent,
+white stone road leading in toward the Bard's Guild.  The eastern
+section of the city is more or less under control of the' Bard's
+Guild, no matter what the Chancellor has to say about it.  At the end
+of the eastern road here, another huge manor house awaits in glorious
+spendor - maybe even more splendid than the Chancellor's House to the
+north.  West is another road, much less appealing and much more
+narrow.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5806 0
+D1
+~
+~
+0 0 5863 0
+D2
+~
+~
+0 0 5805 0
+D3
+~
+~
+0 0 12461 0
+S
+#5805
+Metier Boulevard~
+The boulevard runs along between the sides of buildings and homes,
+most of which seem to be in good order.  There are a few that look
+possibly abandoned or at the least neglected but for the most part,
+the city looks to be holding its own.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5804 0
+D1
+~
+~
+0 0 5862 0
+D2
+~
+~
+0 0 5802 0
+D3
+~
+~
+0 0 5824 0
+S
+#5806
+Metier Boulevard~
+The wide white stone road leading to the Bard's Guild heads east from
+here, ending at the guildhouse itself which is plainly visible from
+where you stand due to its immensity and shining white walls.  The
+section of the city owned by the bards is - at a look from here in the
+main area of the city - a very impressive and wealthy community.  Far
+to the north is another manor house much like the Bard's Guild, this
+one fronted by an enormous stone fountain.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5807 0
+D1
+~
+~
+0 0 5864 0
+D2
+~
+~
+0 0 5804 0
+D3
+~
+~
+0 0 5827 0
+S
+#5807
+Metier Boulevard~
+You are now quite a ways deep into the heart of Dun Pith, a place
+where tales of sabotage and intrigue are told by bards everywhere.  
+This main road though the city keeps up appearances very well, giving
+any traveller new to the city a very safe and sound sense of security.
+You, however, being the well travelled being that you are, know a sham
+when you see it and have all eyes open for any signs of trouble.    
+~
+58 4 0 0 0 0
+D0
+~
+~
+0 0 5808 0
+D1
+~
+~
+0 0 5865 0
+D2
+~
+~
+0 0 5806 0
+D3
+~
+~
+0 0 12466 0
+S
+#5808
+Metier Boulevard~
+You are now just south of the manor house of the Chancellor of Dun
+Pith, the man who is the equivalent of the town mayor.  The place is
+truly impressive now that you can get a good look at it.  With the
+enormous fountain spraying a fine rainbowed mist in front of the
+place, the only word that can come to mind is 'stately'.  And indeed
+it is.  A narrow road leads to the east between buildings.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5809 0
+D1
+~
+~
+0 0 5866 0
+D2
+~
+~
+0 0 5807 0
+D3
+~
+door~
+1 0 5829 3
+S
+#5809
+Metier Boulevard~
+Directly to the north is a plaza dominated by a large fountain which
+sprays mist high into the air.  The plaza is the main meeting area for
+all political activities in Dun Pith, most of the Chancellor's
+speeches are given from his high balcony, delivered to the crowds
+which gather in the plaza to hear his words.  On the east side of the
+street is a beautiful garden surrounded by a black metal fence topped
+in short spikes.  The entire is impressive to view, even from a
+distance.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5810 0
+D1
+~
+~
+0 0 5867 0
+D2
+~
+~
+0 0 5808 0
+D3
+~
+~
+0 0 5830 0
+S
+#5810
+The Plaza~
+The Chancellor's Manor lies directly on your north side, its massive
+front steps daunting even the most confident of beings.  Off to the
+east and west is wide avenue surrounding by tall, leaning houses and
+shops.  On the southeast corner of the two streets is an enclosed
+garden full of lush growth and color.    
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5868 0
+D2
+~
+~
+0 0 5809 0
+D3
+~
+~
+0 0 5816 0
+D4
+~
+~
+0 0 5840 0
+S
+#5811
+Society Road~
+Whether or not this road is considered 'high' society or 'low' society
+has yet to be determined.  On the south side everything appears
+extremely well-tended and upscale while just a short distance away,
+the north side of the street boasts houses and shops that look like
+they haven't been lived in or inhabited for years.  Just west of here
+is the Plaza, the entrance to the Chancellor's Manor accessable from
+that locale.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5844 0
+D1
+~
+~
+0 0 5812 0
+D3
+~
+~
+0 0 5868 0
+S
+#5812
+Society Road~
+The road runs east and west past the many shops and homes of the city.
+The evidence of the differences between the guilds which run the
+different sections of this town is all around - on the north side of
+the road the buildings are so old and run-down one might believe that
+this town is near its death.  On the south side, however, the Bard
+Guild runs a very well organized, clean section of town which only the
+affluent can afford to frequent.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5845 0
+D1
+~
+~
+0 0 5813 0
+D2
+~
+~
+0 0 5847 0
+D3
+~
+~
+0 0 5811 0
+S
+#5813
+Society Road~
+The road runs to the east toward a cul-de-sac of buildings built
+against the town wall.  To the west is the Plaza where a huge fountain
+fronts the Chancellor's Manor House.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5846 0
+D1
+~
+~
+0 0 5814 0
+D2
+~
+~
+0 0 7412 0
+D3
+~
+~
+0 0 5812 0
+S
+#5814
+Society Road~
+The road runs east to west through the center section of the town.  
+This road is considered even territory, not really owned by any of the
+three guilds and as such this street and the Boulevard are basically
+the only part of town that the Chancellor has any direct control over.
+The streets are maintained, however it does appear that the shops
+along the road get much support financially.  A dark, seedy-looking
+alley runs between two buildings on the north side of the road,
+heading off into darkness.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 12400 0
+D1
+~
+~
+0 0 5815 0
+D2
+~
+~
+0 0 5848 0
+D3
+~
+~
+0 0 5813 0
+S
+#5815
+Society Square East~
+The road ends in this rounded cobblestone square.  You are surrounded
+by buildings older than most elves, some of which even look it.  
+Entrance to any of those building lies in any direction but west,
+which is the way back down Society Road toward the center of town.  
+~
+58 4 0 0 0 0
+D0
+~
+~
+0 0 5850 0
+D1
+~
+door~
+1 0 5851 3
+D2
+~
+~
+0 0 5849 0
+D3
+~
+~
+0 0 5814 0
+D4
+~
+trapdoor~
+1 0 5857 3
+S
+#5816
+Society Road~
+The way west leads into a section much less attended to by the city
+road workers and cleaners.  The southern section, held solely by the
+Mercenary Guild, is a very loud and raucous place - the sounds coming
+from that direction do not seem that they would appeal to those small
+in stature or faint of heart.  To the northeast is the section held in
+sway by the Thieven Guild, a dark and secretive section of the city
+where most of the most amazing sagas come from in many a bard's tales.
+The Plaza lies directly to the east, fronting the Chancellor's Manor
+House.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5833 0
+D1
+~
+~
+0 0 5810 0
+D2
+~
+~
+0 0 5831 0
+D3
+~
+~
+0 0 5817 0
+S
+#5817
+Society Road~
+The road leads east and west past the many houses and businesses of
+the city in general.  The buildings along this main way are all packed
+tight together, sharing walls in most cases, as if there wasn't enough
+space in this town to accomodate all of the business traffic it gets.
+That might be true, but its doubtful considering that many of the
+buildings look vacant.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 12409 0
+D1
+~
+~
+0 0 5816 0
+D2
+~
+~
+0 0 5832 0
+D3
+~
+~
+0 0 5818 0
+S
+#5818
+Society Road~
+The road runs east to west past the many homes of the small business
+section of the city.  A smaller road leads south into the section of
+town held by the Mercenary Guild, the street looking as safe and
+welcome as any other street in town.  The sounds coming from the south
+are not those you would consider safe and welcoming, most of it is
+loud yelling or raucous laughter.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5834 0
+D1
+~
+~
+0 0 5817 0
+D2
+~
+~
+0 0 12455 0
+D3
+~
+~
+0 0 5819 0
+S
+#5819
+Society Road~
+Just to the west is the end of Society Road on the western end of
+town.  A small street runs north into the Thieven section of the town.
+Word to the wise - tread very carefully as you enter into that section
+of town.  Even the locals of this place do not walk the streets held
+by the Thieven Guild without one hand on their dagger.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 12414 0
+D1
+~
+~
+0 0 5818 0
+D2
+~
+door~
+1 0 5836 3
+D3
+~
+~
+0 0 5820 0
+S
+#5820
+Society Square West~
+The road ends here at a rounded cobble stoned court surrounded by
+buildings on all sides except to the east, which is the way back along
+Society Road toward the center of town.  Casinos flash their bright
+lamps, dazzle and glitter besets you on every side.  Time to go win
+some money!    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5839 0
+D1
+~
+~
+0 0 5819 0
+D2
+~
+~
+0 0 5837 0
+D3
+~
+~
+0 0 5838 0
+S
+#5821
+The Traveller's Rest~
+This is the only inn in town which caters to the non-resident who is
+not brave enough to find shelter within the confines of one of the
+many inns in the Guild areas.  The clientel for this inn mostly
+consists of families and salesmen, people who are not the type to be
+able to defend themselves in combat situations.    
+~
+58 8 0 0 0 0
+D3
+~
+~
+0 0 5861 0
+S
+#5822
+Public Works Building~
+Tools and cleaning supplies lie in an orderly fashion all about this
+small one room building.  The city uses this building to house the
+equipment needed by the city workers who keep the main streets clean.
+~
+58 8 0 0 0 0
+D1
+~
+door~
+1 0 5801 3
+S
+#5823
+Town House~
+This small home is not opulent in any way, but it does appear to be
+well cared for.  It is most probably owned by one of the shopkeepers
+of the town who only makes enough to get by.    
+~
+58 8 0 0 0 0
+D1
+~
+door~
+1 0 5802 3
+S
+#5824
+Empty House~
+Walking up the steps and through the open front door, you realize that
+if ever there was anything of value or interest in this place, it was
+most probably stolen by looters long ago.  Most of the walls are
+cracked or broken with gaping holes, the ceiling in much the same
+condition.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5805 0
+S
+#5825
+Manor House~
+This glamorous home is very typical of the old-style homes which used
+to be the only style of living this city enjoyed.  When this city was
+first founded, it was intended as a center for learning and
+advancement for those wishing to make something of their lives and
+skills.  For some reason, the only interested guilds which came to the
+town were the ones with the darker and more sinister reputations.  
+Now the only way these manor houses are kept in any sort of repair is
+if a guild adopts it for its own and cares for it.  Another room lies
+to the east.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5826 0
+D3
+~
+door~
+1 0 5862 3
+S
+#5826
+Sitting Room~
+This is a quiet, sedate room with windows facing east toward the
+upscale section of the city owned and maintained by the Bard's Guild.
+This place must cost a veritable fortune to keep up, it would seem
+that whoever owns it must be quite wealthy, indeed.    
+~
+58 8 0 0 0 0
+D3
+~
+~
+0 0 5825 0
+S
+#5827
+Johan's Fine Bakery~
+Some of the most delicious breakfast foods are prepared here daily by
+Johan himself.  It is rumored throughout the city that Johan puts some
+special secret ingredient in his foods to make the taste better and
+keep the hunger away longer.  Of course, that is just a rumor.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5806 0
+S
+#5828
+Olas' Country Market~
+Olas opened his doors way back when the city was still new and the
+ideals were still held high in the city.  The city has, of course,
+turned away from the traditional goals that its scholarly founding
+fathers first envisioned, however Olas has not.  He still maintains a
+neat and orderly shop with a great reputation.    
+~
+58 8 0 0 0 0
+D3
+~
+~
+0 0 5865 0
+S
+#5829
+Single Story Home~
+This small home has survived now for many years in this no-man's land
+section of town protected only by a corrupt Chancellor and and an even
+more corrupted task force.  It has become a sort of a land mark to the
+residents, most everyone uses it as a point of reference for
+directions and bearings even though it is much smaller than most of
+the homes in town.  It currently belongs to Heddis, one of the workers
+at the city bank who mkaes just enough to afford his own home.    
+~
+58 8 0 0 0 0
+D1
+~
+door~
+1 0 5808 3
+S
+#5830
+Dun Pith Post Office~
+Most of the mail going through this city's post office contains some
+sort of bribe, blackmail or threat but of course the postmaster here
+is paid just the same as every city official is by the three guilds.
+It is considered a very good position to hold in this town to have a
+public position, being that the payoff from the guilds more than
+triples the usual salary paid by the city.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5809 0
+S
+#5831
+City Task Force~
+This place is simply a public place for sight and security.  It is
+actually run and funded by the guilds of the city who pay to make sure
+that the activities they perpetrate - especially those done by the
+Thieven Guild - are not hindered in any way by any local law grunt or
+gumshoe.  It is a rare occurance to find any but tourists in the cells
+this place boasts for fear that a high-ranking member might get angry
+from a 'wrongful' imprisonment.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5816 0
+S
+#5832
+The Tailor Shop~
+This is a truly disgusting place, the floor covered only at best in
+spots by a ratty carpet eaten by mice.  The south wall has a small
+doorway in it covered by a small, ragged curtain.  The impression of
+great size and noise can be felt behind that curtain.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5817 0
+D2
+~
+curtain~
+1 0 5853 3
+S
+#5833
+City Library~
+It appears that the slow periods of the day are all day in this small
+single story building.  Being that the main population of the town
+belongs to one guild or another in some capacity or another, the need
+for a traditional library is right about null.  This place is yet
+another example of a structure left over from the original founders of
+the city dreaming of a wonderful place of learning and order.  Too bad
+the city had to end up such a cesspool of crime and corruption
+instead.    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5816 0
+S
+#5834
+Prestigious Manor House~
+This luxury home is the private residence of the wealthiest private
+citizen in the city - Soren Solace, the owner of all three of the
+casinos just down the street.  Soren is notorious for his wild parties
+and even wilder outfits - you will certainly recognize him if he
+happens past you.  Another room, just as large as this one, lies to
+the north.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5835 0
+D2
+~
+~
+0 0 5818 0
+S
+#5835
+Inner Ballroom~
+It seems that Soren must really throw some extremely large-sized
+parties here.  This ballroom is large enough to hold the entire city
+and an orchestra besides.  There is a bandstand up in the far
+northwest corner which rises up high above the hardwood dance floor
+that you currently stand upon.    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5834 0
+S
+#5836
+Casino House~
+This small but luxuriously furnished house is owned and maintained by
+the casinos in the court to the west of here.  Any guest who is
+winning extremely large is given free run of the house in hopes that
+staying so close to the casino will force the guest to go back in the
+casino and blow the money they won.    
+~
+58 8 0 0 0 0
+D0
+~
+door~
+1 0 5819 3
+S
+#5837
+The Emerald Dragon~
+The Green Dragon is the bar in Dun Pith general that is the hang-out
+for the locals.  Most of the newcomers to town that happen to wander
+in here get a bit frightened and leave after one or two drinks.  It
+has been known to get semi-rowdy here.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5820 0
+S
+#5838
+Soren's~
+This is certainly the largest and most opulent of the casinos in this
+court, probably due to the fact that it bears the name of the owner.
+Every employee which walks the rows of tables is dressed in spotless
+black shirts and every one of them are smiling.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5820 0
+S
+#5839
+The Kingdom~
+The Kingdom is just that - an enormous building with the theme of a
+small kingdom and all the houses that would be within its walls.  You
+could gamble in the blacksmith's shop or try your luck in the general
+store (all simulated, of course).  Dare you to try your luck in this
+swanky place?    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5820 0
+S
+#5840
+Wide Front Steps of the Chancellor's Manor House~
+These wide, white stone steps are the place from which the Chancellor
+gives most of his speeches.  They are regularly cleaned and scrubbed,
+freshly painted every few months to keep the place looking immaculate.
+The interior of the Manor lies just to the north.    
+~
+58 4 0 0 0 0
+D0
+~
+~
+0 0 5841 0
+D1
+~
+~
+0 0 5869 0
+D5
+~
+~
+0 0 5810 0
+S
+#5841
+Entry into the Manor House~
+This entire room is one large entry chamber, designed for the express
+purpose of welcoming large nummbers of guests to the place.  Large
+chambers lead off to the east and west through vaulted corridors.  
+This is obviously intended as a show place, a place which has the
+single function of wowing crowds and winning votes.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5842 0
+D2
+~
+~
+0 0 5840 0
+D3
+~
+~
+0 0 5843 0
+S
+#5842
+The Sun Room~
+The entire ceiling of this room is done in transparent panels which
+allow the sun to shine through into the room during the daylight
+hours.  Plants from all over the world hang from hooks about the room,
+the green of thier leaves and stalks contrasting boldly with the clean
+white walls.    
+~
+58 8 0 0 0 0
+D3
+~
+~
+0 0 5841 0
+S
+#5843
+The Ballroom~
+This room is a socialite's dream - it has a long, clean dance floor
+with a bandstand at the far western end.  The vaulted ceiling to the
+place stretches high into the upper reaches of the structure, giving
+an even more impressive sense of size than the place already has.    
+~
+58 8 0 0 0 0
+D1
+~
+~
+0 0 5841 0
+S
+#5844
+Temple at Dun Pith~
+This is just about the only place in the entire town that a person may
+be and feel entirely safe from all adversaries.  The temple is an open
+place - more a pavilion than a temple - with notched pillars running
+around the entire perimeter of the place, a roof high above by those
+same pillars.  Rest easy, weary traveler - you have come to a place of
+safety.    
+~
+58 16 0 0 0 0
+D2
+~
+~
+0 0 5811 0
+S
+#5845
+School~
+This is a small place, only one room with no more than twenty chairs
+and desks lined up in front of the teacher's desk.  It is quite a
+surprise that a town of this size does not have a larger facility for
+the teaching of its youth - but then, maybe most of the townspeople
+figure that school is a waste of time.  Why learn to read and write
+when one can steal or kill for a living...    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5812 0
+S
+#5846
+Kalifa's Magic Shack~
+By no means a shack, this proud building holds a history rivaling many
+of the manor houses of the city.  The ornate woodwork which trims the
+sides and corners of the room and the beveled glass which covers all
+windows gives this both an antique and wealthy look.    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5813 0
+S
+#5847
+Bank of Dun Pith~
+This bank is really not used quite as much as it might once have been.
+With the local guilds being what they are, enough of the hothead or
+renegade students - the bad apples, if you will - make raids on the
+bank at least once every six months or so.  As such, much of the town
+has lost faith in the bank's ability to safeguard the money that is
+kept within.  The guilds, of course, have their own vaults - things of
+legend where it is said untold amounts of gold exist.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5812 0
+S
+#5848
+City Hospital~
+Of all the buildings in the city, this is the one that is probably the
+most well-respected one of all.  Almost every citizen has been to the
+hospital for one reason or another in this violent city and as such
+the use of such a facility is deply respected by every member of the
+community.    
+~
+58 12 0 0 0 0
+D0
+~
+~
+0 0 5814 0
+S
+#5849
+Dun Pith Blacksmith Shop~
+This is very much the typical blacksmith shop complete with a large
+anvil in the center of the place and barrel of water for quenching.  
+It does not appear that the smith who owns the place does much in the
+way of weaponry, rather the more mundane needs of the community such
+as horse shoeing and the like.  It would be assumed that most of the
+weaponry in this town is owned by members of the guilds and as such
+the weapons would be furnished by the guilds.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5815 0
+S
+#5850
+Vacant House~
+There is nothing at all of value to be seen in this small place, the
+walls and floors are of bare wood which hasn't seen a coat of paint in
+years.  There are a few small specks of dust and debris littering the
+place, bits of trash swept in by the winds through the open front door
+- nothing more.    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5815 0
+S
+#5851
+Wealthy Manor House~
+The Chancellor uses this place as a cottage for visiting dignitaries
+from other cities.  The place is absolutely enormous with a full-time
+staff of servants and cooks who keep the place tidy and ready should
+any visitor come calling.  To the north and south are large rooms
+designed specifically for the comfort of the tourists, making it so
+that they are so pleased with their accomodations they would have no
+cause to stroll the city and take the chance at being mugged.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5854 0
+D1
+~
+sliding~
+1 0 5852 3
+D3
+~
+door~
+1 0 5815 3
+S
+#5852
+Manicured Lawn~
+The lawn to this place is bordered in colorful flowers, their smell
+washing over the entire yard with a wonderful fragrance.  One could
+easily forget that they were in the middle of Dun Pith in this
+veritable paradise.  A smaller building lies on the east side of the
+lawn, one which looks much like the manor house but smaller.    
+~
+58 0 0 0 0 0
+D1
+~
+door~
+1 0 5856 1
+D3
+~
+sliding~
+1 0 5851 3
+S
+#5853
+The Sweat Shop~
+Places such as this are told of in many stories, their existance
+rumored at by people speaking in hushed, outraged whispers.  Now the
+truth is absolutely told - there is at least one of these such places
+in the world and you are standing within its walls.    
+~
+58 8 0 0 0 0
+D0
+~
+curtain~
+1 0 5832 3
+D5
+~
+steps~
+1 0 5877 19
+S
+#5854
+Sitting Room~
+Small tables are arranged about the room in a very precise way, the
+tables are scrubbed meticulously clean and the chairs gleaming with
+polish.  A large window on the east wall looks out into the back lawn
+and the gardens surrounding it, the entire room and serene and
+peaceful.    
+~
+58 8 0 0 0 0
+D2
+~
+~
+0 0 5851 0
+S
+#5855
+Dining Room~
+Four long tables are arranged about the room, all with extremely
+comfortable chairs for guests to sit and relax in enjoying a meal.  
+Dinner is served at any time, as visiting guests may often eat their
+meals at odd hours.    
+~
+58 8 0 0 0 0
+D0
+~
+~
+0 0 5851 0
+S
+#5856
+Servant's Bunk House~
+For the servants who do not have their own home in Dun Pith or may
+have been hired from outside the city on a tenure, this small has been
+given over to them.  It has all the necessities of a house plus is
+fairly well furnished and kept up.  It appears the Chancellor must be
+worried that his guests who stay in the manor house might sneak a peek
+out here.    
+~
+58 8 0 0 0 0
+D3
+~
+door~
+1 0 5852 3
+S
+#5857
+Steps in the Bell Tower~
+You stand just inside the lowest level of the bell tower.  A set of
+spiral stairs wind around the inner wall of the tower up to the top
+where the bells hang.  Looking up into the upper reaches, you can see
+the ropes and pulleys which operate the bells.    
+~
+58 8 0 0 0 0
+D4
+~
+~
+0 0 5858 0
+D5
+~
+door~
+1 0 5815 1
+S
+#5858
+Climbing the Bell Tower~
+The top of the tower lies just above you.  The roof of the tower only
+covers the exact top of the tower itself, the side along the upper
+walls are all wide open so that the bells might be heard all the
+better.  Because of the open air at the top, stray gusts of wind
+occassionally blow down and buffet against your clothing, making you
+hold tight to the wall.    
+~
+58 8 0 0 0 0
+D4
+~
+~
+0 0 5859 0
+D5
+~
+~
+0 0 5857 0
+S
+#5859
+Top of the Bell Tower~
+There are a total of four bells here, one extremely large one, one
+very small one and two of varying size in the middle between the
+largest and smallest.  The big one looks large enough to knock you off
+your perch here at the top of the tower.    
+~
+58 8 0 0 0 0
+D5
+~
+~
+0 0 5858 0
+S
+#5860
+Metier Boulevard~
+On the east side of the street is the city stables, where you may park
+your steed for the duration of your stay.  The street itself is a
+wide, well tended stone street which runs straight north into a large
+plaza dominated by a huge manor house.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5861 0
+D1
+~
+~
+0 0 5803 0
+D3
+~
+~
+0 0 5801 0
+S
+#5861
+Metier Boulevard~
+Metier Boulevard continues along, the wide boulevard not only a means
+of travel but also a place if socialization and commerce.  To the east
+is the Traveller's Rest, the local inn where everyone stays who is not
+a local.  To the west is a fairly impressive house.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5862 0
+D1
+~
+~
+0 0 5821 0
+D2
+~
+~
+0 0 5860 0
+D3
+~
+~
+0 0 5802 0
+S
+#5862
+Metier Boulevard~
+The street runs north and south, a wide paved way for all manner of
+folk to go about their daily business.  On the east and west sides are
+the private residences of Dun Pith citizens, the east side one of
+obvious wealth.    
+~
+58 0 0 0 0 1
+D0
+~
+~
+0 0 5863 0
+D1
+~
+door~
+1 0 5825 3
+D2
+~
+~
+0 0 5861 0
+D3
+~
+~
+0 0 5805 0
+S
+#5863
+Metier Boulevard~
+This is a main crossroads for the town - the bard guild lies directly
+east from here, a wide street leading toward it.  The guild house
+itself is an old manor house much like the Chancellor's own.  In fact,
+it is sometimes said that the bard's guild rivals that of the
+Chancellor's.  A smaller road leads west into the area of the
+mercenary guild.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5864 0
+D1
+~
+~
+0 0 7401 0
+D2
+~
+~
+0 0 5862 0
+D3
+~
+~
+0 0 5804 0
+S
+#5864
+Metier Boulevard~
+The wonderful smells of a bakery come wafting from the west side of
+the boulevard, the scent tempting your tastebuds almost maddeningly.
+To the east is the wide road leading in toward the Bard's Guild.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5865 0
+D1
+~
+~
+0 0 7400 0
+D2
+~
+~
+0 0 5863 0
+D3
+~
+~
+0 0 5806 0
+S
+#5865
+Metier Boulevard~
+A very dark and ugly-looking alley lies on the west side of the road,
+a slow trickle of dark, fetid water running from it.  On the east side
+of the road is a cheery little cottage which is used as the general
+store for the city.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5866 0
+D1
+~
+~
+0 0 5828 0
+D2
+~
+~
+0 0 5864 0
+D3
+~
+~
+0 0 5807 0
+S
+#5866
+Metier Boulevard~
+Metier Boulevard continues north toward the Chancellor's manor house,
+the fountain which lies in front of the manor quite visible now and
+extremely beautiful.  On the east side of the street is entry into
+another street, on the west side is the private home of one of Dun
+Pith's citizens.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5867 0
+D1
+~
+~
+0 0 7416 0
+D2
+~
+~
+0 0 5865 0
+D3
+~
+~
+0 0 5808 0
+S
+#5867
+Metier Boulevard~
+The plaza lies directly north from you, the fountain spraying a bit of
+cool mist your way even at this distance.  The city post office lies
+on the west side of the road, on the east side is a black iron fence
+which seperates the street from a beautiful garden maintained by the
+Bard's Guild.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5868 0
+D2
+~
+~
+0 0 5866 0
+D3
+~
+~
+0 0 5809 0
+S
+#5868
+The Plaza~
+The fountain jets a fine sheen of water high into the air, keeping the
+plaza forever coated in a thin sheeting of water.  The steps to the
+Chancellor's manor lead up just north from here, a wide set of
+majestic steps which do justice to a building belonging to such a high
+official.    
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5811 0
+D2
+~
+~
+0 0 5867 0
+D3
+~
+~
+0 0 5810 0
+D4
+~
+~
+0 0 5869 0
+S
+#5869
+The Steps of the Manor~
+These wide stone steps are kept a sparkling white, washed and cleaned
+daily in order that the Chancellor might present himself to his people
+that much more garciously.  The entrance to the manor lies just to the
+west.    
+~
+58 0 0 0 0 0
+D3
+~
+~
+0 0 5840 0
+D5
+~
+~
+0 0 5868 0
+S
+#5870
+Winding Bumpy Road~
+Just to the north is a large gate leading into the city of Dun Pith.
+The entire town is fortified by a wooden wall made from rough timbers
+lashed together and standing on end.  Standing here, getting a good
+long look at the city, it does not appear to be the place of murder
+and intrigue that it is rumored to be.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5800 0
+D1
+~
+~
+0 0 5871 0
+S
+#5871
+Winding Bumpy Road~
+The road wends its way through the trees, leading the way to some sort
+of larger settlement judging from the number of tracks which are
+embedded into the dirt of the forest floor.  An ominous feeling
+pervades this place - it is very quiet all around, no hint of forest
+life whatsoever.  Even the wind seems to be holding its breath.    
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5872 0
+D3
+~
+~
+0 0 5870 0
+S
+#5872
+Winding Bumpy Road~
+This is where most folk say the township of Dun Pith begins, although
+no clear markers or signs of any kind can be seen.  Trees close in on
+every side of the path, making it hard to see around the corners.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5875 0
+D2
+~
+~
+0 0 5873 0
+D3
+~
+~
+0 0 5871 0
+S
+#5873
+Winding Bumpy Road~
+The trail continues along, winding through the thick forest leading to
+a destination only the Gods might know.    
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5872 0
+D3
+~
+~
+0 0 5874 0
+S
+#5874
+Winding Bumpy Road~
+A road leads in the scrub brush of the forest, a wide and easily
+manageable road, but just the same one that does not appear very safe.
+It immediately twists out of sight, wending its way deeper into the
+forest.    
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5873 0
+D3
+~
+~
+0 0 5880 0
+S
+#5875
+At the Bottom of a Tree~
+A large tree rises high up into the heights of the forest.  It looks
+like it would be easily climbable, if there were your wont.    
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5872 0
+D4
+~
+~
+0 0 5876 0
+S
+#5876
+Up in a Tree~
+A very good view of the path below can be had from here.  A very
+comfortable branch is also available for one to sit upon and relax
+without fearing a nasty fall.  This would be an excellent spot to wait
+for a good ambush.    
+~
+58 0 0 0 0 0
+D5
+~
+~
+0 0 5875 0
+S
+#5877
+Koslo's Hideout~
+This is where Koslo runs all his operations from.  He keeps a very low
+profile, contracting only those jobs that the guilds do not have any
+desire to be a part of.  Koslo knows his place in the structure of the
+city.    
+~
+58 8 0 0 0 0
+D4
+~
+door~
+1 0 5853 19
+S
+#5878
+Stunted Path~
+The way through the forest becomes a bit more trampled, as if many
+feet may have come this way at one time.  A hush has fallen over much
+of the forest, the kind of hush that usually comes before some sort of
+trouble.    
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 11894 0
+D1
+~
+~
+0 0 5879 0
+S
+#5879
+Stunted Path~
+The way through the forest becomes a bit more trampled, as if many
+feet may have come this way at one time.  A hush has fallen over much
+of the forest, the kind of hush that usually comes before some sort of
+trouble.    
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5880 0
+D3
+~
+~
+0 0 5878 0
+S
+#5880
+Stunted Path~
+The way through the forest becomes a bit more trampled, as if many
+feet may have come this way at one time.  A hush has fallen over much
+of the forest, the kind of hush that usually comes before some sort of
+trouble.  A faint path is most definitely visible beneath your feet.
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5874 0
+D3
+~
+~
+0 0 5879 0
+S
+$~

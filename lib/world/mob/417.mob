@@ -1,0 +1,387 @@
+#41700
+ancient eldar wizard grey robed~
+an Ancient Eldar~
+An ancient, grey-robed eldar stands at the sharpest point in the triangle.
+~
+His face remains impassive, without judgement.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 15
+Class: 6
+E
+T 41701
+T 41702
+T 41703
+#41701
+ancient eldar wizard grey robed~
+an Ancient Eldar~
+An ancient, grey-robed eldar stands at the sharpest point in the triangle.
+~
+His face remains impassive, without judgement.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41701
+T 41704
+T 41705
+#41702
+ancient eldar wizard grey robed~
+an Ancient Eldar~
+An ancient, grey-robed eldar stands at the sharpest point in the triangle.
+~
+Her face remains impassive, without judgement.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41701
+T 41706
+T 41707
+#41703
+ancient eldar wizard grey robed~
+an Ancient Eldar~
+An ancient, grey-robed eldar stands at the sharpest point in the triangle.
+~
+His face remains impassive, without judgement.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41701
+T 41708
+T 41709
+#41704
+ancient eldar wizard grey robed~
+an Ancient Eldar~
+An ancient, grey-robed eldar stands at the sharpest point in the triangle.
+~
+His face remains impassive, without judgement.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41701
+T 41710
+T 41711
+#41705
+eldar mage~
+an Eldar Mage~
+An eldar mage stands before you.
+~
+He nods to you, acknowledging your scrutiny.
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+85 61 -40 0d0+0 6d7+56
+0 389703
+8 8 1
+BareHandAttack: 15
+Class: 6
+E
+T 41742
+#41706
+eldar wardmage mage~
+an Eldar WardMage~
+A WardMage stands before the runed door, unyielding in his duties.
+~
+He is dressed in the traditional garb of the WardMage and stands without poise
+or slouch, in absolute concentration and readiness - his mind at one with the
+Keeper of the Ward which he guards.    
+~
+22538 0 0 0 327760 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 569251
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+#41707
+eldar ward warrior~
+an Eldar WardWarrior~
+An eldar WardWarrior prowls the halls, making certain there are no intrusions.
+~
+He is dressed in the ceremonial battlegarb of the WardWarriors, his eyes keen
+and alert.    
+~
+22600 0 0 0 570490960 4194304 0 0 750 E
+100 77 -40 0d0+0 9d10+66
+3200 589815
+8 8 1
+BareHandAttack: 7
+Class: 9
+E
+#41708
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+16410 0 0 0 536936792 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 569251
+8 8 1
+BareHandAttack: 10
+Class: 6
+E
+T 41727
+#41709
+keeper first ward~
+the Keeper of the First Ward~
+The Keeper of the First Ward stands upon the dias, staring at you in disbelief.
+~
+Obviously you are not to be in this room.  The Keeper's expression tells you
+this plainly enough.    
+~
+24586 0 0 0 33620304 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41734
+#41710
+keeper second ward~
+the Keeper of the Second Ward~
+The Keeper of the Second Ward stands poised, ready to defend the Ward.
+~
+Knowing that you are not supposed to be here, she can only assume that you are
+an intruder.  She has no choice but to defend the eldar magic.    
+~
+26634 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41735
+#41711
+keeper third ward~
+the Keeper of the Third Ward~
+The Keeper of the Third Ward faces you with calm readiness.
+~
+Every Keeper has their trial by combat at one time or another - this is his,
+and he is ready.    
+~
+24602 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41736
+#41712
+keeper fourth ward~
+the Keeper of the Fourth Ward~
+The Keeper of the Fourth Ward stands upon his dias, facing you squarely.
+~
+The Keeper faces you steadfastly, no trace of any emotion at all in his eyes.
+He is ready for his challenge.    
+~
+24586 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41737
+#41713
+keeper fifth ward~
+the Keeper of the Fifth Ward~
+The Keeper of the Fifth Ward stands upon the dias, unmoving.
+~
+He blinks only once, and then makes no other movement.
+~
+24586 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41738
+#41714
+keeper sixth ward~
+the Keeper of the Sixth Ward~
+The Keeper of the Sixth Ward faces you with a disdainful look.
+~
+Her duty is clear, and having been a Keeper for the last 300+ years, she has
+faces the likes of you before.  She knows, even if she were vanquished, that
+the Ward will be retrieved and you shall fall to your foes.    
+~
+26650 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41739
+#41715
+keeper seventh ward~
+the Keeper of the Seventh Ward~
+The Keeper of the Seventh Ward stands upon his dias, battle-ready.
+~
+Knowing your intent, the Keeper stands in anticipation of a battle.  He knows,
+should he lose this Ward, the others will surely fall as well.    
+~
+26650 0 0 0 65872 4194304 0 0 750 E
+99 76 -40 0d0+0 6d8+66
+3200 632380
+8 8 1
+BareHandAttack: 12
+Class: 6
+E
+T 41740
+#41716
+ward guardian statue~
+a Ward Guardian~
+An enormous thing of granite lumbers your way, intent on your destruction.
+~
+The Ward Guardians are considered to be the last line of defense for the Wards.
+Should anything ever happen to the Wards, these guardians are called to life by
+the Keepers and made to defend the Ward until their destruction.    
+~
+20584 0 0 0 65616 4194304 0 0 0 E
+95 72 -40 0d0+0 6d8+63
+0 517501
+8 8 1
+BareHandAttack: 9
+E
+#41717
+ward guardian statue~
+a Ward Guardian~
+An enormous thing of granite lumbers your way, intent on your destruction.
+~
+The Ward Guardians are considered to be the last line of defense for the Wards.
+Should anything ever happen to the Wards, these guardians are called to life by
+the Keepers and made to defend the Ward until their destruction.    
+~
+28986 0 0 0 65616 4194304 0 0 0 E
+95 72 -40 0d0+0 6d8+63
+0 517501
+8 8 1
+BareHandAttack: 9
+E
+T 41726
+#41718
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41728
+#41719
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41729
+#41720
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24602 0 0 0 65616 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41730
+#41721
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41731
+#41722
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24586 0 0 0 65616 4194304 0 0 0 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41732
+#41723
+eldar wardwatch watch member~
+one of the WardWatch~
+One of the WardWatch stands facing the clear wall, watching the room below.
+~
+It is the WardWatch's funtion that they watch over the Keepers of the Wards at
+all times, making certain that no ill ever become any of the Wards.    
+~
+24586 0 0 0 65616 4194304 0 0 750 E
+95 72 -40 0d0+0 6d8+63
+3200 517501
+8 8 1
+BareHandAttack: 1
+Class: 6
+E
+T 41733
+$

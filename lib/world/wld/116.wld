@@ -1,0 +1,1583 @@
+#11600
+A Dining Facility~
+Lines of tables and chairs have been placed about the room.  Lanterns
+adorning the walls give off a soft light.  Smells of cooking food
+drift through the air.  There are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11598 3
+D3
+~
+door~
+1 0 11601 3
+S
+#11601
+A Kitchen~
+An oven has been placed up against the north wall and the counters are
+covered with pans and cooking utensils.  The neatness of the cooks is
+in question, it looks as if a food fight has happened in here.  There
+are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11600 3
+D3
+~
+door~
+1 0 11602 3
+S
+#11602
+A Servant's Quarters~
+A small and simple room that contrasts with the luxury of the rest of
+the Spire.  A few wooden chairs and tables have been placed about.  
+There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11601 3
+S
+#11603
+A Hall~
+A wide hall leads to the north and south.  Many lanterns light the
+hall, but other than the lanterns, the hallway is baren.  There are
+doorways to the south, east and west.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11606 0
+D1
+~
+door~
+1 0 11604 3
+D2
+~
+~
+0 0 11598 0
+D3
+~
+door~
+1 0 11605 3
+S
+#11604
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11603 3
+S
+#11605
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11603 3
+S
+#11606
+A Hall~
+A wide hall leads to the north and south.  Many lanterns light the
+hall, but other than the lanterns, the hallway is baren.  There are
+doorways to the east and west.  The hall continues north and south.  
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11609 0
+D1
+~
+door~
+1 0 11607 3
+D2
+~
+~
+0 0 11603 0
+D3
+~
+door~
+1 0 11608 3
+S
+#11607
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11606 3
+S
+#11608
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11606 3
+S
+#11609
+A Hall~
+A wide hall leads to the north and south.  Many lanterns light the
+hall, but other than the lanterns, the hallway is baren.  There are
+doorways to the north, east and west.  The hall continues to south.  
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11611 3
+D1
+~
+door~
+1 0 11612 3
+D2
+~
+~
+0 0 11606 0
+D3
+~
+door~
+1 0 11610 3
+S
+#11610
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11609 3
+S
+#11611
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the south.    
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11609 3
+S
+#11612
+Student's Quarters~
+A small bed, locker and chest fill this tiny room.  Light from glowing
+orbs floating in the air illuminate the quarters.  There is a door to
+the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11609 3
+S
+#11613
+The Faculty Breakroom~
+Many comfortable chairs have been scattered around the room.  Tables
+with lanterns set upon them have been pulled up to some of the chairs.
+There are papers scattered on the floor and a few of the tables have
+papers stacked upon them.  There are doors to the north, east, west
+and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11592 3
+D1
+~
+door~
+1 0 11614 3
+D2
+~
+door~
+1 0 11626 3
+D3
+~
+~
+0 0 11616 0
+S
+#11614
+A Dinning Area~
+A small dinning table has been placed in the middle of the room.  
+Many padded ladder backed chairs sit around the table.  The smell of
+cooking is everywhere.  There are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11615 3
+D3
+~
+door~
+1 0 11613 3
+S
+#11615
+A Kitchen~
+A stone oven has been placed at the back of the room.  A pot of soup
+simmers on top of the stove.  Counters with a variety of cooking pots
+and utinsils show signs of recent use.  There is a door to the west.
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11614 3
+S
+#11616
+A Hall~
+A long narrow hallway leads to the west.  The hall is brightly lit by
+numerous lamps suspended from the walls.  Colorful tapestries have
+been scattered along the walls, depicting various mages in battle.  
+There are doors to the north and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11617 3
+D1
+~
+~
+0 0 11613 0
+D2
+~
+door~
+1 0 11618 3
+D3
+~
+~
+0 0 11619 0
+S
+#11617
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the north wall.  A book shelf and desk dominate the eastern
+wall of the room.  A low burning latern has been hung upon the west
+wall.  There is a door to the south.    
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11616 3
+S
+#11618
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the southern wall.  A book shelf and desk dominate the western
+wall of the room.  A low burning latern has been hung upon the east
+wall.  There is a door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11616 3
+S
+#11619
+A Hall~
+A long narrow hallway leads to the east and west.  The hall is
+brightly lit by numerous lamps suspended from the walls.  Colorful
+tapestries have been scattered along the walls, depicting various
+mages in battle.  There are doors to the north and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11620 3
+D1
+~
+~
+0 0 11616 0
+D2
+~
+door~
+1 0 11621 3
+D3
+~
+~
+0 0 11622 0
+S
+#11620
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the north wall.  A book shelf and desk dominate the eastern
+wall of the room.  A low burning latern has been hung upon the west
+wall.  There is a door to the south.    
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11619 3
+S
+#11621
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the southern wall.  A book shelf and desk dominate the western
+wall of the room.  A low burning latern has been hung upon the east
+wall.  There is a door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11619 3
+S
+#11622
+A Hall~
+A long narrow hallway leads to the east.  The hall is brightly lit by
+numerous lamps suspended from the walls.  Colorful tapestries have
+been scattered along the walls, depicting various mages in battle.  
+There are doors to the north, west and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11623 3
+D1
+~
+~
+0 0 11619 0
+D2
+~
+door~
+1 0 11625 3
+D3
+~
+door~
+1 0 11624 3
+S
+#11623
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the north wall.  A book shelf and desk dominate the eastern
+wall of the room.  A low burning latern has been hung upon the west
+wall.  There is a door to the south.    
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11622 3
+S
+#11624
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the southern wall.  A book shelf and desk dominate the western
+wall of the room.  A low burning latern has been hung upon the north
+wall.  There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11622 3
+S
+#11625
+A Faculty Member's Room~
+A rather spacious room, with a large feather bed and wash stand
+against the southern wall.  A book shelf and desk dominate the western
+wall of the room.  A low burning latern has been hung upon the east
+wall.  There is a door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11622 3
+S
+#11626
+Supply Room~
+This is a messy room with very tall shelves and dusty interior.  
+Stacks of paper, quills and ink are amoung just few of the supplies
+that have been gathered here.  There is a door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11613 3
+D2
+~
+shelves~
+1 0 11627 19
+S
+#11627
+A Stairwell~
+A stone set of stairs leads downward.  Golden lanterns hang upon the
+curved walls of the stairwell.    
+~
+116 4 0 0 0 0
+D0
+~
+wall~
+1 0 11626 19
+D5
+~
+~
+0 0 11628 0
+S
+#11628
+A Stairwell~
+A stone set of stairs leads upward.  Golden lanters hang upon the
+curved walls of the stairwell.  Exits lead off in all four cardnial
+directions.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11634 0
+D1
+~
+~
+0 0 11629 0
+D2
+~
+~
+0 0 11641 0
+D3
+~
+~
+0 0 11631 0
+D4
+~
+~
+0 0 11627 0
+S
+#11629
+A Guard Room~
+A guard room has been established here.  A roughly made table and
+chairs clutter the smallish room.  A game of stones has been left, the
+pieces still in their last played postions.  A few pictures of bloody
+battle seens have been hung on the walls.  There is an archway to the
+west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 11600 11630 7
+D3
+~
+~
+0 0 11628 0
+S
+#11630
+A Stairwell~
+A narrow stairway leads downward.  Gilded lanterns hang upon the
+curved walls of the stairwell.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11629 3
+D5
+~
+~
+0 0 11663 0
+S
+#11631
+A Guard Room~
+A guard room has been established here.  A roughly made table and
+chairs clutter the smallish room.  A cup and some dice have been
+scattered upon the table.  A few pictures of bloody battle seens have
+been hung on the walls.  There is an archway to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+~
+0 0 11628 0
+D3
+~
+~
+0 0 11632 16
+S
+#11632
+A Stairwell~
+A narrow stairway leads downward.  Gilded lanterns hang upon the
+curved walls of the stairwell.    
+~
+116 0 0 0 0 0
+D1
+~
+~
+0 0 11631 16
+D5
+~
+~
+0 0 11633 0
+S
+#11633
+A very dark Room~
+Cobwebs and dust lay thick in this room.  A heap of bones has been
+left behind along the north wall, their user long since dead.  All the
+walls, floor and ceiling are smooth as glass.    
+~
+116 5 0 0 0 0
+S
+#11634
+A Hall~
+An elegant hall leads to the north.  Many tapestries have been hung
+long the walls with golden lanterns spaced between them.  There are
+doors to the east and west, and the hallway continues north and south.
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11637 0
+D1
+~
+door~
+1 0 11635 3
+D2
+~
+~
+0 0 11628 0
+D3
+~
+door~
+1 0 11636 3
+S
+#11635
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the east
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11634 3
+S
+#11636
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out along the west
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11634 3
+S
+#11637
+A Hall~
+An elegant hall leads to the north.  Many tapestries have been hung
+long the walls with golden lanterns spaced between them.  There are
+doors to the east and west, and the hallway continues north and south.
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11640 0
+D1
+~
+door~
+1 0 11638 3
+D2
+~
+~
+0 0 11634 0
+D3
+~
+door~
+1 0 11639 3
+S
+#11638
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the east
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11637 3
+S
+#11639
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the west
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11637 3
+S
+#11640
+A Stairwell~
+A narrow stairway leads downward.  Gilded lanterns hang upon the
+curved walls of the stairwell.  An archway opens to the south.    
+~
+116 0 0 0 0 0
+D2
+~
+~
+0 0 11637 0
+D5
+~
+~
+0 0 11648 0
+S
+#11641
+A Hall~
+An elegant hall leads to the north.  Many tapestries have been hung
+long the walls with golden lanterns spaced between them.  There are
+doors to the east and west, and the hallway continues north and south.
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11628 0
+D1
+~
+door~
+1 0 11642 3
+D2
+~
+~
+0 0 11644 0
+D3
+~
+door~
+1 0 11643 3
+S
+#11642
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the east
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11641 3
+S
+#11643
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the west
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11641 3
+S
+#11644
+A Hall~
+An elegant hall leads to the north.  Many tapestries have been hung
+long the walls with golden lanterns spaced between them.  There are
+doors to the east and west, and the hallway continues north and south.
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11641 0
+D1
+~
+door~
+1 0 11645 3
+D2
+~
+~
+0 0 11647 0
+D3
+~
+door~
+1 0 11646 3
+S
+#11645
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the east
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11644 3
+S
+#11646
+Quarters of a High Mage~
+A large room with a feather bed has been carved here.  A closet with
+many elegant sets of clothing has been tunneled out long the west
+wall.  Several comfortable chairs have been arranged around a low
+table.  There is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11644 3
+S
+#11647
+A Stairwell~
+A narrow stairway leads downward.  Gilded lanterns hang upon the
+curved walls of the stairwell.  An archway opens to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11644 0
+D5
+~
+~
+0 0 11658 0
+S
+#11648
+A Hall~
+This elegant hallway has many tapestries hung along the walls with
+silver lanterns spaced between them.  There are doors to the east,
+north and west.  A large metal door has been set into the southern
+wall.    
+~
+116 4 0 0 0 0
+D0
+~
+door~
+1 0 11655 3
+D1
+~
+door~
+1 0 11649 3
+D2
+~
+door~
+1 0 11696 3
+D3
+~
+door~
+1 0 11652 3
+S
+#11649
+A Master Wizard's Quarters~
+This room is very large and well appointed.  A huge desk has been set
+along the southern wall, lamps and expensive tapestries hang from the
+walls.  There are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11650 1
+D3
+~
+door~
+1 0 11648 3
+S
+#11650
+A Den~
+The den looks very comfortable.  Plush chairs have been scattered
+about and there is a desk with many papers and strange apparatuses
+upon it.  There are doors north and west.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11651 3
+D3
+~
+door~
+1 0 11649 1
+S
+#11651
+A Lab~
+Vials and bottles of every shape and color have been stacked
+everywhere.  Strange tubing made of glass and copper run everywhere
+along the top of a counter.  A blackboard is covered with mistic
+symbols has been hung upon the wall.  There is a door to the south.  
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11650 3
+S
+#11652
+A Master Wizard's Quarters~
+This room is very large and well appointed.  A huge desk has been set
+along the southern wall, lamps and expensive tapestries hang from the
+walls.  There are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11648 3
+D3
+~
+door~
+1 0 11653 1
+S
+#11653
+A Den~
+The den looks very comfortable.  Plush chairs have been scattered
+about and there is a desk with many papers and strange apparatuses
+upon it.  There are doors north and east.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11654 3
+D1
+~
+door~
+1 0 11652 1
+S
+#11654
+A Lab~
+Vials and bottles of every shape and color have been stacked
+everywhere.  Strange tubing made of glass and copper run everywhere
+along the top of a counter.  A blackboard is covered with mistic
+symbols has been hung upon the wall.  There is a door to the south.  
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11653 3
+S
+#11655
+A Master Wizard's Quarters~
+This room is very large and well appointed.  A huge desk has been set
+along the western wall, lamps and expensive tapestries hang from the
+walls.  There are doors to the north and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11656 1
+D2
+~
+door~
+1 0 11648 3
+S
+#11656
+A Den~
+The den looks very comfortable.  Plush chairs have been scattered
+about and there is a desk with many papers and strange apparatuses
+upon it.  There are doors south and east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11657 3
+D2
+~
+door~
+1 0 11655 3
+S
+#11657
+A messy Lab~
+Vials and bottles of every shape and color have been stacked
+everywhere.  Strange tubing made of glass and copper run everywhere
+along the top of a counter.  A blackboard is covered with mistic
+symbols has been hung upon the wall.  There is a door to the west.  
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11656 3
+S
+#11658
+A Hall~
+This elegant hallway has many tapestries hung along the walls with
+silver lanterns spaced between them.  A large metal door has been sent
+into the wall to the north and an archway leads away to the south.  
+~
+116 4 0 0 0 0
+D0
+~
+door~
+1 0 11696 3
+D2
+~
+~
+0 0 11659 0
+S
+#11659
+A Hall~
+This elegant hallway has many tapestries hung along the walls with
+silver lanterns spaced between them.  There are doors to the east,
+south and west.  There is an archway to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11658 0
+D1
+~
+door~
+1 0 11660 3
+D2
+~
+door~
+1 0 11667 3
+D3
+~
+door~
+1 0 11664 3
+S
+#11660
+A Master Necromancer's Quarters~
+A foul smell fills the room.  The room is quite large but very spartan
+in appearance.  Instead of a bed, there is only a small cot set along
+a wall.  There are doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11661 3
+D3
+~
+door~
+1 0 11659 3
+S
+#11661
+A Den~
+The temperature of this room is quite cool.  The stone floor is very
+dusty and the desk set up on the corner is very shabby.  There are
+doors to the south and west.    
+~
+116 0 0 0 0 0
+D2
+~
+door~
+1 0 11662 3
+D3
+~
+door~
+1 0 11660 3
+S
+#11662
+A Lab~
+This lab is in a shambles.  Smashed glass is scattered all about the
+floor and a foul smell is very strong here.  There is a door to the
+north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11661 3
+S
+#11663
+A Hall~
+A wide hallway with brightly glowing spheres and rich looking wall
+hangings.  There is a door to the north.    
+~
+116 4 0 0 0 0
+D0
+~
+door~
+1 0 11670 3
+D4
+~
+~
+0 0 11630 0
+S
+#11664
+A Master Conjurer's Quarters~
+The room is very roomy.  Thick carpets have been trown down upon the
+floor and golden lanterns have been hung along the walls.  There are
+doors to the east and west.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11659 3
+D3
+~
+door~
+1 0 11665 3
+S
+#11665
+A Den~
+This den looks very comfortable.  Padded chairs have been set up near
+a desk.  Stuffed and mounted heads of beasts have been hung on the
+walls.  There are doors to th east and south.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11664 3
+D2
+~
+door~
+1 0 11666 3
+S
+#11666
+A Lab~
+Various implements for magic research have been scattered along 2 long
+counters in the room.  Strange diagrams have been sketched onto the
+floor.  There is a door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11665 3
+S
+#11667
+A Master Sage's Quarters~
+Many plants are have been planted into pots of many sizes and colors.
+From flowers to small trees all seem to be well cared for, though how
+they grow here with out sun can not been seen.  There are doors to the
+north and south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11659 3
+D2
+~
+door~
+1 0 11668 3
+S
+#11668
+A Den~
+More plants are being grown here.  A desk has almost no space left
+upon it for writting with the numerous pot that cover the top surface.
+There are doors to the south and north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11667 3
+D2
+~
+door~
+1 0 11669 3
+S
+#11669
+A Strange Garden~
+A huge garden is being maintained here.  Plants of every discription
+seem to be growing right out of the stone floor and walls.  There is a
+door to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+1 0 11668 3
+S
+#11670
+An Arched Hall~
+This hall has a high vulted cealing.  Many glowing spheres float near
+the cealing, casting bright light a long the hall.  There is a door
+the south and the hall continues to the north.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11671 0
+D2
+~
+solid door~
+1 0 11663 3
+S
+#11671
+An Arched Hall~
+This all has a high vulted cealing.  Many glowing spheres flow near
+the cealing, casting bright light a long the hall.  There are doors
+the east and west.  The hall continues to the north and south.    
+~
+116 0 0 0 0 0
+D0
+~
+~
+0 0 11674 0
+D1
+~
+door~
+1 0 11672 3
+D2
+~
+~
+0 0 11670 0
+D3
+~
+door~
+1 0 11673 3
+S
+#11672
+A Waiting Room~
+A small waiting room has been hollowed out here.  A few benches sit
+along the walls and a few golden lanterns hang from the walls.  There
+is a door to the west.    
+~
+116 0 0 0 0 0
+D3
+~
+door~
+1 0 11671 3
+S
+#11673
+A Waiting Room~
+A small waiting room has been hollowed out here.  A few benches sit
+along the walls and a few golden lanterns hang from the walls.  There
+is a door to the east.    
+~
+116 0 0 0 0 0
+D1
+~
+door~
+1 0 11671 3
+S
+#11674
+Before some humming Doors~
+The cealing is vaulted and glowing spheres light the area brightly.  
+Two huge doors have been placed to the north.  A strange humming sound
+is comming from the doors along with a pulsing light.  A hall leads to
+the south.    
+~
+116 0 0 0 0 0
+D0
+~
+door~
+2 11602 11675 15
+D2
+~
+~
+0 0 11671 0
+S
+#11675
+Entrance to Rhythuman's Private Quarters~
+This arched entry way is by far the most luxuriously decorated area in
+the Spire.  Fortunes have been spent on expensive decor.  An arched
+opening can be seen to the north and there are doors to the east, west
+and south.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11680 0
+D1
+~
+door~
+1 0 11676 3
+D2
+~
+door~
+1 0 11674 3
+D3
+~
+door~
+1 0 11677 3
+S
+#11676
+A Closet~
+A small cloak closet has been carved here.  It is dark and cramped.  
+There is a door to the west.    
+~
+116 65569 0 0 0 0
+D3
+~
+door~
+1 0 11675 3
+S
+#11677
+A Hall~
+This is a wide hallway with glowing spheres lighting the way.  Plush
+carpets have been laid upon the floor and very well done paintings
+line the walls.  There are doors to the east and west, and to the
+north the hall continues.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11678 0
+D1
+~
+door~
+1 0 11675 3
+D3
+~
+door~
+1 0 11679 3
+S
+#11678
+A Hall~
+This is a wide hallway with glowing spheres lighting the way.  Plush
+carpets have been laid upon the floor and very well done paintings
+line the walls.  There is a door to the west, and the hall continues
+to the north and south.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11684 0
+D2
+~
+~
+0 0 11677 0
+D3
+~
+door~
+1 0 11683 3
+S
+#11679
+A Guest Room~
+A small guest room has been set aside here.  A feather bed with a wash
+stand have been placed along the west wall.  There is a door to the
+east.    
+~
+116 65536 0 0 0 0
+D1
+~
+door~
+1 0 11677 3
+S
+#11680
+A Reception Area~
+A vaulted ceiling reception area has been hallowed out here.  Glowing
+spheres of many colors float about the room, casting shadows in the
+corners.  Arched openings have been made to the south and north.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11681 0
+D2
+~
+~
+0 0 11675 0
+S
+#11681
+A formal Dinning Room~
+A huge dinning table has been set in the middle of the room, with
+chairs about it.  Soft white spheres are suspended near the ceiling.
+There is a door the east and an archway opens to the south.    
+~
+116 65568 0 0 0 0
+D1
+~
+door~
+1 0 11682 3
+D2
+~
+~
+0 0 11680 0
+S
+#11682
+A dark Room~
+A dumbwaiter opening can been seen on the east wall.  This is a small
+room used by servants when food must been brought to the headmaster's
+table.  There is a door to the west.    
+~
+116 65569 0 0 0 0
+D3
+~
+door~
+1 0 11681 3
+S
+#11683
+Rhythuman's Den~
+A huge desk has been placed along the west wall.  The room has lamps
+set upon the desk and spheres float near the ceiling, all unlit.  The
+carpet is red and there is a portrait of a man on the wall behind the
+desk.  There is a door to the east.    
+~
+116 65568 0 0 0 0
+D1
+~
+door~
+1 0 11678 3
+S
+#11684
+A Hall~
+This is a wide hallway with glowing spheres lighting the way.  Plush
+carpets have been laid upon the floor and very well done paintings
+line the walls.  There is a door to the east, and the hall continues
+to the north and south.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11686 0
+D1
+~
+door~
+1 0 11685 3
+D2
+~
+~
+0 0 11678 0
+S
+#11685
+Rhythuman's Personal Library~
+Rows of book shelves have been placed along the north, east and
+southern walls.  A table with 2 chairs takes up the middle of the
+room.  Unlike most libraries, there isn't a hint of dust in this one.
+There is a door to the west.    
+~
+116 65568 0 0 0 0
+D3
+~
+door~
+1 0 11684 3
+S
+#11686
+Before the Double Doors~
+This is a wide hallway with glowing spheres lighting the way.  Plush
+carpets have been laid upon the floor and very well done paintings
+line the walls.  A large set of double doors blocks the way north and
+a hallway leads to the south.    
+~
+116 65568 0 0 0 0
+D0
+~
+door double~
+1 0 11687 3
+D2
+~
+~
+0 0 11684 0
+S
+#11687
+Living area of the Headmaster~
+This small entrance way is dimly lit by a lantern.  Light can be seen
+coming from under the door to the north.  There are doors north, east
+and south.    
+~
+116 65568 0 0 0 0
+D0
+~
+door~
+1 0 11688 3
+D1
+~
+door~
+1 0 11689 3
+D2
+~
+door~
+1 0 11686 3
+S
+#11688
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+bed can be seen in the northeast corner of the room, with many
+wardrobes lining the walls.  The huge room spreads out before you and
+there is a door to the south.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11692 0
+D1
+~
+~
+0 0 11690 0
+D2
+~
+door~
+1 0 11687 3
+D3
+~
+~
+0 0 11694 0
+S
+#11689
+A private Study~
+A small table with a few book takes up most of this tiny room.  Three
+padded chairs have been placed in the southeast corner.  There is a
+door to the west.    
+~
+116 65568 0 0 0 0
+D3
+~
+door~
+1 0 11687 3
+S
+#11690
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+bed can be seen in the northeast corner of the room, with many
+wardrobes lining the walls.  A portrait of a man on top of a mountain
+has been hung on the wall to the east.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11691 0
+D3
+~
+~
+0 0 11688 0
+S
+#11691
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+huge feather bed takes up most of this corner of the room and many
+wardrobes line the walls.    
+~
+116 65568 0 0 0 0
+D2
+~
+~
+0 0 11690 0
+D3
+~
+~
+0 0 11692 0
+S
+#11692
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+bed can be seen in the northeast corner of the room, with many
+wardrobes lining the walls.  The room spreads out before you to the
+east, west and south.    
+~
+116 65568 0 0 0 0
+D1
+~
+~
+0 0 11691 0
+D2
+~
+~
+0 0 11688 0
+D3
+~
+~
+0 0 11693 0
+S
+#11693
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+bed can be seen in the northeast corner of the room, with many
+wardrobes lining the walls.  A small door has been set into the west
+wall.    
+~
+116 65568 0 0 0 0
+D1
+~
+~
+0 0 11692 0
+D2
+~
+~
+0 0 11694 0
+D3
+~
+door~
+1 0 11695 3
+S
+#11694
+Rhythuman's Bedroom~
+The room is very large.  Red carpet has been laid upon the floor.  A
+bed can be seen in the northeast corner of the room, with many
+wardrobes lining the walls.  The room spreads out before you to the
+east and north.    
+~
+116 65568 0 0 0 0
+D0
+~
+~
+0 0 11693 0
+D1
+~
+~
+0 0 11688 0
+S
+#11695
+Meditation Room~
+A few candles have been placed upon a low shelf.  A large pillow has
+been placed before the shelf.  There is a door to the east.    
+~
+116 65633 0 0 0 0
+D1
+~
+door~
+1 0 11693 3
+S
+#11696
+Lift~
+A strange device has been constructed here.  A platform with many
+cables running from the corners up in to the darkness has been put
+here for some purpose.    
+~
+116 1 0 0 0 0
+D4
+~
+~
+0 0 11628 0
+S
+$~

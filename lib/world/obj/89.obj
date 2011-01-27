@@ -1,0 +1,357 @@
+#8901
+closet~
+/cwa /cycloset/c0~
+There is a /cywooden closet /c0tucked into a corner.~
+~
+15 0 0 0 0 0 0 0 0
+100 1 -1 0 0 0 0 0
+500 66 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+closet~
+It is large, yet gracefully made, obviously of Scandinavian design.
+~
+#8902
+jar~
+/cwa /cmspice /cwjar/c0~
+A small unlabeled /cmspice jar /c0is standing here.~
+~
+15 0 0 0 0 1 0 0 0
+5 5 -1 0 0 0 0 0
+1 3 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8903
+powder black~
+/cwsome /cLblack /cwpowder/c0~
+Some strong-smelling /cLblack powder /c0has been carelessly scattered here.~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+powder~
+Something tells you this powder is too dangerous to be left lying around
+a kitchen...
+~
+#8904
+kernel kernels~
+/cwsome small /cYyellow kernels/c0~
+Some small /cYyellow kernels /c0have been accidentally left here.~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 0 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+kernel kernels~
+Look fairly dull...
+~
+#8905
+paper wad~
+/cwa crumpled wad of paper/c0~
+There is a crumpled /cwwad of paper /c0here, left behind by some messy bypasser.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 132 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+undefined~
+Nothing.
+~
+#8910
+staff wooden~
+/cwa /cywooden /cwstaff/c0~
+You see a /cywooden staff /c0on the floor.~
+~
+5 263168 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+5 6006 50 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+staff wooden~
+This oaken staff is very hefty but balanced.
+~
+A
+4 1
+#8911
+robe brown cloth~
+/cwa /cybrown /cwrobe/c0~
+Some brown cloth is on the floor.~
+~
+9 1312256 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 8600 60 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+robe brown cloth~
+This robe is rough, but appears quite durable.
+~
+A
+12 10
+A
+3 1
+A
+26 2
+#8913
+herbs~
+/cwsome /cbbluish /cwherbs/c0~
+/cgSome /cbbluish herbs/cy are scattered here./c0~
+~
+10 0 0 0 0 1 0 0 0
+18 3 0 0 0 0 0 0
+1 664 1 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8914
+herbs~
+/cwsome /cmpurplish /cwherbs/c0~
+Some /cppurplish herbs/c0 are scattered here.~
+~
+10 0 0 0 0 1 0 0 0
+20 15 0 0 0 0 0 0
+1 746 1 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8915
+herbs~
+/cwsome /cLblackish /cwherbs/c0~
+Some blackish herbs are scattered here.~
+~
+10 0 0 0 0 1 0 0 0
+22 4 0 0 0 0 0 0
+1 830 1 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8916
+herbs~
+/cwsome /cLgrayish /cwherbs/c0~
+Some grayish herbs are scattered here.~
+~
+10 0 0 0 0 1 0 0 0
+24 39 0 0 0 0 0 0
+1 915 1 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8917
+herbs~
+/cwsome /crreddish /cwherbs/c0~
+Some /crreddish herbs /c0are scattered here.~
+~
+10 0 0 0 0 1 0 0 0
+26 20 0 0 0 0 0 0
+1 1001 1 26 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8918
+herbs~
+/cwsome /cRorangish /cwherbs/c0~
+Some /cRorangish herbs /c0are scattered here.~
+~
+10 0 0 0 0 1 0 0 0
+28 16 16 16 0 0 0 0
+1 2956 1 28 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8919
+herbs~
+/cwsome /cMpinkish /cwherbs/c0~
+Some pinkish herbs are scattered here.~
+Nothing.
+~
+10 0 0 0 0 1 0 0 0
+30 43 21 0 0 0 0 0
+1 2180 1 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#8930
+chair~
+a chair~
+A chair sits here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+17 115 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chair~
+It looks sturdy enough to hold a single person.~
+#8931
+chair~
+a chair~
+A chair sits here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+17 158 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chair~
+It looks study enough to sit on.~
+#8932
+table~
+a table~
+A table is here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+25 33 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+table~
+A sturdy table, a good place to put drinks.~
+#8933
+black mask~
+/cwa/cL black mask/c0~
+/cwA /cLblack strip of cloth /cwsits here./c0~
+~
+9 1061376 0 0 0 262145 0 0 0
+2 0 0 0 0 0 0 0
+3 7000 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+25 1
+#8934
+hooded cloak~
+/cwa /cLhooded cloak/c0~
+/cwA /cLhooded cloak /cwrests here./c0~
+~
+9 1049088 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+6 8400 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+18 2
+#8935
+arming doublet~
+/cwan /cyarming doublet/c0~
+/cwA /cyarming doublet /cwsits here./c0~
+~
+9 12288 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+6 11753 0 41 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+doublet~
+This padded leather vest type garment can be
+used as armor by itself, but is usually covered
+with platemail.~
+A
+18 2
+A
+19 1
+A
+1 1
+A
+3 -1
+#8936
+assegai~
+/cwa assegai/c0~
+/cwAn assegai rests here./c0~
+~
+5 1585664 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+6 9333 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+assegai~
+This is a spear / polearm with a leaf shaped head,
+its shaft has been reinforced with iron to make
+it extremely sturdy. The extra weight however
+makes it impossible to throw.~
+A
+18 2
+A
+19 1
+#8937
+bagh nakh~
+/cwa pair of /crbagh nakh/c0~
+/cwA pair of /crbagh nakh /cwrest here./c0~
+~
+5 1585664 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+5 12832 0 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bagh nakh~
+The name of this weapons means "tiger claws" in
+an ancient tongue. They are worn on the hands
+and attack similiar to daggers.~
+A
+19 3
+A
+18 1
+A
+4 -1
+#8938
+bich wa~
+/cca bich wa/c0~
+/cwA /ccbich wa /cwrests here./c0~
+~
+5 1847808 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 13813 0 37 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bich wa~
+The bich wa is a double curved dagger with a 
+loop handle. It is usually made from buffalo
+horns, and is also known as the 'scorpions sting'~
+A
+19 1
+A
+18 2
+A
+2 1
+A
+1 -1
+#8939
+brandestock~
+/cwa brandestock/c0~
+/cwA brandestock rests here./c0~
+~
+5 537088 0 0 0 8193 0 0 0
+0 0 0 10 0 0 0 0
+5 8960 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+brandestock~
+A long hafted weapon with a small axehead on
+one side and a short spike on the other.~
+A
+18 2
+A
+19 1
+#8940
+lamellar~
+/cwa suit of /cylamellar/c0~
+/cwA suit of /cylamellar /cwrests here./c0~
+~
+9 1061376 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+7 10133 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+lamellar~
+Lamellar armor is made of strips of metal tied
+not stapled to thick leather backing.~
+A
+25 1
+A
+19 2
+A
+18 1
+A
+13 15
+A
+3 -1
+A
+4 -1
+#8999
+deed holy grove~
+the deed to the Holy Grove~
+The deed to the Holy Grove has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+89 0 0 0 0 0 0 0
+1 96 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

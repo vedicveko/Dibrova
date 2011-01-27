@@ -1,0 +1,74 @@
+#13900
+keeper aqueduct goblin giant~
+the Keeper of the Aqueduct~
+An enormous goblin with blue-green skin snarls and attacks!
+~
+This goblin, originally set here over 100 years ago as a ward to keep
+unwanted guests from what lies on the other side, has long since
+become an angry creature intent on the destruction of any who cross
+his path - especially anyone involved in his placement here as the
+Keeper of the Aqueduct.    
+~
+82040 0 0 0 536871248 0 0 0 -500 E
+102 79 -40 1d1+0 9d10+68
+2000 682400
+8 8 1
+BareHandAttack: 10
+Str: 22
+Dex: 13
+Int: 7
+Wis: 14
+Con: 21
+Cha: 8
+Luck: 7
+Race: 31
+E
+#13901
+aqua goblin~
+an aqua goblin~
+An aqua goblin snarls furiously and attacks!
+~
+Aqua goblins are a disgusting version of the normal land goblin that
+are so frequently found in the forests and hills of the world except
+the aqua goblins' skin is a pale greenish-blue and is covered in moss
+and fungus.    
+~
+16492 0 0 0 553648144 0 0 0 -800 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 1
+BareHandAttack: 9
+Str: 14
+Dex: 18
+Int: 6
+Wis: 7
+Con: 8
+Cha: 17
+Luck: 23
+Class: 4
+Race: 31
+E
+#13902
+rat water~
+a water rat~
+A water rat hisses and bares its little teeth.
+~
+A nasty little creature, this underwater inhabitant is the plague of
+the sea, known to infest only the darkest and most disgusting
+habitations.    
+~
+16793672 0 0 0 0 0 0 0 -350 E
+13 4 48 1d1+0 1d2+8
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 8
+Int: 13
+Wis: 13
+Con: 6
+Cha: 23
+Luck: 20
+Race: 46
+E
+$

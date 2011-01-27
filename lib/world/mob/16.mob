@@ -1,0 +1,370 @@
+#1601
+bat~
+a Bat~
+A bat flaps wildly at you!
+~
+Your typical smelly, blind flying mammal.
+~
+42 0 0 0 64 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 6
+Luck: 12
+Race: 3
+E
+#1602
+page templar~
+a Templar Page~
+A templar page in training is here looking mildly confused.
+~
+He has lost his family and everything of his former life.
+~
+200 0 0 0 0 0 0 0 200 E
+7 1 72 1d7+125 1d2+4
+10 669
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Race: 14
+E
+#1603
+spelunker explorer~
+a Spelunker~
+A spelunker knows his way around these tunnels.
+~
+He recently discovered these catacombs and wants to see where they
+lead.  He just hopes he doesn't get killed in the process.  He carries
+only essential exploration gear; if there IS anything down here, he
+probably won't last long.    
+~
+204 0 0 0 64 0 0 0 100 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Race: 14
+E
+#1604
+graverobber robber~
+a Graverobber~
+A graverobber uncovers dead bodies.
+~
+Working for an evil necromancer isn't the greatest thing in the world.
+They seem like little more than zombie servants themselves.
+~
+108 0 0 0 0 0 0 0 -500 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 25
+Luck: 12
+Race: 7
+E
+#1605
+mist swirling~
+some Mist~
+Some mist swirls about you here ... it seems ALIVE!
+~
+In fact it IS alive in a magical sort of sense.
+~
+72 0 0 0 65536 0 0 0 0 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Race: 11
+E
+#1606
+it~
+It~
+It stands here, snarling madly.
+~
+Simply put, It is everything and nothing anyone has ever seen.
+~
+40 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+200 1662
+8 8 0
+BareHandAttack: 12
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+E
+#1607
+skeleton skeletal soldier~
+a Skeleton~
+A skeletal soldier fights in the battle of the underworld.
+~
+Even though he has died in the physical sense of the word, the battle
+continues for him in his charmed state.
+~
+108 0 0 0 0 0 0 0 -290 E
+11 3 56 1d11+250 1d4+5
+0 2119
+8 8 1
+BareHandAttack: 7
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 8
+Luck: 12
+Class: 4
+Race: 36
+E
+#1608
+templar~
+a Templar~
+A templar shouts "AKK! SLAY THE INFIDEL!"
+~
+As you peer closely he peers back at you
+
+A templar peers closely at you.
+A templar tells you, "You are an evil force trying to spread your ways!".
+A templar tells you, "You must die for your sin!".
+~
+108 0 0 0 0 0 0 0 600 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 14
+Luck: 12
+Class: 6
+Race: 14
+E
+#1609
+wraith~
+a mysterious Wraith~
+A mysterious ghostly wraith forms before your eyes.
+~
+Hard to tell much about the mysterious form even upon further inspection.
+~
+108 0 0 0 64 0 0 0 0 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 1
+BareHandAttack: 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Luck: 12
+Race: 49
+E
+#1610
+officer templar~
+the Templar Officer~
+A templar officer keeps an eye on things here.
+~
+A templar officer tells you "Better move along evil one!"
+~
+104 0 0 0 16 0 0 0 700 E
+13 4 48 1d13+350 1d2+8
+25 3245
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 5
+Luck: 12
+Class: 6
+Race: 14
+E
+#1611
+zombie mage~
+a Zombie~
+A blank-faced zombie mage joins the battle.
+~
+He seems to lack real interest in what he is doing.
+~
+108 0 0 0 0 0 0 0 -100 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 1
+BareHandAttack: 13
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 9
+Luck: 12
+Class: 1
+Race: 6
+E
+#1612
+shadows~
+the Shadow~
+Eerie shadows fill the room.
+~
+Looks vaguely you-shaped.
+~
+8 0 0 0 65616 0 0 0 0 E
+14 4 44 1d14+400 1d5+7
+0 3920
+8 8 0
+BareHandAttack: 10
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 12
+Luck: 12
+Race: 11
+E
+#1613
+bat vampire~
+a Vampire Bat~
+A bat flaps wildly at you!
+~
+A rather LARGE "bat" ...
+~
+42 0 0 0 64 0 0 0 -100 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 4
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 8
+Luck: 12
+Class: 14
+Race: 3
+E
+#1614
+necromancer necro cleric~
+the evil Necromancer~
+The evil necromancer makes undead soldiers from corpses.
+~
+Though he seems absorbed in his work, you'd bet he'd take the time out
+to kill you to get a fresh corpse!    
+~
+42 0 0 0 0 0 0 0 -888 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 15
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+Class: 1
+Race: 14
+E
+#1615
+grand templar leader~
+the Grand Templar~
+The grand templar stands here quietly observing your actions
+~
+A slight, tolerant smile comes briefly across his face.  In the blink
+of an eye he seems stern again.
+~
+10 0 0 0 268435536 0 0 0 1000 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 18
+Luck: 12
+Class: 6
+Race: 14
+E
+#1616
+prism dragon prismdragon~
+the Prism Dragon~
+The light shines off a beautiful but dangerous dragon lurking here.
+~
+The spray of colored light bouncing off his scales is almost blinding.
+~
+42 0 0 0 80 0 0 0 -303 E
+16 5 36 1d20+1000 1d3+10
+75 5510
+8 8 1
+BareHandAttack: 8
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 23
+Luck: 12
+Class: 4
+Race: 9
+E
+#1617
+darkenbeast beast~
+the DarkenBeast~
+You hear and smell the presence of the darkenbeast.
+~
+You see nothing more than the sense of darkness and evil.
+~
+16426 0 0 0 65536 4194304 0 0 -1000 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 0
+BareHandAttack: 8
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 13
+Luck: 12
+Race: 49
+E
+$

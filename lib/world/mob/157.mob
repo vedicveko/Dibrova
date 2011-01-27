@@ -1,0 +1,478 @@
+#15700
+warlock baragar~
+the warlock Baragar~
+The warlock Baragar chuckles at you and dares you to attack him.
+~
+Before you stands the master of the keep, Baragar the warlock.  And
+while Baragar is weak compared to sorcerers such as Krogthar and his
+minions, or the vile Jher, he is no pushover either.    
+~
+67110922 0 0 0 67108880 0 0 0 -1000 E
+30 14 -20 1d30+2250 3d3+20
+1050 28744
+8 8 0
+BareHandAttack: 15
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Luck: 12
+Class: 9
+Race: 14
+E
+#15701
+woman witch alara~
+the witch Alara~
+A comely woman in her early twenties grins at you.
+~
+This woman is the witch Alara, associate and lover of Baragar.  She is
+nude save for a leather bandolier across her chest and buttocks, which
+contains a variety of potions, scrolls and throwing daggers.  She
+would be very attractive if she didn't cackle insanely so much.    
+~
+527882 0 0 0 262160 0 0 0 -1000 E
+28 13 -12 1d28+2150 2d4+18
+950 25254
+8 8 2
+BareHandAttack: 15
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 16
+Luck: 12
+Class: 1
+Race: 14
+E
+#15702
+demon~
+a Demon~
+A minor demon hisses and snarls at you.
+~
+Baragar and Alara managed to capture this demon and keep it in this
+room, but they lacked the power necessary to control it, so they dare
+not release it again.  And now you're in here with this eight foot
+tall, four armed, green skinned monstrosity from the lower planes.  
+Great.    
+~
+4138 0 0 0 2128 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d6+17
+0 40559
+8 8 0
+BareHandAttack: 8
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 41
+E
+#15703
+cat familiar~
+a cat Familiar~
+Alara's familiar, a black cat, hisses at you.
+~
+This angry feline is Alara's familiar. Do away with it.
+~
+4106 0 0 0 0 0 0 0 -1000 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 2
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 10
+Luck: 12
+Race: 1
+E
+#15704
+hawk familiar~
+a hawk Familiar~
+Baragar's familiar, a hawk, screeches at you.
+~
+This angry bird is Baragar's familiar. Do away with it.
+~
+4106 0 0 0 8388608 0 0 0 -1000 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 12
+Race: 3
+E
+#15705
+troll guard~
+a Troll Guard~
+A troll guard squints suspiciously at you.
+~
+These trolls are meant to prevent strangers from entering the inner
+keep, but they see so many strange creatures here they aren't sure
+which type is allowed and which isn't.    
+~
+69128 0 0 0 80 0 0 0 -400 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 1
+BareHandAttack: 7
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Race: 19
+E
+#15706
+flesh golem~
+a Flesh Golem~
+A flesh golem stands here, arms folded.
+~
+This mindless automaton is a creation of Baragar's.  It answers only
+to him, a fact which irritates (and worries) Alara.    
+~
+10 0 0 0 0 0 0 0 0 E
+26 11 -4 1d26+2050 2d5+13
+0 19006
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 5
+Luck: 12
+Race: 33
+E
+#15707
+fire drake~
+a Fire Drake~
+A fire drake snorts flames and attacks!
+~
+This angry dragonkin has been roused from its nap by you, and it isn't
+happy about it...    
+~
+67635210 0 0 0 262224 163840 0 0 -500 E
+28 13 -12 1d28+2150 2d6+14
+0 25254
+8 8 1
+BareHandAttack: 12
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 17
+Luck: 12
+Race: 9
+E
+#15708
+zombie servant~
+a Zombie servant~
+A zombie servant gazes at you blankly.
+~
+This poor fellow was once a living servant of Baragar who made one
+mistake too many.  Baragar eventually decided undead staff were far
+more reliable, if a little slower, and slew all his staff, turning
+them subsequently into mindless undead.  That's what a charming guy he
+is.    
+~
+32776 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 6
+E
+#15709
+guard~
+a Keep Guard~
+A keep guard stands rigidly at attention here.
+~
+This guard is slightly bemused at your entrance, but doesn't move to
+stop you- Baragar receives dozens of visitors daily, and if they are
+powerful enough to slay him, then the guards certainly don't stand a
+chance, so they keep quiet.  You may wonder why in that case Baragar
+bothers having guards.  Well, so does he.    
+~
+526346 0 0 0 16 0 0 0 -400 E
+18 7 28 1d18+800 1d6+9
+450 7441
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 21
+Luck: 12
+Class: 10
+Race: 14
+E
+#15710
+apprentice mage~
+an Apprentice Mage~
+An apprentice mage looks up from her work, startled.
+~
+This woman was a former lover of Alara's who was brought here by the
+witch as a student after Alara hooked up with Baragar, a warlock of a
+different gender.  She is small, cute, and evil.    
+~
+526346 0 0 0 0 0 0 0 -400 E
+21 8 16 1d21+1200 2d3+10
+600 11024
+8 8 2
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 14
+E
+#15711
+grell~
+a Grell~
+A grell gropes at you with its tentacles.
+~
+This looks like a huge brain with green tentacles and a huge
+squid-like beak.  It hovers in the center of the room, glaring at you
+menacingly.    
+~
+67141642 0 0 0 2128 163842 0 0 -800 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 25
+Luck: 12
+Race: 37
+E
+#15712
+mimic~
+a Mimic~
+A wooden chest suddenly comes to life!
+~
+This mimic has been placed here by Baragar to fool (and hopefully slay)
+potential thieves.
+~
+42 0 0 0 80 0 0 0 -400 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 12
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 6
+Luck: 12
+E
+#15713
+crocodile~
+a hungry Crocodile~
+A hungry crocodile snaps its jaws at you.
+~
+This hungry reptile hasn't been fed in days.  Baragar starves his
+crocs to keep them savage.  He uses them to punish his guards.  They
+seldom make the same mistake twice, because they are usually dead.  
+~
+530474 0 0 0 80 0 0 0 0 E
+19 7 24 1d19+900 2d3+9
+0 8541
+8 8 0
+BareHandAttack: 6
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 2
+E
+#15714
+war dog~
+a savage War Dog~
+A savage war dog snarls viciously at you.
+~
+Baragar bred these brutes from the most vicious alsatians and pit
+bulls he could find, then infected them with super-rabies to make 'em
+nice and friendly.    
+~
+530474 0 0 0 80 0 0 0 0 E
+16 5 36 1d16+600 1d6+8
+0 5510
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Race: 1
+E
+#15715
+assassin~
+an Assassin~
+An assassin appears suddenly before you.
+~
+This mysterious woman is one of Baragar's elite black-robed assassins.
+Closely aligned with the assassins of Krogthar's domain, they are
+cold- blooded, ruthless fanatics devoted to their ruler.    
+~
+2152 0 0 0 1572944 0 0 0 -1000 E
+20 8 20 1d20+1000 1d4+13
+550 9735
+8 8 2
+BareHandAttack: 14
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 25
+Luck: 12
+Race: 16
+E
+#15716
+dagar assassin~
+Dagar the Assassin~
+Dagar the assassin urges you to be silent.
+~
+Dagar is an agent of Thalos, sent here to eliminate Baragar.  He has
+spent weeks infiltrating the keep, and is now in the final stages of
+his plan.  However, he'd be more than happy for you to complete the
+task for him.    
+~
+41992218 0 0 0 65856 4194304 0 0 1000 E
+27 12 -8 1d27+2100 2d6+13
+900 23018
+8 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Class: 4
+Race: 14
+E
+#15717
+gnoll slave~
+a Gnoll slave~
+A gnoll slave yelps in surprise at your presence.
+~
+These evil dog-like humanoids have been captured by Baragar and set to
+work as miners and laborers helping to excavate the ancient lower
+cavers beneath the keep.    
+~
+138 0 0 0 0 0 0 0 -400 E
+12 3 52 1d12+300 1d2+8
+250 2646
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 14
+Luck: 12
+Race: 7
+E
+#15718
+ogre slave~
+an Ogre slave~
+An ogre slave grunts as you enter, then turns back to his work.
+~
+These evil giant-kin have been captured by Baragar and set to work as
+miners and laborers helping to excavate the ancient lower cavers
+beneath the keep.    
+~
+138 0 0 0 0 0 0 0 -400 E
+18 7 28 1d18+800 1d3+12
+450 7441
+8 8 1
+BareHandAttack: 5
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 19
+Luck: 12
+Race: 19
+E
+#15719
+flind slave master~
+a Flind slave master~
+A flind slave master howls fiercely and orders you to leave.
+~
+This gnoll-kin has been placed in charge of the gnolls and ogres that
+labor here, and will not tolerate any interruptions.
+~
+67108874 0 0 0 0 0 0 0 -500 E
+20 8 20 1d20+1000 2d3+10
+640 9735
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 25
+Luck: 12
+Race: 37
+E
+#15720
+otyugh~
+an Otyugh~
+An otyugh gibbers and attacks!
+~
+This creature is a trangular mass of flesh with a huge maw and two
+tentacles.  It rushes toward you on stubby legs.  It is used to devour
+the garbage of the keep.    
+~
+42 0 0 0 64 0 0 0 0 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 8
+Luck: 12
+Race: 8
+E
+$

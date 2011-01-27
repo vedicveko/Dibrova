@@ -1,0 +1,1353 @@
+#15100
+Entrance To Raiders Forest~
+You enter a dark forest.  The forest of raiders, raiders rob everyone
+who travels through this area.  Make sure you bring protection with
+you, they arent just normal thieves.    
+~
+151 4 0 0 0 3
+D0
+~
+~
+0 0 15101 0
+D2
+~
+~
+0 0 18451 0
+S
+#15101
+Path in the Forest~
+You follow a trail leading south and east.  The trees grow high
+blocking most of the sun from view, leaving slight rays of sun shining
+in the grass.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15102 0
+D2
+~
+~
+0 0 15100 0
+S
+#15102
+Path in the Forest~
+You enter a long winding section of the forest, hopefully no raiders
+are traveling on this path with you right now.  You can see raider
+tracks leading in every possible direction, this is not a good
+picture.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15103 0
+D3
+~
+~
+0 0 15101 0
+S
+#15103
+Curve in Path~
+The path takes a sharp turn north, you continually get deeper and
+deeper into the depths of the raiders forest.  High green blooming
+trees hang just over head, they seem to be calling to you.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15104 0
+D3
+~
+~
+0 0 15102 0
+S
+#15104
+Path in Raider Forest~
+The forest around you is closing in slowly, the path is getting
+smaller each step.  Giant trees sprout up out of the ground blocking
+almost all sight of the sky.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15105 0
+D2
+~
+~
+0 0 15103 0
+S
+#15105
+Rock Path In Raider Forest~
+The small mud path turns into a large rock path, you can still see the
+footprints of the raiders in the mud.  This area is still relatively
+close to the entrance of the forest.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15106 0
+D3
+~
+~
+0 0 15104 0
+S
+#15106
+Rock Path~
+You walk up a rock path.  It is the main road that the raiders travel
+on, traveling on this road will most likely end up meeting up with
+many raiders.  Remember, it is their home.    
+~
+151 4 0 0 0 3
+D0
+~
+~
+0 0 15107 0
+D2
+~
+~
+0 0 15105 0
+S
+#15107
+Raider Fork~
+There is a fork in the road up ahead, both ways look exactly the same,
+with the sun being blocked by trees and the ground soggy and muddy.  
+The road forks east north and south.  Which way to go is your choice,
+but choose wisely.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15108 0
+D1
+~
+~
+0 0 15147 0
+D2
+~
+~
+0 0 15106 0
+S
+#15108
+Raider Path~
+You follow the path of a raider soldier, probably a scout.  You see
+foot prints in the mud.  The trees that are over your head drop little
+droplets of water which roll down your back on you as they sway back
+and forth.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15109 0
+D2
+~
+~
+0 0 15107 0
+S
+#15109
+Raider Path~
+The raiders path covered with vines and logs making it dangerous to
+travel this way, maybe it is a warning of some sort to visitors.  
+Just keep in mind that raiders are always in the mood for a good
+battle
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15110 0
+D2
+~
+~
+0 0 15108 0
+S
+#15110
+Raider Path~
+The raiders path begins to widen, you can see to the north that it
+forks off at all four angles.  Now its gonna be even a tougher choice,
+which way is the right way?  Be careful, raiders arent nice.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15111 0
+D2
+~
+~
+0 0 15109 0
+S
+#15111
+Raider Conjunction~
+You show up at a conjunction, what way to go?  All four directions
+look exactly the same, and the soft under growth makes you want to
+stay right where you are.  This is a ripe picking spot for the
+raiders, you wouldnt want to stay here for too long, meeting a raider
+isn't high on anyones priority list.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15112 0
+D1
+~
+~
+0 0 15155 0
+D2
+~
+~
+0 0 15110 0
+D3
+~
+~
+0 0 15141 0
+S
+#15112
+Raider Path~
+You walk on a long dirt path made by the raider scouts.  The trees
+surrounding you amaze you, how can something this grand be in such an
+evil spot?  This part of the path seems to be more worn than most of
+the other paths you have seen.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15113 0
+D2
+~
+~
+0 0 15111 0
+S
+#15113
+Raider Path~
+The soft path you travel upon meets another fork, you hear sounds
+coming from the east.  The trees over head make it difficult to see
+around.  Your vision is limited to just around you.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15114 0
+D1
+~
+~
+0 0 15180 0
+D2
+~
+~
+0 0 15112 0
+S
+#15114
+Raider Path~
+You follow the trail, you are at the heart of the forest by now.  
+Both to your north and south are the raiders paths.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15115 0
+D2
+~
+~
+0 0 15113 0
+S
+#15115
+Four Way Raider Conjunction~
+You stand at a four way conjunction, the trees part in all directions
+leaving every way open.  The paths are small leading in all directions
+do to the thick forest.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15125 0
+D1
+~
+~
+0 0 15116 0
+D2
+~
+~
+0 0 15114 0
+D3
+~
+~
+0 0 15140 0
+S
+#15116
+Stone Path~
+You walk on a stone path which seems to be a very twisty road to take.
+No raiders seem to travel this path much do to the lack of foot prints
+in the mud.  Only the occasional trail is seen.  Now you can feel safe
+from the raiders.    
+~
+151 4 0 0 0 3
+D1
+~
+~
+0 0 15117 0
+D3
+~
+~
+0 0 15115 0
+S
+#15117
+Rock Path~
+You are walking on a rock path, you can now enjoy the nature
+surrounding you, because you are now way out of range of the Raiders.
+Large trees reaching high into the sky are lining the path.  Large
+plants grow underneath the trees.  Vines wrap themselves.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15118 0
+D3
+~
+~
+0 0 15116 0
+S
+#15118
+Turn in Path~
+While watching the wonderful sights sorounding you, you notice that
+the path curves northwards, perhaps back into the dangers of raiders.
+The trees seem to be the highest in this area, reaching above the
+clouds
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15119 0
+D3
+~
+~
+0 0 15117 0
+S
+#15119
+Long Curving Path~
+You walk on a long curving stone path.  Now you can clearly see that a
+large hut is at the end of your hike.  Trees completely soround you
+from most angles, leaving only a small curving path leading to the
+hut.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15120 0
+D2
+~
+~
+0 0 15118 0
+S
+#15120
+Winding Path~
+You walk upon a long winding path, a hut is plainly insight a ways to
+the north.  Large thick trees grow up everywhere, birds and other
+forest creatures chirp away.    
+~
+151 0 0 0 0 3
+D2
+~
+~
+0 0 15119 0
+D3
+~
+~
+0 0 15121 0
+S
+#15121
+Near Hut~
+You walk between many large trees and bushes.  Some of the bushes are
+so big that they are taller than you.  The trees reach so high that
+you cant see the tops.  Only a few rays a light reach the ground.  A
+ways to the north is a hut.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15122 0
+D1
+~
+~
+0 0 15120 0
+S
+#15122
+Near Hut~
+You walk along the long, twisting path which leads to a hut, and a to
+the south the path continues elsewhere.  Tree branches block almost
+all of the suns light, you can barely tell if it is day or night.  
+Bushes and plants grow along the ground.  The vines cross the path,
+many of them are making you trip.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15123 0
+D2
+~
+~
+0 0 15121 0
+S
+#15123
+In front of hut~
+There is a small clearing in the forest which exposes a large pink
+hut.  Vines grow up all sides of it so you can barely see the paint.
+Only one window is visible due to the vines.  The door sits ajar
+waiting for someone to enter.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15124 0
+D2
+~
+~
+0 0 15122 0
+S
+#15124
+Hut~
+You walk into a large hut, the inside of the hut is pink just like the
+outside.  The hut has various tools scattered around.  It looks like
+it is a raiders vacations spot.  Maps and scrolls are on a shelf in
+the corner.  The hut smells as if it hasnt been cleaned for years,
+many stacks of papers sit on a small table in the middle of the room.
+One single chair is in the room.    
+~
+151 8 0 0 0 0
+D2
+~
+~
+0 0 15123 0
+S
+#15125
+Raider Path~
+The raider path is covered with forest undergrowth.  Many different
+types of bugs crawl on to you from the vines which continually get
+wrapped around your legs.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15126 0
+D2
+~
+~
+0 0 15115 0
+S
+#15126
+Raider Path~
+You walk upon a path made by the raiders.  It is a rugged looking path
+made mostly of dirt and mud.  This particular piece of the path seems
+to be well traveled.  Raiders walk this path quite frequently.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15179 0
+D2
+~
+~
+0 0 15125 0
+D3
+~
+~
+0 0 15127 0
+S
+#15127
+Raider Path~
+The path you walk is very well traveled.  Foot prints come in from
+every possible direction, even from the trees.  To the east and south
+the raider highway continues.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15126 0
+D3
+~
+~
+0 0 15128 0
+S
+#15128
+Raider Path~
+You follow the raider path to a sharp turn.  The path continues to the
+north and east.  Once again trees rise up to block the sight of the
+sun from your eyes, you cant even tell what time of day it is.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15129 0
+D1
+~
+~
+0 0 15127 0
+S
+#15129
+Raider Path~
+The path you walk on is completely covered with moss and grass.  
+Trees from overhead cast long shadows, which add to the frightening
+raider forest.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15130 0
+D2
+~
+~
+0 0 15128 0
+S
+#15130
+Raider Path~
+The path you follow is one of the raiders highway routes.  The raiders
+attack all unwanted visitors, raiders are the most vicious kind of
+person you can find for miles around.    
+~
+151 0 0 0 0 3
+D2
+~
+~
+0 0 15129 0
+D3
+~
+~
+0 0 15131 0
+S
+#15131
+Raider Path~
+You follow the raider path, it leads all around this chaotic area.  
+Raiders are hiding in bushes all around this place, their highway is
+the worst place to be, yet everyone stays on them.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15130 0
+D3
+~
+~
+0 0 15132 0
+S
+#15132
+Raider Path~
+The path you walk on has been covered with vines and low underbrush.
+You can barely walk without tripping over a bush or vine.  Raiders
+must have done this on purpose to trap helpless victims.    
+~
+151 0 0 0 0 3
+D1
+~
+~
+0 0 15131 0
+D2
+~
+~
+0 0 15133 0
+S
+#15133
+Raider Path~
+Large, thick trees cover the path with shade, a cool breeze blows
+constantly through the trees making their leaves fall to the ground.
+Vines climb the trunk of even the largest, thickest, trees.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15132 0
+D2
+~
+~
+0 0 15134 0
+D3
+~
+~
+0 0 15177 0
+S
+#15134
+Raider Path~
+The trees and bushes are huge, they are so big that you cant see past
+them.  It is just like being in a castle, nothing proves more
+defendable then not being seen by thy enemy.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15133 0
+D2
+~
+~
+0 0 15135 0
+S
+#15135
+Raider Path~
+The small path you walk on turns.  Large trees hang over your
+shoulder, and bushes sneak up your legs.  Just the life of the forest.
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15134 0
+D1
+~
+~
+0 0 15136 0
+S
+#15136
+End of Raider Path~
+You come to the end of the path, to your south is a small little
+creek.  The water seems to be coming out from underneath the path,
+judging by the flow of water.    
+~
+151 0 0 0 0 3
+D0
+~
+~
+0 0 15178 0
+D2
+~
+~
+0 0 15137 0
+D3
+~
+~
+0 0 15135 0
+S
+#15137
+Raider Creek~
+The water is cold to the touch, you feel like your going to freeze
+when you jump in.  The trees drop bark and leaves into the water
+making it hard to see under the water.  The currents is traveling to
+the east.    
+~
+151 4 0 0 0 6
+D0
+~
+~
+0 0 15136 0
+D1
+~
+~
+0 0 15138 0
+S
+#15138
+Raider Creek~
+The freezing water makes you lose all sense, you just want to hop out
+of this freezing pool.  Small fish swim past your feet, but you are
+too cold to make any attempt to catch them.    
+~
+151 0 0 0 0 6
+D1
+~
+~
+0 0 15139 0
+D2
+~
+~
+0 0 15176 0
+D3
+~
+~
+0 0 15137 0
+S
+#15139
+Raider Creek~
+The freezing cold water freezes you through.  You cant even enjoy
+nature when you are this cold.  The creek continues to the east and
+west.    
+~
+151 0 0 0 0 6
+D1
+~
+~
+0 0 15140 0
+D3
+~
+~
+0 0 15138 0
+S
+#15140
+Raider Creek~
+The creek is cold, it chills you to the bone.  Somehow fish are able
+to survive in this freezing temperature, your even too cold to attempt
+to catch one.    
+~
+151 4 0 0 0 6
+D1
+~
+~
+0 0 15115 0
+D3
+~
+~
+0 0 15139 0
+S
+#15141
+Mud Path~
+You hike through the high mud, the mud is up to your knees.  The trees
+around you are also dripping mud into the already huge mud puddle.  
+~
+151 4 0 0 0 10
+D1
+~
+~
+0 0 15111 0
+D3
+~
+~
+0 0 15142 0
+S
+#15142
+Mud Path~
+The mud you walk in is now waist high, hopefully the mud doesnt get
+any higher or you might just have to start swimming in it.  That would
+not be good.  Little worms and other bugs are in the mud also, you can
+feel them crawling all over your body.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15141 0
+D3
+~
+~
+0 0 15143 0
+S
+#15143
+Mud Path~
+The mud is now so deep that the bugs can get to virtually every part
+of your body, the mud is up to your shoulders, if the mud gets any
+higher you will drown in it.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15142 0
+D2
+~
+~
+0 0 15144 0
+S
+#15144
+Mud Path~
+The mud is up to your waist, worms and other insects swim in the mud.
+You can feel the insects touching you as you walk through the mud.  
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15143 0
+D2
+~
+~
+0 0 15145 0
+S
+#15145
+Mud Path~
+The mud you walk in goes up to your knees, you can see some insects
+swimming in the mud.  Off to the east you can see a small dry fort
+like area.  You look north and see that the mud is higher there than
+it is here.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15144 0
+D1
+~
+~
+0 0 15146 0
+S
+#15146
+Raider Ditch~
+You enter a small wooden box like structure, items off all sorts are
+scattered on the floor.  This is the home of a few raiders, all they
+have is a bed to sleep on.    
+~
+151 0 0 0 0 10
+D3
+~
+~
+0 0 15145 0
+S
+#15147
+Raider River~
+The river is a small, but fast flowing river, raiders must use some
+sort of boat to cross it.  Attempting to swim down the river could
+mean serious injuries, think twice before entering the nice clear blue
+water.    
+~
+151 4 0 0 0 7
+D1
+~
+~
+0 0 15148 0
+D3
+~
+~
+0 0 15107 0
+S
+#15148
+Raider River~
+You swim in the ever cold raider river, lucky for you no insects or
+bugs what so ever are in this river with you, unlike the mud pile on
+the other side of this forest.    
+~
+151 0 0 0 0 7
+D1
+~
+~
+0 0 15149 0
+D3
+~
+~
+0 0 15147 0
+S
+#15149
+Raider River~
+The freezing cold river chills you, your vision gets blurry as you use
+all your strength to keep moving on without freezing.    
+~
+151 0 0 0 0 7
+D0
+~
+~
+0 0 15150 0
+D3
+~
+~
+0 0 15148 0
+S
+#15150
+Raider River~
+'ITS FREEZING!  You dont feel a thing, all of your limbs have gone
+numb, which isnt a very good thing.  You can no longer even think
+straight, the only thing you can do is swim, swim, swim.  Just ahead
+you see a small shoreline, your only hope is to get to the shore
+before you completely freeze.    
+~
+151 0 0 0 0 6
+D0
+~
+~
+0 0 15151 0
+D2
+~
+~
+0 0 15149 0
+S
+#15151
+Raider River~
+The shoreline is just to your east, thank god.  Considering the water
+must be hundreds of degrees below freezing it is going to feel good to
+get out of the water.  The clear blue water doesnt seem all quite as
+bad as it did before, mostly because you know you can get out whenever
+you want.    
+~
+151 0 0 0 0 6
+D0
+~
+~
+0 0 15152 0
+D1
+~
+~
+0 0 15156 0
+D2
+~
+~
+0 0 15150 0
+S
+#15152
+Raider River~
+The river is cold as it could possibly get.  You cant feel your hands,
+feet, or toes.  The clear blue water isnt as inviting as it seemed
+from outside of the river.  It actually isnt inviting at all.  No one
+wants to freeze to death.    
+~
+151 0 0 0 0 6
+D0
+~
+~
+0 0 15153 0
+D2
+~
+~
+0 0 15151 0
+S
+#15153
+Raider River~
+The river seems to just keep getting colder, sooner or later your
+blood is just gonna freeze.  The cool water seems to make your brain
+slow down.  It must be freezing just like the rest of your body.  
+Small fish swim way below your feet, once in a while a fish will
+tickle your toes.    
+~
+151 0 0 0 0 6
+D2
+~
+~
+0 0 15152 0
+D3
+~
+~
+0 0 15154 0
+S
+#15154
+Raider River~
+The river you swim in is COLD!  It is so cold that if you stay in it
+for very long you may very well soon freeze.  It is suprising that the
+few fish that live in this river can survive.  The river is so cold
+that birds dont even try to get the fish swimming in the river.    
+~
+151 0 0 0 0 6
+D1
+~
+~
+0 0 15153 0
+D3
+~
+~
+0 0 15155 0
+S
+#15155
+Raider River~
+You enter a cold deep part of the river.  This part of the river is
+just a bit warmer then the rest of the river, but if you think about
+it, that isnt saying all that much.  This river is the coldest in the
+area, it is so cold because this river is directly connected to a
+glacier just outside of the forest.    
+~
+151 4 0 0 0 6
+D1
+~
+~
+0 0 15154 0
+D3
+~
+~
+0 0 15111 0
+S
+#15156
+Raider Road~
+You stand directly on the road leading to the raiders hideout.  You
+are scared and excited all at once, whats gonna happen, who is gonna
+be there, who is gonna be the one to destroy you?    
+~
+151 4 0 0 0 6
+D1
+~
+~
+0 0 15157 0
+D3
+~
+~
+0 0 15151 0
+S
+#15157
+Raider Road~
+The raider road you walk on is part of a major highway that the
+raiders travel on.  You can feel the cold stones you walk on all the
+way through your body, it must be some kind of special stone, it glows
+brightly.    
+~
+151 0 0 0 0 6
+D0
+~
+~
+0 0 15160 0
+D1
+~
+~
+0 0 15158 0
+D3
+~
+~
+0 0 15156 0
+S
+#15158
+Raider Path~
+You are just west of the major raider road.  You can hear the sounds
+of people traveling the highway.  To your east you can hear sounds of
+people working hard to build something.    
+~
+151 0 0 0 0 6
+D1
+~
+~
+0 0 15159 0
+D3
+~
+~
+0 0 15157 0
+S
+#15159
+Raider Ditch~
+You step into the square wooden fort.  You can see many people working
+to put up some kind of weapon of war.  Raiders stare at you intently,
+remember these raiders are not nice.  The raiders slowly inch towards
+you...  Slowly, ever so slowly.    
+~
+151 0 0 0 0 4
+D3
+~
+~
+0 0 15158 0
+S
+#15160
+Raider Road~
+The dark gloomy trees that grow around you slowly seem to be getting
+shorter, you no longer smell the strong smell of pine.  The under
+growth you trample isnt as strong or willing as it used to be.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15161 0
+D2
+~
+~
+0 0 15157 0
+S
+#15161
+Raider Road~
+You hear many sounds around you, you can not tell the sounds of
+raiders from the sounds of every day things, such as birds.  It is
+really nice to be walking in the forest, the only thing you wish is
+that there were no raiders.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15162 0
+D1
+~
+~
+0 0 15172 0
+D2
+~
+~
+0 0 15160 0
+S
+#15162
+Raider Road~
+The road you walk in is made completely of a stone you have never seen
+before, it glows a ferious red dull glow.  Many bones of people and
+animals are scattered about this area.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15163 0
+D2
+~
+~
+0 0 15161 0
+S
+#15163
+Raider Road~
+You walk down the road made completely by a raider.  It is kind of
+scary because you know that this road is well traveled by your enemy,
+he can be anywhere.  The raiders could be around any bend, behind any
+bush, in any tree.  Think about that, you are a sitting duck on this
+road.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15164 0
+D2
+~
+~
+0 0 15162 0
+S
+#15164
+Raider Road~
+You travel on a well traveled road, the only problem is that this road
+was not meant for you to travel.  You frequently have to hide from
+passing raiders, and raider scouts.  They are always looking for a
+traveler to kill.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15165 0
+D3
+~
+~
+0 0 15163 0
+S
+#15165
+Raider Road~
+You walk between towering trees, and light underbrush.  You
+occasionally trip over a stray vine.  You can smell blood in the air,
+must be another rotting corpse of an unlucky traveler.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15167 0
+D2
+~
+~
+0 0 15164 0
+S
+#15166
+Raider Road~
+You walk on a slim path which you know now, leads to the raider fort.
+You think to yourself, why am I walking this path?  You are heading
+right into danger.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15168 0
+D2
+~
+~
+0 0 15167 0
+S
+#15167
+Raider Road~
+You walk through a corpse littered area.  Must have been a group of
+unlucky travelers here, you wonder where they were heading, and why
+they were going there without any good guards.  But then you notice
+you are doing the exact same thing.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15166 0
+D3
+~
+~
+0 0 15165 0
+S
+#15168
+Raider Road~
+The road you walk on splits off in two directions.  You can hear all
+sorts of wierd sounds coming from the east, you can see a big wooden
+box to the east, to the west all you see is forest.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15170 0
+D2
+~
+~
+0 0 15166 0
+D3
+~
+~
+0 0 15169 0
+S
+#15169
+Raider Ditch~
+You walk into wooden box shaped room.  You can see many raiders
+sitting here waiting for a unlucky traveler to pass by, and guess
+what.  Today you are the unlucky traveler, you think that if you stand
+still you wont be seen, but everyone knows that raiders arent that
+dumb.  Raiders watch you closely as the inch forward trying not to
+scare you away.    
+~
+151 0 0 0 0 4
+D1
+~
+~
+0 0 15168 0
+S
+#15170
+Raider Road~
+You walk upon the raider road, it is surounded by the most amazing
+trees, bushes, and flowers around.  You have never seen such a sight
+of nature.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15171 0
+D3
+~
+~
+0 0 15168 0
+S
+#15171
+Raider Road~
+You walk down the raiders stone made road, you walk the road extremely
+close to their fort, one place you do not plan to go.  The raiders are
+dumb, strong, and violent, not a very good combination.  That must
+explain why most people dont travel this way.    
+~
+151 0 0 0 0 10
+D0
+~
+~
+0 0 15173 0
+D2
+~
+~
+0 0 15170 0
+S
+#15172
+Raider Ditch~
+You are extremely close to the main raider fort, these raider ditches
+are common in Raider Forest, although it isnt a good idea to visit
+these spots, they arent all that hard to find.  Raiders stand staring
+directly at you, as if you were a slab of meat on a plate, it is now
+time for you to turn and run, RUN!    
+~
+151 0 0 0 0 4
+D3
+~
+~
+0 0 15161 0
+S
+#15173
+Raider Road~
+The raider road leads directly to the raider fort, it is a dangerous
+path to take, yet many travelers take this road straight to there
+death, and if you continue.  You will be one of them.    
+~
+151 0 0 0 0 10
+D2
+~
+~
+0 0 15171 0
+D3
+~
+~
+0 0 15174 0
+S
+#15174
+Raider Road~
+The entrance to the Raider Fort is just to your east a bit.  Raiders
+run back in forth, barely noticing you, you got lucky.  If you
+continue these Raiders wont just kill you, but rip you apart.    
+~
+151 0 0 0 0 10
+D1
+~
+~
+0 0 15173 0
+D3
+~
+~
+0 0 15175 0
+S
+#15175
+Entrance To Raider Fort~
+Just to your north is the entrance to the raider fort, entering it
+could mean walking right into your death, if you thought fighting
+Scouts was hard, you havent seen anything yet.    
+~
+151 4 0 0 0 10
+D0
+~
+~
+0 0 16800 0
+D1
+~
+~
+0 0 15174 0
+S
+#15176
+Raider Ditch~
+A group of well armed raiders sit here waiting for you to come.  When
+they see you they waste no time in getting ready for battle,
+considering it is their favorite thing about life.    
+~
+151 0 0 0 0 4
+D0
+~
+~
+0 0 15138 0
+S
+#15177
+Raider Ditch~
+You walk into a room, unknowing the dangers that you have just exposed
+yourself to.  Raiders enclose around you from all angles, retreating
+is nearly impossible.    
+~
+151 0 0 0 0 4
+D1
+~
+~
+0 0 15133 0
+S
+#15178
+Raider Ditch~
+You walk into a room, raiders sit in chairs at tables, they seem to be
+playing some sort of game, what it is, is unknown to you.  They notice
+you and stare evilly at you.    
+~
+151 0 0 0 0 4
+D2
+~
+~
+0 0 15136 0
+S
+#15179
+Raider Ditch~
+You walk into a room, it is completly full of raiders, they stare at
+you then slowly advance towards you, they growl under their breath.  
+Here they come, its your last second to chose, to fight, or to flee?
+~
+151 0 0 0 0 4
+D2
+~
+~
+0 0 15126 0
+S
+#15180
+Raider Ditch~
+You walk into a raider ditch, raiders come from all corners of the
+room to attack you, they dont even care who you are.  All they know is
+that you are in their home, and they dont like that.    
+~
+151 0 0 0 0 0
+D3
+~
+~
+0 0 15113 0
+S
+$~

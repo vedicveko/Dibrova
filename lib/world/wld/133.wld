@@ -1,0 +1,1332 @@
+#13300
+The Entrance of Avalini~
+The narrow path you have been traveling upon suddenly opens up into a
+small village.  After taking taking a second look at your map you
+recall being told that this is a gathering place of powerful
+adventurers seeking rest and company.  You also recall being told that
+a powerful Wizard of the white robes lives in a hidden place somewhere
+in the aspen forest north of Avalini.  You see a NOTE posted on a
+nearby tree.  Judging from its current condition, you assume this note
+was placed here very recently.    
+~
+133 4 0 0 0 3
+D1
+~
+~
+0 0 32080 0
+D3
+A village path leads west.~
+~
+0 0 13301 0
+E
+note~
+*****ADVENTURERS NEEDED******
+ (Adventurers under level 45 need not apply)
+           *reward pending success*
+	
+    Last night my manor was forcefully taken
+over by a gang of Thieves and Warrior henchmen
+that where aparently hired by a very evil and 
+Dangerous Magician seeking the secrets that I
+hold within my dwelling. I am in desperate need
+of courageous adventurers that are willing to
+reclaim my manor, and return me the keys. I 
+would perform this task myself if I had the 
+strength to do so, but I took a nasty blow from
+the struggle last night and have lost most of
+my strength and spells. My deaf servant Handleson
+whom I love so dearly is still within the evil
+clutches of the rouges that assaulted me, and I fear
+for his life. Anyone interested in assisting me
+in this dark time please seek me out in the
+Black Cat Inn. Simply mention my name to the desk 
+clerk.
+       Thank you,
+               Quarthro of the white robe
+~
+S
+#13301
+A Village Path~
+This village path is nearly deserted except for the occasional
+wandering adventurer.  A little further down the road you can see some
+small shops and houses.    
+~
+133 0 0 0 0 3
+D1
+A village path leads east.~
+~
+0 0 13300 0
+D3
+A village path leads west.~
+~
+0 -1 13303 0
+S
+#13302
+A Well Kept Cottage~
+You are standing in the home of the local hero Sunblade.  Sunblade is
+here polishing a piece of armorer.  Seeing fellow adventurers enter
+his home he quickly asks you to have a seat and share a strong drink
+of ale.    
+~
+133 8 0 0 0 0
+D2
+A cottage door lies to your south.~
+door~
+1 0 13303 3
+S
+#13303
+Outside a Small Cottage~
+As you stand on the village path heading east and west, you see two
+small cottages to the north and south.  The cottage from the north has
+a tall plume of smoke rising from the chimney.    
+~
+133 0 0 0 0 3
+D0
+A cottage door lies to your north.~
+door~
+1 0 13302 3
+D1
+A village path leads east.~
+~
+0 0 13301 0
+D2
+A cottage door lies to your south.~
+door~
+1 0 13304 3
+D3
+A village path leads west.~
+~
+0 0 13305 0
+S
+#13304
+A Disheveled Cottage~
+It appears that this home was recently robbed!!  There are various
+items strewn about the room, most of which have been badly damaged.  
+You wonder where the owners of this home may be?  You then realize
+what they might think if they were to find you standing here.    
+~
+133 8 0 0 0 0
+D0
+A cottage door lies to your north.~
+door~
+1 0 13303 3
+S
+#13305
+A Village Path~
+You stand on a path near the center of this small village.  As you
+look further west you begin to make out the faint image of what
+appears to be a local Inn of sorts.  The only exits from this location
+are to the east and west.    
+~
+133 0 0 0 0 3
+D1
+A village path lies to the east.~
+~
+0 0 13303 0
+D3
+A village path lies to the west.~
+~
+0 0 13306 0
+S
+#13306
+Center of Avalini~
+You now stand in the center of this small village.  From the north you
+can see a small narrow path leading into a aspen forest.  From the
+south you can see a dirty and dark alley.  The village path continues
+east and west.    
+~
+133 0 0 0 0 1
+D0
+A narrow path leads to a forest in the north.~
+~
+0 0 13315 0
+D1
+A village path leads east.~
+~
+0 0 13305 0
+D2
+A side street heads south into a dark alley.~
+~
+0 0 13307 0
+D3
+A village path leads west.~
+~
+0 0 13309 0
+S
+#13307
+A Cold Dark Alley~
+Shivering from a sudden chill, you look around and see a dimly lit
+alley.  Can hear the faint drip of water from the south, and a putrid
+smell fills your nostrils.    
+~
+133 1 0 0 0 0
+D0
+~
+~
+0 0 13306 0
+D2
+The narrow alley continues south.~
+~
+0 0 13308 0
+S
+#13308
+End of a Cold Dark Alley~
+You have reached what appears to be the dead end of this dreadfully
+gloomy alley.  Upon closer inspection however, you do notice a small
+grate in the corner where a dripping sound is coming from.    
+~
+133 1 0 0 0 0
+D0
+~
+~
+0 0 13307 0
+D5
+A closed metal grate.~
+grate~
+1 0 13334 3
+E
+grate~
+This grate is covering a hole that leads down into a smelly chamber.
+~
+S
+#13309
+A Village Path~
+You stand along a road that travels east and west.  To the west you
+begin to see some small shops and a large Inn with a sign reading
+"Black Cat Inn"
+~
+133 0 0 0 0 1
+D1
+~
+~
+0 0 13306 0
+D3
+~
+~
+0 0 13310 0
+S
+#13310
+Outside of a Tavern~
+You stand on a dusty street running through the middle of the village.
+To the south you can hear the pleasant sound of fellow adventurers
+having drinks.  The windows of the tavern are illuminated with a warm
+glow that entice the weary travelers finding there way into Avalini.
+To the north you can see a grassy commons.    
+~
+133 0 0 0 0 1
+D0
+A grassy commons lies to the north.~
+~
+0 0 13313 0
+D1
+A village path.~
+~
+0 0 13309 0
+D2
+The Purple Cloak Tavern.~
+~
+0 0 13314 0
+D3
+A village path.~
+~
+0 0 13311 0
+S
+#13311
+Outside of the Black Cat Inn~
+Wide steps lead up to a large Inn where most travelers that enter
+Avalini stay in order to ease the burdens of harsher times.  To the
+north lies a small general store where people can go and get the
+supplies that are necessary in there travels.    
+~
+133 8 0 0 0 0
+D0
+The general store.~
+~
+0 -1 13336 0
+D1
+~
+~
+0 -1 13310 0
+D3
+The Black Cat Inn~
+~
+0 0 13312 0
+S
+#13312
+The Black Cat Inn~
+You are standing in a comfortable lobby with chairs along each wall
+and a large wooden desk before you.  A large fire is burning in a
+nearby fireplace, and the glow from it's flame gives you a sense of
+warmth and security.  At the desk sits a rosy cheeked desk clerk who
+is willing to help you in any way that he can.  There is a long
+hallway leading to the east of the lobby.    
+~
+133 24 0 0 0 0
+D1
+Outside the Black Cat Inn.~
+~
+0 0 13311 0
+D2
+A long hallway.~
+~
+0 0 13330 0
+E
+fireplace~
+A roaring fire is burning inside this beautiful fireplace.
+~
+S
+#13313
+A Grassy Commons~
+This seems to be a very peaceful place to sit and relax.  There is a
+small pond nestled in between a few large trees.  A rock bench lies
+underneath a large oak tree, providing shade from the hot days of the
+summer.    
+~
+133 0 0 0 0 0
+D2
+~
+~
+0 0 13310 0
+S
+#13314
+The Purple Cloak Tavern~
+You have just entered a noisy bar filled with some of the heros that
+are well know in local tales.  You look on in awe as Members of all
+classes sit around at tables talking boldly of there latest
+adventures.  Some of the patrons in here are rather drunk and seem to
+be willing to brawl if provoked.    
+~
+133 8 0 0 0 0
+D0
+A village path.~
+~
+0 0 13310 0
+D2
+~
+~
+0 0 13322 0
+S
+#13315
+The Entrance of a Aspen Forest~
+You stand on a narrow pathway that leads from Avalini into a large
+forest of aspen trees.  All about you are the sights and sounds of an
+active forest inhabited by woodland creatures.    
+~
+133 0 0 0 0 3
+D0
+~
+~
+0 0 13317 0
+D2
+~
+~
+0 0 13306 0
+S
+#13316
+The Corner of a Forest~
+You now stand deep in a forest of aspen tress.  The forest continues
+to the north and to the east.  Any further travel to the south and
+west is impossible as a result of a steep bluff overlooking a valley.
+~
+133 0 0 0 0 0
+D0
+~
+~
+0 0 13319 0
+D1
+~
+~
+0 0 13317 0
+S
+#13317
+Among the Aspen~
+You stand in the middle of a forest teaming with life.  Squirrels and
+birds scurry and scamper about you gathering berries and nuts.  From
+your current position you can travel in all directions.    
+~
+133 0 0 0 0 3
+D0
+~
+~
+0 0 13320 0
+D1
+~
+~
+0 0 13318 0
+D2
+~
+~
+0 0 13315 0
+D3
+~
+~
+0 0 13316 0
+S
+#13318
+A Small Clearing~
+The path you were traveling on suddenly opens up into a small clearing
+surrounded by a large teal lake.  The only exit from this clearing is
+in the direction from which you came.    
+~
+133 0 0 0 0 0
+D3
+~
+~
+0 0 13317 0
+S
+#13319
+Outside a Vine Covered Cave~
+You are standing in a forest of towering aspen trees.  A large lone
+rocky hill lies to your west.  There seems to be an opening that
+reaches into this hill.  You could see much better if it were not for
+tangled vines covering the entrance of this opening.    
+~
+133 0 0 0 0 0
+D2
+~
+~
+0 0 13316 0
+D3
+A vine covering lies to your west.~
+vine~
+1 0 13329 3
+S
+#13320
+The Center of an Aspen Forest~
+Aspen Trees tower over your head.  The canopy of these wonderful trees
+emits a dancing green light across an active forest floor.  The
+foliage is thick enough to hinder travel to the north and west.  The
+path you are currently standing on continues south and east.    
+~
+133 0 0 0 0 3
+D1
+~
+~
+0 0 13321 0
+D2
+~
+~
+0 0 13317 0
+S
+#13321
+A Trail Through a Forest~
+Aspen trees line either side of this woodland trail you find yourself
+on.  The path continues to the west and north.    
+~
+133 0 0 0 0 3
+D0
+~
+~
+0 0 13324 0
+D3
+~
+~
+0 0 13320 0
+S
+#13322
+Along The Bar~
+You stand beside a long bar crafted from yellow pine.  Along the
+outside of this bar sit many worn stools.  A few patrons are sitting
+along this bar enjoying a warm drink of ale to sooth the hard lifes
+they lead.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13314 0
+D1
+~
+~
+0 0 13328 0
+S
+#13323
+Atop a Boulder~
+You stand on a large boulder overlooking a valley below this forest.
+To the north, south and east is a steep drop off leaving no exit
+except to the path lying to the west.    
+~
+133 0 0 0 0 0
+D3
+~
+~
+0 0 13324 0
+S
+#13324
+Fork in a Forest Trail~
+You stand beneath the towering aspen trees on a small trail.  The
+trail goes east to west with another branch to the south.    
+~
+133 0 0 0 0 3
+D1
+~
+~
+0 -1 13323 0
+D2
+~
+~
+0 0 13321 0
+D3
+~
+~
+0 -1 13325 0
+S
+#13325
+A Forest Trail~
+You stand on a forest trail with exits lying to the east and to the
+north.  The path to the north seems to darken into a tunnel of
+underbrush.    
+~
+133 0 0 0 0 0
+D0
+~
+~
+0 0 13326 0
+D1
+~
+~
+0 0 13324 0
+S
+#13326
+The Tunnel of Foliage~
+You are standing on what appears to be the end of this narrowing
+woodland trail.  The thick underbrush has created a tunnel of sorts
+which ends at a peculiar stone set in the middle of this undergrowth.
+Looking more closely at the stone you notice slender arcane symbols
+etched in the face of it.    
+~
+133 1 0 0 0 0
+D2
+~
+~
+0 0 13325 0
+D4
+A spell bound portal lies up.~
+portal~
+0 13301 13327 0
+S
+#13327
+Outside Quarthro's Manor~
+Standing on a hilltop clearing you see an odd yet well-kept manor of
+grey stone.  Quarthro's home consists of a three story tower and two
+single story wings.  The manor entrance is flanked by a tilted pair of
+smiling griffon statues embedded in the deep grass, and the walls are
+covered with creeping ivy.    
+~
+133 0 0 0 0 0
+D0
+A door is to the north~
+door~
+1 13301 13343 7
+D1
+~
+~
+0 0 13344 0
+D5
+A Spellbound portal lies down.~
+down~
+0 13301 13326 0
+S
+#13328
+A Dark Corner In The Purple Cloak~
+In this dark corner lie a few small tables set apart from the main
+portion of this tavern.  This looks like a good place to have a quite
+chat or a relaxing meal.    
+~
+133 8 0 0 0 0
+D3
+~
+~
+0 0 13322 0
+S
+#13329
+A Dark Musty Cavern~
+The cave you are standing in is very dark.  As your eyes adjust to the
+light and you look a little closer at your surroundings you become
+horrified to find that the floor of this cavern is covered with
+scattered bones!    
+~
+133 8201 0 0 0 0
+D1
+A closed vine lies to your east.~
+vine~
+1 0 13319 3
+S
+#13330
+A Long Hallway ~
+A long hallway of the Black Cat Inn stretches out before you.  Dim
+lights glow from the candles burning along each wall.  Rooms for
+guests are on either side of this hallway.    
+~
+133 0 0 0 0 0
+D0
+~
+~
+0 -1 13312 0
+D1
+A door is to the east.~
+door~
+1 0 13338 3
+D2
+~
+~
+0 0 13331 0
+D3
+A door is to the west.~
+door~
+1 0 13337 3
+S
+#13331
+A Long Hallway~
+A long hallway of The Black Cat Inn stretches out before you.  Dim
+lights glow from the candles the burn along each wall.  Rooms for
+guests lie on either side of this long hallway.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13330 0
+D1
+A door is to the east~
+door~
+1 0 13340 3
+D2
+~
+~
+0 0 13332 0
+D3
+A door is to the west.~
+door~
+1 0 13339 3
+S
+#13332
+A Long Hallway~
+A long hallway of The Black Cat Inn stretches out before you.  Dim
+lights glow from candles that are burning on along the sides of the
+walls.  On either side of this hallway are rooms for the guests that
+visit the Inn.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13331 0
+D1
+A door is to the east~
+door~
+1 0 13342 3
+D3
+A door is to the west~
+door~
+1 0 13341 3
+S
+#13333
+A Cramped Crevice~
+You are now wedged between a rock and a dirt wall.  Insects and worms
+are in you hair, ears, nose, and mouth.  The only way out of this
+terrible jamb is back the way you came or by jumping into a dark pit
+right in front of your feet.  You notice a deep grumble and a awful
+stench rising up from the depths of this pit.    
+~
+133 0 0 0 0 0
+D1
+~
+~
+0 0 13334 0
+D5
+A dark pit lies before you.~
+~
+0 0 13335 0
+S
+#13334
+A Smelly chamber~
+You are hunched over in a dark, damp, smelly room that is crawling
+with insects and rodents.  From the west you can hear a faint
+grumbling and can see a dim glow.    
+~
+133 8193 0 0 0 0
+D3
+A cramped crevice lies to the west.~
+~
+0 0 13333 0
+D4
+A closed metal grate.~
+grate~
+1 0 13308 3
+S
+#13335
+The Dark Pit of the Deepspawn.~
+As you tumble into this room you stumble for footing since the entire
+room is littered with treasure.  The only problem is that there seems
+to be a large snorting creature here that doesn't seem very amused by
+your presence.  As you gasp for breath in utter horror a long tentacle
+from the angered Deepspawn rises to attack!    
+~
+133 8193 0 0 0 0
+D4
+A cramped crevice can be seen above you.~
+~
+0 0 13333 0
+S
+#13336
+Jarad's Supply Shack~
+You have just entered a small wood frame shack.  As you look around
+you notice various pieces of equipment commonly used by adventurers
+and travelers.  A lazy hound is in the corner of this shed yawning and
+scratching fleas.  Behind the counter in front of you is a toothless
+middle aged man smiling at you from ear to ear.    
+~
+133 24 0 0 0 0
+D2
+~
+~
+0 0 13311 0
+S
+#13337
+An Empty Bedroom~
+This is a bedroom that has been prepared for a guest that apearantly
+hasn't arrived yet.  The bed is neatly made and there are towels and
+sheets laid out for the soon to arrive patron.    
+~
+133 8 0 0 0 0
+D1
+A door is t the east.~
+door~
+1 0 13330 3
+S
+#13338
+A Bedroom~
+You walk into a bedroom, and immediately you are hit in the face with
+the smell of the strong alcohol know as "Dwarven Spirits".  As soon as
+you gaze upon the bed you notice why.  Passed out in full battle armor
+is the once great warrior Thyrax.  Your presence seems to only raise a
+faint snore, and he continues to lovingly embrace his battle worn
+sword.    
+~
+133 8 0 0 0 0
+D3
+A door is to the west~
+door~
+1 0 13330 3
+S
+#13339
+A Bedroom~
+This bedroom is decorated and adorned with flowers.  A pleasant scent
+enters your nostrils, and there is a soft glow from a bedside candle.
+Looking closer you become embarrasses as you realize that you have
+intruded upon two half naked lovers...  Ooops!    
+~
+133 8 0 0 0 0
+D1
+A door is here to the east.~
+~
+1 0 13331 3
+S
+#13340
+A Smelly Dark Bedroom~
+As soon as you look into this room you are taught a lesson by a very
+upset Goblin Over-Lord named Gludpux.  The room he is standing in is
+dark and smells of rotten food.    
+~
+133 8 0 0 0 0
+D3
+A door is here to the west.~
+door~
+1 0 13331 3
+S
+#13341
+The Desk Clerk's Room~
+The walls of this small room are decorated with paintings from the
+nearby scenery of the Boldback mountains.  A small oak desk covered
+with papers lies in one corner.  In the other corner lies and unmade
+bed with a bedside stand covered with plates of half-eaten food.    
+~
+133 8 0 0 0 0
+D1
+~
+~
+1 -1 13332 3
+S
+#13342
+A Suite for Special Guests~
+Upon entering this room you notice a warm magical light glowing dimly
+beside a large occupied bed.  As you move further into the room you
+become startled as a frail, injured, old wizard beckons you to come
+hither.    
+~
+133 8 0 0 0 0
+D3
+~
+door~
+1 -1 13332 3
+S
+#13343
+Inside the Main Entrance~
+The walls of this chamber have been painted to resemble an autumn
+forest.  The ceiling is painted with overhanging boughs while the
+floor consists of speckled brown tiles resembling earth.  The only
+exits are through an archway in the north and the front door in the
+south.    
+~
+133 0 0 0 0 0
+D0
+An ornate archway lies before you.~
+~
+0 0 13347 0
+D2
+A door is to the south.~
+Archway~
+1 13300 13327 7
+S
+#13344
+A Small Garden~
+This small plot of land is used by quarthro as a vegetable garden.  
+There are about ten rows of odd herbal plants and strange smelling
+spices.  In the center of this garden is a hay-stuffed scarecrow with
+a crooked smile on his potato sack face.    
+~
+133 1 0 0 0 0
+D0
+~
+~
+0 0 13345 0
+D3
+~
+~
+0 0 13327 0
+S
+#13345
+Between The Stables and a Side Door~
+To the west you can see Quarthro's manor tower above you.  To the east
+you can see a well kept stable.  There is a small side door leading
+into Quarthro's manor to the west.    
+~
+133 1 0 0 0 0
+D1
+~
+~
+0 0 13346 0
+D2
+~
+~
+0 0 13344 0
+D3
+A door is to the west.~
+door~
+1 0 13347 3
+S
+#13346
+A Well Kept Stable~
+Along the walls of this quaint barn hang various tools and
+miscellaneous equipment used in horse care.  In the south east corner
+a small area has been set aside for storage.  There are several
+barrels of ale in this corner along with other various oddities.    
+~
+133 1 0 0 0 0
+D3
+~
+~
+0 0 13345 0
+D5
+A closed barrel lies down.~
+barrel~
+1 0 13365 3
+S
+#13347
+The Foyer~
+Two glowing orbs of glass illuminate this wood-paneled hallway.  The
+orbs are suspended from the ceiling.  The entire floor of this 40'
+hallway is covered with diamond shaped tiles-mostly white with some
+black tiles interspersed among them.  You can see a secondary
+entranceway down the eastern end of this corridor.  Other exits lie in
+the west and south.    
+~
+133 0 0 0 0 0
+D1
+A door is to the east.~
+door~
+1 0 13345 3
+D2
+~
+~
+0 0 13343 0
+D3
+~
+~
+0 0 13348 0
+E
+orbs~
+As you look more closely at these fascinating orbs it becomes more 
+apparent that they must have come from a magical source. There seems to 
+be no source of light, just light itself.
+~
+S
+#13348
+The Parlor~
+A pair of padded leather armchairs rest in front of a fireplace in
+this comfortable parlor.  A candle chandelier is suspended from the
+ceiling above the chairs, and a slender wine cabinet stands against
+the north wall.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13350 0
+D1
+~
+~
+0 0 13347 0
+S
+#13349
+The Library~
+This entire wing of Quarthro's manor serves as the mage's library.  
+The room is spacious with tall, cathedral like windows and a pitched
+roof crossed by wooden rafters.  Hanging from these rafters are twin
+iron chandeliers that resemble octopi.  Most of the upper wall space
+is covered by colorful banners depicting aquatic scenes.  The room is
+furnished with two long tables and a few handsome chairs.    
+~
+133 8 0 0 0 0
+D1
+~
+~
+0 0 13350 0
+S
+#13350
+A Dinning Room~
+The walls of this spacious dinning chamber are covered with murals
+depicting radiant desert scenes.  The backdrop of a rolling wasteland
+of golden sand makes this room seem much larger than it actually is.
+The dinner table is carved from yellow pine and blends nicely into the
+background.  Several potted cacti are placed along the walls
+contributing to the desert atmosphere.    
+~
+133 8 0 0 0 0
+D1
+~
+~
+0 0 13351 0
+D2
+~
+~
+0 0 13348 0
+D3
+~
+~
+0 0 13349 0
+S
+#13351
+The Kitchen~
+The aroma of spices and warm ale fills your nostrils as you enter the
+kitchen.  This room is heated by a crackling fire in the hearth.  In
+the middle of the room is a table cluttered with pots.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13353 0
+D3
+~
+~
+0 0 13350 0
+S
+#13353
+The Tower Stairwell~
+This staircase joins all three floors of Quarthro's Manor.  The middle
+of this staircase was left open by design so Quarthro could levitate
+up the shaft or feather fall down without using the stairs.  A wooden
+railing guards the staircase to prevent nasty falls.    
+~
+133 8 0 0 0 0
+D2
+~
+~
+0 0 13351 0
+D4
+~
+~
+0 0 13354 0
+S
+#13354
+The Tower Stairwell~
+This staircase joins all three floors of Quarthro's manor.  The middle
+of the staircase was left open by design so Quarthro could levitate up
+the shaft or feather fall down without using the stairs.  A wooden
+railing guards the staircase to prevent nasty falls.    
+~
+133 8 0 0 0 0
+D2
+~
+~
+0 0 13358 0
+D4
+~
+~
+0 0 13364 0
+D5
+~
+~
+0 0 13353 0
+S
+#13355
+Servant's Quarters~
+The walls and ceiling of this bedroom are painted to resemble white,
+fluffy clouds in an endless sky of pristine blue.  Painted amid the
+clouds on the north wall is a flock of soaring sea gulls.  Under the
+sea gulls is a bed covered with fluffy white pillows.  Several more
+(stuffed) seagulls are suspended from the ceiling.  A white dresser
+stands next to the door, and a smiling portrait of Quarthro himself
+hangs above the mantle.    
+~
+133 8 0 0 0 0
+D2
+A wooden door is to the south.~
+wooden~
+1 0 13359 3
+D3
+~
+~
+0 0 13356 0
+S
+#13356
+Guest Bedchamber~
+This large bedroom is decorated in a tropical forest motif.  The walls
+are painted with lush tropical plants, and the bed is covered with
+sheets emblazoned with leaflike patterns.  A screen made of stretched
+crocodile hide stands unfolded by the southern wall.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13357 0
+D1
+~
+~
+0 0 13355 0
+S
+#13357
+Lavatory~
+Standing in the northwest corner of this room is an iron bathtub with
+clawed feet.  On the wall above the tub several towels hang from pegs.
+On the floor by the tub is a bucket full of soap.  A wooden washtub
+and washboard stand in the southeast corner near the fireplace, and
+two oil lanterns dangle from the ceiling.    
+~
+133 8 0 0 0 0
+D1
+~
+~
+0 0 13358 0
+D2
+~
+~
+0 0 13356 0
+S
+#13358
+Quarthro's Bedchamber~
+This bedchamber is decorated in the same bizarre fashion as many of
+the other rooms in Quarthro's manor.  A large bed stands against the
+eastern wall, its headboard and footboard carved with dizzying spiral
+patterns.  Hanging on the walls are a number of framed pictures, each
+depicting some sort of optical illusion.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13354 0
+D3
+~
+~
+0 0 13357 0
+S
+#13359
+Balcony~
+A stone wall encloses this 20' x 20' balcony.  From this vantage point
+one can barely see the village of Avalini beyond the trees to the
+south.  A wooden door bars entrance to the manor on the northern wall.
+~
+133 0 0 0 0 0
+D0
+A wooden doors is to the north.~
+wooden~
+1 0 13355 3
+S
+#13360
+Quarthro's Study~
+A polished black desk with a tall slender chair has been arranged in
+the middle of this chamber, facing the door.  A tall bookshelf stuffed
+with volumes is positioned against the north wall.  The southwest
+corner near the door is home to a lurching bearlike creature with a
+sharp beak and bearlike claws.  The monster, although stuffed, appears
+no less dangerous.  Along the south wall hang tapestries depicting the
+constellations, and hanging above the fireplace mantle is a framed
+painting of a...  Radish.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13363 0
+D3
+~
+~
+0 0 13361 0
+S
+#13361
+Quathro's Workroom~
+The walls, floors, and ceiling of this spacious room have been painted
+jet black.  Inscribed in gold on the floor are wizardly symbols and
+diagrams.  A dimly glowing glass sphere Appears to be suspended from
+the ceiling by a slender glass rod.  The only furnishings are an
+unmade bed beneath the western window, a two door cabinet standing
+next to the door, and an L-shaped table in the middle of the room.  A
+black cloth with pink polka dots drapes the table, which is covered
+with delicate alchemical apparatus.    
+~
+133 8 0 0 0 0
+D0
+A spell-bound secret is to the north.~
+secret~
+1 13302 -1 7
+D1
+~
+~
+0 0 13360 0
+S
+#13362
+Quarthro's Secret Storage Room~
+Shelves are here filled with various items of powerful sorcery.  
+Among these are scrolls, potions, spell books, bizarre spell
+components, and items of ancient and arcane origin.  The forces of
+magic and power course through your body while you are in Quarthro's
+sacred storage room.    
+~
+133 8200 0 0 0 0
+D2
+A spell-bound secret is to the north.~
+secret~
+1 13302 13361 7
+S
+#13363
+The Gallery~
+Standing in the middle of this chamber is a large octagonal table with
+a wooden replica of Quarthro's manor built atop it.  The room itself
+is wood paneled and adorned with four empty suits of armor.  Placed on
+pedestals under the windows are four fish-filled aquariums made of
+spherical glass.    
+~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13364 0
+D2
+~
+~
+0 0 13360 0
+S
+#13364
+The Tower Stairwell~
+This staircase joins all three floors of quathro's manor.  The middle
+of the staircase was left open by design so Quarthro could levitate up
+the shaft or feather fall down without using the stairs.  A wooden
+railing guards the staircase to prevent nasty falls.    
+~
+133 8 0 0 0 0
+D2
+~
+~
+0 0 13363 0
+D5
+~
+~
+0 0 13354 0
+S
+#13365
+The Entrance to Quatthro's Hidden Summoning Chamber~
+The walls of the damp dark corridor are made from rough cut stone.  
+Puddles of stagnant water surround you.  There is a cell to your north
+and south in which Quarthro uses to restrain the unusually peculiar
+creatures he summons from planes and worlds far beyond mortal reach.
+~
+133 9 0 0 0 0
+D0
+A closed cell is to the north.~
+cell~
+1 13303 13369 3
+D1
+~
+~
+0 0 13366 0
+D2
+A closed cell is to the south.~
+cell~
+1 13303 13372 3
+D4
+A closed barrel is up.~
+barrel~
+1 0 13346 3
+S
+#13366
+Hallway of a Damp Summoning Chamber~
+The walls of this damp hallway are made from rough cut stone.  You
+hear the strange noises and smell the peculiar odors from the strange
+creatures retained in cells to your north and south.    
+~
+133 9 0 0 0 0
+D0
+A closed cell is to the north.~
+cell~
+1 13303 13370 3
+D1
+~
+~
+0 0 13367 0
+D2
+A closed cell is to the south.~
+cell~
+1 13303 13373 3
+D3
+~
+~
+0 0 13365 0
+S
+#13367
+Hallway of a Damp Summoning Chamber~
+The walls of this hallway are made from rough cut stone.  You hear
+peculiar noises and smell strange odors coming from the cell to the
+north and south of you.    
+~
+133 9 0 0 0 0
+D0
+A cell is to the north.~
+cell~
+1 13303 13371 3
+D1
+~
+~
+0 0 13368 0
+D2
+A cell is to the south.~
+cell~
+1 13303 13374 3
+D3
+~
+~
+0 0 13366 0
+S
+#13368
+The Main Summoning Chamber~
+You stand before a glowing pool of water supported on an elevated
+stone platform.  Inside this pool dwell the souls of all the creatures
+summoned by Quarthro.  They shriek and shift at your presence.  The
+walls of this room appear to be a deep chalky black as if there had
+been numerous explosions occurring in this room.  A stone Stairway
+leads down into a dark chamber.    
+~
+133 9 0 0 0 0
+D3
+~
+~
+0 0 13367 0
+D5
+~
+~
+0 0 13375 0
+S
+#13369
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the south.    
+~
+133 8201 0 0 0 0
+D2
+A cell door is to the south.~
+cell~
+1 13303 13365 3
+S
+#13370
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the south.    
+~
+133 8201 0 0 0 0
+D2
+A cell door lies to the south.~
+cell~
+1 13303 13366 3
+S
+#13371
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the south.    
+~
+133 8201 0 0 0 0
+D2
+A cell door lies to the south.~
+cell~
+1 13303 13367 3
+S
+#13372
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the north.    
+~
+133 8201 0 0 0 0
+D0
+A cell door lies to the north.~
+cell~
+1 13303 13365 3
+S
+#13373
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the north.    
+~
+133 8201 0 0 0 0
+D0
+A cell door lies to your north.~
+cell~
+1 13303 13366 3
+S
+#13374
+A Large Cell~
+The walls of this large cell are cut from rough stone.  Pins that hold
+the chains that lead to very large shackles are driven into this stone
+at regular intervals.  The only exit from this cell is a barred
+entrance to the north.    
+~
+133 8201 0 0 0 0
+D0
+A cell door lies to the north.~
+cell~
+1 13303 13366 3
+S
+#13375
+Supply Room~
+Shelves of strange components used in powerful spells of summoning
+line each wall of this small chamber.  Besides these components the
+room is empty.  The only exit from here is up.    
+~
+133 9 0 0 0 0
+D4
+~
+~
+0 0 13368 0
+S
+$~

@@ -1,0 +1,607 @@
+#11100
+Chief Chieftain Swordancer~
+the Swordancer Chieftain~
+The Swordancer Chieftain is here, braiding tulips into his hair.
+~
+The Swordancer Chieftain is HUGE.  Powerful muscles ripple his entire
+body as he glares down at you from his seven foot height.  Long black
+hair frame his squarish face and steelgrey eyes shoot daggers of death
+at you.  His thick beard is cropped short, showing a powerful chin and
+strong lips curled in a snarl.  He grabs his sword and leaps at you
+with a warcry.    
+~
+526378 0 0 0 67109120 0 0 0 -700 E
+60 37 -36 0d0+0 5d6+40
+1000 184373
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 17
+Int: 21
+Wis: 19
+Con: 10
+Cha: 16
+Luck: 24
+Class: 4
+Race: 14
+E
+#11101
+blacksmith georn~
+Georn the Blacksmith~
+Georn the Blacksmith is here, tempering the blade of a longsword.
+~
+Georn is a very large man.  Layer of muscle upon muscle seems to
+compose his whole body.  Years of working as a blacksmith for the
+Swordancers are obvious.  His arms look to be so massive that they
+would not even lay straight against his side if he tried.  Rough
+features and a hawkish nose dominate his face and his shock of black
+hair is tied back carefully so stray strands of hair will not get in
+his way as he forges weapons of death.    
+~
+88074 0 0 0 16 0 0 0 -600 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 6
+Str: 18
+Dex: 25
+Int: 19
+Wis: 17
+Con: 6
+Cha: 24
+Luck: 12
+Class: 4
+Race: 14
+E
+#11102
+healer swordancer~
+the Swordancer Healer~
+The Swordancer Healer stands here, mixing a poultice.
+~
+The Healer of the Swordancer is a slim middle-aged woman.  Long amber
+hair flows down her back, offsetting her bright emerald green eyes.  
+As she moves about competently in her hut, an aura of peace and
+harmony radiates from within her, making you feel safe and warm.    
+~
+38938 0 0 0 536870912 512 0 0 200 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 2
+BareHandAttack: 15
+Str: 7
+Dex: 21
+Int: 20
+Wis: 19
+Con: 10
+Cha: 8
+Luck: 12
+Class: 2
+Race: 14
+E
+#11103
+guard swordancer~
+the Swordancer Guard~
+A Swordancer Guard stands here, alertly scanning for intruders.
+~
+This is the standard guard of the Swordancers.  He looks competent,
+and fingers his sword as if he wishes you to make any sort of
+threatening movement towards him.    
+~
+71706 0 0 0 16 0 0 0 -500 E
+51 30 -32 0d0+0 5d5+34
+775 105930
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 9
+Int: 23
+Wis: 25
+Con: 24
+Cha: 8
+Luck: 10
+Class: 4
+Race: 14
+E
+#11104
+citizen swordancer~
+the Swordancer Citizen~
+A Swordancer citizen stands here, looking for someone to fight.
+~
+This is a typically average Swordancer citizen.  A plain tunic and
+breeches, complemented with simple boots and a sword, make up his
+outfit.    
+~
+76 0 0 0 0 0 0 0 -300 E
+50 29 -28 0d0+0 5d5+33
+750 100714
+8 8 1
+Str: 9
+Dex: 17
+Int: 7
+Wis: 17
+Con: 22
+Cha: 22
+Luck: 23
+Class: 12
+Race: 14
+E
+#11105
+swordancer tsung wei chen~
+Tsung Wei Chen~
+Tsung Wei Chen is here, killing everyone in a berserk fury.
+~
+Tsung Wei Chen is the society's most ambitious Swordancer.  He waits
+and plots to kill the Chief through means other than through fair
+combat, since he knows he has no chance to slay the Chieftain in fair
+combat.  Right now, he is frustrated and takes it out on anybody that
+comes in his way.  This includes YOU!    
+~
+67684362 0 0 0 100663312 131072 0 0 -1000 E
+60 37 -36 0d0+0 5d6+40
+1000 168341
+8 8 1
+BareHandAttack: 12
+Str: 15
+Dex: 18
+Int: 19
+Wis: 12
+Con: 19
+Cha: 15
+Luck: 18
+Class: 8
+Race: 14
+E
+#11106
+kejie swordancer~
+Kejie Swordancer~
+Kejie Swordancer is here, practicing movements.
+~
+Kejie Swordancer is a small yet cute girl.  Her innocent eyes blink
+widely at you as she weaves her weapon in a complex pattern of motions
+too fast for your eyes to follow.  You can only wonder how many mere
+mortal men have fallen to her.    
+~
+546842 0 0 0 167772176 0 0 0 -300 E
+57 35 -32 0d0+0 5d6+38
+925 147701
+8 8 2
+BareHandAttack: 3
+Str: 19
+Dex: 20
+Int: 5
+Wis: 22
+Con: 19
+Cha: 9
+Luck: 15
+Class: 4
+Race: 14
+E
+#11107
+swordancer kierath~
+Kierath Swordancer~
+Kierath Swordancer is here, practicing with his sword.
+~
+Kierath is a Swordancer arena-master.  Tall, lithe, muscular, a master
+of movement and swordstrokes, he has cast aside his shield and usual
+sword to learn the art of using a two-handed sword.  As he flips and
+tumbles about, slicing his blade through the air in a whirlwind, you
+wonder what it would be like to engage such a man in combat.    
+~
+542746 0 0 0 838860816 0 0 0 -300 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 14
+Int: 10
+Wis: 15
+Con: 5
+Cha: 5
+Luck: 9
+Class: 4
+Race: 14
+E
+#11108
+fong sai yuk~
+Fong Sai Yuk~
+Fong Sai Yuk is here, meditating.
+~
+Fong Sai Yuk is the only Swordancer to fight without a weapon.  
+Utilizing his chi, he focuses his energy into his stomach and releases
+it in a flurry of punches and kicks.  A master of martial arts, Fong
+Sai Yuk is just as deadly, if not more so, than any armed Swordancer.
+~
+161818 0 0 0 167772176 131072 0 0 -400 E
+59 37 -36 0d0+0 5d6+39
+975 161278
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 16
+Int: 14
+Wis: 7
+Con: 12
+Cha: 13
+Luck: 9
+Class: 8
+Race: 14
+E
+#11109
+swordancer soren~
+Soren Swordancer~
+Soren Swordancer is sharpening his sword here.
+~
+Soren Swordancer is an upstanding young Swordancer that promises to
+one day be perhaps one of the warriors of legend.  For now, however,
+he stays in the Realm, honing his skills.    
+~
+18458 0 0 0 301989904 0 0 0 100 E
+57 35 -32 0d0+0 5d6+38
+925 140668
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 8
+Int: 6
+Wis: 10
+Con: 16
+Cha: 23
+Luck: 23
+Class: 4
+Race: 14
+E
+#11110
+swordancer guard elite~
+the Elite Swordancer Guard~
+An Elite Swordancer Guard stands at attention here.
+~
+A guard who has surpassed standard rank is here.  He watches the land
+with a hawk-like eye.  It would be best not to attack him if any of
+his friends are around as he would not take to kindly to that.    
+~
+33609738 0 0 0 16 0 0 0 -300 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 10
+Int: 14
+Wis: 24
+Con: 17
+Cha: 16
+Luck: 18
+Class: 4
+Race: 14
+E
+#11111
+warhorse~
+a Warhorse~
+A warhorse is here, pawing the ground impatiently.
+~
+This horse is BIG.  A heavy spiked leather warsaddle sits on its back
+and straps to hold spears, banners, and sword hang down from its
+powerful sides.  Muscular flanks and legs move restlessly and you
+think about leaving this area for fear of being trampled.    
+~
+262154 0 0 0 0 0 0 0 -300 E
+35 17 -20 0d0+0 3d6+17
+0 40559
+8 8 1
+BareHandAttack: 7
+Str: 20
+Dex: 14
+Int: 20
+Wis: 13
+Con: 14
+Cha: 15
+Luck: 10
+Race: 52
+MountType: 1
+E
+#11112
+swordancer lenna~
+Lenna Swordancer~
+Lenna Swordancer is here, training her swordplaying.
+~
+Lenna is a tall, muscular woman.  Her long raven-black hair is tied
+back in a ponytail and her fierce hazel eyes are focused within
+herself.  As she slashes the air and dances her dance, she catches
+notice of you and flashes you a quick grin.    
+~
+22538 0 0 0 16 0 0 0 100 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 2
+BareHandAttack: 3
+Str: 14
+Dex: 24
+Int: 21
+Wis: 24
+Con: 12
+Cha: 14
+Luck: 22
+Class: 4
+Race: 14
+E
+#11113
+ranmabear~
+the Ranmabear~
+The Ranmabear is here, gnawing on a bone.
+~
+The Ranmabear is an abhorrent creature of twisted magic.  Once a man,
+he angered a powerful magician who then cursed him to dwell in the
+form forever.  Banished, the Ranmabear took up refuge near the Realm
+of the Swordancers, sustaining itself with the bodies of the brave
+Swordancers that have come in a vain attempt to slay this horrible
+monstrosity.    
+~
+100698154 0 0 0 536870992 131074 0 0 -1000 E
+120 100 -40 0d0+0 14d14+80
+2450 938920
+8 8 0
+BareHandAttack: 9
+Str: 22
+Dex: 22
+Int: 14
+Wis: 12
+Con: 18
+Cha: 18
+Luck: 9
+Race: 8
+E
+#11114
+plant man eating~
+the Man-eating Plant~
+A Man-Eating Plant is here, waiting to be fed.
+~
+This is one bad ass, man-eating plant.  You probably want to leave it
+alone.    
+~
+100892682 0 0 0 64 0 0 0 -1000 E
+75 51 -40 0d0+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 10
+Str: 8
+Dex: 16
+Int: 9
+Wis: 24
+Con: 5
+Cha: 24
+Luck: 10
+Race: 26
+E
+#11115
+swordancer jennine~
+Jennine Swordancer~
+Jennine Swordancer is here, playing with her weapons.
+~
+Jennine Swordancer is a slight girl.  Utilizing her size as an
+advantage instead of a handicap, she has learned the art of throwing
+her opponent and using their own larger mass against them.  Since the
+usual Swordancer swords are so large and bulky for her, she uses a
+shorter, slimmer blade to weave her deadly dance.    
+~
+542730 0 0 0 16 0 0 0 -200 E
+57 35 -32 0d0+0 5d6+38
+925 140668
+8 8 2
+BareHandAttack: 15
+Str: 20
+Dex: 21
+Int: 19
+Wis: 20
+Con: 22
+Cha: 12
+Luck: 20
+Class: 4
+Race: 14
+E
+#11116
+shimmie swordancer~
+Shimmie Swordancer~
+Shimmie Swordancer is here, why not just kill his dumb ass.
+~
+Shimmie Swordancer is the second most drunk person you have ever seen.
+Completely sloshed upon imported Australian beer, he wobbles about,
+using his sword as a cane, singing bawdy ballads about rich women.  
+~
+16394 0 0 0 0 0 0 0 -300 E
+55 33 -32 0d0+0 5d6+36
+875 128422
+8 8 1
+Str: 22
+Dex: 7
+Int: 6
+Wis: 23
+Con: 7
+Cha: 10
+Luck: 5
+Race: 14
+E
+#11117
+swordancer pomme~
+Pomme Swordancer~
+Pomme Swordancer is screaming here.
+~
+Pomme Swordancer is a large woman, stubborn as a desert camel, with a
+voice loud enough to hear from miles away.  As she screams loudly in
+frustration, she spies you and draws her weapon, ready to take out her
+irritation upon you.    
+~
+16426 0 0 0 65536 4194304 0 0 -400 E
+59 37 -36 0d0+0 5d6+39
+975 153599
+8 8 2
+Str: 10
+Dex: 17
+Int: 21
+Wis: 7
+Con: 24
+Cha: 18
+Luck: 12
+Race: 14
+E
+#11118
+Bloodwolf swordancer~
+BloodWolf Swordancer~
+BloodWolf Swordancer is here, stretching his muscles.
+~
+BloodWolf Swordancer is a massive man, built tall and built well.  
+Cords of rock hard muscles and tendons stand out as he stretches from
+side to side, warming himself up before a match.  His cold grey eyes
+regard you coolly as he oils his weapon with a smile.    
+~
+34310170 0 0 0 33554768 131072 0 0 -400 E
+59 37 -36 0d0+0 5d6+39
+975 168958
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 6
+Int: 21
+Wis: 18
+Con: 10
+Cha: 24
+Luck: 13
+Class: 3
+Race: 14
+E
+#11119
+gladiator swordancer~
+a Gladiator Swordancer~
+A Gladiator Swordancer is here, training.
+~
+This Gladiator is training to become one of the KNOWN Swordancers.
+~
+4106 0 0 0 0 0 0 0 -100 E
+53 31 -32 0d0+0 5d6+35
+825 116847
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 22
+Int: 23
+Wis: 18
+Con: 9
+Cha: 14
+Luck: 18
+Class: 4
+Race: 14
+E
+#11120
+elite gladiator swordancer~
+an Elite Gladiator Swordancer~
+An Elite Gladiator Swordancer is here, training.
+~
+This gladiator has achieved the rank of Elite gladiator.  He is one
+step closer to becoming one of the famous Swordancers.    
+~
+2058 0 0 0 16 0 0 0 -300 E
+56 34 -32 0d0+0 5d6+37
+900 134460
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 19
+Int: 14
+Wis: 17
+Con: 10
+Cha: 7
+Luck: 25
+Class: 8
+Race: 14
+E
+#11121
+warrior swordancer~
+a Warrior Swordancer~
+A Warrior Swordancer is here, training.
+~
+This is a warrior who is training to become one of the powerful and
+mighty Swordancers of legend.    
+~
+559114 0 0 0 16 0 0 0 -200 E
+57 35 -32 0d0+0 5d6+38
+925 140668
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 5
+Int: 20
+Wis: 10
+Con: 5
+Cha: 18
+Luck: 22
+Race: 14
+E
+#11122
+elite warrior swordancer~
+an Elite Warrior Swordancer~
+An Elite Warrior Swordancer is here, training.
+~
+This is an Elite Warrior Swordancer.  He does not look like the type
+of person to be messing around with.  The blade he has in his hand
+seems to be quite nicked up, but still razor sharp.  Maybe it is best
+to just leave this guy alone.    
+~
+10 0 0 0 16 0 0 0 -300 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 7
+Int: 6
+Wis: 25
+Con: 18
+Cha: 21
+Luck: 15
+Class: 4
+Race: 14
+E
+#11123
+trainer swordancer~
+a Trainer Swordancer~
+A Trainer Swordancer is here, training.
+~
+This trainer is teaching the Swordancers-in-training how to improve.
+~
+34277386 0 0 0 16 0 0 0 -300 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 3
+Str: 6
+Dex: 20
+Int: 8
+Wis: 25
+Con: 10
+Cha: 14
+Luck: 12
+Race: 14
+E
+#11124
+veteran swordancer~
+a Veteran Swordancer~
+A veteran Swordancer is here, training.
+~
+This veteran Swordancer is here, reliving his youth.  He still looks
+quite firm of build, and deadly as ever with his blade.    
+~
+133130 0 0 0 16 0 0 0 -100 E
+58 36 -36 0d0+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 11
+Str: 20
+Dex: 13
+Int: 25
+Wis: 22
+Con: 13
+Cha: 22
+Luck: 23
+Class: 9
+E
+$

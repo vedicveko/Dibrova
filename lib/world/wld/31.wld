@@ -1,0 +1,1224 @@
+#3100
+The Northwest End Of The Concourse~
+You are at the concourse, the city wall is just west.  A small
+promenade goes east, and the bridge is just north of here.  The
+concourse continues south along the city wall.    
+~
+31 0 0 0 0 1
+D0
+You see the Bridge.
+~
+~
+0 -1 3051 0
+D1
+You see the promenade.
+~
+~
+0 -1 3101 0
+D2
+The promenade continues far south.
+~
+~
+0 -1 3127 0
+S
+#3101
+The Promenade~
+The river gently flows westwards just north of here.  The promenade
+continues further east and to the west you see the city wall.  Park
+Road leads south from here.    
+~
+31 0 0 0 0 1
+D1
+The promenade continues.
+~
+~
+0 -1 3102 0
+D2
+Park Road leads south.
+~
+~
+0 -1 3131 0
+D3
+You see the Concourse.
+~
+~
+0 -1 3100 0
+S
+#3102
+The Promenade~
+The river gently flows westwards just north of here.  The promenade
+continues both east and west.  South of here you see the entrance to
+the park, and a small building seems to be just west of the entrance.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 0 3030 0
+D1
+You see the promenade.
+~
+~
+0 -1 3103 0
+D2
+You see the park entrance.
+~
+~
+0 -1 3105 0
+D3
+You see the promenade.
+~
+~
+0 -1 3101 0
+S
+#3103
+The Promenade~
+The river gently flows westwards just north of here.  The promenade
+continues both east and west.  A small path leads south.  Looking
+across the river you see the levee.    
+~
+31 0 0 0 0 1
+D1
+You see the Concourse.
+~
+~
+0 -1 3104 0
+D2
+The small path leads south.
+~
+~
+0 -1 3132 0
+D3
+You see the promenade.
+~
+~
+0 -1 3102 0
+S
+#3104
+The Northeast End Of The Concourse~
+You are at the Concourse.  The city wall is just east and a small
+promenade goes west.  Looking across the river you see a building that
+resembles a warehouse.  The Concourse continues south along the city
+wall.    
+~
+31 0 0 0 0 1
+D2
+The Concourse continues south.
+~
+~
+0 -1 3130 0
+D3
+You see the promenade.
+~
+~
+0 -1 3103 0
+E
+wall~
+It is built from large grey rocks that have been fastened to each other with
+some kind of mortar.  It is far too high to climb.
+~
+S
+#3105
+The Park Entrance~
+You are standing just inside the small park of Midgaard.  To the north
+is the promenade and a small path leads south into the park.  To your
+east is the famous Park Cafe.    
+~
+31 8192 0 0 0 1
+D0
+You see the promenade.
+~
+~
+0 -1 3102 0
+D1
+You see Park Cafe.
+~
+~
+0 -1 3106 0
+D2
+You see the park.
+~
+~
+0 -1 3108 0
+S
+#3106
+Park Cafe~
+You are inside Park Cafe, a very cozy place with many tables and seats
+where you can relax and enjoy the view.  To the east you can see the
+entrance to the park.    
+~
+31 136 0 0 0 0
+D3
+You see the park entrance.
+~
+~
+0 -1 3105 0
+S
+#3107
+A Small Path In The Park~
+You are walking along a small path through the park.  The path
+continues south and east.    
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 -1 3108 0
+D2
+~
+~
+0 -1 3113 0
+S
+#3108
+A Small Path In The Park~
+You are standing on a small path inside the park.  The park entrance
+is just north of here, and Park Cafe is just east of the entrance.  
+The path leads further east and west.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 0 3105 0
+D1
+~
+~
+0 -1 3109 0
+D3
+~
+~
+0 -1 3107 0
+S
+#3109
+A Small Path In The Park~
+You are on a small path running through the park.  It continues west
+and south and just north of here you see the southern wall of Park
+Cafe.    
+~
+31 8192 0 0 0 1
+D2
+~
+~
+0 -1 3115 0
+D3
+~
+~
+0 -1 3108 0
+S
+#3110
+Cityguard HeadQuarters~
+You are inside a tidy office.    
+~
+31 8 0 0 0 0
+D1
+You see Park Road.
+~
+door~
+1 3105 3111 7
+S
+#3111
+Park Road~
+The road continues north and south.  A building is just west of here,
+you notice a sign on the door.  The park entrance is to the east.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3131 0
+D1
+You see the park entrance.
+~
+~
+0 -1 3112 0
+D2
+~
+~
+0 -1 3118 0
+D3
+You see the Cityguard HeadQuarters.
+~
+door~
+1 3105 3110 7
+E
+building door sign~
+The sign on the door says:
+
+                 Cityguard HeadQuarters
+
+           WARNING: Authorized Personnel Only!
+
+~
+S
+#3112
+The Western Park Entrance~
+You are standing at the western end of the park.  A small path leads
+east into the park and going west through the entrance you will reach
+Park Road.    
+~
+31 4 0 0 0 1
+D1
+~
+~
+0 -1 3113 0
+D3
+~
+~
+0 -1 3111 0
+S
+#3113
+A Path In The Park~
+You are in the park.  The paths lead north and west.  Westward is the
+park entrance and to the east you see a small pond.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3107 0
+D1
+You see the pond.
+~
+~
+0 -1 3114 0
+D3
+You see the western park entrance.
+~
+~
+0 -1 3112 0
+S
+#3114
+The Pond~
+You are swimming around in the pond, feeling rather stupid.  You can
+get back on the path from the eastern and western end of the pond.  
+~
+31 0 0 0 0 6
+D1
+~
+~
+0 -1 3115 0
+D3
+~
+~
+0 -1 3113 0
+S
+#3115
+A Path In The Park~
+You are in the park.  The paths lead north and east.  Eastward is the
+park entrance and to the west you see a small pond.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3109 0
+D1
+~
+~
+0 -1 3116 0
+D3
+~
+~
+0 -1 3114 0
+S
+#3116
+The Eastern Park Entrance~
+You are standing at the eastern end of the park.  A small path leads
+west into the park.  Going east through the entrance you will reach
+Emerald Avenue.    
+~
+31 4 0 0 0 1
+D1
+~
+~
+0 -1 3117 0
+D3
+~
+~
+0 -1 3115 0
+S
+#3117
+Emerald Avenue~
+You are standing on the north end of Emerald Avenue.  To the north is
+the promenade and to the west is the park entrance.  To the east is
+the not very big Town Hall of Midgaard.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3132 0
+D1
+~
+~
+0 -1 3137 0
+D2
+~
+~
+0 -1 3119 0
+D3
+~
+~
+0 -1 3116 0
+S
+#3118
+Park Road~
+You are on Park Road which leads north and south.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3111 0
+D2
+~
+~
+0 -1 3135 0
+S
+#3119
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  The road leads north
+and west.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3117 0
+D3
+~
+~
+0 -1 3133 0
+S
+#3120
+The Road Crossing~
+You are in the middle of the road cross.  Roads lead in all
+directions.
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3133 0
+D1
+~
+~
+0 -1 3136 0
+D2
+~
+~
+0 -1 3134 0
+D3
+~
+~
+0 -1 3135 0
+D4
+The chain disappears in the clouds.
+~
+~
+0 -1 -1 0
+E
+sign~
+The sign points in all directions:
+
+   North - Emerald Avenue.
+   East  - Park Road.
+   South - Emerald Avenue.
+   West  - Park Road.
+
+Someone has added the following with red paint:
+
+   Up    - Redferne's Flying Citadel.
+
+~
+E
+chain~
+The chain reaches the clouds high above you.  It must take some really
+powerful magic to hold such a chain in place.
+~
+S
+#3121
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  The road leads south
+and east.    
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 -1 3134 0
+D2
+~
+~
+0 -1 3125 0
+S
+#3122
+Park Road~
+You are on Park Road which leads south and north.  Elm Street is east
+of here.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3136 0
+D1
+~
+~
+0 -1 3123 0
+D2
+~
+~
+0 -1 3126 0
+S
+#3123
+Elm Street~
+You are on Elm street.  Park Road is to the west and Elm Street
+continues in eastward direction.    
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 -1 3124 0
+D3
+~
+~
+0 -1 3122 0
+S
+#3124
+The End Of Elm Street~
+You are at the end of Elm Street.    
+~
+31 0 0 0 0 1
+D3
+~
+~
+0 -1 3123 0
+S
+#3125
+Emerald Avenue~
+You are on Emerald Avenue which continues north.  The Concourse is
+south of here.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3121 0
+D2
+~
+~
+0 -1 3128 0
+S
+#3126
+Park Road~
+You are on Park Road which continues north.  The Concourse is south of
+here.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3122 0
+D2
+~
+~
+0 -1 3129 0
+S
+#3127
+On The Concourse~
+The Concourse lead both north and east and an extension of Wall Road
+runs south.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3100 0
+D1
+~
+~
+0 -1 3128 0
+D2
+~
+~
+0 0 12571 0
+S
+#3128
+On The Concourse~
+The Concourse continues both east and west.  Emerald Avenue is north
+of here.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3125 0
+D1
+~
+~
+0 -1 3129 0
+D3
+~
+~
+0 -1 3127 0
+S
+#3129
+On The Concourse~
+The Concourse continues both east and west.  Park Road is north of
+here and an iron grate leads south to the graveyard.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3126 0
+D1
+~
+~
+0 -1 3142 0
+D2
+Through the solid iron bars you see the graveyard.
+~
+grate~
+1 0 1100 1
+D3
+~
+~
+0 -1 3128 0
+S
+#3130
+On The Concourse~
+You are at the southeast corner of the city wall.  The Concourse leads
+both north and west.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3104 0
+D3
+~
+~
+0 -1 3142 0
+S
+#3131
+Park Road~
+You are at Park Road which continues north and south.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3101 0
+D2
+~
+~
+0 -1 3111 0
+S
+#3132
+Emerald Avenue~
+You are at Emerald Avenue which continues north and south.  Penny Lane
+leads east from here.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3103 0
+D1
+~
+~
+0 -1 3139 0
+D2
+~
+~
+0 -1 3117 0
+S
+#3133
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  To the east the road
+goes on and to the south is the Road Crossing.    
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 -1 3119 0
+D2
+~
+~
+0 -1 3120 0
+S
+#3134
+Emerald Avenue~
+You are standing at a bend on Emerald Avenue.  To the west the road
+goes on and to the north is the Road Crossing.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3120 0
+D3
+~
+~
+0 -1 3121 0
+S
+#3135
+Park Road~
+You are at a bend on Park Road.  To the north the road goes on and to
+the east is the Road Crossing.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3118 0
+D1
+~
+~
+0 -1 3120 0
+S
+#3136
+Park Road~
+You are at a bend on Park Road.  To the south the road goes on and to
+the west is the Road Crossing.    
+~
+31 0 0 0 0 1
+D2
+~
+~
+0 -1 3122 0
+D3
+~
+~
+0 -1 3120 0
+S
+#3137
+The Waiting Room~
+You are standing in the waiting room at the town hall.  Wooden chairs
+stand along the walls and a long desk with a typewriter is placed in
+the middle of the room.    
+~
+31 12 0 0 0 0
+D1
+It looks like some kind of office.
+~
+~
+0 -1 3138 0
+D3
+The exit west leads to Emerald Avenue.
+~
+~
+0 -1 3117 0
+E
+chair chairs~
+Not the very least comfortable.
+~
+E
+desk~
+An extremely heavy desk.  It is so large that it doesn't even need drawers.
+Everything can be stored on its top.
+~
+E
+typewriter~
+It is an ancient Quifatronic T-1000 mk I.  These machines are known for their
+incredible durability, and for their even more incredible weight.  They make
+a Cray II look like a laptop.
+~
+S
+#3138
+The Mayor's Office~
+You are in the not very big office of the Mayor of Midgaard.  A large
+and polished but completely empty desk is standing in front of an
+armchair that looks so comfortable that it most of all resembles a bed
+with the head end raised slightly.    
+~
+31 8 0 0 0 0
+D3
+The waiting room is to the west.
+~
+~
+0 -1 3137 0
+E
+desk~
+This desk is obviously very old.  Nevertheless it looks as if has never been
+used.
+~
+E
+chair armchair~
+This chair is really a masterpiece.  A chair where one can sit as comfortably
+as in a bed.  All auditoriums should be equipped with these things.  A shame
+that there wouldn't be room for the students too, though.
+~
+S
+#3139
+Penny Lane~
+You are on Penny Lane.  Emerald Avenue is to the west and Penny Lane
+continues in eastward direction.    
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 -1 3140 0
+D3
+~
+~
+0 -1 3132 0
+S
+#3140
+Penny Lane~
+You are on Penny Lane.  The narrow road continues north and west.    
+~
+31 0 0 0 0 1
+D0
+~
+~
+0 -1 3141 0
+D3
+~
+~
+0 -1 3139 0
+S
+#3141
+The End Of Penny Lane~
+You are at the end of Penny Lane.  The only exit appears to be south.
+  
+~
+31 0 0 0 0 1
+D2
+~
+~
+0 -1 3140 0
+S
+#3142
+On The Concourse~
+The Concourse continues both east and west.
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 0 3130 0
+D2
+~
+~
+0 0 3088 0
+D3
+~
+~
+0 0 3129 0
+S
+#3143
+On The Concourse~
+The Concourse continues both east and west.
+~
+31 0 0 0 0 1
+D1
+~
+~
+0 0 3130 0
+D3
+~
+~
+0 0 3142 0
+S
+#3144
+Entry into the Halls of Questing~
+   Just north of here begins the series of rooms which hold the
+Questmasters for the vearious levels of mortal play.  Only one quest
+at a time may be had, prizes are insatantaneous upon completion of the
+quest.  See HELP AUTOQUEST for more information.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3145 0
+D5
+~
+~
+0 0 3054 0
+S
+#3145
+(Level 1 - 10) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the way to the next level of questing.  To the south lies
+the way back down to the Temple Altar.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3146 0
+D2
+~
+~
+0 0 3144 0
+D3
+~
+~
+0 0 3159 0
+S
+#3146
+(Level 10 - 20) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the room which holds the next level of quests, westward lies
+the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3147 0
+D3
+~
+~
+0 0 3145 0
+S
+#3147
+(Level 20 - 30) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+north lies the room which holds the next level of quests, westward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3148 0
+D3
+~
+~
+0 0 3146 0
+S
+#3148
+(Level 30 - 40) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+north lies the room which holds the next level of quests, southward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3149 0
+D2
+~
+~
+0 0 3147 0
+S
+#3149
+(Level 40 - 50) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+north lies the room which holds the next level of quests, southward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3150 0
+D2
+~
+~
+0 0 3148 0
+S
+#3150
+(Level 50 - 60) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+west lies the room which holds the next level of quests, southward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D2
+~
+~
+0 0 3149 0
+D3
+~
+~
+0 0 3151 0
+S
+#3151
+(Level 60 - 70) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+west lies the room which holds the next level of quests, eastward lies
+the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3150 0
+D3
+~
+~
+0 0 3152 0
+S
+#3152
+(Level 70 - 80) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+west lies the room which holds the next level of quests, eastward lies
+the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3151 0
+D3
+~
+~
+0 0 3153 0
+S
+#3153
+(Level 80 - 90) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+south lies the room which holds the next level of quests, eastward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3152 0
+D2
+~
+~
+0 0 3154 0
+S
+#3154
+(Level 90 - 100) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+south lies the room which holds the next level of quests, northward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3153 0
+D2
+~
+~
+0 0 3155 0
+S
+#3155
+(Level 100 - 110) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+south lies the room which holds the next level of quests, northward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3154 0
+D2
+~
+~
+0 0 3156 0
+S
+#3156
+(Level 110 - 120) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the room which holds the next level of quests, northward
+lies the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3155 0
+D1
+~
+~
+0 0 3157 0
+S
+#3157
+(Level 120 - 130) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the room which holds the next level of quests, westward lies
+the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3158 0
+D3
+~
+~
+0 0 3156 0
+S
+#3158
+(Level 130 - 140) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the room which holds the next level of quests, westward lies
+the way to the lower level quests.    
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3159 0
+D3
+~
+~
+0 0 3157 0
+S
+#3159
+(Level 140 - 150) Quests~
+   This is one room in a series of small interconnected rooms.  To the
+east lies the room which is the start of the entire complex - the
+level 1-10 room.  Westward lies the way to the lower level quests.  
+~
+31 24 0 0 0 0
+D1
+~
+~
+0 0 3145 0
+D3
+~
+~
+0 0 3158 0
+S
+#3160
+The Entrance Foyer~
+Entering the foyer the first noticeable thing is the receptionist
+sitting at a large desk near the northern wall, court papers and other
+items stacked neatly in piles, above the desk, a portrait of a vase
+rests in an elegant golden frame, whilst the south wall bares several
+pictures of the various judges and lawyers who use the courthouse.  A
+large set of sturdy wooden doors lie to the west, leading back to the
+temple, whilst to the east, the main hall opens up.    
+~
+31 65564 0 0 0 0
+D1
+~
+~
+0 0 3161 0
+D3
+~
+door~
+1 0 3054 1
+S
+#3161
+The Main Hall~
+The main hall is quiet a large room and has been heavily decorated,
+all around the room plants grow in their pots, the walls hold pictures
+covering a wide variety of subjects from landscapes and objects to
+people.  To the north, west and south a door lies in the center of the
+wall, clearly labelled as to where it leads, whilst to the west the
+entrance leads away from the courthouse.    
+~
+31 24 0 0 0 0
+D0
+~
+~
+0 0 3162 0
+D1
+~
+~
+0 0 3164 0
+D2
+~
+~
+0 0 3163 0
+D3
+~
+~
+0 0 3160 0
+S
+#3162
+The Jurors Deliberation Room~
+Unlike the other rooms within this great courthouse, this room is
+quiet plain, purposely decorated in this fashion so as to not distract
+the Juror's whilst they discuss the current case.  A large table
+stands in the middle of the room surrounded by comfortable looking
+chairs, a door to the south leads back to the main hall.    
+~
+31 65720 0 0 0 0
+D2
+~
+~
+0 0 3161 0
+S
+#3163
+The Lounge~
+As elegantly decorated as the main hall, the lounge is slightly larger
+and has also been outfitted with seating facilities and tables.  
+Along the south wall, a bar serves refreshments and caters to
+everyone's needs.  Lawyers bustle around the room doing nothing but
+relaxing and killing time before their next case, an open framed
+doorway to the north leads back to the main hall.    
+~
+31 65560 0 0 0 0
+D0
+~
+~
+0 0 3161 0
+S
+#3164
+The Main Courtroom~
+Entering the main courtroom, silence is immediately ordered, standing
+behind a row of benches on the eastern side of the room, a door leads
+to the judges private chambers, to the south, a dock stands, holding
+the currently accused.  In the southwest corner, the jurors area
+provides a good view of the courtroom, whilst to the north, a witness
+box stands near the lawyers desks, just behind, a fence and gateway
+section of that portion of the room, the rest has been filled with
+benches for onlookers to view the case, to the west, a door leads back
+to the main hall.    
+~
+31 33620156 0 0 0 0
+D1
+A strong door bars the way to the east.
+~
+door~
+2 0 3165 15
+D3
+~
+~
+0 0 3161 0
+S
+#3165
+A Staircase~
+Arriving at the bottom of an elegant staircase, it spirals around
+leading up to the judges private chambers, from time to time, the
+judge will insist and bring the lawyers or other people up to their
+chamber for a quiet word.  To the west, the doorway leads to the
+judge's box, very convenient for the judge perhaps not so convenient
+for others.    
+~
+31 65560 0 0 0 0
+D3
+~
+door~
+2 0 3164 15
+D4
+~
+~
+0 0 3166 0
+S
+#3166
+The Judges Private Chamber~
+Stepping off of the staircase, the first thing noticed is the large
+desk standing diagonally in the northeast portion of the room, a cigar
+case lies open upon it, on the wall behind, a mass of the judges
+certificate line the wall and portraits of the current and previous
+judges line the other walls.  Against the southern wall, a drinks
+cabinet stands; the only exit is to walk back down the stairs set in
+the west wall.    
+~
+31 28 0 0 0 0
+D5
+~
+~
+0 0 3165 0
+S
+$~

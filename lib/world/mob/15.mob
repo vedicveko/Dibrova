@@ -1,0 +1,152 @@
+#1500
+parrot ghost~
+a parrot Ghost~
+A ghost parrot suddenly appears before you in a flurry of motion.
+~
+Man that thing is fast!
+~
+256058 0 0 0 67588 0 0 0 -1000 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Race: 34
+E
+#1501
+pirate ghost~
+a pirate Ghost~
+A pirate ghost fades into existence, intent on getting you off his ship.
+~
+The image of this being flickers in and out of existance, making it hard
+for you to distinguish any specific features.
+~
+231544 0 0 0 67604 0 0 0 -1000 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 1
+BareHandAttack: 11
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 20
+Luck: 12
+Race: 34
+E
+#1502
+captain ghost~
+the Captain Ghost~
+The Captain blurs into focus, just as he slams his weapon into your head!
+~
+The ghost of the captain is much larger than the other ghosts you've
+seen.  And much meaner!
+~
+256058 0 0 0 67604 4194304 0 0 -1000 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Class: 4
+Race: 34
+E
+#1503
+ghost cook pirate~
+the ghost Cook~
+The ghost of a pirate cook, wielding a cleaver, blurs into focus before your eyes.
+~
+You cannot get a solid look at the cook, the apparition is not
+distinct enough for that.
+~
+231482 0 0 0 67588 0 0 0 -1000 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Race: 34
+E
+#1504
+first mate ghost pirate~
+the Ghost of the First Mate~
+The ghost of the First Mate comes flying at you, a silent scream on its lips!
+~
+This man must have been a maniac even when he was alive!
+~
+188536 0 0 0 67588 0 0 0 -1000 E
+27 12 -8 1d27+2100 2d6+13
+900 20926
+8 8 1
+BareHandAttack: 10
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 25
+Luck: 12
+Class: 4
+Race: 34
+E
+#1505
+sailor old man~
+an old Sailor~
+An old sailor sits before the fire, cross-legged, staring at the flames.
+~
+The old man does not even seem to notice that you have entered into
+his domain.    
+~
+2075 0 0 0 0 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+6 6 1
+BareHandAttack: 5
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 6
+Luck: 12
+Race: 14
+E
+#1506
+bones pile~
+a Pile of Bones~
+The pile of bones suddenly rises up, comes to life, and attacks!
+~
+Horror of horrors, RUN!
+~
+229418 0 0 0 2052 0 0 0 -1000 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 0
+BareHandAttack: 7
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 8
+Luck: 12
+Race: 36
+E
+$

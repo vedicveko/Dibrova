@@ -1,0 +1,483 @@
+#19500
+squirrel rabid zombie~
+a rabid zombie Squirrel~
+A rabid zombie squirrel stands here, munching on some nuts.
+~
+Ummm..... Those are not the kind of nuts your thinking about...
+~
+1546 0 0 0 24 0 0 0 -300 E
+5 1 80 1d1+500 1d2+3
+0 283
+8 8 0
+BareHandAttack: 10
+Str: 16
+Dex: 19
+Int: 15
+Wis: 21
+Con: 21
+Cha: 21
+Luck: 20
+Race: 6
+E
+#19501
+The Sentry Officer.~
+the Crusader Sentry Officer~
+A well-armed and self-confident officer stands here.
+~
+Looking at the sentry you notice he is a large man and in very good 
+physical condition.  He has a commanding presence and seems quite sure
+of himself, though he does not seem cocky.  His movements are calculated
+and very effecient in nature.  His cold eyes return your glance with
+no sign of emotion whatsoever.  He seems like a man that many would fear.
+~
+579866 0 0 0 33554456 131072 0 0 900 E
+145 130 -60 1d1+500 18d18+96
+4600 1521265
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 13
+Int: 10
+Wis: 14
+Con: 24
+Cha: 10
+Luck: 20
+Class: 4
+Race: 14
+E
+#19502
+Crusader Soldier.~
+a Crusader Soldier~
+A soldier stands here, encased in brilliant armor, ready to help.
+~
+You are looking a soldier, well disciplined, well armed and
+armored.  He also seems to be very stotic in his reaction to your
+examination.  His scars alone would be enough to scare children with
+couple this with his weaponry and self assured stance and you find
+yourself wondering how tough you are.
+~
+121114 0 0 0 33554456 0 0 0 500 E
+133 115 -60 1d1+350 16d16+88
+3700 1220501
+8 8 1
+BareHandAttack: 13
+Str: 14
+Dex: 24
+Int: 17
+Wis: 10
+Con: 10
+Cha: 19
+Luck: 21
+Class: 4
+Race: 14
+E
+#19503
+Mule~
+the Pack Mule~
+A well tended pack mule stands here.
+~
+You are staring at a mule, hope this is not your cup of tea.
+~
+262282 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+200 1d2+6
+0 1662
+8 8 0
+Str: 22
+Dex: 6
+Int: 14
+Wis: 15
+Con: 21
+Cha: 6
+Luck: 25
+Race: 52
+E
+#19504
+War horse~
+the War Horse~
+A large well groomed war horse is standing here.
+~
+You are looking at a obviously well breed and well trained warhorse.
+This creature is absolutely beautiful when at peace, but its sheer size
+coupled with it's iron shod feet and chainmail barding show the true
+reason this horse was raised and trained.
+~
+327706 0 0 0 64 0 0 0 10 E
+20 8 20 1d1+350 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 7
+Str: 23
+Dex: 15
+Int: 10
+Wis: 7
+Con: 18
+Cha: 19
+Luck: 13
+Race: 52
+E
+#19505
+man red crusader cleric~
+the Crusader Cleric~
+A large man engulfed in red robes stands here holding a golden cross.
+~
+You are looking at very devoted man.  Years of study have wrinkled his 
+skin, but the inner strength projected by this man makes you want to 
+follow him as though he was your father.  His robes are red and his armor
+is well kept, but the only ornamental object you see on him is the cross
+which he carries as though it were a fragile newborn child, despite 
+its being a thick metallic substance.
+~
+170250 0 0 0 24 2 0 0 750 E
+128 109 -60 1d1+400 15d15+85
+3500 1106883
+8 8 1
+BareHandAttack: 7
+Str: 15
+Dex: 17
+Int: 23
+Wis: 7
+Con: 14
+Cha: 12
+Luck: 19
+Class: 2
+Race: 14
+E
+#19506
+Huge man High priest battle~
+the High Priest of Battle~
+The High Priest of Battle stands here contemplating your worth.
+~
+Looking at the High Priest of Battle, you notice a huge man, wearing a
+flowing red cloak adorned with golden crosses.  He radiates power and
+control simply by his presence.  You feel inspired to follow him
+merely from his stature.  From his fine brown leather and ebony metal
+boots, to his Ivory crown he is perfection.  You find yourself hoping
+that one day you will be like this man.    
+~
+215322 0 0 0 8504 131072 0 0 900 E
+145 130 -60 1d1+600 18d18+96
+4600 1673391
+8 8 1
+BareHandAttack: 15
+Str: 23
+Dex: 13
+Int: 24
+Wis: 25
+Con: 13
+Cha: 17
+Luck: 18
+Class: 2
+Race: 14
+E
+#19507
+Gnomish thief gnome~
+the gnomish Thief~
+A gnomish thief hides here in the shadows.
+~
+Looking closely at the gnome you notice he is not nearly as robust as
+most gnomes, infact he almost looks sickly.  His equipment was once
+first rate but has aged quite a bit.  His demeanor is dank and he is
+generally nasty not quite the typical gnome at all.  He keeps mumbling
+about being lost in the desert for entirely too long.  Then continues
+with some ravings about finding this damned hole in the ground but
+maybe is better than dying of thirst.    
+~
+624654 0 0 0 34080848 2 0 0 -100 E
+133 115 -60 1d1+350 16d16+88
+3700 1220501
+8 8 2
+BareHandAttack: 11
+Str: 25
+Dex: 25
+Int: 24
+Wis: 17
+Con: 10
+Cha: 6
+Luck: 13
+Class: 3
+Race: 17
+E
+#19508
+plant monster trap~
+the horrible Plant Monster~
+One of the thick leathery plants has fallen into the trail here.
+~
+Looking at the plant you see that it seems to be slightly different
+than the ones which line the trail.  Looking closer you notice the
+plant move.  Now you are really studying the plant and notice that the
+plant is also watching you, you wonder what it is thinking as it
+lashes out at you with its leathery appendages.    
+~
+67338266 0 0 0 33556560 131072 0 0 0 E
+102 79 -40 1d1+350 9d10+68
+0 620364
+8 8 0
+BareHandAttack: 2
+Str: 7
+Dex: 12
+Int: 9
+Wis: 23
+Con: 13
+Cha: 17
+Luck: 6
+Race: 26
+E
+#19509
+green knight man~
+the Green Knight~
+A large man wearing platemail and holding a green shield is standing here.
+~
+You look closely at the man and realize he is a knight, you surmise
+that perhaps he is the green knight as his coat of arms is a unbroken
+field of green.  He is armed with a deadly looking flail and has a
+short sword slung diagonally across his broad back.  He does not even
+seem to notice your stare.    
+~
+645146 0 0 0 570427728 0 0 0 500 E
+150 136 -60 1d1+400 20d20+100
+5000 1824490
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 10
+Int: 6
+Wis: 14
+Con: 8
+Cha: 24
+Luck: 21
+Class: 4
+Race: 14
+E
+#19510
+black knight woman~
+the Black Knight~
+A knight stands here covered in black plate contemplating your worth.
+~
+You are looking at a fierce looking warrior covered in black plate.  It
+is impossible to tell much about this knight because it maintains its
+armor and helm even while in camp.  You can tell by the knights actions
+that this person makes no unneccessary action and seems to think he or
+she is above the conversation that wages around them.
+~
+710682 0 0 0 100679952 0 0 0 -500 E
+150 136 -60 1d1+500 20d20+100
+5000 1907421
+8 8 2
+BareHandAttack: 3
+Str: 12
+Dex: 17
+Int: 6
+Wis: 23
+Con: 10
+Cha: 17
+Luck: 19
+Class: 9
+Race: 14
+E
+#19511
+skeleton warrior~
+a Skeleton Warrior~
+A skeleton warrior stands here.
+~
+The foot bone is connected to the leg bone!  The leg bone is connected
+to the thigh bone!  The thigh bone is connect to the back bone.....  
+~
+38984 0 0 0 2112 0 0 0 -200 E
+130 111 -60 1d1+500 15d16+86
+3500 1151521
+8 8 0
+BareHandAttack: 7
+Str: 20
+Dex: 12
+Int: 13
+Wis: 8
+Con: 18
+Cha: 19
+Luck: 24
+Class: 4
+Race: 6
+E
+#19512
+ghoul~
+a Ghoul~
+A ghoul hovers about.
+~
+A tattered cloak with a glowing set of eyeballs sit where the head
+should normally be.    
+~
+233592 0 0 0 8390736 0 0 0 -200 E
+130 111 -60 1d1+500 15d16+86
+0 1151521
+8 8 0
+BareHandAttack: 16
+Str: 24
+Dex: 13
+Int: 15
+Wis: 8
+Con: 14
+Cha: 13
+Luck: 16
+Class: 1
+Race: 49
+E
+#19513
+ghost~
+a Ghost~
+A ghost floats about.
+~
+The ghost is opaque in appearance and moans about frightfully.
+~
+233560 0 0 0 8390736 0 0 0 -100 E
+125 105 -60 1d1+350 15d15+83
+0 1041926
+8 8 0
+BareHandAttack: 12
+Str: 18
+Dex: 25
+Int: 19
+Wis: 16
+Con: 7
+Cha: 5
+Luck: 21
+Race: 34
+E
+#19514
+wraith~
+a Wraith~
+A wraith looks around for something to kill.
+~
+An evil, shadowy form that likes to bring havok...enuf said!
+~
+231544 0 0 0 8390736 0 0 0 0 E
+134 116 -60 1d1+400 16d16+89
+0 1244038
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 14
+Int: 7
+Wis: 9
+Con: 22
+Cha: 24
+Luck: 19
+Class: 1
+Race: 49
+E
+#19515
+man pumpkin head~
+a Pumpkin Head~
+A man with a huge pumpkin for a head walks around.
+~
+This man is obviously derranged, as evidenced by his incoherent
+babbling and wearing carved-out pumpkin on his head.    
+~
+7772 0 0 0 33554520 2 0 0 0 E
+123 103 -60 1d1+350 14d15+82
+3500 999941
+8 8 0
+Str: 9
+Int: 6
+Wis: 12
+Con: 22
+Cha: 13
+Luck: 15
+Class: 4
+Race: 7
+E
+#19516
+balrog small~
+a small Balrog~
+A small balrog feasts upon the dead.
+~
+The balrog is a small demon of some sort.  It smiles a toothy grin
+upon seeing you and returns back to feeding.    
+~
+531978 0 0 0 33556488 0 0 0 -600 E
+140 124 -60 1d1+600 17d17+93
+4200 1391050
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 9
+Int: 9
+Wis: 12
+Con: 6
+Cha: 6
+Luck: 6
+Class: 8
+Race: 51
+E
+#19517
+soldier crusader~
+a Crusader Soldier~
+A crusader soldier stands here, slaying the undead.
+~
+You are looking a soldier, well disciplined, well armed and armored.
+He also seems to be very stotic in his reaction to your examination.
+His scars alone would be enough to scare children with couple this
+with his weaponry and self assured stance and you find yourself
+wondering how tough you are.    
+~
+528456 0 0 0 80 0 0 0 500 E
+130 111 -60 1d1+350 15d16+86
+3500 1151521
+8 8 1
+BareHandAttack: 5
+Str: 23
+Dex: 8
+Int: 7
+Wis: 24
+Con: 17
+Cha: 18
+Luck: 18
+Class: 6
+Race: 14
+E
+#19518
+harpy zombie~
+a Harpy Zombie~
+A Harpy Zombie stands here, festing upon a corpse.
+~
+She is gross, having been dead for a few centuries hasn't helped her
+appearance at all.  Not only that, being a harpy doesn't make things
+better.    
+~
+83984414 0 0 0 8390736 131072 0 0 0 E
+136 119 -60 1d1+600 16d17+90
+0 1291935
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 16
+Int: 15
+Wis: 22
+Con: 7
+Cha: 7
+Luck: 20
+Class: 4
+Race: 6
+E
+#19519
+crusader cleric~
+a Crusader Cleric~
+A crusader cleric stands here, exorcizing the undead.
+~
+Her face is flushed with the heat of exhaustion from the hard work of
+exorcizing the undead.    
+~
+8395096 0 0 0 2072 0 0 0 1000 E
+125 105 -60 1d1+600 15d15+83
+3500 1041926
+8 8 2
+BareHandAttack: 13
+Str: 8
+Dex: 10
+Int: 16
+Wis: 6
+Con: 16
+Cha: 20
+Luck: 25
+Class: 2
+Race: 14
+E
+$

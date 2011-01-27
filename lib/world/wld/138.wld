@@ -1,0 +1,1840 @@
+#13800
+Riverhaven, River Road East~
+The town wall curves down to the river and extends out into it with
+the heavily-fortified Eastern Tower rising above to keep watch and to
+control the river traffic.  A small path passes beneath the tower's
+shadow and through a narrow gate, wandering along the barren riverbank
+and out of town.  A few boats are pulled up along the shore or bob
+gently in the current, tied to the many poles used to control river
+traffic.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13847 0
+D1
+~
+Gate~
+1 0 13802 1
+D3
+~
+~
+0 0 13801 0
+S
+#13801
+Riverhaven, River Road East~
+The store-yards of Natron, the local Salt-seller, rise along the north
+side of the road.  Huge piles of sea salt, brought up the weary miles
+by barge, lie protected under canvas covers to keep off the rain.  
+The riverbank has been despoiled by the briny run-off and little
+survives there.  Even the pier is eaten away by the salt.  The wood
+looks ready to crumble at a touch.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13841 0
+D1
+~
+~
+0 0 13800 0
+D3
+~
+~
+0 0 13803 0
+S
+#13802
+Riverhaven Exterior, Southeast Gate~
+The lanes outside the eastern gate of Riverhaven are crowded with the
+bustle of street peddlers and merchant wagons coming and going in a
+great rush to sell their wares.  Beggars line the paved road, aware
+that the more influential and wealthy folks use this gate.  They
+hover, hands extended, hoping that a moment of kindness and charity
+might befall them.  A stone bridge that once provided passage across
+the river is now little more than a crumbling stone pier used by some
+local fishermen.    
+~
+138 32772 0 0 0 0
+D0
+~
+-1~
+0 0 13883 0
+D2
+~
+~
+0 0 13884 0
+D3
+Nothing.
+~
+Gate~
+1 0 13800 3
+S
+#13803
+Riverhaven, River Road East~
+Set smack amidst the smokehouses and drying racks of the fishing
+industry is the Saltfisher Inn, run by a local family, it is the one
+bright spot in this drear commercial area.  The center of social life
+for the workingfolk of the area, the tavern makes a noble effort to
+have good food and drink on call at all hours.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13806 0
+D1
+~
+~
+0 0 13801 0
+D2
+~
+Door To the Inn~
+1 0 13804 3
+D3
+~
+~
+0 0 13805 0
+S
+#13804
+Saltfisher Inn~
+The furnishings of this overnight room are sparse but clean.  A worn
+washbasin with several simple cotton towels folded neatly upon it sits
+in one corner, available for use by those long-term residents who live
+beyond the doors lining each wall.  Unfortunately, even here the smell
+of fish manages to filter through.    
+~
+138 32768 0 0 0 0
+D0
+~
+door~
+1 0 13803 3
+S
+#13805
+Riverhaven, River Road East~
+Flies buzz about you, thick and annoying, as they swarm over the piles
+of fish guts and scales that are heaped along the gutter.  Fish
+processing of all kinds dominates the east end of town, and despite
+valiant civic efforts to keep the place clean, the stench is
+appalling.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13803 0
+D3
+~
+~
+0 0 13808 0
+S
+#13806
+Riverhaven, Crescent Way~
+The busy River Road runs by to the south, but here the narrow lane is
+quiet and deserted.  Damp fog tickles heavily along the ground,
+obscuring the rough cobbles and occasional fish head.  Somewhere the
+iron-shod footsteps of a guard can be heard, slowly pacing some dark
+path.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13807 0
+D2
+~
+~
+0 0 13803 0
+S
+#13807
+Riverhaven, Crescent Way~
+The ground is littered with smashed fish and bits of torn netting.  A
+few benches and a large balance scale show where, in the daytime, a
+small open-air market exists.  Nearby, a large dray with heavy wooden
+sides raised high sits, it's horses nowhere to be seen.  You also see
+a small wooden
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13843 0
+D2
+~
+~
+0 0 13806 0
+S
+#13808
+Riverhaven, River Road East~
+The reek of fish hangs heavy in the air as you pass among several
+small fish-processing plants.  Racks of salted fillets lie in neat
+rows, waiting their turn in the smokehouses.  The area is a magnet for
+half the cats in the Province it seems, and you can barely move
+without treading on a tail or tripping over some speeding tabby making
+off with a mullet as prize.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13805 0
+D3
+~
+~
+0 0 13809 0
+S
+#13809
+Riverhaven, River Road East~
+The river road passes among a jumble of small private warehouses and
+wharfage east of the town's center.  Numerous small offices and even a
+few well-kept homes line the northern side of the road.  Watchmen
+abound here, each in the livery of some trading house or shipping
+company.  They keep a cool eye on loiterers and those who seem to have
+no noticeable business.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13808 0
+D2
+~
+~
+0 0 13852 0
+D3
+~
+~
+0 0 13810 0
+S
+#13810
+Riverhaven, Town Hall Road~
+The finest Inn of the region dwells here, near the center of town.  
+The Pierless Inn as locals know it, rises some three stories in stone
+and timberwork.  Both private and public dining can be held in this
+fabulous Inn.  Sleeping accommodations range from the simple but clean
+to several elegant suites worthy of an aristocrat.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13809 0
+D3
+~
+~
+0 0 13811 0
+S
+#13811
+/cWRiverhaven, Town Square/c0~
+Here and there, benches for the public's use are set out under shady
+trees, and you can often find an old retired merchant or river captain
+taking his ease and watching the passing tide of people.  You feel at
+home in the ceter of the large town of Riverhaven people seem to come
+from all over the realm to converge and discuss issues concering the
+well being of the symbolic town people like to call Riverhaven.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13829 0
+D1
+~
+~
+0 0 13810 0
+D3
+~
+~
+0 0 13812 0
+D4
+~
+~
+0 0 13897 16
+S
+#13812
+Riverhaven, Town Hall Road~
+The road skirts both the Town Square and the Ranger's Guild as it
+passes through the center of town.  The tall signal tower of City Hall
+rises like the spire of some Temple.  The elegant facade of the
+Guildhall beams down on these activities with a proprietary air.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13898 0
+D1
+~
+~
+0 0 13811 0
+D2
+~
+door~
+1 0 13853 1
+D3
+~
+~
+0 0 13813 0
+S
+#13813
+Riverhaven, River Road West~
+A cluster of fine shops entices the well-to-do townsfolk to come in
+and browse.  Several shopgirls stand together outside one store
+decorated with ribbons and bows, apparently on their break.  They
+chatter amongst themselves and pass judgement on the fitness of
+various males passing by with whistles of approbation or giggles of
+amusement at some pot-bellied merchant wearing something that would be
+fashionable on anyone but him.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13812 0
+D2
+~
+door~
+1 0 13866 1
+D3
+~
+~
+0 0 13814 0
+S
+#13814
+Riverhaven, River Road West~
+A small cluster of shops forms a wider spot on the river road.  
+Displacing the drab warehouses, the brightly-painted stores beckon the
+passerby to turn aside from mundane cares and enjoy life.  A line of
+children stand, noses pressed against the mullioned windows, outside
+what can only be a bakery, judging by the heavy scent of cinnamon and
+other sweet spices that floats on the air.  You feel rather tempted to
+join the eager row of hungry faces and see what treats reside within.
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13813 0
+D2
+~
+door~
+1 0 13854 3
+D3
+~
+~
+0 0 13815 0
+S
+#13815
+Riverhaven, River Road West~
+Midway between the western watch tower and the center of town, the
+road bustles with traffic of all sorts.  Horse-drawn wagons vie with
+overstuffed handcarts, while porters elbo w their way between
+fishermen hauling baskets of fish.  Underfoot, urchins scoot and
+skitter in endless complex games beyond the grasp of the heedless
+adults around them.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13824 0
+D1
+~
+~
+0 0 13814 0
+D2
+~
+door~
+1 0 13855 3
+D3
+~
+~
+0 0 13816 0
+S
+#13816
+Riverhaven, River Road West~
+The smell of good food wars with the eternal odor of salt fish in the
+air and finally wins out.  A half-timbered tavern on the north side of
+the road seems to be the source of the pleasant aromas.  A group of
+people are gathered on benches beneath the overhanging second story,
+enjoying the spectacle of the busy street while quaffing enormous mugs
+of the local brew and downing large portions of edibles.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13815 0
+D3
+~
+~
+0 0 13817 0
+S
+#13817
+Riverhaven, River Road West~
+Small warehouses belonging to minor Traders dot the southern side of
+the road fronting on the river itself.  Heavy wagons pulled by
+enormous draft animals crawl by, raising a cloud of dust and salt.  
+Sever al children dart in and out among the carts, unheeding of the
+danger of hoof and wheel as they play tag or hop onto the carts'
+rigging for a ride.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13816 0
+D3
+~
+~
+0 0 13818 0
+S
+#13818
+Riverhaven, River Road West~
+The wooden palisade of the town wall runs down into the river, ending
+in the West Tower.  A narrow gate allows exit from the town into the
+countryside.  South of the road, a narrow strip of muddy ground
+surrounds numerous shanties where the local fishermen draw up their
+boats and work on their nets.  Small but well-kept houses line the
+northern side of the road where some of the more prosperous fisherfolk
+dwell.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13820 0
+D1
+~
+~
+0 0 13817 0
+D3
+~
+Gate~
+1 0 13819 3
+S
+#13819
+Riverhaven Exterior, Southwest Gate~
+A narrow gate leads through the fortified wall here, providing
+travelers with access to the town.  Too small for wagons, this area's
+peacefulness is shattered only by the occasional hoof-beat.  Through
+the gate can be viewed a mixed selection of dwellings.  To the south a
+guard stands in a tower carefully watching the horizon, ready to sound
+the alarm if needed.  A wide, well traveled path heads off to the
+northwest.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13886 0
+D1
+~
+Gate~
+1 13899 13818 7
+D2
+~
+~
+0 0 13885 0
+D3
+~
+~
+0 0 552 0
+S
+#13820
+Riverhaven, Ring Road West~
+South of here, the road runs down to River Road and the river itself.
+A few houses are scattered about, looking a bit shabby and mildly
+unkempt.  The damp river smell mingles with the odor of fish in a
+slightly noisome mix.  The one outstanding feature here is the store
+front of Ioun's pawnshop.  Resembling the aftermath of an explosion in
+a dry goods warehouse, you see everything from the newest in wares, to
+items only your grandfather would use.  You also see the entrance to
+Noel's Arms.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13821 0
+D1
+~
+~
+0 0 13857 0
+D2
+~
+~
+0 0 13818 0
+D3
+~
+~
+0 0 13856 0
+S
+#13821
+Riverhaven, Ring Road West~
+A small series of very elegant shops line the inner curve of the
+roadway.  A jeweler and furrier seem to be the major attraction here.
+Several well-dressed ladies gaze wistfu lly at the expensive displays
+in the windows.  Two prosperous-looking Dwarves talk in low guttural
+voices while examining a shipment of furs packed onto a small mule.  
+You also see the gem shop .
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13823 0
+D2
+~
+~
+0 0 13820 0
+D3
+~
+~
+0 0 13858 0
+S
+#13822
+Riverhaven, Ring Road West~
+Ring Road meets Silvermoon Road in a quiet intersection.  A nearby
+tavern attracts the local students and the occasional householder from
+the residential areas all about.  A tall guard tower surmounts the
+outer wall of the town, and you can spot the helmed head of a
+guardsman walking his post on the parapet.  There is a narrow ladder
+leading up to the northwest lookout.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13867 0
+D2
+~
+~
+0 0 13823 0
+D4
+~
+~
+0 0 13860 0
+S
+#13823
+Riverhaven, Ring Road West~
+Houses here are elegant and large.  Set into gemlike lawns, these
+almost-mansions belong to the elite of the local Traders.  Servants
+work incessantly, pruning the green lawns and keeping the gardens and
+pathways free of weeds.  Frequent patrols of guards assure the
+serenity and safety of the residents.  You also see a spacious
+ebony-gabled manor and a tiny shop tucked up neatly against the brick
+fence of a particularly large residence.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13822 0
+D2
+~
+~
+0 0 13821 0
+D3
+~
+~
+0 0 13859 0
+S
+#13824
+Riverhaven, Crescent Way~
+The nearby hustle and bustle of River Road is muted and seems
+curiously distant for its only being a few steps away.  The stout
+backsides of stone warehouses bulk large against the sky and make this
+narrow lane feel even smaller than it seems.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13825 0
+D2
+~
+~
+0 0 13815 0
+S
+#13825
+Riverhaven, Crescent Way~
+The narrow lane has widened here into a small open lot, forgotten
+behind the windowless backs of buildings facing out onto the main
+roads.  A few shanties and patched tents have been set up by
+squatters.  The smell of garbage and worse flows out from fly-ridden
+piles of refuse.  A bony dog snarls at a grossly fat pig as they argue
+over some squalid bit of food.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13826 0
+D2
+~
+~
+0 0 13824 0
+S
+#13826
+Riverhaven, Crescent Way~
+The road, almost a lane, is narrow and choked with heaps of garbage
+and broken bits of debris.  The defeated and the poor, forgotten by
+the town, huddle in dirt and misery.  Even the most prosperous city
+has its misfits and failures.  Few here even look up as you pass by.
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13827 0
+D2
+~
+~
+0 0 13825 0
+S
+#13827
+Riverhaven, Crescent Way~
+The mud-caked lane crosses the far more prosperous and busy Silvermoon
+Road.  A few beggars sit or hobble around, alms bowls extended.  High
+wooden fences protect a few houses along the larger road from the
+denizens of this trade.  You notice the armory off to the west.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13828 0
+D2
+~
+~
+0 0 13826 0
+D3
+~
+~
+0 0 13861 0
+S
+#13828
+Riverhaven, Silvermoon Road~
+The small shops and buildings of the local clans of the Halflings give
+way gradually to larger establishments of the northwest.  A vendor of
+fish sauces haggles with a housewife over her back fence, while a
+small passel of children play at her feet.  A nearby crossroads lead
+at an angle off into the back alleys and byways of town.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13842 0
+D2
+~
+~
+0 0 13827 0
+S
+#13829
+Riverhaven, Town Hall Road~
+This short arc of roadway connects the eastern and western halves of
+town.  The smooth style of the Town hall is echoed in the curving
+roadway, paved with granite stones flecked with brighter bits of
+crystal.  Heavy traffic of all sorts converges here at the mercantile
+and social center of Riverhaven.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13830 0
+D2
+~
+~
+0 0 13811 0
+S
+#13830
+Riverhaven, Theren Way~
+Running straight as an arrow, Theren Way leads from Town Hall to the
+Gate of Nobles at the north end of town.  Heavy stone paving makes
+smooth road for the heavily-laden wagons and other traffic that
+throngs it all hours.  Houses of the well-to-do line both sides with
+large gardens.  This is the heart of a prosperous, well-ordered
+community and the frequent patrols of armed men prefer to keep it that
+way.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13831 0
+D2
+~
+~
+0 0 13829 0
+S
+#13831
+Riverhaven, Theren Way~
+The sturdy, almost stolid facade of the Bank of Riverhaven faces the
+busy roadway along the west side of the street.  A wide portico of
+ultramarine-hued marble ranges along the front of this massive
+building.  Open at all times for the convenience of Traders and other
+merchants, the bank has a constant stream of patrons passing through
+its wide portals.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13832 0
+D2
+~
+~
+0 0 13830 0
+S
+#13832
+Riverhaven, Theren Way~
+Close-set but elegant row-houses line the street along both sides.  
+Many of the dwellings give out a cheerful glow of warm light through
+curtained windows.  Someone, somewhere, is playing a haunting ballad
+on a dulcimer, and elsewhere you hear the muted conversation and
+laughter of a party.  Lamps set on high poles shed a soft light over
+the street as the occasional late traveler passes you.  Faint wisps of
+fog ghost along the ground from the direction of the riverfront.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13833 0
+D2
+~
+~
+0 0 13831 0
+D3
+~
+~
+0 0 13862 0
+S
+#13833
+Riverhaven, Theren Way~
+To the north, the high wooden palisade of the town wall looms.  
+Nearer, small shops and stores do a brisk business.  From one of the
+large storefronts with many open windows comes the sound of an
+arrowhead being sharpened.  A smile comes to your face as you wonder
+if this is where the infamous Matello The Ranger presides.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13834 0
+D2
+~
+~
+0 0 13832 0
+D3
+~
+~
+0 0 13863 0
+S
+#13834
+Riverhaven, Crescent Way~
+Theren Way crosses here, a busy road leading into the heart of town.
+A low stone wall, painted a gentle cream color, marks off the grounds
+of the Cleric Guild to the Northwest.  The soothing smell of healing
+herbs washes away the odors of the town, leaving your mind feeling
+free and at ease with itself.  The dirt and squalor of this back-road
+vanish into well-kept stone pavers and neatly trimmed hedges along
+both sides.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13835 0
+D1
+~
+~
+0 0 13839 0
+D2
+~
+~
+0 0 13833 0
+D3
+~
+~
+0 0 13840 0
+S
+#13835
+Riverhaven, Theren Way~
+Two buildings built of cream and pink marble face each other across
+the road.  One is the Cleric Guild, the other the Riverhaven Hospital.
+Both are built with wide porches like inviting arms to welcome the
+sick, the suffering, and those who heal them.  The air is fresh and
+clean-smelling, and the twin houses of healing gleam from frequent
+scrubbing of the stonework.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13836 0
+D1
+~
+~
+0 0 13880 0
+D2
+~
+~
+0 0 13834 0
+D3
+~
+~
+0 0 13864 0
+S
+#13836
+Riverhaven, Theren Way~
+A direct contrast to the Cleric guild to the south, The DarkKnight
+guild is painted a flak black color.  A sign is hung here reading,
+"Death to those who seek light!  ".    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13837 0
+D2
+~
+~
+0 0 13835 0
+D3
+~
+~
+0 0 13865 0
+S
+#13837
+Riverhaven, Theren Way~
+The paladin guild door is to the East.  The door is made of a solid
+inpenetrable metal - probably the same material they make their armor
+from.  The guild hall looks as if it is filled with tradition and
+honor.  You also see the North Gate.    
+~
+138 32768 0 0 0 0
+D0
+~
+Gate~
+1 0 13838 3
+D1
+~
+~
+0 0 13879 0
+D2
+~
+~
+0 0 13836 0
+D3
+~
+~
+0 0 13894 0
+S
+#13838
+Riverhaven, Outside North Gate~
+The great North Gate guards the entrance to the town of Riverhaven.  
+Guards lounge nearby, leaning on their pikes but still managing to
+keep a wary eye on people passing their post.    
+~
+138 32768 0 0 0 0
+D2
+~
+Gate~
+1 0 13837 3
+S
+#13839
+Riverhaven, Crescent Way~
+The Sorcerer Guild gleams in the darkness of night.  It is painted
+with electrifying, neon colors.  You sense a great deal of arcane
+energy running through the building.    
+~
+138 32768 0 0 0 0
+D3
+~
+~
+0 0 13834 0
+S
+#13840
+Riverhaven, Crescent Way~
+In the darkness of night, this lane is quiet and still.  A heavy dew
+affords a reflection of even the slightest light, off anything with a
+flat surface.  In the silence of night, every step you take sounds
+like a shouting . You see the Monk's Guild directly to your West.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13834 0
+S
+#13841
+Riverhaven, Natron's Workyard~
+A mountain of salt rises beneath a tattered canvas tarp.  Natron
+appears to be in the business of making wholesale piles into retail
+piles.  Bare-chested workers stand, knee-deep or worse, using heavy
+shovels to ladle mounds of the heavy white crystals into large burlap
+sacks that are then hauled away by still more sweating laborers.  A
+surly foreman glares at you as if waiting to see if you plan to work
+or gawk.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 13801 0
+D3
+~
+~
+0 0 -1 0
+S
+#13842
+Riverhaven, Halfling Quarter~
+Vibrant, though minute, garden plots run alongside the tiny round
+homes here.  Even in this bustling town the will, and the constant
+hunger, of the gardening Halfling cannot be suppressed.  You also see
+an extremely ratty looking Halfling home.    
+~
+138 32768 0 0 0 0
+D3
+~
+~
+0 0 13828 0
+S
+#13843
+Riverhaven, Blackmoon Road~
+Neat row houses nestle together along both sides of the road.  
+White-washed and simple, they each have a yard, many strewn with the
+toys and other play-things of the children who prowl these streets by
+day.  The momentary glow of a pipe catches your eye, causing you to
+notice a lone individual sitting in the shadow of a porch, enjoying
+the silence of the evening.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13844 0
+D2
+~
+~
+0 0 13807 0
+D3
+~
+~
+0 0 13877 0
+D5
+~
+~
+0 0 -1 0
+S
+#13844
+Riverhaven, Crescent Way~
+The gentle scent of baking bread rides the night air and vanquishes
+both rivermud and salt fish completely for a time.  The open door and
+windows of a cheerful bakery beckon warmly to those passing by to come
+in and sample the wares.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13845 0
+D2
+~
+~
+0 0 13843 0
+S
+#13845
+Riverhaven, Crescent Way~
+The road passes amongst huge dark shapes.  A lantern flickers on a
+pole set amongst many vats of fish, pickling in brine and spices.  A
+watchman paces among them, keeping an eye on the place.  Cats skulk
+among the dancing shadows like tiny ghosts.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13846 0
+D2
+~
+~
+0 0 13844 0
+S
+#13846
+Riverhaven, Crescent Way~
+Low walls allow a glimpse into the yards of small businesses and
+workshops.  The heavy odor of heated metal still lingers in the dewy
+air, drifting from a small shop before you.  However, the absence of
+hearing an anvil being pounded assures you the workmen are at home
+with their families for the night.  The lane is now devoid of activity
+as silence befalls the area.  You also see a warehouse entrance with
+some thief graffity written on the side of it.    
+~
+138 32768 0 0 0 0
+D2
+~
+~
+0 0 13845 0
+S
+#13847
+Riverhaven, Ring Road East~
+The ring road meets the bitter end of the river road here at the point
+where the town wall runs out into the river to the brooding Eastern
+Tower.  A commercial salt vendor dominates the area, white mounds of
+glittering crystals piled high like a miniature mountain range.    
+~
+138 32772 0 0 0 0
+D0
+~
+~
+0 0 13848 0
+D2
+~
+~
+0 0 13800 0
+S
+#13848
+Riverhaven, Ring Road East~
+Several fish-drying sheds assault your nose with the intensity of
+their efforts.  One, worse even than the others, appears to specialize
+in some form of pickled fish mixed with some pungent herb or spice
+that settles into your nose as if it intended to dwell there.  You
+wonder how the guards in the Eastern Tower, set in the river at the
+end of the town wall to the south, survive it.  It does seem to have
+the minor virtue of driving off the blood flies that infest the
+river's edge.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13849 0
+D2
+~
+~
+0 0 13847 0
+S
+#13849
+Riverhaven, Ring Road East~
+The unmistakable smell of salt mingled with drying fish warns you of
+the proximity of the main product of the town.  To the south, the
+smell increases as you approach the river.  A few rooming houses and
+seedy cottages straggle along the road, their paint long worn off,
+exposing the bare wood to the ruinous effects of the salt-laden wind.
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13850 0
+D2
+~
+~
+0 0 13848 0
+S
+#13850
+Riverhaven, Ring Road East~
+A gang of sweating and cursing Dwarves is working on repairs to the
+town wall.  Several timbers, even though formed of solid iron-wood,
+have been infested with dry rot and are being replaced.  Several
+Giants wait to set another heavy beam upright in the stone socket
+being prepared for it.  Many of the laborers appear to have come from
+the nearby jail, to judge by their leg-irons and bored expressions.  
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13851 0
+D2
+~
+~
+0 0 13849 0
+S
+#13851
+Riverhaven, Ring Road East~
+Something has snarled traffic as carts and pedestrians jumble together
+in a confusing tangle.  A harried watchman tries to keep everything
+moving, but the clog seems an inseparable part of the roadway.  
+Several street urchins take the opportunity to lift some fruit from a
+passing cart, while the driver argues the right of way with a pair of
+liveried servants carrying a curtained sedan chair on poles.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13881 0
+D2
+~
+~
+0 0 13850 0
+D3
+~
+~
+0 0 13871 0
+S
+#13852
+Riverhaven Dump~
+One of the less beautful sites in Riverhaven, the dump is a place for
+the needy and less fortunate.  Aristocrats often come by to donate and
+drop belongings they no longer need.    
+~
+138 34868 0 0 0 0
+D0
+~
+~
+0 0 13809 0
+S
+#13853
+The Ranger Guild~
+Vines adorn the walls of this guild.  You swear that you hear sounds
+of the jungle ecoing through your ears but then assure yourself you
+are hearing things.    
+~
+138 32768 0 0 0 0
+D0
+~
+door~
+1 0 13812 1
+S
+#13854
+Lokthal's Bakery Shop, Salesroom~
+You begin to salivate freely as your eyes take in the pastries and
+confections arranged before you.  A small dwarven child rushes in and
+immediatly places his face against the glass of a nearby display that
+holds a luscious yellow and white funnel cake.  Lokthal is busy mixing
+together ingredients for some sweet concoction and every now and then
+takes a lick from his fingers in glee.    
+~
+138 32788 0 0 0 0
+D0
+~
+door~
+1 0 13814 1
+S
+#13855
+Enfermine's Dry Goods, Showroom~
+Neat and tidy is the only way to describe Enfermine's shop of goods.
+Everything in its place and a place for everything keeps repeating in
+your mind.  Row upon row of items needed for the traveler are stacked
+in good order all around you.  Leaning across the counter in
+anticipation of a quick sale, Enfermine trys to gauge your net worth
+so as to receive the highest profit possible from you.    
+~
+138 32788 0 0 0 0
+D0
+~
+door~
+1 0 13815 1
+S
+#13856
+Riverhaven, Ioun's Pawn~
+Nothing in your lifetime has prepared you for the clutter you
+encounter in this shop.  Not a single hint of organization meets the
+eye.  Looking behind the counter you see an assortment of items that
+span the gambit from antique to brand new.  Dust is so thick on some
+of the older items that it is difficult to make out any color.  You
+kick yourself a path to the counter and are startled by Ioun, the shop
+owner, who was hidden by a stack of items on the counter.    
+~
+138 32788 0 0 0 0
+D1
+~
+~
+0 0 13820 0
+D3
+~
+~
+0 0 -1 0
+S
+#13857
+Noel's Arms, Showroom~
+The weapon shop is a clean well-lit room with a green tiled floor and
+whitewashed walls.  A long wooden counter runs all along the back
+wall, blocking access to the open doorway leading into the workshop.
+Peering through the door, you can see apprentice swordsmiths engaged
+in a variety of tasks.  Some clean and polish weapons, another sits
+before a spinning stone wheel, carefully grinding a fine edge onto a
+rapier blade.    
+~
+138 32788 0 0 0 0
+D3
+~
+~
+0 0 13820 0
+S
+#13858
+Anthelorm's Gems and Curios~
+Your first glance at this elegant shop is confusing.  Instead of the
+expected cases and shelves of gleaming gemstones and expensive items,
+the room seems almost bare.  Only one table can be seen and that is
+small and simple.  On one wall is one small display case with only
+three items.  The lady of the shop bustles up to you in a rustle of
+crisp silks and a whiff of something exotic and smiles delicately.  
+~
+138 32788 0 0 0 0
+D1
+~
+~
+0 0 13821 0
+S
+#13859
+Cecelia's Blossoms, Showroom~
+The fragrances of sweet roses and spicy lavender intermingle, creating
+a heady perfume that fills this small shop.  Twisted vines, potted
+plants and brilliant floral arrangements completely hide the walls,
+creating a tropical jungle-like atmosphere.  The air feels heavy with
+humidity from the multitude of moisture-laden plants.  Cecelia, a
+willowy Elven woman, smiles at you from her side of an elaborately
+carved acanth wood counter.    
+~
+138 32788 0 0 0 0
+D1
+~
+~
+0 0 13823 0
+S
+#13860
+Riverhaven Guard Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven.  Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13822 0
+S
+#13861
+Seli's Armory, Sales Room~
+A masked figure, clad head to toe in black leather, stands alongside a
+scaled curtain dividing the front room from the workshop in back.  
+Only a little light filters into the room through the drawn window
+shades, lending the whole room a spooky, otherworldly feel.  Shadowy
+outlines along the walls reveal themselves on closer examination as
+pieces of leather armor hung for display.    
+~
+138 32788 0 0 0 0
+D1
+~
+~
+0 0 13827 0
+S
+#13862
+Bank~
+You notice it is a fine establishment with new tapestries hanging from
+the wall none like you have seen in your previous travels.  You hear
+the click of shoes on the greenish marble floor.  The sound of coins
+falling into the hand of a worker rings in your ear as you walk to the
+desk before you.  Oaken counters and golden fringes set you in a
+peacefull mind you wish you could always have.    
+~
+138 32784 0 0 0 0
+D1
+~
+~
+0 0 13832 0
+D3
+~
+~
+0 0 -1 0
+S
+#13863
+Ranger Shop~
+A small shack like room building for the Ranger guild impresses you
+with fine armors and weapons.  The ranger guild is the favored guild
+in the city of Riverhaven.  This building has been furnished with
+furniture made from the fine oak tree in the nearby forest.  Nothing
+to impressive or extensive was has been done here yet due to the fact
+of its lazy manager.    
+~
+138 32784 0 0 0 0
+D1
+~
+~
+0 0 13833 0
+S
+#13864
+Cleric Guild~
+This room is lit by a huge candle altar situated in the center of it.
+There is a rather large bookshelf in the corner of the room which is
+said to be the origin of all clerical spells.    
+~
+138 100 0 0 0 0
+D1
+~
+~
+0 0 13835 0
+S
+#13865
+Darknight Guild~
+A huge, solid-oak, rectangular table occupys a large portion of this
+room.  It is here that Darknights learn their evil characteristics.  
+~
+138 32820 0 0 0 0
+D1
+~
+~
+0 0 13836 0
+S
+#13866
+Alayle's Clothiers~
+Brightly colored silk veils hang down from the ceiling above you,
+forming a brilliant canopy overhead.  Rich velvet curtains hang from
+the shop's many windows, and the floor is covered in a soft thick rug.
+Several low tables are set about the room, piled with bolts of cloth
+and spools of decorative thread and ribbon.  You also see the shop
+owner Alayle.    
+~
+138 32788 0 0 0 0
+D0
+~
+door~
+1 0 13813 1
+S
+#13867
+Riverhaven, Silvermoon Road~
+Silvermoon Road seems an almost derelict path of dust and rutted
+cobbles where it joins the outer ring road.  A small tavern and a few
+nondescript residences seem oriented more towards the main road than
+this nearly deserted byway.  An old dog sleeps, undisturbed, in the
+middle of the road.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13868 0
+D3
+~
+~
+0 0 13822 0
+S
+#13868
+Riverhaven, Silvermoon Road~
+A few people hasten by you, studiously minding their own affairs.  
+The back walls of heavy stone buildings offer little in the way of
+distractions or life, and this part of town seems drab and bleak.  
+The cobblestone roadway is poorly maintained, with many pavers
+missing.  Stinking puddles of mud linger in low spots in the road.  
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13869 0
+D3
+~
+~
+0 0 13867 0
+S
+#13869
+Riverhaven, Silvermoon Road ~
+A curiously ordinary shop somehow catches your eye.  It tries so hard
+to look normal that your senses prick with curiosity.  You cannot
+quite decide just what is wrong with the place.  Perhaps it is the
+furtive look of the few people emerging from the shop, or the way the
+local guards seem to ignore the building pointedly.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13895 0
+D1
+~
+~
+0 0 13870 0
+D3
+~
+~
+0 0 13868 0
+S
+#13870
+Riverhaven, Silvermoon Road Deadend.~
+Silvermoon Road meets Crescent Way in a small crossroads.  A tangle of
+back alleys and side roads wanders off behind the houses and shops of
+town.  The traffic here is fainter, almost nonexistent and the sounds
+of life seem oddly muted.  Passers-by seem more hurried and keep a
+warier eye out than you have seen along the main roads of town.    
+~
+138 32768 0 0 0 0
+D3
+~
+~
+0 0 13869 0
+S
+#13871
+Riverhaven, Ring Road East~
+A row of small cottages, set close together, huddle in the deep
+shadows of the outer wall.  A few lights show through shuttered
+windows, but most folk here seem to have gone to bed.  The roadway
+passes close by the simple dwellings and you can hear a pair of
+snorers, one a deep bass and the other, a softer, higher note that
+somehow form an amusing harmony in the night air.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13851 0
+D3
+~
+~
+0 0 13872 0
+S
+#13872
+Riverhaven, Ring Road East~
+A small open field lies vacant under the night sky.  The dim glow from
+a watchman's lantern high on the outer wall shows a straggle of weeds
+and a few flowers, recently trampled, growing among piles of brick and
+stone left from a ruined building.    
+~
+138 32768 0 0 0 0
+D0
+~
+door~
+1 0 13873 17
+D1
+~
+~
+0 0 13871 0
+D3
+~
+~
+0 0 13874 0
+S
+#13873
+Thief's guild~
+This small, hidden building houses one of the largest thief
+populations in Dibrova.  A big sign is plastered on the wall.  It
+reads "You got the money honny, I got the skillz".    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 13872 0
+D3
+~
+~
+0 0 -1 0
+S
+#13874
+Riverhaven, Ring Road East~
+Even the late hour does little to diminish the commerce along this
+road.  A carter's yard is still open, workmen toiling under the
+uncertain flicker of reed torches and oil-lamps.  The pacing of the
+night guard, walking his lonely post along the outer side of the wall,
+echoes from the cobbled street.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13872 0
+D3
+~
+~
+0 0 13875 0
+S
+#13875
+Riverhaven, Ring Road East~
+This broad thoroughfare sweeps southeastward from the Gate of Nobles
+to the less lavish commercial districts of the town.  The high outer
+wall is solidly built of stone, topped with close-set iron-wood logs.
+Heavy draft animals labor to pull carts of goods up and down the
+roadway while foot traffic clings to the edges to avoid being
+trampled.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13874 0
+D3
+~
+~
+0 0 13876 0
+S
+#13876
+Riverhaven, Ring Road East~
+Even the late hour does little to diminish the commerce along this
+road.  A carter's yard is still open, workmen toiling under the
+uncertain flicker of reed torches and oil-lamps.  The pacing of the
+night guard, walking his lonely post along the outer side of the wall,
+echoes from the cobbled street.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13896 16
+D1
+~
+~
+0 0 13875 0
+S
+#13877
+Riverhaven, Blood Trail~
+Trails of dead animals and people have led you here.  To the west is
+the Gladiator Guild Cave.  Dare you step too close?    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13843 0
+D3
+~
+~
+0 0 13878 0
+S
+#13878
+Gladiator Guild~
+Nothing more than stalagmites and stalagtites, it doesn't look like
+the Gladiators spent much of their money on this sorry excuse for a
+guild head quarters.  Sad...  But..  Innovative!    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13877 0
+S
+#13879
+Paladin Guild~
+The paladin guild is humble to say the least.  A simple mat on the
+ground, a table for reading, and a sparring room are all that occupy
+this guildhall.    
+~
+138 116 0 0 0 0
+D3
+~
+~
+0 0 13837 0
+S
+#13880
+The Hospital~
+The hospital is a relatively clean place.  Its expense and location
+allow only the well-off citizens of Riverhaven to recieve their care.
+~
+138 262260 0 0 0 0
+D3
+~
+~
+0 0 13835 0
+S
+#13881
+Riverhaven, Below the northeast guard tower.~
+You are at the base of a guard tower.  Above you can here different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.  You are at the base of a guard tower.  Above you can hear
+different voices snickering as they ponder if they could, infact, hit
+you with a lougie from way up there.  You see a narrow ladder leading
+up to the tower.    
+~
+138 32768 0 0 0 0
+D2
+~
+~
+0 0 13851 0
+D3
+~
+~
+0 0 -1 0
+D4
+~
+~
+0 0 13882 0
+S
+#13882
+Riverhaven, Guard Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven.  Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 40960 0 0 0 0
+D5
+~
+~
+0 0 13881 0
+S
+#13883
+Base of a Watch Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D2
+~
+~
+0 0 13802 0
+D4
+~
+~
+0 0 13889 0
+S
+#13884
+Base of a Watch Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13802 0
+D4
+~
+~
+0 0 13890 0
+S
+#13885
+Base of a Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13819 0
+D4
+~
+~
+0 0 13888 0
+S
+#13886
+Base of a Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D2
+~
+~
+0 0 13819 0
+D4
+~
+~
+0 0 13887 0
+S
+#13887
+Watch Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13886 0
+S
+#13888
+Guard Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven.  Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13885 0
+S
+#13889
+Watch Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13883 0
+S
+#13890
+Watch Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13884 0
+S
+#13891
+Watch Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven.  Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13893 0
+S
+#13892
+Watch Tower~
+Up here on the tower you are surounded by four heavily armed guards.
+They stare intensely at the river surounding Riverhaven.  Looking into
+their eyes you notice a certain sadness.  Living isolated on a small
+island has taken a toll on their souls.    
+~
+138 32768 0 0 0 0
+D5
+~
+~
+0 0 13894 0
+S
+#13893
+Base of a Watch Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D2
+~
+~
+0 0 13894 0
+D4
+~
+~
+0 0 13891 0
+S
+#13894
+Base of a Watch Tower~
+You are at the base of a guard tower.  Above you can hear different
+voices snickering as they ponder if they could, infact, hit you with a
+lougie from way up there.  You see a narrow ladder leading up to the
+tower.    
+~
+138 32768 0 0 0 0
+D0
+~
+~
+0 0 13893 0
+D1
+~
+~
+0 0 13837 0
+D4
+~
+~
+0 0 13892 0
+S
+#13895
+Zanthron's Artificer Shop, Salesroom~
+You flinch as you feel slight shocks of static running up your arm
+while standing in Zanthron's shop.  A purple and black tapestry hangs
+in the back of the shop while glass display cases of miniature animals
+sit on shelves arranged haphazardly on another wall.  Zanthron herself
+sits on a stool behind the counter scowling at a runestone and
+muttering arcane phrases as if looking for an opening in the stone.  
+~
+138 32788 0 0 0 0
+D2
+~
+~
+0 0 13869 0
+S
+#13896
+Magic Shop~
+A small and secluded shop the beads hit your face as you pass through
+the entrance.  You are bombarded by the scent of incense and oils .
+Before you is Ishamael the Dwarven Mage selling you potions from afar.
+He is crouched behind a small table on the floor meditating.    
+~
+138 32788 0 0 0 0
+D2
+~
+~
+0 0 13876 0
+D4
+~
+~
+0 0 -1 0
+S
+#13897
+Hide Away~
+Nothing much here just a small room hidden away from the bustling city
+below.  There is a couple of chairs here so you can sit and relax.  
+~
+138 65636 0 0 0 0
+D5
+~
+~
+0 0 13811 0
+S
+#13898
+Riverhaven Social-Board Chamber~
+It is here that the people of Riverhaven converge to gossip and find
+out the news.  . .Should the city ever be invaded it is here that the
+people will take refuge and find out the happenings.    
+~
+138 32772 0 0 0 0
+D2
+~
+~
+0 0 13812 0
+D3
+~
+~
+0 0 13899 0
+S
+#13899
+/cGThe Quest Room for the Hopefull's/c0~
+A massive room where all come to unite for one purpose of capturing
+lost objects....  You like most come to get informed on the many
+quests held in the realms.  While looking around you notice the long
+flowing silk curtains that cover the walls.  The citizens of
+Riverhaven wish you luck in your questing.    
+~
+138 32768 0 0 0 0
+D1
+~
+~
+0 0 13898 0
+S
+$~

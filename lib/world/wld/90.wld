@@ -1,0 +1,933 @@
+#9001
+The Foothills~
+You stand in the foothills surrounding the Icy Mountain.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9002 0
+D2
+~
+~
+0 -1 9007 0
+D3
+~
+~
+0 0 3997 0
+S
+#9002
+The Foothills~
+You stand in the foothills of the Icy Mountain.  The mountain rises
+high towards the sky immediately south of here.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9003 0
+D3
+~
+~
+0 -1 9001 0
+S
+#9003
+The Foothills~
+You stand in the foothills of the Icy Mountain.  The mountain rises
+high towards the sky immediately south of here.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9004 0
+D3
+~
+~
+0 -1 9002 0
+S
+#9004
+The Foothills~
+You stand in the foothills of the Icy Mountain.  The mountain rises
+high towards the sky immediately south and west of here.    
+~
+90 0 0 0 0 4
+D2
+~
+~
+0 -1 9013 0
+D3
+~
+~
+0 -1 9003 0
+S
+#9005
+The Icy Mountain~
+The mountain trail ends here just beneath the top.    
+~
+90 4 0 0 0 5
+D2
+~
+~
+0 -1 9011 0
+S
+#9006
+The Ice Cave~
+You are inside the ice cave.  Some droppings, not too nice looking nor
+smelling, have been spilled in the centre of the cave.  Your basic
+knowlege of ichtyology tells you that this excrement does not relate
+to the elusive Otopharynx lithobates, but to something completely
+different.    
+~
+90 8 0 0 0 0
+D0
+~
+~
+0 0 98 16
+D2
+~
+~
+0 -1 9012 0
+S
+#9007
+The Foothills~
+You stand in the foothills of the Icy Mountain.  The mountain rises
+high towards the sky immediately east of here.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9001 0
+D2
+~
+~
+0 -1 9017 0
+S
+#9008
+The Icy Mountain~
+You are at a dead-end in the mountain.    
+~
+90 0 0 0 0 5
+D2
+~
+~
+0 -1 9014 0
+S
+#9009
+The Icy Mountain~
+You are at a dead-end in the mountain.    
+~
+90 0 0 0 0 5
+D1
+~
+~
+0 -1 9010 0
+S
+#9010
+The Icy Mountain~
+You are on a trail winding along the mountainside.    
+~
+90 0 0 0 0 5
+D1
+~
+~
+0 -1 9011 0
+D3
+~
+~
+0 -1 9009 0
+D5
+~
+~
+0 -1 9016 0
+S
+#9011
+The Icy Mountain~
+You are on a trail, still leading along the mountainside.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9005 0
+D1
+~
+~
+0 -1 9012 0
+D3
+~
+~
+0 -1 9010 0
+S
+#9012
+The Icy Mountain~
+You are on a trail in the mountain.  North of here is a cavern, which
+might lead to a cave.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9006 0
+D3
+~
+~
+0 -1 9011 0
+S
+#9013
+The Foothills~
+You are in the foothills surrounding the Icy Mountain, which rises
+towards the sky just west of you.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9004 0
+D2
+~
+~
+0 -1 9023 0
+S
+#9014
+The Icy Mountain~
+You are on a trail running along the mountainside.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9008 0
+D1
+~
+~
+0 -1 9015 0
+D2
+~
+~
+0 -1 9018 0
+S
+#9015
+The Icy Mountain~
+You are on a trail in the mountain.  The trail leads west and south.
+To your east is a crack in the mountain wall.    
+~
+90 0 0 0 0 5
+D1
+~
+~
+0 -1 9016 0
+D2
+~
+~
+0 -1 9019 0
+D3
+~
+~
+0 -1 9014 0
+S
+#9016
+The Icy Mountain~
+You are on a trail somewhere in this neverending mountain.    
+~
+90 0 0 0 0 5
+D2
+~
+~
+0 -1 9020 0
+D4
+~
+~
+0 -1 9010 0
+S
+#9017
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.  There is a
+mountain trail leading up along the side of the mountain east of you.
+  
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9007 0
+D1
+~
+~
+0 -1 9018 0
+D2
+~
+~
+0 -1 9024 0
+S
+#9018
+The Icy Mountain~
+You are on a mountain trail leading up along the moutainside.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9014 0
+D2
+~
+~
+0 -1 9025 0
+D3
+~
+~
+0 -1 9017 0
+S
+#9019
+The Icy Mountain~
+You are on a mountain trail leading up along the side of the mountain.
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9015 0
+D1
+~
+~
+0 -1 9020 0
+D2
+~
+~
+0 -1 9026 0
+S
+#9020
+The Icy Mountain~
+You are on a trail in the mountain.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9016 0
+D1
+~
+~
+0 -1 9021 0
+D3
+~
+~
+0 -1 9019 0
+S
+#9021
+The Icy Mountain~
+You are on a trail in the mountain.    
+~
+90 0 0 0 0 5
+D2
+~
+~
+0 -1 9028 0
+D3
+~
+~
+0 -1 9020 0
+S
+#9022
+The Icy Mountain~
+You are on a trail in the mountain.    
+~
+90 0 0 0 0 5
+D2
+~
+~
+0 -1 9030 0
+D3
+~
+~
+0 -1 9021 0
+S
+#9023
+The Foothills~
+You are in the foothills east of the Icy Mountain.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9013 0
+D2
+~
+~
+0 -1 9037 0
+S
+#9024
+The Foothills~
+You are in the foothills.  There is a mountain rising to your easthand
+side.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9017 0
+D1
+~
+~
+0 -1 9025 0
+S
+#9025
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.  There is a
+trail leading up the montain north of here.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9018 0
+D1
+~
+~
+0 -1 9026 0
+D2
+~
+~
+0 -1 9031 0
+D3
+~
+~
+0 -1 9024 0
+S
+#9026
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.  There is a
+path leading up along the mountainside north of you.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9019 0
+D1
+~
+~
+0 -1 9027 0
+D3
+~
+~
+0 -1 9025 0
+S
+#9027
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9028 0
+D3
+~
+~
+0 -1 9026 0
+S
+#9028
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9029 0
+D2
+~
+~
+0 -1 9034 0
+D3
+~
+~
+0 -1 9027 0
+S
+#9029
+The Foothills~
+You are in the foothills surrounding the Icy Mountain.    
+~
+90 0 0 0 0 4
+D2
+~
+~
+0 -1 9035 0
+D3
+~
+~
+0 -1 9028 0
+S
+#9030
+The Icy Mountain~
+You are on a trail winding along the mountainside.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9022 0
+D2
+~
+~
+0 -1 9036 0
+S
+#9031
+The Wasteland Hills~
+You are in some completely wasted, tiresome, boring and totally ugly
+hills.  There are some droppings left here.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9025 0
+D1
+~
+~
+0 -1 9032 0
+D2
+~
+~
+0 -1 9038 0
+E
+droppings~
+Looks pretty messy.
+~
+S
+#9032
+The Wasteland Hills~
+You are on a path leading through the wasted hills.  To the north you
+barely make out the contours of a pointy mountain and its foothills.
+  
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9033 0
+D2
+~
+~
+0 -1 9039 0
+S
+#9033
+The Wasteland Hills~
+You are on a path in the hills.  Apart from down to the south there is
+nothing but brown, dull and wasted hills surrounding you.    
+~
+90 0 0 0 0 4
+D1
+~
+~
+0 -1 9034 0
+D3
+~
+~
+0 -1 9032 0
+D5
+~
+~
+0 -1 9040 0
+S
+#9034
+The Wasteland Hills~
+You are on a path leading through the brown and wasted hills.  North
+of here you can barely make out the shape of a pointy mountain with
+some rather large foothills just in front of it.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9028 0
+D3
+~
+~
+0 -1 9033 0
+D5
+~
+~
+0 -1 9041 0
+S
+#9035
+The Foothills~
+You are in the foothills surrounding the mountainside.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9029 0
+D2
+~
+~
+0 -1 9042 0
+D3
+~
+~
+0 -1 9034 0
+S
+#9036
+The Icy Mountain~
+You are on a trail leading up the moutain.  There is some loose
+crabble lying on the ground.    
+~
+90 0 0 0 0 5
+D0
+~
+~
+0 -1 9030 0
+D2
+~
+~
+0 -1 9043 0
+E
+crabble~
+Yes it is just lying there of absolutely no use at all.
+~
+S
+#9037
+The Foothills~
+You are in the foothills surrounding the mountain.  A large claymore
+is lying on the ground here.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9023 0
+D2
+~
+~
+0 -1 9044 0
+E
+claymore~
+The more you look at it the more it vanishes, to your desperate 
+grief.
+~
+S
+#9038
+The Wasteland Hills~
+You are surrounded by smooth hills right in the middle of absolute
+nowhere.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9031 0
+D1
+~
+~
+0 -1 9039 0
+S
+#9039
+The Wasteland hills~
+You are on a little path leaing through the smooth, brown hills of
+complete waste.  Right beneath you is some wasteland fields.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9032 0
+D3
+~
+~
+0 -1 9038 0
+D5
+~
+~
+0 -1 9045 0
+S
+#9040
+The Wasteland Fields~
+You are on the wast, wasted fields in the middle of nowhere.    
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9041 0
+D4
+~
+~
+0 -1 9033 0
+S
+#9041
+The Wasteland Fields~
+You are on the vast, wasted fields in the middle of nowhere.  Above
+you is quite clearly some hills.    
+~
+90 0 0 0 0 2
+D2
+~
+~
+0 -1 9046 0
+D3
+~
+~
+0 -1 9040 0
+D4
+You see some utterly ugly and wasted hills.
+~
+~
+0 -1 9034 0
+S
+#9042
+The Foothills~
+You are in the foothills.  Where else?    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9035 0
+D1
+~
+~
+0 -1 9043 0
+S
+#9043
+The Foothills~
+You are in the foothills.  North of here a small path is finding its
+way up along the Icy Mountain.    
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9036 0
+D1
+~
+~
+0 -1 9044 0
+D3
+~
+~
+0 -1 9042 0
+S
+#9044
+The Foothills~
+   You are in the foothills surrounding the large pointy Icy-mountain.
+~
+90 0 0 0 0 4
+D0
+~
+~
+0 -1 9037 0
+D3
+~
+~
+0 -1 9043 0
+S
+#9045
+The Wasteland Fields~
+You are in the brown, tiresome fields.    
+~
+90 0 0 0 0 2
+D2
+~
+~
+0 -1 9048 0
+D4
+~
+~
+0 -1 9039 0
+S
+#9046
+The Wasteland Fields~
+You are surrounded by fields!!!    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9041 0
+D1
+~
+~
+0 -1 9047 0
+D2
+~
+~
+0 -1 9050 0
+S
+#9047
+The Wasteland Fields~
+You are on a large field which do not seem to have an end to it.    
+~
+90 0 0 0 0 2
+D2
+~
+~
+0 -1 9051 0
+D3
+~
+~
+0 -1 9046 0
+S
+#9048
+The Wasteland Fields~
+You are on a large field.  Is there possibly an end to it??    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9045 0
+D1
+~
+~
+0 -1 9049 0
+S
+#9049
+The Wasteland Fields~
+You are on a large field, which as you clearly can tell is nothing but
+waste.    
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9050 0
+D3
+~
+~
+0 -1 9048 0
+S
+#9050
+The Wasteland Fields~
+You are on a humongous, almost corroded field.  There is a little
+stalk of wheat growing here.    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9046 0
+D1
+~
+~
+0 -1 9051 0
+D3
+~
+~
+0 -1 9049 0
+E
+wheat stalk~
+Looks lonely doesn't it.
+~
+S
+#9051
+The Wasteland fields~
+You are on a vast field and it sure is vast.    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9047 0
+D1
+~
+~
+0 -1 9052 0
+D3
+~
+~
+0 -1 9050 0
+S
+#9052
+The Wasteland Fields~
+You are in the fields to your utter dissatisfaction.    
+~
+90 0 0 0 0 2
+D2
+~
+~
+0 -1 9053 0
+D3
+~
+~
+0 -1 9051 0
+S
+#9053
+The Wasteland Fields~
+You are in some fields.  They do not look fertile at all.    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9052 0
+D1
+~
+~
+0 -1 9054 0
+S
+#9054
+The Wasteland Fields~
+You are in waste which happens to have the form of fields.    
+~
+90 0 0 0 0 2
+D2
+~
+~
+0 -1 9057 0
+D3
+~
+~
+0 -1 9053 0
+S
+#9055
+The Wasteland Fields~
+You are in the middle of a large, brown field, not nice looking, but
+it just isn't.    
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9056 0
+S
+#9056
+The Wasteland Fields~
+You are on a large, windy field.  Everything around you is laid in
+complete waste.  Only some aufwuchs on a stone seem to be able to
+exist here.    
+~
+90 0 0 0 0 2
+D1
+~
+~
+0 -1 9057 0
+D3
+~
+~
+0 -1 9055 0
+E
+aufwuchs~
+They look green and slimy.
+~
+S
+#9057
+Close To The Wasteland Fields~
+You are on a field.  The wind is smoothly sweeping across the ground
+with the sound of a soft howl.  The vegetation seem to have lost the
+battle to some greater force as it gradually disappears towards the
+east.    
+~
+90 0 0 0 0 2
+D0
+~
+~
+0 -1 9054 0
+D3
+~
+~
+0 -1 9056 0
+S
+$~

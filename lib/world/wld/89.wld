@@ -1,0 +1,785 @@
+#8900
+A Gentle Path~
+The path heads south into a cool, breezy grove of trees where even
+from here, you can feel an emenation of peace and kindness.  There can
+be no doubt that ahead lies a place of glory and magic.    
+~
+89 4 0 0 0 3
+D2
+~
+~
+0 0 8901 0
+D3
+~
+~
+0 0 8920 0
+S
+#8901
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You can feel a strange sensation of contentedness and relief
+seeping through You, as if great burdens have been lifted from Your
+shoulders.  From here, friendly- looking paths lead east and south.  
+
+~
+89 0 0 0 0 3
+D0
+~
+~
+0 0 8900 0
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8902 0
+D2
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8904 0
+S
+#8902
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You feel unusually happy here, as if great burdens have been
+lifted from Your shoulders.  From here, pleasant-looking paths lead
+east, west and south.    
+~
+89 0 0 0 0 3
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 8903 0
+D2
+The path wind its way through the tall trees, towards an open area barely
+visible in the distance.
+~
+~
+0 -1 8905 0
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8901 0
+S
+#8903
+A Clearing in the Woods~
+You are standing in a clearing in the light woods.  Somehow, this
+place seems powerfully DIFFERENT from the rest of the forest, as if
+something is severely strained in the fabric of reality here.  There
+is a small tablet on one of the trees.    
+~
+89 20 0 0 0 3
+D0
+A small, narrow path winds north, and is quickly lost in the bushes. It
+looks quite a wilderness there!
+~
+~
+0 -1 -1 0
+D2
+There is a path winding its way south through the tall poplars, disappearing
+out of sight some 100 yds. away.
+~
+~
+0 -1 8906 0
+D3
+There is a friendly-looking path leading west through the tall trees.
+~
+~
+0 -1 8902 0
+S
+#8904
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You feel calm and relaxed here, as if great burdens have been
+lifted from Your shoulders.  From here, pleasant-looking paths lead
+east, north and south.  To the west, through the trees, You can see
+the road to Midgaard.    
+~
+89 4 0 0 0 3
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8901 0
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 8905 0
+D2
+The path wind its way through the tall trees, into the grove.
+~
+~
+0 -1 8907 0
+S
+#8905
+The Sacred Glade~
+You are standing in the middle of the sacred glades, where the
+citizens of Midgaard come to celebrate the spring, where farmers give
+thanks for bountiful harvest in the fall, and where lovers stroll in
+summer.  You feel seasons of remembered happiness and joy taking Your
+sorrows and worries away from You, leaving You calm and invigorated,
+ready for the world.  Paths lead into the holy grove to the east,
+north and west, while to the south a wide, sunny field slopes down to
+a sparkling lake.    
+~
+89 0 0 0 0 3
+D0
+The path wind its way north, disappearing through the tall trees.
+~
+~
+0 -1 8902 0
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8906 0
+D2
+To the south, a wide, sunny field stretch out, sloping down towards a brightly
+glittering lake.
+~
+~
+0 -1 8908 0
+D3
+The path wind its way west between stately poplars and oaks.
+~
+~
+0 -1 8904 0
+S
+#8906
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You can feel a strange sensation of joy and calm seeping
+through You, as if great burdens have been lifted from Your shoulders.
+To the south, You glimpse an open area through the trees, while paths
+lead away north and west.    
+~
+89 0 0 0 0 3
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8903 0
+D2
+To the south, just beyond the trees, you can see a wide green lawn, and past
+the lawn, a softly shimmering, rainbow-colored mansion.
+~
+~
+0 -1 8909 0
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 8905 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#8907
+The Holy Grove~
+You are standing amidst the tall, majestic trees in the southern end
+of the holy grove.  Paths lead north and east.  To the east, You can
+see a wide, open field, sloping gently down towards a bright,
+glittering lake.  Somehow, here you feel an inexplicable happiness, as
+if the world's troubles no longer really matter to you.    
+~
+89 0 0 0 0 3
+D0
+The path leading north is soon lost out of sight amongst the ancient oaks and
+poplars.
+~
+~
+0 -1 8904 0
+D1
+To the east, the path leads out into a wide, sunny summer's field, sloping
+south towards a beautiful lake. Past the field You can see a stately mansion,
+shimmering gently in all the rainbow's colours.
+~
+~
+0 -1 8908 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#8908
+The Sunny Field~
+You are standing in the middle of a wide, summery, sunlit field.  
+There is a fragrance of spring in the air, a sound of summer and a
+feeling of eternal Saturday afternoon.  To the south is a clear,
+sparkling lake, and to the north and west is the holy grove.  In the
+wood's edge, to the east, is a stately man- sion, shimmering softly
+through the colors of the rainbow.  You feel as if You could spend the
+rest of your life here, lying on your back and looking at the patterns
+of the clouds as they gently drift across the sky.    
+~
+89 8 0 0 0 2
+D0
+There is a path leading north towards the sacred glade.
+~
+~
+0 -1 8905 0
+D1
+To the east, You can see the rainbow-colored mansion, shimmering like some-
+thing out of this world.
+~
+~
+0 -1 8919 0
+D3
+There is a small path leading into the woods to the west.
+~
+~
+0 -1 8907 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house. There is a terrace in front of the house,
+next to the low wing, which is almost completely windows.
+~
+S
+#8909
+The Croquet Lawn~
+You are standing on a immaculately manicured green lawn, the kind you
+only get after 200 years of meticulous work.  There is a winding stone
+path leading from the wood's edge to the north, to the softly
+shimmering, rainbow-colored mansion to the south.  This place enjoys a
+perpetual cool, sunny summers after- noon.    
+~
+89 4 0 0 0 2
+D0
+To the north, the winding stone path leads into the holy grove.
+~
+~
+0 -1 8906 0
+D2
+To the south, the path leads straight up to the front door of the mansion.
+~
+door~
+1 -1 8910 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#8910
+The Foyer~
+You are standing in the foyer of Dragon's mansion.  The wide double
+door to the croquet lawn is to the north, flanked by large windows.  
+The walls are panelled in oak and hung with strange paintings.  There
+is door in the south wall.    
+~
+89 12 0 0 0 0
+D0
+Through the windows next to the door you can see the croquet lawn, bathed in
+afternoon sunlight.
+~
+door~
+1 -1 8909 3
+D2
+~
+door~
+1 -1 8911 3
+E
+painting paintings~
+They are strange indeed, works of breathtaking precision depicting obviously
+impossible motifs, like a sky filled with headless men, all dressed in some
+
+black costume (including hats), or a lady standing, blue from the waist up, or
+some pieces of plankwood that seems to be melting away like snow, or a night
+sky with a dove-shaped hole of bright day sky in the middle.
+~
+S
+#8911
+The Hallway~
+You are in the north end of a connecting hallway, tastefully decorated
+with oak paneling and the coat-of-arms of various famous nobles hung
+on the walls.  The hallway leads south, and there is a door in the
+eastern wall.    
+~
+89 8 0 0 0 0
+D0
+~
+door~
+1 -1 8910 3
+D1
+~
+door~
+1 -1 8912 3
+D2
+~
+~
+0 -1 8913 0
+S
+#8912
+The Blue Room~
+You are in the blue room, one of the guest rooms in Dragon's mansion.
+The walls are (surprise!  ) blue, and the rest of the room is
+decorated in similar shades, producing a very nice, cool effect.  
+There is a large bed and a matching set of sofas, easy-chairs and a
+coffee table.  Through the venetian blinds in front of the large east
+window you can see the edge of the grove.    
+~
+89 520 0 0 0 0
+D3
+~
+door~
+1 -1 8911 3
+S
+#8913
+The Hallway~
+You are standing in the south end of the hallway.  There are doors in
+the elegant oak-panelled walls to the south, east and west.  Many
+different coat-of-arms adorn the walls here.    
+~
+89 8 0 0 0 0
+D0
+~
+~
+0 -1 8911 0
+D1
+~
+door~
+1 -1 8914 3
+D2
+~
+door~
+1 -1 8915 3
+D3
+~
+door~
+1 -1 8916 3
+S
+#8914
+The Red Room~
+You are in the red room, one of the guest rooms in Dragon's mansion.
+The walls are wallpapered a deep warm red, and dark mahogany panelling
+nicely com- plements them.  There is a large, warm waterbed and a sofa
+group in dark wood with leather upholstery, including a coffee table.
+Heavy brown curtains are pulled away from the wide windows, to reveal
+a nice view towards the grove.    
+~
+89 520 0 0 0 0
+D3
+~
+door~
+1 -1 8913 3
+S
+#8915
+The Kitchen~
+You are standing in the middle of Dragon's kitchen.  Contrary to
+popular belief, He *doesn't* eat virgins, which is amply demonstrated
+by the large variety of foodstuffs found here on the shelves.  There
+are numerous cans of tomatoes, peas, corn etc.  , vines of garlic, a
+*Huge* array of small spice jars along several shelves and a large
+combo refrigerator/freezer.  A big oven and stove is lurking in a
+corner.  There is some proof here that Dragon is a less than
+meticulous housekeeper...  There are doors to the north and west.    
+~
+89 8 0 0 0 0
+D0
+~
+door~
+1 -1 8913 3
+D3
+~
+door~
+1 -1 8918 3
+S
+#8916
+The Ballroom~
+You are standing in the middle of a vast palisander floor.  This is
+where Dragon entertains large number of guests, but the cloth-covered
+chairs standing forlornly in a corner suggests that this does not
+happen often.  There are doors in the south and west walls, while to
+the east there is a short corridor to the greenhouse.    
+~
+89 8 0 0 0 0
+D1
+~
+door~
+1 -1 8913 3
+D2
+~
+door~
+1 -1 8918 3
+D3
+~
+~
+0 -1 8917 0
+S
+#8917
+The Greenhouse~
+This is Dragons' greenhouse.  Green light filters in slantwise through
+the plants, giving the room a subtropical ambience.  It is not really
+hot in here, though, rather a pleasantly warm temperature.  The walls
+are all windows, except the eastern one joining the greenhouse to the
+main building, but it is hard to see out for all the greenery here.  
+There is a set of easy-chairs and a glass coffee table.  To the south,
+there is a wide double door out to a sunlit terrace.    
+~
+89 520 0 0 0 0
+D1
+~
+~
+0 -1 8916 0
+D2
+~
+door~
+1 -1 8919 3
+S
+#8918
+The Dining Hall~
+This is Dragons' dining hall.  There is a large long solid oak table,
+seating at least 24, with heavy, wooden chairs to match.  The oak
+panel walls are filled with paintings.  There are doors to the north
+and east, and to the west there is a wide double door opening out onto
+the sunlit terrace.    
+~
+89 8 0 0 0 0
+D0
+~
+door~
+1 -1 8916 3
+D1
+~
+door~
+1 -1 8915 3
+D3
+~
+wide door~
+1 -1 8919 3
+E
+painting paintings~
+There are many, many beautiful paintings of famous dragons of history and
+literature. There is a big one of Smaug, a group picture of Cuspidorian Toxic
+Dragons, a rather fearsome picture of Norse Chaos incarnate, a grainy black-
+and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of 
+Dalvenjah the Mindijaran and Allan the man become dragon. There are three
+empty frames labeled 'The Chimerical', 'The Mythical' and 'The Hypothetical',
+A panoramic picture of Strabo flying between the worlds dominate one wall, 
+while a dragons-eye view of Pern (with dragons in the foreground, of course) 
+fills another. There even are a few rare medieval renditions of the great 
+beast of the Revelation. Over the head of the table hangs a rather modest 
+portrait of a silver Dragon, sparkling with blue lightening, looking amused.
+~
+S
+#8919
+The Terrace~
+You are standing on a sunlit terrace in front of Dragon's mansion.  
+To the west, there is a splendid view over the field down over the
+lake.  To the north is the greenhouse, its large windowpanes
+shimmering with weird and wonderful colors, while a double door leads
+into the house proper to the east.  It is warm and calm here.  There
+is a white-painted table with a parasol here, together with a matched
+set of chairs.    
+~
+89 12 0 0 0 0
+D0
+~
+door~
+1 -1 8917 3
+D1
+~
+double door~
+1 -1 8918 3
+D3
+~
+~
+0 -1 8908 0
+S
+#8920
+A Gentle Path~
+The path you have entered onto wends its way deep into the forest,
+however the trees which surround do not seem onminous in any way.  
+Rather they seem to be protectors of all good things in the forest,
+watchful sentries who make sure that this area stay lush and bold and
+virgin.    
+~
+89 0 0 0 0 3
+D1
+~
+~
+0 0 8900 0
+D3
+~
+~
+0 0 3501 0
+S
+#8930
+A Hidden Trail ~
+You are on a hidden trail you found in the DearthWood.
+Recent footprints indicate it is used frequently but the
+beginning was hidden by bushes.
+~
+89 0 0 0 0 0
+D2
+The Hidden Trail.
+~
+~
+0 -1 8931 0
+S
+#8931
+The Hidden Trail ~
+This narrow trail is very interesting, you think only
+those sure of foot and keen of sight could use it, as
+it is almost invisible.
+~
+89 0 0 0 0 0
+D0
+The Hidden Trail.
+~
+~
+0 -1 8930 0
+D2
+The Hidden Trail.
+~
+~
+0 -1 8932 0
+S
+#8932
+The Hidden Path ~
+The hidden path twists and turns dodging tree and bush.
+You are starting to think you probably shouldn't be 
+coming down here.
+~
+89 0 0 0 0 0
+D1
+The Hidden Path
+~
+~
+0 -1 8933 0
+D2
+The Hidden Path.
+~
+~
+0 -1 8931 0
+S
+#8933
+The Hidden Trail ~
+Twisting and turning it seems as if your travels
+will never end. You take your steps carefully,
+one wrong turn could be your last.
+~
+89 0 0 0 0 0
+D2
+~
+~
+0 -1 8934 0
+D3
+~
+~
+0 -1 8932 0
+S
+#8934
+The Hidden Trail ~
+This part of the path is set in a deep ravine.
+You feel unsafe as this would be a good ambush
+point for bandits.
+~
+89 0 0 0 0 0
+D0
+~
+~
+0 -1 8933 0
+D2
+~
+~
+0 -1 8935 0
+S
+#8935
+The Hidden Trail ~
+The path here is a bit wider, further south you
+can see it meeting a trail. A small building also
+lies further south. 
+~
+89 0 0 0 0 0
+D0
+~
+~
+0 -1 8934 0
+D2
+~
+~
+0 -1 8936 0
+S
+#8936
+Splitting Path ~
+To the north of here, you see a path leadin through
+an ancient forest. Heading west is a road leading to
+parts unknown. South of here you see a small building.
+~
+89 0 0 0 0 0
+D0
+The Hidden Trail.
+~
+~
+0 -1 8935 0
+D2
+A Small Building.
+~
+~
+0 -1 8937 0
+D3
+An Old Road.
+~
+~
+0 -1 8938 0
+S
+#8937
+Two Thumbs Inn ~
+You are inside a small and run down inn, owned
+by the hero Two Thumbs. Although now retired 
+he is still known to serve up a good mug of ale.
+There is a counter here, and a sign.
+~
+89 8 0 0 0 0
+D0
+~
+~
+0 -1 8936 0
+D2
+~
+~
+0 -1 8941 0
+E
+sign~
+Type LIST to see what Two Thumbs has to offer.~
+S
+#8938
+Old Trail ~
+The trail from here heads east and west. You 
+are still high up in the hills. 
+~
+89 0 0 0 0 0
+D1
+The Old Road.
+~
+~
+0 -1 8936 0
+D2
+The fluffy bush looks odd against the rocky
+background.~
+bush~
+1 -1 8939 3
+D3
+~
+~
+0 -1 8944 0
+S
+#8939
+Hidden Cave ~
+You are inside a hidden cave. Sleeping cots are
+all around. There is more cave to the south.
+~
+89 8 0 0 0 0
+D0
+A fluffly bush, it looks odd against the rocky
+background.~
+bush~
+1 -1 8938 3
+D2
+A Larger Cave.
+~
+~
+0 -1 8940 0
+S
+#8940
+Bandit Leaders Cave ~
+This is the cave of the bandit leader. Tapestries
+and shining trinkets are strewn about. You 
+notice a large pile of torn pouches and assume
+business has been good. There is a large
+barrel in the corner.
+~
+89 8 0 0 0 0
+D0
+A fluffly bush, it looks odd against the rocky
+background.~
+bush~
+0 -1 8939 0
+D5
+The barrel looks like its been moved.~
+barrel~
+1 -1 8943 3
+S
+#8941
+The Backroom ~
+This is the backroom of Two Thumbs inn. Stacks
+of crates and barrels are all about.
+~
+89 8 0 0 0 0
+D0
+~
+~
+0 -1 8937 0
+D5
+The barrel looks as if its been moved recently.~
+barrel~
+1 -1 8942 3
+S
+#8942
+Secret passageway.~
+This is a hidden passageway, it leads off into
+the darkness.
+~
+89 9 0 0 0 0
+D1
+~
+~
+0 -1 8943 0
+D4
+There is a barrel above the opening. It looks
+as though its been moved recently.~
+barrel~
+1 -1 8941 3
+S
+#8943
+Secret cavern.~
+This is a secret cavern heading to parts unknown.
+~
+89 9 0 0 0 0
+D3
+~
+~
+0 -1 8942 0
+D4
+The barrel looks like it has been moved.~
+barrel~
+1 -1 8940 3
+S
+#8944
+Blocked By Trees ~
+The path stops here blocked by some huge trees
+and thick underbrush.
+~
+89 0 0 0 0 0
+D1
+~
+~
+0 -1 8938 0
+S
+#8999
+The fog~
+   You are in a grey fog, falling, screaming in pain as you realize
+that you are being torn to nothing, atom by atom, falling and falling 
+and falling ...
+...
+.
+~
+89 4 0 0 0 0
+S
+$~

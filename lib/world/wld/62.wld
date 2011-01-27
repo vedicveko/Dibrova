@@ -1,0 +1,2136 @@
+#6200
+Talloren River~
+The trees overhang the water, filtering out the sunlight.  The water,
+sparkling clear, seems to be tinting towards red as one travels
+further south.  In addition to the reddish tint, the surroundings
+become more gloomier.  A man-made channel lies to your west leading to
+some sort of civilization.  The river continues north and south.    
+~
+62 268435460 0 0 0 6
+D0
+~
+~
+0 0 6201 0
+D2
+~
+~
+0 0 3909 0
+D3
+~
+~
+0 0 6298 0
+S
+#6201
+Talloren River~
+The trees overhang the water, filtering out the sunlight.  The clear
+water begins to feel chillier southwards.  A muddy clearing created by
+the tracks of thirsty beasts offers a way off the river westwards.  
+The river continues north and south.    
+~
+62 268435460 0 0 0 6
+D0
+~
+~
+0 0 6202 0
+D2
+~
+~
+0 0 6200 0
+D3
+~
+~
+0 0 6205 0
+S
+#6202
+The Base of the Rapids~
+The rapids seem to be calming down as you come out of the mountains.
+The rocks lining the river are being replaced by fields and small
+animals.  It is a calming balm for your shattered nerves.    
+~
+62 268435460 0 0 0 6
+D0
+~
+~
+0 0 6203 0
+D2
+~
+~
+0 0 6201 0
+S
+#6203
+Rapids on the Talloren~
+As you continue down the rapids, you narrowly miss being smashed
+against the huge boulders in the water.  You grasp at the solid rock
+walls desperately trying to slow yourself down.    
+~
+62 0 0 0 0 6
+D2
+~
+~
+0 0 6202 0
+D3
+~
+~
+0 0 6204 0
+S
+#6204
+THE RAPIDS~
+BONZAI!!!!!!!    
+~
+62 4 0 0 0 6
+D1
+~
+~
+0 0 6203 0
+D3
+~
+~
+0 0 6244 0
+S
+#6205
+Riverbank into the Rainforest~
+To the east, the river flows on as it always has.  To the west, the
+muddy bank gives way to dozens of well-travelled trails made by
+creatures who seek to fulfill their thirst at the river.  Enormous,
+stately trees and thick tropical vegetation bar any further travel.  
+A pile of boulders, half covered by vines, lies to the right,
+seemingly out of place.    
+~
+62 268435476 0 0 0 3
+D1
+~
+~
+0 0 6201 0
+D5
+~
+boulder~
+1 0 6206 17
+S
+#6206
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The tunnel continues westwards and up leads back to the
+sunshine.    
+~
+62 769 0 0 0 0
+D3
+~
+~
+0 0 6207 0
+D4
+~
+~
+0 0 6205 0
+S
+#6207
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The tunnel leads west and east.    
+~
+62 769 0 0 0 0
+D1
+~
+~
+0 0 6206 0
+D3
+~
+~
+0 0 6208 0
+S
+#6208
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The bend in the tunnel leads east and south.    
+~
+62 769 0 0 0 0
+D1
+~
+~
+0 0 6207 0
+D2
+~
+~
+0 0 6209 0
+S
+#6209
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The bend in the tunnel leads north and west.    
+~
+62 769 0 0 0 0
+D0
+~
+~
+0 0 6208 0
+D3
+~
+~
+0 0 6210 0
+S
+#6210
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The bend in the tunnel leads east and south.    
+~
+62 769 0 0 0 0
+D1
+~
+~
+0 0 6209 0
+D2
+~
+~
+0 0 6294 0
+S
+#6211
+Clearing in the Rainforest~
+Lush vegetation grows as far as the eye can see.  Sounds of the animal
+life in the jungle carry through the air on a slight breeze.  To the
+west, the rainforest continues, while going down will take one through
+a dark, damp tunnel.    
+~
+62 0 0 0 0 3
+D3
+~
+~
+0 0 6213 0
+D5
+~
+~
+0 0 6294 0
+S
+#6212
+Entrance to Amazon Village~
+Vegetation has been cleared to make a path through the rainforest to
+the Amazon village.  The relief of having a path to travel is
+short-lived, however, as one finds tall Amazon guards standing here
+protecting their village.  To the north and south are guard posts, to
+the west the path continues to the village, while to the east one can
+escape back to the rainforest should one not want to challenge these
+fierce-looking Amazons.    
+~
+62 0 0 0 0 3
+D0
+~
+~
+0 0 6216 0
+D1
+~
+~
+0 0 6214 0
+D2
+~
+~
+0 0 6215 0
+D3
+~
+~
+0 0 6218 0
+S
+#6213
+Rainforest~
+Lush vegetation and trees create this beautiful rainforest
+environment.  Long vines criss-cross the damp ground, making travel
+tedious and difficult.  The air is hot and moist, and a sheen of sweat
+dampens one's brow and back.  To the west, muted whispers can almost
+be heard, as the hair on the back of your neck stands up.    
+~
+62 0 0 0 0 3
+D1
+~
+~
+0 0 6211 0
+D3
+~
+~
+0 0 6214 0
+S
+#6214
+Rainforest~
+Lush vegetation and trees create this beautiful rainforest
+environment.  Long vines criss-cross the damp ground, making travel
+tedious and difficult.  The air is hot and moist, and a sheen of sweat
+dampens one's brow and back.  To the west, muted whispers can almost
+be heard, as the hair on the back of your neck stands up.    
+~
+62 4 0 0 0 3
+D1
+~
+~
+0 0 6213 0
+D3
+~
+~
+0 0 6212 0
+S
+#6215
+Guard Post~
+Along the one side of the room are racks of deadly weapons.  Being
+proud fighters, the Amazons obviously tend to the weapons daily, each
+blade is sharpened and polished vigorously.  There are no furnishings
+in this room since there is no time for rest and relaxation for the
+guards while on duty.    
+~
+62 8 0 0 0 0
+D0
+~
+~
+0 0 6212 0
+S
+#6216
+Guard Post~
+Along the one side of the room are racks of deadly weapons.  Being
+proud fighters, the Amazons obviously tend to the weapons daily, each
+blade is sharpened and polished vigorously.  There are no furnishings
+in this room since there is no time for rest and relaxation for the
+guards while on duty.  To the west is a doorway leading to the
+barracks.    
+~
+62 8 0 0 0 0
+D2
+~
+~
+0 0 6212 0
+D3
+~
+~
+0 0 6217 0
+S
+#6217
+Barracks~
+A short wooden table is the only furnishing in this room.  The marks
+on the floor suggest that the table is moved to the side when the
+guards feel the need for sleep.  In one corner of the room is a pile
+of animal skins for the Amazons to relax or sleep on.    
+~
+62 8 0 0 0 0
+D1
+~
+~
+0 0 6216 0
+S
+#6218
+Rainforest Path~
+This path has been mostly cleared of the lush rainforest vegetation,
+though an occasional vine still snags one's boot.  Though Amazons
+occasionally walk by with a wary look in their eyes, there are no
+discernable voices heard, save for a quick muted whisper between
+villagers.    
+~
+62 4 0 0 0 3
+D1
+~
+~
+0 0 6212 0
+D3
+~
+~
+0 0 6219 0
+S
+#6219
+Rainforest Path~
+This path has been mostly cleared of the lush rainforest vegetation,
+though an occasional vine still snags one's boot.  Though Amazons
+occasionally walk by with a wary look in their eyes, there are no
+discernable voices heard, save for a quick muted whisper between
+villagers.    
+~
+62 0 0 0 0 3
+D1
+~
+~
+0 0 6218 0
+D3
+~
+~
+0 0 6221 0
+S
+#6220
+Tribal Hut~
+The Amazons' simple way of life is evident by the appearance of this
+hut.  Though the room is quite spacious, the furnishings are simple
+and servicable, with no focus on comfort.  There is a bed made of
+animal skins along one wall, a short table in the center of the room,
+and a rack for weapons and armor along the wall opposite the bed.    
+~
+62 6148 0 0 0 0
+D2
+~
+~
+0 0 6221 0
+S
+#6221
+Rainforest Path~
+This path has been mostly cleared of the lush rainforest vegetation,
+though an occasional vine still snags one's boot.  Though Amazons
+occasionally walk by with a wary look in their eyes, there are no
+discernable voices heard, save for a quick muted whisper between
+villagers.  A spacious one-room hut is to the north.    
+~
+62 0 0 0 0 3
+D0
+~
+~
+0 0 6220 0
+D1
+~
+~
+0 0 6219 0
+D3
+~
+~
+0 0 6222 0
+S
+#6222
+Rainforest Path~
+This path has been mostly cleared of the lush rainforest vegetation,
+though an occasional vine still snags one's boot.  Though Amazons
+occasionally walk by with a wary look in their eyes, there are no
+discernable voices heard, save for a quick muted whisper between
+villagers.    
+~
+62 0 0 0 0 3
+D1
+~
+~
+0 0 6221 0
+D3
+~
+~
+0 0 6235 0
+S
+#6223
+Sacrifical Pit and Altar~
+A large rectangular stone has been dragged here and placed in the
+center of the area as a sacrifical altar.  Around the altar, all
+vegetation has been cleared, shallow bonfire pits have been dug at
+each corner, and stakes fashioned with crude manacles are at the foot
+and head of the altar.  The air here is thick with the smell of fear
+and terror emanating from the latest sacrifical victim.    
+~
+62 65600 0 0 0 4
+D3
+~
+~
+0 0 6224 0
+S
+#6224
+Sacrifical Grounds~
+Vegetation in this area is minimal, as much has been worn away from
+Amazons dragging their sacrifical victims, kicking and screaming,
+through this place.  There are a few stones laying around for use in
+sharpening the sacrifical knives.  The air is deadly calm and quiet,
+all animal life avoids this area, as if knowing what goes on in this
+part of the Amazon village.    
+~
+62 65600 0 0 0 2
+D1
+~
+~
+0 0 6223 0
+D2
+~
+~
+0 0 6225 0
+S
+#6225
+Twisting Dire Path~
+Looking around, one can see that a path has been cleared through the
+rainforest.  Scuff marks along the ground suggest that something or
+someone has been dragged forcibly up this small incline.  In the
+distance, muted terrified screams can be heard.    
+~
+62 65600 0 0 0 4
+D0
+~
+~
+0 0 6224 0
+D3
+~
+~
+0 0 6226 0
+S
+#6226
+Twisting Dire Path~
+Looking around, one can see that a path has been cleared through the
+rainforest.  Scuff marks along the ground suggest that something or
+someone has been dragged forcibly up this small incline.  In the
+distance, muted terrified screams can be heard.
+~
+62 65600 0 0 0 4
+D1
+~
+~
+0 0 6225 0
+D2
+~
+~
+0 0 6227 0
+S
+#6227
+Twisting Dire Path~
+Looking around, one can see that a path has been cleared through the
+rainforest.  Scuff marks along the ground suggest that something or
+someone has been dragged forcibly up this small incline.  In the
+distance, muted terrified screams can be heard.
+~
+62 65600 0 0 0 4
+D0
+~
+~
+0 0 6226 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 6228 0
+S
+#6228
+Twisting Dire Path~
+Looking around, one can see that a path has been cleared through the
+rainforest.  Scuff marks along the ground suggest that something or
+someone has been dragged forcibly up this small incline.  In the
+distance, muted terrified screams can be heard.
+~
+62 65600 0 0 0 4
+D1
+~
+~
+0 0 6227 0
+D2
+~
+~
+0 0 6229 0
+S
+#6229
+Twisting Dire Path~
+Looking around, one can see that a path has been cleared through the
+rainforest.  Scuff marks along the ground suggest that something or
+someone has been dragged forcibly up this small incline.  In the
+distance, muted terrified screams can be heard.
+~
+62 65604 0 0 0 4
+D0
+~
+~
+0 0 6228 0
+D2
+~
+~
+0 0 6231 0
+S
+#6230
+Sandy Beach~
+Fine white and golden sand makes up this beach overlooking Lake
+Dargoren.  A few wooden buckets filled with water await to be carried
+to the village.  Several large and medium rocks used for doing laundry
+can be seen strewn about the beach.  A crude fishing net lays by the
+shore of the lake.    
+~
+62 0 0 0 0 11
+D3
+~
+~
+0 0 6231 0
+S
+#6231
+Village Way~
+This is a small path leading from the village to a small beach on the
+shore of Lake Dargoren.  To the north, the trees have been cleared,
+and a path leads up a small hill.  To the east, one can see the beach
+overlooking Lake Dargoren.    
+~
+62 0 0 0 0 10
+D0
+~
+~
+0 0 6229 0
+D1
+~
+~
+0 0 6230 0
+D3
+~
+~
+0 0 6232 0
+S
+#6232
+Village Way~
+This is a small path leading from the village to a small beach on the
+shore of Lake Dargoren.  To the north, the trees are sparser, as if
+this is where the Amazons feld trees for firewood, though there is no
+path to travel.
+~
+62 0 0 0 0 10
+D1
+~
+~
+0 0 6231 0
+D3
+~
+~
+0 0 6233 0
+S
+#6233
+Village Way~
+This is a small path leading from the village to a small beach on the
+shore of Lake Dargoren.  To the north, the trees are sparser, as if
+this is where the Amazons feld trees for firewood, though there is no
+path to travel.    
+~
+62 0 0 0 0 10
+D1
+~
+~
+0 0 6232 0
+D3
+~
+~
+0 0 6238 0
+S
+#6234
+Tribal Hut~
+The Amazons' simple way of life is evident by the appearance of this
+hut.  Though the room is quite spacious, the furnishings are simple
+and servicable, with no focus on comfort.  There is a bed made of
+animal skins along one wall, a short table in the center of the room,
+and a rack for weapons and armor along the wall opposite the bed.    
+~
+62 2048 0 0 0 0
+D0
+~
+~
+0 0 6235 0
+S
+#6235
+Bend in the Rainforest Path onto the Tribal Road~
+The path to walk on becomes more evident as one travels deeper into
+the Amazon village.  To the east is Rainforest Path, which leads out
+of the village, while to the north starts Tribal Road.  Far to the
+north, one can see a large structure, obviously the abode of the
+Amazon leadership.  A spacious one-room hut is to the south.    
+~
+62 0 0 0 0 3
+D0
+~
+~
+0 0 6237 0
+D1
+~
+~
+0 0 6222 0
+D2
+~
+~
+0 0 6234 0
+S
+#6236
+Tribal Hut~
+Upon entering this room, an unidentified scent assails one's nostrils,
+creating sensations of dizziness and exahustion.  A large firepit is
+in the center of the room, over which a crude iron cauldron hangs.  
+Though the burning fire lights the room, a sense of dark mystery hangs
+in the air.  Along the walls are racks of medicines and deadly herbs,
+making one wonder what exactly is being boiled by the woman carefully
+tending the cauldron.    
+~
+62 73732 0 0 0 3
+D1
+~
+~
+0 0 6237 0
+S
+#6237
+Tribal Road~
+Vegetation has been carefully cleared from the path to form a clear
+passageway for Amazon villagers to travel.  Though still wary of an
+outside presence, Amazons can be seen chatting to one another,
+practicing fighting techniques, and performing other everyday
+activities.  To the far north, one can see a large structure,
+obviously the abode of the Amazon leadership.  To the west is a
+spacious one-room hut with an unidentified smell wafting from inside.
+~
+62 0 0 0 0 10
+D0
+~
+~
+0 0 6238 0
+D2
+~
+~
+0 0 6235 0
+D3
+~
+~
+0 0 6236 0
+S
+#6238
+Intersection of Tribal Road and Village Way~
+Vegetation has been carefully cleared from the path to form a clear
+passageway for Amazon villagers to travel.  Though still wary of an
+outside presence, Amazons can be seen chatting to one another,
+practicing fighting techniques, and performing other everyday
+activities.  To the far north, one can see a large structure,
+obviously the abode of the Amazon leadership.  To the east, a smaller
+path begins.    
+~
+62 0 0 0 0 5
+D0
+~
+~
+0 0 6239 0
+D1
+~
+~
+0 0 6233 0
+D2
+~
+~
+0 0 6237 0
+S
+#6239
+Tribal Road~
+Vegetation has been carefully cleared from the path to form a clear
+passageway for Amazon villagers to travel.  To the north is a
+formidable structure which is obviously the abode of the Amazon
+leadership.  Amazons walking through this area seem focused on
+business, as there is no careless chatter or joking.    
+~
+62 0 0 0 0 10
+D0
+~
+~
+0 0 6241 0
+D2
+~
+~
+0 0 6238 0
+S
+#6240
+The Room of Magic~
+Nalyss was the most gifted student of Ozxia, though Nalyss was much
+more excited by the art of magic rather than the art of medicine.  A
+soft bed of skins stuffed with feathers is in one corner of the room.
+Carpets made of tiger skins line the floor.  A long table against one
+wall, by the fireplace, serves as a worktable for Nalyss to practice
+her spells.    
+~
+62 65548 0 0 0 0
+D1
+~
+~
+0 0 6241 0
+S
+#6241
+Tribal Lodge~
+Upon walking into the lodge, one is struck by the sharp contrast of
+these plush surrounds compared to the rest of the Amazon village.  
+Several tiger skins have been stitched together to form a comfortable
+carpet.  Feathers from numerous exotic birds have been arranged on the
+walls as decorations.  The four sisters who rule this village have
+taken great pride in making this lodge a comfortable place to call
+home.  To the west is the private room of Nalyss, the sister
+responsible for the use of magic.  To the east is the room of Xena,
+who is in charge of weapons.  The main hallway of the lodge continues
+to the north.    
+~
+62 65548 0 0 0 0
+D0
+~
+~
+0 0 6295 0
+D1
+~
+door~
+1 0 6242 1
+D2
+~
+~
+0 0 6239 0
+D3
+~
+door~
+1 0 6240 1
+S
+#6242
+The Room of Weapons~
+Racks of weapons can be see all around the room.  On the walls are
+various animal skins, attesting to the prowess of the Sister of
+Weapons, Xena.  In one corner is a pile of animal skins used as a bed.
+A table and chair can be seen at the back of the room, a sharpening
+stone sits on the table, and a fire is burning in the pit five feet
+from the table.  Obviously, Xena is extremely focused on the
+maintenance of her weapons and has very few other hobbies.    
+~
+62 65548 0 0 0 0
+D3
+~
+~
+0 0 6241 0
+S
+#6243
+The Room of Kindness~
+A multitude of burning candles light up the Room of Kindness.  One
+gets a feeling of relaxation and acceptance here.  White skins and
+feathers decorate the room.  Silk-covered furniture invite one to sit
+and enjoy their plushness.  A large fan of peacock feathers hang
+suspended from the ceiling.  This is Melodie's room and all are
+welcome here.    
+~
+62 65548 0 0 0 0
+D1
+~
+~
+0 0 6295 0
+S
+#6244
+Eastern shore of Lake Dargoren~
+This is the eastern shore of a beautiful lake named Lake Dargoren.  
+The roar of the rapids to the east contrast sharply with the serenity
+of the clear, cool water of the lake.  To the north and south are calm
+shallows, while to the west the water begins to deepen.    
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6245 0
+D1
+~
+~
+0 0 6204 0
+D2
+~
+~
+0 0 6258 0
+D3
+~
+~
+0 0 6256 0
+S
+#6245
+Shallows of Lake Dargoren~
+The cool water of the lake is shallow here, allowing one to wade
+safely without the fear of drowning.  The muck on the bottom makes
+travel somewhat difficult.  Animal and plant life is abundant here, as
+seen by the numerous schools of minnows swimming about and clumps of
+algae floating on the surface.    
+~
+62 268435456 0 0 0 6
+D2
+~
+~
+0 0 6244 0
+D3
+~
+~
+0 0 6246 0
+S
+#6246
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6247 0
+D1
+~
+~
+0 0 6245 0
+D2
+~
+~
+0 0 6256 0
+D3
+~
+~
+0 0 6250 0
+S
+#6247
+Northern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the north, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D2
+~
+~
+0 0 6246 0
+D3
+~
+~
+0 0 6248 0
+S
+#6248
+Northern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the north, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D1
+~
+~
+0 0 6247 0
+D2
+~
+~
+0 0 6250 0
+D3
+~
+~
+0 0 6249 0
+S
+#6249
+Northern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the north, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D1
+~
+~
+0 0 6248 0
+D2
+~
+~
+0 0 6251 0
+S
+#6250
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6248 0
+D1
+~
+~
+0 0 6246 0
+D2
+~
+~
+0 0 6255 0
+D3
+~
+~
+0 0 6251 0
+D5
+~
+~
+0 0 6292 0
+S
+#6251
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6249 0
+D1
+~
+~
+0 0 6250 0
+D2
+~
+~
+0 0 6254 0
+D3
+~
+~
+0 0 6252 0
+D5
+~
+~
+0 0 6291 0
+S
+#6252
+Northwestern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the northwest, but the banks are too steep to
+scale.    
+~
+62 268435456 0 0 0 6
+D1
+~
+~
+0 0 6251 0
+D2
+~
+~
+0 0 6253 0
+S
+#6253
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6252 0
+D1
+~
+~
+0 0 6254 0
+D2
+~
+~
+0 0 6261 0
+D3
+~
+~
+0 0 6263 0
+D5
+~
+~
+0 0 6274 0
+S
+#6254
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6251 0
+D1
+~
+~
+0 0 6255 0
+D2
+~
+~
+0 0 6260 0
+D3
+~
+~
+0 0 6253 0
+D5
+~
+~
+0 0 6275 0
+S
+#6255
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6250 0
+D1
+~
+~
+0 0 6256 0
+D2
+~
+~
+0 0 6259 0
+D3
+~
+~
+0 0 6254 0
+D5
+~
+~
+0 0 6276 0
+S
+#6256
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6246 0
+D1
+~
+~
+0 0 6244 0
+D2
+~
+~
+0 0 6257 0
+D3
+~
+~
+0 0 6255 0
+S
+#6257
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6256 0
+D1
+~
+~
+0 0 6258 0
+D2
+~
+~
+0 0 6266 0
+D3
+~
+~
+0 0 6259 0
+S
+#6258
+Shallows of Lake Dargoren~
+The cool water of the lake is shallow here, allowing one to wade
+safely without the fear of drowning.  The muck on the bottom makes
+travel somewhat difficult.  Animal and plant life is abundant here, as
+seen by the numerous schools of minnows swimming about and clumps of
+algae floating on the surface.    
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6244 0
+D2
+~
+~
+0 0 6267 0
+D3
+~
+~
+0 0 6257 0
+S
+#6259
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6255 0
+D1
+~
+~
+0 0 6257 0
+D2
+~
+~
+0 0 6265 0
+D3
+~
+~
+0 0 6260 0
+D5
+~
+~
+0 0 6283 0
+S
+#6260
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6254 0
+D1
+~
+~
+0 0 6259 0
+D2
+~
+~
+0 0 6264 0
+D3
+~
+~
+0 0 6261 0
+D5
+~
+~
+0 0 6280 0
+S
+#6261
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6253 0
+D1
+~
+~
+0 0 6260 0
+D2
+~
+~
+0 0 6272 0
+D3
+~
+~
+0 0 6262 0
+D5
+~
+~
+0 0 6281 0
+S
+#6262
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6263 0
+D1
+~
+~
+0 0 6261 0
+D2
+~
+~
+0 0 6273 0
+D3
+~
+~
+0 0 6293 0
+D5
+~
+~
+0 0 6282 0
+S
+#6263
+Northwestern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the northwest, but the banks are too steep to
+scale.    
+~
+62 268435456 0 0 0 6
+D1
+~
+~
+0 0 6253 0
+D2
+~
+~
+0 0 6262 0
+S
+#6264
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6260 0
+D1
+~
+~
+0 0 6265 0
+D2
+~
+~
+0 0 6270 0
+D3
+~
+~
+0 0 6272 0
+D5
+~
+~
+0 0 6278 0
+S
+#6265
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6259 0
+D1
+~
+~
+0 0 6266 0
+D2
+~
+~
+0 0 6269 0
+D3
+~
+~
+0 0 6264 0
+D5
+~
+~
+0 0 6279 0
+S
+#6266
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6257 0
+D1
+~
+~
+0 0 6267 0
+D2
+~
+~
+0 0 6268 0
+D3
+~
+~
+0 0 6265 0
+S
+#6267
+Shallows of Lake Dargoren~
+The cool water of the lake is shallow here, allowing one to wade
+safely without the fear of drowning.  The muck on the bottom makes
+travel somewhat difficult.  Animal and plant life is abundant here, as
+seen by the numerous schools of minnows swimming about and clumps of
+algae floating on the surface.    
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6258 0
+D3
+~
+~
+0 0 6266 0
+S
+#6268
+Southern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the south, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6266 0
+D3
+~
+~
+0 0 6269 0
+S
+#6269
+Southern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the south, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6265 0
+D1
+~
+~
+0 0 6268 0
+D3
+~
+~
+0 0 6270 0
+S
+#6270
+Southern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the south, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6264 0
+D1
+~
+~
+0 0 6269 0
+D3
+~
+~
+0 0 6271 0
+S
+#6271
+Southern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the south, but the banks are too steep to scale.
+  
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6272 0
+D1
+~
+~
+0 0 6270 0
+S
+#6272
+Surface of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  The lake spans as
+far as the eye can see in all directions.    
+~
+62 268435456 0 0 0 7
+D0
+~
+~
+0 0 6261 0
+D1
+~
+~
+0 0 6264 0
+D2
+~
+~
+0 0 6271 0
+D3
+~
+~
+0 0 6273 0
+D5
+~
+~
+0 0 6277 0
+S
+#6273
+Southwestern Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the southwest, but the banks are too steep to
+scale.    
+~
+62 268435456 0 0 0 6
+D0
+~
+~
+0 0 6262 0
+D1
+~
+~
+0 0 6272 0
+S
+#6274
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D1
+~
+~
+0 0 6275 0
+D2
+~
+~
+0 0 6281 0
+D4
+~
+~
+0 0 6253 0
+D5
+~
+~
+0 0 6287 0
+S
+#6275
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6291 0
+D1
+~
+~
+0 0 6276 0
+D2
+~
+~
+0 0 6280 0
+D3
+~
+~
+0 0 6274 0
+D4
+~
+~
+0 0 6254 0
+D5
+~
+~
+0 0 6288 0
+S
+#6276
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6292 0
+D2
+~
+~
+0 0 6283 0
+D3
+~
+~
+0 0 6275 0
+D4
+~
+~
+0 0 6255 0
+D5
+~
+~
+0 0 6289 0
+S
+#6277
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6281 0
+D1
+~
+~
+0 0 6278 0
+D4
+~
+~
+0 0 6272 0
+S
+#6278
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6280 0
+D1
+~
+~
+0 0 6279 0
+D3
+~
+~
+0 0 6277 0
+D4
+~
+~
+0 0 6264 0
+S
+#6279
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6283 0
+D3
+~
+~
+0 0 6278 0
+D4
+~
+~
+0 0 6265 0
+S
+#6280
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6275 0
+D1
+~
+~
+0 0 6283 0
+D2
+~
+~
+0 0 6278 0
+D3
+~
+~
+0 0 6281 0
+D4
+~
+~
+0 0 6260 0
+D5
+~
+~
+0 0 6284 0
+S
+#6281
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6274 0
+D1
+~
+~
+0 0 6280 0
+D2
+~
+~
+0 0 6277 0
+D3
+~
+~
+0 0 6282 0
+D4
+~
+~
+0 0 6261 0
+D5
+~
+~
+0 0 6285 0
+S
+#6282
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D1
+~
+~
+0 0 6281 0
+D4
+~
+~
+0 0 6262 0
+D5
+~
+~
+0 0 6286 0
+S
+#6283
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D0
+~
+~
+0 0 6276 0
+D2
+~
+~
+0 0 6279 0
+D3
+~
+~
+0 0 6280 0
+D4
+~
+~
+0 0 6259 0
+D5
+~
+~
+0 0 6290 0
+S
+#6284
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D0
+~
+~
+0 0 6288 0
+D1
+~
+~
+0 0 6290 0
+D3
+~
+~
+0 0 6285 0
+D4
+~
+~
+0 0 6280 0
+S
+#6285
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D0
+~
+~
+0 0 6287 0
+D1
+~
+~
+0 0 6284 0
+D3
+~
+~
+0 0 6286 0
+D4
+~
+~
+0 0 6281 0
+S
+#6286
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 37 0 0 0 8
+D1
+~
+~
+0 0 6285 0
+D4
+~
+~
+0 0 6282 0
+S
+#6287
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D1
+~
+~
+0 0 6288 0
+D2
+~
+~
+0 0 6285 0
+D4
+~
+~
+0 0 6274 0
+S
+#6288
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D1
+~
+~
+0 0 6289 0
+D2
+~
+~
+0 0 6284 0
+D3
+~
+~
+0 0 6287 0
+D4
+~
+~
+0 0 6275 0
+S
+#6289
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D2
+~
+~
+0 0 6290 0
+D3
+~
+~
+0 0 6288 0
+D4
+~
+~
+0 0 6276 0
+S
+#6290
+Murky bottom of the Lake~
+Sunlight cannot reach these depths, plunging this area into absolute
+darkness.  Groping about in the now frigid waters, one can see that
+the bottom is mostly sandy, interupted here and there by large rocks.
+Occcasionally, a current of warmer water from above flows by, only to
+be quickly quelled by the heavier colder water.    
+~
+62 33 0 0 0 8
+D0
+~
+~
+0 0 6289 0
+D3
+~
+~
+0 0 6284 0
+D4
+~
+~
+0 0 6283 0
+S
+#6291
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D1
+~
+~
+0 0 6292 0
+D2
+~
+~
+0 0 6275 0
+D4
+~
+~
+0 0 6251 0
+S
+#6292
+Mid-depths of the Lake~
+Visibility in the mid-depths is reduced except for where beams of
+muted sunlight are able to penetrate the waters from between the
+floating patches of seaweed above.  The feeling of being here is
+surreal, as if one was in another weightless dimension.    
+~
+62 32 0 0 0 8
+D2
+~
+~
+0 0 6276 0
+D3
+~
+~
+0 0 6291 0
+D4
+~
+~
+0 0 6250 0
+S
+#6293
+Western Edge of Lake Dargoren~
+Gentle waves created by the breeze break the otherwise tranquil
+surface of this lake.  Strands of seaweed float in patches, striving
+to reach the life-giving sunlight.  An occasional splash can be heard
+as something breaks the surface in search of food.  A broad expanse of
+land can be seen to the west, but the banks are too steep to scale.  
+
+~
+62 0 0 0 0 6
+D1
+~
+~
+0 0 6262 0
+S
+#6294
+Damp Tunnel~
+The tunnel seems to be crudely carved out of solid bedrock.  The beads
+of moisture accumulating on the stony walls hint that the tunnel may
+be under a body of water.  The air is damp and chilly.  Only the faint
+sound of water dripping off from the low ceiling onto the floor can be
+heard.  The tunnel continues north and leads back up to the sunshine.
+~
+62 769 0 0 0 0
+D0
+~
+~
+0 0 6210 0
+D4
+~
+~
+0 0 6211 0
+S
+#6295
+Tribal Lodge~
+Upon walking into the lodge, one is struck by the sharp contrast of
+these plush surrounds compared to the rest of the Amazon village.  
+Several tiger skins have been stitched together to form a comfortable
+carpet.  Feathers from numerous exotic birds have been arranged on the
+walls as decorations.  The four sisters who rule this village have
+taken great pride in making this lodge a comfortable place to call
+home.  To the west is the private chamber of Melodie, the kind sister.
+To the east is the room of Sienna, the sister of darkness.    
+~
+62 65544 0 0 0 0
+D1
+~
+door~
+1 0 6297 1
+D2
+~
+~
+0 0 6241 0
+D3
+~
+~
+0 0 6243 0
+S
+#6297
+The Room of Darkness~
+A heavy oppressive haze from the burning incense surrounds the room.
+Black satin drapes hang from the walls and crimson velvet pillows lie
+about creating an atmosphere of diabolical pleasure.  Glowing runes
+mark the doorway, offering soft light from which to see.  A pentagram
+is carved out from the hard floor and seems to be sprinkled with fresh
+blood.  This is the Room of Darkness, where Sienna the Dark Sister
+resides.    
+~
+62 65548 0 0 0 0
+D3
+~
+~
+0 0 6295 0
+S
+#6298
+A Small Channel~
+This small channel was carved into the earth by the men of Midan
+castle in order to keep their moat full and their water supply
+plentiful.  To the east is the clear waters of the Tallorean River,
+west the channel leads toward Midan Castle and the moat which
+surrounds it.    
+~
+62 268435520 0 0 0 7
+D1
+~
+~
+0 0 6200 0
+D3
+~
+~
+0 0 6299 0
+S
+#6299
+A Small Channel~
+You stand at the terminus of a small, man-made channel which branches
+off from the main river and feeds the moat around the Midan Castle.  
+You may head east toward the river or south into the nasty, slushy,
+oozing moat that surrounds Midan Castle.    
+~
+62 268435520 0 0 0 7
+D1
+~
+~
+0 0 6298 0
+D2
+~
+~
+0 0 2609 0
+S
+$~

@@ -1,0 +1,1393 @@
+#17035
+Crystal Passage~
+A dimly lit, and tight crystal passage that runs to the west.  Fog
+covers the floor, so it's impossible to see your own feet.    
+~
+170 13 0 0 0 0
+D3
+~
+~
+0 -1 17036 0
+D4
+~
+cellar~
+1 -1 17122 1
+S
+#17036
+Crystal Passage~
+A dimly lit, and tight crystal passage that runs east and west.  Fog
+covers the floor, so it's impossible to see your own feet.    
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17035 0
+D3
+~
+~
+0 -1 17037 0
+S
+#17037
+Crystal Passage~
+A dimly lit, and tight crystal passage that runs east and west.  Fog
+covers the floor, so it's impossible to see your own feet.    
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17036 0
+D3
+~
+~
+0 -1 17038 0
+S
+#17038
+Crystal Passage~
+A dimly lit, and tight crystal passage that continues to the east.  
+West lies the Crystal dungeon.  The fog begins to thicken and seeing
+more than 10 feet in front of you is almost impossible.    
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17037 0
+D3
+~
+~
+0 -1 17039 0
+S
+#17039
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2, maybe
+3 feet directly in front of you. Looks like your going to have to feel
+your way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17049 0
+D1
+~
+~
+0 -1 17038 0
+D2
+~
+~
+0 -1 17079 0
+D3
+~
+~
+0 -1 17040 0
+S
+#17040
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17050 0
+D1
+~
+~
+0 -1 17039 0
+D2
+~
+~
+0 -1 17080 0
+D3
+~
+~
+0 -1 17041 0
+S
+#17041
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17051 0
+D1
+~
+~
+0 -1 17040 0
+D2
+~
+~
+0 -1 17081 0
+D3
+~
+~
+0 -1 17042 0
+S
+#17042
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17052 0
+D1
+~
+~
+0 -1 17041 0
+D2
+~
+~
+0 -1 17082 0
+D3
+~
+~
+0 -1 17043 0
+S
+#17043
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17053 0
+D1
+~
+~
+0 -1 17042 0
+D2
+~
+~
+0 -1 17083 0
+D3
+~
+~
+0 -1 17044 0
+S
+#17044
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17054 0
+D1
+~
+~
+0 -1 17043 0
+D2
+~
+~
+0 -1 17084 0
+D3
+~
+~
+0 -1 17045 0
+S
+#17045
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17055 0
+D1
+~
+~
+0 -1 17044 0
+D2
+~
+~
+0 -1 17085 0
+D3
+~
+~
+0 -1 17046 0
+S
+#17046
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17056 0
+D1
+~
+~
+0 -1 17045 0
+D2
+~
+~
+0 -1 17086 0
+D3
+~
+~
+0 -1 17047 0
+S
+#17047
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17057 0
+D1
+~
+~
+0 -1 17046 0
+D2
+~
+~
+0 -1 17087 0
+D3
+~
+~
+0 -1 17048 0
+S
+#17048
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17058 0
+D1
+~
+~
+0 -1 17047 0
+D2
+~
+~
+0 -1 17088 0
+S
+#17049
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17059 0
+D2
+~
+~
+0 -1 17039 0
+D3
+~
+~
+0 -1 17050 0
+S
+#17050
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17060 0
+D1
+~
+~
+0 -1 17049 0
+D2
+~
+~
+0 -1 17040 0
+D3
+~
+~
+0 -1 17051 0
+S
+#17051
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17061 0
+D1
+~
+~
+0 -1 17050 0
+D2
+~
+~
+0 -1 17041 0
+D3
+~
+~
+0 -1 17052 0
+S
+#17052
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17062 0
+D1
+~
+~
+0 -1 17051 0
+D2
+~
+~
+0 -1 17042 0
+D3
+~
+~
+0 -1 17053 0
+S
+#17053
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17063 0
+D1
+~
+~
+0 -1 17052 0
+D2
+~
+~
+0 -1 17043 0
+D3
+~
+~
+0 -1 17054 0
+S
+#17054
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17064 0
+D1
+~
+~
+0 -1 17053 0
+D2
+~
+~
+0 -1 17044 0
+D3
+~
+~
+0 -1 17055 0
+S
+#17055
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17065 0
+D1
+~
+~
+0 -1 17054 0
+D2
+~
+~
+0 -1 17045 0
+D3
+~
+~
+0 -1 17056 0
+S
+#17056
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17066 0
+D1
+~
+~
+0 -1 17055 0
+D2
+~
+~
+0 -1 17046 0
+D3
+~
+~
+0 -1 17057 0
+S
+#17057
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17067 0
+D1
+~
+~
+0 -1 17056 0
+D2
+~
+~
+0 -1 17047 0
+D3
+~
+~
+0 -1 17058 0
+S
+#17058
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17068 0
+D1
+~
+~
+0 -1 17057 0
+D2
+~
+~
+0 -1 17048 0
+S
+#17059
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17069 0
+D2
+~
+~
+0 -1 17049 0
+D3
+~
+~
+0 -1 17060 0
+S
+#17060
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17070 0
+D1
+~
+~
+0 -1 17059 0
+D2
+~
+~
+0 -1 17050 0
+D3
+~
+~
+0 -1 17061 0
+S
+#17061
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17071 0
+D1
+~
+~
+0 -1 17060 0
+D2
+~
+~
+0 -1 17051 0
+D3
+~
+~
+0 -1 17062 0
+S
+#17062
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17072 0
+D1
+~
+~
+0 -1 17061 0
+D2
+~
+~
+0 -1 17052 0
+D3
+~
+~
+0 -1 17063 0
+S
+#17063
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17073 0
+D1
+~
+~
+0 -1 17062 0
+D2
+~
+~
+0 -1 17053 0
+D3
+~
+~
+0 -1 17064 0
+S
+#17064
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17074 0
+D1
+~
+~
+0 -1 17063 0
+D2
+~
+~
+0 -1 17054 0
+D3
+~
+~
+0 -1 17065 0
+S
+#17065
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17075 0
+D1
+~
+~
+0 -1 17064 0
+D2
+~
+~
+0 -1 17055 0
+D3
+~
+~
+0 -1 17066 0
+S
+#17066
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17076 0
+D1
+~
+~
+0 -1 17065 0
+D2
+~
+~
+0 -1 17056 0
+D3
+~
+~
+0 -1 17067 0
+S
+#17067
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17077 0
+D1
+~
+~
+0 -1 17066 0
+D2
+~
+~
+0 -1 17057 0
+D3
+~
+~
+0 -1 17068 0
+S
+#17068
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17078 0
+D1
+~
+~
+0 -1 17067 0
+D2
+~
+~
+0 -1 17058 0
+S
+#17069
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D2
+~
+~
+0 -1 17059 0
+D3
+~
+~
+0 -1 17070 0
+S
+#17070
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17069 0
+D2
+~
+~
+0 -1 17060 0
+D3
+~
+~
+0 -1 17071 0
+S
+#17071
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17070 0
+D2
+~
+~
+0 -1 17061 0
+D3
+~
+~
+0 -1 17072 0
+S
+#17072
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17071 0
+D2
+~
+~
+0 -1 17062 0
+D3
+~
+~
+0 -1 17073 0
+S
+#17073
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17072 0
+D2
+~
+~
+0 -1 17063 0
+D3
+~
+~
+0 -1 17074 0
+S
+#17074
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17073 0
+D2
+~
+~
+0 -1 17064 0
+D3
+~
+~
+0 -1 17075 0
+S
+#17075
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17074 0
+D2
+~
+~
+0 -1 17065 0
+D3
+~
+~
+0 -1 17076 0
+S
+#17076
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17075 0
+D2
+~
+~
+0 -1 17066 0
+D3
+~
+~
+0 -1 17077 0
+S
+#17077
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17076 0
+D2
+~
+~
+0 -1 17068 0
+D3
+~
+~
+0 -1 17078 0
+S
+#17078
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D1
+~
+~
+0 -1 17077 0
+D2
+~
+~
+0 -1 17068 0
+S
+#17079
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17039 0
+D2
+~
+~
+0 -1 17089 0
+D3
+~
+~
+0 -1 17080 0
+S
+#17080
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17039 0
+D1
+~
+~
+0 -1 17079 0
+D2
+~
+~
+0 -1 17090 0
+D3
+~
+~
+0 -1 17081 0
+S
+#17081
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17041 0
+D1
+~
+~
+0 -1 17080 0
+D2
+~
+~
+0 -1 17091 0
+D3
+~
+~
+0 -1 17082 0
+S
+#17082
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17042 0
+D1
+~
+~
+0 -1 17081 0
+D2
+~
+~
+0 -1 17092 0
+D3
+~
+~
+0 -1 17083 0
+S
+#17083
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17043 0
+D1
+~
+~
+0 -1 17082 0
+D2
+~
+~
+0 -1 17093 0
+D3
+~
+~
+0 -1 17084 0
+S
+#17084
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17044 0
+D1
+~
+~
+0 -1 17083 0
+D2
+~
+~
+0 -1 17094 0
+D3
+~
+~
+0 -1 17085 0
+S
+#17085
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17045 0
+D1
+~
+~
+0 -1 17084 0
+D2
+~
+~
+0 -1 17095 0
+D3
+~
+~
+0 -1 17086 0
+S
+#17086
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17046 0
+D1
+~
+~
+0 -1 17085 0
+D2
+~
+~
+0 -1 17096 0
+D3
+~
+~
+0 -1 17087 0
+D5
+~
+vault~
+2 17112 17099 15
+S
+#17087
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17047 0
+D1
+~
+~
+0 -1 17086 0
+D2
+~
+~
+0 -1 17097 0
+D3
+~
+~
+0 -1 17088 0
+S
+#17088
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17048 0
+D1
+~
+~
+0 -1 17087 0
+D2
+~
+~
+0 -1 17098 0
+S
+#17089
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17079 0
+D3
+~
+~
+0 -1 17090 0
+S
+#17090
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17080 0
+D1
+~
+~
+0 -1 17089 0
+D3
+~
+~
+0 -1 17091 0
+S
+#17091
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17081 0
+D1
+~
+~
+0 -1 17090 0
+D3
+~
+~
+0 -1 17092 0
+S
+#17092
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17082 0
+D1
+~
+~
+0 -1 17091 0
+D3
+~
+~
+0 -1 17093 0
+S
+#17093
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17083 0
+D1
+~
+~
+0 -1 17092 0
+D3
+~
+~
+0 -1 17094 0
+S
+#17094
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17084 0
+D1
+~
+~
+0 -1 17093 0
+D3
+~
+~
+0 -1 17095 0
+S
+#17095
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17085 0
+D1
+~
+~
+0 -1 17094 0
+D3
+~
+~
+0 -1 17096 0
+S
+#17096
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17086 0
+D1
+~
+~
+0 -1 17095 0
+D3
+~
+~
+0 -1 17097 0
+S
+#17097
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17087 0
+D1
+~
+~
+0 -1 17096 0
+D3
+~
+~
+0 -1 17098 0
+S
+#17098
+Foggy Dungeon~
+You are enveloped within the thick fog. You can't see for more than 2 , maybe
+3 feet directly in front of you. Looks like your going to have to feel your
+way through here.
+~
+170 9 0 0 0 0
+D0
+~
+~
+0 -1 17088 0
+D1
+~
+~
+0 -1 17097 0
+S
+#17099
+Secret Vault.~
+   A solid crystal vault that glimmers with the reflection of gold.
+You can't believe it! It actually exists!
+~
+170 9 0 0 0 0
+D4
+~
+vault~
+2 17112 17086 15
+S
+$~

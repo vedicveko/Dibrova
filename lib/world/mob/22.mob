@@ -1,0 +1,513 @@
+#2200
+snapping turtle~
+the Snapping Turtle~
+A snapping turtle is here waiting to snap at you.
+~
+It is small, but deadly.
+~
+104 0 0 0 0 0 0 0 -100 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 0
+BareHandAttack: 4
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 2
+E
+#2201
+giant tick~
+a Giant Tick~
+A giant tick is here hungry for blood.
+~
+It is the largest and probably most deadly insect you have ever seen.
+~
+104 0 0 0 0 0 0 0 -150 E
+31 15 -20 1d31+2300 3d4+15
+0 29763
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 6
+Luck: 12
+Race: 5
+E
+#2202
+swamp demon~
+the Swamp Demon~
+A swamp demon is here searching for his next victim.
+~
+He blends in very well with the swamp, it is hard to get a
+description.    
+~
+104 0 0 0 0 0 0 0 -200 E
+32 15 -20 1d32+2325 3d5+16
+0 32273
+8 8 1
+BareHandAttack: 12
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 16
+Luck: 12
+Race: 41
+E
+#2203
+mud gremlin~
+a Mud Gremlin~
+A mud gremlin wander around here, he looks harmless if you keep your distance.
+~
+He looks ok, just stay out of his way.
+~
+72 0 0 0 0 0 0 0 -5 E
+33 16 -20 1d33+2350 3d5+16
+0 34908
+8 8 1
+BareHandAttack: 13
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 16
+Luck: 12
+Race: 7
+E
+#2204
+slime monster~
+the Slime Monster~
+A big, dumb slime monster is here searching for food.
+~
+It is big and dumb.
+~
+72 0 0 0 0 0 0 0 15 E
+34 17 -20 1d34+2375 3d6+17
+0 37669
+8 8 1
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 6
+Luck: 12
+E
+#2205
+agatha swamp hag~
+the Swamp Hag~
+Agatha rest upon her divan, a far away look upon her face.
+~
+She is the ugliest woman you have ever seen, bar none.  No wonder she
+could only get a bullywog to court her and no wonder she has never
+moved on to greener pastures after his death.  No pun intended.    
+~
+2058 0 0 0 2128 0 0 0 -200 E
+45 25 -24 1d45+3000 4d5+30
+625 76985
+8 8 2
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 14
+Luck: 12
+Class: 1
+Race: 14
+E
+#2206
+rat swamp greasy~
+a greasy red-eyed Swamp Rat~
+A greasy red-eyed swamp rat looks at up you and snarls.
+~
+The thing looks so caked with grime and filth that it must have been
+swimming in shite just before you came along.    
+~
+72 0 0 0 0 0 0 0 -800 E
+14 4 44 1d14+400 1d5+7
+0 3920
+8 8 0
+BareHandAttack: 8
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 23
+Luck: 12
+Race: 1
+E
+#2207
+leech slimy~
+a slimy Leech~
+You look down to see a slimy leech attempting to suck onto you!
+~
+It is light greenish-white and moving in your direction!
+~
+72 0 0 0 0 0 0 0 0 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 0
+BareHandAttack: 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+Race: 5
+E
+#2208
+slime carnivorous~
+some carnivorous Slime~
+Some carnivorous slime slinks its way toward you.
+~
+It is nothing but a mass of gooey nastiness, but still - it leaves in
+its path nothing but clean grounds.    
+~
+72 0 0 0 0 0 0 0 -400 E
+19 7 24 1d19+900 2d3+9
+0 8541
+8 8 0
+BareHandAttack: 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+E
+#2209
+mist vaporish crimson death~
+the Crimson Death~
+A vaporish cloud hangs low over the swampy ground.
+~
+It almost seems to be humanoid in shape, a pale color of gray.
+~
+42 0 0 0 4 0 0 0 -700 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 0
+BareHandAttack: 16
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 23
+Luck: 12
+Race: 11
+E
+#2210
+Gretchen~
+Gretchen~
+Gretchen sits upon her couch, eating a large melon with her bare hands.
+~
+The juice of the melon trails down her cheeks.  Upon lifting her face
+from the melon, she alternates between large gulps of air and snorts
+when her mouth and nose are to full of melon and melon juice.    
+~
+16394 0 0 0 65536 4194304 0 0 100 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 13
+Luck: 12
+Race: 14
+E
+#2211
+horse gretchen's~
+Gretchen's horse~
+A worthless nag with a bowed back stands forlornly near the exit to the swamp.
+~
+It appears that this poor fella just tried to shoulder too heavy a
+load for too long.    
+~
+262154 0 0 0 0 0 0 0 300 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 0
+BareHandAttack: 5
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 52
+E
+#2212
+Tammera~
+Tammera~
+Tammera is here, brushing back a swath of matted, bleach blond hair.
+~
+She hums as she brushes her hair, absently chewing on a strand of the
+filthy stuff while adding extra padding to her bra with her free hand.
+~
+8202 0 0 0 0 0 0 0 200 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 21
+Luck: 12
+Race: 14
+E
+#2213
+Lissa twin~
+Lissa~
+Lissa is here spouting all sorts of nonsense at her sister.
+~
+She is puffed up (even more than her usual paunch) and proud of
+herself.  She lets her sister know the ins and the outs of all worldly
+happenings without actually saying anything.    
+~
+10 0 0 0 0 0 0 0 300 E
+32 15 -20 1d32+2325 3d4+21
+300 32273
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 23
+Luck: 12
+Race: 14
+E
+#2214
+Lorri twin~
+Lorri~
+Lorri listens raptly, an expression of pure stupidity fixed upon her upturned face.
+~
+As she stares up at her older, wiser sister in awe, Lorri reaches out
+to touch Lissa's arm.  Lissa snaps it away with a flick of her hand in
+annoyance, but doesn't stop talking.    
+~
+10 0 0 0 0 0 0 0 300 E
+29 13 -16 1d29+2200 3d3+19
+250 25109
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 13
+Luck: 12
+Race: 14
+E
+#2215
+Yillnette~
+Yillnette~
+Yillnette is here, looking sad and lonely - and surprisingly beautiful.
+~
+She looks at you with hope, as if she might believe that you were here
+to save her rather than slay her.    
+~
+10 0 0 0 0 0 0 0 500 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 15
+Luck: 12
+Race: 14
+E
+#2216
+mudman~
+a Mudman~
+A mudman walks the halls, keeping watch over the sisters.
+~
+It is made from mud and slime from the swamp.  It has only one
+function - to protect and serve the sisters.    
+~
+72 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 1
+BareHandAttack: 6
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 14
+Luck: 12
+Race: 33
+E
+#2217
+mudman guard~
+a mudman Guard~
+A mudman stands rigidly guarding the entrance to the shrine.
+~
+It does not look at you, of course it really can't due to the fact
+that it has no eyes, only indentations in its head.    
+~
+42 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 1
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 13
+Luck: 12
+Class: 4
+Race: 33
+E
+#2218
+mudman~
+a mudman Patroller~
+A mudman patrols the halls of the vine fortress looking for signs of intruders.
+~
+It stops upon seeing you, appears to think for a moment and then
+attacks.    
+~
+4200 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 21
+Luck: 12
+Race: 33
+E
+#2219
+male prisoner~
+a male Prisoner~
+A male prisoner is curled into a ball on the floor.
+~
+He is torn and filthy, bedraggled and most certainly out of his mind.
+~
+72 0 0 0 0 0 0 0 200 E
+17 6 32 1d17+700 1d6+8
+0 6432
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 12
+Luck: 12
+Race: 14
+E
+#2220
+male prisoner~
+a male Prisoner~
+A male prisoner is leaning against the far wall, squinting against the light.
+~
+He is torn and filthy, bedraggled and most certainly out of his mind.
+~
+72 0 0 0 0 0 0 0 300 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Race: 14
+E
+#2221
+male prisoner~
+a male Prisoner~
+A male prisoner smiles as you enter into the room.
+~
+He squints up at you and grins. He holds out an arm to help him up.
+~
+24 0 0 0 0 0 0 0 0 E
+19 7 24 1d19+900 2d3+9
+0 8541
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 9
+Luck: 12
+Race: 14
+E
+#2222
+male prisoner~
+a male Prisoner~
+A male prisoner is hunched into a tight ball on the floor.
+~
+He does not look up nor does he move.  He is obviously too far gone to
+care what happens to himself anymore.    
+~
+74 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 12
+Race: 14
+E
+#2223
+mudman~
+a Mudman~
+A mudman wanders about the room, performing tasks for Agatha.
+~
+It shambles about as if not sure of what it is doing or else very
+stupid.  Probably both.    
+~
+104 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d4+12
+0 17197
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 21
+Luck: 12
+Race: 33
+E
+$

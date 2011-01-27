@@ -1,0 +1,564 @@
+#25030
+/cCThe Lounge Area/c0~
+   This is the lounge area where ArchAngel and his guests rest and
+relax after their fights.  The walls, ceiling, and floor of this room
+are made entirely of green and blue marble.  The room is furnished
+with comfortable couches and round wooden tables.  Up above, crystal
+chandeliers hang from the green marble ceiling.  Lastly, the
+temperature of the room is kept at a warm level by a large fireplace
+located in the back of the room.  A hallway toward the west leads to
+the private quarters.    
+~
+250 342536 0 0 0 0
+D0
+~
+~
+0 0 3534 0
+D2
+~
+~
+0 0 25031 0
+D3
+~
+~
+0 0 25032 0
+S
+#25031
+/cCThe Endowment Room/c0 ~
+   This is the room where people can leave equipment and other
+necessities so that other players can use them.  The walls of this
+room are painted with blue and green paint and the ceiling is
+plastered with blocks of marble tiles.  Other than the ruby chandelier
+that lights this room, everything that is in this room is second hand.
+~
+250 68104 0 0 0 0
+D0
+~
+~
+0 0 25030 0
+S
+#25032
+/cCA Hallway/c0~
+   At the end of this hallway, a potted plant on top of a wooden table
+can be seen.  The floor and ceiling is made of clear, white marble.  
+Some pictures and works of art can be seen hanging on the plastered
+walls.  To the north and to the south, rooms can be seen.    
+~
+250 8200 0 0 0 0
+D0
+~
+~
+0 0 25033 0
+D1
+~
+~
+0 0 25030 0
+D2
+~
+~
+0 0 25034 0
+D3
+~
+~
+0 0 25035 0
+S
+#25033
+/cCArchAngel's Throne Room/c0~
+This is ArchAngel's throne room.
+~
+250 68104 0 0 0 0
+D2
+~
+~
+0 0 25032 0
+S
+#25034
+/cCDeadpool's Tower of Magic/c0~
+This is Deadpool's private room.
+~
+250 512 0 0 0 0
+D0
+~
+~
+0 0 25032 0
+S
+#25035
+/cCA Hallway/c0~
+   At the end of this hallway, a potted plant on top of a wooden table
+can be seen.  The floor and ceiling is made of clear, white marble.  
+Some pictures and works of art can bee seen hanging on the plastered
+walls.  To the north and to the south, rooms can be seen.    
+~
+250 8200 0 0 0 0
+D0
+~
+~
+0 0 25036 0
+D1
+~
+~
+0 0 25032 0
+D2
+~
+~
+0 0 25037 0
+D3
+~
+~
+0 0 25039 0
+S
+#25036
+/cCWoody's Royal Room/c0~
+This is woody's private room.
+~
+250 2568 0 0 0 0
+D2
+~
+~
+0 0 25035 0
+S
+#25037
+/cRBeezus' Hell Hole/c0~
+This is Beezus' hell hole.
+~
+250 68104 0 0 0 0
+D0
+~
+~
+0 0 25035 0
+S
+#25038
+/cCTower of /cwCloudLand/c0~
+This is Ccmeng's private room.
+~
+250 68096 0 0 0 0
+D2
+~
+~
+0 0 25039 0
+S
+#25039
+/cCA Hallway/c0~
+   At the end of this hallway, a potted plant on top of a wooden table
+can be seen.  The floor and ceiling is made of clear, white marble.  
+Some pictures and works of art can bee seen hanging on the plastered
+walls. To the north and to the south, rooms can be seen.
+~
+250 8200 0 0 0 0
+D0
+~
+~
+0 0 25038 0
+D1
+~
+~
+0 0 25035 0
+D2
+~
+~
+0 0 25040 0
+D3
+~
+~
+0 0 25041 0
+S
+#25040
+/cCThe Alcove of Faith/c0~
+This is Faith's cove.
+~
+250 68096 0 0 0 0
+D0
+~
+~
+0 0 25039 0
+S
+#25041
+/cCA Hallway/c0~
+   At the end ot this hallway, a potted plant on top of a wooden table
+can be seen.  The floor and ceiling is made of clear, white marble.  
+Some pictures and works of art can be seen hanging on the plastered
+walls.  To the north and south, rooms can be seen.    
+~
+250 8200 0 0 0 0
+D0
+~
+~
+0 0 25042 0
+D1
+~
+~
+0 0 25039 0
+S
+#25042
+/cRDemion's Sanctuary/c0~
+   This is the home of Demion, a fierce and mighty killer.  Excess
+bones and body parts are carelessly scattered and have started to pile
+up in the corners.  Blood is sprinkled everywhere forming various
+interesting partterns.  A lone light glows from high above in the
+ceiling, and is barely powerful enough to illuminate the otherwise
+completely dark room.    
+~
+250 2560 0 0 0 0
+D2
+~
+~
+0 0 25041 0
+S
+#25045
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25050
+Midgaard Arena Headquarters~
+You are standing a squat low building over looking a large gated arena
+just east of Midgaard Field.  As you look out at the arena, you can
+spy two people fighting in a bloody, gory duel.  West is the Great
+Field of Midgaard, to get east, you'll have to talk to the Arena
+Master.    
+~
+250 65756 0 0 0 0
+D0
+~
+~
+0 0 25056 0
+D3
+~
+~
+0 0 3060 0
+S
+#25051
+The Arena~
+You stand in a large open field.  All of the grass has been trampled
+down leaving only dirt and a few hardy scruffs of grass.    
+~
+250 196608 0 0 0 2
+D0
+~
+~
+0 0 25053 0
+D1
+~
+~
+0 0 25052 0
+S
+#25052
+The Arena~
+You stand in a large open field.  All of the grass has been trampled
+down leaving only dirt and a few hardy scruffs of grass.    
+~
+250 65536 0 0 0 2
+D0
+~
+~
+0 0 25054 0
+D3
+~
+~
+0 0 25051 0
+S
+#25053
+The Arena~
+You stand in a large open field.  All of the grass has been trampled
+down leaving only dirt and a few hardy scruffs of grass.    
+~
+250 65536 0 0 0 2
+D1
+~
+~
+0 0 25054 0
+D2
+~
+~
+0 0 25051 0
+S
+#25054
+The Arena~
+You stand in a large open field.  All of the grass has been trampled
+down leaving only dirt and a few hardy scruffs of grass.    
+~
+250 65536 0 0 0 2
+D1
+~
+~
+0 0 25055 0
+D2
+~
+~
+0 0 25052 0
+D3
+~
+~
+0 0 25053 0
+S
+#25055
+The Arena Exit~
+The bloody field ends at a large steel door, making this the only way
+out.  The arena lies back to the west.    
+~
+250 65536 0 0 0 2
+D3
+~
+~
+0 0 25054 0
+S
+#25056
+Midgaard Arena~
+You stand in a wide open field that serves as a arena combat area in
+Midgaard, the way to safety lie south.    
+~
+250 196608 0 0 0 2
+D1
+~
+~
+0 0 12300 0
+D2
+~
+~
+0 0 25050 0
+S
+#25057
+Midgaard Arena~
+You stand in a wide open field that serves as a arena combat area in
+Midgaard, t he way to safety lie south.    
+~
+250 196608 0 0 0 2
+S
+#25058
+Midgaard Arena~
+You are in an unfinished room.
+~
+250 65536 0 0 0 0
+S
+#25060
+G & O~
+You are standing in the doorway to the home of Oddjob, The Mighty Monk
+and Gorbundrel Bantle, the powerful cleric.  I hope you are welcome
+here because the owners don't like trespassers, better ask permission
+before proceeding.  If you are here to Ophelia, just knock 69 times
+and she will be here shortly.  She has to clean up, you know.  If you
+are here by accident, then LEAVE!  If you are here to see either
+Gorbundrel or Oddjob, then you are outa luck, because they are both at
+work.  Down would be a terrible mistake is you are not a member of
+Genocide...  Punishable by death!    
+~
+250 68096 0 0 0 0
+D2
+~
+~
+0 0 500 0
+D3
+~
+~
+0 0 25061 0
+D5
+~
+~
+0 0 -1 0
+S
+#25061
+G & O  Sparkling Hallway~
+This charming little mudroom has braziers and panties scattered everywhere.  Oddjob doesn't often come by here so Ophelia feels free to bring here boyfriends here.  She only wears the lingerie to seduce, after that, she has no use for it.
+~
+250 65536 0 0 0 0
+D1
+~
+~
+0 0 25062 0
+S
+#25062
+O & G~
+A sparkling hallway.
+Ophelia believes that since this room doesn't make sense that she can not be found here.  She is not to bright.  This room is stocked with marijuana, booze, comdoms, sex toys, even Cokaina.  This bitch is in business!!!  
+Ophelia has served a countless number of Dibrovans here. Oddjob, Baker, Lutheruin, Lord and even the cold-hearted Rapax to name a few.  Gorbundrel sees her like a little sister, so he has never done the bitch.
+If you are here to see Ophelia you must be feeling lonely.  Keep in mind it is temporary, because this bitch is mainly for fucking and thats it!
+~
+250 65536 0 0 0 0
+D3
+~
+~
+0 0 25063 0
+S
+#25063
+A Sparkling Hallway~
+This is Ophelias bedroom.  Ungodly acts of lust stain the walls and the smell of sex seems to occupy your mind.  This Ophelia must have some sexdrive.  You guess that she is probably in her thirties or is raking it in.  
+Ophelia is a prostitute that loves her job.  I believe she does 10 men a day and Oddjob has no clue, so don't tell him!!
+Gorbundrel is sickened by her profession, but he loves her like a daughter, what can he do?  Gorbundrel would ANNIHILATE anyone who put her down.  Oddjob would ANNIHILATE anyone who smiles at her.
+Oddjob is so whipped!
+~
+250 65536 0 0 0 0
+D0
+~
+~
+0 0 25064 0
+S
+#25064
+G & O~
+Beginning of house.  The hallway opens up into an empty room.  There
+is a doorway to the east, it looks like another big empty room.  The
+entrance to the house of O&G.  If you are lucky you can catch
+Lutheruin banging Ophelia here in the main hall of the house.  
+Lutheruin is a shady little man and Ophelia is just down right horny!
+If Oddjob even caught wind of this it would be Lutheruin's execution.
+Luckily, Oddjob is as blind as a bat and beleives everything his
+lovely little slut tells him is the truth.  Lutheruin secretly plans
+to take everything Oddjob calls his own.  He just doesn't know how
+yet.  Gorbundrel will ultimately group with Oddjob against any attack
+on his life/material life/love life....  The pussy-whipped fool.    
+~
+250 76288 0 0 0 0
+D1
+~
+~
+0 0 25065 0
+D2
+~
+~
+0 0 25060 0
+S
+#25065
+O & G~
+Marguis and Ophelia used to escape to this room.  They were lovers to
+the fullest extent.  Gorbundrel didn't like his closest companion,
+Marguis, getting it on with a whore and Oddjob hated seeing his
+so-called women with a dirty evil-bastard like Marguis It's a tearfull
+sight to see the love between Marguis and Ophelia when they are forced
+to be in the same room with each other and can't even make eyes for
+fear of jealousy and abandonment.  It's a tearfull sight to see the
+love between Marguis and Ophelia when they are forced to be in the
+same room with each other and can't even make eyes for fear of
+jealousy and abandonment.  There is a musky smell to this room.  
+Ophelia musta stank!!    
+~
+250 80384 0 0 0 0
+D1
+~
+~
+0 0 25066 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 25064 0
+S
+#25066
+2~
+This cluttered room is where Oddjob likes to keep all his junk.  If
+you are a guest in the house, feel free to pick through this heap of
+junk.  Gorbundrel would like to see this room cleaned up a little.  
+Oddjob needs to clean his room.  Ophelia and Suz can usually be found
+making lesbian love to the north and if you're lucky Grolch may be
+there to.  I wouldn't suggest interupting them, but stop and watch for
+a bit, Gorbundrel usually does.    
+~
+250 4274688 0 0 0 0
+D0
+~
+~
+0 0 25067 0
+D3
+~
+~
+0 0 25065 0
+S
+#25067
+Living room.~
+This is where Ophelia waits patiently for her man.  There is a young
+girl here walking on rose petals.  She smiles at you and asks,"May I
+help you to your chamber?  " This young cleric often gets restless
+waiting for Oddjob and there has been suspition Talk that is, of her
+being courted by another man, another monk at that!!!  Baker always
+was a ladies man.  Best not to ask Oddjob about it because he has
+quite a temper.  Baker believes that he can overcome Oddjob and get
+his wicked lay in the process.  Baker plans to first take Ophelia for
+his own, leaving Oddjob beat-down and just plain hummiliated Word has
+it that Ophelia has the deedest throat in all of Dibrova and loves to
+show off.  Making her the most desired woman in the world.  Problem
+is, Oddjob is one of those crazy boyfriends that even when she leaves
+him, he doesn't understand.    
+~
+250 6664 0 0 0 0
+D2
+~
+~
+0 0 25066 0
+S
+#25068
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25069
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25070
+undefined~
+Nothing.
+~
+250 65536 0 0 0 0
+S
+#25071
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+D3
+~
+~
+0 0 -1 0
+S
+#25075
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25080
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25081
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25082
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25097
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25098
+undefined~
+Nothing.
+~
+250 0 0 0 0 0
+S
+#25099
+Aboard the Xephyr~
+The ship is huge, her sails seemingly reaching the sky.  The deck is
+clear and the ropes are neatly stored out of the way.  Three massive
+masts, each carrying three sails apiece, creak and groan against the
+pressure of the wind upon the sails.  The figurehead upon the prow
+seems to point the way to the promised land.    
+~
+250 4 0 0 0 0
+S
+$~

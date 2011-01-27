@@ -1,0 +1,759 @@
+#7500
+proud horse stallion~
+a proud Stallion~
+A large proud stallion prances about here.
+~
+The stallion prances and snorts as it runs about.  It is a black
+stallion of good breeding.  Its deep chest suggests he might have
+staying power in a long run.    
+~
+262152 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 7
+Str: 13
+Dex: 25
+Int: 16
+Wis: 19
+Con: 12
+Cha: 21
+Luck: 23
+Race: 52
+E
+#7501
+cat calico~
+a Calico Cat~
+A calico cat wanders around looking for mice.
+~
+The cat is very fat.  Its calico fur is stretched quite tight around
+its belly.  Hunting must be good.    
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+0 1d1+1
+0 27
+8 8 2
+BareHandAttack: 8
+Str: 10
+Dex: 14
+Int: 20
+Wis: 14
+Con: 24
+Cha: 18
+Luck: 10
+Race: 1
+E
+#7502
+Darwin baron man~
+Baron Darwin~
+Baron Darwin stands here with a greedy gleam in his eyes.
+~
+Baron Darwin is a tall man with a medium build.  His long dark hair
+has been combed back from his forehead and hangs well down his back.
+His eyes have a pinched look to them.    
+~
+559146 0 0 0 1573200 0 0 0 -1000 E
+120 100 -40 1d1+0 14d14+80
+2450 1032812
+8 8 1
+BareHandAttack: 14
+Str: 15
+Dex: 10
+Int: 6
+Wis: 20
+Con: 24
+Cha: 6
+Luck: 14
+Class: 8
+Race: 14
+E
+#7503
+thewin captain man guard~
+Captain Thewin~
+Captain Thewin patrols the area while checking on his guards.
+~
+Thewin is a large man.  His shoulders are easily three feet across.  
+His face has a self-assured look, that of a man that has faced death
+and has found it lacking.    
+~
+1579084 0 0 0 33554448 0 0 0 -500 E
+115 94 -40 1d1+0 13d13+76
+2325 842356
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 10
+Int: 13
+Wis: 22
+Con: 20
+Cha: 17
+Luck: 22
+Class: 4
+Race: 14
+E
+#7504
+mullins lt guard~
+Lieutenant Mullins~
+LT Mullins wanders about checking on security.
+~
+Mullins is a young man.  His elevation to his rank must mean he has
+promise.  He stands just over six feet tall with long blonde hair.  
+~
+1591368 0 0 0 65552 4194304 0 0 -500 E
+113 91 -40 1d1+0 12d13+75
+2275 805501
+8 8 1
+BareHandAttack: 11
+Str: 21
+Dex: 16
+Int: 14
+Wis: 9
+Con: 19
+Cha: 17
+Luck: 10
+Class: 10
+Race: 14
+E
+#7505
+stanchfield sergeant sgt guard~
+Sergeant Stanchfield~
+SGT Stanchfield mutters to himself as he makes his rounds.
+~
+Mat Stanchfield is easily six feet six inches tall.  His pocked marked
+face is framed by bright red hair.  His face and ears are red.  He has
+a frown upon his face.    
+~
+1087560 0 0 0 16 0 0 0 -500 E
+110 88 -40 1d1+0 11d12+73
+2200 752086
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 10
+Int: 5
+Wis: 12
+Con: 6
+Cha: 22
+Luck: 5
+Class: 10
+Race: 14
+E
+#7506
+morris sgt sergeant guard~
+Sergeant Morris~
+SGT Morris lazes about on his bunk.
+~
+SGT Morris is a big, fat and smelly person.  His eyes are puffy
+looking and his large chin has many smaller chins below it.  His armor
+has been let out and still stretches tightly about his middle.    
+~
+34080778 0 0 0 16 163840 0 0 -500 E
+110 88 -40 1d1+0 11d12+73
+2200 752086
+5 5 1
+BareHandAttack: 7
+Str: 25
+Dex: 23
+Int: 16
+Wis: 25
+Con: 12
+Cha: 25
+Luck: 9
+Class: 4
+Race: 14
+E
+#7507
+martin chef man~
+Chef Martin~
+The head chef busily goes about preparing the meal.
+~
+Chef Martain has a perpetual snarl to his mouth.  His greasy black
+hair sticks out from under his cap in every direction.    
+~
+2058 0 0 0 16 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 18
+Dex: 7
+Int: 18
+Wis: 23
+Con: 14
+Cha: 18
+Luck: 15
+Race: 14
+E
+#7508
+helper kitchen assistant~
+the Kitchen Helper~
+A kitchen helper is working hard to keep the chef happy.
+~
+The kitchen helper has a fugitive look about her.  She keeps her eyes
+down cast upon the task she is performing.  A small bruise near her
+right eye does not look to be from accidentally bumping into a door.
+~
+6154 0 0 0 16 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 2
+Str: 12
+Dex: 12
+Int: 14
+Wis: 14
+Con: 23
+Cha: 9
+Luck: 14
+Race: 14
+E
+#7509
+maid merry woman~
+a merry Maid~
+A maid hums happily as she goes about her business
+~
+The maid has a very shapely body.  Her face has an impish look to it,
+as though she knows some secret joke and isn't sharing it.  Her skimpy
+black outfit shows a goodly part of her body.    
+~
+1048648 0 0 0 16 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 2
+Str: 25
+Dex: 15
+Int: 22
+Wis: 5
+Con: 13
+Cha: 9
+Luck: 16
+Class: 12
+Race: 14
+E
+#7510
+butler quiet man~
+a quiet Butler~
+A distinguished looking man strolls along going about his business.
+~
+The butler has a haunty look about his face.  He carries himself very
+straight and his gait is very slow and smooth.  There is about him a
+polished look.    
+~
+1054792 0 0 0 16 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 13
+Str: 14
+Dex: 19
+Int: 7
+Wis: 13
+Con: 12
+Cha: 14
+Luck: 9
+Class: 12
+Race: 14
+E
+#7511
+servant head woman~
+the Head Servant~
+The headmistress of the servants frowns as she looks about.
+~
+The old hag's face is locked in a growl.  Her gray hair is pulled back
+tightly into a bun that sits on top of her head.  Her clothing is very
+plain and sever.    
+~
+6216 0 0 0 16 0 0 0 -200 E
+87 63 -40 1d1+0 6d7+58
+1575 413514
+8 8 2
+Str: 21
+Dex: 19
+Int: 14
+Wis: 25
+Con: 19
+Cha: 19
+Luck: 6
+Class: 12
+Race: 14
+E
+#7512
+guard gate ooga~
+a Gate Guard~
+A guard has been posted before the gates of the Keep.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  His armor is well mainatain and he does not have the common
+bored expression found on most hired guardsmen.    
+~
+34117640 0 0 0 2128 0 0 0 -500 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 14
+Int: 14
+Wis: 19
+Con: 12
+Cha: 19
+Luck: 17
+Class: 10
+Race: 14
+E
+#7513
+guard roving~
+a roving Guard~
+A guard patrols the grounds of the Keep.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  His armor is well mainatain and he does not have the common
+bored expression found on most hired guardsmen.    
+~
+628808 0 0 0 33554448 0 0 0 -500 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 6
+Str: 7
+Dex: 10
+Int: 14
+Wis: 9
+Con: 25
+Cha: 23
+Luck: 8
+Class: 4
+Race: 14
+E
+#7514
+page baron's boy~
+the Page~
+Baron Darwin's page stands ready to assist the Baron.
+~
+The young boy has a reserved expression upon his youthful face.  His
+hair has been chopped short and his clothing is immaculately clean for
+so young of a child.    
+~
+6154 0 0 0 16 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+250 27376
+8 8 1
+Str: 22
+Dex: 17
+Int: 10
+Wis: 24
+Con: 23
+Cha: 24
+Luck: 19
+Race: 14
+E
+#7515
+lookout man thief~
+the Lookout~
+A lookout scans the surrounding countryside.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  His armor is well mainatain and he does not have the common
+bored expression found on most hired guardsmen.    
+~
+530474 0 0 0 80 0 0 0 -500 E
+110 88 -40 1d1+0 11d12+73
+2200 752086
+8 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 13
+Int: 8
+Wis: 10
+Con: 13
+Cha: 9
+Luck: 24
+Class: 4
+Race: 14
+E
+#7516
+gardener man~
+the Gardener~
+A stooped old man tends the grounds.
+~
+The stooped old man's hands are covered by grass stains and dirt.  
+His old back is bowed, part of the occupational hazards of stooping to
+tend to the gardens.    
+~
+2120 0 0 0 16 0 0 0 100 E
+87 63 -40 1d1+0 6d7+58
+1575 413514
+8 8 1
+BareHandAttack: 14
+Str: 10
+Dex: 21
+Int: 12
+Wis: 14
+Con: 24
+Cha: 15
+Luck: 19
+Class: 5
+Race: 14
+E
+#7517
+thief training man~
+a Trainee~
+A young man trains in the various arts for his profession.
+~
+The young man is covered with sweet.  A youth has an expression of
+excitement that beems from his face as he practices his new found
+skills.    
+~
+34146314 0 0 0 524304 0 0 0 -300 E
+95 72 -40 1d1+0 6d8+63
+1825 517501
+8 8 1
+BareHandAttack: 11
+Str: 10
+Dex: 20
+Int: 18
+Wis: 17
+Con: 25
+Cha: 25
+Luck: 16
+Race: 14
+E
+#7518
+guard off duty~
+an off-duty Guard~
+An off duty guard rests in his bunk.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  With his sift being over he tries to catch up on some sleep.
+~
+34080778 0 0 0 16 0 0 0 -500 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+4 4 1
+Str: 21
+Dex: 9
+Int: 21
+Wis: 25
+Con: 8
+Cha: 25
+Luck: 12
+Class: 10
+Race: 14
+E
+#7519
+guard man~
+a Guardsman~
+A man leans idly against the stone wall.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  His armor is well mainatain and he does not have the common
+bored expression found on most hired guardsmen.    
+~
+22570 0 0 0 16 0 0 0 -500 E
+105 82 -40 1d1+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 20
+Int: 6
+Wis: 16
+Con: 8
+Cha: 14
+Luck: 25
+Class: 10
+Race: 14
+E
+#7520
+smith man large~
+a Blacksmith~
+A very large man covered with soot sits on a stool
+~
+The big burly man has curely brown hair.  His arms are easily as large
+as most peoples legs.  He has old scars on his face from hot metals
+flying up and burning him.    
+~
+34084906 0 0 0 80 0 0 0 0 E
+96 73 -40 1d1+0 6d8+64
+1850 531505
+5 5 1
+BareHandAttack: 12
+Str: 23
+Dex: 22
+Int: 12
+Wis: 24
+Con: 10
+Cha: 22
+Luck: 17
+Class: 4
+Race: 14
+E
+#7521
+boy stable~
+a Stable Boy~
+A young boy is mucking out the stalls.
+~
+The youth goes about his chores with an expression of distaste.  His
+feet are covered with manure and his hair hangs loosely about his
+shoulders.    
+~
+4106 0 0 0 0 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+200 17197
+8 8 1
+Str: 23
+Dex: 10
+Int: 24
+Wis: 25
+Con: 13
+Cha: 12
+Luck: 24
+Race: 14
+E
+#7522
+master stable stablemaster~
+a Stablemaster~
+The stablemaster frowns as he looks around.
+~
+The stablemaster has a cruel face.  His hooded dark eyes glare about
+with an angry glint to them.  His hands rub up and down the length of
+a horse whip.    
+~
+526346 0 0 0 16 0 0 0 -800 E
+86 62 -40 1d1+0 6d7+57
+1550 401501
+8 8 2
+Str: 12
+Dex: 25
+Int: 9
+Wis: 16
+Con: 5
+Cha: 21
+Luck: 20
+Race: 14
+E
+#7523
+george jeweler man~
+the Jeweler~
+A man sits here working on some jewelery.
+~
+The jeweler has very small boned hands.  His eyes have a squint to
+them that seems permanent.    
+~
+18478 0 0 0 80 0 0 0 -500 E
+98 75 -40 1d1+0 6d8+65
+1900 560199
+6 6 1
+BareHandAttack: 11
+Str: 9
+Dex: 7
+Int: 19
+Wis: 20
+Con: 7
+Cha: 12
+Luck: 17
+Race: 14
+E
+#7524
+tom tinker woman~
+the Tinker~
+A woman stands here pouring gold into molds.
+~
+The tinker is a lovely blonde woman.  Her angelic face is framed by
+the long curely bonde hair that cascades down past her shoulders.  
+The eyes speak a different tale.  Her hateful glare falls upon you as
+she takes notice of you.    
+~
+18474 0 0 0 16 0 0 0 -500 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 2
+Str: 7
+Dex: 20
+Int: 7
+Wis: 17
+Con: 15
+Cha: 12
+Luck: 24
+Race: 14
+E
+#7525
+guard underground~
+a Guard~
+A guardsman stands here protecting this undergound hideaway.
+~
+The guard is part of the professional guardsmen retained by Baron
+Darwin.  His armor is well mainatain and he does not have the common
+bored expression found on most hired guardsmen.    
+~
+542762 0 0 0 1574928 0 0 0 -500 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 17
+Int: 5
+Wis: 17
+Con: 6
+Cha: 21
+Luck: 18
+Class: 4
+Race: 14
+E
+#7526
+accountant woman~
+the Accountant~
+A woman is here, checking over the ledgers.
+~
+The accountant has ink smudges upon her nose and hands.  Her bony
+hands look strong from hours of writing into the ledgers of the
+Baron's accounts.    
+~
+18458 0 0 0 65552 4194304 0 0 -600 E
+101 78 -40 1d1+0 9d10+67
+1975 604972
+8 8 2
+Str: 5
+Dex: 14
+Int: 12
+Wis: 7
+Con: 15
+Cha: 19
+Luck: 6
+Race: 14
+E
+#7527
+student thief trainee~
+a Student~
+A student of the secret arts attends the class.
+~
+A youth has an expression of excitement that beems from his face as he
+practices his new found skills.  He diligently studies his text that
+will provide him with the skills to survive.    
+~
+6154 0 0 0 16 0 0 0 -100 E
+88 64 -40 1d1+0 6d7+58
+1600 425742
+8 8 1
+Str: 17
+Dex: 5
+Int: 23
+Wis: 8
+Con: 14
+Cha: 19
+Luck: 7
+Race: 14
+E
+#7528
+armorer man~
+the Armourer~
+A man stands here inspecting the arms.
+~
+The armorer is an old vetern that now spends his time taking care of
+those tools and implements that kept his alive this long.  He smells
+of oil and carbon.    
+~
+34113546 0 0 0 80 0 0 0 -600 E
+107 85 -40 1d1+0 11d11+71
+2125 700882
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 7
+Int: 22
+Wis: 25
+Con: 12
+Cha: 8
+Luck: 10
+Race: 14
+E
+#7529
+seamstress woman~
+the Seamstress~
+A woman his here sizing up her charges.
+~
+The seamstress is short and very round.  Her red face looks a bit
+haried as she tries to fill all the orders from the Baron and his
+staff.    
+~
+2058 0 0 0 16 0 0 0 0 E
+84 60 -40 1d1+0 6d7+56
+1500 378119
+8 8 2
+Str: 19
+Dex: 21
+Int: 5
+Wis: 6
+Con: 6
+Cha: 22
+Luck: 17
+Race: 14
+E
+#7530
+thief dressing man~
+a half-dressed Thief~
+A man is here trying on some new clothing.
+~
+The young man has a very lean and athletic body.  He stands here in
+little more than his underclothes.    
+~
+591882 0 0 0 1572880 0 0 0 -600 E
+102 79 -40 1d1+0 9d10+68
+2000 620364
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 5
+Int: 18
+Wis: 10
+Con: 12
+Cha: 19
+Luck: 8
+Class: 3
+Race: 14
+E
+#7531
+interrogator man~
+the Interrogator~
+A man stands here with some nasty looking devices in his hand.
+~
+This large cruel looking man has a fiery gleam in his eyes.  Little
+specks of spittle form at the corners of his mouth.  His long strong
+hands seem all to familiar with the tools of his trade.    
+~
+100681738 0 0 0 67108944 4194304 0 0 -900 E
+109 87 -40 1d1+0 11d12+72
+2175 771512
+8 8 1
+Str: 17
+Dex: 20
+Int: 24
+Wis: 12
+Con: 5
+Cha: 10
+Luck: 22
+Class: 9
+Race: 32
+E
+#7532
+prisoner man~
+a Prisoner~
+A man has been tied up and staked to the floor here.
+~
+The man has been severely beaten.  His eyes are nearly closed from the
+repeated bashing that has been performed upon him.  His lower lip
+twitches irregularly.    
+~
+10 0 0 0 131088 4 0 0 100 E
+93 69 -40 1d1+0 6d8+62
+0 490171
+6 6 1
+Str: 23
+Dex: 12
+Int: 17
+Wis: 18
+Con: 14
+Cha: 7
+Luck: 13
+Race: 14
+E
+$

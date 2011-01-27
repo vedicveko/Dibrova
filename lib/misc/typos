@@ -1,0 +1,67 @@
+Greyfeather (Sep 18) [30102] just checking
+Xastar   (Sep 19) [ 3075] Perhaps it could be added to the Retreat skill help file that someone with the skill will not lose xp when fleeing automatically due to wimpys
+Xastar   (Sep 19) [ 3075] The Flee help file should include the fact that you'll lose a little exp if you flee from combat. Mention of the skill retreat that removes this could also be included
+Xastar   (Sep 19) [ 3053] The befriend skill - when a target is not there, it says 'They're not hear...' instead of 'here'
+Nyx      (Sep 19) [  437] red cloak in newbie zone is level 20?
+Wysteria (Sep 20) [ 3005] Kaaylia says, 'don't really want you dieing from dehydration when you just got here.' should be dying.
+Po       (Sep 20) [ 3012] silver longsword royal  needs be silver
+Nyx      (Sep 22) [ 3093] have limit of 15 pits per level  force players along
+Nyx      (Sep 22) [ 3093] maybe 20   but as is  players sit forever now  defeating purpose of autogain
+Shadowmaster (Sep 22) [ 3030] this room should be city, not field
+Nyx      (Sep 23) [13314] derik the paladin   He was successful IN   not is
+Nyx      (Sep 23) [19820] jaelle staggers under the impact of jaelle's prayer  when using wind of pains spell
+Nyx      (Sep 23) [19815] umm might be elemental burst? not sure what spell it is
+Nyx      (Sep 23) [19821] need to make WEAKEN spell an instant retaliation spell from mobs
+Nyx      (Sep 23) [19815] just curious  why wont a staff work on the holder ? seems weird isall
+Jeronimas (Sep 24) [ 5755] the citizen give you a look of pity, handing you 7 coins.
+Eldorian (Sep 24) [20271] shorten sheriff of nottinghams short_desc
+Xastar   (Sep 25) [30202] Could we have the 'smile' social do 'Name smiles happily.' instead of simply 'Name smiles.' ? It feels more... errr... smiley if we have that happily at the back.
+Nyx      (Sep 25) [26270] skiraxit here has gold    should not
+Desami   (Sep 25) [ 3002] cleric's plaque doc:  can a plague -> can cause a plague
+Desami   (Sep 25) [18620] killing in the area down from the alchemist:  not sure if this is true of all mobs...but when a mob leaves the room i see:  The Quasit open east.   ... doesn't make much sense when there's no door that they open...and they are actually leaving east..
+Xastar   (Sep 25) [30207] The cheer social - when you type cheer self, it says on the second sentence "he MUST need friends." - needs to be capitalized.
+Xastar   (Sep 26) [30207] The Social envy when typing envy self - "Xastar looks at himslef like he" - himself needs to be corrected.
+Xastar   (Sep 26) [30207] The social 'flip' that appears in the command 'socials' does not exist apparently...
+Xastar   (Sep 26) [30207] the social 'hop' which appears in the command 'socials' does not exist.
+Xastar   (Sep 26) [30207] The social howl self gives an empty line... (i tried it on gossip @howl self and got just GOSSIP )
+Xastar   (Sep 26) [30207] The social 'insult' that appears in the socials list doesn't seem to exist.
+Xastar   (Sep 26) [30207] The social pant appears twice inside the 'socials' command list.
+Xastar   (Sep 26) [30207] The socials 'pet' appearing in the 'socials' list doesn't exist.
+Xastar   (Sep 26) [30207] The social 'slobber self' produces an empty line. (Did it on gossip and got 'GOSSIP ')
+Xastar   (Sep 26) [30207] The social 'threaten self' produces an empty line - tried it on gossip.
+Xastar   (Sep 26) [30207] "You pierce the King of the Castle of Desire stands here. extremely hard." - That line is supposed to go into another section of the mob description I think.
+Nyx      (Sep 27) [19848] pacify should only work ONCE on an enraged mob ...then add a knockdown for clerics
+Nyx      (Sep 27) [19850] if unlimited pacify per mob... then NO KNOCKDOWN at all for clerics
+Nyx      (Sep 27) [19850] one or the other. sanc and heals make them strong enuf as is imo
+Nyx      (Sep 27) [19853] any reason why kickflip has 3 round lag? as opposed to stun or trample?
+Nyx      (Sep 27) [19874] possibility of raising monk tech freqency from 20% to 25% ?
+Nyx      (Sep 27) [19872] fix kick to happen as often as trip skill does?   its not a powerful skill so should happen easily without damn 3 rd lag
+Nyx      (Sep 27) [19856] i dont understand why is there such a lag on weak cures  but almost none on big ones?
+Nyx      (Sep 27) [19806] make deathblow like dark knight GUT?  as is  kinda lame skill
+Shadowmaster (Sep 27) [20256] cant go down from here...
+Desami   (Sep 28) [13631] tsk soul:  You shake your and give a gentle tsk, tsk.  -> shake your head
+Shadowmaster (Sep 29) [13358] this zone seems to have several keys for which there are no doors
+Shadowmaster (Sep 29) [ 3014] looks like a lot of items still need pricin
+Xastar   (Sep 30) [ 1055] When the skill swarm fails : You call for a swarm to aid you, but swarm is forthcoming. (but no swarm is forthcoming should be right?)
+Poe      (Sep 30) [  442] look player (green player) loosing should be losing
+Kintsugard (Oct  1) [ 1034] There is (jeweler) at the end of this room's descrip... not sure its sposed to be there
+Nyx      (Oct  2) [ 3534] indentify 18000  will crash us at Jade
+Nyx      (Oct  2) [ 3534] err identify i mean
+Gwyngelli (Oct  4) [30104] vest of ice has -6 ac apply??
+Rahl     (Oct  7) [17360] Grassy Courtyard in Haon-Dor Asylum, It seems to be closed...need to specify what it is
+Shadowmaster (Oct  8) [17346] are all the room exits in this zone off by one? or is it ment to be as wierdly linked as this
+Shadowmaster (Oct  8) [40251] no link back down here
+Jeronimas (Oct  8) [ 7501] Baron Darwin's gate guards are wearing "a leather halberd"
+Shadowmaster (Oct 11) [ 3014] DOH, missted Staff of Silence when restattin demon eq
+Shadowmaster (Oct 12) [17658] dont seem to be a key for the door to the west into the palace.
+Delilmanduil (Oct 13) [11058] item 11004 needs lookin at, its a blank NOTAKE scroll
+Rahl     (Oct 14) [  199] on the help file, cannt should be cannot or can't.
+Jeronimas (Oct 15) [ 3099] elf help file... max con 23
+Ice      (Oct 17) [ 3063] itens from the zone 'temple of bull' (vnum 20, i think) have a little 'bug' in the end of the string of their description, easily fixed with oedit :)
+Shadowmaster (Oct 18) [ 1628] door south cant be opened
+Shadowmaster (Oct 18) [ 1628] nvm... had something in inv with same name as door...
+Garner   (Oct 18) [25082] check this
+Osker    (Oct 20) [ 8449] at a junction in king's highway theres a sign and on the sign it says hersing instead of helsing
+Xastar   (Oct 21) [ 3005] I'm not sure if I reported this before : Shadowmaster steps forth from a column of hellfire!.  (The !. problem)
+Nyx      (Oct 22) [ 3625] three legged should be three-legged
+Shadowmaster (Oct 24) [10634] arieal servents should be mistformed

@@ -1,0 +1,206 @@
+#4300
+Cobbled Road~
+This area being financed by the city, it can afford to keep the
+streets cobbled and in good repair.  To the north is the Town Meeting
+Hall where monthly meetings are often held, south is the Reading Room.
+~
+43 0 0 0 0 1
+D0
+~
+~
+0 0 4303 0
+D1
+~
+~
+0 0 4301 0
+D2
+~
+~
+0 0 4309 0
+D3
+~
+~
+0 0 4476 0
+S
+#4301
+Cobbled Road~
+This area being financed by the city, it can afford to keep the
+streets cobbled and in good repair.  To the north is the Post Office,
+south is the Donation Room.    
+~
+43 0 0 0 0 1
+D0
+~
+~
+0 0 4304 0
+D1
+~
+~
+0 0 4302 0
+D2
+~
+~
+0 0 4308 0
+D3
+~
+~
+0 0 4300 0
+S
+#4302
+Cobbled Road~
+This area being financed by the city, it can afford to keep the
+streets cobbled and in good repair.  The road ends here in front of
+the Sheriff's Patrol, where the local law enforcement hangs out.  To
+the north is the city bank and south is the hospital.    
+~
+43 0 0 0 0 1
+D0
+~
+~
+0 0 4305 0
+D1
+~
+~
+0 0 4306 0
+D2
+~
+~
+0 0 4307 0
+D3
+~
+~
+0 0 4301 0
+S
+#4303
+Town Meeting Hall~
+This large hall is where the mayor of the town or the immortal sponsor
+for this town holds monthly meetings to discuss plans for the town,
+any additions or removals or otehr town related matters.  Oftimes
+receptions for weddings will be held here, glorious affairs with much
+pomp and ceremony.    
+~
+43 8 0 0 0 0
+D2
+~
+~
+0 0 4300 0
+S
+#4304
+Post Office~
+This is where you may post private messages to other players or gods,
+messages that you normally wouldn't post on a board.  To post a
+message type MAIL (player or god name).  To get your mail type GET
+MAIL or RECEIVE MAIL.    
+~
+43 24 0 0 0 0
+D2
+~
+~
+0 0 4301 0
+S
+#4305
+City Bank~
+This is where players can keep the money they have acquired safely
+without fear of losing it in a fight or getting it stolen by some
+rotten thief.  Use the commands DEPOSIT (amnt) and WITHDRAW (amnt) if
+you wish to use this facility.    
+~
+43 8 0 0 0 0
+D2
+~
+~
+0 0 4302 0
+S
+#4306
+Sheriff's Patrol~
+Stale food and cluttered desks are all you see in this tiny room.  
+The men and women of the Sheriff's Patrol are usually out on their
+rounds - they only time they come here is for a quick bite to eat or
+to file a report with their captain.    
+~
+43 8 0 0 0 0
+D3
+~
+~
+0 0 4302 0
+S
+#4307
+Hospital~
+Most wounds and / or ailments can be cured in this place for a small
+fee.  To see a list of what cures are available, just type LIST.    
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4302 0
+S
+#4308
+Donation Room~
+Players are encouraged to partake of any items left in this room by
+other players.  Many players who use certain items find better items,
+leaving the old ones here for other players to enjoy.  Be sure to
+leave any items you do not need for other players.  Remember, one
+man's junk is another man's treasure!    
+~
+43 12 0 0 0 0
+D0
+~
+~
+0 0 4301 0
+D3
+~
+~
+0 0 4309 0
+S
+#4309
+Reading Room~
+Here is where players may leave messages for other players, ask any
+questions pertaining to the mud, or simply post whatever may be on
+their mind at the time.  This board is not here to be used as a flame
+board - any messages posted that are regarded as flames will be
+removed immediately .
+~
+43 12 0 0 0 0
+D0
+~
+~
+0 0 4300 0
+D1
+~
+~
+0 0 4308 0
+D2
+~
+~
+0 0 4310 0
+D3
+~
+~
+0 0 4311 0
+S
+#4310
+Suggestion Room~
+This is where players can post any suggestions regarding game play,
+commands, or any things that appear as problems on the mud in general.
+We encourage you as a player to give us your input, so don't be shy.
+~
+43 8 0 0 0 0
+D0
+~
+~
+0 0 4309 0
+S
+#4311
+Quest Room~
+Most quests will start in this room, or in a similar room in one of
+the hometowns.  All matters pertaining to quests, requests or
+suggestions can be posted on the board here.    
+~
+43 8 0 0 0 0
+D1
+~
+~
+0 0 4309 0
+S
+$~

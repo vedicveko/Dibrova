@@ -1,0 +1,1599 @@
+#22500
+Entrance to Transylvania~
+You enter into a dark forest pathway.  Trees line both sides of the
+road and seem to hide the road from the sky.  While the forest is
+dense, you get the feeling that there is life among the trees.  
+Walking around, peering at you from the bushes.  In this land, nothing
+is as it seems.  Far ahead, you think that you catch a glimpse of
+Castle Dracula.    
+~
+225 4 0 0 0 3
+D0
+~
+~
+0 0 22501 0
+D2
+~
+~
+0 0 18437 0
+S
+#22501
+The Path to Castle Dracula~
+The path continues on into the darkness.  You still have the feeling
+that you are being watched from the trees.  It is rumored that this
+land is full of abominations.  Creatures that are not hated or loved
+by heaven.  They are not even acknowledged by God himself.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22502 0
+D2
+~
+~
+0 0 22500 0
+S
+#22502
+The Road to Castle Dracula~
+Here the road branches into 3 paths.  As you look to the west, you see
+an opening in the trees.  What lies there is hidden by a thick patch
+of fog.  To the east you see more and more trees.  And to the north,
+you see Castle Dracula.  Only, this time, it is much closer and more
+fearsome looking than ever.    
+~
+225 4 0 0 0 3
+D0
+~
+~
+0 0 22504 0
+D1
+~
+~
+0 0 22505 0
+D2
+~
+~
+0 0 22501 0
+D3
+~
+~
+0 0 22503 0
+S
+#22503
+At the Edge of The Forest~
+This is the edge of the Transylvanian forest.  East is the heart of
+the forest and west is the path to the sacred burial grounds of the
+family of Dracula.  A once great line of noble aristocrats, now they
+are nothing more than dead corpses.    
+~
+225 4 0 0 0 3
+D1
+~
+~
+0 0 22502 0
+D3
+~
+~
+0 0 22506 0
+S
+#22504
+The Path to Castle Dracula~
+You are getting continuously closer to the great castle of Prince
+Dracula.  The great spires show through the small cracks in the canopy
+of tree limbs overhead.  You begin to wonder how long it took to
+create such a magnificent palace.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22520 0
+D2
+~
+~
+0 0 22502 0
+S
+#22505
+To the Heart of The Forest~
+The trees on the side of the road grow thicker.  In the distance you
+can hear the howls of wolves.  You begin to worry.  There have been
+many stories told about the beasts that reside in these dark woods,
+perhpaps you should turn back.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22548 0
+D3
+~
+~
+0 0 22502 0
+S
+#22506
+Dracula Cemetary~
+This is the entrance to the Dracula family cemetary.  This is where
+the ancestors and relatives of the great Count Dracula were placed
+after their deaths.  On the side of the gateway you notice that a
+cross has been painted...  ...  In blood?    
+~
+225 4 0 0 0 0
+D1
+~
+~
+0 0 22503 0
+D3
+~
+gate~
+1 0 22507 3
+S
+#22507
+Dracula cemetary~
+You gaze in wonder at the wonderous tombstones and statues that line
+this majestic burial ground.  How could such a obviously wonderful
+family, have gone so bad?    
+~
+225 4 0 0 0 0
+D1
+~
+gate~
+1 0 22506 3
+D2
+~
+~
+0 0 22508 0
+D3
+~
+~
+0 0 22510 0
+S
+#22508
+Dracula Cemetary~
+You stand before an open grave.  Graverobbers?  But why would anyone
+want to come to such an eerie place, to rob the graves of long dead
+corpses?  Odd.  The grave seems to be pushed open from inside the old
+coffin itself.    
+~
+225 4 0 0 0 0
+D0
+~
+~
+0 0 22507 0
+D3
+~
+~
+0 0 22509 0
+S
+#22509
+Another Open Grave~
+Another open grave.  Could it be that this was not done by the living?
+Could it be that the dead have come back to roam amongst the living?
+If so what could be done to stop them?  You here footsteps from every
+direction.    
+~
+225 4 0 0 0 0
+D0
+~
+~
+0 0 22510 0
+D1
+~
+~
+0 0 22508 0
+S
+#22510
+Entrance to The Family Tomb~
+You stand at the entrance to the family tomb.  This is where the most
+important members of the Dracula family were laid to rest.  Who knows
+what treasures may lay inside?  Who knows what will be guarding them?
+~
+225 4 0 0 0 0
+D0
+~
+~
+0 0 22511 0
+D1
+~
+~
+0 0 22507 0
+D2
+~
+~
+0 0 22509 0
+D3
+~
+tomb door~
+1 0 22513 3
+S
+#22511
+More Graves~
+It appears that a few of the graves remain unopened.  Why is it that
+some graves are open and others are not?  These zombies seem to avoid
+stepping near the untouched graves.  As if they hold some ancient
+power.  Perhaps it could be the tombstones?    
+~
+225 0 0 0 0 0
+D2
+~
+~
+0 0 22510 0
+D3
+~
+~
+0 0 22512 0
+S
+#22512
+Grave of Marcos Dracula~
+There are no zombies to be seen here.  They seem terrified of this
+area of the graveyard.  A huge cross stands over this ancient grave.
+Upon it is written : "Here lies Markos Dracula.  Establisher of
+Christianity in Transylvania."
+~
+225 4 0 0 0 0
+D1
+~
+~
+0 0 22511 0
+S
+#22513
+The Entranceway of The Tomb~
+This is a small hallway that leads to the west.  There are doors on
+either side that lead to the North and South.  The names on the doors
+appear to have been scraped away by a strong knife, or claws?  It
+seems that someone did not want the identities of the people who lie
+here to be known.    
+~
+225 12 0 0 0 0
+D0
+~
+door~
+1 0 22514 3
+D1
+~
+door~
+1 0 22510 3
+D2
+~
+door~
+1 0 22515 3
+D3
+~
+~
+0 0 22516 0
+S
+#22514
+Inside The Tomb~
+This is a simple stone room with stone pedestals for the dead to lie
+on until someone disturbs them.  Perhaps you have already done this.
+~
+225 8 0 0 0 0
+D2
+~
+door~
+1 0 22513 3
+S
+#22515
+Inside The Tomb~
+A room for the dead.  Corpses lie in cavities within the wall.  They
+lie there apparently motionless.  You begin to wonder how long some of
+them have been here.  You feel a solemn respect for them.    
+~
+225 8 0 0 0 0
+D0
+~
+door~
+1 0 22513 3
+S
+#22516
+The End of the Hallway~
+You have come to the end of the hallway within the tomb.  Doors lie to
+the north, south, and west.  The door to the west appears to have the
+faded picture of a rose upon the door.  You feel as if there is
+something or someone very special inside.    
+~
+225 12 0 0 0 0
+D0
+~
+door~
+1 0 22518 3
+D1
+~
+~
+0 0 22513 0
+D2
+~
+door~
+1 0 22517 3
+D3
+~
+door~
+1 0 22519 3
+S
+#22517
+Another Tomb~
+This room is no different than any other that you have seen.  As usual
+it is made of stone and contains the remains of the dead.  The family
+Dracula must have been very large indeed to have so many dead
+relatives.    
+~
+225 12 0 0 0 0
+D0
+~
+door~
+1 0 22516 3
+S
+#22518
+Another Room in The Tomb~
+You begin to grow weary of seeing these drab stone walls and dead
+bodies.  This place is devoid of color and stinks like rotten flesh
+and stale air.  It would do you good to leave this place soon.    
+~
+225 12 0 0 0 0
+D2
+~
+door~
+1 0 22516 3
+S
+#22519
+The Great Tomb of Wilhelm Dracula~
+This is more like it.  A tomb worthy of a king.  Or a count.  This is
+the tomb of Wilhelm Dracula.  Also known as the father of Prince
+Dracula.  This great ruler was known widely for trying to turn
+Transylvania into an empire.  His conquering failed, however, due to
+the uprising of the Crusades.    
+~
+225 12 0 0 0 0
+D1
+~
+door~
+1 0 22516 3
+D5
+~
+vault trapdoor~
+2 22505 22582 15
+S
+#22520
+The Gates of Castle Dracula~
+Before you stands the great castle Dracula.  The only visible entrance
+is the gateway before you.  Two great oak doors that stand 15 feet
+high.  They must weigh a ton each.  Upon the right door is written the
+message: "Enter of your own free will and leave behind some of that
+happiness that you bring with you." -D
+~
+225 4 0 0 0 3
+D0
+~
+oak door~
+1 0 22521 3
+D2
+~
+~
+0 0 22504 0
+S
+#22521
+The Great Hallway~
+This hallway is lined with colorful pictures of Majestic rulers and
+great battles.  Each one is marked with a name or description.  The
+battle of Drakul, Margarite Dracula (A gorgeous young lady in her
+twenties), and various other people and events long since past.  The
+hall continues north while the den is to the east and the dining room
+to the west.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22526 0
+D1
+~
+~
+0 0 22525 0
+D2
+~
+oak door~
+1 0 22520 3
+D3
+~
+door~
+1 0 22522 3
+S
+#22522
+The Great Dining Room~
+A great table lies in the center of this elegant dining room.  A
+crystal chandalier hangs above the table shining light throughout the
+room.  Fine silver dishes line the table wish crystal champagne
+glasses.  But the majestic beauty of this room leaves you to wonder
+why it is that these glasses and dishes have been layed upon the table
+empty.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22523 0
+D1
+~
+door~
+1 0 22521 3
+S
+#22523
+The Kitchen~
+This is the kitchen of Castle Dracula.  It is very clean and empty.  
+One would think that a castle of this size could at least keep its
+kitchen stocked with elegant foods.  There are no signs that anyone
+has ever been here except the fact that everything is spotless.    
+~
+225 8 0 0 0 0
+D2
+~
+~
+0 0 22522 0
+D5
+~
+~
+0 0 22524 0
+S
+#22524
+The Cellar~
+This is obvieously the cellar.  It appears that this is the one place
+that does stay stocked.  Against the walls stand large wine shelves,
+which are lined with the finest of wines.  It appears that Prince
+Dracula has a taste for alcohol if nothing else.    
+~
+225 12 0 0 0 0
+D1
+~
+door~
+1 0 22533 17
+D4
+~
+~
+0 0 22523 0
+S
+#22525
+The Den~
+The fireplace on the opposite wall is burning brightly.  Upon the
+table lies various newspapers and books about a distant town named
+London.  It appears that our little prince has plans for travel.  The
+furniture in this room is old and elegant.  The Dracula family must
+have been very powerful.    
+~
+225 8 0 0 0 0
+D3
+~
+~
+0 0 22521 0
+S
+#22526
+The Northern End of the Hallway~
+The walls are still covered with pictures of the great Dracula family.
+The light in this house comes from oil lamps that flicker and cast odd
+shadows upon the walls.  The shadows almost hold a life of their own.
+To the east lies the library.  A great stairwell leads to the second
+floor of this great castle.    
+~
+225 8 0 0 0 0
+D1
+~
+~
+0 0 22527 0
+D2
+~
+~
+0 0 22521 0
+D4
+~
+~
+0 0 22528 0
+S
+#22527
+The Library~
+Never before have you seen such a vast collection of books of such
+great antiquity.  There are tomes of arcane and religious content.  
+Great classics of all ages.  Encyclopedias, journals of great leaders,
+and so much more.  It appears that the Dracula family loved to read.
+~
+225 8 0 0 0 0
+D3
+~
+~
+0 0 22526 0
+S
+#22528
+The Hallway on the Second Floor~
+This hallway is much friendlier.  It does not have any great portraits
+to grace the family name of Dracula.  Rather, this seems to be an area
+of living and relaxation.  You almost feel as if love itself, in pure
+form, is floating in the air.  This place must hold great, but sad
+memories.    
+~
+225 12 0 0 0 0
+D1
+~
+door~
+1 0 22583 1
+D2
+~
+~
+0 0 22530 0
+D3
+~
+door~
+1 0 22529 3
+D5
+~
+~
+0 0 22526 0
+S
+#22529
+An Old Bedroom~
+This room contains a great canopy bed draped in pink silk.  There is a
+small table in the corner with various products of women's beauty.  
+This is (or was) definitely the chamber of a lady.  Upon the wall
+hangs the portrait of a beautiful young woman.  She looks to be in her
+early twenties, with long dark hair and piercing blue eyes.  A bronze
+plate at the base of the picture says, "Morgaine DeLarc - fiancee of
+our great Prince.  "
+~
+225 8 0 0 0 0
+D1
+~
+door~
+1 0 22528 3
+S
+#22530
+Southern End of The Hallway~
+Here lie three doors.  You hear feminine voices coming from the
+western door.  You hear wispering to the south.  And can tell nothing
+about the east.  For some reason, your hair stands on end every time
+you hear the voices from the west.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22528 0
+D1
+~
+door~
+1 0 22552 3
+D2
+~
+door~
+1 0 22532 3
+D3
+~
+door~
+1 0 22531 3
+S
+#22531
+The Chamber of Sin~
+Moonlight streams in through the window and falls upon the floor.  
+Dust covers everything in this room, but it seems to fade into an
+immaculate room with elegant furniture and music playing in the
+background.    
+~
+225 8 0 0 0 0
+D1
+~
+door~
+1 0 22530 3
+S
+#22532
+The Master Bedroom~
+A solemn room decorated all in black.  The windows have all been
+bricked over.  Perhaps our young prince does not like light.  There
+are crosses lying on the bed and garlic everywhere.  It appears that
+someone does not want our little prince to sleep well.    
+~
+225 8 0 0 0 0
+D0
+~
+door~
+1 0 22530 3
+S
+#22533
+Secret Passageway~
+You find yourself in a dark, dank corridor covered in spiderwebs and
+dust.  This place stinks horribly.  Not only is the air stale, but it
+reeks of some unknown scent.  Something similar to that of death and
+rotting flesh.    
+~
+225 8 0 0 0 0
+D1
+~
+~
+0 0 22534 0
+D3
+~
+door~
+1 0 22524 17
+S
+#22534
+A Dark Corridor~
+The stench continues as you walk along the passageway.  Here it
+branches off to the North and to the east.  You start to feel like you
+are in a small box with no exits.  It is awfully dark and the walls
+seem to be moving in on you.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22535 0
+D1
+~
+~
+0 0 22544 0
+D3
+~
+~
+0 0 22533 0
+S
+#22535
+Dark Tunnels~
+These dark paths all look the same.  You feel like you are lost in
+some god forsaken maze.  The paths are simply but your head swims.  
+This may be because of the smell and the sound of bats flying and
+screeching everywhere.    
+~
+225 8 0 0 0 0
+D1
+~
+~
+0 0 22536 0
+D2
+~
+~
+0 0 22534 0
+S
+#22536
+More Dark Tunnels~
+At last you see light.  There seems to be a faint glow coming from the
+east tunnel.  You can also hear the sounds of men working.  Who would
+be down here?    
+~
+225 12 0 0 0 0
+D1
+~
+~
+0 0 22537 0
+D3
+~
+~
+0 0 22535 0
+S
+#22537
+The Hidden Chamber~
+You find yourself in a lamplit chamber beneath castle Dracula.  
+Gypsies stand about filling huge crates with dirt?  Strange, but who
+knows what the Prince has in mind.  The workers do not seem too
+friendly.    
+~
+225 8 0 0 0 0
+D1
+~
+~
+0 0 22539 0
+D2
+~
+~
+0 0 22538 0
+D3
+~
+~
+0 0 22536 0
+S
+#22538
+The Hidden Chamber~
+Here stand more crates and gypsies.  You count as many as 40 boxes of
+this Transylvanian earth.  What could they be doing with this dirt?  
+Perhaps it would make good fertilizer.  It is covered in guana and
+smells like rotting flesh.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22537 0
+D1
+~
+~
+0 0 22540 0
+S
+#22539
+The Hidden Chamber~
+There are gypsies everywhere.  The count must have to hire these odd
+nomads of Transylvania, due to his unpopularity among the local
+citizens.  They all fear the Prince for some unknown reason.  Perhaps
+you could ask him about these odd actions and superstitions.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22542 0
+D2
+~
+~
+0 0 22540 0
+D3
+~
+~
+0 0 22537 0
+S
+#22540
+A Hidden Chamber~
+This bright, open chamber (while foul smelling) is a heaven compared
+to hell of those dark tunnels that lie to the south.  You are glad to
+see people too.  They seem to be gypsies, filling wooden crates with
+the dirt from the floor of this chamber.  They do not seem to be very
+friendly.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22539 0
+D1
+~
+~
+0 0 22541 0
+D2
+~
+~
+0 0 22545 0
+D3
+~
+~
+0 0 22538 0
+S
+#22541
+A Corner of the Chamber~
+This is just a little side area off of the chamber.  There is less
+action going on here.  Perhaps this is a rest area for the workers.  
+~
+225 8 0 0 0 0
+D3
+~
+~
+0 0 22540 0
+S
+#22542
+A Large Stone Plate~
+A large stone tablet stands before you.  Upon it is written: "Here
+lies Dracula.  Kindest of all Transylvanian Princes.  Struck down in
+the prime of his life by an unkind illness.  May god bless his young
+soul.  "
+~
+225 12 0 0 0 0
+D2
+~
+~
+0 0 22539 0
+D5
+~
+~
+0 0 22543 0
+S
+#22543
+Prince Dracula's Tomb~
+Before you lays the casket of Dracula.  It is made of sleek black
+marble and is lined with red velvet.  Vases of red roses line the
+walls of this chamber.  It looks far more elegant than the rest of
+this dark castle.  Somehow, the scent that resided in the upper
+chamber does not seem to be present here.  Rather, this room smells
+like honey, with a bitter scent of fresh blood mixed in.  You find it
+sickening and pleasing at the same time.    
+~
+225 12 0 0 0 0
+D4
+~
+~
+0 0 22542 0
+S
+#22544
+A Room Full of Bats~
+This room smells the worst of all.  The ground is covered with
+millions of insects devouring baby bats that fall from the ceiling.  
+Guana: the waste products of bats: is everywhere.  You find yourself
+ready to vomit.    
+~
+225 8 0 0 0 0
+D1
+~
+~
+0 0 22545 0
+D2
+~
+~
+0 0 22546 0
+D3
+~
+~
+0 0 22534 0
+S
+#22545
+Another Dark Passage~
+To the north you see light.  Perhaps you can be free of these
+constricting tunnels.  You can hear the sounds of workers.  Why would
+anyone be working in a place like this?    
+~
+225 12 0 0 0 0
+D0
+~
+~
+0 0 22540 0
+D2
+~
+~
+0 0 22585 0
+D3
+~
+~
+0 0 22544 0
+S
+#22546
+A Dark Hallway~
+A dark hallway leading to the west, or back north to the room of bats.
+It is less crowded here, and smells a little better.  (Stale, but
+better.)
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22544 0
+D3
+~
+~
+0 0 22547 0
+S
+#22547
+A Dead End~
+This room is devoid of bats.  Perhaps it is because of the fact that
+it is a DEAD END.  This means you have to double back and go through
+that awful room full of bats.  Your stomach begins to churn as you
+think about it.    
+~
+225 12 0 0 0 0
+D1
+~
+~
+0 0 22546 0
+S
+#22548
+The Path Grows Thin~
+The path seems to be less travelled here.  Also, it becomes so thin
+that it must be walked by foot.  Any cart would have to turn back
+here.  You hear something moving among the trees.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22549 0
+D3
+~
+~
+0 0 22505 0
+S
+#22549
+In the Forest~
+The path branches off here.  To the north, you can here the sound of a
+river flowing by.  To the east, the forest is as dark and as thick as
+usual.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22550 0
+D1
+~
+~
+0 0 22553 0
+D3
+~
+~
+0 0 22548 0
+S
+#22550
+The Bank by the River~
+You stand on the bank of a great river.  It flows to the east and west
+here, however downriver is untravellable due to fallen trees and stony
+rapids.  To the east is a magnificent waterfall.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22551 0
+D2
+~
+~
+0 0 22549 0
+S
+#22551
+A Beautiful Waterfall~
+It is fabled that this is where the great Morgaine Delarc threw
+herself into the raging waters, in mourning of her dead fiancee.  She
+was told that he died in a great battle, and as such, through herself
+into the ice cold waters and drowned.  Her fiancee came back, and fell
+ill with grief.  He died several weeks later, mumbling in some unknown
+language in fevered dreams.    
+~
+225 4 0 0 0 3
+D3
+~
+~
+0 0 22550 0
+S
+#22552
+An Empty Room~
+I guess that every castle has it's empty rooms.  Filled with nothing
+but dust and memories.  Who knows what creatures of the mind might
+attack one here.  You feel an overwhelming sense of remorse.    
+~
+225 8 0 0 0 0
+D3
+~
+door~
+1 0 22530 3
+S
+#22553
+At the Base of a Large Oak Tree~
+You stand at the base of a very old, very large oak tree.  It towers
+above the other trees in the area by at least 20 feet.  The base has a
+reddish tint, as if it has been watered with blood.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22555 0
+D2
+~
+~
+0 0 22556 0
+D3
+~
+~
+0 0 22549 0
+D4
+~
+~
+0 0 22554 0
+S
+#22554
+At the Top of the Tree~
+You are perched in the branches of the ancient tree.  You find that
+the limbs are extremely sturdy and are able to support quite a bit of
+weight.  To the southeast, you can see smoke and a light glow.  
+Almost like a campground.    
+~
+225 0 0 0 0 3
+D5
+~
+~
+0 0 22553 0
+S
+#22555
+In the Forest~
+More and more trees.  You can't help but feel like someone is
+following you through the woods.  The wolves keep howling and you here
+odd sounds like chanting in the distance.  What are you getting
+yourself into?    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22560 0
+D3
+~
+~
+0 0 22553 0
+S
+#22556
+An Exremely Overgrown Trail~
+This appears to be an OLD trail that has not been used in many, many
+years.  You try to make your way through the weeds and briars along
+the trial.  The path continues to the south.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22553 0
+D2
+~
+~
+0 0 22557 0
+S
+#22557
+A Turn in the Path~
+The path turns towards the east here.  You start to wonder if this was
+worth your trouble.  You find the trip extremely tiring and you strain
+to keep going.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22556 0
+D1
+~
+~
+0 0 22558 0
+S
+#22558
+Towards the End of the Trail~
+You strain to fight the vegetation that tries to block your passage.
+To the far east, you see what looks like a clearer path.  To the west,
+more vines and weeds.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22559 0
+D3
+~
+~
+0 0 22557 0
+S
+#22559
+The End of the Overgrown Trail~
+You definitely see a clearer path to the east.  This path is way too
+thick for comfort.  You begin to wonder if it is worth your time to go
+to the west.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22563 0
+D3
+~
+~
+0 0 22558 0
+S
+#22560
+Deep in the Forest~
+You didn't think that it was possible, but the trees have managed to
+get closer together.  The forest looks almost like a wooden wall
+blocking out all view of what lies in the woods.  Anything could be
+hiding behind the trees.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22579 0
+D2
+~
+~
+0 0 22561 0
+D3
+~
+~
+0 0 22555 0
+S
+#22561
+Dark Pathway~
+The path keeps moving on throught the woods.  The wildlife here is
+unusual to say the least.  This is definitely not a place to take a
+vacation.  The path continues on to the north and east.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22560 0
+D1
+~
+~
+0 0 22562 0
+S
+#22562
+More Forest~
+Trees, trees, and more trees.  An entire army could hide in this
+forest and never be found.  Perhaps an army is hiding in this forest.
+That could explain the sounds that you have been hearing.....    
+~
+225 0 0 0 0 3
+D2
+~
+~
+0 0 22563 0
+D3
+~
+~
+0 0 22561 0
+S
+#22563
+Crossroads~
+Paths lead in 4 directions.  You have no idea which way to go.  To the
+west is an overgrown trail that looks very untravelled.  All the other
+paths are quite clear and easy to travel.  To the south-east you hear
+the howling mixed with laughter and singing.    
+~
+225 4 0 0 0 3
+D0
+~
+~
+0 0 22562 0
+D1
+~
+~
+0 0 22564 0
+D2
+~
+~
+0 0 22572 0
+D3
+~
+~
+0 0 22559 0
+S
+#22564
+An Open Glade~
+You have never been so glad to see the sky in your entire life.  To
+the east you see what appears to be a camp with tents and fires.  You
+detect movement of human-like figures.    
+~
+225 4 0 0 0 2
+D1
+~
+~
+0 0 22565 0
+D3
+~
+~
+0 0 22563 0
+S
+#22565
+A Werewolf Camp~
+You seen odd creatures scampering back and forth as if it were a
+holiday.  These creatures appear to be half human and half wolf.  
+Children run about playing games and the adults tend to daily chores.
+There appear to be no men here at the moment.  You wonder why this is.
+~
+225 0 0 0 0 2
+D1
+~
+~
+0 0 22566 0
+D3
+~
+~
+0 0 22564 0
+S
+#22566
+The Campfire~
+A huge bonfire is burning here.  Dancing around it are many of the
+were- wolves.  There appears to be some form of ritual going on.  So,
+this is where part of the males are located.  They appear to be
+chanting one word more than any other in their songs.  "Gaia.  "
+~
+225 0 0 0 0 2
+D0
+~
+~
+0 0 22567 0
+D1
+~
+~
+0 0 22569 0
+D2
+~
+~
+0 0 22571 0
+D3
+~
+~
+0 0 22565 0
+S
+#22567
+The Werewolf Camp~
+All of the women here are cooking wild boars and such over small
+fires.  It appears that the men are the only ones allowed to
+participate in the rituals of worship.  Perhaps it is because they are
+deemed weaker than the males.  But you know better than to assume any
+werewolf to be weak.    
+~
+225 0 0 0 0 2
+D1
+~
+~
+0 0 22568 0
+D2
+~
+~
+0 0 22566 0
+S
+#22568
+Outside the Camp~
+You seem to have moved outside of the main camp which lies to the
+south and west.  To the north you see the faint light of torches.  
+Perhaps that is where the rest of the male werewolves are located.  
+~
+225 4 0 0 0 2
+D0
+~
+~
+0 0 22575 0
+D2
+~
+~
+0 0 22569 0
+D3
+~
+~
+0 0 22567 0
+S
+#22569
+Eastern Portion of the Camp~
+The main activities appear to be to the west.  The smell of roasting
+meat is everywhere, mingled with the scents of incense and herbs.  
+You find yourself wondering if this is some spiritual holiday for the
+werewolves.    
+~
+225 0 0 0 0 2
+D0
+~
+~
+0 0 22568 0
+D2
+~
+~
+0 0 22570 0
+D3
+~
+~
+0 0 22566 0
+S
+#22570
+Southeastern Portion of the Camp~
+This area of the camp is virtually unpopulated at the moment.  Their
+is much rejoicing going on to the northwest.  Their appears to be a
+party going on.  What could these strange creatures be so happy about?
+I would not spoil their fun if I were you.    
+~
+225 0 0 0 0 2
+D0
+~
+~
+0 0 22569 0
+D3
+~
+~
+0 0 22571 0
+S
+#22571
+South of the Bonfire~
+From here you can get a clear view of the center of the camp.  To the
+North is a bonfire surrounded by dancing figures.  It appears that the
+fire is the center of the activities.    
+~
+225 0 0 0 0 2
+D0
+~
+~
+0 0 22566 0
+D1
+~
+~
+0 0 22570 0
+D2
+~
+~
+0 0 22574 0
+S
+#22572
+Another Dark Path~
+You find yourself growing weary of these woods.  The trees are
+beautiful but provide for monotonous scenery.  Your nostrils detect
+the scent of roasting meat.  And, you can hear singing to the east.  
+Perhaps you will soon be free of these dark paths.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22563 0
+D2
+~
+~
+0 0 22573 0
+S
+#22573
+The Path Turns East~
+The path turns east here and the revelling that you heard lies more to
+the northeast now.  You can almost see light through the trees.  
+Perhaps if you hurry you can take part in the fun.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22572 0
+D1
+~
+~
+0 0 22574 0
+S
+#22574
+South of the Camp~
+To the north you can see what appears to be a campground.  Their are
+fires and tents.  You can see human-like figures running around the
+camp.  Their appears to be some form of festival going on.    
+~
+225 4 0 0 0 2
+D0
+~
+~
+0 0 22571 0
+D3
+~
+~
+0 0 22573 0
+S
+#22575
+A Dark Pathway~
+You find yourself travelling along another dark pathway through the
+trees, but to the north you can see light.  You can hear chanting as
+you grow closer to the north.  To the south lies the werewolf camp.  
+~
+225 4 0 0 0 3
+D0
+~
+~
+0 0 22576 0
+D2
+~
+~
+0 0 22568 0
+S
+#22576
+Above a Dark Pit~
+You find yourself standing above a dark pit.  There are werewolves
+standing around saying various chants as others walk carefully down
+into the darkness along what seems to be an ancient set of steps
+leading downward.    
+~
+225 0 0 0 0 3
+D2
+~
+~
+0 0 22575 0
+D5
+~
+~
+0 0 22577 0
+S
+#22577
+The Pit~
+You are standing in a large hole in the ground.  The appears to be
+some form of ceremonial ground.  To the north is a cavern that appears
+to be lit by torchlight.  You can hear voices coming fromt that
+cavern.    
+~
+225 12 0 0 0 0
+D0
+~
+~
+0 0 22578 0
+D4
+~
+~
+0 0 22576 0
+S
+#22578
+The Secret Chamber of Gaia~
+This is a great, torchlit hallway lined with bowls of smoking incense
+and flowers.  A group of werewolves are sitting here worshipping Gaia,
+The Earth Mother.  Priests are placing singing various chants.  As if
+asking for her blessing for something.  You think that you overhear
+the words, "to destroy the vampires that suck your life.  "
+~
+225 140 0 0 0 0
+D2
+~
+~
+0 0 22577 0
+S
+#22579
+Forest Pathway~
+You wish that these trees would end.  Everywhere you go, more trees.
+A man could go crazy in here.  Getting lost.  Never seeing the sky.  
+You don't know how much longer you can take it.    
+~
+225 0 0 0 0 3
+D0
+~
+~
+0 0 22580 0
+D2
+~
+~
+0 0 22560 0
+S
+#22580
+The Path Turns East~
+Here the path turns towards the east.  There appears to be an open
+glade in the distance.  You even think that you can see a faint
+glimmer of light moving through the glade.  Someone else besides you?
+You find yourself rushing to see who it is.    
+~
+225 0 0 0 0 3
+D1
+~
+~
+0 0 22581 0
+D2
+~
+~
+0 0 22579 0
+S
+#22581
+An Open Glade~
+This is a dead end to the paths, but at least you can see the sky.  
+Perhaps you could rest here a while until you can gather your
+thoughts.  It is extremely quiet here.  Perhaps it would be better to
+stay here than to go back into the forest.    
+~
+225 0 0 0 0 2
+D3
+~
+~
+0 0 22580 0
+S
+#22582
+The Hidden Vault~
+This is a room with bare stone walls.  It is even more empty than the
+other rooms.  Perhaps this room is made to hide the treasures of the
+Dracula family.    
+~
+225 12 0 0 0 0
+D4
+~
+vault trapdoor~
+2 22505 22519 9
+S
+#22583
+The Private Chamber of Sekhmet~
+A darker room than this, you will be hard pressed to find.  Black
+marble cover the walls, floor and ceiling of this room, glistening
+with a polished sheen.  The furniture is also constructed out of the
+same material, and small trinkets of green jade is neatly arranged on
+various shelves in the room.  As you admire the opulence, you suddenly
+feel the wrenching cold that premeates the whole room.    
+~
+225 512 0 0 0 0
+D3
+~
+door~
+1 0 22528 1
+S
+#22584
+Penance's Bar and Grill~
+As you walk into this room, the sweet smell of barbeque and beer fills
+your nostrils.  Beautiful, scantily clad maidens wait upon the dark
+figure sitting on a cloud of darkness in the center of the room.  
+Enjoy his hospitality but don't dare cross him.  He'll whup yo' ass.
+~
+225 8 0 0 0 0
+S
+#22585
+A Dark Tunnel~
+You find youself in another dark tunnel.  More twisting passages.  To
+the south there is more darkness and you can hear bats flying about.
+To the far north, you see light.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22545 0
+D2
+~
+~
+0 0 22586 0
+S
+#22586
+Dark Passages~
+The tunnels lead to the north, south, and east here.  More mazes for
+the mind.  Ack!!!  How much more of this can you take???    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22585 0
+D1
+~
+~
+0 0 22587 0
+D2
+~
+~
+0 0 22589 0
+S
+#22587
+A Large Iron Door~
+A large iron door stands before you.  This is odd.  You see no need
+for doors in a secret passageway that nobody travels, but to each his
+own.  Your curiousity begs for you to open it.    
+~
+225 8 0 0 0 0
+D2
+~
+iron door~
+1 0 22588 3
+D3
+~
+~
+0 0 22586 0
+S
+#22588
+The Lair of the Vampires~
+You find yourself inside a room lined with coffins.  Each has a
+vampire laying in it.  The hair on the back of your neck stands on end
+as one of them looks as you.  Perhaps it would be a good time to
+leave.    
+~
+225 8 0 0 0 0
+D0
+~
+iron door~
+1 0 22587 3
+S
+#22589
+A Dark Corridor~
+A dark hallway beneath Castle Dracula.  Darkness lies to the north and
+the west is blocked of by an oak door.  You find yourself praying to
+see light again.  You start to forget what the sun looks like.    
+~
+225 8 0 0 0 0
+D0
+~
+~
+0 0 22586 0
+D3
+~
+oak door~
+1 0 22590 3
+S
+#22590
+A Room Full of Coffins~
+The walls are lined with coffins standing on end.  All of the coffins
+are open, save one.  A large onyx coffin stands at the opposite wall
+with a small keyhole in the side.  A locked coffin?  How odd.    
+~
+225 8 0 0 0 0
+D1
+~
+oak door~
+1 0 22589 3
+D3
+~
+coffin door lid~
+1 0 22591 3
+S
+#22591
+Letstat's Hidden Chamber~
+You stand in the secret chamber of Lestat.  Many people believed that
+he has been around for longer than anyone could possibly know.  Looks
+like they were correct.  Your small inner voice beckons you to leave
+before your life is stripped from you.    
+~
+225 12 0 0 0 0
+D1
+~
+coffin door lid~
+1 22510 22590 7
+S
+$~

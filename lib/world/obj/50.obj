@@ -1,0 +1,116 @@
+#5000
+tooth shark~
+/cwa shark's tooth/c0~
+/cwA shark's tooth has been left here./c0~
+~
+20 0 0 0 0 1 0 0 0
+233 0 0 0 0 0 0 0
+4 20 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5001
+shell shield~
+/cwa /cgdeep green/cw shell/c0~
+/cwA /cgdeep green/cw shell lies here./c0~
+~
+9 0 0 0 0 513 0 0 0
+8 0 0 0 0 0 0 0
+12 10659 0 41 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+13 25
+A
+1 -1
+#5002
+gill sea elf~
+/cwthe /cggill/cw of a /cbsea elf/c0~
+/cwThe severed /cggill/cw of a /cbsea elf /cw has been dropped here./c0~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+6 4480 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#5003
+tusk walrus~
+/cwthe tusk of a /cLwalrus/c0~
+/cwThe tusk of a /cLwalrus /cwhas been dropped here./c0~
+~
+20 0 0 0 0 1 0 0 0
+680 0 0 0 0 0 0 0
+12 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5004
+whiskers seal~
+/cwa seal's whiskers/c0~
+/cwA seal's whiskers have been cut off and left here./c0~
+~
+11 32770 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+3 1981 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+12 10
+#5005
+conch shell~
+/cwa beautiful /cmconch shell/c0~
+/cwA beautiful /cmconch shell/cw has been left here./c0~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0 0 0 0 0
+5 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5006
+bracelet seashell~
+/cwa /cbseashell /cwbracelet/c0~
+/cwA beautiful /cbseashell /cwbracelet has been dropped here./c0~
+~
+9 0 0 0 0 4097 0 0 0
+4 0 0 0 0 0 0 0
+6 6240 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+26 1
+#5007
+foam~
+some foam~
+A bit of foam froths on the surface of the water.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5008
+fish dead~
+/cga dead fish/c0~
+/cgA dead fish/cw floats on the water./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 1 0 0 0 0
+3 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5015
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5078
+test~
+test~
+Test~
+~
+20 0 0 0 0 1 0 0 0
+1000000 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

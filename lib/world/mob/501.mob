@@ -1,0 +1,199 @@
+#50100
+Julianna Captain~
+the Captain~
+The captain of the barge stands on the bridge.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+1300 57012
+8 8 2
+Str: 10
+Dex: 10
+Int: 25
+Wis: 19
+Con: 25
+Cha: 14
+Luck: 17
+E
+#50101
+pilot~
+the pilot~
+The pilot stands at the tiller.
+~
+It looks unfinished.
+~
+151566 0 0 0 2048 131072 0 0 0 E
+25 11 0 1d1+0 2d3+16
+800 17197
+8 8 1
+Str: 13
+Dex: 14
+Int: 18
+Wis: 5
+Con: 5
+Cha: 16
+Luck: 19
+Class: 2
+E
+#50102
+carpenter~
+the ships carpenter~
+The ships carpenter finishes up some repairs.
+~
+It looks unfinished.
+~
+4110 0 0 0 2048 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+1050 27376
+8 8 1
+Str: 24
+Dex: 8
+Int: 6
+Wis: 25
+Con: 17
+Cha: 14
+Luck: 14
+Class: 2
+E
+#50103
+cook~
+the cook~
+The ship's cook stands here stirring some stew.
+~
+It looks unfinished.
+~
+6158 0 0 0 2048 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+800 17197
+8 8 1
+Str: 5
+Dex: 18
+Int: 23
+Wis: 13
+Con: 15
+Cha: 16
+Luck: 20
+Class: 2
+E
+#50104
+bargeman man~
+a bargeman~
+A bargeman wielding a pole stands upon the bow.
+~
+It looks unfinished.
+~
+86030 0 0 0 2048 131072 0 0 0 E
+27 12 -8 1d1+0 2d4+18
+900 20926
+8 8 1
+Str: 8
+Dex: 12
+Int: 5
+Wis: 24
+Con: 25
+Cha: 7
+Luck: 10
+Class: 2
+E
+#50106
+bargeman man~
+a bargeman~
+A bargeman wielding a pole gazes at the receeding landscape.
+~
+It looks unfinished.
+~
+69646 0 0 0 2048 131072 0 0 0 E
+25 11 0 1d1+0 2d3+16
+800 17197
+8 8 1
+Str: 24
+Dex: 17
+Int: 12
+Wis: 16
+Con: 8
+Cha: 20
+Luck: 13
+Class: 2
+E
+#50150
+Chaos Guard~
+chaos guard~
+a Chaos Guard stands here guarding.
+~
+The Chaos Guards eyes are white and dead.
+Only the sparkiling ancient magic seems to keep him alive.
+~
+69706 0 0 0 67108864 0 0 0 -300 E
+65 42 -40 1d1+0 6d6+43
+1125 206459
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 23
+Int: 13
+Wis: 19
+Con: 25
+Cha: 19
+Class: 10
+Race: 6
+E
+#50151
+prisoner~
+prisoner~
+a prisoner stands here
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+60 37 -36 1d1+0 5d6+40
+1000 160325
+8 8 1
+Str: 7
+Dex: 9
+Int: 13
+Wis: 19
+Cha: 20
+Luck: 24
+Class: 3
+Race: 14
+E
+#50152
+Chaos Lord~
+Chaos Lord~
+a Chaos Lord is staning here
+~
+When you take a closer look at the Chaos Lord, you realise hes a vampire.
+Hes teeths are long and sharp, and you could almost feel his bloodthurst.
+~
+530954 0 0 0 8650752 0 0 0 300 E
+80 56 -40 1d1+0 6d7+53
+1400 367272
+8 8 1
+BareHandAttack: 5
+Str: 18
+Dex: 14
+Int: 19
+Wis: 7
+Con: 15
+Cha: 17
+Luck: 16
+Class: 14
+Race: 6
+E
+#50153
+Angelica the shopkeeper~
+Angelica the shop keeper~
+Angelica stands here
+~
+When you look at angelicas eyes ,you realise that shes a liveing dead. Her eyes are white and blank, and the strange force of Chaos surrounds her.
+~
+10 0 0 0 0 0 67108864 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 2
+Class: 12
+Race: 14
+E
+$

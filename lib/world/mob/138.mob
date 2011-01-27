@@ -1,0 +1,865 @@
+#13800
+reception~
+a Receptionist~
+Riverhaven's lone receptionist stands here waiting to help one in need.
+~
+She seems to snarl and mutter nasty things under her breath, tho you
+cannot be sure due to the heavy veil that shrouds her.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 2
+Str: 24
+Dex: 6
+Int: 12
+Wis: 15
+Con: 20
+Cha: 7
+Luck: 25
+Class: 11
+Race: 16
+E
+#13801
+Alayle~
+Alayle~
+Alayle stands here selling his clothing goods.
+~
+Alayle is a plain-looking man, no outstanding features come to mind.
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+Str: 6
+Dex: 15
+Int: 13
+Wis: 19
+Con: 17
+Cha: 23
+Luck: 20
+Race: 14
+E
+#13802
+Lokthal~
+Lokthal~
+Sir Lokthal stands before you with an armful of pastries.
+~
+His hands full of pastries he tries to intrest you in his now stale
+bread goods.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+Str: 14
+Dex: 18
+Int: 8
+Wis: 18
+Con: 16
+Cha: 19
+Luck: 13
+Race: 14
+E
+#13803
+Enfermine~
+Enfermine~
+Enfermine thrusts his goods before you, making you want to spend your cash!
+~
+He is worn from the many days of relentless selling.  The look of hope
+still lingers in his dull eyes.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 0
+Str: 20
+Dex: 25
+Int: 6
+Wis: 22
+Con: 21
+Cha: 13
+Luck: 17
+Race: 14
+E
+#13804
+Ioun~
+Ioun~
+Behind a large pile of old antiques stands Ioun, busy cleaning.
+~
+You see a slight glimpse of him but notice nothing unusual.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 2
+Str: 14
+Dex: 23
+Int: 23
+Wis: 10
+Con: 6
+Cha: 22
+Luck: 23
+Race: 14
+E
+#13805
+Noel~
+Noel~
+Noel stands here, blade in hand, looking for a willing customer.
+~
+Stong and clean he looks as though he was once an experienced
+gladiator.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+Str: 24
+Dex: 5
+Int: 12
+Wis: 21
+Con: 6
+Cha: 8
+Luck: 19
+Race: 14
+E
+#13806
+Anthelorm~
+Anthelorm~
+Anthelorm stands here, pondering about your reliability to pay for services.
+~
+She is a one of a kind gem dealer.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 2
+Str: 25
+Dex: 22
+Int: 25
+Wis: 18
+Con: 6
+Cha: 22
+Luck: 18
+Race: 14
+E
+#13807
+Zanthron~
+Zanthron~
+Zanthron stands before you, muttering clips and phrases of gibberish.
+~
+Mighty and powerful.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d9+66
+3200 589815
+8 8 2
+Str: 17
+Dex: 13
+Int: 14
+Wis: 7
+Con: 7
+Cha: 13
+Luck: 14
+Race: 14
+E
+#13808
+Gladiator Guild Guard~
+the Gladiator GuildGuard~
+The mighty gladiator guildguard of Riverhaven stands before you.
+~
+He is you tough guild guard.    
+~
+563210 0 0 0 33554512 131072 0 0 -1000 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 6
+Int: 12
+Wis: 5
+Con: 5
+Cha: 7
+Luck: 6
+Class: 4
+Race: 19
+E
+#13809
+Thief Guild Guard~
+the Thief GuildGuard~
+A thief hides in the shadows, keeping others from entering his guild.
+~
+He is sly and quick.    
+~
+694282 0 0 0 1572948 131072 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 1
+BareHandAttack: 11
+Str: 23
+Dex: 16
+Int: 20
+Wis: 16
+Con: 22
+Cha: 18
+Luck: 17
+Class: 3
+Race: 18
+E
+#13810
+Rabger Guild Guard~
+the Ranger GuildGuard~
+The ranger guildguard stands here.
+~
+He like all rangers is extremly skilled in the woods and not one you
+would want to mess with.    
+~
+595978 0 0 0 2128 163842 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 1
+BareHandAttack: 14
+Str: 10
+Dex: 9
+Int: 22
+Wis: 10
+Con: 8
+Cha: 17
+Luck: 25
+Class: 5
+Race: 21
+E
+#13811
+Cleric Guild Guard~
+a Cleric GuildGuard~
+The cleric guildguard stands here, stopping intruders!
+~
+She looks holy and in sync with her god.
+~
+628746 0 0 0 2128 131074 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 2
+BareHandAttack: 7
+Str: 17
+Dex: 7
+Int: 22
+Wis: 16
+Con: 25
+Cha: 7
+Luck: 22
+Class: 2
+Race: 23
+E
+#13812
+Cecelia~
+Cecelia~
+Cecelia stands here, showing everyone her blossoms.
+~
+She is a frail woman, wearing her nice gardening clothes today.
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 2
+Str: 19
+Dex: 7
+Int: 20
+Wis: 10
+Con: 17
+Cha: 19
+Luck: 22
+Race: 14
+E
+#13813
+Seli~
+Seli~
+Seli stands here, selling the finest new armors.
+~
+He is a wealthy man who like to show of his wealth with an array of
+fine armors.    
+~
+229386 0 0 0 80 131072 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 0
+BareHandAttack: 3
+Str: 16
+Dex: 5
+Int: 6
+Wis: 17
+Con: 7
+Cha: 18
+Luck: 22
+Race: 14
+E
+#13814
+Strasnuf~
+Strasnuf~
+Strasnuf stands here, watching over the Riverhaven bank.
+~
+He is the wealthiest man of Riverhaven, his cloak is made of
+interwoven gold.  You notice on his fingers he sports numerous gold
+rings with large diamonds set in them.    
+~
+229386 0 0 0 0 131072 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 0
+Str: 15
+Dex: 8
+Int: 8
+Wis: 13
+Con: 13
+Cha: 19
+Luck: 6
+Class: 12
+Race: 14
+E
+#13815
+Ranger Gustufsen~
+Ranger Gustufsen~
+Ranger Master Gustufsen stands here.
+~
+You notice that Gustufsen is equiped with some of the finest ranger
+equipment in Riverhaven.    
+~
+34826 0 0 0 2128 131072 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1658628
+8 8 0
+BareHandAttack: 3
+Str: 10
+Dex: 24
+Int: 5
+Wis: 19
+Con: 22
+Cha: 24
+Luck: 19
+Race: 14
+E
+#13816
+Deathknight Guild Guard~
+Deathknight Guild Guard~
+The dark knight's skillful guild guard stands before you, eyes glowing.
+~
+He towers above you sneering at your small self.  His brod shoulders
+block the sunlight making the ground at your feet disapear in his
+shadows.    
+~
+604698 0 0 0 67110992 131072 0 0 -1000 E
+140 124 -60 1d1+0 17d17+93
+4200 1460602
+8 8 0
+BareHandAttack: 3
+Str: 6
+Dex: 20
+Int: 9
+Wis: 14
+Con: 5
+Cha: 12
+Luck: 8
+Class: 9
+Race: 29
+E
+#13817
+Paladin Guild Guard~
+Paladin Guild Guard~
+Here stands the Paladin Guildguard.
+~
+Strong and powerfull the paladin guild guard is a fine man.    
+~
+760074 0 0 0 167772176 163840 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1460602
+8 8 1
+Str: 7
+Dex: 15
+Int: 7
+Wis: 12
+Con: 9
+Cha: 25
+Luck: 20
+Class: 6
+Race: 14
+E
+#13818
+heiko mayor riverhaven~
+Heiko~
+Heiko the Mayor of Riverhaven stands here, enforcing justice as he knows it.
+~
+Heiko was once a mighty warrior in another realm and ruled all.  The
+gods of Dibrova saw his talent and realized he would be a great mayor
+to guard the city of Riverhaven.    
+~
+1579084 0 0 0 67109200 0 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+5400 2248641
+8 8 1
+Str: 24
+Dex: 22
+Int: 15
+Wis: 9
+Con: 12
+Cha: 19
+Luck: 19
+Class: 4
+Race: 14
+E
+#13819
+soldier for hire~
+a Soldier-for-Hire~
+A soldier-for-hire awaits someone in need of his services.
+~
+The long hours of waiting for someone to hire his worthless soul have
+bid thier tole making him withier in the heat.    
+~
+690248 0 0 0 100663376 131072 0 0 -1000 E
+120 100 -40 1d1+0 14d14+80
+3500 985866
+8 8 1
+BareHandAttack: 6
+Str: 25
+Dex: 9
+Int: 12
+Wis: 10
+Con: 24
+Cha: 14
+Luck: 24
+Class: 4
+Race: 32
+E
+#13820
+Bianca magess~
+Bianca~
+Bianca hovers forth, palming through her tarot cards.
+~
+Her face is covered by a large hood making way for errie shadows to be
+cast over her body.  You notice her cloak reaching to the ground but
+her feet aren't visible.    
+~
+714824 0 0 0 545587280 4341760 0 0 0 E
+185 183 -100 1d1+0 32d32+123
+6700 3114562
+8 8 2
+BareHandAttack: 15
+Str: 25
+Dex: 21
+Int: 25
+Wis: 14
+Con: 18
+Cha: 18
+Luck: 16
+Class: 1
+Race: 14
+E
+#13821
+/cwSalt Crab~
+a Salt Crab~
+A salt crab scuttles about the ground, looking for food.
+~
+His small size leads you to misjudge his powerful claws that seem to
+hover above him for protection.    
+~
+200 0 0 0 0 0 0 0 -1000 E
+10 3 60 1d1+0 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 8
+Str: 7
+Dex: 19
+Int: 21
+Wis: 9
+Con: 25
+Cha: 21
+Luck: 19
+Race: 4
+E
+#13822
+West Gate Tower Guard~
+the Tower Guard~
+A guard confined to the West Gate stands guard, watching out for invasions.
+~
+The long hours of peering into the nothingness beyond the gates of
+Riverhaven have made his eyes loose thier once gentle glow.  His
+hardened body closes in it the once happy life he had.    
+~
+34183194 0 0 0 33554512 131072 0 0 0 E
+185 183 -100 1d1+0 32d32+123
+6700 2831420
+8 8 1
+BareHandAttack: 3
+Str: 20
+Dex: 22
+Int: 24
+Wis: 10
+Con: 19
+Cha: 18
+Luck: 12
+Class: 4
+Race: 29
+E
+#13823
+horse battle~
+a Battle Horse~
+A three-legged battle horse hobbles about here.
+~
+It has scars all over it's body.  A wound is gaping on it's hind
+quarter, spilling small amounts of blood on the ground.    
+~
+329738 0 0 0 16 0 0 0 0 E
+20 8 20 1d1+0 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 9
+Str: 16
+Dex: 20
+Int: 7
+Wis: 13
+Con: 23
+Cha: 13
+Luck: 10
+Race: 52
+E
+#13824
+East Gate Tower Guard~
+the Tower Guard~
+/cyOne of the East Gate Tower Guards stands here watching for an invasion./c0
+~
+The long hours of peering into the nothingness beyond the gates of
+Riverhaven have made his eyes loose thier once gentle glow.  His
+hardened body closes in it the once happy life he had.    
+~
+34281498 0 0 0 33562704 131074 0 0 0 E
+185 183 -100 1d1+0 32d32+123
+6700 2831420
+8 8 0
+BareHandAttack: 14
+Str: 20
+Dex: 17
+Int: 19
+Wis: 12
+Con: 6
+Cha: 24
+Luck: 20
+Class: 4
+Race: 29
+E
+#13825
+master race leader halfling~
+the Halfling Leader~
+Hiding in a corner, you notice a small halfling watching over his children.
+~
+His black cloak hides him from the mortals sight.  He small stature
+helps him be extremly agile and a good fighter.    
+~
+677898 0 0 0 538509404 4194306 0 0 -1000 E
+185 183 -100 1d1+0 32d32+123
+6700 2831420
+5 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 16
+Int: 6
+Wis: 20
+Con: 23
+Cha: 10
+Luck: 24
+Class: 3
+Race: 17
+E
+#13826
+halfling child innocent~
+an innocent Halfling~
+An innocent halfling child plays marbles here.
+~
+Small and fragile you wouldn't dare touch him.    
+~
+138 0 0 0 16 0 0 0 0 E
+45 25 -24 1d1+0 4d5+30
+525 76985
+8 8 0
+Str: 15
+Dex: 20
+Int: 20
+Wis: 15
+Con: 17
+Cha: 7
+Luck: 7
+Class: 12
+Race: 17
+E
+#13827
+halfling roller little~
+a Halfling marble roller~
+A little halfling squats down, marbles in hand, ready to shoot.
+~
+Small and fragile you wouldn't dare want to touch him.    
+~
+138 0 0 0 0 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 0
+Str: 22
+Dex: 14
+Int: 15
+Wis: 20
+Con: 6
+Cha: 21
+Luck: 18
+Class: 12
+Race: 17
+E
+#13828
+rizuno~
+Rizuno~
+Rizuno stands here, selling some ranger gear.
+~
+He is a skilled warrior sporting good from all over the realms for
+just the ranger guild.   
+~
+245770 0 0 0 33554512 131072 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 10
+Int: 6
+Wis: 17
+Con: 13
+Cha: 6
+Luck: 19
+Race: 14
+E
+#13829
+Riverhaven North Gate Guard~
+the Gate Guard~
+Riverhaven's North Gate Guard stands here.
+~
+The long hours of peering into the nothingness beyond the gates of
+Riverhaven have made his eyes loose thier once gentle glow.  His
+hardened body closes in it the once happy life he had.    
+~
+759834 0 0 0 80 131072 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+BareHandAttack: 5
+Str: 19
+Dex: 13
+Int: 25
+Wis: 23
+Con: 19
+Cha: 20
+Luck: 6
+Class: 4
+Race: 29
+E
+#13830
+eye orcus~
+an Eye of Orcus~
+An Eye of Orcus is here, looking at you intently.
+~
+Eyes of Orcus, though intelligent, are magical automata under the
+control of other beings and have no society or culture of their own.
+They are sent by evil beings to planes they cannot easily travel to
+slay the enemies of their controllers.    
+~
+559642 0 0 0 2128 258 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+0 1955340
+8 8 0
+BareHandAttack: 16
+Str: 5
+Dex: 18
+Int: 8
+Wis: 15
+Con: 23
+Cha: 7
+Luck: 5
+Class: 1
+Race: 34
+E
+#13831
+Riverhaven guard~
+a Tower Guard~
+A lonely tower guard stands here watching into the distance looking for intruders.
+~
+His long hours of staring into the distance have made his eyes take on
+a glazed effect.    
+~
+628762 0 0 0 80 131072 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 16
+Int: 7
+Wis: 14
+Con: 14
+Cha: 20
+Luck: 6
+Class: 4
+Race: 29
+E
+#13832
+thief riverhaven~
+the Thief~
+You notice a flicker of a being deep within the shadows.
+~
+You seen nothing...........
+~
+170122 0 0 0 1574996 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+BareHandAttack: 14
+Str: 9
+Dex: 22
+Int: 10
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 18
+Class: 3
+Race: 16
+E
+#13833
+peasant~
+a Peasant~
+A peasant stands here waiting to be let into the city.
+~
+She has very poor health and here clothed seem to be falling off...  
+~
+10 0 0 0 0 0 0 0 0 E
+99 76 -40 1d1+0 6d8+66
+3200 574891
+8 8 2
+Str: 14
+Dex: 20
+Int: 9
+Wis: 24
+Con: 15
+Cha: 6
+Luck: 12
+Class: 12
+Race: 14
+E
+#13840
+ghost moon mage~
+the Moon Mage~
+The ghost of a Moon Mage hovers before you.
+~
+This is the spirit of a woman learned in moon magics who had been
+buried alive by her spouse.  She appears only in a 20' radius about
+her grave and then only on moon-lit nights.  On any night, she will
+first appear as a white bull.    
+~
+757770 0 0 0 570687748 163840 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1990352
+8 8 2
+BareHandAttack: 15
+Str: 18
+Dex: 10
+Int: 8
+Wis: 22
+Con: 24
+Cha: 18
+Luck: 22
+Class: 1
+Race: 34
+E
+#13841
+Boy peasant lost~
+a lost peasant Boy~
+A boy wanders about, looking for dropped change.
+~
+He is draped in clothes from the local dump.  His body is thin from
+the lack of proper food.    
+~
+76 0 0 0 0 0 0 0 -1000 E
+95 72 -40 1d1+0 6d8+63
+3200 517501
+8 8 1
+Str: 24
+Dex: 6
+Int: 9
+Wis: 20
+Con: 12
+Cha: 6
+Luck: 25
+Race: 14
+E
+#13842
+Riverhaven City Guard~
+the Cityguard~
+A cityguard stands here, enforcing the law of Riverhaven.
+~
+He is tall and well equipped to do battle if there comes a time.  His
+muscular body does fight when it comes to enforcing the law.    
+~
+34117704 0 0 0 80 131072 0 0 1000 E
+130 111 -60 1d1+0 15d16+86
+3500 1151521
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 19
+Int: 20
+Wis: 20
+Con: 7
+Cha: 17
+Luck: 5
+Class: 10
+Race: 14
+E
+#13843
+Darkone Helper Gladiator~
+Darkone~
+Before you stands the mighty Darkone, Heiko's master assistant to Riverhaven.
+~
+Once a deadly mage, he has retired to assist Heiko in controlling the
+doing of the large city of Riverhaven.    
+~
+104524 0 0 0 603979792 512 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1741559
+8 8 1
+BareHandAttack: 10
+Str: 21
+Dex: 25
+Int: 24
+Wis: 17
+Con: 19
+Cha: 16
+Luck: 8
+Class: 1
+Race: 14
+E
+#13844
+Ishamael~
+Ishamael~
+Ishamael stands here tending to business.
+~
+His dark cape covers his small form giving a seeming appearance of
+mystic.    
+~
+229386 0 0 0 2128 131074 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+BareHandAttack: 12
+Str: 7
+Dex: 25
+Int: 23
+Wis: 14
+Con: 25
+Cha: 19
+Luck: 20
+Race: 14
+E
+$

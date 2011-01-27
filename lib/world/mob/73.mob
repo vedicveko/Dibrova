@@ -1,0 +1,772 @@
+#7300
+oldstyle knight ethereal dark~
+the Dark Ethereal Knight~
+A dark ethereal knight hovers over the bloody clearing.
+~
+The ethereal knight is clad in shadowy black armor.  It appears as
+though he was involved in the carnage that occurred here.  His soul is
+trapped here, as he waits for release.    
+~
+256010 0 0 0 75497472 0 0 0 -1000 E
+45 25 -24 1d35+2400 4d5+30
+625 80834
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 16
+Luck: 12
+Class: 9
+Race: 49
+E
+#7301
+oldstyle treant tree~
+the Old Treant~
+A huge, gnarled tree stands here, battered by age and nature.
+~
+The old tree looks as though the wind has battered and torn at it for
+years.  Very few leaves remain.  Its limbs are crooked and gnarled.  
+It moans as the wind pushes it back and forth.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+35 17 -20 1d22+1400 3d5+23
+0 40559
+8 8 0
+BareHandAttack: 9
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 20
+Luck: 12
+Class: 1
+Race: 25
+E
+#7302
+oldstyle dweller cave creature~
+the Cave Dweller~
+A slimy, gross creature is here munching on a corpse.
+~
+The cave dweller looks like a mixture of several disgusting monsters.
+It has a bird's beak, huge white eyes, a furry body, and long clawed
+hands and feet.  It sees you and snarls.    
+~
+67108874 0 0 0 80 0 0 0 -300 E
+18 7 28 1d18+800 1d3+12
+0 7441
+8 8 0
+BareHandAttack: 8
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 7
+Luck: 12
+Race: 7
+E
+#7303
+oldstyle toad rock~
+the Rock Toad~
+A rather large rock toad sits here, croaking loudly.
+~
+A grey toad.  Its about the size of a cow.  Small horns grow all over
+its body.    
+~
+10 0 0 0 0 0 0 0 -100 E
+25 11 0 1d19+900 2d4+12
+0 17197
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 5
+Luck: 12
+Race: 2
+E
+#7304
+oldstyle weeping willow tree~
+the Weeping Willow~
+A large willow tree stands here, weeping.
+~
+The weeping willow has long thins branches.  These branches seem to
+droop in anguish and dismay.  You hear a faint sound of crying.    
+~
+98376 0 0 0 0 0 0 0 0 E
+35 17 -30 1d22+1400 3d6+17
+0 40559
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 14
+Luck: 12
+Race: 26
+E
+#7305
+oldstyle mist mistling~
+the Mistling~
+A mistling emerges from the mist surrounding you.
+~
+It looks like a thin wisp of mist that has gained substance and size.
+~
+104 0 0 0 1048656 0 0 0 0 E
+31 15 -20 1d18+800 3d4+20
+0 29763
+8 8 0
+BareHandAttack: 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 18
+Luck: 12
+Race: 30
+E
+#7306
+oldstyle swamp wraith~
+the Swamp Wraith~
+A swamp wraith emerges from the mist here.
+~
+The swamp wraith is made of mist and is in the image of a great
+warrior.  He appears to emerge from the mist.  You feel the cold
+radiating from his form as he nears you.    
+~
+104 0 0 0 8912896 0 0 0 -200 E
+38 19 -20 1d23+1600 3d6+25
+400 50022
+8 8 0
+BareHandAttack: 16
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 5
+Luck: 12
+Class: 3
+Race: 49
+E
+#7307
+oldstyle ogre villager~
+the Ogre Villager~
+The ogre villager is here, going about its chores.
+~
+You see a pitifully overworked ogre.  It is dressed in rags and
+shuffles along with its head hung low.  It sees you and cringes in
+mortal terror.    
+~
+4168 0 0 0 0 0 0 0 0 E
+32 15 -20 1d27+2100 3d4+21
+300 32273
+8 8 0
+BareHandAttack: 6
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 20
+Luck: 12
+Class: 12
+Race: 19
+E
+#7308
+oldstyle warrior ogre~
+the Ogre Warrior~
+The ogre warrior stands here, growling fiercely.
+~
+The ogre warrior is dressed in thick fur armor.  He looks quite large
+and formidable.    
+~
+596040 0 0 0 16 0 0 0 -400 E
+37 19 -20 1d29+2200 3d6+24
+400 46733
+8 8 0
+BareHandAttack: 7
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 22
+Luck: 12
+Class: 4
+Race: 19
+E
+#7309
+oldstyle guard ogre~
+the Ogre Guard~
+The ogre guard is here manning his post faithfully.
+~
+The ogre guard stands here manning his post.  It appears as though he
+would fight to the death before abandoning his post.    
+~
+530442 0 0 0 16 0 0 0 0 E
+40 21 -20 1d28+2150 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 12
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 25
+Luck: 12
+Class: 10
+Race: 19
+E
+#7310
+oldstyle shaman ogre~
+the Ogre Shaman~
+The ogre shaman is here chanting arcane words and waving his arms.
+~
+The ogre shaman is draped in thick fur cloaks and pelts.  He has all
+types of charms and holy symbols draped about him.  He looks at you
+and snarls.    
+~
+10 0 0 0 16 0 0 0 200 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 15
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 20
+Luck: 12
+Class: 1
+Race: 19
+E
+#7311
+oldstyle chief chieftain ogre~
+the Ogre Chieftain~
+The ogre chieftain is here, observing his subjects.
+~
+This is the biggest ogre you have ever seen.  He is heavily equipped
+and looks quite formidable.  He towers high above you and growls
+menacingly.    
+~
+79882 0 0 0 16 0 0 0 0 E
+42 22 -24 1d33+2350 4d5+28
+550 64565
+8 8 1
+BareHandAttack: 5
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 15
+Luck: 12
+Class: 4
+Race: 19
+E
+#7312
+oldstyle barbarian~
+the Plains Barbarian~
+A plains barbarian is here, clad in heavy furs.
+~
+The plains barbarian is clad in heavy furs.  He seems used to the
+chilling cold and icy wastes.    
+~
+72 0 0 0 80 0 0 0 300 E
+33 16 -20 1d23+1600 3d4+22
+300 34908
+8 8 0
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Luck: 12
+Class: 4
+Race: 14
+E
+#7313
+oldstyle yeti white~
+the White Yeti~
+The white yeti crouches here snarling.
+~
+The white yeti looks like a huge white snow ape.  Its long arms end in
+long curved talons and its mouth is full of sharp teeth.    
+~
+2120 0 0 0 80 0 0 0 0 E
+30 14 -20 1d18+800 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 8
+Luck: 12
+Race: 8
+E
+#7314
+oldstyle worm ice iceworm~
+the Ice Worm~
+A huge ice worm burrows through the ice and snow here. It rears up and
+attacks!
+~
+The huge worm is almost 50 feet long.  Its huge gaping mouth spews ice
+and snow as it charges directly at you.    
+~
+67668040 0 0 0 80 163840 0 0 0 E
+31 15 -20 1d21+1200 3d4+20
+0 29763
+8 8 0
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 17
+Luck: 12
+Race: 5
+E
+#7315
+oldstyle citizen minotaur~
+the Minotaur Citizen~
+A minotaur citizen is here, hurrying through the icy streets.
+~
+You see a rather ragged and cold minotaur.  It appears to be looking
+for a warm place to seek refuge from the cold.    
+~
+72 0 0 0 0 0 0 0 300 E
+30 14 -20 1d23+1600 3d3+20
+250 27376
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 10
+Luck: 12
+Class: 12
+Race: 50
+E
+#7316
+oldstyle guard minotaur~
+the Minotaur Guard~
+A minotaur guard catches you trespassing and attacks!
+~
+The minotaur is clad in heavy furs.  Beneath these furs, you see the
+gleam of his armor.    
+~
+2090 0 0 0 16 0 0 0 0 E
+35 17 -20 1d25+2000 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Class: 10
+Race: 50
+E
+#7317
+oldstyle warrior minotaur~
+the Minotaur Warrior~
+A minotaur warrior is here looking for intruders.
+~
+You see a huge minotaur that is dressed in thick furs and armor.  He
+has black fur and red eyes.  He looks quite capable of protecting the
+city.    
+~
+104 0 0 0 0 0 0 0 -400 E
+33 16 -20 1d27+2100 3d4+22
+300 34908
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 9
+Luck: 12
+Class: 4
+Race: 50
+E
+#7318
+oldstyle minotaur gatekeeper~
+the Minotaur Gatekeeper~
+A minotaur is here guarding the Keep of Mahn-Tor.
+~
+The minotaur stands rigidly before the gates of the keep.  It looks
+quite miserable standing in the driven snow and ice.    
+~
+42 0 0 0 80 0 0 0 -100 E
+35 17 -20 1d26+2050 3d5+23
+350 40559
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 5
+Luck: 12
+Class: 4
+Race: 50
+E
+#7319
+oldstyle minotaur high guard~
+the High Minotaur Guard~
+The minotaur high guard is here guarding the Keep.
+~
+The high guard is dressed in blue plate armour.  He looks quite
+dangerous and skilled.    
+~
+6154 0 0 0 0 0 0 0 0 E
+38 19 -20 1d35+2400 3d6+25
+400 50022
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Class: 10
+Race: 50
+E
+#7320
+oldstyle minotaur royal guard~
+the Royal Minotaur Guard~
+The royal minotaur guard considers you an intruder and attacks!
+~
+The royal guard is quite huge.  He is dressed in heavy red armor and
+wields a huge glaive.  He looks quite capable of protecting the keep.
+~
+42 0 0 0 16 0 0 0 -100 E
+40 21 -20 1d38+2475 4d5+26
+500 57012
+8 8 1
+BareHandAttack: 9
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 20
+Luck: 12
+Class: 10
+Race: 50
+E
+#7321
+oldstyle guard minotaur elite~
+the Elite Minotaur Guard~
+The elite minotaur guard sees you and attacks!
+~
+This minotaur wields a huge morningstar and is clad in heavy crimson
+plate and furs.    
+~
+530474 0 0 0 80 0 0 0 -100 E
+43 23 -24 1d40+2525 4d5+28
+575 68558
+8 8 1
+BareHandAttack: 5
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 8
+Luck: 12
+Class: 10
+Race: 50
+E
+#7322
+oldstyle girl haremgirl harem slave~
+the Harem Girl~
+A harem girl cowers here in fear.
+~
+She looks quite attractive.  Her low cut gown reveals why she was
+chosen to be in the harem.    
+~
+138 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 5
+Luck: 12
+Class: 12
+Race: 50
+E
+#7323
+oldstyle butler minotaur~
+the Minotaur Butler~
+A minotaur butler stands here rigidly, awaiting orders.
+~
+He looks quite regal and refined to be a minotaur.
+~
+4106 0 0 0 0 0 0 0 0 E
+40 21 -20 1d34+2375 4d5+26
+500 57012
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 13
+Luck: 12
+Class: 12
+Race: 50
+E
+#7324
+oldstyle keeper minotaur ring-keeper~
+the Minotaur Ring-Keeper~
+The minotaur ring-keeper stands guarding his post.
+~
+The ring-keeper is a huge minotaur.  You notice a huge ring of
+multicolored keys hanging from his belt.  He wears huge, spiked brass
+knuckles.    
+~
+2058 0 0 0 16 0 0 0 -100 E
+45 25 -24 1d45+3000 4d5+30
+625 76985
+8 8 0
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 22
+Luck: 12
+Class: 4
+Race: 50
+E
+#7325
+oldstyle gorak minotaur warrior master~
+Gorak~
+Gorak, the Minotaur Master Warrior, is here practicing his skills.
+~
+Gorak is HUGE.  His bulging muscles are confined beneath heavy armor.
+He is the master of the warrior guild of Mahn-Tor.    
+~
+67713050 0 0 0 16 131072 0 0 -100 E
+48 27 -28 1d48+4500 5d5+32
+700 90757
+8 8 0
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Class: 5
+Race: 50
+E
+#7326
+oldstyle darkoth minotaur anti-paladin master~
+Darkoth~
+Darkoth, the minotaur anti-paladin, stands here grinning wickedly.
+~
+Darkoth is a living incarnation of evil.  He radiates a dark aura, and
+a cold chill runs down your spine.  He is the master of the Mahn-Tor
+anti-paladins.    
+~
+67737610 0 0 0 100663312 0 0 0 -1000 E
+49 28 -28 1d49+5000 5d5+32
+725 100438
+8 8 0
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 14
+Luck: 12
+Class: 9
+Race: 50
+E
+#7327
+oldstyle tyrgoth minotaur paladin master~
+Tyrgoth~
+Tyrgoth, the minotaur paladin, is here worshipping silently.
+~
+Tyrgoth is the minotaur incarnation of good.  You feel safe and at
+ease in his presence.  He is the leader of the Mahn-Tor paladins.    
+~
+67688458 0 0 0 134283280 4325376 0 0 1000 E
+49 28 -28 1d49+5000 5d5+32
+725 100438
+8 8 0
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 6
+Luck: 12
+Class: 6
+Race: 50
+E
+#7328
+oldstyle amyrok minotaur mage master~
+Amyrok~
+Amyrok, the minotaur archmage, is here chanting arcane spells.
+~
+Amyrok is a small minotaur.  He is clad in loose robes and emits an
+aura of power.  He appears quite dangerous, despite his size.  He is
+the leader of the mages of Mahn-Tor.    
+~
+67672074 0 0 0 262224 0 0 0 0 E
+49 28 -28 1d49+5000 5d5+32
+725 105221
+8 8 0
+BareHandAttack: 15
+Str: 13
+Dex: 12
+Int: 16
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Class: 1
+Race: 50
+E
+#7329
+oldstyle sumaron minotaur cleric master~
+Sumaron~
+Sumaron, master cleric of Mahn-Tor, is here looking holy.
+~
+Sumaron is clad in white glowing robes.  He is goodness incarnate.  
+He is the master of all the clerics of Mahn-Tor.    
+~
+67770378 0 0 0 268435472 0 0 0 1000 E
+49 28 -28 1d49+5000 5d5+32
+725 95656
+8 8 0
+BareHandAttack: 7
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 22
+Luck: 12
+Class: 2
+Race: 50
+E
+#7330
+oldstyle nasturn minotaur druid master~
+Nasturn~
+Nasturn, the minotaur druid, is here studying the arts of nature.
+~
+Nasturn is quite a natural looking minotaur.  He is dressed in leather
+and wears no metal of any type.  He looks at you and smiles.    
+~
+67737610 0 0 0 33554512 131072 0 0 0 E
+48 27 -28 1d48+4500 5d5+32
+700 90757
+8 8 0
+BareHandAttack: 14
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Class: 5
+Race: 50
+E
+#7331
+oldstyle belrak minotaur ranger master~
+Belrak~
+Belrak, the minotaur ranger, looks unhappy about having visitors.
+~
+Belrak is clad in green and brown leather.  He looks quite agile and
+thin, when compared to the normal minotaur.  He looks at you with a
+slight smirk.    
+~
+101259274 0 0 0 33554512 131072 0 0 -182 E
+49 28 -28 1d49+5000 5d5+32
+725 95656
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Class: 5
+Race: 50
+E
+#7332
+oldstyle dorgar minotaur thief master~
+Dorgar~
+Dorgar, the minotaur thief, is here hiding in the shadows.
+~
+Dorgar is clad all in black.  He is tall and slender, unlike most
+minotaurs.  He appears to be quite a skilled thief.    
+~
+67770378 0 0 0 1572944 0 0 0 -100 E
+49 28 -28 1d49+5000 5d5+32
+725 95656
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Class: 3
+Race: 50
+E
+#7333
+oldstyle mahn-tor minotaur grand master~
+Mahn-Tor~
+Mahn-Tor, the minotaur grand master, is here looking down at you.
+~
+Mahn-Tor towers above you.  He is simply huge.  Mahn-Tor is clad in
+the best of armor and robes.  He wields the largest axe you have ever
+seen.  You can see why Mahn-Tor is the leader of the minotaurs.  He is
+awe-inspiring.    
+~
+67819530 0 0 0 33554512 163840 0 0 -1000 E
+53 31 -32 1d50+6000 5d6+35
+825 116847
+8 8 0
+BareHandAttack: 12
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 19
+Luck: 12
+Class: 4
+Race: 50
+E
+$

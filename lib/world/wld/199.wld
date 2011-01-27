@@ -1,0 +1,808 @@
+#19900
+Arena Prep Room~
+You have been transferred to an entirely different plane, where
+players constantly wage war upon one another in the name of honor,
+dignity, and status.  This plane, created long ago by the dwarven
+warrior-mage Hemloch, was created for the sole purpose of allowing
+mortals to pit their strength against one another in battle without
+suffering the dire consequences that death brings.  Directly east of
+you is the field and the killers which eagerly await the chance to
+spill your blood.  Any potions, scrolls, books, or special gear you
+wish to wear for this foray into Hell should be worn, quaffed, or
+recited now - for after this, it is every creature for themselves!  
+~
+199 196688 0 0 0 0
+S
+#19901
+Battlefield~
+You are standing in the northwest corner of the battle field.  This
+barren wasteland is scattered with the bones and equipment of
+past-gone warriors.    
+~
+199 196672 0 0 0 2
+D1
+~
+~
+0 0 19906 0
+D2
+~
+~
+0 0 19902 0
+S
+#19902
+Battlefield~
+You are standing in the northwestern area of the battle field.  This
+barren wasteland is scattered with the bones and equipment of
+past-gone warriors.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19901 0
+D1
+~
+~
+0 0 19907 0
+D2
+~
+~
+0 0 19903 0
+S
+#19903
+Battlefield~
+You are standing in the western area of the battle field.  This barren
+wasteland is scattered with the bones and equipment of past-gone
+warriors.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19902 0
+D1
+~
+~
+0 0 19908 0
+D2
+~
+~
+0 0 19904 0
+S
+#19904
+Battlefield~
+You are standing in the southwestern area of the battle field.  This
+barren wasteland is scattered with the bones and equipment of
+past-gone warriors.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19903 0
+D1
+~
+~
+0 0 19909 0
+D2
+~
+~
+0 0 19905 0
+S
+#19905
+Battlefield~
+You are standing in the southwest corner of the battle field.  This
+barren wasteland is scattered with the bones and equipment of
+past-gone warriors.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19904 0
+D1
+~
+~
+0 0 19910 0
+S
+#19906
+Battlefield~
+You are standing in the northwestern area of the battle field.  To the
+east you can spot a old stone bridge that runs over the river.    
+~
+199 196672 0 0 0 2
+D1
+~
+~
+0 0 19911 0
+D2
+~
+~
+0 0 19907 0
+D3
+~
+~
+0 0 19901 0
+S
+#19907
+Battlefield~
+Your options are to head east, west, north or south.  To the east, you
+can see a wide river which eliminates your ability to head any further
+east.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19906 0
+D1
+~
+~
+0 0 19912 0
+D2
+~
+~
+0 0 19908 0
+D3
+~
+~
+0 0 19902 0
+S
+#19908
+Battlefield~
+Your options are to head east, west, north or south.  To the east, you
+can see a bridge which runs across a wide river.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19907 0
+D1
+~
+~
+0 0 19913 0
+D2
+~
+~
+0 0 19909 0
+D3
+~
+~
+0 0 19903 0
+S
+#19909
+Battlefield~
+Here in this field, with the breeze gently blowing around you, it's
+hard to believe that death could be just around the next corner.    
+~
+199 196672 0 0 0 2
+D0
+~
+~
+0 0 19908 0
+D1
+~
+~
+0 0 19914 0
+D2
+~
+~
+0 0 19910 0
+D3
+~
+~
+0 0 19904 0
+S
+#19910
+Battlefield~
+You are standing in the southwestern area of the battle field.  To the
+northeast you can spot a old stone bridge that runs over the river.  
+
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19909 0
+D1
+~
+~
+0 0 19915 0
+D3
+~
+~
+0 0 19905 0
+S
+#19911
+Battlefield~
+There is a wide wooden bridge just east of you which spans the length
+of strange, blood-red river.  The field spreads out southwest of you
+as well.    
+~
+199 131072 0 0 0 0
+D1
+~
+~
+0 0 19942 0
+D2
+~
+~
+0 0 19912 0
+D3
+~
+~
+0 0 19906 0
+S
+#19912
+Battlefield~
+You can no longer travel east from here because there is a river
+running through the center of the field.  There are bridges northeast
+and southeast.    
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19911 0
+D2
+~
+~
+0 0 19913 0
+D3
+~
+~
+0 0 19907 0
+S
+#19913
+Battlefield~
+There is a bridge spanning the length of a blood-red river to your
+east.  The field runs off in every other direction.    
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19912 0
+D1
+~
+~
+0 0 19941 0
+D2
+~
+~
+0 0 19914 0
+D3
+~
+~
+0 0 19908 0
+S
+#19914
+Battlefield~
+The field spreads out west, north and south.  There is more field to
+the east, but it is on the other side of a blood-red river.    
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19913 0
+D2
+~
+~
+0 0 19915 0
+D3
+~
+~
+0 0 19909 0
+S
+#19915
+Battlefield~
+You are standing in the southern area of the battle field.  To the
+northeast you can spot a old stone bridge that runs over the river.  
+
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19914 0
+D3
+~
+~
+0 0 19910 0
+S
+#19916
+Battlefield~
+The fields spread out south and east, the grass more of a dirt mulch
+than anything else.  There is a bridge to the west.    
+~
+199 131072 0 0 0 0
+D1
+~
+~
+0 0 19921 0
+D2
+~
+~
+0 0 19917 0
+D3
+~
+~
+0 0 19942 0
+S
+#19917
+Battlefield~
+You may head any direction but west, where a wide red river flows
+through this nightmarish Plane.    
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19916 0
+D1
+~
+~
+0 0 19922 0
+D2
+~
+~
+0 0 19918 0
+S
+#19918
+Battlefield~
+The fields lie to every direction but west.  To the west is the
+BattleBridge, which allows passage to the western fields.    
+~
+199 131072 0 0 0 0
+D0
+~
+~
+0 0 19917 0
+D1
+~
+~
+0 0 19923 0
+D2
+~
+~
+0 0 19919 0
+D3
+~
+~
+0 0 19941 0
+S
+#19919
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head north, south or east.    
+~
+199 131136 0 0 0 0
+D0
+~
+~
+0 0 19918 0
+D1
+~
+~
+0 0 19924 0
+D2
+~
+~
+0 0 19920 0
+S
+#19920
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head north or east.    
+~
+199 131136 0 0 0 0
+D0
+~
+~
+0 0 19919 0
+D1
+~
+~
+0 0 19925 0
+S
+#19921
+Battlefield~
+You are at the northern end of the field.  From the amount of blood
+and bones scattered around you, there must have been quite a battles
+fought here.    
+~
+199 131144 0 0 0 0
+D1
+~
+~
+0 0 19926 0
+D2
+~
+~
+0 0 19922 0
+D3
+~
+~
+0 0 19916 0
+S
+#19922
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head in any direction.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19921 0
+D1
+~
+~
+0 0 19927 0
+D2
+~
+~
+0 0 19923 0
+D3
+~
+~
+0 0 19917 0
+S
+#19923
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head in any direction.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19922 0
+D1
+~
+~
+0 0 19928 0
+D2
+~
+~
+0 0 19924 0
+D3
+~
+~
+0 0 19918 0
+S
+#19924
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head in any direction.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19923 0
+D1
+~
+~
+0 0 19929 0
+D2
+~
+~
+0 0 19925 0
+D3
+~
+~
+0 0 19919 0
+S
+#19925
+Battlefield~
+The ground is covered in all blood stains, bones, and broken
+equipment.  You may head north, west, or east.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19924 0
+D1
+~
+~
+0 0 19930 0
+D3
+~
+~
+0 0 19920 0
+S
+#19926
+Battlefield~
+You stand at the northeastern end of the field.  To the north is a
+small cave leading into darkness.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19940 0
+D2
+~
+~
+0 0 19927 0
+D3
+~
+~
+0 0 19921 0
+S
+#19927
+Battlefield~
+You can hear the sound of battle very close by, but the echo from the
+fields makes it hard to tell which direction the battle is in.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19926 0
+D2
+~
+~
+0 0 19928 0
+D3
+~
+~
+0 0 19922 0
+S
+#19928
+Battlefield~
+You walk across the matted grass of this field, aware with every step
+that the step you are taking could be your last.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19927 0
+D1
+~
+~
+0 0 19935 0
+D2
+~
+~
+0 0 19929 0
+D3
+~
+~
+0 0 19923 0
+S
+#19929
+Battlefield~
+Bits of broken armor and weapons litter the landscape.  There is a
+pile of human bones half buried in the dirt here.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19928 0
+D2
+~
+~
+0 0 19930 0
+D3
+~
+~
+0 0 19924 0
+S
+#19930
+Battlefield~
+You are the southeast corner of the field, where heaps of old battle
+eq has been heaped in a pile and shoved to one side.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19929 0
+D3
+~
+~
+0 0 19925 0
+S
+#19931
+BattlePath~
+You walk along a bloodstained path surrounded by tall brown grass
+which is taller than you and conceals what lies around the next
+corner.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19915 0
+D1
+~
+~
+0 0 19932 0
+S
+#19932
+BattlePath~
+You walk along a bloodstained path surrounded by tall brown grass
+which is taller than you and conceals what lies around the next
+corner.    
+~
+199 131136 0 0 0 2
+D1
+~
+~
+0 0 19933 0
+D3
+~
+~
+0 0 19931 0
+S
+#19933
+BattlePath~
+You walk along a bloodstained path surrounded by tall brown grass
+which is taller than you and conceals what lies around the next
+corner.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19934 0
+D3
+~
+~
+0 0 19932 0
+S
+#19934
+BattlePath~
+You walk along a bloodstained path surrounded by tall brown grass
+which is taller than you and conceals what lies around the next
+corner.    
+~
+199 131136 0 0 0 2
+D0
+~
+~
+0 0 19935 0
+D2
+~
+~
+0 0 19933 0
+S
+#19935
+BattlePath~
+You walk along a bloodstained path surrounded by tall brown grass
+which is taller than you and conceals what lies around the next
+corner.    
+~
+199 131136 0 0 0 2
+D2
+~
+~
+0 0 19934 0
+D3
+~
+~
+0 0 19928 0
+S
+#19936
+BattleCave~
+It is so completely dark in here that you have feel your way through
+to get anywhere at all.    
+~
+199 131137 0 0 0 2
+D1
+~
+~
+0 0 19937 0
+D2
+~
+~
+0 0 19916 0
+S
+#19937
+BattleCave~
+It is so completely dark in here that you have feel your way through
+to get anywhere at all.    
+~
+199 131137 0 0 0 2
+D0
+~
+~
+0 0 19938 0
+D3
+~
+~
+0 0 19936 0
+S
+#19938
+BattleCave~
+It is so completely dark in here that you have feel your way through
+to get anywhere at all.    
+~
+199 131137 0 0 0 2
+D1
+~
+~
+0 0 19939 0
+D2
+~
+~
+0 0 19937 0
+S
+#19939
+BattleCave~
+It is so completely dark in here that you have feel your way through
+to get anywhere at all.    
+~
+199 131137 0 0 0 2
+D2
+~
+~
+0 0 19940 0
+D3
+~
+~
+0 0 19938 0
+S
+#19940
+BattleCave~
+It is so completely dark in here that you have feel your way through
+to get anywhere at all.    
+~
+199 131137 0 0 0 2
+D0
+~
+~
+0 0 19939 0
+D2
+~
+~
+0 0 19926 0
+S
+#19941
+BattleBridge~
+The bridge allows passage to either side of the field.  Both sides
+look quite the same - dead and bloody.    
+~
+199 131072 0 0 0 0
+D1
+~
+~
+0 0 19918 0
+D3
+~
+~
+0 0 19913 0
+S
+#19942
+BattleBridge~
+You may cross to the eastern side of the field or the western side.  
+Both look much the same from here.    
+~
+199 131072 0 0 0 0
+D1
+~
+~
+0 0 19916 0
+D3
+~
+~
+0 0 19911 0
+S
+#19990
+Challenge Room~
+You are in an unfinished room.
+~
+199 0 0 0 0 0
+D0
+~
+~
+0 0 3044 0
+S
+$~

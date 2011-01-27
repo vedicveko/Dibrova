@@ -1,0 +1,572 @@
+#7700
+troll short fat~
+a Troll~
+A short, fat troll blocks your way west.
+~
+A short, fat, brutishly ugly, manlike creature with a warty
+complextion pokes his head out from under the bridge.  You doubt he
+has laughed in ages.  When you ask him how much the bridge toll is he
+replies, "All you wealth, or something better.  "
+~
+188430 0 0 0 2128 0 0 0 100 E
+25 11 0 0d11+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 23
+Int: 18
+Wis: 19
+Con: 24
+Cha: 15
+Luck: 18
+Class: 4
+Race: 7
+E
+#7701
+draco lich lich undead dragon~
+a Dracolich~
+A Dracolich stands here, ready to fight.
+~
+A large undead green dragon stands before you.
+~
+710698 0 0 0 264212 131072 0 0 -500 E
+140 124 -60 1d7+25 17d17+93
+2500 1530155
+8 8 0
+BareHandAttack: 12
+Str: 7
+Dex: 14
+Int: 25
+Wis: 10
+Con: 24
+Cha: 5
+Luck: 21
+Class: 4
+Race: 9
+E
+#7702
+mage dark~
+a Dark Mage~
+A Dark Mage stands over a freshly killed corpse.
+~
+She turns her head to smile at you before attacking!
+~
+628778 0 0 0 33818704 0 0 0 -500 E
+140 124 -60 3d8+250 17d17+93
+2500 1530155
+8 8 2
+BareHandAttack: 15
+Str: 15
+Dex: 5
+Int: 18
+Wis: 7
+Con: 13
+Cha: 14
+Luck: 17
+Class: 1
+Race: 16
+E
+#7703
+turtle box~
+a Box Turtle~
+A box turtle crosses your path slowly.
+~
+The box turtle is about the same size and shape as an upside down soup
+bowl.  Its shell has some nice black and yellow markings.    
+~
+72 0 0 0 0 0 0 0 0 E
+5 18 0 2d4+50 1d2+5
+0 283
+8 8 0
+Str: 7
+Dex: 20
+Int: 19
+Wis: 17
+Con: 15
+Cha: 24
+Luck: 6
+Race: 2
+E
+#7704
+spider black small~
+a small black Spider~
+A small black spider sits in its web.
+~
+The spider is about the size of your thumb and has eight glowing red eyes.
+~
+83886090 0 0 0 2128 2 0 0 0 E
+50 29 -28 1d4+10 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 23
+Int: 13
+Wis: 21
+Con: 12
+Cha: 17
+Luck: 22
+Race: 46
+E
+#7705
+scout~
+an Army Scout~
+An army scout stands here.
+~
+The scout is a small, lean man well suited to scout ahead of the
+invading army for something else to conquer.    
+~
+526444 0 0 0 33556560 0 0 0 0 E
+142 126 -60 4d7+350 17d18+94
+2500 1442287
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 19
+Int: 8
+Wis: 8
+Con: 21
+Cha: 25
+Luck: 25
+Class: 8
+Race: 14
+E
+#7706
+army sentry man~
+a Sentry~
+A sentry stands guard here.
+~
+He is a large balding man wearing the black and red uniform of the
+invading army.  The sentry is watching the north gate of Raloshel to
+ensure that any reinforcements for the duke do not take the invaders
+by surprise.    
+~
+101222414 0 0 0 33554512 0 0 0 0 E
+140 124 -60 4d8+400 17d17+93
+2500 1391050
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 9
+Int: 8
+Wis: 5
+Con: 8
+Cha: 24
+Luck: 21
+Class: 8
+Race: 14
+E
+#7707
+worm fuzzy~
+a fuzzy Worm~
+A fuzzy worm pokes its head out from a hole.
+~
+The worm is longer than your arm and is covered in a reddish brown fuzz.
+~
+72 0 0 0 2048 0 0 0 0 E
+20 8 20 4d7+350 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 10
+Str: 13
+Dex: 24
+Int: 18
+Wis: 25
+Con: 12
+Cha: 22
+Luck: 25
+Race: 5
+E
+#7708
+horse man horseman~
+a Horseman~
+A horseman rides about, using the local town folk for target practice.
+~
+He gallops past you and cleaves a man in half before turning around
+and heading towards you.    
+~
+694376 0 0 0 2128 131072 0 0 -200 E
+145 130 -60 4d8+400 18d18+96
+2500 1521265
+8 8 1
+BareHandAttack: 9
+Str: 13
+Dex: 18
+Int: 22
+Wis: 25
+Con: 5
+Cha: 18
+Luck: 24
+Class: 4
+Race: 14
+E
+#7709
+footman~
+a Footman~
+A footman walks around on patrol.
+~
+He notices you and draws his weapon to attack!
+~
+526412 0 0 0 2064 0 0 0 0 E
+142 126 -60 4d8+400 17d18+94
+2500 1442287
+8 8 1
+BareHandAttack: 14
+Str: 18
+Dex: 15
+Int: 22
+Wis: 7
+Con: 22
+Cha: 12
+Luck: 7
+Class: 10
+Race: 14
+E
+#7710
+woman screaming~
+a screaming Woman~
+A screaming woman runs from a footman here.
+~
+Her dress is ripped and torn and she pleads with you to help.
+~
+8388808 0 0 0 2064 0 0 0 300 E
+75 51 -40 2d4+50 6d7+50
+1275 283219
+8 8 2
+Str: 5
+Dex: 6
+Int: 13
+Wis: 21
+Con: 14
+Cha: 23
+Luck: 21
+Race: 14
+E
+#7711
+archer~
+an Archer~
+An archer is here, firing down upon the army below.
+~
+He readies his arrow, aims and hits a footman milling about below.
+~
+559118 0 0 0 33556496 0 0 0 300 E
+140 124 -60 4d8+400 17d17+93
+2500 1391050
+8 8 1
+BareHandAttack: 11
+Str: 19
+Dex: 15
+Int: 9
+Wis: 12
+Con: 20
+Cha: 6
+Luck: 13
+Class: 8
+Race: 14
+E
+#7712
+horse buckskin gelding~
+a Buckskin Gelding~
+A buckskin gelding is tethered to a post here.
+~
+She is light brown in color and looks rather bored.
+~
+327690 0 0 0 2048 0 0 0 0 E
+12 14 5 3d9+300 1d4+8
+0 2646
+8 8 2
+Str: 16
+Dex: 8
+Int: 8
+Wis: 20
+Con: 20
+Cha: 19
+Luck: 10
+Race: 52
+E
+#7713
+slave~
+a Slave~
+A slave is chained to the wall here.
+~
+The slave looks at you with imploring eyes and asks, "Please free me."
+~
+8390922 0 0 0 2064 0 0 0 300 E
+70 47 -40 4d7+350 6d6+46
+0 237528
+8 8 0
+Str: 22
+Dex: 16
+Int: 10
+Wis: 24
+Con: 21
+Cha: 17
+Luck: 7
+Race: 14
+E
+#7714
+skeleton~
+a Skeleton~
+A skeleton wanders about.
+~
+A plain skeleton, nothing more.
+~
+40520 0 0 0 2128 0 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+0 1151521
+8 8 0
+Str: 23
+Dex: 20
+Int: 23
+Wis: 14
+Con: 17
+Cha: 5
+Luck: 22
+Race: 36
+E
+#7715
+skeleton knight~
+a Skeleton Knight~
+A skeleton knight stands here, ready to fight.
+~
+A plain skeleton in armor, nothing more.
+~
+690280 0 0 0 2128 131072 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+0 1267849
+8 8 0
+BareHandAttack: 3
+Str: 18
+Dex: 15
+Int: 20
+Wis: 21
+Con: 18
+Cha: 22
+Luck: 5
+Class: 6
+Race: 36
+E
+#7716
+skeleton mage~
+a Skeleton Mage~
+A skeleton mage casts a spell....
+~
+A plain skeleton with the ability to speak, nothing more.
+~
+34183272 0 0 0 262224 163840 0 0 0 E
+133 115 -60 1d1+0 16d16+88
+0 1342551
+8 8 0
+BareHandAttack: 15
+Str: 7
+Dex: 10
+Int: 8
+Wis: 16
+Con: 22
+Cha: 17
+Luck: 20
+Class: 1
+Race: 36
+E
+#7717
+fire breathing rat~
+a fire-breathing Rat~
+A fire breathing rat begins to smoke....
+~
+The rat is unique, able to spew fire!
+~
+100663368 0 0 0 264272 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+0 648796
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 8
+Int: 7
+Wis: 16
+Con: 6
+Cha: 6
+Luck: 17
+Race: 1
+E
+#7718
+toad firebreathing~
+a fire-breathing Toad~
+A fire breathing toad huffs and puffs...
+~
+You spy a large red toad, with billows of smoke rising from its mouth.
+It's said that at rare times a toad may be born with a special magic
+tounge, the owner of such an object would do well.    
+~
+101226568 0 0 0 264272 0 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+0 1266673
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 16
+Int: 18
+Wis: 8
+Con: 12
+Cha: 25
+Luck: 22
+Race: 2
+E
+#7719
+wyvern~
+a Wyvern~
+A wyvern stands here, ready to attack.
+~
+It crouches before you, its wings slightly bent as if in anticipation
+of a great pounce soon to be made - maybe upon you!    
+~
+591914 0 0 0 2128 0 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+0 1955340
+8 8 0
+BareHandAttack: 3
+Str: 24
+Dex: 14
+Int: 13
+Wis: 5
+Con: 22
+Cha: 21
+Luck: 7
+Race: 2
+E
+#7720
+shadow~
+a Shadow~
+A shadow drifts by here.
+~
+Barely seen among the shadows, the Shadow is a deadly creature wrought
+from dark magic.    
+~
+67799064 0 0 0 84 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 15
+Str: 22
+Dex: 5
+Int: 13
+Wis: 15
+Con: 5
+Cha: 14
+Luck: 8
+Class: 3
+Race: 11
+E
+#7721
+wight~
+a Wight~
+A pitch black wight hovers here.
+~
+The Wight is an undead creature that once was a mage of some sort.
+~
+101226504 0 0 0 262224 131072 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+0 1530155
+8 8 0
+BareHandAttack: 15
+Str: 15
+Dex: 15
+Int: 15
+Wis: 16
+Con: 18
+Cha: 18
+Luck: 14
+Class: 1
+Race: 49
+E
+#7722
+drake~
+a Drake~
+A drake rears up and attacks!
+~
+The Drake is a small fire-breathing dragon.  Unable to fly, it runs
+with great agility and aims it's flaming breath with great accuracy!
+~
+34162792 0 0 0 67174416 4194304 0 0 0 E
+160 149 -60 1d1+0 22d23+106
+0 2053107
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 12
+Int: 9
+Wis: 5
+Con: 21
+Cha: 16
+Luck: 22
+Race: 9
+E
+#7723
+baby drake~
+a baby Drake~
+A baby drake wanders the dungeon.
+~
+Don't be fooled by it's young age, for it is as deadly as it's
+full-grown counterparts.    
+~
+34183272 0 0 0 536870992 0 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+0 1658628
+8 8 0
+BareHandAttack: 8
+Str: 18
+Dex: 25
+Int: 9
+Wis: 5
+Con: 20
+Cha: 13
+Luck: 23
+Race: 9
+E
+#7724
+oddjob baron~
+Baron Oddjob~
+Baron Oddjob stands here, resolute.
+~
+Baron Oddjob is a monk, albiet a powerful one.
+~
+34179082 0 0 0 570425360 1280 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+2500 1658628
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 7
+Int: 9
+Wis: 25
+Con: 9
+Cha: 9
+Luck: 17
+Class: 8
+Race: 14
+E
+#7725
+form stalker~
+a Stalker~
+A shadowy form slips by!
+~
+This man is a thief of the worse kind.  He likes to prowl certain
+dead-end spots for unwary adventurers.    
+~
+34117704 0 0 0 1572944 8 0 0 -1000 E
+125 105 -60 1d1+0 15d15+83
+2500 1041926
+8 8 0
+BareHandAttack: 14
+Str: 9
+Dex: 17
+Int: 12
+Wis: 21
+Con: 22
+Cha: 14
+Luck: 6
+Class: 3
+Race: 16
+E
+$

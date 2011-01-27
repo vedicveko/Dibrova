@@ -1,0 +1,854 @@
+#6800
+pie spiced~
+/cwa spiced pie/c0~
+/cwA hot spiced pie is here./c0~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 16 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6804
+muffler silk~
+/cwa /cWsilk /cwmuffler/c0~
+/cwA strip of silk has been dropped here./c0~
+~
+11 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#6805
+bandanna red~
+/cwa large /crred /cwbandanna/c0~
+/cwA /crred /cwbandanna has been left here./c0~
+~
+11 0 0 0 0 4101 0 0 0
+0 0 0 0 0 0 0 0
+2 7 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -1
+#6806
+bandana~
+/cwa /cbblue /cwbandanna/c0~
+/cwA /cbblue /cwbandanna has been left here./c0~
+~
+11 0 0 0 0 21 0 0 0
+0 0 0 0 0 0 0 0
+2 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+#6807
+sack burlap~
+/cwa burlap sack/c0~
+/cwA burlap sack has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+100 0 -1 0 0 0 0 0
+13 6 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6808
+jerkin burlap~
+/cwa burlap jerkin/c0~
+/cwA length of burlap has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+6 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6809
+dagger dark~
+/cwa /cLdark dagger/c0~
+/cwA /cLdark/cw-looking dagger has been dropped here./c0~
+~
+5 1057416 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 3000 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6810
+dagger ruby~
+/cwa /crruby-hilted /cwdagger/c0~
+/cwAn exquisitely crafted dagger has been left here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 1666 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6811
+shades~
+/cwa pair of /cLdark-tinted /cwshades/c0~
+/cwSomeone dropped their shades here./c0~
+~
+11 0 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+3 194 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -1
+#6812
+glasses read~
+/cwa pair of /cyreading /cwglasses/c0~
+/cwA pair of glasses are here - be careful, don't step on them!/c0~
+~
+9 32768 0 0 0 131073 0 0 0
+3 0 0 0 0 0 0 0
+3 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6813
+ring emerald carved~
+/cwa carved /cGemerald /cwring/c0~
+/cwAn /cGemerald /cwring has been left here./c0~
+~
+11 0 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+3 2400 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+17 -2
+#6814
+band golden ring~
+/cwa /cYgolden band/c0~
+/cwA beautiful /cYgold /cwring has been dropped here./c0~
+~
+9 0 0 0 0 65539 0 0 0
+2 0 0 0 0 0 0 0
+3 213 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6815
+ring silver wide~
+/cwa wide /cWsilver /cwring/c0~
+/cwA /cWsilver /cwring has been dropped here./c0~
+~
+9 0 0 0 0 65539 0 0 0
+3 0 0 0 0 0 0 0
+3 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6816
+cup~
+/cwa cup/c0~
+/cwA cup has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+3 3 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6817
+goblet~
+/cwa goblet/c0~
+/cwA goblet is here on the ground./c0~
+~
+17 0 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6818
+grail~
+/cwa grail/c0~
+/cwA grail has been left on the ground./c0~
+~
+17 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+3 21 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6819
+potion glowing brightly~
+/cwa /cybrightly /cYglowing /cwpotion/c0~
+/cwA /cybrightly /cYglowing /cwpotion lies here./c0~
+A glowing mist surrounds $n as %e disappears from view!
+~
+10 0 0 0 0 1 0 0 0
+40 29 0 0 0 0 0 0
+2 70 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6820
+potion green bright~
+/cwbright /cGgreen /cwpotion/c0~
+/cwA bright /cGgreen /cwpotion is on the ground./c0~
+$n cackles with glee as teeny muscles pop out all over $s body!
+~
+10 0 0 0 0 1 0 0 0
+40 39 0 0 0 0 0 0
+1 120 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6821
+potion fizzing strange~
+/cwa /cpstrange fizzing /cwpotion/c0~
+/cwA /cpstrange fizzing /cwpotion is fizzing here./c0~
+$n looks dismayed as $e repeatedly farts which lifts $m into the air!
+~
+10 0 0 0 0 1 0 0 0
+40 52 0 0 0 0 0 0
+1 70 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6822
+staff magi~
+/cwthe Staff of the Magi/c0~
+/cwA glowing staff lays here./c0~
+Nothing.
+~
+5 57345 0 0 0 8193 0 0 0
+0 0 0 12 0 0 0 0
+6 8833 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+12 10
+#6823
+hat mage's runed~
+/cwa /cpruned /cwmage's hat/c0~
+/cwA /cpruned /cwhat lies on the ground./c0~
+Nothing.
+~
+9 2 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+6 1133 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 5
+A
+20 3
+#6824
+sword short encrypted~
+/cwan /cbencrypted /cwshort sword/c0~
+/cwA small glowing sword has been dropped here./c0~
+Nothing.
+~
+5 581633 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 4333 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6825
+dagger glowing~
+/cwa /cYglowing /cwdagger/c0~
+/cwA /cYglowing /cwdagger has been dropped here./c0~
+Nothing.
+~
+5 57345 0 0 0 8193 0 0 0
+0 0 0 15 0 0 0 0
+4 6666 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 15
+#6826
+robe magi~
+/cwthe Robe of the Magi/c0~
+/cwA crumpled pile of cloth lies here./c0~
+Nothing.
+~
+9 57345 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+11 4193 0 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+#6827
+sash~
+/cwa /cpMagician's Sash/c0~
+/cwA length of cloth lies here./c0~
+Nothing.
+~
+9 57344 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+6 2720 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+1 -1
+#6828
+scroll vellum~
+/cwa /ccvellum /cwscroll/c0~
+/cwA /ccvellum /cwscroll has been left here./c0~
+The scroll glows once - only briefly - then vanishes.
+~
+2 67174413 0 0 0 16385 0 0 0
+30 39 3 0 0 0 0 0
+3 240 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6829
+scroll frayed~
+/cwa /cLfrayed /cwscroll/c0~
+/cwA /cLfrayed /cwscroll has been dropped here./c0~
+The frayed scroll crumbles into dust!
+~
+2 67174412 0 0 0 16385 0 0 0
+30 28 0 0 0 0 0 0
+2 1590 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6830
+scroll bound tightly~
+/cwa tightly bound scroll/c0~
+/cwA tightly bound scroll/c0 has been dropped here.~
+A bright light showers from the scroll before it disappears.
+~
+2 67174412 0 0 0 16385 0 0 0
+30 59 0 0 0 0 0 0
+2 1590 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6831
+boots sneaking~
+/cwBoots of /cLSneaking/c0~
+/cwA pair of /cLsneaking /cwboots have been left here./c0~
+Nothing.
+~
+9 2011138 0 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+10 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#6832
+cloak shadows~
+/cLCloak of Shadows/c0~
+/cwA /cLshadowy /cwcloak has been dropped here./c0~
+It appears that it would cover its wearer completely, obscuring
+identity and because of its dark color, enable the wearer to hide well
+in shadows.    
+~
+9 2011136 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+11 2333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6833
+hood identity hidden~
+/cwthe /cLHood of Hidden Idenity/c0~
+/cwA /cLdark /cwhood has been left here./c0~
+Nothing.
+~
+9 176128 0 0 0 17 0 0 0
+3 0 0 0 4 0 0 0
+7 4000 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 -15
+A
+2 -1
+#6834
+gloves snatching~
+/cwGloves of /cLSnatching/c0~
+/cwA pair of thieven gloves have been left here./c0~
+Nothing.
+~
+9 0 0 0 0 129 0 0 0
+4 0 0 0 0 0 0 0
+4 2466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#6835
+face plate darkened~
+/cwa /cLdarkened /cwface plate/c0~
+/cwA /cLdarkened /cwface plate lies discarded on the ground./c0~
+Nothing.
+~
+9 1880064 0 0 0 262145 0 0 0
+5 0 0 0 0 0 0 0
+6 2533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#6836
+dirk snake blade~
+/cwa /cgSnake-blade /cwdirk/c0~
+/cwA strange dirk with a curving blade has been left here./c0~
+Nothing.
+~
+5 2011137 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#6837
+sword short glowing~
+/cwa /cYglowing /cwshort sword/c0~
+/cwA /cYglowing /cwshort sword has been left here./c0~
+Nothing.
+~
+5 2011137 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+8 11200 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 2
+#6838
+beer tankard heavy~
+/cwa heavy tankard/c0~
+/cwA heavy tankard has been dropped here./c0~
+Nothing.
+~
+17 0 0 0 0 16385 0 0 0
+30 30 1 0 0 0 0 0
+35 5 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6839
+sword short blade warrior's companion~
+/cwthe /cbWarrior's Companion/c0~
+/cwA small sword with a wolf's head pommel has been left here./c0~
+Nothing.
+~
+5 1994754 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+11 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#6840
+sword deathbringer~
+/cLDeath/cYBringer/c0~
+/cwA huge sword made of blazing /cygold /cwhas been dropped here./c0~
+Nothing.
+~
+5 1994753 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+14 9166 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+2 1
+#6841
+sword bastard sword~
+/cwa huge bastard sword/c0~
+/cwA huge bastard sword lies on the ground./c0~
+Nothing.
+~
+5 1994752 4 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+18 25200 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 3
+A
+1 -2
+C
+77 2
+#6842
+knuckles brass~
+/cwa pair of /cybrass /cwknuckles/c0~
+/cwA pair of /cybrass /cwknuckles have been dropped here./c0~
+Nothing.
+~
+5 1994754 0 0 0 129 0 0 0
+0 0 0 7 0 0 0 0
+7 10200 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+13 20
+A
+2 -1
+#6843
+bola~
+/cwa /cLblack /cwbola/c0~
+/cwA /cLblack /cwbola has been dropped here./c0~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+12 3533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#6844
+club death~
+/cwa huge club, /cLDeath/c0~
+/cwA very huge and very nasty looking club has been dropped here./c0~
+Nothing.
+~
+5 159746 6 0 0 8193 0 0 0
+0 0 0 9 0 0 0 0
+18 16200 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 2
+A
+3 -1
+#6845
+helm horns~
+/cwthe /crHelm of Horns/c0~
+/cwA huge helm with two bull horns on top has been left here./c0~
+Nothing.
+~
+9 1 0 0 0 17 0 0 0
+7 0 0 0 0 0 0 0
+10 2599 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#6846
+shield agate glowing~
+/cwa /cYglowing /cyagate /cwshield/c0~
+/cwA /cYglowing /cyagate /cwshield has been discarded here./c0~
+Nothing.
+~
+9 1994753 0 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+8 2800 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#6847
+buckler black stone blackstone~
+/cwa /cLblackstone /cwbuckler/c0~
+/cwA /cLblackstone /cwbuckler has been left on the ground./c0~
+Nothing.
+~
+9 1859584 0 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+12 5599 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#6848
+plate chest crested eagle~
+/cwan eagle crested chest plate/c0~
+/cwA chest plate bearing the crest of an eagle has been left here./c0~
+Nothing.
+~
+9 947200 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+10 2666 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+#6849
+arm guard spiked~
+/cwa set of spiked arm guards/c0~
+/cwA set of arm guards have been left here./c0~
+Nothing.
+~
+9 0 0 0 0 257 0 0 0
+7 0 0 0 0 0 0 0
+7 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+A
+14 10
+A
+5 -1
+#6850
+diamond-chip chip gauntlets~
+/cwa pair of /cWdiamond-chip /cwgauntlets/c0~
+/cwA pair of gauntlets lie on the ground./c0~
+Nothing.
+~
+9 0 0 0 0 129 0 0 0
+5 0 0 0 0 0 0 0
+9 4932 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#6851
+book Krolar~
+/cwthe /crBook of Krolar/c0~
+/cwSomeone left the /crBook of Krolar /cwhere./c0~
+A power, greater than any other book, radiates forth!
+~
+2 67174412 0 0 0 16385 0 0 0
+50 1 3 0 0 0 0 0
+2 675 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6852
+mace~
+/cwa /cYglowing /cwmace/c0~
+/cwA mace infused with the power of a God has been left here./c0~
+Nothing.
+~
+5 2019329 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+8 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+A
+19 1
+#6853
+sceptre holy~
+/cwKrolar's /crHoly Sceptre/c0~
+/cwSomeone in their haste has dropped their sceptre./c0~
+Nothing.
+~
+5 2019586 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+10 15900 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 30
+A
+3 1
+#6854
+whip power~
+/cwthe Power Whip/c0~
+/cwA whip /cYglowing /cwwith energy lies here./c0~
+Nothing.
+~
+5 2019329 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+5 7332 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+1 1
+#6855
+holy word book~
+/cwthe Holy Word/c0~
+/cwA book has been dropped here./c0~
+The single page in the scroll suddenly bursts into flames!
+~
+2 1036293 0 0 0 16385 0 0 0
+50 63 63 0 0 0 0 0
+4 1620 0 50 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+C
+66 5
+#6856
+amulet sacred~
+/cwa sacred amulet/c0~
+/cwA small clear stone on a chain has been left here./c0~
+Nothing.
+~
+11 2019330 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+5 1800 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+#6857
+wristlet glory~
+/cwthe Wristlet of Glory/c0~
+/cwA small wristlet has been left here./c0~
+Nothing.
+~
+11 0 0 0 0 4097 0 0 0
+0 0 0 0 0 0 0 0
+5 2200 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#6858
+ring krolar holy~
+/cwKrolar's /crHoly Stone/c0~
+/cwA small holy, /crred /cwring has been left here./c0~
+Nothing.
+~
+11 1986816 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+3 10200 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 20
+A
+18 2
+#6859
+robe yellow~
+/cwa /cYyellow /cwrobe/c0~
+/cwA /cYyellow /cwrobe has been dropped here./c0~
+Nothing.
+~
+9 0 0 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+9 2666 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6860
+robe bright~
+/cwa /cCbright /cwrobe/c0~
+/cwA /cCbright /cwrobe lies crumpled in a corner./c0~
+Nothing.
+~
+9 2019329 0 0 0 1025 0 0 0
+8 0 0 0 0 0 0 0
+9 5466 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+13 20
+#6861
+robe white~
+/cwa /cWwhite /cwrobe/c0~
+/cwA beautiful /cWwhite /cwrobe has been left here./c0~
+Nothing.
+~
+9 2019330 0 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+9 12532 0 40 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+19 2
+#6862
+shield rose~
+/cwa /cLgrey /cwshield emblazoned with the /cLBlack Rose/c0~
+/cwA /cLgrey /cwshield of the /cLDeathknight /cwhas been left here./c0~
+Nothing.
+~
+9 1765888 0 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+8 5466 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+18 1
+A
+1 -1
+#6863
+armor body black onyx~
+/cwsome /cLblack onyx /cwbody armor/c0~
+/cwSomeone left their /cLblack onyx /cwbody armor here./c0~
+Nothing.
+~
+9 1765888 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+10 7166 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 1
+A
+13 -10
+#6864
+cape rose black~
+/cwthe /cLBlack Rose /cwCape/c0~
+/cwSome /cLDeathknight /cwleft their cape laying here./c0~
+Nothing.
+~
+9 1765888 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+8 8600 0 30 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+18 1
+A
+26 1
+#6865
+sword rose black~
+/cwthe Sword of the /cLBlack Rose/c0~
+/cwA /cLDeathknight /cwhas left their sword here./c0~
+Nothing.
+~
+5 1765888 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 7332 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 1
+#6866
+mace nail studded~
+/cwa /cbnail-studded /cwmace/c0~
+/cwA mean-looking mace with nails studding its length has been dropped here./c0~
+Nothing.
+~
+5 180224 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+10 3333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6867
+fountain mermaid water~
+/cwa beautiful /cCmermaid /cwfountain/c0~
+/cwAn inticately carved fountain with a naked /cCmermaid /cwin the center sprays a fine geyser of clear water into its basin./c0~
+Nothing.
+~
+23 12 0 0 0 0 0 0 0
+100000 100000 15 0 0 0 0 0
+1000000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#6868
+gleaming white body armor~
+/cwsome /cWgleaming white /cwbody armor/c0~
+/cwSome /cWgleaming white /cwbody armor has been left here./c0~
+~
+9 979968 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+11 2666 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#6869
+white sun cape~
+/cwa white /cYsun cape/c0~
+/cwA white /cYsun cape/cw has been left here./c0~
+~
+9 979968 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+4 2533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#6870
+glowing white shield~
+/cwa /ccglowing /cWwhite /cwshield/c0~
+/cwA /ccglowing /cWwhite /cwshield has been left here./c0~
+~
+9 979457 0 0 0 513 0 0 0
+8 0 0 0 0 0 0 0
+12 2533 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shield~
+It is emblazoned with the ceremonial crest of the Paladin - a
+beautiful rising sun.    
+~
+#6871
+sword rising sun~
+/cwthe Sword of the /cYRising Sun/c0~
+/cwThe Sword of the /cYRising Sun/cw has been left here./c0~
+~
+5 982016 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+8 3466 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword~
+The rising sun is the traditional crest of the Paladin Guild.
+~
+A
+19 1
+#6872
+glowing sceptre power~
+/cwa /cCglowing /cwsceptre of power/c0~
+/cwA /cCglowing /cwsceptre of power has been left here./c0~
+~
+5 982016 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+6 4160 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sceptre~
+The sceptre glows with its own strange light.  Not enough to be a
+light source in its own right, but a steady, strong glow just the
+same.    
+~
+A
+26 1
+#6873
+chocolate box~
+a big box of assorted chocolates~
+a large box of assorted chocolates lies upon the ground.~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0 0 0 0 0
+1 80 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

@@ -1,0 +1,261 @@
+#16800
+Raider Guard~
+the Raider Guard~
+A raider guard stands guard here, nothing gets past him unseen.
+~
+The raider guard is a well trained soldier, he was trained to protect
+as a young man, but as he got older, he was trained to kill.  Now he
+has been assigned fort guard, the worst job for someone of his skills.
+~
+16426 0 0 0 0 0 0 0 1000 E
+74 50 -40 0d0+0 6d6+49
+1250 273689
+8 8 1
+BareHandAttack: 5
+Str: 15
+Dex: 16
+Int: 25
+Wis: 20
+Con: 25
+Cha: 5
+Luck: 8
+Class: 4
+Race: 7
+E
+#16801
+Raider Soldier~
+the Raider Soldier~
+A raider soldier stands at attention.
+~
+The raider soldiers are the strongest most trained soldiers all around
+the world, not many men can stand up to their might.  These soldiers
+train daily, with no vacations.  The only time the raiders don't train
+is when they sleep.    
+~
+22554 0 0 0 0 0 0 0 -1000 E
+77 53 -40 0d0+0 6d7+51
+1325 302878
+8 8 1
+BareHandAttack: 6
+Str: 14
+Dex: 17
+Int: 13
+Wis: 7
+Con: 15
+Cha: 14
+Luck: 21
+Class: 4
+Race: 7
+E
+#16802
+Circle Guard~
+the Circle Guard~
+A Circle Guard guards the circle hall from enemies.
+~
+The circle guard is the only guard who is trained to fight in circle
+rooms.  The battle tactics these guards must have are amazing.  The
+circle hall was placed to confuse enemys, and to make them easy to
+surround and capture.    
+~
+16488 0 0 0 0 0 0 0 -1000 E
+82 58 -40 0d0+0 6d7+54
+1450 355583
+8 8 1
+BareHandAttack: 6
+Str: 8
+Dex: 18
+Int: 17
+Wis: 23
+Con: 6
+Cha: 23
+Luck: 18
+Class: 4
+Race: 7
+E
+#16803
+Raider Captain~
+the Raider Captain~
+A raider captain stands ready for anything.
+~
+A raider captain is the second in command of the entire fort, the king
+is the only one who has the power to tell the captains what to do.  
+These well dressed captains boss their soldiers around, but they also
+would sacrifice themselves for any soldier he commands.    
+~
+16488 0 0 0 0 0 0 0 -1000 E
+88 64 -40 0d0+0 6d7+58
+1600 425742
+8 8 1
+BareHandAttack: 14
+Str: 17
+Dex: 7
+Int: 18
+Wis: 15
+Con: 7
+Cha: 19
+Luck: 12
+Class: 4
+Race: 7
+E
+#16804
+Raider Archer~
+the Raider Archer~
+A raider archer stands in the room aiming at everything that moves.
+~
+The raider archer would have to be the least trained soldier in the
+raider fort, all they were trained to do was to shoot its target.  
+The raider archer never went through the torment that the more
+honorable soldiers had to suffer through.    
+~
+16426 0 0 0 0 0 0 0 -1000 E
+76 52 -40 0d0+0 6d7+50
+1300 292948
+8 8 1
+Str: 9
+Dex: 14
+Int: 15
+Wis: 12
+Con: 25
+Cha: 18
+Luck: 5
+Class: 4
+Race: 7
+E
+#16805
+Raider Cadet~
+the raider cadet~
+A raider cadet roams around trying to learn new techniques.
+~
+The raider cadets are the newest members of the raider military.  
+They are the ones who during battle make catapults and other weapons
+of war.  They barely ever go to the front line, not until they become
+soldiers.    
+~
+16460 0 0 0 0 0 0 0 -250 E
+68 45 -40 0d0+0 6d6+45
+1200 220604
+8 8 1
+Str: 12
+Dex: 5
+Int: 15
+Wis: 20
+Con: 9
+Cha: 5
+Luck: 6
+Race: 7
+E
+#16806
+Raider King~
+the raider king~
+The raider king sits here, Quite mad that people keep murdering his servants.
+~
+The king is a big mean looking man, he has a long brown beard, and a
+unibrow.  He glares at you with cold eyes, and he begins to growl.  
+The king is so battle worn that he dreams of all sorts of victorys.  
+The king isn't one who even considers losing a battle, and any talk of
+it by his commanders makes him mad, even to the point of execution.  
+~
+546826 0 0 0 256 0 0 0 -1000 E
+95 72 -40 0d0+0 6d8+63
+1825 569251
+8 8 1
+BareHandAttack: 10
+Str: 23
+Dex: 7
+Int: 9
+Wis: 6
+Con: 6
+Cha: 9
+Luck: 16
+Class: 4
+Race: 7
+E
+#16807
+Raider Civilian~
+the raider civilian~
+A raider civilian stands here examining the surroundings.
+~
+The raider civilians are soldiers who are either too old, or that have
+been disabled, or injured someway or another.  That makes them
+inelegible to fight in the raider military, these raiders are really
+strict to having the best army possible.    
+~
+16456 0 0 0 0 0 0 0 -100 E
+67 44 -40 0d0+0 6d6+44
+1175 212425
+8 8 1
+Str: 25
+Dex: 22
+Int: 25
+Wis: 18
+Con: 23
+Cha: 10
+Luck: 24
+Class: 12
+Race: 7
+E
+#16808
+Raider Tiger~
+the raider tiger~
+A raider tiger growls at you as you enter the room.
+~
+The raider tiger was brought to the fort to capture and kill all the
+mice which were bringing disease among the raiders.    
+~
+16394 0 0 0 0 0 0 0 1000 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 8
+Str: 17
+Dex: 22
+Int: 10
+Wis: 6
+Con: 25
+Cha: 8
+Luck: 21
+Race: 1
+E
+#16809
+Raider Whore~
+the raider whore~
+A raider whore is here dancing for the king.
+~
+The raider whore is a good looking woman, the king picks girls at
+random from the fort and makes them dance for him, you often must
+knock on the door, or you might see something you don't want to.    
+~
+16394 0 0 0 0 0 0 0 100 E
+45 25 -24 0d0+0 4d5+30
+625 76985
+8 8 2
+Str: 7
+Dex: 5
+Int: 5
+Wis: 8
+Con: 6
+Cha: 21
+Luck: 6
+Race: 7
+E
+#16810
+Rat~
+the rat~
+A rat scurries across the floor.
+~
+The rats run across the fort giving disease and poison to many raiders.    
+~
+16793672 0 0 0 0 0 0 0 0 E
+10 3 60 0d0+0 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 18
+Int: 15
+Wis: 16
+Con: 20
+Cha: 12
+Luck: 5
+E
+$

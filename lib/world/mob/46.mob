@@ -1,0 +1,134 @@
+#4600
+forest brownie~
+a Forest Brownie~
+A forest brownie bounds past you, playing happily with the other fairy folk.
+~
+Her skin is brown and thick, like that of a tree's bark.  Her hair is
+a lustrous black, long, thick and flowing.    
+~
+4168 0 0 0 2128 0 0 0 800 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 6
+Luck: 12
+Race: 24
+E
+#4601
+mischievious nix~
+a mischievious Nix~
+A mischievious nix floats past with a sly smirk.
+~
+Cousin to the more common pixie, the Nix is a more troublesome fairie.
+~
+4168 0 0 0 8912912 0 0 0 400 E
+32 15 -20 1d32+2325 3d4+21
+300 32273
+8 8 1
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 14
+Luck: 12
+Class: 3
+Race: 24
+E
+#4602
+fairy~
+a Fairy~
+A fairy skips past with arms outstretched.
+~
+The fairy looks around, as if feeling some sort of presence, and grins
+and winks.    
+~
+4168 0 0 0 8388624 0 0 0 900 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 24
+Luck: 12
+Race: 24
+E
+#4603
+pixie~
+a playful Pixie~
+A playful pixie dodges past you, spinning in quick circle.
+~
+The pixie is there and gone so fast that it is near impossible to
+distinguish any true features.    
+~
+4168 0 0 0 8388624 0 0 0 800 E
+36 18 -20 1d36+2425 3d5+24
+350 43580
+8 8 1
+BareHandAttack: 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 8
+Luck: 12
+Race: 24
+E
+#4604
+sprite willful~
+a willful Sprite~
+A willful sprite stops, licks your cheek, laughs, and runs on!
+~
+You are simply too stunned by the lick and the sheer audacity of the
+creature to get any real glimpse of form or figure.    
+~
+4168 0 0 0 8388624 0 0 0 800 E
+38 19 -20 1d38+2475 3d6+25
+400 50022
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Class: 2
+Race: 24
+E
+#4650
+warlock high~
+the High Warlock~
+The High Warlock is here, having a drink.
+~
+The High Warlock is an old man, frail and weathered with age.  He
+smiles politely and then takes a sip of wine.  Instantly he
+transforms, muscles writhing under his skin.  His form contorts, then
+unbends, and before you stands a man in his prime, smiling proudly.  
+~
+16458 0 0 0 65872 4194304 0 0 -200 E
+40 21 -20 1d40+2525 4d5+26
+500 62713
+8 8 1
+BareHandAttack: 12
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 22
+Luck: 12
+Class: 9
+Race: 14
+E
+$

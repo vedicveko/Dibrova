@@ -1,0 +1,1021 @@
+#7000
+drunken sailor~
+a drunken Sailor~
+A drunken sailor stumbles past you, the fumes all whiskey and vomit.
+~
+His white and black striped shirt is speckled with the stains from his
+last meal.  The stubble on his face is only overshadowed by the hair
+which grows out of the top of the back of his shirt.    
+~
+4296 0 0 0 0 0 0 0 0 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 13
+Dex: 18
+Int: 9
+Wis: 8
+Con: 25
+Cha: 24
+Luck: 10
+Race: 14
+E
+#7001
+shouting gambler~
+a shouting Gambler~
+A gambler is here, shouting at the top of his lungs at the cocks fighting in the street.
+~
+You want to tell him the cocks don't understand, but then you realize
+that HE would probably not understand.    
+~
+10 0 0 0 0 0 0 0 100 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 21
+Dex: 20
+Int: 20
+Wis: 7
+Con: 24
+Cha: 5
+Luck: 8
+Race: 14
+E
+#7002
+dead boy~
+a dead Boy~
+A dead boy eyes you evilly!
+~
+The unwashed boy seems to be eying you rather fiercely.  You don't
+know what you did to offend him but hey, it could be any...  Nothing.
+~
+4680 0 0 0 0 0 0 0 -700 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 9
+Dex: 23
+Int: 16
+Wis: 18
+Con: 7
+Cha: 19
+Luck: 21
+Race: 6
+E
+#7003
+bloody scythe boy~
+a Bloody Scythe Gang Member~
+A member of Bloody Scythe eyes you evilly.
+~
+The unwashed boy seems to be eyeing you rather fiercely.  You don't
+know what you did to offend him but hey, it could be any...  Nothing.
+~
+4680 0 0 0 0 0 0 0 -700 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 10
+Dex: 24
+Int: 14
+Wis: 19
+Con: 6
+Cha: 23
+Luck: 24
+Race: 14
+E
+#7004
+giant cochroach~
+a giant Cochroach~
+A giant cochroach looks about ready to eat you.
+~
+QUICK!!! Squish it, before it squishes you!!
+~
+42 0 0 0 80 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 10
+Int: 7
+Wis: 21
+Con: 23
+Cha: 23
+Luck: 9
+Race: 5
+E
+#7005
+beggar~
+an old Beggar~
+A beggar stands here, pleading for a few coins.
+~
+You see an old dirty beggar with no teeth trying to get coins by
+passer byes.    
+~
+72 0 0 0 0 0 0 0 0 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 0
+Str: 8
+Dex: 15
+Int: 21
+Wis: 7
+Con: 7
+Cha: 23
+Luck: 21
+Race: 14
+E
+#7006
+marcko dead boy leader~
+Marcko, the Dead Boy's Leader~
+Marcko, gives you a slight smirk.
+~
+Less dirty than the rest of his disciples, he no less ruthless.  He
+grins at you, almost pleasantly, until he flashes the knife in his
+hand, in which his pleasant smile fades.    
+~
+152074 0 0 0 1114448 4194304 0 0 -1000 E
+54 32 -32 1d54+6480 5d6+36
+850 134807
+8 8 1
+Str: 13
+Dex: 25
+Int: 9
+Wis: 22
+Con: 9
+Cha: 25
+Luck: 10
+Class: 9
+Race: 14
+E
+#7007
+Ie bloody scythe boy leader~
+Ie, Bloody Scythe's Leader~
+Ie, sits here reviewing the days collections.
+~
+A woman sits before you, ruffling through papers, not bothering to
+look up to see or greet you.  She drops one of her papers onto the
+floor, as she bends down to pick it up she notices your boot and gets
+up suddenly, preparing for your attack.  She taps her boot heel to the
+ground and a razor juts out the toe of her boot.  You sense that this
+isn't going to be pretty.    
+~
+153610 0 0 0 1065296 0 0 0 -1000 E
+49 28 -28 1d49+5000 5d5+32
+725 105221
+6 6 2
+Str: 18
+Dex: 6
+Int: 8
+Wis: 14
+Con: 24
+Cha: 25
+Luck: 21
+Class: 4
+Race: 14
+E
+#7008
+carpenter man worker~
+a Carpenter~
+A man is here, hammering on some rounded ship's boards.
+~
+Bathed in sweat and looking quite the strong type, you can't help but
+wonder what motivates a man who does a job such as this to get up
+every morning.    
+~
+10 0 0 0 0 0 0 0 200 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+Str: 8
+Dex: 24
+Int: 22
+Wis: 25
+Con: 5
+Cha: 20
+Luck: 18
+Race: 14
+E
+#7009
+shipyard foreman~
+the Shipyard Foreman~
+The shipyard foreman struts through the room, kicking his workers, telling them to work harder.
+~
+Complete with his fat cigar, this man is the poster child for
+alchoholics anonymous.    
+~
+10 0 0 0 0 0 0 0 -400 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 10
+Dex: 24
+Int: 8
+Wis: 6
+Con: 12
+Cha: 10
+Luck: 9
+Race: 14
+E
+#7010
+working sailor~
+a hard-working Sailor~
+A hard working sailor struggles along, loaded down with nets and rigging.
+~
+Poor fella, almost makes you want to help him with his load, but then,
+nahhhh...    
+~
+72 0 0 0 0 0 0 0 300 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 12
+Dex: 5
+Int: 21
+Wis: 25
+Con: 21
+Cha: 20
+Luck: 5
+Race: 14
+E
+#7011
+dockmaster master woman~
+the Dockmaster~
+A very self important woman stands here with a clipboard.
+~
+She supervises and regulates the loading and unloading of cargo and
+passengers to every ship that docks in this cove.    
+~
+2248 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 15
+Dex: 24
+Int: 10
+Wis: 6
+Con: 5
+Cha: 18
+Luck: 18
+Class: 12
+Race: 14
+E
+#7012
+assistant~
+the Dockmaster's Assistant~
+The Dockmaster's assistant proudly follows along beside her.
+~
+This little guy looks like he finally found someone bigger than him that
+wouldn't kick his ass, so he's hanging on for dear life.    
+~
+6216 0 0 0 0 0 0 0 300 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 15
+Dex: 14
+Int: 22
+Wis: 24
+Con: 23
+Cha: 23
+Luck: 23
+Class: 12
+Race: 14
+E
+#7013
+bum~
+a Bum~
+A bum lays on a bench, snoring softly.
+~
+You might even be doing this guy a favor...  One good bop to the
+noggin and he's done.    
+~
+10 0 0 0 0 0 0 0 200 E
+10 3 60 1d10+200 1d2+6
+15 1662
+4 4 1
+Str: 5
+Dex: 7
+Int: 14
+Wis: 16
+Con: 8
+Cha: 24
+Luck: 23
+Race: 14
+E
+#7014
+ticket travel woman receptionist~
+a Travel Agent~
+A woman sits behind the glass, selling boat tickets.
+~
+She moves at lightning speed, with the assurance of one who has done
+her job for a long time.    
+~
+16394 0 0 0 80 2 0 0 0 E
+35 17 -20 1d120+14400 3d5+23
+350 40559
+8 8 2
+Str: 13
+Dex: 5
+Int: 20
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 19
+Race: 14
+E
+#7015
+midshipman~
+a Midshipman~
+A midshipman passes by you, mumbling something.
+~
+The man walks with hands in his pockets and head bowed, continually
+mumbling something to himself.  Perhaps he's looking for a bar or a
+fight, who knows.    
+~
+104 0 0 0 0 0 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 21
+Dex: 13
+Int: 12
+Wis: 23
+Con: 13
+Cha: 7
+Luck: 22
+Class: 4
+Race: 14
+E
+#7016
+pack rat~
+a Pack Rat~
+A pack rat is sifting through trash.
+~
+It's a large, fat rat, what else would it be.
+~
+12 0 0 0 524288 0 0 0 0 E
+7 1 72 1d7+125 1d2+4
+0 669
+8 8 0
+Str: 5
+Dex: 12
+Int: 25
+Wis: 5
+Con: 8
+Cha: 16
+Luck: 8
+Race: 1
+E
+#7017
+cap'n darby captain~
+Cap'n Darby~
+Cap'n Darby is here, fighting.
+~
+It seems like everytime you see Cap'n Darby, the guy is fighting.  
+Doesn't this old sailor EVER take a break?!?    
+~
+190536 0 0 0 336 0 0 0 0 E
+51 30 -32 1d51+6120 5d5+34
+775 116523
+7 7 1
+Str: 19
+Dex: 24
+Int: 22
+Wis: 8
+Con: 17
+Cha: 25
+Luck: 13
+Class: 4
+Race: 14
+E
+#7018
+netweaver weaver net~
+the Netweaver~
+The netweaver is here, sewing some netting together.
+~
+He has small, horn rimmed glasses, and a large net draped across his body,
+which he is currently working on.    
+~
+10 0 0 0 0 0 0 0 500 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+6 6 1
+Str: 16
+Dex: 20
+Int: 9
+Wis: 25
+Con: 5
+Cha: 7
+Luck: 14
+Race: 14
+E
+#7019
+punk street~
+the Street Punk~
+A street punk is here, getting to throw a set of dice.
+~
+He looks up and growls.  It must be that no one usually upsets the game.
+~
+42 0 0 0 0 0 0 0 -300 E
+26 11 -4 1d26+2050 2d3+17
+200 19006
+8 8 1
+Str: 12
+Dex: 5
+Int: 18
+Wis: 18
+Con: 5
+Cha: 25
+Luck: 5
+Class: 3
+Race: 14
+E
+#7020
+drunken sailor~
+the drunken Sailor~
+A sailor is lounging near the piano, singing his heart out.
+~
+He looks like if he were to let go of the piano, he may not end up on
+his feet still.    
+~
+10 0 0 0 0 0 0 0 -100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 17
+Dex: 8
+Int: 7
+Wis: 21
+Con: 21
+Cha: 5
+Luck: 8
+Race: 14
+E
+#7021
+madame myra~
+Madame Myra~
+Madame Myra is here, selling herself and any of her girls for the right price.
+~
+Large breasted, large assed, and smothered in make-up and perfume,
+this lady is one nasty speciman.    
+~
+16394 0 0 0 65536 4194304 0 0 400 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 2
+Str: 13
+Dex: 17
+Int: 13
+Wis: 17
+Con: 13
+Cha: 14
+Luck: 13
+Race: 14
+E
+#7022
+motel man attendant~
+the Motel Attendant~
+The man reads his book behind the glass without glancing up.
+~
+You clear your throat, but he just continues to ignore you.
+~
+10 0 0 0 0 0 0 0 0 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 1
+Str: 19
+Dex: 15
+Int: 6
+Wis: 24
+Con: 9
+Cha: 7
+Luck: 12
+Class: 11
+Race: 14
+E
+#7060
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes his flail menacingly.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+8 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+Str: 6
+Dex: 19
+Int: 20
+Wis: 9
+Con: 13
+Cha: 6
+Luck: 5
+Race: 14
+E
+#7061
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes her trident menacingly.
+~
+This woman has been trained from birth for but one purpose- to fight
+in the pits until she achieves sufficient wealth to buy his freedom or
+until she is slain.    
+~
+74 0 0 0 512 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+8 8 2
+Str: 25
+Dex: 23
+Int: 19
+Wis: 6
+Con: 22
+Cha: 10
+Luck: 25
+Race: 32
+E
+#7062
+ref referee~
+the Ref~
+The pit ref struggles to keep the competitors at bay until the next round.
+~
+This beleagured fellow's sole task is to attempt to adjudicate the pit
+fights and stop the fighters from killing each other until the right
+time.  He has a rather tough time of it, as the many scars on his body
+attest, but he looks bad enough to handle himself.    
+~
+74 0 0 0 640 0 0 0 0 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 18
+Dex: 21
+Int: 15
+Wis: 23
+Con: 6
+Cha: 17
+Luck: 22
+Race: 14
+E
+#7063
+member audience spectator~
+an Audience Member~
+An audience member cheers himself hoarse as another pit fighter falls.
+~
+This bloodthirsty spectator comes to the fights to watch men and women
+slay each other, or to watch them be torn apart by wild animals,
+placing bets on the outcome.    
+~
+202 0 0 0 0 0 0 0 0 E
+3 0 88 0d0+0 1d1+2
+5 77
+8 8 1
+Str: 17
+Dex: 16
+Int: 9
+Wis: 18
+Con: 9
+Cha: 13
+Luck: 7
+Class: 12
+Race: 14
+E
+#7064
+member audience spectator~
+an Audience Member~
+An audience member cheers herself hoarse as another pit fighter falls.
+~
+This bloodthirsty spectator comes to the fights to watch men and women
+slay each other, or to watch them be torn apart by wild animals,
+placing bets on the outcome.    
+~
+202 0 0 0 0 0 0 0 0 E
+3 0 88 0d0+0 1d1+2
+5 77
+8 8 2
+Str: 21
+Dex: 24
+Int: 7
+Wis: 19
+Con: 16
+Cha: 13
+Luck: 13
+Class: 12
+Race: 14
+E
+#7065
+bookie~
+a Bookie~
+A bookie roams the stands collecting bets.
+~
+This ambitious entrepeneur has made a LOT of money arranging bets on
+the illegal fights carried out in this arena of death.  He asks you if
+you wish to place a small wager on the outcome of the next fight.    
+~
+202 0 0 0 8704 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+Str: 16
+Dex: 25
+Int: 6
+Wis: 19
+Con: 24
+Cha: 25
+Luck: 15
+Class: 3
+Race: 14
+E
+#7066
+food vendor~
+a Food Vendor~
+A food vendor sells snacks here to the spectators.
+~
+It may seem a little off to be serving light refreshments at a pit
+fight, but hell, if ya gotta eat, ya gotta eat.    
+~
+74 0 0 0 8832 0 0 0 0 E
+9 2 64 0d0+0 1d2+6
+15 1270
+8 8 1
+Str: 25
+Dex: 18
+Int: 8
+Wis: 21
+Con: 5
+Cha: 8
+Luck: 8
+Race: 14
+E
+#7067
+wild dog~
+a Wild Dog~
+A wild dog snarls at you and attacks!
+~
+This vicious little mongrel has been specially trained through a
+mixture of starvation and abuse to be as mean and violent as possible.
+It is aching to tear the flesh from as many people as it can.    
+~
+106 0 0 0 512 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 1
+Str: 20
+Dex: 10
+Int: 20
+Wis: 25
+Con: 17
+Cha: 8
+Luck: 13
+Race: 1
+E
+#7068
+fighting cock~
+a Fighting Cock~
+A fighting cock struts proudly past you.
+~
+This rooster has been specially trained to fight in the arena against
+other cocks for the enjoyment of the bloodthirsty spectators.    
+~
+202 0 0 0 512 0 0 0 0 E
+2 0 92 0d0+0 1d1+1
+0 27
+8 8 0
+Str: 21
+Dex: 21
+Int: 8
+Wis: 8
+Con: 17
+Cha: 21
+Luck: 6
+Race: 3
+E
+#7069
+wild boar~
+a Wild Boar~
+A wild boar grunts and charges at you.
+~
+These ferocious swine were captured on the Plains of Blood and brought
+here to use in mortal combat against the pit fighters.    
+~
+202 0 0 0 8704 0 0 0 0 E
+7 1 72 0d0+0 1d2+4
+0 669
+8 8 0
+Str: 20
+Dex: 19
+Int: 9
+Wis: 15
+Con: 18
+Cha: 8
+Luck: 10
+Race: 1
+E
+#7070
+pit master~
+the Pit Master~
+The pit master cackles at you, and asks if you want to fight.
+~
+The pit master has been capturing and training potential pit fighters
+all his adult life.  And though you are a little older than most of
+his students when they begin training, he still sizes you up as a
+potential combatant.    
+~
+8 0 0 0 0 0 0 0 -400 E
+10 3 60 0d0+0 1d2+6
+15 1662
+8 8 1
+Str: 15
+Dex: 19
+Int: 24
+Wis: 21
+Con: 19
+Cha: 25
+Luck: 10
+Class: 4
+Race: 19
+E
+#7071
+pit guard~
+a Pit Guard~
+A pit guard patrols for escaping pit fighters.
+~
+These guards are kept to make sure the pit fighters don't escape.  
+Most of them are retired pit fighters themselves, and are thus very
+well-trained and lethal.    
+~
+8 0 0 0 0 0 0 0 0 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 23
+Dex: 20
+Int: 24
+Wis: 21
+Con: 6
+Cha: 12
+Luck: 8
+Class: 10
+Race: 19
+E
+#7072
+pit fighter champion champ butch~
+Butch, the Champion~
+Butch, the pit fighter champion, flexes his muscles and roars!
+~
+Butch has fought an unprecedented 100 fights, and has not lost a one
+(well that's obvious- if he had lost he wouldn't be alive).  He is
+also one of the most vicious and brutal of the pit fighters, and
+specializes in slaying his opponents by grabbing them when they are
+stunned and snapping them in half.    
+~
+8 0 0 0 0 0 0 0 0 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 9
+Dex: 13
+Int: 25
+Wis: 18
+Con: 13
+Cha: 5
+Luck: 23
+Class: 4
+Race: 10
+E
+#7073
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes his flail menacingly.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+BareHandAttack: 7
+Str: 17
+Dex: 23
+Int: 20
+Wis: 10
+Con: 7
+Cha: 6
+Luck: 14
+Race: 31
+E
+#7074
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes her dagger menacingly.
+~
+This woman has been trained from birth for but one purpose- to fight in
+the pits until she achieves sufficient wealth to buy his freedom or until
+she is slain.
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+8 8 2
+BareHandAttack: 14
+Str: 18
+Dex: 21
+Int: 24
+Wis: 17
+Con: 19
+Cha: 12
+Luck: 5
+Race: 21
+E
+#7075
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes his spear menacingly.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+BareHandAttack: 11
+Str: 17
+Dex: 22
+Int: 17
+Wis: 13
+Con: 8
+Cha: 24
+Luck: 7
+Class: 4
+Race: 14
+E
+#7076
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes her trident menacingly.
+~
+This woman has been trained from birth for but one purpose- to fight
+in the pits until she achieves sufficient wealth to buy his freedom or
+until she is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+8 8 2
+BareHandAttack: 3
+Str: 17
+Dex: 9
+Int: 19
+Wis: 6
+Con: 12
+Cha: 21
+Luck: 9
+Race: 16
+E
+#7077
+pit fighter~
+a Pit Fighter~
+A pit fighter battles ferociously against wild beasts here.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+BareHandAttack: 13
+Str: 14
+Dex: 24
+Int: 19
+Wis: 14
+Con: 15
+Cha: 24
+Luck: 14
+Race: 14
+E
+#7078
+pit fighter~
+a Pit Fighter~
+A pit fighter battles ferociously against wild beasts here.
+~
+This woman has been trained from birth for but one purpose- to fight
+in the pits until she achieves sufficient wealth to buy his freedom or
+until she is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+8 8 2
+Str: 12
+Dex: 12
+Int: 19
+Wis: 5
+Con: 20
+Cha: 20
+Luck: 22
+Race: 14
+E
+#7079
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes his spear menacingly.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+8 8 1
+BareHandAttack: 1
+Str: 6
+Dex: 6
+Int: 14
+Wis: 16
+Con: 15
+Cha: 13
+Luck: 9
+Class: 4
+Race: 32
+E
+#7080
+pit fighter~
+a Pit Fighter~
+A pit fighter brandishes her spear menacingly.
+~
+This woman has been trained from birth for but one purpose- to fight
+in the pits until she achieves sufficient wealth to buy his freedom or
+until she is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+8 8 2
+BareHandAttack: 11
+Str: 6
+Dex: 9
+Int: 8
+Wis: 14
+Con: 23
+Cha: 20
+Luck: 12
+Race: 14
+E
+#7081
+pit fighter~
+a Pit Fighter~
+A pit fighter is resting here.
+~
+This fellow has been trained from birth for but one purpose- to fight
+in the pits until he achieves sufficient wealth to buy his freedom or
+until he is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+5 283
+5 5 1
+BareHandAttack: 12
+Str: 16
+Dex: 21
+Int: 16
+Wis: 24
+Con: 13
+Cha: 14
+Luck: 7
+Race: 31
+E
+#7082
+pit fighter~
+a Pit Fighter~
+A pit fighter is resting here.
+~
+This woman has been trained from birth for but one purpose- to fight
+in the pits until she achieves sufficient wealth to buy his freedom or
+until she is slain.    
+~
+72 0 0 0 512 0 0 0 0 E
+4 0 84 0d0+0 1d2+2
+5 160
+5 5 2
+BareHandAttack: 6
+Str: 10
+Dex: 15
+Int: 23
+Wis: 10
+Con: 13
+Cha: 12
+Luck: 17
+Race: 14
+E
+$

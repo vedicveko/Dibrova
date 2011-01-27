@@ -1,0 +1,1565 @@
+#8501
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind of
+spongy beneath your feet.  You find it hard to see anything in the
+distance as wisps of cloud blow over your face.    
+~
+85 32772 0 0 0 9
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 8502 0
+D5
+~
+~
+0 0 4007 0
+S
+#8502
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D1
+There is another cloud east of you.
+~
+~
+0 -1 8503 0
+D5
+There is another cloud below you.
+~
+~
+0 -1 8501 0
+S
+#8503
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 8528 0
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 8504 0
+D3
+You see a cloud somewhere west of you.
+~
+~
+0 -1 8502 0
+S
+#8504
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 8503 0
+D1
+There is another cloud east of you.
+~
+~
+0 -1 8505 0
+S
+#8505
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D1
+There is another cloud east of you.
+~
+~
+0 -1 8506 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8504 0
+S
+#8506
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D0
+You can barely make out a cloud to the north.
+~
+~
+0 -1 8507 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8505 0
+S
+#8507
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D1
+There is another cloud east of you.
+~
+~
+0 -1 8508 0
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 8506 0
+D5
+There is another cloud below you.
+~
+~
+0 -1 8526 0
+S
+#8508
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D1
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 8509 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8507 0
+S
+#8509
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8508 0
+D5
+An ominous storm cloud looms below you.
+~
+~
+0 -1 8510 0
+S
+#8510
+An Ominous Storm Cloud~
+You stand amidst a cloud of darkest pitch.  Lightning flashes and
+thunder crashes all about you, the sound deafening and the lights
+blinding.    
+~
+85 32768 0 0 0 9
+D1
+There is a crag, high and rocky.
+~
+~
+0 -1 8511 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8525 0
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 8509 0
+S
+#8511
+High and Perilous Cliff~
+You are on a high and rocky cliff.  To the west you see a huge
+ominous storm cloud moving this way.  You might want to take cover
+before the storm hits.  You think that there is a narrow trail
+leading to the south.
+~
+85 85 0 0 0 5
+D2
+~
+~
+0 -1 8512 0
+D3
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 8510 0
+S
+#8512
+Narrow Rocky Trail~
+A narrow trail leads down towards the mountain and north toward the
+cliff.  It seems to fade in and out as it winds up the hill.
+Obviously, it has not been maintained in years.
+~
+85 85 0 0 0 5
+D0
+~
+~
+0 -1 8511 0
+D5
+~
+~
+0 -1 8513 0
+S
+#8513
+Small Valley~
+You are in a lush valley full of trees and other vegetation and the
+odd carcass or two.  The trail leads south and it leads up.
+~
+85 85 0 0 0 3
+D2
+~
+~
+0 -1 8514 0
+D4
+~
+~
+0 -1 8512 0
+S
+#8514
+Small Valley~
+You are in a lush valley full of trees and other vegetation and the
+odd carcass or three.  The trail leads north and it leads down into
+a crevasse.
+~
+85 85 0 0 0 9
+D0
+~
+~
+0 -1 8513 0
+D5
+The crevice looks a little slippery.
+~
+~
+0 -1 8515 0
+S
+#8515
+Deep, Slippery Crevice~
+The crevice is deep and a little dim and it is hard to make your
+way around.  A mist makes everything a little damp and slippery.
+Better take your time climbing through here.
+~
+85 85 0 0 0 5
+D2
+~
+~
+0 -1 8517 0
+D3
+The mist looks thicker in this direction.
+~
+~
+0 -1 8516 0
+D4
+~
+~
+0 -1 8514 0
+S
+#8516
+Incredibly Slippery Crevice~
+The crevice is getting more and more slippery.  You are getting
+incredibly nervous and want to turn back.  To the east is the
+crevice and trail you were following.  Below, you can just see the
+edge of a cliff through the mist.  There is no trail leading there,
+just a smooth, flat, dew-covered rock that almost resembles a
+slide ...
+~
+85 85 0 0 0 5
+D1
+The way back to safety.
+~
+~
+0 -1 8515 0
+S
+#8517
+Steep Mountainside~
+This part of the mountain area affords a view which would take even an
+ogre's breath away.  The river, the far-off ocean, even the distant
+spires of Midgaard can be seen.    
+~
+85 85 0 0 0 5
+D0
+~
+~
+0 -1 8515 0
+D4
+~
+~
+0 -1 8518 0
+S
+#8518
+Steep Mountainside~
+This part of the mountain area affords a view which would take even an
+ogre's breath away.  The river, the far-off ocean, even the distant
+spires of Midgaard can be seen.    
+~
+85 85 0 0 0 5
+D1
+~
+~
+0 -1 8519 0
+D5
+~
+~
+0 -1 8517 0
+S
+#8519
+Treacherous Cliff~
+The cliff is rocky and difficult to negotiate.  One wrong slip and
+you could fall and break a leg or impale yourself or something else
+nasty.
+~
+85 85 0 0 0 5
+D3
+~
+~
+0 -1 8518 0
+D4
+Above you is an almost vertical cliff.  It looks dangerous but
+climbable.
+~
+~
+0 -1 8520 0
+S
+#8520
+Cliff Face~
+You are more than a little nervous climbing on this almost vertical
+cliff face.  You miraculously find places to grab onto and little
+ledges to rest on.  You see a small cave here.
+~
+85 85 0 0 0 0
+D1
+A dank, dark, smelly hole.
+~
+~
+0 -1 8521 0
+D4
+A large ledge that looks pretty safe.
+~
+~
+0 -1 8522 0
+D5
+~
+~
+0 -1 8519 0
+S
+#8521
+Dank Smelly Hole~
+This hole must have been used as a lair or nest.  There are
+feathers and bones everywhere and the floor is covered with
+something disgusting.
+~
+85 9 0 0 0 0
+D3
+~
+~
+0 -1 8520 0
+S
+#8522
+A Large Sturdy Ledge~
+You are on a ledge above a steep cliff face.  You can climb down
+if you want, but be careful!  After viewing the scenery, you notice
+two small caves here, one north and one west.
+~
+85 85 0 0 0 5
+D0
+~
+~
+0 -1 8524 0
+D3
+~
+~
+0 -1 8523 0
+D5
+~
+~
+0 -1 8520 0
+S
+#8523
+Absolutely Disgusting Lair~
+The stench in here is quite foul.  There are feathers, bones and
+rotting carcasses everywhere.  This place is absolutely gross and
+you have to strain yourself not to lose your lunch.
+~
+85 9 0 0 0 0
+D1
+Your only hope to keep your lunch down is to head this way...
+~
+~
+0 -1 8522 0
+S
+#8524
+Absolutely Disgusting Lair~
+The stench in here is quite foul.  There are feathers, bones and
+rotting carcasses everywhere.  This place is absolutely gross and
+you have to strain yourself not to lose your lunch.
+~
+85 9 0 0 0 0
+D1
+~
+~
+0 0 14 16
+D2
+Your only hope to keep your lunch down is to head this way...
+~
+~
+0 -1 8522 0
+S
+#8525
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D1
+An ominous storm cloud looms to the east.
+~
+~
+0 -1 8510 0
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 8526 0
+S
+#8526
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D0
+A cirrus cloud hums peacefully to itself.
+~
+~
+0 -1 8531 0
+D3
+You spy a tiny cloud.
+~
+~
+0 -1 8527 0
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 8507 0
+D5
+There is another cloud below you.
+~
+~
+0 -1 8525 0
+S
+#8527
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D0
+To the north you see an angry cloud lashing out.
+~
+~
+0 -1 8530 0
+D1
+There is another cloud east of you.
+~
+~
+0 -1 8526 0
+D4
+There is another cloud above you.  If you jump you might make it...
+~
+~
+0 -1 8528 0
+S
+#8528
+A Fluffy White Cloud~
+You find yourself standing on a small cloud.  The cloud feels kind
+of spongy beneath your feet.  You find it hard to see anything in
+the distance as wisps of cloud blow over your face.
+~
+85 32768 0 0 0 9
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 8503 0
+D5
+There is another cloud below you.
+~
+~
+0 -1 8527 0
+S
+#8529
+Queiscent Cloud~
+This cloud seems like a much more peaceful cloud than many of the
+others.  No hint of darkness or moisture is visible within, this would
+probably be a good place to rest.    
+~
+85 32768 0 0 0 9
+D0
+The cloud to the north blushes and tries to hide when you look at
+it.
+~
+~
+0 -1 8532 0
+D1
+The cloud to the east mutters and grumbles at you.
+~
+~
+0 -1 8530 0
+S
+#8530
+A Slightly Darkened Cloud~
+This cloud could be getting ready to make a bit of noise, or even rain
+a bit on those below.    
+~
+85 32768 0 0 0 9
+D1
+A happy little cloud is humming peacefully to itself.
+~
+~
+0 -1 8531 0
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 8527 0
+D3
+A sleepy little cloud to the west yawns and rolls over.  You hear
+snoring.
+~
+~
+0 -1 8529 0
+S
+#8531
+A Puffy, Bright Cloud~
+Clouds such as this can only remind you of summer and beautiful days
+full of warm weather and sunshine.    
+~
+85 32768 0 0 0 9
+D0
+There is a pure white cloud north of you.  It is snowing!
+~
+~
+0 -1 8536 0
+D2
+You see a cloud somewhere south of you.
+~
+~
+0 -1 8526 0
+D3
+You see an angry little cloud muttering and grumbling to itself.
+~
+~
+0 -1 8530 0
+S
+#8532
+A Puffy, Bright Cloud~
+Clouds such as this can only remind you of summer and beautiful days
+full of warm weather and sunshine.    
+~
+85 32768 0 0 0 9
+D0
+The cloud to the north sneezes!
+~
+~
+0 -1 8533 0
+D2
+A sleepy little cloud to the south yawns and rolls over.  You hear
+snoring.
+~
+~
+0 -1 8529 0
+D3
+An isolated little raincloud.
+~
+~
+0 -1 8542 0
+S
+#8533
+A Puffy, Bright Cloud~
+Clouds such as this can only remind you of summer and beautiful days
+full of warm weather and sunshine.    
+~
+85 32768 0 0 0 9
+D0
+~
+~
+0 -1 8545 0
+D1
+This cloud is, like, totally lost, you know?
+~
+~
+0 -1 8534 0
+D2
+The cloud to the south blushes and tries to hide when you look at
+it.
+~
+~
+0 -1 8532 0
+D3
+You see a cirrus maximus cloud.
+~
+~
+0 -1 8543 0
+S
+#8534
+A Puffy, Bright Cloud~
+Clouds such as this can only remind you of summer and beautiful days
+full of warm weather and sunshine.    
+~
+85 32768 0 0 0 9
+D1
+You see a very scientific cloud.
+~
+~
+0 -1 8535 0
+D3
+The cloud sneezes!  Yuck.
+~
+~
+0 -1 8533 0
+S
+#8535
+A Puffy, Bright Cloud~
+Clouds such as this can only remind you of summer and beautiful days
+full of warm weather and sunshine.    
+~
+85 32768 0 0 0 9
+D2
+There is a pure white cloud south of you.  It is snowing!
+~
+~
+0 -1 8536 0
+D3
+This cloud is, like, totally lost, you know?
+~
+~
+0 -1 8534 0
+S
+#8536
+Snowy, White Cloud~
+You shiver as you stand here.  This beautiful, fluffy, pure white
+cloud is snowing.  The snow is pure and sweet as it melts in your
+mouth.  What a nifty cloud to be on.
+~
+85 32768 0 0 0 9
+D0
+You see a very scientific cloud.
+~
+~
+0 -1 8535 0
+D2
+A happy, peaceful little cloud humming to itself.
+~
+~
+0 -1 8531 0
+D3
+~
+~
+0 -1 8537 0
+S
+#8537
+Cold, Damp Cloud~
+Your mood grows grumpy as you find yourself cold and wet from this
+dismal cloud.  You notice a rock outcropping above you.
+~
+85 32768 0 0 0 9
+D1
+There is a pure white cloud east of you.  It is snowing!
+~
+~
+0 -1 8536 0
+D4
+~
+~
+0 -1 8538 0
+S
+#8538
+Mysterious Rock Outcropping~
+This rock outcropping just seems to hang in midair.  To the north
+you see a house and if you ease yourself down, you can land on a
+rather damp, dismal cloud.  The door to the house is closed.
+~
+85 32773 0 0 0 5
+D0
+Eerie looking house.
+~
+door~
+0 -1 8539 0
+D5
+~
+~
+0 -1 8537 0
+S
+#8539
+The Foyer~
+Shadows play tricks on your eyes.  Everytime you think you see
+something in a corner and turn to get a better look, nothing is
+there.  The place is very dark.  Even with a torch, you have
+trouble making out the room to the east.
+~
+85 32777 0 0 0 0
+D1
+~
+~
+0 -1 8540 0
+D2
+~
+~
+0 -1 8538 0
+S
+#8540
+The Tower~
+You are in a musty old tower.  The smell of mold and mildew is
+almost overpowering.  You hear strange creaks and groans ... is it
+the wind or did someone (something?) make that noise.  To the west
+is the house and there is a stairway leading up into the tower.
+~
+85 32777 0 0 0 0
+D3
+~
+~
+0 -1 8539 0
+D4
+~
+~
+0 -1 8541 0
+S
+#8541
+Witches Tower~
+Here you see strange things of arcane value.  There is a cauldron in the
+corner bubbling madly, belching a foul brew that must have come from hell.
+On shelves lie jars of strange creatures you have never seen before, or
+hope to again.  A picture of a familiar temple hangs on the east wall.
+~
+85 40973 0 0 0 0
+D5
+~
+~
+0 -1 8540 0
+E
+picture~
+The picture is in on the east wall.  It is very complex in detail, and you
+almost see people walking around the temple in the picture.
+~
+S
+#8542
+An Odd Raincloud~
+This cloud seems to move at a very rapid rate as compared to most of
+the others in this vicinity.  It must have caught a good wind from the
+south.    
+~
+85 32768 0 0 0 9
+D0
+~
+~
+0 -1 8543 0
+D1
+A bashful little cloud that tries to avoid your notice.
+~
+~
+0 -1 8532 0
+S
+#8543
+A Very Large Cloud~
+You stand within an enormous cloud, one that covers nearly a mile's
+worth of radius all told.  It is a slow-moving, comfortable cloud
+which does not appear to be producing any sort of rain or anything
+anytime soon.    
+~
+85 32768 0 0 0 9
+D1
+The cloud to the east sneezes!
+~
+~
+0 -1 8533 0
+D2
+A suspicious little raincloud with a balloon.
+~
+~
+0 -1 8542 0
+S
+#8544
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D0
+~
+~
+0 -1 8548 0
+D5
+~
+~
+0 -1 8546 0
+S
+#8545
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D2
+You see a sneezy little cloud.
+~
+~
+0 -1 8533 0
+D3
+~
+~
+0 -1 8550 0
+D5
+~
+~
+0 -1 8548 0
+S
+#8546
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D0
+~
+~
+0 -1 8547 0
+D1
+~
+~
+0 -1 8544 0
+S
+#8547
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D1
+~
+~
+0 -1 8548 0
+D2
+~
+~
+0 -1 8546 0
+S
+#8548
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D2
+~
+~
+0 -1 8544 0
+D3
+~
+~
+0 -1 8547 0
+D4
+~
+~
+0 -1 8545 0
+S
+#8549
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D0
+~
+~
+0 -1 8552 0
+D1
+~
+~
+0 -1 8550 0
+D5
+You see a cumulative nimbus cloud.
+~
+~
+0 -1 8557 0
+S
+#8550
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D0
+~
+~
+0 -1 8551 0
+D1
+~
+~
+0 -1 8545 0
+D3
+~
+~
+0 -1 8549 0
+S
+#8551
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D2
+~
+~
+0 -1 8550 0
+D3
+~
+~
+0 -1 8552 0
+S
+#8552
+Raging Hurricane~
+You are buffeted and knocked about by the almost godlike strength
+of the raging hurricane.  It is hard to see and hear anything.
+Your only thought is to seek refuge from the storm.
+~
+85 32769 0 0 0 9
+D1
+~
+~
+0 -1 8551 0
+D2
+~
+~
+0 -1 8549 0
+S
+#8553
+A Calm Cloud~
+This cloud is just outside the hurricane.  It looks like it might
+get sucked in, but you feel safe for the moment.
+~
+85 0 0 0 0 9
+D3
+~
+~
+0 -1 8554 0
+D4
+~
+~
+0 -1 8552 0
+S
+#8554
+The Mountainside~
+You find yourself on the side of a huge granite mountain.  The air
+is quite thin so you know you are at a very high altitude.  There
+is no plant life beyond moss and lichen in this lonely, barren
+place.
+~
+85 4 0 0 0 0
+D1
+~
+~
+0 -1 8553 0
+D3
+~
+~
+0 -1 8555 0
+S
+#8555
+The Mountainside~
+You find yourself on the side of a huge granite mountain.  The air
+is quite thin so you know you are at a very high altitude.  There
+is no plant life beyond moss and lichen in this lonely, barren
+place.
+~
+85 4 0 0 0 5
+D1
+~
+~
+0 -1 8554 0
+D4
+~
+~
+0 -1 8556 0
+S
+#8556
+The Roc's Nest~
+You are standing in a nest.  It is huge, at least two spear-lengths
+wide.  You see three eggs in the center.  They are knee high, brown
+and look almost leathery.  Better hope mom isn't around!
+~
+85 4 0 0 0 5
+D5
+~
+~
+0 -1 8555 0
+S
+#8557
+A Fair-Sized Cloud~
+The cloud you stand within is of average size and color.  It almost
+seems like it resembles a rabbit...    
+~
+85 32768 0 0 0 9
+D2
+~
+~
+0 -1 8559 0
+D3
+~
+~
+0 -1 8558 0
+D4
+~
+~
+0 -1 8549 0
+S
+#8558
+A Dark Hidden Cloud~
+This cloud looks like the perfect place to hide.
+~
+85 32769 0 0 0 9
+D1
+~
+~
+0 -1 8557 0
+S
+#8559
+Yet Another Cloud~
+You find yourself in yet another cloud.  Will the madness never
+end?  There is a rope ladder leading up.
+~
+85 32768 0 0 0 9
+D0
+~
+~
+0 -1 8557 0
+D4
+~
+~
+0 -1 8560 0
+S
+#8560
+Front Gate~
+There is a gate here.  It is huge, towering over you.  It creaks
+as it sways in the breeze.  To the south you see a huge lawn.
+There is a rope ladder leading down.
+~
+85 32772 0 0 0 0
+D2
+You see a huge lawn.
+~
+~
+0 -1 8561 0
+D5
+There is a rope ladder leading down.
+~
+~
+0 -1 8559 0
+S
+#8561
+Lawn~
+The lawn seems to stretch and stretch to the south and to the west.
+North of you is a gate.  The grass is emerald green and luscious,
+obviously well cared for.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8560 0
+D2
+~
+~
+0 -1 8563 0
+D3
+~
+~
+0 -1 8562 0
+S
+#8562
+The Croquet Court~
+A croquet game has been set up and carelessly left out.  Who ever
+was playing blue was in the lead before they quit.  Benches have
+been set up for spectators and players to enjoy themselves.
+~
+85 32768 0 0 0 0
+D1
+~
+~
+0 -1 8561 0
+D2
+~
+~
+0 -1 8564 0
+S
+#8563
+The Huge Gorgeous Fountain~
+An enormous golden fountain is here.  You see swans, angels,
+gryphons and a host of other creatures in the fountain.  The
+fountain empties into a huge pool that looks quite inviting.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8561 0
+D3
+~
+~
+0 -1 8564 0
+S
+#8564
+The Patio~
+A huge patio overlooks the lawn area.  There are enough tables and
+chairs for a party of 100.  The tables and chairs are ornate and
+expensive, tasteful and elegant.  Stairs lead up to the main
+house.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8562 0
+D1
+~
+~
+0 -1 8563 0
+D4
+~
+~
+0 -1 8565 0
+S
+#8565
+The Long Stairway~
+This stairway is suspended on clouds.  It leads from the house to
+the front lawn.  The banisters are made of ornate gold and silver
+inlays.
+~
+85 32768 0 0 0 0
+D4
+~
+~
+0 -1 8566 0
+D5
+~
+~
+0 -1 8564 0
+S
+#8566
+The Front Door~
+You stand at the front door of an immense, sprawling mansion made
+of granite and marble.  The door is at least 10 feet high and is
+made of oak.
+~
+85 32768 0 0 0 0
+D1
+~
+~
+0 -1 8573 0
+D2
+You see an ornate oak door.
+~
+oak door~
+2 -1 8577 9
+D3
+~
+~
+0 -1 8567 0
+D5
+~
+~
+0 -1 8565 0
+S
+#8567
+Lawn Northwest of the House~
+You stand just outside the northwest corner of the house.  You try
+to peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D1
+~
+~
+0 -1 8566 0
+D2
+~
+~
+0 -1 8568 0
+S
+#8568
+Lawn West of the House~
+You stand just outside the west corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8567 0
+D2
+~
+~
+0 -1 8569 0
+S
+#8569
+Lawn Southwest of the House~
+You stand just outside the southwest corner of the house.  You try
+to peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8568 0
+D1
+~
+~
+0 -1 8570 0
+D5
+~
+~
+0 -1 8574 0
+S
+#8570
+Lawn South of the House~
+You stand just outside the south corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D1
+~
+~
+0 -1 8571 0
+D3
+~
+~
+0 -1 8569 0
+S
+#8571
+Lawn Southeast of the House~
+You stand just outside the southeast corner of the house.  You try
+to peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8572 0
+D3
+~
+~
+0 -1 8570 0
+S
+#8572
+Lawn East of the House~
+You stand just outside the east corner of the house.  You try to
+peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D0
+~
+~
+0 -1 8573 0
+D2
+~
+~
+0 -1 8571 0
+S
+#8573
+Lawn Northeast of the House~
+You stand just outside the northeast corner of the house.  You try
+to peek in a window, but it is a little too high to see anything.
+~
+85 32768 0 0 0 0
+D2
+~
+~
+0 -1 8572 0
+D3
+~
+~
+0 -1 8566 0
+S
+#8574
+Dirty, Dusty Tunnel~
+This dirty dusty tunnel must lead somewhere.
+~
+85 32777 0 0 0 0
+D1
+~
+~
+0 -1 8575 0
+D4
+~
+~
+0 -1 8569 0
+S
+#8575
+The Basement~
+This seems like your average basement.  Old Christmas decorations,
+suitcases, bicycles litter your way.  You hear the squeaking of
+rats in the corners.
+~
+85 32777 0 0 0 0
+D0
+~
+~
+0 -1 8576 0
+D3
+~
+~
+0 -1 8574 0
+S
+#8576
+The Bottom of the Stairs~
+You stand at the bottom of a long staircase leading up to the main
+house.  To the south you can barely make out the accumulated
+clutter gathered throughout the years.
+~
+85 32777 0 0 0 0
+D2
+~
+~
+0 -1 8575 0
+D4
+~
+~
+0 -1 8577 0
+S
+#8577
+The Foyer~
+"Magnificent" does not even begin to describe the foyer.  Lavishly
+decorated, yet elegant, it gives an impression of indescribable
+wealth.  Paintings and tapestries line the walls depicting scenes
+from throughout history.  Antiques furnitures and oriental rugs are
+tastefully placed in ideal spots.  The door is at least 10 feet
+high and is made of oak.
+~
+85 32776 0 0 0 0
+D0
+You see an ornate oak door.
+~
+oak door~
+2 -1 8566 9
+D1
+~
+~
+0 -1 8583 0
+D3
+~
+~
+0 -1 8578 0
+D5
+~
+~
+0 -1 8576 0
+S
+#8578
+Elegant Hallway~
+You are in a long, sprawling hallway connecting the eastern and
+western wings of the house.  There are several chairs and sofas in
+the hallway and some gorgeous, handwoven drapes.
+~
+85 32776 0 0 0 0
+D1
+~
+~
+0 -1 8577 0
+D2
+~
+~
+0 -1 8579 0
+D3
+~
+~
+0 -1 8580 0
+S
+#8579
+The Library~
+You are overwhelmed by the sheer volumes of books here.  The
+shelves stretch all the way to the ceiling and are on every wall,
+even above the doorway.  There are chairs for sitting and reading
+and a desk for more intense studies.
+~
+85 32776 0 0 0 0
+D0
+~
+~
+0 -1 8578 0
+S
+#8580
+The Arboretum~
+A small indoor garden so that the residents don't have to go
+outside to enjoy plants and commune with nature.  There are several
+trees, a small pond and flowers of every kind.
+~
+85 32780 0 0 0 0
+D1
+~
+~
+0 -1 8578 0
+D2
+~
+~
+0 -1 8581 0
+S
+#8581
+The Western Tower~
+You are in the bottom part of a tower.  A draft brings a chill to
+your spine and causes creaks and groans.  Curtains flutter in the
+wind, causing quite a distraction.  When you go to shut the window,
+you see that the window is closed.  An old, wooden staircase leads
+up into darkness.
+~
+85 32776 0 0 0 0
+D0
+~
+~
+0 -1 8580 0
+D4
+~
+~
+0 -1 8582 0
+S
+#8582
+The Western Tower~
+The tower creaks and groans, almost as if it were muttering to
+itself.  There are windows displaying a full moon, reigning over
+the night sky.  The room is dark and there is almost a musty odor
+to it.  You are surprised that you can't detect any dust or dirt,
+although there are a couple of cobwebs in the corner.
+~
+85 32777 0 0 0 0
+D5
+~
+~
+0 -1 8581 0
+S
+#8583
+Elegant Hallway~
+You are in a long, sprawling hallway connecting the eastern and
+western wings of the house.  There are several chairs and sofas in
+the hallway and some gorgeous, handwoven drapes.
+~
+85 32776 0 0 0 0
+D1
+~
+~
+0 -1 8585 0
+D2
+~
+~
+0 -1 8584 0
+D3
+~
+~
+0 -1 8577 0
+S
+#8584
+The Conservatory~
+Here was the rehearsal and recital room for the residents of the
+estate.  There is a Steinway piano in the corner and various gilded
+instruments are on display in a glass cabinet.
+~
+85 32776 0 0 0 0
+D0
+~
+~
+0 -1 8583 0
+S
+#8585
+The Office~
+You find yourself in a lavish office.  The desk is absolutely huge,
+at least ten feet by five feet and made of ebony and inlaid with
+mother of pearl.  A grandfather clock towers over the room,
+mechanically ticking and tocking the hours away.
+~
+85 32776 0 0 0 0
+D2
+~
+~
+0 -1 8586 0
+D3
+~
+~
+0 -1 8583 0
+S
+#8586
+The Eastern Tower~
+You are in the bottom part of a tower.  A draft brings a chill to
+your spine and causes creaks and groans.  Curtains flutter in the
+wind, causing quite a distraction.  When you go to shut the window,
+you see that the window is closed.  An old, wooden staircase leads
+up into darkness.
+~
+85 32776 0 0 0 0
+D0
+~
+~
+0 -1 8585 0
+D4
+~
+~
+0 -1 8587 0
+S
+#8587
+The Eastern Tower~
+The tower creaks and groans, almost as if it were muttering to
+itself.  There are windows displaying a full moon, reigning over
+the night sky.  The room is dark and there is almost a musty odor
+to it.  You are surprised that you can't detect any dust or dirt,
+although there are a couple of cobwebs in the corner.
+~
+85 32777 0 0 0 0
+D5
+~
+~
+0 -1 8586 0
+S
+#8599
+Mid-Air~
+You slide down the moisture covered rock, gaining speed as you
+approach the cliff.  Realizing your foolish error, you madly claw
+at the rock, vainly trying to get a precious hold and save your
+worthless hide.  Next time, heed your conscience.
+
+You've fallen, and you can't get up!!!
+~
+85 4 0 0 0 0
+S
+$~

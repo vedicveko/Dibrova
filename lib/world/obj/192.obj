@@ -1,0 +1,147 @@
+#19200
+potion blue breathe wavy fluid~
+/cwa potion of /cbblue /cwwavy fluid/c0~
+/cwA potion of /cbblue /cwwavy fluid has been dropped here./c0~
+~
+10 0 0 0 0 1 0 0 0
+80 52 39 0 0 0 0 0
+1 240 102 80 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19201
+fountain marble large~
+/cwa large/cc marble/cw fountain/c0~
+/cwA large/cc marble/cw fountain is here, spraying water high into the air./c0~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 0 0 0 0 0 0
+10005 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19202
+cloak red~
+/cwa /cRred /cwcloak/c0~
+/cwA red cloak lies here in a heap./c0~
+The cloak is blood red with a lighter red belt around the waist.
+~
+9 0 0 0 0 1025 0 0 0
+9 0 0 0 0 0 0 0
+15 30706 4 94 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak~
+The cloak is blood red with a lighter red belt around the waist.
+~
+A
+18 5
+#19203
+blue mages hat pointy~
+/cwa pointy/cB blue /cwmage's hat/c0~
+/cwA pointy/cB blue /cwmage's hat lies here./c0~
+~
+9 1884160 11 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+10 26946 0 94 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+point blue mag's hat~
+The hat is long and conical in shape and comes to a sharp point at the top.
+The color of the hat is /cR/cBdark blue/c0/c0 and it is covered in white cresent moons and stars.
+~
+A
+26 3
+A
+3 1
+A
+19 3
+A
+1 -2
+#19204
+cloth robe~
+/cwa /cWwhite robe/cw with /cBblue /cwtrim/c0~
+/cwSome colored cloth lies here in a heap./c0~
+~
+9 0 0 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+5 18759 0 67 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 4
+#19205
+soup bowl~
+/cwa bowl of soup/c0~
+/cwA bowl of soup has been left here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+0 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19206
+black stone~
+/cwa /clblack/cw stone/c0~
+/cwA black stone is lying here./c0~
+~
+11 100728840 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+10 20853 0 92 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+2 -2
+#19207
+burlap sack~
+/cwa /cyburlap/cw sack/c0~
+/cwA burlap sack lies here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+100 1 -1 0 0 0 0 0
+15 200 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19208
+potion blue~
+/cwa /cbblue/cw potion/c0~
+/cwA blue potion lies here./c0~
+~
+10 0 0 0 0 1 0 0 0
+65 44 0 0 0 0 0 0
+1 565 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19209
+light blue potion lightblue~
+/cwa /cclight blue/cw potion/c0~
+/cwA light blue potion lies here./c0~
+~
+10 100728844 0 0 0 1 0 0 0
+65 56 36 0 0 0 0 0
+1 2160 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19210
+tasty grasshopper leg roasted~
+/cwa /cgroasted grasshopper/cw leg/c0~
+/cwA roasted grasshopper leg has been dropped here./c0~
+Yum!
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 4 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19211
+grasshopper soup bowl~
+/cwa steaming bowl of /cggrasshopper /cwsoup/c0~
+/cwA great smelling bowl of soup lies here./c0~
+Yum!
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+1 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19212
+southern fried grasshopper~
+/cwa southern fried/cg grasshopper/c0~
+/cwA southern-fried grasshopper leg lies here./c0~
+Yummy in my tummy I've got something good!
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+10 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

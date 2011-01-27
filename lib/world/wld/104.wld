@@ -1,0 +1,2102 @@
+#10401
+Stone Archway~
+This is a ancient stone archway.  Various faces of demons and other
+grim pictures are painted onto it.  Stone gargoyles and demons glare
+down at you from atop the arch.  There is a bronze plaque above the
+archway.    
+~
+104 9 0 0 0 0
+D1
+~
+~
+0 0 234 0
+D3
+It's too dark to see.
+~
+~
+0 -1 10402 0
+E
+plaque~
+************
+Descent to Hell
+************
+
+You just GO TO HELL!!!!
+*chuckle*
+
+Made for levels 50-85
+
+Brought to you by Strahd
+~
+S
+#10402
+Ancient Room~
+You are standing in a large stone room.  Feels like a crypt.  Ancient
+murals of Hell and punishment cover the walls.  In the middle of the
+room are stairs that lead down in to the darkness.  From the stairway
+you can smell brimstone and sulfur.  To the west it looks as if there
+is a shrine.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10401 0
+D3
+You see an ancient shrine.
+~
+~
+0 -1 10418 0
+D5
+You see a dark stairway.
+~
+~
+0 -1 10403 0
+S
+#10403
+Dark Stairway~
+You are standing at the bottom of long dark stairway.  The smell of
+brimstone and sulfur choke you.  Screams of pain and terror fill the
+air.  Stone faces carved into the walls seem to laugh at you.  Maybe
+this is not such a good idea after all...    
+~
+104 9 0 0 0 0
+D3
+Its too dark to see.
+~
+~
+0 -1 10404 0
+D4
+You see a dark stairway.
+~
+~
+0 -1 10402 0
+S
+#10404
+Landing~
+This landing has been scorched as if a large brushfire swept through
+it.  Bits of ash and burnt vegetation covers everything.  The walls
+and floor are flawlessly smooth and the ceiling is covered with carved
+faces and ancient symbols and runes.  A large black iron gates tower
+over you to the west.  You see a large gateway to the west.    
+~
+104 9 0 0 0 0
+D1
+Its too dark to see.
+~
+~
+0 -1 10403 0
+D3
+You see the Gates of Hell
+~
+gates~
+1 -1 10405 3
+E
+gates~
+These black iron gates are covered with grotesque faces and other
+creatures in various poses and acts of violence and lust. The gates
+seem to make your blood run cold...
+~
+S
+#10405
+Gateway to Hell~
+You stand next to the very gateway of Hell.  You are surrounded by the
+sounds of torture and pain.  Screams pierce the air and rattle your
+nerves.  Displays of the treats of Hell are in all directions.  A
+large black iron gates tower over you to the east.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10416 0
+D1
+The Gates of Hell
+~
+gates~
+1 -1 10404 3
+D2
+Its too smoky to see.
+~
+~
+0 -1 10426 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10406 0
+E
+gates~
+These black iron gates are covered with grotesque faces and other
+creatures in various poses and acts of violence and lust. The gates
+seem to make your blood run cold...
+~
+S
+#10406
+Hall of the Damned~
+This hallway is a monument to the millions of damned souls in hell.  
+The walls are made up of various body parts and other unidentifiable
+things.  Many of the faces that make up the wall scream out to you for
+help.  Their arms desperately grasp at your clothing as you pass.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10415 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10405 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10425 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10407 0
+S
+#10407
+Hall of the Damned~
+This hallway is a monument to the millions of damned souls in hell.  
+The walls are made up of various body parts and other unidentifiable
+things.  Many of the faces that make up the wall scream out to you for
+help.  Their arms desperately grasp at your clothing as you pass.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10414 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10406 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10424 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10408 0
+S
+#10408
+Hall of the Damned~
+This hallway is a monument to the millions of damned souls in hell.  
+The walls are made up of various body parts and other unidentifiable
+things.  Many of the faces that make up the wall scream out to you for
+help.  Their arms desperately grasp at your clothing as you pass.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10413 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10407 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10423 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10409 0
+S
+#10409
+Hall of the Damned~
+This hallway is a monument to the millions of damned souls in hell.  
+The walls are made up of various body parts and other unidentifiable
+things.  Many of the faces that make up the wall scream out to you for
+help.  Their arms desperately grasp at your clothing as you pass.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10412 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10408 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10422 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10410 0
+D5
+You see a dark stairway leading down.
+~
+stairs~
+0 -1 10421 0
+S
+#10410
+Hall of the Damned~
+This hallway is a monument to the millions of damned souls in hell.  
+The walls are made up of various body parts and other unidentifiable
+things.  Many of the faces that make up the wall scream out to you for
+help.  Their arms desperately grasp at your clothing as you pass.    
+~
+104 9 0 0 0 0
+D0
+Its too smoky to see.
+~
+~
+0 -1 10411 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10409 0
+S
+#10411
+Mural of the Dead~
+You stand before a large mural.  The mural depicts mountains of dead
+bodies piled up to the sky.  The mural covers the whole north wall
+from floor to ceiling.  You can almost smell the stench of decaying
+flesh.    
+~
+104 9 0 0 0 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10412 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10410 0
+S
+#10412
+Living Walls~
+The walls here actually consist of greying and sinewy flesh - faces,
+hands, broken bones, feet, and toes jutting from the surface.  You
+hear low moans of horror, pain, and sorrow issuing from the walls.  
+~
+104 9 0 0 0 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10413 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10409 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10411 0
+S
+#10413
+Trapped souls~
+There are many souls trapped behind the walls of this room.  Almost as
+if trapped beneath the surface of a frozen lake.  Even the floor and
+ceiling show the screaming faces behind them.    
+~
+104 9 0 0 0 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10414 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10408 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10412 0
+S
+#10414
+Tortured Beings~
+This room is filled with instruments of torture.  Beings of all shapes
+and sizes are being brought to the thresholds of pain and beyond.  
+Some are being sliced into thousands of pieces.  Others stretched
+until it seems as if they are made of rubber.  All caught in an
+unending play of agony.    
+~
+104 9 0 0 0 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10415 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10407 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10413 0
+S
+#10415
+Gluttony~
+Before you is a room filled with all sorts of food.  The smell of
+pastries and Hamburger assault your senses.  All sorts of food lay
+everywhere you look.  Cookies, twinkies, steak, prime rib, almost
+anything you can think of, call out to you.  You suddenly feel VERY
+hungry.    
+~
+104 9 0 0 0 0
+D1
+Its too smoky to see.
+~
+~
+0 -1 10416 0
+D2
+Its too smoky to see.
+~
+~
+0 -1 10406 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10414 0
+S
+#10416
+Greed~
+What luck!  A room full of treasure.  Gold, diamonds, riches beyond
+imagination!  Wait!  You suddenly feel as if it is all slowly
+disappearing.  Someone is taking your treasure.  They have no right!
+It is yours!  You found it first.  Let them go get thier own
+treasures!  You see a door to the east.    
+~
+104 9 0 0 0 0
+D1
+You see a bedroom door.
+~
+door~
+1 -1 10417 3
+D2
+Its too smoky to see.
+~
+~
+0 -1 10405 0
+D3
+Its too smoky to see.
+~
+~
+0 -1 10415 0
+S
+#10417
+Bedroom~
+This is a small bedroom.  It is well furnished and a drastic change
+from the room you just stepped out of.  A bed stands against the far
+wall.  Upon the headboard of the bed are carved two cherub looking
+figures, with the words 'DEE & DEE' written below them.  The door to
+the bedroom is to the west.    
+~
+104 9 0 0 0 0
+D3
+You see a bedroom door.
+~
+door~
+1 -1 10416 3
+S
+#10418
+Ancient Shrine~
+This is an ancient abandon shrine of some unknown god.  It has been
+vandalized and torn apart.  What used to be the shrine has been
+reduced to a large pile of stone and other debris.  Various runes and
+demonic faces have been spray painted on the walls and floor.  Nailed
+to the ceiling are an assortement of skeletons.  All seem to have been
+dead for a very long time.  All surfaces of the room are covered with
+dried blood and dust.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10402 0
+S
+#10419
+Room full of Body Parts~
+The room is filled with piles of arms, legs, heads, and other
+unidentifiable parts of many different creatures.  The stench is
+overwhelming.  The body parts seem to wiggle and scream as you get
+closer.  They are still alive!!    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10420 0
+D2
+It is too dark to see.
+~
+~
+0 -1 10429 0
+S
+#10420
+Fountain of Blood~
+This room is made of a rough black stone.  The walls seem to ooze
+black sludge.  In the middle of the room stands a stone fountain of a
+demon spitting blood.    
+~
+104 9 0 0 0 0
+D2
+It is too dark to see.
+~
+~
+0 -1 10430 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10419 0
+S
+#10421
+Bloody Stairway~
+You are standing on a very slippy stairway.  The walls and stairs are
+covered with blood and gore.  Pieces of goo and ooze drip from the
+ceiling overhead.  You almost slip a couple times on the stairway.  
+The stench here is overwhelming.    
+~
+104 13 0 0 0 0
+D4
+It is too dark to see.
+~
+~
+0 -1 10409 0
+D5
+It is too dark to see.
+~
+~
+0 -1 10431 0
+S
+#10422
+Ancient Room~
+This is a very old and dusty room.  It looks empty except for a few
+shards or bone and flesh.    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10409 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10423 0
+S
+#10423
+Room of Lost Souls~
+This looks like a waiting room or sorts.  Dust and cobwebs are
+everywhere.  Wooden benches line the walls.  A digital number sign is
+posted on the wall.  It currently reads, 'Now Serving Number 1'.  A
+ticket dispenser is bolted to the wall.    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10408 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10424 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10422 0
+E
+dispenser~
+This is one of those red ticket dispensers that never seem to work right.
+~
+S
+#10424
+Room of Lost Souls~
+This looks like a waiting room or sorts.  Dust and cobwebs are
+everywhere.  Wooden benches line the walls.  A digital number sign is
+posted on the wall.  It currently reads, 'Now Serving Number 1'.  A
+ticket dispenser is bolted to the wall.    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10407 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10425 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10423 0
+E
+dispenser~
+This is one of those red ticket dispensers that never seem to work right.
+~
+S
+#10425
+Pit of Fire~
+You enter a plain stone room with a large fire pit in the center of
+it.  As you look closer at the pit you realize that hundreds of people
+are being burned inside it.  They Scream out to you.  The noise is
+deafening.  Several minor imps and workers push more people into the
+pit, whistling while they do their duty.    
+~
+104 8 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10406 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10426 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10424 0
+S
+#10426
+Blackened Hallway~
+This dark hallway looks as if it was made by a lavaworm...  All the
+surfaces in it are melted and burnt.  The smell of brimstone and
+sulfur fill the air.    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10405 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10427 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10425 0
+S
+#10427
+Blackened Hallway~
+This dark hallway looks as if it was made by a lavaworm...  All the
+surfaces in it are melted and burnt.  The smell of brimstone and
+sulfur fill the air.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10428 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10426 0
+S
+#10428
+Blood Room~
+You enter the room and are immediately assaulted by the smell of
+rotting flesh and blood.  The walls are covered with the crimson fluid
+as it runs down from the ceiling.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10429 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10427 0
+S
+#10429
+Living Walls~
+The walls here actually consist of greying and sinewy flesh - faces,
+hands, broken bones, feet, and toes jutting from the surface.  You
+hear low moans of horror, pain, and sorrow issuing from the walls.  
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10419 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10430 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10428 0
+S
+#10430
+Skeleton Factory~
+This is probably where they make all the skeletons for nightmares and
+graveyards.  The room is simply littered with bones.  A poster on the
+wall reads, "Remember ....  The head bone is connected to the neck
+bone..  " The poster continues on...  But it seems to get very
+technical and boring..    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10420 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10429 0
+S
+#10431
+Bottom of Stairway~
+You are standing at the bottom of a bloody stairway.  Or at least you
+thought it was a stairway.  It seems to be just a painting the the
+wall.  This roughly carved room with evil runes carved in to the stone
+floor.  There is a hallway to the east.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10432 0
+S
+#10432
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hall continues to the
+south and the west.    
+~
+104 9 0 0 0 0
+D2
+It is too dark to see.
+~
+~
+0 -1 10442 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10431 0
+S
+#10433
+Cell~
+The cell is very damp and very musty.  The walls are covered with
+moisture and dirt.  The smell of urine is very potent here.  The steel
+bars to the cell are to the south.    
+~
+104 9 0 0 0 0
+D2
+You see bars
+~
+bars~
+1 -1 10443 3
+S
+#10434
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway continues to
+the east and the south.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10435 0
+D2
+It is too dark to see.
+~
+~
+0 -1 10444 0
+S
+#10435
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  To the south you see the
+steel bars of a cell.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10436 0
+D2
+You see the steel bars of a cell.
+~
+bars~
+1 -1 10445 3
+D3
+It is too dark to see.
+~
+~
+0 -1 10434 0
+S
+#10436
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+south and the west.    
+~
+104 9 0 0 0 0
+D2
+It is too dark to see.
+~
+~
+0 -1 10446 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10435 0
+S
+#10437
+Cell~
+The cell is very damp and very musty.  The walls are covered with
+moisture and dirt.  The smell of urine is very potent here.  The steel
+bars to the cell are to the south.    
+~
+104 9 0 0 0 0
+D2
+You see bars
+~
+bars~
+1 -1 10447 3
+S
+#10438
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+south and the east.    
+~
+104 9 0 0 0 0
+D1
+It is too dark to see.
+~
+~
+0 -1 10439 0
+D2
+~
+~
+0 0 10448 0
+S
+#10439
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+west.    
+~
+104 9 0 0 0 0
+D1
+You see the steel bars to a cell.
+~
+bars~
+1 -1 10440 3
+D2
+You see the steel bars to a cell.
+~
+bars~
+1 -1 10449 3
+D3
+It is too dark to see.
+~
+~
+0 -1 10438 0
+D5
+You see a dark stairway down....
+~
+~
+0 -1 10450 0
+S
+#10440
+Cell~
+The cell is very damp and very musty.  The walls are covered with
+moisture and dirt.  The smell of urine is very potent here.  The steel
+bars to the cell are to the west.    
+~
+104 9 0 0 0 0
+D3
+You see bars
+~
+bars~
+1 -1 10439 3
+S
+#10441
+Hidden Room~
+This is a long forgotten room.  Ancient torture equipment stands
+around collecting dust.  Most of this stuff was probably replace with
+modern high tech torture devices and for sentimental reasons wasn't
+thrown away.    
+~
+104 9 0 0 0 0
+D2
+Its too dark to see.
+~
+~
+0 -1 10451 0
+S
+#10442
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+north and east.    
+~
+104 9 0 0 0 0
+D0
+Its too dark to see.
+~
+~
+0 -1 10432 0
+D1
+Its too dark to see.
+~
+~
+0 -1 10443 0
+S
+#10443
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+east and west.  The bars to a cell are to the north.    
+~
+104 9 0 0 0 0
+D0
+You see bars to a cell.
+~
+bars~
+1 -1 10433 3
+D1
+Its too dark to see.
+~
+~
+0 -1 10444 0
+D3
+Its too dark to see.
+~
+~
+0 -1 10442 0
+S
+#10444
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+north and west.    
+~
+104 9 0 0 0 0
+D0
+Its too dark to see.
+~
+~
+0 -1 10434 0
+D3
+Its too dark to see.
+~
+~
+0 -1 10443 0
+S
+#10445
+Cell~
+The cell is very damp and very musty.  The walls are covered with
+moisture and dirt.  The smell of urine is very potent here.  The steel
+bars to the cell are to the north.    
+~
+104 9 0 0 0 0
+D0
+You see bars
+~
+bars~
+1 -1 10435 3
+S
+#10446
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+north and east.    
+~
+104 9 0 0 0 0
+D0
+Its too dark to see.
+~
+~
+0 -1 10436 0
+D1
+Its too dark to see.
+~
+~
+0 -1 10447 0
+D3
+~
+~
+0 0 19 16
+S
+#10447
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+east and west.  You see bars to a cell to the north.    
+~
+104 9 0 0 0 0
+D0
+You see bars to a cell.
+~
+bars~
+1 -1 10437 3
+D1
+Its too dark to see.
+~
+~
+0 -1 10448 0
+D3
+Its too dark to see.
+~
+~
+0 -1 10446 0
+S
+#10448
+Stone Hall~
+This is a roughly carved hallway.  The air here is damp and musty.  
+You hear the sound of something dripping in the distance.  Your
+footsteps echo down the hall as you walk.  There is a strange and
+deathly silence that fills these halls...  The hallway contines to the
+north and west.    
+~
+104 9 0 0 0 0
+D0
+Its too dark to see.
+~
+~
+0 -1 10438 0
+D3
+Its too dark to see.
+~
+~
+0 -1 10447 0
+S
+#10449
+Cell~
+The cell is very damp and very musty.  The walls are covered with
+moisture and dirt.  The smell of urine is very potent here.  The steel
+bars to the cell are to the north.    
+~
+104 9 0 0 0 0
+D0
+You see bars
+~
+bars~
+1 -1 10439 3
+S
+#10450
+Hot Stairs~
+You are standing on a long stairway.  The air around you is heavy and
+hot.  The stone walls are hot to the touch and your sweat sizzles as
+it hits the ground.  Cool air flows out from a crack in the wall to
+the east.  The smell of brimstone and smoke is all around you.  The
+stairs continue down.    
+~
+104 13 0 0 0 0
+D4
+It is too dark to see.
+~
+~
+0 -1 10439 0
+D5
+It is too dark to see.
+~
+~
+0 -1 10461 0
+S
+#10451
+Crack in Wall~
+This is a rather large crack in the wall.  On closer inspection it
+appears to be a passageway that was closed off long ago.  It was
+probably reopened by an earthquake or something.  An ancient
+passageway continues to the north.  Hot gusts of air come from the
+west.    
+~
+104 9 0 0 0 0
+D0
+It is too dark to see.
+~
+~
+0 -1 10441 0
+D3
+It is too dark to see.
+~
+~
+0 -1 10450 0
+S
+#10452
+Stone Arch~
+Before you stands the a large stone arch decorated with many runes you
+cannot decifer.  It looks as though it has been closed up for a long
+time.  To the east is a hallway of fire.  To the south you see a large
+metal door with the words, 'FOREMAN' written on the door.  There is a
+dark stairway down in the corner of the room.    
+~
+104 9 0 0 0 0
+D1
+You see a hall of fire.
+~
+~
+0 -1 10453 0
+D2
+You see the Foreman's office.
+~
+door~
+1 -1 10462 3
+D5
+You see a dark stairway down.
+~
+~
+0 -1 10463 0
+S
+#10453
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the east.  
+You see a stone archway to the west.    
+~
+104 9 0 0 0 0
+D1
+You see a hall of fire.
+~
+~
+0 -1 10454 0
+D3
+You see a stone archway.
+~
+~
+0 -1 10452 0
+S
+#10454
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the south and
+west.    
+~
+104 9 0 0 0 0
+D2
+You see a hall of fire.
+~
+~
+0 -1 10464 0
+D3
+You see a stone archway.
+~
+~
+0 -1 10453 0
+S
+#10455
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the east and south.    
+~
+104 9 0 0 0 0
+D0
+~
+~
+0 0 10456 0
+D1
+You see a construction area.
+~
+~
+0 -1 10456 0
+D2
+You see a construction area.
+~
+~
+0 -1 10465 0
+S
+#10456
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the east and west.    
+~
+104 9 0 0 0 0
+D1
+You see a construction area.
+~
+~
+0 -1 10457 0
+D2
+You see a construction area.
+~
+~
+0 -1 10455 0
+S
+#10457
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the south and west.    
+~
+104 9 0 0 0 0
+D2
+You see a construction area.
+~
+~
+0 -1 10467 0
+D3
+You see a construction area.
+~
+~
+0 -1 10456 0
+S
+#10458
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the east and
+south.    
+~
+104 9 0 0 0 0
+D1
+You see a hall of fire.
+~
+~
+0 -1 10459 0
+D2
+You see a hall of fire.
+~
+~
+0 -1 10468 0
+S
+#10459
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the west.  A
+room full of fire pits lies to the east.  A wall of fire crackles
+merrily to the south.    
+~
+104 9 0 0 0 0
+D1
+You see a room full of fire pits.
+~
+~
+0 -1 10460 0
+D2
+You see a wall of fire.
+~
+~
+0 -1 10469 0
+D3
+You see a hall of fire.
+~
+~
+0 -1 10458 0
+S
+#10460
+Fire Pits of Hades~
+This room is filled with many small fire pits.  Countless damned souls
+are being burnt and roasted within the the white flames that erupt
+from the many pits.  Wailing and screams of pain chill your bones in
+this hot room.  To the south you see a lake of fire.  A fire hall lies
+to the west.    
+~
+104 9 0 0 0 0
+D2
+You see a lake of fire.
+~
+~
+0 -1 10470 0
+D3
+You see a hall of fire.
+~
+~
+0 -1 10459 0
+S
+#10461
+Fire Mural~
+Upon all the walls of this room is an enormous mural.  Pictures of
+burning bodies and tortured souls seem to be the main theme of the
+art.  Bright reds and hot blues are enphasized throughout the mural.
+As you stare at it the characters within it seem to move and struggle
+in pain.  The hot air around you smells of sulfur and methane.  To the
+south you see a stone hallway.  Hot air blows in at you from the
+doorway.  The air stirs up the methane and steals your breath.  You
+choke and gag...    
+~
+104 9 0 0 0 0
+D2
+You see a stone hallway.
+~
+~
+0 -1 10471 0
+S
+#10462
+Foreman's Office~
+You stand in a crudly constructed office.  Blueprints and change
+orders are scattered everywhere.  A metal filing cabinet stands in the
+corner.  Before you stands a stone table covered with blueprints.  On
+the wall is a construction plaque that reads, "4th DEMONsion
+Contruction"
+~
+104 9 0 0 0 0
+D0
+You see the door to the office.
+~
+~
+1 -1 10452 3
+S
+#10463
+Cold Stairway~
+You stand apon a cold stone stairway.  Hot air blows down on you from
+higher up the stairwell.  From below you a freezing gusts bite at your
+skin and make you shiver.  Icicles drip slowly from the ceiling onto
+the frosted stone floor.    
+~
+104 9 0 0 0 0
+D4
+It is too dark to see.
+~
+~
+0 -1 10452 0
+D5
+It is too dark to see.
+~
+~
+0 -1 10472 0
+S
+#10464
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the north and
+east.    
+~
+104 9 0 0 0 0
+D0
+You see a hall of fire.
+~
+~
+0 -1 10454 0
+D1
+You see a wall of fire.
+~
+~
+0 -1 10465 0
+S
+#10465
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the north and east.  A hall of
+fire is to the west.    
+~
+104 9 0 0 0 0
+D0
+You see a construction area.
+~
+~
+0 -1 10455 0
+D1
+You see a construction area.
+~
+~
+0 -1 10466 0
+D3
+You see a Hall of fire.
+~
+~
+0 -1 10464 0
+S
+#10466
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the east and west.    
+~
+104 9 0 0 0 0
+D1
+You see a construction area.
+~
+~
+0 -1 10467 0
+D3
+You see a construction area.
+~
+~
+0 -1 10465 0
+S
+#10467
+Construction Area~
+This part of Hell seems to be under repair.  Workers are fixing and
+replacing what look like various gas mains and other pipework.  You
+can see many gas lines and electrical conduits within the dismantled
+walls.  Partially hidden fire sprinklers are being installed in the
+ceilings.  You see more contruction to the north and west.  A hall of
+fire lies to the east.    
+~
+104 9 0 0 0 0
+D0
+You see a construction area.
+~
+~
+0 -1 10457 0
+D1
+You see a hall of fire.
+~
+~
+0 -1 10468 0
+D3
+You see a construction area.
+~
+~
+0 -1 10466 0
+S
+#10468
+Hall of Fire~
+You are standing in a hallway made of fire.  The walls are ablaze with
+yellow and blue flames.  The smell of the hot air and sulfur burn your
+lungs as you inhale, and dry your mouth as you exhale.  The stone
+floor burns at your feet and hungrily drinks up every drop of sweat as
+they fall from your body.  The hall of fire continues to the north.  
+There are loud noises of contruction to the west.    
+~
+104 9 0 0 0 0
+D0
+You see a hall of fire.
+~
+~
+0 -1 10458 0
+D3
+You see a construction area.
+~
+~
+0 -1 10467 0
+S
+#10469
+Wall of Fire~
+This large room is cut in into sections by small walls of fire.  The
+walls to move slowly changing the layout of the room.  As you examine
+the room further you notice various posts around the room to which
+people are chained to.  The firewalls seem to move in patterns that
+leave the poor people directly in the path of the oncoming fire.  The
+walls seem to creep ever so slowly towards them.  The people blister
+and scream as the fire gets closer.  Thier deaths seem like minutes of
+agony and pain, and even as they burst into flames they seem incapable
+of grasping the merciful attention of death...  To the north you see a
+hall of fire.  To the east you see a lake of fire.    
+~
+104 9 0 0 0 0
+D0
+You see a hall of fire.
+~
+~
+0 -1 10459 0
+D1
+You see a Lake of fire.
+~
+~
+0 -1 10470 0
+S
+#10470
+Lake of Fire~
+You stand one the shore of a large lake of fire.  The smoke and heat
+fill this enormous room.  You can barely make out shapes of something
+moving withing the dancing flames of blue and gold..    
+~
+104 9 0 0 0 0
+D0
+It is too smoky to see.
+~
+~
+0 -1 10460 0
+D1
+It is too smoky to see.
+~
+~
+0 -1 10471 0
+D3
+It is too smoky to see.
+~
+~
+0 -1 10469 0
+S
+#10471
+Hot Hall~
+The stone floor below you heats your feet uncomfortably.  The ceiling
+and walls glow a dull red and you sweat uncomfortably under the heat.
+~
+104 9 0 0 0 0
+D0
+You see a Mural Room.
+~
+~
+0 -1 10461 0
+D3
+It is too smoky to see.
+~
+~
+0 -1 10470 0
+S
+#10472
+Icy Landing~
+This landing is made entirely of ice.  Its walls bear carvings of
+battle and hunting scenes in bas-relief.  These carved scenes show ice
+devils slaying angels, hunting mortals and other gruesome pictures.  
+To the east you see a room of ice.    
+~
+104 9 0 0 0 0
+D1
+You see a room of ice.
+~
+~
+0 -1 10541 0
+S
+#10473
+Ice Room~
+You are standing in a room of ice.  Icicles of every size hang from
+the ceiling.  Some shake with every sound.  Your reflection off the
+ice walls seems to dance and wiggle as you move about.  To the south
+you see more of the frozen room.  To the west you see an Icy landing.
+~
+104 9 0 0 0 0
+D2
+You see a room of ice.
+~
+~
+0 -1 10483 0
+D3
+You see a room of ice.
+~
+~
+0 -1 10541 0
+S
+#10474
+Meat Locker~
+You are standing in what looks like a meat locker.  Rows of beef and
+other meats hang from large steel hooks.  You also notice that many of
+the things hanging from the hooks are corpses of people.  They reach
+out to you as you pass them as if to plead for help from their frozen
+mouths.  The meat locker continues to the east and south.    
+~
+104 9 0 0 0 0
+D1
+You see more of the Meat locker
+~
+~
+0 -1 10475 0
+D2
+You see more of the Meat locker
+~
+~
+0 -1 10484 0
+S
+#10475
+Meat Locker~
+Rows of beef and other meats hang from large steel hooks.  You notice
+that many of the things hanging from the hooks are corpses of people.
+They reach out to you as you pass them as if to plead for help from
+their frozen mouths.  The meat locker continues to the south and west.
+There is a freezer door to the east.    
+~
+104 9 0 0 0 0
+D1
+You see a freezer door.
+~
+freezer~
+1 -1 10476 3
+D2
+You see more of the Meat locker
+~
+~
+0 -1 10485 0
+S
+#10476
+Penguin Room~
+This is what appears to be a replica of an iceberg.  Penguins waddle
+about the room pecking at many poor souls half trapped in the icy
+floor.  You seem to be outside, as the walls are painted to seem as if
+you are standing on a vast icy slab with nothing but ocean around you.
+The iceberg continues to the south and east.  There is a freezer door
+to the west.    
+~
+104 9 0 0 0 0
+D1
+You see lots and lots of ice.
+~
+~
+0 -1 10477 0
+D2
+You see lots and lots of ice.
+~
+~
+0 -1 10486 0
+D3
+You see a freezer door.
+~
+door freezer~
+1 -1 10475 3
+S
+#10477
+Penguin Room~
+This is what appears to be a replica of an iceberg.  Penguins waddle
+about the room pecking at many poor souls half trapped in the icy
+floor.  You seem to be outside, as the walls are painted to seem as if
+you are standing on a vast icy slab with nothing but ocean around you.
+The iceberg continues to the south and east.  There is a freezer door
+to the west.    
+~
+104 9 0 0 0 0
+D2
+You see lots and lots of ice.
+~
+~
+0 -1 10487 0
+D3
+You see lots and lots of ice.
+~
+~
+0 -1 10476 0
+S
+#10478
+Ice Creamery~
+You appear to be standing in a ice-creamery.  Many ice-cream workers
+run frantically around tending to the various machines.  The factory
+continues to the east and south.    
+~
+104 9 0 0 0 0
+D1
+You see lots of ice-cream machines.
+~
+~
+0 -1 10479 0
+D2
+You see lots of ice-cream machines.
+~
+~
+0 -1 10488 0
+S
+#10479
+Ice Creamery~
+You appear to be standing in a ice-creamery.  There seems to be a
+group of people here shouting into containers and then quickly
+covering them.  How odd...  The factory continues to the south and
+west.  There is a steel door to the east.    
+~
+104 9 0 0 0 0
+D1
+You see a steel door.
+~
+door steel~
+1 -1 10480 3
+D2
+You see lots of ice-cream machines.
+~
+~
+0 -1 10489 0
+D3
+You see lots of ice-cream machines.
+~
+~
+0 -1 10478 0
+S
+#10480
+White Marble Hall~
+You are standing in a white marble hallway.  It is dry and clean.  
+Many portraits of demons and devils in business suits adorn the walls
+on either side of you.  The hall continues to the south.  To the west
+is a steel door.    
+~
+104 9 0 0 0 0
+D2
+You see a marble hallway.
+~
+~
+0 -1 10490 0
+D3
+You see a steel door.
+~
+door steel~
+1 -1 10479 3
+S
+#10481
+Refrigerator Room~
+This room is filled with giant refrigerators.  All of them have no
+doors and their contents have spilled onto the floor.  The only exit
+is east.    
+~
+104 9 0 0 0 0
+D1
+You see a room of ice.
+~
+~
+0 -1 10482 0
+S
+#10482
+Ice Room~
+You are standing in a room of ice.  Icicles of every size hang from
+the ceiling.  Some shake with every sound.  Your reflection off the
+ice walls seems to dance and wiggle as you move about.  To the north
+and east you see more of the frozen room.  To the west you see a room
+full of refrigerators.    
+~
+104 9 0 0 0 0
+D0
+You see a room of ice.
+~
+~
+0 -1 10541 0
+D1
+You see a room of ice.
+~
+~
+0 -1 10483 0
+D3
+You see a room full of refrigerators.
+~
+~
+0 -1 10481 0
+S
+#10483
+Ice Room~
+You are standing in a room of ice.  Icicles of every size hang from
+the ceiling.  Some shake with every sound.  Your reflection off the
+ice walls seems to dance and wiggle as you move about.  To the north
+and west you see more of the frozen room.  To the east you see a
+freezer door.    
+~
+104 9 0 0 0 0
+D0
+You see a room of ice.
+~
+~
+0 -1 10473 0
+D1
+You see a freezer door.
+~
+door freezer~
+1 -1 10484 3
+D3
+You see a room of ice.
+~
+~
+0 -1 10482 0
+S
+#10484
+Meat Locker~
+You stand in a large meat locker.  Chunks of meat hang on the wall and
+larger corpses hang from steel hooks.  Frozen blood and other
+unrecognizable pieces are littered on the floor.  The meat locker
+continues to the north and east.  There is a freezer door to the west.
+~
+104 9 0 0 0 0
+D0
+You see more of the Meat locker
+~
+~
+0 -1 10474 0
+D1
+You see more of the Meat locker
+~
+~
+0 -1 10485 0
+D3
+You see a freezer door.
+~
+door freezer~
+1 -1 10483 3
+S
+#10485
+Meat Locker~
+Rows of beef and other meats hang from large steel hooks.  The meat
+locker continues to the north and west.    
+~
+104 9 0 0 0 0
+D0
+You see more of the Meat locker
+~
+~
+0 -1 10475 0
+D3
+You see more of the Meat locker
+~
+~
+0 -1 10484 0
+S
+#10486
+Penguin Room~
+This is what appears to be a replica of an iceberg.  Penguins waddle
+about the room pecking at many poor souls half trapped in the icy
+floor.  You seem to be outside, as the walls are painted to seem as if
+you are standing on a vast icy slab with nothing but ocean around you.
+The iceberg continues to the north and east.    
+~
+104 9 0 0 0 0
+D0
+You see lots and lots of ice.
+~
+~
+0 -1 10476 0
+D1
+You see lots and lots of ice.
+~
+~
+0 -1 10487 0
+S
+#10487
+Penguin Room~
+This is what appears to be a replica of an iceberg.  Penguins waddle
+about the room pecking at many poor souls half trapped in the icy
+floor.  You seem to be outside, as the walls are painted to seem as if
+you are standing on a vast icy slab with nothing but ocean around you.
+The iceberg continues to the north and west.  You can hear sounds of
+machinery to the east.    
+~
+104 9 0 0 0 0
+D0
+You see lots and lots of ice.
+~
+~
+0 -1 10477 0
+D1
+You see a dark passageway.
+~
+~
+0 -1 10488 0
+S
+#10488
+Ice-Creamery~
+You walk into part of an ice-cream factory.  Many different types of
+ice-cream and other deserts are made by these machines.  Above one of
+the machines a sign reads, 'Eye Splean I Screamery'.  The factory
+continues to the north and east.  You can hear sounds of penguins to
+the west.    
+~
+104 9 0 0 0 0
+D0
+You see lots of ice-cream machines.
+~
+~
+0 -1 10478 0
+D1
+You see lots of ice-cream machines.
+~
+~
+0 -1 10489 0
+D3
+You see a dark passageway.
+~
+~
+0 -1 10487 0
+S
+#10489
+Ice-Creamery~
+You stand amidst dozens of ice-cream machines.  Workers rush about for
+machine to machine, adjusting dials and checking gauges.  The factory
+continues to the north and west.    
+~
+104 9 0 0 0 0
+D0
+You see lots of ice-cream machines.
+~
+~
+0 -1 10479 0
+D3
+You see lots of ice-cream machines.
+~
+~
+0 -1 10488 0
+S
+#10490
+Marble Hall~
+You are walking down a white marble hallway.  Large portraits of
+demons and devils adorn the walls on either side of you.  As you look
+again you realize that they aren't demons and devils after all, but
+lawyers....  Well ok...  Depends on your point of view...  The hallway
+continues to the north.  There is an office to the south.    
+~
+104 9 0 0 0 0
+D0
+You see a white marble hallway.
+~
+~
+0 -1 10480 0
+D2
+You see an office.
+~
+~
+0 -1 10500 0
+S
+#10491
+Records Hall~
+This Hallway is actually an enourmous records library.  Millions of
+records are kept here detailing the status of peoples lives.  These
+are confidential files and only authorized personnel are allowed to
+view them.  The records room continues to the east.    
+~
+104 9 0 0 0 0
+D1
+You see rows and rows of records.
+~
+~
+0 -1 10492 0
+S
+#10492
+Records Hall~
+This Hallway is actually an enourmous records library.  Millions of
+records are kept here detailing the status of peoples lives.  These
+are confidential files and only authorized personnel are allowed to
+view them.  The records room continues to the east and west.  There is
+another hallway to the south.    
+~
+104 9 0 0 0 0
+D1
+You see rows and rows of records.
+~
+~
+0 -1 10493 0
+D2
+You see the Halls of Judgement.
+~
+~
+0 -1 10502 0
+D3
+You see rows and rows of records.
+~
+~
+0 -1 10491 0
+S
+#10493
+Records Hall~
+This Hallway is actually an enourmous records library.  Millions of
+records are kept here detailing the status of peoples lives.  These
+are confidential files and only authorized personnel are allowed to
+view them.  The records room continues to the east and west.    
+~
+104 9 0 0 0 0
+D1
+You see rows and rows of records.
+~
+~
+0 -1 10494 0
+D3
+You see rows and rows of records.
+~
+~
+0 -1 10492 0
+S
+#10494
+Records Hall~
+This Hallway is actually an enourmous records library.  Millions of
+records are kept here detailing the status of peoples lives.  These
+are confidential files and only authorized personnel are allowed to
+view them.  The records room continues to the west.    
+~
+104 9 0 0 0 0
+D3
+You see rows and rows of records.
+~
+~
+0 -1 10493 0
+S
+#10495
+Small Altar~
+This is the private prayer room of the high priest.  A small altar
+stands against the west wall.  Evil symbols and pictures are plastered
+everywhere.  The new propaganda posters for hell are posted behind the
+altar.  You see a blackened hall to the east.    
+~
+104 9 0 0 0 0
+D1
+You see a blackened hallway.
+~
+~
+0 -1 10496 0
+D6
+~
+~
+0 0 10589 16
+E
+poster~
+
+Don't go to heaven....They're boring....
+
+***GO TO HELL!!!****
+
+You'll be damned if you don't  ;)
+~
+S
+#10496
+Blackened Hall~
+This hall looks as if it was burned out recently.  The walls are
+charred and smoking.  Ashes and bits of burnt timber crunch under your
+feet as you walk down the hall.  A sign on the wall reads, 'No
+Non-smoking Please'.  The hall continues to the south.  There is a
+stone door to the east and a prayer room to the west.    
+~
+104 9 0 0 0 0
+D1
+You see a stone door.
+~
+door stone~
+1 -1 10497 3
+D2
+You see a blackened hall.
+~
+~
+0 -1 10506 0
+D3
+You see a prayer room.
+~
+~
+0 -1 10495 0
+S
+#10497
+Office of the High Priest~
+This is the office of the High Priest of Hell.  A black stone desk
+stands before you.  The office is lavishly furnished with gold, gems
+and many antiques.  A large portrait of a demons face is on the wall
+behind his desk.  You see a stone door to the west.    
+~
+104 9 0 0 0 0
+D3
+You see a stone door.
+~
+door stone~
+1 -1 10496 3
+S
+#10498
+Blackened Hall~
+This hall looks as if it was burned out recently.  The walls are
+charred and smoking.  Ashes and bits of burnt timber crunch under your
+feet as you walk down the hall.  A sign on the wall reads, 'No
+Non-smoking Please'.  The hall continues to the east and south.    
+~
+104 9 0 0 0 0
+D1
+You see a blackened hall.
+~
+~
+0 -1 10499 0
+D2
+You see a blackened hall.
+~
+~
+0 -1 10508 0
+S
+#10499
+Blackened Hall~
+This hall looks as if it was burned out recently.  The walls are
+charred and smoking.  Ashes and bits of burnt timber crunch under your
+feet as you walk down the hall.  A sign on the wall reads, 'No
+Non-smoking Please'.  The hall continues to the west.  A glass door is
+to the east.    
+~
+104 9 0 0 0 0
+D1
+You see a glass door.
+~
+door glass~
+1 -1 10500 3
+D3
+You see a blackened hall.
+~
+~
+0 -1 10498 0
+S
+$~

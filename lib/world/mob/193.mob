@@ -1,0 +1,584 @@
+#19301
+shaggy monk~
+the Shaggy Monk~
+A shaggy monk stands here quietly.
+~
+This man looks like an ordinary monk, except he is really quite a big
+fella, and seems to have a lot of very fine brown body hair, even on
+his palms..  *stare*
+~
+33589258 0 0 0 16 131072 0 0 600 E
+65 42 -40 1d1+500 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 10
+Str: 21
+Dex: 17
+Int: 24
+Wis: 7
+Con: 7
+Cha: 17
+Luck: 18
+Class: 13
+E
+#19302
+silver statue~
+the Silver Statue~
+A silver statue has posted itself in the corner.
+~
+Well, It doesn't APPEAR to be human.  It looks like a suit of armor,
+but why the heck did it just turn to look at you?    
+~
+2314 0 0 0 80 0 0 0 400 E
+70 47 -40 1d1+1000 6d6+46
+0 237528
+8 8 0
+BareHandAttack: 7
+Str: 10
+Dex: 8
+Wis: 20
+Con: 8
+Cha: 15
+Luck: 22
+E
+#19303
+templar~
+Templar of Mateon~
+Mateon's Templar is here, looking out the window.
+~
+This man has dedicated his life to Mateon, and the man behind the
+mask.  He turns from the window and stares at you blankly.    
+~
+624650 0 0 0 16 0 0 0 800 E
+75 51 -40 1d1+2000 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 24
+Int: 14
+Wis: 7
+Con: 14
+Cha: 16
+Luck: 21
+Class: 11
+E
+#19304
+mateon knight~
+Mateon the Grand Knight~
+Mateon, defender of the Bull, scowers at you!
+~
+Mateon is a HUGE man.  A huge ANGRY man.  He will NOT let you NEAR the
+man behind the mask.    
+~
+67176458 0 0 0 167772176 0 0 0 600 E
+107 85 -40 430d1+10 11d11+71
+2125 735926
+8 8 1
+BareHandAttack: 12
+Str: 8
+Dex: 9
+Int: 23
+Wis: 14
+Con: 7
+Cha: 13
+Luck: 20
+Class: 11
+E
+#19305
+chambermaid~
+the Chambermaid~
+A Chambermaid is here, desperately trying to straighten up.
+~
+The Chambermaid looks harried, and glances at you with fear in her
+eyes.    
+~
+10 0 0 0 0 0 0 0 100 E
+60 37 -36 100d1+10 5d6+40
+1000 160325
+8 8 2
+Str: 24
+Dex: 16
+Int: 19
+Con: 20
+Cha: 17
+Luck: 13
+Class: 15
+E
+#19306
+taurus~
+Taurus~
+A man wearing a golden mask watches you.
+~
+You look at this man, and then notice something funny.  It seems to be
+difficult for him to stand on two legs.  As you watch, he drops to all
+fours.  You see a glimpse of fur under his cloak.  He peels the mask
+off and you stare into his brown eyes, and big, wet, black nose.  
+"Nice nose ring", you think.    
+~
+563210 0 0 0 16 131072 0 0 800 E
+90 66 -40 1d1+2150 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 19
+Int: 24
+Wis: 19
+Luck: 15
+Class: 9
+E
+#19307
+acolyte~
+an Acolyte~
+An acolyte is here, looking for a broom.
+~
+The acolyte wanders around, looking for a broom.  He is making a
+heroic attempt to ignore you.    
+~
+204 0 0 0 16 0 0 0 600 E
+65 42 -40 1d1+500 6d6+43
+1125 196628
+8 8 1
+Str: 6
+Dex: 7
+Int: 24
+Wis: 24
+Con: 21
+Cha: 22
+Luck: 21
+Class: 7
+E
+#19308
+book~
+a Book~
+A book flys gently through the air here.
+~
+It is a large tome, surrounded with a magical aura.
+~
+10 0 0 0 8388608 0 0 0 0 E
+10 3 60 1d1+300 1d2+6
+0 1662
+8 8 0
+Str: 20
+Dex: 22
+Int: 17
+Wis: 24
+Con: 17
+Cha: 15
+Luck: 25
+E
+#19309
+ruler~
+a Ruler~
+A ruler walks around.
+~
+It is a large ruler, surrounded with a magical aura!
+~
+10 0 0 0 0 0 0 0 0 E
+13 7 4 1d1+350 6d1+13
+0 3245
+8 8 0
+Str: 18
+Int: 19
+Wis: 12
+Con: 14
+Cha: 23
+Luck: 16
+E
+#19310
+pencil~
+a Pencil~
+A pencil flies around, looking for something to write on.
+~
+A large pencil, surrounded with a magical aura, floats here.
+~
+10 0 0 0 8388608 0 0 0 0 E
+14 6 4 1d1+400 6d1+14
+0 3920
+8 8 0
+Str: 12
+Dex: 23
+Int: 15
+Wis: 14
+Con: 25
+Cha: 20
+Luck: 9
+E
+#19311
+gargoyle~
+a Gargoyle~
+A gargoyle has been erected here.
+~
+Carved from stone, the gargoyle is a protector of the good.
+~
+35082 0 0 0 33562704 0 0 0 700 E
+96 73 -40 1d1+2700 6d8+64
+0 531505
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 14
+Int: 9
+Wis: 9
+Con: 5
+Luck: 7
+Class: 15
+E
+#19312
+acolyte black~
+a Dark Acoylyte~
+An acolyte, dressed all in black, stands here.
+~
+The dark acoylte serves the dark powers who have their influence in
+Vernige.    
+~
+71690 0 0 0 16400 0 0 0 -700 E
+97 74 -40 1d1+2750 6d8+64
+1875 545738
+8 8 0
+BareHandAttack: 1
+Str: 9
+Dex: 6
+Int: 12
+Wis: 7
+Con: 6
+Cha: 9
+Luck: 14
+Class: 7
+E
+#19313
+templar darkness eternal~
+a Templar of Eternal Darkness~
+A templar of eternal darkness stands here.
+~
+This man has dedicated his life to the pursuit of eternal darkness.  
+He stares at you with a blank eye.    
+~
+33593354 0 0 0 67108880 0 0 0 -800 E
+98 75 -40 1d1+2800 6d8+65
+1900 588208
+8 8 0
+BareHandAttack: 3
+Str: 20
+Dex: 20
+Int: 21
+Wis: 21
+Con: 16
+Cha: 15
+Luck: 22
+Class: 14
+E
+#19314
+Miranda arch cleric eternal darkness~
+Miranda~
+Miranda, Arch-Cleric of Eternal Darkness stands here.
+~
+You stand before a lovely twenty-something woman dressed in black
+clerical robes.    
+~
+34117642 0 0 0 67108880 131072 0 0 -1000 E
+103 80 -40 1d1+5000 10d10+68
+2025 667790
+8 8 2
+BareHandAttack: 16
+Str: 19
+Dex: 20
+Int: 19
+Wis: 5
+Con: 12
+Cha: 9
+Luck: 13
+Class: 7
+E
+#19315
+monk eternal darkness~
+a Monk of Eternal Darkness~
+A monk of eternal darkness stands here.
+~
+The monk is a plain man with the amazing powers of the Eternal
+Darkness at his call and disposal.    
+~
+591882 0 0 0 80 163840 0 0 -1000 E
+95 72 -40 1d1+2800 6d8+63
+1825 517501
+8 8 0
+BareHandAttack: 12
+Str: 5
+Dex: 24
+Int: 25
+Con: 5
+Cha: 25
+Luck: 9
+Class: 13
+E
+#19316
+monk serene~
+a Serene Monk~
+A serene monk stands here, mumbling.
+~
+He mumbles over and over, "When I catch that stupid seagull...."
+~
+8388618 0 0 0 16 0 0 0 0 E
+70 47 -40 1d1+500 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 13
+Str: 17
+Dex: 14
+Int: 25
+Wis: 16
+Con: 9
+Cha: 22
+Luck: 19
+Class: 13
+E
+#19317
+monk young~
+a young Monk~
+A young light monk is here, banging his head against the wall.
+~
+He looks up at you and implores, "Do you know where the key is?  "
+~
+138 0 0 0 16 0 0 0 0 E
+70 47 -40 1d1+2250 6d6+46
+1150 237528
+8 8 0
+Str: 15
+Dex: 6
+Int: 17
+Wis: 7
+Con: 16
+Cha: 16
+Luck: 14
+Class: 13
+E
+#19318
+monk apprentice~
+a Lotus Apprentice~
+A lotus apprentice stands here, sweeping.
+~
+Calm and serene, the apprentice is focused on completing her task and
+achieving inner harmony while at it.    
+~
+6154 0 0 0 16 0 0 0 500 E
+66 43 -40 1d1+600 6d6+44
+1150 204434
+8 8 2
+BareHandAttack: 7
+Str: 10
+Dex: 9
+Int: 20
+Wis: 19
+Con: 15
+Cha: 12
+Luck: 21
+Class: 13
+E
+#19319
+monk lotus~
+a Lotus Monk~
+A lotus monk stands here.
+~
+He is oblivious to everything happening around him.
+~
+526346 0 0 0 33554448 0 0 0 800 E
+85 61 -40 1d1+600 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 10
+Str: 13
+Int: 20
+Wis: 23
+Con: 8
+Cha: 25
+Luck: 24
+Class: 13
+E
+#19320
+bee lotus~
+a Lotus Bee~
+A lotus bee is here, looking for a lotus.
+~
+It is entirely white, and makes a load droning noise during flight.
+~
+72 0 0 0 8388608 0 0 0 0 E
+5 1 80 1d1+600 1d2+3
+0 283
+8 8 0
+Str: 21
+Dex: 14
+Int: 12
+Wis: 18
+Con: 13
+Cha: 9
+Luck: 16
+Class: 15
+E
+#19321
+Ubli master lotus~
+Ubli~
+Ubli, the Master of the Lotus, stands here.
+~
+Plain and simple, he is truly a Master of his art!
+~
+38922 0 0 0 16 163840 0 0 0 E
+115 94 -40 1d1+1000 13d13+76
+2325 842356
+8 8 1
+BareHandAttack: 9
+Str: 18
+Int: 12
+Wis: 5
+Con: 18
+Cha: 6
+Luck: 24
+Class: 13
+E
+#19322
+Ulao lotus master~
+Ulao~
+Ulao, the Master of the Lotus, stands here.
+~
+Plain and simple, he is truly the master of his art!
+~
+38922 0 0 0 16 163840 0 0 0 E
+115 94 -40 1d1+900 13d13+76
+2325 842356
+8 8 1
+BareHandAttack: 6
+Str: 18
+Dex: 21
+Int: 14
+Wis: 10
+Con: 24
+Cha: 8
+Luck: 15
+Class: 13
+E
+#19323
+Onas master lotus~
+Onas~
+Onas, the Master of the Toad, stands here.
+~
+No one is quite sure what the duties of the Master of the Toad is,
+however, no one can deny that she is the ultimate fighting machine.  
+~
+628746 0 0 0 16 163840 0 0 0 E
+115 94 -40 1d1+700 13d13+76
+2325 842356
+8 8 2
+BareHandAttack: 12
+Str: 10
+Dex: 13
+Int: 19
+Wis: 10
+Cha: 15
+Luck: 20
+Class: 13
+E
+#19324
+monk light oofga~
+a Light Monk~
+A light monk stands here.
+~
+He is involved in doing nothing but goodness among others.    
+~
+6154 0 0 0 16 0 0 0 1000 E
+87 63 -40 1d1+2525 6d7+58
+1575 413514
+8 8 0
+BareHandAttack: 1
+Str: 12
+Dex: 20
+Int: 7
+Wis: 21
+Con: 24
+Cha: 13
+Luck: 24
+Class: 13
+E
+#19325
+light apprentice~
+a Light Apprentice~
+A light apprentice is here, cleaning up.
+~
+He is busy, trying to achieve a promotion among ranks.
+~
+34826 0 0 0 16 0 0 0 0 E
+70 47 -40 1d1+2525 6d6+46
+1150 237528
+8 8 0
+Str: 21
+Dex: 6
+Int: 16
+Wis: 13
+Con: 17
+Cha: 23
+Luck: 14
+Class: 2
+E
+#19326
+jonathan master light order~
+Jonathan~
+Jonathan, the Master of the Light, stands here.
+~
+Large and powerfully built, Jonathan is also lithe and limber.  
+Blazing white hair and piercing blue eyes indicate that he is far
+older than he seems.    
+~
+100362 0 0 0 262160 131072 0 0 0 E
+135 117 -60 1d1+5000 16d17+90
+2500 1394633
+8 8 0
+BareHandAttack: 15
+Str: 17
+Dex: 21
+Int: 16
+Wis: 12
+Con: 7
+Cha: 15
+Luck: 9
+Class: 6
+E
+#19327
+eyes guardian temple red~
+the Temple Guardian~
+A set of slanted red eyes stares at you from the inky black morass.
+~
+You can't see anything but the glowing red eyes...
+~
+2062 0 0 0 2128 2 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 8
+Int: 9
+Wis: 9
+Con: 10
+Cha: 9
+Class: 15
+E
+#19334
+construction worker man dwarf~
+a Worker~
+A dwarf hired to clear the rubble labors in the dust.
+~
+He appears quite content down here in the dusty air, no trace of
+irritation from all the debris in the air at all.    
+~
+10 0 0 0 0 0 0 0 200 E
+60 37 -36 1d1+0 5d6+40
+1000 160325
+8 8 1
+Str: 15
+Dex: 14
+Int: 15
+Wis: 5
+Con: 22
+Cha: 23
+Class: 15
+E
+$

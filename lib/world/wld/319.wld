@@ -1,0 +1,1149 @@
+#31900
+Hallway to Rooms~
+This is the hallway leading to the meditation chambers.  To the north
+you see a meditation chamber, to the west you see the dining hall, and
+to the east the hallway continues.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31901 0
+D1
+~
+~
+0 0 31902 0
+D3
+~
+~
+0 0 31898 0
+S
+#31901
+Meditation Chamber~
+These were formally used as places for clerics to pray to the gentle
+Kerim, but now that use is long forgotten.  Now each contains only a
+simple reed prayer mat.  South leads back to the hall.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31900 0
+S
+#31902
+Hallway to Rooms~
+This is the hallway leading to the meditation chambers.  To the north
+you see a chamber and the hallway leads east and west.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31903 0
+D1
+~
+~
+0 0 31904 0
+D3
+~
+~
+0 0 31900 0
+S
+#31903
+Meditation Chamber~
+These were formally used as places for clerics to pray to the gentle
+Kerim, but now that use is long forgotten.  Now each contains only a
+simple reed prayer mat.  South leads back to the hall.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31902 0
+S
+#31904
+Hallway to Rooms~
+This is the hallway leading to the meditation chambers.  To the north
+you see a chamber and the hallway continues east and west.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31905 0
+D1
+~
+~
+0 0 31906 0
+D3
+~
+~
+0 0 31902 0
+S
+#31905
+Meditation Chamber~
+These were formally used as places for clerics to pray to the gentle
+Kerim, but now that use is long forgotten.  Now each contains only a
+simple reed prayer mat.  South leads back to the hall.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31904 0
+S
+#31906
+Hallway to Rooms~
+This is the hallway leading to the meditation chambers.  To the north
+you see a chamber and the hallway continues east and west.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31907 0
+D1
+~
+~
+0 0 31908 0
+D3
+~
+~
+0 0 31904 0
+S
+#31907
+Meditation Chamber~
+These were formally used as places for clerics to pray to the gentle
+Kerim, but now that use is long forgotten.  Now each contains only a
+simple reed prayer mat.  South leads back to the hall.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31906 0
+S
+#31908
+Hallway of Rooms~
+This is the hallway leading to the meditation chambers.  To the north
+you see a chamber and the hallway continues to the east and west.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31909 0
+D1
+~
+~
+0 0 31910 0
+D3
+~
+~
+0 0 31906 0
+S
+#31909
+Meditation Chamber~
+These were formally used as places for clerics to pray to the gentle
+Kerim, but now that use is long forgotten.  Now each contains only a
+simple reed prayer mat.  South leads back to the hall.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31908 0
+S
+#31910
+End of the Hallway~
+This is the end of the hallway leading to the meditation chambers.  
+To the north you see a staircase and the hallway continues back to the
+east.  Down takes you to the dungeon.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31911 0
+D3
+~
+~
+0 0 31908 0
+D5
+~
+~
+0 0 31921 0
+S
+#31911
+Staircase Up~
+This is the staircase leading up to the second floor of the temple to
+the south you see the hallway leading to the meditation chambers.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31910 0
+D4
+~
+~
+0 0 31912 0
+S
+#31912
+Top of the Stairs~
+You are at the top of the stairs leading to the second floor of the
+temple.  Going down will take you back to the main floor and south
+will take you to the torture chamber.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31913 0
+D5
+~
+~
+0 0 31911 0
+S
+#31913
+Torture Chamber~
+A rack and a table with heavy straps attached to it occupy the center
+of the room, and and iron maiden stands in the corner.  Several empty
+pine boxes, about 6x2x3, are stacked against the west wall.  North
+leads back to the staircase and south leads to the antechamber.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31912 0
+D2
+~
+~
+0 0 31914 0
+S
+#31914
+Antechamber~
+The walls of this chamber are scratched, stained, and covered with
+strange markings.  Loose chips of stone lie scattered on the floor.  
+North leads back to the torture chamber and east leads to Omarba's
+chambers.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31913 0
+D1
+~
+~
+0 0 31915 0
+S
+#31915
+Omarba's Chamber~
+This room is decorated in a bizarre fashion.  There is a dirty straw
+pallet on the floor, yet two soft and expensive armchairs rest at a
+low table.  West leads back to the antechamber, north leads to the
+goblins quarters, and east leads to the altar room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31916 0
+D1
+~
+~
+0 0 31917 0
+D3
+~
+~
+0 0 31914 0
+S
+#31916
+Goblin Quarters~
+This room is barren, except for nine straw mats and a low, crudely
+built table.  South leads back to Omarba's chamber.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31915 0
+S
+#31917
+Altar Room~
+The large room is dirty and unkempt, with shards of rock lying around
+four crude granite statues standing about the room in haphazard
+locations.  West leads back to the goblin quarters and north leads to
+the library.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31918 0
+D3
+~
+~
+0 0 31915 0
+S
+#31918
+Library~
+This room contains many shelves of books and two small tables.  North
+leads to the guardroom, south leads back to the altar room and west
+leads to a small room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31919 0
+D2
+~
+~
+0 0 31917 0
+D3
+~
+~
+0 0 31920 0
+S
+#31919
+Guardroom of the Undead~
+This bare room contains only some wooden benches.  To the south you
+see the library.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31918 0
+S
+#31920
+Small Meeting Room~
+This chamber contains a small table and two comfortable chairs.  East
+leads back to the library.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31918 0
+S
+#31921
+Stairs to Dungeon~
+These or the stairs leading to the first floor of the dungeon.  The
+stairs are quite slick, so you had better be careful or you might slip
+and fall.    
+~
+319 12 0 0 0 1
+D4
+~
+~
+0 0 31910 0
+D5
+~
+~
+0 0 31922 0
+S
+#31922
+Entry Room~
+This is the entrance room to the dungeon.  To the east you see a
+hallway, to the west you see a room, and to the south you see another
+room.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31927 0
+D2
+~
+~
+0 0 31936 0
+D3
+~
+~
+0 0 31923 0
+D4
+~
+~
+0 0 31921 0
+S
+#31923
+Chamber of the Frogs~
+This room is almost totally filled with a murky brown pool of water.
+The smell of swamp gas is very strong here.  A thick, slime-covered
+column rises from the center of the pool to support the sagging
+timbers of the ceiling.  To the south you see a room and to the east
+you see the entrance room.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31922 0
+D2
+~
+~
+0 0 31924 0
+S
+#31924
+Cult Treasure Chamber~
+The ceiling of this chamber is eight foot from the floor.  A five foot
+by five foot wooden platform extends across the muddy floor.  To the
+north you see the chamber and to the south you see a cave-in.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31923 0
+D2
+~
+~
+0 0 31925 0
+S
+#31925
+Cave-In~
+The west wall of this tunnel has collapsed here, burying the
+supporting timbers under tons of mud.  The widened cavern has a layer
+of mud atleast three feet deep over the entire floor.  To the north
+you see the treasure chamber and to the south you see a pool.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31924 0
+D2
+~
+~
+0 0 31926 0
+S
+#31926
+Burial Pool~
+The pool here has been the final resting spot for many a skeleton,
+after the slimy creatures of the lower level have picked it clean.  
+Two mossy columns support a low ceiling.  The floor is entirely
+covered with clear water, sloping to a depth of six feet in the
+center.  To the north you see the cave in.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31925 0
+S
+#31927
+Hallway~
+This is the hallway leading to the cult members rooms.  To the north
+and south you see rooms.  To the east the hallway continues, and to
+the west you see the entry room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31928 0
+D1
+~
+~
+0 0 31930 0
+D2
+~
+~
+0 0 31929 0
+D3
+~
+~
+0 0 31922 0
+S
+#31928
+Green Slime's Room~
+There nothing in this room.  Nothing at all.  Just four walls a
+ceiling and a floor.  South leads back to the hallway.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31927 0
+S
+#31929
+Cult Member's Room~
+This room is sparsely furnished, in fact it is not really furnished at
+all.  All that is here is one wooden bunk.  North leads back to the
+hallway.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31927 0
+S
+#31930
+Hallway~
+This is the hallway that leads to the cult members rooms.  To the
+north and south you see rooms and the hallway continues east and west.
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31931 0
+D1
+~
+~
+0 0 31933 0
+D2
+~
+~
+0 0 31932 0
+D3
+~
+~
+0 0 31927 0
+S
+#31931
+Cult Member's Room~
+This room is sparsely furnished, in fact it is not really furnished at
+all.  All you see is one wooden bunk.  South leads back to the
+hallway.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31930 0
+S
+#31932
+Cult Member's Room~
+This room is sparsely furnished, in fact it is not really furnished at
+all.  All you see is one wooden bunk.  North leads back to the
+hallway.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31930 0
+S
+#31933
+Hallway~
+This is the hallway leading to the cult members rooms.  To the north
+and south you see rooms.  The hallway continues west.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31934 0
+D2
+~
+~
+0 0 31935 0
+D3
+~
+~
+0 0 31930 0
+S
+#31934
+Cult Member's Room~
+This room is sparsley furnished, in fact it is not really furnished at
+all.  To the south you see the hallway.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31933 0
+S
+#31935
+Cult Member's Room~
+This room is sparsley furnished, in fact it is not really furnished at
+all.  To the north you see the hallway.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31933 0
+S
+#31936
+Storage Room~
+This room contains several large crates.  They probably store the food
+for the prisoners.  To the north you see the entry room, to the east
+you see an empty room and to the south you see a room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31922 0
+D1
+~
+~
+0 0 31947 0
+D2
+~
+~
+0 0 31937 0
+S
+#31937
+Lieutenant's Quarters~
+This room is nicely furnished.  It contains two nice feather beds, a
+large desk and a chair.  Along one wall is a large fireplace.  To the
+north you see the storage room, to the south you see a pool, and to
+the west you see another room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31936 0
+D2
+~
+~
+0 0 31940 0
+D3
+~
+~
+0 0 31938 0
+S
+#31938
+Lieutenant's Quarters~
+This room is nicely furnished.  It contains two nice feather beds, a
+large desk and a chair.  Along one wall is a large fireplace.  To the
+east and west you see rooms like this.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31937 0
+D3
+~
+~
+0 0 31939 0
+S
+#31939
+Lieutenant's Quarter's~
+This room is nicely furnished.  It contains two nice feather beds, a
+large desk and a chair.  Along one wall is a large fireplace.  To the
+east you see a room exactly like this.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 30300 16
+D1
+~
+~
+0 0 31938 0
+S
+#31940
+Crocodile Pool~
+The corridors leading to this room simly end at the water's edge.  
+While very shallow around is perimeter, the pool reaches a depth of
+four feet in the center.  To the north you see the lieutenant's
+quarters and to the south you see a large room.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31937 0
+D2
+~
+~
+0 0 31941 0
+S
+#31941
+Den of the Giant Weasel~
+This room like most of the dungeon caked with mud.  The mud on the
+floor is about three foot deep.  There are holes all over the place.
+Obviously something has been burrying here.  To the north you see the
+crocodile pool and to the south you see a corridor.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31940 0
+D2
+~
+~
+0 0 31942 0
+S
+#31942
+Corridor~
+This is the corridor leading to the guardrooms.  You sure you want to
+continue?  To the north you see the weasel's lair and to the east you
+see a guardroom.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31941 0
+D1
+~
+~
+0 0 31943 0
+S
+#31943
+Troglodyte Guardroom~
+There is not much in this room.  Just a plain wooden desk and a few
+chairs.  To the east you see another guardroom and to the west you see
+the corridor.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31944 0
+D3
+~
+~
+0 0 31942 0
+S
+#31944
+Troglodyte Guardroom~
+There is not much in this room.  Just a plain wooden desk and a few
+chairs.  To the east and west you see guardrooms.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31945 0
+D3
+~
+~
+0 0 31943 0
+S
+#31945
+Troglodyte Guardroom~
+There is not much in this room.  Just a plain wooden desk and a few
+chairs.  To the south you see a set of stairs and to the west you see
+one of the gaurdrooms.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31946 0
+D3
+~
+~
+0 0 31944 0
+S
+#31946
+Stairs Down~
+These are stairs leading to the lower part of the dungeon.  North you
+see a guardroom and down you see the bottom of the staircase.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31945 0
+D5
+~
+~
+0 0 31953 0
+S
+#31947
+Empty Room~
+As the name states, this is an empty room.  To the east you see
+another empty room, to the south you see the storage room and to the
+west you see an empty pool.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31948 0
+D2
+~
+~
+0 0 31950 0
+D3
+~
+~
+0 0 31936 0
+S
+#31948
+Empty Room~
+As the name states, this is an empty room.  To the south you see the
+wine storages and to the west you see the other empty room.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31949 0
+D3
+~
+~
+0 0 31947 0
+S
+#31949
+Wine Storage~
+The room has nothing in it except kegs for beer and casks for wine.  
+To the north you see an empty room, to the south you see an arched
+entrance, and to the west you see an empty pool.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31948 0
+D2
+~
+~
+0 0 31951 0
+D3
+~
+~
+0 0 31950 0
+S
+#31950
+Empty Pool~
+This shallow pool of clear, still water was revealed when a section of
+the tunnel wall caved in.  To the north you see you see an empty room
+and to the east you see wine storage.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31947 0
+D1
+~
+~
+0 0 31949 0
+S
+#31951
+Arched Chamber~
+This room stands about twenty-five foot tall.  Four large columns
+support the ceiling.  To the north you see an empty room and to the
+south you see the den of the harpy.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31949 0
+D2
+~
+~
+0 0 31952 0
+S
+#31952
+Den of the Harpy~
+Just like the arched chamber, this room stands about twenty-five foot
+tall.  It also has four columns, but this time they are connected to
+each other to make perches.  To the north you see the arched entrance.
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31951 0
+S
+#31953
+Bottom of the Staircase~
+This is the bottom of the staircase leading to the lower level of the
+dungeon.  To the north you see a mud cavern and up you see the top of
+the staircase.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31954 0
+D4
+~
+~
+0 0 31946 0
+S
+#31954
+Mud Cavern~
+Two large columns support the roof in this large room and the floor is
+covered in mud.  To the east you see another treasure room.  To the
+south you see a spider's lair, and to the north you see a giant
+centipede colony.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31957 0
+D1
+~
+~
+0 0 31956 0
+D2
+~
+~
+0 0 31953 0
+D3
+~
+~
+0 0 31955 0
+S
+#31955
+Huge Spider's Lair~
+This appears at first glance to be nothing more than empty,
+dirt-walled room.  You wil find out otherwise soon.  To the north you
+see an empty cave and to the east you see the mud cavern.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31958 0
+D1
+~
+~
+0 0 31954 0
+S
+#31956
+Second Treasure Room~
+This large room is filled with a pool of murky brown water.  Oh well,
+so much for getting that treasure.  To the south you see the chamber
+of the dead and to the west you see the mud cavern.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31969 0
+D3
+~
+~
+0 0 31954 0
+S
+#31957
+Giant Centipede Colony~
+There is nothing of interest in this room.  All you see is mud.  To
+the south you see the mud cavern.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31954 0
+S
+#31958
+Empty Cave~
+The walls of this cave drip and glisten with moisture, but the area is
+apparently empty.  To the north you see another empty cave and to the
+south you see the huge spider lair.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31959 0
+D2
+~
+~
+0 0 31955 0
+S
+#31959
+Empty Cave~
+The walls of this cave drip and glisten with moisture, but the area is
+apparently empty.  To the north you see a troglodyte lair and to the
+south you see the other empty cave.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31960 0
+D2
+~
+~
+0 0 31958 0
+S
+#31960
+Troglodyte Lair~
+The room is decorated with a few crude wooden furnishings.  To the
+east you see the troglodyte hatchery and to the south you see and
+empty cave.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31961 0
+D2
+~
+~
+0 0 31959 0
+S
+#31961
+Troglodyte Hatchery~
+This chamber contains nearly one thousand troglodyte eggs, with a few
+of them beginning to crack open.  None of the little monsters has
+totally emerged from its shell yet, but obviously they will be
+swarming forth in a short time.  To the west you see the troglodyte
+lair and to the north you see the mudviper hatchery.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31962 0
+D3
+~
+~
+0 0 31960 0
+S
+#31962
+Mudviper Hatchery~
+This room contains several thousand poisonous snake eggs, and quite a
+few of these have broken to reveal their squiggly contents.  To the
+north you see bonesnapper's lair and to the south you see the
+troglodyte hatchery.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31963 0
+D2
+~
+~
+0 0 31961 0
+S
+#31963
+Bonesnapper's Lair~
+Several disturbingly human bones are scattered about, and fout jaw
+bones have been driven into the dirt walls of the chamber.  To the
+east you see the throne room and to the south you see the mudviper
+hatchery.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31964 0
+D2
+~
+~
+0 0 31962 0
+S
+#31964
+Throne Room~
+This room is lit by a ghostly green gloem emanating from the eight
+columns supporting the vaulted ceiling.  To the west you see the
+bonesnapper's lair and to the south you see the altar of evil.    
+~
+319 65740 0 0 0 1
+D2
+~
+~
+0 0 31965 0
+D3
+~
+~
+0 0 31963 0
+S
+#31965
+Altar of Evil~
+This is a long room whose walls are covered by wooden panels.  At the
+far end is a raised wooden dais with an altar supporting a statue of
+the reptile god.  To the west you see a mud trap and to the south you
+see the zombie factory.    
+~
+319 12 0 0 0 1
+D2
+~
+~
+0 0 31967 0
+D3
+~
+~
+0 0 31966 0
+S
+#31966
+Mud Trap~
+This is a dank and dingy chamber containing nothing but a raised
+wooden platform.  To the east you see the altar of evil and to the
+south you see the cells of the damned.    
+~
+319 12 0 0 0 1
+D1
+~
+~
+0 0 31965 0
+D2
+~
+~
+0 0 31968 0
+S
+#31967
+Zombie Factory~
+This room is bare, except for five wooden benches about three foot off
+the floor.  To the north you see the altar of evil, to the south you
+see the chamber of the dead, and to the west you see the cells of the
+damned.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31965 0
+D2
+~
+~
+0 0 31969 0
+D3
+~
+~
+0 0 31968 0
+S
+#31968
+Cells of the Damned~
+There is nothing in this room but a small wooden bench.  This is what
+the prisoners must sleep on.  To the north you see the mud trap and to
+the east you see the chamber of the dead.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31966 0
+D1
+~
+~
+0 0 31967 0
+S
+#31969
+Chamber of the Dead~
+There are no furnishings in this room.  None at all.  To the north you
+see the zombie factory and to the south you see the second treasure
+chamber.    
+~
+319 12 0 0 0 1
+D0
+~
+~
+0 0 31967 0
+D2
+~
+~
+0 0 31956 0
+S
+#31977
+Teleporter Place~
+This will be the teleport place - NOT.
+~
+319 0 0 0 0 0
+S
+$~

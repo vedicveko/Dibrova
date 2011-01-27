@@ -1,0 +1,144 @@
+CircleMUD v3.0 Shop File~
+#2600~
+2631
+2632
+2607
+2633
+-1
+1.40
+1.10
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s boot staff container~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+2644
+0
+2653
+2602
+2603
+2604
+2600
+2605
+-1
+0
+28
+0
+0
+#2601~
+2601
+2602
+2603
+2604
+2605
+2606
+-1
+1.28
+1.10
+19bread rye way loaf
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+2626
+0
+2656
+-1
+0
+28
+0
+0
+#2602~
+2620
+2619
+2621
+-1
+1.28
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+2602
+0
+2654
+-1
+0
+28
+0
+0
+#2603~
+2612
+2615
+2616
+2617
+2600
+2622
+-1
+1.28
+1.10
+5
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+2628
+0
+2658
+-1
+0
+28
+0
+0
+#2604~
+2608
+2609
+2610
+2611
+2613
+2614
+-1
+1.50
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+2629
+0
+2659
+-1
+0
+28
+0
+0
+$~

@@ -1,0 +1,591 @@
+#11100
+sword StormShadow~
+/cwStorm /cLShadow/c0~
+/cwA MASSIVE sword lies here, gleaming sharply in the light./c0~
+~
+5 684033 0 0 0 8193 0 0 0
+0 0 0 10 0 0 0 0
+12 21200 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 3
+A
+3 -2
+A
+13 20
+A
+2 -1
+#11101
+shield stormshield~
+/cLStorm /cwShield/c0~
+/cwA powerful shield lies here, glowing and humming./c0~
+~
+9 684035 0 0 0 513 0 0 0
+14 0 0 0 0 0 0 0
+11 22000 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 2
+A
+1 1
+A
+13 -30
+A
+25 -1
+#11102
+sceptre swordancers~
+/cwthe /cbSceptre /cwof the /cbSwordancers/c0~
+/cwThe /cbSceptre /cwof the /cbSwordancers /cwlies here./c0~
+~
+9 159746 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+8 18000 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+13 25
+A
+19 3
+A
+17 6
+A
+2 -1
+#11103
+torch platinum~
+/cwa /cCplatinum/cw torch/c0~
+/cwA torch fashioned from platinum lies here./c0~
+~
+1 684034 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+6 5200 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+A
+25 1
+A
+3 -1
+A
+13 -15
+#11104
+ring judgement~
+/cwthe /ccRing /cwof /ccJudgement/c0~
+/cwA massive ring of /cccrystal /cwlies here./c0~
+~
+11 1454082 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+3 16800 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+4 2
+A
+19 1
+A
+25 -2
+A
+17 -2
+#11105
+chain jade~
+/cwa /cGjade /cwchain/c0~
+/cwA chain made from the purest /cGgreen jade /cwlies here./c0~
+~
+11 1 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+2 11220 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+A
+25 1
+A
+1 -1
+A
+13 30
+#11106
+jerkin dragon hide~
+/cwa jerkin of /cgdragon hide/c0~
+/cwA jerkin made from strange leather lies here./c0~
+~
+9 0 0 0 0 9 0 0 0
+7 0 0 0 0 0 0 0
+5 9746 0 34 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+#11107
+skull chimera~
+/cwa chimera's skull/c0~
+/cwThe skull of a strange animal lies here./c0~
+~
+9 0 0 0 0 17 0 0 0
+10 0 0 0 0 0 0 0
+6 15193 0 53 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 20
+A
+19 3
+A
+5 -1
+#11108
+leggings dragon hide~
+/cwsome leggings of /cgdragon hide/c0~
+/cwSome leggings made from strange leather lie here./c0~
+~
+9 0 0 0 0 33 0 0 0
+8 0 0 0 0 0 0 0
+6 17312 0 53 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+2 2
+A
+18 2
+A
+13 -30
+A
+4 -1
+#11109
+boots crushing~
+/cwthe /cLBoots /cwof /cLCrushing/c0~
+/cwA heavy set of boots lie here./c0~
+~
+9 0 0 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+11 13866 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+14 30
+A
+19 2
+A
+3 -2
+#11110
+gauntlets gripping~
+/cwthe /cWGauntlets/cw of /cWGripping/c0~
+/cwA strong set of gauntlets lie here, ready to be used./c0~
+~
+9 12288 0 0 0 129 0 0 0
+6 0 0 0 0 0 0 0
+7 18020 0 53 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+19 2
+A
+18 1
+A
+2 1
+A
+13 -20
+A
+25 -1
+#11111
+jade armplates dragonscale~
+/cwsome /cGjade/cg dragonscale/cw armplates/c0~
+/cwA set of /cGgreen /cgdragonscale /cwarmplates lies here./c0~
+~
+9 0 0 0 0 257 0 0 0
+8 0 0 0 0 0 0 0
+7 17680 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+3 2
+A
+19 2
+A
+13 -30
+#11112
+cloak desertbeest leather~
+/cwa cloak of /cydesertbeest leather/c0~
+/cwA long cloak of rare /cyleather/cw lies here./c0~
+~
+9 12290 0 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+7 17313 0 53 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+A
+24 -4
+A
+18 3
+#11113
+girth unicorn leather~
+/cwa girth of/cW unicorn leather/c0~
+/cwA strange white girth lies here./c0~
+~
+9 1049088 0 0 0 2049 0 0 0
+6 0 0 0 0 0 0 0
+6 14560 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 30
+A
+14 30
+A
+3 2
+#11114
+bracer warbracer sagittarius coda~
+/cwthe /cGWarbracer /cwof the /cGSagittarius Coda/c0~
+/cwA strange bracer hums quietly here./c0~
+~
+9 684032 0 0 0 4097 0 0 0
+6 0 0 0 0 0 0 0
+5 17200 0 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 3
+A
+1 1
+A
+13 -30
+A
+2 -2
+#11115
+hydra horn~
+/cwa hydra's horn/c0~
+/cwA large /cLebony horn /cwlies here./c0~
+~
+12 1 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+13 0 0 111 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 3
+A
+26 2
+A
+2 -3
+A
+13 -35
+#11116
+qwerty~
+the Armour of Fire~
+Something strange lies here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 -25
+A
+13 24
+A
+14 24
+A
+12 24
+#11117
+apron firemesh~
+/cwa firemesh apron/c0~
+/cwAn apron of fireproof material lies here./c0~
+~
+11 0 0 0 0 2049 0 0 0
+0 0 0 0 0 0 0 0
+4 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+24 -1
+#11118
+hammer tempering~
+/cwa tempering hammer/c0~
+/cwA large blacksmith's hammer lies here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+14 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11119
+longsword sword swordancer's~
+/cwa standard Swordancer's sword/c0~
+/cwA sturdy longsword lies here./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 8586 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 2
+#11120
+sword common swordancer's~
+/cwa common Swordancer's sword/c0~
+/cwA plain, yet sharp sword lies here./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11121
+dagger assassination~
+/cwthe /cRDagger /cwof /cRAssassination/c0~
+/cwA wicked-looking dagger lies here./c0~
+~
+5 1716737 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 21652 0 56 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 4
+A
+13 -35
+A
+3 -2
+#11122
+gloves emerald dragon scale~
+/cwa pair of /cGemerald /cgdragonscale/cw gloves/c0~
+/cwA pair of gloves lie here, made from /cggreen scales./c0~
+~
+9 536577 0 0 0 129 0 0 0
+6 0 0 0 0 0 0 0
+4 7000 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 1
+#11123
+sword chinese jade sword slim~
+/cwa slim sword of /cGjade/c0~
+/cwA slim sword lies here, crafted from /cGpure jade./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+5 17400 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 2
+A
+13 10
+A
+2 2
+A
+1 -2
+#11124
+shield destiny tiger~
+/cwthe /cyDestiny Shield /cwof the /cyTiger/c0~
+/cwA large shield lies here, with a /cytiger emblem /cwengraved into it./c0~
+~
+9 12289 0 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+9 14666 0 44 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+1 1
+A
+2 1
+#11125
+torch rabbit~
+/cwthe /cWTorch /cwof the /cWRabbit/c0~
+/cwA bright torch with the crest of a rabbit lies here./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+3 2079 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+13 20
+#11126
+carton soy bean milk~
+a carton of soy bean milk~
+A carton of white liquid lies here.~
+~
+17 0 0 0 0 1 0 0 0
+7 7 10 0 0 0 0 0
+12 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11127
+sword ravenwing~
+/cLRavenwing/c0~
+/cwA sword with the emblem of a raven lies here./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+6 12100 0 33 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 1
+A
+3 -1
+A
+13 -15
+#11128
+tunic serpent teeth~
+/cwa tunic encrusted with /cgserpent teeth/c0~
+/cwA tunic with fangs lies here./c0~
+~
+9 0 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+7 19066 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+1 2
+A
+18 1
+A
+14 -30
+A
+25 -2
+#11129
+sword starflare~
+/cCStarflare/c0~
+/cwA bright sword lies here, cutting into the ground./c0~
+~
+5 795648 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+5 17219 0 41 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 3
+A
+2 1
+A
+18 2
+#11130
+wsord wolfbright~
+/cLWolfbright/c0~
+/cwA sword with the wolf emblem on the pommel lies here./c0~
+~
+5 552960 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+5 19413 0 52 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 4
+A
+2 -2
+#11131
+wolf shield~
+/cwa /cLwolf/cw shield/c0~
+/cwA shield with a wolf emblem lies here./c0~
+~
+9 2 0 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+8 11700 0 39 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+24 -1
+A
+18 3
+A
+14 20
+A
+4 -1
+A
+25 -1
+#11132
+sword sparrowflight~
+/cLSparrow /cyFlight/c0~
+/cwA slim shortsword named /cLSparrow /cyFlight/cw lies here./c0~
+~
+5 532480 9 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+5 15306 0 41 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+18 1
+A
+19 2
+A
+1 -1
+#11133
+boots sparrow~
+/cwthe Boots of the /cySparrow/c0~
+/cwA pair of light boots with a sparrow emblem lie here./c0~
+~
+9 0 9 0 0 65 0 0 0
+7 0 0 0 8388608 0 0 0
+7 13073 0 37 -1 -1 -1 -1 -1 -1
+-1 0 0 0 0 0 0 0 0
+A
+14 20
+A
+18 3
+A
+2 1
+A
+1 -1
+#11134
+dagger vengeance~
+/cwthe Dagger of /cRVengeance/c0~
+/cwA powerfully constructed dagger lies here, sparkling with energy./c0~
+~
+5 1585666 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 33060 0 57 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 -1
+A
+19 2
+A
+18 3
+A
+13 -20
+A
+25 1
+C
+127 5
+#11135
+sword shimmie's~
+/cwShimmie's Sword/c0~
+/cwA strange sword lies here, waiting for Shimmie to claim it./c0~
+~
+5 536640 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+4 1000 0 3 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11199
+deed realm sword dancers~
+the Deed to the Realm of the Sword Dancers~
+A piece of paper lies here.~
+~
+28 0 0 0 0 16385 0 0 0
+111 0 0 0 0 0 0 0
+0 2000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deed realm sword dancers~
+Hold this deed to claim the Realm of the Sword Dancers
+for your clan.
+~
+$~

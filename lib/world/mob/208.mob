@@ -1,0 +1,675 @@
+#20800
+orc seedy bartender~
+the seedy Bartender~
+A seedy-looking, battle-scarred orc tends the bar here.
+~
+The bartender is a massive orc, at least for it's kind.  A black patch
+covers one eye, while his face is criss-crossed with scars.  He
+flashes a crooked grin, missing some teeth, as he mutters something
+about the frequent brawls he has been involved with.    
+~
+10 0 0 0 88 131074 0 0 -800 E
+95 72 -40 0d0+0 6d8+63
+0 517501
+8 8 1
+Str: 10
+Dex: 17
+Int: 5
+Wis: 21
+Con: 7
+Cha: 17
+Luck: 7
+Race: 32
+E
+#20801
+orc stablehand~
+a Stablehand~
+A small orc runs about, tending to the stable.
+~
+The stablehand is a small orc who, unlike most of his kind, loves
+animals.  It is evident in the way he treats them with kindness and
+respect.  Rough, calloused hands and a sinewy body show that he is a
+hard worker.    
+~
+6154 0 0 0 0 131072 0 0 250 E
+93 69 -40 0d0+0 6d8+62
+1775 490171
+8 8 1
+Str: 10
+Dex: 5
+Int: 25
+Wis: 25
+Con: 5
+Cha: 24
+Luck: 19
+Race: 32
+E
+#20802
+zak grocer ettin~
+Zak the Grocer~
+A large Ettin stands here, tending to the goods.
+~
+Zak is an Ettin, a race of two-headed giants.  Unlike most of his
+kind, he is gentle and dislikes violence.  A cruel twist of fate
+placed him in Sinistral, a place full of harsh and mean people.  
+Lumbering about, he handles goods with great care.    
+~
+10 0 0 0 88 131074 0 0 1000 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 1
+Str: 24
+Dex: 5
+Int: 9
+Wis: 25
+Con: 9
+Cha: 15
+Luck: 19
+Race: 10
+E
+#20803
+argil marketer~
+Argil the Marketer~
+Argil stands here, scalping goods.
+~
+Argil is slender and wiry, typical of Goblins.  A scar crisscrosses
+the left side of his face, creating a permanent scowl.  His voice is
+low and gutteral, difficult to understand.  Shifty eyes scan about
+frequently, looking for an easy prey.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 17
+Dex: 22
+Int: 21
+Wis: 15
+Con: 17
+Cha: 19
+Luck: 22
+Race: 31
+E
+#20804
+desuld weaponsmith troll~
+Desuld the Weaponsmith~
+A massive troll slaves over the hot forge here.
+~
+Desuld is a troll, massive and powerful.  His thick skin resists the
+firey heat of the ever-burning forge.  Strong hands ensure a sturdy
+grip on the hammer as he strikes yet another blow to a wrought
+creation.  Slow to anger, Desuld can wreak more havok than an sqaud of
+berserkers can.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 15
+Dex: 14
+Int: 12
+Wis: 7
+Con: 17
+Cha: 21
+Luck: 10
+Race: 19
+E
+#20805
+vergoth armourer~
+Vergoth the Armourer~
+Vergoth stands here, deftly sewing another piece of armour.
+~
+Vergoth is a female orc, rather pretty for her kind.  Her hands are
+calloused, hardened over years of handling rough material and sewing.
+A bright gleam in her eyes show that she yearns for the outdoors, but
+life demands that one makes a living somehow.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 8
+Dex: 18
+Int: 24
+Wis: 16
+Con: 6
+Cha: 10
+Luck: 16
+Race: 32
+E
+#20806
+sprike peddler~
+Sprike the Peddler~
+A hawkish peddler paces about the room.
+~
+Sprike is cruel, even his features show it.  Being a typical
+hobgoblin, he is quick to anger and acts of cruelty.  The ravages of
+old age have left him bent and with a severe limp, a vain attempt by
+nature to bestow him with humility.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 19
+Dex: 15
+Int: 10
+Wis: 14
+Con: 14
+Cha: 13
+Luck: 7
+Race: 31
+E
+#20807
+gatt outfitter ogre~
+Gatt the Outfitter~
+A talkative Ogre stands here, tending to the store.
+~
+Gatt is a gentle ogre whose physical size also matches the size of his
+mouth.  Forever chatting and seemingly unable to be quiet for a
+moment, he lovingly cares for his shop and goods.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 5
+Dex: 10
+Int: 9
+Wis: 15
+Con: 24
+Cha: 12
+Luck: 25
+Race: 19
+E
+#20808
+mok cafe owner~
+Mok the Cafe Owner~
+The owner of the cafe stands here, beaming a smile.
+~
+Mok is a Goblorc, a cross between an orc and a goblin.  He inhereted
+the features of an orc and the slight build of a goblin.  A huge smile
+underneath a long, pointed nose allays any fears one might have about
+his disposition.    
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 12
+Dex: 15
+Int: 10
+Wis: 19
+Con: 18
+Cha: 5
+Luck: 10
+Race: 32
+E
+#20809
+marn supplier~
+Marn the Supplier~
+Marn bustles about here, looking for that one missing inventory.
+~
+Stony-skinned and sporting a pair of folded bat-like wings show that
+Marn is a Gargoyle, a rare breed in these parts.  A multitude of scars
+across his tough hide hint of a prior military career of some sort.  
+~
+10 0 0 0 88 131074 0 0 0 E
+97 74 -40 0d0+0 6d8+64
+0 545738
+8 8 0
+Str: 12
+Dex: 20
+Int: 22
+Wis: 13
+Con: 10
+Cha: 23
+Luck: 19
+Race: 30
+E
+#20810
+burr addersan~
+Burr of Addersan~
+Burr paces about, boasting about exploits.
+~
+Burr is a human, one of the most devious and disreputable of his kind.
+His eyes are beady, squinting in the light.  Medium in stature, there
+is no other remarkable feature about this man.    
+~
+526430 0 0 0 589904 2 0 0 -800 E
+94 71 -40 0d0+0 6d8+62
+1800 503723
+8 8 0
+Str: 6
+Dex: 19
+Int: 7
+Wis: 13
+Con: 13
+Cha: 18
+Luck: 16
+Class: 3
+Race: 14
+E
+#20811
+goblin gibbering~
+a gibbering Goblin~
+A small goblin runs about, gibbering madly!
+~
+An outcaste of his tribe, he gibbers and mutters about old times.  
+Weak and frail in physique, a gleam in his eyes show that theres more
+than to the madness that lies within.    
+~
+6344 0 0 0 2064 0 0 0 -423 E
+83 59 -40 0d0+0 6d7+55
+1475 366746
+8 8 0
+Str: 21
+Dex: 23
+Int: 13
+Wis: 9
+Con: 18
+Cha: 10
+Luck: 9
+Race: 31
+E
+#20812
+orc thug~
+an orcish Thug~
+A brutish orcish Thug prowls about.
+~
+The Thug is a solidly-built orc with a mean streak inside him.  
+Looking hyenish, a pair of canine teeth protrude from his upper lips.
+Overall, his appearance is rather intimidating.    
+~
+530504 0 0 0 33554512 0 0 0 -400 E
+85 61 -40 0d0+0 6d7+56
+1525 389703
+8 8 0
+Str: 15
+Dex: 20
+Int: 6
+Wis: 14
+Con: 20
+Cha: 21
+Luck: 20
+Class: 3
+Race: 32
+Skill1: 44
+Skill2: 38
+Skill3: 16
+Skill4: 70
+Skill5: 38
+E
+#20813
+pookie crippled~
+a crippled Pookie~
+A small, crippled Pookie wanders aimlessly about.
+~
+An unfortunate fairy, the Pookie was unlucky enough to have bumbled
+into the nasty reaches of the general populace in Sinistral.  Her
+wings are tattered and torn, an unset broken leg hinders her motions.
+Yet deep in her eyes, one can see indestructible will and pride.    
+~
+170184 0 0 0 8388720 2 0 0 523 E
+82 58 -40 0d0+0 6d7+54
+1450 355583
+8 8 0
+Str: 16
+Dex: 17
+Int: 5
+Wis: 20
+Con: 15
+Cha: 21
+Luck: 21
+Class: 1
+Race: 7
+Spell1: 30
+Spell2: 106
+Spell3: 139
+Spell4: 30
+Spell5: 30
+E
+#20814
+ogre enforcer~
+an ogrish Enforcer~
+A huge ogrish Enforcer stands at attention here.
+~
+Lumbering and powerful, the ogrish Enforcer is a formidable fighting
+force.  She takes pride in her work and ability to supress even the
+most violent uprisings in town with ease.    
+~
+727112 0 0 0 2128 131328 0 0 -500 E
+91 67 -40 0d0+0 6d7+60
+1725 463737
+8 8 0
+Str: 13
+Dex: 5
+Int: 9
+Wis: 9
+Con: 17
+Cha: 13
+Luck: 17
+Class: 4
+Race: 32
+Skill1: 38
+Skill2: 71
+Skill3: 70
+Skill4: 72
+Skill5: 38
+E
+#20815
+etten marshal~
+an ettish Marshal~
+A huge Ettin stands here, wearing the badge of the Marshal.
+~
+The eittish Marshal is at the prime of his life.  Rippling muscles and
+a powerful frame to compliment them gives hint that one should not
+violate any laws in his presence.  In addition, an extra head and pair
+of eyes enable him to see all around with more scrunity.    
+~
+628760 0 0 0 33554768 131074 0 0 0 E
+92 68 -40 1d1+0 6d7+61
+1750 524527
+8 8 0
+Str: 23
+Dex: 9
+Int: 16
+Wis: 5
+Con: 21
+Cha: 6
+Luck: 5
+Class: 4
+Race: 10
+Skill1: 38
+Skill2: 38
+Skill3: 44
+Skill4: 34
+Skill5: 44
+E
+#20816
+troll deputy~
+a trollish Deputy~
+A troll Deputy lumbers by, keeping an alert eye out for trouble.
+~
+Despite it's slow speed, one should not underestimate the strength
+underneath the clumsiness.  Huge hands and arms like iron beams prove
+deadly should one fall into it's clutches.    
+~
+661592 0 0 0 80 67108864 0 0 -620 E
+94 71 -40 1d1+0 6d8+62
+1800 503723
+8 8 0
+Str: 7
+Dex: 13
+Int: 6
+Wis: 7
+Con: 12
+Cha: 15
+Luck: 20
+Class: 4
+Race: 19
+Skill1: 38
+Skill2: 41
+Skill3: 44
+Skill4: 38
+Skill5: 38
+E
+#20817
+faerie maimed bedraggled~
+a maimed Faerie~
+A bedraggled faerie limps out of the way here.
+~
+It's wings shorn off and a smashed ankle beyond healing show what
+happens to generally good folks who bumble into Sinistral.  Large
+brown eyes look about with fear, as well as beseeching for some help
+in getting out of his predictment.    
+~
+2248 0 0 0 2128 2 0 0 720 E
+84 60 -40 1d1+0 6d7+56
+1500 378119
+8 8 0
+Str: 8
+Dex: 7
+Int: 18
+Wis: 12
+Con: 14
+Cha: 17
+Luck: 15
+Class: 1
+Race: 24
+Spell1: 8
+Spell2: 10
+Spell3: 10
+Spell4: 5
+Spell5: 10
+E
+#20818
+hulk gateguard~
+a hulkish Gateguard~
+A huge Gateguard stands here, stern and unmoving.
+~
+The Gateguard is a Rock Giant, specifically recuited from the Kaedier
+Mountains for this job.  Towering easily over everyone's head, it's
+massive bulk basically acts as the gates to the city.    
+~
+628762 0 0 0 80 131072 0 0 -900 E
+96 73 -40 1d1+0 6d8+64
+1850 531505
+8 8 0
+Str: 19
+Dex: 23
+Int: 5
+Wis: 15
+Con: 18
+Cha: 9
+Luck: 15
+Class: 4
+Race: 10
+Skill1: 34
+Skill2: 34
+Skill3: 44
+Skill4: 44
+Skill5: 34
+E
+#20819
+mysterion sentry~
+a mysterion Sentry~
+A sentry Beholder keeps an watchful eye out on the horizon.
+~
+A floating eye, the size of a small boulder, atop a mass of dangling
+tentacles is a frightful sight.  It acts as a sentry due to it's
+enhanced vision and magical prowess in detection.    
+~
+710682 0 0 0 80 131074 0 0 -720 E
+94 71 -40 1d1+0 6d8+62
+1800 503723
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 9
+Int: 24
+Wis: 17
+Con: 24
+Cha: 6
+Luck: 6
+Race: 37
+E
+#20820
+gelfig triton~
+Gelfig, of Seafarer's Supplies~
+A powerful-looking Triton stands here, mending nets.
+~
+Gelfig is a triton, strong and weather-worn.  Small green scales cover
+his legs, reaching up to his chest, where they fade away into skin.  
+His hands are huge and rough, yet deft and nimble.    
+~
+16394 0 0 0 88 131072 0 0 0 E
+97 74 -40 1d1+0 6d8+64
+0 545738
+8 8 1
+Str: 19
+Dex: 7
+Int: 5
+Wis: 21
+Con: 14
+Cha: 24
+Luck: 25
+Class: 5
+Race: 22
+E
+#20821
+dalb mayor drow~
+Dalb, Mayor of Sinistral~
+The drow, Dalb, slowly rises to greet you.
+~
+Weary and tired, Dalb has held a tight grip over the city of
+Sinistral.  However, time and stress are beginning to take it's toll
+on the dark drow.  His eyes still show iron determination, despite the
+weariness shown by his slendy body.    
+~
+776218 0 0 0 67111248 131074 0 0 -1000 E
+109 87 -40 1d1+0 11d12+72
+2175 844989
+8 8 1
+Str: 25
+Dex: 12
+Int: 16
+Wis: 10
+Con: 24
+Cha: 5
+Luck: 5
+Class: 9
+Race: 16
+E
+#20822
+bullug citizen~
+a bullug Citizen~
+A toadish-looking citizen ambles about, looking smug.
+~
+The citizen is a Bullug, a strange toad-like race from an unknown
+place.  Standing about fifteen hands tall and weighing two stones,
+they walk about knowing that they rule Sinistral due to having brains
+over brawn.    
+~
+22728 0 0 0 2064 0 0 0 -480 E
+90 66 -40 1d1+0 6d7+60
+1700 450852
+8 8 0
+Str: 5
+Dex: 14
+Int: 14
+Wis: 20
+Con: 13
+Cha: 24
+Luck: 8
+Class: 12
+Race: 7
+E
+#20823
+wereboar dockworker~
+a wereboar Dockworker~
+A powerfully-built wereboar rests here, awaiting more work.
+~
+The Dockworker is solid and strong, weathered from many years at sea.
+A pair of tusks protrude from each side of his broad jaw, adding to
+his already imposing figure.    
+~
+628762 0 0 0 33556480 67108864 0 0 0 E
+93 69 -40 1d1+0 6d8+62
+1775 490171
+8 8 0
+Str: 16
+Dex: 5
+Int: 19
+Wis: 18
+Con: 8
+Cha: 23
+Luck: 13
+Race: 39
+E
+#20824
+willette~
+a Willette~
+A Willette scuttles by, yielding to others.
+~
+Short, yet sturdy in stature, the Willette are native to the Isle of
+Sinistral and it's waters.  Preferring to stay away from others, these
+crab-like people are well-known for their ability to survive among
+hostile people.    
+~
+219336 0 0 0 2128 0 0 0 190 E
+90 66 -40 1d1+0 6d7+60
+1700 450852
+8 8 0
+Str: 23
+Dex: 18
+Int: 19
+Wis: 6
+Con: 10
+Cha: 7
+Luck: 5
+Class: 12
+Race: 7
+E
+#20825
+toklan~
+Toklan~
+Toklan smiles as the refreshing oceanic breeze blows through his hair.
+~
+Toklan is one of the few remaining spearfishers of old.  Staying true
+to his heritage, this Triton still fishes these oceans using only his
+wits and a deadly-barbed spear.  Approaching his old age, he tends to
+be content just sitting at the docks and telling stories of old when
+not fishing.    
+~
+595994 0 0 0 16777424 131074 0 0 200 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+5 5 1
+BareHandAttack: 11
+Str: 10
+Dex: 19
+Int: 12
+Wis: 12
+Con: 7
+Cha: 24
+Luck: 6
+Class: 5
+Race: 22
+E
+#20826
+scorpius wanderer~
+a Scorpius Wanderer~
+A Wanderer scuttles forth, all eight legs with grace!
+~
+The wanderer is from a local tribe of Scorpius, who reside in the
+Kaedier Wastelands.  He is in town to stock up on supplies and bring
+much needed food back to his tribe.  Long braided hair, dark brown
+eyes, muscular human torso, deadly scorpion body and legs all paint a
+picture of a fierce survivor!    
+~
+17406044 0 0 0 33554512 131074 0 0 0 E
+101 78 -40 1d1+0 9d10+67
+1975 604972
+8 8 1
+Str: 13
+Dex: 17
+Int: 9
+Wis: 5
+Con: 13
+Cha: 25
+Luck: 12
+Class: 9
+Race: 43
+Skill1: 39
+Skill2: 39
+Skill3: 39
+Skill4: 39
+Skill5: 39
+Spell1: 119
+Spell2: 111
+Spell3: 116
+Spell4: 112
+Spell5: 113
+E
+$

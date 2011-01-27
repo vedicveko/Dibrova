@@ -1,0 +1,977 @@
+#14700
+lord krothgar~
+the Lord Krothgar~
+The Lord Krothgar glares balefully at you.
+~
+Krothgar, standing at over eight feet tall and clad in full spiked
+black plate mail, is an imposing...  Man.  It is said his fists have
+the power to rend the very earth asunder if he is angered.  It is
+small wonder the dark powers have chosen him as their fell agent on
+Anon.    
+~
+67635210 0 0 0 18768 0 0 0 -1000 E
+45 25 -24 1d45+3000 4d5+22
+2000 84683
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 9
+Race: 10
+E
+#14701
+death knight~
+a Deathknight~
+A Deathknight gazes evily at you.
+~
+This fellow and his comrades are servants of the demon lord Marmandes,
+and will take only his orders, despite the fact that Krothgar could
+probably crush him (and definitely them) with little effort.  
+Krothgar tolerates their presence in honor of the alliance he has
+forged with the dark powers to facilitate the conquest of Anon.    
+~
+1546 0 0 0 80 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d6+17
+1300 40559
+8 8 0
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 10
+Race: 6
+E
+#14702
+iron golem~
+an Iron Golem~
+An iron golem stands ready to rend his master's enemies apart.
+~
+This soulless automaton was created by Krothgar's fell scientist-mages
+to serve him as a bodyguard (for appearance's sake only- he scarcely
+has need of one) and an executioner.  It will kill on a command.    
+~
+67635210 0 0 0 2128 0 0 0 0 E
+32 15 -20 1d32+2325 3d5+16
+1150 32273
+8 8 0
+BareHandAttack: 5
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 33
+E
+#14703
+demon prince marmandes~
+Marmandes, the Demon Prince~
+The demon prince Marmandes watches you curiously.
+~
+Marmandes has been sent here by his evil masters to observe and aid
+their servant Krothgar, and as such he will prefer to avoid direct
+combat, being greatly weaker on this plane than on his native, and
+being eager to see how Krothgar performs.  This does not mean that he
+will fail to defend himself to the best of his considerable abilities
+if the need arises.    
+~
+559146 0 0 0 67174416 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+20
+1550 59862
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 41
+E
+#14704
+axtraxes arch mage~
+Axtraxes~
+A vile arch mage screams at your intrusion and attacks!
+~
+This foul-tempered, evil man is Krothgar's magical assistant and
+adviser, and in charge of the dark lord's impressive force of mages.
+He is infuriated at your untimely interruption and reacts
+aggressively.    
+~
+67125258 0 0 0 65584 4194304 0 0 -1000 E
+38 19 -20 1d38+2475 4d5+19
+1450 50022
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 16
+E
+#14705
+high priest~
+an evil High Priest~
+An evil high priest is angered by your sacrilege!
+~
+You have interrupted this foul priest of unspeakable gods during a
+very critical ceremony!  He is extremely angry, and so will his
+worshippers be...  He is a total fanatic and will battle to the death.
+~
+34314 0 0 0 16 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d6+17
+1300 40559
+8 8 1
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 16
+E
+#14706
+elite guard~
+an Elite Guard~
+An elite guard attempts to prevent you proceeding further.
+~
+This fellow is clad in full body spiked black plate mail just like his
+lord, and carries a HUGE spiked morning star, which he swings casually
+like it was but a wooden stick.  He cries out upon spotting you, and
+prepares for combat.    
+~
+527882 0 0 0 80 0 0 0 -1000 E
+30 14 -20 1d30+2250 3d4+15
+1050 27376
+8 8 1
+BareHandAttack: 5
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 10
+Race: 16
+E
+#14707
+destrier~
+a Destrier~
+A destrier, mount of some evil knight, snorts angrily at you.
+~
+This mammoth horse must weigh double any other equine steed you have
+ever seen.  Its jet black coat seems to glow with an inner evil, and
+you gasp in astonishment at the satanic gleam in its dark red eyes.  
+~
+262170 0 0 0 16 0 0 0 -1000 E
+25 11 0 1d25+2000 2d4+12
+800 17197
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#14708
+evil priest~
+an evil Priest~
+An evil priest screams in fanatical fury!
+~
+This foul creature is one of the evil priests of the dark lord, and he
+is keen to send your soul to him!    
+~
+34314 0 0 0 16 0 0 0 -1000 E
+22 9 12 1d22+1400 2d3+11
+650 12413
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 16
+E
+#14709
+scientist mage~
+an evil Scientist~
+An evil scientist mage roars in fury as you spoil his experiment!
+~
+You have burst in at a very inappropriate time, and spoiled years of
+work.  Good ;) However, the vile mage who is now drooling insanely
+seems a little upset...    
+~
+1674 0 0 0 48 0 0 0 -1000 E
+21 8 16 1d21+1200 2d3+10
+600 11024
+8 8 1
+BareHandAttack: 14
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 16
+E
+#14710
+blackguard guard~
+a BlackGuard~
+A member of the blackguard charges toward you.
+~
+This guard is a meber of the blackguard, the fanatical warriors who
+make up the bulk of Lord Krothgar's evil army.    
+~
+101898 0 0 0 80 0 0 0 -1000 E
+36 18 -20 1d36+2425 3d7+18
+1350 43580
+8 8 1
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 10
+Race: 16
+E
+#14711
+red dragon~
+a Red Dragon~
+A red dragon prepares to incinerate you.
+~
+This dragon is one of Krothgar's five favorites, and is loyal to its
+master.  Huge teeth protrude from a mouth capable of spewing forth
+destructive matter and baleful eyes gleam dangerously from above this
+maw directly at you.  You regret your intrusion.    
+~
+755754 0 0 0 336 0 0 0 -1000 E
+42 22 -24 1d42+2700 4d5+21
+1700 71021
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 9
+E
+#14712
+black dragon~
+a Black Dragon~
+A black dragon prepares to incinerate you.
+~
+This dragon is one of Krothgar's five favorites, and is loyal to its
+master.  Huge teeth protrude from a mouth capable of spewing forth
+destructive matter and baleful eyes gleam dangerously from above this
+maw directly at you.  You regret your intrusion.    
+~
+755754 0 0 0 336 0 0 0 -1000 E
+41 22 -24 1d41+2600 4d5+20
+1600 66788
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 9
+Race: 9
+E
+#14713
+white dragon~
+a White Dragon~
+A white dragon prepares to incinerate you.
+~
+This dragon is one of Krothgar's five favorites, and is loyal to its
+master.  Huge teeth protrude from a mouth capable of spewing forth
+destructive matter and baleful eyes gleam dangerously from above this
+maw directly at you.  You regret your intrusion.    
+~
+755754 0 0 0 336 0 0 0 -1000 E
+38 19 -20 1d38+2475 4d5+19
+1450 55024
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 5
+Race: 9
+E
+#14714
+blue dragon~
+a Blue Dragon~
+A blue dragon prepares to incinerate you.
+~
+This dragon is one of Krothgar's five favorites, and is loyal to its master.
+Huge teeth protrude from a mouth capable of spewing forth destructive matter
+and baleful eyes gleam dangerously from above this maw directly at you. You
+regret your intrusion.
+~
+755754 0 0 0 336 0 0 0 -1000 E
+41 22 -24 1d41+2600 4d5+20
+1600 66788
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+E
+#14715
+green dragon~
+a Green Dragon~
+A green dragon prepares to incinerate you.
+~
+This dragon is one of Krothgar's five favorites, and is loyal to its
+master.  Huge teeth protrude from a mouth capable of spewing forth
+destructive matter and baleful eyes gleam dangerously from above this
+maw directly at you.  You regret your intrusion.    
+~
+755754 0 0 0 336 0 0 0 -1000 E
+39 20 -20 1d39+2500 4d5+19
+1500 58791
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 9
+E
+#14716
+fire elemental~
+a Fire Elemental~
+A fire elemental burns everything in sight.
+~
+This magically-summoned being serves the mages of the tower- sometimes.
+~
+759850 0 0 0 262160 0 0 0 0 E
+42 22 -24 1d42+2700 4d5+21
+0 71021
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 30
+E
+#14717
+efreeti~
+an Efreeti~
+An efreeti hovers above an iron flask here.
+~
+This being, summoned from the Elemental Plane of Fire by the flask on
+the floor, is not happy, for the power of the flask has been exhausted
+and he has no way of returning home.  He reacted by slaying first the
+summoner, and now he will try to slay you!    
+~
+67338250 0 0 0 264272 131074 0 0 -1000 E
+43 23 -24 1d43+2800 4d5+21
+0 75413
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 51
+E
+#14718
+shedu~
+a Shedu~
+A shedu sits in a corner of this room.
+~
+This unfortunate creature was captured by agents of Krothgar, who
+brought it here to amuse him.  He occasionally spends time torturing
+it, but has grown bored and will slay it soon.    
+~
+8618072 0 0 0 41951312 0 0 0 1000 E
+38 19 -20 1d38+2475 4d5+19
+1450 50022
+8 8 0
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+#14719
+illithid~
+an evil Illithid~
+An evil illithid eyes your cranium off.
+~
+This foul mind flayer wants brains, and since Krothgar's followers
+aren't the brightest of creatures it is near starvation.  You are a
+nice surprise...    
+~
+163882 0 0 0 16504 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d6+17
+0 40559
+8 8 0
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 37
+E
+#14720
+slave~
+a wretched Slave~
+A wretched slave awaits sacrifice.
+~
+This pathetic wretch has lost all hope.  Squatting naked and shivering
+in the corner of the cell he gibbers insanely and begs for mercy.    
+~
+138 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#14721
+slave~
+a wretched Slave~
+A female slave will soon "service" Krothgar's legions.
+~
+This pathetic wretch has lost all hope.  Squatting naked and shivering
+in the corner of the cell she gibbers insanely and begs for mercy.  
+~
+138 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 14
+E
+#14722
+mutant~
+a Mutant~
+A hideous mutant drools and screams insanely.
+~
+These unnatural beings are foul products of the insane experiments of
+the scientist mages upon captured slaves in an attempt to create the
+perfect fighting race, an experiment finally realised in Korgthar's
+elite guard.  These failures have been condemned to a dismal life in
+the pits.    
+~
+42 0 0 0 544 0 0 0 0 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 8
+E
+#14723
+hydra~
+a Twelve-headed Hydra~
+A twelve-headed Hydra roars at you!
+~
+This mighty creature has allied with Krothgar in exchange for a steady
+diet of humans and elves.  It will fight ferociously to defend the
+home of its meal ticket.    
+~
+67338250 0 0 0 33554512 0 0 0 0 E
+40 21 -20 1d40+2525 4d5+20
+0 57012
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 27
+E
+#14724
+quasit~
+a Quasit~
+A quasit squeaks aggressively at you.
+~
+This angry creature is the familiar of some mage or another.  It is
+angered at being seen.    
+~
+170 0 0 0 589864 0 0 0 -1000 E
+20 8 20 1d20+1000 2d3+10
+0 9735
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 51
+E
+#14725
+succubus~
+a Succubus~
+A succubus smiles seductively at you.
+~
+This lustful demoness is the current concubine of Korgthar, though her
+appetite is insatiable and she is always on the lookout for new
+prey...  Err ...  Lovers.    
+~
+165386 0 0 0 524368 0 0 0 -1000 E
+43 23 -24 1d43+2800 4d5+21
+1800 68558
+8 8 2
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 14
+Race: 41
+E
+#14726
+earth elemental~
+an Earth Elemental~
+An earth elemental smashes everything in sight.
+~
+This magically-summoned being serves the mages of the tower- sometimes.
+~
+755754 0 0 0 16 131072 0 0 0 E
+42 22 -24 1d42+2700 4d5+21
+0 64565
+8 8 0
+BareHandAttack: 6
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 30
+E
+#14727
+water elemental~
+a Water Elemental~
+A water elemental inundates everything in sight.
+~
+This magically-summoned being serves the mages of the tower- sometimes.
+~
+690218 0 0 0 16 131072 0 0 0 E
+44 24 -24 1d44+2900 4d5+22
+0 72697
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 30
+E
+#14728
+air elemental~
+an Air Elemental~
+An air elemental blows over everything in sight.
+~
+This magically-summoned being serves the mages of the tower- sometimes.
+~
+755754 0 0 0 80 131072 0 0 0 E
+42 22 -24 1d42+2700 4d5+21
+0 64565
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 30
+E
+#14729
+hell hound hellhound~
+a Hellhound~
+A hellhound lopes toward you.
+~
+Breathing fire and reeking of brimstone, this unholy red-hued hound is
+indeed a terrible sight to behold.    
+~
+6248 0 0 0 264272 0 0 0 -1000 E
+38 19 -20 1d38+2475 4d5+19
+0 55024
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 41
+E
+#14730
+fire giant~
+a Fire Giant~
+A fire giant waves his sword menacingly at you.
+~
+These fellows are guardians of the massive volcano known as Mount
+Doom, upon which rests the inpregnable fortress of their master, Lord
+Krothgar.  They fight fearlessly to defend it.    
+~
+591976 0 0 0 264272 0 0 0 -1000 E
+39 20 -20 1d39+2500 4d5+26
+1275 58791
+8 8 1
+BareHandAttack: 5
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 10
+E
+#14731
+frost giant~
+a Frost Giant~
+A frost giant glares icily at you.
+~
+These emissaries are here to form an alliance with the forces of Mount
+Doom.  They do not take kindly to intrusions.    
+~
+106 0 0 0 2128 0 0 0 -1000 E
+37 19 -20 1d37+2450 3d7+18
+1400 46733
+8 8 1
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 10
+E
+#14732
+hill giant~
+a Hill Giant~
+A hill giant grunts at you.
+~
+These fellows are guardians of the lands surrounding the massive
+volcano known as Mount Doom, upon which rests the inpregnable fortress
+of their master, Lord Krothgar.  They fight fearlessly to defend it.
+~
+6248 0 0 0 2128 0 0 0 -1000 E
+34 17 -20 1d34+2375 3d6+17
+1250 37669
+8 8 1
+BareHandAttack: 6
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 5
+Race: 10
+E
+#14733
+cloud giant~
+a Cloud Giant~
+A cloud giant laughs mercilessly at you. Hmph.
+~
+These emissaries are here to form an alliance with the forces of Mount
+Doom.  They do not take kindly to intrusions.    
+~
+2090 0 0 0 33556560 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+20
+1550 57012
+8 8 1
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 10
+E
+#14734
+ogre~
+an ogre Servant~
+An ogre servant serves the giant soldiers.
+~
+This fellow may seem huge to you, but by giant standards he's a
+veritable runt, as they never cease to point out to him as he makes
+his way about, serving food and drinks in between kicks to the head.
+~
+67722 0 0 0 16 0 0 0 -400 E
+24 10 4 1d24+1800 2d4+12
+750 15497
+8 8 1
+BareHandAttack: 6
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 12
+Race: 19
+E
+#14735
+ogre mage~
+an ogre Mage~
+An ogre mage glares suspiciously at you.
+~
+These eastern cousins of the ogres and giants of the west have been
+invited here to form an alliance with the troops of Krothgar.  They
+are deeply suspicious of the arrangement, however, and view all comers
+with the same degree of caution, but not aggression.    
+~
+34310154 0 0 0 80 0 0 0 -1000 E
+46 26 -24 1d46+3500 4d5+23
+2100 81423
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 19
+E
+#14736
+troll~
+a Troll~
+A troll foot soldier yawns loudly.
+~
+These grotesques were bred for combat, not sentry duty, and the
+boredom is almost killing them.  They don't even notice your presence.
+~
+74 0 0 0 805306368 0 0 0 -1000 E
+37 19 -20 1d37+2450 3d6+24
+1225 46733
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#14737
+ettin~
+an Ettin~
+An ettin turns both its heads to stare at you.
+~
+This two-headed giant is a guard of the more important inhabitants of
+the fortress.  He takes his duties very seriously.    
+~
+563274 0 0 0 33554448 163840 0 0 -1000 E
+43 23 -24 1d43+2800 4d5+21
+200 68558
+8 8 1
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 10
+E
+#14738
+chief assassin~
+the Chief Assassin~
+The chief assassin smiles as she draws her swords.
+~
+This beauty is actually the lethal head of Krothgar's elite assassins,
+who have achieved more for his cause than a dozen armies.  She asks
+for no quarter, and nor does she give any herself.    
+~
+575498 0 0 0 1654800 4194304 0 0 -1000 E
+42 22 -24 1d42+2700 4d5+21
+1700 64565
+8 8 2
+BareHandAttack: 14
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 3
+Race: 16
+E
+#14739
+assassin~
+an Assassin~
+An assassin prepares for combat.
+~
+This woman is a member of Krothgar's assassin company, and has slain
+more men and women than any one hundred of his regular soldiers.    
+~
+563306 0 0 0 33556560 0 0 0 -1000 E
+38 19 -20 1d38+2475 4d5+19
+1450 50022
+8 8 2
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 16
+E
+#14740
+drow ambassador~
+a Drow Ambassador~
+A drow ambassador snarls at you.
+~
+This priestess is here to secure an alliance between her people and
+Krothgar's forces.  She is not happy about your intrusion into this
+matter.    
+~
+67633162 0 0 0 80 0 0 0 -1000 E
+37 19 -20 1d37+2450 3d7+18
+1400 46733
+8 8 2
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 16
+E
+#14741
+warg~
+a Warg~
+A hairy warg patrols for trespassers here.
+~
+This beast is a servant of the hill giants who patrol the plains of Doom.
+~
+67108936 0 0 0 64 0 0 0 -1000 E
+29 13 -16 1d29+2200 3d4+14
+0 25109
+8 8 1
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#14742
+ghoul~
+a bloodthirsty Ghoul~
+A bloodthirsty ghoul slavers uncontrollably.
+~
+This hideous undead wants to feast on your flesh!
+~
+104 0 0 0 2128 2 0 0 -1000 E
+33 16 -20 1d33+2350 3d5+16
+0 34908
+8 8 0
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 6
+E
+#14743
+vampire~
+a Vampire~
+A vampire smiles at you...
+~
+This vamp is treacherous and deadly.  You can see why Krothgar likes
+having her around...    
+~
+34310154 0 0 0 1574992 0 0 0 -1000 E
+41 22 -24 1d41+2600 4d5+20
+1600 60717
+8 8 2
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 14
+Race: 6
+E
+#14744
+lich~
+an ancient Lich~
+An ancient lich awakens from his slumber and looks around.
+~
+Even the mages of Krothgar know not of the existence of this secret
+tomb.  Buried within is the old lord of the Fortress, who was
+imprisoned in here by the forces of Good ages ago.  And now you have
+woken him up.  Way to go slick.    
+~
+560650 0 0 0 1130576 4194304 0 0 -1000 E
+48 27 -28 1d48+4500 4d5+24
+2300 90757
+8 8 0
+BareHandAttack: 12
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 1
+Race: 44
+E
+#14745
+stone golem~
+a Stone Golem~
+A stone golem stands ready to rend his master's enemies apart.
+~
+This soulless automaton was created by Krothgar's fell evil priests to
+serve him as a bodyguard (for appearance's sake only- he scarcely has
+need of one) and an executioner.  It will kill on a command.    
+~
+563210 0 0 0 33554512 163840 0 0 0 E
+37 19 -20 1d37+2450 3d7+18
+0 46733
+8 8 0
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 33
+E
+#14746
+keeper~
+the Keeper of the Mutant Pit~
+The Keeper of the Mutant Pit snarls angrily at you.
+~
+Ugly and of an unknown race, the Keeper likes to be alone!
+~
+657450 0 0 0 16400 0 0 0 -1000 E
+38 19 -20 1d38+2475 4d5+19
+1450 50022
+8 8 0
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 4
+Race: 39
+E
+#14747
+naga princess~
+a Naga Princess~
+A princess of the Naga glares haughtily at you.
+~
+This snake with a woman's head seems unimpressed by your intrusion,
+but she refrains from attacking, hoping that the guards of the castle
+will see to you so she doesn't have to expend energy fighting.    
+~
+202 0 0 0 16 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+20
+1550 57012
+8 8 2
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 47
+E
+$

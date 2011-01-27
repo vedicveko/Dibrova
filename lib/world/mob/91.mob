@@ -1,0 +1,774 @@
+#9100
+spectre~
+a Spectre~
+A Spectre screams at you and attacks!
+~
+The spirit of some former minion of this place, this foul Undead
+creature will do its best you meet the same fate as all previous
+intruders in this fell domain- DEATH.    
+~
+104 0 0 0 1048656 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+26
+500 57012
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 14
+Luck: 12
+Race: 6
+E
+#9101
+wraith~
+a Wraith~
+A wraith strides silenty toward you, death in its glowing red eyes.
+~
+The spirit of some former minion of this place, this foul Undead
+creature will do its best you meet the same fate as all previous
+intruders in this fell domain- DEATH.    
+~
+104 0 0 0 1048656 0 0 0 -1000 E
+38 19 -20 1d38+2475 3d6+25
+400 50022
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 6
+Luck: 12
+Race: 49
+E
+#9102
+wight~
+a Wight~
+A ghastly wight, still clad in the armor it wore in life, strikes at you.
+~
+The spirit of some former minion of this place, this foul Undead
+creature will do its best you meet the same fate as all previous
+intruders in this fell domain- DEATH.    
+~
+104 0 0 0 80 0 0 0 -1000 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Race: 49
+E
+#9103
+ghost~
+a Ghost~
+The ghost of some long-dead adventurer howls maniacally at you.
+~
+The spirit of some former minion of this place, this foul Undead
+creature will do its best you meet the same fate as all previous
+intruders in this fell domain- DEATH.    
+~
+104 0 0 0 1573200 0 0 0 -1000 E
+37 19 -20 1d37+2450 3d6+24
+0 51406
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 13
+Luck: 12
+Race: 34
+E
+#9104
+vampire~
+a Vampire~
+An evil vampire rises from the sarcophagus, bares its fangs and attacks!
+~
+The Evil Baron and his two brothers were vampires imprisoned here by
+Xanan centuries ago, who had not the power to slay them utterly, and
+now thanks to your disturbance they have risen again!    
+~
+4202 0 0 0 18704 0 0 0 -1000 E
+45 25 -24 1d45+3000 4d5+30
+625 84683
+8 8 0
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 5
+Luck: 12
+Class: 14
+Race: 6
+E
+#9105
+lich~
+a Lich~
+An insane Lich cackles hideously and unleashes a volley of spells.
+~
+This powerful Undead is actually Xantharus' former master, whom he
+betrayed and slew.  But he underestimated his master's power, and now
+he as returned as a Lich, seeking revenge!    
+~
+4202 0 0 0 1048912 0 0 0 -1000 E
+47 26 -28 1d47+4000 5d5+31
+675 94614
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 12
+Luck: 12
+Class: 1
+Race: 44
+E
+#9106
+lesser demon~
+a Lesser Demon~
+A Lesser Demon slobbers, drools and cackles insanely!
+~
+This grotesque is a minion of the lower planes drawn here by the
+intense concentration of negative material energy.    
+~
+104 0 0 0 80 0 0 0 -1000 E
+42 22 -24 1d42+2700 4d5+28
+0 64565
+8 8 0
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 17
+Luck: 12
+Race: 41
+E
+#9107
+spirit revenant~
+a Revenant~
+The spirit of a mortal horribly wronged has returned as a Revenant.
+~
+This poor soul was once a powerful, good priest of Soleil who was
+betrayed by agents of the evil Gomez and tortured and slain by them.
+His spirit has returned here, seeking out the long-dead fellows who
+slew him.  He will ignore all else in his quest, but will not hesitate
+to attack you if you interfere.    
+~
+4168 0 0 0 18704 0 0 0 0 E
+47 26 -28 1d47+4000 5d5+31
+0 94614
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 8
+Luck: 12
+Class: 2
+Race: 34
+E
+#9108
+spirit haunt~
+a Haunt~
+The spirit of an adventurer slain here long ago is now bound here as a Haunt.
+~
+This spirit was once a powerful warrior who, on a wager, entered Ghost
+Town.  He was quickly slain by the inhabitants, but such was his
+distress at his death, his spirit remained behind to haunt the area
+where he met his end.    
+~
+74 0 0 0 1572944 0 0 0 0 E
+38 19 -20 1d38+2475 3d6+25
+400 50022
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 12
+Luck: 12
+Race: 34
+E
+#9109
+crypt thing~
+a Crypt Thing~
+A Crypt Thing cackles evilly and taunts you.
+~
+This fell creature will not attack you, despite its evil- it will
+merely taunt you, though it will not hesitate to defend itself.    
+~
+4170 0 0 0 18448 0 0 0 -1000 E
+44 24 -24 1d44+2900 4d5+29
+600 72697
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Race: 49
+E
+#9110
+greater demon~
+a Greater Demon~
+A Greater demon spews forth fire and gas!
+~
+This grotesque is a minion of the lower planes drawn here by the
+intense concentration of negative material energy.    
+~
+106 0 0 0 1067024 0 0 0 -1000 E
+48 27 -28 1d48+4500 5d5+32
+0 90757
+8 8 0
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Race: 41
+E
+#9111
+undead dragon~
+an Undead Dragon~
+An Undead Dragon belches forth poisonous fumes!
+~
+This foul Dracolich is the undead spirit of a dragon that served
+Xantharus so well in life that he animated it to continue serving him
+after its death.    
+~
+106 0 0 0 1048912 0 0 0 -1000 E
+50 29 -28 1d50+6000 5d5+33
+750 110785
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 22
+Luck: 12
+Race: 9
+E
+#9112
+undead monster~
+an Undead Monster~
+An undead monster shambles forth and attacks!
+~
+The spirit of some former minion of this place, this foul Undead
+creature will do its best you meet the same fate as all previous
+intruders in this fell domain- DEATH.    
+~
+104 0 0 0 80 0 0 0 -1000 E
+36 18 -20 1d36+2425 3d5+24
+0 43580
+8 8 0
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 21
+Luck: 12
+Race: 6
+E
+#9113
+giant rat~
+a Giant Rat~
+A GIANT Rat savagely charges you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+108 0 0 0 65616 0 0 0 -1000 E
+31 15 -20 1d31+2300 3d4+20
+0 29763
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 25
+Luck: 12
+Race: 1
+E
+#9114
+giant spider~
+a Giant Spider~
+A GIANT Spider drops down on you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+17303660 0 0 0 65616 0 0 0 -1000 E
+34 17 -20 1d34+2375 3d4+22
+0 37669
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 10
+Luck: 12
+Race: 46
+E
+#9115
+lurker above~
+a Lurker Above~
+A Lurker Above seeks to enfold and suffocate you!
+~
+This foul abberration feeds on any and all that enter its lair- even
+the corporeal undead avoid it...    
+~
+106 0 0 0 1048576 0 0 0 0 E
+41 22 -24 1d41+2600 4d5+27
+0 60717
+8 8 0
+BareHandAttack: 16
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Luck: 12
+Race: 8
+E
+#9116
+succubus~
+a Succubus~
+A beautiful female smiles charmingly at you, revealing sharp fangs...
+~
+OUCH! Its a Succubus. She will charm you, then waste you. FIGHT!
+~
+74 0 0 0 1048656 0 0 0 -1000 E
+40 21 -20 1d40+2525 4d5+26
+0 57012
+8 8 2
+BareHandAttack: 4
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 13
+Luck: 12
+Class: 14
+Race: 41
+E
+#9117
+necromancer xantharus~
+Xantharus~
+A timid-looking Necromancer begs to be freed.
+~
+This pathetic wretch is none other than Xantharus, the evil mage that
+brought the Undead to this town, destroying it, before losing control
+of them.  He has fled here, in the hopes that they won't find him
+before he finds a way to escape his terrible mistake.    
+~
+16586 0 0 0 67584 4194304 0 0 -400 E
+42 22 -24 1d42+2700 4d5+28
+550 64565
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 9
+Luck: 12
+Class: 1
+Race: 14
+E
+#9118
+rotting corpse~
+a rotting Corpse~
+A Rotting Corpse staggers clumsily toward you.
+~
+This thing and its fellows are what remains of the citizens of this
+once- fine town, reduced to a horrid state of undeath.  Slaying them
+would be the best thing you could do for them...    
+~
+104 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+0 27376
+8 8 0
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 23
+Luck: 12
+Race: 6
+E
+#9119
+master ghjkl~
+the Master~
+The Master surveys his domain and laughs evilly.
+~
+Little is known of this mysterious stranger who came here and took
+control after the weak Xantharus lost control of his creations.  He is
+a powerful, diabolically evil mage, and will not hesitate to destroy
+you.    
+~
+4202 0 0 0 18752 0 0 0 -1000 E
+55 33 -32 1d55+6600 5d6+36
+875 141264
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 24
+Luck: 12
+Class: 1
+Race: 7
+E
+#9120
+shambling mound~
+a Shambling Mound~
+A Shambling Mound... well... shambles toward you.
+~
+RUN! A twelve-foot high pile of garbage is attacking you!
+~
+104 0 0 0 16592 0 0 0 0 E
+37 19 -20 1d37+2450 3d6+24
+0 46733
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 24
+Luck: 12
+E
+#9121
+kampflut~
+a Kampflut~
+A Kampflut attacks!
+~
+This hideous, animated tree resembles an ancient oak with
+tentacle-like branches and a huge toothed maw.  Despite its nasty
+demeanour, it is not evil- it is simply hungry.    
+~
+104 0 0 0 16848 0 0 0 0 E
+43 23 -24 1d43+2800 4d5+28
+0 75413
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Luck: 12
+Race: 26
+E
+#9122
+black pudding~
+a Black Pudding~
+A Black Pudding slowly rolls toward you.
+~
+This huge black blob will dissolve weapons and armor it gets the
+chance, then it will devour you!    
+~
+104 0 0 0 16592 0 0 0 0 E
+42 22 -24 1d42+2700 4d5+28
+0 64565
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 12
+E
+#9123
+green slime~
+Green Slime~
+A patch of Green Slime drips on you, burning your skin!
+~
+Green Slime can dissolve even metal, so imagine what it would do to
+your skin...    
+~
+16777322 0 0 0 0 0 0 0 0 E
+29 13 -16 1d29+2200 3d3+19
+0 25109
+8 8 0
+BareHandAttack: 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 23
+Luck: 12
+E
+#9124
+gray ooze~
+a Gray Ooze~
+A pile of gray liquid oozes toward you.
+~
+"Oh," I hear you say.  "How threatening".  Well, just you wait!    
+~
+104 0 0 0 18704 0 0 0 -1000 E
+48 27 -28 1d48+4500 5d5+32
+0 99832
+8 8 0
+BareHandAttack: 16
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+E
+#9125
+animated tree~
+an Animated Tree~
+An Animated Tree bashes you with its branches.
+~
+This tree is bad and evil- it is an anti-treant :)
+~
+104 0 0 0 0 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 18
+Luck: 12
+Race: 26
+E
+#9126
+tree spirit~
+a Tree Spirit~
+A Tree Spirit offers you shelter in this place of evil.
+~
+This spirit is the only good creature in this place.  She can guard
+you while you rest, and perhaps heal your wounds if you pay her
+enough...    
+~
+8390730 0 0 0 33573140 0 0 0 400 E
+52 31 -32 1d52+6240 5d5+34
+800 122437
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 19
+Luck: 12
+Class: 5
+Race: 34
+E
+#9127
+deathknight death knight~
+a Deathknight~
+A Deathknight salutes you and then attacks!
+~
+This is the spirit of a Paladin corrupted by the evil of the Master,
+doomed to an eternity as an undead servant.  Clad in ornate, ancient
+armor and wielding a shiny silver sword, he would look as he did in
+life save for his rotting face...    
+~
+526442 0 0 0 336 0 0 0 -1000 E
+49 28 -28 1d49+5000 5d5+32
+725 105221
+8 8 0
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 7
+Luck: 12
+Class: 9
+Race: 34
+E
+#9128
+nightmare~
+a Nightmare~
+A Nightmare, loyal steed of the denizens of the Lower Planes, rests here.
+~
+This black, winged equine hell-steed waits patiently for its master to
+finish its business here before bearing it to its next destination.  
+~
+264202 0 0 0 76546128 0 0 0 -1000 E
+36 18 -20 1d36+2425 3d5+24
+0 45759
+8 8 0
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 9
+Luck: 12
+Race: 41
+E
+#9129
+retriever~
+a Retriever~
+A retriever rears on four of its legs and strikes.
+~
+This demonic steed resembles a huge spider with razor sharp blades for
+legs and glowing gems for eyes.    
+~
+17042954 0 0 0 33554768 0 0 0 -1000 E
+48 27 -28 1d48+4500 5d5+32
+0 99832
+8 8 0
+BareHandAttack: 8
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 10
+Luck: 12
+Race: 41
+E
+#9130
+cambion scout~
+a Cambion Scout~
+A Cambion Scout eyes you cautiously.
+~
+This half-man, half-demon creature is a scout for Orcus, Prince of the
+Undead.  He is here on a covert mission, and thus will avoid trouble
+if at all possible.  He is attempting to ascertain the degree of power
+of the master, and inform his master if the strange man poses a
+significant threat to his domination of all things Undead.    
+~
+204 0 0 0 65616 0 0 0 -1000 E
+41 22 -24 1d41+2600 4d5+27
+525 60717
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 7
+Luck: 12
+Class: 3
+Race: 6
+E
+#9131
+orcus prince undead~
+Orcus~
+Orcus, Prince of the Undead, glowers menacingly at you.
+~
+Whoa.  You are standing before Orcus.  He resembles a bloated man
+twenty feet tall with a bull's nose and eyes, and goat's horns and
+hooves.  He grips a rod with a goat's head in one hoof, and glares
+suspiciously at you.  He is not really meant to be here, and thus will
+avoid attracting attention of the powers of the Prime Material Plane
+by avoiding combat.    
+~
+755786 0 0 0 278992 0 0 0 -1000 E
+53 31 -32 1d53+6360 5d6+35
+825 140215
+8 8 0
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 22
+Luck: 12
+Class: 1
+Race: 7
+E
+#9132
+water weird~
+a Water Weird~
+A Water Weird lunges at you!
+~
+This watery snake resides in the well, which it will fight to defend.
+~
+17303658 0 0 0 33571024 2 0 0 0 E
+44 24 -24 1d44+2900 4d5+29
+0 72697
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 6
+Luck: 12
+Race: 30
+E
+#9133
+giant spider~
+a Giant Spider~
+A GIANT Spider drops down on you!
+~
+When I say GIANT, I am talking ten feet high...
+~
+17303598 0 0 0 65616 2 0 0 -1000 E
+38 19 -20 1d38+2475 3d6+25
+0 50022
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 12
+Race: 46
+E
+#9134
+baron vampire~
+a Baron Vampire~
+The Baron vampire rises from the sarcophagus, bares its fangs and attacks!
+~
+The Evil Baron and his two brothers were vampires imprisoned here by
+Xanan centuries ago, who had not the power to slay them utterly, and
+now thanks to your disturbance they have risen again!    
+~
+251946 0 0 0 16720 131072 0 0 -1000 E
+51 30 -32 1d51+6120 5d5+34
+775 116523
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 24
+Luck: 12
+Class: 14
+Race: 6
+E
+$

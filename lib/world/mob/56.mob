@@ -1,0 +1,187 @@
+#5600
+guard mos~
+/cwan /ccMoS/cw Guard/c0~
+/cwAn /ccMoS/cw Guard stands here, blocking your progress down the steps./c0
+~
+Such strict attention stands he, looks as if maybe he were made of
+steel himself.    
+~
+10 0 0 0 0 0 0 0 -200 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+BareHandAttack: 10
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 7
+Luck: 12
+Race: 14
+E
+#5601
+charley checkpoint~
+Checkpoint Charley~
+Checkpoint Charley stands here, clipboard in hand, making sure no elves get in.
+~
+Poor guy, must have been a geek in high school, now he has this
+semi-official position and he takes it WAY too seriously.    
+~
+10 0 0 0 0 0 0 0 -100 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 20
+Luck: 12
+Race: 14
+E
+#5602
+soldier mos~
+/cwan /ccMoS/cw soldier/c0~
+/cwAn /ccMoS/cw soldier is here, looking at you in some confusion./c0
+~
+He turns away, begins to walk away, then stops.  He turns back.  
+Looks.  "Um, hey," he says, "are you supposed to be here?  "
+~
+200 0 0 0 0 0 0 0 -200 E
+6 1 76 1d6+70 1d2+4
+10 451
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 16
+Luck: 12
+Race: 14
+E
+#5603
+master arms~
+the Master at Arms~
+The Master at Arms is here, working out with some steel weights.
+~
+This dude looks like he could crush you in one sweep of his massive tree-trunk arms.
+~
+10 0 0 0 0 0 0 0 -200 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 25
+Luck: 12
+Class: 4
+Race: 14
+E
+#5604
+captain MoS~
+/cwthe /ccMoS/cw Captain/c0~
+/cwThe /ccMoS/cw Captain stands here hating elves./c0
+~
+This guy is as brainwashed as they come.
+~
+10 0 0 0 0 0 0 0 -300 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 22
+Luck: 12
+Class: 4
+Race: 14
+E
+#5605
+lieutenant MoS~
+/cwthe /ccMoS/cw Lieutenant/c0~
+/cwThe /ccMoS/cw Lieutenant is here reading a book on racial purity./c0
+~
+He looks a bit confused as to why you are even in his room.
+~
+4106 0 0 0 0 0 0 0 -300 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 25
+Luck: 12
+Race: 14
+E
+#5606
+sergeant MoS~
+/cwthe /ccMoS/cw Sergeant/c0~
+/cwThe /ccMoS/cw Sergeant stands here with nothing to do./c0
+~
+Pity this man seems like he might make a good stableman...
+~
+10 0 0 0 0 0 0 0 -300 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 20
+Luck: 12
+Race: 14
+E
+#5607
+general MoS~
+/cwthe /ccMoS/cw General/c0~
+/cwThe /ccMoS/cw General stands here practicing his hate speeches./c0
+~
+This guy seems just maybe a couple cards short of a full deck.
+~
+10 0 0 0 0 0 0 0 -300 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 8
+Luck: 12
+Class: 4
+Race: 14
+E
+#5608
+grand knight~
+the Grand Knight~
+The Grand Knight stands here.
+~
+Maybe you should consider running the other way...
+~
+16394 0 0 0 65536 4194304 0 0 -400 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 9
+Luck: 12
+Class: 9
+Race: 14
+E
+$

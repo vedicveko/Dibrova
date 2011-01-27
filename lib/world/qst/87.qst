@@ -1,0 +1,40 @@
+#8700
+get a potion for the wizard~
+Get the  idgaard wizard a potion from Dorak's.~
+
+The wizard in  idgaard is starting to feel a bit of a crunch on his
+business ever since Dorak starting selling sanctuary potions and the
+vendors starting showing up in town.
+
+The wizard would like to get his hands on one of the potions that
+Dorak sells, but he is reluctant to step into Dorak's shop himself.
+
+Rumor has it that the wizard would pay well for a potion of cancellation
+from Dorak's shop.
+
+~
+-/cr
+You are thanked by the wizard and politely asked to leave - immediately.
+You receive 5,000 gold and 3 quest points./c0
+-
+~
+5 3130 0 8752 1 10 0 5000 3 0 -1
+3000 0 0 0
+S
+#8701
+basil quest~
+Find and destroy Basil.~
+
+No, not the herb basil - the verbeeg assassin Basil.
+Find him and and his life.
+
+~
+-/cr
+You've done it! You've slain the verbeeg assassin!
+You receive 5 quest points and 7,500 gold./c0
+-
+~
+3 3141 0 8704 110 120 0 7500 5 0 -1
+0 0 0 0
+S
+$~

@@ -1,0 +1,331 @@
+#2800
+chair~
+a chair~
+There is a chair that has been left in the center of the floor.~
+Nothing.
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2801
+hammer heavy~
+/cwa heavy /cLiron /cwhammer/c0~
+/cwA heavy /cLiron /cwhammer has been left here./c0~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+13 7332 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+19 1
+#2802
+iron branding~
+/cwa branding iron/c0~
+/cwA steaming branding iron has been dropped here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+7 5546 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2803
+paper command official sanctuary~
+/cwa set of official command papers/c0~
+/cwA set of official command papers have been left here./c0~
+A flash of bright light flashes once, and then the scroll is gone.
+~
+2 67174414 0 0 0 1 0 0 0
+25 36 0 0 0 0 0 0
+3 1582 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2804
+arrows flaming~
+a bundle of arrows~
+A bundle of arrows are stacked neatly here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+3 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2805
+pot boiling pitch~
+a pot full of pitch~
+A pot full of pitch for boiling is waiting for a war.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+10000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2806
+ram battering~
+/cwa /cmbattering /cwram/c0~
+A stack of battering rams await times of war and siege.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2807
+rations military~
+/cwa bundle of military rations/c0~
+/cwA bundle of military rations have been dropped here./c0~
+~
+19 0 0 0 0 1 0 0 0
+12 0 0 0 0 0 0 0
+4 48 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2808
+sabre proud~
+/cwa /cWproud/cw sabre/c0~
+/cwA very ornate, proud sabre has been left here./c0~
+~
+5 532545 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 8480 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+25 1
+#2809
+knife cavalry~
+/cwa cavalry knife/c0~
+/cwA cavalry knife has been dropped here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 7980 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+A
+2 1
+#2810
+rope~
+/cwa coil of rope/c0~
+/cwA coil of rope has been dropped here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+4 86 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2811
+picks lock~
+/cwa set of /cLlock picks/c0~
+/cwA set of /cLlock picks/cw have been left here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+6 60 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#2812
+spyglass glass~
+/cwa /ccspyglass/c0~
+/cwA /ccspyglass /cwhas been left here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 169 0 19 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+#2813
+kit first aid~
+/cwa /crfirst aid /cwkit/c0~
+/cwA /crfirst aid /cwkit has been left here./c0~
+A bright healing glow leaps out from the kit!
+~
+3 2 0 0 0 16385 0 0 0
+17 3 3 15 0 0 0 0
+5 381 0 17 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2814
+kit medic~
+/cwa medic's kit/c0~
+/cwA medic's kit has been left here./c0~
+~
+3 0 0 0 0 16385 0 0 0
+14 5 5 16 0 0 0 0
+6 130 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2815
+crutch~
+/cwa /cycrutch/c0~
+/cwA /cycrutch/cw has been left here./c0~
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 2000 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 -20
+A
+10 20
+#2816
+badge honor~
+/cwa /ccBadge of Honor/c0~
+/cwA /ccshiny badge /cwhas been left here./c0~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+3 2000 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2817
+stretcher~
+a stretcher~
+A stretcher lies rolled up on the ground.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+10 20
+#2818
+duffel military bag~
+/cwa /cgmilitary issue/cw duffel/c0~
+/cwA /cgmilitary issue/cw duffel has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+100 0 -1 0 0 0 0 0
+8 666 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2819
+medals slew~
+/cwa slew of medals/c0~
+/cwA slew of medals have been left here./c0~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+5 5280 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+#2820
+visor steel~
+/cwa /ccsteel/cw visor/c0~
+/cwA /ccsteel/cw visor has been left here./c0~
+~
+9 1 0 0 0 262145 0 0 0
+4 0 0 0 0 0 0 0
+4 4933 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+A
+13 10
+#2821
+pump bellows~
+a bellows pump~
+A bellows pump has been left here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+13 124 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2822
+band arm bronze~
+/cwa /cYbronze/cw arm band/c0~
+/cwA /cYbronze/cw arm band has been left here./c0~
+~
+9 0 0 0 0 257 0 0 0
+2 0 0 0 0 0 0 0
+3 4080 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2823
+earring heavy bronze~
+/cwa heavy /cYbronze/cw earring/c0~
+/cwA heavy /cYbronze/cw earring has been left here./c0~
+~
+9 4198401 0 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+8 4799 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#2824
+pitchfork fork~
+a pitchfork~
+A pitchfork has been left here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+6 4666 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2825
+apron leather stained~
+/cwa /cYstained/cy leather /cwapron/c0~
+/cwA /cYstained/cy leather /cwapron has been left here./c0~
+~
+9 0 0 0 0 2049 0 0 0
+5 0 0 0 0 0 0 0
+5 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2826
+pail~
+/cwa /cLmetal /cwpail/c0~
+/cwA /cLmetal /cwpail lies here on its side./c0~
+~
+17 0 0 0 0 16385 0 0 0
+20 10 0 0 0 0 0 0
+15 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2827
+jug milk~
+/cwa jug of /cWcold milk/c0~
+/cwA jug of /cWcold milk /cwhas been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+10 10 10 0 0 0 0 0
+15 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2828
+meat slab frozen~
+/cwa slab of /ccfrozen /cwmeat/c0~
+/cwA slab of /ccfrozen /cwmeat hangs here on a hook./c0~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0 0 0 0 0
+10 80 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2829
+fruit dried~
+/cwsome /cmdried/cw fruits/c0~
+/cwSome /cmdried/cw fruits are laying the ground./c0~
+~
+19 0 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+3 20 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2830
+rations soldier's~
+/cwsome /cgsoldier's /cwrations/c0~
+/cwSome /cgsoldier's /cwrations are stacked here in a pile./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+4 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2899
+deed eastern army encampment~
+the deed to the Eastern Army Encampment~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+28 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

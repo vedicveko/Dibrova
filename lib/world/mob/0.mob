@@ -1,0 +1,656 @@
+#1
+Puff dragon fractal~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+Is that some type of differntial curve involving some strange, and
+unknown calculus that she seems to be made out of?
+~
+253961 0 0 0 33800 0 0 0 1000 E
+26 1 -1 5d10+550 4d6+3
+10000 155000
+8 8 2
+BareHandAttack: 12
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 5
+Luck: 12
+E
+#2
+Fish~
+/cBA snarling blue fish/c0~
+A mean looking /cbfresh /cBwater fish swims/c0 here.
+~
+It is a rather large fish that likes to live in the water, go figure.
+~
+8 0 0 0 0 0 0 0 -100 E
+100 77 -40 1d150+18000 5d7+50
+5000 589815
+8 8 0
+Str: 14
+Dex: 18
+Int: 15
+Wis: 10
+Con: 22
+Cha: 9
+Luck: 5
+Race: 4
+E
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+This clone is nothing to look at.  No, really, it is quite boring.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 0
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 25
+Luck: 12
+E
+#11
+zombie undead humanoid~
+the zombie~
+A strange humanoid is here.  How odd, its flesh seems to be falling off!
+~
+This strange humanoid is moving rather slowly, and appears to be
+a corpse, a walking corpse!  It must be a zombie or something of
+the sort.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 0
+BareHandAttack: 7
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 21
+Luck: 12
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+As you stare at this amorphous shape, it begins to appear to take
+the shape of a cloud-like humanoid.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 0
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 9
+Luck: 12
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+This creature is the essence of the elements, and appears to be
+waiting patiently for something to occur.
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 6
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 6
+Luck: 12
+E
+#25
+hawk brown wild~
+a wild, brown Hawk~
+A Large, wild hawk is here, spreading it's wings.
+~
+The heavy, brown hawk seems a bit out of its element here.
+~
+65546 0 0 0 12582912 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+0 4674
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 22
+Luck: 12
+Race: 3
+E
+#26
+monkey~
+a wild Monkey~
+A small, wild monkey is here.
+~
+The monkey hops from one foot to another, impatient to get on with its
+master's bidding.    
+~
+10 0 0 0 33554432 0 0 0 0 E
+18 7 28 1d18+800 1d3+12
+0 7441
+8 8 0
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 10
+Luck: 12
+Race: 1
+E
+#27
+tiger~
+a wild Tiger~
+a large, brown, striped tiger is here.
+~
+This lithe animal prowls back and forth in anticipation of the kill.
+~
+10 0 0 0 0 0 0 0 0 E
+20 8 20 1d20+1000 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 22
+Luck: 12
+Race: 1
+E
+#28
+bear brown~
+a wild, brown Bear~
+A large, brown bear is here.  Yellow teeth, gigantic paws and all.
+~
+You would normally be terrified at the sight, but since this bear
+doesn't seem interested in you, it's easier to ignore it.    
+~
+10 0 0 0 0 131072 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 9
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 15
+Luck: 12
+Race: 1
+E
+#32
+skeletal pegasus~
+a Skeletal Pegasus~
+A skeletal pegasus hooves at the ground and snorts evilly as you pass.
+~
+This poor creature is an abomination to the whole race of pegasi, its
+body brought back to life, or rather undeath, by the arcane sorcery of
+a death knight.    
+~
+262154 0 0 0 8390672 0 0 0 -1000 E
+15 5 40 1d15+500 1d3+10
+0 4674
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+Race: 52
+E
+#33
+dracolich~
+a Dracolich~
+A dracolich is crouched in battle-readiness, awaiting its master's bidding.
+~
+It looks much like a black dragon, however it is much more slender and
+lithe.  Its eyes glow with an unholy light, pinpoints of light
+floating in shadowy eyesockets.    
+~
+10 0 0 0 2064 0 0 0 -1000 E
+20 8 20 1d20+1000 1d4+13
+0 9735
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 17
+Luck: 12
+Race: 44
+E
+#50
+cat black~
+a black cat~
+A black cat prowls about, watching over her master.
+~
+She looks at you with eyes that seem much more intelligent than your
+everage black cat.  Its almost spooky.    
+~
+10 0 0 0 524368 0 0 0 0 E
+8 2 68 1d1+0 1d2+5
+0 941
+8 8 2
+BareHandAttack: 8
+Str: 6
+Dex: 13
+Int: 22
+Wis: 19
+Con: 24
+Cha: 24
+Luck: 10
+Race: 1
+E
+#51
+owl wise~
+a Wise Owl~
+A wise owl swoops silently about.
+~
+Its eyes stare directly back at you, wide and full.  They blink once.
+~
+10 0 0 0 8388688 0 0 0 0 E
+8 2 68 1d1+0 1d2+5
+0 941
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 17
+Int: 6
+Wis: 8
+Con: 16
+Cha: 14
+Luck: 8
+Race: 3
+E
+#52
+two headed snake~
+a Two-headed Snake~
+A deadly snake hisses in warning!
+~
+This creature is of arcane stock, born of magic that only sorcerors
+possess.  It hisses at you, a warning to stay back.    
+~
+10 0 0 0 208 0 0 0 0 E
+8 2 68 1d1+0 1d2+5
+0 941
+8 8 0
+BareHandAttack: 1
+Str: 25
+Dex: 17
+Int: 9
+Wis: 16
+Con: 21
+Cha: 5
+Luck: 12
+Race: 2
+E
+#53
+ferret large~
+a large Ferret~
+A large ferret hops about, hissing and snarling!
+~
+He would be a cute little bugger if he would stop hissing and
+snarling.  It appears that he doesn't appreciate that he is magically
+bound to a master.    
+~
+16394 0 0 0 524368 0 0 0 0 E
+8 2 68 1d1+0 1d2+5
+0 941
+8 8 0
+Str: 13
+Dex: 9
+Int: 22
+Wis: 21
+Con: 14
+Cha: 10
+Luck: 21
+Race: 1
+E
+#54
+interloper~
+an Interloper~
+An interloper prowls about, staying near it's master.
+~
+It paces about, back and forth, a menacing creature born of the night
+with abilities that compliment its heritage.    
+~
+180250 0 0 0 1572944 0 0 0 -300 E
+12 3 52 1d1+0 1d2+8
+0 2646
+8 8 0
+BareHandAttack: 8
+Str: 15
+Dex: 10
+Int: 17
+Wis: 21
+Con: 9
+Cha: 5
+Luck: 6
+Race: 8
+E
+#55
+undefined~
+undefined~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 16
+Dex: 16
+Int: 7
+Wis: 9
+Con: 23
+Cha: 15
+Luck: 9
+E
+#56
+unicorn white~
+a white Unicorn~
+A white unicorn tosses its head proudly.
+~
+The white Unicorn is a majestic mount, large and graceful.  A single
+spiraling horn protudes from it's head, the source of it's magical
+powers.    
+~
+327690 0 0 0 8390672 0 0 0 0 E
+15 5 40 1d1+0 1d3+10
+0 4674
+8 8 0
+Str: 6
+Dex: 23
+Int: 13
+Wis: 21
+Con: 14
+Cha: 13
+Luck: 18
+Race: 52
+E
+#57
+mogulin~
+a Mogulin~
+A stocky mogulin scuttles about, ready to defend it's master!
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 8
+Dex: 24
+Int: 17
+Wis: 15
+Con: 14
+Cha: 20
+Luck: 10
+E
+#58
+helzboah demon~
+a Helzboan~
+A twisted demon crawls forth, aside it's master.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 13
+Dex: 6
+Int: 18
+Wis: 18
+Con: 8
+Cha: 5
+Luck: 21
+E
+#59
+ganaud~
+a Ganaud~
+A hulking beast, a ganaud, watches over it's master.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 8
+Dex: 15
+Int: 5
+Wis: 13
+Con: 12
+Cha: 21
+Luck: 5
+E
+#60
+beholder~
+a mighty Beholder~
+A mighty beholder hovers about!
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 20
+Dex: 8
+Int: 5
+Wis: 25
+Con: 8
+Cha: 24
+Luck: 6
+E
+#61
+dhalin~
+a Dhalin~
+A slender demon, a Dhalin, glides forth!
+~
+It bares a set of thin, curved fangs as you scrutinize it.  It does
+not appear to like you very much, and whether or not it is in thrall
+to someone, you'd be best served to keep any appendages clear of its
+maw.    
+~
+138 0 0 0 0 0 16777216 0 -1000 E
+30 14 -20 1d1+0 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 15
+Int: 15
+Wis: 5
+Con: 6
+Cha: 5
+Luck: 9
+Race: 41
+E
+#62
+fehzou~
+a Fehzou~
+A Fehzou slinks about, snarling with rage!
+~
+It almost hops as it moves about due to it being extremely hunched
+over, almost ape-like.  Its arms dangle down nearly brushing the
+ground, long claws protruding from each knuckle.    
+~
+16394 0 0 0 536870992 0 0 0 -1000 E
+37 19 -20 1d1+0 3d6+24
+0 46733
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 20
+Int: 20
+Wis: 21
+Con: 15
+Cha: 17
+Luck: 10
+Race: 41
+E
+#63
+necrolieu demon~
+a Necrolieu~
+A powerfully-built demon flexes it's claws in a show of power!
+~
+It looks your way disdainfully, puffing out its powerful chest and
+staring at you through blood-red eyes.  A wicked smile begins to play
+across its face.    
+~
+49162 0 0 0 33554512 0 0 0 -1000 E
+45 25 -24 1d1+0 4d5+30
+0 76985
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 6
+Cha: 17
+Luck: 7
+Race: 41
+E
+#64
+shambling undead~
+a shambling undead~
+A shambling undead lumbers forth, intent on killing.
+~
+Bits and pieces of gore drip from its decaying jaw as it moans out its
+misery at you.    
+~
+10 0 0 0 80 0 0 0 0 E
+37 19 -20 1d1+0 3d6+24
+0 46733
+8 8 0
+BareHandAttack: 9
+Str: 9
+Dex: 9
+Int: 8
+Wis: 5
+Con: 8
+Cha: 12
+Luck: 24
+Race: 6
+E
+#65
+shambling undead~
+a shambling undead~
+A shambling undead lumbers forth, intent on killing.
+~
+Bits and pieces of gore drip from its decaying jaw as it moans out its
+misery at you.    
+~
+180234 0 0 0 80 0 0 0 0 E
+55 33 -32 1d1+0 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 9
+Str: 6
+Dex: 5
+Int: 16
+Wis: 24
+Con: 9
+Cha: 6
+Luck: 7
+Race: 6
+E
+#66
+shambling undead~
+a shambling undead~
+A shambling undead lumbers forth, intent on killing.
+~
+Bits and pieces of gore drip from its decaying jaw as it moans out its
+misery at you.    
+~
+180234 0 0 0 80 0 0 0 0 E
+68 45 -40 1d1+0 6d6+45
+0 220604
+8 8 0
+BareHandAttack: 9
+Str: 21
+Dex: 18
+Int: 24
+Wis: 12
+Con: 10
+Cha: 25
+Luck: 18
+Race: 6
+E
+#67
+drake fire mount demon~
+a winged fire drake~
+A winged fire drake caws at you.
+~
+It is surrounded in a fiery nimbs, its eyes rolling wildly as it
+readies for battle.    
+~
+8716298 0 0 0 8652880 2 0 0 -1000 E
+45 25 -24 1d1+0 4d5+30
+0 84683
+8 8 0
+BareHandAttack: 8
+Str: 8
+Dex: 24
+Int: 25
+Wis: 14
+Con: 13
+Cha: 25
+Luck: 7
+Race: 9
+E
+#99
+death reaper~
+Death~
+Death the Grim Reaper is observing you silently from empty eye sockets.
+~
+The dark-robed skeletal figure radiates an unendurable coldness.
+~
+256026 0 0 0 33960 0 0 0 -1000 E
+200 204 -60 1d200+24000 15d20+100
+0 4749475
+8 8 0
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 17
+Luck: 12
+E
+$

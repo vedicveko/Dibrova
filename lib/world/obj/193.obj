@@ -1,0 +1,329 @@
+#19301
+cape fur brown~
+/cwa /cybrown fur /cgcape/c0~
+A brown fur cape is piled on the floor here.~
+~
+9 0 0 0 0 2097153 0 0 0
+10 0 0 0 0 0 0 0
+4 24266 10 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+brown fur cape~
+It is a rather coarse brown cape.  
+~
+A
+25 1
+A
+18 4
+A
+19 4
+#19302
+sword statue~
+/cwa /ccstatue's sword/c0~
+An straight sword is stuck in the ground here.
+~
+~
+5 2 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+9 23333 10 70 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sword~
+The sword looks rather old.
+~
+A
+13 10
+#19303
+staff seasoned~
+/cwa /crseasoned staff/c0~
+A well seasoned staff has been dropped here.
+~
+~
+5 2 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+9 28000 30 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+seasoned staff~
+It looks like a seasoned staff.  Probably good for hitting people.
+~
+A
+18 3
+#19304
+mop~
+/cwa /cbwet /cwmop/c0~
+A soaking wet mop is here, making a puddle.
+~
+~
+13 128 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 10 1 60 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wet mop~
+Yuck, its a smelly wet mop..better run before you have to mop something.
+~
+A
+9 5
+#19305
+marble key~
+/cwa /cWmarble /cwkey/c0~
+A marble key lies here, gathering dust.
+~
+~
+18 32 0 0 0 16385 0 0 0
+2 0 0 0 0 0 0 0
+1 10 500 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+marble key~
+Its a small marble key, would fit in a marble door methinks.
+~
+#19306
+oak key~
+/cwan /cyoak key/c0~
+An oak key rests here.
+~
+~
+18 32 0 0 0 16385 0 0 0
+2 0 0 0 0 0 0 0
+1 10 500 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+oak key~
+It's a small oak key, would fit in an oak door methinks.
+~
+#19307
+iron key~
+/cwan /cLiron key/c0~
+An iron key lies here, rusting.
+~
+~
+18 32 0 0 0 16385 0 0 0
+2 0 0 0 0 0 0 0
+1 10 500 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+iron key~
+It's an iron key, would fit in an iron door methinks.
+~
+#19308
+ring taurus~
+/cwa /cRtaurus /cWring/c0~
+A ring shaped like a bull lies here.
+~
+~
+9 33 0 0 0 16387 0 0 0
+5 0 0 0 0 0 0 0
+1 25200 27 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+taurus ring~
+It is a ring with a golden bull insignia.
+~
+A
+19 2
+A
+1 1
+#19309
+key nirin~
+/cw a /cpnirin /cwkey/c0~
+A key made or nirin wood lies here.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19310
+cloak fur~
+/cwa /cYgreat /cyfur /cYcloak/c0~
+A great fur cloak is here.
+~
+~
+9 3 0 0 0 1025 0 0 0
+10 0 0 0 0 0 0 0
+10 27600 30 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fur cloak~
+This was once the skin of a great bull.
+~
+A
+5 2
+A
+10 20
+#19311
+mask horned ~
+/cwa /cYgolden horned /cwmask/c0~
+A mask with two wicked horns rests here.
+~
+~
+9 35 0 0 0 17 0 0 0
+5 0 0 0 0 0 0 0
+3 23400 22 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+golden horn mask~
+This mask is made out of pure gold, and has two wicked horns.
+~
+A
+24 2
+A
+19 2
+#19312
+bible~
+/cwa /cRWABAT /cbbible/c0~
+A small bible of some sort lies here.~
+Evil arcs of magic leap from the bible as $n recites from it!
+~
+4 65551 32 0 0 16385 0 0 0
+15 10 10 27 0 0 0 0
+10 1 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wabat bible~
+The WABAT bible is printed thus:
+
+I.   Thou shalt behave with honor at all times.
+II.  Thou shalt shalt disperse thy enemies with thy sword.
+III. Thou shalt defend WABAT and those who cannot 
+     defend themselves.
+IV.  Thou shalt have no guilds before WABAT.
+V.   Thou shalt kill those who take the name of WABAT in vain.
+
+Thus speaketh the WABAT bible.
+~
+#19313
+key boron~
+/cwa /cCboron key/c0~
+A key made of boron lies here.~
+~
+18 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19314
+ring ~
+/cwa /crring /cwof /cLeternal darkness/c0~
+A dark colored ring has been left here.~
+~
+9 512 0 0 0 3 0 0 0
+4 0 0 0 0 0 0 0
+3 31586 1 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 2
+A
+3 2
+#19315
+cloak~
+/cwa /crcloak /cwof /cLeternal darkness/c0~
+A dark cloak lies crumbled in a heap.~
+~
+9 512 0 0 0 1025 0 0 0
+8 0 0 0 0 0 0 0
+8 34333 1 103 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 2
+A
+4 2
+#19316
+legging fur~
+/cwa set of /cybrown fur /crleggings/c0~
+A pair of brown fur leggings lie on the ground here.
+~
+~
+9 3 0 0 0 33 0 0 0
+7 0 0 0 0 0 0 0
+5 25800 30 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+leggings leg brown fur~
+They seem to have been stripped off of a Bull.
+~
+A
+14 20
+A
+2 2
+#19317
+horn~
+/cwa /cGtwisted horn/c0~
+A twisted piece of horn has been dropped here.
+~
+~
+9 3 0 0 0 4097 0 0 0
+5 0 0 0 0 0 0 0
+2 30600 20 90 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bracelet horn twisted~
+It is a highly polished piece of horn, might fit on your wrist.
+~
+A
+18 5
+A
+19 3
+A
+13 -15
+#19318
+key wooden~
+/cwa /cywooden /cwkey/c0~
+A small wooden key has been dropped here.~
+It might just fit a wooden door, you never know....
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19319
+key iron~
+/cwan /cLiron /cwkey/c0~
+Someone left an iron key here.~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19320
+sword~
+/cwa /crsword /cwof /cLeternal darkness/c0~
+A dark sword has been left here.~
+~
+5 512 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+10 32666 1 98 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19321
+key lotus~
+/cw a key/c0~
+A shiny white key has been dropped here.~
+A large white lotus has been carved into the handle.
+~
+18 4 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+2 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+19 4
+#19322
+key light~
+/cwthe /cYlight /cwkey/c0~
+The light key is here, being shiny.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#19323
+portal~
+/cwa /cCshimmering /cwportal/c0~
+A shimmering portal crackles with energy here.~
+~
+27 0 0 0 0 1 0 0 0
+14233 0 0 0 0 0 0 0
+1 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

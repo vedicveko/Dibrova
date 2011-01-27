@@ -1,0 +1,1807 @@
+#12100
+The Path to Forest Castle~
+You are walking along a small path that leads north towards a small
+castle.  The turrets fly multicolored banners, flapping in the wind.
+The moat is to the north, and you wonder if you would be welcome
+there.  The way back from the castle is to the south.    
+~
+121 0 0 0 0 10
+D0
+~
+~
+0 0 12101 0
+D2
+~
+~
+0 0 8477 0
+S
+#12101
+The Moat~
+You have reached the moat of the Forest Castle.  Luckily the
+drawbridge has been lowered, as the greenish slime that passes as the
+water in the moat does not look all that safe.  You sense a presence
+within the water and wonder what lives down there.    
+~
+121 4 0 0 0 10
+D0
+~
+~
+0 0 12103 0
+D2
+~
+~
+0 0 12100 0
+D5
+~
+~
+0 0 12102 0
+S
+#12102
+Inside the Moat~
+You are swimming inside the moat of the Forest Castle.  Something
+rather large brushes your leg, but it is rather hard to see what it
+was.  Remembering that whatever lives in the moat most likely was
+placed there to discourage intruders, you wonder if it would be more
+prudent to leave.    
+~
+121 0 0 0 0 8
+D4
+~
+~
+0 0 12101 0
+S
+#12103
+The Entrance to Forest Castle~
+You have reached the outer gates to the Forest Castle.  The castle
+itself has been built from slabs of solid rock, fashioned into a
+strong fortress.  Its spires and towers are somewhat inspiring, but
+all in all the castle seems rather small from the outside.  You wonder
+if it is more impressive inside.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 12104 0
+D2
+~
+~
+0 0 12101 0
+S
+#12104
+The Main Gates~
+You have reached the main gates of Forest Castle.  These gates are
+huge, easily twenty feet tall, and tower above you.  They have been
+cast from an steel alloy and are about a foot thick.  It would take a
+number of men to open and shut these gates.  Luckily for you, they are
+open.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 12105 0
+D2
+~
+~
+0 0 12103 0
+S
+#12105
+The Courtyard~
+You have entered a large courtyard inside the Forest Castle.  The
+ground has been paved with smooth, flat stones, and a number of potted
+trees grow to either side.  The gates that lead outside of the castle
+are to the south, and a set of doors lead the way into the castle to
+the north.    
+~
+121 4 0 0 0 1
+D0
+~
+entrance~
+1 0 12106 1
+D2
+~
+~
+0 0 12104 0
+S
+#12106
+The Entrance Hall~
+You are standing inside a spacious entrance hall within Forest Castle.
+Colorful banners and elegant tapestries line the walls all about you
+and the windows let in a cool breeze.  Slow burning torches gutter
+lightly in the wind but remain steady enough to provide a constant
+light.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12107 0
+D2
+~
+entrance~
+1 0 12105 1
+S
+#12107
+The Foyer of Forest Castle~
+You are inside the main foyer of Forest Castle.  Huge stone pillars
+and columns support the high ceilings with elegance and grace as well
+as strength.  A number of paintings of past kings and royal family
+members hang upon the walls and a large silver brazier in the center
+of the room glows brightly, filling the room with a luminescent light.
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12108 0
+D2
+~
+~
+0 0 12106 0
+D4
+~
+~
+0 0 12144 0
+S
+#12108
+The Intersection~
+You are at an intersection on the main floor of Forest Castle.  Two
+hallways meet here, from south to north and east to west.  A few
+tapestries and paintings hang upon the walls, depicting loyal nobles
+and barons.  The main foyer is to the south.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12109 0
+D1
+~
+~
+0 0 12129 0
+D2
+~
+~
+0 0 12107 0
+D3
+~
+~
+0 0 12126 0
+S
+#12109
+The Northern Hallway~
+You are at the northern part of the hallway on the main floor of
+Forest Castle.  There are doors to the east and west and another door
+that leads outside to the north.  Two torches set on either wall
+provide the lighting and you can see that this section of the hall is
+as well kept as the rest of the castle.  A set of stairs lead up to a
+door above here.    
+~
+121 8 0 0 0 0
+D0
+~
+outside~
+1 0 12112 3
+D1
+~
+bedroom~
+1 0 12111 1
+D2
+~
+~
+0 0 12108 0
+D3
+~
+bedroom~
+1 0 12110 1
+D4
+~
+ceiling~
+1 0 12166 1
+S
+#12110
+The Servants' Quarters~
+You have entered the servants' quarters inside Forest Castle.  A
+number of beds are lined up along the wall, along with large chests
+and dressers for clothes and other possessions.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12109 1
+S
+#12111
+The Servants' Quarters~
+You have entered the servants' quarters inside Forest Castle.  A
+number of beds are lined up along the wall, along with large chests
+and dressers for clothes and other possessions.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12109 1
+S
+#12112
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest
+Castle to the stables.  Fields of green lawn are to either side of the
+path and spruce trees grow periodically.  You can smell the scent of
+horses to the north, getting stronger with each step closer.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 12113 0
+D2
+~
+~
+1 0 12109 3
+S
+#12113
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest
+Castle to the stables.  Fields of green lawn are to either side of the
+path and spruce trees grow periodically.  You can smell the scent of
+horses to the north, getting stronger with each step closer.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 12114 0
+D2
+~
+~
+0 0 12112 0
+S
+#12114
+Path to the Stables~
+You are walking along a well kept dirt path that leads from Forest
+Castle to the stables.  Fields of green lawn are to either side of the
+path and spruce trees grow periodically.  You can smell the scent of
+horses to the north, getting stronger with each step closer.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 12115 0
+D2
+~
+~
+0 0 12113 0
+S
+#12115
+Entrance to the Stables~
+You have reached the entrance to the stables.  The stables are housed
+within a large building constructed of wood.  Bales of hay and sacks
+of grain line the walls, protected from rain by a large overhang above
+them.  A number of tomcats prowl about, searching for mice.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12116 0
+D2
+~
+~
+0 0 12114 0
+S
+#12116
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls
+line the stables on the west and east.  A long iron water trough fills
+the center walkway with cool water.  The floor is covered with stray
+pieces of hay and a pail of oats hangs from each stall door.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12117 0
+D1
+~
+stall~
+1 0 12125 3
+D2
+~
+~
+0 0 12115 0
+D3
+~
+stall~
+1 0 12124 3
+S
+#12117
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls
+line the stables on the west and east.  A long iron water trough fills
+the center walkway with cool water.  The floor is covered with stray
+pieces of hay and a pail of oats hangs from each stall door.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12118 0
+D1
+~
+stall~
+1 0 12123 3
+D2
+~
+~
+0 0 12116 0
+D3
+~
+stall~
+1 0 12122 3
+S
+#12118
+The Stables~
+You are walking inside the royal stables of Forest Castle.  Stalls
+line the stables on the west and east.  A long iron water trough fills
+the center walkway with cool water.  The floor is covered with stray
+pieces of hay and a pail of oats hangs from each stall door.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12119 0
+D1
+~
+stall~
+1 0 12121 3
+D2
+~
+~
+0 0 12117 0
+D3
+~
+stall~
+1 0 12120 3
+S
+#12119
+Outside the Royal Stables~
+The grasslands and farming fields of the Baron's land surround the
+castle, which are in turn surrounded by the immense Kailaani forest
+Best to turn and head back into the castle.    
+~
+121 0 0 0 0 1
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 12118 0
+S
+#12120
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12118 3
+S
+#12121
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12118 3
+S
+#12122
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12117 3
+S
+#12123
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12117 3
+S
+#12124
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12116 3
+S
+#12125
+A Stall~
+You are inside a stall within the stables of Forest Castle.  This
+stall houses the royal riding animals of the royalty.  A few thick
+blankets hang upon the stall doors, ready to give the riding beasts a
+rubdown if they need it.  A thick brush and riding tackle also hang
+from pegs inside the stall.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12116 3
+S
+#12126
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12138 3
+D1
+~
+~
+0 0 12108 0
+D2
+~
+guest~
+1 0 12139 3
+D3
+~
+~
+0 0 12127 0
+S
+#12127
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12140 3
+D1
+~
+~
+0 0 12126 0
+D2
+~
+guest~
+1 0 12141 3
+D3
+~
+~
+0 0 12128 0
+S
+#12128
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.  A small set
+of stairs leads down from here.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12142 3
+D1
+~
+~
+0 0 12127 0
+D2
+~
+guest~
+1 0 12143 3
+D5
+~
+dungeon~
+1 0 12268 1
+S
+#12129
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12136 1
+D1
+~
+~
+0 0 12130 0
+D2
+~
+guest~
+1 0 12137 3
+D3
+~
+~
+0 0 12108 0
+S
+#12130
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12134 3
+D1
+~
+~
+0 0 12131 0
+D2
+~
+guest~
+1 0 12135 3
+D3
+~
+~
+0 0 12129 0
+S
+#12131
+The Guest Hall~
+You are walking along a west-east hallway on the main floor of Forest
+Castle.  This hallway houses the guest rooms for visitors to the
+Forest Castle with royal invitations.  The floor is carpeted with a
+lush blue carpet and fine paintings hang upon the walls.  A small
+torch is set into the walls outside each guest room door.  A small set
+of stairs leads down from here.    
+~
+121 8 0 0 0 0
+D0
+~
+guest~
+1 0 12132 3
+D2
+~
+guest~
+1 0 12133 3
+D3
+~
+~
+0 0 12130 0
+D5
+~
+dungeon~
+1 0 12262 1
+S
+#12132
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+1 0 12131 3
+S
+#12133
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12131 3
+S
+#12134
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+1 0 12130 3
+S
+#12135
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12130 3
+S
+#12136
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+door~
+1 -1 12129 1
+S
+#12137
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12129 3
+S
+#12138
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+1 0 12126 3
+S
+#12139
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12126 3
+S
+#12140
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+1 0 12127 3
+S
+#12141
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12127 3
+S
+#12142
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+1 0 12128 3
+S
+#12143
+The Guest Room~
+You are inside one of the guest rooms within Forest Castle.  A nice
+canopy bed, made from oak, lies here, along with a closet and dresser.
+A massive full length mirror sits on the opposite wall and a small
+brazier has been lit in the corner of the room.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+1 0 12128 3
+S
+#12144
+The Second Floor~
+You have reached the second floor of Forest Castle.  Coats of arms and
+other sigils of the barons and nobles hang high upon the stone walls.
+A huge fireplace lights the room and fills it with gentle warmth.  
+Rugs made from animal furs lie upon the floor and a number of
+comfortable couches and chairs have been placed here for your comfort.
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12146 0
+D1
+~
+banquet~
+1 0 12149 1
+D2
+~
+banquet~
+1 0 12145 1
+D3
+~
+banquest~
+1 0 12150 1
+D4
+~
+~
+0 0 12151 0
+D5
+~
+~
+0 0 12107 0
+S
+#12145
+The Cherrywood Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Lights fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D0
+~
+door~
+1 0 12144 1
+S
+#12146
+The Antechamber~
+You are in a large chamber that serves as the waiting room to the
+Throne.  A comfortable bench is here and fine paintings oof the past
+members of royalty hang upon the walls.  Several of these paintings
+have gaping knife marks, as if someone has been using them for target
+practice.    
+~
+121 8 0 0 0 0
+D0
+~
+north~
+1 0 12147 1
+D2
+~
+~
+0 0 12144 0
+S
+#12147
+The Great Hall~
+You are standing in the Great Hall of Forest Castle.  Half a hundred
+glowing foxfire lamps provide silver lighting for the entire Hall.  
+On the far side of the Hall, the gorgeous stained-glass windows lets
+the outside light fall upon the massive throne, set high on a raised
+dais and carved in its entirity from a single block of oak.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12148 0
+D2
+~
+door~
+1 0 12146 1
+S
+#12148
+Before the Throne~
+You stand before the throne of the Forest Kingdom.  The throne itself
+is a massive chair carved from a single block of oak.  The light from
+the foxfire lamps makes the throne glow with a silvery light and the
+stained glass windows offset the silver with a bluish cast.  A
+decorous banner behind the throne bears the sigil of the Forest
+Kingdom.    
+~
+121 8 0 0 0 0
+D2
+~
+~
+0 0 12147 0
+S
+#12149
+The Pine Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D3
+~
+door~
+1 0 12144 1
+S
+#12150
+The Spruce Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D1
+~
+door~
+1 -1 12144 1
+S
+#12151
+The Third Floor~
+You have reached the third floor of Forest Castle.  Coats of arms and
+other sigils of the barons and nobles hang high upon the stone walls.
+Massive wooden doors surround you at each entrance north, south, east,
+and west.  Loud music and incessant talking can be heard all around
+and the smell of food permeates the air.    
+~
+121 8 0 0 0 0
+D0
+~
+ballroom~
+1 0 12155 1
+D1
+~
+banquet~
+1 0 12153 1
+D2
+~
+banquet~
+1 0 12152 1
+D3
+~
+banquet~
+1 0 12154 1
+D4
+~
+~
+0 0 12156 0
+D5
+~
+~
+0 0 12144 0
+S
+#12152
+The Oak Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D0
+~
+door~
+1 0 12151 1
+S
+#12153
+The Rowan Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D3
+~
+door~
+1 0 12151 1
+S
+#12154
+The Fir Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D1
+~
+door~
+1 0 12151 1
+S
+#12155
+The Carnation Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling
+with a massive circular mirror.  Foxfire lamps fill the room with
+silver light, seeming to enhance the music being played by the
+minstrels sitting in the corner.    
+~
+121 8 0 0 0 0
+D2
+~
+door~
+1 0 12151 1
+S
+#12156
+The Fourth Floor~
+You have reached the fourth floor of Forest Castle.  A number of small
+windows cuts into the corners show a magnificent view of the Forest
+Kingdom.  The sounds of music and festivities fill the room, along
+with the smells of food.  There must be quite a party going on.    
+~
+121 8 0 0 0 0
+D0
+~
+ballroom~
+1 0 12160 1
+D1
+~
+banquet~
+1 0 12158 1
+D2
+~
+banquet~
+1 0 12157 1
+D3
+~
+banquet~
+1 0 12159 1
+D4
+~
+~
+0 0 12161 0
+D5
+~
+~
+0 0 12151 0
+S
+#12157
+The Ash Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D0
+~
+door~
+1 0 12156 1
+S
+#12158
+The Acorn Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D3
+~
+door~
+1 0 12156 1
+S
+#12159
+The Willow Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D1
+~
+door~
+1 0 12156 1
+S
+#12160
+The Tulip Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling
+with a massive circular mirror.  Foxfire lamps fill the room with
+silver light, seeming to enhance the music being played by the
+minstrels sitting in the corner.    
+~
+121 8 0 0 0 0
+D2
+~
+door~
+1 0 12156 1
+S
+#12161
+The Fifth Floor~
+You have reached the fifth floor of Forest Castle.  This castle seems
+incredible large from the inside and you can only wonder how they
+managed to make the castle look so small from the outside.  An ornate
+full length mirror is set into the ceiling and a number of foxfire
+lamps glow silvery light througout the room.    
+~
+121 8 0 0 0 0
+D0
+~
+ballroom~
+1 0 12165 1
+D1
+~
+banquet~
+1 0 12163 1
+D2
+~
+banquet~
+1 0 12162 1
+D3
+~
+banquet~
+1 0 12164 1
+D4
+~
+~
+0 0 12167 0
+D5
+~
+~
+0 0 12156 0
+S
+#12162
+The Gold Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D0
+~
+door~
+1 0 12161 1
+S
+#12163
+The Silver Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D3
+~
+door~
+1 0 12161 1
+S
+#12164
+The Copper Hall~
+This immense room serves as the banquet hall for the feasts served at
+Forest Castle.  A massive oak table covers most of the floor,
+surrounded with high back chairs.  Light fills the room from the many
+braziers lit on small shelves inset into the stone walls.  Upon each
+wall hangs a banner of Forest Castle.    
+~
+121 8 0 0 0 0
+D1
+~
+door~
+1 0 12161 1
+S
+#12165
+The Rose Hall~
+You have entered a huge and spacious ballroom in Forest Castle.  The
+floor has been covered with a polished white marble and the ceiling
+with a massive circular mirror.  Foxfire lamps fill the room with
+silver light, seeming to enhance the music being played by the
+minstrels sitting in the corner.    
+~
+121 8 0 0 0 0
+D2
+~
+door~
+1 0 12161 1
+S
+#12166
+The Guards' Quarters~
+You have entered a huge hall that serves as the guards' barracks.  A
+number of utilitarian cots serve as the beds for the guards of Forest
+Castle.  Each cot has a small chest before it, to hold a variety of
+possessions.  A medium length mirror is next to the door and a rack to
+hold a hundred swords.    
+~
+121 8 0 0 0 0
+D5
+~
+door~
+1 0 12109 1
+S
+#12167
+The Sixth Floor Intersection~
+You have reached the sixth floor.  This room is the intersection of
+three wings of Forest Castle.  The north, west, and east wings stretch
+out, disappearing to the darkness of each direction.  The south wing,
+however, is not here.  During a freak accident playing with magic, the
+south wing was lost many years ago.  There is simply space to the
+south, a couple hundred foot drop down to the ground.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12169 0
+D1
+~
+~
+0 0 12232 0
+D2
+~
+~
+0 0 12168 0
+D3
+~
+~
+0 0 12202 0
+D5
+~
+~
+0 0 12161 0
+S
+#12168
+The South Wing~
+You are walking along the south wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet.  Foxfire lamps light the way
+through the wing.    
+~
+121 12 0 0 0 0
+D0
+~
+~
+0 0 12167 0
+D2
+~
+paneling~
+1 0 12199 19
+S
+#12169
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12170 0
+D1
+~
+bedroom~
+1 0 12181 3
+D2
+~
+~
+0 0 12167 0
+D3
+~
+bedroom~
+1 0 12180 3
+S
+#12170
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12171 0
+D1
+~
+bedroom~
+1 0 12183 3
+D2
+~
+~
+0 0 12169 0
+D3
+~
+bedroom~
+1 0 12182 3
+S
+#12171
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12172 0
+D1
+~
+bedroom~
+1 0 12185 3
+D2
+~
+~
+0 0 12170 0
+D3
+~
+bedroom~
+1 0 12184 3
+S
+#12172
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12173 0
+D1
+~
+bedroom~
+1 0 12187 3
+D2
+~
+~
+0 0 12171 0
+D3
+~
+bedroom~
+1 0 12186 3
+S
+#12173
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12174 0
+D1
+~
+bedroom~
+1 0 12189 3
+D2
+~
+~
+0 0 12172 0
+D3
+~
+bedroom~
+1 0 12188 3
+S
+#12174
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12175 0
+D1
+~
+bedroom~
+1 0 12191 3
+D2
+~
+~
+0 0 12173 0
+D3
+~
+bedroom~
+1 0 12190 3
+S
+#12175
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12176 0
+D1
+~
+bedroom~
+1 0 12193 3
+D2
+~
+~
+0 0 12174 0
+D3
+~
+bedroom~
+1 0 12192 3
+S
+#12176
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12177 0
+D1
+~
+bedroom~
+1 0 12195 3
+D2
+~
+~
+0 0 12175 0
+D3
+~
+bedroom~
+1 0 12194 3
+S
+#12177
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12178 0
+D1
+~
+bedroom~
+1 0 12197 3
+D2
+~
+~
+0 0 12176 0
+D3
+~
+bedroom~
+1 0 12196 3
+S
+#12178
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12179 0
+D1
+~
+bedroom~
+1 0 -1 3
+D2
+~
+~
+0 0 12177 0
+D3
+~
+bedroom~
+1 0 12198 3
+S
+#12179
+The North Wing~
+You are walking along the north wing inside Forest Castle.  The floor
+is covered with a lush royal blue carpet and solid oak doors line the
+hall.  A small foxfire lamp hangs outside each door, providing the
+lighting for your endless trek.  It is said that each wing in Forest
+Castle holds over a thousand rooms.    
+~
+121 8 0 0 0 0
+D0
+~
+~
+0 0 12176 0
+D1
+~
+bedroom~
+1 0 12201 3
+D2
+~
+~
+0 0 12178 0
+D3
+~
+bedroom~
+1 0 12200 3
+S
+#12180
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+door~
+1 0 12169 3
+S
+#12181
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+door~
+1 0 12169 3
+S
+#12182
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12170 3
+S
+#12183
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12170 3
+S
+#12184
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12171 3
+S
+#12185
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12171 3
+S
+#12186
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12172 3
+S
+#12187
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12172 3
+S
+#12188
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12173 3
+S
+#12189
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12173 3
+S
+#12190
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12174 3
+S
+#12191
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12174 3
+S
+#12192
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12175 3
+S
+#12193
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12175 3
+S
+#12194
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12176 3
+S
+#12195
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12176 3
+S
+#12196
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12177 3
+S
+#12197
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D3
+~
+~
+1 0 12177 3
+S
+#12198
+The Bedroom~
+You have entered a bedroom within Forest Castle.  This bedroom, like
+all the others, is organized very neatly.  A large canopy bed sits in
+the middle of the room, surround by an ornately carved wooden dresser,
+a closet, desk, and a vanity mirror.  A small foxfire lamp lights the
+room, echoing off the mirror to illuminate all the walls.    
+~
+121 8 0 0 0 0
+D1
+~
+~
+1 0 12178 3
+S
+#12199
+Countess' Room~
+The room is lavishly decorated in lush royal blue colors.  The
+carpeting is plush, the pillows soft, and the draperies satin.  A
+large bed and matching ensemble of furniture complete the room.  The
+only thing that seems lacking is that there is no mirror here, not
+even above the triple vanity.    
+~
+121 10551532 0 0 0 0
+D0
+~
+paneling~
+1 0 12168 1
+S
+$~

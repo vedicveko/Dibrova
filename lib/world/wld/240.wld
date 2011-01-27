@@ -1,0 +1,2088 @@
+#24000
+Entrance to the Valley of Dawn~
+You stand before the entrance to a large valley, covered with mist and
+low grayish clouds heavy with moisture.  There are large strange trees
+here, burdened with massive leaves easily man-sized.  As you gaze
+about, you notice the valley sprawls before you to the north while the
+way back lays south.
+~
+240 4 0 0 0 3
+D0
+~
+~
+0 -1 24001 0
+D2
+~
+~
+0 0 31358 0
+S
+#24001
+Inside the Valley of Dawn~
+You are in the Valley of Dawn.  All about you strange vegetation grows
+of a type you have never seen.  A carpet of lush purplish grass covers
+the ground, and the low fog that hangs in this valley is rather light
+here.  You feel rather peaceful here, listening to the sounds of birds
+chirping and the mourning and lonely caw of a bluejay flying around
+you.  You can see a lake to the north.    
+~
+240 0 0 0 0 5
+D0
+~
+~
+0 -1 24002 0
+D2
+~
+~
+0 -1 24000 0
+S
+#24002
+The South Shore of Litle Sister~
+You are at the south shore of Litle Sister.  The view of the lake here
+is breathtaking as the clear water spans your entire vision before
+you.  The reflection of the sky upon the calm water and the deep woods
+that surround the lake bring the power and beauty of nature into sharp
+focus, and you can only smile at its splendor.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24005 0
+D1
+~
+~
+0 -1 24003 0
+D2
+~
+~
+0 -1 24001 0
+D3
+~
+~
+0 -1 24004 0
+S
+#24003
+The Southeast Shore of Litle Sister~
+You are on the southeast shore of Litle Sister.  The water laps gently
+against the rocks and dirt, its rythmic sounds relaxing you.  The
+clouds in the sky part slowly, their mellow misty edges letting in the
+light.  A melody of woodland sounds emanates from the forest about
+you, adding to the sound of the gentle waves to produce a soft
+symphony of light music.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24006 0
+D1
+~
+~
+0 -1 24026 0
+D3
+~
+~
+0 -1 24002 0
+S
+#24004
+The Southwest Shore of Litle Sister~
+You are at the southwest shore of Litle Sister.  The water here is
+darker as the shades of the nearby forest overcast the sunlight that
+reflects of the lake.  A few ducks quack merrily at you from their
+hiding place amound the reeds and rocks.  A cool breeze blows softly
+against your skin and a small dragonfly buzzes up against your ear.  
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24007 0
+D1
+~
+~
+0 -1 24002 0
+D3
+~
+~
+0 -1 24025 0
+S
+#24005
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  You can make out the south shore of the lake to the
+south.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24008 0
+D1
+~
+~
+0 -1 24006 0
+D2
+~
+~
+0 -1 24002 0
+D3
+~
+~
+0 -1 24007 0
+D5
+~
+~
+0 -1 24030 0
+S
+#24006
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  You can make out the southeast shore of the lake to the
+south and the eastern shore to the east.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24009 0
+D1
+~
+~
+0 -1 24022 0
+D2
+~
+~
+0 -1 24003 0
+D3
+~
+~
+0 -1 24005 0
+D5
+~
+~
+0 -1 24034 0
+S
+#24007
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  You can see the shores of the lake to the west and south.
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24010 0
+D1
+~
+~
+0 -1 24005 0
+D2
+~
+~
+0 -1 24004 0
+D3
+~
+~
+0 -1 24019 0
+D5
+~
+~
+0 -1 24037 0
+S
+#24008
+The Center of Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24011 0
+D1
+~
+~
+0 -1 24009 0
+D2
+~
+~
+0 -1 24005 0
+D3
+~
+~
+0 -1 24010 0
+D5
+~
+~
+0 -1 24029 0
+S
+#24009
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24012 0
+D1
+~
+~
+0 -1 24021 0
+D2
+~
+~
+0 -1 24006 0
+D3
+~
+~
+0 -1 24008 0
+D5
+~
+~
+0 -1 24033 0
+S
+#24010
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24013 0
+D1
+~
+~
+0 -1 24008 0
+D2
+~
+~
+0 -1 24007 0
+D3
+~
+~
+0 -1 24018 0
+D5
+~
+~
+0 -1 24036 0
+S
+#24011
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  The northern shore is to the north.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24014 0
+D1
+~
+~
+0 -1 24012 0
+D2
+~
+~
+0 -1 24008 0
+D3
+~
+~
+0 -1 24013 0
+D5
+~
+~
+0 -1 24031 0
+S
+#24012
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  To the north and east you can see the shore.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24015 0
+D1
+~
+~
+0 -1 24020 0
+D2
+~
+~
+0 -1 24009 0
+D3
+~
+~
+0 -1 24011 0
+D5
+~
+~
+0 -1 24032 0
+S
+#24013
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  You can see the shore of the lake to the north and west.
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24016 0
+D1
+~
+~
+0 -1 24011 0
+D2
+~
+~
+0 -1 24010 0
+D3
+~
+~
+0 -1 24017 0
+D5
+~
+~
+0 -1 24035 0
+S
+#24014
+The Northern Shore of Litle Sister~
+You have reached the northern shore of Litle Sister.  The dangers that
+may lurk in the forest north of here cannot reach this far into the
+calm of the lakeside view.  A swarm of pinkish butterflies float
+gently upon the breeze and you can smell the faint scent of jasmine in
+the air.  You start to feel relaxed and rather sleepy.    
+~
+240 268435460 0 0 0 2
+D1
+~
+~
+0 -1 24015 0
+D2
+~
+~
+0 -1 24011 0
+D3
+~
+~
+0 -1 24016 0
+S
+#24015
+The Northeast Shore of Litle Sister~
+You have reached the northern shore of Litle Sister.  The ground
+slopes up gently from the waterfront, gradually changing from the
+brownish dirt in the water into a thick carpet of lavender grass.  
+The forest trees to the north are visible from here, dark and
+mysterious, and you decide it would be much safer to stay by the lake.
+~
+240 268435460 0 0 0 2
+D1
+~
+~
+0 -1 24027 0
+D2
+~
+~
+0 -1 24012 0
+D3
+~
+~
+0 -1 24014 0
+S
+#24016
+The Northwest Shore of Litle Sister~
+You have reached the northwest shore of Litle Sister.  This part of
+the shore is covered by the shade of the massive trees nearby to the
+north, which supplies you with shelter from the light.  Large lilypads
+are visible in the lake from here, filled with frogs and toads of
+every size.  The occasional fish leaps into the air and can be heard
+splashing back into the water with evident glee.    
+~
+240 268435460 0 0 0 2
+D1
+~
+~
+0 -1 24014 0
+D2
+~
+~
+0 -1 24013 0
+D3
+~
+~
+0 -1 24028 0
+S
+#24017
+The Western Shore of Litle Sister~
+You are at the western shore of Litle Sister.  The shade of the forest
+stretches out to cover you here, and you can hear the loud chirping of
+crickets resting near the lake.  A large flat stone is here, making a
+perfect resting place where you can relax and enjoy the view.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24028 0
+D1
+~
+~
+0 -1 24013 0
+D2
+~
+~
+0 -1 24018 0
+S
+#24018
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  To the north, west, and south, you can see the western
+shore.    
+~
+240 268435460 0 0 0 7
+D0
+~
+~
+0 -1 24017 0
+D1
+~
+~
+0 -1 24010 0
+D2
+~
+~
+0 -1 24019 0
+D3
+~
+~
+0 -1 24023 0
+D5
+~
+~
+0 -1 24061 0
+S
+#24019
+The Western Shore of Litle Sister~
+You are on the western shore of Litle Sister.  To the east lies Litle
+Sister, not more than a few feet from you.  A fish leaps out from the
+water, seeming to almost smile at you before diving back with a loud
+splash.  A burst of cricket chirps ensues, almost as if the lake is
+inviting you in.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24018 0
+D1
+~
+~
+0 -1 24007 0
+D2
+~
+~
+0 -1 24025 0
+S
+#24020
+The Eastern Shore of Litle Sister~
+You are at the Eastern Shore of Litle Sister.  There are a number of
+large flat rocks here, next to the water, perfect for sunbathing upon.
+In fact, it looks as if a group of frogs have taken that idea into
+their heads as well, and are croaking in satisfaction as they warm
+themselves.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24027 0
+D2
+~
+~
+0 -1 24021 0
+D3
+~
+~
+0 -1 24012 0
+S
+#24021
+On Litle Sister~
+You are on Litle Sister.  The air here is rather peaceful and the
+water is cool and clear, the waves rocking gently against you.  You
+can make out a wide variety of fish and other creatures that reside in
+Litle Sister, but you cannot make out the bottom of the lake, implying
+that the water is rather deep here.  A few ducks quack happily as they
+swim about.  To the north, east, and south you can see the eastern
+shore of the lake.    
+~
+240 268435456 0 0 0 7
+D0
+~
+~
+0 -1 24020 0
+D1
+~
+~
+0 -1 24024 0
+D2
+~
+~
+0 -1 24022 0
+D3
+~
+~
+0 -1 24009 0
+S
+#24022
+The Eastern Shore of Litle Sister~
+You are at the Eastern Shore of Litle Sister.  There are a number of
+large flat rocks here, next to the water, perfect for sunbathing upon.
+In fact, it looks as if a group of frogs have taken that idea into
+their heads as well, and are croaking in satisfaction as they warm
+themselves.    
+~
+240 268435460 0 0 0 2
+D0
+~
+~
+0 -1 24021 0
+D2
+~
+~
+0 -1 24026 0
+D3
+~
+~
+0 -1 24006 0
+S
+#24023
+The Far West Shore of Litle Sister~
+You have reached the far west short of Litle Sister.  This area is
+shrouded by the trees of the forest which grow nearby, encasing the
+waterfront in light shade.  A virtual crowd of reeds grows in the
+water nearby here, obstructing your view of the magnificent lake.    
+~
+240 268435460 0 0 0 2
+D1
+~
+~
+0 -1 24018 0
+S
+#24024
+The Far East Shore of Litle Sister~
+You have reached the far east shore of Litle Sister.  From here, you
+can view the majestic lake to the west, and the large trees of the
+forest begin appearing to the east.  A grand statue has been placed
+here, carved from a beautiful white marble flecked with gold.  This is
+be a wonderful place for a picnic.    
+~
+240 268435460 0 0 0 2
+D3
+~
+~
+0 -1 24021 0
+S
+#24025
+The Southwest Corner of Litle Sister~
+You are on the southwest shore of Litle Sister.  It is rather peaceful
+here, with the calm waters lapping at your feet and cool air brushing
+against your skin.  A happy little frog crawls out of the water and
+croaks at you curiously before leaping back in.    
+~
+240 4 0 0 0 2
+D0
+~
+~
+0 -1 24019 0
+D1
+~
+~
+0 -1 24004 0
+S
+#24026
+The Southeast Corner of Litle Sister~
+You are at the southeast corner of Litle Sister.  The air is crisp and
+cool here, and the light shines brightly upon you.  The ground is
+covered with a rich purplish grass and the view of the lake from here
+is fantastic.  A flock of geese honk at you from above, and you feel
+as if this would be a great place to relax.    
+~
+240 4 0 0 0 2
+D0
+~
+~
+0 -1 24022 0
+D3
+~
+~
+0 -1 24003 0
+S
+#24027
+The Northeast Corner of Litle Sister~
+You are at the northeast corner of Litle Sister.  The view of the lake
+is slightly obstructed here by the towering reeds that grow in this
+corner.  The bass croaking of a bullfrog is loud in the quiet air, and
+a gentle mist covers the water in a light glaze.    
+~
+240 0 0 0 0 2
+D2
+~
+~
+0 -1 24020 0
+D3
+~
+~
+0 -1 24015 0
+S
+#24028
+The Northwest Corner of Litle Sister~
+You are at the northwest corner of Litle Sister.  This area is more
+woodland than waterfront, and the light is barely visible through the
+shade of the trees which surround you.  You can barely make out the
+lake to the southeast, and ponder whether you should retreat to an
+area closer to the safety of the lake.    
+~
+240 4 0 0 0 3
+D1
+~
+~
+0 -1 24016 0
+D2
+~
+~
+0 -1 24017 0
+S
+#24029
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24031 0
+D1
+~
+~
+0 -1 24033 0
+D2
+~
+~
+0 -1 24030 0
+D3
+~
+~
+0 -1 24036 0
+D4
+~
+~
+0 -1 24008 0
+D5
+~
+~
+0 -1 24038 0
+S
+#24030
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24029 0
+D1
+~
+~
+0 -1 24034 0
+D3
+~
+~
+0 -1 24037 0
+D4
+~
+~
+0 -1 24005 0
+S
+#24031
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24063 0
+D1
+~
+~
+0 -1 24032 0
+D2
+~
+~
+0 -1 24029 0
+D3
+~
+~
+0 -1 24035 0
+D4
+~
+~
+0 -1 24011 0
+S
+#24032
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D2
+~
+~
+0 -1 24033 0
+D3
+~
+~
+0 -1 24031 0
+D4
+~
+~
+0 -1 24012 0
+S
+#24033
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24032 0
+D2
+~
+~
+0 -1 24034 0
+D3
+~
+~
+0 -1 24029 0
+D4
+~
+~
+0 -1 24009 0
+S
+#24034
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24033 0
+D3
+~
+~
+0 -1 24030 0
+D4
+~
+~
+0 -1 24006 0
+S
+#24035
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D1
+~
+~
+0 -1 24031 0
+D2
+~
+~
+0 -1 24036 0
+D4
+~
+~
+0 -1 24013 0
+S
+#24036
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24035 0
+D1
+~
+~
+0 -1 24029 0
+D2
+~
+~
+0 -1 24037 0
+D4
+~
+~
+0 -1 24010 0
+S
+#24037
+Inside Litle Sister~
+You are swimming in the cool waters of Litle Sister.  Various forms of
+aquatic life roam about here, swimming about with glee.  Strange
+schools of fish flee as you draw near them, but a few playful frogs
+seem curious about your presence here and draw closer for a better
+look.    
+~
+240 0 0 0 0 8
+D0
+~
+~
+0 -1 24036 0
+D1
+~
+~
+0 -1 24030 0
+D4
+~
+~
+0 -1 24007 0
+S
+#24038
+The Bottom of Litle Sister~
+You are on the bottom of Litle Sister.  The water here is rather murky
+from silt of the lake floor.  As you gaze around, you can make out
+twisted shapes of submerged trees, aquatic plant and animal life, and
+the odd sunken craft or two.    
+~
+240 1 0 0 0 8
+D0
+~
+~
+0 -1 24039 0
+D1
+~
+~
+0 -1 24043 0
+D2
+~
+~
+0 -1 24041 0
+D4
+~
+~
+0 -1 24029 0
+S
+#24039
+On the Bottom of Litle Sister~
+You are on the bottom of Litle Sister.  To the east you can make out
+the shape of a sunken rowboat, turned over and slightly rotted and
+covered with water moss.  There is a slight motion under the boat
+which you glimpse, and you wonder if you should swim over and see what
+made the movement..  Or who.    
+~
+240 1 0 0 0 8
+D1
+~
+~
+0 -1 24040 0
+D2
+~
+~
+0 -1 24038 0
+S
+#24040
+The Sunken Rowboat~
+You are inside a small sunken rowboat.  It is very dark in here, the
+shadow of the rowboat blocking any light that might have filtered
+through the water.  The temperature here is colder as well, and you
+think you can make out the shape of something sliding through the
+water at you.    
+~
+240 1 0 0 0 8
+D3
+~
+~
+0 -1 24039 0
+S
+#24041
+By the Submerged Trunk~
+You are on the bottom of Litle Sister.  The silt here is thicker,
+perhaps disturbed by the thrashing your legs make as you swim to and
+fro.  To the west you can make out the submerged trunk of a fallen
+tree, now hollowed out into a empty shell of bark.  Green water moss
+covers the entire trunk and it looks rather dark inside.    
+~
+240 1 0 0 0 8
+D0
+~
+~
+0 -1 24038 0
+D3
+~
+~
+0 -1 24042 0
+S
+#24042
+Inside the Trunk~
+You are inside the hollowed out shell of a submerged tree inside
+Little Sister Lake.  The water here is freezing, and there is no light
+visible at all.  You sense a motion in the water, a quicking of the
+current, and realize that something is swimming toward you.  The way
+out of the trunk is to the east, a welcome sight in this dark water.
+~
+240 1 0 0 0 8
+D1
+~
+~
+0 -1 24041 0
+S
+#24043
+The Undercurrent~
+You are on the bottom of Litle Sister.  You can feel a strong cool
+undercurrent here, forcing the silt of the lake flying in all
+directions, obscuring your vision.  Closing your eyes, you pinpoint
+the direction from which the current is coming from, the east.    
+~
+240 1 0 0 0 8
+D1
+~
+~
+0 -1 24044 0
+D3
+~
+~
+0 -1 24038 0
+S
+#24044
+The Stream Outlet~
+You are at the outlet of an underwater spring.  The water here is
+cooler and tastes fresher than the rest of the lake.  There is a wide
+variety of fish swimming about here, taking simple delight in the pure
+water.  You cautious feel about yourself, and find that the source of
+the cooler water is coming from a small tunnel to the east.    
+~
+240 1 0 0 0 8
+D1
+~
+~
+0 -1 24045 0
+D3
+~
+~
+0 -1 24043 0
+S
+#24045
+The Spring Tunnel~
+You are inside a dark tunnel that serves as the channel this
+underwater spring takes to fill Litle Sister.  It is rather dark in
+here, as this tunnel has burrowed its way through dirt, mud, and rock.
+The water here is chill and cold, but feels rather refreshing against
+your skin and provides an excellent source of water for you.    
+~
+240 2097153 0 0 0 8
+D1
+~
+~
+0 -1 24046 0
+D3
+~
+~
+0 -1 24044 0
+S
+#24046
+The Spring Tunnel~
+You are inside a dark tunnel that serves as the channel this
+underwater spring takes to fill Litle Sister.  It is rather dark in
+here, as this tunnel has burrowed its way through dirt, mud, and rock.
+The water here is chill and cold, but feels rather refreshing against
+your skin and provides an excellent source of water for you.    
+~
+240 2097153 0 0 0 8
+D1
+~
+~
+0 -1 24047 0
+D3
+~
+~
+0 -1 24045 0
+S
+#24047
+The Spring Tunnel~
+You are inside a dark tunnel that serves as the channel this
+underwater spring takes to fill Litle Sister.  It is rather dark in
+here, as this tunnel has burrowed its way through dirt, mud, and rock.
+The water here is chill and cold, but feels rather refreshing against
+your skin and provides an excellent source of water for you.    
+~
+240 2097153 0 0 0 8
+D1
+~
+~
+0 -1 24048 0
+D3
+~
+~
+0 -1 24046 0
+S
+#24048
+The Spring Source~
+You are at the source of an underwater spring that supplies water to
+Litle Sister.  This source is a large cold pool, replenished by a
+waterfall that spills from higher up, perhaps from the snowcaps that
+cover the mountain, which you are at the base of.  Around the pool is
+a thich carpet of greenery, spotted by random flowers and a few sparse
+trees.  In this secluded spot, you feel a bond with the forces of
+nature which surround you.    
+~
+240 4 0 0 0 4
+D1
+~
+~
+0 -1 24049 0
+D3
+~
+~
+0 -1 24047 0
+S
+#24049
+The Base of the Mountain~
+You are at the base of Genjuro Mountain, a large monstrosity of rock
+and gravel.  The mountain reaches far up into the sky, and wonder if
+anyone would be able to climb it to its top.  There is evidence of
+plentiful animal life around here, as the tracks and spoor left by
+various animals are scattered about, visible to the trained eye.  A
+small trail of hooves leads up the mountain from here.    
+~
+240 0 0 0 0 5
+D3
+~
+~
+0 -1 24048 0
+D4
+~
+~
+0 -1 24050 0
+S
+#24050
+Climbing Genjuro Mountain~
+You are climbing Genjuro Mountain.  The loose rubble and sparse
+mountain plants make your footing here highly questionable.  The
+ground is not far below, yet you know that if you fell from here, the
+odds would be slim that you would escape injury.  The mountain tops
+are high above you, mocking your efforts to reach them.    
+~
+240 0 0 0 0 5
+D4
+~
+~
+0 -1 24051 0
+D5
+~
+~
+0 -1 24049 0
+S
+#24051
+Climbing Genjuro Mountain~
+You are climbing Genjuro Mountain.  The rocks here are larger than
+those below, and the wind chiseled ledges makes climbing here a bit
+easier.  You notice that the vegetation here has been eaten at, and
+examining the leaves shows evidence of some type of mountain
+herbivore, most likely goats of some type.  As you look about,
+enjoying the crisp mountain air, you notice that a fall at the point
+would most likely result in death.  You grimly clutch the mountain
+face tighter.    
+~
+240 0 0 0 0 5
+D4
+~
+~
+0 -1 24052 0
+D5
+~
+~
+0 -1 24050 0
+S
+#24052
+The Ledge~
+You are resting upon a large ledge on Genjuro Mountain.  This is the
+ideal spot for a break, as the energy you have spent climbing this
+mountain has almost been spent.  The view here is spectacular, the
+whole of the valley and lakes being spread about you.  Low clouds
+drift by you, and the occasional bird wings by and regards you with
+caution.    
+~
+240 0 0 0 0 5
+D4
+~
+~
+0 -1 24053 0
+D5
+~
+~
+0 -1 24051 0
+S
+#24053
+Climbing Genjuro Mountain~
+You are climbing Genjuro Mountain.  The winds here are treacherous as
+they attempt to pry you from the mountain face by force.  Small rocks,
+disturbed by your efforts, fall away, their echoes clattering far
+beneath you.  You begin to wonder if climbing this mountain was a good
+idea.    
+~
+240 0 0 0 0 5
+D4
+~
+~
+0 -1 24054 0
+D5
+~
+~
+0 -1 24052 0
+S
+#24054
+Climbing Genjuro Mountain~
+You can see the top of Genjuro Mountain not too far above you, and a
+ledge where you may rest somewhere beneath you.  The air here is thin,
+and you manage to grab a lungfull of thin oxygen to replenish your
+body's scant supply.  Gathering strength, you continue.    
+~
+240 0 0 0 0 5
+D1
+~
+~
+0 -1 24059 0
+D4
+~
+~
+0 -1 24055 0
+D5
+~
+~
+0 -1 24053 0
+S
+#24055
+Near the Top of Genjuro Mountain~
+You are on a cliff near the top of Genjuro Mountain.  There is not
+much here except an expanse of barren rock and a cover of loose dirt
+that makes your grip tenuous at best.  The heights here are dizzying
+and you wonder how flat of a pancake you would make if you fell.    
+~
+240 0 0 0 0 5
+D4
+~
+~
+0 -1 24056 0
+D5
+~
+~
+0 -1 24054 0
+S
+#24056
+The Top of Genjuro Mountain~
+You have reached the top of Genjuro Mountain.  There view here..  Is
+simply breathtaking.  From this awesome height, you can see almost
+everywhere.  The main city is far away, but you manage to glimpse your
+home city by its distinguishable walls.  Looking down, the world spins
+around you, and you pitch forward, almost falling down the mountain
+face.  Maybe that was not such a good idea.  Regaining your balance,
+you look about yourself and notice a large structure to the east, made
+from twigs.    
+~
+240 0 0 0 0 5
+D1
+~
+~
+0 -1 24057 0
+D5
+~
+~
+0 -1 24055 0
+S
+#24057
+The Roc's Nest~
+You are in a large round nest that could easily double the size of
+your own home.  It is composed of large "twigs" roughly the size of a
+tree each, and stuck together with a sticky substance which you cannot
+identify.  There are several large eggs here, and you shiver to think
+of the monsters that will hatch from them, since they are easily twice
+your size.    
+~
+240 0 0 0 0 5
+D1
+~
+~
+0 -1 24058 0
+D3
+~
+~
+0 -1 24056 0
+S
+#24058
+The Roc's Nest~
+You are in the center of the roc's nest.  The trunks of the trees that
+make up this nest could easily crush you if one was dropped upon you.
+You shiver as you wonder how large the roc must be...  And begin to
+swear as you hear the sounds of a pair of huge, powerful wings beating
+the area about you.  A large shadow appears, covering the entire nest.
+The roc must be home!    
+~
+240 65728 0 0 0 5
+D3
+~
+~
+0 -1 24057 0
+S
+#24059
+The Cave Entrance~
+You are in the entrance to a cave in Genjuro Mountain.  This cave is
+small, and there are various objects laying around, indicating a
+creature with intelligence lives here.  You wonder what type of person
+would want to live so high in Genjuro Mountain.    
+~
+240 8 0 0 0 0
+D1
+~
+~
+0 -1 24060 0
+D3
+~
+~
+0 -1 24054 0
+S
+#24060
+Inside the Cave~
+You are inside the cave etched in Genjuro Mountain.  There is a small
+hard bed here, made from dried scrub and twigs.  Other crude objects
+made from wood and stone are randomly scattered about the room.  A
+pile of clothes made from leaves and animal hides is sitting in the
+west corner, and a small pit for fire has been dug into the floor.  
+~
+240 65608 0 0 0 0
+D3
+~
+~
+0 -1 24059 0
+S
+#24061
+Inside Litle Sister~
+You are swimming inside Litle Sister.  This part of the lake is
+secluded from the rest of the lake by a barrier of water reeds.  The
+water here is dark and murky, and you cannot make out much more than
+clinging vegetation which surrounds you and threatens to ensnare you
+in loops of strange vines.    
+~
+240 0 0 0 0 8
+D3
+~
+~
+0 -1 24062 0
+D4
+~
+~
+0 -1 24018 0
+S
+#24062
+The Water Cave~
+You are inside a small cave in the west side of Litle Sister.  
+Surrounded by walls of mud, you wonder if this is the best place to
+be.  The darkness and coldness of the water closes in on you, making
+you feel VERY uncomfortable.  A motion in the water does nothing to
+help your confidence either.    
+~
+240 0 0 0 0 8
+D1
+~
+~
+0 -1 24061 0
+S
+#24063
+The Reeds~
+You are in a part of Litle Sister filled with water reeds.  They are
+everywhere, obstructing both your vision and swimming.  The lightning
+here is dim at best, and you can only wonder what is ahead of you.  
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24064 0
+D2
+~
+~
+0 -1 24031 0
+S
+#24064
+Lost Inside the Reeds~
+You are lost inside what seems to be a virtual maze of water reeds.  
+They obstruct your vision, disorientating you and making you feel
+rather lost.  The water here is chill and somewhat slimy as the dank
+vegetation clings to you.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24065 0
+D2
+~
+~
+0 -1 24063 0
+S
+#24065
+The Reeds~
+You are wandering in the water reeds inside Litle Sister.  As you
+reach about yourself, you feel nothing but reeds surrounding you.  
+The reeds close off any more motion to the north, east, and west,
+leaving you with the option of going back towards Litle Sister to the
+south, or up to the surface.    
+~
+240 0 0 0 0 14
+D2
+~
+~
+0 -1 24064 0
+D4
+~
+~
+0 -1 24066 0
+S
+#24066
+The Little Sister Marshes~
+You are in the Little Sister Marshes.  Your feet can only move in
+small paces due to the bog that you are stepping in, and a low methane
+mist covers the swamp floor.  A number of strange and gnarled trees
+can be seen here and there, lending a freaky atmosphere to these
+marshes.    
+~
+240 4 0 0 0 14
+D0
+~
+~
+0 -1 24067 0
+D5
+~
+~
+0 -1 24065 0
+S
+#24067
+Entrance to the Village of Frogmen~
+You are standing before the lost village of the Frogmen.  The entire
+village is surrounded by a thatched wall, and the huts you can view
+inside from here seem made from the same materials.  The road here
+seems composed of a sticky mud that clings to your boots as you walk,
+and the entire area smells of bog gas and methane.  The way back to
+Litle Sister is down through the reeds and you may enter the village
+to the north.    
+~
+240 0 0 0 0 14
+D0
+~
+gate~
+1 0 24068 1
+D2
+~
+~
+0 -1 24066 0
+S
+#24068
+Inside the Village of the Frogmen~
+You are standing inside the lost village of the Frogmen.  You have
+heard rumours of this lost city and its denizens, supposed half man
+half frog creatures, but had dismissed the tale as a myth.  All around
+you are thatched huts, covered in slimy mud, and other various abode
+of a primitive nature.  You wonder if this is a good place to explore.
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24069 0
+D1
+~
+~
+0 -1 24085 0
+D2
+~
+~
+1 0 24067 1
+D3
+~
+~
+0 -1 24086 0
+S
+#24069
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serve as homes and shops for these frogmen
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiosity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24070 0
+D2
+~
+~
+0 -1 24068 0
+S
+#24070
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serves as homes and shops for these frogment
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiousity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24071 0
+D2
+~
+~
+0 -1 24069 0
+S
+#24071
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serves as homes and shops for these frogment
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiousity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24072 0
+D2
+~
+~
+0 -1 24070 0
+S
+#24072
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serves as homes and shops for these frogment
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiousity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24073 0
+D2
+~
+~
+0 -1 24071 0
+S
+#24073
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serves as homes and shops for these frogment
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiousity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24074 0
+D2
+~
+~
+0 -1 24072 0
+S
+#24074
+The Mud Road~
+You are on the main road that travels through this strange village.  
+Mud and straw huts that serves as homes and shops for these frogment
+surround you to the east and west, showing that these creatures have
+their own society and culture, no matter how primitive.  As you walk
+around, observing everything with awe, the citizens of the village
+stare back at you, some with curiousity, some with distrust.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24097 0
+D1
+~
+~
+0 -1 24075 0
+D2
+~
+~
+0 -1 24073 0
+D3
+~
+~
+0 -1 24096 0
+S
+#24075
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24076 0
+D3
+~
+~
+0 -1 24074 0
+S
+#24076
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24077 0
+D3
+~
+~
+0 -1 24075 0
+S
+#24077
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D2
+~
+~
+0 -1 24078 0
+D3
+~
+~
+0 -1 24076 0
+S
+#24078
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24077 0
+D2
+~
+~
+0 -1 24079 0
+S
+#24079
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24078 0
+D2
+~
+~
+0 -1 24080 0
+S
+#24080
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24079 0
+D2
+~
+~
+0 -1 24081 0
+S
+#24081
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24080 0
+D2
+~
+~
+0 -1 24082 0
+S
+#24082
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24081 0
+D2
+~
+~
+0 -1 24083 0
+S
+#24083
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24082 0
+D3
+~
+~
+0 -1 24084 0
+S
+#24084
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24083 0
+D3
+~
+~
+0 -1 24085 0
+S
+#24085
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24084 0
+D3
+~
+~
+0 -1 24068 0
+S
+#24086
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24068 0
+D3
+~
+~
+0 -1 24087 0
+S
+#24087
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24086 0
+D3
+~
+~
+0 -1 24088 0
+S
+#24088
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24089 0
+D1
+~
+~
+0 -1 24087 0
+S
+#24089
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24090 0
+D2
+~
+~
+0 -1 24088 0
+S
+#24090
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24091 0
+D2
+~
+~
+0 -1 24089 0
+S
+#24091
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24092 0
+D2
+~
+~
+0 -1 24090 0
+S
+#24092
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24093 0
+D2
+~
+~
+0 -1 24091 0
+S
+#24093
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24094 0
+D2
+~
+~
+0 -1 24092 0
+S
+#24094
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24095 0
+D2
+~
+~
+0 -1 24093 0
+S
+#24095
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24096 0
+D3
+~
+~
+0 -1 24094 0
+S
+#24096
+The Mud Road~
+You are travelling along the mud road that surrounds this village.  
+The air here smells rather foul, and you see piles of refuse spread
+about the thatched walls.  In the corners of the numerous huts are
+frogs and toads of every kind, which seem to be the household pets of
+these mysterious people that inhabit the village.  You wonder how long
+this society has existed here undiscovered.    
+~
+240 0 0 0 0 14
+D1
+~
+~
+0 -1 24074 0
+D3
+~
+~
+0 -1 24095 0
+S
+#24097
+Entrance to the Grand Hut~
+You are standing before a thatched hut easily the size of three of the
+other ruglar huts in this village.  Outside of the hut there are
+strange ritualistic markings painted with colored mud upon the walls
+of this edifice.  A few strange totems and assorted marked amulets
+have been placed around the house, marking it as the living quarters
+of a shaman or chief.    
+~
+240 0 0 0 0 14
+D0
+~
+~
+0 -1 24098 0
+D2
+~
+~
+0 -1 24074 0
+S
+#24098
+Inside the Grand Hut~
+You are inside the largest hut in this village.  It is rather dark in
+here, but a strange greenish fire burns brightly in the center of the
+room.  Various animal bones and skins have been scattered about and
+the smell of decaying flesh is strong here.  A large spear made from
+wood and tipped with obisidian is hanging upon the wall and strange
+paintings of rituals have been hung everywhere.    
+~
+240 8 0 0 0 0
+D0
+~
+~
+0 -1 24099 0
+D2
+~
+~
+0 -1 24097 0
+S
+#24099
+The Back Room of the Grand Hut~
+You are inside the Grand Hut of the Frogmen.  This room is furnished
+well, with a large sponge bed and leaf sheets.  A rough table has been
+made and stands in the center of this room, and a few clay mugs sit on
+it.  A large rug made from fish skins covers the mud floor and
+utensils made from bone are neatly stacked on a bark shelf in the
+corner.    
+~
+240 65608 0 0 0 0
+D2
+~
+~
+0 -1 24098 0
+S
+$~

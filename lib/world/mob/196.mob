@@ -1,0 +1,131 @@
+#19600
+turtle red~
+a Red Turtle~
+A turtle with a red shell swims here.
+~
+It is small and sluggish, having not received enough sunlight to start
+it's day.  It's shell is a bright red color, signalling that it is
+poisonous to eat, as well as hard as a rock.    
+~
+72 0 0 0 192 0 0 0 0 E
+10 3 60 1d1+2250 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 4
+Race: 2
+E
+#19601
+turtle blue~
+a Blue Turtle~
+A blue turtle lazily floats here.
+~
+The shell of this turtle is a dark blue with black veinations.  The
+turtle is slow to anger, knowing that it's hard shell provides more
+protection than most.    
+~
+72 0 0 0 192 0 0 0 0 E
+15 5 40 1d1+2150 1d3+10
+0 4674
+8 8 0
+BareHandAttack: 8
+Race: 2
+E
+#19602
+turtle white~
+a White Turtle~
+A turtle with a white shell swims here.
+~
+The turtle is not an albino, merely a turtle sporting a white shell.
+Long claws and a tough beak provide the turtle the means to scrap out
+a living in the river.    
+~
+72 0 0 0 192 0 0 0 0 E
+5 1 80 1d1+2300 1d2+3
+0 283
+8 8 0
+BareHandAttack: 4
+Race: 2
+E
+#19603
+turtle black~
+a Black Turtle~
+A turtle with a black shell pulls back defensively.
+~
+Of all turtles, the Black Turtle is probably the most defensive one.
+Quick to snap out at anyone who gets too close and fleeing at every
+sign of danger, it is no surprise that this turtle has the longest
+lifespan among turtles.    
+~
+72 0 0 0 192 0 0 0 0 E
+20 8 20 1d1+2250 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 10
+Race: 2
+E
+#19604
+turtle green~
+a Green Turtle~
+A turtle with a green shell swims here.
+~
+The smallest of the turtles inhabiting the Black River, the Green
+Turtle likes to hide as much as it can.  Using it's motled green
+colors, it swims with stealth among the vegetation in the river.    
+~
+72 0 0 0 524432 0 0 0 0 E
+3 0 88 1d1+2250 1d1+2
+0 77
+8 8 0
+Race: 2
+E
+#19605
+gar~
+a Gar~
+A torpedo-like Gar streaks forth!
+~
+The gar is a good six-feet long and as aggressive as it is big.  It
+constantly prowls the river in search of food and is a indiscriminate
+eater.  A mouth full of sharp teeth and a body built for speed, it is
+no wonder that the gar is the king of the river.    
+~
+67108936 0 0 0 1573072 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 4
+Race: 4
+E
+#19610
+spirit water form~
+a Water Spirit~
+A shapless watery form seems to glide though the water.
+~
+This is the protector of the Black River and it's inhabitants.  The
+Water Spirit draws all her powers from the river itself, having no
+power at all if removed from the river.    
+~
+34117720 0 0 0 526544 10 0 0 0 E
+123 103 -60 1d1+0 14d15+82
+3500 999941
+8 8 2
+BareHandAttack: 10
+Class: 5
+Race: 30
+E
+#19682
+trout fish~
+a Cutthroat Trout~
+A trout swims around.
+~
+The Cutthroat is aptly named, for it's gill flaps are a bright red
+color.  It is not a large fish, but rather small and quick.  It darts
+around, snatching up a meal when it can.    
+~
+72 0 0 0 192 0 0 0 0 E
+10 3 60 1d1+200 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 10
+Race: 4
+E
+$

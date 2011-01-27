@@ -1,0 +1,99 @@
+CircleMUD v3.0 Shop File~
+#19100~
+19100
+19101
+19102
+19109
+19108
+-1
+1.20
+0.90
+-1
+%s Sorry, we don't have that in stock.~
+%s This is a resturant not a general store~
+%s This is a resturant not a general store~
+%s This is a resturant not a general store~
+%s You don't have enough gold.~
+%s That'll be %d gold, please.~
+%s This is a resturant not a general store~
+1
+0
+1445
+0
+19124
+-1
+0
+28
+0
+0
+#19101~
+-1
+1.20
+0.90
+-1
+%s Sorry, we don't have that in stock.~
+%s This is a bar not a general store~
+%s This is a bar not a general store~
+%s This is a bar not a general store~
+%s You don't have enough gold.~
+%s That'll be %d gold, please.~
+%s This is a bar not a general store~
+1
+0
+1445
+0
+19130
+-1
+0
+28
+0
+0
+#19102~
+19111
+19112
+-1
+1.20
+0.90
+22
+-1
+%s Arrrr.. I don't have it stock.~
+%s Yee don't have it to sell.~
+%s I only buy boats.~
+%s I don't have enough gold.~
+%s Are you trying to cheat me, you scurvy dog?~
+%s That'll be %d gold.~
+%s Arrr... Here's %d gold for yee.~
+1
+0
+1445
+0
+19110
+-1
+0
+28
+0
+0
+#19148~
+19132
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+2
+19110
+0
+19148
+-1
+0
+28
+0
+0
+$~

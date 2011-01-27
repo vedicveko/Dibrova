@@ -1,0 +1,132 @@
+#23900
+water brook~
+a small brook~
+/cwA small brook trickles through the clearing./c0~
+~
+23 0 0 0 0 0 0 0 0
+15 15 18 0 0 0 0 0
+4000 10 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+water brook~
+The water looks clean and refreshing.
+~
+#23901
+ticket man~
+a ticket man~
+A ticket man is here selling tickets.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 10 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23902
+ticket~
+a ferry ticket~
+A ferry ticket has been dropped here.~
+~
+13 4096 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 100 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23903
+animal skin tattered~
+a tattered animal skin~
+A tattered animal skin lies in a heap.~
+~
+9 0 0 0 0 1025 0 0 0
+3 0 0 0 0 0 0 0
+5 220 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23904
+tattered cloak~
+a tattered cloak~
+A tattered cloak lies in a heap.~
+It has a strange tooth and eye symbol scratched into it.~
+9 0 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+5 233 4 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23905
+tattered vest~
+a tattered vest~
+A tattered vest lies on the ground.~
+It has a strange tooth and eye symbol scratched into it.~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+5 226 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23906
+key wooden~
+a wooden key~
+A small wooden key lies here.~
+ ~
+18 12 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23908
+closet~
+/cwa /cycloset/c0~
+There is a /cywooden closet /cwtucked into a corner./c0~
+~
+15 0 0 0 0 0 0 0 0
+100 1 -1 0 0 0 0 0
+500 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+closet~
+It is large, yet gracefully made, obviously of Scandinavian design.
+~
+#23909
+jar~
+/cwa /cmspice /cwjar/c0~
+A small unlabeled /cmspice jar /cwis standing here./c0~
+~
+15 0 0 0 0 1 0 0 0
+5 5 -1 0 0 0 0 0
+1 10 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#23910
+powder black~
+/cwsome /cLblack /cwpowder/c0~
+Some strong-smelling /cLblack powder /cwhas been carelessly scattered here./c0~
+~
+19 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 4 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+powder~
+Something tells you this powder is too dangerous to be left lying around
+a kitchen...
+~
+#23911
+kernel kernels~
+/cwsome small /cYyellow kernels/c0~
+Some small /cYyellow kernels /cwhave been accidentally left here./c0~
+~
+19 0 0 0 0 16385 0 0 0
+1 0 0 0 0 0 0 0
+1 4 10 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+kernel kernels~
+Look fairly dull...
+~
+#23912
+oasis water~
+a sparkling oasis~
+/cwA sparkling oasis presents itself amongst the sand dunes./c0~
+~
+23 0 0 0 0 0 0 0 0
+20 20 20 0 0 0 0 0
+4000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+oasis water~
+The oasis is a fairly small pool of water that has somehow managed to
+survive the desert's blazing sun.  Some plants grow from the shores,
+but nothing too impressive.    
+~
+$~

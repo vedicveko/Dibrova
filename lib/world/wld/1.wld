@@ -1,0 +1,1341 @@
+#100
+Newbie Asylum~
+The Newbie Asylum is an old stone building, standing here with an
+atmosphere of gloom and depression.  It has housed the insane
+inhabitants of Dibrova for centuries.  Despite the fact that times
+have changed, the tactics and treatment of the hospitalized are still
+primitive and often cruel.    
+~
+1 4 0 0 0 1
+D0
+~
+~
+0 0 101 0
+D1
+~
+~
+0 0 3072 0
+S
+#101
+Inside The Asylum~
+You are in the entrance to the Asylum.  The walls, although possibly
+at one time long ago could have been white and clean, are now grimy
+and caked with dirt and Newbie vomit.  The smell here is horrific, and
+the very thought that this is just the ENTRANCE makes your stomach
+curdle, knowing full well that it must get worse in deeper.  To the
+east is Newbie Sign-In and west is the lobby.  There is a door to the
+north.    
+~
+1 536870912 0 0 0 0
+D0
+~
+door~
+1 100 105 7
+D1
+~
+~
+0 -1 104 0
+D2
+~
+~
+0 0 100 0
+S
+#102
+A Lobby~
+This is the lobby and waiting room here at the Newbie Asylum.  A
+nurse's office lies off to the west, the main entrance east.  Dirty
+but comfortable looking chairs are scattered throughout the room,
+perhaps you'd like to rest a spell?    
+~
+1 536870924 0 0 0 0
+D1
+~
+~
+0 -1 101 0
+D3
+~
+~
+1 -1 103 1
+S
+#103
+Nurse's Office~
+This room reeks of ammonia and feces...  Nice combination there.  
+Like every other room in this place, the walls are grubby and miskept,
+the floors look like they haven't been swept, let alone mopped, in
+months, possibly longer!  Maybe you could get a check-up...?    
+~
+1 536870912 0 0 0 0
+D1
+~
+~
+1 -1 102 1
+S
+#104
+Sign-In~
+This is where visitors to the Asylum are to sign in for the duration
+of their stay.  The badges sitting here designate one as a visitor and
+not a resident, so it may be a good idea to get one (just in case they
+make a mistake).    
+~
+1 536870920 0 0 0 0
+D3
+~
+~
+0 -1 101 0
+E
+sign~
+You are cleared to enter the Asylum. 
+Please dont kill the inmates.~
+S
+#105
+Asylum General~
+This is the first floor hallway of the asylum.  Flickering torches
+light the way through this dismal place.  The walls are whitewashed
+and moldy.  Vile odors penetrate the air and hangs about like a
+sickness.  The hallway continues east and west.  A doorway leading out
+of the building can be seen to the south.    
+~
+1 536870912 0 0 0 0
+D1
+~
+~
+0 -1 108 0
+D2
+~
+Door~
+2 100 101 15
+D3
+~
+~
+0 -1 106 0
+E
+watch tv~
+"WHATS THAT SMELL?!?"
+This looks disgusting...~
+S
+#106
+Asylum General~
+This is the first floor hallway of the asylum.  Flickering torches
+light the way through this dismal place.  The walls are whitewashed
+and moldy.  Vile odors penetrate the air and hangs about like a
+sickness.  The hallway continues east and west.    
+~
+1 536870920 0 0 0 0
+D1
+~
+~
+0 -1 105 0
+D3
+~
+~
+0 -1 107 0
+S
+#107
+Asylum General~
+This main room seems to go on and on and on, giving the inmates plenty
+of space to roam.  It's probably best just to let them keep doing just
+that - you wouldn't want to mess with their head, or anything.    
+~
+1 536870920 0 0 0 0
+D1
+~
+~
+0 0 106 0
+D3
+~
+~
+0 0 109 0
+S
+#108
+Asylum General~
+This large room houses all of the space that these loony Newbies need
+to roam around hitting themselves and talking to their imaginary
+friends.  The room opens up to the west and from here you can see
+quite a number of crazy newbies.  Maybe you should kill them...  
+There is a small hallway leading off this main room to the east.    
+~
+1 536870920 0 0 0 0
+D1
+~
+~
+0 0 110 0
+D3
+~
+~
+0 -1 105 0
+S
+#109
+Asylum General~
+This is the first floor hallway of the asylum.  Flickering torches
+light the way through this dismal place.  The walls are whitewashed
+and moldy.  Vile odors penetrate the air and hangs about like a
+sickness.  The hallway continues east and west.  A *SIGN* hangs on the
+wall here.    
+~
+1 536870920 0 0 0 0
+D1
+~
+~
+1 -1 107 1
+D3
+~
+~
+0 0 114 0
+E
+exa sign~
+***WARNING!***
+
+Do not do the following to the inmates:
+Talk
+Touch
+Make Eye Contact
+Feed
+Entertain
+
+Or do so at your own risk.~
+S
+#110
+East hallway~
+This is the first floor hallway of the asylum.  Flickering torches
+light the way through this dismal place.  The walls are whitewashed
+and moldy.  Vile odors penetrate the air and hangs about like a
+sickness.  The hallway ends here at a stairway.  One can check out the
+cells here, go upstairs, or go back west.    
+~
+1 536870912 0 0 0 0
+D0
+~
+~
+1 -1 111 1
+D1
+~
+~
+0 -1 113 0
+D2
+~
+~
+1 -1 112 1
+D3
+~
+~
+0 0 108 0
+D4
+~
+~
+0 0 149 0
+S
+#111
+A Small Room~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies south from here.    
+~
+1 536870920 0 0 0 0
+D2
+~
+~
+1 -1 110 1
+S
+#112
+A Small Room~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies north from here.    
+~
+1 536870920 0 0 0 0
+D0
+~
+~
+1 -1 110 1
+S
+#113
+A small room~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies west from here.    
+~
+1 536870920 0 0 0 0
+D3
+~
+~
+0 -1 110 0
+S
+#114
+West Hallway~
+This section of the hallway is squeaky clean.  It must be the only
+spot in the whole asylum that is clean.  The hallway ends here at a
+stairway which leads down.  One can check out the cells here, go
+downstairs, or go back east.    
+~
+1 536870912 0 0 0 0
+D0
+~
+~
+1 -1 115 1
+D1
+~
+~
+0 0 109 0
+D2
+~
+~
+1 -1 117 1
+D3
+~
+~
+1 -1 116 1
+D5
+~
+~
+0 0 119 0
+S
+#115
+A Small Room~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies south from here.    
+~
+1 536870920 0 0 0 0
+D2
+~
+~
+1 -1 114 1
+S
+#116
+Cell~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies east from here.    
+~
+1 536870920 0 0 0 0
+D1
+~
+~
+1 -1 114 1
+S
+#117
+A Small Room~
+This small room, or aptly called a 'cell', is the small bit of space
+that an Asylum resident can call his/her own.  There is a small cot in
+the corner and a small dresser where they are able to keep their
+gowns.  The exit lies north from here.    
+~
+1 536870920 0 0 0 0
+D0
+~
+~
+1 -1 114 1
+S
+#118
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 119 0
+S
+#119
+Stairs~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  One can
+check out the cells here, go downstairs, upstairs, or east through the
+hallway.    
+~
+1 4 0 0 0 0
+D0
+~
+~
+0 0 133 0
+D1
+~
+~
+0 0 120 0
+D2
+~
+~
+0 0 134 0
+D3
+~
+~
+0 0 118 0
+D4
+~
+~
+0 0 114 0
+D5
+~
+~
+0 0 135 0
+S
+#120
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway continues east and west.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 121 0
+D3
+~
+~
+0 0 119 0
+S
+#121
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway continues east and west.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 131 0
+D1
+~
+~
+0 0 122 0
+D2
+~
+~
+0 0 132 0
+D3
+~
+~
+0 0 120 0
+S
+#122
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway continues east and west.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 123 0
+D3
+~
+~
+0 0 121 0
+S
+#123
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway continues east and west.  A cell lies north and south.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 129 0
+D1
+~
+~
+0 0 124 0
+D2
+~
+~
+0 0 130 0
+D3
+~
+~
+0 0 122 0
+S
+#124
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway continues east and west.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 125 0
+D3
+~
+~
+0 0 123 0
+S
+#125
+Basement Hallway~
+This is the basement of the asylum, where the more severly deranged
+patients are housed.  Flickering torches light the way through this
+dismal place.  The walls are whitewashed and moldy.  Vile odors
+penetrate the air and hangs about like a sickness.  Incomprehensible
+mutterings and silly chatterings echo throughout the hall.  The
+hallway ends here, before three cells.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 127 0
+D1
+~
+~
+0 0 126 0
+D2
+~
+~
+0 0 128 0
+D3
+~
+~
+0 0 124 0
+S
+#126
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D3
+~
+~
+0 0 125 0
+S
+#127
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 125 0
+S
+#128
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 125 0
+S
+#129
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 123 0
+S
+#130
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 123 0
+S
+#131
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 121 0
+S
+#132
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 121 0
+S
+#133
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 119 0
+S
+#134
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 119 0
+S
+#135
+Stairs~
+This is the sub-basement of the asylum.  Very few people know of this
+place.  This is where the most dangerous and criminally insane of
+Dibrova are kept.  Bone-chilling screams of unexplainable feelings
+echo throughout here.  Magical runes mark the walls here, preventing
+the escape of anyone held here.  The hallway continues east, or one
+can return back upstairs.    
+~
+1 4 0 0 0 0
+D1
+~
+~
+0 0 136 0
+D4
+~
+~
+0 0 119 0
+S
+#136
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 137 0
+D3
+~
+~
+0 0 135 0
+S
+#137
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.  Cells lie north and south of here.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 143 0
+D1
+~
+~
+0 0 138 0
+D2
+~
+~
+0 0 144 0
+D3
+~
+~
+0 0 136 0
+S
+#138
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 139 0
+D3
+~
+~
+0 0 137 0
+S
+#139
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.  Cells lie north and south of here.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 141 0
+D1
+~
+~
+0 0 140 0
+D2
+~
+~
+0 0 142 0
+D3
+~
+~
+0 0 138 0
+S
+#140
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 145 0
+D3
+~
+~
+0 0 139 0
+S
+#141
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 139 0
+S
+#142
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 139 0
+S
+#143
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 137 0
+S
+#144
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 137 0
+S
+#145
+Sub-basement Hallway~
+Flickering torches line the walls, lighting the way through this
+place.  Magical runes inscribed into the walls here glow and hum
+powerfully.  Screams of rage, frustration, and insanity can be heard
+as one walks through here.  The hallway ends here.  One can check out
+the cells here, or go back west.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 146 0
+D1
+~
+~
+0 0 148 0
+D2
+~
+~
+0 0 147 0
+D3
+~
+~
+0 0 140 0
+S
+#146
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 145 0
+S
+#147
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 145 0
+S
+#148
+Cell~
+The walls are made up of thick white padding, designed to prevent the
+patient from harm.  The padding itself is tattered and worn, having
+seen numerous years of abuse from patients hurling themselves against
+the walls in fits of anger, rage, and frustration.  Besides the
+patient, there are no objects in the room, since everything is brought
+in by attendants and taken out immediately for fear of leaving an
+object that could be used as a weapon.  A magical force across the
+doorway prevents the patient from escaping the room.    
+~
+1 0 0 0 0 0
+D3
+~
+~
+0 0 145 0
+S
+#149
+Stairs~
+This is the landing at the top of the stairs.  The air is hot and
+filled with foul odorous scents which assult your senses.  The
+Research and Development Lab is to the west, while down takes you back
+to the main hallway.    
+~
+1 4 0 0 0 0
+D3
+~
+~
+0 0 150 0
+D5
+~
+~
+0 0 110 0
+S
+#150
+Research and Development Area~
+A plain room, devoid of furniture and objects (for fear of certain
+folks getting hurt).  Torn and tattered padding line the walls,
+showing that many patients have been here for the sake of science.  
+The floor is stained a nasty, yellowish color, making one wish they
+didnt have to tread here.  A clear force shield lies west, while the
+landing is east.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 152 0
+D1
+~
+~
+0 0 149 0
+D2
+~
+~
+0 0 155 0
+D3
+~
+forceshield~
+2 100 151 15
+S
+#151
+Research and Development Area~
+This is the Researcher's booth, where one can stay and observe the
+patients in relative safety.  A shelf, filled with all kinds of
+scientific and psychological books, lies on the west wall.  To the
+north, east, and south is a clear force shield which keeps one safe in
+here and prevents the entry of unauthorized persons.  A table sits in
+the middle of the room, surrounded by tall stools used for
+observation.    
+~
+1 4 0 0 0 0
+D0
+~
+forceshield~
+1 0 153 3
+D1
+~
+forceshield~
+1 0 150 3
+D2
+~
+forceshield~
+1 0 154 3
+S
+#152
+Research and Development Area~
+A plain room, devoid of furniture and objects (for fear of certain
+folks getting hurt).  Torn and tattered padding line the walls,
+showing that many patients have been here for the sake of science.  
+The floor is stained a nasty, yellowish color, making one wish they
+didnt have to tread here.    
+~
+1 0 0 0 0 0
+D2
+~
+~
+0 0 150 0
+D3
+~
+~
+0 0 153 0
+S
+#153
+Research and Development Area~
+A plain room, devoid of furniture and objects (for fear of certain
+folks getting hurt).  Torn and tattered padding line the walls,
+showing that many patients have been here for the sake of science.  
+The floor is stained a nasty, yellowish color, making one wish they
+didnt have to tread here.  A clear force field lies south.    
+~
+1 0 0 0 0 0
+D1
+~
+~
+0 0 152 0
+D2
+~
+forceshield~
+2 100 151 15
+S
+#154
+Research and Development Area~
+A plain room, devoid of furniture and objects (for fear of certain
+folks getting hurt).  Torn and tattered padding line the walls,
+showing that many patients have been here for the sake of science.  
+The floor is stained a nasty, yellowish color, making one wish they
+didnt have to tread here.  A clear force shield lies north.    
+~
+1 0 0 0 0 0
+D0
+~
+forceshield~
+2 100 151 15
+D1
+~
+~
+0 0 155 0
+S
+#155
+Research and Development Area~
+A plain room, devoid of furniture and objects (for fear of certain
+folks getting hurt).  Torn and tattered padding line the walls,
+showing that many patients have been here for the sake of science.  
+The floor is stained a nasty, yellowish color, making one wish they
+didnt have to tread here.    
+~
+1 0 0 0 0 0
+D0
+~
+~
+0 0 150 0
+D3
+~
+~
+0 0 154 0
+S
+#156
+An unfinished room~
+You are in an unfinished room.    
+~
+1 0 0 0 0 0
+S
+#160
+The Wasteland.~
+A sick looking grey-white dirt covers the landscape in all directions.
+As you scan the landscape further, you notice small clumps of brown
+grass growing sporadicly.  The thing you notice most though, is the
+slight quaking accompanied by a loud booming in the distance.  A large
+sign /cRSCREAMS/c0 for your attention.    
+~
+1 0 0 0 0 2
+D1
+~
+~
+0 0 3067 0
+D3
+~
+~
+0 0 161 0
+E
+large sign~
+The sign says in a bold print.
+
+This land inhabited by giants. Be wary of where you travel.
+~
+S
+#161
+The Wasteland.~
+A sick looking grey-white dirt covers the landscape in all directions.
+As you scan the landscape further, you notice small clumps of brown
+grass growing sporadicly.  The thing you notice most though, is the
+slight quaking accompanied by a loud booming in the distance.
+~
+1 0 0 0 0 2
+D1
+~
+~
+0 0 160 0
+D3
+~
+~
+0 0 162 0
+S
+#162
+The Wasteland.~
+A sick looking grey-white dirt covers the landscape in all directions.
+As you scan the landscape further, you notice small clumps of brown
+grass growing sporadicly.  The thing you notice most though, is the
+heavy quaking accompanied by a loud booming in the distance.    
+~
+1 0 0 0 0 2
+D1
+~
+~
+0 0 161 0
+D3
+~
+~
+0 0 162 0
+S
+#164
+Within the Giant's Stomach.~
+You stand knee deep in a thick green slurry.  Pieces, chunks, and
+sometimes even a whole animal floats past you.  Looking up you notice
+the entrance to the esophaguas and a possible way out of here, if only
+you could climb up there.  There is more of the giant's stomach to the
+east.    
+~
+1 13 0 0 0 0
+D1
+~
+~
+0 0 165 0
+S
+#165
+The Stomach.~
+The knee deep green slurry that makes up the contents of the giant's
+stomach swirls about you forming a whirlpool that drains into the
+small intestine.  As a deer struggles to keep from being sucked
+downwards you figure you might as well follow the crowd..    
+~
+1 41 0 0 0 0
+D3
+~
+~
+0 0 164 0
+D5
+~
+~
+0 0 166 0
+E
+deer~
+You hope its antlers will give the giant a bad case of indigestion.  
+
+~
+S
+#166
+The Small Intestine.~
+Out of the pot and into the frying pan.  You are barely able to stand
+inside of the small intestine.  It twists and turns all around making
+it easy to get lost.  The small intestine continues east.    
+~
+1 41 0 0 0 0
+D1
+~
+~
+0 0 167 0
+D4
+~
+~
+0 0 165 0
+S
+#167
+The Small Intestine.~
+The green slurry seems to be getting thicker.  The twisty, curvy
+passage of the small intestine leads farther downward.  Your friend
+the, the unlucky deer, is heading that way.  Why not you?    
+~
+1 41 0 0 0 0
+D3
+~
+~
+0 0 166 0
+D5
+~
+~
+0 0 168 0
+E
+deer~
+Wow, he looks really pissed.    
+~
+S
+#168
+The Small Intestine.~
+The small intestine pulsates around you, pushing you farther down the
+giant's digestive system.  The same green slurry floats past you in an
+almost serene fashion.    
+~
+1 41 0 0 0 0
+D3
+~
+~
+0 0 169 0
+D4
+~
+~
+0 0 167 0
+S
+#169
+The Small Intestine.~
+The Small Intestine widens out here in preparation for becoming the
+large intestine.  The thick green slurry forms a whirlpool and drains
+down.    
+~
+1 41 0 0 0 0
+D1
+~
+~
+0 0 168 0
+D5
+~
+~
+0 0 170 0
+S
+#170
+The Large Intestine.~
+Ahhh...  Finally, some room to stretch out.  The large intestine is
+almost the same as the small intestine except for its massive size.  
+The green slurry floats east.    
+~
+1 41 0 0 0 0
+D1
+~
+~
+0 0 171 0
+D4
+~
+~
+0 0 169 0
+S
+#171
+The Large Intestine.~
+Ahhh...  Finally, some room to stretch out.  The large intestine is
+almost the same as the small intestine except for its massive size.  
+The green slurry floats east.    
+~
+1 41 0 0 0 0
+D3
+~
+~
+0 0 170 0
+D5
+~
+~
+0 0 172 0
+S
+#172
+The Large Intestine.~
+Ahhh...  Finally, some room to stretch out.  The large intestine is
+almost the same as the small intestine except for its massive size.  
+The green slurry floats east.    
+~
+1 41 0 0 0 0
+D1
+~
+~
+0 0 173 0
+D4
+~
+~
+0 0 171 0
+S
+#173
+The End of The Large Intestine.~
+Ahhh...  Finally, some room to stretch out.  The large intestine is
+almost the same as the small intestine except for its massive size.  
+You can see a faint light to the east.    
+~
+1 45 0 0 0 0
+D3
+~
+~
+0 0 172 0
+S
+#174
+The Wasteland.~
+A sick looking grey-white dirt covers the landscape in all directions.
+As you scan the landscape further, you notice small clumps of brown
+grass growing sporadicly.  The thing you notice most though, is the
+moderate quaking accompanied by a loud booming in the distance.    
+~
+1 0 0 0 0 2
+D1
+~
+~
+0 0 160 0
+D3
+~
+~
+0 0 162 0
+S
+#199
+The Changes Board~
+All changes, whether through code or areas, will be posted on this
+board as they occur.  It is the players' responsibility to be sure to
+check this board daily if they wish to stay informed of the changes
+that happen in Dibrova.    
+~
+1 65580 0 0 0 0
+D5
+~
+~
+0 0 3000 0
+S
+$~

@@ -1,0 +1,372 @@
+#16600
+oak old dryad tree~
+an old Oak~
+An old oak tree rises solidly from the ground before you.
+~
+The oak tree radiates a feeling of security and wisdom, all held
+tightly in its strong, capable roots which anchor it what is true and
+right.    
+~
+90122 0 0 0 0 4325376 0 0 1000 E
+79 55 -40 1d1+0 6d7+52
+0 323344
+8 8 0
+Race: 26
+E
+T 16600
+T 16601
+T 16602
+T 16603
+T 16604
+T 16605
+T 16606
+T 16608
+T 16609
+T 16610
+T 16611
+T 16612
+T 16613
+T 16614
+T 16615
+T 16616
+T 16617
+#16601
+dryad woman young beautiful~
+a beautiful young Dryad~
+A beautiful young dryad stands here, her light-green hair hanging wildly about her tanned face.
+~
+She has the most amazing eyes.  Eyes that are exotically wild, and at
+the same time as kind as a baby kitten.    
+~
+16394 0 0 0 65536 4325377 0 0 100 E
+87 63 -40 1d1+0 6d7+58
+0 475541
+8 8 2
+Class: 5
+Race: 24
+E
+#16602
+beautiful young dryad~
+a beautiful young Dryad~
+A beautiful young dryad with wild auburn hair stands before you.
+~
+She flashes you a quick smile and then just as quickly blushes a
+bright shade of forest green.    
+~
+16394 0 0 0 536936448 4194304 0 0 1000 E
+87 63 -40 1d1+0 6d7+58
+0 413514
+8 8 2
+Class: 5
+Race: 24
+E
+#16603
+butterfly colorful~
+a beautiful Butterfly~
+A multi-colored butterfly floats past, riding the breeze of the grove.
+~
+It is more colors all at once than you can take in.  It seems to bob
+across the tops of many of the wildflowers, gently resting on one for
+a moment and then floating to the next.    
+~
+73800 0 0 0 8454144 4194304 0 0 0 E
+4 0 84 1d1+0 1d2+2
+0 160
+8 8 0
+Race: 5
+E
+#16604
+bunny plump~
+a plump little Bunny~
+A plump little bunny wriggles its nose at you.
+~
+It takes a good sniff your way and then goes back to the wildflower
+petals it was munching on.    
+~
+65608 0 0 0 65536 4194304 0 0 0 E
+9 2 64 1d1+0 1d2+6
+0 1270
+8 8 0
+E
+#16605
+beautiful young dryad~
+a beautiful young Dryad~
+A beautiful young with wild nutbrown hair stands before you.
+~
+She flashes you a quick smile and then just as quickly blushes a
+bright shade of forest green.    
+~
+24586 0 0 0 65536 4325376 0 0 1000 E
+87 63 -40 1d1+0 6d7+58
+0 413514
+8 8 2
+Class: 5
+Race: 24
+E
+#16606
+beautiful young dryad~
+a beautiful young Dryad~
+A beautiful young with wild auburn hair stands before you.
+~
+She flashes you a quick smile and then just as quickly blushes a
+bright shade of forest green.    
+~
+24586 0 0 0 536936448 4325376 0 0 1000 E
+87 63 -40 1d1+0 6d7+58
+0 413514
+8 8 2
+Class: 5
+Race: 24
+E
+#16607
+beautiful young dryad~
+a beautiful young Dryad~
+A beautiful young with wild auburn hair stands before you.
+~
+She flashes you a quick smile and then just as quickly blushes a
+bright shade of forest green.    
+~
+24586 0 0 0 536936448 4325376 0 0 1000 E
+87 63 -40 1d1+0 6d7+58
+0 413514
+8 8 2
+Class: 5
+Race: 24
+E
+#16608
+beautiful young dryad~
+a beautiful young Dryad~
+A beautiful young with wild auburn hair stands before you.
+~
+She flashes you a quick smile and then just as quickly blushes a
+bright shade of forest green.    
+~
+24586 0 0 0 536936448 4325376 0 0 1000 E
+87 63 -40 1d1+0 6d7+58
+0 413514
+8 8 2
+Class: 5
+Race: 24
+E
+#16645
+hag greenhag wretched~
+a wretched Greenhag~
+A wretched, green skinned woman with ratty black hair reaches a claw toward your throat.
+~
+Her gaping mouth lies cracked open in a hideous look of glee, her
+bloodlust an all consuming force - one that drives her to seek your
+immediate death.    
+~
+57390 0 0 0 604569680 4194304 0 0 -990 E
+134 116 -60 1d1+0 16d16+89
+4687 1306239
+8 8 2
+BareHandAttack: 8
+Str: 17
+Dex: 15
+Int: 20
+Wis: 16
+Luck: 19
+Class: 9
+Race: 14
+E
+#16646
+annis hag~
+a hideous Hag~
+A hideous hag with bluish skin and black teeth and nails screams an attack.
+~
+She is of the most disgusting variety of creature you may have ever
+laid eyes upon.  Her wart-laden lips reach back in a cruel near-smile
+as she reaches her black claws out toward you.    
+~
+24618 0 0 0 872480768 4194304 0 0 -1000 E
+162 152 -60 1d1+0 24d24+108
+6875 2119185
+8 8 2
+BareHandAttack: 8
+Str: 20
+Dex: 18
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+Luck: 20
+Class: 1
+Race: 14
+E
+#16647
+maiden elf bruised hurt~
+a young elf Maiden~
+A young elf maiden lies alive but bruised and broken upon the piles of bone.
+~
+She looks up at you with large, innocent, dull green eyes.  Such pain,
+such reservation do those eyes hold, it could nearly make one weep in
+pity.    
+~
+16394 0 0 0 65536 4194304 0 0 -700 E
+148 134 -60 1d1+0 18d19+98
+4900 1602816
+8 8 2
+Race: 15
+E
+T 16645
+T 16650
+#16648
+woman young seductive elf~
+a seductive young Woman~
+A young elf woman reclines back upon the ground, one side of her dress torn.
+~
+She lies in such a position as to suggest that she might be willing to
+allow a bit of...  Intrusion...  Perhaps?    
+~
+16394 0 0 0 65536 4194304 0 0 -800 E
+132 114 -60 1d1+0 15d16+88
+3650 1197236
+8 8 2
+Race: 14
+E
+T 16646
+T 16651
+T 16652
+#16649
+old woman helpless~
+a helpless old Woman~
+An old woman sits upon the ground, clenching a hurt knee.
+~
+She rocks back and forth in pain, holding her right knee up tight
+against her body.    
+~
+16394 0 0 0 65536 4194304 0 0 -900 E
+131 113 -60 1d1+0 15d15+87
+3600 1174243
+8 8 2
+Race: 14
+E
+T 16647
+T 16652
+T 16651
+#16650
+young man adventurer tanned wild hair~
+a young Adventurer~
+A young man with wild hair and a tanned complexion stands here.
+~
+He was also an adventurer, much like yourself.  Or, rather - if you
+were to ask him - he still is.  He had heard of the wonders of the
+Kailaani and had struck out on his own to see these wonders first
+hand.  Big mistake.    
+~
+8407050 0 0 0 33619968 4194304 0 0 650 E
+144 129 -60 1d1+0 18d18+96
+4550 1494654
+8 8 1
+Class: 4
+Race: 14
+E
+T 16648
+T 16649
+T 16653
+#16660
+shaman firbolg~
+a firbolg Shaman~
+A huge man with a full, thick, red beard looks down upon you.
+~
+He stands an easy ten feet tall, possibly more.  He is obviously
+puzzled as to why you are here.    
+~
+22600 0 0 0 570490880 4194304 0 0 700 E
+165 156 -60 1d1+0 24d25+110
+5650 2114952
+8 8 1
+Str: 25
+Dex: 20
+Con: 25
+Luck: 20
+Class: 1
+Race: 10
+E
+#16661
+firbolg clansman~
+a firbolg Clansman~
+An enormous man towers above you, staring at you in a bit of surprise.
+~
+He has that, 'who in the heck are you!?' look on his face. He looks
+like he is about to say something and then stops.
+~
+55368 0 0 0 65536 4194304 0 0 800 E
+155 143 -60 1d1+0 21d22+103
+5150 1803276
+8 8 1
+Class: 12
+Race: 10
+E
+#16662
+giant firbolg~
+a giant Firbolg~
+A firbolg stands before you, standing easily over nine foot tall.
+~
+His bushy beard and thick eyebrows give him the look of one who is at
+once stern and forceful and yet gentle and caring at the same time.  
+It also gives him the appearance of one whom you do not mess with.  
+~
+22600 0 0 0 65536 4194304 0 0 800 E
+158 146 -60 1d1+0 22d23+105
+5300 1893616
+8 8 1
+Str: 25
+Class: 5
+Race: 10
+E
+#16663
+firbolg clansman~
+a firbolg Clansman~
+A man twice your size stands before you, looking somewhat upset.
+~
+This man is a firbolg, kin to giants and much more dangerous when
+provoked.  It might be best to back down and leave this place.    
+~
+22600 0 0 0 65536 4194304 0 0 750 E
+161 150 -60 1d1+0 24d24+107
+5450 1986655
+8 8 1
+Str: 25
+Class: 12
+Race: 10
+E
+#16664
+firbolg wanderer~
+a firbolg Wanderer~
+A huge man, easily ten foot tall, walks the forest with a steady stride.
+~
+He carries his giant-size belongings with him without evidence of
+strain or effort.  He gives you a quick nod upon seeing you and then
+continues onward.    
+~
+83992 0 0 0 570490880 4194304 0 0 750 E
+155 143 -60 1d1+0 21d22+103
+5150 1803276
+8 8 1
+Str: 25
+Dex: 20
+Int: 20
+Con: 25
+Luck: 25
+Class: 5
+Race: 10
+E
+#16670
+enormous cave bear~
+an enormous Cave Bear~
+A very large bear stands backed into a corner, facing you, teeth bared.
+~
+You probably shouldn't have come here - but then, you know what they
+say about hindsight.    
+~
+90216 0 0 0 67664 4194304 0 0 0 E
+130 111 -60 1d1+0 15d16+86
+0 1151521
+8 8 0
+BareHandAttack: 8
+Str: 25
+Race: 1
+E
+$

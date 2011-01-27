@@ -1,0 +1,690 @@
+#14601
+Mountain Stairs~
+A flight of stairs carved onto the mountain leads up.  You can barely
+see a temple of some sort on top of the mountain.  You see the path
+back to the beach to the south.    
+~
+146 0 0 0 0 0
+D2
+You see the foot of the mountain ahead.
+~
+~
+0 0 17597 0
+D4
+The stairs leads up.
+~
+~
+0 -1 14602 0
+S
+#14602
+Path to the Shaolin Temple~
+After struggling up that flight of stairs, you finally reached the top
+of the mountain, well almost.  Ahead of you, lies the great Shaolin
+Temple.  A side mountain path leads west.    
+~
+146 0 0 0 0 0
+D3
+A mountain path.
+~
+~
+0 -1 14603 0
+D4
+A flight of stairs leads up.
+~
+~
+0 -1 14606 0
+D5
+Mountain stairway
+~
+~
+0 -1 14601 0
+S
+#14603
+A side mountain path~
+This path, overgrown with vegetation, leads north to a small clearing
+and east to where you came from.    
+~
+146 1 0 0 0 0
+D0
+A small clearing.
+~
+~
+0 -1 14604 0
+D1
+A mountain path.
+~
+~
+0 -1 14602 0
+S
+#14604
+Mountain shrine~
+A small shrine lies in one corner of this small clearing.  This place
+looks deserted and very forgotten.  To your west, a hugå stone boulder
+is set into the mountain.  South leads you back to the mountain path.
+~
+146 1 0 0 0 0
+D2
+A mountain path.
+~
+~
+0 -1 14603 0
+D3
+A huge stone set into the mountain.
+~
+stone boulder~
+2 -1 14605 11
+E
+shrine stone boulder~
+Written on it :
+To attain enlightenment, you first need to fight your own inner demon.
+~
+S
+#14605
+A dark cave~
+At the far end of this small cave, stands a strange glowing mirror.  
+A dark misty shadow slowly takes form as you look into the mirror.  
+You gasped in astonishment as your own reflection in the mirror
+charges at you.    
+~
+146 9 0 0 0 0
+D1
+A small clearing.
+~
+~
+2 -1 14604 11
+S
+#14606
+Entrance to Shaolin Temple~
+You stand at the main entrance of the famous Shaolin Temple, home to
+the most highly skilled of all monks.  At both sides of the
+entrance,are two impressive stone lion statues.  North leads you into
+the temple.  A plaque on the wall catches your attention.    
+~
+146 0 0 0 0 0
+D0
+The path leads you into the main court of the temple.
+~
+~
+0 -1 14607 0
+D5
+The path leads down the mountain.
+~
+~
+0 -1 14602 0
+E
+plaque wall sign~
+|=========================================|
+|      Welcome to Shaolin Temple          |
+|   ---------------------------------     |
+|                                         |
+| May your visit be fun and enlightening. |   
+|                                         | 
+|       <<<< ----- BOOM ---- >>>>>        |            
+|=========================================|
+~
+S
+#14607
+The Main Court~
+Large pieces of stone slabs cover Pots of plants and flowers line the
+sides of the court.  This place looks simple, and well-maintained.  
+Exits leads to all directions.    
+~
+146 0 0 0 0 0
+D0
+Grand Hall.
+~
+~
+0 -1 14619 0
+D1
+A side court.
+~
+~
+0 -1 14613 0
+D2
+Entrance to temple.
+~
+~
+0 -1 14606 0
+D3
+A side court.
+~
+~
+0 -1 14608 0
+S
+#14608
+A Side Court~
+Similar to the Main Court, this place looks empty except for few pots
+of plants.  The floor is also covered with large stone slabs.  Path to
+the east leads you back to the Main Court.    
+~
+146 0 0 0 0 0
+D0
+~
+door~
+2 -1 14611 11
+D1
+The Main Court.
+~
+~
+0 -1 14607 0
+D2
+~
+door~
+2 -1 14612 11
+D3
+~
+door~
+2 -1 14609 11
+S
+#14609
+The Dining Hall~
+Bravo!  You found the dining place of the monks.  The room is empty
+except for an extremely long dining table and some benches.  You hear
+some noises coming from the south.    
+~
+146 8 0 0 0 0
+D1
+A Side Court.
+~
+door~
+2 -1 14608 11
+D2
+The Kitchen.
+~
+~
+0 -1 14610 0
+S
+#14610
+The Kitchen~
+The aroma of fresh hot steaming buns almost make you salivate as you
+enter the kitchen.  Some pots and pans are hung on the wall, waiting
+to be used.    
+~
+146 8 0 0 0 0
+D0
+The Dining Hall.
+~
+~
+0 -1 14609 0
+S
+#14611
+The Monks' Bunk~
+Well, even the toughest of them needs rest.  This is the sleeping
+chamber of the monks.  It contains nothing of interest to you, unless
+if you want their sleeping mats.    
+~
+146 8 0 0 0 0
+D2
+~
+door~
+2 -1 14608 11
+S
+#14612
+The Disciples' Bunk~
+This is the sleeping chamber of all the young men, like yourself,who
+come from all over the world to learn the legendary martial skills of
+Shaolin.    
+~
+146 8 0 0 0 0
+D0
+~
+door~
+2 -1 14608 11
+S
+#14613
+A Side Court~
+Similar to the Main Court, this place looks empty except for few pots
+of plants.  The floor is also covered with large stone slabs.  Path to
+west leads you back to the Main Court.  You hear shouts coming from
+the north and south.  A small building lies on the east.    
+~
+146 8 0 0 0 0
+D0
+A Training Arena.
+~
+~
+0 -1 14618 0
+D1
+A small building.
+~
+door~
+2 -1 14614 11
+D2
+A Training Arena.
+~
+~
+0 -1 14617 0
+D3
+The Main Court.
+~
+~
+0 -1 14607 0
+S
+#14614
+The Chamber of Wooden Men~
+The room is filled with pulleys and machinery that controls the
+movement of these wooden fighting machines.  You cursed yourself for
+not paying more attention during those training sessions, as those
+deadly machines charged at you.  The only exit lies south.    
+~
+146 9 0 0 0 0
+D2
+The Luohan Chamber.
+~
+~
+0 -1 14615 0
+S
+#14615
+The Luohan Chamber~
+Within this chamber dwells the legendary Luohans of Shaolin.  They are
+here to see if you are ready to leave Shaolin.  You mutter a hasty
+prayer as you prepare yourself to face these men of bronze.    
+~
+146 9 0 0 0 0
+D5
+A trapdoor leads down.
+~
+door~
+2 14615 14616 15
+S
+#14616
+A Secret Tunnel~
+The floor above you closes and seals off your exit.  This well-lit
+passage leads south.  To the south you see a bright source of light.
+~
+146 9 0 0 0 0
+D2
+~
+~
+0 -1 14601 0
+S
+#14617
+A Training Arena~
+A square court covered with stone slabs.  This is where the monks
+practice their arts.  Rows of weapons adorned both sides of the court.
+~
+146 0 0 0 0 0
+D0
+A side court.
+~
+~
+0 -1 14613 0
+S
+#14618
+A Training Arena~
+A square court covered with stone slabs.  This is where the disciples
+practice their arts.  Rows of weapons adorned both sides of the court.
+~
+146 0 0 0 0 0
+D2
+A side court.
+~
+~
+0 -1 14613 0
+S
+#14619
+The Grand Hall~
+This massive hall contains figurines of the Buddha in all sort of
+sizes and positions.  Towering above all of them, is a huge golden
+statue of a sleeping Buddha.  Directly in front of it, is a huge stone
+table for offerings.  Exits lead west and east to side halls, while
+south leads you back to the Main Court.    
+~
+146 8 0 0 0 0
+D1
+A side hall.
+~
+~
+0 -1 14626 0
+D2
+The main court.
+~
+~
+0 -1 14607 0
+D3
+A side hall.
+~
+~
+0 -1 14620 0
+D5
+~
+Buddha golden statue~
+2 -1 14636 11
+S
+#14620
+A Side Hall~
+This room connects you to the Main Hall.  There are rooms to your
+north, south and west.  A staircase leads up.    
+~
+146 8 0 0 0 0
+D0
+A room.
+~
+~
+0 -1 14624 0
+D1
+The main hall.
+~
+~
+0 -1 14619 0
+D2
+A room.
+~
+~
+0 -1 14621 0
+D3
+A room.
+~
+~
+0 -1 14622 0
+D4
+A room.
+~
+~
+0 -1 14623 0
+S
+#14621
+A Master's Chamber~
+This room looks empty except for a hard bed, a table and some chairs.
+It looks extremely well kept, so make sure you do not dirty it.  You
+better leave before the master catches you in here.    
+~
+146 8 0 0 0 0
+D0
+A side hall.
+~
+~
+0 -1 14620 0
+S
+#14622
+A Master's Chamber~
+This room looks empty except for a hard bed, a table and some chairs.
+It looks extremely well kept, so make sure you do not dirty it.  You
+better leave before the master catches you in here.    
+~
+146 8 0 0 0 0
+D1
+A side hall.
+~
+~
+0 -1 14620 0
+S
+#14623
+The Abbot's Chamber~
+This room looks about the same with the rest of the rooms.  Hardly
+fitting for the chief of Shaolin.  You see nothing of value here.  By
+the way, it is out of bounds to people like you, you better leave.  
+~
+146 8 0 0 0 0
+D5
+A side hall.
+~
+~
+0 -1 14620 0
+S
+#14624
+The Library~
+This room contains all the sutras and martial manuals of Shaolin.  
+Bookshelves line the walls displaying the books in a systematic
+manner.  However, there is nothing you can use here.  It is guarded by
+one of the masters.    
+~
+146 140 0 0 0 0
+D1
+~
+bookshelf~
+2 14624 14625 15
+D2
+A side hall.
+~
+~
+0 -1 14620 0
+S
+#14625
+A Secret Chamber~
+You have found the room where the most precious manuals and sutras are
+kept.  You rubbed your hands eagerly as your eyes take into account
+the treasures hidden here.    
+~
+146 9 0 0 0 0
+D3
+The Library.
+~
+~
+2 14624 14624 15
+S
+#14626
+A Side Hall~
+This room connects you to the Main Hall.  There are rooms to your
+north, south and east.  A staircase leads up.    
+~
+146 8 0 0 0 0
+D0
+A room.
+~
+~
+0 -1 14629 0
+D1
+A room.
+~
+~
+0 -1 14628 0
+D2
+A room.
+~
+~
+0 -1 14627 0
+D3
+The main hall.
+~
+~
+0 -1 14619 0
+D4
+A room.
+~
+~
+0 -1 14630 0
+D5
+~
+trapdoor floor~
+2 -1 14631 11
+S
+#14627
+A Guest Room~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the
+room.  The bed looks hard and uninviting, and like the rest of the
+temple,it is extremely clean and tidy.    
+~
+146 8 0 0 0 0
+D0
+A side hall.
+~
+~
+0 -1 14626 0
+S
+#14628
+A Guest Room~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the
+room.  The bed looks hard and uninviting, and like the rest of the
+temple,it is extremely clean and tidy.    
+~
+146 8 0 0 0 0
+D3
+A side hall.
+~
+~
+0 -1 14626 0
+S
+#14629
+A Guest Room~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the
+room.  The bed looks hard and uninviting, and like the rest of the
+temple,it is extremely clean and tidy.    
+~
+146 8 0 0 0 0
+D2
+A side hall.
+~
+~
+0 -1 14626 0
+S
+#14630
+A Guest Room~
+This room is reserved for the guests who have come to Shaolin to give
+their offerings.  A table and some chairs is set in the middle of the
+room.  The bed looks hard and uninviting, and like the rest of the
+temple,it is extremely clean and tidy.    
+~
+146 8 0 0 0 0
+D5
+A side hall.
+~
+~
+0 -1 14626 0
+S
+#14631
+The Dungeons~
+You climbed into the dungeon, realizing too late that this is a
+FORBIDDEN AREA.  Let's see you talk your way out of this mess.  There
+are four prison cells here.    
+~
+146 9 0 0 0 0
+D0
+A prison cell.
+~
+cell~
+2 14631 14635 15
+D1
+A prison cell.
+~
+cell~
+2 14631 14633 15
+D2
+A prison cell.
+~
+cell~
+2 14631 14634 15
+D3
+A prison cell.
+~
+cell~
+2 14631 14632 15
+D4
+A side hall.
+~
+trapdoor~
+2 -1 14626 11
+S
+#14632
+A prison cell~
+It looks dark and gloomy, probably the only place in the temple that
+is not kept clean and maintained.    
+~
+146 9 0 0 0 0
+D1
+The guard room.
+~
+cell~
+2 14631 14631 15
+S
+#14633
+An empty prison~
+Blood and gore are about the only thing you can find in here.  It
+looks like any other MUD prisons.  What do you expect?    
+~
+146 9 0 0 0 0
+D3
+The guard room.
+~
+cell~
+2 14631 14631 15
+S
+#14634
+Cell of Wuhua~
+Locked here for the past ten years, for the unspeakable crimes he did
+to both men and women is...  Wuhua, the lusty monk.  After ten long
+years, you cannot imagine what he will do to you.    
+~
+146 9 0 0 0 0
+D0
+The guard room.
+~
+cell~
+2 14631 14631 15
+S
+#14635
+A female prison cell~
+Hmmm..  Female prisoners here in Shaolin?  You wonder what crimes they
+could have committed.  The sight of blood and shreds of torn clothing
+on the floor tells you everything.  At least now you don't regret
+killing those monks.    
+~
+146 9 0 0 0 0
+D2
+The guard room.
+~
+cell~
+2 14631 14631 15
+S
+#14636
+A Mysterious Room~
+The door above you closes and effectively seals off your exit.  The
+walls of this strange room glow and hum as if it is alive.  This is
+where the body of the high monks are kept after they attain
+enlightenment.  These bodies are embalmed and preserved using gold,
+hence they are sometimes referred to as "Jinshen".  A stairway leads
+down.    
+~
+146 521 0 0 0 0
+D1
+~
+workshop wall~
+2 14636 14637 15
+D5
+The stairway leads down~
+~
+0 -1 14616 0
+S
+#14637
+A Workshop~
+A long working table stands in one corner of the room.  Bottles of
+strange looking potions and pieces of gold flakes are strewn all over
+the table.    
+~
+146 521 0 0 0 0
+D3
+A mysterious room.
+~
+wall workshop~
+2 14636 14636 15
+S
+#14650
+Dark Path~
+You have stumbled onto a very old looking path.  You notice
+immediately that the trees seem to be comming towards you.  You might
+want to push on.  The wind whistles through the trees which sends
+shivers down your spine....    
+~
+146 1 0 0 0 0
+E
+stone~
+Stones seem to have blood stains and blade markings.
+~
+E
+trees~
+That tree looks like it is trying to get much to friendly.
+~
+S
+#14667
+Twisting Forest Path~
+The trail twists and curves its way around the tall trunks of the
+trees which populate this section of the island.  You may travel to
+the west or south from here, the sound of rushing water coming very
+clearly from the northwest.    
+~
+146 0 0 0 0 0
+S
+$~

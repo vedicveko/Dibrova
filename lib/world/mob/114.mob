@@ -1,0 +1,348 @@
+#11420
+beast ravening~
+the Ravenging Beast~
+A ravening beast is here, hunting for your blood!
+~
+The ravening beast stands about 1' tall at the shoulder, and measures
+10' from nose to tail.  It resembles a monitor lizard, only its furry,
+has a dog like snout, perky ears, and 6 legs, and has many more long
+sharp nasty teeth.    
+~
+72 0 0 0 0 0 0 0 -800 E
+6 1 76 0d0+0 1d2+4
+0 451
+8 8 0
+Str: 7
+Dex: 10
+Int: 12
+Wis: 15
+Con: 14
+Cha: 23
+Luck: 5
+Race: 8
+E
+#11421
+hag gelda~
+the hag Gelda~
+An old hag is here predicting dire consequences for you.
+~
+The hag is dressed in rags, has long tangled matted gray hair, and is
+very old.  The hag tells you 'I see you enter a fire and fight a great
+battle with a minion of hell, and you die horribly!  ' . With that the
+hag breaks into an ugly fit of laughter.    
+~
+10 0 0 0 0 0 0 0 200 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 7
+Dex: 24
+Int: 15
+Wis: 22
+Con: 14
+Cha: 19
+Luck: 20
+Race: 14
+E
+#11422
+guard woodsman~
+the Woodsman Guard~
+A woodsman guard is here, manning his post.
+~
+The guard has a large war axe, a heavy hide cloak, and a longbow.  He
+blends in with the surrounding terrain from years of experience.  He
+tells you 'Beware of the Murkmire, because just recently the town of
+Dunkeldorf lost 10 men in the forest.  Also ware the ravening beasts
+running loose in the forest.  Avoid the hag.  Is there any chance of
+you hiring on to help defend Dunkeldorf?  '.    
+~
+10 0 0 0 0 0 0 0 600 E
+7 1 72 0d0+0 1d2+4
+10 669
+8 8 1
+Str: 24
+Dex: 15
+Int: 21
+Wis: 17
+Con: 7
+Cha: 18
+Luck: 6
+Race: 14
+E
+#11423
+lumberjack~
+the Lumberjack~
+A lumberjack is here, smelling of sap and sweat.
+~
+The lumberjack is a tall human, equipped with rugged clothing and
+carrying a lumber axe.  He sees you and asks 'Have you come from the
+forest?  You have?  Is it safe again in the forest?    
+~
+72 0 0 0 0 0 0 0 700 E
+6 1 76 0d0+0 1d2+4
+10 451
+8 8 1
+Str: 21
+Dex: 15
+Int: 22
+Wis: 23
+Con: 18
+Cha: 23
+Luck: 21
+Race: 14
+E
+#11424
+alinskon grocer~
+Alinskon, the grocer~
+A grocer is here, ready to fill your order.
+~
+Al is 5'10", fat, and balding.  His nose twitches at the thought of
+selling you stuff.  You get to talking with him, and find out that he
+is a very frightened man.  Mainly he fears that whatever attacked in
+the woods will strike town next.  He gets to talking of the glory days
+of Dunkeldorf, before everyone started disappearing.    
+~
+10 0 0 0 0 0 0 0 400 E
+7 1 72 0d0+0 1d2+4
+10 669
+8 8 1
+Str: 24
+Dex: 25
+Int: 8
+Wis: 9
+Con: 14
+Cha: 10
+Luck: 24
+Race: 14
+E
+#11425
+markuz miller~
+Markuz, the miller of Dunkeldorf~
+The miller of Dunkeldorf stands here, covered in sawdust.
+~
+Markuz the miller is a thick stocky, hairy man.  He carries himself
+with great confidence and precision.  You talk with him for a while,
+and he tells you that he has had a dream of you visiting a strange
+white temple and fighting the guardian there.  He wishes you luck and
+godspeed.    
+~
+10 0 0 0 0 0 0 0 500 E
+7 1 72 0d0+0 1d2+4
+10 669
+8 8 1
+Str: 5
+Dex: 15
+Int: 8
+Wis: 13
+Con: 20
+Cha: 17
+Luck: 10
+Race: 14
+E
+#11426
+hans smith village~
+Hans the smith of Dunkeldorf~
+The smith of Dunkeldorf is here, fanning the fires of his furnace.
+~
+Hans is a very strong human, almost as strong as they run. He is in his 
+late 40's and has jet black hair and a beard. You get to talking with 
+Hans, and the conversation turns to iron. Hans tells you that he used 
+to get iron from the old mine in the Murkmire, but the cave has long 
+since collapsed and become unstable, so now he trades for it.
+~
+10 0 0 0 0 0 0 0 600 E
+7 1 72 0d0+0 1d2+4
+10 669
+8 8 1
+Str: 7
+Dex: 21
+Int: 9
+Wis: 8
+Con: 6
+Cha: 16
+Luck: 14
+Race: 14
+E
+#11427
+fritz innkeeper~
+Fritz, the innkeeper of the Dunkeldorf Inn~
+The innkeeper is here, taking orders and singing in a clear tenor.
+~
+Fritz the innkeeper is a short human, standing a mere 5' tall.  He
+makes up for it with a high energy level and animated conversation.  
+Fritz tells you a sad tale about his mad sister Gelda running off into
+the forest one night, naked screaming, and never to return.    
+~
+10 0 0 0 0 0 0 0 600 E
+7 1 72 0d0+0 1d2+4
+10 669
+8 8 1
+Str: 15
+Dex: 23
+Int: 23
+Wis: 19
+Con: 20
+Cha: 18
+Luck: 14
+Class: 11
+Race: 14
+E
+#11428
+libby trader halfling~
+Libby the halfling trader~
+A halfling trader is here, with news and song from the shire.
+~
+Libby is a wee little guy, with a plump rounded figure, and a huge
+satchel full of curiosities.  He sings for you a song of life in the
+shire, and of longbottom leaf.    
+~
+72 0 0 0 0 0 0 0 400 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 19
+Dex: 9
+Int: 19
+Wis: 6
+Con: 8
+Cha: 13
+Luck: 14
+Race: 17
+E
+#11429
+snake rock~
+the Giant Rock Snake~
+A giant gray scaled snake is here, hissing at you!
+~
+The rock snake is some 20' long and 1' in diameter, enough muscle to
+crush an ox.  Its rounded head gives it away as a non poisonous
+constrictor.    
+~
+10 0 0 0 0 0 0 0 -300 E
+9 2 64 0d0+0 1d2+6
+0 1270
+8 8 0
+Str: 24
+Dex: 6
+Int: 15
+Wis: 18
+Con: 18
+Cha: 8
+Luck: 5
+Race: 2
+E
+#11430
+guardian temple white being~
+the Guardian of the White Temple~
+A being in white robes and glowing with a bright white light stands 
+here!
+~
+The guardian of the white temple appears human, as your eyes adjust to
+the light emanating from him.  He tells you the following tale: 'When
+I was an able boy of 18, I worked for my dad in the mine.  One day I
+struck out in a new direction, and broke through to this green meadow
+here.  I followed the meadow to this temple and found an aged warrior
+here garbed as I am now.  He gave me this sickle and robe and froze me
+to this spot.  He told me that my task was to wait for the day when a
+hero would ste~
+10 0 0 0 0 0 0 0 800 E
+3 0 88 0d0+0 1d1+2
+5 77
+8 8 1
+Str: 10
+Dex: 6
+Int: 16
+Wis: 22
+Con: 18
+Cha: 6
+Luck: 12
+Race: 34
+E
+#11431
+witch woman~
+the Witch~
+A woman in an ink black robe is here, speaking in a hissing tongue.
+~
+The witch looks harried and driven.  Her eyes dance wildly, and she
+cackles at you with an insane glee.    
+~
+10 0 0 0 0 0 0 0 -800 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 2
+Str: 18
+Dex: 7
+Int: 6
+Wis: 14
+Con: 25
+Cha: 12
+Luck: 8
+Race: 14
+E
+#11432
+warlock man~
+the Warlock~
+A man in an ink black robe is here, chanting in a hissing tongue.
+~
+The warlock looks harried and driven.  His eyes dart wildly, and he
+cackles with an insane glee.    
+~
+10 0 0 0 0 0 0 0 -800 E
+8 2 68 0d0+0 1d2+5
+10 941
+8 8 1
+Str: 24
+Dex: 24
+Int: 23
+Wis: 21
+Con: 23
+Cha: 22
+Luck: 10
+Race: 16
+E
+#11433
+leader man coven~
+the Coven Leader~
+A man in a blood red robe is here, glaring at you and howling for your 
+blood!
+~
+The coven leader looks harried and driven.  His eyes dart wildly, and
+he cackles with an insane glee.    
+~
+16394 0 0 0 65536 4194304 0 0 -1000 E
+10 3 60 0d0+0 1d2+6
+15 1662
+8 8 1
+Str: 14
+Dex: 22
+Int: 12
+Wis: 22
+Con: 22
+Cha: 5
+Race: 14
+E
+#11434
+beast hell flaming~
+the Flaming Beast from Hell~
+A minion of hell is here, sputtering flame from its foul rod!
+~
+The minion of hell is manlike, and flaming.  It has horns and a
+horribly disfigured face.  Its skin is beet red, and his fingers and
+toes end in terrible talons.  It looks at you, and with a fiery
+laughter, it says: 'So, you are foolish enough to enter the circle.  
+You may win this battle, but you will not stop our plan!  '
+~
+42 0 0 0 0 0 0 0 -1000 E
+12 3 52 0d0+0 1d2+8
+0 2646
+8 8 0
+Str: 20
+Dex: 9
+Int: 16
+Wis: 12
+Con: 7
+Cha: 23
+Luck: 22
+Race: 8
+E
+$

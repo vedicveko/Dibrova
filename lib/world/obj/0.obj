@@ -1,0 +1,359 @@
+#0
+bug~
+a bug~
+This object is BAD!  If you see it, there must be a bug in the game.  Please
+report it immediately using the BUG command.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1
+wings~
+a pair of wings~
+A pair of wings is sitting here.~
+~
+9 0 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+0 0 200 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#3
+one minute doublexp xp~
+/cRA token for One Minute of Double EXP!/c0~
+/cRA token for One Minute of Double EXP lies here!/c0~
+~
+8 100663296 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 3915 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#4
+five 5 minutes doublexp xp~
+/cRA token for Five Minutes of Double EXP!/c0~
+/cRA token for Five Minutes of Double EXP lies here!/c0~
+~
+8 100663296 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 6810 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#10
+waybread bread~
+a waybread~
+Some waybread has been put here.~
+~
+19 64 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+1 96 50 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+waybread bread~
+The waybread is the traditional feed of elves when travelling, they
+call it lembas.  It is said to refresh the weary traveler greatly.
+~
+#11
+intestine~
+an icky pile of intestines~
+An icky pile of intestines is here - colon and all.~
+~
+19 12 0 0 0 1 0 0 0
+1 0 0 1 0 0 0 0
+1 4 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#12
+quill fiery questmaster~
+a fiery Quill~
+A seemingly valuable quill lies here, it's fiery glow pulsating softly!~
+~
+8 100663368 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+parchment letter quest~
+   The parchment is written in a strange language which you find
+impossible to understand, maybe if you return it to the Questmaster,
+he will read it for you.  Or maybe even reward you for its retrival!
+  
+~
+#20
+portal~
+/cCportal/c0~
+/cCA swirling portal hovers in mid-air./c0~
+~
+24 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#22
+shattered vial potion~
+a shattered vial~
+X~
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#30
+generic scroll~
+Generic Scroll~
+A dusty scroll~
+~
+2 68 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#31
+Generic Potion~
+Generic Potion~
+A dusty potion is lying here.~
+The container has an glowing inscription on its side.
+~
+10 68 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#50
+quest_object glimmer incadescent light~
+/cwa /ccglimmer/cw of /cCincadescent light/c0~
+/cwA /ccglimmer/cw of /cCincadescent light/cw hovers above the ground./c0~
+~
+12 67174413 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#51
+quest_object glowing vellum scroll~
+/cwa /cWglowing vellum scroll/c0~
+/cwA /cWglowing vellum scroll/cw lies upon the ground./c0~
+~
+12 67174413 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+8 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scroll~
+You'll definitely want to take this to the questmaster as soon as possible.
+~
+#52
+quest_object ofingian gold mark~
+/cwan /cLOfingian/cY Gold Mark/c0~
+/cwAn /cLOfingian/cY Gold Mark/cw has been dropped here./c0~
+~
+12 67174413 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#53
+quest_object staff gods~
+/cwthe /cWStaff/cw of the /cWGods/c0~
+/cwThe /cWStaff/cw of the /cWGods/cw lies glowing on the ground./c0~
+~
+12 67174413 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#54
+quest_object glowng halo light~
+/cwa /cWglowing halo /cwof/cW light/c0~
+/cwA /cWglowing halo /cwof/cW light/cw has been left here./c0~
+~
+12 67174413 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#55
+quest_object damn heavy couch~
+a damn heavy couch~
+A damn heavy couch is here, looking very damn heavy.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+25 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#70
+aconite herb yellow-green~
+/cwa pinch of /cYaconite/c0~
+/cwA pinch of /cYaconite/cw lies sprinkled on the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+1 16 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#71
+caledonia herb~
+/cwa bit of /crcaledonia herb/c0~
+/cwA bit of /crcaledonia herb/cw has been sprinkled on the ground here./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+1 19 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#72
+sprinkling goldenseal herb~
+/cwa sprinkling of /cYgoldenseal/c0~
+/cwA sprinkling of /cYgoldenseal/cw lies upon the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+1 21 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#73
+small mound wildroot herb~
+/cwa small mound of /cLwildroot herb/c0~
+/cwA small mound of /cLwildroot herb/cw lies upon the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 34 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#74
+crushed nirinbark herb~
+/cwsome crushed /cynirinbark herb/c0~
+/cwSome crushed /cynirinbark /cwin herb form/cw has been dropped here./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+1 46 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#75
+herb coltsfoot bit~
+/cwa pinch of /cgcoltsfoot/c0~
+/cwA pinch of /cgcoltsfoot/cw lies upon the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+1 72 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#76
+burdock herb bit~
+/cwa bit of /cMburdock/c0~
+/cwA bit of /cMburdock herb/cw lies upon the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+7 0 0 0 0 0 0 0
+1 89 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#77
+pinch angelica herb~
+/cwa pinch of /cWangelica herb/c0~
+/cwA pinch of /cWangelica herb/cw has been left upon the ground./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+1 345 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#78
+salstine herb bit~
+/cwa bit of /cbsalstine herb/c0~
+/cwA bit of /cbsalstine herb/cw has been left here./c0~
+~
+30 67108864 0 0 0 1 0 0 0
+9 0 0 0 0 0 0 0
+1 981 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#79
+jar magical druid_jar~
+/cwa /cGmagical /cgdruid/cw mixing jar/c0~
+/cwA /cGmagical /cgdruid/cw mixing jar has been left here./c0~
+~
+31 2 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+9 59 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#80
+empty_vial empty glass vial~
+/cwan empty glass vial/c0~
+/cwAn empty glass vial has been left here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 16 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#81
+vial blood blood_vial~
+/cwa vial of /cRblood/c0~
+/cwA vial of /cRblood/cw has been dropped here./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#85
+weapon1~
+an unfinished object~
+An unfinished object is lying here.~
+~
+5 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 50333 0 151 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#86
+weapon2~
+an unfinished object~
+An unfinished object is lying here.~
+~
+5 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 50333 0 151 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#87
+weapon3~
+an unfinished object~
+An unfinished object is lying here.~
+~
+5 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 53333 0 160 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#97
+turd shit~
+a festering pile of shit... GROOSE!!~
+A festering pile of shit decays on the ground letting off a strange oder.~
+~
+13 65544 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 178 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#98
+small rock oak staff randalfun~
+a small rock.~
+An oak staff has been left here, with a tiny rock at its head.~
+This small but sturdy staff seems to have gone through
+no small amount of battles.  With numerous chunks
+of wood lost here and there, it pretty much looks
+as worthless as it feels in your hands.
+
+Really no use for you now is it?
+~
+4 4 0 0 0 16385 0 0 0
+2 3 1 1 4 0 0 0
+15 1001 10 13 -1 -1 -1 -1 -1 -1
+12 0 0 0 0 0 0 0 0
+A
+12 20
+C
+8 1
+#99
+2~
+0~
+Undefined~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 5 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scythe death~
+It is a very heavy scythe.  The grey handle is made from hard wood and the
+long iron blade is completely smooth from countless years of use.  It feels
+cold to the touch.
+~
+$~

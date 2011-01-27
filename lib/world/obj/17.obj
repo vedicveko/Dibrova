@@ -1,0 +1,253 @@
+#1700
+key bloody~
+/cwa /crbloody /cwkey/c0~
+A bloody key is stuck to the floor.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 1 0 0 0 0 0 0 0
+#1701
+key dirty~
+/cwa /cydirty /cwkey/c0~
+A dirty key lies here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 1 0 0 0 0 0 0 0
+#1702
+toy boomerang~
+/cwa toy boomerang/c0~
+/cwA toy boomerang wants to be picked up./c0~
+~
+5 0 9 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+5 3466 0 10 -1 -1 -1 -1 -1 -1
+0 5 0 0 0 0 0 0 0
+A
+18 1
+#1703
+staff gnarled~
+/cwa gnarled staff/c0~
+/cwA gnarled staff is here./c0~
+~
+5 180224 9 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+9 3666 0 11 -1 -1 -1 -1 -1 -1
+0 6 0 0 0 0 0 0 0
+A
+12 15
+#1704
+sword gnome~
+/cwa /cbgnome /cwsword/c0~
+/cwA /cbgnome /cwsword catches your eye./c0~
+~
+5 0 9 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+54 3333 0 10 -1 -1 -1 -1 -1 -1
+0 -112 0 0 0 0 0 0 0
+#1705
+shield studded~
+/cwa studded shield/c0~
+/cwA studded wooden shield lies here./c0~
+~
+9 0 9 0 0 513 0 0 0
+4 0 0 0 0 0 0 0
+16 226 0 1 -1 -1 -1 -1 -1 -1
+0 100 0 0 0 0 0 0 0
+#1706
+potion bloody~
+/cwa /crbloody /cwpotion/c0~
+/cwA /crbloody /cwpotion lies here./c0~
+$n shudders in agony as the contents of the vial are swallowed!
+~
+10 0 0 0 0 1 0 0 0
+14 33 4 0 0 0 0 0
+2 118 0 14 -1 -1 -1 -1 -1 -1
+0 118 0 0 0 0 0 0 0
+#1707
+cloak bloody~
+/cwa /crbloody /cwcloak/c0~
+/cwA /crbloody /cwcloak lies in a corner./c0~
+~
+9 64 9 0 0 1025 0 0 0
+4 0 0 0 0 0 0 0
+15 2466 0 10 -1 -1 -1 -1 -1 -1
+0 -56 0 0 0 0 0 0 0
+A
+3 1
+#1708
+ring bat~
+/cwA /cLbat /cwring/c0~
+/cwA ring /cLin the shape of a bat /cwlies here./c0~
+~
+9 64 9 0 0 3 0 0 0
+3 0 0 0 0 0 0 0
+2 2640 0 12 -1 -1 -1 -1 -1 -1
+0 25 0 0 0 0 0 0 0
+A
+14 15
+#1709
+necklace bead~
+/cwA /cmbead /cwnecklace/c0~
+/cwA string of /cmbeads /cwis here./c0~
+~
+9 0 0 0 0 5 0 0 0
+3 0 0 0 0 0 0 0
+8 2860 0 13 -1 -1 -1 -1 -1 -1
+0 -96 0 0 0 0 0 0 0
+A
+25 1
+A
+28 15
+#1710
+sword electrum~
+/cwAn/cC electrum /cwsword/c0~
+/cwAn /cCelectrum /cwsword lies here./c0~
+~
+5 532545 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+20 4000 0 12 -1 -1 -1 -1 -1 -1
+0 100 0 0 0 0 0 0 0
+#1711
+basket wicker~
+/cwa /cywicker /cwbasket/c0~
+/cwA /cywicker /cwbasket sits here./c0~
+~
+15 0 0 0 0 1 0 0 0
+35 0 -1 0 0 0 0 0
+7 45 0 1 -1 -1 -1 -1 -1 -1
+0 45 0 0 0 0 0 0 0
+#1712
+peanuts~
+/cwsome /cypeanuts/c0~
+/cwPeanuts lie here./c0~
+~
+19 0 0 0 0 1 0 0 0
+16 0 0 0 0 0 0 0
+9 64 0 1 -1 -1 -1 -1 -1 -1
+0 25 0 0 0 0 0 0 0
+#1713
+grain~
+/cysome grain/c0~
+/cwThere is some /cygrain /cwhere./c0~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0
+8 60 0 1 -1 -1 -1 -1 -1 -1
+0 22 0 0 0 0 0 0 0
+#1714
+skiff~
+/cwa skiff/c0~
+/cwA small skiff is here./c0~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+24 1500 0 1 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#1715
+boots gnome~
+/cwa pair of /cbgnome boots/c0~
+/cwYou notice a pair of /cbgnome boots./c0~
+~
+9 0 9 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+12 2493 0 11 -1 -1 -1 -1 -1 -1
+0 -32 0 0 0 0 0 0 0
+A
+14 10
+#1716
+coins~
+/cwa pile of /cYcoins/c0~
+/cwA pile of /cYcoins./c0~
+~
+20 0 0 0 0 1 0 0 0
+100 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 1 0 0 0 0 0 0 0
+#1717
+coins~
+/cwa pile of /cYcoins/c0~
+/cwA pile of /cYcoins./c0~
+~
+20 0 0 0 0 1 0 0 0
+500 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 1 0 0 0 0 0 0 0
+#1718
+coins~
+/cwa pile of /cYcoins/c0~
+/cwA pile of /cYcoins./c0~
+~
+20 0 0 0 0 1 0 0 0
+100 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 1 0 0 0 0 0 0 0
+#1719
+shield stone~
+/cwa stone shield/c0~
+/cwA stone slab lies here./c0~
+~
+9 0 9 0 0 513 0 0 0
+4 0 0 0 0 0 0 0
+14 2960 0 12 -1 -1 -1 -1 -1 -1
+0 90 0 0 0 0 0 0 0
+A
+1 1
+#1720
+mail heavy banded~
+/cwa suit of /ccheavy banded mail/c0~
+/cwA large suit of /ccheavy banded mail /cwis here./c0~
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+13 240 0 1 -1 -1 -1 -1 -1 -1
+0 35 0 0 0 0 0 0 0
+#1721
+club large~
+/cwa large club/c0~
+/cwA large club sits here./c0~
+~
+5 0 3 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+12 4000 0 12 -1 -1 -1 -1 -1 -1
+0 12 0 0 0 0 0 0 0
+#1722
+banana~
+/cwa /cYbanana/c0~
+/cwThere is a /cYbanana /cwhere./c0~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+5 24 0 1 -1 -1 -1 -1 -1 -1
+0 9 0 0 0 0 0 0 0
+#1723
+life potion~
+/cwa potion of /cclife healing/c0~
+/cwA potion of /cclife healing /cehas left here./c0~
+A breath of life breezes through $n's body!
+~
+10 128 0 0 0 1 0 0 0
+13 28 0 0 0 0 0 0
+1 1043 0 13 -1 -1 -1 -1 -1 -1
+0 19 0 0 0 0 0 0 0
+#1798
+undefined~
+undefined~
+Undefined~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#1799
+deed gnome village~
+the deed to the Gnome Village~
+A deed has been left here.~
+~
+28 0 32 0 0 16385 0 0 0
+17 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 -128 0 0 0 0 0 0 0
+$~

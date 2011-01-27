@@ -1,0 +1,235 @@
+#19100
+seagull~
+a Seagull~
+A seagull is here, looking for a suitable target.
+~
+Bombs Away!
+~
+8 0 0 0 8388608 0 0 0 0 E
+5 1 80 1d1+500 1d2+3
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 21
+Dex: 15
+Int: 16
+Wis: 23
+Con: 20
+Cha: 24
+Luck: 18
+E
+#19101
+desk sergeant~
+the Desk Sergeant~
+The desk seargant sits here, waiting for something interesting.
+~
+Thin and wiry, the desk Sergeant still has what it takes to be out in
+the field.    
+~
+526346 0 0 0 80 0 0 0 0 E
+65 42 -40 1d1+0 6d6+43
+2250 196628
+6 6 1
+Str: 14
+Dex: 9
+Int: 24
+Wis: 13
+Con: 12
+Cha: 19
+Luck: 6
+Class: 4
+Race: 14
+E
+#19102
+city janitor~
+the City Janitor~
+A city janitor walks around picking up trash.
+~
+He caries his sanitation guild card with pride.
+~
+72 0 0 0 16 2 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+1300 57012
+8 8 1
+Str: 21
+Dex: 9
+Int: 20
+Wis: 7
+Con: 19
+Cha: 16
+Luck: 24
+Race: 14
+E
+#19103
+city official~
+a City Official~
+A city official runs by you in a rush.
+~
+Now what could she be up too?
+~
+72 0 0 0 0 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 2
+Str: 13
+Dex: 16
+Int: 12
+Wis: 20
+Con: 19
+Cha: 18
+Luck: 22
+Race: 14
+E
+#19104
+alliance official~
+an Alliance official~
+An Alliance official runs by you in a rush.
+~
+Now what could he be up too?
+~
+72 0 0 0 0 0 0 0 0 E
+55 33 -32 1d1+0 5d6+36
+1750 128422
+8 8 1
+Str: 13
+Dex: 21
+Int: 22
+Wis: 10
+Con: 18
+Cha: 7
+Luck: 12
+Race: 14
+E
+#19105
+a Page~
+a Page~
+A page runs around like a chicken with it's head cut off!
+~
+The Page is running around as if something terrible will happen soon!
+~
+32840 0 0 0 0 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+800 17197
+8 8 0
+Str: 20
+Dex: 19
+Int: 9
+Wis: 18
+Con: 18
+Cha: 24
+Luck: 15
+Race: 14
+E
+#19106
+Alliance guard~
+an Alliance Guard~
+An Alliance guard stands here.
+~
+The Alliance Guard is the protector of Verinige Harbor.  He is strong
+and agile, a lethal protector of the less fortunate.    
+~
+34888 0 0 0 80 131072 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 1
+BareHandAttack: 14
+Str: 23
+Dex: 6
+Int: 23
+Wis: 24
+Con: 20
+Cha: 21
+Luck: 24
+Class: 10
+Race: 14
+E
+#19107
+senator perplexed~
+a perplexed Senator~
+A perplexed senator stands here.
+~
+He stands here, looking bewildered, as if he cannot understand what
+all the fuss is about.  Shrugging his shoulders and nodding here and
+there, he tries in vain to figure it all out.    
+~
+72 0 0 0 0 0 0 0 0 E
+46 26 -24 1d1+0 5d5+30
+1450 81423
+8 8 1
+BareHandAttack: 7
+Str: 6
+Dex: 25
+Int: 14
+Wis: 12
+Con: 15
+Cha: 6
+Luck: 17
+Class: 12
+Race: 14
+E
+#19108
+pissed senator~
+a pissed-off Senator~
+A pissed-off senator stands here.
+~
+The senator is very upset about something, although they tend to be
+upset over trivial things of concern.    
+~
+72 0 0 0 0 0 0 0 0 E
+45 25 -24 1d1+0 4d5+30
+1425 76985
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 14
+Int: 20
+Wis: 10
+Con: 9
+Cha: 18
+Luck: 15
+Class: 12
+Race: 14
+E
+#19109
+guild guard~
+a Guild Guard~
+A guild guard stands here, blocking your way.
+~
+This Guild Guard is not someone to be messed with.
+~
+33554458 0 0 0 2384 131074 0 0 0 E
+110 88 -40 1d1+0 11d12+73
+3400 827294
+8 8 0
+BareHandAttack: 3
+Str: 12
+Dex: 20
+Int: 5
+Wis: 21
+Con: 15
+Cha: 22
+Luck: 6
+Class: 9
+Race: 7
+E
+#19110
+guild official~
+a Guild Official~
+A guild official stands here.
+~
+Like others in his guild, he is not one to be messed with.
+~
+33587210 0 0 0 2128 131074 0 0 0 E
+104 81 -40 1d1+0 10d10+69
+3200 651855
+8 8 1
+Str: 10
+Dex: 8
+Int: 20
+Wis: 15
+Con: 16
+Cha: 9
+Luck: 14
+Race: 14
+E
+$

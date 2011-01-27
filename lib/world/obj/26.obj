@@ -1,0 +1,686 @@
+#2600
+whip~
+/cwan /cLiron-tipped /cwwhip/c0~
+/cwA long leathery weapon lies coiled up on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 2 0 0 0 0
+3 4160 300 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2601
+Loaf of Bread~
+/cwa travelers loaf of bread/c0~
+/cwA small load of travelers bread lies here./c0~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0
+1 60 7 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2602
+pie piece~
+/cwa piece of pie/c0~
+/cwA piece of pumpkin pie sits on a plate at your feet./c0~
+~
+19 0 0 0 0 1 0 0 0
+13 0 0 0 0 0 0 0
+1 54 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2603
+Kouloura bread~
+/cwa circle of Kouloura bread/c0~
+/cwA circle of Kouloura bread sits on a shelf here./c0~
+~
+19 0 0 0 0 1 0 0 0
+20 0 0 0 0 0 0 0
+1 80 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2604
+Grissini Sticks~
+/cwsome thin grissini sticks/c0~
+/cwA bundle of stick-like pieces of bread lie here./c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+0 40 5 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2605
+Rye Bread~
+/cwa loaf of Rye bread/c0~
+/cwA loaf of Rye bread, peeking out of a bag, sits here./c0~
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+1 96 7 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2606
+French Bread~
+/cwa loaf of baked french bread/c0~
+/cwA loaf of French bread lies here untouched./c0~
+~
+19 0 0 0 0 1 0 0 0
+30 0 0 0 0 0 0 0
+2 120 10 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2607
+Tray container~
+/cwa Holding Tray/c0~
+/cwAn empty tray lies here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+30 0 -1 0 0 0 0 0
+2 200 20 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2608
+ringmail sleeves~
+/cwa pair of ringmail sleeves/c0~
+/cwA pair of ringmail sleeves lie here./c0~
+~
+9 0 0 0 0 257 0 0 0
+3 0 0 0 0 0 0 0
+10 2640 4 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2609
+ringmail leggings~
+/cwa pair of ringmail leggings/c0~
+/cwA pair of ringmail leggings lie here, waiting to be worn./c0~
+~
+9 0 0 0 0 33 0 0 0
+5 0 0 0 0 0 0 0
+10 2960 4 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2610
+iron-blue shield~
+/cwan /cbiron-blue /cwshield/c0~
+/cwAn /cbiron-blue /cwshield gleams softly in the torchlight./c0~
+~
+9 0 0 0 0 513 0 0 0
+8 0 0 0 0 0 0 0
+10 3040 3 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2611
+ringmail boots~
+/cwa pair of ringmail boots/c0~
+/cwA pair of ringmail boots lie tossed in the corner./c0~
+~
+9 8192 0 0 0 65 0 0 0
+6 0 0 0 0 0 0 0
+1 2880 4 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 10
+#2612
+six-foot quarterstaff~
+/cwa six-foot /cpquarterstaff/c0~
+/cwA staff of some sort lies in the dust here./c0~
+~
+5 524288 0 0 0 8193 0 0 0
+0 4 3 7 0 0 0 0
+5 4160 12 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2613
+cow-hide chaps~
+/cwa pair of cow-hide chaps/c0~
+/cwA pair of /cLblack /cwand /cWwhite /cwchaps sit in a pile on the ground./c0~
+~
+9 0 0 0 0 33 0 0 0
+2 0 0 0 0 0 0 0
+3 2800 3 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#2614
+ringmail shirt~
+/cwa ringmail shirt/c0~
+/cwA ringmail shirt lies neatly folded on the floor./c0~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+5 2880 3 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 1
+#2615
+Ash Lance~
+/cwa lance made of Ash/c0~
+/cwA lance, which trips you as you walk by, lies on the ground./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+10 2666 10 8 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2616
+bardiche~
+/cwa Bardiche/c0~
+/cwA long pole with a wicked blade on the end lies here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+8 2666 200 8 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2617
+irgaak~
+/cwan /cLiron /cwIrgaak/c0~
+/cwA long sword with a jagged edge stands here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+6 3466 220 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2618
+horse shoe~
+/cwa horseshoe/c0~
+/cwSomeone dropped their lucky horseshoe here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 73 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#2619
+wrought-iron bracelet~
+/cwa /cLwrought-iron /cwbracelet/c0~
+/cwA bracelet made of iron lies here./c0~
+~
+9 0 0 0 0 4097 0 0 0
+1 0 0 0 0 0 0 0
+2 2400 0 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -1
+#2620
+iron nail~
+/cwan /cLiron /cwnail/c0~
+/cwA sliver of iron protudes from the ground./c0~
+~
+5 532482 0 0 0 24577 0 0 0
+0 0 0 14 0 0 0 0
+2 4160 1 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 1
+#2621
+pail~
+/cwa pail/c0~
+/cwA pail, empty of liquid, lies tipped over here./c0~
+~
+17 0 0 0 0 1 0 0 0
+20 20 0 0 0 0 0 0
+25 20 5 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2622
+bec-de-corbin~
+/cwa Bec-de-Corbin/c0~
+/cwA wickedly sharp, slender dagger floats here./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+4 3466 10 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2631
+inflatable raft~
+/cwan inflatable raft/c0~
+/cwA uninflated raft lies here folded nicely./c0~
+~
+22 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 193 3 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2632
+staff hovering~
+/cwa traveler's Staff of Hovering/c0~
+/cwA floating staff hovers before you./c0~
+$n grips $s staff and giggles as the power flows through $m!
+~
+4 65549 0 0 0 16385 0 0 0
+15 10 10 52 0 0 0 0
+10 360 15 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2633
+putty~
+/cwsome /cPPutty/c0~
+/cwA little bit of /cpputty /cwlies here./c0~
+~
+1 67108864 0 0 0 16385 0 0 0
+0 0 -1 0 0 0 0 0
+1 1600 3 12 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2634
+regal robe~
+/cwa /cRRegal Robe/c0~
+/cwA plush, satin pile of cloth lies in a pile here./c0~
+~
+11 287744 0 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+20 1867 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -10
+A
+1 -2
+#2635
+regal crown~
+/cwa /cRRegal Crown/c0~
+/cwA crown made of bronze lies here, growing duller by the minute./c0~
+~
+11 312320 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+10 4400 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+#2636
+sceptre diamond~
+/cwa /cCDiamond-studded /cYsceptre/c0~
+/cwTwinkling /cCdiamonds /cwinset in the /cYsceptre /cwbeckon you to pick it up./c0~
+~
+5 820481 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+6 6932 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 -10
+A
+19 1
+#2637
+bejeweled necklace~
+/cwa bejeweled necklace/c0~
+/cwA necklace, richly adorned with jewels, lies here forgotten./c0~
+~
+9 320832 0 0 0 5 0 0 0
+5 0 0 0 0 0 0 0
+8 3866 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 -2
+#2638
+band-aids~
+/cwa swath of Band-Aids/c0~
+/cwA filthy, diseased-riddled pile of torn cloth sits here, attracting flies./c0~
+~
+11 12416 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+2 2686 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 10
+A
+2 -2
+A
+4 -1
+#2639
+surgical scalpel~
+/cwa surgical scalpel/c0~
+/cwA razor-sharp scalpel lies here gleaming in the dim light./c0~
+~
+5 2011456 4 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 4852 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2640
+silvery helmet~
+/cwa /cWsilvery /cwhelmet/c0~
+/cwA bright reflection of sunlight draws your eyes to a silvery helmet lying on the ground./c0~
+~
+9 973825 0 0 0 17 0 0 0
+6 0 0 0 0 0 0 0
+5 3840 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 -2
+#2641
+shield paladin~
+/cwthe /cWShield of the Paladin/c0~
+/cwA shield made from a thick slab of silver lies here./c0~
+~
+9 973825 0 0 0 513 0 0 0
+5 0 0 0 0 0 0 0
+10 4373 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+#2642
+legging~
+/cwa pair of /cWsilvery /cwleggings/c0~
+/cwA bright reflection of sunlight draws your eyes to a pair of silvery leggings lying here./c0~
+~
+9 973825 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+8 3200 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -4
+#2643
+sleeves~
+/cwa pair of /cWsilvery /cwsleeves/c0~
+/cwA bright reflection of sunlight draws your eyes to a pair of silver sleeves lying here.~
+~
+9 973825 0 0 0 257 0 0 0
+4 0 0 0 0 0 0 0
+6 3520 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+18 1
+#2644
+breastplate plate silvery~
+/cwa /cWsilvery /cwbreastplate/c0~
+/cwA breastplate made of pure silver lies here./c0~
+~
+9 973825 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+20 4266 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#2645
+boots~
+/cwa pair of heavy-plater, /cWsilvery /cwboots/c0~
+/cwA pair of heavy-plated silver boots lie here carelessly./c0~
+~
+9 973825 0 0 0 65 0 0 0
+2 0 0 0 0 0 0 0
+10 3413 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 20
+#2646
+gauntlets~
+/cwa pair of /cWsilvery /cwgauntlets/c0~
+/cwA bright reflection of sunlight draws your eyes to a pair of silvery gauntlets./c0~
+~
+9 973825 0 0 0 129 0 0 0
+3 0 0 0 0 0 0 0
+3 3733 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2647
+visor~
+/cwa /cWsilvery /cwvisor/c0~
+/cwA bright reflection of sunlight draws your eyes to a silvery visor./c0~
+~
+9 973825 0 0 0 262145 0 0 0
+2 0 0 0 0 0 0 0
+3 2133 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+#2648
+helm~
+/cwan /cCinsignaed /cwhelm/c0~
+/cwA helmet with the mark of the White Rose sits here./c0~
+Nothing.
+~
+9 1994752 0 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+5 3600 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2649
+shield~
+/cwthe /cCShield of the /cWWhite /cCRose/c0~
+/cwA shield embossed with the mark of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 513 0 0 0
+6 0 0 0 0 0 0 0
+10 3900 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#2650
+leggings~
+/cwa pair of /cCinsignaed /cwleggings/c0~
+/cwA pair of leggings with the mark of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 33 0 0 0
+5 0 0 0 0 0 0 0
+8 3800 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#2651
+sleeves~
+/cwa pair of /cCinsignaed /cwsleeves/c0~
+/cwA pair of sleeves marked with the White Rose lies here./c0~
+~
+9 1994752 0 0 0 257 0 0 0
+5 0 0 0 0 0 0 0
+6 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2652
+breast plate~
+/cwan /cCinsignaed /cwbreastplate/c0~
+/cwA breastplate sporting the mark of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+20 4100 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 -1
+A
+18 1
+#2653
+boots~
+/cwa pair of /cCinsignaed /cwboots/c0~
+/cwA pair of boots graced with the mark of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 65 0 0 0
+4 0 0 0 0 0 0 0
+7 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#2654
+gauntlets~
+/cwa pair of /cCinsignaed /cwgauntlets/c0~
+/cwA pair of gauntlets sporting the mark of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 129 0 0 0
+3 0 0 0 0 0 0 0
+3 3500 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2655
+belt~
+/cwan /cCinsignaed /cwbelt/c0~
+/cwA tough chain-linked belt with the mark of the White Rose lies here in a pile./c0~
+~
+9 1994752 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 3400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+#2656
+white rose ring~
+/cwthe fraternal /cCRing of the /cWWhite /cCRose/c0~
+/cwA ring bearing the crest of the White Rose lies here./c0~
+~
+9 1994752 0 0 0 65539 0 0 0
+2 0 0 0 0 0 0 0
+1 3400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 2
+A
+18 1
+#2657
+fountain pond~
+/cwa large /cBFountain/c0~
+/cwA large /cBFountain /cwis in the center of the courtyard./c0~
+~
+23 0 0 0 0 0 0 0 0
+999 999 15 0 0 0 0 0
+1004 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fountain~
+The large fountain reaches close to six feet into the air, its
+clear water flowing down into multiple basins, until it finally
+spills into a small goldfish pond which surrounds the fountain.
+~
+#2658
+black thorn buckler~
+/cwa /cLblack thorn /cwbuckler/c0~
+/cwA buckler covered with nasty thorns lies here./c0~
+~
+9 1759744 0 0 0 513 0 0 0
+5 0 0 0 0 0 0 0
+9 3800 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#2659
+black thorn gauntlets~
+/cwa pair of /cLblack thorn /cwgauntlets/c0~
+/cwA pair of gauntlets adorned with wickedly sharp thorns lie here unclaimed./c0~
+~
+9 1759744 0 0 0 1 0 0 0
+5 0 0 0 0 0 0 0
+3 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2660
+black thorn sleeves~
+/cwa pair of /cLblack thorn /cwsleeves/c0~
+/cwA pair of sleeves adorned with nasty thorns lies here in the dirt./c0~
+~
+9 1759744 0 0 0 257 0 0 0
+5 0 0 0 0 0 0 0
+7 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2661
+black thorn leggings~
+/cwa pair of /cLblack thorn /cwleggings/c0~
+/cwA pair of leggings armored with black thorns tear at you as you walk to close to them./c0~
+~
+9 1759744 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+8 3700 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#2662
+black thorn girth~
+/cwa /cLblack thorn /cwgirth/c0~
+/cwA girth armored with wickedly sharp thorns lie here awaiting to be worn./c0~
+~
+9 1759744 0 0 0 2049 0 0 0
+4 0 0 0 0 0 0 0
+3 3400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 10
+#2663
+black thorn ring~
+/cwa /cLRing of Black Thorn/c0~
+/cwA ring carved out from a black thorn lies here./c0~
+~
+9 1759744 0 0 0 65539 0 0 0
+2 0 0 0 0 0 0 0
+1 3400 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+23 -1
+A
+18 1
+#2664
+black thorn crest~
+a /cLblack thorn /cwCrest/c0~
+/cwA Crest of the Black Thorn floats nearby./c0~
+~
+9 1759744 0 0 0 262145 0 0 0
+2 0 0 0 0 0 0 0
+1 3200 0 15 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 -1
+A
+25 1
+#2665
+glove surgical~
+surgical gloves~
+A pair of surgical gloves lie here unused.~
+~
+9 2011136 0 0 0 129 0 0 0
+3 0 0 0 0 0 0 0
+3 3360 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+#2666
+chap leather toughened~
+a pair of toughened leather Chaps~
+A set of chaps lie in a rumpled pile.~
+~
+9 2011136 0 0 0 33 0 0 0
+4 0 0 0 0 0 0 0
+10 3359 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#2667
+sleeve leather toughened~
+a pair of toughened leather Sleeves~
+A pair of leather sleevs lie in a rumpled pile.~
+~
+9 2011136 0 0 0 257 0 0 0
+4 0 0 0 0 0 0 0
+10 3359 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#2668
+robe surgical~
+a surgical robe~
+A surgical robe lies in a rumpled pile.~
+~
+9 2011136 0 0 0 1025 0 0 0
+7 0 0 0 0 0 0 0
+15 3733 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#2669
+mask surgical~
+a surgical mask~
+A surgical mask was discarded and lies here unused.~
+~
+9 2011136 0 0 0 262145 0 0 0
+2 0 0 0 0 0 0 0
+5 3266 0 14 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+24 -2
+A
+3 1
+#2699
+deed midan castle woods~
+the deed to the Midan Castle and Woods~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+26 0 0 0 0 0 0 0
+1 10000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

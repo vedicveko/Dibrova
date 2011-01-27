@@ -1,0 +1,353 @@
+#50000
+Sidesteppa~
+Sidesteppa~
+Sidesteppa is here waiting to devour those who dare to challenge.
+~
+Sidesteppa is a huge crab, ferocious and angry. Watch out!
+~
+2058 0 0 0 80 32768 0 0 -1000 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 1
+BareHandAttack: 8
+Str: 13
+Dex: 13
+Con: 13
+Luck: 13
+Race: 8
+E
+#50001
+Roachster~
+Roachster~
+Roachster is here acting buggish.
+~
+Roachster is an enormous, ugly roach. Squish him!
+~
+2058 0 0 0 570425424 0 0 0 0 E
+28 13 -12 1d1+0 2d4+18
+0 22959
+8 8 1
+BareHandAttack: 1
+Str: 13
+Dex: 15
+Luck: 15
+Race: 5
+E
+#50002
+Prehysteric~
+Prehysteric~
+Prehysteric is here beating on some tribal drums.
+~
+This guy loves playing cowboys and indians
+~
+2058 0 0 0 262160 0 0 0 -400 E
+31 15 -20 1d1+0 3d4+20
+1100 32739
+8 8 1
+BareHandAttack: 9
+Race: 14
+E
+#50003
+Man-At-Arms~
+Man-At-Arms~
+Man-At-Arms is here guarding his post.
+~
+This heavily armed man stand ready, looking very much as if he knows
+how to use the weapons he carries.    
+~
+2058 0 0 0 8388624 0 0 0 800 E
+34 17 -20 1d1+0 3d4+22
+1200 37669
+8 8 1
+BareHandAttack: 13
+Int: 15
+Wis: 15
+Cha: 21
+Class: 4
+Race: 14
+E
+#50004
+Lagoonate~
+Lagoonate~
+Lagoonate is here looking for his waterhole.
+~
+Better slip this dude back into the creek he came from.
+~
+2058 0 0 0 16 0 0 0 -100 E
+37 19 -20 1d1+0 3d6+24
+1225 46733
+8 8 1
+BareHandAttack: 3
+Str: 18
+Con: 18
+Luck: 13
+Class: 5
+Race: 12
+E
+#50005
+Snibgoblin~
+Snibgoblin~
+Snibgoblin is here snibbing at your presence.
+~
+This goblin smells funky.
+~
+10250 0 0 0 80 0 0 0 -500 E
+40 21 -20 1d1+0 4d5+26
+1300 57012
+8 8 1
+BareHandAttack: 4
+Class: 3
+Race: 31
+E
+#50006
+Snobgoblin~
+Snobgoblin~
+Snobgoblin is here snobbing at your presence.
+~
+This goblin smells funny.
+~
+10250 0 0 0 80 0 0 0 750 E
+40 21 -20 1d1+0 4d5+26
+1300 57012
+8 8 1
+BareHandAttack: 4
+Class: 3
+Race: 31
+E
+#50007
+ZOAH~
+ZOAH~
+ZOAH IS HERE WANTING TO SPEAK VERY LOUDLY.
+~
+ZOAH LOVES ALL CAPS!!
+~
+67176458 0 0 0 80 0 0 0 1000 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 1
+Class: 4
+Race: 7
+E
+#50008
+NeoFio~
+NeoFio~
+NeoFio is here prunning himself.
+~
+VINE WHIP!! VINE WHIP!! VINE WHIP!!
+~
+34858 0 0 0 536871248 0 0 0 -1000 E
+60 37 -36 1d1+0 5d6+40
+2000 176357
+8 8 1
+BareHandAttack: 2
+Con: 15
+Class: 5
+Race: 26
+E
+#50009
+Starky~
+Starky~
+Starky is here gazing towards the heavens.
+~
+Starky is the ultimate in bad asses.  His space man outfit just
+turns you on soooooo much.  What a sexy lil' alien.
+~
+530474 0 0 0 42205456 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+2500 285032
+8 8 1
+BareHandAttack: 12
+Str: 18
+Luck: 18
+Race: 7
+E
+#50010
+Razzly~
+Razzly~
+Razzly is here seeking the fairy population.
+~
+Razzly is a quiet peaceful type.
+Better kick her ass!!
+~
+563242 0 0 0 8650832 4194304 0 0 450 E
+80 56 -40 1d1+0 6d7+53
+3000 367272
+8 8 2
+BareHandAttack: 15
+Int: 15
+Wis: 15
+Cha: 18
+Class: 1
+Race: 24
+E
+#50011
+Draggy~
+Draggy~
+Draggy is hovering spitting fire upon the earth.
+~
+CHOMP CHOMP CHOMP!!
+~
+67639306 0 0 0 8650832 0 0 0 -1000 E
+90 66 -40 1d1+0 6d7+60
+3200 495937
+8 8 1
+BareHandAttack: 4
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 13
+Class: 4
+Race: 9
+E
+#50012
+Poshul~
+Poshul~
+Poshul is running in circles trying to catch his tail.
+~
+What a cute puppy. Aww... real cute.
+~
+530474 0 0 0 80 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+0 589815
+8 8 1
+BareHandAttack: 4
+Dex: 14
+Int: 14
+Race: 8
+E
+#50013
+Saintly Pip~
+Saintly Pip~
+The Saintly Pip is here pondering of his kindred.
+~
+He is too busy ponderig to take notice of your scrutiny - he continues
+to ponder.    
+~
+564746 0 0 0 8388944 0 0 0 1000 E
+100 77 -40 1d1+0 9d10+66
+3200 648796
+8 8 1
+BareHandAttack: 10
+Int: 18
+Wis: 18
+Cha: 18
+Class: 2
+Race: 9
+E
+#50014
+Evil Pip~
+Evil Pip~
+The Evil Pip is here pondering of his kindred.
+~
+He is too busy ponderig to take notice of your scrutiny - he continues
+to ponder.    
+~
+564746 0 0 0 8650832 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+3200 648796
+8 8 1
+BareHandAttack: 7
+Str: 18
+Dex: 18
+Con: 18
+Class: 9
+Race: 9
+E
+#50015
+Rainbow Pip~
+Rainbow Pip~
+The Rainbow Pip is here pondering of his kindred.
+~
+He is too busy ponderig to take notice of your scrutiny - he continues
+to ponder.    
+~
+563978 0 0 0 8651088 0 0 0 0 E
+125 105 -60 1d1+0 15d15+83
+3500 1250310
+8 8 1
+BareHandAttack: 15
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+Luck: 15
+Class: 4
+Race: 9
+E
+#50016
+ChronoCross~
+ChronoCross~
+ChronoCross is here keeping the sands of time.
+~
+Its a big job, keeping the sands... please do not disturb the poor
+old lady any more than you have to.
+~
+34117642 0 0 0 8650832 163840 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1824490
+8 8 2
+BareHandAttack: 6
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+Luck: 18
+Class: 4
+Race: 11
+E
+#50017
+Solt~
+Solt~
+Solt the Shakker brother stands here.
+~
+It tastes a bit solty.
+~
+67647498 0 0 0 80 0 0 0 -500 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 1
+BareHandAttack: 14
+Str: 13
+Dex: 13
+Wis: 13
+Race: 7
+E
+#50018
+Peppor~
+Peppor~
+Peppor the Shakker brother stands here.
+~
+It tastes a bit peppory.
+~
+67647498 0 0 0 80 0 0 0 500 E
+50 29 -28 1d1+0 5d5+33
+1550 100714
+8 8 0
+BareHandAttack: 14
+Str: 13
+Dex: 13
+Int: 13
+Race: 7
+E
+#50019
+Roborg~
+Roborg~
+Roborg is here guarding the tower's peak.
+~
+This dude got fucking rockets coming out his knees!!
+~
+100362 0 0 0 262224 163840 0 0 750 E
+10 3 60 1d1+0 1d2+6
+200 1828
+8 8 0
+BareHandAttack: 12
+Race: 7
+E
+$

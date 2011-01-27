@@ -1,0 +1,232 @@
+#15100
+raider scout~
+a raider scout~
+A raider scout lurks somewhere in the long underbrush.
+~
+A raider scout stands by the bushes wearing his green leather outfit,
+he stares at you with vicious eyes, he comes forth.    
+~
+20572 0 0 0 1572864 0 0 0 -100 E
+75 51 -40 0d0+0 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 11
+Str: 15
+Dex: 23
+Int: 12
+Wis: 24
+Con: 13
+Cha: 10
+Luck: 12
+Class: 3
+Race: 7
+E
+#15101
+raiderobewear~
+the raider~
+A raider stands here protecting his home against enemies and travelers.
+~
+The raider looks extremely upset that you have found his home, and he
+seems to want to kill you before you can tell any of your friends
+about it.    
+~
+18442 0 0 0 0 0 0 0 0 E
+71 47 -40 0d0+0 6d6+47
+1175 246277
+8 8 1
+BareHandAttack: 7
+Str: 18
+Dex: 14
+Int: 8
+Wis: 6
+Con: 13
+Cha: 19
+Luck: 23
+Class: 4
+Race: 7
+E
+#15102
+icy fish~
+the icy fish~
+An icy fish swims just below you.
+~
+The icy fish looks at you with sad, evil eyes.  You can sense that he
+is about to attack you, didnt your mom tell you not to mess with sad
+fish?    
+~
+16488 0 0 0 16777216 0 0 0 0 E
+55 33 -32 0d0+0 5d6+36
+0 128422
+8 8 0
+BareHandAttack: 1
+Str: 7
+Dex: 14
+Int: 21
+Wis: 15
+Con: 20
+Cha: 21
+Luck: 18
+Race: 4
+E
+#15103
+evil fish~
+the evil fish~
+An evil fish swims below you, snapping at your feet.
+~
+This fish is much eviler than you thought one could ever get.  It
+snaps repeatedly at your feet with its sharp razor blade teeth.  It
+looks at you with its evil eyes, your blood runs cold from his sight,
+either that or from the freezing water.    
+~
+16488 0 0 0 16777216 0 0 0 -1000 E
+57 35 -32 0d0+0 5d6+38
+0 140668
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 22
+Int: 13
+Wis: 20
+Con: 16
+Cha: 18
+Luck: 14
+Race: 4
+E
+#15104
+Lornos~
+Lornos~
+Lornos, captain of raiders, stands at attention in his hut.
+~
+Lornos is a big, strong man.  He has been training as a raider for all
+of his life.  He is skilled at almost every skill you can think of.  
+He stares at you, deciding wether to kill you or not.    
+~
+542730 0 0 0 65536 4194305 0 0 0 E
+90 66 -40 0d0+0 6d7+60
+1700 518479
+8 8 1
+BareHandAttack: 10
+Str: 13
+Dex: 18
+Int: 23
+Wis: 18
+Con: 5
+Cha: 17
+Luck: 7
+Class: 9
+Race: 7
+E
+#15105
+giant worm~
+the giant worm~
+A giant worm wiggles his way through the mud towards you.
+~
+A funny looking worm makes his way through the mud.  This worm looks
+at you will unusuall eyes, then it hits you, this worm is almost your
+size.  Its purple body has scales all over it, its kind of like a
+dragon.  But it has the look of a worm.    
+~
+16394 0 0 0 0 0 0 0 0 E
+53 31 -32 0d0+0 5d6+35
+825 116847
+8 8 0
+BareHandAttack: 9
+Str: 24
+Dex: 10
+Int: 25
+Wis: 19
+Con: 14
+Cha: 22
+Luck: 12
+E
+#15106
+raider mutt~
+the raider mutt~
+A raider mutt sniffs the air trying to find an enemy to bite.
+~
+A raider mutt looks at you with its brown dog eyes.  Her long brown
+snout sniffs you curiously, dong get to attached to this mutt beause
+they are known to attack strangers.    
+~
+16584 0 0 0 0 0 0 0 0 E
+15 5 40 0d0+0 1d3+10
+0 4674
+8 8 2
+BareHandAttack: 4
+Str: 6
+Dex: 13
+Int: 16
+Wis: 16
+Con: 17
+Cha: 14
+Luck: 22
+Race: 1
+E
+#15107
+raider child~
+the raider child~
+A raider child plays with his friends, just outside of the fort.
+~
+The raider child seems to be enjoying himself, he doesnt even notice
+the dangers he could be in.  But evil by being passed down generation
+after generation, he glares evily at you.    
+~
+16394 0 0 0 0 0 0 0 -500 E
+22 9 12 0d0+0 1d4+14
+150 12413
+8 8 1
+Str: 20
+Dex: 13
+Int: 23
+Wis: 5
+Con: 7
+Cha: 12
+Luck: 25
+Race: 7
+E
+#15108
+raider warrior~
+the raider warrior~
+A raider warrior stands at attention.
+~
+A very evil looking character stands infront of you, his hand is
+always on his sword, ready for battle at any time.    
+~
+86042 0 0 0 0 0 0 0 -1000 E
+77 53 -40 0d0+0 6d7+51
+1325 302878
+8 8 1
+BareHandAttack: 7
+Str: 7
+Dex: 18
+Int: 18
+Wis: 14
+Con: 19
+Cha: 13
+Luck: 16
+Class: 4
+Race: 7
+E
+#15110
+Raider Mage~
+the raider mage~
+A raider mage stands in front of his leader's hut, protecting him with his life.
+~
+The raider mage stands in front of his master, no one will be able to
+kill his master Lornos without going through him first.    
+~
+16442 0 0 0 8650752 0 0 0 0 E
+80 56 -40 0d0+0 6d7+53
+1400 367272
+8 8 1
+Str: 22
+Dex: 17
+Int: 7
+Wis: 13
+Con: 21
+Cha: 18
+Luck: 6
+Class: 1
+Race: 7
+E
+$

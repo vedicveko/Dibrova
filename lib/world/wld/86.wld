@@ -1,0 +1,1368 @@
+#8601
+Entrance to the Lair~
+Before you is a large cast iron gate, and beyond lies a dimly lit
+hallway leading into the lair of Graghtok.  The wind seems to whistle
+out a warning to you to not proceed any further.  A wretched smell of
+decaying flesh fills your nostrils.  As you think of what lies inside
+this unholy place you hear a shriek of a hideous nature from behind.
+Looking back you see only the trail from which you have travelled.  
+Then the shriek is heard again, this time from inside the lair,
+followed by a death cry.  There are words engraved on a metal plate on
+the gate.    
+~
+86 0 0 0 0 3
+D0
+~
+gate~
+1 -1 8602 3
+D2
+~
+~
+0 0 2209 0
+E
+plate~
+_________________________
+|                        |
+|   Beyond this gate     |
+| lies the foul Graghtok |
+|  where he is to spend  |
+|  eternity in torment   |
+|     for his sins.      |
+|________________________|
+~
+S
+#8602
+A Long Hallway~
+The stagnant air inside this hallway provides only enough oxygen for a
+dim light from the torches adorning the walls.  The only sounds heard
+are your footsteps and your steady heartbeat.  Scattered throughout
+the hallway are various bones from the previous adventurers.  North
+takes you deeper into the lair, and south leads to the outside.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8603 0
+D2
+~
+gate~
+1 -1 8601 3
+S
+#8603
+A Long Hallway~
+The stagnant air inside this hallway provides only enough oxygen for a
+dim light from the torches adorning the walls.  The only sounds heard
+are your footsteps and your steady heartbeat.  Scattered throughout
+the hallway are various bones from the previous adventurers.  North
+takes you deeper into the lair, and south leads to the outside.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8604 0
+D2
+~
+~
+0 -1 8602 0
+S
+#8604
+A Long Hallway~
+The stagnant air inside this hallway provides only enough oxygen for a
+dim light from the torches adorning the walls.  The only sounds heard
+are your footsteps and your steady heartbeat.  Scattered throughout
+the hallway are various bones from the previous adventurers.  North
+takes you deeper into the lair, and south leads to the outside.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8605 0
+D2
+~
+~
+0 -1 8603 0
+S
+#8605
+A Long Hallway~
+The stagnant air inside this hallway provides only enough oxygen for a
+dim light from the torches adorning the walls.  The only sounds heard
+are your footsteps and your increasingly steady heartbeat.  Scattered
+throughout the hallway are various bones from the previous
+adventurers.  You pick up what appears to be an arm and it crumbles in
+your hand.  North takes you deeper into the lair, and south leads to
+the outside.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8606 0
+D2
+~
+~
+0 -1 8604 0
+S
+#8606
+A Long Hallway~
+The hallway seems to end abruptly here.  Leaving you facing a large
+stone wall with an out of place torch.  Except for a painting of a
+creature of an unfamiliar race the wall is barren.  The light from the
+south has seemed to die out leaving nothing but blackness.  Of course
+there must be a way to go further, maybe this is a premonition warning
+you not to look?  South takes you back through the hallway.    
+~
+86 9 0 0 0 0
+D0
+~
+torch~
+1 -1 8607 3
+D2
+~
+~
+0 -1 8605 0
+E
+painting~
+There is a painting of a foul looking dragon with red eyes here.
+~
+E
+torch~
+This torch is unlike the others.  It appears to be stuck more deeply 
+into the wall, and glows a dull blue.
+~
+S
+#8607
+Base of Stairs~
+You are in a small room with barely enough space to walk through.  In
+the center of this room you see a shaky spiral staircase leading into
+a small hole in the ceiling.  The floor is covered with a crimson
+liquid which appears to be dripping down from a large crack in the
+east wall.  Other then that this room is completely empty.    
+~
+86 13 0 0 0 0
+D1
+~
+crack~
+1 -1 8609 3
+D2
+~
+door~
+1 -1 8606 3
+D4
+~
+~
+0 -1 8608 0
+E
+crack~
+There is blood flowing through a crack in the wall.
+~
+S
+#8608
+Spiral Staircase~
+Walking up this staircase makes your heart beat rapidly, every step
+you take makes it shake unsteadily.  The hand rail is made of brittle
+bones, and break with the smallest amount of pressure.  The steps
+appear to be of an ancient wood no longer around.  There is a red
+light coming from the top of the stairs, and a black abyss below.    
+~
+86 9 0 0 0 0
+D4
+~
+~
+0 -1 8610 0
+D5
+~
+~
+0 -1 8607 0
+S
+#8609
+Blood Room~
+As you open the way to this room you are drenched with a flow of
+blood.  After clearing your eyes you see nothing but red, and a large
+creature staring at you from the far corner.  His eyes glow red and
+his grin is foul.  It quickly becomes apperant that you have disturbed
+his bath as he attacks!    
+~
+86 9 0 0 0 0
+D3
+~
+~
+1 -1 8607 3
+S
+#8610
+Top of the Stairs~
+Stepping into this room you are blessed with a blast of fresh air
+coming from a barred hole high above.  The little creatures here don't
+appear to notice you, and go about their business.  In the center of
+this enourmous room is a large fountain, but you don't think you
+should drink from it because of the dark red liquid it provides.  
+There are exits in all the cardinal directions and down.  However, the
+you don't see the little monks using the exits to the east and west.
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8611 0
+D1
+~
+~
+0 -1 8615 0
+D2
+~
+~
+0 -1 8617 0
+D3
+~
+~
+0 -1 8616 0
+D5
+~
+~
+0 -1 8608 0
+E
+fountain~
+Engraved on the fountain are the words:
+
+	"I have hidden my riches in
+	a place of death.  To which
+	the key is kept close to my
+	heart...."
+			-Graghtok
+~
+S
+#8611
+Dark Hallway~
+Walking into this hallway you start hearing sounds of torture.  
+Screams and cries of pain.  The monks surrounding you are steadfast in
+their ways and do not seem to notice you or each other.  At the end of
+this torchless hallway is a bright light.  For some unknown reason you
+feel drawn to it.  The walls seem to get narrow as you proceed.  
+South takes you back to the fountain, and north is still unknown.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8612 0
+D2
+~
+~
+0 -1 8610 0
+S
+#8612
+Dark Hallway~
+Walking into this hallway you start hearing sounds of torture.  
+Screams and cries of pain.  The monks surrounding you are steadfast in
+their ways and do not seem to notice you or each other.  At the end of
+this torchless hallway is a bright light.  For some unknown reason you
+feel drawn to it.  The walls seem to get narrow as you proceed.  
+South takes you back to the fountain, and north is still unknown.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8613 0
+D2
+~
+~
+0 -1 8611 0
+S
+#8613
+Graghtok's Pit~
+Once inside this ghastly room you can see a large candelabra hanging
+from the ceiling, lighting the room with a brilliant yellow.  A large
+podium is on the north wall where an important looking monks of
+Graghtok sits.  In the center of this room appears to be a bottomless
+pit in which the mindless monks are falling into without hesitation.
+You can hear the sound of death coming from below.  Suddenly, you feel
+drawn toward the pit, and almost let the feeling overwhelm you before
+stapping out of it.  You had better get out of here fast.    
+~
+86 9 0 0 0 0
+D2
+~
+~
+0 -1 8612 0
+D5
+~
+~
+0 -1 8614 0
+E
+pit~
+It is surprising that since this room is so well lit, the light will 
+not penetrate the pit even a crack.  Giving the it an illusion of be 
+without a bottom, but is it really?
+~
+S
+#8614
+In the Pit~
+After a plunge of about fifty hands you find yourself in a blood
+stained room of death.  Looking around you see massives hounds with
+teeth like razors tearing the monks to shreds, and piling the remains
+in a corner.  You see no way back out of this pit, and realize that
+even if you could handle the hounds you will not be able to climb back
+out.  It would appear hopeless.    
+~
+86 13 0 0 0 0
+D1
+~
+remains~
+2 -1 8632 11
+S
+#8615
+Slavemaster's Room~
+This room is decorated with shackles and chains hanging from the wall.
+Except for a bed and torture rack, this room is empty.  The torches
+lined in the wall do little to give this room light.  Looking around,
+you wonder why you are wasting your time here.  West takes you back
+out.    
+~
+86 9 0 0 0 0
+D3
+~
+~
+0 -1 8610 0
+E
+rack~
+This torture rack is old and rusty, and probably doesn't work anymore.  
+Would you like to find out?
+~
+E
+bed~
+A small cot is here.
+~
+S
+#8616
+A Pond~
+In the middle of this room is a majestic looking pond with sparkling
+blue water.  The water is clear and placid.  The calm atmosphere is
+welcome, and invites you to rest and heal your wounds.  In the middle
+of this pond, however, is a figure holding a key.  The figure doesn't
+move, and appears lost within itself.  The walls are all lined with
+beautiful jewels reflecting your light to one center point, which lies
+on the key in the figures grasp.    
+~
+86 8 0 0 0 0
+D1
+~
+~
+0 -1 8610 0
+E
+figure~
+The figure before you looks as though it could be an illusion caused 
+from the crystals, but that key looks very real.
+The figure is in excellent condition.
+
+You peek at the inventory:
+     (Humming) A {RRuby{x key.
+
+~
+S
+#8617
+Dark Hallway~
+In this hallway there are no torches, and even with your light it is
+hard to what lies ahead.  A steady flow of mindless monks is coming
+from the south, each one identical to the others.  Your heart seems to
+beat in heavy throbs as you feel the evil to the south.  You get the
+feeling you should be going north, but a light draws your attention to
+the opposite.  North will take you away, and south is still unknown.
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8610 0
+D2
+~
+~
+0 -1 8618 0
+S
+#8618
+Dark Hallway~
+In this hallway there are no torches, and even with your light it is
+hard to what lies ahead.  A steady flow of mindless monks is coming
+from the south, each one identical to the others.  Your heart seems to
+beat in heavy throbs as you feel the evil to the south.  You get the
+feeling you should be going north, but a light draws your attention to
+the opposite.  North will take you away, and south is still unknown.
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8617 0
+D2
+~
+~
+0 -1 8619 0
+S
+#8619
+The Nursery~
+This room is covered with cacoon-like things hanging from the ceiling.
+You watch in fascination as they open up dropping a small little black
+creature, and within minutes the creature grows into a full grown monk
+of Graghtok, each looking exactly like the rest.  At the rear of the
+room are unique looking monks with symbols brandished into their
+foreheads guarding a ladder leading up to a trap door.  North takes
+you back.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8618 0
+D4
+~
+door~
+1 -1 8620 3
+S
+#8620
+Meeting Hall~
+It seems as though you have stumbled into a meeting hall for the elder
+monks.  There is a large onyx table here with thirteen wooden chairs
+surrounding it.  On the walls are tapestries of Graghtok slaying and
+tortmenting his followers.  A large bowl sits in the middle of the
+table, filled with rotten meat.  Down takes you back to the Nursery.
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8621 0
+D5
+~
+door~
+1 -1 8619 3
+S
+#8621
+Elder's Study~
+This room houses a rather large library of books.  All dust covered
+from lack of use.  There are bookcases on every wall, each overfilled
+with such material as "Blodgeoning For Pleasure".  Your attention is
+drawn to one bookcase on the west wall in which is a large untouched
+book.  An unpleasant musty smell fills your nose urging you to leave.
+South goes back to the meeting room.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8622 0
+D2
+~
+~
+0 -1 8620 0
+D3
+This book appears to be made of wood.
+~
+book~
+2 -1 8627 11
+S
+#8622
+Dirty Hallway~
+You find yourself walking through a hallway without any defined walls
+or floor.  Instead, it looks more like a big hole dug into the earth.
+It is hard to see ahead of you, and breathing is difficult due to the
+inordinate amount of dust present in the air.  As you walk further in
+you feel the temperature rise with every step.  Ahead of you you hear
+footsteps and jarbled voices.  South leads you out of this hole, and
+north takes you even deeper.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8623 0
+D2
+~
+~
+0 -1 8621 0
+S
+#8623
+Dirty Hallway~
+You find yourself walking through a hallway without any defined walls
+or floor.  Instead, it looks more like a big hole dug into the earth.
+It is hard to see ahead of you, and breathing is difficult due to the
+inordinate amount of dust present in the air.  As you walk further in
+you feel the temperature rise with every step.  Ahead of you you hear
+footsteps and jarbled voices.  South leads you out of this hole, and
+north takes you even deeper.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8624 0
+D2
+~
+~
+0 -1 8622 0
+S
+#8624
+Dirty Hallway~
+You find yourself walking through a hallway without any defined walls
+or floor.  Instead, it looks more like a big hole dug into the earth.
+It is hard to see ahead of you, and breathing is difficult due to the
+inordinate amount of dust present in the air.  As you walk further in
+you feel the temperature rise with every step.  Ahead of you you hear
+footsteps and jarbled voices.  South leads you out of this hole, and
+north takes you even deeper.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8625 0
+D2
+~
+~
+0 -1 8623 0
+S
+#8625
+Dirty Hallway~
+You find yourself walking through a hallway without any defined walls
+or floor.  Instead, it looks more like a big hole dug into the earth.
+It is hard to see ahead of you, and breathing is difficult due to the
+inordinate amount of dust present in the air.  As you walk further in
+you feel the temperature rise with every step.  Ahead of you you hear
+footsteps and jarbled voices.  South leads you out of this hole, and
+north takes you even deeper.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8626 0
+D2
+~
+~
+0 -1 8624 0
+S
+#8626
+Dirty Hallway~
+You find yourself walking through a hallway without any defined walls
+or floor.  Instead, it looks more like a big hole dug into the earth.
+It is hard to see ahead of you, and breathing is difficult due to the
+inordinate amount of dust present in the air.  As you walk further in
+you feel the temperature rise with every step.  Ahead of you you hear
+footsteps and jarbled voices.  South leads you out of this hole, and
+north takes you even deeper.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8628 0
+D2
+~
+~
+0 -1 8625 0
+S
+#8627
+Hidden Library~
+As you enter this room through the hidden passage, you see a smaller
+version of the preceeding room.  Instead of being lined with
+bookcases, however, there is just one on the far side.  While rumaging
+through this room, you hear footsteps growing closer.  You get the
+feeling you should hurry up and leave.    
+~
+86 9 0 0 0 0
+D1
+~
+door~
+1 -1 8621 3
+S
+#8628
+Above The Pit~
+From this room, you can look down and see the pit of Graghtok.  You
+can see the mindless monks walking in a trance to their certain doom,
+and you can see the elder monks overseeing them.  Even from this
+height you can hear the sounds of the unearthly hounds enjoying their
+assigned task.  You can no longer stand here and watch such a sight.
+There are exits to the south and east.  South takes you out, and all
+you know of east is that there is a lot of heat coming from that way.
+~
+86 9 0 0 0 0
+D1
+~
+~
+0 -1 8629 0
+D2
+~
+~
+0 -1 8626 0
+S
+#8629
+Shrine of Graghtok~
+This room is dedicated to the worship to the evil Graghtok, and that
+alone.  In the center of the room is a collosal statue of the evil one
+himself, and directly before that is an alter for the elder monks to
+prove their devotion.  The ceiling in this room is not to be seen,
+neither is a sky for that matter.  Just a big vast nothingness.  
+Walking around the elephantine shrine, you can see a large steel door.
+On this door is the same picture you saw on your way in.    
+~
+86 9 0 0 0 0
+D1
+~
+door~
+1 -1 8630 3
+D3
+~
+~
+0 -1 8628 0
+S
+#8630
+Graghtok's Room~
+The heat from this room is almost too much to bare.  After adjusting a
+little to the immense heat you look around.  There are no decorations
+in this room in which to speak of.  Instead, there are piles of flesh
+and bones, accompanied by the appropriate stench.  This is obviously
+the room Graghtok choses for himself.  Maybe because of the heat,
+maybe because of the solitude, but for whatever reason, you don't like
+it.  The only exit from here is to the west.    
+~
+86 67174601 0 0 0 0
+D3
+~
+door~
+2 -1 8629 11
+S
+#8631
+Treasure Room~
+You are standing in a majestic room filled with gold and jewels.  
+Large rubies are embedded in the walls, and give an illusion of
+staring eyes from your light.  To the north is a pile of gold coins,
+seemingly melted together in one big clump.  In the middle of this
+beautiful room rests a single chest adorned by the brightest rubies in
+here.  You begin to feel dizzy from it all and decide to rest for a
+second.    
+~
+86 9 0 0 0 0
+D3
+~
+~
+0 -1 8633 0
+S
+#8632
+Catacombs~
+You are standing in a underground passageway beneath the lair of
+Graghtok.  The water dripping from the ceiling is amplified by the
+earth, and sends shivers down your spine.  Except from your light
+source, there is no light to be seem.  Wait!!  There is a faint red
+glow to the east!    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8634 0
+D1
+~
+~
+0 -1 8633 0
+D2
+~
+~
+0 -1 8632 0
+S
+#8633
+Catacombs~
+You are standing in a underground passageway beneath the lair of
+Graghtok.  The water dripping from the ceiling is amplified by the
+earth, and sends shivers down your spine.  Except from your light
+source, there is no light to be seem.  Wait!!  There is a faint red
+glow to the north?    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8634 0
+D1
+~
+~
+0 -1 8632 0
+D2
+~
+~
+0 -1 8632 0
+D3
+~
+~
+0 -1 8633 0
+S
+#8634
+Catacombs~
+You are standing in a underground passageway beneath the lair of
+Graghtok.  The water dripping from the ceiling is amplified by the
+earth, and sends shivers down your spine.  Except from your light
+source, there is no light to be seem.  Wait!!  There is a faint red
+glow to the south!    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8632 0
+D1
+~
+door~
+1 8625 8631 7
+D2
+~
+~
+0 -1 8635 0
+D3
+~
+~
+0 -1 8634 0
+S
+#8635
+Catacombs~
+You are standing in a underground passageway beneath the lair of
+Graghtok.  The water dripping from the ceiling is amplified by the
+earth, and sends shivers down your spine.  Except from your light
+source, there is no light to be seem.  Wait!!  There is a faint red
+glow coming from your right, after being down here you have lost all
+sense of direction.    
+~
+86 9 0 0 0 0
+D0
+~
+~
+0 -1 8632 0
+D1
+~
+~
+0 -1 8632 0
+D2
+~
+~
+0 -1 8634 0
+D3
+~
+~
+0 -1 8634 0
+S
+#8650
+Bottom of the Stairway~
+You stand at the bottom of a stoneworked spiral staircase.  The sounds
+of a raging battle can be heard from above, gurgling screams of the
+dead or dying, glorious sounds of victory from those who are strong or
+lucky.    
+~
+86 12 0 0 0 0
+D0
+~
+~
+0 0 8651 0
+D2
+~
+door~
+1 0 15714 3
+S
+#8651
+Before the Battlefield~
+As you turn the corner you see before you the bloodist battle you can
+ever remeber seeing, blood and guts are strewn all about this huge
+chamber, it looks to you as if three armies are engaged in the battle,
+you can see mages tossing fireballs about the room, these mages are
+dressed in black robes and carry black bound scrolls with them, deadly
+daggers drenched in poison adorn each hand of the black robe mages.  
+Iron clad dwarves run about the room hacking at their enemies with
+wild abandon.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8652 0
+D2
+~
+~
+0 0 8650 0
+S
+#8652
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present themselves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8661 0
+D1
+~
+~
+0 0 8662 0
+D2
+~
+~
+0 0 8651 0
+D3
+~
+~
+0 0 8653 0
+S
+#8653
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present them selves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8655 0
+D1
+~
+~
+0 0 8654 0
+S
+#8654
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present them selves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8656 0
+D2
+~
+~
+0 0 8662 0
+D3
+~
+~
+0 0 8661 0
+S
+#8655
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present themselves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8657 0
+D1
+~
+~
+0 0 8661 0
+D2
+~
+~
+0 0 8653 0
+S
+#8656
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present themselves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8658 0
+D1
+~
+~
+0 0 8666 0
+D2
+~
+~
+0 0 8654 0
+D3
+~
+~
+0 0 8660 0
+S
+#8657
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present them selves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8659 0
+D1
+~
+~
+0 0 8660 0
+D2
+~
+~
+0 0 8655 0
+D3
+~
+~
+0 0 8663 0
+S
+#8658
+Commander's Room~
+This is the commander of the lilly's room, here you can see maps and
+other stragity guilds, along with a cache of weapons.    
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8656 0
+S
+#8659
+Morgue~
+This room is litterd with dead and rotting corpses, brave souls who
+risked all and paid the ultimate price for their bravery, a few of
+these brave souls arn't done fighting yet
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8657 0
+S
+#8660
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses, you
+are often splatterd with blood and gore, foes present themselves all
+about you but if you're careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D1
+~
+~
+0 0 8656 0
+D2
+~
+~
+0 0 8661 0
+D3
+~
+~
+0 0 8657 0
+S
+#8661
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses, you
+are often splatterd with blood and gore, foes present themselves all
+about you but if you're careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8660 0
+D1
+~
+~
+0 0 8654 0
+D2
+~
+~
+0 0 8652 0
+D3
+~
+~
+0 0 8655 0
+S
+#8662
+Battlefield~
+As you walk through this crowded battlefield litterd with corpses you
+are often splatterd with blood and gore, foes present them selves all
+about you but if your careful you should be able to pick your way
+through unscathed.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8654 0
+D3
+~
+~
+0 0 8652 0
+S
+#8663
+Magik's Abode~
+This hut is filled with dark magic, you can feel the power of this
+place all around you - you'd better get out before the owner sees you.
+~
+86 8 0 0 0 0
+D1
+~
+~
+0 0 8657 0
+S
+#8664
+Shatterstorm's Cave~
+This is the cave of the most powerful Lillith warrior, he is big
+strong and never happy to have company.    
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8666 0
+S
+#8665
+SAFE ROOM~
+This is were all the wimps have come to hide from the battle, it looks
+like a good place to rest up before going on your way.    
+~
+86 12 0 0 0 0
+D0
+~
+~
+0 0 8666 0
+S
+#8666
+Top of the Stairway~
+As you look down this dark stairway you can see thorn vines are
+covering everything best be casrfull you might get pricked by one.  
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8664 0
+D2
+~
+~
+0 0 8665 0
+D3
+~
+~
+0 0 8656 0
+D5
+~
+~
+0 0 8667 0
+S
+#8667
+Room 1~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish there clan hall, but they just never
+bothered.    
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8668 0
+D4
+~
+~
+0 0 8666 0
+S
+#8668
+Room 2~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish there clan hall, but they just never
+bothered.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8667 0
+D1
+~
+~
+0 0 8670 0
+D2
+~
+~
+0 0 8671 0
+D3
+~
+~
+0 0 8669 0
+S
+#8669
+Room 3~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish there clan hall, but they just never
+bothered.    
+~
+86 8 0 0 0 0
+D1
+~
+~
+0 0 8668 0
+S
+#8670
+Room 4~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish there clan hall, but they just never
+bothered.    
+~
+86 8 0 0 0 0
+D3
+~
+~
+0 0 8668 0
+S
+#8671
+Room 5~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish there clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8668 0
+D1
+~
+~
+0 0 8672 0
+S
+#8672
+Room 6~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish their clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8673 0
+D3
+~
+~
+0 0 8671 0
+S
+#8673
+Room 7~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish their clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8672 0
+D1
+~
+~
+0 0 8674 0
+D2
+~
+~
+0 0 8676 0
+D3
+~
+~
+0 0 8675 0
+S
+#8674
+Room 8~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish their clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D3
+~
+~
+0 0 8673 0
+S
+#8675
+Room 9~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish their clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D1
+~
+~
+0 0 8673 0
+S
+#8676
+Room 10~
+If the thorns were not always so busy killing hapless mortals they
+might have had time to finish their clan hall, but they just never
+bothered.
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8673 0
+D5
+~
+~
+0 0 8677 0
+S
+#8677
+Bottom of the Stairway~
+As you descend to this level of the dungeon you hear loud hissing and
+scratching sounds, to the south you hear a very loud scratching sound.
+This might be a good time to turn around and head back.    
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8678 0
+D4
+~
+~
+0 0 8676 0
+S
+#8678
+Iron Slime's Room~
+This room is covered with a strange liquid metal-like substance, it is
+iron in color and texture, but when you try to pick it up it just
+slides right through your fingers.  To the south you can hear arcane
+chanting and loud blasts, to the east you can hear spine-tingling
+roars of outrage.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8677 0
+D1
+~
+~
+0 0 8680 0
+D2
+~
+~
+0 0 8679 0
+S
+#8679
+Mead's Chamber~
+This room is plain and unfurnished, you see scorth marks on the wall
+from the last adventurer to pass this way, is taht a severd head, well
+if i were you i would flee, just be careful.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8678 0
+D1
+~
+~
+0 0 8681 0
+D2
+~
+~
+0 0 8682 0
+S
+#8680
+Frenicus's Lair~
+This room is full of treasure, gold piles over 50 feet tall and
+magical weapons and armor clutter the room, as you bend down to scoop
+up some of this treasure it DISAPEARS!  Leaving you face to face with
+the biggest red dragon you have ever seen, so the ledgends are true,
+mighty Frenicus dose exist as you are now painfully learning, have a
+nice DEATH!    
+~
+86 8 0 0 0 0
+D2
+~
+~
+0 0 8681 0
+D3
+~
+~
+0 0 8678 0
+S
+#8681
+Bahamat's Lair~
+This chamber is HUGE beyond belief, waht ever resides here must be big
+indeed all of a sudden a gaint platinum clored dragon rises up in
+front of you, it's yellow eyes pierce your soul, you know you are
+about to die.    
+~
+86 8 0 0 0 0
+D0
+~
+~
+0 0 8680 0
+D3
+~
+~
+0 0 8679 0
+S
+#8682
+End of the Keep~
+You have been on a tour of the wonderous keep, the sights you have
+seen will stay with you forever, the horror you have witnessed will
+alwasy be with you in your wildest nightmares you could have never
+imagined the evils you have now witnessed, you will remember them each
+time you close your eyes.    
+~
+86 4 0 0 0 0
+D0
+~
+~
+0 0 8679 0
+D5
+~
+~
+0 0 8683 0
+S
+#8683
+Purplebud's Secret Chamber~
+This well lit, damp basement is were Purplebud keeps his best buds.  
+~
+86 12 0 0 0 0
+D0
+~
+~
+0 0 8684 16
+D4
+~
+~
+0 0 8682 0
+S
+#8684
+Hidden Stash of Magic~
+You have steped into the secret magic room of the keep..  This room is
+filled with nick nacks and scrolls and wands and magic potions for
+your use if you've got the gold theis place could be your best friend
+- This small but well-stocked room holds the treasure most coveted by
+those who use magical means within battle - that treasure is magic.  
+Potions and scrolls litter the floors among heaps and jumbles of
+staves and wands.    
+~
+86 67174464 0 0 0 0
+D2
+~
+~
+0 0 8683 16
+S
+$~

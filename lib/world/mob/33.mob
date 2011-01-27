@@ -1,0 +1,324 @@
+#3300
+maid~
+the Maid~
+A maid walks around, looking for something to clean.
+~
+She wears a black dress with a white apron.  She looks as if she knows
+her job well.    
+~
+204 0 0 0 0 0 0 0 500 E
+7 1 72 1d7+125 1d2+4
+10 669
+6 6 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 6
+Luck: 12
+Class: 12
+Race: 14
+E
+#3301
+firetender fire tender~
+the Firetender~
+A firetender is here keeping the water warm for you.
+~
+This young servant has probably only reached his ninth or tenth year,
+and is probably working to help support his family.  What a great
+little fella.    
+~
+10 0 0 0 0 0 0 0 750 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 7
+Luck: 12
+Race: 14
+E
+#3302
+firetender~
+the Firetender~
+A young firetender is here keeping the water warm
+for your bath.
+~
+This young lady has probably only reached her ninth or tenth year.  
+She is probably working so that her poverty stricken family can eat
+this season.    
+~
+10 0 0 0 0 0 0 0 750 E
+6 1 76 1d6+70 1d2+4
+10 451
+6 6 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Race: 14
+E
+#3303
+servant~
+the Lord's Servant~
+One of the Lord's servants bustles by looking very busy.
+~
+The servant turns to you and says, "/crShhh... the Lord
+does not tolerate dawdling service, at least not since
+the lady Penelope was taken by Mordecai./c0"
+~
+200 0 0 0 0 0 0 0 250 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 13
+Luck: 12
+Race: 14
+E
+#3304
+lord's lord's guest~
+the Lord's Guest~
+One of the Lord's guests stands here importantly.
+~
+Dressed in finery, with many frills and trills, this man could very
+well pass for a transvestite.    
+~
+4168 0 0 0 0 0 0 0 0 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 23
+Luck: 12
+Class: 12
+Race: 14
+E
+#3305
+cook~
+a Cook~
+One of the Lord's cooks stands here preparing for the next meal.
+~
+Dressed all in white, this woman seems covered head to toe in flour.
+~
+10 0 0 0 0 0 0 0 350 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Race: 14
+E
+#3306
+child kid~
+a Child~
+An annoying little kid runs by you, nearly knocking you 
+off your feet.
+~
+Dressed all in finery, this is obviously one the children of one the
+Lord's guests.    
+~
+72 0 0 0 0 0 0 0 500 E
+2 0 92 1d2+15 1d1+1
+5 27
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 14
+E
+#3307
+lord~
+the Lord~
+Here you find the Lord of the Keep, weeping silently, knees drawn up against his chin.
+~
+The Lord, a strong and proud looking man, can not seem to stay lucid
+long enough to speak to you.    
+~
+223259 0 0 0 272 0 0 0 0 E
+29 13 -16 1d29+2200 3d3+19
+250 27619
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 12
+Class: 4
+Race: 14
+E
+#3308
+guard~
+the Lord's Guard~
+A member of Lord's Guard stands here, ready to fight for his Lord.
+~
+This man, showing no expression at all, could easily be made of stone.
+~
+4106 0 0 0 0 0 0 0 0 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Class: 10
+Race: 14
+E
+#3309
+commander guard~
+the Commander~
+The Commander of the Lord's Guard stands here at attention.
+~
+A truly noble man, this person's only desire in life is to protect his
+Lord.    
+~
+4106 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 13
+Luck: 12
+Race: 14
+E
+#3310
+gardener~
+the Gardener~
+A gardener smiles up at you as you enter.
+~
+He looks to be a kind and gentle man, one who has devoted much of his
+life to nature and Mother Earth.    
+~
+10 0 0 0 0 0 0 0 500 E
+18 7 28 1d18+800 1d3+12
+100 7441
+6 6 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 5
+Luck: 12
+Class: 5
+Race: 14
+E
+#3311
+stable hand stablehand~
+the Stablehand~
+A stablehand waits patiently for your mount.
+~
+Although a young lad, he still seems very competent.
+~
+10 0 0 0 0 0 0 0 500 E
+11 3 56 1d11+250 1d2+7
+25 2119
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 15
+Luck: 12
+Race: 14
+E
+#3312
+waiter~
+a Waiter~
+A waiter stands nearby, waiting to serve.
+~
+Hans waits, stolidly and politely, as if he has not a care
+in the world but to get you a drink or snack.
+~
+24586 0 0 0 0 0 0 0 600 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 16
+Luck: 12
+Race: 14
+E
+#3313
+blacksmith~
+a Blacksmith~
+A blacksmith works here, intent on his anvil.
+~
+He looks as if he could pound that metal for hours and not even break
+a sweat.    
+~
+10 0 0 0 0 0 0 0 0 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Luck: 12
+Race: 14
+E
+#3350
+sneaky servant~
+the sneaky Servant~
+A servant sneaks by you, head down, seeming to want to be un-noticed.
+~
+This guy MUST be some kind of rat or informer, he just looks so, well, guilty.
+~
+16536 0 0 0 1638400 4194304 0 0 -100 E
+15 5 40 4d9+900 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 12
+Luck: 12
+Class: 3
+Race: 14
+E
+$

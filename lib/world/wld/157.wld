@@ -1,0 +1,811 @@
+#15700
+The Path to the Keep~
+You are heading toward a bleak blackstone keep, sitting in the middle
+of a field of scorched earth.  Surly guards patrol both on the
+battlements and below before the gate, but they pay you little heed.
+Evidently the guards are used to strange visitors...    
+~
+157 0 0 0 0 3
+D1
+~
+~
+0 0 15743 0
+D3
+~
+~
+0 -1 15701 0
+S
+#15701
+Before the Keep~
+You are standing outside the massive bronze-bound oak portals that bar
+the way into the keep.  They currently stand open, though, as if the
+warlock were expecting visitors...    
+~
+157 0 0 0 0 3
+D1
+~
+~
+0 -1 15700 0
+D3
+~
+gate~
+1 0 15704 3
+S
+#15702
+A Guard Tower~
+This tower sits above the gate you just entered.  Guards march back
+and forth.  They seem mildly surprised by your entrance, but they
+don't move to hinder you.  The stairs continue up and down.    
+~
+157 0 0 0 0 3
+D4
+~
+~
+0 -1 15703 0
+D5
+~
+~
+0 -1 15704 0
+S
+#15703
+The Roof of the Tower~
+You emerge onto the roof of the tower.  From here you can see far
+across the plains of Past Anon.  The ancient city of Thalos, ruined in
+your own time, lies far to the south, while to the east lie the jagged
+peaks of the first mountain range of Anon.  It is rumored that the
+gods temselves reside at their lofty peaks.  Beyond them, you can see
+the peak of Mount Doom, whereupon the castle of the dread Lord
+Krogthar is located.    
+~
+157 0 0 0 0 3
+D5
+~
+~
+0 -1 15702 0
+S
+#15704
+Inside the Keep~
+Guards march to and fro in this small courtyard.  Wooden portals lie
+to the north, west and south, while the entry gate looms to the east.
+A set of stairs leads up into the tower of the gatehouse.    
+~
+157 1 0 0 0 1
+D0
+~
+door~
+1 0 15705 3
+D1
+~
+door~
+1 0 15701 3
+D2
+~
+door~
+1 0 15706 3
+D3
+~
+door~
+1 0 15707 3
+D4
+~
+~
+0 -1 15702 0
+S
+#15705
+The Stables~
+Here the guards of the Keep keep, or kept, rather, their steeds.  A
+particularly harsh winter left the Keep short of food, and
+necessitated the eating of the horses.  They have not been replaced
+yet.    
+~
+157 0 0 0 0 3
+D2
+~
+~
+1 0 15704 3
+S
+#15706
+Barracks~
+This room quarters some of the guards of the Keep.  There are several
+bunks littered with dirty underwear and frayed tunics- evidently the
+warlock is not a stickler for discipline.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+1 0 15704 3
+S
+#15707
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15708 0
+D1
+~
+door~
+1 0 15704 3
+D2
+~
+~
+0 -1 15709 0
+D3
+~
+~
+0 -1 15710 0
+S
+#15708
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15741 3
+D2
+~
+~
+0 -1 15707 0
+D3
+~
+~
+0 0 15711 0
+S
+#15709
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15707 0
+D2
+~
+door south~
+1 0 15742 3
+D3
+~
+~
+0 -1 15712 0
+S
+#15710
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...  The
+doors to the inner keep lie to the west of here.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15711 0
+D1
+~
+~
+0 0 15707 0
+D2
+~
+~
+0 -1 15712 0
+D3
+~
+door~
+1 0 15715 3
+S
+#15711
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...    
+~
+157 0 0 0 0 3
+D1
+~
+~
+0 0 15708 0
+D2
+~
+~
+0 -1 15710 0
+D5
+~
+door down~
+1 -1 15713 3
+S
+#15712
+The Inner Courtyard~
+You have passed into the inner courtyard, which lies before the stark
+black walls of the inner keep, wherein resides Baragar and his consort
+Alara.  Guards occasionally stroll past, as does the occasional
+servant.  The servants appear to be rather lifeless and cold...    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15710 0
+D1
+~
+door~
+1 0 15709 1
+D5
+~
+trap~
+1 -1 15714 1
+S
+#15713
+The Garbage Pit~
+Here the keep's occupants dump their garbage, to be devoured by the
+offal- eating creature they keep in here.  It smells very bad....  
+Very VERY bad...    
+~
+157 0 0 0 0 3
+D4
+~
+door up~
+1 0 15711 3
+S
+#15714
+The Crocodile Pit~
+Here Baragar keeps his pet crocodiles, whom he feeds insubordinate
+guards or slaves to.  They are rather hungry, and they would take
+great pleasure in devouring you.  There is a door on the north wall,
+one set in a strange angle as if it might lead to a staircase or
+something.    
+~
+157 12 0 0 0 0
+D0
+~
+door~
+1 0 8650 1
+D4
+~
+trap door~
+1 0 15712 1
+S
+#15715
+The Inner Keep~
+You stand within the inner keep.  The entry room is a small dark
+chamber, with only four wooden doors to break the monotony of the
+black walls.    
+~
+157 0 0 0 0 3
+D0
+~
+door~
+1 0 15716 3
+D1
+~
+door~
+1 0 15710 3
+D2
+~
+door~
+1 0 15717 3
+D3
+~
+door~
+1 0 15718 3
+S
+#15716
+Guard Room~
+Here some of the Trollish guards of the inner keep reside.  They
+dislike intruders, though they are under orders from Baragar not to
+slay any, for he is intensely curious as to the nature of any
+visitors, welcome or not.    
+~
+157 0 0 0 0 3
+D2
+~
+door~
+1 0 15715 3
+S
+#15717
+Guard Room~
+Here some of the Trollish guards of the inner keep reside.  They
+dislike intruders, though they are under orders from Baragar not to
+slay any, for he is intensely curious as to the nature of any
+visitors, welcome or not.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15715 3
+S
+#15718
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into
+the dungeons.  You can hear sounds of construction coming from below.
+~
+157 0 0 0 0 3
+D1
+~
+door east~
+1 0 15715 3
+D4
+~
+~
+0 -1 15719 0
+D5
+~
+~
+0 -1 15727 0
+S
+#15719
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into
+the dungeons.  You can hear sounds of construction coming from below.
+~
+157 0 0 0 0 3
+D1
+~
+door east~
+1 0 15720 3
+D4
+~
+~
+0 -1 15726 0
+D5
+~
+~
+0 -1 15718 0
+S
+#15720
+Antechamber~
+This small room is totally windowless, and would be utterly dark were
+it not for your pale light source.  You feel uneasy here.  Far away,
+someone screams, and you shiver uncomfortably.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15721 3
+D2
+~
+door south~
+1 0 15722 3
+D3
+~
+door west~
+1 0 15719 3
+S
+#15721
+Assassins' Quarters~
+Here the assassins of Baragar reside, spending their spare time
+playing cards, making poisons, killing peasant rabble captured by the
+guards, etc.  They will not be impressed by your intrusion...    
+~
+157 0 0 0 0 3
+D2
+~
+door south~
+1 0 15720 3
+S
+#15722
+Apprentice Quarters~
+Here resides Alara's apprentice and sometime bed-partner.  The
+apprentice has little to do with Baragar, as Baragar envies and
+distrusts her, but he dares not slay her for Alara would be
+displeased...    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15720 3
+S
+#15723
+Antechamber~
+This small room is totally windowless, and would be utterly dark were
+it not for your pale light source.  You feel uneasy here.  Far away,
+someone screams, and you shiver uncomfortably.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15724 3
+D2
+~
+door south~
+1 0 15725 3
+D3
+~
+door west~
+1 0 15726 3
+S
+#15724
+Baragar's Chambers~
+Baragar himself resides here, in this small room.  It is rather
+spartan, furnished only with a small military cot, a desk and a shelf
+full of books.  You are surprised that such a wicked man would be so
+neat and disciplined.    
+~
+157 0 0 0 0 3
+D2
+~
+door south~
+1 0 15723 3
+S
+#15725
+Alara's Chamber~
+Yang to Baragar's Yin, Alara's room represents just how different they
+are.  Her room is sloppy and messy, filled with useless junk and piles
+of unwashed clothing.  There are two large beds, covered with
+expensive silks and pillows.  A set of manacles hangs from one wall,
+used for some perversion you don't care to find out more about.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15723 3
+S
+#15726
+A Stairwell~
+These steps lead up into the upper levels of the keep, or down into the
+dungeons. You can hear sounds of construction coming from below.
+~
+157 0 0 0 0 3
+D1
+~
+door east~
+1 0 15723 3
+D4
+~
+~
+0 -1 15736 0
+D5
+~
+~
+0 -1 15719 0
+S
+#15727
+The Dungeons~
+You are in the dank, damp and dirty dungeons of the Keep. The passage you
+are in extends west into darkness. You can hear the sounds of construction
+more clearly now.
+~
+157 0 0 0 0 3
+D3
+~
+~
+0 -1 15728 0
+D4
+~
+~
+0 -1 15718 0
+S
+#15728
+The Dungeons~
+You are in the dank, damp and dirty dungeons of the Keep.  The passage
+you are in extends west into darkness.  You can hear the sounds of
+construction more clearly now.  Doors lie to the north and south of
+here.  The southern door has strange runes inscribed upon it.    
+~
+157 0 0 0 0 3
+D0
+~
+door~
+1 -1 15729 3
+D1
+~
+~
+0 -1 15727 0
+D2
+This door is inscribed with strange runes.
+~
+door south~
+1 0 15730 3
+D3
+~
+~
+0 -1 15731 0
+S
+#15729
+A Treasure Room~
+This room has a huge chest cram-packed with loot in the middle of it.
+But as you enter, you feel rather uneasy about the whole situation.  
+
+~
+157 0 0 0 0 3
+D2
+~
+door south~
+1 0 15728 3
+S
+#15730
+A Summoning Room~
+Baragar and Alara use (or used) this room for practicing their gate
+spells, but when one spell summoned a denizen of the lower planes that
+they couldn't control, they hastily sealed it in this room.  And now
+you have released it.  Way to go.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15728 3
+S
+#15731
+A Junction~
+You are at a rather busy junction in the dungeons.  To the north runs
+a dark passage, while to the south lies a door.  To the west lies the
+source of the noises you heard earlier.  It is obvious that a team of
+workers is excavating down here.  Perhaps Baraga wishes to unearth the
+treasures rumored to lie in the ancient caverns beneath his keep...?
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15733 0
+D1
+~
+~
+0 -1 15728 0
+D2
+~
+door south~
+1 0 15735 3
+D3
+~
+~
+0 -1 15732 0
+S
+#15732
+The Entryway to the Mines~
+Here there is a crude elevator which you can use to lower yourself
+into the lower caverns, wherein the excavation is occuring.  But also
+down there lies the entryway to the ancient caverns, where no one
+dares travel.    
+~
+157 0 0 0 0 3
+D1
+~
+~
+0 -1 15731 0
+D5
+~
+~
+0 -1 15737 0
+S
+#15733
+A Dark Passage~
+This passage extends north into a large cave. The cave emits a glow visible
+from here, permeating the perpetual darkness here.
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15734 0
+D2
+~
+~
+0 -1 15731 0
+S
+#15734
+A Fiery Cavern~
+This cave is illuminated by a lava pool in the center of the room, in
+which a fire drake is currently dozing.  He awakes as you enter, and
+prepares to cast you out!    
+~
+157 0 0 0 0 3
+D2
+~
+~
+0 -1 15733 0
+S
+#15735
+A Lab~
+This room was once used as a lab, but Baragar grew bored with alchemy,
+and abandoned it. Eventually a Grell from the lower caverns made its way
+up here, and created a nest in this lab. Baragar was fascinated by the
+bizarre creature, and sealed it within, intending one day to study it. He
+occasionally feeds it the odd slave or guard.
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15731 3
+S
+#15736
+The Roof of the Inner Keep~
+You are standing on the roof, atop the highest point of the whole
+keep.  The lands of Past Anon lay spread out before you, and from this
+windswept position you can see for miles.  You hear the cry of some
+bird, and look above to see several vultures slowly winging their way
+toward the desolate deserts to the south.  In those deserts there is
+rumored to be a fantastic place filled with wondrous treasures.    
+~
+157 0 0 0 0 3
+D5
+~
+~
+0 -1 15726 0
+S
+#15737
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to
+and from the digging sites.  They are intent on their work, and ignore
+you.  You see some rather valuable veins of ore in the walls, left
+untouched, and you assume the treasure below must be magnificent
+indeed for Baragar to ignore such wealth.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15738 0
+D4
+~
+~
+0 -1 15732 0
+S
+#15738
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to
+and from the digging sites.  They are intent on their work, and ignore
+you.  You see some rather valuable veins of ore in the walls, left
+untouched, and you assume the treasure below must be magnificent
+indeed for Baragar to ignore such wealth.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 -1 15740 0
+D2
+~
+~
+0 -1 15737 0
+D3
+~
+~
+0 -1 15739 0
+S
+#15739
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to
+and from the digging sites.  They are intent on their work, and ignore
+you.  You see some rather valuable veins of ore in the walls, left
+untouched, and you assume the treasure below must be magnificent
+indeed for Baragar to ignore such wealth.    
+~
+157 0 0 0 0 3
+D1
+~
+~
+0 -1 15738 0
+S
+#15740
+The Mines~
+Workers rush back and forth, busily carting bags of excavated stone to
+and from the digging sites.  They are intent on their work, and ignore
+you.  You see some rather valuable veins of ore in the walls, left
+untouched, and you assume the treasure below must be magnificent
+indeed for Baragar to ignore such wealth.    
+~
+157 0 0 0 0 3
+D2
+~
+~
+0 -1 15738 0
+S
+#15741
+The Dog Pits~
+Here Baragar keeps his vicious war dogs, which he takes with him when
+on campaigns as guards and hunters of fleeing prey.  They are
+incredibly savage and will attack anyone on sight save Baragar.  They
+will even attack Alara if she enters unaccompanied.    
+~
+157 0 0 0 0 3
+D2
+~
+door south~
+1 0 15708 3
+S
+#15742
+The Dog Pits~
+Here Baragar keeps his vicious war dogs, which he takes with him when
+on campaigns as guards and hunters of fleeing prey.  They are
+incredibly savage and will attack anyone on sight save Baragar.  They
+will even attack Alara if she enters unaccompanied.    
+~
+157 0 0 0 0 3
+D0
+~
+door north~
+1 0 15709 3
+S
+#15743
+Entering into a Large Clearing~
+You leave the forest behind and enter into a very large cleared area
+which house a huge blackstone Keep.  The size of this keep daunts your
+courage, the darkness of it's walls intimidate the Hell out of you.  
+You can head back into the forest or see what lies within the
+blackened Keep.    
+~
+157 0 0 0 0 2
+D1
+~
+~
+0 0 15744 0
+D3
+~
+~
+0 0 15700 0
+S
+#15744
+In a Dense Forest~
+You can see that the forest opens up to your west into a large
+clearing where the castle or keep stands.  The river is south of you.
+~
+157 0 0 0 0 3
+D2
+~
+~
+0 0 15745 0
+D3
+~
+~
+0 0 15743 0
+S
+#15745
+In a Dense Forest~
+You are still close enough to the river to hear the sound of it's
+waters rushing by, but far enough to feel as if you've left any trace
+of civilization.  The path you are on bends to the west just north of
+here, presumably toward the castle or keep that you saw from the
+river.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 0 15744 0
+D2
+~
+~
+0 0 15746 0
+S
+#15746
+In a Dense Forest~
+You are immediately enclosed by the trees of the forest, the sound of
+the river being cut down in volume by at least half.  The path
+continues to head north through the trees, you are assuming toward the
+large castle or keep you saw from the river.    
+~
+157 0 0 0 0 3
+D0
+~
+~
+0 0 15745 0
+D2
+~
+~
+0 0 517 0
+S
+$~

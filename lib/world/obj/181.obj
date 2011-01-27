@@ -1,0 +1,360 @@
+#18100
+ninja to~
+/cLa ninja-to/c0~
+A sharp ninja-to rests here in its scabbard.~
+~
+5 1355840 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+8 7700 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+2 1
+A
+27 10
+#18101
+tiger claws~
+/cLa pair of ninja tiger claws/c0~
+A pair of a ninja's tiger claws lie here.~
+~
+9 1355776 0 0 0 129 0 0 0
+4 0 0 0 0 0 0 0
+5 4320 0 18 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+#18102
+shuriken~
+/cca shuriken/c0~
+A sharp shuriken is deply imbedded in the wall here.~
+~
+5 8256 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+7 5546 0 16 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+#18103
+black ninja robe~
+/cLblack ninja robes/c0~
+Black ninja robes lie here.~
+~
+9 32 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+5 5193 0 19 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+14 10
+A
+18 1
+#18104
+long knife~
+/cwa long knife/c0~
+A long knife lies on the floor here.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 2666 0 8 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18105
+flask water~
+/cca flask of water/c0~
+A flask of water lies here.~
+~
+17 0 0 0 0 16385 0 0 0
+8 8 0 0 0 0 0 0
+8 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18106
+rice palm leaf~
+/cwrice /cgwrapped in palm leaf/c0~
+/cwSome rice /cgwrapped in palm leaf sits here./c0~
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0 0 0 0 0
+1 16 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18107
+jar healing ointment~
+/cma jar of healing ointment/c0~
+A jar of healing ointment rests here.~
+A healing glow issues forth as $n opens the jar!
+~
+4 65612 0 0 0 16385 0 0 0
+26 5 5 15 0 0 0 0
+2 2340 0 26 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+jar healing ointment~
+There is enough of this herbal mixture for five applications.
+~
+#18108
+diamond~
+/cCa beautiful diamond/c0~
+A beautiful diamond has been tossed aside here.~
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 100 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+diamond~
+It appears to be some sort of key.
+~
+#18109
+basket~
+/cya large basket/c0~
+A large basket affixed to a rope allows people to be hauled up.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18110
+bone~
+/cwa bone/c0~
+A bone. Go on, have a gnaw.~
+~
+19 0 0 0 0 1 0 0 0
+6 0 0 0 0 0 0 0
+3 24 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18111
+broken stool~
+/cya broken stool/c0~
+A broken stool rests crazily on its remaining three legs.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+6 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18112
+collar~
+/cWa spiked dog collar/c0~
+A spiked dog collar lies here.~
+~
+9 0 0 0 0 5 0 0 0
+5 0 0 0 0 0 0 0
+2 2100 0 9 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+collar~
+The collar appears to have a small secret compartment.
+~
+#18113
+shield magnificent~
+/cCa magnificent shield/c0~
+A maginificent shield lies here, gleaming.~
+~
+9 65 0 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+5 7040 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 1
+A
+19 1
+#18114
+cupboard~
+a bare cupboard~
+This cupboard appears to be rather bare...~
+~
+15 0 0 0 0 0 0 0 0
+100 1 0 0 0 0 0 0
+700 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18115
+metal capsule~
+/cwa metal capsule/c0~
+A small metal capsule lies here.~
+~
+9 65 0 0 0 16385 0 0 0
+1 0 0 0 0 0 0 0
+4 4985 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+A
+12 20
+#18116
+leather armor~
+/cya suit of leather armor/c0~
+(Smelly) A suit of Orcish armor lies here.~
+~
+9 1049088 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+7 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18117
+animal hides~
+/cyanimal hides/c0~
+Some uncured animal hides are stinking up the room here.~
+~
+9 0 0 0 0 9 0 0 0
+4 0 0 0 0 0 0 0
+6 1540 0 11 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hides~
+They STINK!
+~
+A
+5 -1
+A
+13 10
+A
+17 -10
+#18118
+gold ring~
+/cYa gold ring/c0~
+/cYA gold ring gleams here./c0~
+~
+9 4626 0 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+3 5760 0 24 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+25 1
+#18119
+mandibles~
+/cra pair of mandibles/c0~
+/crA pair of stone-crushing mandibles lie here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 4 0 0 0 0
+10 4333 0 13 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18120
+mallet~
+/cya wooden mallet/c0~
+A wooden mallet rests here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+3 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18121
+iron spike~
+/cLan iron spike/c0~
+An iron spike rests here.~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 3333 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 -1
+A
+19 1
+#18122
+cupboard~
+a small cupboard~
+A small cupboard rests near one wall.~
+~
+15 0 0 0 0 0 0 0 0
+100 1 0 0 0 0 0 0
+100 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18123
+orc corpse~
+the corpse of an orc~
+The corpse of one of the dungeon's Orcish guards lies here.~
+~
+23 0 0 0 0 0 0 0 0
+6 6 13 0 0 0 0 0
+75 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse orc~
+From the look of it, this Orc was slain by a large fellow wielding a heavy
+axe. Seems a barbarian competitor is still going...
+~
+#18124
+orc corpse~
+the corpse of an orc~
+The corpse of one of the dungeon's Orcish guards lies here.~
+~
+23 0 0 0 0 0 0 0 0
+4 4 13 0 0 0 0 0
+75 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corpse orc~
+From the look of it, this Orc was slain by a large fellow wielding a heavy
+axe. Seems a barbarian competitor is still going...
+~
+#18125
+bone necklace amulet strength~
+/cwan amulet of strength/c0~
+/cwA bone necklace has been discarded here./c0~
+~
+9 2 0 0 0 5 0 0 0
+3 0 0 0 0 0 0 0
+5 5279 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#18126
+test chamber key~
+/cba test chamber key/c0~
+This key will allow you to open the door leading north from the chambers.~
+~
+18 65550 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18127
+dungeon key~
+/cra dungeon key/c0~
+This key will allow you to proceed into the next stage of the dungeon.~
+~
+18 65550 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18128
+brooch garnet~
+/cra brooch set with a large garnet/c0~
+A brooch set with a large garnet lies here.~
+~
+20 0 0 0 0 5 0 0 0
+300 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18129
+shell~
+/cWa basket shell/c0~
+This shell allows you to travel up in the basket. Unlock it now!~
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shell~
+Don't stare at it! USE IT!!!
+~
+#18130
+lots money~
+/cYlots of money!/c0~
+Piled all around is lots and lots of money!~
+~
+20 0 0 0 0 1 0 0 0
+1000 0 0 0 0 0 0 0
+33 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18131
+chute~
+a chute~
+This filthy chute leads into a sewer. You sure you wanna enter?~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

@@ -1,0 +1,2250 @@
+#20500
+South of Mordilnia~
+The cobblestone path cuts a path north and south.  The walls of some
+city can be seen to the near north, while a broad expanse of grassland
+can be seen as far as the eye can see to the south.    
+~
+205 0 0 0 0 0
+S
+#20501
+Deaden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20502 0
+D2
+~
+~
+0 0 20509 0
+S
+#20502
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forma s gently swaying wall all around.  The smell of
+brine can be detected to the south.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20503 0
+D2
+~
+~
+0 0 20510 0
+D3
+~
+~
+0 0 20501 0
+S
+#20503
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20504 0
+D2
+~
+~
+0 0 20511 0
+D3
+~
+~
+0 0 20502 0
+S
+#20504
+Beaten Path~
+The cobblestone path shows signs of neglect, creeping weeds sprout
+from between the cracks and an occasional rut mar it's surface.  An
+ocean of grass, waist-high along the path and taller further out,
+ripples with each gust of wind.  One can go north and south on the
+path, or wander into the grassy expanse.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20505 0
+D2
+~
+~
+0 0 20512 0
+D3
+~
+~
+0 0 20503 0
+S
+#20505
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20506 0
+D2
+~
+~
+0 0 20513 0
+D3
+~
+~
+0 0 20504 0
+S
+#20506
+Daeden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20507 0
+D2
+~
+~
+0 0 20514 0
+D3
+~
+~
+0 0 20505 0
+S
+#20507
+Daeden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.    
+~
+205 0 0 0 0 0
+D2
+~
+~
+0 0 20515 0
+D3
+~
+~
+0 0 20506 0
+S
+#20508
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20509 0
+D2
+~
+~
+0 0 20516 0
+S
+#20509
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20501 0
+D1
+~
+~
+0 0 20510 0
+D2
+~
+~
+0 0 20517 0
+D3
+~
+~
+0 0 20508 0
+S
+#20510
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20502 0
+D1
+~
+~
+0 0 20511 0
+D2
+~
+~
+0 0 20518 0
+D3
+~
+~
+0 0 20509 0
+S
+#20511
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20503 0
+D1
+~
+~
+0 0 20512 0
+D2
+~
+~
+0 0 20519 0
+D3
+~
+~
+0 0 20510 0
+S
+#20512
+Beaten Path~
+The cobblestone path shows signs of neglect, creeping weeds sprout
+from between the cracks and an occasional rut mar it's surface.  An
+ocean of grass, waist-high along the path and taller further out,
+ripples with each gust of wind.  The path takes a turn here, east and
+north.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20504 0
+D1
+~
+~
+0 0 20513 0
+D2
+~
+~
+0 0 20520 0
+D3
+~
+~
+0 0 20511 0
+S
+#20513
+Beaten Path~
+The cobblestone path shows signs of neglect, creeping weeds sprout
+from between the cracks and an occasional rut mar it's surface.  An
+ocean of grass, waist-high along the path and taller further out,
+ripples with each gust of wind.  The path takes a turn here, west and
+south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20505 0
+D1
+~
+~
+0 0 20514 0
+D2
+~
+~
+0 0 20521 0
+D3
+~
+~
+0 0 20512 0
+S
+#20514
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20506 0
+D1
+~
+~
+0 0 20515 0
+D2
+~
+~
+0 0 20522 0
+D3
+~
+~
+0 0 20513 0
+S
+#20515
+Daeden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20507 0
+D2
+~
+~
+0 0 20523 0
+D3
+~
+~
+0 0 20514 0
+S
+#20516
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20508 0
+D1
+~
+~
+0 0 20517 0
+D2
+~
+~
+0 0 20526 0
+S
+#20517
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20509 0
+D1
+~
+~
+0 0 20518 0
+D2
+~
+~
+0 0 20527 0
+D3
+~
+~
+0 0 20516 0
+S
+#20518
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20510 0
+D1
+~
+~
+0 0 20519 0
+D2
+~
+~
+0 0 20528 0
+D3
+~
+~
+0 0 20517 0
+S
+#20519
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the west and south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20511 0
+D1
+~
+~
+0 0 20520 0
+D2
+~
+~
+0 0 20529 0
+D3
+~
+~
+0 0 20518 0
+S
+#20520
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20512 0
+D1
+~
+~
+0 0 20521 0
+D2
+~
+~
+0 0 20530 0
+D3
+~
+~
+0 0 20519 0
+S
+#20521
+Beaten Path~
+The cobblestone path shows signs of neglect, creeping weeds sprout
+from between the cracks and an occasional rut mar it's surface.  An
+ocean of grass, waist-high along the path and taller further out,
+ripples with each gust of wind.  One can go north and south on the
+path, or wander into the grassy expanse.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20513 0
+D1
+~
+~
+0 0 20522 0
+D2
+~
+~
+0 0 20531 0
+D3
+~
+~
+0 0 20520 0
+S
+#20522
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20514 0
+D1
+~
+~
+0 0 20523 0
+D2
+~
+~
+0 0 20532 0
+D3
+~
+~
+0 0 20521 0
+S
+#20523
+Daeden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20515 0
+D2
+~
+~
+0 0 20533 0
+D3
+~
+~
+0 0 20522 0
+S
+#20524
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20525 0
+D2
+~
+~
+0 0 20537 0
+S
+#20525
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20526 0
+D2
+~
+~
+0 0 20538 0
+D3
+~
+~
+0 0 20524 0
+S
+#20526
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20516 0
+D1
+~
+~
+0 0 20527 0
+D2
+~
+~
+0 0 20539 0
+D3
+~
+~
+0 0 20525 0
+S
+#20527
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20517 0
+D1
+~
+~
+0 0 20528 0
+D2
+~
+~
+0 0 20540 0
+D3
+~
+~
+0 0 20526 0
+S
+#20528
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  An isle, shrouded in mist can be seen
+to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20518 0
+D1
+~
+~
+0 0 20529 0
+D2
+~
+~
+0 0 20541 0
+D3
+~
+~
+0 0 20527 0
+S
+#20529
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20519 0
+D1
+~
+~
+0 0 20530 0
+D2
+~
+~
+0 0 20542 0
+D3
+~
+~
+0 0 20528 0
+S
+#20530
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20520 0
+D1
+~
+~
+0 0 20531 0
+D2
+~
+~
+0 0 20543 0
+D3
+~
+~
+0 0 20529 0
+S
+#20531
+Grassy Path~
+The path is nothing more than a trail, covered with ankle-high grass.
+Scattered about the clumps of grass are the cobblestones which seem to
+be more organized as the path progresses northward.  The ocean of
+grass all about sways with a graceful rhythm as the wind sweeps
+through here.  One can travel north and south on the path or enter the
+grasslands.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20521 0
+D1
+~
+~
+0 0 20532 0
+D2
+~
+~
+0 0 20544 0
+D3
+~
+~
+0 0 20530 0
+S
+#20532
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20522 0
+D1
+~
+~
+0 0 20533 0
+D2
+~
+~
+0 0 20545 0
+D3
+~
+~
+0 0 20531 0
+S
+#20533
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20523 0
+D1
+~
+~
+0 0 20534 0
+D2
+~
+~
+0 0 20546 0
+D3
+~
+~
+0 0 20532 0
+S
+#20534
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20535 0
+D2
+~
+~
+0 0 20547 0
+D3
+~
+~
+0 0 20533 0
+S
+#20535
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20536 0
+D2
+~
+~
+0 0 20548 0
+D3
+~
+~
+0 0 20534 0
+S
+#20536
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D2
+~
+~
+0 0 20549 0
+D3
+~
+~
+0 0 20535 0
+S
+#20537
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20524 0
+D1
+~
+~
+0 0 20538 0
+D2
+~
+~
+0 0 20552 0
+S
+#20538
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20525 0
+D1
+~
+~
+0 0 20539 0
+D2
+~
+~
+0 0 20553 0
+D3
+~
+~
+0 0 20537 0
+S
+#20539
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20526 0
+D1
+~
+~
+0 0 20540 0
+D2
+~
+~
+0 0 20554 0
+D3
+~
+~
+0 0 20538 0
+S
+#20540
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  An isle, shrouded in mist can be seen
+to the east.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20527 0
+D1
+~
+~
+0 0 20541 0
+D2
+~
+~
+0 0 20555 0
+D3
+~
+~
+0 0 20539 0
+S
+#20541
+Isle of Blinn Flats~
+The briny mist is heavy and reeks of a foul odor.  The isle is barren,
+just a rocky outpost in the middle of the dreary flats.  A long dead
+tree stands in the middle of the isle, it's skeletal frame adding to
+the atmosphere of dread.  Around the shores of the isle lie scattered
+remains of creatures, stripped to the bone and bleached in the sun.  
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20528 0
+D1
+~
+~
+0 0 20542 0
+D2
+~
+~
+0 0 20556 0
+D3
+~
+~
+0 0 20540 0
+D5
+~
+tree~
+1 0 20698 19
+S
+#20542
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  An isle, shrouded in mist can be seen
+to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20529 0
+D1
+~
+~
+0 0 20543 0
+D2
+~
+~
+0 0 20557 0
+D3
+~
+~
+0 0 20541 0
+S
+#20543
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20530 0
+D1
+~
+~
+0 0 20544 0
+D2
+~
+~
+0 0 20558 0
+D3
+~
+~
+0 0 20542 0
+S
+#20544
+Grassy Path~
+The path is nothing more than a trail, covered with ankle-high grass.
+Scattered about the clumps of grass are the cobblestones which seem to
+be more organized as the path progresses northward.  The ocean of
+grass all about sways with a graceful rhythm as the wind sweeps
+through here.  One can travel north and south on the path or enter the
+grasslands.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20531 0
+D1
+~
+~
+0 0 20545 0
+D2
+~
+~
+0 0 20559 0
+D3
+~
+~
+0 0 20543 0
+S
+#20545
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20532 0
+D1
+~
+~
+0 0 20546 0
+D2
+~
+~
+0 0 20560 0
+D3
+~
+~
+0 0 20544 0
+S
+#20546
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20533 0
+D1
+~
+~
+0 0 20547 0
+D2
+~
+~
+0 0 20561 0
+D3
+~
+~
+0 0 20545 0
+S
+#20547
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20534 0
+D1
+~
+~
+0 0 20548 0
+D2
+~
+~
+0 0 20562 0
+D3
+~
+~
+0 0 20546 0
+S
+#20548
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20535 0
+D1
+~
+~
+0 0 20549 0
+D2
+~
+~
+0 0 20563 0
+D3
+~
+~
+0 0 20547 0
+S
+#20549
+Daeden Rise~
+The rise is covered with waist-high grasses and pockmarked with some
+wayward boulders which have tumbled down from the mountains in the
+distant east.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20536 0
+D2
+~
+~
+0 0 20564 0
+D3
+~
+~
+0 0 20548 0
+D4
+~
+~
+0 0 20550 0
+S
+#20550
+Daeden Plateu~
+The plateu is covered with short grasses, barely ankle-high.  The wind
+sweeps through here rather harshly at times, especially when it blows
+in from the west.  The steep, inpenetratable walls of the Kaedier
+Mountains bar any travel to the north.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20551 0
+D2
+~
+~
+0 0 20565 0
+D5
+~
+~
+0 0 20549 0
+S
+#20551
+Daeden Plateu~
+The plateu is covered with short grasses, barely ankle-high.  The wind
+sweeps through here rather harshly at times, especially when it blows
+in from the west.  The steep, inpenetratable walls of the Kaedier
+Mountains bar any travel to the north and east.    
+~
+205 0 0 0 0 0
+D2
+~
+~
+0 0 20566 0
+D3
+~
+~
+0 0 20550 0
+S
+#20552
+Outskirts of the Flats~
+The grass which grows here are thin and sickly.  The ground is damp,
+oozing salty water which flows from the east to the west.  As one goes
+further west, the ground is slowly covered with life-choking silt.  
+The air is still and chilly, lending to an atmosphere of fear.    
+~
+205 4 0 0 0 0
+D0
+~
+~
+0 0 20537 0
+D1
+~
+~
+0 0 20553 0
+D2
+~
+~
+0 0 20567 0
+D3
+~
+~
+0 0 16013 0
+S
+#20553
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  A bank rises high to the south,
+directing the flow of the waters to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20538 0
+D1
+~
+~
+0 0 20554 0
+D2
+~
+~
+0 0 20568 0
+D3
+~
+~
+0 0 20552 0
+S
+#20554
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  A bank rises high to the south,
+directing the flow of the waters to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20539 0
+D1
+~
+~
+0 0 20555 0
+D2
+~
+~
+0 0 20569 0
+D3
+~
+~
+0 0 20553 0
+S
+#20555
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  A bank rises high to the south,
+directing the flow of the waters to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20540 0
+D1
+~
+~
+0 0 20556 0
+D2
+~
+~
+0 0 20570 0
+D3
+~
+~
+0 0 20554 0
+S
+#20556
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.  An isle, shrouded in mist can be seen
+to the north.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20541 0
+D1
+~
+~
+0 0 20557 0
+D2
+~
+~
+0 0 20571 0
+D3
+~
+~
+0 0 20555 0
+S
+#20557
+Blinn Flats~
+A thick, low-lying briny fog slowly rises from the surface of the
+flats.  Like a living beast, the fog sends forth wispy tendrils as if
+to explore the way before it.  No sounds can be heard here and the air
+is deathly still.  The water is chilly and ripples as if anticipating
+some ominous event to happen.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20542 0
+D1
+~
+~
+0 0 20558 0
+D2
+~
+~
+0 0 20572 0
+D3
+~
+~
+0 0 20556 0
+S
+#20558
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20543 0
+D1
+~
+~
+0 0 20559 0
+D2
+~
+~
+0 0 20573 0
+D3
+~
+~
+0 0 20557 0
+S
+#20559
+Grassy Path~
+The path is nothing more than a trail, covered with ankle-high grass.
+Scattered about the clumps of grass are the cobblestones which seem to
+be more organized as the path progresses northward.  The ocean of
+grass all about sways with a graceful rhythm as the wind sweeps
+through here.  One can travel north and south on the path or enter the
+grasslands.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20544 0
+D1
+~
+~
+0 0 20560 0
+D2
+~
+~
+0 0 20574 0
+D3
+~
+~
+0 0 20558 0
+S
+#20560
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibilty is limited as the ocean
+of grass forms a gently swaying wall all around.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20545 0
+D1
+~
+~
+0 0 20561 0
+D2
+~
+~
+0 0 20575 0
+D3
+~
+~
+0 0 20559 0
+S
+#20561
+Daeden Plains~
+The grasses here reach at least one handspan above one's head.  
+Visibility is limited although sounds abound, echoing from all about
+this ocean of grass.  Whereever one treads, the broken grass is almost
+instantly replaced with new growth, restoring a sense of stability
+here.  A fathomless gully bars any travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20546 0
+D1
+~
+~
+0 0 20562 0
+D3
+~
+~
+0 0 20560 0
+S
+#20562
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.  A fathomless gully bars any
+travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20547 0
+D1
+~
+~
+0 0 20563 0
+D3
+~
+~
+0 0 20561 0
+S
+#20563
+Daeden Pampas~
+Tall, graceful reeds are dominant here.  The ground is damp and
+spongy, not as well suited for the grasses are for the reeds.  
+Strong, fibrous stalks support feathery tufts which adorn the crowns
+of the mature reeds.  The air is full of fluffy seeds, which have
+taken to the air to find a new home.  A fathomless gully bars any
+travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20548 0
+D1
+~
+~
+0 0 20564 0
+D3
+~
+~
+0 0 20562 0
+S
+#20564
+Daeden Rise~
+The rise is covered with waist-high grasses and pockmarked with some
+wayward boulders which have tumbled down from the mountains in the
+distant east.  A fathomless gully bars any travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20549 0
+D3
+~
+~
+0 0 20563 0
+D4
+~
+~
+0 0 20565 0
+S
+#20565
+Daeden Plateu~
+The plateu is covered with short grasses, barely ankle-high.  The wind
+sweeps through here rather harshly at times, especially when it blows
+in from the west.  A fathomless gully bars any travel to the south.  
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20550 0
+D1
+~
+~
+0 0 20566 0
+D5
+~
+~
+0 0 20564 0
+S
+#20566
+Daeden Plateu~
+The plateu is covered with short grasses, barely ankle-high.  The wind
+sweeps through here rather harshly at times, especially when it blows
+in from the west.  The steep, inpenetratable walls of the Kaedier
+Mountains bar any travel to the east and a fathomless gully bars any
+travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20551 0
+D3
+~
+~
+0 0 20565 0
+S
+#20567
+Border Lands~
+The land is semi-arid, a broad expanse of savannah for as far as one
+can see.  The grass is short and scrubby in appearance.  An occasional
+clump of tall grass sprouts here and there, revealing the presence of
+life-giving groundwater hidden beneath the ground.  A cloud of dust
+kicks up now and then as the breeze sweeps through here.  The lofty
+heights of the Kaedier Mountains can be seen to the west.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20552 0
+D1
+~
+~
+0 0 20568 0
+D2
+~
+~
+0 0 20603 0
+S
+#20568
+Border Lands~
+The land here is semi-arid, a savannah which sprawls out everywhere
+one can see.  A drop-off to the north tumbles into some watery domain,
+while all around lies grass and dusty ground.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20552 0
+D1
+~
+~
+0 0 20569 0
+D2
+~
+~
+0 0 20604 0
+D3
+~
+~
+0 0 20567 0
+S
+#20569
+Border Lands~
+The land here is semi-arid, a savannah which sprawls out everywhere
+one can see.  A drop-off to the north tumbles into some watery domain,
+while all around lies grass and dusty ground.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20554 0
+D1
+~
+~
+0 0 20570 0
+D2
+~
+~
+0 0 20605 0
+D3
+~
+~
+0 0 20568 0
+S
+#20570
+Border Lands~
+The land here is semi-arid, a savannah which sprawls out everywhere
+one can see.  A drop-off to the north tumbles into some watery domain,
+while all around lies grass and dusty ground.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20555 0
+D1
+~
+~
+0 0 20571 0
+D2
+~
+~
+0 0 20606 0
+D3
+~
+~
+0 0 20569 0
+S
+#20571
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the north.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20556 0
+D1
+~
+~
+0 0 20572 0
+D2
+~
+~
+0 0 20582 0
+D3
+~
+~
+0 0 20570 0
+S
+#20572
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  The smell of
+brine can be detected to the north.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20557 0
+D1
+~
+~
+0 0 20573 0
+D2
+~
+~
+0 0 20583 0
+D3
+~
+~
+0 0 20571 0
+S
+#20573
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  A fathomless
+gully bars any travel to the south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20558 0
+D1
+~
+~
+0 0 20574 0
+D3
+~
+~
+0 0 20572 0
+S
+#20574
+Steep Embankment into a Gully~
+A small glade, complete with chittering insects and chirping birds,
+opens up here.  A grassy path seems to begin to the north while a
+fathomless gully bars any travel to the south.  The grasslands sprawl
+out to the west and east.  A small path seems to descend downwards
+into the gully, just behind a boulder that lies dangerously close to
+the edge of the drop.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20559 0
+D1
+~
+~
+0 0 20575 0
+D3
+~
+~
+0 0 20573 0
+D5
+~
+~
+0 0 20585 0
+S
+#20575
+Daeden Plains~
+Tall, shoulder-high grass wave in unison as each gust of wind buffets
+them.  Sounds of insects, busy with their short lives, fill the air as
+well as sounds of hidden creatures.  Visibility is limited as the
+ocean of grass forms a gently swaying wall all around.  A fathomless
+gully bars any travel to the east and south.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20560 0
+D3
+~
+~
+0 0 20574 0
+S
+#20576
+Bend in the Gully~
+In the chilly darkness, the earthen walls of the gully suddenly twist,
+turning to a new direction.  Rivulets of water scar the ground,
+creating little channels as the water flows on endlessly.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20577 0
+D2
+~
+~
+0 0 20587 0
+S
+#20577
+Fathomless Gully~
+The earthen walls of the gully are moist, damp with water precious to
+those who live upon the surface above.  The majestic heights of the
+walls bar any sunlight from ever reaching down here, save only when
+the sun has reached it's apex at noon.  The air is chilly and carries
+with it a heavy earthen odor.  The rivulets of water run westward,
+indicating a gentle slope in that direction.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20578 0
+D3
+~
+~
+0 0 20576 0
+S
+#20578
+Fathomless Gully~
+The earthen walls of the gully are moist, damp with water precious to
+those who live upon the surface above.  The majestic heights of the
+walls bar any sunlight from ever reaching down here, save only when
+the sun has reached it's apex at noon.  The air is chilly and carries
+with it a heavy earthen odor.  The rivulets of water run westward,
+indicating a gentle slope in that direction.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20579 0
+D3
+~
+~
+0 0 20577 0
+S
+#20579
+Fathomless Gully~
+The earthen walls of the gully are moist, damp with water precious to
+those who live upon the surface above.  The majestic heights of the
+walls bar any sunlight from ever reaching down here, save only when
+the sun has reached it's apex at noon.  The air is chilly and carries
+with it a heavy earthen odor.  The rivulets of water run westward,
+indicating a gentle slope in that direction.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20580 0
+D3
+~
+~
+0 0 20578 0
+S
+#20580
+Fathomless Gully~
+The earthen walls of the gully are moist, damp with water precious to
+those who live upon the surface above.  The majestic heights of the
+walls bar any sunlight from ever reaching down here, save only when
+the sun has reached it's apex at noon.  The air is chilly and carries
+with it a heavy earthen odor.  The rivulets of water run westward,
+indicating a gentle slope in that direction.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20581 0
+D3
+~
+~
+0 0 20579 0
+S
+#20581
+End of the Line~
+The walls of the gully narrow and finally close together in the east.
+The walls are damp, dripping with water precious to the surface
+dwellers.  Small rivulets cut winding groves in which the water
+follows, slowly flowing westwards.  High above, the walls of the gully
+bar any sunlight from reaching here.    
+~
+205 0 0 0 0 0
+D3
+~
+~
+0 0 20580 0
+S
+#20582
+Border Lands~
+The land is semi-arid, a broad expanse of savannah for as far as one
+can see.  The grass is short and scrubby in appearance.  An occasional
+clump of tall grass sprouts here and there, revealing the presence of
+life-giving groundwater hidden beneath the ground.  A cloud of dust
+kicks up now and then as the breeze sweeps through here.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20571 0
+D1
+~
+~
+0 0 20583 0
+D2
+~
+~
+0 0 20614 0
+D3
+~
+~
+0 0 20606 0
+S
+#20583
+Border Lands~
+The land is semi-arid, a broad expanse of savannah for as far as one
+can see.  The grass is short and scrubby in appearance.  An occasional
+clump of tall grass sprouts here and there, revealing the presence of
+life-giving groundwater hidden beneath the ground.  A cloud of dust
+kicks up now and then as the breeze sweeps through here.  A fathomless
+gully bars any travel to the east.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20572 0
+D2
+~
+~
+0 0 20615 0
+D3
+~
+~
+0 0 20582 0
+S
+#20584
+Bend in the Gully~
+In the chilly darkness, the earthen walls of the gully suddenly twist,
+turning to a new direction.  Rivulets of water scar the ground,
+creating little channels as the water flows on endlessly.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20585 0
+D2
+~
+~
+0 0 -1 0
+S
+#20585
+Into the Fathomless Gully~
+The walls of the gully are steep and unclimbable, save for the small
+rocky path alongside the north wall.  Moisture beads and drip from the
+earthen walls, trickling into small rivulets along the ground.  The
+air is chilly, as no sunlight ever reaches these depths.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20586 0
+D3
+~
+~
+0 0 20584 0
+D4
+~
+~
+0 0 20574 0
+S
+#20586
+Fathomless Gully~
+The earthen walls of the gully are moist, damp with water precious to
+those who live upon the surface above.  The majestic heights of the
+walls bar any sunlight from ever reaching down here, save only when
+the sun has reached it's apex at noon.  The air is chilly and carries
+with it a heavy earthen odor.  A gaping fissure to the south is just
+big enough for one to enter it.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20587 0
+D2
+~
+~
+0 0 20593 0
+D3
+~
+~
+0 0 20585 0
+S
+#20587
+Bend in the Gully~
+In the chilly darkness, the earthen walls of the gully suddenly twist,
+turning to a new direction.  Rivulets of water scar the ground,
+creating little channels as the water flows on endlessly.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20576 0
+D3
+~
+~
+0 0 20586 0
+S
+#20588
+Xephyr Cave~
+A solitary crystal, black as the midnight sun and as large as a human,
+floats in the very center of the chamber.  It slowly rotates about in
+every direction, absorbing any light shined upon it.  The air in here
+is deathly chilly and still.  Small crystals, in shades of black,
+adorn the rest of the cave.    
+~
+205 0 0 0 0 0
+D2
+~
+~
+0 0 20595 0
+S
+#20589
+Falling spikes of Rocks!~
+The very cave seems to shudder as if a mighty force hit it!  The
+mineral formations shatter and spikes of rock come crashing down!  
+The darkness is all one can remember as they fade away.    
+~
+205 2162916 0 0 0 0
+D1
+~
+~
+0 0 20590 0
+S
+#20590
+Marachi Caverns~
+The ground of the cavern is hard, coated with minerals deposited by
+flowing water through here eons ago.  The walls are damp and beads of
+moisture cling to them.  Mineral formations, commonly in the form of
+spikes, grow from the ceiling and ground.  Often one will see a
+complete column of mineral, ageless old.  One can go east, west, or
+south.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20591 0
+D2
+~
+~
+0 0 20597 0
+D3
+~
+~
+0 0 20589 0
+S
+#20591
+Marachi Caverns~
+The ground of the cavern is hard, coated with minerals deposited by
+flowing water through here eons ago.  The walls are damp and beads of
+moisture cling to them.  Mineral formations, commonly in the form of
+spikes, grow from the ceiling and ground.  Often one will see a
+complete column of mineral, ageless old.  One can go east, west, or
+south.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20592 0
+D2
+~
+~
+0 0 20598 0
+D3
+~
+~
+0 0 20590 0
+S
+#20592
+Bend in the Caverns~
+The ground of the cavern is hard, coated with minerals deposited by
+flowing water through here eons ago.  The walls are damp and beads of
+moisture cling to them.  Mineral formations, commonly in the form of
+spikes, grow from the ceiling and ground.  Often one will see a
+complete column of mineral, ageless old.    
+~
+205 0 0 0 0 0
+D2
+~
+~
+0 0 20599 0
+D3
+~
+~
+0 0 20591 0
+S
+#20593
+Fissure in the earthen Wall~
+The fissure is rather small, not offering much room once inside it.  
+Tracks of some sort of creature mark the ground, showing that it goes
+in and out of here rather often.  The chilly air has a strange odor
+about it, something not familiar to most folks.  Water drips from the
+ceiling and gathers into a rivulet which flows north, outside the
+fissure.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20586 0
+D1
+~
+~
+0 0 20594 0
+S
+#20594
+Lair~
+The lair is crudely carved out of earth and rock.  It is damp and
+chilly here, a perfect home for the Slignoth.  A raised bed of earth
+in the back of the lair serves as a dry place to sleep upon.  The odor
+in the air is strongly reptilian and damp.  In the far corner of the
+lair is a boulder, which seems to be ajar.    
+~
+205 4 0 0 0 0
+D3
+~
+~
+0 0 20593 0
+D5
+~
+~
+0 0 20595 16
+S
+#20595
+Entrance of the Marachi Caverns~
+The cavern is a marvelous sight to behold.  Glistening crystals,
+streaks of colour, and reflections of light from the torches in the
+walls bedazzle one's eyes.  The cavern sprawls out, bearing the riches
+of the underground.  The ground is hard, mineralized from the passage
+of water through here over the centuries.  The sinkhole leading here
+lies up above, leading into darkness.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20588 0
+D1
+~
+~
+0 0 20596 0
+D4
+~
+~
+0 0 20594 16
+S
+#20596
+Marachi Caverns~
+The ground of the cavern is hard, coated with minerals deposited by
+flowing water through here eons ago.  The walls are damp and beads of
+moisture cling to them.  Mineral formations, commonly in the form of
+spikes, grow from the ceiling and ground.  Often one will see a
+complete column of mineral, ageless old.    
+~
+205 0 0 0 0 0
+D1
+~
+~
+0 0 20597 0
+D3
+~
+~
+0 0 20595 0
+S
+#20597
+Bend in the Caverns~
+The ground of the cavern is hard, coated with minerals deposited by
+flowing water through here eons ago.  The walls are damp and beads of
+moisture cling to them.  Mineral formations, commonly in the form of
+spikes, grow from the ceiling and ground.  Often one will see a
+complete column of mineral, ageless old.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20590 0
+D3
+~
+~
+0 0 20596 0
+S
+#20598
+Sephyr Cave~
+A huge cluster of crystals, clear as pure ice, juts up in the center
+of the chamber.  Some of the spears reach as high as a human.  The air
+is deathly chilly and still.  The rest of the chamber is adorned with
+small, transparent crystals which fill every nook and cranny in here.
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20591 0
+S
+#20599
+Descent into Darkness~
+A sinkhole creates an opening in the hardened, mineralized ground.  
+Peering down, one can see that it is a short drop downwards, perhaps
+six feet or so.  All around are typical mineral formations found
+throughout the Marachi Caverns.    
+~
+205 0 0 0 0 0
+D0
+~
+~
+0 0 20592 0
+D5
+~
+~
+0 0 20776 0
+S
+$~

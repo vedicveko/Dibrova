@@ -1,0 +1,445 @@
+#800
+hide lava~
+a /crLava Beast's /cLHide/c0~
+A tough hide, made from hardening lava, lies here.~
+~
+9 0 6 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+18 50400 100 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -10
+A
+19 6
+A
+18 5
+#801
+jaw fire~
+the Jaws of /crFire/c0~
+A set of jaws lie here, hissing.~
+Even thought they have been severed from the beast that they came
+from, they still hiss with a life of their own.    
+~
+9 0 6 0 0 262145 0 0 0
+4 0 0 0 0 0 0 0
+3 31533 100 110 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+13 40
+A
+2 1
+#802
+club lava~
+a /cLhardened-lava /cyClub/c0~
+A club, made of hardening lava, lies here unused.~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+10 72000 100 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 6
+A
+1 2
+#803
+warning sign~
+/cRA WARNING SIGN/c0~
+A /cRWARNING/c0 sign is here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 113 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+warning sign~
+To those who dare venture ahead:
+
+The following area is extremely dangerous and is under the protection
+of those who dwell in the Plane of Fire!  It is recommended that you
+DO NOT engage the inhabitants that lie within unless you are at least
+level 125, even then only with the gravest of caution!  However, should
+you make it through, wonderous lands await beyond.
+
+Riva
+~
+#804
+glove razor claw~
+a pair of /cLrazor-clawed /ccGloves/c0~
+A pair of gloves, armed with razor-sharp claws, lies here.~
+~
+9 143360 0 0 0 129 0 0 0
+9 0 0 0 0 0 0 0
+10 50833 100 125 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 4
+A
+19 4
+A
+2 2
+#805
+mane firemare~
+the /crFiremare's /cyMane/c0~
+A flaming mane of some creature lies here.~
+~
+9 321 3 0 0 5 0 0 0
+6 0 0 0 8 0 0 0
+7 42933 100 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 50
+A
+13 50
+A
+24 -4
+A
+21 -2
+#806
+solar flare~
+a /cYSolar /cRF/cYl/cRa/cYr/cRe/c0~
+A bright flare hovers here in the air.~
+~
+9 321 9 0 0 4097 0 0 0
+4 0 0 0 0 0 0 0
+3 39599 100 110 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+19 3
+A
+26 4
+#807
+chainmail flaming~
+a set of /crflaming /ccChainmail/c0~
+A pile of chainmail lies here, burning with a fierce heat.~
+~
+9 143361 0 0 0 9 0 0 0
+14 0 0 0 0 0 0 0
+20 47366 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 40
+A
+12 40
+A
+19 7
+A
+1 -3
+#808
+carapace flaming~
+a flaming Carapace~
+A carapace from some sort of insect lies here, bursting into flames.~
+~
+9 770049 9 0 0 513 0 0 0
+16 0 0 0 0 0 0 0
+16 61866 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 -2
+A
+25 -2
+A
+26 7
+A
+19 5
+#809
+stinger fiery~
+a /cRfiery /cyStinger/c0~
+A stinger from some sort of insect lies here, flaming hotly.~
+~
+5 1 9 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+6 93332 100 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 4
+C
+114 7
+#810
+cloak smoke~
+a /cLCloak of Smoke/c0~
+An almost intangible cloak floats here.~
+~
+11 1355776 11 0 0 1025 0 0 0
+0 0 0 0 0 0 0 0
+3 48666 100 146 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+20 -5
+A
+2 1
+A
+1 1
+#811
+flesh smoldering~
+a pair of /crsmoldering /cyFlesh/c0~
+A pile of smoldering flesh lies here, smelling horribily.~
+~
+9 1 0 0 0 33 0 0 0
+10 0 0 0 0 0 0 0
+14 42933 100 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+14 50
+A
+26 5
+A
+19 4
+A
+1 -2
+A
+2 -2
+#812
+bracelet charred~
+a /cLcharred /cgBracelet/c0~
+A charred bracelet lies abandoned here.~
+~
+11 320 11 0 0 4097 0 0 0
+0 0 0 0 0 0 0 0
+4 28280 100 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 4
+A
+1 -2
+A
+13 -20
+#813
+earring smoldering~
+a pair of /crsmoldering /cyEarrings/c0~
+A pair of earrings lie here, aflame and smoldering away.~
+~
+9 1 6 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+1 53760 100 144 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+27 45
+A
+13 45
+A
+19 6
+A
+18 6
+#814
+ring heat essence~
+the /cWEssence of /cRHeat/c0~
+A small ring lies here, radiating extreme heat.~
+~
+9 321 11 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+1 2000 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 20
+A
+18 5
+A
+19 4
+A
+26 3
+A
+1 -3
+#815
+ring light essence~
+the /cWEssence of /cYLight/c0~
+A small ring lies here, shining brightly!~
+~
+11 1761345 9 0 0 3 0 0 0
+0 0 0 0 16 0 0 0
+1 51333 100 140 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 6
+A
+19 6
+A
+2 -3
+A
+28 -20
+A
+27 -20
+#816
+mask drake fire~
+the Mask of the /crFire Drake/c0~
+A mask, resembling the face of a fire drake, lies here.~
+~
+9 321 0 0 0 262145 0 0 0
+6 0 0 0 0 0 0 0
+5 46400 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 50
+A
+2 2
+A
+4 2
+A
+13 47
+A
+25 -3
+#817
+collar lava ~
+a /cLhardened-lava /cyCollar/c0~
+A collar made of hardening lava lies here.~
+~
+9 0 0 0 0 5 0 0 0
+4 0 0 0 0 0 0 0
+10 25600 100 120 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -2
+A
+27 40
+#818
+sight phoenix~
+the /cWSight/c0 of the /cYP/cRh/cWo/cYe/cRn/cWi/cYx/c0~
+An gleaming object lies here, left from the Phoenix.~
+~
+9 321 0 0 0 131073 0 0 0
+6 0 0 0 2128 2 0 0
+3 73466 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#819
+spike lava~
+a /cLhardened-lava /cySpike/c0~
+A spike of hardening lava lies here.~
+~
+5 256 1 0 0 16385 0 0 0
+0 0 0 14 0 0 0 0
+4 38333 100 115 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#820
+claw salamander~
+the Claw of the /cRSalamander/c0~
+A small claw of the Salamander lies here.~
+~
+1 1311041 0 0 0 16385 0 0 0
+0 0 -1 0 0 16384 0 0
+4 19600 100 147 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 50
+A
+13 45
+#821
+robe fiery~
+a /crfiery /cyRobe/c0~
+A robe engulfed in flames lies in a pile here.~
+~
+11 1892352 11 0 0 1025 0 0 0
+0 0 0 0 262144 0 0 0
+12 57999 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 7
+A
+3 2
+#822
+staff conjurer fire~
+the /cyStaff/c0 of the /cRFire Conjurer/c0~
+A powerful-looking staff hovers here.~
+~
+5 2015232 3 0 0 8193 0 0 0
+0 0 0 7 0 16384 0 0
+13 87000 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+1 -4
+C
+32 3
+#823
+tongue flame~
+a tongue of /crFlame/c0~
+A small tongue of flame flickers as it floats here.~
+~
+9 1 0 0 0 4097 0 0 0
+2 0 0 0 -2147483648 0 0 0
+5 63800 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 2
+A
+26 4
+A
+18 4
+A
+19 4
+#824
+wisp flame~
+a wisp of /crFlame/c0~
+A small wisp of flame burns weakly here.~
+~
+9 321 0 0 0 32769 0 0 0
+2 0 0 0 0 0 0 0
+1 39633 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 5
+A
+3 -3
+A
+2 -2
+A
+25 -1
+#825
+ring touch fire~
+a /cWTouch of /cRFire/c0~
+A ring, blazing with fire, hovers here in the air.~
+~
+9 321 0 0 0 65537 0 0 0
+2 0 0 0 0 0 0 0
+1 42533 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 50
+A
+13 20
+A
+19 6
+A
+25 -3
+#826
+armour leather firey~
+a set of /crfiery /cyleather Armour/c0~
+A pile of leather lies here, burning away!~
+~
+9 143361 7 0 0 9 0 0 0
+13 0 0 0 0 0 0 0
+18 66699 100 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 7
+A
+19 6
+A
+13 20
+A
+12 -45
+A
+14 -45
+#899
+deed lava tubes~
+the deed to the Lava Tubes~
+A small sheet of paper has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+8 0 0 0 0 0 0 0
+2 20000000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

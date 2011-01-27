@@ -1,0 +1,907 @@
+#20100
+Legerikath pitmob1~
+Legerikath~
+A tall barbarian in animal skins snarls and attacks!
+~
+He is a large man, well-muscled and battle-ready.
+~
+540776 0 0 0 65536 71303168 0 0 0 E
+65 42 -40 1d1+0 6d6+43
+0 196628
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 15
+Int: 13
+Wis: 12
+Con: 7
+Cha: 8
+Luck: 6
+Class: 4
+Race: 7
+E
+#20101
+Ziekon pitmob2~
+Ziekon~
+An elven mage whirls and attacks!
+~
+Dressed in flowing robes of maroon, Ziekon is a renegade mage from the
+Tree City who has come to seek his fortune.    
+~
+526440 0 0 0 8716288 4194304 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+0 261280
+8 8 1
+BareHandAttack: 12
+Str: 22
+Dex: 19
+Int: 15
+Con: 12
+Cha: 20
+Luck: 23
+Class: 1
+Race: 15
+E
+#20102
+Ociralath pitmob3~
+Ociralath~
+A tall knight in black armor raises a massive sword and swings!
+~
+Nothing can be seen of this man (or beast!?  ) through his visored
+helm.  His body language does more than enough to convey his feelings
+about you, though.    
+~
+608360 0 0 0 65616 4194305 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 325701
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 22
+Int: 12
+Wis: 24
+Con: 23
+Cha: 13
+Luck: 13
+Class: 9
+Race: 19
+E
+#20103
+Lerav pitmob4~
+Lerav~
+A man in white robes nods to you in respect before attempting to kill you!
+~
+Lerav is a good man, but very poor.  He needs this money to support
+his family back in the village he is pastor of.    
+~
+542824 0 0 0 536936528 4194304 32768 0 0 E
+70 47 -40 1d1+0 6d6+46
+0 237528
+8 8 1
+BareHandAttack: 5
+Str: 24
+Dex: 12
+Int: 5
+Wis: 24
+Con: 24
+Cha: 8
+Luck: 20
+Class: 2
+Race: 7
+E
+#20104
+pitmob5~
+pitmob5~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 6
+Dex: 21
+Int: 23
+Wis: 10
+Con: 8
+Cha: 21
+Luck: 19
+E
+#20105
+pitmob6~
+pitmob6~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 25
+Dex: 18
+Int: 7
+Wis: 18
+Con: 20
+Cha: 25
+Luck: 18
+E
+#20106
+pitmob7~
+pitmob7~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 19
+Dex: 23
+Int: 8
+Wis: 10
+Con: 7
+Cha: 5
+Luck: 19
+E
+#20107
+pitmob8~
+pitmob8~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 18
+Int: 8
+Wis: 5
+Con: 8
+Cha: 15
+Luck: 5
+E
+#20108
+pitmob9~
+pitmob9~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 14
+Dex: 5
+Int: 8
+Wis: 18
+Con: 22
+Cha: 9
+Luck: 21
+E
+#20109
+pitmob10~
+pitmob10~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 13
+Dex: 9
+Int: 22
+Wis: 7
+Con: 23
+Cha: 21
+Luck: 10
+E
+#20110
+pitmob11~
+pitmob11~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Dex: 24
+Int: 5
+Wis: 23
+Con: 5
+Cha: 14
+Luck: 14
+E
+#20111
+pitmob12~
+pitmob12~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 9
+Dex: 8
+Int: 7
+Wis: 14
+Con: 12
+Cha: 15
+Luck: 9
+E
+#20112
+pitmob13~
+pitmob13~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 18
+Int: 6
+Wis: 24
+Con: 13
+Cha: 17
+Luck: 16
+E
+#20113
+pitmob14~
+pitmob14~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 6
+Dex: 25
+Int: 24
+Wis: 15
+Con: 25
+Cha: 5
+Luck: 17
+E
+#20114
+pitmob15~
+pitmob15~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 10
+Dex: 20
+Int: 17
+Wis: 7
+Con: 10
+Cha: 15
+Luck: 19
+E
+#20115
+pitmob16~
+pitmob16~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 19
+Dex: 6
+Int: 16
+Wis: 12
+Con: 17
+Cha: 13
+Luck: 25
+E
+#20116
+pitmob17~
+pitmob17~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 8
+Int: 6
+Wis: 18
+Con: 20
+Cha: 25
+Luck: 25
+E
+#20117
+pitmob18~
+pitmob18~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Dex: 9
+Int: 10
+Wis: 20
+Con: 25
+Cha: 24
+E
+#20118
+pitmob19~
+pitmob19~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 15
+Dex: 18
+Int: 25
+Wis: 23
+Con: 16
+Cha: 9
+Luck: 13
+E
+#20119
+pitmob20~
+pitmob20~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 16
+Dex: 21
+Int: 14
+Wis: 5
+Con: 21
+Cha: 5
+Luck: 14
+E
+#20120
+pitmob21~
+pitmob21~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 7
+Dex: 14
+Int: 21
+Wis: 21
+Con: 16
+Cha: 8
+Luck: 14
+E
+#20121
+pitmob22~
+pitmob22~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Dex: 9
+Int: 21
+Wis: 12
+Con: 20
+Cha: 25
+Luck: 24
+E
+#20122
+pitmob23~
+pitmob23~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 25
+Int: 12
+Wis: 5
+Con: 17
+Cha: 8
+Luck: 19
+E
+#20123
+pitmob24~
+pitmob24~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 22
+Dex: 9
+Int: 14
+Wis: 20
+Con: 16
+Cha: 16
+Luck: 15
+E
+#20124
+pitmob25~
+pitmob25~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 12
+Dex: 6
+Int: 20
+Wis: 25
+Con: 24
+Cha: 10
+Luck: 7
+E
+#20125
+pitmob26~
+pitmob26~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 21
+Dex: 12
+Int: 15
+Wis: 9
+Con: 18
+Cha: 22
+Luck: 23
+E
+#20126
+pitmob27~
+pitmob27~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 10
+Dex: 7
+Int: 25
+Wis: 7
+Con: 6
+Cha: 17
+Luck: 9
+E
+#20127
+pitmob28~
+pitmob28~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 14
+Dex: 16
+Int: 7
+Wis: 8
+Con: 16
+Cha: 18
+E
+#20128
+pitmob29~
+pitmob29~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 12
+Dex: 16
+Int: 7
+Wis: 22
+Con: 22
+Cha: 25
+E
+#20129
+pitmob30~
+pitmob30~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 7
+Dex: 23
+Int: 23
+Wis: 9
+Con: 14
+E
+#20130
+pitmob31~
+pitmob31~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 21
+Dex: 6
+Int: 20
+Wis: 6
+Con: 16
+Cha: 23
+Luck: 6
+E
+#20131
+pitmob32~
+pitmob32~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 15
+Dex: 15
+Int: 7
+Wis: 17
+Con: 25
+Cha: 12
+Luck: 16
+E
+#20132
+pitmob33~
+pitmob33~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 5
+Dex: 16
+Int: 19
+Wis: 12
+Con: 9
+Cha: 25
+Luck: 22
+E
+#20133
+pitmob34~
+pitmob34~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Dex: 15
+Int: 14
+Wis: 8
+Con: 7
+Cha: 21
+Luck: 12
+E
+#20134
+pitmob35~
+pitmob35~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 19
+Dex: 12
+Int: 5
+Wis: 15
+Con: 21
+Cha: 13
+Luck: 10
+E
+#20135
+pitmob36~
+pitmob36~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 21
+Dex: 6
+Int: 12
+Wis: 19
+Con: 21
+Cha: 23
+Luck: 15
+E
+#20136
+pitmob37~
+pitmob37~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 14
+Dex: 15
+Int: 10
+Wis: 18
+Con: 15
+Cha: 15
+Luck: 19
+E
+#20137
+pitmob38~
+pitmob38~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 20
+Dex: 6
+Int: 19
+Wis: 5
+Con: 14
+Cha: 13
+Luck: 15
+E
+#20138
+pitmob39~
+pitmob39~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 7
+Dex: 17
+Int: 19
+Con: 19
+Luck: 13
+E
+#20139
+pitmob40~
+pitmob40~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 10
+Dex: 5
+Int: 19
+Wis: 24
+Con: 25
+Cha: 21
+Luck: 14
+E
+#20140
+pitmob41~
+pitmob41~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 18
+Dex: 17
+Wis: 6
+Con: 22
+Cha: 17
+Luck: 8
+E
+#20141
+pitmob42~
+pitmob42~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 20
+Dex: 15
+Int: 16
+Con: 10
+Cha: 19
+Luck: 22
+E
+#20142
+pitmob43~
+pitmob43~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 17
+Dex: 6
+Int: 24
+Wis: 23
+Con: 21
+Cha: 19
+Luck: 10
+E
+#20143
+pitmob44~
+pitmob44~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 7
+Dex: 17
+Wis: 24
+Con: 25
+Cha: 25
+Luck: 16
+E
+#20144
+pitmob45~
+pitmob45~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Dex: 20
+Int: 12
+Wis: 8
+Con: 15
+Cha: 19
+Luck: 24
+E
+#20145
+pitmob46~
+pitmob46~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 24
+Dex: 8
+Wis: 25
+Con: 5
+Cha: 20
+Luck: 5
+E
+#20146
+pitmob47~
+pitmob47~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 21
+Dex: 5
+Int: 8
+Wis: 9
+Cha: 8
+Luck: 19
+E
+#20147
+pitmob48~
+pitmob48~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+Str: 25
+Dex: 23
+Int: 12
+Wis: 15
+Con: 5
+Cha: 16
+Luck: 25
+E
+$

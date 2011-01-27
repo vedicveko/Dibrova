@@ -1,0 +1,73 @@
+#11000
+archway stone~
+/cwa stone archway/c0~
+/cwBefore you stands an archway made of large carved stones./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 91 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+archway~
+The air in the arch itself seems to be alive!
+~
+E
+stone~
+The stone seems smooth and warm to the touch.
+~
+#11001
+archway steel~
+/cwa /ccsteel /cwarchway/c0~
+/cwA huge /ccsteel /cwarchway has been built here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+archway~
+The archway appears to you almost as a mirage...perhaps it is truly there,
+perhaps not.
+~
+E
+steel~
+The steel is warm to the touch.
+~
+#11002
+archway~
+an Archway~
+/cwThe outline of a mysterious archway seems to beckon you./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+outline~
+The form of the archway seems to hover as if it were alive!
+~
+E
+archway~
+The shape seems to be all knowing and omnipotent. As you examine it further
+you realize that it is formless. You can reach into it. What secrets does
+it contain?
+~
+#11003
+document~
+a document~
+A worn and tattered document was dropped here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#11004
+scroll~
+a scroll~
+A beautiful white scroll was most certainly misplaced here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

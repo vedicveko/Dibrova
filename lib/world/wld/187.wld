@@ -1,0 +1,1391 @@
+#18700
+Thewster's Main Square~
+The Square strikes you as wide open and airy, not surprising
+considering it is perched high above the ground in one of the great
+Nirin trees in Thewster Forest.  All around you the town is alive with
+the populous going about their lives.  Up, the road leads off to
+Thewster's many shops, south is the Bay Leaf Inn.  To the east lies
+the way back down to the forest.    
+~
+187 0 0 0 0 1
+D1
+The Stairs
+~
+~
+0 -1 18702 0
+D2
+Bay Leaf Inn
+~
+~
+0 -1 18703 0
+D3
+west
+~
+~
+0 -1 18704 0
+D4
+A Road
+~
+~
+0 -1 18701 0
+S
+#18701
+Branch Street~
+The road is carved out of a large branch, shared between two trees.  
+Oil lamps hung from smaller branches serve as street lights.  South
+lies Thewster's main square and north the road forms the market
+square.    
+~
+187 0 0 0 0 10
+D0
+~
+~
+0 -1 18706 0
+D4
+~
+~
+0 -1 18705 0
+D5
+~
+~
+0 -1 18700 0
+S
+#18702
+The Stairs~
+You stand on a large branch over looking the forest floor.  Looking up
+and down you notice that the branches come together to form stairs
+leading to the surface and to the top of the stairs.    
+~
+187 0 0 0 0 1
+D3
+west
+~
+~
+0 -1 18700 0
+D4
+~
+~
+0 -1 18729 0
+D5
+The Forest
+~
+~
+0 -1 18871 0
+S
+#18703
+The Bay Leaf Inn~
+Large potted plants and trees line the oak paneled walls.  In the
+middle of the room there is a large desk with a brass plaque standing
+on it.  East you see the reception, west you see the Bay Leaf
+Resturant and north is the square.    
+~
+187 8 0 0 0 1
+D0
+north
+~
+~
+0 -1 18700 0
+D1
+~
+~
+0 -1 18722 0
+D3
+~
+~
+0 -1 18723 0
+S
+#18704
+Bay Leaf Avenue~
+This street is carved out of a large bay tree, maybe that is how it
+got its name?  East is Thewster's main square while up, the road comes
+to an intersection
+~
+187 0 0 0 0 10
+D1
+east
+~
+~
+0 -1 18700 0
+D4
+~
+~
+0 -1 18710 0
+S
+#18705
+Thewster Savings and Loan~
+This room is carved out of a knot just above the road.  The walls are
+lined with little fig trees and to your east you notice the enterence
+to the safe.    
+~
+187 12 0 0 0 1
+D5
+~
+~
+0 -1 18701 0
+E
+safe enterance~
+The safe has a heavy steel door with a really big lock on it. If only you could
+find a way in.......
+~
+S
+#18706
+Branch and Market Street Intersection~
+The branch starts to grow into another branch here forming an
+intersection.  Trees with lanterns attached to their tops serve as
+street lights.  To the north you see the enterence to the armory, east
+lies the entrance to Dios' Weapon Shop.  West Market Street continues.
+To the south Branch Street leads off to the main square.    
+~
+187 0 0 0 0 1
+D0
+~
+~
+0 -1 18711 0
+D1
+~
+~
+0 -1 18712 0
+D2
+~
+~
+0 -1 18701 0
+D3
+~
+~
+0 -1 18707 0
+S
+#18707
+Market Square~
+Street vendors stand around try to sell their wares.  The citizens of
+Thewster go about doing their errands.  Both east and west Market
+street intersects with other roads.    
+~
+187 0 0 0 0 1
+D1
+~
+~
+0 -1 18706 0
+D3
+~
+~
+0 0 18708 0
+D4
+~
+~
+0 -1 18708 0
+S
+#18708
+Lemba and Market St. Intersection~
+The rope and wood walkway that is Lemba Street meets with the gigantic
+branch of, you guessed it, Branch Street here.  A small ladder on the
+side of the road leads up to, from the sound of it, a bar.  To the
+east Market street leads to market square.  West you see the enterence
+to the House of Guilds, which is currently closed while being sprayed
+for roaches.    
+~
+187 0 0 0 0 1
+D1
+~
+~
+0 0 18707 0
+D2
+~
+~
+0 -1 18709 0
+D4
+~
+~
+0 -1 18715 0
+D5
+~
+~
+0 -1 18707 0
+S
+#18709
+Lemba Street~
+The rope and wood "road" sways slightly in the wind and makes you feel
+a little queasy.  You look down fearing you might see a few Elves
+splattered on the forest floor but, luckily you do not see any.    
+~
+187 0 0 0 0 10
+D0
+~
+~
+0 -1 18708 0
+D2
+~
+~
+0 -1 18710 0
+E
+forest floor down~
+Nope, nothing splattered around here.
+~
+S
+#18710
+Bay Leaf and Lemba Intersection~
+The branches meet to form an intersection here.  To the north a small
+wood sign hangs over a rope and wood walkway, down is Bay Leaf Ave.  
+You see Balston's Magic Shop in the south and a small ladder leading
+down is the front door of the equipment store.    
+~
+187 0 0 0 0 1
+D0
+~
+~
+0 -1 18709 0
+D1
+~
+~
+0 -1 18734 0
+D2
+~
+~
+0 -1 18713 0
+D4
+~
+~
+0 -1 18714 0
+D5
+~
+~
+0 -1 18704 0
+E
+sign~
+The sign reads:
+        Lemba Street
+~
+S
+#18711
+Thewster Armory~
+The armory has all kinds of armors on the walls and in the window.  
+You see helmets, shields and chain mails.  To the south is Market
+street.    
+~
+187 8 0 0 0 1
+D2
+~
+~
+0 -1 18706 0
+S
+#18712
+Dios' Weapon Depot~
+The finest in Elven weapons hang from the walls.  The blades gleam of
+the finest tempered steel.  West through the door you see the
+intersection.    
+~
+187 8 0 0 0 1
+D3
+~
+~
+0 -1 18706 0
+S
+#18713
+Balston's Magic Shop~
+Dark smoke-stained stones arch over numerous huge oaken tables, most
+of these cluttered with strange-looking pipes and flasks.  The floor
+is covered with half-erased pentagrams and even weirder symbols, and a
+blackboard in a dark corner has only been partially cleaned, some
+painful-looking letters faintly visible.    
+~
+187 67108888 0 0 0 1
+D0
+~
+~
+0 -1 18710 0
+S
+#18714
+Equipment House~
+You are inside of the Equipment House, all kinds of neato things line
+the shelves.  Down is the intersection.    
+~
+187 8 0 0 0 1
+D5
+~
+~
+0 -1 18710 0
+S
+#18715
+Leeve's Pub~
+The bar is one of the weirdest in the land.  Mystical images float
+around the air.  Illusions of fine furniture appear all around the
+room, maybe it's just the booze.    
+~
+187 67108888 0 0 0 1
+D5
+~
+~
+0 -1 18708 0
+S
+#18716
+The House of Guilds~
+The entrance hall is a small modest room, reflecting the true nature
+of all guilds.  The main room continues to the west while the guild
+halls are to the north and south.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18718 0
+D1
+~
+~
+0 -1 18708 0
+D2
+~
+~
+0 -1 18719 0
+D3
+~
+~
+0 -1 18717 0
+S
+#18717
+House of Guilds~
+The entrance hall is a small modest room, reflecting the true nature
+of all guilds.  The main room continues to the east while the guild
+halls are to the north and south.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18721 0
+D1
+~
+~
+0 -1 18716 0
+D2
+~
+~
+0 -1 18720 0
+D3
+~
+~
+0 -1 18726 0
+S
+#18718
+Thieve's Guild~
+The shadows in this room appear to be moving, maybe their your fellow
+students?  The ceiling is quite some distance above you but, you can
+still make out objects hanging from it.  The only exit is south.    
+~
+187 12 0 0 0 1
+D2
+~
+~
+0 -1 18716 0
+S
+#18719
+Mage's Guild~
+You stand in a room of small size.  Shadows cover the walls.  The
+floors are made of dark heavy stones.  The only exit is north.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18716 0
+S
+#18720
+Cleric's Guild~
+This room gives you an overwelming feeling of goodness, it looks like
+a miniture church.  The only exit is north.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18717 0
+S
+#18721
+Warrior's Guild~
+The entrance hall to the Guild of Swordsmen.  A place where one has to
+be careful not to say something wrong (or right).  The only exit is to
+the south.    
+~
+187 12 0 0 0 1
+D2
+~
+~
+0 -1 18717 0
+S
+#18722
+The Reception~
+The reception is just a small room east of the inn's lobby.  Behind a
+large desk in the center of the room you see a long hall with many
+doors lining it.  The door leads west to the inn's enterence.    
+~
+187 8 0 0 0 1
+D3
+~
+~
+0 -1 18703 0
+S
+#18723
+Bay Leaf Resturant~
+The resturant is a cozy tavern.  The smells of rich food and the
+sounds of merry music overflow your senses.  A huge fireplace
+dominates one wall and a warm glow emanates from its flames.  Small
+tables fill the room.  The door leads east to the inn.    
+~
+187 8 0 0 0 1
+D1
+~
+~
+0 -1 18703 0
+D3
+~
+~
+0 -1 18728 0
+S
+#18724
+Knight's Guild~
+You stand in a brightly lit room with a marble floor.  Weapons of war
+hang from the walls waiting for a student train with them.    
+~
+187 12 0 0 0 1
+D2
+~
+~
+0 -1 18726 0
+S
+#18725
+Monk's Guild~
+This room is like a mini forest, with the trees spaced so they make a
+clearing at the center where your fellow students practice their
+skills.    
+~
+187 12 0 0 0 1
+D1
+~
+~
+0 -1 18726 0
+S
+#18726
+House of Guilds~
+The entrance hall is a small modest room, reflecting the true nature
+of all guilds.  The main room is to the east while the guild halls are
+to the north, south and west.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18724 0
+D1
+~
+~
+0 -1 18717 0
+D2
+~
+~
+0 -1 18727 0
+D3
+~
+~
+0 -1 18725 0
+S
+#18727
+Ranger's Guild~
+This room looks like a long trail through the forest, but is just a
+well done illusion made by strategicaly planted trees.  Your fellow
+students practice foraging for food and tracking each other.  The only
+exit is north.    
+~
+187 12 0 0 0 1
+D0
+~
+~
+0 -1 18726 0
+S
+#18728
+The Kitchen of the Bay Leaf Resturant.~
+Pots and pans hang from the walls.  The kitchen is noisy and hot.  
+Waiters hurry about carring food out the door to the resturant.    
+~
+187 8 0 0 0 1
+D1
+~
+~
+0 -1 18723 0
+S
+#18729
+The top of the Stairs~
+You stand high above the forest floor at the top of the stairs.  West
+you see a road lined with shops.  Looking down you notice the branches
+come together to form stairs.    
+~
+187 0 0 0 0 1
+D3
+~
+~
+0 -1 18730 0
+D5
+~
+~
+0 -1 18702 0
+S
+#18730
+Tree Top Road~
+You walk along the road high above the forest floor.  The street is
+lined with modest houses and to the north you see the enterence to
+Thewster Guard Station.  The road runs both east and west.    
+~
+187 0 0 0 0 10
+D0
+~
+~
+0 -1 18731 0
+D1
+~
+~
+0 -1 18729 0
+D2
+~
+~
+0 -1 18736 0
+D3
+~
+~
+0 -1 18734 0
+S
+#18731
+Thewster Guard Station~
+You are in a small room carved from the trunk of a tree, there are no
+windows at all.  The only light source is a small lantern hanging from
+the wall.  The door is to the south and some stairs lead up.    
+~
+187 8 0 0 0 1
+D2
+~
+~
+0 -1 18730 0
+D4
+~
+~
+0 -1 18733 0
+S
+#18732
+The Junk Store~
+Old dusty tables line the walls and are stacked full of various items
+and weapons.  Taking a closer look at the items shows that they are in
+alot better shape then you would think, but you should still make sure
+you don't get ripped off.  The door is to your south.    
+~
+187 67108888 0 0 0 1
+D2
+~
+~
+0 -1 18734 0
+S
+#18733
+The Captain's Office~
+This is another small room, although this one has a little window
+looking down into Thewster proper.  There is a large desk in the
+middle of the room with papers strewn about.  There are some stairs
+leading down.    
+~
+187 8 0 0 0 1
+D5
+~
+~
+0 -1 18731 0
+S
+#18734
+Tree Top Road~
+This road travels high above the forest floor and is quite fine for
+the Elves as they are right at home in the forest, be it on the ground
+or in the highest tree.  The branches that make up the road begin to
+come together here forming an intersection to the west.  The road
+leads back east and to the north you can see what looks like a small
+store.  There is an old house to the south.    
+~
+187 4 0 0 0 10
+D0
+~
+~
+0 -1 18732 0
+D1
+~
+~
+0 -1 18730 0
+D2
+~
+~
+0 -1 18735 0
+D3
+~
+~
+0 -1 18710 0
+S
+#18735
+An Old House~
+You are in an rickity old house perched over Thewster proper.  There
+are holes in the walls and the floors and it doesn't keep out the
+elements very well.  This house gives you the odd feeling it may fall
+at any moment.    
+~
+187 8 0 0 0 1
+D0
+~
+~
+0 -1 18734 0
+S
+#18736
+Sion's Resturant~
+This is a small quaint resturant nestled in between two branches.  
+The whole south side of the building is a large window that allows the
+patrons to look out upon the forest as they eat.  The door is to the
+north.    
+~
+187 67108888 0 0 0 1
+D0
+~
+~
+0 -1 18730 0
+S
+#18737
+A Blank Room~
+dfgdfgd
+~
+187 4 0 0 0 1
+S
+#18738
+A Blank Room~
+dfgdfgd
+~
+187 4 0 0 0 1
+S
+#18739
+A Blank Room~
+dfgdfgd
+~
+187 4 0 0 0 1
+S
+#18740
+An Underground Intersection~
+The tunnel does not continue for long.  It now travels east and south.
+~
+187 265 0 0 0 4
+D1
+~
+~
+0 -1 18741 0
+D2
+~
+~
+0 -1 18744 0
+S
+#18741
+A Dark Cave~
+You can hear water dripping off of the rocks as you make your way
+through the dark cave.  There is a small cave-in to the east, it looks
+like a tight fit.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18742 0
+D3
+~
+~
+0 -1 18740 0
+S
+#18742
+A Tight Fit~
+You have to get down on your knees to make it through the cave.  You
+can barely squeeze between the rocks.    
+~
+187 265 0 0 0 4
+D1
+~
+~
+0 -1 18743 0
+D3
+~
+~
+0 -1 18741 0
+S
+#18743
+The Cave Enterance~
+Even with your light you can barely see beyond the murky black morass
+of darkness within this cave.    
+~
+187 9 0 0 0 4
+D3
+~
+~
+0 -1 18742 0
+D4
+~
+~
+0 -1 18852 0
+S
+#18744
+A Dark Cave~
+The cave widens out and makes traveling easier, though it is still
+claustrophobic.  You can smell something odd coming from the south.  
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18740 0
+D2
+~
+~
+0 -1 18745 0
+S
+#18745
+An Intersection~
+The cave forms a small intersection here, exits are to the north,
+south and east.  The wierd smell is still to the south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18744 0
+D1
+~
+~
+0 -1 18746 0
+D2
+~
+~
+0 -1 18749 0
+S
+#18746
+A Dark Cave~
+The cave continues east and west.  There is moss growing on the wall
+here.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18747 0
+D3
+~
+~
+0 -1 18745 0
+E
+moss wall~
+The moss grows in big fuzzy clumps and has a reddish tint at the tips.
+~
+S
+#18747
+A Dark Cave~
+The cave continues east and west.  There is moss growing on the wall
+here.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18748 0
+D3
+~
+~
+0 -1 18746 0
+S
+#18748
+A Dark Cave~
+The cave makes a turn here, it now runs south and west.  You can smell
+something odd far away south.    
+~
+187 9 0 0 0 4
+D2
+~
+~
+0 -1 18750 0
+D3
+~
+~
+0 -1 18747 0
+S
+#18749
+A Dark Cave~
+The water dripping from the walls, is starting to form small puddles.
+You can hear other feet splashing in puddles....  The smell is getting
+worse.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18745 0
+D2
+~
+~
+0 -1 18752 0
+S
+#18750
+A Dark Cave~
+The cave continues north and south.  That odd smell is still coming
+from the south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18748 0
+D2
+~
+~
+0 -1 18753 0
+S
+#18751
+A Hole In the Wall~
+The small stream makes a curve to the south.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18752 0
+D2
+~
+~
+0 -1 18754 0
+D4
+~
+~
+0 -1 -1 0
+S
+#18752
+A Dark Cave~
+The cave comes to an abrubt halt here.  The puddles have formed a
+small under ground stream which passes through a small hole in the
+wall leading west.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18749 0
+D3
+~
+~
+0 -1 18751 0
+S
+#18753
+A Dark Cave~
+The cave continues north and south.  That odd smell is still coming
+from the south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18750 0
+D2
+~
+~
+0 -1 18757 0
+S
+#18754
+A Dark Cave~
+The trail north comes to an abrubt halt, the only thing left of it is
+a small stream coming out of a hole in the cave wall.  You can hear a
+hissing noise to the east, the odd smell is still coming from the
+south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18751 0
+D1
+~
+~
+0 -1 18755 0
+D2
+~
+~
+0 -1 18758 0
+S
+#18755
+The Snake's Den~
+The cave forms a small cramped room.  Animal corpses and bones litter
+the floor and make sickning squishing and crunching noises as you
+step.  The only way out is to the west.    
+~
+187 9 0 0 0 4
+D3
+~
+~
+0 -1 18754 0
+S
+#18756
+A Dark Cave~
+The cave makes a turn here, it now runs south and east.  You can smell
+something odd far away south.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18757 0
+D2
+~
+~
+0 -1 18761 0
+S
+#18757
+A Dark Cave~
+The cave makes a turn here, it now runs north and west.  You can smell
+something odd far away south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18753 0
+D3
+~
+~
+0 -1 18756 0
+S
+#18758
+A Dark Cave~
+The tunnels form an intersection of sorts here.  To your south the
+tunnel has been partially filled in with stones as some sort of make
+shift barrier, but it looks like you can still squeeze through.  The
+smell is still coming from the south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18754 0
+D1
+~
+~
+0 -1 18759 0
+D2
+~
+~
+0 -1 18763 0
+D4
+~
+~
+0 0 18917 0
+S
+#18759
+A Dark Cave~
+The cave continues east and west.  There is moss growing on the wall
+here.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18760 0
+D3
+~
+~
+0 -1 18758 0
+S
+#18760
+A Dark Cave~
+The cave continues east and west.  There is moss growing on the wall
+here.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18761 0
+D3
+~
+~
+0 -1 18759 0
+S
+#18761
+A Dark Cave~
+The cave makes a turn here, it now runs north and west.  You can smell
+something odd far away south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18756 0
+D3
+~
+~
+0 -1 18760 0
+S
+#18762
+Mob Chute~
+nobody should ever see this.............
+~
+187 4 0 0 0 1
+D0
+~
+~
+0 -1 18758 0
+D1
+~
+~
+0 -1 18745 0
+D2
+~
+~
+0 -1 18761 0
+D3
+~
+~
+0 -1 18751 0
+D4
+~
+~
+0 -1 18742 0
+D5
+~
+~
+0 -1 18748 0
+S
+#18763
+A Dark Cave~
+There are some odd scratch marks all over the walls of the tunnels
+here.  The only way out is north or deeper into the tunnels.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18748 0
+D5
+~
+~
+0 -1 18764 0
+S
+#18764
+Deep in a Cave~
+The air begins to smell old and musky on top of the already horrible
+smell coming from the south.  The only exit is north and south.    
+~
+187 9 0 0 0 4
+D2
+~
+~
+0 -1 18765 0
+D4
+~
+~
+0 -1 18763 0
+S
+#18765
+Deep in a Cave~
+The cave makes a turn here.  It now travels north and west.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18764 0
+D1
+~
+~
+0 -1 18766 0
+S
+#18766
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east, west, and south.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18767 0
+D2
+~
+~
+0 -1 18769 0
+D3
+~
+~
+0 -1 18765 0
+S
+#18767
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east and west.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18768 0
+D3
+~
+~
+0 -1 18766 0
+S
+#18768
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are west and south.    
+~
+187 9 0 0 0 4
+D2
+~
+~
+0 -1 18771 0
+D3
+~
+~
+0 -1 18767 0
+S
+#18769
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east, north, and south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18766 0
+D1
+~
+~
+0 -1 18770 0
+D2
+~
+~
+0 -1 18772 0
+S
+#18770
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east and west.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18771 0
+D3
+~
+~
+0 -1 18769 0
+S
+#18771
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are west, north, and south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18768 0
+D2
+~
+~
+0 -1 18774 0
+D3
+~
+~
+0 -1 18770 0
+S
+#18772
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east, north, and south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18769 0
+D1
+~
+~
+0 -1 18773 0
+D2
+~
+~
+0 -1 18775 0
+S
+#18773
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head.  The stalagmites
+here, form an almost perfect semi-circle with a small passage leading
+down in the middle.    
+~
+187 9 0 0 0 4
+D3
+~
+~
+0 -1 18772 0
+D5
+~
+~
+0 -1 18778 0
+S
+#18774
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are north and south.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18771 0
+D2
+~
+~
+0 -1 18777 0
+S
+#18775
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are north and east.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18772 0
+D1
+~
+~
+0 -1 18776 0
+S
+#18776
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are east and west.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18777 0
+D3
+~
+~
+0 -1 18775 0
+S
+#18777
+Deep in a Cave~
+The cave widens out and forms a room thats stretches as far your eyes
+can see.  Thousands apon thousands of stalagmites and stalactites
+stretch to meet each other high above your head, they also form an
+impassible barrier.  The only exits are west and north.    
+~
+187 9 0 0 0 4
+D0
+~
+~
+0 -1 18774 0
+D3
+~
+~
+0 -1 18776 0
+S
+#18778
+Deep in a Cave~
+The smell here is almost unbreathable due to the horrid smell that
+seems to be all around you.  The cave floor is well worn from foot
+traffic and leads east.    
+~
+187 9 0 0 0 4
+D1
+~
+~
+0 -1 18779 0
+D4
+~
+~
+0 -1 18773 0
+S
+#18779
+Deep in a Cave~
+The stalagmites form a small room with exits leading east and south.
+The exit south it blocked by a door, which seems to be the source of
+the horrid stench.    
+~
+187 13 0 0 0 1
+D1
+~
+~
+0 -1 18780 0
+D2
+~
+south door~
+1 18737 18781 7
+D3
+~
+~
+0 -1 18778 0
+S
+#18780
+Deep in a Cave~
+This room is just a hole in the wall of stalagmites.  Water drips off
+of every surface and it's a bit chilly.    
+~
+187 9 0 0 0 4
+D3
+~
+~
+0 -1 18779 0
+S
+#18781
+Deep in a Cave~
+You stand in what looks like a throne room.  In the center there is a
+large rock and hung from the walls are animal skins of different
+types.  The "carpet" is made up of decaying corpses and is probally
+the source of the smell.  The only way out is north.    
+~
+187 9 0 0 0 4
+D0
+~
+door south~
+1 18737 18779 7
+E
+skins animal walls~
+The skins have a strange tooth and eye symbol scratched on them.
+~
+E
+carpet corpses decaying~
+Deer, rabbits, birds, Elves. You name it, it's here.
+~
+S
+#18782
+Blow Me~
+You are in an unfinished room.
+~
+187 4 0 0 0 1
+S
+$~

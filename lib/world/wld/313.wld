@@ -1,0 +1,1287 @@
+#31300
+Vernige Ferry Station~
+Upon entering this brick building, the first thing you notice is the
+large set of windows set in the south wall.  Through them you can see
+the vastness of Lagoon and several cogs and galleys on their way to
+some far off port of call.  Throughout the building you can hear
+excited conversations about strange places like McGintey Cove and
+Jareth.  Better have your ferry ticket ready.  The ferry masters guild
+doesn't take kindly to stowaways.    
+~
+313 8 0 0 0 0
+D0
+~
+~
+0 0 31309 0
+D1
+~
+~
+0 0 -1 0
+S
+#31301
+A Gravel Road~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31308 0
+D3
+~
+~
+0 0 31315 0
+S
+#31302
+A Gravel Road~
+You walk upon a gravel road through rocky mountainous terrain.  To the
+west you can see the Gladeshire river and brick building full of
+people coming and going.  South of you lies more road, but farther
+south you can spy another brick building full of eager people.    
+~
+313 0 0 0 0 10
+D0
+~
+~
+0 0 31306 0
+D2
+~
+~
+0 0 31303 0
+D3
+~
+~
+0 0 31309 0
+S
+#31303
+A Gravel Road~
+You walk upon a gravel road through rocky mountainous terrain.  North
+of you lies more road and to the south you can see a brick building
+brimming full of people.    
+~
+313 0 0 0 0 10
+D0
+~
+~
+0 0 31302 0
+D2
+~
+~
+0 0 31304 0
+S
+#31304
+Wyndham Ferry Station~
+You stand within a large brick building.  A counter stands against the
+north wall and from it a ferry guildsman sells tickets for the Lagoon
+ferry.  South of you a door leads out onto the dock.    
+~
+313 8 0 0 0 0
+D0
+~
+~
+0 0 31303 0
+D2
+~
+~
+0 0 31305 0
+S
+#31305
+Wyndham Ferry Station~
+The dock is made from a strange greenish brown wood.  Large planks of
+the wood have been lashed onto wooden poles set into the bottom of
+Lagoon.  Small crabs scurry about the planks looking for a meal.    
+~
+313 8 0 0 0 0
+D0
+~
+~
+0 0 31304 0
+S
+#31306
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D0
+~
+~
+0 0 31307 0
+D2
+~
+~
+0 0 31302 0
+S
+#31307
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D0
+~
+~
+0 0 31308 0
+D2
+~
+~
+0 0 31306 0
+S
+#31308
+An Intersection~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+A small sign is here.    
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31310 0
+D2
+~
+~
+0 0 31307 0
+D3
+~
+~
+0 0 31301 0
+E
+sign small~
+The sign reads:
+
+Wyndham - East
+The Forever Plain - West
+Alliance Ferries - South
+~
+S
+#31309
+A Gravel Road~
+The road you are walking upon makes a turn south at the shores of the
+Gladeshire river.  While the side of the river you are on is a rocky
+mountainous terrain the opposite shore is a vast plain that stretches
+as far as the eye can see.  The river itself is rather wide and is
+used as the primary waterway for travel to Diaspol Bay and the Yllthad
+Sea.  South of you lies a brick building that serves as the
+Dagmire/Dibrova ferry station.    
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31302 0
+D2
+~
+~
+0 0 31300 0
+S
+#31310
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31311 0
+D3
+~
+~
+0 0 31308 0
+S
+#31311
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31312 0
+D3
+~
+~
+0 0 31310 0
+S
+#31312
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+Just north of the road lies an Alliance Guard post.    
+~
+313 0 0 0 0 10
+D0
+~
+~
+0 0 31317 0
+D1
+~
+~
+0 0 31313 0
+D3
+~
+~
+0 0 31311 0
+S
+#31313
+The Road to Wyndham~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31314 0
+D3
+~
+~
+0 0 31312 0
+S
+#31314
+Before the Gates of Wyndham~
+You stand before a set of large iron gates.  They are most certainly a
+hold over from the Encar War.  As you peer through the gates you can
+see a small town made up of stone buildings.    
+~
+313 4 0 0 0 10
+D1
+~
+gates~
+1 0 31318 3
+D3
+~
+~
+0 0 31313 0
+S
+#31315
+A Gravel Road~
+The gravel road makes an interesting crunching noise with every step
+you and your fellow travelers take.  Far off to the east you can see a
+large mountain range, with some of the larger mountains being
+snow-capped.  West of you, you can hear the sound of running water.  
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31301 0
+D3
+~
+~
+0 0 31316 0
+S
+#31316
+A Bridge over Gladeshire River~
+This bridge is completely made from brick and is raised very high over
+the river.  The center of the bridge is raised even higher to allow
+the masts of sea going vessels to slip by on their way into or out of
+Lagoon.  West of you, the Forever Plain beckons.    
+~
+313 0 0 0 0 10
+D1
+~
+~
+0 0 31315 0
+S
+#31317
+An Alliance Guard Post~
+You stand within a small limestone building.  Alliance guards of lower
+ranking mill about just waiting for something interesting to happen.
+Ever since the war ended these guys have got nothing to do.    
+~
+313 8 0 0 0 0
+D2
+~
+~
+0 0 31312 0
+S
+#31318
+Before the Gates of Wyndham~
+You stand before a set of large iron gates.  Which are most certainly
+a hold over from the Encar War.  As you peer through the gates you can
+see a wide river and a plain that seems to stretch on forever in the
+distance.    
+~
+313 0 0 0 0 1
+D1
+~
+~
+0 0 31319 0
+D3
+~
+gates~
+1 0 31314 3
+S
+#31319
+Wyndham~
+The roads of this town are all made up of red brick and are all laid
+out in an straight east to west, north to south fashion.  All of the
+buildings are made up of the local limestone and are white in color
+with an oaken wood trim.  To the north or you an oaken wood door
+stands wide open, inviting you in.  The road continues east and the
+gates of Wyndham are west.    
+~
+313 0 0 0 0 1
+D0
+~
+~
+0 0 31330 0
+D1
+~
+~
+0 0 31320 0
+D3
+~
+~
+0 0 31318 0
+S
+#31320
+Wyndham Square~
+The red brick roads of Wyndham all come together here forming the city
+square.  All of the buildings are made from the local limestone and
+are white in color.  Roads lead off into all of the cardinal
+directions.    
+~
+313 0 0 0 0 1
+D0
+~
+~
+0 0 31322 0
+D1
+~
+~
+0 0 31321 0
+D2
+~
+~
+0 0 31323 0
+D3
+~
+~
+0 0 31319 0
+S
+#31321
+Wyndham~
+The roads of this town are all made up of red brick and are all laid
+out in an straight east to west, north to south fashion.  All of the
+buildings are made up of the local limestone and are white in color
+with an oaken wood trim.  A large oaken wood door stands wide open to
+the south, inviting you in.    
+~
+313 0 0 0 0 1
+D1
+~
+~
+0 0 31324 0
+D2
+~
+~
+0 0 31332 0
+D3
+~
+~
+0 0 31320 0
+S
+#31322
+Wyndham~
+The red brick road of Wyndham comes to dead here at the city wall.  
+East of you an oaken door stands wide open, inviting you in.    
+~
+313 0 0 0 0 1
+D1
+~
+~
+0 0 31331 0
+D2
+~
+~
+0 0 31320 0
+S
+#31323
+Wyndham~
+The red brick road of Wyndham comes to a deadend here at the city
+wall.  West of here, a large oaken door bars any travel westward.  
+The road leads back north.    
+~
+313 0 0 0 0 1
+D0
+~
+~
+0 0 31320 0
+S
+#31324
+Before the Gates of Wyndham~
+You stand before a set of large iron gates.  They are most certainly a
+hold over from the Encar War.  As you peer through the gates you can
+see a large mountain range beckoning you to explore it.    
+~
+313 0 0 0 0 1
+D1
+~
+gates~
+1 0 31325 3
+D3
+~
+~
+0 0 31321 0
+S
+#31325
+Before the Gates of Wyndham~
+You stand before a set of large iron gates.  They are most certainly a
+hold over from the Encar War.  As you peer through the gates you can
+see a small town made up of stone buildings.    
+~
+313 4 0 0 0 1
+D1
+~
+~
+0 0 31326 0
+D3
+~
+gates~
+1 0 31324 3
+S
+#31326
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 0 31327 0
+D3
+~
+~
+0 0 31325 0
+S
+#31327
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 0 30100 0
+D1
+~
+~
+0 0 31328 0
+D2
+~
+~
+0 0 31326 0
+S
+#31328
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D2
+~
+~
+0 0 31329 0
+D3
+~
+~
+0 0 31327 0
+S
+#31329
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 0 31328 0
+D1
+~
+~
+0 0 31337 0
+S
+#31330
+A Gnome Shop~
+Strange Gnomish inventions rest on wooden tables through out the room.
+The functions of the inventions are completely lost on you and you
+doubt the Gnome shopkeep will be much help in explaining them to you.
+~
+313 8 0 0 0 0
+D2
+~
+~
+0 0 31319 0
+S
+#31331
+A Gnome Inn~
+You stand within a small cozy inn.  A large fireplace beckons you to
+go sit down in front of it and thick rugs cover the floors to keep the
+cold out.    
+~
+313 8 0 0 0 0
+D3
+~
+~
+0 0 31322 0
+S
+#31332
+Roog's Bar~
+Wyndham's one and only Dwarf, Roog owns this bar.  Roog is very well
+known for his limestone ale, said to be the best in all of the land.
+A large oak door leads back north to the street.    
+~
+313 65544 0 0 0 0
+D0
+~
+~
+0 0 31321 0
+S
+#31333
+A Gnome House~
+It is plainly furnished and not much can be seen here.
+~
+313 8 0 0 0 0
+S
+#31334
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D5
+~
+~
+0 -1 31343 0
+S
+#31335
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D4
+~
+~
+0 -1 31336 0
+D5
+~
+~
+0 -1 31349 0
+S
+#31336
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D5
+~
+~
+0 -1 31335 0
+S
+#31337
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D1
+~
+~
+0 -1 31338 0
+D3
+~
+~
+0 0 31329 0
+S
+#31338
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D1
+~
+~
+0 -1 31339 0
+D3
+~
+~
+0 -1 31337 0
+S
+#31339
+The Foothills~
+A short brown grass dominates this landscape of rolling foothills.  
+Lichen covered limestone rocks also jut forth from the landscape.  
+North east the hills only get worse while back to the west you spy a
+small town.    
+~
+313 0 0 0 0 4
+D1
+~
+~
+0 -1 31340 0
+D3
+~
+~
+0 -1 31338 0
+S
+#31340
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.  A rugged dirt trail leads farther up into the mountain,
+next to the trail a sign has been firmly planted in the ground.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31344 0
+D3
+~
+~
+0 -1 31339 0
+E
+sign~
+Carriages, carts, and other such horse drawn vehicles will find the
+Dens Mountains to difficult to travel, best to turn back now.    
+~
+S
+#31341
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31346 0
+D4
+~
+~
+0 -1 31342 0
+S
+#31342
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31347 0
+D5
+~
+~
+0 -1 31341 0
+S
+#31343
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31351 0
+D4
+~
+~
+0 -1 31334 0
+S
+#31344
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.  The trail continues up.    
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31340 0
+D4
+~
+~
+0 -1 31345 0
+S
+#31345
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D1
+~
+~
+0 -1 31346 0
+D5
+~
+~
+0 -1 31344 0
+S
+#31346
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31341 0
+D3
+~
+~
+0 -1 31345 0
+S
+#31347
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31342 0
+D4
+~
+~
+0 -1 31348 0
+S
+#31348
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31354 0
+D4
+~
+~
+0 -1 31349 0
+D5
+~
+~
+0 -1 31347 0
+S
+#31349
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D2
+~
+~
+0 -1 31355 0
+D4
+~
+~
+0 -1 31335 0
+D5
+~
+~
+0 -1 31348 0
+S
+#31350
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for
+long distances.  The mountains are covered in a sparse brown grass and
+seem to be rather arid.  Looking towards the horizon you notice some
+of the mountains are snow capped suggesting that things may get wetter
+higher up.    
+~
+313 0 0 0 0 5
+D1
+~
+~
+0 -1 31351 0
+D4
+~
+~
+0 -1 31336 0
+S
+#31351
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31343 0
+D3
+~
+~
+0 -1 31350 0
+S
+#31352
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D1
+~
+~
+0 -1 31353 0
+D2
+~
+~
+0 -1 31359 0
+S
+#31353
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D3
+~
+~
+0 -1 31352 0
+D4
+~
+~
+0 -1 31354 0
+S
+#31354
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31348 0
+D5
+~
+~
+0 -1 31353 0
+S
+#31355
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31349 0
+D4
+~
+~
+0 -1 31356 0
+S
+#31356
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D1
+~
+~
+0 -1 31357 0
+D2
+~
+~
+0 -1 31362 0
+D5
+~
+~
+0 -1 31355 0
+S
+#31357
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D1
+~
+~
+0 -1 31358 0
+D3
+~
+~
+0 -1 31356 0
+S
+#31358
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up. A small trail
+leads north into a valley.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 0 24000 0
+D2
+~
+~
+0 -1 31363 0
+D3
+~
+~
+0 -1 31357 0
+S
+#31359
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31352 0
+D1
+~
+~
+0 -1 31360 0
+D2
+~
+~
+0 -1 31364 0
+S
+#31360
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D3
+~
+~
+0 -1 31359 0
+D5
+~
+~
+0 -1 31361 0
+S
+#31361
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D4
+~
+~
+0 -1 31360 0
+S
+#31362
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31356 0
+S
+#31363
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31358 0
+D2
+~
+~
+0 0 31367 0
+D4
+~
+~
+0 -1 31366 0
+S
+#31364
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 -1 31359 0
+D2
+~
+~
+0 -1 31365 0
+S
+#31365
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 -1 31364 0
+S
+#31366
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D5
+~
+~
+0 -1 31367 0
+S
+#31367
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 5
+D0
+~
+~
+0 0 31363 0
+D1
+~
+~
+0 -1 31368 0
+D4
+~
+~
+0 -1 31366 0
+S
+#31368
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 4
+D1
+~
+~
+0 -1 31369 0
+D3
+~
+~
+0 -1 31367 0
+S
+#31369
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 4
+D2
+~
+~
+0 -1 31370 0
+D3
+~
+~
+0 -1 31368 0
+S
+#31370
+The Dens Mountains~
+The rocky mountains stretch all around you, making it hard to see for long
+distances. The mountains are covered in a sparse brown grass and seem to be
+rather arid. Looking towards the horizon you notice some of the mountains are
+snow capped suggesting that things may get wetter higher up.
+~
+313 0 0 0 0 4
+D0
+~
+~
+0 -1 31369 0
+S
+#31371
+The Forward Deck~
+You are on a large, ocean-going cog-type vessel that functions as the
+Dibrova to Dagmire ferry.  The ship, named Meridian, is made out of
+three-year cured, Nirin wood and was constructed in the Vernige
+shipyards.  Made to be light and fast, Meridian can make the trip in
+between the continents in what seems like no time.    
+~
+313 4 0 0 0 2
+D2
+~
+~
+0 0 31372 0
+D3
+~
+~
+0 0 -1 0
+S
+#31372
+The After Deck~
+You are on a large ocean going cog type vessel that functions as the Dibrova
+to Dagmire ferry. The ship, named Meridian, is made out of three year cured
+Nirin wood and was constructed in the Vernige shipyards. Made to be light and
+fast, Meridian can make the trip in between the continents in what seems like
+no time. A small door leads down below deck. You had better get to the forward
+deck or you might miss your stop!
+~
+313 0 0 0 0 2
+D0
+~
+~
+0 0 31371 0
+D5
+~
+~
+0 0 31373 0
+S
+#31373
+Below Decks~
+You are on a large ocean going cog type vessel that functions as the Dibrova
+to Dagmire ferry. The ship, named Meridian, is made out of three year cured
+Nirin wood and was constructed in the Vernige shipyards. Made to be light and
+fast, Meridian can make the trip in between the continents in what seems like
+no time. Cots have been provided here in case the passengers get sleepy on the
+trip. A small door leads up to the after deck. You had better get to the
+forward deck or you might miss your stop!
+~
+313 262152 0 0 0 0
+D4
+~
+~
+0 0 31372 0
+S
+#31374
+dgdfgd~
+You are in an unfinished room.
+~
+313 0 0 0 0 0
+S
+$~

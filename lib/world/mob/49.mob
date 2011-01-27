@@ -1,0 +1,351 @@
+#4900
+jaguar brown~
+a stealthy Brown Jaguar~
+A stealthy brown jaguar makes its way along the branches.
+~
+It gives a lazy look in your direction and continues with its slow,
+graceful slink across the Tree's branches.    
+~
+16456 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4901
+cat elven~
+an Elven Cat~
+An elven cat lies on a branch, deep in sleep.
+~
+It lays in the shade with an uncaring look to it, as if everything
+were completely safe.    
+~
+72 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+4 4 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4902
+leopard spotted~
+a Spotted Leopard~
+A spotted leopard lazily preens its coat as you walk past.
+~
+It does not even glance your way as it goes about its bathing needs.
+~
+72 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 8
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4903
+jaculi snake~
+a Jaculi~
+A small tree snake slithers past.
+~
+It is a very small, green thing which has made its home in the Great
+Tree.    
+~
+8 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 2
+E
+#4904
+grippli frog tree~
+a Grippli~
+A small tree frog hops about.
+~
+It is a little green thing, looking for a few good insects to munch.
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 2
+E
+#4905
+babboon wild~
+a wild Babboon~
+A wild babboon ambles about.
+~
+It lumbers about the tree, munching here and there on any items it
+finds of interest.    
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4906
+ape carnivorous~
+a carnivorous Ape~
+A carnivorous ape swings from branch to branch.
+~
+It has a fixed look of stupidity upon its face, one which says plainly
+that it exists only by the grace of the creatures around it.    
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4907
+atomie shaman~
+an Atomie Shaman~
+An Atomie Shaman walks slowly past.
+~
+The Shaman wears a look of absolute seriousness upon his face, a fixed
+expression of intense concentration.    
+~
+72 0 0 0 8388608 0 0 0 600 E
+7 1 72 1d7+125 1d2+3
+125 669
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 15
+E
+#4908
+atomie father~
+an Atomie Father~
+An Atomie father works diligently for his family.
+~
+The atomie is a race of highly intelligent elf-like beings who serve
+the trees in which they reside.    
+~
+72 0 0 0 8388608 0 0 0 700 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 15
+E
+#4909
+atomie mother~
+an Atomie Mother~
+An Atomie mother fusses about the tree, cleaning and straightening.
+~
+Her face looks careworn and full of love.  Her labors are those of her
+people, which age all prematurely.    
+~
+72 0 0 0 8388608 0 0 0 900 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 15
+E
+#4910
+atomie child~
+an Atomie Child~
+An Atomie child plays about the tree branches.
+~
+The child looks to be without a care in the world, existing in a very
+perfect place.    
+~
+72 0 0 0 8388608 0 0 0 600 E
+4 0 84 1d4+30 1d2+2
+70 160
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 15
+E
+#4911
+dryad~
+a Dryad~
+A dryad walks about the branches with a lithe dexterity.
+~
+She politely nods to you and continues on her way.
+~
+72 0 0 0 16 0 0 0 500 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 2
+BareHandAttack: 16
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 5
+Race: 24
+E
+#4912
+sylph~
+a Sylph~
+A sylph flitters and flutters about the Tree.
+~
+She smiles merrily at you as you pass, a gay expression fixed upon her
+face.    
+~
+72 0 0 0 8388608 0 0 0 400 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 2
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 24
+E
+#4913
+sprite~
+a Sprite~
+A sprite moves past, all grace and mischief.
+~
+She grins wickedly your way and winks before moving on.
+~
+72 0 0 0 0 0 0 0 600 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 24
+E
+#4914
+ettercap~
+an Ettercap~
+An ettercap lounges in a small branching of the tree.
+~
+It looks to be awake but nods off every now again, jerking upright
+with a start.    
+~
+74 0 0 0 0 0 0 0 800 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#4915
+grig shaman~
+a Grig Shaman~
+A Grig shaman moves purposefully about the Tree.
+~
+He is lost in deep thought, taking no notice of those around him.
+~
+16456 0 0 0 65536 4194304 0 0 900 E
+7 1 72 1d7+125 1d2+3
+125 669
+8 8 1
+BareHandAttack: 15
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+Race: 7
+E
+#4916
+grig father~
+a Grig Father~
+A grig father works about the Tree.
+~
+The father works hard for the well-being of the Tree.
+~
+72 0 0 0 0 0 0 0 800 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#4917
+grig mother~
+a Grig Mother~
+A grig mother clucks and tsks over the condition of the Tree.
+~
+She skimpers about here and there making a fuss at the smallest of
+tasks which need doing.    
+~
+72 0 0 0 0 0 0 0 800 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#4918
+grig child~
+a Grig Child~
+A grig child performs some small, menial chores about the Tree.
+~
+The child appears solemn, even more so than the rest of the grigs in
+this Tree due to her age.    
+~
+72 0 0 0 0 0 0 0 900 E
+4 0 84 1d4+30 1d2+2
+70 160
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+$

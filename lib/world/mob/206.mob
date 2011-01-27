@@ -1,0 +1,487 @@
+#20600
+gnome tracker~
+a Gnome Tracker~
+A small gnome in a hunter's outfit appears and disappears sneakily.
+~
+The gnome is a Tracker, one of the elite of his kind.  Shorter than
+most gnomes, the Tracker is not a physically imposing specimen.  
+However, his knowledge of the outdoors and tracking skills are suberb,
+unrivaled in the realm.    
+~
+10 0 0 0 0 0 0 0 -500 E
+150 136 -60 0d0+0 20d20+100
+2500 1658628
+8 8 0
+BareHandAttack: 13
+Str: 13
+Dex: 8
+Int: 15
+Wis: 19
+Con: 23
+Cha: 18
+Luck: 22
+Class: 5
+Race: 7
+E
+#20601
+gnome hunter~
+a Gnome Hunter~
+A burly gnome, decked in a hunter's outfit, stands here.
+~
+The gnome Hunter is a outdoorsman who now serves in the gnomish Army.
+Stocky and toughened from countless drills, the hunter can march for
+days on end.  Sharp eyes, sensitive to movement, are constantly
+scanning the horizon.    
+~
+8 0 0 0 0 0 0 0 0 E
+150 136 -60 0d0+0 20d20+100
+2500 1658628
+8 8 0
+Str: 17
+Dex: 22
+Int: 16
+Wis: 20
+Con: 21
+Cha: 25
+Luck: 9
+Class: 4
+Race: 7
+E
+#20602
+gnome leader~
+a Gnome Leader~
+The Leader of the gnomish Army barks out some orders!
+~
+Looking more like a withered mage, the Leader has an inner strength
+that belies his outward appearance.  Scars criss-cross his body, a
+sign of valour and courage, from the many battles he has fought.    
+~
+8 0 0 0 0 0 0 0 0 E
+160 149 -60 0d0+0 22d23+106
+2550 1955340
+8 8 0
+Str: 24
+Dex: 6
+Int: 14
+Wis: 12
+Con: 13
+Cha: 7
+Luck: 5
+Race: 7
+E
+#20603
+troll border~
+a Border Troll~
+A powerful Troll stands here, wearing the insigna of the Border Trolls.
+~
+Solid and immoveable, the troll is a member of the dreaded Border
+Patrol.  It's long arms are capable of delivering a fatal crushing
+blow should it be disarmed during battle.    
+~
+8 0 0 0 0 0 0 0 0 E
+170 162 -60 0d0+0 25d26+113
+2650 2282239
+8 8 0
+Str: 9
+Dex: 10
+Int: 22
+Wis: 25
+Con: 12
+Cha: 22
+Luck: 18
+Class: 4
+Race: 10
+E
+#20604
+orc patrol guard~
+an Orc Patrol Guard~
+A powerfully-built orcish Patrol Guard paces back and forth.
+~
+Carefully selected from other candidates, the orc is trained for this
+elite battalion of the Patrol Guards.  Ripped and having high
+endurance, there is little that this orc cannot handle.  Snarling as
+it looks about, it's two lower canines adds to the appearance of
+ferocity.    
+~
+8 0 0 0 0 0 0 0 0 E
+163 153 -60 0d0+0 24d24+108
+2600 2050193
+8 8 0
+Str: 24
+Dex: 9
+Int: 16
+Wis: 17
+Con: 23
+Cha: 23
+Luck: 13
+Class: 4
+Race: 7
+E
+#20605
+ogre berserker~
+an Ogre Berserker~
+A slobbering and twitchy Ogre growls menancingly!
+~
+The ogre is completely nakid, it's powerful body spasming with
+uncontrolable rage.  Standing well over seven feet tall, it is an
+awe-inspiring sight.  One just hopes the ogre doesn't get it's hand on
+an equally powerful weapon.    
+~
+8 0 0 0 0 0 0 0 0 E
+172 165 -100 0d0+0 26d26+114
+2700 2351332
+8 8 0
+Str: 20
+Dex: 6
+Int: 8
+Wis: 22
+Con: 20
+Cha: 13
+Luck: 25
+Class: 4
+Race: 19
+E
+#20606
+goblin rogue~
+a Rogue Goblin~
+A rogue goblin tries to sneak past you!
+~
+A hint of diabolical cleverness glints deep within the Rogue's dark
+eyes.  Small and wiry, the goblin has managed to survive out here on
+sheer will and perhaps, with a touch of insanity.    
+~
+8 0 0 0 0 0 0 0 0 E
+143 127 -60 0d0+0 17d18+95
+2500 1468328
+8 8 0
+Str: 24
+Dex: 16
+Int: 19
+Wis: 14
+Con: 25
+Cha: 8
+Luck: 20
+Class: 3
+Race: 31
+E
+#20607
+gnome shaman~
+a Gnomish Shaman~
+A robed, hunchback gnome ambles forth.
+~
+The gnomish Shaman is one with power among his people.  His body is
+frail and bears a disfiguring hump on it's back.  Squinty eyes reveal
+a gleam of intelligence and alertness.    
+~
+8 0 0 0 0 0 0 0 0 E
+157 145 -60 1d1+0 22d22+104
+2550 1863204
+8 8 0
+Str: 7
+Dex: 21
+Int: 6
+Wis: 20
+Con: 21
+Cha: 16
+Luck: 21
+Class: 1
+Race: 7
+E
+#20608
+ettin salvager~
+an Ettin Salvager~
+A lumbering ettin looks about for salvagable items.
+~
+A huge humanoid with two heads, the ettin is musclebound and tough.  
+Sparse orangish hair covers his body, as well as a multitude of scars.
+His hands are huge, gentle enough to handle valuable salvage and
+strong enough to crush the hardest thing.    
+~
+8 0 0 0 0 0 0 0 0 E
+149 135 -60 1d1+0 18d19+99
+2500 1630577
+8 8 0
+Str: 13
+Dex: 12
+Int: 8
+Wis: 23
+Con: 14
+Cha: 14
+Luck: 21
+Race: 19
+E
+#20609
+mud mudlith~
+a Mudlith~
+A mud-covered insect scurries about, looking for moisture.
+~
+A mudlith is a large insect, easily the size of an ogre.  It bears an
+oblong carapce which is a dull brown in color.  The foremost two legs
+end in spade-like tips, enabling it to rapidly burrow in mud.    
+~
+8 0 0 0 0 0 0 0 0 E
+154 141 -60 1d1+0 21d22+102
+0 1773757
+8 8 0
+Str: 24
+Dex: 16
+Int: 24
+Wis: 21
+Con: 21
+Cha: 5
+Luck: 25
+Race: 5
+E
+#20610
+hobgoblin sharpshooter~
+a Hobgoblin Sharpshooter~
+A small hobgoblin peeks out from behind some cover!
+~
+The hobgoblin is a sharpshooter, a deadly veteran of many wars fought
+on these wastelands.  It's arms are sinewy and slightly longer than
+what one would expect for it's size, enabling him to wield a bow and
+arrow with deadly accuracy and strength.    
+~
+8 0 0 0 0 0 0 0 0 E
+141 125 -60 1d1+0 17d17+94
+2500 1416528
+8 8 0
+Str: 17
+Dex: 14
+Int: 8
+Wis: 10
+Con: 6
+Cha: 8
+Luck: 8
+Class: 3
+Race: 31
+E
+#20620
+skeletal warrior~
+a Skeletal Warrior~
+A skeletal warrior rises from the dust and ambles forth!
+~
+Wearing the last remanents of chainmail armor that hasn't rusted away
+over the years, the skeletal warrior is under the control of some
+mysterious being.  Hollow eyes stare vacantly from it's skull, devoid
+of any life.    
+~
+8 0 0 0 0 0 0 0 0 E
+162 152 -60 0d0+0 24d24+108
+0 2018272
+8 8 0
+Str: 13
+Dex: 22
+Int: 20
+Wis: 19
+Con: 12
+Cha: 12
+Luck: 22
+Class: 4
+Race: 36
+E
+#20621
+banshee~
+a Banshee~
+A banshee glides forth, trying to snare you with songs of despair.
+~
+A shade of some unfortunate soul who once inhabited this stronghold,
+the banshee is under the control of some mysterious being.  She is
+insubstantial, yet her ragged appearance seems realistic.    
+~
+8 0 0 0 0 0 0 0 0 E
+175 169 -100 0d0+0 28d28+116
+0 2457330
+8 8 0
+Str: 19
+Dex: 12
+Int: 19
+Wis: 21
+Con: 9
+Cha: 5
+Luck: 21
+Race: 34
+E
+#20622
+soul lost~
+a Lost Soul~
+A lost soul wanders about, looking hopelessly forlorn.
+~
+Unable to remember what caused his death long ago, the soul wanders
+about in limbo here.  It takes the form of a wisp, softly glowing, as
+it floats about.    
+~
+8 0 0 0 0 0 0 0 0 E
+136 119 -60 0d0+0 16d17+90
+0 1291935
+8 8 0
+Str: 20
+Dex: 18
+Int: 5
+Wis: 12
+Con: 19
+Cha: 23
+Luck: 15
+Race: 34
+E
+#20623
+shade~
+a Shade~
+A cruel shade slinks forth from the shadows!
+~
+A spirit twisted by evil, the Shade reaches out to drain the warmth
+out of your body!  It is transparent and seeks the solace of the
+shadows, abhoring warmth and light.    
+~
+8 0 0 0 0 0 0 0 0 E
+138 121 -60 0d0+0 16d17+92
+0 1340936
+8 8 0
+Str: 21
+Dex: 20
+Int: 18
+Wis: 19
+Con: 18
+Cha: 21
+Luck: 7
+Race: 11
+E
+#20624
+wailer spirit~
+a Wailer~
+A wailing spirit floats here.
+~
+A poor spirit who has been unable to escape limbo and is doomed to
+forever wander the halls of the Stronghold.  Eerie wails echo forth
+about the spirit.    
+~
+8 0 0 0 0 0 0 0 0 E
+137 120 -60 0d0+0 16d17+91
+0 1316297
+8 8 0
+Str: 20
+Dex: 22
+Int: 18
+Wis: 15
+Con: 15
+Cha: 15
+Luck: 10
+Race: 49
+E
+#20625
+mwargil ball furry fangs claws~
+the Mwargil~
+A furry ball of fangs and claws suddenly hurls itself at you!
+~
+The Mwargil is an ancient relic of old times.  A primal beast with
+very basic desires, such as the need to hunt and consume, who has
+survived in the wilderness for ages.  No one knows exactly what is or
+where Mwargil came from.    
+~
+10 0 0 0 0 0 0 0 0 E
+179 175 -100 0d0+0 28d29+119
+2700 2603105
+8 8 0
+Str: 19
+Dex: 14
+Int: 7
+Wis: 15
+Con: 10
+Cha: 14
+Luck: 10
+Race: 8
+E
+#20626
+dwarf stalwart~
+a Stalwart Dwarf~
+A stalwart dwarf stumbles about, growing more frightened every minute!
+~
+The dwarf is outfitted in typical warrior garbs.  He got lost from his
+detail while battling the gnomish forces out on the Wastelands.  His
+beard is a dark red color, long and split-braided.    
+~
+8 0 0 0 0 0 0 0 0 E
+170 162 -60 0d0+0 25d26+113
+2650 2282239
+8 8 0
+Str: 24
+Dex: 12
+Int: 6
+Wis: 12
+Con: 21
+Cha: 8
+Luck: 10
+Class: 4
+Race: 13
+E
+#20627
+seeress undead~
+the Undead Seeress~
+The undead Seeress looks up at you with unseeing eyes.
+~
+The undead Seeress was once the most powerful of her kind, until
+another surpassed her place and overthrew her.  Upon her death, she
+vowed to remain on this plane to seek revenge upon the usurper.    
+~
+8 0 0 0 0 0 0 0 0 E
+190 190 -100 1d1+0 34d35+126
+2800 3030666
+8 8 0
+Str: 24
+Dex: 16
+Int: 18
+Wis: 5
+Con: 18
+Cha: 22
+Luck: 7
+Class: 2
+Race: 6
+E
+#20628
+shadow~
+a Shadow~
+A dull shadow flits and flees from every flickering source of light.
+~
+The Shadow is a magical animation, brought to life by some mysterious
+force.  Mindless and reduced to simple commands, the Shadow can be
+lethal to those who are unaware of it's chilly touch.    
+~
+8 0 0 0 0 0 0 0 0 E
+135 117 -60 1d1+0 16d17+90
+0 1267849
+8 8 0
+Str: 13
+Dex: 19
+Int: 16
+Wis: 14
+Con: 16
+Cha: 22
+Luck: 15
+Race: 11
+E
+#20629
+beholder x'leth~
+X'leth the Beholder~
+The mysterious force of the Stronghold, X'leth, hovers here.
+~
+X'leth is the greatest of it's kind, a giant beholder.  An eye with
+swarming tentacles about it, incredible magical prowess, and wisdom
+beyond the ages are some ways one could describe X'leth.  Time has not
+affected this being, as one can see glints of youth deep within the
+crimson iris of the eye.    
+~
+8 0 0 0 0 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 0
+Str: 18
+Dex: 25
+Int: 18
+Wis: 21
+Con: 12
+Cha: 14
+Luck: 21
+Class: 1
+Race: 37
+E
+$

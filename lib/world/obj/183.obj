@@ -1,0 +1,353 @@
+#18300
+axe lumber~
+/cwa lumber axe/c0~
+/cgA heavy/cw lumber axe/cg lies here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+8 1732 0 5 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+axe lumber~
+It is a heavy axe of the kind lumberjacks use to chop down trees.
+~
+A
+18 1
+#18301
+shirt chequered~
+/cwa chequered shirt/c0~
+/cgA/cw chequered shirt/cg lies here./c0~
+~
+11 0 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+3 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+shirt chequered~
+It is an extra large, chequered shirt made from heavy cloth.
+~
+#18302
+boots leather worn~
+/cya pair of worn leather boots/c0~
+/cgA pair of/cy worn leather boots/cg lies here./c0~
+~
+11 0 0 0 0 65 0 0 0
+0 0 0 0 0 0 0 0
+5 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+boots~
+They are fashioned from rough leather that has been oiled frequently to make
+it stay waterproof.  They look worn but quite functional.
+~
+#18303
+fireplace~
+/cwa fireplace/c0~
+/cgA/cw fireplace made from stone/cg is set against the east wall./c0~
+~
+15 0 0 0 0 0 0 0 0
+5000 0 -1 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fireplace~
+It is fashioned from stones of various sizes that have been stacked on top of
+each other and fastened with mortar.  Its chimney is constructed likewise and
+leads the smoke out through the low cabin ceiling.
+~
+#18304
+lantern brass hooded~
+/cya hooded brass lantern/c0~
+/cgA/cy hooded brass lantern/cg has been left here./c0~
+~
+1 0 0 0 0 16385 0 0 0
+0 0 15 0 0 0 0 0
+4 11 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+lantern brass hooded~
+It is a large and robust but somewhat battered oil lantern made from brass,
+and it is equipped with a handle to make it handy and a hood to protect its
+flame.  Some letters have been scratched on its bottom.
+~
+E
+letters~
+The letters say:
+
+Use 'hold lantern' to activate.
+
+~
+#18305
+chest wooden~
+/cya wooden chest/c0~
+/cgA/cy wooden chest/cg stands in the corner./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 15 18306 0 0 0 0 0
+500 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chest wooden~
+It is a robust chest made from short, heavy planks that have been fastened
+together with tenons.  It is equipped with a simple brass lock.
+~
+#18306
+key brass~
+/cYa small brass key/c0~
+/cgA/cy small brass key/cg lies here./c0~
+~
+18 4 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key brass~
+It is a small, simple brass key with no inscriptions or marks of any kind.
+~
+#18307
+coins gold~
+/cYa heap of gold coins/c0~
+/cgSome/cY gold coins/cg lie piled up in a heap on the floor./c0~
+~
+20 0 0 0 0 1 0 0 0
+1250 0 0 0 0 0 0 0
+5 1250 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+coins gold~
+The coins seem to be gold.  They are obviously valuable.
+~
+#18308
+signage large~
+a large Sign~
+A LARGE SIGN is here ~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+Sign~
+The following Area Is A Large MAZE which will eventually lead you
+to City... Currently this City has not been completed..
+but if you are interested in solving this MAZE you are welcome 
+to do so.... Who knows there may be a prize at the end.
+~
+#18309
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18310
+blackberries berries~
+/cLsome blackberries/c0~
+/cgSome/cL blackberries/cg grow on a bush nearby./c0~
+~
+19 0 0 0 0 1 0 0 0
+3 0 0 0 0 0 0 0
+3 12 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+blackberries berries~
+They look very tasty indeed.
+~
+#18311
+mushroom~
+/cwa mushroom/c0~
+/cgA /cwsmall mushroom/cg grows nearby./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 1 0 0 0 0
+1 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mushroom~
+It looks to be a tasty little thing.
+~
+#18312
+sign~
+/cya large sign/c0~
+/cgA /cylarge sign/cg mounted on a pole is standing by the roadside./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+100 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pole~
+Not the most interesting pole in the world.
+Better leave it here, though, as it holds the sign in place.
+~
+E
+sign~
+It says :-
+
+			 Haon-Dor
+			 --------
+
+   This is the Forest of Haon-Dor.  Enter at your own risk.
+    Please report any strange occurrences other than loops 
+		    to an Administrator.
+
+
+~
+#18313
+barrel glowing liquid~
+/cya barrel/c0~
+/cwA /ccbarrel of glowing liquid/cw sits on the floor./c0~
+~
+17 0 0 0 0 0 0 0 0
+150 150 16 0 0 0 0 0
+650 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18314
+water brook~
+/cBa small brook/c0~
+/cBA small brook trickles through the forest beside the path./c0~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0 0 0 0 0
+10000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+water brook~
+The water looks clean and refreshing.
+~
+#18315
+water lake~
+a /cBLake/c0~
+/cwA large /cBlake/cw has formed here, fed by several freshwater streams./c0~
+~
+23 0 0 0 0 0 0 0 0
+10000 10000 0 0 0 0 0 0
+10000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18316
+cudgel oak oaken limb~
+/cyan oaken cudgel/c0~
+/cgA/cy limb/cg has fallen here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+7 6720 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cudgel oak oaken limb~
+The cudgel looks quite sturdy, and would make a nice weapon.
+~
+A
+19 2
+A
+1 -2
+#18317
+corpse boar~
+/cwthe corpse of a boar/c0~
+Undefined~
+~
+15 16777216 0 0 0 0 0 0 0
+100 0 -1 0 0 0 0 0
+100 66 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18318
+slab meat~
+/cwa large slab of meat/c0~
+/cgA large/cw piece of freshly cut boar meat/cg is on the ground here./c0~
+~
+19 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0
+4 60 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+slab meat~
+It looks quite filling.
+~
+#18319
+tusks pair~
+/cga pair of boar tusks/c0~
+/cgA pair of/cw large boar tusks/cg have been dropped here./c0~
+~
+12 2 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+13 541 0 51 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tusks pair~
+They look like they might be worth something to a craftsman.
+~
+A
+26 3
+A
+19 3
+#18320
+log hollow floating~
+/cya hollow log/c0~
+A long hollow log has fallen accross your path.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+20 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+log~
+It looks like it would probably float.
+~
+#18321
+nest bird~
+the bird's nest~
+Some bird has built a large nest in the tree just east of you.~
+~
+15 0 0 0 0 1 0 0 0
+15 0 -1 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18322
+egg blue robin~
+/cBa blue robin's egg/c0~
+/cgA small/cB bluish egg/cg has been left here./c0~
+$n chokes down the egg and $s body begins to grow!
+~
+10 1 0 0 0 1 0 0 0
+10 94 0 0 0 0 0 0
+1 1651 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+egg blue robin~
+It is small, but food nonetheless.
+~
+#18323
+meat rabbit~
+/cwa piece of rabbit meat/c0~
+/cgA large/cw piece of rabbit meat/cg./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 0 0 0 0 0
+2 32 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18324
+meat deer venison~
+/cwa piece of venison/c0~
+/cgA large/cw piece of venison/cg./c0~
+~
+19 0 0 0 0 1 0 0 0
+9 0 0 0 0 0 0 0
+3 36 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#18325
+sign placard~
+/cwa /cywooden /cwplacard/c0~
+/cwA /cywooden /cwplacard/cw is affixed to the north wall./c0~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+placard~
+To harden your equipment, simply type HARDEN (obj) and the smelter
+will increase you obj's hardness by 1. Cost is 5000 gold.
+~
+$~

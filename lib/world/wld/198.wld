@@ -1,0 +1,1314 @@
+#19801
+Entrance to Golem Tower~
+You are at the entrance to golem tower.  The tower seems to be made
+completely of wood.  The walls, floors, and ceiling are all made of
+wood - quite a fire hazzard, eh?  You see a flight of stairs here
+leading up.  You see a small sign on the wall.    
+~
+198 13 0 0 0 0
+D0
+~
+~
+0 0 19803 0
+D2
+~
+~
+0 0 32099 0
+D4
+~
+~
+0 0 19826 0
+E
+sign~
+/cWThe sign says:
+/cW Welcome adventurers to the tower of golems.  Recommended levels are:
+  /cyHome of wood golems       /cW100 and up
+  /cwHome of stone golems      /cW105 and up
+  /cLHome of iron golems       /cW110 and up
+  /cWHome of diamond golems    /cW115 and up
+  /cmHome of obsidian golems   /cW120 and up
+  /cCHome of golem kings       /cW125 and up
+/cWEnjoy your stay, but please don't feed the golems
+~
+S
+#19802
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19806 0
+D1
+~
+~
+0 0 19803 0
+S
+#19803
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19804 0
+D2
+~
+~
+0 0 19801 0
+D3
+~
+~
+0 0 19802 0
+S
+#19804
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19808 0
+D3
+~
+~
+0 0 19803 0
+S
+#19805
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19811 0
+D1
+~
+~
+0 0 19806 0
+S
+#19806
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19802 0
+D3
+~
+~
+0 0 19805 0
+S
+#19807
+Home of the Golem Kings~
+You can barely make out the walls of the tower here.  They appear only
+as a faint shimmer of light.  You see a large wooden throne here in
+the middle of the room.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19813 0
+D2
+~
+~
+0 0 19803 0
+E
+throne~
+/cyThe throne is made completely of wood and is tremendous.  You shiver at
+/cythe thought of who sits in it.
+~
+S
+#19808
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19809 0
+D2
+~
+~
+0 0 19804 0
+S
+#19809
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19815 0
+D3
+~
+~
+0 0 19808 0
+S
+#19810
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?  You see a
+flight of stairs here leading up.    
+~
+198 13 0 0 0 0
+D1
+~
+~
+0 0 19811 0
+D4
+~
+~
+0 0 19835 0
+S
+#19811
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19817 0
+D2
+~
+~
+0 0 19805 0
+D3
+~
+~
+0 0 19810 0
+S
+#19812
+Home of the Golem Kings~
+You can barely make out the walls of the tower here.  They appear only
+as a faint shimmer of light.  You see a large stone throne here in the
+middle of the room.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19813 0
+D3
+~
+~
+0 0 19836 0
+E
+throne~
+/cwThe throne is made completely of stone and is tremendous.  You shiver at
+/cwthe thought of who sits in it.
+~
+S
+#19813
+Home of the Golem Kings~
+You can barely make out the walls of the tower here.  They appear only
+as a faint shimmer of light.  You see a flight of stairs here leading
+up.  You see a large obsidian throne here in the middle of the room.
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19819 0
+D1
+~
+~
+0 0 19814 0
+D2
+~
+~
+0 0 19807 0
+D3
+~
+~
+0 0 19812 0
+D4
+~
+~
+0 0 19838 0
+E
+throne~
+/cmThe throne is made completely of obsidian and is tremendous.  You shiver at
+/cmthe thought of who sits in it.
+~
+S
+#19814
+Home of the Golem Kings~
+You can barely make out the walls of the tower here.  They appear only
+as a faint shimmer of light.  You see a large iron throne here in the
+middle of the room.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19865 0
+D3
+~
+~
+0 0 19813 0
+E
+throne~
+/cLThe thrown is make completely of iron and is tremendous.  You shiver at
+/cLthe thought of who sits in it.
+~
+S
+#19815
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19821 0
+D1
+~
+~
+0 0 19816 0
+D2
+~
+~
+0 0 19809 0
+S
+#19816
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?  You see a
+flight of stairs here leading up.    
+~
+198 13 0 0 0 0
+D3
+~
+~
+0 0 19815 0
+D4
+~
+~
+0 0 19841 0
+S
+#19817
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19818 0
+D2
+~
+~
+0 0 19811 0
+S
+#19818
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19822 0
+D3
+~
+~
+0 0 19817 0
+S
+#19819
+Home of the Golem Kings~
+You can barely make out the walls of the tower here.  They appear only
+as a faint shimmer of light.  You see a large diamond throne here in
+the middle of the room.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19857 0
+D2
+~
+~
+0 0 19813 0
+E
+throne~
+/cWThe thrown is make completely of diamond and is tremendous.  You shiver at
+/cWthe thought of who sits in it.
+~
+S
+#19820
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19824 0
+D1
+~
+~
+0 0 19821 0
+S
+#19821
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19815 0
+D3
+~
+~
+0 0 19820 0
+S
+#19822
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19823 0
+D2
+~
+~
+0 0 19818 0
+S
+#19823
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19825 0
+D1
+~
+~
+0 0 19824 0
+D3
+~
+~
+0 0 19822 0
+S
+#19824
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19820 0
+D3
+~
+~
+0 0 19823 0
+S
+#19825
+Home of the Wood Golems~
+The tower seems to be made completely of wood.  The walls, floors, and
+ceiling are all made of wood - quite a fire hazzard, eh?  You see a
+flight of stairs here leading up.    
+~
+198 13 0 0 0 0
+D2
+~
+~
+0 0 19823 0
+D4
+~
+~
+0 0 19850 0
+S
+#19826
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.  You
+see a flight of stairs here leading up and another flight of stairs
+leading down.    
+~
+198 13 0 0 0 0
+D0
+~
+~
+0 0 19828 0
+D4
+~
+~
+0 0 19851 0
+D5
+~
+~
+0 0 19801 0
+S
+#19827
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19831 0
+D1
+~
+~
+0 0 19828 0
+S
+#19828
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19829 0
+D2
+~
+~
+0 0 19826 0
+D3
+~
+~
+0 0 19827 0
+S
+#19829
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19833 0
+D3
+~
+~
+0 0 19828 0
+S
+#19830
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19836 0
+D1
+~
+~
+0 0 19831 0
+S
+#19831
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19827 0
+D3
+~
+~
+0 0 19830 0
+S
+#19832
+Home of the Obsidian Golems~
+The tower seems to be made completely of obsidian.  The walls, floors,
+and ceiling are all made of obsidian - you see your reflection
+everywhere!    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19838 0
+S
+#19833
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19834 0
+D2
+~
+~
+0 0 19829 0
+S
+#19834
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19840 0
+D3
+~
+~
+0 0 19833 0
+S
+#19835
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.  You
+see a flight of stairs here leading up, and another flight leading
+down.    
+~
+198 13 0 0 0 0
+D1
+~
+~
+0 0 19836 0
+D4
+~
+~
+0 0 19860 0
+D5
+~
+~
+0 0 19810 0
+S
+#19836
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19842 0
+D2
+~
+~
+0 0 19830 0
+D3
+~
+~
+0 0 19835 0
+S
+#19837
+Home of the Obsidian Golems~
+The tower seems to be made completely of obsidian.  The walls, floors,
+and ceiling are all made of obsidian - you see your reflection
+everywhere!    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19838 0
+S
+#19838
+Home of the Obsidian Golems~
+The tower seems to be made completely of obsidian.  The walls, floors,
+and ceiling are all made of obsidian - you see your reflection
+everywhere!  You see a flight of stairs here leading up, and another
+flight leading down.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19844 0
+D1
+~
+~
+0 0 19839 0
+D2
+~
+~
+0 0 19832 0
+D3
+~
+~
+0 0 19837 0
+D4
+~
+~
+0 0 19863 0
+D5
+~
+~
+0 0 19813 0
+S
+#19839
+Home of the Obsidian Golems~
+The tower seems to be made completely of obsidian.  The walls, floors,
+and ceiling are all made of obsidian - you see your reflection
+everywhere!    
+~
+198 9 0 0 0 0
+D3
+~
+~
+0 0 19838 0
+S
+#19840
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19846 0
+D1
+~
+~
+0 0 19841 0
+D2
+~
+~
+0 0 19834 0
+S
+#19841
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.  You
+see a flight of stairs here leading up, and another flight leading
+down.    
+~
+198 13 0 0 0 0
+D3
+~
+~
+0 0 19840 0
+D4
+~
+~
+0 0 19866 0
+D5
+~
+~
+0 0 19816 0
+S
+#19842
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19843 0
+D2
+~
+~
+0 0 19836 0
+S
+#19843
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19847 0
+D3
+~
+~
+0 0 19842 0
+S
+#19844
+Home of the Obsidian Golems~
+The tower seems to be made completely of obsidian.  The walls, floors,
+and ceiling are all made of obsidian - you see your reflection
+everywhere!    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19838 0
+S
+#19845
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19849 0
+D1
+~
+~
+0 0 19846 0
+S
+#19846
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19840 0
+D3
+~
+~
+0 0 19845 0
+S
+#19847
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19848 0
+D2
+~
+~
+0 0 19843 0
+S
+#19848
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19850 0
+D1
+~
+~
+0 0 19849 0
+D2
+~
+door~
+1 -1 19876 19
+D3
+~
+~
+0 0 19847 0
+S
+#19849
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19845 0
+D3
+~
+~
+0 0 19848 0
+S
+#19850
+Home of the Stone Golems~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.  You
+see a flight of stairs here leading up, and another flight of stairs
+leading down.    
+~
+198 13 0 0 0 0
+D2
+~
+~
+0 0 19848 0
+D4
+~
+~
+0 0 19875 0
+D5
+~
+~
+0 0 19825 0
+S
+#19851
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.  You see a flight of stairs here leading down.    
+~
+198 13 0 0 0 0
+D0
+~
+~
+0 0 19853 0
+D5
+~
+~
+0 0 19826 0
+S
+#19852
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19856 0
+D1
+~
+~
+0 0 19853 0
+S
+#19853
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19854 0
+D2
+~
+~
+0 0 19851 0
+D3
+~
+~
+0 0 19852 0
+S
+#19854
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19858 0
+D3
+~
+~
+0 0 19853 0
+S
+#19855
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19861 0
+D1
+~
+~
+0 0 19856 0
+S
+#19856
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19852 0
+D3
+~
+~
+0 0 19855 0
+S
+#19857
+Home of the Diamond Golems~
+The tower seems to be made completely of diamond.  The walls, floors,
+and ceiling are all made of diamond - you are almost blinded by the
+reflecting light.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19863 0
+S
+#19858
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19859 0
+D2
+~
+~
+0 0 19854 0
+S
+#19859
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19865 0
+D3
+~
+~
+0 0 19858 0
+S
+#19860
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.  You see a flight of stairs leading down.    
+~
+198 13 0 0 0 0
+D1
+~
+~
+0 0 19861 0
+D5
+~
+~
+0 0 19835 0
+S
+#19861
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19867 0
+D2
+~
+~
+0 0 19855 0
+D3
+~
+~
+0 0 19860 0
+S
+#19862
+Home of the Diamond Golems~
+The tower seems to be made completely of diamond.  The walls, floors,
+and ceiling are all made of diamond - you are almost blinded by the
+reflecting light.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19863 0
+S
+#19863
+Home of the Diamond Golems~
+The tower seems to be made completely of diamond.  The walls, floors,
+and ceiling are all made of diamond - you are almost blinded by the
+reflecting light.  You see a flight of stairs here leading down.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19869 0
+D1
+~
+~
+0 0 19864 0
+D2
+~
+~
+0 0 19857 0
+D3
+~
+~
+0 0 19862 0
+D5
+~
+~
+0 0 19838 0
+S
+#19864
+Home of the Diamond Golems~
+The tower seems to be made completely of diamond.  The walls, floors,
+and ceiling are all made of diamond - you are almost blinded by the
+reflecting light.    
+~
+198 9 0 0 0 0
+D3
+~
+~
+0 0 19863 0
+S
+#19865
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19871 0
+D1
+~
+~
+0 0 19866 0
+D2
+~
+~
+0 0 19859 0
+S
+#19866
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.  You see a flight of stairs leading down.    
+~
+198 13 0 0 0 0
+D3
+~
+~
+0 0 19865 0
+D5
+~
+~
+0 0 19841 0
+S
+#19867
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19868 0
+D2
+~
+~
+0 0 19861 0
+S
+#19868
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19872 0
+D3
+~
+~
+0 0 19867 0
+S
+#19869
+Home of the Diamond Golems~
+The tower seems to be made completely of diamond.  The walls, floors,
+and ceiling are all made of diamond - you are almost blinded by the
+reflecting light.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19873 0
+D2
+~
+~
+0 0 19863 0
+S
+#19870
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D0
+~
+~
+0 0 19874 0
+D1
+~
+~
+0 0 19871 0
+S
+#19871
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19865 0
+D3
+~
+~
+0 0 19870 0
+S
+#19872
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D1
+~
+~
+0 0 19873 0
+D2
+~
+~
+0 0 19868 0
+S
+#19873
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 13 0 0 0 0
+D0
+~
+~
+0 0 19875 0
+D1
+~
+~
+0 0 19874 0
+D2
+~
+~
+0 0 19869 0
+D3
+~
+~
+0 0 19872 0
+S
+#19874
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.    
+~
+198 9 0 0 0 0
+D2
+~
+~
+0 0 19870 0
+D3
+~
+~
+0 0 19873 0
+S
+#19875
+Home of the Iron Golems~
+The tower seems to be made completely of iron.  The walls, floors, and
+ceiling are all made of iron - you hear your footsteps echoing off
+everything.  You see a flight of stairs here leading down.    
+~
+198 13 0 0 0 0
+D2
+~
+~
+0 0 19873 0
+D5
+~
+~
+0 0 19850 0
+S
+#19876
+Home of the Golem's best kept secrets~
+The tower seems to be made completely of stone.  The walls, floors,
+and ceiling are all made of stone - feels a bit chilly up here.  The
+room seems particularily calm, as you wonder in, you cant help but
+notice the dozens of glowing runes which cover the floor and the walls
+There is definitely something different about this room.    
+~
+198 2162908 0 0 0 0
+D0
+~
+door~
+1 -1 19848 19
+S
+$~

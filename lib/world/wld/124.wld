@@ -1,0 +1,1808 @@
+#12400
+Side Alley~
+This alley is so narrow, wedged between the brick walls of two
+buildings, that it shuts out most of the light that might filter
+through - even at high noon.  It runs north into a darkened area of
+town, apparently a larger section of town at that - a breeze can be
+felt blowing through from that direction, indicating open space.  To
+the south is the open area of Society Road, cheerful and relatively
+safe.    
+~
+124 1 0 0 0 1
+D0
+~
+~
+0 0 12401 0
+D2
+~
+~
+0 0 5814 0
+S
+#12401
+Side Alley~
+Just north of here is the end of an open road, one that does look to
+be well tended, but certainly well used.  There are no obvious exits
+into the buildings on either side of this alley, just tall, blank,
+unyielding brick walls that wedge you in - making you fair game for
+any territorial gangs that might be in the area.    
+~
+124 1 0 0 0 1
+D0
+~
+~
+0 0 12402 0
+D2
+~
+~
+0 0 12400 0
+S
+#12402
+Broken Ending~
+This might once have been a very affluent section of town, a court
+where some of riches of the town made their residence.  The fact that
+the Thieven Guild lies just down the street, housing some of the most
+affluent thieves known to the world, makes it so that no sane townsman
+would consider walking these streets - even in broad daylight - let
+alone live in this area.  On the north and east sides of the street
+are the crumbling ruins of old homes that were once fine, prominent
+homes.  They have long since dilapidated into festering eyesores,
+places that only the locals of this area - almost all thieves by trade
+- would think about going into.  A dark, narrow alley lies to the
+south.  To the west, this cracked and broken road heads into the wary
+darkness of the Thieven Guild area.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12421 0
+D1
+~
+~
+0 0 12422 0
+D2
+~
+~
+0 0 12401 0
+D3
+~
+~
+0 0 12403 0
+S
+#12403
+Broken Road~
+Kicking aside bits of broken stone and the junk that is littered all
+over, you make your way down this awful street, the smell of the place
+rancid, the look of it even worse.  On the north and south sides of
+the road are buildings that might once have been fine homes, but are
+now used as businesses.  A dagger lies scrawled above the door on the
+north side, a dirty coat of arms above the door of the building on the
+south side.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12419 0
+D1
+~
+~
+0 0 12402 0
+D2
+~
+~
+0 0 12420 0
+D3
+~
+~
+0 0 12404 0
+S
+#12404
+Darkened Roadway~
+Bits and pieces of rubble lie in chunks all about you along this
+dilapidated street, most of the original cobbles missing.  On the
+north side of the road is the eastern-most end of the Thieven
+Guildhall, a huge mansion that was once owned by a very prominent
+businessman from Silverthorne who decided - after the guilds came to
+town - that his financial investment in the property wasn't worth what
+he thought it was.  On the south side is small shack, looking for all
+the world very out of place.    
+~
+124 0 0 0 0 1
+D1
+~
+~
+0 0 12403 0
+D2
+~
+~
+0 0 12418 0
+D3
+~
+~
+0 0 12405 0
+S
+#12405
+Before the Entryway to the Thieven Guild~
+It is said that under no circumstances can anyone who is not a member
+of the thieven taint enter into the guild.  Rumor has it that at one
+time, many years back, a fair-sized group of men from the mercenary's
+guild decided to make a raid on the Theiven Guildhall, just for fun.
+They left the merc's guild that night, never to return.  No one has
+ever pursued the notion of bringing the Thieven Guild up on charges.
+On the south side of the road is a very loud and very dingy-looking
+tavern.  Enter if you feel you can handle it.    
+~
+124 0 0 0 0 1
+D0
+~
+door~
+1 0 12431 7
+D1
+~
+~
+0 0 12404 0
+D2
+~
+~
+0 0 12424 0
+D3
+~
+~
+0 0 12406 0
+S
+#12406
+Darkened Roadway~
+The road runs east and west, its crumbling stone and cobbles flaking
+away even as you tread upon them.  On the north side of the road is
+western-most end of the Thieven Guildhall - the most feared and
+talked-about place in the city.  It is said that even though there are
+three guilds in the city that run most of the government, it is the
+Thieven Guildhall that calls most of the shots.  Even the mercenary
+guild bows its head to the Thieven Guildhall - though never in public.
+To the south is a crumbling stone building with a crooked sign next to
+the front door proclaiming it a clothing shop.    
+~
+124 1 0 0 0 1
+D1
+~
+~
+0 0 12405 0
+D2
+~
+~
+0 0 12411 0
+D3
+~
+~
+0 0 12407 0
+S
+#12407
+Cracked Stone Road~
+The road makes a feeble turn, heading east into the darkened section
+of town owned by the Thieve's Guild.  To the south is the way back
+toward the open air of Society Road and relative safety.  A crumbling
+ruin of a home lies to the north, its empty windows like dark gaping
+eyes staring straight at you.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12412 0
+D1
+~
+~
+0 0 12406 0
+D2
+~
+~
+0 0 12408 0
+S
+#12408
+Cracked Stone Road~
+The road continues its broken way north into the most
+unwelcome-looking section of town ever seen in any town.  Just a short
+pace to the south is the way back onto Society Road and the relative
+safety of the larger crowds.  On the west side of the road is what is
+probably - aside from the Thieven Guildhall - the nicest looking
+building in the area.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12407 0
+D2
+~
+~
+0 0 12409 0
+D3
+~
+~
+0 0 12413 0
+S
+#12409
+Cracked Stone Road~
+The part of Dun Pith that is the cultural center of known world is
+immediately left behind as soon as the first step north into this dark
+and seedy section of town was taken.  A large warehouse, the doors
+wide open, lies on the east side of the road, the street itself heads
+north into darkness and danger.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12408 0
+D1
+~
+~
+0 0 12410 0
+D2
+~
+~
+0 0 5817 0
+S
+#12410
+Empty Warehouse~
+The floors of this place are kept clean by someone or some
+organization.  Though the doors are left wide open, it does look as if
+any of the city riff-raff makes it their home.  It looks like it is
+possible that something was kept here and just recently taken from
+storage.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12409 0
+S
+#12411
+Dark Apparels~
+This shop is operated entirely by the Guild, the inventory of what is
+sold strictly regulated.  Students of the Guild are required to shop
+only at this store, and never encouraged to spend money.  There is
+always at least one shopkeep on hand - an employee of the Guild - who
+watches for theft, and usually catches most perpetrators.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12406 0
+S
+#12412
+Condemned Home~
+The floor creaks alarmingly as you step upon it, making it a gamble
+whether the boarding might break, throwing you to whatever lies
+beneath.  Most of the walls of this old home are either burn-scarred
+or broken, huge holes torn into them.  A crooked, rickety set of steps
+lie on the north side of the room, heading into a dark upper level.  
+~
+124 9 0 0 0 0
+D2
+~
+~
+0 0 12407 0
+D4
+~
+~
+0 0 12429 0
+S
+#12413
+House of Ill Repute~
+The fact that this is a house of 'ill' repute is one that is disputed
+by the residents of this area of town.  Many graduates of the Thieven
+Guild Hall claim that without this place, there is no way that they
+would have made it through their training.  Doors lie to the east and
+west.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12408 0
+D3
+~
+~
+0 0 12415 0
+S
+#12414
+Warehouse Road~
+This short stub of a road runs wedged between a few warehouses and
+some nondescript homes.  The end of the road can be seen not too far
+north of here, Society Road lies to the south.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12415 0
+D2
+~
+~
+0 0 5819 0
+S
+#12415
+Warehouse Road~
+A large warehouse lies on the west side of the road, its doors closed.
+On the east side of the road is a large an fine-lookuing house, its
+doors wide open.  The end of this road lies just north from here.    
+~
+124 0 0 0 0 1
+D0
+~
+~
+0 0 12416 0
+D1
+~
+~
+0 0 12413 0
+D2
+~
+~
+0 0 12414 0
+D3
+~
+door~
+1 0 12425 3
+S
+#12416
+Dead End~
+An alley that was unseen from the south angles off west into darkness.
+Other than the alley, the street ends at the doorless walls of the
+many warehouses which litter this district.    
+~
+124 0 0 0 0 1
+D2
+~
+~
+0 0 12415 0
+D3
+~
+~
+0 0 12417 0
+S
+#12417
+Dark Alley~
+It looks like the only purpose of this alley is to allow a side
+entryway into one of the warehouses.  A cast iron door lies on the
+north wall of the alley, shut tight and secure.    
+~
+124 321 0 0 0 1
+D0
+~
+door~
+1 0 12430 1
+D1
+~
+~
+0 0 12416 0
+S
+#12418
+The General Store~
+This tiny, barely-standing shack was built over top of the site of an
+old mansion.  Back in the years when the town was just becoming
+over-run with the 'bad element' that pervades most of the city now, an
+old man and woman owned this property and a fine home which was built
+atop this property.  When the Thieven Guild decided that they wished
+to own this section of town, they politely asked the man and his wife
+to leave.  Just as politely, the man and his wife refused.  They
+called it an accident, but the fire that consumed the home and the
+lives of the man and his wife occured only days after their refusal.
+Now this shack stands in place of the fine home, selling all manner of
+worthless necessities.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12404 0
+S
+#12419
+Rapas' Back-Stickers~
+Rapas.  The name of one of the most celebrated thieves to ever walk
+the world of Dibrova and still come out without a dagger in his back.
+Rapas was one of the first pupils to study under tutelage of the
+Thieve's Guild here in Dun Pith, and one of the reasons that even
+though holds a less than esteemed reputation, the guild still attracts
+hundreds of new students every year.  Rapas left the guild after his
+Closing Ceremonies, making his way in the world as a common vagabond,
+waylaying travelers and picking pockets in all the major towns.  He
+would have ended up rotting in a jail somewhere - like most of his
+kind do - if it wasn't for the fact that he was so damned good at what
+he did.  He made a fortune in petty theft, and unlike most thieves, he
+saved it all - hoarded into a secret lair.  His name soon became
+public with most of the city law enforcement agencies and his face was
+plastered in every guard station.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12403 0
+S
+#12420
+Scrap Armor~
+All manner of leather and cloth apparel lies scattered about this
+place, most of junk - however sift through.  Its possible there may be
+a little something here that might be of worth.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12403 0
+S
+#12421
+Broken Down Manor House~
+The fine columned entryway into this enormous place has been chipped
+and cracked away to a ruined masterpiece - or at least it might appear
+to the eye of the one(s) who dessicated it.  All about the place are
+signs of wanton destruction, nothing that might have been in this home
+in its heyday is left.  Graffiti mars the walls, windows are all
+broken and much of the flooring is missing.    
+~
+124 10551532 0 0 0 0
+D2
+~
+~
+0 0 12402 0
+E
+graffiti~
+There are all sorts of catchy phrases and promises of death, but the
+one reoccuring scrawling is that of a name:
+
+- /cRThe Raleighs/c0
+~
+S
+#12422
+Abandoned Home~
+Finely painted walls have been broken and rent, intricate wallpapers
+shredded to bits by insane men and hungry rodents.  Broken glass from
+the many windows and old chandeliers that adorned the high ceiling
+crunch underfoot, echoing from the empty walls.  Another such room
+lies to the south, the exit from this wretched home lies west.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12423 0
+D3
+~
+~
+0 0 12402 0
+S
+#12423
+Side Room~
+This room is very much in the same condition as the entry room to the
+north save for the large pile of charred timber in the middle of the
+floor that must serve as the heat source for whatever derelict types
+must use this place as their abode.  Nothing of apparent value can be
+seen here, just a bunch of litter and rubble.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12422 0
+S
+#12424
+The Loyal Cutpurse~
+The Loyal Cutpurse - den of the thieves of Dun Pith.  Deals are made,
+bargains struck, pacts bound - and never, ever are they spoken of or
+even thought of by any onlookers that may overhear or be witness to
+any transactions.  It would be wise for you to do the same.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12405 0
+S
+#12425
+Empty Warehouse~
+This is yet another warehouse which is empty at this time, but still
+kept spotlessly clean.  The floors are free of debris although no one
+and nothing is in sight.    
+~
+124 8 0 0 0 0
+D1
+~
+door~
+1 0 12415 3
+S
+#12426
+Enormous Warehouse~
+Steel ceiling supports run in rows through this building, a flickering
+light angling and refelecting off the many poles.  Off through the
+poles to the north, the shadowed silhouettes of a group of people can
+be seen.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12454 0
+D3
+~
+~
+0 0 12430 0
+S
+#12427
+Enormous Warehouse~
+Steel ceiling supports run in rows through this building, a flickering
+light angling and refelecting off the many poles.  Off through the
+poles to the east, the shadowed silhouettes of a group of people can
+be seen.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12454 0
+D2
+~
+~
+0 0 12430 0
+S
+#12428
+Enormous Warehouse~
+Steel ceiling supports run in rows through this building, a flickering
+light angling and refelecting off the many poles.  Voices can be heard
+talking, sometimes laughing, eachoing from somewhere inside the
+building.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12430 0
+S
+#12429
+Upstairs~
+The flooring in this section of the house is, surprisingly, much more
+stable than that of the lower levels.  Tattered, moth-eaten blankets
+lie strewn about the floor among bits of rotting food left here by
+squatters.    
+~
+124 8201 0 0 0 0
+D5
+~
+~
+0 0 12412 0
+S
+#12430
+Enormous Warehouse~
+Steel ceiling supports run in rows through this building, a flickering
+light angling and refelecting off the many poles.  Voices can be heard
+talking, sometimes laughing, eachoing from somewhere inside the
+building.  The door lies to the south.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12427 0
+D1
+~
+~
+0 0 12426 0
+D2
+~
+door~
+1 0 12417 1
+D3
+~
+~
+0 0 12428 0
+S
+#12431
+Guarded Entryway~
+Normally, this room is nothing but a twenty by twenty cubicle of
+guarded space, specifically used to guard against outside intrusion
+into the Guild.  There are many secrets that are guarded jealously by
+the Guild, and never have any of them been ferrete outby anyone.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12432 7
+D2
+~
+door~
+1 0 12405 7
+S
+#12432
+Torch-Lit Hall~
+This is the start of a hallway, however this point of it is enclosed
+on all sides by doors.  Would-be recruits into the Guild are first
+brought here, to this staging point and taken to the room to the east,
+where they are questioned and tested to see if they meet the general
+criteria of Guild membership.  Doors are always closed and locked in
+the Guild - no member of the Thieven Guild would have any trouble with
+the unlocking of any of the doors here - only those not of the
+profession.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12437 7
+D1
+~
+door~
+1 0 12433 7
+D2
+~
+door~
+1 0 12431 7
+D3
+~
+door~
+1 0 12434 7
+S
+#12433
+Administrative Offices~
+This looks to be more of an interrogation chamber than an
+administrative office - however it is their guild, so they may name
+the rooms as they wish.  There is naught but a single small chair
+which sits dead center of the stone floor.  There is nothing else
+within this room.    
+~
+124 40 0 0 0 0
+D3
+~
+~
+0 0 12432 6
+S
+#12434
+Kitchen Scraps~
+Three low tables lie in rows in the center of the room, with a
+buffet-style table along the west wall.  There is always something to
+eat laid out on the table, however only during the main meal times is
+the good stuff prepared.  Doors lie on the south, east and west walls.
+~
+124 8 0 0 0 0
+D1
+~
+door~
+1 0 12432 7
+D2
+~
+door~
+1 0 12435 7
+D3
+~
+door~
+1 0 12436 7
+S
+#12435
+Custodian's Office~
+A small desk lies nudged into the southwest corner of this small nook
+of an office, right next to various push brooms and cleaning supplies.
+Custodial clothing is hung on crude hooks pounded into the walls.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12434 6
+S
+#12436
+Kitchen~
+If only there were some sort of sanitation commission in this town!  
+But then, if there were it would probably be an extension of the
+Thieven Guild anyway.  Food is certainly prepared here, but good food?
+Doubtful.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12434 6
+S
+#12437
+Torch-Lit Hall~
+You stand within a narrow hallway made of brick and mortar.  It leads
+north toward the meeting with another hall, a set of double doors at
+the far north end.  On either side of the hall lies doors.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12440 0
+D1
+~
+door~
+1 0 12438 7
+D2
+~
+door~
+1 0 12432 7
+D3
+~
+door~
+1 0 12439 7
+S
+#12438
+Teachers' Quarters~
+The teachers of the guild do not normally sleep at the guild, but
+rather have their own private residences somewhere in or out of town.
+There is a lounge chair and a long divan for the teachers to rest
+during the times when classes are not in session.  This room is almost
+always empty - even the teachers are not encouraged to relax within
+the Guild.    
+~
+124 8 0 0 0 0
+D3
+~
+door~
+1 0 12437 7
+S
+#12439
+Bunk Room~
+Rows of wooden bunks line throughout the room, leather straps meshed
+between the wood of the bunks to make sleeping mats.  The place is
+generally clean and usually empty, only occupied when a student feels
+that they might get away with sleeping.  Sleep is generally not
+encouraged throughout the Guild.    
+~
+124 8 0 0 0 0
+D1
+~
+door~
+1 0 12437 7
+S
+#12440
+Torch-Lit Hall~
+You stand within a narrow hallway made of brick and mortar.  Just to
+the north this hall meets with another hall, a set of double doors
+just north from here.  To the south is a short span of hall and
+another doorway much like the ones on your east and west.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12443 0
+D1
+~
+door~
+1 0 12442 7
+D2
+~
+~
+0 0 12437 0
+D3
+~
+door~
+1 0 12441 7
+S
+#12441
+Scrub Field~
+This is a courtyard to the manor, however it is left to grow wild so
+that the students might hone their fighting, attack and sneak / hide
+abilities to the fullest.  Be wary - there could be a student within
+the grass very nearby...    
+~
+124 0 0 0 0 2
+D0
+~
+door~
+1 0 12444 7
+D1
+~
+door~
+1 0 12440 7
+S
+#12442
+Herbal Courtyard~
+Students are required to participate in the upkeep of this yard
+throughout the course of their stay in the guild.  Regular rotating
+schedules of herbal upkeep times are posted at the start of every
+week.  Doors lie on the north and west walls which surround this small
+courtyard area.    
+~
+124 0 0 0 0 2
+D0
+~
+door~
+1 0 12447 7
+D3
+~
+door~
+1 0 12440 7
+S
+#12443
+Torch-Lit Hall~
+An ornate door lies on the north wall, the entry into the Hall of
+Ceremonies where students are never permitted to go except after they
+have attained their rank within the guild.  The hall branches off
+east, west and south toward rooms in the guild.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12450 7
+D1
+~
+~
+0 0 12447 0
+D2
+~
+~
+0 0 12440 0
+D3
+~
+~
+0 0 12444 0
+S
+#12444
+Torch-Lit Hall~
+This is the western end of the hall, doors lie on the north, south and
+west walls of the corridor.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12446 7
+D1
+~
+~
+0 0 12443 0
+D2
+~
+door~
+1 0 12441 7
+D3
+~
+door~
+1 0 12445 7
+S
+#12445
+Smithing~
+Many thieves are forced to forge their own weapons, and sometimes at a
+moment's notice with limited supplies in stealth.  This is the
+classing room where thieves are taught just such skills, with some
+tricks of the trade thrown in.    
+~
+124 8 0 0 0 0
+D1
+~
+door~
+1 0 12444 7
+S
+#12446
+Lecture Hall~
+This is room where most of the dropouts of the guild end up spending
+their final moments.  Most thieves are by nature an impatient and
+haughty lot, cock-sure of themselves with no need for 'words of
+wisdom' from their elders.  If a thief were to decide to terminate
+their guildsmanship, it would certainly be the endless hours of
+lecturing on the morales and standards within the society of thieves
+that made their decision for them.    
+~
+124 8 0 0 0 0
+D2
+~
+door~
+1 0 12444 7
+S
+#12447
+Torch-Lit Hall~
+This is the eastern end of the hall, doors lie on the north, south and
+east walls of the corridor.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12448 7
+D1
+~
+door~
+1 0 12449 7
+D2
+~
+door~
+1 0 12442 7
+D3
+~
+~
+0 0 12443 0
+S
+#12448
+Lock Picking~
+All manner of doors, locks, safes and other miscellaneous items lie on
+shelves, against walls or on the floor - all of them for use in
+training the art of the lock pick.    
+~
+124 8 0 0 0 0
+D2
+~
+door~
+1 0 12447 7
+S
+#12449
+Acrobatics and Climbing~
+On the east side, a rough-hewn wall climbs its way toward a ceiling at
+least three stories up.  Bars, balance beams and other manner of
+training equipment lies about the room, each seperated neatly from the
+other.    
+~
+124 8 0 0 0 0
+D3
+~
+door~
+1 0 12447 7
+S
+#12450
+Ceremonies~
+The walls of this room are appointed in the richest of tapestries, the
+floors made from a creamy, high gloss marble.  A small podium lies at
+the north end of the room, pughs line the east and west sides of the
+room, a narrow walkway up the middle.  It would almost seem as a
+church - indeed, for many of the students this may just be their
+church.    
+~
+124 8 0 0 0 0
+D2
+~
+door~
+1 0 12443 7
+D5
+~
+door~
+1 0 12451 7
+S
+#12451
+Guard Room~
+This small antechamber serves as the final checkpoint between the
+Master's private quarters and the rest of the guild.  The Master
+spends the majority of his time within his private chambers and does
+not ever - under any circumstances - like to be disturbed.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12452 7
+D4
+~
+door~
+1 0 12450 7
+D5
+~
+door~
+1 0 12453 7
+S
+#12452
+The Master's Domicile~
+This room is what anyone would expect the Master's inner sanctum to
+look like; stately, somber - a thick mahoganey desk sitting square in
+the center of the room.  It also gives the feel of a very unused room.
+~
+124 8 0 0 0 0
+D2
+~
+door~
+1 0 12451 7
+S
+#12453
+The Master's Private Quarters~
+This enormous room is where the Master spends his days, keeping far
+from the daily tasks of running the guild in person.  Too many
+affluent members of Dun Pith society and beyond would pay handsomely
+for the Master's head on a stick, so he keeps his head buried well
+beneath the guild, attached to his own body and well-guarded.    
+~
+124 8 0 0 0 0
+D4
+~
+door~
+1 0 12451 7
+S
+#12454
+Enormous Warehouse~
+So this is the where the Raleighs keep their headquarters.  The
+Raleighs are a group of renegade outcasts from the Thieven Guildhall -
+they are those people who had talent but decided to waste it on petty
+acts of spite and evil.  The Raleighs live by cunning and sheer
+meanness - preying on the weak of Dun Pith and hiding from the
+assassins of the Guilds.    
+~
+124 0 0 0 0 0
+D2
+~
+~
+0 0 12426 0
+D3
+~
+~
+0 0 12427 0
+S
+#12455
+Hard Stone Road~
+The road south seems all hard angles and sharp edges, everything gets
+a very rustic, strong look to it.  There are many of the saem types of
+buildings alongside the street as the ones to the north, however these
+seem almost without color, or rather without need for color.  An inn
+lies to the southeast, a very plain affair with no decor on the
+outside whatsoever.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 5818 0
+D2
+~
+~
+0 0 12456 0
+S
+#12456
+Hard Stone Road~
+This section of the road is flanked by buildings on either side.  To
+the west is an empty house, it loose door hanging open on squeaky
+hinges.  On the east side is an inn, and not a very welcoming looking
+place at that.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12455 0
+D1
+~
+~
+0 0 12467 0
+D2
+~
+~
+0 0 12457 0
+D3
+~
+~
+0 0 12474 0
+S
+#12457
+Hard Stone Road~
+The hard gray stones of the road stretch to the north and south, a
+narrow alley branching east between two buildings toward the main
+section of the city.    
+~
+124 4 0 0 0 10
+D0
+~
+~
+0 0 12456 0
+D1
+~
+~
+0 0 12465 0
+D2
+~
+~
+0 0 12458 0
+S
+#12458
+Hard Stone Road~
+The road branches off west, north and south from here.  To the north
+and south are the ways out of this section of town and back into the
+main flow of Dun Pith's society.  To the west is the way in toward the
+mercenary's guild.  An ale house lies on the east side of the road.  
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12457 0
+D1
+~
+~
+0 0 12468 0
+D2
+~
+~
+0 0 12459 0
+D3
+~
+~
+0 0 12462 0
+S
+#12459
+Hard Stone Road~
+The road makes a curve here, heading north and east through this
+darker section of the city.  The main boulevard through Dun Pith can
+be seen far to the east, the many citizens of the town making their
+way about their daily business.  To the south is a smithy.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12458 0
+D1
+~
+~
+0 0 12460 0
+D2
+~
+~
+0 0 12469 0
+S
+#12460
+Hard Stone Road~
+A small alley branches south off of this main road, the narrow span
+reaching south into darkness.  To the east is the way back toward Dun
+Pith's main boulevard, west leads deeper into the mercenary's section
+of the town.    
+~
+124 0 0 0 0 10
+D1
+~
+~
+0 0 12461 0
+D2
+~
+~
+0 0 12470 0
+D3
+~
+~
+0 0 12459 0
+S
+#12461
+Hard Stone Road~
+Dun Pith's main, open streets are left behind upon entering onto this
+road, the light and noise of the big city cut off almost immediately.
+Everything within this section of the city takes on a more pale cast,
+as if the colors of the world have been sucked from the walls of
+everything around you and displaced with a more grey, somber hue.  A
+small stone building lies to the north.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12472 0
+D1
+~
+~
+0 0 5804 0
+D3
+~
+~
+0 0 12460 0
+S
+#12462
+Hard Stone Road~
+The road makes a short dogleg heading west and then south almost right
+away.  The second story of the Guild House is visible from here, its
+barred windows gleaming with light.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12473 0
+D1
+~
+~
+0 0 12458 0
+D3
+~
+~
+0 0 12463 0
+S
+#12463
+Hard Stone Road~
+Just a short span to the south is the entryway into the Mercenary's
+Guild, the place where all of the darker arts of killing are taught by
+men and women who not only know the art, but have used it.  On the
+north and west sides of the road are houses, both seeming somewhat
+unused.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12476 0
+D1
+~
+~
+0 0 12462 0
+D2
+~
+~
+0 0 12464 0
+D3
+~
+~
+0 0 12477 0
+S
+#12464
+Hard Stone Entryway~
+The entrance to the guild lies just south of you.  Small homes flank
+either side of the entryway, but neither of them looking to be used on
+a very regular basis.    
+~
+124 0 0 0 0 10
+D0
+~
+~
+0 0 12463 0
+D1
+~
+~
+0 0 12475 0
+D2
+~
+~
+0 0 12479 0
+D3
+~
+~
+0 0 12478 0
+S
+#12465
+Cluttered Alley~
+Heaps of garbage and other manner of refuse are clumped in chunks of
+disgusting masses, scattered here and there all over the alleyway.  
+Its hard to make any progress through this area, as you have to step
+carefully so as not fall into any of the stinking trash dumped here.
+~
+124 256 0 0 0 10
+D1
+~
+~
+0 0 12466 0
+D3
+~
+~
+0 0 12457 0
+S
+#12466
+Cluttered Alley~
+Heaps of garbage and other manner of refuse are clumped in chunks of
+disgusting masses, scattered here and there all over the alleyway.  
+Its hard to make any progress through this area, as you have to step
+~
+124 256 0 0 0 10
+D1
+~
+~
+0 0 5807 0
+D3
+~
+~
+0 0 12465 0
+S
+#12467
+Gharbow's Inn~
+Gharbow - the man is always wearing a sneer on his face, his contempt
+for all others not of the dwarven race apparent upon his face.  He
+offers a very expensive rate at a very low-rate inn, uncaring whether
+he makes a profit or not.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12456 0
+S
+#12468
+The Ale House~
+Although this place has been owned by many operators over the years
+that it has been in business, it has always been simply called 'the
+Ale House'.  It keeps the clientele less confused and generally
+happier.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12458 0
+S
+#12469
+Smithy~
+Smoke from the forge stings your eyes just slightly, the smithy grunts
+and heaves as he pounds out his life's misery on the hot steel that he
+makes for people to kill others.  Care to make a purchase?    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12459 0
+S
+#12470
+Back Alley~
+The steady sound of drippin water comes from somewhere within this
+alley, the sides of the buildings that enclose this narrow walkway
+obscuring most of the light and making things seem just a bit sinister
+in appearance.  The way out lies to the north.    
+~
+124 256 0 0 0 10
+D0
+~
+~
+0 0 12460 0
+D2
+~
+~
+0 0 12471 0
+S
+#12471
+Back Alley~
+The steady sound of drippin water comes from somewhere within this
+alley, the sides of the buildings that enclose this narrow walkway
+obscuring most of the light and making things seem just a bit sinister
+in appearance.  The way out lies to the north.    
+~
+124 256 0 0 0 10
+D0
+~
+~
+0 0 12470 0
+S
+#12472
+Smoke-Filled Room~
+One of the less popular places to gamble, this place offers a chance
+for wayward travelers to sit down, take a load off and gamble their
+worldly possessions away.  The only thing is - with this place if you
+go broke, you pay with more than just gold.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12461 0
+S
+#12473
+Armory~
+Armor from the many corners of the world is stacked and piled within
+this shop.  Pieces both new and old are mishmashed together in clumps
+of cloth.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12462 0
+S
+#12474
+/crContracts, Ltd./c0~
+
+This used to be some sort of prestigious manor house, built originally
+for some noble or another.  Now, it is used for the very thing that
+has degraded this fair city into what it is today.    
+
+To place a bounty on another player's life, use the 'bounty' command.
+More information can be had in 'help bounty'.
+
+~
+124 65756 0 0 0 0
+D1
+~
+~
+0 0 12456 0
+S
+#12475
+Swordsmaster's Home~
+The master of the guild keeps his own private residence very close to
+the guild, making sure that his life's work is never very far from
+him.  The contents of this home are well-appointed, however not in any
+way frivolous or opulent.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12464 0
+S
+#12476
+Empty House~
+It does appear that this house has been vacant for very long as most
+of the walls and flooring is very intact with very little refuse.  It
+also could be that none of the locals feel comfortable with shacking
+in a house so close to the merc's guild.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12463 0
+S
+#12477
+Guild Housing~
+Honored guests of the guild are housed in this comfortable yet very
+spartan house.  It does not appear that anyone is making a visit at
+this time, however all of the beds are made neatly and everything is
+clean, as if a new guest might be expected at any time.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12463 0
+S
+#12478
+Holding Tank~
+Those who do not make the cut - so to speak - within the guild are
+kept here in this house until their fate has been decided by the
+guild.  Many of the secrets of the guild are guarded jealously and
+those who learn the secrets of a mercenary's work are many times
+considered a danger to the continuance of the guild.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12464 0
+S
+#12479
+Entry~
+This narrow entryway only allows two men at the most to pass through
+at a time.  Should the guild ever be invaded, this would help to
+protect the members from harm.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12464 0
+D2
+~
+~
+0 0 12480 0
+S
+#12480
+Receiving Hall~
+This looks a bit more like a guard post than a receiving hall, however
+the higher-ups in the guard like to attempt to maintain the appearance
+of civility when possible.  A hallway runs off to the east, on the
+south wall is a thick door.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12479 0
+D1
+~
+~
+0 0 12483 0
+D2
+~
+door~
+1 0 12481 3
+S
+#12481
+Administrative~
+There is naught but a single chair sitting dead center of the room,
+two guards' positions denoted upon the floor on either side of the
+chair.  Administrative?  Hardly.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12480 3
+D5
+~
+~
+0 0 12482 0
+S
+#12482
+The Master's Office~
+This small cubicle is where the Master spends the largest chunk of his
+time, pouring over the administrative details of running the guild.  
+A plush chair and a very strong-looking desk sits in the center of the
+room with little else of interest for furniture or decor.    
+~
+124 8 0 0 0 0
+D4
+~
+~
+0 0 12481 0
+S
+#12483
+Brick Hall~
+This is a short section of hall that serves as the main crux of the
+house, most of the major areas of the house can be reached from here.
+To the west is the way out of the guild, to the south is the arena and
+the way to the jousting yards.  On the east wall is the door to the
+gymnasium and a stairway leads both up and down from here.    
+~
+124 8 0 0 0 0
+D1
+~
+door~
+1 0 12484 3
+D2
+~
+~
+0 0 12486 0
+D3
+~
+~
+0 0 12480 0
+D4
+~
+~
+0 0 12494 0
+D5
+~
+~
+0 0 12490 0
+S
+#12484
+Gymnasium~
+You stand within an enormous room full of training equipment and
+practice weapons.  The ceiling is easily as high as four men, the
+walls made of solid, polished wood which bounce all noises back to you
+tenfold.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12485 0
+D3
+~
+door~
+1 0 12483 3
+S
+#12485
+Gymnasium~
+You stand within an enormous room full of training equipment and
+practice weapons.  The ceiling is easily as high as four men, the
+walls made of solid, polished wood which bounce all noises back to you
+tenfold.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12484 0
+S
+#12486
+Arena~
+This large grass-covered area is encircled by the walls of the house -
+it must have been a courtyard before the house was converted over to
+the guild's needs.  The ground is gashed and trampled in most places,
+small areas of blood can be seen soaked into grass and dirt.  A
+section of the wall on the southeast side has an opening, allowing
+entry into the jousting yard.    
+~
+124 0 0 0 0 2
+D0
+~
+~
+0 0 12483 0
+D1
+~
+~
+0 0 12487 0
+S
+#12487
+Arena~
+This large grass-covered area is encircled by the walls of the house -
+it must have been a courtyard before the house was converted over to
+the guild's needs.  The ground is gashed and trampled in most places,
+small areas of blood can be seen soaked into grass and dirt.  A
+section of the wall on the southeast side has an opening, allowing
+entry into the jousting yard.    
+~
+124 0 0 0 0 2
+D2
+~
+~
+0 0 12488 0
+D3
+~
+~
+0 0 12486 0
+S
+#12488
+Jousting~
+The masters of the guild call this the 'jousting' yard.  Nothing so
+noble as jousting is taught upon this grass, however.  All of the
+tricks of horsemanship that would aid in the assassination or hunting
+down of a man are taught here - from dagger throwing on horseback to
+trick bow shooting, it is all taught here.    
+~
+124 0 0 0 0 2
+D0
+~
+~
+0 0 12487 0
+D1
+~
+~
+0 0 12489 0
+S
+#12489
+Stables~
+There are only a few horses kept within this small stable, however
+those that are kept here are exceptional in quality, bred to be fine
+creatures for the affluent of society.    
+~
+124 8 0 0 0 0
+D3
+~
+~
+0 0 12488 0
+S
+#12490
+Antechamber~
+This small chamber is under constant surveillance, always guarded at
+all times by at least two guardsmen.  A door lies on the east wall,
+bolted and locked.    
+~
+124 40 0 0 0 0
+D1
+~
+door~
+2 0 12491 15
+D4
+~
+~
+0 0 12483 0
+S
+#12491
+Cold Stone Hallway~
+This narrow hallway runs only a short span before ending at a thick
+wooden door with no window.  The door is bolted and kept closed at all
+times.    
+~
+124 40 0 0 0 0
+D1
+~
+~
+0 0 12492 0
+D3
+~
+door~
+2 0 12490 15
+S
+#12492
+Cold Stone Hallway~
+This narrow hallway runs only a short span before ending at a thick
+wooden door with no window.  The door is bolted and kept closed at all
+times.    
+~
+124 40 0 0 0 0
+D1
+~
+door~
+2 0 12493 15
+D3
+~
+~
+0 0 12491 0
+S
+#12493
+Holding Cell~
+There is nothing within the cold confines of this small six by six
+stone room.  A few scratchings upon the floor are that remain of any
+sort of human habitation.    
+~
+124 40 0 0 0 0
+D3
+~
+door~
+2 0 12492 15
+E
+scratchings~
+KiLL mE
+~
+S
+#12494
+Stone Landing~
+The open door into a fair sized room lies to the south, the smells of
+some sort of food coming from that direction.  To the east is a small
+section of hall which leads into rooms in all directions.    
+~
+124 8 0 0 0 0
+D1
+~
+~
+0 0 12496 0
+D2
+~
+~
+0 0 12495 0
+D5
+~
+~
+0 0 12483 0
+S
+#12495
+Kitchen Scraps~
+And scraps are exactly what these are - the leftovers from whatever
+the masters please.  Food is not something that is included with guild
+membership here, nor is it something that is the need for sustenance
+looked favorably upon by the masters.  Apprentices are expected to
+fend in town for themselves and get their own food.    
+~
+124 8 0 0 0 0
+D0
+~
+~
+0 0 12494 0
+S
+#12496
+Hall Chamber~
+Doors lie on the south, east and north walls.  To the west is the
+small stone landing to the stairs which lead down to the main level.
+Strange sounds come from the room to the east.    
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12497 3
+D1
+~
+door~
+1 0 12499 3
+D2
+~
+door~
+1 0 12498 3
+D3
+~
+~
+0 0 12494 0
+S
+#12497
+Bunk Room~
+This room is where the pupils of the guild are allowed to catch the
+little bit of sleep that they can steal while the masters are not
+looking.  A mercenary's life is many times dependant on their ability
+to know when an adversary is near, thus the masters keep a close eye
+on this room - getting the drop on unwary pupils constantly.    
+~
+124 8 0 0 0 0
+D2
+~
+~
+0 0 12496 2
+S
+#12498
+Master's Lounge~
+This room is where the masters often take their breaks from the toils
+of teaching their charges.  Apprecntice are not permitted within this
+room under any circumstances, giving the masters a unique opportunity
+to watch for when one of the apprentices attempt to get some sleep.  
+~
+124 8 0 0 0 0
+D0
+~
+door~
+1 0 12496 3
+S
+#12499
+The Dark Arts~
+The darker arts of killing, involving a sort of witchcraft and
+necromancy are taught within this room, but only to those pupils who
+have advanced beyond all others in their category and desire to do
+more.  A vow of silence, punishable by death, is taken before any
+apprentice steps foot within this room.    
+~
+124 104 0 0 0 0
+D3
+~
+door~
+1 0 12496 3
+S
+$~

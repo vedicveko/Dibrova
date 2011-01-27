@@ -1,0 +1,329 @@
+#24000
+logger Bernard~
+Bernard the Logger~
+Bernard the Logger is here, selling logs.
+~
+Bernard is a large burly man who cuts logs all day long.  Shouldering
+his large axe, he smiles gruffly at you and asks whether you would
+like to purchase one of his fine logs.    
+~
+2058 0 0 0 80 0 0 0 0 E
+90 66 -40 1d49+901 5d6+45
+4600 450852
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 17
+Luck: 12
+Class: 5
+Race: 14
+E
+#24001
+duck~
+a Duck~
+A curious duck is here, quacking at you.
+~
+This duck quacks loudly at you as you approach.  It spreads its wings
+hesitantly, gauging you as a minor threat, then relaxes.
+~
+72 0 0 0 128 0 0 0 0 E
+15 5 40 1d49+901 1d3+10
+0 4674
+8 8 0
+BareHandAttack: 4
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 25
+Luck: 12
+Race: 3
+E
+#24002
+fish small~
+a small Fish~
+A small fish is swimming here.
+~
+This fish is rather small, but it can swim at speeds you could not
+hope to imitated.  Thrashing its tail back and forth, it darts out of
+sight, then returns, flashing by you in a streak of silver.    
+~
+72 0 0 0 50331776 0 0 0 0 E
+13 4 48 1d49+901 1d2+8
+0 3245
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 21
+Luck: 12
+Race: 4
+E
+#24003
+eel silver~
+a Silver Eel~
+A long silver-scaled eel swims towards you!
+~
+This eel is at least three times your height long.  Its silver scales
+glint sharply as it coils about, preparing to strike against whomever
+intrudes upon its home.    
+~
+526346 0 0 0 553648256 0 0 0 0 E
+66 43 -40 1d49+901 5d6+33
+0 204434
+8 8 0
+BareHandAttack: 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 12
+Luck: 12
+Race: 4
+E
+#24004
+turtle alligator~
+the Alligator Turtle~
+A grumpy old alligator turtle swims about here.
+~
+This alligator turtle is looks very old.  It swims about with stiff
+jerky movements and snaps viciously at the fish nearby, trying to
+catch a decent meal for itself.    
+~
+67594 0 0 0 16777424 0 0 0 0 E
+66 43 -40 1d49+901 5d6+33
+0 204434
+8 8 1
+BareHandAttack: 6
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 25
+Luck: 12
+Race: 2
+E
+#24005
+goat mountain~
+the Mountain Goat~
+A mountain goat is here, nibbling at a plant.
+~
+This mountain goat looks shaggy and thin.  With the sparse food and
+thin air, its every day is a struggle to survive.  It bleat
+plaintively at you and bounds away in long leaps.    
+~
+262216 0 0 0 0 0 0 0 0 E
+20 8 20 1d49+901 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Race: 1
+E
+#24006
+roc giant~
+the Giant Roc~
+A giant roc is here, angry at your intrusion.
+~
+This mother roc is HUGE.  Huge is an understatement.  Its entire wing
+span could place your home town in shadow.  And it seem rather
+perturbed about what you are doing in its nest.  A BAD idea to be
+here.    
+~
+2090 0 0 0 536870928 0 0 0 0 E
+66 43 -40 1d49+901 5d6+33
+0 204434
+8 8 2
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 24
+Luck: 12
+Race: 3
+E
+#24007
+hermit mountain~
+the Mountain Hermit~
+A mountain dwelling hermit is standing here, sputtering incoherently at you.
+~
+This mountain hermit has been secluded from any intelligent society so
+long that he has lost any concept of coherent speech.  Instead he
+cackles at you, making strange clicks with his tongue, mingled with
+hoots and imitations of birdcalls.  He is dressed in grimy rags,
+obviously in need of repair, and smells as if he hasn't had a bath in
+ages.    
+~
+253963 0 0 0 33554512 256 0 0 0 E
+170 162 -60 1d49+901 25d26+113
+6000 2282239
+8 8 1
+BareHandAttack: 5
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 16
+Luck: 12
+Class: 5
+Race: 14
+E
+#24008
+snake water~
+a Water Snake~
+A large water snake hisses warningly!
+~
+Swimming towards you is a large water snake.  It looks to be about
+five feet long and well adapted to swimming as it manages to reach the
+distance between itself and you quickly.  It is covered with small
+reddish scales, and as it opens its mouth to strike, you can see long
+fangs gleaming.    
+~
+16908298 0 0 0 16779408 2 0 0 0 E
+30 14 -20 1d49+901 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Race: 2
+E
+#24009
+frogman citizen~
+a Frogman Citizen~
+A Frogman citizen is here, staring at you.
+~
+This Frogman citizen regards you with curiosity mixed with disdain.  
+It is a commoner Frogman, and not quite used to dealing with anything
+out of the ordinary.  It goes about its life, searching for food and
+looking for meaning in exisiting.    
+~
+6216 0 0 0 16 0 0 0 0 E
+68 45 -40 1d49+901 6d6+45
+2400 220604
+8 8 0
+BareHandAttack: 13
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 6
+Luck: 12
+Class: 12
+Race: 7
+E
+#24010
+guard frogman~
+a Frogman Guard~
+A Frogman guard is here, watching you.
+~
+This Frogman guard watches you carefully, waiting to see you make one
+suspicious move before attacking you.    
+~
+530504 0 0 0 33554448 0 0 0 0 E
+68 45 -40 1d49+901 6d6+45
+2400 220604
+8 8 1
+BareHandAttack: 11
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 13
+Luck: 12
+Class: 10
+Race: 7
+E
+#24011
+shaman frogman~
+the Frogman Shaman~
+The Frogman shaman is here, chanting a mantra.
+~
+This Frogman is the shaman of the village.  Chanting a mantra in a
+speech not unlike the croak of a toad, he mixes a potion slowly,
+pausing only to look at you and grimace.    
+~
+559114 0 0 0 67371024 0 0 0 0 E
+95 72 -40 1d49+901 6d8+63
+3200 595126
+8 8 1
+BareHandAttack: 15
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Class: 2
+Race: 7
+E
+#24012
+chief frogman~
+the Chief Frogman~
+The Chief Frogman is here, eating some fish.
+~
+This is the largest Frogman you have seen.  A full human height, his
+greenish skin is mottled with spots of gold and you can see large
+strong muscles evident as he moves.  This is NOT a Frogman to be
+messed with.    
+~
+526346 0 0 0 33554768 0 0 0 0 E
+135 117 -60 1d49+901 16d17+90
+3800 1394633
+8 8 1
+BareHandAttack: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 22
+Luck: 12
+Class: 4
+Race: 7
+E
+#24013
+pelican~
+a Pelican~
+A pelican is catching fish here.
+~
+This pelican is happily scooping fish up by the beakful and gobbling
+them down.    
+~
+76 0 0 0 8388736 0 0 0 0 E
+17 6 32 1d49+901 1d3+11
+0 6432
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 14
+Luck: 12
+Race: 3
+E
+$

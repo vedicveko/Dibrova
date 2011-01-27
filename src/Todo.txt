@@ -1,0 +1,29 @@
+
+NOT DONE:
+Finish demon quest (Greyfeather)
+Locate Object (code is checking first alias'd word on obj, not the word
+               spec'd by caster)
+Retrieve Corpse (doesnt recognize if player in room)
+
+Add weapon types in olc (Kaan, need list from Greyfeather)
+ -- All zones will have to be oedit saved, then the code updated.
+ -- Lotsa new macros at the end of utils.h
+ -- The Types:
+   -- "cloth",
+   -- "leather",
+   -- "copper",
+   -- "iron",
+   -- "steel",
+   -- "silver",
+   -- "magical", 
+ -- New obj file spares
+ -- As of 12-27-01, it saves and reads from a file, all objs have been updated.
+    As of yet, the code has no effect in the game.
+
+RP Points (Blackadder)
+CHA to affect shop prices
+Level based lock picking
+QUEST_ITEM flag on objs disallows picking up of more than one
+Ferries are not working? (DV)
+A finite solution to the negative exp bug (DV)
+

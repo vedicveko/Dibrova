@@ -1,0 +1,958 @@
+#5800
+tower bell~
+/cwthe bell tower/c0~
+/cwA rounded brick bell tower rises above the square./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+9999 100 1 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bell~
+Just up a set of steps lies the door to the tower.  It does not appear to be
+off-limits to the general populace.    
+~
+E
+tower~
+Just up a set of steps lies the door to the tower.  It does not appear to be
+off-limits to the general populace.    
+~
+#5801
+watchglass glass~
+/cwa/cc watchglass/c0~
+/cwA/cc watchglass/cw has been dropped here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+7 57 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5802
+tunic forest green~
+/cwa /cgforest-green/cw tunic/c0~
+/cwA /cgforest-green/cw tunic lies left on the ground by someone./c0~
+~
+9 1847810 0 0 0 9 0 0 0
+8 0 0 0 0 0 0 0
+6 16673 0 61 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 2
+A
+25 1
+A
+3 -1
+#5803
+cap pointed~
+/cwa /cgpointed cap/c0~
+/cwA /cgpointed cap/cw has been dropped on the ground./c0~
+~
+9 0 0 0 0 17 0 0 0
+3 0 0 0 0 0 0 0
+4 13680 0 57 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 25
+A
+5 1
+#5804
+leather cross straps~
+/cwa set of /cyleather cross-straps/c0~
+/cwA set of /cyleather cross-straps/cw have been left here./c0~
+~
+9 1323520 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+4 21773 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+straps~
+They are made of thick leather which make an 'X' over one's torso.  
+They are the attire of hit men and thugs.    
+~
+A
+19 4
+A
+18 4
+A
+13 -35
+A
+3 -1
+A
+25 -2
+#5805
+small leather hip pouch~
+/cwa small /cyleather /cwhip pouch/c0~
+/cwA small /cyleather /cwhip pouch lies tossed to the ground./c0~
+~
+15 0 0 0 0 2049 0 0 0
+23 1 -1 0 0 0 0 0
+7 35 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+1 1
+A
+18 -2
+#5806
+boots pair cuffed~
+/cwa pair of cuffed boots/c0~
+/cwA pair of cuffed boots have been dropped here./c0~
+~
+9 1356288 0 0 0 65 0 0 0
+7 0 0 0 0 0 0 0
+10 19406 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+boots~
+They go up around knee-high, the leather folding over in neat cuffs.
+~
+A
+18 4
+A
+25 2
+A
+13 30
+A
+19 -2
+A
+28 -10
+#5807
+tunic brown leather~
+/cwa /cybrown leather/cw tunic/c0~
+/cwA /cybrown leather/cw tunic lies thrown to the ground./c0~
+~
+9 0 0 0 0 9 0 0 0
+5 0 0 0 0 0 0 0
+4 233 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5808
+sword short engraved~
+/cwan /ccengraved /cwshort sword/c0~
+/cwAn /ccengraved /cwshort sword has been dropped here./c0~
+~
+5 1847809 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+8 30500 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 3
+A
+1 -2
+A
+13 -20
+A
+19 4
+A
+2 1
+#5809
+sword slender~
+/cwa slender sword/c0~
+/cwA slender sword lies on the ground./c0~
+~
+5 536578 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+5 29492 0 79 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+18 3
+A
+13 35
+A
+1 -2
+A
+25 -1
+#5810
+leggings forest green~
+/cwa pair of /cgforest-green/cw leggings/c0~
+/cwA pair of /cgforest-green/cw leggings lie in a heap./c0~
+~
+9 1847808 0 0 0 33 0 0 0
+6 0 0 0 0 0 0 0
+6 23760 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+14 35
+A
+2 2
+A
+1 -1
+A
+5 -1
+#5811
+dirk sharp~
+/cwa sharp dirk/c0~
+/cwA sharp dirk lies on the ground./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+3 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5812
+shirt tight-fitting~
+/cwa tight-fitting/cL black shirt/c0~
+/cwA tight-fitting/cL black shirt/cw has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+3 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5813
+satchel black leather~
+/cwa /cLblack leather/cw satchel/c0~
+/cwA /cLblack leather/cw satchel has been dropped here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+50 1 -1 0 0 0 0 0
+7 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5814
+ring gold~
+/cwa /cYgold ring/c0~
+/cwA /cYgold ring/cw has been left here./c0~
+~
+20 0 0 0 0 1 0 0 0
+500 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5815
+necklace platinum~
+/cwa /ccplatinum necklace/c0~
+/cwA /ccplatinum necklace/cw lies discarded./c0~
+~
+20 0 0 0 0 5 0 0 0
+1200 0 0 0 0 0 0 0
+4 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5816
+earring ruby~
+/cwa/cr ruby /cwearring/c0~
+/cwA/cr ruby /cwearring has been dropped here./c0~
+~
+8 0 0 0 0 32769 0 0 0
+0 0 0 0 0 0 0 0
+2 3000 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5817
+cape midnight blue~
+/cwa /cbmidnight blue/cw cape/c0~
+/cwA /cbmidnight blue/cw cape has been dropped here./c0~
+~
+9 1057280 0 0 0 1025 0 0 0
+12 0 0 0 0 0 0 0
+5 44466 0 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 4
+A
+13 50
+A
+3 -3
+A
+1 -2
+A
+2 -1
+#5818
+ring glinting black steel~
+/cwa ring of /cLglinting black/cw steel/c0~
+/cwA ring of /cLglinting black/cw steel has been left here./c0~
+~
+11 1061377 0 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+4 29000 0 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+19 6
+A
+25 3
+A
+1 1
+A
+18 -3
+A
+2 -2
+#5819
+suit black body~
+/cwa /cLblack /cwbody suit/c0~
+/cwA /cLblack /cwbody suit has been left here./c0~
+~
+11 1049088 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+7 4834 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -6
+A
+2 1
+A
+19 1
+#5820
+dagger glinting~
+/cwa /cWglinting/cw dagger/c0~
+/cwA /cWglinting/cw dagger has been dicarded here./c0~
+~
+5 1847808 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 36359 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 3
+A
+25 2
+A
+2 -3
+A
+1 -1
+A
+13 -20
+#5821
+sword beveled short~
+/cwa beveled short sword/c0~
+/cwA beveled short sword has been left here./c0~
+~
+5 537088 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+6 45112 0 101 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+1 3
+A
+19 2
+A
+13 -20
+A
+3 -2
+#5822
+handkerchief dusty~
+/cwa /cydusty /cwhandkerchief/c0~
+/cwA /cydusty /cwhandkerchief has been left on the ground./c0~
+~
+12 0 0 0 0 5 0 0 0
+0 0 0 0 0 0 0 0
+3 148 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5823
+blindfold rag~
+/cwa rag blindfold/c0~
+/cwA rag blindfold has been left here./c0~
+~
+12 0 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+2 120 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5824
+belt many pouches~
+/cwa /cybelt /cwof /cwmany /cypouches/c0~
+/cwA /cybelt /cwof /cwmany /cypouches/cw has been left here./c0~
+~
+15 2011136 0 0 0 2049 0 0 0
+35 0 -1 0 0 0 0 0
+8 236 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+14 20
+A
+25 2
+A
+13 -20
+A
+1 -2
+#5825
+boots kender~
+/cwa pair of /cykender /cwboots/c0~
+/cwA pair of /cykender /cwboots have been left behind./c0~
+~
+9 0 9 0 0 65 0 0 0
+8 0 0 0 0 0 0 0
+5 22719 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+2 2
+A
+18 1
+A
+13 -25
+A
+25 1
+A
+2 -2
+#5826
+bundle leather strapped~
+/cwa /cyleather-strapped/cw bundle/c0~
+/cwA /cyleather-strapped/cw bundle has been left here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+90 0 -1 0 0 0 0 0
+7 64 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5827
+blade golaspah's~
+/cCGolaspah's Blade/c0~
+/cCGolaspah's Blade/cw lies glowing upon the ground./c0~
+~
+5 536577 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+11 52433 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 6
+A
+25 -2
+A
+13 -40
+A
+2 -3
+#5828
+cuffs wrist strong set~
+/cwa strong wrist cuff/c0~
+/cwA strong wrist cuff has been left here./c0~
+~
+9 536576 0 0 0 4097 0 0 0
+5 0 0 0 0 0 0 0
+4 36000 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 3
+A
+25 3
+A
+1 2
+A
+3 -3
+A
+5 -2
+#5829
+tool metal small~
+/cwa small metal tool/c0~
+/cwA small metal tool has been left here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 1032 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5830
+cuffs metal arm~
+/cwa pair of metal arm cuffs/c0~
+/cwA pair of metal arm cuffs have been left here./c0~
+~
+9 0 0 0 0 257 0 0 0
+9 0 0 0 0 0 0 0
+6 30333 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 2
+A
+1 2
+A
+3 -2
+A
+5 -1
+A
+25 -1
+#5831
+sword broadsword huge~
+/cwa huge broadsword/c0~
+/cwA huge broadsword has been left here./c0~
+~
+5 684032 6 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+11 61100 0 141 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 40
+A
+19 3
+A
+18 7
+A
+25 -3
+A
+17 -5
+#5832
+band head thin leather~
+/cwa thin /cyleather /cwheadband/c0~
+/cwA thin /cyleather /cwheadband has been tossed aside./c0~
+~
+11 0 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+2 45120 0 141 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+5 3
+A
+3 2
+A
+4 1
+#5833
+armor plate flexible set~
+/cwa set of flexible/cc plate /cwarmor/c0~
+/cwA set of flexible/cc plate /cwarmor has been left here./c0~
+~
+9 1847296 0 0 0 9 0 0 0
+13 0 0 0 0 0 0 0
+12 35492 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+18 2
+A
+13 35
+A
+1 -3
+A
+4 -2
+#5834
+dirk small sharp~
+/cwa small, sharp dirk/c0~
+/cwA small, sharp dirk has been left here./c0~
+~
+5 536576 11 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+4 7560 0 21 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 1
+A
+19 2
+#5835
+gauntlets pair metal link~
+/cwa pair of /ccmetal-link/cw gauntlets/c0~
+/cwA pair of /ccmetal-link/cw gauntlets have been left here./c0~
+~
+9 1839104 2 0 0 129 0 0 0
+7 0 0 0 0 0 0 0
+5 41139 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+2 2
+A
+18 2
+A
+19 2
+A
+13 20
+A
+3 -2
+#5836
+garb servicable travelers~
+/cwsome servicable travelers garb/c0~
+/cwSome servicable travelers garb has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+8 240 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5837
+trap gnomish~
+/cwa /ccgnomish/cw trap/c0~
+/cwA /ccgnomish/cw trap lies on the ground./c0~
+Nothing.
+~
+14 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+4 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5838
+cup small dirty tin~
+/cwa small, dirty /cctin/cw cup/c0~
+/cwA small, dirty /cctin/cw cup has been left here./c0~
+~
+17 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+2 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5839
+rags filthy~
+some filthy rags~
+Some filthy rags lie on the ground, stinking.~
+~
+11 136 0 0 0 9 0 0 0
+0 0 0 0 0 0 0 0
+13 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5840
+shirt striped sailor~
+/cwa /cbstriped/cw sailor's shirt/c0~
+/cwA /cbstriped/cw sailor's shirt has been left here./c0~
+~
+9 0 0 0 0 9 0 0 0
+3 0 0 0 0 0 0 0
+4 220 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5841
+boots black rubber~
+/cwa pair of /cLblack /cwrubber/cw boots/c0~
+/cwA pair of /cLblack /cwrubber/cw boots have been left here./c0~
+~
+9 0 0 0 0 65 0 0 0
+7 0 0 0 0 0 0 0
+5 21299 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 3
+A
+18 4
+A
+3 -2
+A
+25 -2
+#5842
+sword buccaneers~
+/cwa buccaneer's sword/c0~
+/cwA buccaneer's sword lies dropped on the ground./c0~
+~
+5 1978368 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+7 54853 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 4
+A
+18 5
+#5843
+cloth head~
+/cwa /cbstriped /cwhead cloth/c0~
+/cwA /cbstriped /cwhead cloth lies tossed aside./c0~
+~
+11 0 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+2 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5844
+contract paper written~
+/cwa written contract/c0~
+/cwA written contract has been thrown to the ground./c0~
+~
+12 1 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5845
+bill sales blood covered~
+/cwa /crblood-covered/cw bill of sales/c0~
+/cwA /crblood-covered/cw bill of sales has been letf here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5846
+sword swashbuckler~
+/cwa swashbuckler's sword/c0~
+/cwA swashbuckler's sword has been left here./c0~
+~
+5 1847296 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+6 11986 0 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 1
+A
+18 3
+A
+13 15
+#5847
+gloves pair long leather~
+/cwa pair of long /cyleather /cwgloves/c0~
+/cwA pair of long /cyleather /cwgloves have been dropped here./c0~
+~
+9 536576 0 0 0 129 0 0 0
+6 0 0 0 0 0 0 0
+7 27906 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 3
+A
+25 1
+A
+1 -2
+A
+13 -25
+#5848
+cape nondescript~
+/cwa nondescript cape/c0~
+/cwA nondescript cape lies tossed to the ground./c0~
+~
+9 1880064 0 0 0 1025 0 0 0
+8 0 0 0 0 0 0 0
+7 24266 0 91 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+28 30
+A
+14 20
+A
+13 30
+A
+19 4
+A
+1 -2
+#5849
+trousers baggy pair~
+a pair of baggy trousers~
+A pair of baggy trousers have been tossed aside.~
+~
+11 0 0 0 0 33 0 0 0
+0 0 0 0 0 0 0 0
+4 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5850
+knife small rusty~
+a small rusty knife~
+/cwA small /cyrusty/cw knife lies thrown to the ground./c0~
+~
+5 536576 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+4 333 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5851
+knife shiny~
+/cwa /ccshiny/cw knife/c0~
+/cwA /ccshiny/cw knife has been dropped here./c0~
+~
+5 1847296 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+5 13532 0 35 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 2
+A
+13 20
+A
+25 -2
+#5852
+ruby glittering~
+/cwa glittering /crruby/c0~
+/cwA glittering /crruby /cwhas been thrown on the ground./c0~
+~
+20 0 0 0 0 1 0 0 0
+430 0 0 0 0 0 0 0
+1 19 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5853
+bauble shiny~
+/cwa shiny bauble/c0~
+/cwA shiny bauble has been left here./c0~
+~
+20 0 0 0 0 1 0 0 0
+300 0 0 0 0 0 0 0
+3 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5854
+shield glowing blue~
+/cwa glowing shield of /cbblue/c0~
+/cwA glowing shield of /cbblue/cw has been left here./c0~
+~
+9 536577 0 0 0 513 0 0 0
+16 0 0 0 0 0 0 0
+6 75000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 7
+A
+18 3
+A
+1 3
+A
+25 -3
+A
+13 -40
+#5855
+ring glittering silver~
+/cwa glittering /ccsilver /cwring/c0~
+/cwA glittering /ccsilver /cwring has been dropped here./c0~
+~
+11 536577 3 0 0 3 0 0 0
+0 0 0 0 0 0 0 0
+3 44000 0 150 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+17 -3
+A
+18 7
+A
+19 6
+A
+25 -2
+A
+3 -3
+#5856
+necklace plate~
+/cwa /ccplate/cw necklace/c0~
+/cwA /ccplate/cw necklace has been left here./c0~
+~
+9 536576 0 0 0 5 0 0 0
+3 0 0 0 0 0 0 0
+5 45120 0 141 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 40
+A
+28 30
+A
+3 3
+A
+1 2
+#5857
+wrap cloth dirty~
+a dirty cloth wrap~
+A dirty cloth wrap has been left here.~
+~
+12 0 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5858
+basket wicker~
+/cwa /cywicker/cw basket/c0~
+/cwA /cywicker/cw basket has been dropped here./c0~
+~
+15 0 0 0 0 16385 0 0 0
+90 1 -1 0 0 0 0 0
+5 13 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5859
+berries bunch~
+/cwa bunch of /cmberries/c0~
+/cwA bunch of /cmberries/cw have been dropped here./c0~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0 0 0 0 0
+3 8 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5860
+broom~
+a broom~
+A broom has been left here.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5861
+mustache polished~
+/cwa /cLpolished/cw mustache/c0~
+/cwA /cLpolished/cw mustache has been cut off someone's face and left here./c0~
+~
+11 0 0 0 0 262145 0 0 0
+0 0 0 0 0 0 0 0
+2 200 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5862
+robes ornate pair~
+/cwa pair of /cmornate/cw robes/c0~
+/cwA pair of /cmornate/cw robes have been left here./c0~
+~
+9 1049088 0 0 0 1025 0 0 0
+9 0 0 0 0 0 0 0
+7 48333 0 145 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+6 3
+A
+18 4
+A
+3 2
+A
+4 1
+A
+1 -3
+A
+19 -3
+#5863
+ring thumb small silver~
+/cwa silver thumb ring/c0~
+/cwA silver thumb ring has been dropped here./c0~
+~
+11 1061376 9 0 0 65537 0 0 0
+0 0 0 0 0 0 0 0
+3 35260 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+3 3
+A
+1 -2
+#5864
+broom small~
+/cwa small broom/c0~
+/cwA small broom has been left here./c0~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+4 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5865
+file nail~
+a nail file~
+A nail file has been dropped here.~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5866
+fountain spraying misting ornate~
+/cwan ornate fountain/c0~
+/cwAn ornate fountain sprays a fine mist over the square./c0~
+~
+23 0 0 0 0 0 0 0 0
+20000 20000 15 0 0 0 0 0
+20005 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#5867
+note crumpled~
+/cwa /cycrumpled note/c0~
+/cwA /cycrumpled note/cw has been dropped upon the ground./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+2 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+note~
+Unglewerg be the word that will get ye into kahoots with Excelcier.
+~
+#5899
+deed Dun Pith~
+the Deed to the Dun Pith~
+A small sheet of paper lies here.~
+~
+28 0 0 0 0 16385 0 0 0
+58 0 0 0 0 0 0 0
+0 5000000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deed dun pith~
+Hold this deed to claim the Dun Pith for your clan.
+~
+$~

@@ -1,0 +1,170 @@
+#3400
+snake small~
+a small Snake~
+A small snake slithers by your feet.
+~
+Hiss!
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 2
+E
+#3401
+large snake~
+a large Snake~
+A large snake lies here.
+~
+HISS!    
+~
+72 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 21
+Luck: 12
+Race: 2
+E
+#3402
+wolf black~
+a Black Wolf~
+A large black wolf is here.
+~
+Growl!    
+~
+72 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 1
+BareHandAttack: 4
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Race: 1
+E
+#3403
+web giant~
+a giant Web~
+A giant web lies here.
+~
+This web is huge.  Its strands are easily the thickness of your wrist,
+and covered in a sticky substance.    
+~
+72 0 0 0 0 0 0 0 0 E
+17 6 32 1d17+700 1d6+8
+0 6432
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 12
+E
+#3404
+strange vine~
+a strange Vine~
+A strange vine grows here.
+~
+This is an odd-looking greenery!
+~
+72 0 0 0 0 0 0 0 0 E
+18 7 28 1d18+800 1d6+9
+0 7441
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Race: 26
+E
+#3405
+goblin robber~
+a goblin Robber~
+A goblin is here, about to rob you.
+~
+This goblin is part of a band of goblin robbers.  Unfortunately, they
+aren't real big on courage.    
+~
+104 0 0 0 2048 0 0 0 -700 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 14
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 24
+Luck: 12
+Class: 3
+Race: 31
+E
+#3406
+goblin leader~
+the goblin Leader~
+The leader of the goblin robbers stands here.
+~
+This goblin is the biggest goblin you've ever seen.  He is only
+slightly shorter than you, filled with strong muscles and a mean face.
+He smokes a fat cigar and orders his men around, trying to organize
+them for an ambush.    
+~
+16488 0 0 0 65536 4194304 0 0 -900 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 6
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 24
+Luck: 12
+Race: 31
+E
+#3407
+goblin smallest~
+the smallest Goblin~
+The smallest goblin robber is here.
+~
+This goblin is the smallest goblin you've ever seen.  He tags along
+with the rest of the gang, equal to them in spirit and savagery, but
+even more so in courage.  He smiles at you, wondering if you would
+taste better chopped up into chutney or fricaseed.    
+~
+8 0 0 0 0 0 0 0 -800 E
+20 8 20 7d8+1000 1d4+13
+150 9735
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 18
+Luck: 12
+Race: 31
+E
+$

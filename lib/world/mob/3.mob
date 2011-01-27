@@ -1,0 +1,698 @@
+#300
+guard maze~
+the Maze Guard~
+The Maze Guard stands here.
+~
+This tortured creature stands about 6 feet in height, but is anything
+but human.  It has a tail that is thick as a tree trunk and a set of
+teeth that could mangle any creature far beyond recognition...  
+Careful on this one pal.    
+~
+72 0 0 0 0 0 0 0 -50 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 9
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Luck: 12
+Class: 9
+Race: 29
+E
+#301
+zombie~
+a Zombie~
+A Zombie wanders the streets here.
+~
+By the looks of it's tattered clothing you can see that this zombie
+has gone through some pretty sick torture.    
+~
+72 0 0 0 0 0 0 0 -50 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 1
+Str: 23
+Dex: 12
+Int: 25
+Wis: 13
+Con: 22
+Cha: 22
+Luck: 12
+Race: 6
+E
+#302
+guard gate~
+the Gate Guard~
+A Gate Guard stands here looking glass-eyed at the horizon.
+~
+He is buff and looks more than capable of kicking ass!
+~
+72 0 0 0 0 0 0 0 -50 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 22
+Luck: 12
+Race: 29
+E
+#303
+zombie female~
+the female Zombie~
+The Female Zombie stands here.
+~
+You see a woman that once, long ago, could have been beautiful.  Now
+all she is, is dead.    
+~
+72 0 0 0 0 0 0 0 -50 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 14
+Luck: 12
+Race: 6
+E
+#304
+guerrand~
+Guerrand~
+Guerrand stands here, keeping shop.
+~
+Guerrand is dressed in cheap Asian garb and is wearing cheap cologne.
+~
+16458 0 0 0 0 0 0 0 -50 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 14
+E
+#305
+big hairy monster~
+the Big Hairy Monster~
+The Big Hairy Monster stands here.
+~
+This monster is big and hairy.
+~
+72 0 0 0 0 0 0 0 -50 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+BareHandAttack: 9
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+E
+#306
+dad~
+Daddy~
+Daddy stands here.
+~
+Who's yo daddy! HE IS!!!
+~
+104 0 0 0 64 0 0 0 -50 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 12
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+Race: 14
+E
+#307
+momma~
+Momma~
+Momma stands here.
+~
+Yo Momma!
+~
+104 0 0 0 64 0 0 0 -50 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 2
+BareHandAttack: 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Race: 14
+E
+#308
+brother~
+Brother~
+Brother stands here.
+~
+A BROTHER!!!
+~
+104 0 0 0 64 0 0 0 -50 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 12
+Race: 14
+E
+#309
+sister~
+Sister~
+Sister stands here.
+~
+You must be Tommy.
+~
+104 0 0 0 64 0 0 0 -50 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+BareHandAttack: 13
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 25
+Luck: 12
+Race: 14
+E
+#310
+wizard~
+the Wizard of the Maze~
+The Wizard of the Maze stands here.
+~
+He looks pretty much like a wizard to me...
+~
+72 0 0 0 262144 0 0 0 -50 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 1
+BareHandAttack: 15
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 12
+Luck: 12
+Class: 1
+Race: 14
+E
+#311
+oracle~
+the Oracle~
+The Oracle floats about here.
+~
+It's thin hair floats around in the ocean current.  With each new wave
+of water it's body jerks just a little...  This being seems nothing
+short of dead to you, until it cracks an eye...    
+~
+16458 0 0 0 65536 4194304 0 0 -50 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 22
+Luck: 12
+Class: 2
+Race: 44
+E
+#350
+guiding angel~
+the Guiding Angel~
+A beautiful angel stands here, ready to guide you.
+~
+A shimmering light radiated from the Guiding Angel, showing that she
+is favored among angels.  Long tresses of flaxen hair and almond eyes
+compliment her fair features.  A gleam, deep in her eye, shows that
+she is far more than what she appears to be.    
+~
+245786 0 0 0 67664 4325378 0 0 1000 E
+200 204 -100 1d1+0 40d45+133
+0 3454164
+8 8 2
+BareHandAttack: 3
+Str: 19
+Dex: 20
+Int: 14
+Con: 19
+Cha: 19
+Luck: 21
+Class: 2
+Race: 45
+E
+T 329
+#351
+man homeless~
+the Homeless Man~
+A homeless man lays here, looking pitiful and weak.
+~
+He has not had a decent meal in days and his appearance sorely shows
+it.  Gaunt and frail, his ribs are beginning to show and his breath is
+becoming ragged due to the ravishes of hunger.  However, his eyes are
+bright and alert, showing the savy he has in surviving out here on the
+streets.    
+~
+2058 0 0 0 16 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+5 5 1
+Str: 9
+Dex: 20
+Int: 16
+Wis: 6
+Con: 19
+Cha: 10
+Luck: 10
+Race: 14
+E
+T 300
+T 301
+T 302
+T 332
+T 333
+#352
+man irritating ~
+an extremely irritating Man~
+An extremely irritating man hops about and cackles with glee!
+~
+His personallity is totally irritating, most folks cannot stand being
+in the same room with him for more than a few minutes.  Smiling
+crookedly, his eyes gleam with the prospect of annoying yet another
+poor being.    
+~
+2058 0 0 0 2128 2 0 0 -300 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 0
+Str: 10
+Dex: 14
+Int: 7
+Wis: 14
+Con: 8
+Cha: 6
+Luck: 18
+Race: 14
+E
+T 321
+#353
+cruel thug~
+a cruel Thug~
+A thug stands here, wearing a cruel smile upon his face.
+~
+A scar runs down his face, which also wears the mask of cruelty.  He
+is big and muscular, hardened from years of crime on the streets.    
+~
+38938 0 0 0 16 131072 0 0 -750 E
+102 79 -40 1d1+0 9d10+68
+3200 620364
+8 8 1
+BareHandAttack: 14
+Dex: 5
+Int: 25
+Wis: 5
+Con: 25
+Cha: 20
+Luck: 19
+Class: 3
+Race: 14
+E
+T 310
+#354
+thug brutal~
+a brutal Thug~
+A brutal thug sneers and spits over his shoulder with disgust!
+~
+He is brutal, showing no kindness towards the lesser folks.  His
+mannerism is rude and condescending, thinking only of himself and his
+comrades in crime.    
+~
+202762 0 0 0 33554448 0 0 0 -1000 E
+133 115 -60 1d1+0 16d16+88
+3700 1220501
+8 8 1
+BareHandAttack: 11
+Str: 9
+Dex: 15
+Int: 9
+Wis: 8
+Con: 19
+Cha: 20
+Luck: 22
+Class: 3
+Race: 32
+E
+T 311
+#355
+beaten man~
+a badly beaten Man~
+A badly beaten man lies here, weak from the loss of blood.
+~
+Huge welts and bruises cover his body, all fresh from the beating he
+has endured.  A large gash streaks from his chin to scalp, bleeding
+profusely.  He trembles and contorts as pain racks through his body.
+~
+10 0 0 0 16 0 0 0 323 E
+140 124 -60 1d1+0 17d17+93
+0 1391050
+8 8 1
+Str: 9
+Dex: 24
+Int: 9
+Wis: 16
+Con: 10
+Cha: 23
+Luck: 19
+Race: 14
+E
+T 309
+T 312
+#356
+man pious~
+a Pious Man~
+A pious man looks up and smiles softly.
+~
+Plainly dressed and of gentle nature, the pious man has survived in
+this part of town due to his philosophy of "Do unto others as you want
+them to do unto you".  He is balding, sporting a few wisps of hair on
+the side of his head, yet retains a youthful appearance in whole.    
+~
+2058 0 0 0 16 0 0 0 850 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 1
+Str: 20
+Dex: 19
+Int: 15
+Wis: 18
+Con: 25
+Cha: 13
+Luck: 5
+Class: 2
+Race: 14
+E
+T 322
+T 326
+#357
+pastor~
+the poor Pastor~
+An old, poverty-strcken pastor stands here, tears on his face.
+~
+It looks unfinished.  Time and poverty are taking their toll upon the
+poor pastor's stamina and will to carry on the church's good work
+among the poor of the town.  Bags surround his eyes and wrinkles adorn
+his weary face, showing how much anguish his soul is in.    
+~
+2058 0 0 0 16 0 0 0 753 E
+63 40 -40 1d1+0 6d6+42
+2150 181566
+8 8 1
+Str: 19
+Dex: 5
+Int: 18
+Wis: 8
+Con: 16
+Cha: 23
+Luck: 8
+Race: 14
+E
+T 303
+T 304
+#358
+demon~
+a minor Demon~
+A shadow of a minor demon wavers in and out of view.
+~
+Glowing eyes, filled with rage, shine from a barely, discernable
+shadowy form.  The minor demon is a parasite, feeding off the anguish
+of it's victims.    
+~
+100378 0 0 0 20 131072 0 0 -1000 E
+138 121 -60 1d1+0 16d17+92
+4000 1340936
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 14
+Int: 21
+Wis: 19
+Con: 9
+Cha: 18
+Luck: 21
+Race: 51
+E
+T 307
+#359
+girl tormented~
+the tormented Girl~
+A young girl shrieks hysterically upon the sight of you!
+~
+She is young, a pitiful castaway of society.  Her auburn hair is all
+tangled and unkempt, blue eyes filled with fear and conflict.  Living
+on the streets are beginning to take their toll on her health.    
+~
+2058 0 0 0 16 0 0 0 560 E
+90 66 -40 1d1+0 6d7+60
+3200 450852
+8 8 2
+Str: 25
+Dex: 20
+Int: 20
+Wis: 22
+Con: 18
+Cha: 24
+Luck: 23
+Race: 14
+E
+T 305
+T 306
+T 308
+#360
+man dying~
+the dying Man~
+A young man lies here, dying from multiple complications.
+~
+The man is young and is proof of the cruelties of life.  His body is
+thin and palid, as if all life is slowly ebbing out of him.  His grip
+on reality still remains strong and true.    
+~
+2058 0 0 0 4112 589824 0 0 0 E
+150 136 -60 1d1+0 20d20+100
+5000 1658628
+5 5 1
+Dex: 17
+Int: 7
+Wis: 8
+Con: 9
+Luck: 16
+Race: 14
+E
+T 316
+T 317
+#361
+murderer~
+the Murderer~
+The murderer shakes as if torn between desires to kill you!
+~
+He is, by no means, innocent of what he is.  He does enjoy killing
+others, but he now dislikes it due to his growing fear of some unknown
+influence which threatens to wreck havok to his perfect schemes to
+kill.    
+~
+34826 0 0 0 33554448 0 0 0 -688 E
+143 127 -60 1d1+0 17d18+95
+4400 1468328
+8 8 0
+BareHandAttack: 3
+Str: 8
+Dex: 14
+Int: 20
+Wis: 7
+Con: 13
+Cha: 15
+Luck: 13
+Class: 4
+Race: 14
+E
+T 318
+T 320
+#362
+demonic influence~
+the Demonic Influence~
+The demonic influence howls with glee while encouraging the murderer on!
+~
+The demonic influence is a small wisp of evil energy.  It bonds to an
+unsuspecting victim and fuels their drive to do evil deeds.    
+~
+235530 0 0 0 34603092 131080 0 0 -1000 E
+55 33 -32 1d1+0 5d6+36
+1750 128422
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 10
+Int: 6
+Wis: 5
+Con: 25
+Cha: 8
+Luck: 9
+Race: 11
+E
+T 319
+#363
+crazed ransacker~
+the crazed Ransacker~
+A crazed ransacker runs about, destroying everything in sight!
+~
+She is a stocky girl, strong and fueled by desire to get rich while
+causing massive damage.  Her hair is wild, as wild as the crazed gleam
+in her eyes.    
+~
+169994 0 0 0 16 0 0 0 0 E
+103 80 -40 1d1+0 10d10+68
+3200 635991
+8 8 2
+BareHandAttack: 13
+Str: 20
+Dex: 10
+Int: 23
+Wis: 25
+Con: 5
+Cha: 17
+Luck: 14
+Class: 3
+Race: 14
+E
+T 314
+#364
+sly ransacker~
+the sly Ransacker~
+A ransacker stands in the doorway, smiling slyly.
+~
+This man is clever as well as smart, getting by with ease on the
+streets.  He is tall and wiry, almost to the point of being lanky.  
+~
+71706 0 0 0 16 0 0 0 0 E
+107 85 -40 1d1+0 11d11+71
+3250 700882
+8 8 1
+Str: 5
+Dex: 12
+Int: 14
+Wis: 12
+Con: 14
+Cha: 25
+Luck: 5
+Race: 14
+E
+T 313
+T 315
+#365
+smiling woman~
+the smiling Woman~
+A gentle old woman smiles upon seeing you.
+~
+She is a merry soul, one who looks at the bright side of things.  
+Folks in these parts like and respect her for her kindness to those in
+need.  She has blue eyes, silvery-white hair, weathered skin, and a
+slight stoop in posture.    
+~
+2058 0 0 0 16 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+0 333884
+8 8 2
+Str: 24
+Dex: 24
+Wis: 25
+Con: 16
+Cha: 15
+Race: 14
+E
+T 323
+T 327
+#366
+angelic guardian~
+the Angelic Guardian~
+A powerful angelic guardian stands here, sword and shield at side.
+~
+Transparent and intangible, yet having solid substence, the Angelic
+Guardian is a blaze of holiness.  Hovering, it looks at everyone who
+tries to pass it's way and determines if they are worthy of doing so.
+Beware of it's wrath for it is fiery and terrible!    
+~
+231434 0 0 0 264528 131074 8 0 0 E
+230 248 -100 1d1+0 52d52+153
+9000 5400000
+8 8 0
+BareHandAttack: 3
+Str: 16
+Dex: 9
+Int: 19
+Wis: 14
+Con: 14
+Cha: 17
+Luck: 24
+Class: 6
+Race: 45
+E
+T 324
+T 328
+#367
+supreme one~
+the Supreme One~
+A dazzling light surrounds the Supreme One who stands here!
+~
+All-powerful and all-knowing, the Supreme One is the lord of all that
+was, is, and will be.  Beware it's wrath, which is as infinite as it's
+kindness and love.    
+~
+10 0 0 0 264272 33554434 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+8 8 0
+Str: 25
+Dex: 23
+Int: 17
+Wis: 15
+Con: 6
+Cha: 14
+Luck: 17
+Race: 45
+E
+T 325
+$

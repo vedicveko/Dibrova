@@ -1,0 +1,172 @@
+Shadowmaster (Apr  9) [32518] when a guard tries to stun me but fails, it says he fails to the ground, but he does not
+Shadowmaster (Apr 11) [ 3012] When gettin all from a container... if you dont have the ability to hold what you are gettin out, it tells you you cant hold any more items, but gets it out of the container regardless
+Shadowmaster (Apr 13) [26211] mobs flee whilst bashed
+Beezus   (Apr 23) [ 3040] ? im not getting a message when i land bs, but i do get a message for twisting
+Vargus   (May  9) [ 5830] check for sleep and position for backstab
+Shalgor  (May 10) [ 3014] bag of wonder weighs too much and holds no items!
+Shadowmaster (May 23) [50050] cant talk to u soundproff
+Shadowmaster (May 23) [50050] looks like it worked tho
+Vargus   (May 25) [ 3008] footsteps crunching in the snow in the reception?
+Vargus   (May 25) [ 3014] snow crunch msgs are backward for arrivals
+Vargus   (May 26) [ 5814] group exp is MEGA fucked up
+Vargus   (May 26) [ 9713] The rain stops... I'm in a cave
+Greyfeather (May 30) [ 1204] make mob portals vanish  just like how player portals do
+Xanadu   (May 30) [20202] need a msg saying i cure crit you
+Xanadu   (May 30) [20234] be nice to see a msg when sanc wears off anyone
+Xanadu   (May 30) [19838] light is worthless
+Vargus   (May 31) [ 3014] Just sort of brainstorming.... the dmg msg disappearing thing didnt happen for quite some time after the pwipe. Maybe the problem lies in a higher level skill?
+Dan      (Jun  1) [ 9868] 29e of ms there is a gate i tried to doorbash the gate open twice and it crashed the mud
+Mornelithe (Jun  4) [ 3014] Quest Items loading in clan donation rooms, being !donate will purge our room
+Osiris   (Jun 13) [10102] can't access the "Demon" imm class remort help file. all others work.
+Osiris   (Jun 14) [ 3053] the spell animate dead doesnt work anymore
+Eldorian (Jun 15) [30206] Finding notransfer items in my donation room...someone is dropping them..another bug?
+Zuljin   (Jul  4) [ 3033] Composite longbow , Item Type WEAPON, WEAR POS: TAKE BODY... interesting
+Weilum   (Jul  5) [ 3096] i believe i crashed the mud when i typed l jester in the crystal caves
+Zuljin   (Jul  8) [ 3033] multi-color key ring from mahntor weight = -521
+Klasth   (Jul  9) [ 8741] TYPO in spell 'black breath': Your balack breath kills a Golem Child!
+Mornelithe (Jul 12) [ 7858] FIX INSTANT AGGRO
+Saiforoto (Jul 20) [ 3066] Uh, when you get above level 10 and go into the newbie place you get stuck and can't leave.
+Karal    (Jul 22) [17202] karal wants out of portal quest
+Osiris   (Jul 24) [11107] my corpse got wierd when i died and i was unable to recover my bag with my runes and stuff, said it weighed too much, and it shouldn't have, please fix if you can.
+Shadowmaster (Jul 24) [ 3014] Saif claims he trained his wis at the library, this however should not be possible till level 50
+Delenok  (Aug  1) [ 3023] Berserk can't be used in combat. Says: No way!  You're fighting for your life!
+Shadowmaster (Aug  2) [ 3014] the !summon! that i keep seein, has just appeared where the message for losing Haste should be
+Shadowmaster (Aug  2) [ 3079] when you did the new eq listing, you forgot to do the 'looking at someone else' version of the list
+Shadowmaster (Aug  3) [ 3014] Trip skill is buggy like bash used to be
+Shadowmaster (Aug  3) [ 3014] I dont seem to be receave my combination bonuses
+Shadowmaster (Aug  3) [19802] stun mobskill does not knock the mob over when it misses
+Shadowmaster (Aug  3) [19824] the spell messages are miss aligned somewhere, im gettin !heal!, !summon!, etc where i should be gettin the messages for sanc, haste, etc spells running out
+Shadowmaster (Aug  4) [ 3079] narrowed it down, !heal! appears inplace of the running out message for sacred shield spell
+Shadowmaster (Aug  4) [ 3079] narrowed it down, !summon! appears inplace of the running out message for haste spell
+Shadowmaster (Aug  4) [ 3025] vendor list needs extra spaces on the numbers to accimated 100+ items on the list
+Shadowmaster (Aug  4) [ 3014] clan vendors do not charge enough... runes are only sold for 20k from vendor and needs to be at least 40-50k
+Shadowmaster (Aug  4) [ 3054] did i mention im also gettin !summon! in place of the message for losing haste?
+Shadowmaster (Aug  5) [20009] autogold does not work
+Shadowmaster (Aug  5) [ 3014] i just got RESERVED DB.C for defelction spell wearing off
+Shadowmaster (Aug  6) [ 3014] mental todo note: delfection needs to be removed from score card
+Maverick (Aug  6) [ 3037] 39
+Shadowmaster (Aug  6) [ 3014] narrod down: RESERVED DB.C appears in place of Develction wear off message
+Shadowmaster (Aug  6) [ 3054] just how can blinded mobs assist?
+Shadowmaster (Aug  7) [ 3054] I'm careful about keepin my nosumon flag on.... yet it seems to remove itself?
+Shadowmaster (Aug  7) [19836] stun mobskill gives player lag instead of mob
+Shadowmaster (Aug  7) [ 3014] !wither! is shown instead of the correct wither spell wear off message
+Shadowmaster (Aug 10) [ 3079] there are 2 sanc, haste and bless spells, when only one is needed.
+Shadowmaster (Aug 11) [ 3526] I cant remove I and Q from my prompt
+Shadowmaster (Aug 11) [ 3079] scribe skill needs to check mana first, rather than sucsus rate,
+Shadowmaster (Aug 11) [20204] im gettin 'Your mortal sight returns.' instead of the message for my sanc spell wearing off
+Shadowmaster (Aug 17) [20253] robin hood just knocked me down, givin no skill message at all
+Shadowmaster (Aug 17) [ 3586] hmm, we own this shop yet it produces no profits
+Shadowmaster (Aug 18) [ 3079] Does HIDE actually work?
+Shadowmaster (Aug 18) [ 3014] trackin mobs move way to slowly
+Shadowmaster (Aug 18) [ 3014] note: tracking, not portallin
+Shadowmaster (Aug 20) [20211] seal person dont work on mobs
+Shadowmaster (Aug 23) [ 3079] haste spell should cost more mana, it lasts for fuckin every, like 40 hours
+Shadowmaster (Aug 29) [30503] Hmm, I should be able to understand both dk spells and cleric prayers when used by others of those clases, rather than the mixed up words
+Shadowmaster (Aug 31) [  500] resport mega mana x3 potion restored 110 mana.... errr... to a low lev that might be nice....
+Klasth   (Sep  3) [ 3054] when i got restored after a fight in the pit, my move was not restored
+Koleda   (Sep  7) [ 3054] change exchange qps message for when you don't have enough qps to exchange: You do not have enough gold
+Shadowmaster (Sep  9) [ 3014] compare: the Dibrovan Sword of Death and a long sword look about the same. - err yea... right?
+Shadowmaster (Sep 11) [ 3014] how can the who list say noones on??? im here!!!... i am here aint i???? errr!!!!
+Shadowmaster (Sep 12) [ 3014] weee, recall command works for me ;)
+Shadowmaster (Sep 12) [30503] i have REGEN, am sleepin, and in a heal room, hp and move regen seem ok, mana regen is seriously way to slow and should be looked at.
+Delilmanduil (Sep 12) [ 1298] rank still allows itself to fall below 0 if a serf dies
+Shadowmaster (Sep 15) [20256] traped in this room due to stepness?? (why the hell does stepness require a thief??)
+Shadowmaster (Sep 18) [30503] im not 100% sure, but i dont think im receaveing a mounted bonus any longer
+Xaede    (Sep 18) [ 3002] when "holy armor" prayer runs out you get "Your shield of deflection has worn off"
+Shadowmaster (Sep 19) [ 3014] deceive does not toggle correctly, once removed, it constantly tries to remove it rather than reapplin it, also, it automaticly runs out, and i think the blank line im seein is supposted to be the run out message
+Shadowmaster (Sep 19) [ 3014] disregard my mana regen bug reports, i beleave soulsuck might be a vaild reason for mana regen being so sucky
+Shadowmaster (Sep 19) [ 3014] after futher testing, im very sure the blank line is decieves run out message
+Xastar   (Sep 19) [13691] Herm... a minor 'illogicality' in the midgaard asylum - the doctors at the top levels will heal me while I'm killing them. :p
+Xastar   (Sep 19) [ 3014] I think the befriend skill don't work - I tried befriendly quite a lot of stuff - fidos, bears, snakes, lions, warthogs - they all don't get charmed. I have 13 Charisma
+Xastar   (Sep 19) [ 3075] Errr... idiot of me - forget about that bug - I didn't practice it yet and thought I had doh
+Xastar   (Sep 19) [ 1035] When charmies tries to walk away from you (their normal mob instinct to wander), they will keep bursting into tears. Perhaps if the charm system was coded slightly further to prevent them from moving once they're charmed, they won't cry so often
+Shadowmaster (Sep 19) [ 3054] where command gives away demons using the decieve skill ;)
+Shadowmaster (Sep 19) [ 3014] we need to fix it so gods dont lose there items to ground when they quit
+Shadowmaster (Sep 19) [  435] there is no message for soulsuck when a corpse does not exists
+Shadowmaster (Sep 19) [ 3014] I can both see and use saint eq, and i should not beable to use the other immortals kits, need to check into this
+Xastar   (Sep 20) [ 1070] there are several doors that work weird in this mud - you open one side, and walk in, the door is closed on the other side. So you open it and walk out, and then you find it closed on the original side you started from
+Xastar   (Sep 20) [ 1070] Could be intentional - can easily be done, but I doubt that's the case? Should I report such doors? Do post on the board if I should or should not, and I will.
+Jeronimas (Sep 20) [ 3006] equipment was destroyed when I quit, not falling onto the ground
+Xastar   (Sep 20) [ 3005] In reflection of my previous post about the 'present' thing, i've killed the booger beast approx 8 times before i figured out - present to omel, give to duke. There has to be a better way. (perhaps present should be present obj target)
+Xastar   (Sep 20) [ 4475] Is the Holy Bank in Malathar supposed to be unusable? i can't withdraw/deposit balance there
+Xastar   (Sep 20) [ 4463] the Guildguards in Malathar doesn't block ppl's access to the guilds - I entered all of them. Might need to be fixed
+Shadowmaster (Sep 20) [ 3014] seems the deceave skill only works if ur not movin, should it not affect whats seen when you leave, enter, the room too?
+Shadowmaster (Sep 21) [19745] if this is ment to be a saint guild, the trainers missin
+Jeronimas (Sep 22) [ 5757] chessboard directions are wrong
+Jeronimas (Sep 22) [ 6191] gypsy fetstiveal bleh spelled wring
+Jeronimas (Sep 22) [ 6191] gypsy festival directions are wrong
+Mythran  (Sep 22) [ 3096] Buffer Overrun Found.
+Shadowmaster (Sep 22) [ 3014] Deceive, acording to the code, this gives sneak, however, sneak is not appied in game
+Shadowmaster (Sep 23) [ 3014] deceive skill is addin something to my affections list, (the SPL: part) but its not listing it
+Shadowmaster (Sep 23) [ 3014] norank toggle for who list no longer works for me
+Xastar   (Sep 23) [ 3367] Standing "Under the Portcullis" in the Lord's Keep, I can "open north" and "open south" - both doors. When I move into the room that this 'north' door opens to however, I have to "open door" instead - same goes for the 'south' door.
+Xastar   (Sep 23) [ 3009] It is possible to activate the guides if we're exiting the grid. If we die in the grid and enter "Welcome to Dibrova" - we will end up usually sitting or something. Typing assist will let you get a guide. Erm... I took a tour - since i never took it. 
+Shadowmaster (Sep 23) [ 3054] I just pushed Klasth's mount south... should'nt he have gone with it being as hes riding it?
+Osker    (Sep 23) [ 3079] i was able to recall out of the grid with my rune
+Jeronimas (Sep 24) [ 3014] Getting cured in a healing facility doesn't remove the poison flag from your character
+Shadowmaster (Sep 24) [ 3037] the list for questeq at questshop needs updating
+Shadowmaster (Sep 25) [19268] -669ali, killed a (Good Mob), -659 ali... errr... *cough*
+Shadowmaster (Sep 25) [20230] this prince john script is purgin my fire drake!
+Shadowmaster (Sep 25) [20228] the 'okay' message on the fireball spell is really unneeded, as fireball spell itself always tells you the result
+Jeronimas (Sep 27) [30501] Cannot rent unless you have 100 gold coins on hand
+Shadowmaster (Sep 27) [10412] sanc staffs work on me, they should not.
+Shadowmaster (Sep 27) [ 3014] i think you've reduced soulsuck way to much
+Shadowmaster (Sep 27) [30503] due to low mana regen, demons relie on soulsuck to regenerate mana, more than 2 per corpse would be nice
+Shadowmaster (Sep 27) [30503] Regenerate spell, affection seems pointless, maybe base it on the players level to improve it
+Shadowmaster (Sep 28) [30503] killin stuff of the opposite align seems to damage my own alignment too much
+Shadowmaster (Sep 28) [20202] ignor my bug report for soulsuck, tho low lev mobs could give a bit more mana
+Shadowmaster (Sep 28) [ 3014] netherclaw spell is more a skill than a spell by the sounds of it (i cant get to the trainer atm so unsure)
+Shadowmaster (Sep 28) [30510] cooo vamp eq!!!
+Shadowmaster (Sep 29) [ 3014] for the ammount of mana netherclaw uses, it should last a lot longer, as it is, weakend flesh is better
+Shadowmaster (Sep 29) [ 3014] and im pretty much positive this should be a skill and not a spell
+Shadowmaster (Sep 29) [20202] removein my dualed weapon deactives netherclaw, which is only affecting my main weapon
+Shadowmaster (Sep 29) [20232] Cleric Prayer, Winds of Reckoning, does not default to victim when none is offered and caster is in combat
+Shadowmaster (Sep 30) [20232] removin any eq removes netherclaw, only weapon should remove it
+Shadowmaster (Sep 30) [ 3014] The weight problem seems to be comming from putting either Liq Containers, maybe other containers, inside one another.
+Jeronimas (Sep 30) [30503] water containers can change the weight of other containers
+Shadowmaster (Oct  1) [20254] lev 135 mobs appear cyan, but dont get exp until lev 140mobs
+Kintsugard (Oct  1) [ 3075] Doing a WHO, currently 6 players on the who list and at least one invis... says 5 chars listed at the bottom
+Kintsugard (Oct  1) [ 3014] footsteps crunch in the snow even when ppl fly
+Shadowmaster (Oct  1) [ 3014] i can soulsuck player corpses
+Jeronimas (Oct  1) [17625] Mage Guildguard in New Thalos blocks you from leaving the guild area but lets you inside
+Kintsugard (Oct  2) [13664] Mobs receive exp from players when killing them. If a player goes back and kills the same that killed them, the player gets that inflated exp. ie, I just killed a mob that normally yields 1190-ish exp for the kill. Since I already killed this mob, I r
+Kintsugard (Oct  2) [13664] Since I already killed this mob, I received 127702 instead.
+Shadowmaster (Oct  2) [20219] Demon Spell: Rain of Fire - Err, doesnt seem to do anything
+Shadowmaster (Oct  2) [ 3014] I could carry more as a lev 150 remort, than i can now, this is probably the same for the other immortals, might want to check the code
+Kintsugard (Oct  2) [13683] The cleric NPCs are actually healing ME when I attack them
+Destructor (Oct  2) [ 3001] I lost my connection to the net I logged back on to the mud about and hour later and found my self at -10hp and unable to do anyting
+Rioden   (Oct  5) [ 3062] Well, I'm going to delete this char anyways (Xastar here) - but I thought I'd just metnion
+Rioden   (Oct  5) [ 3062] I received three mails, dated January 23 (2 of them() and one dated April 23 or osmthething like that
+Jeronimas (Oct  5) [ 3014] cure poison at the hospitals do not actually cure poison
+Trakinas (Oct  6) [26032] help me!
+Trakinas (Oct  6) [26032] i killed everything from the grid and them I CAN'T GET OUT OF THERE!
+Shadowmaster (Oct  6) [ 3014] if i've sealed there mount to the room, should they be able to move around on it still?
+Rahl     (Oct  7) [17360] Grassy Courtyard in Haon-Dor Asylum, It seems to be closed...need to specify what it is
+Shadowmaster (Oct  8) [20221] The death message for spell 'Black Breath' has a typo in its 'Kill' message
+Shadowmaster (Oct  8) [30503] Maybe change warlock from War to WaL, or something else, War looks too much like Warrior
+Jeronimas (Oct  8) [ 8407] mobs seem to hit more often when blinded
+Shadowmaster (Oct 12) [ 3014] umm clan war command stopped workin... i cant unwar dl?
+Shadowmaster (Oct 12) [17658] dont seem to be a key for the door to the west into the palace.
+Rahl     (Oct 12) [ 5718] Seer quest is messed up
+Rahl     (Oct 12) [ 5717] I type give shield vargus where the seer is and it says i alrdy completed it heh
+Shadowmaster (Oct 13) [20221] mobs stay down for 4 rounds after missing a bash, they should only stay down for one round
+Shadowmaster (Oct 13) [20221] err 2 rounds sorry, (bash lag is 2 rounds not 1)
+Shadowmaster (Oct 13) [17330] theres imm eq here, looks like titan eq from the desc, but its NOTAKE
+Shadowmaster (Oct 13) [17330] could be the FEET eq
+Shadowmaster (Oct 14) [ 3014] should'nt my 'sanc' light under group light up? (could add growth, bless, maybe other more popular spells to it too)
+Shadowmaster (Oct 14) [20232] clerics: earthquake is better than demons: rain of fire
+Shadowmaster (Oct 14) [ 3535] a non pk should not be able to use scrolls like paralyze on me
+Shadowmaster (Oct 14) [ 3099] and why does paralyse share fireshields effects??
+Shadowmaster (Oct 14) [ 3014] i cant group my charmies anymore
+Jeronimas (Oct 15) [  634] got a quest to kill a guildmaster, and is impossible to get into the room (if it is even legal to kill a guild master)
+Shadowmaster (Oct 16) [19229] this bank dont work
+Shadowmaster (Oct 16) [ 3014] 2 pant socials?
+Jeronimas (Oct 17) [ 3014] when you spy into another room, instant attacking mobs will attack you 
+Shadowmaster (Oct 20) [ 3014] netherblaze is stoppin me from casting protective spells on others
+Xastar   (Oct 22) [17625] New Thalossave
+Xastar   (Oct 22) [17625] Ugh - New Thalos's Mage Guild guard blocks you in the wrong direction (south). The guild is northwards, but it prevents you from walking back into the city instead
+Shadowmaster (Oct 23) [17324] Vitality could be a bit stronger than what it is, Heal needs to be better than cure critic but worse than vitality,
+Shadowmaster (Oct 23) [17324] Cure critic and Heal both need to cost a little more mana than what they do atm
+Shadowmaster (Oct 23) [17355] Cure critic and Heal both need to cost a little more mana than what they do atm
+Shadowmaster (Oct 23) [17355] opps, sorry
+Delilmanduil (Oct 23) [ 1298] this ---SYSERR: Requesting exp for invalid level!  --- the dates exactly match me gettin mobs to fight each other.... hmmm... interesting??

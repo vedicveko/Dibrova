@@ -1,0 +1,162 @@
+#11000
+pilgrim~
+a lonely Pilgrim~
+A lonely pilgrim wanders on a quest of his own choosing.
+~
+This ragged fellow looks exhausted, yet he still plods on.
+~
+72 0 0 0 0 0 0 0 700 E
+22 9 12 0d0+0 1d4+14
+150 12413
+8 8 1
+Str: 16
+Dex: 19
+Int: 24
+Wis: 24
+Con: 5
+Cha: 6
+Luck: 12
+Race: 14
+E
+#11001
+bandit~
+a Bandit~
+An evil-looking bandit glares menacingly at you.
+~
+These Bandits are the scourge of the Fields.
+~
+72 0 0 0 0 0 0 0 -400 E
+23 9 8 0d0+0 1d4+15
+150 13903
+8 8 1
+BareHandAttack: 11
+Str: 17
+Dex: 9
+Int: 12
+Wis: 6
+Con: 24
+Cha: 9
+Luck: 10
+Class: 3
+Race: 14
+E
+#11002
+knight silverthorne~
+a Knight of Silverthorne~
+A Knight of Silverthorne patrols for bandits.
+~
+These vigilant fellows are ever on guard for bandit incursions.
+~
+2376 0 0 0 0 0 0 0 900 E
+25 11 0 0d0+0 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 8
+Wis: 22
+Con: 9
+Cha: 18
+Luck: 10
+Class: 6
+Race: 14
+E
+#11003
+bird~
+a Bird~
+A single bird cries out as it flies overhead.
+~
+These birds, the Red-tailed Scubbergins, are indigenous to these Fields.
+~
+72 0 0 0 8388608 0 0 0 0 E
+3 0 88 0d0+0 1d1+2
+0 77
+8 8 1
+BareHandAttack: 4
+Str: 21
+Dex: 9
+Int: 21
+Wis: 18
+Con: 14
+Cha: 23
+Luck: 10
+Race: 3
+E
+#11004
+deer~
+a Deer~
+A deer panics as it spies you and tries to flee.
+~
+This harmless beast would make an EXCELLENT meal.
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 0d0+0 1d2+3
+0 283
+8 8 1
+Dex: 6
+Int: 7
+Con: 19
+Cha: 10
+Race: 1
+E
+#11005
+wolf~
+a Wolf~
+A gray wolf slinks silently by.
+~
+These famed creatures are superb hunters.
+~
+72 0 0 0 0 0 0 0 0 E
+8 2 68 0d0+0 1d3+4
+0 941
+8 8 1
+BareHandAttack: 9
+Str: 13
+Dex: 21
+Int: 6
+Wis: 9
+Con: 20
+Cha: 10
+Luck: 8
+Race: 1
+E
+#11006
+figure dark shadowy pkill~
+a dark and shadowy Figure~
+A dark form lurks in the shadows, beckoning you to do evil.
+~
+The form looks back at you and whispers, "I have a secret to sell you".
+~
+10 0 0 0 0 0 0 0 -1000 E
+24 10 4 0d0+0 2d3+16
+150 15497
+8 8 1
+Str: 20
+Dex: 6
+Int: 10
+Wis: 8
+Con: 22
+Cha: 22
+Race: 11
+E
+#11007
+figure forgiver unpkill~
+the Forgiver~
+The forgiver is here to save your soul.
+~
+The forgiver is dressed in flowing white robes, and seems to hover about.
+~
+16394 0 0 0 8454144 4194304 0 0 1000 E
+24 10 4 0d0+0 2d3+16
+150 15497
+8 8 1
+Str: 18
+Dex: 13
+Int: 13
+Wis: 12
+Con: 24
+Cha: 8
+Luck: 25
+Race: 34
+E
+$

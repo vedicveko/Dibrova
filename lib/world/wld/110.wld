@@ -1,0 +1,1141 @@
+#11000
+The South Fields~
+You are marching across the South Fields, a broad expanse of grassy
+plains that extends south to the Red Hills, which are barely visible
+in the distance.  A small forest looms to the north and east of the
+trail you are following.  The city of Silverthorne looms large to the
+west.    
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 0 9865 0
+D2
+~
+~
+0 -1 11001 0
+S
+#11001
+The South Fields~
+You are marching across the South Fields, a broad expanse of grassy
+plains that extends south to the Red Hills, which are barely visible
+in the distance.  Forest looms to each side of the trail you are
+following.    
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 -1 11000 0
+D2
+~
+~
+0 -1 11002 0
+S
+#11002
+The South Fields~
+You are marching across the South Fields, a broad expanse of grassy
+plains that extends south to the Red Hills, which are barely visible
+in the distance.  A large forest lies west of here.    
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 -1 11001 0
+D2
+~
+~
+0 -1 11003 0
+S
+#11003
+The South Fields~
+You are marching across the South Fields, a broad expanse of grassy
+plains that extends south to the Red Hills, which are barely visible
+in the distance.  The foothills of the Red Hills lie south of here.  
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 -1 11002 0
+D2
+~
+~
+0 -1 11004 0
+S
+#11004
+The South Fields~
+You are marching across the South Fields, a broad expanse of grassy
+plains that extends south to the Red Hills, which are barely visible
+in the distance.  The foothills of the Red Hills lie directly south of
+here.    
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 -1 11003 0
+D2
+~
+~
+0 -1 11005 0
+S
+#11005
+The Foothills~
+You have reached the foothills of the Red Hills.  From here you may
+proceed east or west, skirting the hills, or back north.  Heading
+south THROUGH the hills is not possible here.    
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11004 0
+D1
+~
+~
+0 -1 11007 0
+D3
+~
+~
+0 -1 11006 0
+S
+#11006
+A Side Path~
+You are skirting the hills by following a narrow westward path.  In
+the distance you can see the southern edge of a large forest.  There
+is a narrow trail running into the hills toward the slopes of a
+mountain just south of here.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11005 0
+D2
+~
+~
+0 -1 11008 0
+D3
+~
+~
+0 -1 11009 0
+S
+#11007
+A Side Path~
+You are skirting the hills by following a narrow eastward path.  In
+the distance you can see the southern edge of a large forest.  There
+is a bend in the path to the south just ahead.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11011 0
+D3
+~
+~
+0 -1 11005 0
+S
+#11008
+A Rocky Trail~
+The path you are on proceeds toward a narrow path that works its way
+up the steep slope of a mountain.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11006 0
+D3
+~
+~
+0 0 7700 0
+S
+#11009
+A Side Path~
+You are skirting the hills by following a narrow westward path.  In
+the distance you can see the southwestern edge of a large forest.  
+This place is strangely devoid of all animal life.  Everywhere, there
+is silence.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11006 0
+D3
+~
+~
+0 -1 11010 0
+S
+#11010
+A Side Path~
+You are skirting the hills by following a narrow westward path.  In
+the distance you can see the southwestern edge of a large forest.  
+This place is strangely devoid of all animal life.  Everywhere, there
+is silence.  A path heads north into the forest.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 0 662 0
+D1
+~
+~
+0 -1 11009 0
+S
+#11011
+A Bend in the Path~
+Here the path bends sharply to the south, still following the contours
+of the land, cutting through the hills at their lowest point.  The
+forest you spied on the east earlier is right next to the trail.    
+~
+110 32768 0 0 0 10
+D2
+~
+~
+0 -1 11012 0
+D3
+~
+~
+0 -1 11007 0
+S
+#11012
+A Bend in the Path~
+Here the path bends sharply to the east, still following the contours
+of the land, cutting through the hills at their lowest point.  The
+forest you spied on the east earlier is right in front of you.  You
+may enter it by going north at the junction ahead, or ignore it and
+head south through the hills.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11011 0
+D1
+~
+~
+0 -1 11013 0
+S
+#11013
+A Junction~
+You are standing at a T-junction, where you may head north, into a
+dark wood, south, into the hills, or west, back toward a huge city
+barely visible in the distance.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11014 0
+D2
+~
+~
+0 -1 11017 0
+D3
+~
+~
+0 -1 11012 0
+S
+#11014
+The Forest~
+You are treading carefully through a deep forest.  Aside from the
+occasional bird or fox, the place is totally still.  You soon reach a
+fork where you can head north or east.    
+~
+110 32768 0 0 0 3
+D0
+~
+~
+0 -1 11016 0
+D1
+~
+~
+0 -1 11015 0
+D2
+~
+~
+0 -1 11013 0
+S
+#11015
+A Dead End~
+At first this appears to be a dead end, but upon closer inspection you
+notice a narrow path that cuts through the forest.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11026 0
+D3
+~
+~
+0 -1 11014 0
+S
+#11016
+Approaching Civilization~
+You are quite near to a section of the forest which is wide open and
+cleared, inhabited by a barbaric group of warriors.  The entrance to
+their realm lies just north of here.  The trail south leads into the
+woods.    
+~
+110 32768 0 0 0 3
+D0
+~
+~
+0 0 11100 0
+D2
+~
+~
+0 -1 11014 0
+E
+sign~
+The Realm of the Sword Dancers is under the control of Genocide.
+Members of any clan can engage in pkill there
+regardless of level.
+~
+S
+#11017
+Path Through The Hills~
+You are treading south through the Red Hills.  To the north there is a
+large forest, while to the far east you imagine you can see the ocean.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11013 0
+D2
+~
+~
+0 -1 11018 0
+S
+#11018
+Path Through The Hills~
+You are treading south through the Red Hills.  To the north there is a
+large forest, while to the far east you imagine you can see the ocean.
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11017 0
+D2
+~
+~
+0 -1 11020 0
+S
+#11020
+Bend On The Path Through The Hills~
+You are treading east through the Red Hills.  To the north there is a
+large forest, while to the far east you imagine you can see the ocean.
+A small path runs south into the hills.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11018 0
+D1
+~
+~
+0 -1 11021 0
+D2
+~
+~
+0 -1 11029 0
+S
+#11021
+Path Through The Hills~
+You are travelling east through the Red Hills.  To the north there is
+a large forest, while to the far east you imagine you can see the
+ocean.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11022 0
+D3
+~
+~
+0 -1 11020 0
+S
+#11022
+The Plains~
+At this point the path emerges from the hills, heading across the
+plains to the sea, clearly visible to the east.  The hills to the
+south are now impenetrable.    
+~
+110 32768 0 0 0 2
+D1
+~
+~
+0 -1 11023 0
+D3
+~
+~
+0 -1 11021 0
+S
+#11023
+Path to the Ocean~
+You are heading out along a long, broad featureless path that leads to
+the Ocean you can see to the east.  The occasional farmhouse is
+visible to the north, while the Red Hills loom to the south.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11024 0
+D3
+~
+~
+0 -1 11022 0
+S
+#11024
+Path to the Ocean~
+You are heading out along a long, broad featureless path that leads to
+the Ocean you can see to the east.  The occasional farmhouse is
+visible to the north, while the Red Hills loom to the south.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 -1 11025 0
+D3
+~
+~
+0 -1 11023 0
+S
+#11025
+Before a Cliff~
+Just to the east lies the edge of a short cliff which borders along a
+vast sea.  The tangy smell of the salty air and the sound of the water
+crashing against the rock is enough to make any reasonably curious
+person want to take a look over that precipice.    
+~
+110 32768 0 0 0 10
+D1
+~
+~
+0 0 11300 0
+D3
+~
+~
+0 -1 11024 0
+S
+#11026
+Out of the Woods...~
+Soon you find yourself free of the woods and on a gently sloping plain
+that leads down to the ocean to the east.  A path to the north leads
+toward a very open-looking area with some scattered hills.    
+~
+110 32768 0 0 0 2
+D0
+~
+~
+0 -1 11028 0
+D1
+~
+~
+0 -1 11027 0
+D3
+~
+~
+0 -1 11015 0
+S
+#11027
+Path to the Ocean~
+You are heading out along a long, broad featureless path that leads to
+the Ocean you can see to the east.  The forest looms to the north,
+while rolling fields extend to the south.    
+~
+110 32768 0 0 0 10
+D3
+~
+~
+0 -1 11026 0
+S
+#11028
+An Open Area~
+A path leads north toward a luscious, easy flowing countryside ripe
+with greenery and vegetation.  Animals chitter and skitter playfully,
+the whole area seeming very benign.    
+~
+110 67141632 0 0 0 2
+D0
+~
+~
+0 0 10900 0
+D2
+~
+~
+0 -1 11026 0
+S
+#11029
+A Path Through the Hills~
+You clamber over the rocky terrain, bearing generally south.  In the
+distance you can see some sort of structure.    
+~
+110 32768 0 0 0 10
+D0
+~
+~
+0 -1 11020 0
+D2
+~
+~
+0 -1 11030 0
+S
+#11030
+Rugged Terrain~
+The path comes down into a small depression in the hills, a flat, if
+rugged, stretch of land that runs to the east toward the structure you
+glimpsed earlier.    
+~
+110 32768 0 0 0 4
+D0
+~
+~
+0 -1 11029 0
+D3
+~
+~
+0 0 11031 0
+S
+#11031
+The Path West~
+You are marching steadily along a path that runs east to the City of
+Anon and west over rolling plains toward a distant mountain range.  
+~
+110 0 0 0 0 10
+D1
+~
+~
+0 0 11030 0
+D3
+~
+~
+0 -1 11032 0
+S
+#11032
+The Plains~
+The climate here is dry and sticky, with little wind to relieve the
+humidity.  Pressing on, you march for some time before spying a dusty
+crossroads up ahead.    
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11031 0
+D3
+~
+~
+0 -1 11033 0
+S
+#11033
+A Dusty Crossroads~
+This was once a crossroads, but the southern path has apparently
+disappeared, leaving you with only three choices of direction.  The
+northern path skirts these plains, heading for higher (and cooler)
+country, while the western path plunges right on through.  To the east
+the City of Anon is barely visible.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11034 0
+D1
+~
+~
+0 -1 11032 0
+D3
+~
+~
+0 -1 11048 0
+S
+#11034
+The Northern Path~
+This path quickly reaches a higher, more grassy savannah, which runs
+north for miles.  The land is so flat that you can see smoke rising
+from settlements many miles away to the north and east.  A small
+forest grows in the same direction.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11035 0
+D2
+~
+~
+0 -1 11033 0
+S
+#11035
+The Northern Path~
+This path continues across the grassy savannah, which runs north for
+miles.  The land is so flat that you can see smoke rising from
+settlements many miles away to the north and east.  It has been
+rumored that magical archways occasionally materialize here.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11036 0
+D2
+~
+~
+0 -1 11034 0
+E
+ground~
+There is a circular scorch mark in the dirt here.
+~
+S
+#11036
+The Northern Path~
+At this point the path bends to the west, heading back toward the
+distant mountains.  The settlement you spied earlier is directly
+northwest of here, in the small wood.    
+~
+110 0 0 0 0 10
+D2
+~
+~
+0 -1 11035 0
+D3
+~
+~
+0 -1 11037 0
+S
+#11037
+The Western Path~
+This path runs toward a small group of foothills just before it hits
+the mountains, which are much closer now.  A dimly lit path runs to
+the north of here, directly into the wood.    
+~
+110 0 0 0 0 10
+D1
+~
+~
+0 -1 11036 0
+D3
+~
+~
+0 -1 11038 0
+S
+#11038
+The Western Path~
+This path runs toward a small group of foothills just before it hits
+the mountains, which are much closer now.  The path now begins to
+ascend slightly, and the terrain gradually gets rougher.  A rocky
+outcropping is visible ahead, near a large valley to the south.    
+~
+110 0 0 0 0 10
+D1
+~
+~
+0 -1 11037 0
+D3
+~
+~
+0 -1 11039 0
+S
+#11039
+The Western Path~
+This path runs toward a small group of foothills just before it hits
+the mountains, which are much closer now.  A valley lies to the south.
+There is a rock outcropping just south of here.    
+~
+110 0 0 0 0 10
+D1
+~
+~
+0 -1 11038 0
+D2
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 -1 11040 0
+S
+#11040
+The Western Path~
+You have reached the foothills of the mountains now, and must prepare
+for the long haul upwards.  A chill wind blows at your unprotected
+face, and you wonder how cold it will be at the summit.  A path heads
+north here towards an ancient city.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11070 0
+D1
+~
+~
+0 -1 11039 0
+D4
+~
+~
+0 -1 11041 0
+S
+#11041
+Ascending the Mountains~
+You start your arduous climb up the steep slope of the mountains.  
+After half an hour or so, you actually find the going gets easier, and
+soon after you are astonished to find a man-made trail leading upward,
+which makes climbing significantly easier.    
+~
+110 0 0 0 0 5
+D4
+~
+~
+0 -1 11042 0
+D5
+~
+~
+0 -1 11040 0
+S
+#11042
+Ascending the Mountains~
+At this point, the trail you were following heads east along the slope
+of the mountain toward what looks like a monastery of some sort.  
+However, you are almost at the summit, and continuing further would
+not be impossible.    
+~
+110 0 0 0 0 5
+D1
+~
+~
+0 -1 11043 0
+D4
+~
+~
+0 -1 11044 0
+D5
+~
+~
+0 -1 11041 0
+S
+#11043
+Approaching the Temple~
+Who on earth would want to live up HERE??  Perhaps some weird
+religious cult has its headquarters here?  Or some rigid order of
+warrior monks?  You'll soon find out.    
+~
+110 0 0 0 0 2
+D2
+~
+~
+0 -1 -1 0
+D3
+~
+~
+0 -1 11042 0
+S
+#11044
+The Summit~
+You've reached the summit!  Hurrah!.  Looking around you can see much
+of the world you inhabit.  Broad, grassy plains to the north, beyond
+them the dark forest of Mirkwood.  The city of Anon is visible in the
+middle distance, and beyond that lies the Seas of the Pirate Lords.  
+South of Anon lie the Red Hills, and all that live there.  To the west
+of the mountains lies a scorching desert, where fantastic treasures
+are said to be abundant.    
+~
+110 0 0 0 0 5
+D0
+~
+~
+0 -1 11045 0
+D5
+~
+~
+0 -1 11042 0
+S
+#11045
+The Summit~
+You are at the western end of the summit, where you can begin your
+descent toward the Great Western Desert if you wish.  Alternatively,
+you may return the other way.  Above you, a great castle hovers in the
+sky, suspended by a field of magical energy.  A drawbridge allows
+access.    
+~
+110 0 0 0 0 5
+D1
+~
+~
+0 0 11075 16
+D2
+~
+~
+0 -1 11044 0
+D5
+~
+~
+0 -1 11046 0
+S
+#11046
+The Western Side~
+You are on the western side of the great mountain range that runs
+along the entire western coast of the Continent of Anon.  To the west,
+the Great Western Desert begins, but a series of jagged ridges would
+make it impossible to access from the base...    
+~
+110 0 0 0 0 5
+D4
+~
+~
+0 -1 11045 0
+D5
+~
+~
+0 -1 11047 0
+S
+#11047
+The Western Base~
+You have reached the base of the mountain.  The shimmering sands of
+the desert almost blind you.  Few people have traversed its lengths
+and lived to tell the tale.  Do you wish to risk it?  A Gap in the
+base of the mountain allows you to enter an underground chamber from
+which you hear the sound of running water that may take you to the
+desert.    
+~
+110 0 0 0 0 5
+D4
+~
+~
+0 -1 11046 0
+S
+#11048
+The Dusty Plain~
+You are heading along a dusty plain dotted with the occasional tree or
+low hill.  Clouds skid across overhead, offering little protection
+from the hot sun.    
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11033 0
+D3
+~
+~
+0 -1 11049 0
+S
+#11049
+The Dusty Plain~
+You are heading along a dusty plain dotted with the occasional tree or
+low hill.  Clouds skid across overhead, offering little protection
+from the hot sun.    
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11048 0
+D2
+~
+~
+0 -1 11050 0
+S
+#11050
+The Dusty Plain~
+You are heading along a dusty plain dotted with the occasional tree or
+low hill.  Clouds skid across overhead, offering little protection
+from the hot sun.    
+~
+110 0 0 0 0 2
+D0
+~
+~
+0 -1 11049 0
+D3
+~
+~
+0 -1 11051 0
+S
+#11051
+The Dusty Plain~
+You are heading along a dusty plain dotted with the occasional tree or
+low hill.  Clouds skid across overhead, offering little protection
+from the hot sun.  Up ahead some sort of settlement is visible.    
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11050 0
+D3
+~
+~
+0 -1 11052 0
+S
+#11052
+The Dusty Plain~
+You are heading along a dusty plain dotted with the occasional tree or
+low hill.  Clouds skid across overhead, offering little protection
+from the hot sun.  There is a village to the south of here.  The
+foothills of the mountains are visible ahead.    
+~
+110 0 0 0 0 2
+D1
+~
+~
+0 -1 11051 0
+D3
+~
+~
+0 -1 11053 0
+S
+#11053
+The Foothills~
+You have reached the foothills of the massive mountain range that cuts
+off the west coast of the Continent of Anon from the rest of it.  Due
+to this isolation, many strange and mysterious creatures live and
+prosper in this section.    
+~
+110 0 0 0 0 4
+D1
+~
+~
+0 -1 11052 0
+D3
+~
+~
+0 -1 11054 0
+S
+#11054
+The Base of the Mountains~
+You have reached the base of the mountains, and now will have to start
+climbing.  Hope you're not scared of heights.    
+~
+110 0 0 0 0 5
+D1
+~
+~
+0 -1 11053 0
+D4
+~
+~
+0 -1 11055 0
+S
+#11055
+The Path Divides~
+A little way up the mountain the path divides, heading north and south
+along a ledge that surrounds this mountain.  Progress further upward
+is impossible.  It is snowing heavily.  Don't you wish you'd kept that
+scarf your grandma knitted for you on your 16th birthday now?    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11056 0
+D2
+~
+~
+0 -1 11058 0
+D5
+~
+~
+0 -1 11054 0
+E
+ground earth~
+There is a circular scorch mark in the earth here.
+~
+S
+#11056
+The Northern Trail~
+Slick as it is with ice, this trail is quite treacherous, and more
+than once you feel as if you're about to fall to your death hundreds
+of feet below.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11057 0
+D2
+~
+~
+0 -1 11055 0
+S
+#11057
+The Northern Trail~
+Slick as it is with ice, this trail is quite treacherous, and more
+than once you feel as if you're about to fall to your death hundreds
+of feet below.  To the east hovers a very strange cloud...    
+~
+110 0 0 0 0 10
+D2
+~
+~
+0 -1 11056 0
+S
+#11058
+The Southern Trail~
+Slick as it is with ice, this trail is quite treacherous, and more
+than once you feel as if you're about to fall to your death hundreds
+of feet below.  The dusty plains you crossed to get here are barely
+visible from this height.  You begin to feel quite dizzy.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11055 0
+D2
+~
+~
+0 -1 11059 0
+S
+#11059
+A Bend in the Southern Trail~
+At this point the trail takes a sudden bend to the west and begins to
+slowly descend.  You can't be sure, but you think you can see a forest
+through the snow.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11058 0
+D3
+~
+~
+0 -1 11060 0
+S
+#11060
+The Slow Descent~
+At this point the path begins a real descent, heading down to a
+plateau in the mountains.  A dark wood has grown on this platform,
+testimony to the milder temperatures down there.  You hurry on.    
+~
+110 0 0 0 0 5
+D1
+~
+~
+0 -1 11059 0
+D5
+~
+~
+0 -1 11061 0
+S
+#11061
+The Slow Descent~
+At this point the path continues its descent, heading down to a
+plateau in the mountains.  A dark wood has grwon on this platform,
+testimony to the milder temperatures down there.  You hurry on.    
+~
+110 0 0 0 0 5
+D4
+~
+~
+0 -1 11060 0
+S
+#11062
+A Grove~
+You appearto have entered some sort of mysterious glade.  A path leads
+to the south of here.    
+~
+110 536870912 0 0 0 3
+S
+#11070
+The Path to Midgaard~
+Up ahead loom the impressive city walls of the city of Midgaard.  At
+this point the path splits, allowing you to head west or east around
+the city, to one of the two gates.    
+~
+110 0 0 0 0 10
+D1
+~
+~
+0 -1 11073 0
+D2
+~
+~
+0 -1 11040 0
+D3
+~
+~
+0 -1 11071 0
+S
+#11071
+A Bend in the Path~
+At this point the path bends to the north, heading past several
+battered statues towards the west gate.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11072 0
+D1
+~
+~
+0 -1 11070 0
+S
+#11072
+Outside the West Gate~
+The West Gate of the ancient city of Midgaard, first city established
+in the world of man, rise to the east of here.    
+~
+110 0 0 0 0 10
+D2
+~
+~
+0 -1 11071 0
+S
+#11073
+A Bend in the Path~
+At this point the path bends to the north, heading past several
+battered statues towards the east gate.    
+~
+110 0 0 0 0 10
+D0
+~
+~
+0 -1 11074 0
+D3
+~
+~
+0 -1 11070 0
+S
+#11074
+Outside the East Gate~
+The East Gate of the ancient city of Midgaard, first city established
+in the world of man, rise to the west of here.    
+~
+110 0 0 0 0 10
+D2
+~
+~
+0 -1 11073 0
+S
+#11075
+Celestial Abode of Euphrosyne~
+The patron mother of all saints makes her home in this cloudy expanse
+of sky, high upon the mountain.  Here she ponders upon the greatest of
+all myseteries, searching for the answer that may one day rid the
+world of pain and suffering.    
+~
+110 2162916 0 0 0 5
+D3
+~
+~
+0 0 11045 0
+S
+$~

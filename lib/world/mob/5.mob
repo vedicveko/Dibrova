@@ -1,0 +1,477 @@
+#560
+sir lothar~
+Sir Lothar~
+Sir Lothar is standing here fighting with Orgrim Doomhammer.
+~
+You see Sir Lothar fighting here.  He is the leader of the Nation of
+Azeroth.  His mission is to lead his army into battle against the orcs
+so the orc menace may be destroyed.    
+~
+190810 0 0 0 65592 0 0 0 500 E
+60 37 -36 70d25+3000 5d6+40
+1000 160325
+8 8 1
+Str: 23
+Dex: 21
+Int: 9
+Wis: 14
+Con: 21
+Cha: 5
+Luck: 5
+Class: 6
+Race: 14
+E
+#561
+orgrim doomhammer~
+Orgrim Doomhammer~
+Orgrim Doomhammer is standing here fighting with Sir Lothar.
+~
+You see Orgrim Doomhammer the leader of the orcs.  He is trying to
+take over everything!  If he wins this battle Midgaard could be next.
+~
+256602 0 0 0 28 0 0 0 -1000 E
+59 37 -36 65d25+2900 5d6+39
+975 153599
+8 8 1
+Str: 22
+Dex: 10
+Int: 21
+Wis: 24
+Con: 16
+Cha: 10
+Luck: 19
+Class: 4
+Race: 32
+E
+#562
+alleria~
+Alleria~
+Alleria is standing here aiming at an orc with her bow.
+~
+You see an elvin ranger standing here shooting orcs with here bow.
+~
+256346 0 0 0 56 0 0 0 400 E
+55 33 -32 45d25+2500 5d6+36
+875 128422
+8 8 2
+Str: 15
+Dex: 9
+Int: 7
+Wis: 21
+Con: 25
+Cha: 19
+Luck: 10
+Class: 5
+Race: 15
+E
+#563
+turalyon~
+Turalyon~
+Turalyon is here slaying orcs.
+~
+You see a very powerful paladin standing here killing orcs.
+~
+256346 0 0 0 65560 0 0 0 400 E
+55 33 -32 45d25+2500 5d6+36
+875 128422
+8 8 1
+Str: 24
+Dex: 20
+Int: 13
+Wis: 19
+Con: 8
+Cha: 14
+Luck: 15
+Class: 6
+Race: 14
+E
+#564
+uther lightbringer~
+Uther Lightbringer~
+Uther Lightbringer is standing here assisting Turalyon.
+~
+You see a very powerful paladin standing here helping his friend
+Turalyon.
+~
+260442 0 0 0 65560 0 0 0 400 E
+55 33 -32 45d25+2500 5d6+36
+875 128422
+8 8 1
+Str: 10
+Dex: 25
+Int: 6
+Wis: 24
+Con: 15
+Cha: 6
+Luck: 6
+Class: 6
+Race: 14
+E
+#565
+khadgar~
+Khadgar~
+Khadgar casts one of his many spells, battling for glory.
+~
+You see a very powerful mage standing here conjuring.
+~
+254298 0 0 0 56 0 0 0 400 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 14
+Dex: 9
+Int: 5
+Wis: 21
+Con: 19
+Cha: 18
+Luck: 24
+Class: 1
+Race: 14
+E
+#566
+teron gorefiend~
+Teron Gorefiend~
+Teron is here summoning the undead to aid him.
+~
+You see the remains of a fallen warrior of Azeroth brought back to
+life through black magic to serve the orcish hordes.  He is one of the
+most powerful deathknights and is recognized as a powerful conjurer.
+~
+256538 0 0 0 67174456 4194304 0 0 -1000 E
+55 33 -32 45d25+2000 5d6+36
+875 134843
+8 8 1
+Str: 14
+Dex: 20
+Int: 22
+Wis: 15
+Con: 10
+Cha: 17
+Luck: 22
+Class: 9
+Race: 44
+E
+#567
+deathwing~
+Deathwing~
+Deathwing flyes overhead breathing fire on his enemies.
+~
+You see Deathwing who is second in power to Alexstrasza the fabled
+queen of the dragons. His body is virtually invunlnerable because of his
+adamantine steel plated scales.
+~
+256058 0 0 0 8650808 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 110785
+8 8 1
+Str: 20
+Dex: 15
+Int: 13
+Wis: 13
+Con: 25
+Cha: 15
+Luck: 21
+Class: 4
+Race: 9
+E
+#568
+kargath bladefist~
+Kargath Bladefist~
+Kargath is here stabbing footmen in the eye with his scythe.
+~
+You see Kargath Bladefist standing here.  To show his faith to his
+clan, the Shattered Hand Clan, he cut off his own hand and replaced it
+with a scythe.    
+~
+256538 0 0 0 65592 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 10
+Dex: 18
+Int: 20
+Wis: 22
+Cha: 5
+Luck: 15
+Class: 4
+Race: 14
+E
+#569
+grom hellscream~
+Grom Hellscream ~
+Grom is here battling with the humans.
+~
+You see the leader of the Warsong Clan. He is very tall and strong.
+~
+256538 0 0 0 65592 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 15
+Dex: 18
+Int: 18
+Wis: 13
+Con: 14
+Cha: 17
+Luck: 13
+Class: 4
+Race: 32
+E
+#570
+kil'jaeden~
+Kil'Jaeden~
+Kil'Jaeden is here slaying anything that gets in his way.
+~
+You see the leader of the daemons standing here.  He is a very
+powerful warrior and can defeat anything.  He must have a secret
+agenda for joining the orcs since he can take on every orc on his own.
+~
+780346 0 0 0 33890360 0 0 0 -1000 E
+74 50 -40 65d40+6000 6d6+49
+1250 301057
+8 8 1
+Str: 22
+Dex: 24
+Int: 13
+Wis: 19
+Con: 24
+Cha: 14
+Luck: 7
+Class: 9
+Race: 41
+E
+#571
+gul'dan~
+Gul'dan ~
+Gul'dan uses dark magic to kill his enemies.
+~
+You see Gul'dan the leader of the Stormreaver Clan standing here.  He
+is the most powerful warlock that ever existed.  Trained by the great
+daemon lord, Kil'Jaeden, his powers have risen above all the mortals
+who use spells.    
+~
+784442 0 0 0 81976 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 12
+Dex: 8
+Int: 24
+Wis: 24
+Con: 18
+Luck: 19
+Class: 1
+Race: 14
+E
+#572
+cho'gall~
+Cho'gall~
+Cho'gall is here killing his enemies.
+~
+Cho'gall, the chieftain of the Twilight's Hammer Clan, stands here.  
+He is a two headed orc-mage who is always ready to show his enemy that
+two heads are better than one.  Muhahahahaha!    
+~
+784922 0 0 0 65592 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 9
+Dex: 7
+Int: 6
+Wis: 6
+Con: 21
+Cha: 16
+Luck: 5
+Class: 1
+Race: 32
+E
+#573
+danath~
+Danath ~
+Danath is here bashing his enemies' heads in with his massive strength.
+~
+Danath is a veteran mercenary captain in the Stromgarde Militia.  He
+was a great leader in the second war against the orcs.  He always
+waits to crush his enemies with his massive strength.    
+~
+784666 0 0 0 65592 0 0 0 700 E
+55 33 -32 45d20+2500 5d6+36
+875 128422
+8 8 1
+Str: 16
+Dex: 19
+Int: 23
+Wis: 14
+Con: 9
+Cha: 24
+Luck: 8
+Class: 4
+Race: 13
+E
+#574
+kurdran~
+Kurdran~
+You see Kurdran standing here shocking orcs with his mighty hammer.
+~
+Kurdron is the most powerful griffin rider alive.
+~
+780570 0 0 0 65592 0 0 0 700 E
+55 33 -32 45d25+2500 5d6+36
+875 128422
+8 8 1
+Str: 18
+Dex: 14
+Wis: 13
+Con: 25
+Cha: 14
+Luck: 21
+Class: 5
+Race: 14
+E
+#575
+grunt~
+a Grunt~
+You see a Grunt here defending his lord, Orgrim Doomhammer.
+~
+You see a grunt standing here. He serves Orgrim Doomhammer and will
+do whatever he says.
+~
+22600 0 0 0 0 0 0 0 -1000 E
+40 21 -20 20d20+1200 4d5+26
+500 57012
+8 8 1
+Str: 7
+Dex: 5
+Int: 7
+Wis: 24
+Con: 6
+Cha: 9
+Luck: 23
+Race: 32
+E
+#576
+berserker~
+a Berserker~
+You see a Berserker here throwing axes at the human intruders.
+~
+You see a large Berserker here throwing an axe at you.  He has deadly
+accuracy.    
+~
+6264 0 0 0 65536 0 0 0 -1000 E
+40 21 -20 20d20+1200 4d5+26
+500 57012
+8 8 1
+Str: 20
+Dex: 22
+Int: 23
+Wis: 9
+Con: 15
+Cha: 9
+Luck: 18
+Class: 4
+Race: 32
+E
+#577
+orcish blacksmith~
+an orcish Blacksmith~
+You see an orcish blacksmith making weapons.
+~
+You see an orcish blacksmith.  He is the person who makes the weapons
+and armor for the orcs.    
+~
+18442 0 0 0 0 0 0 0 -1000 E
+40 21 -20 20d20+1200 4d5+26
+500 57012
+8 8 1
+Str: 18
+Dex: 6
+Int: 14
+Con: 14
+Cha: 6
+Luck: 24
+Race: 32
+E
+#578
+orcish tormentor~
+an orcish Tormentor~
+You see an orcish tormentor standing here torturing his victim.
+~
+You see an orc in a black cloak standing here.  He is throwing people
+into various torture devices.    
+~
+18442 0 0 0 0 0 0 0 -1000 E
+50 29 -28 30d20+2000 5d5+33
+750 100714
+8 8 1
+Str: 24
+Dex: 13
+Int: 7
+Wis: 8
+Con: 21
+Cha: 7
+Luck: 17
+Race: 32
+E
+#579
+peon~
+a Peon~
+You see a peon standing here working.
+~
+You see a peon standing here.  His main job is to mine gold, cut
+lumber, and building and repairing buildings.    
+~
+16588 0 0 0 65536 0 0 0 300 E
+40 21 -20 20d19+1200 4d5+26
+500 57012
+8 8 1
+Str: 21
+Dex: 21
+Int: 12
+Wis: 14
+Cha: 25
+Luck: 21
+Race: 32
+E
+#580
+peasant~
+a Peasant~
+You see a peasant working here.
+~
+You see a peasant standing here. It is the human equivalant to a peon.
+~
+16588 0 0 0 65536 0 0 0 500 E
+40 21 -20 20d19+1200 4d5+26
+500 57012
+8 8 1
+Str: 6
+Dex: 13
+Int: 21
+Wis: 19
+Con: 25
+Cha: 22
+Luck: 23
+Race: 32
+E
+#581
+prisoner~
+a tortured Prisoner~
+You see a prisoner being tortured here.
+~
+You see a badly beaten prisoner.  Who knows how long this poor soul
+has been here.  END HIS SUFFERING!    
+~
+16462 0 0 0 65536 0 0 0 1000 E
+35 17 -20 20d15+1000 3d5+23
+0 40559
+8 8 1
+Str: 23
+Dex: 18
+Int: 7
+Wis: 5
+Con: 9
+Cha: 12
+Luck: 8
+Race: 14
+E
+$

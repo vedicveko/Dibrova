@@ -1,0 +1,836 @@
+#5700
+scribe~
+the Scribe~
+The scribe is sitting here, making a new scroll.
+~
+He looks to be a young man in his 20's. He is inclined in the 
+ways of magic.
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 9
+Luck: 12
+Race: 14
+E
+#5701
+the baker~
+the Baker~
+The baker sweats over a hot oven.
+~
+He is a short plump and jolly man.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 23
+Luck: 12
+Race: 17
+E
+#5702
+bartender man~
+the bartender~
+The bartender stands behind the bar serving drinks.
+~
+He is a lagre and burly man, just stay out of his way and you will
+be fine.
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 20
+Luck: 12
+Race: 14
+E
+#5703
+weapons master smith~
+the Weaponsmith~
+The weaponsmith forges a new creation.
+~
+He is tall and well muscled.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 22
+Luck: 12
+Race: 15
+E
+#5704
+cobbler~
+the Cobbler~
+The cobbler sews a new pair of boots.
+~
+He is a small man of little wealth, but he can make a great pair of
+shoes.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 16
+Luck: 12
+Race: 15
+E
+#5705
+drunk~
+a Drunk~
+A drunk staggers about here.
+~
+He is loaded with beer and ready to party.
+~
+11 0 0 0 0 0 0 0 200 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 22
+Luck: 12
+Race: 14
+E
+#5706
+citizen~
+the Citizen~
+A citizen of Silverthorne goes about her daily business.
+~
+She looks to be in a hurry
+~
+77 0 0 0 0 0 0 0 700 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 7
+Luck: 12
+Class: 12
+Race: 15
+E
+#5707
+patrol guard~
+the Patrol Guard~
+The Silverthorne patrol guard stands here, ever vigil.
+~
+He is a tall man and by the looks of it, very strong.    
+~
+4168 0 0 0 0 0 0 0 900 E
+17 6 32 1d17+700 1d3+11
+400 6432
+8 8 1
+BareHandAttack: 13
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 21
+Luck: 12
+Class: 10
+Race: 15
+E
+#5708
+apprentice archer~
+the Apprentice Archer~
+The apprentice archer stands here ready for a battle.
+~
+He looks more like a child than a warrior.    
+~
+72 0 0 0 0 0 0 0 900 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 24
+Luck: 12
+Race: 15
+E
+#5709
+archer~
+the Archer~
+An archer stands here, he looks to be of elven nature.
+~
+He looks like an elf-human.  He must have a very keen eye.    
+~
+10 0 0 0 0 0 0 0 800 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 1
+BareHandAttack: 12
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Class: 4
+Race: 15
+E
+#5710
+watchman~
+the Watchman~
+A watchman sits here scanning the horizon for trouble.
+~
+He is a medium built man, with great eyesight.
+~
+26 0 0 0 0 0 0 0 700 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+6 6 1
+BareHandAttack: 13
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Class: 10
+Race: 15
+E
+#5711
+silver knight~
+the Silver Knight~
+One of the famed silver knights of Silverthorne stands here.
+~
+It is dressed in full armour, that will vanish when killed.    
+~
+6170 0 0 0 0 0 0 0 1000 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 0
+BareHandAttack: 11
+Str: 10
+Dex: 6
+Int: 24
+Wis: 13
+Con: 5
+Cha: 13
+Luck: 12
+Class: 6
+Race: 15
+E
+#5712
+innkeeper~
+the Innkeeper~
+The innkeeper sits in a corner, whittling.
+~
+She is an old woman, who is whittling a duck from some wood.    
+~
+16395 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 16
+Luck: 12
+Class: 11
+Race: 15
+E
+#5713
+teleport operator~
+the Teleport Operator~
+A beautiful woman in a tight-fitting Mage's Guild robe awaits to teleport you.
+~
+She smiles a stunning smile and cocks her cute little head to one
+side.  Man, even if you aren't planning a trip, maybe you should go
+anyway just to get close to that!    
+~
+16394 0 0 0 2128 0 0 0 0 E
+60 37 -36 1d60+7100 5d6+40
+1000 160325
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 16
+Luck: 12
+Race: 15
+E
+#5714
+water master~
+the Water Master~
+The Water Master waits behind his counter, a broad smile upon his face.
+~
+He looks to be the type of man always in high spirits, outgoing and
+generous.  His ample gut jiggles a bit as he chuckles slightly, as if
+sharing a good joke with himself.    
+~
+16394 0 0 0 2384 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 5141
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 16
+Luck: 12
+Race: 14
+E
+#5715
+abernathy old~
+Old Abernathy~
+Old Abernathy squints up at you from beneath his wire rimmed specs.
+~
+Abernathy looks as if he is definately on his last leg, however
+townsfolk who have been around a while say that he has looked like
+that for years now.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 5
+Luck: 12
+Race: 15
+E
+#5716
+banker teller woman pert~
+the young Teller~
+A pert young lady sits behind the counter, a warm smile on her face.
+~
+She is one those types that just looks honest and friendly, someone
+who you automatically assume has no enemies in this world or any
+other.    
+~
+16394 0 0 0 2384 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 5141
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 13
+Luck: 12
+Race: 15
+E
+#5717
+Harvey postmaster master~
+Harvey the Postmaster~
+Harvey the Postmaster stands amists a pile of letters, looking very confused.
+~
+His look of confusion must be perpetual being that every time you have
+EVER come into this post office, he looks much the same.    
+~
+16395 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 24
+Luck: 12
+Race: 14
+E
+#5718
+Abel Jonstone doctor~
+Abel~
+Abel lurches drunkenly, smiles sloppily and grabs his scalpel.
+~
+It appears as if this is his daily routine so why not just relax and
+let him do his thing?    
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Class: 2
+Race: 14
+E
+#5719
+guard member guild thief~
+the Thieven Guild Guard~
+A member of the Thieve's Guild guards the door to the guild.
+~
+His eyes glint with a light that says - try me, I'd be happy to
+accomodate you!    
+~
+190475 0 0 0 2384 0 0 0 -300 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 8
+Luck: 12
+Class: 4
+Race: 15
+E
+#5720
+guard member guild gladiator~
+the Gladiator Guild Guard~
+A member of the Gladiator's Guild guards the door to the guild.
+~
+He wears a lopsided smile that tells you 1) This guy ain't too bright
+and 2) This guy would just LOVE to mash your head in if given the
+chance.    
+~
+190475 0 0 0 2384 0 0 0 0 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 7
+Luck: 12
+Class: 4
+Race: 15
+E
+#5721
+guard member guild cleric~
+the Cleric's Guild Guard~
+A member of the Cleric's Guild guards the door to the guild.
+~
+She looks harmless enough, but chances are that she is not just some
+dainty blossom fresh out of Bible School.    
+~
+190475 0 0 0 2384 0 0 0 1000 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 10
+Luck: 12
+Class: 2
+Race: 15
+E
+#5722
+guild guard member sorceror~
+the Sorceror's Guild Guard~
+A member of the Sorceror's Guild guards the door to the guild.
+~
+Dressed in the robes which are the standard for all employees of the
+Sorceror's Guild, this guy doesn't really seem to intimidating - but
+then, the guild probably wouldn't have placed him out here if he
+couldn't handle himself.    
+~
+190475 0 0 0 2384 0 0 0 0 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 16
+Luck: 12
+Class: 1
+Race: 15
+E
+#5723
+guard member guild paladin~
+the Paladin Guild Guard~
+A member of the Paladin's Guild guards the door to the guild.
+~
+She stands in full battle gear, as if there were soem sort of ceremony
+or war about to happen.  Stiff backed and motionless, she stands at
+rigid attention.    
+~
+190475 0 0 0 2384 0 0 0 600 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 6
+Luck: 12
+Class: 6
+Race: 15
+E
+#5724
+guard member guild monk~
+the Monk Guild Guard~
+A member of the Monk's Guild guards the door to the guild.
+~
+Eyes closed, head bowed, it almost seems as though this tranquil woman
+wouldn't even notice if you tried to pass - then you notice that she
+hovers an inch above the ground and think maybe she might be fully
+aware after all.    
+~
+190475 0 0 0 2384 0 0 0 0 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 2
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Class: 8
+Race: 15
+E
+#5725
+guard member guild ranger~
+the Ranger Guild Guard~
+A member of the Ranger's Guild guards the door to the guild.
+~
+He leans casually against the door, seemingly uncaring or oblivious to
+the fact that you stand outside the guild that he has been charged to
+guard.    
+~
+190475 0 0 0 2384 0 0 0 0 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 6
+Luck: 12
+Class: 5
+Race: 15
+E
+#5726
+guard member guild death knight~
+the Deathknight Guild Guard~
+A member of the Deathknight Guild guards the door to the guild.
+~
+He glares menacingly down at you from beneath his dark helm, a
+disdainful sniff all he gives to acknowledge your presence.    
+~
+190475 0 0 0 2384 0 0 0 -1000 E
+120 100 -40 1d1+10 14d14+80
+2450 1032812
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 16
+Luck: 12
+Class: 9
+Race: 15
+E
+#5727
+guild master~
+the Thieven Guildmaster~
+The Thieven Guildmaster awaits your need.
+~
+He looks at you with a bit of impatience mingled with scorn.  Are you
+worthy of his attention?    
+~
+10 0 0 0 1192 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 22
+Luck: 12
+E
+#5728
+guild master sorceror~
+the Sorceror Guild Master~
+Your guildmaster hovers here, awaying your need.
+~
+His eyes are deep and full of light, they are the eyes of a man who
+has battled through many wars and come out unscathed, only more wise.
+~
+16394 0 0 0 8390736 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 12
+Luck: 12
+E
+#5729
+guild master cleric~
+the Cleric's Guild Master~
+Your guildmaster patiently awaits your need.
+~
+He stands with his hands folded in front of him, head slightly bowed
+in comtemplation.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 5
+Luck: 12
+E
+#5730
+guild master gladiator~
+the Gladiator's Guild Master~
+Your master waits impatiently for you to state your need.
+~
+He wears only a thin shirt and a pair of leather pants, but his sheer
+size - no, his immensity - more than compensates for any lack of
+armor.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 14
+Luck: 12
+E
+#5731
+guild master paladin~
+the Paladin's Guild Master~
+Your guildmaster proudly awaits your need.
+~
+Hands on his hips, head thrown back in a proud stance, he awaits your
+practice or advancement needs.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+E
+#5732
+guild master deathknight~
+the Deathknight's Guild Master~
+Your guildmaster sneers down at you with disdain, awaiting your need.
+~
+This is the type of woman who feels that every being on the planet,
+including those of her own guild, are beneath her.  You will never
+please this woman.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 12
+Luck: 12
+E
+#5733
+guild master monk~
+the Monk's Guild Master~
+You guildmaster meditates on worldly matters while awaiting your need.
+~
+You feel almost as if you should not interrupt his inner peace, but
+then - why else would he be here if not to train you?    
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+E
+#5734
+guild master ranger~
+the Ranger's Guild Master~
+Your guildmaster rests easily on the floor of this room, indian style.
+~
+He notices your entry and flashes you a quick smile, a smile that
+says, 'Hey - anything you need!  '
+~
+16394 0 0 0 2128 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 6
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+E
+#5735
+Orgalaan newbie helper~
+Orgalaan the Newbie Helper~
+Orgalaan the Newbie Helper waits for the next newbie to request help.
+~
+Orgalaan is a kindly old man who has seen all he needs of Dibrova and
+loves this land dearly.  Any newcomer to Dibrova need only type
+/cCNEWBIE/c0, and Orgalaan will send them off to the Newbie
+Headquarters so that they may grow in relative safety.    
+~
+16395 0 0 0 2384 0 0 0 0 E
+100 77 -40 1d100+12000 5d7+50
+5000 648796
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 17
+Luck: 12
+Race: 15
+E
+T 3000
+#5755
+armour man~
+the Armourer~
+The village armourer stand here.
+~
+He is a short man, but a great armour forger.
+~
+16394 0 0 0 2128 0 0 0 0 E
+15 5 40 1d100+12000 1d3+10
+50 4674
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 25
+Luck: 12
+Race: 14
+E
+#5780
+Harry the woodcutter~
+Harry the Woodcutter~
+Harry the woodcutter is here cutting wood.
+~
+He's a quest kill him!
+~
+8 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+5 4
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 24
+Luck: 12
+Race: 14
+E
+#5781
+patient~
+a Patient~
+A patient sits here playing chess whist waiting to see the doctor.
+~
+A patient sits here playing chess, whilst waiting for the nurse to
+tell him the doctor is ready to see him.    
+~
+24586 0 0 0 0 0 0 0 300 E
+5 1 80 1d1+0 1d2+3
+5 283
+8 8 1
+Str: 10
+Dex: 6
+Int: 20
+Wis: 17
+Con: 25
+Cha: 22
+Luck: 15
+Race: 14
+E
+$

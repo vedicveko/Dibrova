@@ -1,0 +1,232 @@
+#9201
+witch hag woman~
+a Witch~
+A robust woman grins as she watches you in her cottage.
+~
+She appears to be an old woman whom you guess to be a witch since she
+has in her hand a wand, and in the room is a magical red book.    
+~
+2058 0 0 0 262416 0 0 0 0 E
+29 13 -16 1d29+2200 3d3+19
+250 30129
+8 8 2
+BareHandAttack: 15
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 13
+Luck: 12
+Class: 1
+Race: 14
+E
+#9202
+sailor~
+the Sailor~
+A stranded sailor stands here.
+~
+It appears that this sailor's captain has left him here on the dock.
+~
+10 0 0 0 0 0 0 0 900 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 15
+Luck: 12
+Race: 14
+E
+#9203
+Shark bala~
+a small docile Shark~
+A small docile shark swims by you.
+~
+A small and very friendly yet scared cousin of the great white, the
+bala feeds on algae and small animals.  Half feeding and half sleeping
+the little shark floats on the currents searching the sea floor for
+goodies.    
+~
+8268 0 0 0 0 0 0 0 200 E
+20 8 20 1d20+1000 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 21
+Luck: 12
+Race: 4
+E
+#9204
+giant anemone~
+a Giant Anemone~
+A giant anemone sits here attached to a rock, searching for food.
+~
+This huge ananome has attached itself to a rock and from the looks of
+it, gets all the good food floating too close to its tentacles.  With
+a poison that will almost kill a full grown man, this ananome is ready
+for even the best onslaught.    
+~
+16793642 0 0 0 65536 4194304 0 0 -300 E
+25 11 0 1d25+2000 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 9
+Luck: 12
+Race: 4
+E
+#9205
+abralia~
+an Abralia~
+An abralia darts about here.
+~
+These unusually tiny little squid seem extremely large.  With a
+pink-translucent body these little squids make the idea of calamari a
+revolting idea.    
+~
+12364 0 0 0 33554432 0 0 0 400 E
+22 9 12 1d22+1400 1d4+14
+0 12413
+8 8 0
+BareHandAttack: 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 7
+Luck: 12
+Race: 4
+E
+#9206
+great white shark~
+a Great White Shark~
+A HUGE white shark circles you, then Attacks!
+~
+By far the largest and the most ferocious meat eating sea animal.  It
+stares at you with its emotionless black eyes and you feel cold.  All
+of the sudden its eyes roll backward and all you can see is the white
+of two enormous eyes, and the blood rushing out the gaping teethmarks
+in your torso.    
+~
+534632 0 0 0 80 0 0 0 -700 E
+29 13 -16 1d29+2200 3d4+14
+0 25109
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 16
+Luck: 12
+Race: 4
+E
+#9207
+whale~
+a beautiful Whale~
+A slow and beautiful Blue Whale spouts here and dives again.
+~
+Slow and combersome, yet beautiful and magestic, this master of the
+sea casually feeds and suns itself near the waters surface.  Slowly
+turning, it dives out of sight to depths only imagined.    
+~
+8268 0 0 0 0 0 0 0 1000 E
+33 16 -20 1d22+1400 3d4+22
+0 34908
+8 8 0
+BareHandAttack: 6
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 15
+Luck: 12
+Race: 1
+E
+#9208
+dolphin~
+a Dolphin~
+A dolphin jumps and plays all about you.
+~
+This dolphin might be it certainly is playful.  Dancing, jumping, and
+squeeking all about you it makes you want to smile.    
+~
+270408 0 0 0 128 0 0 0 1000 E
+28 13 -12 1d30+2250 2d4+18
+0 22959
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Luck: 12
+Race: 1
+E
+#9209
+fish sturgeon~
+a Purple Sturgeon~
+A purple sturgeon fins about, looking for food.
+~
+A nervous purple fish darts about the ocean floor between corals and
+anenome.  You wonder at its marvelous color and soon realise that much
+too much time has passed and you must move on.    
+~
+10316 0 0 0 16 0 0 0 500 E
+28 13 -12 1d28+2150 2d6+14
+0 22959
+8 8 0
+BareHandAttack: 10
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 10
+Luck: 12
+Race: 4
+E
+#9210
+octopus tiana~
+Tiana the Giant Octopus~
+Tiana, the dreaded octopus of the deep, awaits you here.
+~
+Hiding in the shadows, Tianna, the largest octopus ever to grace the
+planet awaits her next victim.  Living off the pain and flesh of
+passers by, she has lived hundreds of years and grown to an enormous
+size.    
+~
+67217418 0 0 0 33554448 131072 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+0 40559
+8 8 2
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 19
+Luck: 12
+Race: 4
+E
+$

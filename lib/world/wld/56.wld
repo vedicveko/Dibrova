@@ -1,0 +1,604 @@
+#5600
+Main Room - Windmill~
+This small, dirty room looks like no one has been in it for quite some
+time.  A broken chair lies mostly in pieces in one corner, and a table
+with three legs lays at an angle in the middle of the floor.  Stairs
+lead up to the upper reaches where the wheel must have been maintained
+when this was in working order.    
+~
+56 8 0 0 0 0
+D2
+~
+~
+0 0 6185 0
+D3
+~
+door~
+2 0 5602 11
+D4
+~
+~
+0 0 5601 0
+S
+#5601
+Upstairs - Windmill~
+This small room, more aptly called a platform because of it size (or
+lack thereof) has absolutely nothing of interest.  Unless you are a
+dust collector.  Or some kid bringing his best girl out here.    
+~
+56 8 0 0 0 0
+D5
+~
+~
+0 0 5600 0
+S
+#5602
+Guard Room~
+There is absolutely nothing in this room, not even dirt, except for
+the two well equipped men who stand waiting for innocent folk just
+like yourself to blunder into this room.  A metal-made flight of
+stairs/c0 lead down into who-knows-where.    
+~
+56 0 0 0 0 0
+D1
+~
+door~
+2 0 5600 11
+D5
+~
+~
+0 0 5603 0
+S
+#5603
+Steel Clad Flight of Stairs~
+This flight of stairs lead down for quite a ways, with what appears to
+be a door waiting at the end.  It could be something else, however,
+seeing as you are quite a ways from it.  The walls around you, as well
+as the flooring you walk upon, are all completely made of steel.  The
+effort and cost involved in the construction of a passage such as this
+is beyond your comprehension.  What kind of person or people decorate
+their walls in steel?    
+~
+56 264 0 0 0 0
+D4
+~
+~
+0 0 5602 0
+D5
+~
+~
+0 0 5604 0
+S
+#5604
+Steel Clad Flight of Stairs~
+The stairs continue down toward what is definitely a door at the
+bottom.  The metal which covered the walls up from here continues
+along these same walls.  The door ahead appears to be made of steel as
+well.    
+~
+56 0 0 0 0 0
+D4
+~
+~
+0 0 5603 0
+D5
+~
+~
+0 0 5605 0
+S
+#5605
+Steel Clad Flight of Stairs~
+The stairs ends here at a metal door.  Beyond is most probably the
+person or persons responsible for the construction of this passage.  
+You may leave this whole strange place, back up the stairs to a more
+stable world, or open the door.    
+~
+56 0 0 0 0 0
+D0
+~
+door metal~
+1 0 5606 1
+D4
+~
+~
+0 0 5604 0
+S
+#5606
+Checkpoint~
+The guards which stand at strict attention, the war banners on the
+metal walls, the spotless uniforms which the guards wear all give you
+the clues you need to put it together that this is a military
+installation of some sort.  You see the letters '/cCMoS/c0' emblazoned
+on the left breast of every guard's hauberk, but you have no clue what
+they signify, nor do you have much time ti think about as the guards
+attack.    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 5607 3
+D2
+~
+door metal~
+1 0 5605 1
+S
+#5607
+Steel Clad Passage~
+The metal walls do not stop with the Checkpoint, they continue all the
+way down this passage, and because you can't see the end of teh
+passage, you must assume it's quite large.    
+~
+56 8 0 0 0 0
+D0
+~
+~
+0 0 5608 0
+D2
+~
+door~
+1 0 5606 3
+S
+#5608
+Steel Clad Passage~
+The passage continues north.  There is a door on the east wall with
+the symbol of two swords crossed, points down on it.  The letters
+'/cCMoS/c0' are engraved under the swords.    
+~
+56 8 0 0 0 0
+D0
+~
+~
+0 0 5609 0
+D1
+~
+door~
+1 -1 5622 3
+D2
+~
+~
+0 0 5607 0
+S
+#5609
+Steel Clad Passage~
+The passage runs north and south of you.  There is a door on the east
+wall which has the symbol of the two swords crossed, point down and
+the '/cCMoS/c0' engraved underneath.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5610 0
+D1
+~
+door~
+1 -1 5623 3
+D2
+~
+~
+0 0 5608 0
+S
+#5610
+Steel Clad Passage~
+The passage north and south from you.  A door leads east from here
+with the sword sigil and the /cCMoS/c0 under it.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5611 0
+D1
+~
+door~
+1 0 5624 3
+D2
+~
+~
+0 -1 5609 0
+S
+#5611
+Steel Clad Passage~
+The passage runs north and south from here, steel walls and ceiling
+still gleaming as far as your eyes can see.  Doors lead east and west
+from here, and just to the north a passage branches east.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5612 0
+D1
+~
+door~
+1 0 5625 3
+D2
+~
+~
+0 -1 5610 0
+D3
+~
+~
+0 0 5626 0
+S
+#5612
+Steel Clad Passage~
+The passage runs north and south from here.  A smaller passage runs
+east from here, also clad in steel.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5613 0
+D1
+~
+~
+0 -1 5618 0
+D2
+~
+~
+0 -1 5611 0
+S
+#5613
+Steel Clad Passage~
+The passage still runs north to south here, no turns or bends visible
+for quite a ways.  There is a door on the west wall here.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5614 0
+D2
+~
+~
+0 -1 5612 0
+D3
+~
+~
+0 0 5627 0
+S
+#5614
+Steel Clad Passage~
+The passage runs north and south.  You think that you may see the end
+of the hall to your north.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5615 0
+D2
+~
+~
+0 -1 5613 0
+S
+#5615
+Steel Clad Passage~
+The passage runs north and south, with doors on either side of you.  
+The end of the corridor, in the form of a steel door, lies a ways
+north from here.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5616 0
+D1
+~
+~
+0 0 5629 0
+D2
+~
+~
+0 -1 5614 0
+D3
+~
+~
+0 0 5628 0
+S
+#5616
+Steel Clad Passage~
+The end of this long hallway lies just north of here.  To the south,
+the hallway runs for a very long ways.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 -1 5617 0
+D2
+~
+~
+0 -1 5615 0
+S
+#5617
+Northern End of a Steel Clad Passage~
+A door lies north of you, while a steel-walled passage runs south as
+far as your eyes can see.    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 4142 3
+D2
+~
+~
+0 -1 5616 0
+S
+#5618
+Steel Clad Passage~
+This passage, although smaller than the main passage, still is walled
+in steel.  It ends to the east, a ways from where you stand, at a
+door.  A door stands to your north, and to your immediate west, the
+main passage runs north and south.    
+~
+56 0 0 0 0 0
+D1
+~
+~
+0 -1 5619 0
+D3
+~
+~
+0 -1 5612 0
+S
+#5619
+Steel Clad Passage~
+The passage continues east toward a set of doors, or you may go back
+west to the main passage.    
+~
+56 0 0 0 0 0
+D1
+~
+~
+0 -1 5620 0
+D3
+~
+~
+0 -1 5618 0
+S
+#5620
+Steel Clad Passage~
+The passage ends just east of you at a door.  Doors lie north and
+south of your present locale, while the passage runs west back to the
+main passage.    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 5630 3
+D1
+~
+door~
+1 -1 5621 1
+D2
+~
+door~
+1 0 5632 3
+D3
+~
+~
+0 -1 5619 0
+S
+#5621
+Eastern End of a Steel Clad Passage~
+The passage ends here at a triple set of doors.  West of you, the
+passage runs back toward the main area.  North, south, and east of you
+are steel doors, all with the double sword insignia and the letters
+/cCMoS/c0.    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 5631 3
+D1
+~
+door~
+1 0 5634 3
+D2
+~
+door~
+1 0 5633 3
+D3
+~
+~
+0 -1 5620 0
+S
+#5622
+Weapons Cache~
+The floor is covered in crates and boxes, all with the stamp of the
+crossed swords.  The etching underneath reveals the meaning of the
+letters you saw on the door.  The etching reads; /cCMilitant Order of
+the Sword/c0 So this is a military compound held by the Militant Order
+of the Sword, but who are they, and what is their purpose?    
+~
+56 0 0 0 0 0
+D3
+~
+door~
+1 -1 5608 3
+S
+#5623
+Food Stores~
+All manner of dried goods lie on shelving which runs along most of the
+walls of this room.  A door leads north from here, or you may exit
+into the passage through the west door.    
+~
+56 0 0 0 0 0
+D0
+~
+~
+0 0 5624 0
+D3
+~
+door~
+1 -1 5609 3
+S
+#5624
+Kitchen~
+This extremely basic kitchen houses a fireplace and a tub full of
+water.  There are only a few utensils lying on the one table, all
+utensils lined up perfectly.  The one thing you can say positively
+about this kitchen is that it is immaculately clean.    
+~
+56 8 0 0 0 0
+D0
+~
+~
+0 0 5625 0
+D2
+~
+~
+0 0 5623 0
+D3
+~
+door~
+1 0 5610 3
+S
+#5625
+Mess Hall~
+The long steel table that runs the length of this room shines in the
+light of the steel-handled torches hung on the wall.  It looks as if a
+great number of soldiers must live in this compound, judging by the
+immense size of this table.  A door leads south into the kitchen or
+you may head west out into the hallway.    
+~
+56 8 0 0 0 0
+D2
+~
+~
+0 0 5624 0
+D3
+~
+door~
+1 0 5611 3
+S
+#5626
+The Head~
+This room, although used for the men of the Order to relieve, is
+nonetheless a clean, no spotless affair with a polished steel floor.
+Even the seats are polished steel which even you would feel
+comfortable sitting on.    
+~
+56 8 0 0 0 0
+D1
+~
+~
+0 0 5611 0
+S
+#5627
+Training Room~
+The entire floor of this room is covered in a thin practice mat, which
+allows for a bit of a more comfortable fall when practicing the art of
+fighting.  A few targets are lined against the west wall, obviously
+for archery.  Some weapon racks hang on the north wall, but currently
+there are no weapons in those racks.    
+~
+56 0 0 0 0 0
+D1
+~
+~
+0 0 5613 0
+S
+#5628
+Bunk Room~
+You stand in a large, open room with nothing but lines of cots running
+along the north and south walls.  Every bed is made perfectly, all the
+sheets and blankets on those beds are spotlessly clean.    
+~
+56 0 0 0 0 0
+D1
+~
+~
+0 0 5615 0
+S
+#5629
+Bunk Room~
+You stand in a large, open room with nothing but lines of cots running
+along the north and south walls.  Every bed is made perfectly, all the
+sheets and blankets on those beds are spotlessly clean.    
+~
+56 0 0 0 0 0
+D3
+~
+~
+0 0 5615 0
+S
+#5630
+Captain's Room~
+This sparse room holds only a steel desk and a single bed, which
+incidentally looks very uncomfortable.  It looks as if the only real
+advantage to having your own room is privacy.    
+~
+56 0 0 0 0 0
+D2
+~
+door~
+1 0 5620 3
+S
+#5631
+Lieutenant's Room~
+This room holds only a bed and a foot locker.  No pictures adorn the
+walls, of course there are no windows.  How do these people live like
+this?    
+~
+56 0 0 0 0 0
+D2
+~
+door~
+1 0 5621 3
+S
+#5632
+Sergeant's Room~
+The only thing of interest in this room is the portrait on the wall of
+a scene in town circle.  There is a gallows platform with townfolk all
+surrounding it cheering.  The platform itself holds sixteen swinging
+bodies, all of them elven.  The caption underneath reads "/cwA Day of
+Reckoning will come/c0".    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 5620 3
+S
+#5633
+General's Room~
+This sparsely decorated room has an etching into the steel wall.  The
+double sword insignia stands out most prominently, the /cCMoS/c0
+underneath, but there is an added touch.  The caption underneath the
+symbol reads /ccWhen Armageddon comes, the Human race will be the one
+to triumph and rule over all other races.  /c0 How quaint.    
+~
+56 0 0 0 0 0
+D0
+~
+door~
+1 0 5621 3
+S
+#5634
+The Grand Knight's Room~
+The Grand Knight looks as if he may have it just a bit easier than the
+rest of his fellow brothers.  Although this is 'Anti-Elf Deco', it
+still holds some wood furnishings, as well as a huge four posted
+feather bed.  This guy must be old and tired...    
+~
+56 0 0 0 0 0
+D3
+~
+door~
+1 0 5621 3
+S
+#5659
+An unfinished room~
+You are in an unfinished room.    
+~
+56 0 0 0 0 0
+S
+$~

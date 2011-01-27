@@ -1,0 +1,202 @@
+#2700
+fetch undead spectre~
+the Fetch~
+A Fetch, dressed in black tattered robes which seem to float about its body, stands here.
+~
+A Fetch can mean one thing and one thing only - someone is going to
+die.  The primary function of a Fetch is to fortell death.  The
+question is - is this Fetch foretelling your death, or someone else's?
+~
+253978 0 0 0 8464440 4194304 0 0 -1000 E
+130 111 -60 1d50+6000 15d16+86
+0 1151521
+8 8 0
+BareHandAttack: 16
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Race: 34
+E
+#2701
+mother spectre ghost~
+the Spectre of a Woman~
+A womanish spectre floats through the manse, her eyes crying blood.
+~
+Her sad eyes tell a story of loss and regret, an anguish as ancient as
+this home, possibly even older.  She constantly wrings her hands,
+looking about as if in search for someone or something.    
+~
+254056 0 0 0 8389712 0 0 0 -200 E
+120 100 -40 1d40+2525 14d14+80
+0 938920
+8 8 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 19
+Luck: 12
+Class: 1
+Race: 34
+E
+#2702
+web spiderweb~
+a sticky Spiderweb~
+A sticky spiderweb lunges out at you, trying to draw you into its web.
+~
+It is a very intricate and thick pattern that has been woven here, you
+could stare at it for hours and travel its full length.  Strange, it
+seems almost as if it might have just moved...    
+~
+67354634 0 0 0 80 0 0 0 -500 E
+115 94 -40 1d35+2400 13d13+76
+0 842356
+8 8 0
+BareHandAttack: 16
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 6
+Luck: 12
+E
+#2703
+man spectre ghost~
+the Spectre of the Master~
+A spectre of a distinguished man floats a foot above the chair at the desk, intent on something there at the desk.
+~
+The spectre notices your arrival and - with bared teeth - lunges at
+you, obviously intent on your destruction.    
+~
+67733514 0 0 0 8650832 0 0 0 -800 E
+127 108 -60 1d47+4000 15d15+84
+2500 1193461
+8 8 1
+BareHandAttack: 12
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Race: 34
+E
+#2704
+churel woman moaning~
+the Churel~
+A moaning churel floats through the house, weeping for all the lost children.
+~
+Its feet seem a bit askew, almost as if they were turned backward on
+the ankles, and the constant moaning is enought to drive a crazy man
+sane.    
+~
+196680 0 0 0 8388688 0 0 0 -300 E
+110 88 -40 1d30+2250 11d12+73
+0 752086
+8 8 2
+BareHandAttack: 16
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Luck: 12
+Race: 49
+E
+#2705
+spider~
+a large black Spider~
+A large black spider crawls along the floor just ahead of you.
+~
+It has hair all over its small but grotesque body.    
+~
+17369160 0 0 0 2128 0 0 0 -300 E
+100 77 -40 1d20+1000 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 19
+Luck: 12
+Race: 46
+E
+#2706
+phantom howling~
+a Howling Phantom~
+A howling Phantom floats through the halls, looking for others to join it in its eternal Hell.
+~
+You can not distinguish any specific features of this terrible force
+of evil, only a vague humanish shape, baleful glowing eyes, and what
+appears to a flowing robe cloak all about it.    
+~
+165992 0 0 0 8388688 0 0 0 -800 E
+115 94 -40 1d35+2400 13d13+76
+0 842356
+8 8 0
+BareHandAttack: 9
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 17
+Luck: 12
+Class: 1
+Race: 11
+E
+#2707
+apparition angry screeching~
+a Screeching Apparition~
+A Screeching Apparition comes flying at you, screaming its anger and hatred.
+~
+Its insubstantial form gathers together into a blackish cloud, all
+mottled and shot thtrough with streaks of reddish-orange flames.    
+~
+624682 0 0 0 2192 0 0 0 -1000 E
+125 105 -60 1d45+3000 15d15+83
+0 1041926
+8 8 0
+BareHandAttack: 12
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 24
+Luck: 12
+Race: 34
+E
+#2708
+rat scurrying~
+a scurrying Rat~
+A rat scurries across the floor in front of you.
+~
+With its short, stubby hairs all raised on its back and its tail
+ramrod straight, you would almost think this rat meant to attack you!
+Best not to find out - better kill it.    
+~
+72 0 0 0 0 0 0 0 -500 E
+10 3 60 1d25+2000 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Luck: 12
+Race: 1
+E
+$

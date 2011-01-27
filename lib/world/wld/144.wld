@@ -1,0 +1,1026 @@
+#14400
+Room of Whispering Souls~
+The room is dark and extremely quiet, not a sound can be heard.  
+Without any light, it is impossible to see at all in here.  A switch,
+attached to the brick wall, can be seen to the east.    
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14401 0
+D1
+Hard cracked wall made from stone.
+~
+Wall~
+1 0 14451 17
+D2
+~
+~
+0 0 14456 0
+D3
+~
+~
+0 0 14450 0
+S
+#14401
+Down a dark and empty Hallway~
+The hallway is long and shrouded in darkness.  The only thing that can
+be heard are the spooky faint whispers of souls which send chills up
+one's spine.    
+~
+144 65537 0 0 0 0
+D0
+~
+~
+0 0 14402 0
+D2
+~
+~
+0 0 14400 0
+S
+#14402
+Down a dark and empty Hallway~
+The hallway is long and shrouded in darkness.  The only thing that can
+be heard are the spooky faint whispers of souls which send chills up
+one's spine.
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14403 0
+D2
+~
+~
+0 0 14401 0
+S
+#14403
+Down some old stone Stairs~
+The hall ends here and extends to the south.  There is only one other
+way to leave this room and that is to go down the stairs.  Vines grow
+around the old stone steps, making the descent dangerous.  A few dim
+scones light the way, just enough to see a few steps ahead.    
+~
+144 32 0 0 0 0
+D0
+~
+~
+0 0 14457 0
+D2
+~
+~
+0 0 14402 0
+D5
+~
+~
+0 0 14404 0
+S
+#14404
+Down Some Old Stone Stairs~
+It gets hotter and hotter as one descends the stairs.  Loud banging
+noises echo from down below, somewhere in the darkness.    
+~
+144 32 0 0 0 0
+D4
+~
+~
+0 0 14403 0
+D5
+~
+~
+0 0 14447 0
+S
+#14410
+Unholy Lair~
+Nothing.
+~
+144 2162916 0 0 0 8
+D4
+~
+~
+0 0 14491 16
+S
+#14430
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.    
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14469 0
+S
+#14431
+A Long Hallway~
+A long red carpet lining the entire hallway makes this castle look
+rich.  A bright light shines ahead, as well as a fiery aura.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14483 0
+D3
+~
+~
+0 0 14432 0
+S
+#14432
+Grand Room~
+This is a huge room with gold and ruby decorated walls.  You see an
+enormous throne ahead of you with the numbers 666 carved on it.  The
+floor glimmers with a bright light as you see bats flying around
+through the room.  There are guards in each corner of the wall
+watching you as you make your next move.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14431 0
+S
+#14447
+The Split Section~
+There are four ways one can go from here.  The east leads to the River
+of Blood, west leads to the Room of the Blood Demon, south leads to
+the Room of Screams, and north leads to the Room of Flailing Walls.  
+There is a rotten smell, flowing through the icy-cold air.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14449 0
+D2
+~
+~
+0 0 14454 0
+D3
+~
+~
+0 0 14448 0
+D4
+~
+~
+0 0 14404 0
+S
+#14448
+Room of the Blood Demon~
+A pool of scalding hot blood lies at the other side of the room.  A
+sour odor fills the air here, as the pool overflows and runs onto the
+old stone floor.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14447 0
+S
+#14449
+Weapon Shop~
+This is an old run-down shop, loaded with useless weapons left and
+right.  Skeletons from the people of long ago rest in pieces on the
+floor and countertops.  This place looks like a good place to stock-up
+before moving on.    
+~
+144 16 0 0 0 0
+D3
+~
+~
+0 0 14447 0
+S
+#14450
+Small Hallway~
+This is a very small room with giant torches on each side.  A huge
+door lies ahead of you, leading to the outside where a blast of heat
+blows in from.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14400 0
+D3
+~
+~
+0 0 14464 0
+S
+#14451
+Path Behind The Brick Wall~
+A secret passageway leads behind the brick wall.  It is cold here, yet
+one can feel the heat radiating from the hellhole behind.  The path
+continues down a ways and into complete darkness.    
+~
+144 4 0 0 0 0
+D1
+~
+~
+0 0 14452 0
+D3
+Hard cracked wall made from stone.
+~
+Wall~
+1 0 14400 1
+S
+#14452
+Down A Secret Hall~
+The long passage continues farther and farther.  The heat begins to
+fade and a chilly breeze blows from ahead.  A clicking sound can be
+heard from ahead and you suddenly begin to pause, then continue
+~
+144 512 0 0 0 0
+D1
+~
+door~
+1 0 14453 1
+D3
+~
+~
+0 0 14451 0
+S
+#14453
+In a Small Dark Room~
+The room is small with strange smells coming from the cracks of the
+walls.  There is a small bookshelf over to the right of the room with
+a sound coming from behind it.    
+~
+144 0 0 0 0 0
+D3
+~
+~
+0 0 14452 0
+S
+#14454
+Down an old beaten Path~
+This is a dirt path from long ago.  It looks like many people once
+trod upon here for the ground is packed hard.    
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14447 0
+D1
+~
+~
+0 0 14465 0
+D2
+~
+~
+0 0 14466 0
+D3
+~
+~
+0 0 14455 0
+S
+#14455
+Potion Shop~
+Old potions and skeletons lie shattered about the room.  Long ago,
+this shop used to be a place of reknown, but not anymore as evidence
+of ruin and disrepair are abundant here.    
+~
+144 16 0 0 0 0
+D1
+~
+~
+0 0 14454 0
+S
+#14456
+Soul Chamber~
+Souls drifting silently across the room, you can barely see anything
+except for the soul's red eyes glowing in the dark.  The floor is wet
+and slimy from corner to corner.  The walls are covered in cracks
+looking like they could just collapse any second.    
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14400 0
+D2
+~
+~
+0 0 14458 0
+S
+#14457
+Dungeon of Souls~
+Rotted skeletons and faded blood around the room gives the place an
+evil feeling.  There is a faint, yet nasty smell drifting through the
+air.  Windows around the room show you the outside of the castle, as
+well as the courtyard.    
+~
+144 8 0 0 0 0
+D2
+~
+~
+0 0 14403 0
+S
+#14458
+Entrance Room~
+Torches line the room and red carpeting covers the stone floor here.
+No sounds, save for the burning flame of the torches, can be heard
+here.  A huge door lies ahead.    
+~
+144 65568 0 0 0 0
+D0
+~
+~
+0 0 14456 0
+D2
+~
+~
+0 0 14459 0
+S
+#14459
+Courtyard~
+Grass fills the courtyard as dark clouds roll over the sky above.  
+Stone walls enclose the courtyard here, creating a haven from outside.
+A chilly breeze blows in from all directions.    
+~
+144 0 0 0 0 4
+D0
+~
+~
+0 0 14458 0
+D1
+~
+~
+0 0 14462 0
+D2
+~
+~
+0 0 14488 0
+D3
+~
+~
+0 0 14460 0
+S
+#14460
+Courtyard~
+Grass fills the courtyard as dark clouds roll over the sky above.  
+Stone walls enclose the courtyard here, creating a haven from outside.
+A chilly breeze blows in from all directions.
+~
+144 0 0 0 0 4
+D1
+~
+~
+0 0 14459 0
+D3
+~
+~
+0 0 14461 0
+S
+#14461
+Courtyard~
+Grass fills the courtyard as dark clouds roll over the sky above.  
+Stone walls enclose the courtyard here, creating a haven from outside.
+A chilly breeze blows in from all directions.
+~
+144 0 0 0 0 4
+D1
+~
+~
+0 0 14460 0
+S
+#14462
+Courtyard~
+Grass fills the courtyard as dark clouds roll over the sky above.  
+Stone walls enclose the courtyard here, creating a haven from outside.
+A chilly breeze blows in from all directions.
+~
+144 0 0 0 0 4
+D1
+~
+~
+0 0 14463 0
+D3
+~
+~
+0 0 14459 0
+S
+#14463
+Courtyard~
+Grass fills the courtyard as dark clouds roll over the sky above.  
+Stone walls enclose the courtyard here, creating a haven from outside.
+A chilly breeze blows in from all directions.
+~
+144 0 0 0 0 4
+D3
+~
+~
+0 0 14462 0
+S
+#14464
+Hell Hole~
+As you walk outside from the hallway you end up in the middle of a
+room with a huge hole filled with magma.  Heat from the hole rushes up
+your spine curing you from any coldness around.  It is completely dark
+outside except from the full moon and the magma.    
+~
+144 262160 0 0 0 0
+D1
+~
+~
+0 0 14450 0
+S
+#14465
+Castle Barracks~
+This is the room where the knights and warriors train to become fierce
+and skilled.  The room is pretty much plain with a few stone benches
+and cracked floor.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14494 0
+D3
+~
+~
+0 0 14454 0
+S
+#14466
+Down An Old Beaten Path~
+Along the path lie rooms from long ago.  There are exits to your left
+and right while the path continues straight ahead.    
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14454 0
+D1
+~
+~
+0 0 14467 0
+D2
+~
+~
+0 0 14474 0
+D3
+~
+~
+0 0 14475 0
+S
+#14467
+Dark Hallway~
+Darkness is all around as the hall continues to go down a ways.  It
+seems as though your only way out is going back or to continue.    
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14495 0
+D1
+~
+~
+0 0 14468 0
+D2
+~
+~
+0 0 14496 0
+D3
+~
+~
+0 0 14466 0
+S
+#14468
+Dark Hallway~
+Darkness is all around as the hall continues to go down a ways.  It
+seems as though your only way out is going back or to continue.    
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14498 0
+D1
+~
+~
+0 0 14469 0
+D2
+~
+~
+0 0 14497 0
+D3
+~
+~
+0 0 14467 0
+S
+#14469
+Dark Hallway~
+Darkness is all around as the hall continues to go down a ways.  It
+seems as though your only way out is going back or to continue.    
+~
+144 1 0 0 0 0
+D0
+~
+~
+0 0 14499 0
+D1
+~
+~
+0 0 14470 0
+D2
+~
+~
+0 0 14430 0
+D3
+~
+~
+0 0 14468 0
+S
+#14470
+Guard Room~
+The room is huge and has a dark feeling to it.  A wooden door with a
+solid gold rim around it lies up ahead.  The floor looks worn, as if
+guards have been posted here for as long as the castle existed.    
+~
+144 65536 0 0 0 0
+D1
+~
+~
+0 0 14471 0
+D3
+~
+~
+0 0 14469 0
+S
+#14471
+Behind the First Door~
+The room is blank except for the decorative door ahead.  A huge
+keyhole can been seen in the door, which is adorned with gemstones
+inset into it.  A smell of something rotten wafts from the cracks of
+the walls.    
+~
+144 0 0 0 0 0
+D1
+~
+~
+0 0 14472 0
+D3
+~
+~
+0 0 14470 0
+S
+#14472
+A Huge Room~
+Stone walls cover this huge room, just like any other room.  There are
+torches along the walls, flooding the room with light.  Not much can
+be seen here, but a nagging feeling of "there's something more to all
+of this" tugs at you.    
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14473 16
+D3
+~
+~
+0 0 14471 0
+S
+#14473
+Throne Room~
+Gold around the whole room and a solid gold throne gives this room a
+rich look.  There are gold rimmed windows around the room and a row of
+knights on each side of the room.    
+~
+144 0 0 0 0 0
+D0
+Nothing.
+~
+~
+0 0 14472 16
+S
+#14474
+Armory~
+Armor of knights line the walls while shattered skeletons lie on the
+floor makes the room look ancient in years.  Whispers float about the
+air, hinting of danger.    
+~
+144 148 0 0 0 0
+D0
+~
+~
+0 0 14466 0
+S
+T 14474
+#14475
+Dark Hallway~
+Souls screaming in every direction gives you a funny feeling inside.
+It's too dark to see anything at all, but you can still smell
+something funny.  Beware, you never know what is out there.    
+~
+144 524288 0 0 0 0
+D1
+~
+~
+0 0 14466 0
+D3
+~
+~
+0 0 14476 0
+S
+#14476
+Dark Hallway~
+Souls screaming in every direction gives you a funny feeling inside.
+It's too dark to see anything at all, but you can still smell
+something funny.  Beware, you never know what is out there.    
+~
+144 524288 0 0 0 0
+D0
+~
+~
+0 0 14478 0
+D1
+~
+~
+0 0 14475 0
+D2
+~
+~
+0 0 14477 0
+D3
+~
+~
+0 0 14479 0
+S
+#14477
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14476 0
+D2
+~
+~
+0 0 14493 0
+S
+#14478
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14476 0
+S
+#14479
+Dark Hallway~
+Souls screaming in every direction gives you a funny feeling inside.
+It's still too dark to see anything at all, but you can still smell
+something funny.  Beware, you never know what is out there.    
+~
+144 524288 0 0 0 0
+D0
+~
+~
+0 0 14481 0
+D1
+~
+~
+0 0 14476 0
+D2
+~
+~
+0 0 14480 0
+D3
+~
+~
+0 0 14482 0
+S
+#14480
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14479 0
+D2
+It looks old and cracked.
+~
+dungeon~
+1 0 14493 1
+S
+#14481
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14479 0
+S
+#14482
+Training Room~
+The bones of dead warriors lie scattered throughout the room.  Old
+rusty swords and shields still lie in the skeletal hands of the
+warriors.  Straw covers the hard rock floor, molding away over the
+years.    
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14485 0
+D1
+~
+~
+0 0 14479 0
+D2
+~
+~
+0 0 14484 0
+D3
+~
+~
+0 0 14483 0
+S
+#14483
+Training Room~
+The bones of dead warriors lie scattered throughout the room.  Old
+rusty swords and shields still lie in the skeletal hands of the
+warriors.  Straw covers the hard rock floor, molding away over the
+years. 
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14486 0
+D1
+~
+~
+0 0 14482 0
+D2
+~
+~
+0 0 14487 0
+D3
+~
+~
+0 0 14431 0
+S
+#14484
+Warriors' Tomb~
+Stone beds, lined with molding straw, line about the room.  This is
+where the warriors get rest and sleep.  A stone bench and table lies
+in the middle of the room.  Nothing looks comfortable in here at all.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14482 0
+S
+#14485
+Warriors' Tomb~
+Stone beds, lined with molding straw, line about the room.  This is
+where the warriors get rest and sleep.  A stone bench and table lies
+in the middle of the room.  Nothing looks comfortable in here at all.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14482 0
+S
+#14486
+Warriors' Tomb~
+Stone beds, lined with molding straw, line about the room.  This is
+where the warriors get rest and sleep.  A stone bench and table lies
+in the middle of the room.  Nothing looks comfortable in here at all.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14483 0
+S
+#14487
+Warriors' Tomb~
+Stone beds, lined with molding straw, line about the room.  This is
+where the warriors get rest and sleep.  A stone bench and table lies
+in the middle of the room.  Nothing looks comfortable in here at all.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14483 0
+S
+#14488
+Drawbridge~
+A smooth wooden bridge spans the moat, clearing it entirely.  Rusty
+chains alongside the bridge prevent anyone from falling over into the
+moat.  Eerie splashing sounds can be heard from somewhere down below.
+~
+144 0 0 0 0 2
+D0
+~
+~
+0 0 14459 0
+D2
+~
+~
+0 0 14489 0
+D5
+~
+~
+0 0 14490 0
+S
+#14489
+Path Before the Castle of Souls~
+The winding dirt path leads to an enormous castle up ahead.  The
+castle is surrounded by dark, evil clouds as well as a formidable
+black fence.  The cries of the unholy lends to a frightening
+atmosphere here.    
+~
+144 0 0 0 0 2
+D0
+~
+~
+0 0 14488 0
+D3
+~
+~
+0 0 3235 0
+S
+#14490
+Under the Moat~
+The water is freezing cold and crystal clear.  Various wierd fish swim
+about everywhere, most of them ignoring your presence.    
+~
+144 268500992 0 0 0 8
+D0
+~
+~
+0 0 14491 0
+D2
+~
+~
+0 0 -1 0
+D4
+~
+~
+0 0 14488 0
+S
+#14491
+Under the Moat~
+The water is freezing cold and crystal clear.  Various wierd fish swim
+about everywhere, most of them ignoring your presence here.  A rusting
+grate lies ahead.    
+~
+144 268500992 0 0 0 8
+D0
+~
+Gate~
+1 0 14492 1
+D2
+A gate is here showing signs of age.
+~
+gate~
+1 0 14490 1
+D5
+~
+~
+0 0 14410 16
+S
+#14492
+An Opening from Under the Castle~
+The grate is large anough to allow passage through it to the area
+above.  The water is bone-chilling and one should not remain too long
+in it.    
+~
+144 0 0 0 0 6
+D2
+~
+Gate~
+1 0 14491 3
+D4
+~
+~
+0 0 14493 0
+S
+#14493
+A Room behind the Dungeon~
+This secret led you to a room right behind where the dungeons are.  
+As you look up ahead you see the torch from behind a dungeon tilted
+sideways and the back of the dungeon has got a large brack from what
+looks like an opening.    
+~
+144 8 0 0 0 0
+D0
+Old Stone wall looks solid and cracked.
+~
+dungeon~
+1 0 14480 1
+D5
+~
+~
+0 0 14492 0
+S
+#14494
+Castle Barracks~
+This is the room where the knights and warriors of the castle come to
+train their skill and abilities.  The room is plain, save for a few
+stone benches forming a ring about the room.    
+~
+144 0 0 0 0 0
+D3
+~
+~
+0 0 14465 0
+S
+#14495
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14467 0
+S
+#14496
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14467 0
+S
+#14497
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D0
+~
+~
+0 0 14468 0
+S
+#14498
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14468 0
+S
+#14499
+Dungeon Keep~
+It is cramped and dark here, completely silent as well.  Barely any
+light comes from the small lamps here.  Rusty gates and rotted floors
+give this place an evil look.  Small windows in each cell allow one to
+look inside each cell.
+~
+144 0 0 0 0 0
+D2
+~
+~
+0 0 14469 0
+S
+$~

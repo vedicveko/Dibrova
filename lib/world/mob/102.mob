@@ -1,0 +1,456 @@
+#10200
+alain longstride man~
+Alain Longstride~
+Alain Longstride strides about the area, protecting the innocent lepers.
+~
+Alain is probably the only man on the island who is not a leper
+himself.  His mother was sent here when he was a baby.  When he became
+old enough, he journied for many months to get to this place.  Upon
+arrival, he found that she had already submitted to the Eternal Flame.
+Heartbroken, he wept for days.  When he finially came to his senses,
+he vowed that no leper would ever again be prosecuted, and so he set
+about protecting them and their awful home as best he could.    
+~
+579672 0 0 0 134283280 4194304 0 0 800 E
+65 42 -40 1d1+5000 6d6+43
+1125 206459
+8 8 1
+Str: 12
+Dex: 25
+Int: 16
+Wis: 6
+Con: 21
+Cha: 25
+Luck: 18
+Class: 10
+Race: 14
+E
+#10201
+robed man leper~
+a Robed Leper~
+A man in flowing robes sits upon the crest of the volcano, eyes closed in a trance.
+~
+He sits cross-legged with his arms resting palms up in his lap.  
+Looking down at his hands, you see that two of his fingers are
+missing.  This man is a leper!    
+~
+6154 0 0 0 16 0 0 0 700 E
+60 37 -36 1d1+2650 5d6+40
+1000 160325
+8 8 1
+Str: 25
+Dex: 19
+Int: 25
+Wis: 22
+Con: 5
+Cha: 20
+Luck: 19
+Class: 8
+Race: 14
+E
+#10202
+wild old hermit man leper~
+a wild Old Hermit~
+/cwA wild old hermit begins screaming /cYGET OUT OF MY TREE!!! /cw as soon as you enter./co
+~
+This poor man is obviously in the grips of some sort of dillusionary
+side affect from his leprosy.    
+~
+2090 0 0 0 0 0 0 0 100 E
+63 40 -40 1d1+2800 6d6+42
+1075 181566
+8 8 1
+Str: 20
+Dex: 13
+Int: 22
+Wis: 5
+Con: 6
+Cha: 17
+Luck: 16
+Race: 14
+E
+#10203
+lioness~
+a Lioness~
+A lioness looks up at you with a slow, purring growl and licks her lips.
+~
+She is really quite a fine speciman, for a lioness.  The fact that she
+appears to be sizing you up in proportion to a dinner plate does not
+give much time for admiration, though.    
+~
+526408 0 0 0 33554448 0 0 0 0 E
+40 21 -20 1d1+2250 4d5+26
+0 57012
+8 8 2
+BareHandAttack: 8
+Str: 10
+Dex: 25
+Int: 6
+Wis: 19
+Con: 19
+Cha: 6
+Luck: 5
+Race: 1
+E
+#10204
+supplicant leper man~
+a Supplicant Leper~
+A man riddled with pussing postules walks vacant-eyed about the area.
+~
+He looks neither right nor left as he makes his way to where ever it
+is that he is going.  In fact - it doesn't even appear that he looks
+straight ahead, so mechanical is his gait.    
+~
+8264 0 0 0 0 0 0 0 300 E
+55 33 -32 1d1+2525 5d6+36
+875 128422
+8 8 1
+Str: 14
+Dex: 14
+Int: 12
+Wis: 21
+Con: 7
+Cha: 15
+Luck: 6
+Class: 12
+Race: 14
+E
+#10205
+supplicant leper woman~
+a Supplicant Leper~
+A woman stares off into space, no longer caring about much of anything.
+~
+Her once-beautiful face is now almost unrecognizable as human.  She is
+swathed from head to toe in wet bandages which soak up most of the
+festering wounds all over her body.    
+~
+72 0 0 0 0 0 0 0 300 E
+56 34 -32 1d1+2550 5d6+37
+900 134460
+8 8 2
+Str: 13
+Dex: 6
+Int: 12
+Wis: 12
+Con: 19
+Cha: 9
+Luck: 20
+Class: 12
+Race: 14
+E
+#10206
+supplicant leper man~
+a Supplicant Leper~
+A terribly diseased man stands at the fence to the pen, gripping the rail.
+~
+He does not move nor speak.  He stares into open air, his mouth half
+open with the occassional spittle dripping down his chin.    
+~
+10 0 0 0 0 0 0 0 200 E
+57 35 -32 1d1+2575 5d6+38
+925 140668
+8 8 1
+Str: 5
+Dex: 16
+Int: 18
+Wis: 25
+Con: 6
+Cha: 12
+Luck: 7
+Class: 12
+Race: 14
+E
+#10207
+supplicant leper woman~
+a Supplicant Leper~
+An awfully disfigured woman walks through the camp, head down.
+~
+She does not look up, even when she stumbles over something.  She
+simply wanders this small area in hopelessness.    
+~
+6216 0 0 0 0 0 0 0 300 E
+59 37 -36 1d1+2625 5d6+39
+975 153599
+8 8 2
+Str: 9
+Dex: 8
+Int: 9
+Wis: 22
+Con: 14
+Cha: 12
+Luck: 19
+Class: 12
+Race: 14
+E
+#10208
+tomm walker~
+Tomm Walker~
+Tomm Walker strides about the community, encouraging faith in the Gods.
+~
+Tomm truly believes that through supplication to the Gods, some lepers
+may find absolution and be heals through divine power.    
+~
+38984 0 0 0 16 0 0 0 900 E
+60 37 -36 1d1+2650 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 16
+Str: 16
+Dex: 25
+Int: 16
+Wis: 7
+Con: 16
+Cha: 21
+Luck: 9
+Class: 2
+Race: 14
+E
+#10209
+dying man leper~
+a dying Leper~
+A dying leper lies amid stained sheets and cloths, gasping his last breathes.
+~
+His face is beyond description, the disease having such a hold on him
+that it is a wonder why he has not been thrown to the Sternal Flame as
+of yet.    
+~
+10 0 0 0 2048 0 0 0 200 E
+50 29 -28 1d1+2400 5d5+33
+750 100714
+1 1 1
+Str: 10
+Dex: 17
+Int: 15
+Wis: 17
+Con: 24
+Cha: 14
+Luck: 5
+Race: 14
+E
+#10210
+boa constrictor~
+a Boa Constrictor~
+A boa constrictor lazily unwinds from a tree branch, eyeing you thoughtfully.
+~
+It is roughly eight feet in length and it does not look all that fat
+right now.  It might be a good idea to sort of back up - real
+slow-like.    
+~
+72 0 0 0 0 0 0 0 0 E
+20 8 20 1d1+2400 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 6
+Str: 16
+Dex: 21
+Int: 13
+Wis: 16
+Con: 5
+Cha: 17
+Luck: 16
+Race: 2
+E
+#10211
+wild boar~
+a Wild Boar~
+A wild boar snorts a couple of times and then lowers its tusks.
+~
+The snorting, the lowering of the tusks.  It seems to spark a small
+rule of thumb for wild boars...    
+~
+2152 0 0 0 33554448 0 0 0 0 E
+30 14 -20 1d1+2350 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 3
+Str: 17
+Dex: 18
+Int: 14
+Wis: 21
+Con: 23
+Cha: 19
+Luck: 20
+Race: 1
+E
+#10212
+argus leper man~
+Argus~
+Argus walks about the area, tidying up here and there.
+~
+For a leper, keeping things clean and organized is a way of prolonging
+life.  Most of their extremities are numbed or missing, making it easy
+to receive a wound without noticing it.    
+~
+6216 0 0 0 16 0 0 0 200 E
+61 38 -40 1d1+2700 5d6+40
+1025 167227
+8 8 1
+Str: 16
+Dex: 24
+Int: 5
+Wis: 19
+Con: 16
+Cha: 5
+Luck: 16
+Race: 14
+E
+#10213
+Jantry woman leper~
+Jantry~
+Jantry hums an old ballad as she rakes the garden slowly and deliberately.
+~
+Jantry is the resident in charge of keeping the garden plentiful and
+free of disease - a very important job which she herself takes quite
+seriously.  This garden is the area's main source and backup for
+foodstuffs when the Lord of Jareth runs into snags or delays in
+sending shipments.    
+~
+33589258 0 0 0 16 0 0 0 400 E
+58 36 -36 1d1+2600 5d6+38
+950 147047
+8 8 2
+Str: 23
+Dex: 16
+Int: 24
+Wis: 16
+Con: 16
+Cha: 9
+Luck: 23
+Class: 5
+Race: 14
+E
+#10215
+kneeling leper man~
+a kneeling Leper~
+A horribly scarred man kneels at the altar, praying feverishly.
+~
+His eyes are closed tightly, hios hands clasped together in the
+traditional position of prayer and supplication.    
+~
+10 0 0 0 0 0 0 0 500 E
+54 32 -32 1d1+2500 5d6+36
+850 122552
+5 5 1
+Str: 19
+Dex: 16
+Int: 20
+Wis: 21
+Con: 12
+Cha: 8
+Luck: 14
+Class: 12
+Race: 14
+E
+#10216
+crazed half naked leper man~
+a crazed half-naked Man~
+A crazed, half-naked man leaps from behind a tree, assaulting you with a cry.
+~
+He wears only a short loin cloth, which would be terrible enough all
+by itself, but the fact that he is a leper with pussy postules all
+over his body is enough to make even the most stalwart of men retch in
+agony.    
+~
+2152 0 0 0 1114112 0 0 0 -200 E
+61 38 -40 1d1+2700 5d6+40
+1025 167227
+8 8 1
+Str: 6
+Dex: 25
+Int: 17
+Wis: 7
+Con: 7
+Cha: 18
+Luck: 12
+Race: 14
+E
+#10217
+chicken~
+a Chicken~
+A pathetic excuse for a chicken clucks about half-heartedly.
+~
+It is dirty and mangy as a chicken can be, its feathers covered in
+muck and filth.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 13
+Int: 13
+Wis: 16
+Con: 13
+Cha: 23
+Luck: 12
+Race: 3
+E
+#10218
+dalgon man~
+Dalgon~
+Dalgon walks about the village trying his best to remain productive for the community.
+~
+He has the age lines of a man of advanced years, the permanent frown
+that only age can bring.  He is twenty-two.    
+~
+72 0 0 0 0 0 0 0 600 E
+58 36 -36 1d1+2600 5d6+38
+950 147047
+8 8 1
+Str: 9
+Dex: 22
+Int: 18
+Wis: 12
+Con: 14
+Cha: 6
+Luck: 20
+Race: 14
+E
+#10219
+alvah man leper~
+Alvah~
+A tall gangly man ambles through the area.
+~
+Alvah is the village idiot, so to speak.  He is liked by everyone but
+respected by none.    
+~
+4300 0 0 0 0 0 0 0 700 E
+59 37 -36 1d1+2625 5d6+39
+975 153599
+8 8 1
+BareHandAttack: 13
+Str: 21
+Dex: 24
+Int: 23
+Wis: 21
+Con: 13
+Cha: 6
+Luck: 5
+Class: 12
+Race: 14
+E
+#10220
+lookout man leper~
+the Lookout~
+A man sits his watch atop the boulder, keeping an eye out for any ships.
+~
+Each man of the community keeps a watch here at least once a day,
+watching for the supply ships that bring food and medicine to the
+island.    
+~
+26 0 0 0 16 0 0 0 100 E
+56 34 -32 1d1+2550 5d6+37
+900 134460
+8 8 1
+Str: 22
+Dex: 7
+Int: 13
+Wis: 15
+Con: 22
+Cha: 10
+Luck: 20
+Class: 4
+Race: 14
+E
+$

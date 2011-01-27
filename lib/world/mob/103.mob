@@ -1,0 +1,642 @@
+#10300
+landestine baroness~
+the Baroness Landestine~
+The Baroness stands here, her regal presence lending her an aura of mystery.
+~
+She is one such woman whose very presence causes others in the room to
+turn and look at her, to take notice - even were she to simply be
+standing there.  A powerful, stunning woman, indeed.    
+~
+575498 0 0 0 336 0 0 0 800 E
+132 114 -60 1d1+0 15d16+88
+2500 1316959
+8 8 2
+BareHandAttack: 15
+Str: 13
+Dex: 6
+Int: 20
+Wis: 5
+Con: 9
+Cha: 15
+Luck: 23
+Class: 1
+Race: 14
+E
+#10301
+champion m'lady man~
+M'Lady's Champion~
+A man in ceremonial battle gear watches for any signs of misdeeds.
+~
+This man was the right-hand lieutenant of the Baron - the man who ran
+the small but extremely efficient and deadly team of men who were the
+fighting force of this Barony.  Now that the Baron has passed on, the
+Baroness feels no need to keep an armed presence within her demesnes,
+and so the men have disbanded and found other jobs - all but M'Lady's
+Champion, who stays loyal to the Barony to the end.    
+~
+596056 0 0 0 65552 4194304 0 0 700 E
+145 130 -60 1d1+0 18d18+96
+2500 1521265
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 16
+Int: 6
+Wis: 12
+Con: 22
+Cha: 7
+Luck: 22
+Class: 6
+Race: 14
+E
+#10302
+coordinator house man~
+the House Coordinator~
+A man with a formal black suit eyes the proceedings, making sure that all goes well.
+~
+This man's sole job is to make certain that all guests are kept
+entertained and all needs stay met at all times.  Every small tidbit
+of pleasure or comfort is kept in place and available by this man.  
+~
+16456 0 0 0 16 0 0 0 500 E
+96 73 -40 1d1+0 6d8+64
+1850 531505
+8 8 1
+Str: 13
+Dex: 24
+Int: 7
+Wis: 8
+Con: 23
+Cha: 17
+Luck: 15
+Race: 14
+E
+#10303
+house mistress woman severe~
+the House Mistress~
+A severe woman in working clothes stalks the castle yelling at the servants.
+~
+The House Mistress is not a woman to be kept waiting - not by anyone.
+She s responsible for the cleanliness of the castle and - being that
+her entire existance is bound up with the beauty of the place, she
+refuses to fail . Thus the zeal with which she attends to her duties.
+~
+8264 0 0 0 0 0 0 0 200 E
+72 48 -40 1d1+0 6d6+48
+1200 255219
+8 8 2
+Str: 13
+Dex: 6
+Int: 15
+Wis: 13
+Con: 13
+Cha: 6
+Luck: 7
+Race: 14
+E
+#10304
+maid chamber~
+a Chamber Maid~
+A chamber fusses about the room, efficiently cleaning and straightening.
+~
+She wears a standard work uniform that is the garb of the Baroness'
+servants.  She keeps her hair up in a tight bun, humming as she works.
+~
+72 0 0 0 16 0 0 0 400 E
+37 19 -20 1d1+0 3d6+24
+400 46733
+8 8 2
+Str: 15
+Dex: 22
+Int: 24
+Wis: 9
+Con: 19
+Cha: 18
+Luck: 19
+Class: 12
+Race: 14
+E
+#10305
+server black clothed~
+a Black-clothed Server~
+A black-clothed server walks sedately about the castle, offering refreshment.
+~
+His face remains expressionless, his eyes kept at a deliberately
+non-assuming focus.  The most reaction he offers to any guest is a
+slight nod in way of thanks for any gratuities offered.    
+~
+72 0 0 0 16 0 0 0 200 E
+41 22 -24 1d1+0 4d5+27
+525 60717
+8 8 1
+Str: 21
+Dex: 7
+Int: 10
+Wis: 7
+Con: 22
+Cha: 24
+Luck: 20
+Class: 12
+Race: 14
+E
+#10306
+chef dignified~
+a Dignified Chef~
+A dignified chef bustles about the kitchen, ordering the cooks around.
+~
+His eyes seem to be permanently opened in a rictus of outrageous
+surprise, the underlings of the kitchen never doing enough to please
+him.    
+~
+4106 0 0 0 16 0 0 0 100 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 1
+BareHandAttack: 7
+Str: 8
+Dex: 12
+Int: 14
+Wis: 18
+Con: 14
+Cha: 6
+Luck: 13
+Race: 14
+E
+#10307
+cook~
+a Cook~
+A cook scurries around the kitchen, trying his hardest to stay on top of preparation.
+~
+He moves about with his shoulders somewhat hunched, as if waiting for
+a blow to loand upon his back at any time.    
+~
+6216 0 0 0 16 0 0 0 400 E
+39 20 -20 1d1+0 4d5+26
+450 53447
+8 8 1
+Str: 20
+Dex: 22
+Int: 8
+Wis: 20
+Con: 25
+Cha: 19
+Luck: 17
+Race: 14
+E
+#10308
+attendant ballroom~
+a Ballroom Attendant~
+A ballroom attendant slides through the crowd, refilling drinks and taking empties.
+~
+He keeps a smile firmly in place throughout all of his maneuverings
+through the crowd, never actually intruding on any conversations, only
+giving slight nods or a raising of the eyebrows.    
+~
+72 0 0 0 0 0 0 0 300 E
+49 28 -28 1d1+0 5d5+32
+725 95656
+8 8 1
+Str: 21
+Dex: 23
+Int: 22
+Wis: 13
+Con: 16
+Cha: 15
+Luck: 18
+Class: 12
+Race: 14
+E
+#10309
+coat check woman~
+a Coat Checker~
+A woman stands by the door, taking the coats of guests.
+~
+She gives a brilliant, beautiful smile and offers to take your coat for you.
+~
+10 0 0 0 16 0 0 0 500 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 2
+Str: 25
+Dex: 19
+Int: 21
+Wis: 24
+Con: 14
+Cha: 22
+Luck: 14
+Class: 12
+Race: 14
+E
+#10310
+barman man~
+the Barman~
+A barman stands behind the counter, happily serving his guests.
+~
+He is the 'always jovial' type, the one who always has a quick joke
+and a very infectuous laugh.  His personality is the type that makes a
+bar extremely successful, which is why the Baroness employs him and
+pays him so very well.    
+~
+34117642 0 0 0 16 131072 0 0 800 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+BareHandAttack: 12
+Str: 13
+Dex: 6
+Int: 8
+Wis: 24
+Con: 6
+Cha: 13
+Luck: 13
+Race: 14
+E
+#10311
+stable boy~
+a Stable Boy~
+A stable boy works at keeping the stalls clean and free of rodents.
+~
+He looks shyly up at you and offers a tentative smile.  Would you like
+to rest your horse here for any duration?    
+~
+10 0 0 0 0 0 0 0 400 E
+33 16 -20 1d1+0 3d4+22
+300 34908
+8 8 1
+Str: 7
+Dex: 24
+Int: 25
+Wis: 14
+Con: 20
+Cha: 9
+Luck: 13
+Race: 14
+E
+#10312
+woman evening gown~
+a Woman in an Evening Gown~
+A woman in an evening gown moves languidly past.
+~
+She walks at a stately pace, her gown glistening with sequines which
+flash slightly as she moves.  She keeps her right wrist permanently
+bent, her neck slightly inclined to one side as if listening intently
+to something important.    
+~
+72 0 0 0 0 0 0 0 300 E
+36 18 -20 1d1+0 3d5+24
+350 43580
+8 8 2
+Str: 12
+Dex: 10
+Int: 19
+Wis: 8
+Con: 18
+Cha: 8
+Luck: 13
+Class: 12
+Race: 14
+E
+#10313
+man pipe smoking~
+the Pipe-smoking Man~
+A man lounges in one of the plush chairs, languorously smoking a pipe.
+~
+He stares through bushy eyebrows out into space, cogitating upon
+something or someone, his mind obviously somewhere else.    
+~
+33593354 0 0 0 16 0 0 0 300 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 19
+Int: 19
+Wis: 25
+Con: 17
+Cha: 24
+Luck: 24
+Race: 14
+E
+#10314
+gentleman elder long white beard~
+an Elder Gentleman~
+An elder gentleman with a long, white beard leans against the rail of the balcony.
+~
+He looks out over the lower lounge with a sort of pity, a deep
+knowingness in his old eyes.  He gives a slight sigh and then turns to
+look at you.    
+~
+10 0 0 0 0 0 0 0 700 E
+38 19 -20 1d1+0 3d6+25
+400 50022
+8 8 1
+Str: 16
+Dex: 25
+Int: 19
+Wis: 9
+Con: 19
+Cha: 25
+Luck: 6
+Race: 14
+E
+#10315
+guest baroness~
+a Guest of the Baroness~
+A guest of the Baroness wanders about, exchanging pleasantries with other guests.
+~
+He gives you a sidelong look, as if trying to see if he might know you
+or if you might be someone who might be worth getting to know.  He
+must have come to a decision that you aren't anyone, because he
+continues on.    
+~
+72 0 0 0 0 0 0 0 300 E
+42 22 -24 1d1+0 4d5+28
+550 64565
+8 8 1
+Str: 24
+Dex: 13
+Int: 18
+Wis: 9
+Con: 7
+Cha: 7
+Luck: 24
+Class: 12
+Race: 14
+E
+#10316
+maid scullery~
+a Scullery Maid~
+A scullery maid works on her hands and knees, keeping the floors clean.
+~
+She does as much as she can to keep out of the way of everyone,
+staying as unobtrusive as possible.    
+~
+4168 0 0 0 0 0 0 0 800 E
+34 17 -20 1d1+0 3d4+22
+300 37669
+8 8 2
+Str: 10
+Dex: 14
+Int: 21
+Wis: 16
+Con: 22
+Cha: 22
+Luck: 9
+Class: 12
+Race: 14
+E
+#10317
+manservant servant~
+a Man-servant~
+One of the Baroness' servants is here, keeping the castle clean.
+~
+He does not really look to be the type of poverty-stricken man whose
+only lot in life is to scrub floors and walls, however it is possible
+that his demeanor is due to the generous way in which the Baroness
+treats her employees.    
+~
+72 0 0 0 16 0 0 0 300 E
+39 20 -20 1d1+0 4d5+26
+450 53447
+8 8 2
+Str: 15
+Dex: 22
+Int: 12
+Wis: 18
+Con: 10
+Cha: 21
+Luck: 9
+Class: 12
+Race: 14
+E
+#10318
+woman rotund~
+a rotund Woman~
+A rotund woman in a frilled dress frumps past with an air of dignity.
+~
+She does not even give you a sidelong glance as she moves haughtily
+past with head held high and dress dragging on the ground behind her.
+~
+72 0 0 0 0 0 0 0 100 E
+41 22 -24 1d1+0 4d5+27
+525 60717
+8 8 2
+BareHandAttack: 13
+Str: 20
+Dex: 8
+Int: 23
+Wis: 14
+Con: 23
+Cha: 19
+Luck: 6
+Race: 14
+E
+#10319
+duke barrimore~
+the Duke of Barrimore~
+A regal man stands holding a drink in one hand, his lapel in the other.
+~
+This man is none other than the Duke of Barrimore, a man whose titles
+and lands were overtaken and engulfed by the raiders from the Kailaani
+forest which surrounds these Baronies.  The Baroness, in here divine
+generousity, has taken in this man and all his subjects as an act of
+kindness.    
+~
+645192 0 0 0 65552 4194304 0 0 600 E
+106 84 -40 1d1+0 10d11+70
+2100 684299
+8 8 1
+BareHandAttack: 5
+Str: 10
+Dex: 15
+Int: 25
+Wis: 15
+Con: 17
+Cha: 9
+Luck: 15
+Class: 4
+Race: 14
+E
+#10320
+proper lady~
+a Proper Lady~
+A lady in fine, embroidered clothing moves about the guests, taking in low tones.
+~
+She is always sure to laugh at every jest that any single, rich man
+makes and is always certain to blush at any compliment.  Yes, she is
+on the prowl.    
+~
+72 0 0 0 0 0 0 0 500 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 2
+Str: 7
+Dex: 17
+Int: 16
+Wis: 20
+Con: 24
+Cha: 5
+Luck: 18
+Class: 12
+Race: 14
+E
+#10321
+distinguished gentleman~
+a Distinguished Gentleman~
+A gentleman in fine clothing gives you a nod and a slight bow.
+~
+He wears a monacle in his right eye, just above the crest of his
+waxed, white mustache with he constantly fiddles with.    
+~
+6216 0 0 0 16 0 0 0 300 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 1
+Str: 16
+Dex: 23
+Int: 12
+Wis: 7
+Con: 14
+Cha: 18
+Luck: 20
+Class: 12
+Race: 14
+E
+#10322
+noble drunk~
+a drunk Noble~
+A noble staggers about the courtyard, attempting to regain his dignity.
+~
+He alternates between his drunken staggering and standing stock still
+with both arms clasped behind his head, breathing heavy.    
+~
+72 0 0 0 0 0 0 0 700 E
+43 23 -24 1d1+0 4d5+28
+575 68558
+8 8 1
+Str: 9
+Dex: 12
+Int: 14
+Wis: 25
+Con: 6
+Cha: 17
+Luck: 17
+Race: 14
+E
+#10323
+countess giggling woman~
+a giggling Countess~
+A woman giggles and laughs, almost uncontrollably, as she saunters past.
+~
+It appears that the countess may have had a slight bit too much to
+drink this evening.    
+~
+72 0 0 0 0 0 0 0 400 E
+38 19 -20 1d1+0 3d6+25
+400 50022
+8 8 2
+Str: 19
+Dex: 5
+Int: 20
+Wis: 16
+Con: 20
+Cha: 16
+Luck: 17
+Race: 14
+E
+#10324
+noble affluent~
+an affluent Noble~
+An affluent noble stands proudly with drink in hand, awaiting for others to join him.
+~
+He appears the type that, even were he to spend the entire night
+without anyone even approaching him, would feel nonetheless superior
+over most men.    
+~
+4168 0 0 0 16 0 0 0 400 E
+62 39 -40 1d1+0 5d6+41
+1050 174307
+8 8 1
+Str: 14
+Dex: 15
+Int: 8
+Wis: 14
+Con: 23
+Cha: 7
+Luck: 5
+Race: 14
+E
+#10325
+knight gentleman's garb man~
+a Knight in gentleman's garb~
+A militaristic man in civilian attire stands awkwardly in this back corner.
+~
+He appears to be more than just a little bit uncomfortable in being in
+such a place, being more used to barracks or a hard night's riding.  
+He also appears to be looking for someone...    
+~
+628808 0 0 0 33554448 0 0 0 900 E
+90 66 -40 1d1+0 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 18
+Int: 16
+Wis: 7
+Con: 24
+Cha: 15
+Luck: 7
+Class: 4
+Race: 14
+E
+#10326
+lady young exquisite~
+an exquisite young Lady~
+An extremely beautiful young lady stands here, looking simply divine.
+~
+She is the sort of beautiful that is so much more attractive because
+it is obvious that she is completely unaware of the fact.  She fidgets
+and looks just a bit nervous, never knowing that most of the men in
+the castle would probably die for the chance.    
+~
+72 0 0 0 0 0 0 0 0 E
+44 24 -24 1d1+0 4d5+29
+600 72697
+8 8 2
+Str: 9
+Dex: 20
+Int: 20
+Wis: 12
+Con: 9
+Cha: 20
+Luck: 19
+Class: 12
+Race: 14
+E
+#10327
+man young charming~
+a charming young Man~
+A charming young man offers you a smile and a nod.
+~
+He appears to be a common courtier wrapped up in the desire to please
+those that he deems to be of higher station than himself.  He
+ingratiates himself with anyone who stops to favor him with a
+conversation and fidgets nervously when no pays him heed.    
+~
+72 0 0 0 0 0 0 0 300 E
+49 28 -28 1d1+0 5d5+32
+725 95656
+8 8 1
+Str: 15
+Dex: 23
+Int: 7
+Wis: 12
+Con: 9
+Cha: 21
+Luck: 23
+Class: 12
+Race: 14
+E
+$

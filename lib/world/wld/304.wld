@@ -1,0 +1,79 @@
+#30400
+The Gate of Granite~
+A massive slab of granite, intricately carven and bound with
+adamantine, stands as an unbreakable sentry to a forbidden place.    
+~
+304 65604 0 0 0 0
+D0
+~
+~
+0 0 30401 0
+D2
+~
+~
+0 0 8800 0
+S
+#30401
+The Barracks and Private Quarters of Clan Wicked~
+The room is completely filled with cots and bunkheads, all strewn
+about in disarray.  By the looks of it, this has to be the Inn.    
+~
+304 65600 0 0 0 0
+D1
+~
+~
+0 0 30403 0
+D2
+~
+~
+0 0 30400 0
+D3
+~
+~
+0 0 30402 0
+S
+#30402
+Clan Wicked Board Room~
+This is the message board room of the clan Wicked.  Leave all
+complaints, ideas, and comments here.  If you say nothing, we can do
+nothing.    
+~
+304 65600 0 0 0 0
+D1
+~
+~
+0 0 30401 0
+S
+#30403
+A Massive Underground Chamber~
+A huge chamber, carved directly into a granite hillside, opens before
+you.  The walls are covered with murals and tapestries despicting
+ancient battles of horrific proportions and blood-covered visages of
+our mightiest heroes.  Banners of forgotten clans of yesteryear hang
+from the ceiling, revealing glimpses of massive holds of the finest
+warriors and sorcerors.  The banner of Lost Souls catches your eye.  
+~
+304 327744 0 0 0 0
+D1
+~
+~
+0 0 30404 0
+D3
+~
+~
+0 0 30401 0
+S
+#30404
+Nook in the Granite~
+A hollow into the granite rock opens up into this alcove.  This is
+where equipment and the like are dropped off or donated to for the use
+of your fellow clanmates.  Please be considerate in what you leave and
+or take.    
+~
+304 4259904 0 0 0 0
+D3
+~
+~
+0 0 30403 0
+S
+$~

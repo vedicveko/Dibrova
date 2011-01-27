@@ -1,0 +1,90 @@
+#27200
+spider hairy~
+a hairy spider~
+A small, hairy arachnid scuttles across the path, angling toward you.
+~
+It is a spider of some sort that is most certainly not common in most
+sections of the world.  Poisonous?  Maybe...    
+~
+104 0 0 0 524288 0 0 0 -100 E
+7 1 72 1d1+0 1d2+4
+0 669
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 10
+Int: 20
+Wis: 25
+Con: 12
+Cha: 16
+Luck: 12
+Race: 46
+E
+#27201
+coiled snake~
+a coiled snake~
+A snake hangs coiled from a low branch, eyeing you with a keen interest.
+~
+It raises its head a bit and opens its mouth revealing a jaw full of
+teeth that look as if they might be able to pierce through skin very
+well.  Very well, indeed.    
+~
+17006602 0 0 0 0 0 0 0 -100 E
+13 4 48 1d1+0 1d2+8
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 6
+Dex: 23
+Int: 10
+Wis: 12
+Con: 22
+Cha: 13
+Luck: 5
+Race: 2
+E
+#27202
+jungle stirge~
+a jungle stirge~
+A bird-like creature gives a shrill cry and dives directly for you!
+~
+It has four legs that end in razor-sharp talons, all of which are
+aimed directly for your neck!
+~
+108 0 0 0 8388608 0 0 0 -300 E
+17 6 32 1d1+0 1d3+11
+0 6432
+8 8 0
+BareHandAttack: 8
+Dex: 5
+Int: 7
+Wis: 12
+Con: 23
+Cha: 6
+Luck: 16
+Race: 3
+E
+#27203
+tabaxi humanoid feline~
+a tabaxi~
+A humanoid creature of feline breeding stands crouched on the path before you.
+~
+It stands eyeing you with distrust bordering on alarm.  It pants
+heavily, as if winded from a long run or excited at the prospect of
+fresh meat.    
+~
+65612 0 0 0 524288 131072 0 0 0 E
+66 43 -40 1d1+0 6d6+44
+0 204434
+8 8 2
+BareHandAttack: 9
+Str: 7
+Dex: 13
+Int: 13
+Wis: 16
+Con: 9
+Cha: 15
+Luck: 19
+Race: 1
+E
+$

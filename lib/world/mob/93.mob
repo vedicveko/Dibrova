@@ -1,0 +1,1034 @@
+#9300
+man monquis~
+Monquis~
+A small, thin man leans back in the chair behind the counter.
+~
+He gives you a smile and a nod, offering his help in any matters
+needed.    
+~
+16394 0 0 0 0 0 0 0 500 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 23
+Dex: 7
+Int: 12
+Wis: 25
+Con: 17
+Cha: 23
+Luck: 18
+Race: 14
+E
+#9301
+pegasus brilliant~
+a brilliant Pegasus~
+A brilliant white pegasus awaits her master's bidding.
+~
+She whinnies and snorts, a bit of nervousness in her eyes but nothing
+enough to make her shy from anyone or anything.  She embodies the
+ultimate steed.    
+~
+262154 0 0 0 8388608 0 0 0 900 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 2
+Str: 18
+Dex: 7
+Int: 6
+Wis: 23
+Con: 10
+Cha: 5
+Luck: 17
+Race: 52
+E
+#9302
+stablemaster master man~
+the Stablemaster~
+The stablemaster for the Baron tends shop, caring for any visitors' steeds.
+~
+He nods to you, speaking no words as he lovingly rubs a mare down.  
+~
+10 0 0 0 0 0 0 0 400 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 20
+Dex: 22
+Int: 6
+Wis: 17
+Con: 5
+Cha: 14
+Luck: 17
+Race: 14
+E
+#9303
+guard entry villspah~
+an Entry Guard~
+A guard stands sentry here at the gate, checking all entries into the area.
+~
+Although not a mean-looking man, he has a very stern look about him -
+as if the possibility of not doing his job might wind him up in a
+lotof trouble.    
+~
+88090 0 0 0 570425424 0 0 0 400 E
+95 72 -40 1d1+0 6d8+63
+1825 517501
+8 8 1
+Str: 25
+Dex: 25
+Int: 20
+Wis: 10
+Con: 13
+Cha: 22
+Luck: 25
+Class: 10
+Race: 14
+E
+T 9334
+#9304
+innkeep villspah~
+the Innkeep~
+An innkeep leans on a tall desk, reading a small book.
+~
+He is a thin man, somwhat bookish in appearance.  His attention is so
+fixated upon the book he reads that he doesn't notice your scrutiny.
+~
+11 0 0 0 0 0 0 0 400 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 25
+Dex: 13
+Int: 20
+Wis: 8
+Con: 20
+Cha: 14
+Luck: 17
+Class: 11
+Race: 14
+E
+#9305
+server villspah woman~
+a Server~
+A server hustles about behind the counter.
+~
+She gives you a quick smile.
+'What'll it be?', she asks.
+~
+10 0 0 0 0 0 0 0 400 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 12
+Dex: 22
+Int: 21
+Wis: 17
+Con: 6
+Cha: 25
+Luck: 6
+Class: 12
+Race: 14
+E
+T 9305
+#9306
+patron regular man villspah~
+a regular Patron~
+A regular patron of the Saloon leans against the bar making idle chatter.
+~
+He looks only slightly inebriated, with a bit of a slur to his speech.
+Perhaps his casual lean against the bar is more of a way to hold
+himself upright.    
+~
+14 0 0 0 0 0 0 0 200 E
+55 33 -32 1d1+0 5d6+36
+875 128422
+8 8 1
+Str: 20
+Dex: 20
+Int: 24
+Wis: 18
+Con: 24
+Cha: 18
+Luck: 20
+Class: 12
+Race: 14
+E
+T 9300
+T 9301
+T 9307
+#9307
+local man villspah hank~
+a local Man~
+An obviously local man sits with his wife at a table.
+~
+He listens with half an ear as his wife jabbers on and on about her
+day.  He is obviously not that interested.    
+~
+10 0 0 0 0 0 0 0 300 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 1
+Str: 25
+Dex: 12
+Int: 16
+Wis: 22
+Con: 23
+Cha: 20
+Luck: 17
+Class: 12
+Race: 14
+E
+T 9302
+T 9307
+#9308
+woman wife~
+a local Woman~
+A woman talks non-stop to her husband, pausing only to take breaths.
+~
+She is animately describing her day to her husband who is very
+obviously more interested in the cutlery than her tales of woe from
+the knitting circle.    
+~
+10 0 0 0 0 0 0 0 200 E
+27 12 -8 1d1+0 2d4+18
+200 20926
+8 8 2
+Str: 14
+Dex: 20
+Int: 12
+Wis: 15
+Con: 6
+Cha: 9
+Luck: 7
+Class: 12
+Race: 14
+E
+T 9303
+T 9307
+#9309
+man tired old villspah~
+a tired Old Man~
+A tired old man slumps over one of the tables, awake but exhausted.
+~
+He slumps over the table, both arms folded under his head with a thin
+line of spittle running down off of the left corner of his mouth.  He
+blinks once.    
+~
+10 0 0 0 0 0 0 0 600 E
+61 38 -40 1d1+0 5d6+40
+1025 167227
+8 8 1
+Str: 19
+Dex: 21
+Int: 9
+Wis: 17
+Con: 8
+Cha: 8
+Luck: 19
+Race: 14
+E
+#9310
+logger old man villspah~
+an Old Logger~
+An old logger rests in a chair nearby, watching a small insect crawl across the floor.
+~
+He sits with his beer held at ready, but never takes a drink.  Odd
+that a man could find such fascination with an insect like that.    
+~
+10 0 0 0 0 0 0 0 400 E
+36 18 -20 1d1+0 3d5+24
+350 43580
+8 8 1
+Str: 12
+Dex: 10
+Int: 19
+Wis: 13
+Con: 21
+Cha: 14
+Luck: 25
+Race: 14
+E
+T 9306
+T 9307
+#9311
+school marm villspah~
+the School Marm~
+The local school marm sits quietly on a stool sipping at a glass of wine.
+~
+She wears a long, ankle-length skirt and a kerchief over her head.  
+She smiles shyly your way.    
+~
+10 0 0 0 0 0 0 0 700 E
+31 15 -20 1d1+0 3d4+20
+300 29763
+8 8 2
+Str: 15
+Dex: 5
+Int: 20
+Wis: 14
+Con: 21
+Cha: 5
+Luck: 6
+Race: 14
+E
+#9312
+woman quiet reading villspah~
+a quiet Woman~
+A small woman quietly read a book near the fireplace.
+~
+She stays intent on her book, not looking up - noteven aware of anyone
+else in the room.    
+~
+10 0 0 0 0 0 0 0 900 E
+30 14 -20 1d1+0 3d3+20
+250 27376
+8 8 2
+Str: 15
+Dex: 12
+Int: 9
+Wis: 23
+Con: 7
+Cha: 24
+Luck: 7
+Race: 14
+E
+T 9304
+#9313
+merchant dry goods villspah~
+the Dry Goods Merchant~
+A thin, paper-faced man stands at the counter.
+~
+He gives you a curt nod, indicating that anything you might need, he
+is here for.    
+~
+10 0 0 0 80 0 0 0 600 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 23
+Dex: 16
+Int: 25
+Wis: 23
+Con: 15
+Cha: 20
+Luck: 14
+Race: 14
+E
+#9314
+wide smiling man villspah~
+a wide, smiling Man~
+A very wide, very happy man booms a welcome to you.
+~
+He looks the type who never once in his life turned down a meal and
+never once in his life stopped smiling.  Its almost unnerving.    
+~
+10 0 0 0 80 0 0 0 900 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 25
+Dex: 6
+Int: 8
+Wis: 17
+Con: 18
+Cha: 25
+Luck: 23
+Race: 14
+E
+T 9308
+#9315
+smithy man gaunt wiry~
+the Smithy~
+A gaunt, wiry man pounds on a piece of hot metal.
+~
+He has very short hair which stands spiked upon his head, held in
+place by the sweat that pours from him as he works.    
+~
+10 0 0 0 80 0 0 0 400 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 14
+Dex: 23
+Int: 21
+Wis: 22
+Con: 23
+Cha: 7
+Luck: 16
+Race: 14
+E
+T 9309
+#9316
+student baron villspah young man apprentice~
+one of the Baron's Students~
+A young apprentice to the Baron tends shop.
+~
+He has the stereotypical bookish bowl-cut, his mat of jet black hair
+thick and straight and hanging down an inch above his eyeline.  He
+appears to take his duty as shopkeeper very seriously, never cracking
+even the slightest smile of welcome to you, but immediately offering
+his most humble assistance.    
+~
+10 0 0 0 80 0 0 0 500 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 24
+Dex: 19
+Int: 13
+Wis: 10
+Con: 23
+Cha: 6
+Luck: 12
+Race: 14
+E
+#9317
+jolly plump happy woman~
+a jolly, plump Woman~
+A jolly, plump woman stands behind a glass case filled with pastries.
+~
+She smiles above her third chin, welcoming you to her shop.
+~
+10 0 0 0 80 0 0 0 800 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 25
+Dex: 25
+Int: 17
+Wis: 22
+Con: 7
+Cha: 24
+Luck: 8
+Race: 14
+E
+T 9310
+#9318
+miller man strong capable villspah~
+the Miller~
+The miller, a strong, capable man, works hard at keeping the water plentiful.
+~
+He gives a quick smile and a nod as you enter, but never ceases his work.
+~
+10 0 0 0 80 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 13
+Dex: 12
+Int: 6
+Wis: 22
+Con: 10
+Cha: 19
+Luck: 19
+Race: 14
+E
+#9319
+herbalist jaane~
+Jaane, the Herbalist~
+Jaane the Herbalist walks among her many plants, keeping them fresh and healthy.
+~
+She looks to be a very calm and personable person, full of inner
+strength and ability.  She gives you a small smile as you enter.    
+~
+10 0 0 0 80 0 0 0 300 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 8
+Dex: 25
+Int: 5
+Wis: 9
+Con: 18
+Cha: 21
+Luck: 7
+Race: 14
+E
+T 9312
+#9320
+jeweler man~
+the Jeweler~
+A man peers into a small eyepiece, intently examining a gem.
+~
+He gives you a half-assed nod, indicating that he is very busy right
+now but will be with you promptly.    
+~
+10 0 0 0 80 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 12
+Dex: 7
+Int: 16
+Wis: 24
+Con: 17
+Cha: 12
+Luck: 14
+Race: 14
+E
+T 9313
+#9321
+man cartographer~
+the Cartographer~
+The cartographer leans back in a chair, looking over a newly-copied map.
+~
+More of a ranger than any sort of shop owner, this man spends most of
+his time out travelling the world, looking for new towns and locations
+to map.    
+~
+10 0 0 0 80 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 8
+Con: 12
+Cha: 25
+Luck: 14
+Race: 14
+E
+#9322
+bird lady~
+the Bird Lady~
+A woman, known to all as 'the bird lady', tends shop here.
+~
+She even looks somewhat hawkish, with a long nose and sloping forehead.
+~
+10 0 0 0 80 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+750 100714
+8 8 2
+Str: 6
+Dex: 20
+Int: 25
+Wis: 25
+Con: 20
+Cha: 22
+Luck: 25
+Race: 14
+E
+T 9314
+#9323
+knight villspah~
+one of Villspah's Knights~
+One of Villspah's Knights strolls past, eyeing you with interest.
+~
+This is most certainly a town where everyone knows everyone.  It might
+be best to keep a low profile, if possible.    
+~
+6216 0 0 0 0 0 0 0 500 E
+121 101 -60 1d1+0 14d14+80
+2475 959001
+8 8 1
+Str: 25
+Dex: 20
+Int: 21
+Wis: 16
+Con: 22
+Cha: 23
+Luck: 20
+Class: 10
+Race: 14
+E
+T 9315
+T 9316
+#9324
+pastor local village villspah~
+the Village Pastor~
+The village pastor trundles past with an odd, almost waddling gait.
+~
+He is most certainly a portly man, fed very well by his flock.  His
+bald head gives of a well-polished gleam.  Well fed, indeed.    
+~
+72 0 0 0 0 0 0 0 800 E
+104 81 -40 1d1+0 10d10+69
+2050 651855
+8 8 1
+Str: 17
+Dex: 24
+Int: 10
+Wis: 12
+Con: 18
+Cha: 6
+Luck: 19
+Class: 2
+Race: 14
+E
+#9325
+local villspah~
+a Villspah Local~
+A local to the village walks past with a cheery expression.
+~
+Well, now - this man certainly makes this place look like a nice
+enough place for an honest fellow to travel in.  But then - you're not
+such an honest fellow, now - are you?    
+~
+72 0 0 0 0 0 0 0 800 E
+86 62 -40 1d1+0 6d7+57
+1550 401501
+8 8 1
+Str: 23
+Dex: 21
+Int: 9
+Wis: 7
+Con: 5
+Cha: 10
+Luck: 22
+Class: 12
+Race: 14
+E
+T 9317
+T 9318
+T 9319
+#9326
+merchant traveling~
+a Traveling Merchant~
+A man dressed in traveler's garb trundles past looking very tired and worn.
+~
+He caries strapped around his waist an extremely large case, filled to
+overflowing.  Could it be that this man is a merchant?    
+~
+72 0 0 0 0 0 0 0 200 E
+69 46 -40 1d1+0 6d6+46
+1125 228971
+8 8 1
+Str: 15
+Dex: 15
+Int: 25
+Wis: 24
+Con: 23
+Cha: 23
+Luck: 14
+Race: 14
+E
+T 9320
+#9327
+lad young~
+a Young Lad~
+A young lad plays in the street, drawing pictures in the dirt with a stick.
+~
+He looks to be very content with his stick and the dirt in front of
+him.  Best to just let him keep on with his drawing.    
+~
+10 0 0 0 0 0 0 0 500 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 1
+Str: 14
+Dex: 22
+Int: 10
+Wis: 6
+Con: 10
+Cha: 10
+Luck: 18
+Race: 14
+E
+#9328
+guard bridge villspah~
+one of the BridgeGuard~
+A member of the BridgeGuard stands sentry at the west end of the bridge.
+~
+He does not look directly at you, but moves one step toward the center
+of the road, making certain that you understand entry into the castle
+is restricted.    
+~
+129051 0 0 0 537198928 4325376 0 0 500 E
+130 111 -60 1d1+0 15d16+86
+2500 1381825
+8 8 1
+Str: 25
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 19
+Luck: 20
+Class: 10
+Race: 14
+E
+#9329
+guard tower north~
+the North Tower Guard~
+The north tower guard stands watch, steadfast and attentive.
+~
+He is dressed in the traditional green of all Villspah's men, with a
+stern face and a very rigid posture.    
+~
+22538 0 0 0 0 0 0 0 500 E
+135 117 -60 1d1+0 16d17+90
+2500 1267849
+8 8 1
+Str: 9
+Dex: 6
+Int: 16
+Wis: 24
+Con: 6
+Cha: 7
+Luck: 14
+Class: 4
+Race: 14
+E
+#9330
+south tower guard~
+the South Tower Guard~
+The south tower guard stand watch, ever faithful to the Baron.
+~
+He is a young soldier, no more than nineteen years of age at best, but
+most certainly a trained fighter and a formidable opponent should he
+choose to become one to you.    
+~
+22538 0 0 0 33620048 0 0 0 500 E
+135 117 -60 1d1+0 16d17+90
+2500 1267849
+8 8 1
+Str: 24
+Dex: 10
+Int: 17
+Wis: 13
+Con: 7
+Cha: 8
+Luck: 7
+Class: 4
+Race: 14
+E
+#9331
+counselor baron man thin~
+the Counselor to the Baron~
+A thin man in gentleman's garb leans upon an ivory cane.
+~
+He looks at you for nearly a full minute before making any move or
+speech.  It is decisively uncomfortable.    
+~
+92170 0 0 0 536936784 4325376 0 0 200 E
+161 150 -60 1d1+0 24d24+107
+2550 2185320
+8 8 1
+Str: 20
+Dex: 25
+Int: 25
+Wis: 22
+Con: 18
+Cha: 18
+Luck: 18
+Race: 14
+E
+T 9335
+T 9336
+T 9337
+T 9338
+T 9339
+#9332
+cook bustling~
+a bustling Cook~
+A cook bustles about the kitchen, constantly preparing food for the hall.
+~
+Her white smock is smeared with the stains gravies and juices from
+many hours of hard work.    
+~
+16394 0 0 0 65536 4194304 0 0 500 E
+34 17 -20 1d1+0 3d4+22
+300 37669
+8 8 2
+Str: 7
+Dex: 12
+Int: 22
+Wis: 18
+Con: 17
+Cha: 6
+Luck: 17
+Race: 14
+E
+T 9323
+T 9322
+T 9321
+#9333
+kitchen maiden~
+a Kitchen Maiden~
+A young girl tends to the pots and pans, scrubbing with a wire brush.
+~
+Her greasy hair falls into her face as she scrubs at the pots, making
+her constantly blow a piff of air at the hair, trying to keep it from
+tickling her face.    
+~
+16394 0 0 0 65536 4194304 0 0 500 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 2
+Str: 17
+Dex: 17
+Int: 14
+Wis: 22
+Con: 7
+Cha: 17
+Luck: 14
+Race: 14
+E
+T 9324
+#9334
+serving girl~
+a serving Girl~
+A young serving girls works dilligently at keeping the table full.
+~
+She does not look up at anyone - not you, not any of the other kitchen
+staff - but keeps her eyes on her job at all times.    
+~
+16458 0 0 0 65536 4194304 0 0 900 E
+15 5 40 1d1+0 1d3+10
+50 4674
+8 8 2
+Str: 14
+Dex: 19
+Int: 13
+Wis: 24
+Con: 14
+Cha: 15
+Luck: 18
+Race: 14
+E
+T 9325
+#9335
+man regal baron~
+a Regal-looking Man~
+A regal-looking man, presumably the Baron, sits at the head of the table.
+~
+He smiles and gracefully stands, giving a slight bow.
+~
+16522 0 0 0 65616 4194304 0 0 400 E
+112 90 -40 1d1+0 12d12+74
+2250 787448
+8 8 1
+Str: 13
+Dex: 7
+Int: 6
+Wis: 12
+Con: 15
+Cha: 6
+Luck: 17
+Class: 4
+Race: 14
+E
+T 9326
+#9336
+militiaman man~
+a Militiaman~
+A militiaman grins a sly smile upon seeing you enter.
+~
+Hm. Wrong door, probably..
+~
+94250 0 0 0 33619968 4194304 0 0 300 E
+126 107 -60 1d1+0 15d15+84
+2500 1063313
+8 8 1
+Str: 9
+Dex: 15
+Int: 22
+Wis: 19
+Con: 6
+Cha: 6
+Luck: 8
+Race: 14
+E
+#9337
+guard~
+a basement Guard~
+A pale-faced guard stands watch upon the prisoners in the cells.
+~
+His eyes narrow as he spies you - you aren't supposed to be here, it
+seems.    
+~
+22600 0 0 0 65536 4194304 0 0 300 E
+124 104 -60 1d1+0 14d15+82
+2500 1020802
+8 8 1
+Str: 19
+Dex: 6
+Int: 8
+Wis: 16
+Con: 14
+Cha: 12
+Luck: 7
+Class: 4
+Race: 14
+E
+T 9327
+#9338
+lieutenant westlawn cavalry~
+Baron Westlawn's cavalry Lieutenant~
+A man lies beaten upon the ground, in rags.
+~
+His one remaining good eye stares at you, unafraid and uncaring of his
+fate - whoever you may be.    
+~
+16394 0 0 0 65536 4194304 0 0 400 E
+67 44 -40 1d1+0 6d6+44
+1175 212425
+8 8 1
+Str: 23
+Dex: 24
+Int: 25
+Wis: 10
+Con: 17
+Cha: 24
+Luck: 23
+Race: 14
+E
+T 9328
+T 9329
+#9339
+darwin chief strategist~
+Darwin's Chief Strategist~
+A man leans against the far wall, shielding his eyes from your light.
+~
+He wears what look to once have been very fine clothes, but have long
+since been reduced to shreds from living in this single roomed cell of
+stone.    
+~
+16394 0 0 0 65536 4194304 0 0 -500 E
+111 89 -40 1d1+0 12d12+74
+2225 769644
+8 8 1
+Str: 18
+Dex: 20
+Int: 22
+Wis: 24
+Con: 25
+Cha: 10
+Luck: 9
+Race: 14
+E
+T 9330
+#9340
+councilman gillespies high~
+Gillespie's High Coucilman~
+A rotund man in a once-fine suit lies comatose upon the floor.
+~
+He appears to be awake, however he does not move - he doesn't even
+blink.    
+~
+16394 0 0 0 65536 4194304 0 0 -400 E
+106 84 -40 1d1+0 10d11+70
+2100 684299
+2 2 1
+Str: 12
+Dex: 19
+Int: 6
+Wis: 9
+Con: 10
+Cha: 25
+Luck: 18
+Race: 14
+E
+#9341
+guard baron personal man~
+one of the Baron's personal Guards~
+One of the Baron's personal guards blocks your way.
+~
+He looks you up and down and snarls a warning that you'd best leave in
+a hurry or suffer the consequences.    
+~
+81978 0 0 0 65536 4325376 0 0 800 E
+146 131 -60 1d1+0 18d18+97
+2500 1548161
+8 8 1
+Str: 25
+Dex: 20
+Int: 15
+Wis: 19
+Con: 16
+Cha: 21
+Luck: 23
+Class: 4
+Race: 14
+E
+T 9331
+T 9332
+#9342
+baron villspah~
+the Baron Villspah~
+The Baron stands, back to the west wall, facing you with a dagger in hand.
+~
+He eyes you with clarity, no trace of fear as he stands steadfastly in
+protection of his home and beliefs.    
+~
+53274 0 0 0 33620224 4194304 0 0 1000 E
+160 149 -60 1d1+0 22d23+106
+2550 2150874
+8 8 1
+Str: 20
+Dex: 20
+Int: 25
+Wis: 25
+Con: 20
+Cha: 25
+Luck: 20
+Class: 8
+Race: 14
+E
+#9343
+servant castle~
+a castle Servant~
+A castle servant wanders about, cleaning the place up.
+~
+A quick smile and a blush is all you get before she continues on her way.
+~
+16460 0 0 0 65536 4194304 0 0 400 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 2
+Str: 14
+Dex: 17
+Int: 23
+Wis: 19
+Con: 9
+Cha: 24
+Luck: 10
+Class: 12
+Race: 14
+E
+#9344
+mistress baron~
+one of the Baron's Mistresses~
+A woman in a loose, transparent white dress looks surprised to see you.
+~
+She covers her mouth with one surprised hand, the other reaching
+behind her as if trying to find something to steady herself with.    
+~
+16456 0 0 0 65536 4194304 0 0 500 E
+42 22 -24 1d1+0 4d5+28
+550 64565
+8 8 2
+Str: 15
+Dex: 17
+Int: 9
+Wis: 16
+Con: 6
+Cha: 17
+Luck: 25
+Race: 14
+E
+T 9333
+#9345
+robed servant~
+a Robed Servant~
+A robed servant stands quietly before you, smiling pleasantly.
+~
+He looks to be in his middle ages, very stern of carriage and with a
+serious mien.    
+~
+16394 0 0 0 65536 4194304 0 0 0 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 1
+Str: 12
+Dex: 16
+Int: 9
+Wis: 10
+Con: 13
+Cha: 7
+Luck: 5
+Race: 14
+E
+T 9341
+$

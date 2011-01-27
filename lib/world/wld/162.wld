@@ -1,0 +1,2323 @@
+#16200
+northward trail~
+The path is narrow and seems to be nothing more than a well-used game
+trail.  Brambles with wicked thorns sprout from between the occasional
+fallen tree, making passage difficult.    
+~
+162 4 0 0 0 3
+D0
+~
+~
+0 0 16201 0
+D2
+~
+~
+0 0 16013 0
+E
+north~
+A dark, narrow passage to  ???
+~
+S
+#16201
+northward trail~
+The path is narrow and seems to be nothing more than a well-used game
+trail.  Brambles with wicked thorns sprout from betweeen the
+occasional fallen tree, making passage difficult.  A small side path
+leads west of here.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16203 0
+D2
+~
+~
+0 0 16200 0
+D3
+~
+~
+0 0 16000 0
+S
+#16202
+Patch of Honeysuckle~
+Trailing vines of the Honeysuckle seem to reach everywhere, smothering
+just about all it covers.  The long, graceful flowers are a favorite
+of the hummingbirds who desire the refreshing taste of honeysuckle
+nectar.  Travellers often drink from the brilliant orange blossoms, as
+the vine continues in its quest to grow.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16204 0
+D1
+~
+~
+0 0 16220 0
+D2
+~
+~
+0 0 16222 0
+D3
+~
+~
+0 0 16296 0
+S
+#16203
+Mysteriously Glowing Field~
+The field is filled with a soft light, which originates from four
+jars, one each placed in the four corners of the field.  The jars glow
+mysteriously, as if beckoning one to come and release whatever lies
+within them.  The sweet fragrance in the air is overpowering.  One can
+go north or south, or explore what lies behind the doors of the two
+log cabins, west and east of here.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16206 0
+D1
+~
+mahogany~
+2 16201 16223 9
+D2
+~
+~
+0 0 16201 0
+D3
+~
+oak~
+2 16201 16224 9
+E
+north~
+through the opening, an archway resting amidst a field of flowers can be seen.~
+E
+dust~
+The sparkling dust scattered about is filled with footprints of 
+all shapes and sizes.
+~
+E
+west~
+The door is closed.
+~
+E
+east~
+The door is closed
+~
+S
+#16204
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16205 0
+D1
+~
+~
+0 0 16221 0
+D2
+~
+~
+0 0 16202 0
+D3
+~
+~
+0 0 16204 0
+S
+#16205
+Patch of Peony~
+Thick clusters of Peonies make it hard for one to pass though this
+field.  Not only is the vegetation thick, ants abound in huge numbers
+here.  The Peonies rely on the ants to help open her blossoms,
+displaying glorious clusters of pink, white, purple, and red flowers.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16213 0
+D1
+~
+~
+0 0 16233 0
+D2
+~
+~
+0 0 16204 0
+D3
+~
+~
+0 0 16295 0
+S
+#16206
+Patchwork Field~
+The fragrant field of flowers and greenery are surrounded by strong
+towering Bull Oak trees.  The various patches of flowers are
+breathtaking.  Directly north stands a lone stone archway.    
+~
+162 0 0 0 0 2
+D0
+The stone archway is adorned with powerful Elven runes and
+glows with Faerie magic.  It seems to have weathered the eons
+rather well, being made of sturdy granite.
+~
+archway~
+2 16201 16211 9
+D2
+~
+~
+0 0 16203 0
+S
+#16207
+Patch of Clover~
+Colorful flowers surround this tiny patch of clover.  Memories of
+searching for that 4-leaf clover come to mind as you pass through
+here.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16225 0
+D1
+~
+~
+0 0 16227 0
+D2
+~
+~
+0 0 16216 0
+D3
+~
+~
+0 0 16226 0
+S
+#16208
+Patch of Cowslip Flowers~
+A multitude of dainty Cowslips cover this field.  These flowers are
+loved and protected by the fairy folks.  Other plants grow here, but
+in a manner that suggest they yield to the Cowslips out of respect.  
+Rumor has it that these flowers are used by the fairy kin to locate
+deposits of gold.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16268 0
+D1
+~
+~
+0 0 16229 0
+D2
+~
+~
+0 0 16299 0
+D3
+~
+~
+0 0 16228 0
+S
+#16209
+Patch of Foxglove Flowers~
+From lavender to a deep purple, these flowers stand 2-4 feet tall in
+bunches on the end of spikes.  It's possible that these flowers have
+some other use than just looking pretty.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16259 0
+D1
+~
+~
+0 0 16212 0
+D2
+~
+~
+0 0 16288 0
+D3
+~
+~
+0 0 16227 0
+S
+#16210
+Patch of Bluebell Flowers~
+This field is the home of Bluebells.  These plants sport blue-colored,
+bell-shaped flowers.  As they sway in the breeze, one can imagine them
+to ring out as real bells would.  Rumors of a powerful enchantment,
+bestowed upon these flowers by fairy kin, warn of a certain danger.  
+The bells continue to "ring" away in the breeze.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16222 0
+D1
+~
+~
+0 0 16228 0
+D2
+~
+~
+0 0 16298 0
+D3
+~
+~
+0 0 16297 0
+S
+#16211
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16219 0
+D1
+~
+~
+0 0 16237 0
+D2
+~
+~
+0 0 16206 0
+D3
+~
+~
+0 0 16276 0
+S
+#16212
+An Abandoned Well~
+The old flagstone well has become overgrown with tall grasses
+and various flowers.  ACK!! As you approach the well, a hand
+reaches out from the undergrowth and grabs your ankle!!!
+T
+R
+I
+P
+
+You get a close look at the well than you bargained for!
+\
+ \
+  \
+   \
+    \
+     \
+      \
+       \
+        \
+         \
+          \
+YOU'VE FALLEN DOWN THE WELL!!!
+~
+162 2 0 0 0 0
+S
+#16213
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16214 0
+D1
+~
+~
+0 0 16242 0
+D2
+~
+~
+0 0 16205 0
+D3
+~
+~
+0 0 16213 0
+S
+#16214
+Patch of Snapdragon~
+Tall spikes, bearing the blossoms of the Snapdragon, snap eagerly at
+the legs of any adventurer who stumbles upon this field.  The flowers
+of the Snapdragon resemble the heads of minature dragons.  Bright
+colours, from yellow to red, the harmless blossoms snap away in the
+gentle breeze.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16215 0
+D1
+~
+~
+0 0 16250 0
+D2
+~
+~
+0 0 16213 0
+D3
+~
+~
+0 0 16294 0
+S
+#16215
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16215 0
+D1
+~
+~
+0 0 16263 0
+D2
+~
+~
+0 0 16214 0
+D3
+~
+~
+0 0 16215 0
+S
+#16216
+Dogwood Tree~
+Pretty white blossoms decorate this small tree, just barely bigger
+than the common shrub.  It has a long life-span, something that it's
+frail appearance belies.  Large oval leaves provide a soothing shade
+and the fallen petals make for a comfortable place to rest upon.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16207 0
+S
+#16217
+Patch of Wisteria~
+A sweet and precious fragrance greets the traveler as they come upon
+this field of Wisteria.  Tall poles set up in a circular pattern with
+lattices connecting each support the vines of the Wisteria.  
+Graceful, drooping blossoms of purple and white fill the air with a
+sweet odor adored by many.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16220 0
+D1
+~
+~
+0 0 16268 0
+D2
+~
+~
+0 0 16228 0
+D3
+~
+~
+0 0 16222 0
+S
+#16218
+The Hawthorne Tree~
+The only tree who's magical prowess that surpasses the Elder Tree is
+the Hawthorne Tree.  Easily the largest tree in land, it's size most
+likely magically enhanced.  The faeries adore this tree and make it a
+place where they hold their meetings and such.  To harm this tree is
+to bring the wrath of faeries upon the defiler.    
+~
+162 0 0 0 0 3
+D4
+~
+~
+0 0 16289 0
+S
+#16219
+Patch of St. John's Wort~
+A unique plant, called St.  John's Wort, grows here in abundance.  
+Plain and homely in comparison to other flowers, it remains
+unsurpassed in the uses of medicinal remedies and protection against
+spells.  Sprawling all about, St.  John's Wort eventually gives way to
+the other vegetation of the nearby Fairy Fields.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16231 0
+D1
+~
+~
+0 0 16238 0
+D2
+~
+~
+0 0 16211 0
+D3
+~
+~
+0 0 16277 0
+S
+#16220
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16221 0
+D1
+~
+~
+0 0 16269 0
+D2
+~
+~
+0 0 16217 0
+D3
+~
+~
+0 0 16202 0
+S
+#16221
+Patch of Phlox~
+Bright white and pink blossoms of the Phlox greet weary travelers as
+they pass through here.  The waist-high Phlox coat the field to the
+point that nary a weed can be seen amongst them.  The droning of a
+thousand bees fill the air as bees busily collect pollen from the
+blossoms.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16233 0
+D1
+~
+~
+0 0 16270 0
+D2
+~
+~
+0 0 16220 0
+D3
+~
+~
+0 0 16204 0
+S
+#16222
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16202 0
+D1
+~
+~
+0 0 16217 0
+D2
+~
+~
+0 0 16210 0
+D3
+~
+~
+0 0 16222 0
+S
+#16223
+Inside the Log Cabin~
+The cabin is sparsely furnished and neat.  A desk and some chairs sit
+in the middle of the room.  A pair of plain cots lie in the back,
+along with a cabinet, of the cabin.    
+~
+162 0 0 0 0 0
+D3
+~
+~
+0 0 16203 0
+E
+west~
+There's a faint glow coming from the crack under the door.
+~
+S
+#16224
+Inside the Log Cabin~
+The log cabin is sparsely furnished and neat.  Two cots lie in the
+back of the cabin, in addition to a small rack of weaponry up on the
+wall there.    
+~
+162 0 0 0 0 0
+D1
+~
+~
+0 0 16203 0
+S
+#16225
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16243 0
+D1
+~
+~
+0 0 16251 0
+D2
+~
+~
+0 0 16207 0
+D3
+~
+~
+0 0 16237 0
+S
+#16226
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+south and west.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16237 0
+D1
+~
+~
+0 0 16207 0
+S
+#16227
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16251 0
+D1
+~
+~
+0 0 16209 0
+D2
+~
+~
+0 0 16227 0
+D3
+~
+~
+0 0 16207 0
+S
+#16228
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16217 0
+D1
+~
+~
+0 0 16208 0
+D2
+~
+~
+0 0 16003 0
+D3
+~
+~
+0 0 16210 0
+S
+#16229
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+south and east.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16276 0
+D3
+~
+~
+0 0 16208 0
+S
+#16230
+High in the Hawthorne Tree~
+The diameter of the trunk remains constant for another twenty feet and
+then begins to taper back into solid wood.  Runes and sounds of
+powerful magic fill the room here.    
+~
+162 0 0 0 0 3
+D5
+~
+~
+0 0 16289 0
+S
+#16231
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16232 0
+D1
+~
+~
+0 0 16239 0
+D2
+~
+~
+0 0 16219 0
+D3
+~
+~
+0 0 16278 0
+S
+#16232
+Patch of Dandelion~
+Tiny, little blossoms resembling a Lion's yellow mane cover this
+patch.  This field is the home of Dandlelions, small plants sporting
+dark green leaves and bearing yellow flowers.  Most of the flowers
+have freshly bloomed, though some have begun to form fluffy seed
+heads.  Knowledgable travelers often make soup and salads from the
+leaves of these plants.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16234 0
+D1
+~
+~
+0 0 16240 0
+D2
+~
+~
+0 0 16231 0
+D3
+~
+~
+0 0 16279 0
+S
+#16233
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16242 0
+D1
+~
+~
+0 0 16271 0
+D2
+~
+~
+0 0 16221 0
+D3
+~
+~
+0 0 16205 0
+S
+#16234
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16235 0
+D1
+~
+~
+0 0 16241 0
+D2
+~
+~
+0 0 16232 0
+D3
+~
+~
+0 0 16280 0
+S
+#16235
+Patch of Tulips~
+The field here abounds with every color tulip you could possibly
+fathom.  The strong stems of these hearty flowers support the
+beautiful cup shaped flowers quite well.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16236 0
+D1
+~
+~
+0 0 16249 0
+D2
+~
+~
+0 0 16234 0
+D3
+~
+~
+0 0 16281 0
+S
+#16236
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 17401 0
+D1
+~
+~
+0 0 16258 0
+D2
+~
+~
+0 0 16235 0
+D3
+~
+~
+0 0 16282 0
+S
+#16237
+Patch of Marigolds~
+A small field of cheery Marigolds adds some colour to the already
+beautiful landscape.  Round and plump blossoms of orange and yellow
+bobble in the gentle breeze.  Surprisingly, there seems to be no or
+few insects buzzing about, perhaps due to the presence of the
+Marigolds?    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16238 0
+D1
+~
+~
+0 0 16225 0
+D2
+~
+~
+0 0 16226 0
+D3
+~
+~
+0 0 16211 0
+S
+#16238
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16239 0
+D1
+~
+~
+0 0 16243 0
+D2
+~
+~
+0 0 16237 0
+D3
+~
+~
+0 0 16219 0
+D5
+~
+~
+0 0 16215 16
+S
+#16239
+Patch of Bleeding Hearts~
+A field of Bleeding Hearts among some daisies is enough to take one's
+breath away.  Vibrant red flowers hanging from slender stalks and
+white blossoms provide a refreshing contrast to the plain green fairy
+fields all about.  One cannot possibly think about broken hearts in
+this field with the breeze and sunshine caressing upon them.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16240 0
+D1
+~
+~
+0 0 16244 0
+D2
+~
+~
+0 0 16238 0
+D3
+~
+~
+0 0 16231 0
+S
+#16240
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16241 0
+D1
+~
+~
+0 0 16245 0
+D2
+~
+~
+0 0 16239 0
+D3
+~
+~
+0 0 16232 0
+S
+#16241
+Patch of Heather~
+Tiny white flowers atop a blanket of green give hint that this is a
+field of Heather.  Large boulders, uprooted from afar and somehow
+deposited here, shade the Heather and provide protection from the
+elements.  Traveling can be tricky, for some of the boulders shift
+under extra weight.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16249 0
+D1
+~
+~
+0 0 16246 0
+D2
+~
+~
+0 0 16240 0
+D3
+~
+~
+0 0 16234 0
+S
+#16242
+Patch of Red Roses~
+All shades of Red Roses can be seen here, dotting the field with
+hundreds of red flowers.  Some of them are simply pretty to look at,
+others are enhanced by wonderful fragrances, furthering the beauty of
+this field.  One must be careful to tread here, for such beauty is not
+left unprotected.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16250 0
+D1
+~
+~
+0 0 16272 0
+D2
+~
+~
+0 0 16233 0
+D3
+~
+~
+0 0 16213 0
+S
+#16243
+Patch of Mushrooms~
+The field is perpetually damp, a delight to the horde of mushrooms
+that call this place home.  All kinds of mushrooms can be found here,
+ranging from the tiny , edible Button mushrooms to the deadly Deathcap
+mushroom.  Some mushrooms seem to grow in an oddly-patterned circle.
+Legend warns of danger if one steps inside a circle during a full
+moon.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16244 0
+D1
+~
+~
+0 0 16252 0
+D2
+~
+~
+0 0 16225 0
+D3
+~
+~
+0 0 16238 0
+S
+#16244
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16245 0
+D1
+~
+~
+0 0 16253 0
+D2
+~
+~
+0 0 16243 0
+D3
+~
+~
+0 0 16239 0
+D5
+~
+~
+0 0 16256 16
+S
+#16245
+Patch of Ragwort~
+This patch of flowers consists mainly of Ragwort, easily identified by
+its dazzling display of yellow "sunflowers" clustered upon a stalk.  
+Faeries love these plants, using them as magical mounts to traverse
+these fields.  Lore has it that anyone can use Ragwort as a mount,
+provided that they knew something about faerie magic.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16246 0
+D1
+~
+~
+0 0 16254 0
+D2
+~
+~
+0 0 16244 0
+D3
+~
+~
+0 0 16240 0
+S
+#16246
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16247 0
+D1
+~
+~
+0 0 16255 0
+D2
+~
+~
+0 0 16245 0
+D3
+~
+~
+0 0 16241 0
+D5
+~
+~
+0 0 16233 16
+S
+#16247
+Patch of Yellow Roses~
+Yellow, yellow, and yellow is all one can see in this field of Yellow
+Roses.  Blossoms of all sizes and various shades of yellow bloom here,
+creating a dazzling view under the sunlight.  Dark green leaves
+compliment the flowers, as do the colorful butterflies seen flittering
+about.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16248 0
+D1
+~
+~
+0 0 16256 0
+D2
+~
+~
+0 0 16246 0
+D3
+~
+~
+0 0 16249 0
+S
+#16248
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16248 0
+D1
+~
+~
+0 0 16257 0
+D2
+~
+~
+0 0 16247 0
+D3
+~
+~
+0 0 16258 0
+S
+#16249
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16258 0
+D1
+~
+~
+0 0 16247 0
+D2
+~
+~
+0 0 16241 0
+D3
+~
+~
+0 0 16235 0
+D5
+~
+~
+0 0 16262 16
+S
+#16250
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16263 0
+D1
+~
+~
+0 0 16273 0
+D2
+~
+~
+0 0 16242 0
+D3
+~
+~
+0 0 16214 0
+S
+#16251
+Patch of Iris~
+From the dark, purple color of the Japanese Iris to the bronze color
+of the Chieftan Iris, these flowers are a sight to behold.  Ranging
+from 1 feet to 3 feet tall, they hold lavish blossoms high upon their
+stalks.  Few flowers, if any, can rival the beauty of these splendid
+Irises.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16252 0
+D1
+~
+~
+0 0 16259 0
+D2
+~
+~
+0 0 16227 0
+D3
+~
+~
+0 0 16225 0
+S
+#16252
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Fairies of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16253 0
+D1
+~
+~
+0 0 16260 0
+D2
+~
+~
+0 0 16251 0
+D3
+~
+~
+0 0 16243 0
+S
+#16253
+Patch of Jack-in-the-Pulpits~
+Large, somber green plants mark this otherwise plain looking field.  
+Upon closer inspection, one would find Jacks-in-the-Pulpits to be
+quite interesting.  Graceful, pitcher-shaped flowers contain orange
+berries, the result of the busy work of pollinators.  Fairy children
+are often known to hide in the pitchers and confuse travelers with
+ventriloquism.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16254 0
+D1
+~
+~
+0 0 16261 0
+D2
+~
+~
+0 0 16252 0
+D3
+~
+~
+0 0 16244 0
+S
+#16254
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16255 0
+D1
+~
+~
+0 0 16262 0
+D2
+~
+~
+0 0 16253 0
+D3
+~
+~
+0 0 16245 0
+S
+#16255
+Patch of Mistletoe~
+A large tree grows in the middle of the field, its branches sprawling
+far and wide.  High up in its boughs, several Mistletoes grow.  
+Sporting dark green leaves and bearing white berries, Mistletoes are
+well-liked by faeries.  Legend has it that two folks caught under a
+Mistletoe are granted the right to steal a kiss from each other.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16256 0
+D1
+~
+~
+0 0 16265 0
+D2
+~
+~
+0 0 16254 0
+D3
+~
+~
+0 0 16246 0
+S
+#16256
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16257 0
+D1
+~
+~
+0 0 16266 0
+D2
+~
+~
+0 0 16255 0
+D3
+~
+~
+0 0 16247 0
+S
+#16257
+Patch of Columbine~
+The ground gets rough here, dotted with pale-grey rocks ranging from a
+pound to a hefty hundred pounds in size.  The nodding blossoms of the
+hardy Columbine peek out from between rocks.  It is difficult to
+believe how such beautiful plants can exist in such rugged conditions,
+proof of the never-ending wonders of mother nature.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16287 0
+D1
+~
+~
+0 0 16267 0
+D2
+~
+~
+0 0 16256 0
+D3
+~
+~
+0 0 16248 0
+S
+#16258
+Patch of Black Roses~
+Dark black and velvety flowers upon thorny stems reveal this field to
+be populated by Black Roses.  Dark green leaves, long thorns, crowned
+by rare-colored flowers are valued by the faeries.  One must take
+cautions, not picking the flowers, but avoiding the thorns as well.  
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16285 0
+D1
+~
+~
+0 0 16248 0
+D2
+~
+~
+0 0 16249 0
+D3
+~
+~
+0 0 16236 0
+S
+#16259
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16260 0
+D1
+~
+~
+0 0 16259 0
+D2
+~
+~
+0 0 16209 0
+D3
+~
+~
+0 0 16251 0
+S
+#16260
+Patch of Hollyhock~
+A wooden fence supporting the stately Hollyhocks divides this field of
+green grasses.  Tall and towering above everything in sight, the
+Hollyhocks reach for the life-giving sun.  Large flowers upon the
+slender stalks add some colour and attact the dainty hummingbirds who
+seek its sweet nectar.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16261 0
+D1
+~
+~
+0 0 16286 0
+D2
+~
+~
+0 0 16259 0
+D3
+~
+~
+0 0 16252 0
+S
+#16261
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16262 0
+D1
+~
+~
+0 0 16261 0
+D2
+~
+~
+0 0 16260 0
+D3
+~
+~
+0 0 16253 0
+S
+#16262
+Patch of Pansies~
+Hundreds of "smiling faces" dot the field, showing that Pansies thrive
+here in full force.  Various colors and markings make this field a
+vivid sight to behold.  No deviant weeds can be seen here, even though
+nary a Pansy grows higher than one's ankles.  Faeries like to romp
+here, giggling as they imitate the "faces" upon the blossoms.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16265 0
+D1
+~
+~
+0 0 16275 0
+D2
+~
+~
+0 0 16261 0
+D3
+~
+~
+0 0 16254 0
+S
+#16263
+Patch of Coral Bells~
+Small clusters of dark red flowers on a spike show this to be a field
+of Coral Bells.  The blood-red flowers are so abundant, the field
+seems to be one sprawling carpet of blood.  Bees drone by, visting
+flower after flower for their sweet bounty.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16264 0
+D1
+~
+~
+0 0 16274 0
+D2
+~
+~
+0 0 16250 0
+D3
+~
+~
+0 0 16215 0
+S
+#16264
+Ancient Bull Oak~
+This massive tree, easily the largest by girth, is the Ancient Bull
+Oak Tree.  Having lived centuries, this tree has outlived all the
+calamities nature could throw at it.  It's branches, now heavy with
+acorns, provide a dense shade.  Signs of wildlife can be seen all
+around here, rooting for the acorns.    
+~
+162 0 0 0 0 3
+D2
+~
+~
+0 0 16263 0
+S
+#16265
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16266 0
+D1
+~
+~
+0 0 16265 0
+D2
+~
+~
+0 0 16262 0
+D3
+~
+~
+0 0 16255 0
+S
+#16266
+Patch of Elderberry~
+The scraggly and tall bushes of Elderberry dot the landscape here.  
+The bushes bear crowns of dark, purple fruit.  The berries are used as
+food, especially in pies, by the faeries.  The breeze makes a soft
+rustling sound as it passes through the leafy bushes.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16267 0
+D1
+~
+~
+0 0 16284 0
+D2
+~
+~
+0 0 16265 0
+D3
+~
+~
+0 0 16256 0
+S
+#16267
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16267 0
+D1
+~
+~
+0 0 16267 0
+D2
+~
+~
+0 0 16266 0
+D3
+~
+~
+0 0 16257 0
+S
+#16268
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16269 0
+D1
+~
+~
+0 0 16276 0
+D2
+~
+~
+0 0 16208 0
+D3
+~
+~
+0 0 16217 0
+S
+#16269
+Patch of Sweet Alyssum~
+A sweet scent filling the air reveals the presence of minute Sweet
+Alyssums.  Small and tiny, they bloom in pretty colors of pink,
+purple, and white.  Butterflies flock here in droves, longing for the
+sweet nectar of Alyssum.  The gentle breeze provides some respite from
+the often overpowering scent which cheerfully lingers in the air.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16270 0
+D1
+~
+~
+0 0 16277 0
+D2
+~
+~
+0 0 16268 0
+D3
+~
+~
+0 0 16220 0
+S
+#16270
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16271 0
+D1
+~
+~
+0 0 16278 0
+D2
+~
+~
+0 0 16269 0
+D3
+~
+~
+0 0 16221 0
+D5
+~
+~
+0 0 16259 16
+S
+#16271
+Patch of Ferns~
+A small stream of water springs forth from the ground here and
+trickles for a distance before being soaked back up into the very
+ground it came from.  This damp environment is perfect for the Ferns
+which grow in abundance here.  Fiddleheads, Regals, and Cinnamon are
+just a few types of many ferns that can be seen here.  The cool patch
+offers a nice place of rest for the weary traveler.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16272 0
+D1
+~
+~
+0 0 16279 0
+D2
+~
+~
+0 0 16270 0
+D3
+~
+~
+0 0 16233 0
+S
+#16272
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16273 0
+D1
+~
+~
+0 0 16280 0
+D2
+~
+~
+0 0 16271 0
+D3
+~
+~
+0 0 16242 0
+D5
+~
+~
+0 0 16218 16
+S
+#16273
+Patch of Thistle~
+Tall plants bearing blossoms upon stalks covered with stinging needles
+mark this field as one covered by Thistles.  Even the edges of the
+leaves bear needles which can cause discomfort to the unprepared
+traveler who stumbles through here.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16274 0
+D1
+~
+~
+0 0 16281 0
+D2
+~
+~
+0 0 16272 0
+D3
+~
+~
+0 0 16250 0
+S
+#16274
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16274 0
+D1
+~
+~
+0 0 16282 0
+D2
+~
+~
+0 0 16273 0
+D3
+~
+~
+0 0 16263 0
+S
+#16275
+Sycamore Tree~
+The Sycamore Tree is a tall and stately tree.  It is easily recognized
+by it's mottled, peeling bark.  The various earthen colors of the bark
+and the huge leaves add it it's uniqueness.  It's heavy shade is only
+rivaled by the Ancient Bull Oak Tree.    
+~
+162 0 0 0 0 3
+D3
+~
+~
+0 0 16262 0
+S
+#16276
+Patch of Primroses~
+A carpet of low-growing Primroses cover the field, pushing out other
+plantlife.  Small clusters of flowers atop a short stalk spread some
+cheer into the otherwise green ground.  One of the earliest
+harbringers of spring, it is also one of the hardiest flowers around.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16277 0
+D1
+~
+~
+0 0 16211 0
+D2
+~
+~
+0 0 16229 0
+D3
+~
+~
+0 0 16268 0
+S
+#16277
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16278 0
+D1
+~
+~
+0 0 16219 0
+D2
+~
+~
+0 0 16276 0
+D3
+~
+~
+0 0 16269 0
+D5
+~
+~
+0 0 16232 16
+S
+#16278
+Patch of Forget-Me-Nots~
+The tiny Forget-Me-Nots, scattered with patches of moss between them,
+cover the field.  Dimunitive blue flowers peek out from the
+low-growing green growth as if to remind travelers not to forget the
+beauty of all things great and small.  The breeze merrily frolics
+about, whispering things long forgotten.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16279 0
+D1
+~
+~
+0 0 16231 0
+D2
+~
+~
+0 0 16277 0
+D3
+~
+~
+0 0 16270 0
+S
+#16279
+Faerie Fields~
+The meadow seems to spread out as far as the eye can see.  Every color
+and hue under the rainbow can be seen in the landscape.  The breeze
+makes a slight rustling sound as it blows through the grass.  Life in
+all forms abound in this field treasured by the Faeries of the realm.
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16280 0
+D1
+~
+~
+0 0 16232 0
+D2
+~
+~
+0 0 16278 0
+D3
+~
+~
+0 0 16271 0
+S
+#16280
+Patch of Lilac~
+Tall and short bushes sporting blossoms which perfume the breeze with
+a marvelous scent grow here.  This field is the home of the Lilacs,
+plants which bear flowers that some say smell like no other in the
+realm.  There is ample shade here, a perfect spot to relax and smell
+the flowers.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16281 0
+D1
+~
+~
+0 0 16234 0
+D2
+~
+~
+0 0 16279 0
+D3
+~
+~
+0 0 16272 0
+S
+#16281
+A field of Faerie Rings~
+Tall meadow grasses sway in the gentle breeze as various flowers
+brighten up the landscape.  The field is alive with all kinds of
+creatures, some revealed by sight, others by sound.  As the sun shines
+here, the meadow seems to thrive.  An odd ring of mushrooms and
+toadstools MARK the center of the field.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16282 0
+D1
+~
+~
+0 0 16235 0
+D2
+~
+~
+0 0 16280 0
+D3
+~
+~
+0 0 16273 0
+D5
+~
+~
+0 0 16299 16
+S
+#16282
+Patch of Carnations~
+A carpet of bright red and yellow flowers cover this field of
+Carnations.  Pale green leaves and stems support a colorful flower
+which brings cheer to an otherwise drab world.  The flowers sway
+gently in the breeze as wildlife scurry about peacefully.    
+~
+162 0 0 0 0 2
+D0
+~
+~
+0 0 16283 0
+D1
+~
+~
+0 0 16236 0
+D2
+~
+~
+0 0 16281 0
+D3
+~
+~
+0 0 16274 0
+S
+#16283
+Olive Tree~
+A slender Olive Tree grows here.  Its small leaves, along a slender
+stem, is well-known as a sign of peace and authority.  The plump green
+fruit of the tree is a favorite of the people around here.  A feeling
+of relaxation and the gentle breeze invites one to sleep here among
+the shade.    
+~
+162 0 0 0 0 3
+D2
+~
+~
+0 0 16282 0
+S
+#16284
+Fir Tree~
+This tree, easily the tallest tree around, is the Fir Tree.  An
+evergreen, it's needle-ladden branches have a drooping appearance.  
+The smell of pine fills the air here and the sounds of squirels
+fighting over the pine cones frequently shatter the peaceful silence
+here.    
+~
+162 0 0 0 0 3
+D3
+~
+~
+0 0 16266 0
+S
+#16285
+Maple Tree~
+The air is filled with whirling winged-seeds which are falling off the
+branches of the gentle Maple Tree.  The leaves of this tree are among
+some of the most colorful in the fall.  The sap of the tree is oft
+collected by the faerie folk to make delicious sugary confections for
+thier children.    
+~
+162 0 0 0 0 3
+D2
+~
+~
+0 0 16258 0
+S
+#16286
+Weeping Willow~
+The breeze seems to sigh as it passes through the swaying fronds of
+the Weeping Willow.  Although not a tall tree, it's girth rivals that
+of the Ancient Bull Oak Tree.  The branches hang, touching the ground,
+making it a delightful place for faerie children to play.  Often one
+can see the children swinging and climbing on the fronds.    
+~
+162 0 0 0 0 3
+D3
+~
+~
+0 0 16260 0
+S
+#16287
+Pine Tree~
+The scent of pine is refreshing to one's soul.  The ground is littered
+with the fallen needles and cones of the Pine Tree.  One needs to be
+careful as they walk underneath this tree, for sticky sap oozes and
+drips from the trunk and branches of the tree.    
+~
+162 0 0 0 0 3
+D2
+~
+~
+0 0 16257 0
+S
+#16288
+Ash Tree~
+The solid trunk of the Ash Tree seems to rise straight and true.  
+Nary a crook or bend can be seen till it reaches the crown of the
+tree.  Folks from all around appreciate this tree, for it is the
+matron of all young ash trees, from which the useful, hard wood comes
+from.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16209 0
+S
+#16289
+Inside the Magical Hawthorne Tree~
+The trunk is cavernous and well-lit by some strange sort of magical
+aura emitting from the walls.  Ancient runes, some which have been
+forgotten by the faeries over time, adorn the woody trunk.  Four large
+branches span outwards in the four cardinal directions.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16290 0
+D1
+~
+~
+0 0 16292 0
+D2
+~
+~
+0 0 16293 0
+D3
+~
+~
+0 0 16291 0
+D4
+~
+~
+0 0 16230 0
+D5
+~
+~
+0 0 16218 0
+S
+#16290
+Northern Branch of the hawthorne Tree~
+The massive branch seems to expand magically to accomodate who ever
+enters it.  The runes glow faintly and whispers of secrets long ago
+echo about here.    
+~
+162 0 0 0 0 3
+D2
+~
+~
+0 0 16289 0
+S
+#16291
+Western Branch of the Hawthorne Tree~
+The massive branch seems to expand magically to accomodate who ever
+enters it.  The runes glow faintly and whispers of secrets long ago
+echo about here.    
+~
+162 0 0 0 0 3
+D1
+~
+~
+0 0 16289 0
+S
+#16292
+Eastern Branch of the Hawthorne Tree~
+The massive branch seems to expand magically to accomodate who ever
+enters it.  The runes glow faintly and whispers of secrets long ago
+echo about here.    
+~
+162 0 0 0 0 3
+D3
+~
+~
+0 0 16289 0
+S
+#16293
+Southern Branch of the Hawthorne Tree~
+The massive branch seems to expand magically to accomodate who ever
+enters it.  The runes glow faintly and whispers of secrets long ago
+echo about here.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16289 0
+S
+#16294
+Birch Tree~
+A slender tree, covered in soft, white bark grows here.  The Birch
+Tree is short-lived, yet the dazzling yellow leaves in the fall make
+up for it's brief time here.  Drooping and swaying branches, bearing
+small spade-shaped leaves provide a gentle shade for one to sleep
+under.  A lover of water, one can be assured of water nearby this
+tree.    
+~
+162 0 0 0 0 3
+D1
+~
+~
+0 0 16214 0
+S
+#16295
+Blackthorne Bush~
+Blackthorne bushes rule this field, each giving the other plenty of
+room to grow, yet close enough to discourage the growth of weeds.  
+Long thorns along slender branches pose a formidible wall of
+vegetation to pass through.  The stiffled giggling of hidden faeries
+can be heard from somewhere in the patch.    
+~
+162 0 0 0 0 3
+D1
+~
+~
+0 0 16205 0
+S
+#16296
+Apple Tree~
+The grand-daddy of all apple trees grows here.  The Apple Tree is
+low-growing, yet rather massive in girth for it's small size.  Its
+boughs are laded with plump, juicy fruit of various colors.  The folks
+of the land frequently drop by to harvest some of the bountiful fruit.
+~
+162 0 0 0 0 3
+D1
+~
+~
+0 0 16202 0
+S
+#16297
+Elder Tree~
+An aura of powerful magic, evil magic surrounds this otherwise
+plain-looking tree.  It is not the biggest nor the tallest tree
+around, yet the faeries fear this tree for the malign powers it
+contains.  Folks are wise to give this tree a wide berth, for one does
+not know what evil michief might happen.    
+~
+162 0 0 0 0 3
+D1
+~
+~
+0 0 16210 0
+D2
+~
+~
+0 0 16007 0
+S
+#16298
+Alder Tree~
+Dark green leaves cover the branches of the Alder Tree.  It's trunk is
+a pale grey color, an unusual contrast to the brown coloration of most
+trees.  The faerie folk like to climb this tree, for it's smooth bark
+makes for delightful slides.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16210 0
+D1
+~
+~
+0 0 16003 0
+D2
+~
+~
+0 0 16005 0
+D3
+~
+~
+0 0 16007 0
+S
+#16299
+Elm Tree~
+The stately Elm Tree, vase-like in appearance, provides a shade
+unequaled by any other tree.  It's oval leaves, rough on the edges,
+turn a pale yellow color as the seasons change.  One of the hardier
+trees, one can find them growing in places where most trees would
+dread to be found.  The wall of a log cabin prevents any travel to the
+east.    
+~
+162 0 0 0 0 3
+D0
+~
+~
+0 0 16208 0
+D2
+~
+~
+0 0 16001 0
+D3
+~
+~
+0 0 16003 0
+S
+$~

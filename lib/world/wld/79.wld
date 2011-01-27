@@ -1,0 +1,1488 @@
+#7900
+The Entrance Hall~
+You stand in a small room which has been carved out of the hillside.
+To the north a large set of stone doors block the way, and freedom lies to the
+south. There is a message carved into the east wall.
+~
+79 8 0 0 0 0
+D0
+A large set of stone doors.
+~
+stone doors~
+1 -1 7901 3
+D2
+~
+~
+0 0 7980 0
+E
+wall message carving~
+This area was created for the enjoyment of those that look for adventure. It
+is however difficult, and so if you are not level 15 or higher, it would be a
+good idea to leave and come back when you are. --- It would be best to come in
+a large group. Enjoy.
+    Helt.
+~
+S
+#7901
+A Dark Passage~
+You are in a dark passage, filled with dust and rubble. To the south
+you can make out a set of large stone doors, and the only other exit is to the
+north where the passage continues into darkness. You can hear nothing except
+your own breathing.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7902 0
+D2
+A large set of stone doors.
+~
+stone doors~
+1 -1 7900 3
+S
+#7902
+A Dark Passage~
+The passage continues to the north where a bright light can be seen
+and south into darkness. To the east a wooden door blocks the way.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7904 0
+D1
+A wooden door.
+~
+door wooden~
+1 -1 7903 3
+D2
+~
+~
+0 -1 7901 0
+S
+#7903
+Sleeping Quarters~
+You stand in a long room with row of beds down the one side. It seems
+to be a sleeping area of some sort. You don't want to be here when the
+occupants return. Something catches your eye under one of the beds.
+~
+79 8200 0 0 0 0
+D3
+A wooden door.
+~
+wooden door~
+1 -1 7902 3
+E
+bed under~
+Some of the floorboards under the bed seem to be lose, but try as you might
+you cannot seem to move them.
+~
+S
+#7904
+A Bright Passage~
+You have come to the point of no return. As you look to the south, you
+notice that a wall has somehow replaced the passage. The brightly lit
+corridor proceeds to the north and there is a dark passage to the west.
+There is a sign next to the passage west.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7905 0
+D3
+~
+~
+0 -1 7907 0
+E
+sign~
+The sign reads: "Go no further, if you are not invited."
+~
+S
+#7905
+At the End of the Passage~
+You have reached the end of the passage. The only exits are east
+through a wooden door, or south back along the passage. The air seems much
+colder here and the light cast by the few torches seems to create more
+shadows then light.
+~
+79 8 0 0 0 0
+D1
+A wooden door.
+~
+wooden door~
+1 -1 7906 3
+D2
+~
+~
+0 -1 7904 0
+S
+#7906
+Sleeping Quarters~
+You have stumbled into a sleeping area for some of the inhabitants of
+this pit. They do not seem pleased to see you. Perhaps it would be a good
+idea not to linger here.
+~
+79 8 0 0 0 0
+D3
+A wooden door.
+~
+wooden door~
+1 -1 7905 3
+S
+#7907
+A Dark Intersection~
+You stand in a dark, damp intersection. Shadows dance at the edge of
+your light. Dark passages lead north and south, while you can seen light
+coming from the east.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7912 0
+D1
+~
+~
+0 -1 7904 0
+D2
+~
+~
+0 -1 7908 0
+S
+#7908
+The Dark Passage Continues~
+More dark passages. The passage continues to the north and south. As
+your light shine on the walls you can discern a faint sheen of water as it
+trickles down the walls. You hope the passage won't suddenly fill with water.
+In the distance, You can hear a dull roar.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7907 0
+D2
+~
+~
+0 -1 7909 0
+S
+#7909
+A Bend in the Passage~
+You can proceed no further south. Only exits seem to lead north into
+more darkness or west where a glimering of light can be seen. The roar seems
+nearer and reminds you of the sound of falling water hitting rocks.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7908 0
+D3
+~
+~
+0 -1 7910 0
+S
+#7910
+A Bend in the Passage~
+You reach another bend in the passage and realise that you can see
+without the use of your light source. The roar that you have been hearing is
+almost deafening here and it seems to be coming from the north. The light also
+seems stronger towards the north. The air is damp and smells of decaying
+vegetation.
+~
+79 8 0 0 0 0
+D0
+A rainbow.
+~
+~
+0 -1 7911 0
+D1
+~
+~
+0 -1 7909 0
+S
+#7911
+The Rainbow Chamber~
+A huge cavern opens around you. You notice that you are standing on a
+narrow ledge on the south side of the cavern. The sides of the cavern are
+covered in moss which gives off a greenish light. A magnificent waterfall
+sprouts from the west wall and falls down into the darkness where it smashes
+against the rocks. You can see no way to continue in any direction but back
+the way you came.
+~
+79 8 0 0 0 0
+D2
+~
+~
+0 -1 7910 0
+S
+#7912
+A Choked Passage~
+There seems to have been a cave-in here recently and the passage to
+the north is completely blocked but for a small opening. The rocks, however
+don't seem too stable. You can either proceed north through the hole or
+along the safer passage to the south.
+~
+79 9 0 0 0 0
+D0
+A small hole.
+~
+~
+0 -1 7913 0
+D2
+~
+~
+0 -1 7907 0
+S
+#7913
+The End of the Passage~
+You are at the end of the passage. The way south is blocked by a
+cave-in and while it was easy to come through from the other side it seems
+VERY UNSTABLE from this side. A stout metal door prevents passage to the east.
+~
+79 9 0 0 0 0
+D1
+A stout metal door.
+~
+door metal~
+2 7924 7914 15
+D2
+~
+~
+0 0 7912 0
+S
+#7914
+Meeting Hall~
+You have steped into a large room full of benches and chairs. It would
+seem that the inhabitats of this place meet here on a regular basis. Do you
+want to be here when they arrive? An archway leads to the north and doors lead
+to the east and west.
+~
+79 8 0 0 0 0
+D0
+A stone archway.
+~
+~
+0 -1 7916 0
+D1
+A Heavy wooden door.
+~
+door heavy wooden~
+2 7924 7915 15
+D3
+A stout metal door.
+~
+metal door~
+2 7924 7913 15
+S
+#7915
+Store Room~
+This must once have been a store room, but from the smell of blood and
+the sight of chains attached to the wall it would seem that it has been
+converted into a prison of sorts.
+~
+79 9 0 0 0 0
+D3
+A heavy wooden door.
+~
+door heavy wooden~
+2 7924 7914 15
+S
+#7916
+A Ladder Down~
+When you enter the first thing you notice is the hole in the middle
+of the floor with a ladder sticking out of it. There is nothing else in the
+room and the only other exit is to the south, throught the stone archway. A
+cold wind blows out of the hole in the floor.
+~
+79 8 0 0 0 0
+D2
+A stone archway.
+~
+~
+0 -1 7914 0
+D5
+A ladder.
+~
+~
+0 -1 7917 0
+S
+#7917
+On the Ladder~
+The ladder is old and rusty, but it still seems sturdy here. Above
+you, you can see a ring of light. Down you can see nothing except more ladder.
+You think you can hear the sound faint rustling somewhere near.
+~
+79 9 0 0 0 0
+D4
+Top of the ladder.
+~
+~
+0 -1 7916 0
+D5
+More of the ladder.
+~
+~
+0 -1 7918 0
+S
+#7918
+A Landing~
+You are growing tired. The way down seems endless. A narrow passage
+leads off to the east and the ladder continues up and down. From below a cold
+wind blows up, sending chills over your whole body. The air is very still
+towards the east.
+~
+79 9 0 0 0 0
+D1
+~
+~
+0 -1 7919 0
+D4
+More of the ladder.
+~
+~
+0 -1 7917 0
+D5
+More of the ladder.
+~
+~
+0 -1 7922 0
+S
+#7919
+A Dark Narrow Passage~
+The hair on the back of you neck rises. You feel as if you are being
+watched by someone. There is a tick layer of dust on the ground. No one seems
+to have come this way in a very long time. The passage continues to the east
+and west it goes back to the ladder.
+~
+79 9 0 0 0 0
+D1
+~
+~
+0 -1 7920 0
+D3
+~
+~
+0 -1 7918 0
+S
+#7920
+A Dark Passage~
+A smooth hole gapes at your feet, inviting you to investigate. The
+descent seems hazardous, no hand or foot-holds seem available. You must
+decide to either go west, back to the passage or down into the dark unknown.
+A message has been carved on the floor next to the hole, but most of it has
+been worn away.
+~
+79 9 0 0 0 0
+D3
+~
+~
+0 -1 7919 0
+D5
+You see NOTHING that would be worth it.
+~
+~
+0 -1 7921 0
+E
+message floor~
+D   ot  o do n. I lo   t o com a  on  w en  hey f ll int  th    it.
+~
+S
+#7921
+A Long Way Down~
+AAAAHHHHH!!!!! You can't seem to hold onto the sides of the hole.
+Will you ever stop falling? YES, you eventually do... but you don't feel
+much after the initial bounce.
+~
+79 4 0 0 0 0
+S
+#7922
+A Landing~
+The ladder continues up an down, and there is a small opening to the
+east. You hear the sound of water dripping from somewhere out of sight.
+~
+79 9 0 0 0 0
+D1
+~
+~
+0 -1 7923 0
+D4
+More of the ladder.
+~
+~
+0 -1 7918 0
+D5
+More of the ladder.~
+~
+0 -1 7924 0
+S
+#7923
+A Small Crevice~
+The opening doesn't go very far, but comes to an end about 2 meters
+after it started. The only exit seems to be the way you came -- towards the
+west.
+~
+79 9 0 0 0 0
+D3
+~
+~
+0 -1 7922 0
+S
+#7924
+Still Another Landing~
+Does this ladder ever end? All you see when you look up or down, is
+the ladder being swallowed by the darkness. However, to the west, you see an
+opening in the wall. Light seems to be coming from that direction. The cold
+wind also seems to be coming from that direction.
+~
+79 9 0 0 0 0
+D3
+An opening.
+~
+~
+0 -1 7925 0
+D4
+More of the ladder.
+~
+~
+0 -1 7922 0
+D5
+Still more of the ladder.
+~
+~
+0 -1 7932 0
+S
+#7925
+A Well-lit Tunnel~
+At long last the signs of civilization. But is this a good thing...
+where there is light there are creatures. The passage continues to the west
+and the way east leads back to the ladder. You notice a sign carved into the
+floor.
+~
+79 8 0 0 0 0
+D1
+~
+~
+0 -1 7924 0
+D3
+~
+~
+0 -1 7926 0
+E
+floor sign carving~
+The sign reads: "Let no one that has no business with the Hand, pass this
+point, for if you do, you will not return this way again.. ever!"
+~
+S
+#7926
+A Turning in the Corridor~
+You notice that the corridor is infinately better than the previous
+passages that you have travelled along since entering this place. The way is
+well lit and the floor, walls and ceiling are well carved and free of dust.
+The corridor proceeds to the north to a small room and to the east to more
+corridor.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7928 0
+D1
+~
+~
+0 -1 7925 0
+S
+#7927
+A Rough Passage~
+You have entered a half completed passage. Debris and rubble litter
+the floor. The passage continues to the east and the west takes you to a
+small room.
+~
+79 8201 0 0 0 0
+D1
+~
+~
+0 -1 7976 0
+D3
+~
+~
+0 -1 7928 0
+S
+#7928
+A Small Room~
+You enter a small room and the first thing you notice is a skeleton
+hanging from the ceiling by a chain. The second thing you notice is a door
+leading north and passages leading east and south. The third thing you notice
+is that the temperature is extremely low in here.
+~
+79 8200 0 0 0 0
+D0
+A heavy steel door.
+~
+door steel~
+1 -1 7929 3
+D1
+~
+~
+0 -1 7927 0
+D2
+~
+~
+0 -1 7926 0
+E
+skeleton~
+He seems to have been dead a long time
+~
+S
+#7929
+A Room Leading Up~
+This room appears to be purely functional, and its function seems to
+be to support the flight of stairs that lead upwards.
+~
+79 8200 0 0 0 0
+D2
+A heavy steal door.
+~
+steel door~
+1 -1 7928 3
+D4
+~
+~
+0 -1 7930 0
+S
+#7930
+A Small Landing~
+The stairs end on a small handing, in front of a large black door
+which blocks the way to the east. You see a strange carving on the door.
+~
+79 8 0 0 0 0
+D1
+A large black door.
+~
+door~
+1 7925 7931 7
+D5
+~
+~
+0 -1 7929 0
+E
+carving door~
+You see a carving of what appears to be a large hand.
+~
+S
+#7931
+The Resting Place~
+You have entered a room that is totally black in color. It is lit by
+a few black candles and the shadows quiver and move as an unseen wind blows
+through the room. This is the Hand's resting place, but it doesn't seem to be
+a good place for you to rest.
+~
+79 8200 0 0 0 0
+D3
+A large black door.
+~
+large black door~
+1 7925 7930 7
+S
+#7932
+On the Ladder~
+The ladder looks the same as before, and as before it proceeds up in
+an upward and a downward direction. A dark and little used corridor leads off
+to the east.
+~
+79 9 0 0 0 0
+D1
+~
+~
+0 -1 7933 0
+D4
+More ladder.
+~
+~
+0 -1 7924 0
+D5
+More ladder.
+~
+~
+0 -1 7940 0
+S
+#7933
+Steps Leading Up~
+While this section of the corridor looks to have once been fine and
+well looked after, it is now covered in dust and cobwebs. The steps lead up
+into the darkness and the ladder is waiting to the west.
+~
+79 9 0 0 0 0
+D3
+~
+~
+0 -1 7932 0
+D4
+~
+~
+0 -1 7934 0
+E
+dust cobwebs~
+You move the dust and cobwebs and uncover an old painting of a beautiful
+young woman.
+~
+S
+#7934
+A Stone Landing~
+Steps lead downwards from a small stone landing. To the north a dark
+passage can be barely seen. Clouds of dust spring up from under your feet
+every step you take.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7935 0
+D5
+~
+~
+0 -1 7933 0
+S
+#7935
+A Dark Turning in a Corridor~
+The corridor continues to the south and to the east. This room seems
+to have been last visited a decade ago. Dust covers everything. You think
+you hear a deep rumble and the noise of rock rubbing against rock coming from
+somewhere to the east.
+~
+79 9 0 0 0 0
+D1
+~
+~
+0 -1 7936 0
+D2
+~
+~
+0 -1 7934 0
+S
+#7936
+A Dark Intersection~
+The corridor continues east and west and a small room can be seen of
+to the north. The rumbling is loader here and is definately coming from the
+east.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7937 0
+D1
+~
+~
+0 -1 7938 0
+D3
+~
+~
+0 -1 7935 0
+S
+#7937
+A Small Storeroom~
+This room as not been used for many years. Whatever was once stored
+here has either decayed or has been moved elsewhere. All that remains is the
+dust and the cobwebs. There seems to be no exit except the way you entered.
+~
+79 9 0 0 0 0
+D2
+~
+~
+0 -1 7936 0
+S
+#7938
+Corridor End~
+Apon entering you imeadiately notice the absense of dust and other
+debris that had been littering the rest of the corridor. The next thing you
+notice is that the rumbling noise seems to be coming from somewhere within
+the room. Last you notice a beautifully carved wooden door leading to the
+south.
+~
+79 8201 0 0 0 0
+D2
+A beautifully carved wooden door.
+~
+door wooden~
+1 -1 7939 3
+D3
+~
+~
+0 -1 7936 0
+S
+#7939
+The Grand Bedroom~
+You have entered an enormous bedroom. The walls are covered with
+beautiful paintings and other old ornaments decorate the room. The bedroom
+belongs to Darathon's mother and while she doesn't seem too upset with your
+intrusion, it would be foolish to stay here any longer then absolutely
+neccesary.
+~
+79 8200 0 0 0 0
+D0
+A beautifully carved wooden door.
+~
+door wooden~
+1 -1 7938 3
+S
+#7940
+A Large Landing~
+This appears to be the main landing for the ladder. The ladder does,
+however, continue down but you can seen NOTHING down there except a gray mist.
+The ladder allows access to higher levels. A wide well lit corridor can be
+seen the south.
+~
+79 9 0 0 0 0
+D2
+A well lit corridor.
+~
+~
+0 -1 7941 0
+D4
+More ladder.
+~
+~
+0 -1 7932 0
+D5
+You see an evil looking mist... NOT a good place to go.
+~
+~
+0 -1 7971 0
+S
+#7941
+A Well-lit Corridor~
+This seems to be a well used area. The floor is covered in a dark blue
+carpet and there is no sign of any dust. The corridor is lit but you can't see
+what is responsible for the light. The corridor continues to the north and
+south.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7940 0
+D2
+~
+~
+0 -1 7942 0
+S
+#7942
+A Turn in the Corridor~
+The corridor bends here and continues to the north and east.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7941 0
+D1
+~
+~
+0 -1 7943 0
+S
+#7943
+A Well-lit Corridor~
+You continue along the corridor.
+~
+79 8 0 0 0 0
+D1
+~
+~
+0 -1 7944 0
+D3
+~
+~
+0 -1 7942 0
+S
+#7944
+A Turn in the Corridor~
+Yet again the corridor bends, this time you may proceed to the west or
+the south.
+~
+79 8 0 0 0 0
+D2
+~
+~
+0 -1 7945 0
+D3
+~
+~
+0 -1 7943 0
+S
+#7945
+A Turn in the Corridor~
+Whoever built this place obviously decided that the fastest way
+between two points is not the straight path.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7944 0
+D3
+~
+~
+0 -1 7946 0
+S
+#7946
+The Red Corridor~
+The corridor is very wide here. Six men could easily walk abreast and
+the outer two would still not touch the walls. The carpet is now a deap red
+and the walls are hung with red draps. The light has also changed, and now
+seems to have a redish glow. The whole effect makes you feel like you are
+walking in a river of blood.
+~
+79 8 0 0 0 0
+D1
+~
+~
+0 -1 7945 0
+D3
+~
+~
+0 -1 7947 0
+S
+#7947
+The Red Corridor~
+The Red Corridor stretches of to the east and west.
+~
+79 8 0 0 0 0
+D1
+~
+~
+0 -1 7946 0
+D3
+~
+~
+0 -1 7948 0
+S
+#7948
+An Intersection~
+The Red Corridor continues to the east and south, while a narrow dark
+passage leaves to the west. The passage west seems full of deep shadows and
+appears most forbiding.
+~
+79 8 0 0 0 0
+D1
+~
+~
+0 -1 7947 0
+D2
+~
+~
+0 -1 7953 0
+D3
+~
+~
+0 -1 7949 0
+S
+#7949
+A Dark Bend~
+This passage is dark and damp and smells of blood and decay. You can
+faintly hear chanting coming from the north.
+~
+79 9 0 0 0 0
+D0
+~
+~
+0 -1 7950 0
+D1
+~
+~
+0 -1 7948 0
+S
+#7950
+End of the Passage~
+You have reached the end of the passage. To continue further you must
+either open one of the doors to the east or the north or go south along a dark
+passage. The sound of chanting is loader and seems to come from behind the
+door to the north.
+~
+79 9 0 0 0 0
+D0
+An ebony door.
+~
+door ebony~
+1 -1 7951 3
+D1
+A rusty metal door.
+~
+rusty metal door~
+1 -1 7952 3
+D2
+~
+~
+0 -1 7949 0
+S
+#7951
+Alengrot's Chamber~
+The room has been carved from solid rock. It is, however, difficult to
+see the stone, as most of the floor and the walls are covered in dark blood -
+most of it old, some of it fresh. The smell is dreadful. The room is totally
+bare except for the stone table in the centre of the room and a small shelf
+against the north wall.
+~
+79 8 0 0 0 0
+D2
+An ebony door.
+~
+door ebony~
+1 -1 7950 3
+E
+table~
+The stone table is covered in fresh blood. It has a chain attached to each
+corner.
+~
+E
+shelf~
+This self seems to be Alengrot's trophy case and contains some gruesome and
+disgusting objects.
+~
+S
+#7952
+A Old Storeroom~
+There are MANY things in here. BUT nearly all of the items are only
+dust particles.
+~
+79 9 0 0 0 0
+D3
+A rusty metal door.
+~
+door rusty metal~
+1 -1 7950 3
+S
+#7953
+The Red Corridor~
+The Red Corridor continues to the south and to the north.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7948 0
+D2
+~
+~
+0 -1 7954 0
+S
+#7954
+The Red Corridor~
+The Red Corridor continues to the south and to the north.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7953 0
+D2
+~
+~
+0 -1 7955 0
+S
+#7955
+End of The Red Corridor~
+The corridor ends here. A narrow crystal door leads off the west and
+a set of large golden doors lead off to the east. There is a small sign on
+the south wall.
+~
+79 8 0 0 0 0
+D0
+~
+~
+0 -1 7954 0
+D1
+Large Golden doors.
+~
+golden doors~
+1 -1 7956 3
+D3
+A narrow crystal door.
+~
+door crystal~
+1 -1 7977 3
+E
+south wall sign~
+The sign reads: "Lord Darathorn the Great."
+~
+S
+#7956
+The Southwest Corner of the Great Hall~
+You stand in the southwest corner of a large hall. Numerous torches
+and candles give light to a hall covered completely by gold. The hall
+stretches off to the east and the north. The enterance to the hall lies to the
+west.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7957 0
+D1
+~
+~
+0 -1 7961 0
+D3
+Large Golden doors.
+~
+doors golden~
+1 -1 7955 3
+S
+#7957
+The West Side of the Great Hall~
+The great hall continues to the north, south and east.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7958 0
+D1
+~
+~
+0 -1 7960 0
+D2
+~
+~
+0 -1 7956 0
+S
+#7958
+The Northwest Corner of the Great Hall~
+The hall stretches to the south and the east.
+~
+79 8200 0 0 0 0
+D1
+~
+~
+0 -1 7959 0
+D2
+~
+~
+0 -1 7957 0
+S
+#7959
+The North End of the Great Hall~
+You see the north wall of the hall. It looks just like the south wall.
+You can see more of the hall to the east, south and the west.
+~
+79 8200 0 0 0 0
+D1
+~
+~
+0 -1 7964 0
+D2
+~
+~
+0 -1 7960 0
+D3
+~
+~
+0 -1 7958 0
+S
+#7960
+Centre of the Great Hall~
+You stand in the very centre of the hall. You can proceed in all four
+compass directions. You see a small golden plaque imbedded in the ground at
+your feet.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7959 0
+D1
+~
+~
+0 -1 7963 0
+D2
+~
+~
+0 -1 7961 0
+D3
+~
+~
+0 -1 7957 0
+E
+golden plaque ground~
+The plaque reads: "Let all who stand here look and marvel at the wonderous
+splendor of Darathorn the Great."
+~
+S
+#7961
+The South End of the Great Hall~
+You stand before the south wall. It looks exactly the same as the
+north wall. The hall extends away to the north, east and west.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7960 0
+D1
+~
+~
+0 -1 7962 0
+D3
+~
+~
+0 -1 7956 0
+S
+#7962
+The Southeast Corner of the Great Hall~
+The hall continues to the north and to the west.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7963 0
+D3
+~
+~
+0 -1 7961 0
+S
+#7963
+The East End of the Great Hall~
+Darathorn's great throne stands here made of solid gold. It is a pity
+that, because of its weight, you will never be able to carry it away. The hall
+continues to the north, south and west. To the east you see a heavy curtain.
+~
+79 8200 0 0 0 0
+D0
+~
+~
+0 -1 7964 0
+D1
+A heavy curtain.
+~
+curtain heavy~
+1 -1 7965 3
+D2
+~
+~
+0 -1 7962 0
+D3
+~
+~
+0 -1 7960 0
+E
+curtain~
+A heavy curtain hangs against the wall.
+~
+S
+#7964
+The Northeast Corner of the Great Hall~
+This corner of the hall seems darker and colder then the rest of the
+hall.  Warmer parts of the hall can be seen to the south and to the
+west.    
+~
+79 8200 0 0 0 0
+D2
+~
+~
+0 -1 7963 0
+D3
+~
+~
+0 -1 7959 0
+S
+#7965
+A Small Room~
+You have entered a small room behind the throne. It is plain and bare
+and looks very stark after the golden great hall. There are three exits out of
+the room. The first is west back to the hall. The second is through a small
+door to the south, and the third is up through a hole in the ceiling.
+~
+79 8 0 0 0 0
+D2
+A small door.
+~
+door~
+1 -1 7966 3
+D3
+A heavy curtain.
+~
+curtain heavy~
+1 -1 7963 3
+D4
+A large hole.
+~
+~
+0 -1 7967 0
+S
+#7966
+The Robe Room~
+Here is where Darathorn gets ready when he wishes to address his
+subjects in the great hall. The only exit is the way you entered.
+~
+79 8200 0 0 0 0
+D0
+A small door.
+~
+door~
+1 -1 7965 3
+S
+#7967
+A Room in the Air~
+The most significant thing you notice about the room is that it has
+no floor. Exits are west through the gold door, or down through the hole.
+~
+79 8200 0 0 0 0
+D3
+A golden door.
+~
+door golden~
+1 -1 7969 3
+D5
+A large hole.
+~
+~
+0 -1 7965 0
+S
+#7968
+The Ladder~
+The room is small dark and the only thing of significance is the long
+iron ladder that proceeds up into the darkness
+~
+79 9 0 0 0 0
+D4
+An iron ladder.
+~
+~
+0 -1 7972 0
+S
+#7969
+The Outer Chamber~
+This is Darathorn's outer chamber and study. Most of his vilianous
+business is conducted from here. Only his most trusted men are allowed in
+here. The chamber is very functional. No frills or decorations can be seen.
+Darathorn likes to keep business and pleasure seperate. A large oak door is
+to the north.
+~
+79 8200 0 0 0 0
+D0
+A large oak door.
+~
+door oak~
+1 -1 7970 3
+D1
+A golden door.
+~
+door golden~
+1 -1 7967 3
+S
+#7970
+Darathorn's Bedroom~
+You are in Darathorn's bedroom. It is big and everything in it is big.
+The bed looks as if it could comfortably hold 5 people. A large mirror on the
+east wall and an over-stuffed armchair are the only other things in the
+room.
+~
+79 8 0 0 0 0
+D1
+You see yourself staring back.
+~
+mirror~
+1 -1 7968 3
+D2
+A large oak door.
+~
+door oak~
+1 -1 7969 3
+E
+mirror~
+You see you reflection in a beautiful silver mirror.
+~
+S
+#7971
+No More Ladder~
+AAAAHHHHH!!!!! where is that ladder. The ladder has been devoured by
+the mist. Since the ladder is no longer there, there is nothing preventing
+you from falling. And so you do fall... a long long way. You eventually hit
+the bottom, bounce twice and that is that.
+~
+79 4 0 0 0 0
+S
+#7972
+On the Iron Ladder~
+You are on long iron ladder. You may go either up or down.
+~
+79 9 0 0 0 0
+D4
+Iron ladder.
+~
+~
+0 -1 7973 0
+D5
+Iron ladder.
+~
+~
+0 -1 7968 0
+S
+#7973
+On the Iron Ladder~
+You are on an iron ladder. You may go either up or down.
+~
+79 9 0 0 0 0
+D4
+Iron ladder.
+~
+~
+0 -1 7974 0
+D5
+Iron ladder.
+~
+~
+0 -1 7972 0
+S
+#7974
+On the Iron Ladder~
+You are on long iron ladder. You may go either up or down.
+~
+79 9 0 0 0 0
+D4
+Iron ladder.
+~
+~
+0 -1 7975 0
+D5
+Iron ladder.
+~
+~
+0 -1 7973 0
+S
+#7975
+At the End of the Ladder~
+You come to the end of the ladder. Above you you see some floorboads
+and bellow you is the rest of the ladder.
+~
+79 9 0 0 0 0
+D4
+You see some floorboards.
+~
+floorboards~
+1 -1 7903 3
+D5
+Iron ladder.
+~
+~
+0 -1 7974 0
+E
+floorboards~
+The floorboards seem to be lose... maybe you can open them.
+~
+S
+#7976
+A Dead End~
+Work on the passage seems incomplete. Tools have been left abandoned
+on the ground. From the looks of things, the workers left in a hurry. Or then
+again maybe they didn't leave. You notice some objects that look very much
+like human bones. The only exit is towards the west.
+~
+79 8201 0 0 0 0
+D3
+~
+~
+0 -1 7927 0
+E
+bones~
+Yep, they sure look human...
+~
+S
+#7977
+Tolorian's Laboratory~
+Compared to the other rooms you have seen, this room is full. The
+walls are completely obscured by book ladden shelves. The centre of the room
+is filled with a large wooden desk, which in turn is covered in books and
+scrolls of all types and description. The rest of the room is clutered by
+piles of books and other strange items, the function and use of which,
+completely elude you.
+~
+79 8 0 0 0 0
+D1
+A narrow crystal door.
+~
+door crystal~
+1 -1 7955 3
+S
+#7978
+A CRUSHING Experiance~
+OOPS!!! As you move back through the hole you bump the unstable rocks
+and the last thought on your mind, as thousands of tonnes of rock fall on top
+of you, is: "Boy, was that a STUPID thing to do".
+~
+79 4 0 0 0 0
+S
+#7980
+Before a Strange Opening~
+The just north of you has a fair-sized opening in it - one that is
+certainly large enough to walk upright into.  This must be the home of
+someone or some sort of lair.  A way through the hills leads south.  
+~
+79 0 0 0 0 4
+D0
+~
+~
+0 0 7900 0
+D2
+~
+~
+0 0 7981 0
+S
+#7981
+In the Hills~
+You make your through this hilly area, a fresh breeze blowing around
+the bumpy land, giving some promise to the day.  The way through the
+hills lies to the north and east and a wide road leads west.    
+~
+79 0 0 0 0 4
+D0
+~
+~
+0 0 7980 0
+D1
+~
+~
+0 0 7982 0
+D3
+~
+~
+0 0 10100 0
+S
+#7982
+In the Hills~
+You are now a fair distance off of the main road which connects most
+of the major cities of Dibrova together.  A footpath through the hills
+leads west or you may head back toward the main road to the east.    
+~
+79 0 0 0 0 4
+D1
+~
+~
+0 0 7983 0
+D3
+~
+~
+0 0 7981 0
+S
+#7983
+Off the Main Road~
+Standing just off of the main road, you realize that anything from
+this point on could very probably mean considerable danger to you as a
+person.  The road is still visible just east of here, a safe place
+where many folk travel night or day.  To the west, a footpath climbs
+into some foothills, winding out of sight almost immediately.    
+~
+79 0 0 0 0 10
+D1
+~
+~
+0 0 3515 0
+D3
+~
+~
+0 0 7982 0
+S
+$~

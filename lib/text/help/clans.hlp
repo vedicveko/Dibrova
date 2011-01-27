@@ -1,0 +1,425 @@
+0
+EXILE
+
+Exiles are generally considered the part of the clan society in Dibrova that
+are untrustable and not likely to stay committed to one set of standards.
+
+Players who have already been in a clan once and have been expelled will
+receive the (Exile) flag after their title.  The flag is a way for other
+clans who might want to enroll the player to know that the player has shown
+that their loyalty is less than firm when committed.
+
+Once a player has joined into a new clan, the flag is gone.
+
+Note: Those with the exile flag can be PKill and can PKill others as well.
+
+See also: CLANS, PKILL
+#
+"CLAN TOKENS"
+
+Clan Tokens are created and deposited randomly throught the mud.
+The tokens will each have different values and can be gathered and
+handed in to an immortal to be used to update clan halls and clan 
+shops.
+
+Example: collect 10 Room Tokens and you can add a new room to your
+         clan hall
+
+ITEMS                                   TOKENS NEEDED
+
+Rooms                                   10 Room Tokens
+Doors                                    6 Door Tokens
+ * keys (if wanted)                      2 Door Tokens
+Room or Mob Flags                       12 Flag Tokens
+Mob Flags                               14 Flag Tokens
+Portal exits                            14 Portal Tokens
+Shopkeeper                               8 Mob Creation Tokens
+Healer                                  13 Mob Creation Tokens
+Guard                                   20 Mob Creation Tokens
+Wandering Mascots                        5 Mob Creation Tokens
+Fountain                                 6 Object Tokens
+Statue or Misc Stationary Obj            8 Object Tokens
+
+Clan Equipment:
+   Starting Piece (no stats)            80 Object Tokens
+   1 Hitroll, Damroll, or Spellpower    40 Stat Tokens
+   5 Maxhit                             30 Stat Tokens
+   1 Affect                             40 Stat Tokens
+
+See also: CLANPRICES
+#
+RAID "CLAN RAID"
+
+Clans are able to raid one another for the loot that may or may not be
+in the clan's vault. Clan guards will call for help over a public channel,
+informing any clan members online that their clan hall is under attack.
+
+Items in the vault can be stolen, including deeds, however remember that
+any player with a deed in their possession is fair game for pkill.
+
+See also: NEWCLAN, CLANS
+#
+NEWCLAN
+
+CLAN LEADERS:: You may want to change the existing descriptions in your
+clan halls. Please email the clan god if this is the case.
+Many members might need re-inducting into your clan.
+
+Clans have been altered somewhat in terms of pkill and zone ownership.
+Clan zones have also been changed, but not in any way detracted from.
+
+Zone ownership is still declared through the use of deeds, however it
+is not by holding the deed that a clan declares their ownership but by
+dropping the deed in their clan vault (donation room). The clan that owns
+the zone WILL NOT BE ABLE TO PICK THE DEED UP AGAIN, only members of
+opposing clans will be able to pick up deeds from clan vaults. Anyone
+carrying a deed may be pkilled at any time regardless of what level they
+are or where they are.
+
+Clan halls CAN NOW BE RAIDED. This means that guards are no longer in
+PEACEFUL rooms and can be killed. A clan may have up to five guards per
+room in their clan hall, all guards will block until killed. All guards
+are level 200 and will send notification that they are being attacked
+over a world channel so that clans may defend their property.
+
+*CLANS WILL NOT BE RAIDABLE UNTIL ALL CLANS HAVE HAD A CHANCE TO PURCHASE
+ AS MANY GUARDS AS THEY LIKE. GUARDS ARE 5 MIL EACH.
+
+Clan zones have been slightly redone, no rooms were removed but some were
+changed around a bit. If you wish to change any room descrips please use
+the clan mailer.
+
+Clan vaults are now the new donation rooms for all clans. Donation rooms
+no longer use the HOUSE flag, they are set with a VAULT flag.
+(no need to 'house' new members)
+
+Clans can now declare an ALLIANCE
+When two clans declare alliance with each other, they gain PKill priviledges
+in zones that their allies own.
+
+Clans can also declare WAR.
+When two clans declare war on each other, they gain PKill rights anywhere in
+the game. WAR may not be turned off be thirty minutes after a Player vs. Player
+fight.
+
+Any addition concerns or needs, please feel free to email del@dibrova.org
+#
+CLAN CLANS
+
+Clans are available to players on Dibrova, to see a list of the
+current clans, type CLAN INFO, to see information on a persific
+clan, type CLAN INFO <clanid>
+
+Forming A New Clan:
+Clans are established by a Leader through the Clan God, before
+a clan can be started, the Leader must be no lower than level 50
+and have at least 4 followers, The leader of the clan MUST be an
+active player who is not about to dissappear leaving the clan.
+
+Clans are established through the Clan God at any time during
+gameplay when both the Clan God and the ToBe Clan Leader are
+online, it is wise to email your wishies to the Clan God.
+
+There is no fee to begin a clan, the only criteria that must be
+met is:
+
+- There must be at least one level 50 LEADER to establish the clan.
+- There must be at least four other members to start the clan,
+- None of the other members may belone to a current member, they
+  must be four seperate players.
+- It must be possible to walk from Midgaard to your clan hall.
+- It must be possible to walk from your clan hall to Midgaard.
+
+Please note that the leader and the members must be ACTIVE players.
+A clan that lacks active players will be deleted.  The purpose of a
+clan is to allow players to interact with other players in an attempt
+to benefit the group in raising financial and material wealth that
+can be of use by the entire clan. Clans can also provide a basis for
+fighting groups to be formed for easier interaction between players
+which, in some circumstances, would not normally be had.
+
+For further information on general clan rules, read the other help
+files first, if you cannt find the information you want, contact the
+Clan God.
+
+For further information on the clans themselfs, please contact the
+Clan Leader or any clan member in person or via mudmail.
+
+Please note that once a clan is made, it remains in existence on
+Dibrova forever. No new clans may be made until ALL inactive clans
+are occupied first.  Maximum number of clans that will be allowed
+is 20.
+
+See also: CLANPRICES,  CLANCOMMANDS,  CLANEQ,  CTELL, CLAN MAILER
+#
+CLANCOMMAND CLANCOMMANDS
+
+The following commands are available to players who are members of clans.
+
+* Items denoted with an asterisk are LEADER only.
+^ Items denoted with a hat are LEADER and RECRUITER only.
+
+Usage: clan who
+       clan status
+       clan info <clan>
+       clan enroll^
+       clan expel^
+       clan promote*
+       clan demote*
+
+See also: CLANS, CLANPRICES, CLANEQ, CTELL
+#
+CTELL
+
+Usage: ctell <text>
+
+This is the command to communicate within the clan channel of your clan.
+Text entered into this channel will be heard by every member of your clan
+but by no other clan.
+#
+CLANEQ
+
+Your clan can purchase wearable equipment that can only be worn by members
+of your clan.  The equipment would be custom, with any name, description and
+stats that your clan desires (within reason).
+
+Guidelines for clan eq are as follows:
+
+  - Eq must be set at minlevel 50.
+  - Eq can have hitroll, damroll and/or spellpower as high as +9.
+  - Eq can have regular stats such as STR, INT, WIS as high as +3.
+  - Eq can be any wear position.
+  - Eq can have permanent affections, but not protective affections such as
+    SANCTUARY or FIRESHIELD.  Affects such as SEE INVIS or DETECT MAGIC would
+    be perfectly acceptable.  See the Clan God for more detail if you desire to
+    have any affections on your clan eq
+  - Clan eq can only be sold by a clan shopkeeper (if your clan does not
+    already have one you must buy one).  The shopkeeper must be in it's own
+    room (shop).
+  - Clan eq can only be sold within the clan's private zone (clan hall).
+  - Clan eq must be sold for the price it costs to initially create. The eq
+    divided by ten (If it costs the clan 10mil to make the eq, it will be
+    sold in the clan shop for 1mil).
+  - Armor class can be set to the maximum allowed for its WORN position.
+  - Once a piece of clan eq has been created, it may not be edited in any way
+    again.
+
+Note: Please read 'HELP CLANPRICE' for information on costs of eq, stat
+      increases, rooms, and mobs.
+
+For further information on object statting, refer to the website.
+
+         http:/www.dibrova.org
+
+Click on the 'Building' link and then check the objstats file on that page.
+
+See also: CLANS, CLANPRICES, CLANCOMMANDS, CTELL
+#
+CLANPRICES
+
+The following information about objects and the prices for each are explained
+in the following helpfiles:  
+
+CLANROOMS,  CLANMOBS,  CLANOBJECTS,  CLANSHOPS, CLANZONES,  CLANTOLLS
+
+Once you have decided on what you want and have the money for it, please
+email the details to del@dibrova.org. Your order will be checked and
+necessary action taken.
+#
+CLANROOMS
+
+The first five rooms in the clan hall are FREE.  This includes the entry 
+room with one clan guard, an inn with a receptionist, a meeting room with 
+a clan board, a vault, and a plain room. All beginning clan halls must be
+at least five zones from Midgaard.
+
+-  subsequent rooms                             1 million
+-  future room changes                          500,000
+-  doors                                        500,000
+-  key                                          300,000
+-  heal flag                                    3 million
+-  other flags                                  2 million
+-  hidden exits                                 3 million
+-  special exits                                5 million
+                (portal exits are restricted)
+
+Clans are limited to 100 rooms.
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANMOBS
+
+The following mobs can be purchased by the clan to aid them in a variety of ways.
+
+-  Shopkeeper                           1 million (excludes room)
+-  Healer                               3 million (excludes room)
+-  Postmaster                           1 million (excludes room)
+-  Guard                                5 million (excludes room)
+-  Mascot                               500,000
+-  Banker                               1 million (excludes room)
+-  Promoter                             2 million
+
+Only clan guards are allowed to share a clan room, and then only share it with
+other clan guards. No other two clan mobs may share a room and must be in there
+own, Mascots and Promoters can be placed in any area.
+
+Any improvements can be sold back for 1/4 the original cost.
+#
+CLANOBJECTS
+
+The clan for enjoyment and functionality can purchase the following objects.
+
+        - statues                               500,000
+        - fountain                              1 million
+        - misc. objects                         500,000
+                (objects will be stationary)
+
+The following apply to objects which are sold in the clan shops.
+
+        -  existing items                       500,000
+                sell rate will be 1.65 %
+                500,000 for every 0.05% decrease 
+                bottom rate is 0.75%
+        -  new items                            2 million
+                2.5million for every +1 stat increase
+                        (max of +2 each)
+                1 million for every +5 maxhit, maxmana, or maxmove
+                        (max of +100 each)
+                5 million for an affect
+                        (some affects are not available)
+        - new container                         5 million
+		        Can carry: 500lbs
+				+ 1 million per 100lbs, up to a max of 1000lbs.
+
+        -  potions
+                1,000 times the cost of the potion
+                *the following potions/scrolls/wands/staves are not available:
+                 haste
+                 growth
+                 indestructable aura
+                 blazeward
+                 sanctuary
+                 sacred shield
+                 divine aura
+                 ancient protection
+                 darkward
+                 cure all
+
+Items with a MAX or LIMITED loadrate are NOT ALLOWED in shops.
+        i.e., the Staff of the Dungeon Master
+
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANSHOPS
+
+All clan shops sell all objects at an automatic upgrade of 1.5 times 
+their worth, as do all shops in Dibrova.  A clan may purchase a reduction
+to the shop markup by 0.01% for the price of 100,000 gold.  The markup can
+be reduced down as low as 1.0% but no lower.
+
+Clans may be able to set up brand-new shops to see products outside of the clan hall.  
+
+                6 million for a shop in a zone NOT OWNED by clan
+                5 million for a shop in a zone OWNED by clan
+
+A clan may purchase a vendor to sell goods to make a profit for the clan.  
+Please check out HELP VENDOR for more information.
+
+All improvements can be sold back for 1/4 the original cost.
+#
+CLANZONES
+
+Clans may purchase zones to reap in any profits the zone may
+offer (hospitals, shops, tolls). Clans may only purchase zones
+which are adjacent to (linked or next to) a zone that they
+already own. Clans can only buy zones which are adjacent to
+zones which they already own.
+
+Clans members will receive a 25% discount in shops which are on
+lands that they own.
+A 10% shop discount is awarded to any clan members who are in a 
+shop on allied-owned lands.
+A 75% shop markup is set against any members of clans who are at
+war with a clan who owns the land the shop is on.
+
+The deeds may be purchased in the Deed Shop found in Midgaard:
+
+        -  20 to 30 rooms                       10 million
+        -  31 to 50 rooms                       12 million
+        -  51 to 70 rooms                       15 million
+        -  71 to 100 rooms                      20 million
+        -  101+ rooms                           30 million
+
+Should a clan wish to sell a zone back to the Deed Shop,
+the buy-back prices are as follows:
+
+        -  20 to 30 rooms                       2.5 million
+        -  31 to 50 rooms                       3 million
+        -  51 to 70 rooms                       3.75 million
+        -  71 to 100 rooms                      5 million
+        -  101+ rooms                           7.5 million
+#
+CLANTOLLS
+
+Toll guards can be purchased as a means to generate profit for the clan.
+They will stand at the entrance of your zone and charge a toll to all
+who enter.  Toll proceeds will get deposited into the clan bank account.  
+A max of 500 gold fee is allowed.
+
+        -  level 50                             2 million
+        -  level 100                            5 million
+        -  level 150                            7 million
+        -  level 200                            10 million
+#
+VENDOR "VENDOR MOBILE"
+
+Vendors Mobiles let clans get away from the killing and looting of normal
+life and settle down as a nice merchant to seek out their fortune.
+
+Upon buying a Vendor you will be given your choice of locations to place the
+vendor.
+
+The only outlawed locations being:
+
+  - Rooms with Vendors already placed.
+  - Inns.
+  - Existing game or clan run shops.
+  - PEACEFUL rooms
+  - Rooms that are deemed 'unfit' by the Immortal helping with the Vendor
+    creation.
+
+After you have placed your Vendor you will be given a room that will serve as
+a store room for your Vendor Mobile.  Objects that you place in this room
+will be sold by your Vendor at a 3x markup of the objects value.  When the
+item is sold at the Vendor, the owner will receive %75 of the sell value, the
+remaining %25 will go to the Vendor himself for operating costs.
+
+It is up to the owner of the Vendor to keep the Vendor stocked with items!
+The Vendor can only sell what is in his storeroom.
+
+Vendors require there own room, and it is advasable to have a VAULT flag on
+there rooms, if the room is not already owned by the clan, there will be a
+3 Million setup charge on the room.
+
+Vendors are priced thus:
+
+Vendor Level:
+
+  - Level  50               500K 
+  - Level 100               750k 
+  - Level 150               1 mil 
+  - Level 200               2 mil
+
+Vendor Location:
+
+  - Within City Limits   -     1 mil
+  - Outside City Limits  -     500K
+
+Examples:
+
+  - A level 50 Vendor placed in Midgaard would cost 1.5 mil. (clan owns room)
+  - A level 100 Vendor placed in the Dibrovan Grasslands would cost 3.25 mil.
+          (clan does not alrdy own vendor room)
+
+See Also: CLANS, CLANPRICES, HOUSES, HOUSEFEE
+#
+$

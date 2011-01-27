@@ -1,0 +1,421 @@
+#15200
+porcupine~
+a Porcupine~
+A porcupine stands very still.
+~
+A cat-sized creature, wearing a coat of frills, pauses to avoid
+recognition.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 1d1+0 1d2+4
+0 669
+8 8 2
+BareHandAttack: 1
+Race: 1
+E
+#15201
+feline bobcat~
+a Bobcat~
+A powerful looking feline crouches patiently.
+~
+It's not as big as a lion, yet resembles one in build.  Looking like a
+very buffed house cat, she gracefully prowls these woods for
+predators.    
+~
+72 0 0 0 0 0 0 0 0 E
+22 9 12 1d1+0 1d4+14
+0 12413
+8 8 2
+BareHandAttack: 8
+Race: 1
+E
+#15202
+hyena~
+a Hyena~
+A hysterical hyena strolls here.
+~
+Funny sounds are barked and you can't tell if he's angry or curious or
+if he's just happy to the point of vocalizing it.  This average sized
+dog is probably meaner than he looks.    
+~
+200 0 0 0 0 0 0 0 -1 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#15203
+chipmunk~
+a Chipmunk~
+A small chipmunk chippers by.
+~
+The little guy is busily collecting for winter.  He seems content at
+you looking at him, but keeps the distance between you fair.    
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 1d1+0 1d1+2
+0 77
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#15204
+hill giant~
+a Hill Giant~
+A primitive-looking giant stands here.
+~
+Tall and mighty, this guy doesn't look like much of a
+conversationalist.  He watches you watch him.  A strap holding double
+stones at each end, rests draped over his shoulder.  He smells like he
+wants to be left alone.    
+~
+67660 0 0 0 16 0 0 0 0 E
+86 62 -40 1d1+0 6d7+57
+3200 401501
+8 8 0
+BareHandAttack: 7
+Race: 10
+E
+#15205
+tiger~
+a Tiger~
+A tiger snarls and prepares to pounce.
+~
+This enormous cat looks very angry, or maybe he's just hungry.  
+Whatever he's thinking is not good.  The hairs on his shoulders are
+raised and his attention is focused on your every move.    
+~
+76 0 0 0 0 0 0 0 0 E
+37 19 -20 1d1+0 3d6+24
+0 46733
+8 8 0
+BareHandAttack: 9
+Race: 1
+E
+#15206
+rodent~
+a Rodent~
+A rodent scurries by.
+~
+This filthy looking rat hops his way through the landscape, staying as
+far away from you as possible.    
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 1d1+0 1d2+2
+0 160
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#15207
+wolverine~
+a Wolverine~
+A wolverine is here.
+~
+The teeth on this animal are large and sharp.  He bares them for you
+to see and you wonder if a wolverine could really kill a large bear?
+~
+76 0 0 0 0 0 0 0 -1 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 8
+Race: 1
+E
+#15208
+fox~
+a Fox~
+A fox sniffs the air.
+~
+A bright red-haired fox sniffs the air to find out who you are.  He
+soon grows tired and goes about his business.    
+~
+72 0 0 0 0 0 0 0 0 E
+14 4 44 1d1+0 1d2+9
+0 3920
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#15209
+ankheg burrower worm~
+an Ankheg~
+A very large and long, worm-like creature with mandibles crouches before you.
+~
+Its mandibles up front and eight legs behind must be its way of
+burrowing into the earth.  It looks very strong.    
+~
+67656 0 0 0 0 0 0 0 -200 E
+80 56 -40 1d1+0 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 4
+Race: 5
+E
+#15210
+beetle giant~
+a Giant Beetle~
+An enormous, armored beetle clicks its antennae at you.
+~
+Looks like you might be lunch. Tread carefully.
+~
+104 0 0 0 33554432 131072 0 0 -200 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 9
+Race: 5
+E
+#15211
+giant lynx~
+a giant Lynx~
+A giant lynx snarls a warning at you.
+~
+Best to step away from this creature, it is bound to have pieces of
+you for lunch if you are not careful.    
+~
+526408 0 0 0 80 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+0 237528
+8 8 2
+BareHandAttack: 8
+Race: 1
+E
+#15212
+giant centipede~
+a Giant Centipede~
+A giant centipede completely ignores you as it makes its way through the forest.
+~
+Its a centipede, just twice your size instead of the little ones you
+find near home.    
+~
+72 0 0 0 0 0 0 0 0 E
+71 47 -40 1d1+0 6d6+47
+0 246277
+8 8 0
+BareHandAttack: 10
+Race: 5
+E
+#15213
+traveler centaur~
+a Centuar Traveler~
+A lone centaur makes his way through the forest, wary and on guard.
+~
+He looks as if he might normally be a very cheerful fellow, perhaps
+even friendly.  At this time, however he is neither of those.  You
+don't make it through the Kailaani alive by being friendly.    
+~
+624728 0 0 0 33554512 131072 0 0 350 E
+96 73 -40 1d1+0 6d8+64
+3200 531505
+8 8 1
+Class: 5
+Race: 7
+E
+#15214
+elven forestal~
+an Elven Forestal~
+An elven forestal walks calmly through the forest, unafraid of what lies within.
+~
+Forestals are known as the Defenders of the Forests.  It is said that
+when a Forestal is attacked within his or her own forest, the very
+trees around them come to their aid.  Now - this could all be nothing
+but a false myth or this could very well be a Forestal out of his own
+forest.  Care to find out if either is the case?    
+~
+26716 0 0 0 33554448 131584 0 0 560 E
+136 119 -60 1d1+0 16d17+90
+3850 1291935
+8 8 1
+BareHandAttack: 14
+Class: 5
+Race: 15
+E
+#15215
+ettercap~
+an Ettercap~
+An ettercap lounges on the forest floor, licking its paws.
+~
+This is a normal-sized forest cat, about the size of a leopard or
+small lion.    
+~
+72 0 0 0 33554448 0 0 0 0 E
+16 5 36 1d1+0 1d3+10
+0 5510
+8 8 0
+BareHandAttack: 8
+Race: 1
+E
+#15216
+wood giant~
+a Wood Giant~
+A wood giant lumbers through the forest, grinning wickedly as it spots you.
+~
+He looks like he might just enjoy splitting your skull open.
+~
+71784 0 0 0 16 0 0 0 -650 E
+104 81 -40 1d1+0 10d10+69
+3200 651855
+8 8 1
+BareHandAttack: 7
+Str: 25
+Dex: 18
+Class: 4
+Race: 10
+E
+#15217
+forest gnome~
+a Forest Gnome~
+A forest gnome tromps through the forest, looking for something.
+~
+His beady little eyes peer this way and that, intent mostly on the
+ground.  He stops short (no pun intended) upon seeing you.    
+~
+82008 0 0 0 524288 131072 0 0 200 E
+74 50 -40 1d1+0 6d6+49
+2700 273689
+8 8 1
+BareHandAttack: 11
+Class: 3
+Race: 17
+E
+#15218
+insect swarm~
+an Insect Swarm~
+An insect swarm blankets this entire area of the forest.
+~
+The ground here is a moving mass of insects, crawling over one another
+in a meaningless frenzy.    
+~
+10 0 0 0 41943056 0 0 0 0 E
+19 7 24 1d1+0 1d3+12
+0 8541
+8 8 0
+BareHandAttack: 1
+Race: 5
+E
+#15219
+kirre great cat~
+a Kirre~
+A great cat strides through the forest, its long fangs giving it an evil look.
+~
+Its eye narrow upon seeing you as it crouches low in anticipation of a
+pounce.    
+~
+104 0 0 0 33554432 0 0 0 -400 E
+111 89 -40 1d1+0 12d12+74
+0 769644
+8 8 0
+BareHandAttack: 8
+Race: 8
+E
+#15220
+forest trapper~
+a Forest Trapper~
+A man hums as he moves about the forest, checking his traps.
+~
+He must not see you or he would not be quite so merrily making his way
+about the trees.    
+~
+100424 0 0 0 16 0 0 0 200 E
+101 78 -40 1d1+0 9d10+67
+3200 604972
+8 8 1
+BareHandAttack: 14
+Class: 5
+Race: 14
+E
+#15221
+raccoon~
+a Raccoon~
+A raccoon wiggles its whiskers at you.
+~
+It blinks twice and then begins to move along on its way.
+~
+72 0 0 0 0 0 0 0 0 E
+6 1 76 1d1+0 1d2+4
+0 451
+8 8 0
+BareHandAttack: 8
+Race: 1
+E
+#15222
+ogre savage~
+an Ogre Savage~
+An ogre savage spots you and comes barreling your way - you're under attack!
+~
+You must have inadvertantly stepped onto what the ogre feels is his
+territory.  Its fight or run.    
+~
+67192856 0 0 0 0 67239936 0 0 -750 E
+142 126 -60 1d1+0 17d18+94
+4350 1442287
+8 8 1
+BareHandAttack: 6
+Str: 25
+Con: 25
+Class: 4
+Race: 19
+E
+#15223
+owlbear~
+an Owlbear~
+An owlbear turns its tufted head your way, looking warily over one shoulder at you.
+~
+A combination of owl and bear, it boasts the size of a bear with
+feathers around its beaked head.  It is truly a perversion of nature.
+~
+72 0 0 0 80 0 0 0 0 E
+77 53 -40 1d1+0 6d7+51
+0 302878
+8 8 0
+Race: 8
+E
+#15224
+hangman tree~
+a Hangman Tree~
+A tree with looped vines hanging down from its branches grows here.
+~
+Those loops look almost like nooses - and they look as if they are
+moving...  Toward YOU!    
+~
+755752 0 0 0 33554448 131072 0 0 0 E
+117 96 -40 1d1+0 13d14+78
+0 880218
+8 8 0
+BareHandAttack: 2
+Race: 26
+E
+#15225
+brush rat~
+a Brush Rat~
+A small brush rat moves through the undercoating of the forest.
+~
+You can barely see the thing as it flits unders leaves and branches.
+~
+76 0 0 0 16 0 0 0 0 E
+4 0 84 1d1+0 1d2+2
+0 160
+8 8 0
+BareHandAttack: 4
+Race: 1
+E
+#15226
+treant tree~
+a Treant~
+An old tree raises it branches into the sky, soaking the rays.
+~
+This tree is actually one of the fabled treants of ancient lore.  It
+is a living, sentient tree which has been around since near the time
+of creation.    
+~
+247832 0 0 0 65552 0 0 0 500 E
+97 74 -40 1d1+0 6d8+64
+0 545738
+8 8 0
+BareHandAttack: 5
+Class: 2
+Race: 25
+E
+$

@@ -1,0 +1,1319 @@
+#9700
+A Frozen Path~
+The path you're on leads south.  The ground below your feet is solid
+ice.  As you look around you, weariness grips your body.  Everything,
+the trees, plants, animals, and even the rocks are all ice.  A frozen
+sign stands here.    
+~
+97 1 0 0 0 0
+D1
+~
+~
+0 0 7357 0
+D2
+~
+~
+0 0 9701 0
+E
+sign~
+BEWARE: These caves are filled with deadly monsters and a legeandary ruler. It is said that this icey forest consumed a very powerful man, his son, and two of their strongest helpers.
+~
+S
+#9701
+A Bend In The Path~
+As you walk deeper into this forest of ice, you notice a slight
+thinning of trees.  To the east, you can almost make out what appears
+to be a cave.  The ground has become exceedingly slick, and it is hard
+to stay on your feet.    
+~
+97 1 0 0 0 0
+D0
+~
+~
+0 0 9700 0
+D1
+~
+~
+0 0 9702 0
+S
+#9702
+Before A Frozen Mound~
+The forest around you has all but disappeared.  The ground below your
+feet is not as steady as the rest you have walked on, since entering
+this heat forsaken area of the world.  The forest itself thickens to
+the west.    
+~
+97 1 0 0 0 0
+D3
+~
+~
+0 0 9701 0
+D5
+~
+trap trapdoor~
+1 0 9703 3
+S
+#9703
+The Entrance To A Cave~
+You walk in and stand in awe of this magnificent sight.  Solid ice and
+bright crystals surround you in intricate patterns.  In the center of
+the beautiful cave is an ice statue of a warrior kneeling, one hand on
+sword hilt, one on the ground.  It is difficult to see any breaks in
+these walls, but there appears to be a path leading south from where
+you stand.    
+~
+97 32 0 0 0 0
+D2
+~
+~
+0 0 9704 0
+D4
+~
+trap trapdoor~
+1 0 9702 3
+S
+#9704
+A Large Cavern~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9703 0
+D1
+~
+~
+0 0 9705 0
+D3
+~
+~
+0 0 9706 0
+S
+#9705
+The Northeastern Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 0 0 0 0 0
+D1
+~
+~
+0 0 9718 0
+D2
+~
+~
+0 0 9714 0
+D3
+~
+~
+0 0 9704 0
+S
+#9706
+The Northwest Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9704 0
+D2
+~
+~
+0 0 9710 0
+D3
+~
+~
+0 0 9708 0
+S
+#9707
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9721 0
+D1
+~
+~
+0 0 9730 0
+D2
+~
+ice secret~
+1 0 9736 3
+D3
+~
+~
+0 0 9717 0
+S
+#9708
+The Northwest Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9706 0
+D2
+~
+~
+0 0 9709 0
+S
+#9709
+The Northwest Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9708 0
+D1
+~
+~
+0 0 9710 0
+S
+#9710
+Before A Small Crevis~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9706 0
+D1
+~
+ice crevis~
+1 0 9711 3
+D2
+~
+~
+0 0 9712 0
+D3
+~
+~
+0 0 9709 0
+S
+#9711
+Inside The Icey Crevis~
+The air here is a bit smokey, as if someone has been trying to make
+something and it backfired.  A large oak table is placed in the middle
+of the room cluttered with vials, flasks, strange colored liquids, and
+unattended fires.  The only exit to this danger zone is the way you
+came in to the east.    
+~
+97 32 0 0 0 0
+D3
+~
+ice crevis~
+1 0 9710 3
+S
+#9712
+Along the Wall of Ice~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9710 0
+D1
+~
+~
+0 0 9713 0
+D2
+~
+~
+0 0 9731 0
+S
+#9713
+Near the Cave Center~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9715 0
+D3
+~
+~
+0 0 9712 0
+S
+#9714
+The Northeastern Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9705 0
+D1
+~
+~
+0 0 9719 0
+D2
+~
+~
+0 0 9715 0
+S
+#9715
+Nearing The Cave Center~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9714 0
+D2
+~
+~
+0 0 9717 0
+D3
+~
+~
+0 0 9713 0
+S
+#9716
+Wandering Through The Cave~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9717 0
+D3
+~
+~
+0 0 9731 0
+S
+#9717
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9715 0
+D1
+~
+~
+0 0 9707 0
+D2
+~
+~
+0 0 9734 0
+D3
+~
+~
+0 0 9716 0
+S
+#9718
+The Northeastern Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D2
+~
+~
+0 0 9719 0
+D3
+~
+~
+0 0 9705 0
+S
+#9719
+The Northeast Circle~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9718 0
+D1
+~
+~
+0 0 9720 0
+D2
+~
+~
+0 0 9721 0
+D3
+~
+~
+0 0 9714 0
+S
+#9720
+Nearing The East Wall~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9723 0
+D2
+~
+~
+0 0 9722 0
+D3
+~
+~
+0 0 9719 0
+S
+#9721
+Approaching The Cave Center~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9719 0
+D1
+~
+~
+0 0 9722 0
+D2
+~
+~
+0 0 9707 0
+S
+#9722
+A Corner In The Cave~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9720 0
+D3
+~
+~
+0 0 9721 0
+S
+#9723
+Before A Large Gap~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 32 0 0 0 0
+D1
+~
+gap ice~
+1 0 9724 3
+D2
+~
+~
+0 0 9725 0
+D3
+~
+~
+0 0 9720 0
+S
+#9724
+A Large Gap~
+Icey shelvs cover these walls of ice.  Vials, herbs, scrolls, and
+books have accumulated upon all the shelves, and on the heavy wood
+desk in the middle of the room.  The only exit you can see is to the
+west.  The floor below your feet is even more smooth than that
+outside, as if someone polishes it regularly.    
+~
+97 32 0 0 0 0
+D3
+~
+ice gap~
+1 0 9723 3
+S
+#9725
+The Eastern Circle~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 0 0 0 0 0
+D0
+~
+~
+0 0 9723 0
+D1
+~
+~
+0 0 9726 0
+D2
+~
+~
+0 0 9727 0
+S
+#9726
+The Eastern Circle~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 32 0 0 0 0
+D2
+~
+~
+0 0 9728 0
+D3
+~
+~
+0 0 9725 0
+S
+#9727
+The Eastern Circle~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9725 0
+D1
+~
+~
+0 0 9728 0
+D2
+~
+~
+0 0 9729 0
+D3
+~
+~
+0 0 9730 0
+S
+#9728
+The Eastern Circle~
+This narrow passage seems to run in an endless circle.  The walls are
+closing in around you, the celing getting closer and closer.  As you
+near what you hope is the end of this journey, the lighting around you
+becomes brighter.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9726 0
+D3
+~
+~
+0 0 9727 0
+S
+#9729
+In A Slippery Hallway~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9727 0
+D1
+~
+~
+0 0 9744 0
+S
+#9730
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9727 0
+D2
+~
+~
+0 0 9738 0
+D3
+~
+~
+0 0 9707 0
+S
+#9731
+The Western Wall~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9712 0
+D1
+~
+~
+0 0 9716 0
+D2
+~
+~
+0 0 9732 0
+S
+#9732
+In A Frozen Corner~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9731 0
+D1
+~
+~
+0 0 9733 0
+S
+#9733
+Nearing The Cave Center~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9734 0
+D2
+~
+~
+0 0 9735 0
+D3
+~
+~
+0 0 9732 0
+S
+#9734
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9717 0
+D1
+~
+secret ice~
+1 0 9736 3
+D2
+~
+~
+0 0 9737 0
+D3
+~
+~
+0 0 9733 0
+S
+#9735
+Nearing The Cave Center~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9733 0
+D1
+~
+~
+0 0 9737 0
+S
+#9736
+The Frozen Center Of The Cave~
+You have just entered into a mini, frozen dome.  There are cracks in
+the wall in each direction, but it is difficult to tell wich way is
+north.  There appears to be a small hole in the floor, leading to an
+unknown place.  Guarding this seemingly abandoned place, is a very
+ferocious barbarian.    
+~
+97 32 0 0 0 0
+D0
+~
+north~
+1 0 9707 3
+D1
+~
+east~
+1 0 9738 3
+D2
+~
+south~
+1 0 9739 3
+D3
+~
+west~
+1 0 9734 3
+D5
+~
+~
+0 0 9754 16
+S
+#9737
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.  
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9734 0
+D1
+~
+~
+0 0 9739 0
+D2
+~
+~
+0 0 9741 0
+D3
+~
+~
+0 0 9735 0
+S
+#9738
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.  
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9730 0
+D2
+~
+~
+0 0 9740 0
+D3
+~
+secret ice~
+1 0 9736 3
+S
+#9739
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+ice secret~
+1 0 9736 3
+D1
+~
+~
+0 0 9740 0
+D3
+~
+~
+0 0 9737 0
+S
+#9740
+Near The Center~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9738 0
+D1
+~
+~
+0 0 9743 0
+D3
+~
+~
+0 0 9739 0
+S
+#9741
+Backed Into A Corner~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9737 0
+D1
+~
+hole small ice~
+1 0 9742 3
+S
+#9742
+A Small Bright Cave~
+Against the east wall is a throne, not very impressive, but a throne
+none the less, sitting on an average dias.  Both north and south walls
+have been carved to simulate a stainglass appearance, with no color.
+The person who occupies this space apparantly thinks or wishes they
+were royalty of some high magnitude.    
+~
+97 32 0 0 0 0
+D3
+~
+small hole ice~
+1 0 9741 3
+S
+#9743
+In The Frozen Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9746 0
+D2
+~
+~
+0 0 9748 0
+D3
+~
+~
+0 0 9740 0
+S
+#9744
+In The Frozen Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9745 0
+D2
+~
+~
+0 0 9746 0
+D3
+~
+~
+0 0 9729 0
+S
+#9745
+A Frozen Trap~
+Walls of crystal ice surround you on every side.  Stalactites hang
+from above, pushing the top of your head.  The unnatural cold makes
+the brilliant light seem almost hypnotic.    
+~
+97 32 0 0 0 0
+D3
+~
+~
+0 0 9744 0
+S
+#9746
+In The Frozen Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9744 0
+D1
+~
+~
+0 0 9747 0
+D2
+~
+~
+0 0 9750 0
+D3
+~
+~
+0 0 9743 0
+S
+#9747
+A Frozen Stop~
+The frozen maze you have been wandering has just ended.  You franticly
+look around you to find that the only easy way out is the way you
+came.  As you begin to back up, you notice the ground isn't very
+stable below your feet, and notice the outlining of a door.    
+~
+97 32 0 0 0 0
+D3
+~
+~
+0 0 9746 0
+D5
+~
+floor ice~
+1 0 9763 3
+S
+#9748
+The Frozen Maze~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9743 0
+D3
+~
+~
+0 0 9749 0
+S
+#9749
+In The Frozen Maze~
+The path continues in one big maze.  In the middle of this large
+labrynth is a bright light, leading to a private room.  The walls
+around you are smooth.  Occasionally an eye blinks at you from the
+wall.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9748 0
+D2
+~
+~
+0 0 9751 0
+S
+#9750
+In The Southern Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9746 0
+D2
+~
+~
+0 0 9753 0
+S
+#9751
+In A Frozen Corner Of The Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9749 0
+D1
+~
+~
+0 0 9752 0
+S
+#9752
+Around The Southern Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D1
+~
+~
+0 0 9753 0
+D3
+~
+~
+0 0 9751 0
+S
+#9753
+In The Southern Maze~
+These narrow paths would be quite dangerous, should a large fight
+break out.  Crystal celings supported by icey pillars would not last
+long under random hits from fighting foes.  The brilliance of the
+walls and celings provides unnaturally bright light.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9750 0
+D3
+~
+~
+0 0 9752 0
+D5
+~
+ice trap~
+1 0 9764 3
+S
+#9754
+The Frozen Throne~
+The glimmer off the walls is blinding.  Fancy carvings in gold and
+purple cover every inch of wall, celing, and floor.  Ice table have
+been errected from the floor, as well as a HUGE throne near the back
+of the room.  Ice statues of dancing girls are scattered around the
+room, as well as two frozen jesters.  Who knows if at one time those
+were living people, or just statues made to look like people in
+motion.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9754 0
+D1
+~
+~
+0 0 9754 0
+D2
+~
+~
+0 0 9755 0
+D3
+~
+~
+0 0 9754 0
+D4
+~
+~
+0 0 9736 0
+S
+#9755
+Before The Throne~
+As you continue through these corridors, you must walk through many
+doors.  The purple and gold engravings in the walls become more and
+more abbundant.  As you draw nearer to the other end, the noise coming
+from that direction becomes louder.    
+~
+97 32 0 0 0 0
+D0
+~
+~
+0 0 9754 0
+D1
+~
+throne ice~
+1 9705 9756 7
+S
+#9756
+A Grand Frozen Hallway~
+As you continue through these corridors, you must walk through many
+doors.  The purple and gold engravings in the walls become more and
+more abbundant.  As you draw nearer to the other end, the noise coming
+from that direction becomes louder.    
+~
+97 32 0 0 0 0
+D1
+~
+door ice~
+1 0 9757 3
+D3
+~
+throne ice~
+1 9705 9755 7
+S
+#9757
+A Grand Frozen Hallway~
+As you continue through these corridors, you must walk through many
+doors.  The purple and gold engravings in the walls become more and
+more abbundant.  As you draw nearer to the other end, the noise coming
+from that direction becomes louder.    
+~
+97 32 0 0 0 0
+D1
+~
+door ice~
+1 0 9758 3
+D3
+~
+door ice~
+1 0 9756 3
+S
+#9758
+A Grand Frozen Hallway~
+As you continue through these corridors, you must walk through many
+doors.  The purple and gold engravings in the walls become more and
+more abbundant.  As you draw nearer to the other end, the noise coming
+from that direction becomes louder.    
+~
+97 32 0 0 0 0
+D0
+~
+ice door~
+1 0 9759 3
+D3
+~
+door ice~
+1 0 9757 3
+S
+#9759
+A Grand Frozen Hallway~
+As you continue through these corridors, you must walk through many
+doors.  The purple and gold engravings in the walls become more and
+more abbundant.  As you draw nearer to the other end, the noise coming
+from that direction becomes louder.    
+~
+97 32 0 0 0 0
+D0
+~
+double ice~
+1 0 9760 3
+D2
+~
+door ice~
+1 0 9758 3
+S
+#9760
+Before Icey Double Doors~
+The room opens up in front of you, into a grand hall of ice.  Somehow
+the walls are sesigned with intricate gold and purple patterns.  A
+large set of double doors stand before you, blocking your way.    
+~
+97 32 0 0 0 0
+D2
+~
+double ice~
+1 0 9759 3
+D4
+~
+~
+0 0 9761 0
+S
+#9761
+An Ancient Frozen Staircase~
+Your footing must be extra careful as the icey ground slopes downward.
+The light around you dims slightly as you descend, until you reach the
+bottom.  Peering down into the depths of the staircase, you can almost
+see the end approaching.    
+~
+97 32 0 0 0 0
+D4
+~
+~
+0 0 9762 0
+D5
+~
+~
+0 0 9760 0
+S
+#9762
+An Ancient Frozen Staircase~
+Your footing must be extra careful as the icey ground slopes downward.
+The light around you dims slightly as you descend, until you reach the
+bottom.    
+~
+97 32 0 0 0 0
+D4
+~
+~
+0 0 9763 0
+D5
+~
+~
+0 0 9761 0
+S
+#9763
+An Ancient Frozen Staircase~
+Your footing must be extra careful as the icey ground slopes downward.
+The light around you dims slightly as you descend, until you reach the
+bottom.    
+~
+97 32 0 0 0 0
+D4
+~
+floor ice~
+1 0 9747 3
+D5
+~
+~
+0 0 9762 0
+S
+#9764
+A Tunnel Of Ice~
+You have come to the end of this long tunnel.  Walls surround you
+except to the south.  Above your head is a small crack, that could be
+a door.    
+~
+97 133 0 0 0 0
+D3
+~
+~
+0 0 9765 0
+D4
+~
+ice trap~
+1 0 9753 3
+S
+#9765
+A Tunnel Of Ice~
+You are in a tunnel that has no beginning, and no end, it just goes.
+It goes in some direction that you are not sure of, since your sense
+of direction down here is gone.  The cramped walls almost make it
+impossible to walk upright.    
+~
+97 389 0 0 0 0
+D1
+~
+~
+0 0 9764 0
+D3
+~
+~
+0 0 9766 0
+S
+#9766
+A Tunnel Of Ice~
+You are in a tunnel that has no beginning, and no end, it just goes.
+It goes in some direction that you are not sure of, since your sense
+of direction down here is gone.  The cramped walls almost make it
+impossible to walk upright.    
+~
+97 389 0 0 0 0
+D1
+~
+~
+0 0 9765 0
+D3
+~
+~
+0 0 9767 0
+S
+#9767
+A Tunnel Of Ice~
+You are in a tunnel that has no beginning, and no end, it just goes.
+It goes in some direction that you are not sure of, since your sense
+of direction down here is gone.  The cramped walls almost make it
+impossible to walk upright.    
+~
+97 389 0 0 0 0
+D1
+~
+~
+0 0 9766 0
+D3
+~
+~
+0 0 9768 0
+S
+#9768
+A Tunnel Of Ice~
+You are in a tunnel that has no beginning, and no end, it just goes.
+It goes in some direction that you are not sure of, since your sense
+of direction down here is gone.  The cramped walls almost make it
+impossible to walk upright.    
+~
+97 389 0 0 0 0
+D1
+~
+~
+0 0 9767 0
+D2
+~
+~
+0 0 9631 0
+S
+$~

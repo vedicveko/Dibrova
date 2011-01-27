@@ -1,0 +1,1076 @@
+#19500
+The Great Southern Desert~
+To your east a vast valley stretches out below you.  Hopefully it is a
+little cooler then the desert.  You feel like your eyeballs are
+beginning to melt.  A small trail begins to wind its way south east of
+here, slowly decending into the valley.    
+~
+195 4 0 0 0 12
+D1
+~
+~
+0 0 19501 0
+D3
+~
+~
+0 0 23968 0
+S
+#19501
+Emerging from the Desert~
+You now stand on a large ledge overlooking a valley to the east.  
+Desert stretches out to your west, and a small trail winds its way
+south, slowly descending into the valley to your east.  You notice a
+small stone marker at your feet, it appears to have weathered many
+years in these extreme conditions.    
+~
+195 0 0 0 0 0
+D2
+~
+~
+0 0 19502 0
+D3
+~
+~
+0 0 19500 0
+E
+stone marker~
+Looking more closely at the stone marker you see an inscription.
+The inscription is worn and difficult to read, however you believe
+it to read 'Beware, for below is the Valley of the Damned' it 
+appears that there used to be more text but it has been scraped away.
+~
+S
+#19502
+The top of the Trail above a Valley~
+You stand on a treacherous, rock filled trail.  The trail goes north,
+up and toward the rim of the valley, and south, down into the heart of
+the valley.  To the east you can see nothing but a slight haze
+extending over the entire valley.    
+~
+195 0 0 0 0 4
+D0
+~
+~
+0 0 19501 0
+D2
+~
+~
+0 0 19503 0
+S
+#19503
+On the Trail into the Valley~
+You come to a slighty wider spot in the trail where it bends east and
+begins to descend to the valley floor.  To the north the trail winds
+up and toward the valley edge.    
+~
+195 0 0 0 0 10
+D0
+~
+~
+0 0 19502 0
+D1
+~
+~
+0 0 19504 0
+E
+valley floor~
+Straining to see the valley floor you cannot make out any details
+because of the haze which permeates the valley air.
+~
+E
+east~
+Looking east you notice that you will soon become ungulfed buy the
+haze which seems to be everywhere.
+~
+E
+north~
+Looking north you notice that you are quite a bit deeper into the
+valley than you thought at first.
+~
+S
+#19504
+Descending through the Haze~
+You are now surrounded and engulfed in the thick haze which floats
+just above the valley floor.  The trail here is slippery with moss and
+you are forced to carefully choose your steps else you tumble to your
+demise.  To the east the trail continues down to the valley floor.  
+The trail also continues upward to your west.    
+~
+195 0 0 0 0 4
+D1
+~
+~
+0 0 19505 0
+D3
+~
+~
+0 0 19503 0
+E
+moss~
+Looking at the moss you are glad you did not come barefoot.
+~
+E
+haze~
+Examining the haze, it looks to be almost cloud like, though it has
+a slightly sulfuric odor.
+~
+S
+#19505
+On the Trail at the Valley Floor~
+You stand at the base of a trail winding slowly west and up the valley
+wall.  You can make your way east or north from here.  You notice a
+small rock at your feet which seems slightly out of place.    
+~
+195 0 0 0 0 4
+D0
+~
+~
+0 0 19507 0
+D1
+~
+~
+0 0 19506 0
+D3
+~
+~
+0 0 19504 0
+E
+small rock~
+Glancing at the rock you notice someone has managed to write 'Turn back while you still can!'
+~
+S
+#19506
+Along the southern edge of the Valley~
+You stand with your back to the southern wall of the valley.  You can
+only go west from here for now.    
+~
+195 0 0 0 0 4
+D3
+~
+~
+0 0 19505 0
+S
+#19507
+Near the southern end of the Valley~
+You stand near the southern end of a long narrow valley.  To the north
+the trail continues, to the south you can still see where the trail
+comes down onto the valley from above.    
+~
+195 0 0 0 0 4
+D0
+~
+~
+0 0 19508 0
+D2
+~
+~
+0 0 19505 0
+S
+#19508
+A split in the Trail~
+You find yourself at a split in the trail one path to the east, and
+one path to the north.  The main trail meanders slowly south as well.
+Vegetation is sparse but getting larger the farther you go deeper into
+the valley.    
+~
+195 0 0 0 0 10
+D0
+~
+~
+0 0 19521 0
+D1
+~
+~
+0 0 19509 0
+D2
+~
+~
+0 0 19507 0
+S
+#19509
+The eastern fork of the South Valley Trail~
+You are now on the eastern path which is small but seems to have been
+recently traveled.  To the west you see where the eastern path joins
+the main trail.  To the east you notice a slight rustle in the bushes.
+The path continues east and west from here.    
+~
+195 65600 0 0 0 4
+D1
+~
+~
+0 0 19510 0
+D3
+~
+~
+0 0 19508 0
+S
+#19510
+A Sentries Post on the Eastern Trail~
+You find yourself at a guards post on this path.  To the south you
+notice a small cleared area.  The path continues east and west from
+here.  The vegetation is quite large in this area and makes seeing any
+distance almost impossible, it also seems to absorb most of the
+sounds.    
+~
+195 65760 0 0 0 4
+D1
+~
+~
+0 0 19512 0
+D2
+~
+~
+0 0 19511 0
+D3
+~
+~
+0 0 19509 0
+E
+guards post~
+A small location is cleared here for a sentry or two to stand guard
+and to prevent unwanted guests from moving east on the trail.
+~
+S
+#19511
+A small cleared Area~
+You find this small clearing directly south of the guards post in the
+eastern path.  There is little here of interest, except that with the
+warm fire already lit and a couple of bedrolls on the ground it might
+be a nice place to camp.    
+~
+195 4 0 0 0 2
+D0
+~
+~
+0 0 19510 0
+S
+#19512
+A bend in the Path~
+You stand at a bend in the path, from here it goes north and west.  
+There is lust vegetation throughout this area, though it seems to grow
+unnaturally thick.  You note that it would be virtually impossible to
+travel had this path not been here.    
+~
+195 65600 0 0 0 4
+D0
+~
+~
+0 0 19513 0
+D3
+~
+~
+0 0 19510 0
+S
+#19513
+Entrance to the Crusader's Camp~
+You find yourself standing at the entrance to a camp of armed men.  
+The area is well organized and quite clean, leading you to believe
+that they are no brigands nor common thieves.  The path runs south
+away from the camp and east directly into the center of it.    
+~
+195 65600 0 0 0 2
+D1
+~
+~
+0 0 19514 0
+D2
+~
+~
+0 0 19512 0
+S
+#19514
+The western portion of the Crusader's Camp~
+You stand in the western reaches of a fair sized war camp.  Many
+orderly arranged tents, stacks of equipment and supplies are here.  
+North you see a picket line of pack animals.  To the east the camp
+stretchs out for another hundred yards or so.  You notice that the
+occupants of this camp seem well armed and even more well trained.  
+~
+195 65600 0 0 0 2
+D0
+~
+~
+0 0 19519 0
+D1
+~
+~
+0 0 19515 0
+D3
+~
+~
+0 0 19513 0
+E
+equipment supplies~
+You see various items of war and everyday life alike, everything 
+from dried foodstuffs to spare fletchings.  None of it is worth
+taking.
+~
+E
+occupants~
+You note what appear to be several different classes of people, but
+all are sharpening weapons, shining armor, mending faulty equipment
+or otherwise contributing to the well balanced efficient war machine.
+~
+S
+#19515
+The center of the Crusader's Camp~
+You stand near a cookfire in the center of this camp.  To the east you
+see several large pavillion style campaign tents.  To the north are
+several well kept but plain tents.  South of here you see a wagon
+which could be the quartermaster or chuckwagon perhaps.    
+~
+195 65600 0 0 0 2
+D0
+~
+~
+0 0 19517 0
+D1
+~
+~
+0 0 19516 0
+D2
+~
+~
+0 0 19518 0
+D3
+~
+~
+0 0 19514 0
+S
+#19516
+The large, pavillion-style Tents~
+You are standing amongst several large pavillion style tents.  You
+notice that a little more to the east is a red and white tent guarded
+by several uniformed soldiers.  After a moment you realize that you
+are in the command post of this camp.  There are a couple maps and
+scrolls laying on a table, however none of this has much relevance to
+you.    
+~
+195 65632 0 0 0 0
+D1
+A large red flap.
+~
+flap red~
+1 0 19520 3
+D3
+~
+~
+0 0 19515 0
+S
+#19517
+The large, well-kept Tents~
+You are now amoungst the well kept tents which house the forces
+residing in this camp.  Various pieces of equipment lay in this area
+undergoing repair and general maintenance.  The care and order with
+which this camp is laid out and maintained allows you to surmise that
+these soldiers are not new to war.    
+~
+195 65600 0 0 0 0
+D2
+~
+~
+0 0 19515 0
+S
+#19518
+A Wagon~
+You stand at the tailgate of a massive wagon.  It appears that the
+small man that you see here is issuing and selling various equipment
+and goods off the wagon.  To the north is the center of camp.    
+~
+195 65728 0 0 0 0
+D0
+~
+~
+0 0 19515 0
+E
+wagon~
+  You are looking at a massive wheeled vehicle.  If not for the sheer
+size of it you would swear it was a wagon, but you feel it's size 
+alone should allow it a more grand name.
+~
+S
+#19519
+The Picket Line~
+You are now standing amoung the animals of the Crusaders.  These are
+mostly pack animals but you might find a capable mount or two here.  
+The western part of the camp is to your south.    
+~
+195 65600 0 0 0 2
+D2
+~
+~
+0 0 19514 0
+S
+#19520
+Inside the red and white Tent~
+You are inside a large red and white tent, it is furnished with lavish
+accessories, especially considering that this is a camp of war.  You
+notice a large leather chest and a large oil on canvas painting which
+seem to dominate this area.  There are is also a very nice bed here
+much nicer than the average bedroll.    
+~
+195 65632 0 0 0 0
+D3
+A large red flap.
+~
+flap red~
+1 0 19516 3
+E
+oil canvas painting~
+Looking at the picture you see a nice looking young lady fornicating
+with a HUGE man.  The painting is quite well done despite it's nature.
+~
+E
+leather chest~
+Looking at the chest you notice that it is quite nice and entirely
+to heavy for less than 4 strong men to lift.  But it is composed of
+the finest in craftsmanship.
+~
+S
+#19521
+On the Valley Trail, just north of the Split~
+You are standing on the trail just north of where a path from the east
+joins it.  To your south the trail continues toward the southern end
+of the valley.  To the north the vegetation quickly becomes to thick
+to see much of what lies ahead.  You do notice that there are no
+sounds from bugs, birds or other small creatures that you would expect
+to hear in a lush environment such as this, this silence makes the
+hair stand up on the back of your neck.    
+~
+195 65600 0 0 0 10
+D0
+~
+~
+0 0 19522 0
+D2
+~
+~
+0 0 19508 0
+S
+#19522
+On the Valley Trail entering the Forest~
+You are now entering what can only be described as a forest.  The
+plants tower over you, inspite of the fact that the haze over the
+valley seems to block out the direct light.  You surmise that the
+plants have adapted quite well to the enviroment here, again you
+wonder why there seem to be no living creatures here.  The forest gets
+thicker to the north along the trail and to the south the trail seems
+to enter a more open area.    
+~
+195 64 0 0 0 10
+D0
+~
+~
+0 0 19523 0
+D2
+~
+~
+0 0 19521 0
+E
+planets~
+  You look more closely at the vegetation and see that it seems leathery
+very dissimiliar to anything you have seen prior, or that you ever hope
+to see again.
+~
+S
+#19523
+On the Valley Trail in the deep Forest~
+You are standing on the trail as it winds through a deep dark forest
+of strange planets.  You have yet to hear any animal wildlife, and
+this is being to trouble you deeply.  The trail is very close to the
+west side of the valley.  Glancing at the valley wall you notice a
+small opening.  The trail continues north and south from this point.
+~
+195 64 0 0 0 10
+D0
+~
+~
+0 0 19526 0
+D2
+~
+~
+0 0 19522 0
+D3
+~
+~
+0 0 19524 0
+E
+cave opening~
+This small opening might just be a cave, perhaps you should check it
+out unless you are afraid of the dark.
+~
+S
+#19524
+Approaching a Cave~
+You are clambering up the side of the valley wall approaching what you
+might describe as a small cave or a large opening in the valley wall.
+Looking over your shoulder you can see just above the trees to the
+east.  Because you are still slighty below the haze you can see quite
+a ways to the north and east you see a large stone structure, which
+resembles so of the oldest temples you have even seen.  Glancing to
+the south a bit you see a small clearing off to the east of the trail,
+you notice smoke rising from the clearing, this is the best sign of
+life you have found in this eerie valley.  The opening in the valley
+wall is directly west and the trail to your immediate east.    
+~
+195 64 0 0 0 4
+D1
+~
+~
+0 0 19523 0
+D3
+~
+~
+0 0 19525 0
+E
+cave opening~
+   Looking at the rocky opening you can tell that it will be a tight fit
+and that no more than one person will be able to pass at a time.
+~
+E
+stone structure temple~
+   You strain your eyes for a better look at the distant temple but are
+unable to get a real good look at it do to the distance.  It appears
+slightly rundown from here, but then again it is quite a ways off.
+~
+S
+#19525
+At the mouth of the Cave~
+You are standing at the mouth of a small cave in the side of the
+valley wall.  Back to your east is the trail.  It seems that something
+or perhaps someone has been going in and out of the cave, because the
+area directly around the entrance is worn from use.  You can smell the
+slighty damp smell of freshly dug earth and wonder where it could be
+coming from glancing around you decide you must have been mistaken.  
+~
+195 0 0 0 0 0
+D1
+~
+~
+0 0 19524 0
+D3
+~
+~
+0 0 19533 0
+S
+#19526
+On the Valley Trail in the deep Forest~
+You are standing in the center of a small winding trail as it weaves
+it's way thru a dense collection of vegetation.  You can see nothing
+beyond your immediate surroundings because of the leathery planets.  
+The trail continues both north and south from this location.    
+~
+195 65601 0 0 0 3
+D0
+~
+~
+0 0 19527 0
+D2
+~
+~
+0 0 19523 0
+S
+#19527
+On the Valley Trail in the deep Forest~
+You are still surrounded by giant plants which are so thickly
+clustered that they block out enough of the days sun to make it dark,
+and on the trail at night it is absolutely black.  The trail seems to
+be getting more well traveled as you continue north.  Perhaps you can
+see a hint of light around the bend or maybe it is just your
+imagination letting you see what you want to see.  The trail goes east
+and south from here, to the south the trail is shrouded in darkness.
+You cannot judge what is to the east the trail turns sharply just
+ahead.    
+~
+195 97 0 0 0 3
+D1
+~
+~
+0 0 19528 0
+D2
+~
+~
+0 0 19526 0
+S
+#19528
+A sharp tirn in the Forest Trail, just before a Bridge~
+Back to the west the trail turns abruptly south, to the east it cuts
+north and you can barely make out the southern end of a large wooden
+tressle bridge.  The vegetation is starting to thin significant as you
+move east and north through the valley.  The hair on the back of your
+neck feels as though it is standing straight up, though you can sense
+something evil, you see no physical manifestations of these feelings.
+Which perhaps is more worrisome then if you could.  You can move west
+or east from here.    
+~
+195 97 0 0 0 3
+D1
+~
+~
+0 0 19529 0
+D3
+~
+~
+0 0 19527 0
+S
+#19529
+On a Wooden Bridge~
+A very old and worn wooden tressle bridge appears to be surprisingly
+stable under your feet.  The bridge transverses a fog filled chasm,
+you are unable to determine what might lie below the fog.  The bridge
+continues north and the trail wanders west from here.  A slight
+clanking sound can be heard from the north at irregular intervals.  
+~
+195 193 0 0 0 10
+D0
+~
+~
+0 0 19530 0
+D3
+~
+~
+0 0 19528 0
+E
+Bridge~
+This is a engineering masterpiece, created with a unknown wood.  It seems to have
+weathered here for generations with no detectable damage to its structure.
+~
+S
+#19530
+On a Wooden Bridge~
+The fog from the chasm below sweeps over your feet as you approach the
+center of this very long and very large bridge.  You wonder to
+yourself, why anyone would build such a strudy bridge out of wood when
+surely stone was avaiable.  To the north you can still occasionly here
+a slight clanking and it is getting louder.  The southern end of the
+bridge is now completely blotted out by the fog, hope it is still
+there if you want to return that way.  You can move north off the
+bridge or south toward the southern end of the bridge from here.    
+~
+195 193 0 0 0 10
+D0
+~
+~
+0 0 19531 0
+D2
+~
+~
+0 0 19529 0
+S
+#19531
+On a Wooden Bridge~
+The scene of what must have been a terrible battle lies before you as
+you move to the north end of the bridge.  Several corpses are strewn
+about each horribly mangled and torn, as well as a few partially
+crushed skeletons, and a couple piles of dust.  A cobblestone path
+leads east from here and the very old wooden tressle bridge to the
+south.  Some bloody drag marks can be seen on the bridge, but you are
+unable to determine exactly what took place here other than it was a
+large battle between two or more large forces.  East down the
+cobblestone path or south on the old bridge are the only obvious
+exits.    
+~
+195 65604 0 0 0 10
+D1
+~
+~
+0 0 19532 0
+D2
+~
+~
+0 0 19530 0
+E
+cobblestone~
+A very very old path of cobblestones lies to the east, stone work of this
+caliber is not cheap, even if you can find a mason of this quality.
+~
+E
+blood~
+Several bloody drag marks are here moving in a north-south direction.  You are
+unable to determine much more, save it appears something has been licking at these 
+blood trails.
+~
+S
+#19532
+A Cobblestone Road~
+Blood forms in small pools on the cobble stone path you are walking
+on.  Various body parts also soil the road.  The body parts have teeth
+and claw marks on them, almost as if something has been snacking on
+them.  The drag marks continue east and so does the cobble stone path.
+~
+195 0 0 0 0 10
+D1
+~
+~
+0 0 19548 0
+D3
+~
+~
+0 0 19531 0
+S
+#19533
+Inside the Cave~
+You crawl in thru a very tight opening to discover a quite spacious
+room.  Though it appeared a cave from outside it is walled in finished
+flagstone.  It is quite clean and there are several furs and some
+crude wooden chairs here.  Though the ceiling is a bit low it is a
+real nice little abode.  You wonder who might live here.  The only
+obvious exit is back toward the east.    
+~
+195 73 0 0 0 0
+D1
+A small opening leads to the outside.
+~
+~
+0 0 19525 0
+D2
+A fur is hanging here.
+~
+fur~
+1 0 19534 3
+D7
+~
+~
+0 0 19599 16
+E
+fur~
+Looking at the furs you notice one is places on the south wall in
+a strange manner, perhaps you should examine it.
+~
+S
+#19534
+Deeper in the Cave~
+You have moved deeper into the cave and the walls are no longer lined
+with flagstone.  In fact it appears as though this is a recent
+addition to the cave.  The smell from outside the cave, the one of
+fresh excavation must have been drifting from here.  There is no sign
+of the inhabitants of this small area, there is a small miners lamp on
+the floor and a file for sharpening tools.  The only exit it north
+into the main part of the cave.    
+~
+195 65609 0 0 0 0
+D0
+A fur hangs over the opening.
+~
+fur~
+1 0 19533 3
+S
+#19535
+A Cobblestone Path~
+The cobble stone path makes a turn here.  It now travels south and
+west.  The drag marks lead south.  The forest begins to take over the
+cobble stone here.  Small plants and flowers grow in the cracks and
+great tree roots break the road up.  A large hollow tree is to the
+north, you can see little glowing red eyes staring back at you from
+it.  A large stone structure can be seen through the mists and the
+forest branches to the south.    
+~
+195 0 0 0 0 10
+D0
+~
+~
+0 0 19543 0
+D2
+~
+~
+0 0 19536 0
+D3
+~
+~
+0 0 19548 0
+S
+#19536
+A Cobblestone Path~
+Through the hazy fog and the dense forest you can make out a large
+temple directly to your south.  The foulest stench you have ever had
+the displeasure of smelling is emanating from the temple.  A small
+dirt trail is directly west of the road.  A set of bloody drag marks
+lead south.    
+~
+195 0 0 0 0 10
+D0
+~
+~
+0 0 19535 0
+D2
+~
+~
+0 0 19544 0
+D3
+~
+~
+0 0 19549 0
+S
+#19537
+A small dirt Trail~
+The trail winds itself south through the dense forest.  Branches and
+small shruvs scrape against you as you make your way along the trail.
+The strange foot prints still lead south.    
+~
+195 0 0 0 0 3
+D0
+~
+~
+0 0 19549 0
+D2
+~
+~
+0 0 19538 0
+S
+#19538
+A small dirt Trail~
+The trail makes a sharp turn west here, it now travels west and north.
+Branches and small shrubs scrape against you as you make your way
+along the trail.  A small forest grove is to the south, it looks like
+a nice place to take a break.  The strange foot prints lead west.    
+~
+195 0 0 0 0 3
+D0
+~
+~
+0 0 19537 0
+D2
+~
+~
+0 0 19539 0
+D3
+~
+~
+0 0 19540 0
+S
+#19539
+A Forest Grove~
+You are in a small forest grove.  Clover and leaves provide a nice
+place to sit down and rest.  Small birds chirp in the nearby trees
+creating a quite a contrast to the rest of the area.    
+~
+195 4 0 0 0 3
+D0
+~
+~
+0 0 19538 0
+S
+#19540
+The shore of a small River~
+The shore of the river consist of a large slab of slate rock.  The
+rock slowly ramps down into the water providing a beach of sorts.  
+The slate, being to hard to allow foot prints, causes you to lose the
+trail of the strange foot print.    
+~
+195 0 0 0 0 11
+D1
+~
+~
+0 0 19538 0
+D3
+~
+~
+0 0 19541 0
+S
+#19541
+Sloshing through a River~
+Blood swirls and eddies in the current, looking almost like powder in
+the water.  Small green sucker fish can also be seen swimming lazily
+throught the river.  The shores of the river are to the east and the
+west.    
+~
+195 0 0 0 0 6
+D1
+~
+~
+0 0 19540 0
+D3
+~
+~
+0 0 19542 0
+S
+#19542
+On the shore of a small River~
+This side of the river is a mud bank which drops straight off into the
+water, which is to the east.  Small green fish can be seen swimming
+around in the water.  The mud from the bank causes your feet to sink
+deep within making it hard to move around.    
+~
+195 0 0 0 0 11
+D1
+~
+~
+0 0 19541 0
+S
+#19543
+A hollow Tree trunk~
+This tree has died an rotted out, leaving a large whole in the center
+of its trunk large enough for you to stand in.  Small sticks, leaves,
+and grasses have been pushed into a large pile in the center
+suggesting a nest of some sort.  A small cobble stone road lies south.
+~
+195 0 0 0 0 0
+D2
+~
+~
+0 0 19535 0
+S
+#19544
+The Desert Temple~
+The Desert Temple is a large structure made out of blocks of the local
+red standstone.  Ivy and other such creeping plants eek out a living
+in the cracks in the floor and walls.  None of that matters though.  
+The only thing you can think of is the horrid stench coming from
+deeper within the temple.  The bloody drag marks become obscured here
+and you can no longer tell in what direction they travel.    
+~
+195 0 0 0 0 0
+D0
+~
+~
+0 0 19536 0
+D1
+~
+~
+0 0 19545 0
+S
+#19545
+The Desert Temple~
+Holes is the roof of the temple provide ample light has you gag and
+choke your way through the stone halls due to the horrid stench coming
+from deeper within.  A bloody set of drag marks lead south.    
+~
+195 0 0 0 0 0
+D2
+~
+~
+0 0 19546 0
+D3
+~
+~
+0 0 19544 0
+S
+#19546
+The Desert Temple~
+A putrid Human torso rests against the east wall.  Flys bu192 and and
+swarm around it.  You doubt it helps the smell very much.  The drag
+marks end at the torso.    
+~
+195 0 0 0 0 0
+D0
+~
+~
+0 0 19545 0
+D2
+~
+~
+0 0 19547 0
+S
+#19547
+The Desert Temple~
+Whew!  It stinks in here, clouds of flys bu192 to the west making a
+constant droning sound in the back of your mind.  The walls have been
+scraped clean of plant life here.  The holes in the roof give the room
+a specled appearence from the little shafts of light.    
+~
+195 0 0 0 0 0
+D0
+~
+~
+0 0 19546 0
+D3
+~
+~
+0 0 19550 0
+S
+#19548
+A Cobblestone Path~
+Blood forms in small pools on the cobble stone path you are walking
+on.  Various body parts also soil the road.  The body parts have teeth
+and claw marks on them, almost as if something has been snacking on
+them.  The drag marks continue east and so does the cobble stone path.
+A small trail leads south away from the road.  The trail is lined with
+an odd narrow footprint with long claw marks stretching out in front
+and a single claw mark coming off of the heel.    
+~
+195 0 0 0 0 10
+D1
+~
+~
+0 0 19535 0
+D2
+~
+~
+0 0 19549 0
+D3
+~
+~
+0 0 19532 0
+S
+#19549
+A small dirt Trail~
+The trail winds itself south through the dense forest.  Branches and
+small shrubs scrape against you as you make your way along the trail.
+The strange foot print still lead south.    
+~
+195 0 0 0 0 3
+D0
+~
+~
+0 0 19548 0
+D1
+~
+~
+0 0 19536 0
+D2
+~
+~
+0 0 19537 0
+S
+#19550
+The Desert Temple~
+Human corpses and body parts lay everywhere in this room and must be
+the source of the smell.  Which by this time is unbearable.  The walls
+drip with blood which forms in small pools only to be lapped up by
+small animals that dart back and forth between the shadows.    
+~
+195 0 0 0 0 0
+D1
+~
+~
+0 0 19547 0
+S
+#19551
+Mob Chute!~
+You are in an unfinished room.
+~
+195 0 0 0 0 0
+D0
+~
+~
+0 0 19548 0
+D1
+~
+~
+0 0 19545 0
+D2
+~
+~
+0 0 19540 0
+D3
+~
+~
+0 0 19547 0
+S
+#19552
+A Transport Room.~
+You are in an unfinished room.
+~
+195 12 0 0 0 0
+S
+#19599
+Cavern of Evil~
+You are in an unfinished room.
+~
+0 2162916 0 0 0 0
+D8
+~
+~
+0 0 19533 16
+S
+$~

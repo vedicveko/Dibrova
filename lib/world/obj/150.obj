@@ -1,0 +1,101 @@
+#15000
+desk mahogoney~
+/cwa /cymahoganey /cwdesk/c0~
+/cwThere is a /cymahogney /cwdesk here, up against the east wall./c0~
+Nothing.
+~
+15 0 0 0 0 0 0 0 0
+2000 5 -1 0 0 0 0 0
+10000 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+drawer~
+Looks like any other drawer you've seen before - knob and all.
+~
+E
+desk~
+It looks as if any business the Lighthouse Keeper may need to do
+is done here, at this desk.  It has a drawer in it and implements
+for writing.
+~
+#15001
+key figure eight~
+/cwa figure-eight key/c0~
+/cwA key in the shape of a figure-eight is here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 30 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15002
+key~
+/cwa cell key/c0~
+/cwA cell key lies here in the dirt./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 30 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15040
+jeweled key~
+/cwa /cCjeweled/cw key/c0~
+/cwA /cRkey made of rubies /cwhas been left here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#15041
+acros shield~
+/cwthe /cLShield /cwof /cLAcros/c0~
+/cwThe small shield of an assassin has been left here./c0~
+~
+9 68300800 0 0 0 513 0 0 0
+9 0 0 0 0 0 0 0
+5 9093 0 31 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 -1
+A
+13 30
+A
+18 1
+A
+19 3
+#15042
+destroyers eye~
+/cwthe /cLEye /cwof the /cRDestroyer/c0~
+/cwA small, /crbloodshot /cweye has been left here./c0~
+~
+11 68300800 0 0 0 16385 0 0 0
+0 0 0 0 64 0 0 0
+2 10560 0 33 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+A
+19 2
+#15043
+crystal waterfall~
+/cwa /cccrystal /cbwaterfall/c0~
+/cwA large /cccrystal /cbwaterfall /cwcascades down the wall of the castle into the moat./c0~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 14 0 0 0 0 0
+1005 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crystal waterfall~
+You see the words flowing in the water:
+Look under the stairs for seven.
+~
+#15044
+gold throne~
+/cwa /cYgolden throne/c0~
+/cwAn enormous throne of /cYpure gold/cw is here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

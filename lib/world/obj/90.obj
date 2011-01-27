@@ -1,0 +1,140 @@
+#9000
+stone club~
+/cwa large stone club/c0~
+/cwA large stone club lies here./c0~
+~
+5 1626624 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+12 7919 0 22 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 2
+#9001
+trollhelm helm~
+/cwa trollhelm/c0~
+/cwA huge trollhelm lies here./c0~
+~
+9 1055232 6 0 0 17 0 0 0
+4 0 0 0 0 0 0 0
+10 5673 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 1
+#9002
+ice club~
+/cwan /cCice /cwclub/c0~
+/cwA large /cCice /cwclub lies here./c0~
+~
+5 1593856 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+18 8279 0 23 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 2
+#9003
+robe white ice wizard~
+/cwthe robe of the /cCice /cwwizard/c0~
+/cwA /cWwhite /cwrobe lies on the ground./c0~
+~
+9 1106497 0 0 0 1025 0 0 0
+5 0 0 0 0 0 0 0
+3 6166 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+12 20
+A
+26 1
+#9004
+cloak stormbringer~
+/cwthe cloak of the stormbringer/c0~
+/cwA dull cloak lies here./c0~
+~
+9 1081921 0 0 0 5 0 0 0
+3 0 0 0 0 0 0 0
+5 5500 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 10
+#9005
+sleeves iron~
+/cwa pair of iron sleeves/c0~
+/cwA pair of iron sleeves lies on the ground./c0~
+~
+9 0 0 0 0 257 0 0 0
+5 0 0 0 0 0 0 0
+10 4666 0 20 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9006
+cube ice translucent~
+/cwa translucent /cCice /cwcube/c0~
+/cwSomeone has left a translucent /cCice /cwcube here./c0~
+~
+8 192 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 165 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+2 1
+A
+13 -15
+#9007
+cube white ice~
+/cwa /cWwhite /cCice /cwcube/c0~
+/cwSomeone has left a /cWwhite /cCice /cwcube here./c0~
+~
+8 576 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 36 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9008
+cube white ice~
+/cwa /cWwhite /cCice /cwcube/c0~
+/cwSomeone has left a /cWwhite /cCice /cwcube here./c0~
+~
+8 192 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 71 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9009
+cube white ice~
+/cwa /cWwhite /cCice /cwcube/c0~
+/cwSomeone has left a /cWwhite /cCice /cwcube here./c0~
+~
+8 576 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 77 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#9010
+cube pearly blue ice~
+/cwa pearly /cBblue /cCice /cwcube/c0~
+/cwSomeone has left a pearly /cBblue /cCice /cwcube here./c0~
+~
+8 576 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 54 0 10 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+4 1
+#9011
+golden crystal~
+/cwa /cYgolden /cwcrystal/c0~
+/cwA /cYgolden /cwcrystal lies here./c0~
+~
+8 1108545 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+10 75 0 25 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+3 1
+A
+4 1
+#9099
+deed wastelands~
+the deed to the Wastelands~
+The deed to the Wastelands has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+90 0 0 0 0 0 0 0
+1 200 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

@@ -1,0 +1,445 @@
+#11600
+cook head~
+the Head Cook~
+The kitchen's head cook is overwatching the preparations.
+~
+The head cook is wearing an apron that is covered with grease.  His
+stringy black hair has a matted look and he has an unhappy expression
+upon his face.    
+~
+74 0 0 0 0 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 1
+Str: 18
+Dex: 25
+Int: 18
+Wis: 9
+Con: 9
+Cha: 13
+Luck: 15
+Race: 14
+E
+#11601
+cook assistant~
+an assistant Cook~
+An assistant cook is here stiring a pot.
+~
+The assistant cook looks disgruntled as she stirs her pot.  Her once
+white uniform is splattered with food.    
+~
+74 0 0 0 0 0 0 0 0 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 2
+Str: 5
+Dex: 22
+Int: 15
+Wis: 20
+Con: 20
+Cha: 5
+Luck: 15
+Race: 14
+E
+#11602
+lounging teacher mage~
+a lazy Teacher~
+A teacher lounges in one of the chairs.
+~
+One of the teachers here at the Spire, this mage looks very strict.  
+~
+18506 0 0 0 65536 4194304 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 1
+Dex: 22
+Int: 25
+Wis: 9
+Con: 14
+Cha: 18
+Luck: 15
+Race: 14
+E
+#11603
+faculty member teacher mage~
+a Faculty Member~
+One of the Spire faculty stands here.
+~
+A very sour looking mage, he must be a pain to have teach you.    
+~
+2122 0 0 0 2128 2 0 0 0 E
+82 58 -40 1d1+0 6d7+54
+1450 355583
+8 8 1
+Str: 12
+Dex: 12
+Int: 16
+Wis: 20
+Con: 5
+Cha: 23
+Luck: 25
+Race: 14
+E
+#11604
+waitress woman servant~
+a Servant~
+A servant stands here ready to wait upon you.
+~
+A comely woman is here to wait upon those wishing to dine.  She stands
+with a white towel over her arm.    
+~
+2122 0 0 0 0 0 0 0 100 E
+77 53 -40 1d1+0 6d7+51
+1325 302878
+8 8 2
+Str: 21
+Dex: 18
+Int: 12
+Wis: 20
+Con: 5
+Cha: 13
+Luck: 10
+Class: 12
+Race: 14
+E
+#11605
+chef cook man~
+a Chef~
+A chef is here preparing the meal.
+~
+The chef is a very dignified looking man of medium height.    
+~
+2126 0 0 0 0 0 0 0 0 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 1
+Str: 14
+Dex: 20
+Int: 9
+Wis: 10
+Con: 13
+Cha: 8
+Luck: 21
+Race: 14
+E
+#11606
+sergeant guard man~
+the Sergeant of the Guard~
+A Sergeant of the Spire Guards is here checking on troops.
+~
+The Sergeant is much larger than his fellow soldiers.  He has several
+scars on this face and arms.  His nose has been broken in the past.  
+~
+6250 0 0 0 33554448 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 15
+Dex: 13
+Int: 10
+Wis: 24
+Con: 25
+Cha: 7
+Class: 4
+Race: 14
+E
+#11607
+spire guard guardsman man~
+a Guardsman~
+A Spire guard stands his post here.
+~
+A man in shining armours stands here denying access to this area of
+the Spire.  He and his fellow guards take their job seriously.    
+~
+6216 0 0 0 0 0 0 0 0 E
+83 59 -40 1d1+0 6d7+55
+1475 366746
+8 8 1
+Str: 13
+Dex: 13
+Int: 20
+Wis: 18
+Con: 19
+Cha: 10
+Luck: 5
+Race: 14
+E
+#11608
+captain guard man~
+the Captain of the Guard~
+The Captain of the Spire Guards inspects the keep.
+~
+The Captain is a huge man.  His face is scarred from many past battles
+and his hair is graying.  Despite these things, he moves about with a
+spring in his step.    
+~
+1054792 0 0 0 0 0 0 0 0 E
+90 66 -40 1d1+0 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 15
+Int: 12
+Wis: 16
+Con: 15
+Cha: 24
+Luck: 15
+Class: 4
+Race: 14
+E
+#11609
+high mage~
+a High Mage~
+One of the Spire's High Mages is here.
+~
+A man of slight build, the mage is not the sort to be interupted.  He
+is dressed in expensive looking clothing with the Spire emblem
+embroidered upon them.    
+~
+22632 0 0 0 537133056 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+1525 428673
+8 8 1
+BareHandAttack: 15
+Str: 13
+Dex: 18
+Int: 18
+Wis: 24
+Con: 12
+Cha: 13
+Luck: 10
+Class: 1
+Race: 14
+E
+#11610
+master wizard mage man~
+a Master Wizard~
+On of the Spire's Master Wizards is here.
+~
+If there was ever a man with an ego, this would be it.  He looks down
+is nose at you the entire time.  He is dressed in very expensive
+attire with the Spire emblem embroidered upon his chest.    
+~
+22632 0 0 0 537133136 0 0 0 -100 E
+88 64 -40 1d1+0 6d7+58
+1600 468316
+8 8 1
+BareHandAttack: 15
+Str: 14
+Dex: 21
+Int: 18
+Wis: 13
+Con: 19
+Cha: 21
+Luck: 17
+Class: 1
+Race: 14
+E
+#11611
+necromancer woman mage~
+a Necromancer~
+A Necromancer wanders the room.
+~
+She looks very selfconfident as she wanders about.  Her dress is of
+the finest weave and it has the crest of the Spire Mages upon her
+breast.    
+~
+153704 0 0 0 34095184 0 0 0 -100 E
+89 65 -40 1d1+0 6d7+59
+1675 438188
+8 8 2
+BareHandAttack: 15
+Str: 14
+Dex: 8
+Int: 18
+Wis: 25
+Con: 20
+Cha: 13
+Luck: 9
+Class: 1
+Race: 14
+E
+#11612
+master conjurer mage~
+a Master Conjurer~
+A Master Conjurer ambles about.
+~
+The man is very scrawny.  He moves with a limp caused by a misformed
+left leg.  His clothing is nothing special, but has the emblem of the
+Spire Mages upon it.    
+~
+22632 0 0 0 536870992 0 0 0 0 E
+89 65 -40 1d1+0 6d7+59
+1675 438188
+8 8 1
+BareHandAttack: 13
+Str: 14
+Dex: 22
+Int: 18
+Wis: 16
+Con: 23
+Cha: 23
+Luck: 24
+Class: 1
+Race: 14
+E
+#11613
+zombie creature undead~
+a Zombie~
+A walking undead creature rots here.
+~
+Brought back from his peaceful rest, this poor creature has been
+forced to walk the earth again in this unnatural state.    
+~
+20586 0 0 0 64 0 0 0 0 E
+80 56 -40 1d1+0 5d6+40
+0 333884
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 14
+Int: 15
+Wis: 16
+Con: 7
+Cha: 16
+Luck: 16
+Race: 6
+E
+#11614
+summoned demon~
+a summoned Demon~
+A summoned Demon squats here.
+~
+Six eyes look back at you from the 2 heads.  Its body is very short
+wand it has long scaly legs.    
+~
+22600 0 0 0 262160 0 0 0 -500 E
+84 60 -40 1d1+0 5d6+42
+0 415930
+8 8 0
+BareHandAttack: 8
+Str: 7
+Dex: 10
+Int: 9
+Wis: 18
+Con: 21
+Cha: 8
+Race: 41
+E
+#11615
+master sage mage man~
+a Master Sage~
+A Master Sage is here humming to himself.
+~
+A peacful looking man with a half-smile on his face seems out of
+place.  He is dressed in simple robes with the emblem of the Spire
+Mages upon it.    
+~
+6218 0 0 0 671088720 0 0 0 1000 E
+89 65 -40 1d1+0 6d7+59
+1675 460097
+8 8 1
+BareHandAttack: 5
+Str: 15
+Dex: 17
+Int: 18
+Wis: 23
+Con: 14
+Cha: 8
+Luck: 7
+Class: 5
+Race: 14
+E
+#11616
+vicious plant~
+an enormous Plant~
+A very vicious plant grows here.
+~
+What this monster of a plants purpose on earth is is hard to tell.  
+Its long tentacles have very sharp barbs on them.    
+~
+16783370 0 0 0 33554448 0 0 0 0 E
+89 65 -40 1d1+0 5d6+44
+0 438188
+8 8 0
+BareHandAttack: 1
+Str: 13
+Dex: 12
+Int: 12
+Wis: 17
+Con: 22
+Cha: 5
+Luck: 17
+Race: 26
+E
+#11617
+spectre ghost servant~
+a ghostly Servant~
+A spectral servant has been placed here.
+~
+A pale reflection of its former self, this being now functions as a
+servant to the Headmaster.    
+~
+1239144 0 0 0 2132 0 0 0 0 E
+90 66 -40 1d1+0 5d6+45
+0 450852
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 25
+Int: 20
+Wis: 6
+Con: 9
+Cha: 25
+Luck: 22
+Race: 34
+E
+#11618
+man rhythuman mage headmaster~
+Rhythuman~
+The Headmaster of the Spire Mages stands before you.
+~
+A very tall and distinguished looking man, Rhythuman is quite the
+imposing figure.  He is dressed in a simple red robe that has a large
+emblem of the Spire Mages upon it.    
+~
+30826 0 0 0 33816912 0 0 0 0 E
+92 68 -40 1d1+0 6d7+61
+1750 572211
+8 8 1
+BareHandAttack: 12
+Str: 15
+Dex: 14
+Int: 18
+Wis: 14
+Con: 18
+Cha: 22
+Luck: 18
+Class: 1
+Race: 14
+E
+#11619
+bodyguard spectral guardian~
+a spectral Guardian~
+A personal bodyguard of Rhythuman stands ready here.
+~
+This poor soul has been ripped from the world of limbo and force to
+walk the waking world again.    
+~
+61482 0 0 0 1572948 0 0 0 0 E
+90 66 -40 1d1+0 5d6+45
+0 450852
+8 8 0
+Str: 15
+Dex: 15
+Int: 5
+Wis: 24
+Con: 6
+Cha: 20
+Luck: 14
+Class: 4
+Race: 34
+E
+$

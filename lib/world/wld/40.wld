@@ -1,0 +1,661 @@
+#4000
+Near the Bottom of the Volcano~
+You look above you at the towering mass of molten rock and shudder at
+the thought that you could be blown off the side at any time were the
+thing to erupt.  The very bottom of the volcano is just below.  Maybe
+you should just take your lumps and try another area...    
+~
+40 4 0 0 0 5
+D4
+~
+~
+0 0 4001 0
+D5
+~
+~
+0 0 232 0
+E
+hills~
+The hills are a very shiny black color.
+~
+S
+#4001
+Climbing the Volcano~
+There is little to no vegetation on the side of this black rocked
+mountain.  The smoke that plumes from the heights of this thing gives
+you just a bit of pause, but then how would you ever find out what
+lies inside if you were to turn back?    
+~
+40 0 0 0 0 5
+D4
+~
+~
+0 0 4002 0
+D5
+~
+~
+0 0 4000 0
+E
+hills~
+The hills are a very shiny black color.
+~
+S
+#4002
+Climbing the Volcano~
+You are nearing the crest of the volcano.  Just what lies inside, you
+could only know by climbing the rest of the way top to the top.    
+~
+40 0 0 0 0 5
+D4
+~
+~
+0 0 4003 0
+D5
+~
+~
+0 0 4001 0
+E
+hills~
+They are a very shiny black color.
+~
+S
+#4003
+Climbing the Volcano~
+This thing is a lot higher than it appears to be from the top!  
+Looking up, you see that you still have quite some little ways to go.
+Best to keep moving on.    
+~
+40 0 0 0 0 5
+D4
+~
+~
+0 0 4004 0
+D5
+~
+~
+0 0 4002 0
+E
+mountain~
+The mountain looks like it was formed from something sliding down and stopping.
+~
+S
+#4004
+Near the Crest of the Volcano~
+You are almost to the top of the smoking volcano.  You can feel the
+intensity of the heat now, an obvious sign that this volcano is not at
+all dormant.  Best to be very careful from now on.    
+~
+40 0 0 0 0 3
+D4
+~
+~
+0 0 4005 0
+D5
+~
+~
+0 0 4003 0
+E
+smoke~
+The smoke is grey and puffs out of the top of the mountain.
+~
+S
+#4005
+Volcano's Crest~
+You've reached the crest of the volcano.  You can see that the smoke
+issues from a crevass south of here.  The view is spectacular from
+here!    
+~
+40 4 0 0 0 3
+D2
+You see a hole to the south. It looks like an entrance.
+~
+~
+0 0 4006 0
+D5
+~
+~
+0 0 4004 0
+E
+top of mountain~
+The top of the mountain is a large area with a hole in the middle.
+~
+E
+smoke~
+The smoke is grey and is coming from the hole.
+~
+S
+#4006
+Entrance to the Volcano's Depths~
+The smoke issues steadily from the crevass in thick gusts.  You may
+explore further along the volcano's top to the east, west and south
+although from where you currently stand it does appear that there is
+anything but open air past a step or two in those directions.    
+~
+40 4 0 0 0 5
+D0
+You see the top of the mountain to the north.
+~
+~
+0 0 4005 0
+D1
+You see the top of the mountain to the east.
+~
+~
+0 0 4007 0
+D2
+You see the top of the mountain to the south.
+~
+~
+0 0 4009 0
+D3
+You see the top of the mountain to the west.
+~
+~
+0 0 4008 0
+D5
+You can see down inside the mountain.
+~
+~
+0 0 4010 0
+S
+#4007
+Volcano's Crest~
+You stand at the extreme top of the volcano, the river and the island
+spread out far below in a beautiful vista.  With the smoke rising
+against the scenery it almost takes your breath away.  The clouds roll
+by lazily, so close that you feel like you could almost touch them.  
+In fact, if you tried, you just might be able to.    
+~
+40 4 0 0 0 5
+D3
+You see the entrance to the mountain to the west.
+~
+~
+0 0 4006 0
+D4
+~
+~
+0 0 8501 0
+S
+#4008
+Volcano's Crest~
+You stand at the extreme top of the volcano, the river and the island
+spread out far below in a beautiful vista.  With the smoke rising
+against the scenery it almost takes your breath away.    
+~
+40 4 0 0 0 5
+D1
+You see the entrance to the mountain to the north.
+~
+~
+0 0 4006 0
+S
+#4009
+Volcano's Crest~
+You stand at the extreme top of the volcano, the river and the island
+spread out far below in a beautiful vista.  With the smoke rising
+against the scenery it almost takes your breath away.    
+~
+40 4 0 0 0 5
+D0
+You see the entrance to the mountain to the north.
+~
+~
+0 0 4006 0
+S
+#4010
+Inside the Crevass~
+You stand just below the entrance at the top of the volcano.  The
+smoke that issue so steadily upward comes from a source far below.  
+There appear to be some opening in the volcano's side walls to the
+east and west.    
+~
+40 9 0 0 0 5
+D1
+You see guard barracks.
+~
+~
+0 0 4011 0
+D3
+You see guard barracks.
+~
+~
+0 0 4012 0
+D4
+Entrance to the mountain.
+~
+~
+0 0 4006 0
+D5
+The shaft continues down.
+~
+~
+0 0 4013 0
+S
+#4011
+Guard Room~
+You are standing in a room with beds, tables, and fire newts!  There
+are paintings on the wall.  They show battle scenes.    
+~
+40 9 0 0 0 0
+D3
+You see the dark tunnel shaft.
+~
+~
+0 0 4010 0
+E
+beds~
+The beds are made of metal and rock.
+~
+E
+chairs~
+The chairs are made of stone and look very heavy.
+~
+E
+tables~
+The tables are long and wide.  They are made of stone and obviously too heavy
+to move.
+~
+S
+#4012
+Guard Room~
+You are standing in a room with beds, chairs, tables, and fire newts!
+There are paintings on the wall that show great leaders.    
+~
+40 9 0 0 0 0
+D1
+You see the shaft in the mountain.
+~
+~
+0 0 4010 0
+E
+beds~
+The beds are made of metal and rock.
+~
+E
+chairs~
+The chairs are made of stone and look very heavy.
+~
+E
+tables~
+The tables are long and wide.  They are made of stone and are obviously to
+heavy to move.
+~
+S
+#4013
+Inside the Volcano~
+Looking up you see the faint glare of sunlight from the outside world.
+Below you is the churning, smoking depths of the volcano's inner base.
+There are two entrances into the volcano's shaft wall to the north and
+the south.    
+~
+40 9 0 0 0 5
+D0
+You see a large storage room.
+~
+~
+0 0 4014 0
+D2
+You see workers' quarters.
+~
+~
+0 0 4015 0
+D4
+You see the dark mountain shaft.
+~
+~
+0 0 4010 0
+D5
+The shaft continues down.
+~
+~
+0 0 4016 0
+S
+#4014
+Store Room~
+   You see nothing special in this room.  There are some boxes and fire newt
+workers here.  There is also some trash piled up in the room.
+~
+40 9 0 0 0 2
+D2
+You see the dark mountain shaft.
+~
+~
+0 0 4013 0
+S
+#4015
+Workers' Quarters~
+   You are standing in the workers' quarters.  There are several workers here.  
+The room is messy and has nothing of value in it.  The party the night before
+must have destroyed everything.
+~
+40 9 0 0 0 2
+D0
+You see the dark mountain shaft.
+~
+~
+0 0 4013 0
+S
+#4016
+In the Volcano's Base at the Magma Pool~
+You stand here at the base of the volcano on a narrow ledge which
+leads around a bubbling pool of lava.  The ledge runs around the edge
+of the room toward an opening in the wall on the north side.    
+~
+40 9 0 0 0 5
+D0
+You see the dark tunnel.
+~
+~
+0 0 4017 0
+D3
+~
+~
+0 0 4032 16
+D4
+You see the mountain shaft.
+~
+~
+0 0 4013 0
+S
+#4017
+The Tunnel~
+This hot, cramped tunnel leads straight north and south.  The heat
+coming from the magma pool feels almost as if it has been trapped in
+this small area and intensified, making you sweat through every pore.
+~
+40 265 0 0 0 5
+D0
+You see a bend in the tunnel.
+~
+~
+0 0 4018 0
+D2
+You see the bottom of the shaft.
+~
+~
+0 0 4016 0
+S
+#4018
+A Bend in the Tunnel~
+The tunnel bends east and south here, the heat even more intense in
+this corner area - if that is possible.  The glow from the magma pool
+reflects off the black rock walls around you, making eerie shadows
+dance and leap.    
+~
+40 265 0 0 0 5
+D1
+The tunnel continues into the dark.
+~
+~
+0 0 4019 0
+D2
+You see that the tunnel leads back.
+~
+~
+0 0 4017 0
+S
+#4019
+Another Bend in the Tunnel~
+You stand in the heat of the volcano's interior, sweating and
+wondering how you ever got down here - or why.  There is a small room
+carved into the rock to your east, some humanoid figures can be seen
+there.  The tunnel itself runs north and west.    
+~
+40 265 0 0 0 5
+D0
+The tunnel continues into the dark.
+~
+~
+0 0 4021 0
+D1
+You see a small fire newt house.
+~
+~
+0 0 4020 0
+D3
+You see a bend in the tunnel.
+~
+~
+0 0 4018 0
+S
+#4020
+Fire Newt House~
+This small cave is the home of a small but typical fire newt family.
+There are a stack of old bones in the corner - some of them appear to
+be humanoid - and in general the place is a shambles.    
+~
+40 9 0 0 0 5
+D3
+You see the dark tunnel.
+~
+~
+0 0 4019 0
+E
+bones~
+They are probably the cleanest items in the room, having been gnawed
+by the baby newts right down to the marrow.    
+~
+S
+#4021
+The Tunnel~
+The tunnel runs straight north and south, the heat still just as
+intense as if you were still standing next to the magma pool.  To the
+west is a small opening in the rock wall which opens into a small
+room.    
+~
+40 9 0 0 0 5
+D0
+The tunnel continues on.
+~
+~
+0 0 4023 0
+D2
+The dark tunnel.
+~
+~
+0 0 4019 0
+D3
+You see a fire newt house.
+~
+~
+0 0 4022 0
+S
+#4022
+Fire Newt House~
+This small cave is the home of a small family of fire newts.  The
+usual grungy walls and floors are all around you, the smell as
+intolerable as the newts themselves.    
+~
+40 9 0 0 0 5
+D1
+You see the dark tunnel.
+~
+~
+0 0 4021 0
+S
+#4023
+The Tunnel~
+You have come to the end of the tunnel where it enters into two rooms,
+one east and one west.  You can hear a muffled chanting to the east,
+some shouting to the west.    
+~
+40 9 0 0 0 5
+D1
+You see a fire newt temple.
+~
+~
+0 0 4027 0
+D2
+You see the dark tunnel.
+~
+~
+0 0 4021 0
+D3
+You see the entrance to the town hall.
+~
+~
+0 0 4024 0
+S
+#4024
+Entrance to the Town Hall~
+You stand between the stonework of a wide molten arch which leads the
+way through into the Town Hall for the fire newts of this volcano.  
+There seems to be a lot of commotion coming from the Hall itself, just
+west of here.    
+~
+40 9 0 0 0 5
+D1
+You see the dark tunnel.
+~
+~
+0 0 4023 0
+D3
+You see a waiting room. 
+~
+~
+0 0 4025 0
+S
+#4025
+The Town Hall~
+This place is the source of all the noise, there being an argument
+almost always in progress no matter what the time or the topic.  It
+seems that fire newts are not a content or placid race by any means.
+~
+40 9 0 0 0 5
+D1
+You see the entrance to the town hall.
+~
+~
+0 0 4024 0
+D3
+You see a large office.
+~
+~
+0 0 4026 0
+S
+#4026
+The Leader's Office~
+The fire newt leader's office has been made to at least show a
+semblance of prosperity and position.  The desk that sits in the
+center of the room was obviously an item from one of the clan's many
+raids on humankind, the blood stains giving away its history.    
+~
+40 9 0 0 0 5
+D1
+You see the waiting room.
+~
+~
+0 0 4025 0
+E
+desk~
+It boasts the stains of many good men who died in attempts to save
+this desk for themselves.    
+~
+S
+#4027
+Outside the temple~
+You stand outside the fire newt temple, a place where the fire newts
+practice their pagan rites and drink the ceremonial blood.  The
+outside of the temple is actually quite impressive, especially for
+fire newt standards.  There are some rather good carvings of fire
+newts whom you must assume to be heroes of the race.    
+~
+40 9 0 0 0 5
+D1
+You see the entrance to the fire newt temple.
+~
+~
+0 0 4028 0
+D3
+You see the dark tunnel.
+~
+~
+0 0 4023 0
+E
+carvings~
+They are carvings into the molten rock of proud looking fire newts in
+full battle gear.  One even holds a carved head that appears to be
+human.    
+~
+S
+#4028
+Entrance to the Temple~
+You are standing at the entrance to the temple.  The temple is very
+neat.  The seats are set in straight rows and the alter is very large.
+~
+40 9 0 0 0 5
+D1
+You see the door, that leads to the inside of the temple.
+~
+door~
+1 -1 4029 3
+D3
+You see the outside of the temple.
+~
+~
+0 0 4027 0
+S
+#4029
+Inside the Temple~
+The temple itself is nothing more than a large room with a raised
+chipped stone dias carved from the floor and a big firepit.  It is
+actually quite pitiful.    
+~
+40 9 0 0 0 5
+D3
+You see the door that leads to the temple entrance.
+~
+door~
+1 -1 4028 3
+D5
+You see a large trap door.
+~
+~
+0 0 4030 0
+S
+#4030
+A Darkened Room~
+You stand beneath the temple before a set of double doors.  The doors
+stand open, which is quite strange considering the fact that someone
+went through considerable trouble to carve this area out and whatever
+lies in the next room must be quite valuable.    
+~
+40 9 0 0 0 5
+D1
+You see two large doors.
+~
+doors~
+1 -1 4031 1
+D4
+You see the inside of the temple.
+~
+~
+0 0 4029 0
+S
+#4031
+The Egg Room~
+You stomach immediately begins to heave as you enter into the room,
+the smell here being intensely awful!  There are eggs scattered about
+the floor, mired in some sticky, gooey, nasty ooze that must preserve
+the eggs until they reach maturity.    
+~
+40 13 0 0 0 5
+D3
+You see two large doors.
+~
+doors~
+1 -1 4030 1
+S
+#4032
+Bottom of volcano~
+You stand here at the base of the volcano on a narrow ledge which
+leads around a bubbling pool of lava.
+~
+40 2162916 0 0 0 0
+D1
+~
+~
+0 0 4016 16
+S
+$~

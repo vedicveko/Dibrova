@@ -1,0 +1,573 @@
+#35000
+janta scout guardian man~
+Janta~
+A young man stands here watching for someone.
+~
+A simple enough person dressed in fur and hide for protection from the
+teeth of animals and spears of any who would opose them.    
+~
+90 0 0 0 0 0 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+Str: 25
+Dex: 10
+Int: 13
+Wis: 15
+Con: 21
+Cha: 15
+Luck: 20
+Class: 2
+E
+T 35000
+T 35002
+#35001
+mouse~
+a small field mouse~
+A small field mouse scurries about the grass
+~
+Light brown fur covered in dust from living on the ground and in the
+ground.  Small beady eyes flit from one side to the next, always wary
+around people and larger animals.    
+~
+10 0 0 0 0 0 0 0 0 E
+0 0 100 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 4
+Str: 18
+Dex: 24
+Int: 10
+Wis: 19
+Con: 6
+Cha: 8
+Luck: 16
+E
+T 35001
+#35002
+flat lander person man ~
+the Flatlander~
+A strong looking flatlander is on the hunt for food.
+~
+Rippling muscles and broad shoulders, covered in many tribal tatoos
+and painted markings.  Many battle scars long since healed up show
+years of experience in battle and survival.    
+~
+1048664 0 0 0 0 2048 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 1
+Str: 14
+Dex: 13
+Int: 12
+Wis: 13
+Con: 16
+Cha: 12
+Luck: 13
+Class: 2
+E
+#35003
+guard woman~
+the Guardian~
+A large woman marked with many tattoes of strength guards this hallway.
+~
+Strange tattoes cover most of her upper body, most of predatory
+animals a few of the magestic Unicorn.  Chiseled features and strong
+arms gives on a sense of forboding when aproaching her.  Her hair has
+been cropped to ear length and pulled bakc by a leather strap.    
+~
+2136 0 0 0 33554432 2048 0 0 1000 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 2
+Str: 18
+Dex: 16
+Int: 25
+Wis: 13
+Con: 15
+Cha: 22
+Luck: 5
+E
+T 35010
+#35004
+chief kraznon~
+Chief Kraznon~
+A large imposing figure stands here.
+~
+Quite possibly one of the largest men this part of the world, he
+stands nearly six and a half feet tall.  Solid muscles ripple beneath
+his open leather vest.    
+~
+10266 0 0 0 80 2 0 0 1000 E
+90 66 -40 1d1+0 6d7+60
+3200 450852
+8 8 1
+Str: 17
+Dex: 14
+Wis: 17
+Con: 15
+Cha: 19
+Luck: 19
+Class: 9
+E
+T 35007
+#35005
+hunter tribal man ~
+the tribal hunter~
+A strong looking man crouches near the ground in search of prey.
+~
+War paint decorates his hard, chisled features.  The war paint giving
+his face dark sprays of reds and browns.    
+~
+524360 0 0 0 0 0 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+BareHandAttack: 2
+Str: 8
+Dex: 13
+Int: 13
+Wis: 18
+Con: 8
+Cha: 15
+Luck: 18
+Class: 9
+E
+T 35008
+#35006
+tribe man tribal~
+the tribes man~
+A man wearing little decoration stands here watching over the camp
+~
+Stern and unyeilding in his stature, he occasionaly glances around and
+gives a slight nod to those in his clan.    
+~
+8218 0 0 0 0 0 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+Str: 5
+Dex: 25
+Int: 5
+Wis: 8
+Con: 14
+Cha: 24
+Luck: 18
+E
+#35007
+shaman~
+the tribal shaman~
+An older man, wise with years of life stands here tending to the sick.
+~
+A large deerskin shawl drapes down his back, markings of runic
+writtings decorate the edge of the shawl.  Cavernous wrinkles mark
+this man as more than just old, he must be venerable.    
+~
+72 0 0 0 256 0 0 0 1000 E
+75 51 -40 1d1+0 6d7+50
+2750 311540
+8 8 1
+BareHandAttack: 15
+Str: 8
+Dex: 20
+Int: 20
+Wis: 16
+Con: 21
+Cha: 17
+Luck: 6
+Class: 7
+E
+#35008
+young warrior~
+a young warrior~
+A young man endures grueling training here.
+~
+Not much of a man just yet, one can see the muscles have started to
+portrude under the tanned skin.  A long braid marks this young man as
+a soon to be warrior for the tribe.  Dark eyes still very young and
+hopeful, not yet hardened to a warrior's life, take in all that
+surounds him.    
+~
+76 0 0 0 0 0 0 0 1000 E
+65 42 -40 1d1+0 6d6+43
+2250 196628
+8 8 1
+Str: 25
+Dex: 5
+Wis: 25
+Con: 22
+Cha: 16
+Luck: 14
+Class: 2
+E
+#35009
+squaw woman "mrs. kraznon"~
+the chief's squaw~
+A beautiful woman stands here tending to her husband's needs
+~
+Long dark braids hang down just past her waist, tied at the ends with
+strips of hide.  Large dark pools of mystery make up her gorgeous
+eyes.  Lush lips and high cheek bones worn with a pride that does not
+come from outer beauty.  A strong back and firm thighs makes her quite
+able to fend for herself.    
+~
+4184 0 0 0 0 0 0 0 1000 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 2
+BareHandAttack: 14
+Str: 10
+Dex: 15
+Int: 13
+Wis: 7
+Con: 10
+Cha: 20
+Luck: 14
+Class: 9
+E
+#35010
+fish carp~
+the carp~
+A large pale fish swims along the peacefully
+~
+Large pale scales cover its body giving it a pale sheen.
+~
+8 0 0 0 0 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 0
+Str: 17
+Dex: 25
+Int: 20
+Wis: 20
+Con: 7
+Cha: 16
+Luck: 20
+Class: 15
+E
+#35011
+monster shadow~
+the dark shadow~
+A dark shadow moves slowly under the water's surface.
+~
+The embodiment of all that is dark seems to have come into being
+within the walls of this creature's scaly flesh.  It's eyes nothing
+but empty sockets, swallowing light completely.  Pieces of dead and
+decaying flesh hang from its maw of large pointy teeth.    
+~
+42 0 0 0 0 2097152 0 0 -1000 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 0
+BareHandAttack: 4
+Str: 16
+Int: 8
+Wis: 15
+Con: 25
+Cha: 18
+Luck: 7
+Class: 3
+E
+#35012
+fish gar~
+the gar~
+A large fish swims by looking for somthing to eat.
+~
+A large pointy mouth with many rows of sharp teeth, grace this ugly
+fishe's face.  Coupled with an equally bad disposition make this a
+formitable foe.    
+~
+524360 0 0 0 0 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 0
+BareHandAttack: 4
+Str: 5
+Dex: 25
+Int: 21
+Wis: 12
+Cha: 6
+Luck: 25
+Class: 15
+E
+#35013
+peryton ~
+the Peryton~
+A large half stag half bird flys over head.
+~
+With large antlers like a stag elk and sharp talons like those of an
+eagle, this creature is definately well armed.    
+~
+88 0 0 0 8388608 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 0
+Str: 5
+Int: 5
+Wis: 25
+Cha: 15
+Luck: 21
+Class: 15
+E
+#35014
+eagle golden~
+the golden eagle~
+A beautiful golden eagle flies over head.
+~
+Large golden feathers glisten and sparkle in even the smallest amount
+of light.  Its a small wonder this bird isn't worshipped by some less
+advanced people, with the sheer beauty of feather that seem to be made
+of pure gold.    
+~
+524360 0 0 0 33554432 0 0 0 1000 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 0
+BareHandAttack: 8
+Str: 19
+Dex: 13
+Int: 14
+Wis: 23
+Con: 7
+Cha: 5
+Luck: 10
+Class: 15
+E
+#35015
+sparrow~
+the sparrow~
+A small sparrow swoops down on helpless insects.
+~
+Weighing in at maybe one pound, this tiny bird isn't the most
+formidable of creatures around.    
+~
+4172 0 0 0 0 0 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 5
+Int: 10
+Wis: 5
+Con: 8
+Cha: 21
+Luck: 7
+E
+#35016
+girl~
+the young girl~
+A young girl sucks her thumb as she toddles about the room.
+~
+Wearing only her short pants and a bib of sorts.  This chubby girl is
+ready to play.    
+~
+138 0 0 0 0 4 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+6 6 0
+BareHandAttack: 10
+Str: 15
+Dex: 13
+Int: 25
+Wis: 8
+Con: 13
+Cha: 19
+Luck: 17
+E
+#35017
+boy~
+the young boy~
+A young boy plays quietly in the corner.
+~
+Eyes the size of small dishes this child eyes everything with great
+curiosity.  Looking for the first chance to help with anything, he is
+almost like a cat ready to pounce on an unsuspecting mouse.    
+~
+138 0 0 0 0 4 0 0 1000 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 0
+BareHandAttack: 10
+Str: 22
+Dex: 21
+Int: 9
+Wis: 16
+Con: 14
+Cha: 9
+Luck: 20
+E
+#35018
+young woman daycare worker~
+the young woman~
+A young woman is caring for the children.
+~
+Frazzled a bit from all the screaming children, her dark eyes and firm
+muscles seem to soften each time she looks upon one of her wards.    
+~
+6154 0 0 0 0 0 0 0 1000 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 0
+Str: 12
+Dex: 8
+Int: 23
+Wis: 5
+Con: 16
+Cha: 16
+Luck: 19
+Class: 9
+E
+#35019
+farmer young man ~
+the young man~
+A young man tends the vast garden here.
+~
+Glistening sweat drips down this young farm hand's rippling muscles.
+A look of consentration is plastered across his sullen brow.    
+~
+72 0 0 0 33554432 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 0
+BareHandAttack: 5
+Str: 21
+Dex: 25
+Int: 10
+Wis: 6
+Con: 6
+Luck: 12
+E
+#35020
+servant~
+the temple servant~
+A young servant of the golden temple stands here worshipping devotely.
+~
+Dark robes with little adornment, and hair that is pulled straight
+back give this servant a plain but serious look.    
+~
+72 0 0 0 0 0 0 0 1000 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 2
+Str: 12
+Dex: 17
+Int: 5
+Wis: 8
+Con: 21
+Luck: 7
+Class: 7
+E
+#35021
+priestess~
+the high priestess~
+The high priestess stands proudly giving sermon and quarter to any who would listen.
+~
+Unlike the servants her garments are brightly woven with golden thread
+and ancients symbols of power and servatude.  A large tattoo of the
+golden god is tattooed across her chest, which is bared to show off
+the large tattoo.  A gleam of light flashes in her eyes as a wicked
+grin touches acrosses those perfectly lush lips of her's.  Something
+makes one wonder why she is REALLY here "helping" this tribe....    
+~
+57416 0 0 0 134217728 0 0 0 -1000 E
+90 66 -40 1d1+0 6d7+60
+3200 473394
+8 8 2
+BareHandAttack: 15
+Str: 15
+Dex: 18
+Int: 23
+Wis: 18
+Con: 21
+Cha: 7
+Luck: 24
+Class: 6
+E
+#35022
+cook~
+a young cook~
+A busy young cook runs from one side of the kitchen to the other mixing this and mixing that.
+~
+Flour poofs off in small clouds of dust as she scurries from one pot
+to the next.  Her plump cheeks rosy as she smiles and sings a quiet
+song while cooking.    
+~
+10 0 0 0 0 0 0 0 1000 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 2
+Str: 7
+Dex: 16
+Int: 10
+Wis: 22
+Con: 7
+Cha: 6
+Luck: 14
+Class: 2
+E
+#35023
+herbalist~
+the beautiful herbalist~
+A young beautiful woman stands behind the counter.
+~
+Long flowing hair sweeps just above her waist, as she patiently waits
+for you to buy somthing.    
+~
+16394 0 0 0 0 0 0 0 0 E
+155 143 -60 1d1+0 21d22+103
+5150 1803276
+8 8 2
+Str: 20
+Dex: 7
+Int: 16
+Wis: 14
+Con: 13
+Cha: 23
+Luck: 7
+E
+#35024
+mouse small~
+a small field mouse~
+Small mice scurry about here.
+~
+Dirty brown fur covers it's small rodent body.
+~
+72 0 0 0 0 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 21
+Int: 5
+Wis: 14
+Con: 22
+Cha: 6
+Luck: 23
+Class: 15
+E
+#35025
+Shanta~
+Shanta~
+A young woman walks about tending to the well being of this small village.
+~
+Long strong legs carry this powerful woman about her duties as chief
+and advisor to this community.  A long decorated double loin cloth on
+bottom and strange tattooes cover her top make up her attire.    
+~
+528456 0 0 0 33554432 512 0 0 1000 E
+90 66 -40 1d1+0 6d7+60
+3200 450852
+8 8 2
+BareHandAttack: 14
+Str: 5
+Dex: 19
+Int: 9
+Wis: 22
+Con: 22
+Cha: 14
+Luck: 22
+Class: 9
+E
+$

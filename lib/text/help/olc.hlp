@@ -1,0 +1,43 @@
+151
+"ROOMFLAG DARK"
+
+This flag is used for rooms that can only be seen in by players who are using
+a light with hours left or players who have the INFRAVISION affect.
+
+See also: INFRAVISION, ROOMFLAG IMPERMEABLE
+#
+"ROOMFLAG DEATH"
+
+This flag will kill any player who enters the room instantly.
+
+Death flagged rooms are not legal on Dibrova, do not ever use this flag.
+#
+"ROOMFLAG !MOB"
+
+This flag prohibits any mobs from ever entering the room. Mobs which are
+loaded or summoned into the room can leave it, however they cannot re-enter
+through normal, mundane means.
+#
+"ROOMFLAG INDOORS"
+
+Players in rooms with the INDOORS flag will not see any weather messages
+nor will they be affected by weather in these rooms. A number of other
+more insignificant factors are associated with the INDOORS flag, most
+dealing with world messages or location-dependant spells.
+#
+"ROOMFLAG PEACEFUL"
+
+Under no circumstances can a player initiate any sort of attack in a room
+with this flag.
+#
+"ROOMFLAG SOUNDPROOF"
+
+Most commonly used in caves and/or underground lairs, SOUNDPROOF disables
+any sort of communication with the rest of the world, excepting clan talk.
+#
+"ROOMFLAG !TRACK"
+
+Rooms with this flag will 'hide' anyone within, player or mob, from the
+TRACK skill and from DIMENSIONAL DOOR.
+#
+$

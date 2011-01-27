@@ -1,0 +1,319 @@
+#3600
+villager man~
+the Villager~
+A man is here, going about whatever business Mordecai set him to do.
+~
+The villager looks quite like any other man you might meet on any
+other street in Dibrova.    
+~
+76 0 0 0 16 0 0 0 -200 E
+110 88 -40 1d6+70 11d12+73
+2200 752086
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 8
+Luck: 12
+Class: 12
+Race: 14
+E
+#3601
+skinny woman villager~
+the skinny Woman~
+A skinny woman stands here, looking very sickly and pale.
+~
+The woman would probably be quite a hotty if not for her ribs showing
+through the flimsy fabric of her grubby, raggety dress.    
+~
+76 0 0 0 16 0 0 0 400 E
+105 82 -40 1d6+70 10d11+70
+2075 667958
+8 8 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 9
+Luck: 12
+Race: 14
+E
+#3602
+lieutenant caspan caspan soldier~
+Lieutenant Caspan~
+Caspan leaps to his feet upon seeing you!
+~
+Strong, tall, and mean as hell, this man could probably tear you limb
+from limb.    
+~
+67340298 0 0 0 80 0 0 0 -600 E
+145 130 -60 1d29+2200 18d18+96
+2500 1521265
+8 8 1
+BareHandAttack: 9
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 12
+Class: 4
+Race: 14
+E
+#3603
+penelope penelope~
+Penelope~
+Penelope stands here, looking beautiful as a Goddess.
+~
+Slighty plump, but all in the right places, Penelope looks as if she
+knows a trick or two with the fellas.    
+~
+229386 0 0 0 16 0 0 0 600 E
+127 108 -60 1d27+2100 15d15+84
+2500 1084965
+8 8 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Luck: 12
+Class: 2
+Race: 14
+E
+#3604
+soldier mordecai~
+the Soldier~
+One of Mordecai's soldiers marches by, intent on his duties.
+~
+Dressed in matching rags, these soldiers present a pitiful ragtag bunch.
+~
+6248 0 0 0 80 0 0 0 -400 E
+132 114 -60 1d18+800 15d16+88
+2500 1197236
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Luck: 12
+Race: 14
+E
+#3605
+little village whore~
+the little Whore~
+A poor 12-year old girl stands here, offering herself to all.
+~
+The girl looks worn and beaten.  Perhaps you should have pity on her?
+~
+72 0 0 0 0 0 0 0 -50 E
+65 42 -40 1d8+150 6d6+43
+1125 196628
+8 8 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+Race: 14
+E
+#3606
+pale child chanker~
+a chanker-ridden Child~
+A child covered in nasty chankers trudges past.
+~
+The child, dressed in the dirtiest of rags, looks up at you through
+his pussy eyes, and smiles a toothless smile.    
+~
+72 0 0 0 0 0 0 0 -50 E
+50 29 -28 1d8+150 5d5+33
+750 100714
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 14
+E
+#3607
+pregnant woman~
+a pregnant Woman~
+A pregnant woman sits here, eating a peanut butter and pickle sandwich.
+~
+The woman looks at you with hope and asks, "/crGot any ice cream?!?/c0"
+~
+10 0 0 0 0 0 0 0 500 E
+101 78 -40 1d12+300 9d10+67
+1975 604972
+6 6 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 22
+Luck: 12
+Race: 14
+E
+#3608
+three legged dog~
+the three-legged Dog~
+A three legged dog limps by you.
+~
+This flea-bitten, beaten-half-to-death-every-day-of-its-life dog looks
+sadly at you and then continues limping along.    
+~
+72 0 0 0 0 0 0 0 0 E
+20 8 20 1d2+15 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 16
+Luck: 12
+Race: 1
+E
+#3609
+hag toothless~
+a toothless Hag~
+A toothless hag lays here, smiling big, trying to look appealing.
+~
+As the hag notices your interest, her smile gets wider.  She turns
+slowly onto her back, spreads her legs and raises a suggestive
+eyebrow.    
+~
+10 0 0 0 16 0 0 0 0 E
+106 84 -40 1d10+200 10d11+70
+2100 684299
+6 6 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Luck: 12
+Race: 14
+E
+#3610
+mordecai mordecai~
+Mordecai~
+Mordecai stands here, proud, defiant, and dirty.
+~
+Mordecai is a menacing figure.  A true Lord of Grubs.
+~
+18494 0 0 0 65872 4194304 0 0 -999 E
+150 136 -60 1d40+2525 20d20+100
+2500 1824490
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Luck: 12
+Class: 9
+Race: 7
+E
+#3611
+wandering chicken~
+a Chicken~
+A chicken wanders by you, no concerns in life but to cluck.
+~
+Sometimes you wonder if life would be better as a chicken.
+~
+72 0 0 0 0 0 0 0 0 E
+10 3 60 1d3+20 1d2+6
+0 1662
+8 8 0
+BareHandAttack: 8
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 6
+Luck: 12
+Race: 3
+E
+#3612
+woman filthy shitting~
+the shitting Woman~
+A woman is here, shitting.
+~
+The woman seems only slightly upset to see you here as she tries to
+shit.  You sense she is having a tough time with her business.    
+~
+2058 0 0 0 0 0 0 0 0 E
+106 84 -40 1d4+30 10d11+70
+2100 684299
+8 8 2
+BareHandAttack: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 18
+Luck: 12
+Race: 14
+E
+#3613
+bastard sneaky~
+the sneaky little Bastard~
+A sneaky little bastard is here, counting his coins.
+~
+The grubby hands and shifty eyes give this little brat the look of a
+criminal.  He's rooting through his purse inspecting his loot.  
+Perhaps some of it came from yours.    
+~
+204 0 0 0 524288 0 0 0 0 E
+90 66 -40 1d10+200 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 14
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 10
+Luck: 12
+Class: 3
+Race: 14
+E
+#3614
+man old~
+a grouchy old Man~
+A grouchy old man is here, complaining about the weather.
+~
+What crawled up this guys arse?
+~
+10312 0 0 0 0 0 0 0 -200 E
+105 82 -40 1d15+500 10d11+70
+2075 667958
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 5
+Luck: 12
+Race: 14
+E
+$

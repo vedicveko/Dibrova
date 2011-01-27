@@ -1,0 +1,1308 @@
+#12501
+A Dark Alleyway~
+The walls of the alleyway have been spray-painted over many times
+over the years.  One section of graffiti actually looks legible,
+
+it says:    This section has been designed for levels 5 through 10
+            If you are above level 15 please don't expect much fun.
+            If you are below level 5 enter at your own risk.
+
+Another section of graffiti says "Raff Rules!"
+There is a boulevard to the east and Wall Road East is to the west.
+~
+125 5 0 0 0 0
+D1
+~
+~
+0 -1 12502 0
+D3
+~
+~
+0 -1 12572 0
+S
+#12502
+Beginning of White Dragon Boulevard~
+This section of town has been overrun by the Troll gang.  Even the
+police stay out of here for fear of being brutalized.  This was once a
+nice lower-middleclass neighborhood, but know the gangs run the
+streets.  All the shops and homes have been boarded up and abandoned.
+An alleyway is to the west and the street continues east.  An over-
+grown lot is to the south.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12503 0
+D2
+~
+~
+0 -1 12509 0
+D3
+~
+~
+0 -1 12501 0
+S
+#12503
+Along White Dragon Boulevard~
+Everywhere you look you see signs of recent violence.  Patches of
+blood lie everywhere and broken sticks and abandoned knifes are strewn
+here and there.  An over-grown lot is to the south.  White Dragon
+Boulevard leads east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12504 0
+D2
+~
+~
+0 -1 12510 0
+D3
+~
+~
+0 -1 12502 0
+S
+#12504
+White Dragon Boulevard at Armory~
+Only gang members dare wander the streets here.  What used to be the
+armory lies to the south.  White Dragon Boulevard leads east and west.
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12505 0
+D2
+~
+~
+0 -1 12511 0
+D3
+~
+~
+0 -1 12503 0
+S
+#12505
+White Dragon Blvd.~
+Black Dragon Avenue used to run south from here but the way has been
+blocked by the toppling of a building into the street.  White Dragon
+boulevard continues east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12506 0
+D3
+~
+~
+0 -1 12504 0
+S
+#12506
+Corner of Ice and White Dragon~
+Ice Dragon Way leads south from here.  It used to run the whole length
+of the neighborhood and way lined with beautiful crystal sculptures.
+White Dragon boulevard leads east and west from here.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12507 0
+D2
+~
+~
+0 -1 12513 0
+D3
+~
+~
+0 -1 12505 0
+S
+#12507
+White Dragon Boulevard~
+A once majestic inn with a white marble facade lies to the south.  
+Unfortunately, it has fallen into disrepair and decay.  You can
+continue east or west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12508 0
+D3
+~
+~
+0 -1 12506 0
+S
+#12508
+Corner of Bronze and White Dragon~
+This is the north-east corner of the neighborhood.  White Dragon
+boulevard heads west and Bronze Dragon street heads south.    
+~
+125 0 0 0 0 10
+D2
+~
+~
+0 -1 12515 0
+D3
+~
+~
+0 -1 12507 0
+S
+#12509
+An over-grown Lot~
+A huge building was going to be built here, but they gave the project
+up when violence took over the town.  Now it is just a weed-strewn
+plot of land.  The lot continues east and there is a road north.    
+~
+125 0 0 0 0 2
+D0
+~
+~
+0 -1 12502 0
+D1
+~
+~
+0 -1 12510 0
+S
+#12510
+East end of an over-grown plot of land~
+This was planned to be a park, but the developer was scared out of
+town by the gang.  Now it is just a dusty square of land.  The park
+was started to the south.  The lot continues west and there is a
+street to the north.    
+~
+125 0 0 0 0 2
+D0
+~
+~
+0 -1 12503 0
+D2
+~
+~
+0 -1 12516 0
+D3
+~
+~
+0 -1 12509 0
+S
+#12511
+Armory~
+Well actually, this is what USED to be the armory.  The equipment has
+all been stolen or broken beyond repair.  The back wall of the
+building has been bashed down, allowing you to go south.  White Dragon
+Boulevard is north.    
+~
+125 8 0 0 0 0
+D0
+~
+~
+0 -1 12504 0
+D2
+~
+~
+0 -1 12517 0
+S
+#12512
+A Bend in the Way~
+Ice Dragon Way bends east and south from here.  You notice a lot of
+blood dried into the dirt here.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12513 0
+D2
+~
+~
+0 -1 12518 0
+S
+#12513
+Ice Dragon Bend~
+Ice Dragon Way bends to the north and west here.  There are footprints
+here.  They seem to indicate a large struggle took place here
+recently.  What used to be the town Magic shop is to the east.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12506 0
+D1
+~
+~
+0 -1 12514 0
+D3
+~
+~
+0 -1 12512 0
+S
+#12514
+The Remains of the Magic Shop~
+The wizard was tough but he couldn't take on 50 of them at once.  So
+he died and they took all his stuff and used it on their fellowmen.  
+The front door leads west back out to the street.  There is a back
+door leading to another street to the east.    
+~
+125 8 0 0 0 0
+D1
+~
+~
+0 -1 12515 0
+D3
+~
+~
+0 -1 12513 0
+S
+#12515
+Bronze Dragon Street at Wizard's Backdoor~
+Bronze Dragon street goes north and south.  The back door to what
+remains of the magic shop is west.    
+~
+125 0 0 0 0 0
+D0
+~
+~
+0 -1 12508 0
+D2
+~
+~
+0 -1 12520 0
+D3
+~
+~
+0 -1 12514 0
+S
+#12516
+Dracolich Plaza~
+They began construction of a pleasant plaza here.  You wouldn't have
+known it though if i hadn't told you.  It has been renamed in honor of
+the Dragon gang's idol, the Dracolich.  It has become sort of a
+training ground.  There is a short cut to the east and an overgrown
+lot of land to the north.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12510 0
+D1
+~
+~
+0 -1 12517 0
+S
+#12517
+Shortcut~
+This is a shortcut between Dracolich Plaza and the center of town.  
+Dracolich Plaza is to the west and the shortcut continues south.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12511 0
+D2
+~
+~
+0 -1 12521 0
+D3
+~
+~
+0 -1 12516 0
+S
+#12518
+Ice Dragon Way~
+Several smashed crystal statues line the Way here.  You begin to
+wonder who smashed them, and with what.  The Way bends out of sight to
+the north and continues south.  To the east is a courtyard.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12512 0
+D1
+~
+~
+0 -1 12519 0
+D2
+~
+~
+0 -1 12522 0
+S
+#12519
+Courtyard North~
+Once it was the courtyard of a beautiful building complex.  But alas,
+someone forgot to water the plants and they all died.  Then again, you
+wonder how many people have died here too.  The courtyard extends to
+the south and there is a road to the west.    
+~
+125 8 0 0 0 1
+D2
+~
+~
+0 -1 12523 0
+D3
+~
+~
+0 -1 12518 0
+S
+#12520
+Bronze Dragon Street~
+There used to be a gate out to the east here which led to distant
+lands.  The gate has rusted permanently shut.  The street goes north
+and south.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12515 0
+D2
+~
+~
+0 -1 12525 0
+S
+#12521
+Shortcut~
+The shortcut extends north.  There is a street to the east.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12517 0
+D1
+~
+~
+0 -1 12522 0
+S
+#12522
+Ice Dragon Way~
+The Way continues north and intersects with Yellow Dragon Avenue to
+the south.  For some reason, you somehow realize that there is a
+shortcut to the west that leads to Dracolich Plaza.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12518 0
+D2
+~
+~
+0 -1 12527 0
+D3
+~
+~
+0 -1 12521 0
+S
+#12523
+Courtyard South~
+Once full of lush green plants, it is now barren of growth.  A set of
+stairs used to extend up to a suite of rooms but the set is missing
+stairs 3-15.  The courtyard extends north and there is a street to the
+south.    
+~
+125 8 0 0 0 1
+D0
+~
+~
+0 -1 12519 0
+D2
+~
+~
+0 -1 12528 0
+S
+#12524
+Old Abandoned Warehouse~
+Once the center of a lucrative storage business, it has fallen to
+disrepair like everything else.  It is now the hideout of the Dragon
+gang.  The gang leader runs his reign of terror from here.  There is a
+wooden door barely on the hinges to the east.    
+~
+125 9 0 0 0 0
+D1
+~
+wooden door east~
+1 -1 12525 3
+S
+#12525
+Bronze Dragon Street at Warehouse~
+The street runs north and south.  There is an old wooden door leading
+to a warehouse to the west.  The warehouse LOOKS abandoned.  . .
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12520 0
+D2
+~
+~
+0 -1 12530 0
+D3
+~
+wooden door west~
+1 -1 12524 3
+S
+#12526
+Yellow Dragon Road~
+Yellow Dragon Road is the southern boundary of Troll Territory.  The
+road extends east.  You enter "no-man's land" to the south.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12527 0
+D2
+~
+~
+0 -1 12531 0
+S
+#12527
+Yellow Dragon Road~
+The road runs east and west.  Ice Dragon Way leads north from here.  
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12522 0
+D1
+~
+~
+0 -1 12528 0
+D3
+~
+~
+0 -1 12526 0
+S
+#12528
+Yellow Dragon Road~
+The roads continues east and west.  There is a courtyard to the north.
+You enter "no man's land" to the south.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12523 0
+D1
+~
+~
+0 -1 12529 0
+D2
+~
+~
+0 -1 12533 0
+D3
+~
+~
+0 -1 12527 0
+S
+#12529
+Yellow Dragon Road~
+There is a barred window to the north.  There appears to be a light
+coming from the cracks around it.  The road extends east and west from
+here.  Or you can enter "no man's land" south from here.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12530 0
+D2
+~
+~
+0 -1 12534 0
+D3
+~
+~
+0 -1 12528 0
+S
+#12530
+Yellow Dragon Road~
+Bronze Dragon Street intersects here and runs north.  Yellow Dragon
+ends here but continues to the west.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12525 0
+D3
+~
+~
+0 -1 12529 0
+S
+#12531
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and east; or there is a street to the north.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12526 0
+D1
+~
+~
+0 -1 12532 0
+D2
+~
+~
+0 -1 12536 0
+S
+#12532
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+east and west.    
+~
+125 0 0 0 0 1
+D1
+~
+~
+0 -1 12533 0
+D2
+~
+~
+0 -1 12537 0
+D3
+~
+~
+0 -1 12531 0
+S
+#12533
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east and west; or there is a street to the north.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12528 0
+D1
+~
+~
+0 -1 12534 0
+D2
+~
+~
+0 -1 12538 0
+D3
+~
+~
+0 -1 12532 0
+S
+#12534
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south,
+east, and west; or there is a street to the north.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12529 0
+D1
+~
+~
+0 -1 12535 0
+D2
+~
+~
+0 -1 12539 0
+D3
+~
+~
+0 -1 12533 0
+S
+#12535
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west.    
+~
+125 0 0 0 0 1
+D2
+~
+~
+0 -1 12540 0
+D3
+~
+~
+0 -1 12534 0
+S
+#12536
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north
+and east; or there is a street to the south.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12531 0
+D1
+~
+~
+0 -1 12537 0
+D2
+~
+~
+0 -1 12541 0
+S
+#12537
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east and west.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12532 0
+D1
+~
+~
+0 -1 12538 0
+D3
+~
+~
+0 -1 12536 0
+S
+#12538
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west; or there is a street to the south.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12533 0
+D1
+~
+~
+0 -1 12539 0
+D2
+~
+~
+0 -1 12543 0
+D3
+~
+~
+0 -1 12537 0
+S
+#12539
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues north,
+east, and west.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12534 0
+D1
+~
+~
+0 -1 12540 0
+D3
+~
+~
+0 -1 12538 0
+S
+#12540
+NO MAN'S LAND~
+This is the section of town between the two gang's territories.  This
+is usually where the violence starts.  No Man's land continues south
+and west; or there is a street to the south.    
+~
+125 0 0 0 0 1
+D0
+~
+~
+0 -1 12535 0
+D2
+~
+~
+0 -1 12545 0
+D3
+~
+~
+0 -1 12539 0
+S
+#12541
+Bend in Hector Street~
+Hector street bends to the east and the south here.  "No Man's Land"
+entrance is to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12536 0
+D1
+~
+~
+0 -1 12542 0
+D2
+~
+~
+0 -1 12546 0
+S
+#12542
+Hector Street at Bakery~
+Hector street runs east and west.  The Bakery used to be to the south
+but the entrance is sealed off.  Probably just a bunch of stale pies
+in there anyways.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12543 0
+D3
+~
+~
+0 -1 12541 0
+S
+#12543
+Hector and Achilles Crossroads~
+Achilles street heads to the south and Hector runs east and west.  
+There is an entrance to "No Man's Land" to the north.  On the
+southwest corner of this intersection, it looks like a building was
+recently burned down.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12538 0
+D1
+~
+~
+0 -1 12544 0
+D2
+~
+~
+0 -1 12547 0
+D3
+~
+~
+0 -1 12542 0
+S
+#12544
+Hector Street at Jeweler~
+Once a bright spot in the town, it now looks like one of the hardest
+hit by the violence.  The building could collapse at any moment.  The
+street continues east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12545 0
+D3
+~
+~
+0 -1 12543 0
+S
+#12545
+Corner of Ajax and Hector~
+There is a grand fountain to the east but the water doesn't look good
+to drink.  Ajax street heads south and Hector goes back west.  "No
+Man's Land" is to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12540 0
+D2
+~
+~
+0 -1 12549 0
+D3
+~
+~
+0 -1 12544 0
+S
+#12546
+Hector Street~
+The street is full of garbage here.  An odd building lies to the west,
+but you don't seem to be able to find a way into it.  The street runs
+north and south here.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12541 0
+D2
+~
+~
+0 -1 12550 0
+S
+#12547
+Achilles Avenue~
+The town bards sang of the victory parades that used to pass along
+this route.  It was once a major way through the center of town.  The
+street goes south to a bend and north to an intersection.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12543 0
+D2
+~
+~
+0 -1 12552 0
+S
+#12548
+A small ruined Chapel~
+This was a small temple built to honor the minor gods and goddesses.
+It is now desecrated by graffiti and vandalism.  Perhaps its worst
+defilement is that it is the hangout of the Ogre gang.  There is a
+street to the east through a rusty metal door.    
+~
+125 262153 0 0 0 0
+D1
+~
+rusted door metal~
+1 -1 12549 3
+S
+#12549
+Ajax Avenue at the Chapel~
+The temple to honor the minor gods is through a rusty metal door to
+the west.  The street continues north and south.  You hear the muffled
+sounds of screams coming from the chapel.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12545 0
+D2
+~
+~
+0 -1 12554 0
+D3
+~
+rusted door metal~
+1 -1 12548 3
+S
+#12550
+First intersection of Hector and Achilles~
+There is a large statue here depicting a battle between two great
+warriors.  You think it's odd that it has not been defiled, but then
+you sense a aura protecting it.  Achilles runs east and south, while
+Hector heads out to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12546 0
+D1
+~
+~
+0 -1 12551 0
+D2
+~
+~
+0 -1 12556 0
+S
+#12551
+Hector street~
+A large open space, possibly a cemetery, lies to the south.  There is
+a large wrought-iron fence with spikes on top which prevents you from
+entering the area.  The street continues east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12552 0
+D3
+~
+~
+0 -1 12550 0
+S
+#12552
+A Bend in the Road~
+Achilles Avenue bends to the north and west here.  There is also a
+narrow alley to the south.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12547 0
+D2
+~
+~
+0 -1 12557 0
+D3
+~
+~
+0 -1 12551 0
+S
+#12553
+What's left of the Weaponshop~
+It doesn't even look like those punks gave the weaponsmith a proper
+burial.  But what a going away present he seems to have received!  
+Blood is splattered and dried all over the walls here.  It looks like
+a great deal of carnage happened here.  The way out to the east leads
+out onto a street.    
+~
+125 8 0 0 0 0
+D1
+~
+~
+0 -1 12554 0
+S
+#12554
+Ajax street at Weaponshop (or whats left of it)~
+The street goes north and south.  The stables used to be to the east,
+but I bet all the horses are dead or gone.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12549 0
+D2
+~
+~
+0 -1 12559 0
+D3
+~
+~
+0 -1 12553 0
+S
+#12555
+Khan Park~
+Not really a "park" as you and i would think of it but it seems
+queerly peaceful here in comparison to the rest of the area.  There
+seems to be some kind of memorial to the great Mongol warrior Khan
+being crudely constructed here.  There is a street to the east and
+another to the south.    
+~
+125 0 0 0 0 1
+D1
+~
+~
+0 -1 12556 0
+D2
+~
+~
+0 -1 12562 0
+S
+#12556
+Achilles Avenue at Entrance to Park~
+A ...  Park?!  Lies to the west.  The street runs south to an
+intersection and curves to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12550 0
+D2
+~
+~
+0 -1 12563 0
+D3
+~
+~
+0 -1 12555 0
+S
+#12557
+A Bend in Ajax~
+The roads bends south and east here.  You barely notice a small alley
+leading north.  Some kind of tunnel entrance is to the west but it has
+been crushed under its own weight.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12552 0
+D1
+~
+~
+0 -1 12558 0
+D2
+~
+~
+0 -1 12564 0
+S
+#12558
+Ajax Street~
+A once prideful guildhouse was on the northeast corner of this
+intersection.  Most of the walls and ceiling have long since been
+demolished.  An inn/pub is to the south.  The street bends to the east
+or west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12559 0
+D2
+~
+~
+0 -1 12565 0
+D3
+~
+~
+0 -1 12557 0
+S
+#12559
+Curve in the Road~
+The street goes north or west from here.  A narrow street once headed
+southeast from here.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12554 0
+D3
+~
+~
+0 -1 12558 0
+S
+#12560
+A Wide Alleyway~
+The sides of the alleyway have been vandalized many times.
+One patch of graffiti actually looks readable:
+            This section has been designed for levels 5 through 10
+            If you are above level 10 please don't expect much.
+            If you are below level 5 enter at your own risk.
+A street lies to the west and a major road to the east.
+~
+125 5 0 0 0 0
+D1
+~
+~
+0 -1 12561 0
+S
+#12561
+Alexander Road~
+You see many gang members walking around looking for fights to pick
+and things to break.  It seems as if all of the other citizens have
+been run out of town.  All the former homes are boarded up and
+uninhabitable.  The road continues east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12562 0
+D3
+~
+~
+0 -1 12560 0
+S
+#12562
+Alexander Street at Park Entrance~
+A park-looking area lies to the north and a passage between two
+buildings leads to another street to the south.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12555 0
+D2
+~
+~
+0 -1 12566 0
+D3
+~
+~
+0 -1 12561 0
+S
+#12563
+Achilles Avenue~
+The Avenue Runs north and south.  You sense you are deep within Ogre
+gang territory, and a chill goes up your spine.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12556 0
+D2
+~
+~
+0 -1 12567 0
+S
+#12564
+Ajax Street~
+You can see a sinister black wrought-iron fence to the west.  You
+wonder if it's keeping you out, or the ghouls in?    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12557 0
+D2
+~
+~
+0 -1 12569 0
+S
+#12565
+The Inn~
+The inn actually looks fairly functional despite its lack of repair.
+The boys come here to hoot it up and drink them selves into oblivion
+sometimes.  It looks as if the beer is still on tap!!!  A hallway
+leads south and you spy a street through the doorway to the north.  
+~
+125 8 0 0 0 0
+D0
+~
+~
+0 -1 12558 0
+D2
+~
+~
+0 -1 12570 0
+S
+#12566
+Solomon Street~
+This street forms the southern boundary of Ogre territory.  The street
+extends far to the east.  There is also a pathway between buildings
+which leads to another street to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12562 0
+D1
+~
+~
+0 -1 12567 0
+S
+#12567
+Intersection of Achilles and Solomon~
+Solomon street is to the east and west.  The other part of the T is
+Achilles Avenue, starting here and winding to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12563 0
+D1
+~
+~
+0 -1 12568 0
+D3
+~
+~
+0 -1 12566 0
+S
+#12568
+Solomon Street~
+A wrought-iron fence blocks off what used to be an entrance to the
+cemetery here to the north.  The evil just seems too strong to to
+consider entering.  You feel you should stick with the "lesser" evils
+along the road to the east and west.    
+~
+125 0 0 0 0 10
+D1
+~
+~
+0 -1 12569 0
+D3
+~
+~
+0 -1 12567 0
+S
+#12569
+Intersection of Ajax and Solomon~
+The two roads meet at a corner here.  Ajax runs north and Solomon
+heads west.  An inn/pub is through a back doorway to the east.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12564 0
+D1
+~
+~
+0 -1 12570 0
+D3
+~
+~
+0 -1 12568 0
+S
+#12570
+Hallway~
+The hallway heads back north to the main part of the inn/pub.  The
+stairs leading up to the guest rooms here do not seem advisable to
+climb.  A doorway empties out into Solomon street to the west.    
+~
+125 9 0 0 0 0
+D0
+~
+~
+0 -1 12565 0
+D3
+~
+~
+0 -1 12569 0
+S
+#12571
+Wall Road~
+The road extends south along the inside of the wall surrounding the
+city.  You spy a city gate to the north.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 3127 0
+D2
+~
+~
+0 -1 12572 0
+S
+#12572
+Wall Road~
+Wall road extends north along the inside of the city wall.  A dark
+alley lies to the east.    
+~
+125 0 0 0 0 10
+D0
+~
+~
+0 -1 12571 0
+D1
+~
+~
+0 -1 12501 0
+S
+$~

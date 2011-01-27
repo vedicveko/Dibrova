@@ -1,0 +1,1051 @@
+#7200
+guardsman man~
+a Guardsman~
+A guardsman stands at ease near the barrier, casually watching your arrival.
+~
+The guardsman looks at you with a mixture of curiousity and mild
+animosity.  Seeing that you wear no colors for any of the Barons, he
+is not sure what to make of you.    
+~
+6170 0 0 0 16 0 0 0 500 E
+58 36 -36 1d1+0 5d6+38
+950 147047
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 21
+Int: 16
+Wis: 19
+Con: 19
+Cha: 7
+Luck: 25
+Class: 10
+Race: 14
+E
+#7201
+tradesman man~
+a Tradesman~
+A tradesman laden down with barrels of Westlawn's finest trudges past.
+~
+The man must have traveled some distance to get the brew that only
+Westlawn can make so well.  He carries the barrels, one on each
+shoulder, a bead of sweat running down the bridge of his nose.    
+~
+76 0 0 0 0 0 0 0 0 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+Str: 17
+Dex: 19
+Int: 13
+Wis: 9
+Con: 21
+Cha: 5
+Luck: 14
+Class: 12
+Race: 14
+E
+#7202
+serf worker~
+a Serf Worker~
+A man with a crude wheel barrow works on the road.
+~
+The road being so rutted and in poor shape, it requires constant
+attention from the workers of the area.  The serf carts dirt from dry
+areas onto the road, trying to dry up the areas of the road that are
+muddiest.    
+~
+6154 0 0 0 16 0 0 0 300 E
+51 30 -32 1d1+0 5d5+34
+775 105930
+8 8 1
+Str: 19
+Dex: 22
+Int: 16
+Wis: 5
+Con: 25
+Cha: 16
+Luck: 20
+Race: 14
+E
+#7203
+muddy little boy~
+a muddy little Boy~
+A little boy covered in mud and filth plays with a pile of mud.
+~
+He smiles up at you with a beguiling twinkle in his eye.  How could he
+know that his life is less than perect with such a fine pile of mud
+right outside his front door?    
+~
+10 0 0 0 0 0 0 0 400 E
+26 11 -4 1d1+0 2d3+17
+200 19006
+8 8 1
+Str: 22
+Dex: 24
+Int: 12
+Wis: 23
+Con: 17
+Cha: 7
+Luck: 23
+Class: 12
+Race: 14
+E
+#7204
+sad little girl~
+a sad little Girl~
+A little girl stands forlornly at the door to her family's hut.
+~
+The poor dear does not wish to step off the doorstep because she knows
+she will instantly be a mess from the muddy yard, but she does not
+wish to stay indoors all day.    
+~
+10 0 0 0 0 0 0 0 600 E
+23 9 8 1d1+0 1d4+15
+150 13903
+8 8 2
+Str: 13
+Dex: 20
+Int: 18
+Wis: 22
+Con: 18
+Cha: 18
+Luck: 19
+Class: 12
+Race: 14
+E
+#7205
+serf man~
+a Serf~
+A man makes his way home after a long day's work.
+~
+He is filthy, covered in dirt and grime that seems almost a pigment to
+his skin rather than a covering of extra mess.    
+~
+530504 0 0 0 0 0 0 0 700 E
+52 31 -32 1d1+0 5d5+34
+800 111307
+8 8 1
+Str: 22
+Dex: 7
+Int: 9
+Wis: 20
+Con: 7
+Cha: 25
+Luck: 17
+Race: 14
+E
+#7206
+wizened old woman~
+a wizened old Woman~
+An old woman with a wrinkled and careworn face stands outside her hovel.
+~
+Her eyes perpetually squint from the sun, her face pinched and
+leathery as she watches the children at play.    
+~
+10 0 0 0 16 0 0 0 400 E
+43 23 -24 1d1+0 4d5+28
+575 68558
+8 8 2
+Str: 12
+Dex: 10
+Int: 24
+Wis: 12
+Con: 24
+Cha: 7
+Luck: 12
+Class: 12
+Race: 14
+E
+#7207
+young child~
+a young Child~
+A young child plays outside his home under the watchful eyes of his mother.
+~
+He is a dirty, filthy child - a child of the dregs, who's lot it is in
+life to do nothing but labor for others.    
+~
+10 0 0 0 0 0 0 0 600 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 1
+Str: 10
+Dex: 7
+Int: 5
+Wis: 24
+Con: 22
+Cha: 18
+Luck: 8
+Class: 12
+Race: 14
+E
+#7208
+gilsby innkeep man servant~
+Gilsby~
+An old man stands behind a bar, slowly serving drinks and food.
+~
+Gilsby was in the service of the old Baron, Westlawn's father for many
+years before Westlawn took on the mantle of Baron.  Gilsby has seen
+them come and seen them go and holds within his old head many secrets
+to the keep and the surrounding area.    
+~
+16394 0 0 0 80 0 0 0 800 E
+48 27 -28 1d1+0 5d5+32
+700 90757
+8 8 1
+Str: 12
+Dex: 7
+Int: 12
+Wis: 7
+Con: 14
+Cha: 14
+Luck: 7
+Class: 11
+Race: 14
+E
+#7209
+tired man~
+a tired-looking Man~
+A tired-looking man leans on a table, tiredly sipping at his ale.
+~
+He sits at a chair at a table, both elbows propped up on the table,
+slumped over with all his weight on those elbows.    
+~
+10 0 0 0 16 0 0 0 400 E
+57 35 -32 1d1+0 5d6+38
+925 140668
+8 8 1
+Str: 17
+Dex: 17
+Int: 15
+Wis: 9
+Con: 6
+Cha: 19
+Luck: 14
+Race: 14
+E
+#7210
+man beady eyes secretive~
+a secretive Man~
+A man leans against the far side of the bar, his eyes trained upon you.
+~
+It is his eyes, those secretive eyes, that give you pause when you
+look his way.  He is certainly not one of the serfs of the area, and
+does not wear the red of Baron Westlawn.    
+~
+616458 0 0 0 1572944 0 0 0 -400 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 1
+BareHandAttack: 14
+Str: 9
+Dex: 8
+Int: 23
+Wis: 5
+Con: 5
+Cha: 22
+Luck: 18
+Class: 8
+Race: 14
+E
+#7211
+woman servant serf~
+a worn-looking Woman~
+A woman sits upon a barrel working the leather of a harness.
+~
+Her wrinkled hands move with strength and fluidity which belies the
+image she presents upon first look.    
+~
+10 0 0 0 16 0 0 0 600 E
+47 26 -28 1d1+0 5d5+31
+675 86013
+8 8 2
+Str: 13
+Dex: 6
+Int: 14
+Wis: 24
+Con: 5
+Cha: 21
+Luck: 19
+Race: 14
+E
+#7212
+little boy playing~
+a little Boy~
+A little boy plays on the stacks of hay, laughing in delight.
+~
+He climbs high up into the heights of the hay stacks, looking down
+every once in a while to assure himself that he is truly ascending.  
+~
+10 0 0 0 0 0 0 0 800 E
+24 10 4 1d1+0 2d3+16
+150 15497
+8 8 1
+Str: 23
+Dex: 5
+Int: 12
+Wis: 22
+Con: 12
+Cha: 8
+Luck: 24
+Race: 14
+E
+#7213
+little girl~
+a little Girl~
+A little girl coquettishly tries to act as if she isn't chasing the boy.
+~
+She nonchalantly climbs the stacks after the boy, trying to make it
+appear that all of this hay climbing is foolish and beneath her, but
+she never takes her eyes of the boy and there is a slight smile at the
+corners of her mouth.    
+~
+10 0 0 0 0 0 0 0 700 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 2
+Str: 12
+Dex: 12
+Int: 7
+Wis: 5
+Con: 9
+Cha: 12
+Luck: 24
+Race: 14
+E
+#7214
+cow old~
+an old, sagging Cow~
+An old cow with sagging udders lazily wanders the field.
+~
+Its tail swishes back and forth, lazily swatting the flies that buzz
+about.    
+~
+262154 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d3+20
+0 27376
+8 8 2
+BareHandAttack: 7
+Str: 14
+Dex: 21
+Int: 12
+Wis: 18
+Con: 25
+Cha: 12
+Luck: 9
+Race: 1
+E
+#7215
+nag mare old~
+an old Nag~
+An old nag slowly makes its way around the area, looking for fresh grass.
+~
+Her back is bowed in the center, her coat patched and in poor
+condition.    
+~
+262154 0 0 0 0 0 0 0 0 E
+28 13 -12 1d1+0 2d4+18
+0 22959
+8 8 2
+BareHandAttack: 9
+Str: 7
+Dex: 19
+Int: 10
+Wis: 5
+Con: 22
+Cha: 17
+Luck: 14
+Race: 1
+E
+#7216
+local man fishing~
+a Local~
+One of the locals sits on the bridge's edge with a fishing pole.
+~
+He idly dangles his legs over the side, swinging them lazily as the
+day passes.  It doesn't appear that he really cares whether or not he
+catches anything, he is just enjoying the quiet.    
+~
+526346 0 0 0 0 0 0 0 600 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 1
+Str: 8
+Dex: 8
+Int: 8
+Wis: 6
+Con: 16
+Cha: 20
+Luck: 22
+Class: 12
+Race: 14
+E
+#7217
+woman basket~
+a Woman carrying a basket~
+A woman hoists a large wicker basket on one shoulder, carrying it through the yard.
+~
+She walks slightly bent over to one side, the contents of the basket
+obviously heavy and awkward.    
+~
+72 0 0 0 0 0 0 0 500 E
+47 26 -28 1d1+0 5d5+31
+675 86013
+8 8 2
+Str: 18
+Dex: 6
+Int: 25
+Wis: 12
+Con: 7
+Cha: 21
+Luck: 22
+Race: 14
+E
+#7218
+man keg~
+a Man rolling a keg~
+A man pushes a wooden keg through the keep, taking it to another room.
+~
+This man is one of Westlawn's many servants whose main job it is to
+make sure that the dining and kitchen area is always well-stocked with
+ale.    
+~
+72 0 0 0 0 0 0 0 600 E
+53 31 -32 1d1+0 5d6+35
+825 116847
+8 8 1
+Str: 20
+Dex: 18
+Int: 15
+Wis: 19
+Con: 10
+Cha: 8
+Luck: 22
+Race: 14
+E
+#7219
+watchman soldier~
+a Watchman~
+A soldier stands at post, scanning the horizon for any signs of invasion.
+~
+His keen eyes do not for one moment waver from their incessant
+scanning of the lands around the keep.  If this man fails in his job,
+many people could die.    
+~
+116762 0 0 0 80 0 0 0 500 E
+65 42 -40 1d1+0 6d6+43
+1125 196628
+8 8 1
+BareHandAttack: 3
+Str: 24
+Dex: 25
+Int: 7
+Wis: 16
+Con: 24
+Cha: 16
+Luck: 12
+Class: 10
+Race: 14
+E
+#7220
+soldier man~
+a Soldier~
+A soldier tromps about the keep, stepping in clean rythym even though he is alone.
+~
+All of Westlawn's men have been trained so well that they continue to
+march in formation even when there is no formation.    
+~
+530508 0 0 0 16 0 0 0 500 E
+60 37 -36 1d1+0 5d6+40
+1000 160325
+8 8 1
+BareHandAttack: 14
+Str: 7
+Dex: 9
+Int: 19
+Wis: 25
+Con: 25
+Cha: 24
+Luck: 16
+Class: 4
+Race: 14
+E
+#7221
+soldier guard finest~
+one of Westlawn's Elite~
+A soldier wearing the sigil of an Elite strides past.
+~
+Westlawn's Elite are feared throughout the realm by all Barons and
+common folk alike.  They have been trained in the arts of battle to
+such a degree as to be masters, respected as the best in nearly every
+fight.    
+~
+596056 0 0 0 570493008 0 0 0 700 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 20
+Int: 14
+Wis: 18
+Con: 6
+Cha: 16
+Luck: 22
+Class: 10
+Race: 14
+E
+#7222
+jerrod swordsman elite captain~
+Jerrod~
+People stand aside as Jerrod, the captain of the Elite, makes his way through.
+~
+Jerrod smiles and nods as he passes by, his face set in an expression
+of open kindness.  The people who he smiles at, however, smile
+nervously back, hoping not to offend in any way.  Jerrod is never
+petty or unkind to the common folk of the keep or the surrounding
+land, but the stories of his tirades on his men are legendary - thus
+the reason for the wide berth that people give when he passes.    
+~
+555080 0 0 0 838926416 4194304 0 0 700 E
+105 82 -40 1d1+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 3
+Str: 7
+Dex: 17
+Int: 9
+Wis: 19
+Con: 25
+Cha: 10
+Luck: 7
+Class: 4
+Race: 14
+E
+#7223
+raggedy commoner~
+a raggedy Commoner~
+A raggedy commoner walks past.
+~
+He is nondescript in nearly every way possible.  His clothes are those
+of a common man's - brown jerkin with a pair of sandals.    
+~
+72 0 0 0 0 0 0 0 200 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 1
+Str: 12
+Dex: 22
+Int: 7
+Wis: 6
+Con: 24
+Cha: 12
+Luck: 21
+Class: 12
+Race: 14
+E
+#7224
+foreman man boss~
+the Foreman~
+The foreman of the farm crew stands scribbling in a clipboard.
+~
+He is probably the only man in the immediate area who is not covered
+in mud and filth from head to toe.    
+~
+10 0 0 0 0 0 0 0 100 E
+56 34 -32 1d1+0 5d6+37
+900 134460
+8 8 1
+Str: 18
+Dex: 23
+Int: 14
+Wis: 15
+Con: 6
+Cha: 24
+Luck: 22
+Race: 14
+E
+#7225
+donld smithy~
+Donld~
+Donld the smithy pounds away at his anvil.
+~
+He is tall and lean, well muscled but not huge like many stereotypical
+smiths of the area.  He looks up at you without stopping pounding,
+winks with a sligh smile, and goes back to concentrating on his anvil.
+~
+120842 0 0 0 2064 0 0 0 800 E
+89 65 -40 1d1+0 6d7+59
+1675 438188
+8 8 1
+BareHandAttack: 7
+Str: 22
+Dex: 19
+Int: 8
+Wis: 13
+Con: 7
+Cha: 25
+Luck: 10
+Class: 4
+Race: 14
+E
+#7226
+Westlawn Baron~
+the Baron Westlawn~
+The Baron Westlawn is here, talking with Donld.
+~
+He is not a particularly large or imposing man, he is simply a man.  
+He is better than average looking, about six foot even in height and
+carries himself with a strong dignity.    
+~
+34117642 0 0 0 2384 0 0 0 750 E
+125 105 -60 1d1+0 15d15+83
+2500 1146118
+8 8 1
+BareHandAttack: 5
+Str: 23
+Dex: 24
+Int: 16
+Wis: 10
+Con: 6
+Cha: 19
+Luck: 5
+Class: 8
+Race: 14
+E
+#7227
+serving wench~
+a serving Wrench~
+A serving wench moves about the keep, performing her duties.
+~
+She is dressed in a very fetching homespun dress that amplifies her
+bosoms to the full extent.  Her hair is done up high in a nest of
+sorts, stray wisps falling about her face.    
+~
+72 0 0 0 0 0 0 0 600 E
+35 17 -20 1d1+0 3d5+23
+350 40559
+8 8 2
+Str: 15
+Dex: 5
+Int: 24
+Wis: 14
+Con: 15
+Cha: 20
+Luck: 21
+Race: 14
+E
+#7228
+cook~
+a Cook~
+A cook hustles about the kitchen, staying clear of Salida's spoon.
+~
+He is dressed in a white kitchen-workers outfit, stained and nastified
+by the many juices and fluids of the food he prepares.    
+~
+10 0 0 0 0 0 0 0 400 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 1
+Str: 12
+Dex: 21
+Int: 13
+Wis: 7
+Con: 20
+Cha: 19
+Luck: 12
+Race: 14
+E
+#7229
+cook~
+a Cook~
+A cook works feverishly at scrubbing the pots and pans for the next meal.
+~
+She is up to her elbows in dirty dish water, her face covered in a
+sheen of sweat and grime.  But she is smiling.  Who can understand
+women?    
+~
+4106 0 0 0 0 0 0 0 300 E
+38 19 -20 1d1+0 3d6+25
+400 50022
+8 8 2
+Str: 24
+Dex: 18
+Int: 18
+Wis: 17
+Con: 24
+Cha: 8
+Luck: 13
+Race: 14
+E
+#7230
+salida chief cook~
+Salida~
+Salida booms orders in her huge voice, her large wooden spoon held at ready.
+~
+Anyone who has frequented the kitchen at all knows to stay clear of
+this big woman's spoon and the lashings it will endow.  Just the same,
+she runs a great kitchen with great food.    
+~
+6154 0 0 0 16 0 0 0 -50 E
+66 43 -40 1d1+0 6d6+44
+1150 204434
+8 8 2
+Str: 22
+Dex: 6
+Int: 25
+Wis: 23
+Con: 8
+Cha: 7
+Luck: 20
+Race: 14
+E
+#7231
+pig stray~
+a stray Pig~
+A stray pig runs about the yard, snorting and oinking.
+~
+From the looks of it, this nasty creature couldn't be happier as it
+rolls and twists about in the mud.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 40 1d1+0 1d5+7
+0 4674
+8 8 0
+Str: 15
+Dex: 7
+Int: 15
+Wis: 20
+Con: 15
+Cha: 8
+Luck: 23
+Race: 1
+E
+#7232
+old man serf~
+an old Man~
+An old man, one of the original serfs of the area, lounges on the floor.
+~
+He looks up at you pitifully with pain-filled eyes, silently
+beseeching that you let him alone.    
+~
+10 0 0 0 0 0 0 0 0 E
+38 19 -20 1d1+0 3d6+25
+400 50022
+8 8 1
+Str: 14
+Dex: 17
+Int: 20
+Wis: 20
+Con: 22
+Cha: 8
+Luck: 14
+Race: 14
+E
+#7233
+stableman man servant~
+a Stableman~
+One of Westlawn's servants tends to the horses.
+~
+He is a younger lad - possibly fourteen or fifteen years of age - who
+wishes to make a go at becoming one of the Elite.  All of the younger
+generation here at Warrior's Keep have that same desire - to one day
+be a proud warrior who fights at the Baron's side.    
+~
+10 0 0 0 0 0 0 0 600 E
+41 22 -24 1d1+0 4d5+27
+525 60717
+8 8 1
+Str: 12
+Dex: 13
+Int: 15
+Wis: 25
+Con: 14
+Cha: 19
+Luck: 8
+Race: 14
+E
+#7234
+roscoe chief stablemaster  horse breaker~
+Roscoe~
+Roscoe, the chief stablemaster and horsebreaker, leans on the fence.
+~
+He chews a piece of straw slowly, deliberately, as he watches one of
+the newest of the steeds trot about the field.    
+~
+18442 0 0 0 65552 4194304 0 0 0 E
+64 41 -40 1d1+0 6d6+42
+1100 189005
+8 8 1
+Str: 17
+Dex: 7
+Int: 10
+Wis: 17
+Con: 18
+Cha: 12
+Luck: 21
+Race: 14
+E
+#7235
+lounging soldier~
+a lounging Soldier~
+A soldier lounges on a cot, taking a break before he goes on watch.
+~
+He stares up at the ceiling, not really paying any attention to
+anything at all.    
+~
+10 0 0 0 0 0 0 0 200 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+Str: 16
+Dex: 21
+Int: 20
+Wis: 17
+Con: 10
+Cha: 15
+Luck: 13
+Class: 4
+Race: 14
+E
+#7236
+child mischievous~
+a mischievious Child~
+A mischievous child darts through the kitchen, stealing any scraps she can find.
+~
+She somehow stays just of reach from Salida's spoon, winking slyly and
+dodging around piles of pots and pans.    
+~
+10 0 0 0 0 0 0 0 500 E
+21 8 16 1d1+0 1d4+14
+150 11024
+8 8 2
+Str: 8
+Dex: 18
+Int: 17
+Wis: 6
+Con: 13
+Cha: 22
+Luck: 25
+Class: 3
+Race: 14
+E
+#7237
+noble man conniving~
+a secretive Noble~
+A noble whispers quietly to the others gathered around him.
+~
+He has a look of confidentiality about him - as if what he whispers is
+of great import and groundbreaking news.    
+~
+6154 0 0 0 16 0 0 0 -200 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 1
+Str: 16
+Dex: 20
+Int: 12
+Wis: 16
+Con: 8
+Cha: 8
+Luck: 20
+Race: 14
+E
+#7238
+young noble~
+a young Noble~
+A young noble listens as the secretive one whispers.
+~
+The young man looks quite open and trusting - perhaps too trusting.  
+He listens raptly, nodding every now and again to what is being said.
+~
+2058 0 0 0 16 0 0 0 800 E
+76 52 -40 1d1+0 6d7+50
+1300 292948
+8 8 1
+Str: 6
+Dex: 22
+Int: 12
+Wis: 7
+Con: 8
+Cha: 7
+Luck: 19
+Class: 12
+Race: 14
+E
+#7239
+haughty noble~
+a haughty Noble~
+A haughty noble listens to it all with an air of disdain.
+~
+He frequently rolls his eyes, looking for all the world as if he
+couldn't disagree more or be more bored - but he doesn't leave.    
+~
+10 0 0 0 0 0 0 0 -300 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 1
+Str: 18
+Dex: 13
+Int: 25
+Wis: 19
+Con: 19
+Cha: 14
+Luck: 17
+Class: 12
+Race: 14
+E
+#7240
+bold noblewoman~
+a bold Noblewoman~
+A noblewoman stands boldly with the men, taking her chances at being laughed out.
+~
+She holds her head defiantely, listening only slightly to what the
+noble whispers, worried more about her status being called down.    
+~
+559114 0 0 0 16 163840 0 0 100 E
+68 45 -40 1d1+0 6d6+45
+1200 220604
+8 8 2
+BareHandAttack: 13
+Str: 10
+Dex: 17
+Int: 9
+Wis: 17
+Con: 15
+Cha: 21
+Luck: 24
+Race: 14
+E
+#7241
+visiting merchant~
+a visiting Merchant~
+A visiting merchant walks through the yard, enjoying some time to himself.
+~
+He carries most of what he owns in a bag slung over one shoulder - the
+rest must be stashed away somewhere in one of the guest rooms.    
+~
+72 0 0 0 0 0 0 0 300 E
+59 37 -36 1d1+0 5d6+39
+975 153599
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 9
+Con: 13
+Cha: 8
+Luck: 5
+Race: 14
+E
+#7242
+bud alemaster~
+Bud~
+Bud, the alemaster of the keep, brews his finest.
+~
+Some people carry pride in themselves at being very fast, some are
+proud of their ability to fight, others love the adevnture of learning
+new spells.  Bud is proud of one thing only - the man loves his beer.
+Crisp and clean, alway cold-filtered, never heat pasturized.    
+~
+10 0 0 0 0 0 0 0 1000 E
+69 46 -40 1d1+0 6d6+46
+1125 228971
+8 8 1
+Str: 18
+Dex: 12
+Int: 14
+Wis: 13
+Con: 6
+Cha: 10
+Luck: 19
+Race: 14
+E
+#7244
+bastard dirty little~
+a dirty little Bastard~
+One of Westlawn's less affluent staff memebers is here, on top of a maid.
+~
+He looks to have been in full rut when you walked in, and probably is
+less than enthusiastic about your arrival.    
+~
+2058 0 0 0 524304 0 0 0 -200 E
+47 26 -28 1d1+0 5d5+31
+675 86013
+8 8 1
+BareHandAttack: 11
+Str: 14
+Dex: 15
+Int: 21
+Wis: 25
+Con: 8
+Cha: 23
+Luck: 12
+Race: 14
+E
+#7245
+a milking maid~
+a milking Maid~
+A cute milking maid lies beneath the servant, giving it all she's got.
+~
+She immediately begins shrieking in her most obnoxious voice she can
+muster as soon as you enter into the loft.    
+~
+10 0 0 0 0 0 0 0 100 E
+35 17 -20 1d1+0 3d5+23
+350 40559
+8 8 2
+Str: 5
+Dex: 17
+Int: 17
+Wis: 14
+Con: 14
+Cha: 17
+Luck: 18
+Class: 12
+Race: 14
+E
+#7246
+horse wild stallion~
+a wild Horse~
+A wild horse bucks and whinnies as you approach.
+~
+It is a beautiful steed, but appears not in the least bit broken for
+riding.    
+~
+262218 0 0 0 0 0 0 0 -1000 E
+35 17 -20 1d1+0 3d6+17
+0 40559
+8 8 1
+BareHandAttack: 5
+Str: 18
+Dex: 25
+Int: 10
+Wis: 7
+Con: 6
+Cha: 8
+Luck: 10
+Race: 52
+E
+#7247
+les stableman~
+Les~
+Les is here tossing some horseshoes, talking to himself all the while.
+~
+Yap, yap, yap.  The old coot can never say anything the makes any
+sense at all, much less form a complete sentence.    
+~
+16394 0 0 0 65552 4194304 0 0 400 E
+30 14 -20 1d1+0 3d3+20
+250 27376
+8 8 1
+Str: 23
+Dex: 22
+Int: 19
+Wis: 24
+Con: 13
+Cha: 22
+Luck: 6
+Race: 14
+E
+$

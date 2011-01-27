@@ -1,0 +1,514 @@
+#800
+beast lava~
+a Lava Beast~
+A huge red-colored beast sleeps here.
+~
+It lies motionless in a fetal position, using its thick claw to shield
+its snout from the odor in the tubes.  Its tail wraps around its body
+almost hiding its hind legs.  It might look peaceful if it wasn't for
+the torso of its last victim hanging from its toothy mouth.    
+~
+759835 0 0 0 537135184 2 0 0 0 E
+140 124 -60 1d45+3000 17d17+93
+2500 1530155
+4 4 0
+BareHandAttack: 8
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 13
+Luck: 12
+Class: 4
+Race: 8
+E
+#801
+pup lave beast~
+a Pup of the Lava Beast~
+A pup of the Lava beast glares at you as it scampers by.
+~
+A small wolf-like creature stands motionless, eyeing your every move.
+With a final parting glare, it scampers about the room, oblivious to
+your presence.    
+~
+6216 0 0 0 264272 2 0 0 0 E
+110 88 -40 1d40+2525 11d12+73
+0 827294
+8 8 0
+BareHandAttack: 9
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 21
+Luck: 12
+Race: 8
+E
+#802
+fiend magma~
+a Magma Fiend~
+A creature made of molten magma attacks you.
+~
+The creature oozes magma from every part of its body, dripping down
+and burning the ground beneath it.    
+~
+247850 0 0 0 264272 3 0 0 -1000 E
+135 117 -60 1d46+3500 16d17+90
+2500 1584810
+8 8 0
+BareHandAttack: 12
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 16
+Luck: 12
+Class: 4
+Race: 30
+E
+#803
+razor beast creature~
+a Razor Beast~
+A large creature eyes you ominously.
+~
+Slightly larger than the pups of the Lava beast, it is a creature to
+be feared.  Long, razor-sharp talons dripping with venom make it
+something not to be tangled with.    
+~
+84039752 0 0 0 35129680 2 0 0 -500 E
+125 105 -60 1d47+4000 15d15+83
+0 1146118
+8 8 0
+BareHandAttack: 3
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 13
+Luck: 12
+Class: 4
+Race: 8
+E
+#804
+firemare  mare~
+a Firemare~
+A mare, totally engulfed in flames, canters about the lair.
+~
+The Firemare is a small horse, barely 15 hands high.  It's coat is a
+beautiful velvet-black color and the mane is glossamer-black.  
+Nothing about the Firemare seems out of the ordinary, except for the
+fiery flames that coat her.  Burning silently, the flames are INDEED
+real despite the fact that the Firemare seems unaffected by the
+inferno about it's body.    
+~
+760074 0 0 0 272720 2 0 0 200 E
+141 125 -60 1d48+4500 17d17+94
+2500 1699832
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 21
+Luck: 12
+Class: 5
+Race: 30
+E
+#805
+speck sunburst~
+a Sunburst~
+A tiny speck bursts into flames and reappears randomly about the room.
+~
+The Sunburst is a tiny being of unknown origin.  Rumor has it that
+only the Grand Fire Conjurer knows what exactly the Sunburst is.  
+Cackling with a echo of laughter behind it, the tiny speck bursts into
+flames and reappears elsewhere unharmed.  Travelers need to beware of
+this being, the flashes it gives off when it bursts is so dazzling
+that damage to the eyes is unavoidable.    
+~
+776202 0 0 0 134490448 2 0 0 400 E
+143 127 -60 1d49+5000 17d18+95
+2500 1835408
+8 8 0
+BareHandAttack: 16
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 18
+Luck: 12
+Class: 2
+Race: 30
+E
+#806
+fire demon~
+a Fire Demon~
+A huge, grotesque demon engulfed in flames paces about.
+~
+The Fire Demon is a hulking mass of muscle and flames.  Standing well
+over ten feet tall with shoulders five feet wide, it's muscles ripple
+as the flames write about it's body.  A set of two-foot long claws and
+a long, lashing tail complement this perfect warrior's body.
+~
+731418 0 0 0 537133336 2 0 0 -400 E
+145 130 -60 1d45+3000 18d18+96
+2500 1825517
+8 8 0
+BareHandAttack: 6
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Class: 9
+Race: 41
+E
+#807
+beetle scarab flaming~
+a Flaming Scarab~
+A large beetle scuttles about, flames enveloping it's body!
+~
+The carapace of the Flaming Scarab is made of living fire, offering an
+excellent means of protection for the beetle.  It stands at about ten
+hands, rather large as far as insects go.  Like it's smaller breathen,
+they carry with it the secret of eternal life.
+~
+186378 0 0 0 302262608 0 0 0 900 E
+149 135 -60 1d46+3500 18d19+99
+2500 1956691
+8 8 0
+BareHandAttack: 5
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 7
+Luck: 12
+Race: 5
+E
+#808
+fire wasp~
+a Fire Wasp~
+A giant wasp, seemingly made of fire, drones about menacingly!
+~
+Streaks of black upon a firey red body show this to be a rare Fire
+Wasp.  The last of it's kind, it used to populate the realms during
+the Age of Fire.  Since that time has passed, it now lives in the lava
+tubes under the protection of the Grand Conjurer of Fire.    
+~
+84613146 0 0 0 42205520 2 0 0 300 E
+142 126 -60 1d47+4000 17d18+94
+2500 1730743
+8 8 0
+BareHandAttack: 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 14
+Luck: 12
+Race: 5
+E
+#809
+smoke demon~
+a Smoke Demon~
+A column of smoke slowly materializes before you!
+~
+The Smoke Demon is a powerful ally or foe.  Seemingly made of nothing 
+but dark grey smoke, it has the ability to solidify at will.  Not rather
+large as far as demons go, it makes up for it by being extremely agile
+and cunning.  A pair of coal ember-like eyes peer about as they fade
+back into the smokey recesses.
+~
+669722 0 0 0 134482256 2 0 0 700 E
+147 132 -60 1d48+4500 18d19+98
+2500 1969180
+8 8 0
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 24
+Luck: 12
+Class: 3
+E
+#810
+burning corpse~
+a Burning Corpse~
+A charred corpse, still aflame, lies here twitching.
+~
+This poor soul once was a re-known adventurer who's name has been lost
+over time.  Something must have gone terribly wrong as he wandered
+into here as evidenced by his terrible state of agony.    
+~
+579626 0 0 0 570689872 2 0 0 -250 E
+142 126 -60 1d49+5000 17d18+94
+2500 1730743
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 13
+Luck: 12
+Race: 44
+E
+#811
+fire devil~
+a Fire Devil~
+A Fire Devil stands here, twirling it's tail absentmindedly.
+~
+A slender demon, the Fire Devil, makes snapping and crackling sounds
+as tounges of flames leap from it's body to the ground.  A pair of
+black hooves and a forked toungue show this to be your typical devil,
+except for the burning flames that exude from it's body.    
+~
+645162 0 0 0 264528 2 0 0 -800 E
+143 127 -60 1d45+3000 17d18+95
+2500 1761992
+8 8 1
+BareHandAttack: 10
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 23
+Luck: 12
+Class: 8
+Race: 41
+E
+#812
+fire giant~
+a Fire Giant~
+A massive pillar of fire solemnly stands here.
+~
+This giant easily come close to rivaling the titans in size and might.
+A sheet of living fire leaps and crackles about her body, adding to
+the imposing physical stature.  Her eyes reflect kindness and sorrow,
+for she has felt the brunt of racism since she is the last of her
+kind.    
+~
+653322 0 0 0 67373392 2 0 0 600 E
+144 129 -60 1d46+3500 18d18+96
+2500 1868316
+8 8 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Class: 5
+Race: 10
+E
+#813
+fire dragon~
+a Fire Dragon~
+A huge hulk of fire in the shape of a dragon rests here.
+~
+A large, reptilian creature of the fire plane, the Fire Dragon is 
+wise and gentle.  Having survived countless centuries and witnessed
+the atrocities towards his kin, he has claimed sanctuary among the
+others in the Lava Tubes.  
+~
+780318 0 0 0 33818960 2 0 0 900 E
+148 134 -60 1d47+4000 18d19+98
+2500 1923378
+5 5 1
+BareHandAttack: 4
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 8
+Luck: 12
+Class: 4
+Race: 9
+E
+#814
+fire elemental~
+a Fire Elemental~
+A wavering wisp of fire floats here.
+~
+A living being made solely of fire, the Fire Elemental floats about
+as it burns away eternally.  Depending on it's moods, the color of
+the flames shift from warm yellow to fiercely-hot white.
+~
+587786 0 0 0 264528 2 0 0 700 E
+146 131 -60 1d48+4500 18d18+97
+2500 1857793
+8 8 0
+BareHandAttack: 12
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+Class: 1
+Race: 30
+E
+#815
+fire drake~
+a Fire Drake~
+A small, snakelike Fire Drake slithers forth!
+~
+The Fire Drake is a small, serpentine creature of extraordinary
+intellect.  It's body is about 22 hands long, sheathed in blood-red
+scales.  A small crest runs the length of the body, from head to tail.
+It's face is more dragon-like in appearance, sporting a "goatee" of
+fire.
+~
+776202 0 0 0 264528 2 0 0 500 E
+149 135 -60 1d49+5000 18d19+99
+2500 1956691
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 19
+Luck: 12
+Class: 4
+Race: 2
+E
+#816
+rock hound~
+a RockHound~
+An hound, made from animated rock, suddenly howls!
+~
+A hound, carved from stone and resembling a large wolfhound, bounds
+forth.  Muscles ripple on it's lithe body and no sounds of exertion
+can be heard as it runs about.  It's hackles suddenly rise, as it
+senses something amiss!
+~
+710728 0 0 0 67373136 131072 0 0 0 E
+120 100 -40 1d42+2700 14d14+80
+0 1079758
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 8
+Luck: 12
+Race: 33
+E
+#817
+phoenix~
+the Phoenix~
+A flaming bird with dazzling plumage caws loudly!
+~
+A small bird, resembling a noble hawk, flies about.  It's plumage is
+dazzling, ranging from all the colors of fire, and burns away with a
+fierce heat!
+~
+784410 0 0 0 142870864 2 0 0 950 E
+149 135 -60 1d47+4000 18d19+99
+2500 2038219
+8 8 2
+BareHandAttack: 16
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 15
+Luck: 12
+Race: 3
+E
+#818
+imp fire~
+a Fire Imp~
+A small, sly imp made of fire giggles as it runs about.
+~
+The imp is a small golem, magically constructed of fire.  A shy and sly
+gleam in it's animate eyes can be seen as it runs about.
+~
+776280 0 0 0 33818704 131074 0 0 -250 E
+115 94 -40 1d43+2800 13d13+76
+2325 926591
+8 8 0
+BareHandAttack: 15
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 15
+Luck: 12
+Class: 2
+Race: 51
+E
+#819
+salamander~
+a Salamander~
+A large salamander, radiating searing heat from it's body, rests here.
+~
+This is no ordinary salamander, for it radiates extreme heat from it's
+body.  The heat given off is reflected by it's mood, ranging from a
+gentle heat to a raging inferno capable of melting the very rocks it
+walks upon.  Take care, lest ye provoke it!    
+~
+759834 0 0 0 264528 4098 0 0 350 E
+147 132 -60 1d47+4000 18d19+98
+2500 1890413
+8 8 0
+BareHandAttack: 5
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Race: 2
+E
+#820
+grand fire conjeror~
+the Grand Fire Conjurer~
+An elderly woman, the Grand Conjurer of Fire, smiles as flames do her bidding.
+~
+Elven in appearance and faerie in build, her origin is a mystery.  
+Once a powerful sorceror of the arcane magics, Fiera now studies the
+magics of the Fire Plane.  Her knowledge of magic rivals any other
+scholar and her power is unrivaled.  She now spends her time lending
+aid to fellow creatures of fire, giving them refuge and sanctuary from
+persecution.    
+~
+34199578 0 0 0 537200912 4325376 0 0 1000 E
+155 143 -60 1d50+6000 21d22+103
+2550 2163930
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+Class: 1
+Race: 24
+E
+$

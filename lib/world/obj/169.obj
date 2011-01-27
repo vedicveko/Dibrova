@@ -1,0 +1,304 @@
+#16900
+hollow log~
+/cwa /cyhallow log /c0~
+A hollow log lies on the rocky earth.~
+~
+24 16 0 0 0 0 0 0 0
+15030 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16901
+iron key~
+/cwa small /cLiron /cwkey /c0~
+A small iron key lies in the dust.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+iron key~
+A non-descript iron key.
+~
+#16902
+nickle key~
+/cwa /ccnickel /cwkey /c0~
+A key stamped from nickle lies in the dust.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+nickle key~
+It's a key.  It's stamped from nickel.
+~
+#16903
+corkscrew~
+/cwa /cycorkscrew /c0~
+A corkscrew lies in the dust.~
+~
+18 28 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+corkscrew~
+Used to extract corks from bottles, etc.
+~
+#16904
+packet boat~
+/cwthe packet boat /c0~
+A small boat floats upon the water.~
+~
+24 0 0 0 0 1 0 0 0
+15095 0 0 0 0 0 0 0
+999 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16905
+crawdad claw~
+/cwa /crcrawdad's /cwclaw /c0~
+A large pink claw lies on the ground.~
+~
+5 65552 0 0 0 8193 0 0 0
+0 0 0 6 0 0 0 0
+7 100 0 12 -1 -1 -1 -1 -1 -1
+0 100 0 0 0 0 0 0 0
+E
+claw crawdads~
+The claw from some overgrown crustaecian which can be wielded
+as a club.
+~
+A
+1 1
+#16906
+rat pelt~
+/cwa /cLgrey /cwrat pelt /c0~
+The pelt of a small animal lies in the dust.~
+~
+9 1114626 32 0 0 4097 0 0 0
+3 0 0 0 0 0 0 0
+3 4 0 70 -1 -1 -1 -1 -1 -1
+0 4 0 0 0 0 0 0 0
+E
+rat pelt~
+The pelt of a marsh rat, tanned and formed into a bracelet.
+~
+A
+1 -1
+A
+25 2
+A
+26 1
+#16907
+crawdad meat chunk~
+a chunk of crawdad meat~
+A large chunk of white meat lies on the ground.~
+~
+19 4 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+3 96 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+meat chunk crawdad~
+A large chunk of meat from an overgrown crustaecean.  Very filling!
+~
+#16915
+axe executioners~
+/cwan /cRexocutioner's /cLaxe /c0~
+A short handled axe lies on the ground.~
+~
+5 1581704 32 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+9 1500 0 102 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+E
+axe executioners~
+An axe with a broad single blade and a stout ash handle.
+~
+A
+18 4
+A
+19 4
+A
+13 15
+A
+25 -2
+C
+80 2
+#16916
+bloody rag~
+/cwa rag soaked in /crblood /c0~
+A bloody rag lies in the dust.~
+~
+11 68166272 0 0 0 17 0 0 0
+0 0 0 0 0 0 0 0
+7 1000 0 104 -1 -1 -1 -1 -1 -1
+0 -24 0 0 0 0 0 0 0
+E
+bloody soaked rag~
+A large kerchief tied into a cap, soaked in the blood of the
+original owners vanquished enemies.
+~
+A
+1 -2
+A
+12 30
+A
+13 25
+A
+26 3
+#16925
+oberstollekommando helm gargoyle~
+/cwan /cLOberstollekommandos /cwhelm /c0~
+A gargoyle shaped helm lies on the ground.~
+~
+9 135934624 2 0 0 17 0 0 0
+7 0 0 0 0 0 0 0
+10 1500 0 115 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#16926
+nickel ebony club warclub~
+/cwa /ccnickle studded /cLwarclub /c0~
+An ebony club studded with nickel powerpoints lies on the ground.~
+~
+5 169480736 0 0 0 8193 0 0 0
+0 0 0 5 0 0 0 0
+12 2500 0 105 -1 -1 -1 -1 -1 -1
+0 -60 0 0 0 0 0 0 0
+#16927
+razor bracelet raziersturmband~
+/cpraziersturmband /c0~
+A razor-sharp bracelet lies on the ground.~
+~
+11 1716864 32 0 0 4097 0 0 0
+0 0 0 0 0 0 0 0
+5 1750 0 117 -1 -1 -1 -1 -1 -1
+0 -42 0 0 0 0 0 0 0
+#16928
+breastplate azure~
+/cYazure /ccsteel /cYbreastplate /c0~
+An azure breastplate lies in the dust.~
+~
+9 152044160 32 0 0 9 0 0 0
+12 0 0 0 0 0 0 0
+15 1500 0 110 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#16929
+batwing vambraces~
+/cLbatwing /crvambraces /c0~
+A pair of batwing-shaped vambraces lies on the ground.~
+~
+9 152052361 0 0 0 257 0 0 0
+8 0 0 0 0 0 0 0
+9 0 0 110 -1 -1 -1 -1 -1 -1
+5 0 0 0 0 0 0 0 0
+#16930
+azure greaves~
+/cYazure /ccsteel /cYgreaves /c0~
+A pair of azure greaves lies in the dust.~
+~
+9 134218368 32 0 0 33 0 0 0
+8 0 0 0 0 0 0 0
+8 0 0 110 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16931
+violet shortsword~
+/cCshimmering /cpviolet /ccshortsword /c0~
+A shimmering violet shortsword lies on the ground.~
+~
+5 1057416 32 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+6 1500 0 110 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#16932
+stollekommandos dagger~
+/cLstollekommandos /ccdagger /c0~
+A long slim-bladed dagger lies in the dust.~
+~
+5 1716872 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+3 1500 0 117 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#16933
+sturmbeil axe short~
+/cwa /cysturmbeil /c0~
+Q short handled axe lies on the ground.~
+~
+5 799368 0 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+10 1500 0 105 -1 -1 -1 -1 -1 -1
+0 -36 0 0 0 0 0 0 0
+#16934
+paring knife~
+/cwa /cGparing knife /c0~
+A small sharp knife lies in the dust.~
+~
+5 1581576 32 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+1 0 0 135 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16935
+stout oak crossbow~
+/cystout oak /cccrossbow /c0~
+A crossbow lies on the ground.~
+~
+6 135791240 32 0 0 8193 0 0 0
+0 0 0 0 0 0 0 0
+10 1750 0 7 -1 -1 -1 -1 -1 -1
+0 -42 0 0 0 0 0 0 0
+#16936
+wooden sturdy longbow~
+/cysturdy wooden /cwlongbow /c0~
+A sturdy-looking longbow lies on the ground.~
+~
+6 135275136 0 0 0 8193 0 0 0
+0 0 0 0 0 0 0 0
+11 30 0 5 -1 -1 -1 -1 -1 -1
+0 30 0 0 0 0 0 0 0
+#16937
+quiver arrows~
+/cwa /cyquiver /cwof /cparrows /c0~
+A quiver full of arrows lies on the ground.~
+~
+7 8200 32 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+15 150 0 1 -1 -1 -1 -1 -1 -1
+0 -106 0 0 0 0 0 0 0
+#16938
+martinets belt~
+/cbmartinets /cwbelt /c0~
+A broad belt with a slim shoulder strap lies on the ground.~
+~
+11 152719880 0 0 0 2049 0 0 0
+0 0 0 0 0 0 0 0
+4 0 0 105 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16939
+nickel tray~
+/ccnickle plated serving trey /c0~
+A nickel plated tray lies on the ground.~
+~
+15 130 32 0 0 16401 0 0 0
+275 0 -1 0 0 0 0 0
+23 2 0 1 -1 -1 -1 -1 -1 -1
+0 2 0 0 0 0 0 0 0
+#16998
+ship test~
+/cwship tester /c0~
+A ship test object floats upon the waves~
+~
+32 1 0 0 0 1 0 0 0
+0 15095 0 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#16999
+tiller~
+/cwa tiller /c0~
+Tiller is here to steer the ship~
+~
+33 0 0 0 0 1 0 0 0
+15098 15095 15095 0 0 0 0 0
+0 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

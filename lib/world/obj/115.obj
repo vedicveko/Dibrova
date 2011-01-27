@@ -1,0 +1,452 @@
+#11500
+key large~
+a large key~
+A large key has been dropped here.~
+This is a large key that gives off a soft glow.
+~
+18 65549 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key large~
+This is a large key that gives off a soft glow.
+~
+#11501
+pantry key small~
+a small key~
+A small key has been left here.~
+This is a small skeleton type key.
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pantry small key~
+This is a small skeleton type key.
+~
+#11502
+secretary desk wooden large~
+a large wooden desk~
+A large wooden desk takes up much of this room.~
+Nothing.
+~
+15 0 0 0 0 0 0 0 0
+5 13 11503 0 0 0 0 0
+200 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+secretary desk wooden large~
+   The desk is covered with piles of paper in neat stacks.  There are
+many drawers down both sides.    
+~
+#11503
+tiny key~
+a tiny key~
+A tiny key lies here.~
+   This is a tiny brass key.    
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+tiny key~
+   This is a tiny brass key.    
+~
+#11504
+gold key~
+a gold key~
+A gold key has fallen on the floor here.~
+   This is an gold key.    
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+gold key~
+   This is a gold key.    
+~
+#11505
+wooden key~
+a wooden key~
+A large wooden key has been dropped here.~
+   This key is made out of some kind of hard wood.    
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wooden key~
+   This key is made out of some kind of hard wood.    
+~
+#11506
+strong box chest~
+a strong box~
+A strong box has been embedded into the wall here.~
+   The large metal box pluses.  The stone has been formed around it as
+if some hot fire was used to weld it to stone.    
+~
+15 3 0 0 0 0 0 0 0
+500 13 11508 0 0 0 0 0
+1000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+strong box chest~
+   The large metal box pluses.  The stone has been formed around it as
+if some hot fire was used to weld it to stone.    
+~
+#11507
+coins treasure~
+a mound of /cYcoins/c0~
+A large mound of coins has been stored here.~
+   These are gold coins.    
+~
+20 0 0 0 0 1 0 0 0
+5000 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+coins treasure~
+   These are gold coins.    
+~
+#11508
+metal key large~
+a large metal key~
+A large metal key lies here.~
+   This key has a great many teeth along both sides.  It must go to a
+very complicated lock.    
+~
+18 65548 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+1 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+metal key large~
+   This key has a great many teeth along both sides.  It must go to a
+very complicated lock.    
+~
+#11509
+bookshelf bookselves shelf shelves~
+a bookshelf~
+Rows of bookshelves line the walls.~
+   The room is surrounded by tall wooden bookshelves.  Books of all
+shapes and sizes have been carefully arranged upon them.  All but a
+few of the books have strange symbols engraved upon their bindings.  
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bookshelf bookselves shelf shelves~
+   The room is surrounded by tall wooden bookshelves.  Books of all
+shapes and sizes have been carefully arranged upon them.  All but a
+few of the books have strange symbols engraved upon their bindings.  
+~
+#11510
+guard chain mail armor Silmarian~
+some Silmarian guard armor~
+A suit of Silmarian guard armor has been left here.~
+   This is a well made suit of chain mail bearing the Silmarian crest.
+~
+9 528384 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+19 22966 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+guard chain mail armor Silmarian~
+   This is a well made suit of chain mail bearing the Silmarian crest.
+~
+A
+1 1
+A
+19 3
+A
+18 2
+A
+14 -10
+#11511
+vambrace arm guard silmarian~
+some Silmarian guard vambraces~
+A set of vambraces has been left here.~
+   The vambraces are well crafted and bear the crest of the Silmarian
+guards.    
+~
+9 0 0 0 0 257 0 0 0
+7 0 0 0 0 0 0 0
+10 18199 0 65 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+vambrace arm guard silmarian~
+   The vambraces are well crafted and bear the crest of the Silmarian
+guards.    
+~
+A
+2 -1
+A
+19 4
+A
+13 -20
+#11512
+Silmarian guard sword~
+Silmarian guard sword~
+A sword with a Silmarian crest etched upon it lies here.~
+   The sword is in good condition, it's previous owner took good care
+of it.  Upon the blade the crest of Silmarian has been etched in.    
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+18 29040 0 66 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+Silmarian guard sword~
+   The sword is in good condition, it's previous owner took good care
+of it.  Upon the blade the crest of Silmarian has been etched in.    
+~
+A
+1 1
+A
+2 1
+A
+19 3
+A
+18 2
+A
+13 -20
+#11513
+silmarian patrol man club~
+a Silmarian Patrolman club~
+A club with the Silmarian crest engraved upon it lies here.~
+Nothing.
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+15 28872 0 71 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+silmarian patrol man club~
+   This club is made of sturdy oak wood.  A few of the deeper dents in
+the wood could not be polished out.    
+~
+A
+1 -1
+A
+19 4
+A
+18 3
+#11514
+SOG armor plate~
+a SOG's plate armor~
+A large set of plate armor has been left here.~
+Nothing.
+~
+9 552960 0 0 0 9 0 0 0
+10 0 0 0 0 0 0 0
+18 30240 0 81 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+SOG armor plate~
+   This armor once belonged to a Sergeant of the Guard.  It is will
+maintained and very functional.    
+~
+A
+1 2
+A
+19 4
+A
+18 4
+A
+3 -2
+A
+13 -20
+#11515
+SOG large broad sword~
+a SOG's broad sword~
+A large broad sword has been discarded here.~
+Nothing.
+~
+5 552960 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+20 31706 0 82 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+SOG large broad sword~
+   This sword is of very high quality.  The metal is very strong but
+not to brittle.  The sword has been well cared for.    
+~
+A
+3 -2
+A
+19 4
+A
+18 3
+#11516
+bit glowing stone float~
+a /cWglowing /crred stone/c0~
+An oblong piece of stone floats just above the ground.~
+Nothing.
+~
+11 2015232 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+4 20020 0 77 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bit glowing stone float~
+   The piece of stone glows with an erie light.  It pulses slowly and
+for some reason it hovers above the ground.    
+~
+A
+17 -5
+A
+2 2
+A
+26 4
+#11517
+scarlet blue stone glowing~
+a /cRscarlet/c0 and /cBblue/c0 stone~
+A stone is hovering above the ground.~
+Nothing.
+~
+11 1323009 0 0 0 524289 0 0 0
+0 0 0 0 0 0 0 0
+5 16500 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+scarlet blue stone glowing~
+   The small round stone is glowing and humming.  It hovers in the
+air.    
+~
+A
+25 2
+A
+18 4
+A
+17 -5
+#11518
+wire framed glasses~
+a pair of wire rimmed glasses~
+A pair of glasses have been dropped here.~
+Nothing.
+~
+11 2023488 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+3 15840 0 72 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wire framed glasses~
+   The glasses have a wire frame of gold.  The lenses are slightly
+scratched.    
+~
+A
+3 1
+A
+25 2
+A
+12 -15
+#11519
+glowing enchanted spoon~
+a small /cWglowing spoon/c0~
+A spoon has been left here.~
+Nothing.
+~
+11 532560 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+5 18500 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+25 2
+A
+26 3
+A
+19 2
+A
+3 -1
+#11520
+potion white~
+a /cwwhite potion/c0~
+A gleaming white potion has been left here.~
+Nothing.
+~
+10 65 0 0 0 16385 0 0 0
+75 28 15 15 0 0 0 0
+2 1350 0 75 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+white potion~
+   The small jar holds gleaming white liquid.    
+~
+#11521
+bolt white cloth linen~
+a bolt of /cwwhite linen/c0~
+A bolt of white linen has been left here.~
+Nothing.
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+15 400 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bolt white cloth linen~
+   The bolt of white linen has never been used.    
+~
+#11522
+bolt blue wool~
+a bolt of /cbblue wool/c0~
+A bolt of blue wool has been left here.~
+   The bolt of blue wool has been cut into.    
+~
+13 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+14 400 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+bolt blue wool~
+   The bolt of blue wool has been cut into.    
+~
+#11523
+pordrul private stock brew beer~
+some of /crPordrul's private stock/c0~
+A bottle of beer has been dropped here.~
+Nothing.
+~
+17 0 0 0 0 16385 0 0 0
+3 3 1 0 0 0 0 0
+8 150 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pordrul private stock brew beer~
+   Prodrul's brew is a dark amber beer.    
+~
+#11524
+roasted mutton meat~
+some roasted mutton~
+Some roasted mutton.~
+Nothing.
+~
+19 0 0 0 0 1 0 0 0
+24 0 0 0 0 0 0 0
+2 96 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+roasted mutton meat~
+   Well cooked with a delicate spice, the mutton smells very tasty.  
+~
+#11525
+mug ale tall~
+a tall mug of ale~
+A mug of ale has been left here.~
+   The ale is very dark and stout.    
+~
+17 0 0 0 0 16385 0 0 0
+3 3 3 0 0 0 0 0
+8 120 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mug ale tall~
+   The ale is very dark and stout.    
+~
+$~

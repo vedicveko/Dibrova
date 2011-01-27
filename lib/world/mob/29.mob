@@ -1,0 +1,156 @@
+#2900
+bat~
+a huge Black Bat~
+A huge black bat hovers before you.
+~
+It doesn't seem to want to attack, it simply seems to be watching you,
+almost with intelligent eyes.    
+~
+198732 0 0 0 8390736 131072 0 0 -200 E
+50 29 -28 1d10+200 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 8
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 9
+Luck: 12
+Race: 3
+E
+#2901
+gypsy zigeuner~
+the Zigeuner Gypsy~
+A Zigeuner Gypsy seems shocked by your presence here.
+~
+Walking head down, mumbling to himself, you are the last thing this guy expected.
+~
+530504 0 0 0 524368 0 0 0 -300 E
+75 51 -40 1d35+2400 6d7+50
+1275 283219
+8 8 1
+BareHandAttack: 14
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 17
+Luck: 12
+Class: 8
+Race: 14
+E
+#2902
+gypsy cigano~
+the Cigano Gypsy~
+A Cigano Gypsy spots you and turns away at a quick pace.
+~
+He seems to be on his way to take care of something...'
+~
+38984 0 0 0 2128 0 0 0 -300 E
+80 56 -40 1d23+1600 6d7+53
+1400 333884
+8 8 1
+BareHandAttack: 11
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 8
+Luck: 12
+Class: 8
+Race: 14
+E
+#2903
+gypsy tsigani~
+a Tsigani Gypsy~
+A Tsigani Gypsy comes running at you, weapon drawn!
+~
+Of all the different gypsies in the castle, you had to find the one
+with a deathwish...    
+~
+67737672 0 0 0 2128 0 0 0 -300 E
+85 61 -40 1d20+1000 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 14
+Luck: 12
+Class: 8
+Race: 14
+E
+#2904
+vampyre greater~
+a Greater Vampyre~
+A Greater Vampyre flings himself on you in a frenzy of Bloodlust!
+~
+You really don't have the time to stop and check this guy out, he is
+attacking you!    
+~
+67737688 0 0 0 2128 131072 0 0 -700 E
+110 88 -40 1d47+4000 11d12+73
+2200 752086
+8 8 1
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 20
+Luck: 12
+Class: 14
+Race: 6
+E
+#2905
+vampyre lesser~
+a Lesser Vampyre~
+A Lesser Vampyre attacks with a power that only a vampyre could possess.
+~
+Watch the teeth - something you were supposed to remember about the teeth.    
+~
+170104 0 0 0 2128 0 0 0 -800 E
+99 76 -40 1d45+3000 6d8+66
+1925 574891
+8 8 1
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 14
+Luck: 12
+Class: 14
+Race: 6
+E
+#2906
+Lord vampyre~
+the Vampyre Lord~
+A huge, terrifying man-like thing is about to bite your neck.
+~
+He moves so fast, it is hard to tell anyting about him at all.    
+~
+18523 0 0 0 84304 4325376 0 0 -1000 E
+175 169 -100 1d50+6000 28d28+116
+2700 2703063
+8 8 1
+BareHandAttack: 12
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 14
+Luck: 12
+Class: 14
+Race: 6
+E
+$

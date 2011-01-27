@@ -1,0 +1,1080 @@
+#100
+crazy mental disorderly patient~
+the Mental Patient~
+The Mental Patient stands here drooling on himself.
+~
+The Mental Patient just has a blank stare.
+~
+8 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 22
+Luck: 12
+Race: 14
+E
+#101
+nurse curator therapist~
+Nurse, Curator, and Therapist~
+This kind old woman is Nurse, curator, and therapist here at the Asylum
+~
+The kindly old nurse smiles back at you
+~
+10 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+10 4
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 14
+E
+#102
+The Guard~
+a tough Asylum Guard~
+An asylum guard walks his rounds, keen eyed, watching for signs of trouble.
+~
+This Guard looks tough. He carries a billy club and looks awful mean.
+~
+10 0 0 0 0 0 0 0 100 E
+3 0 88 1d3+20 1d1+1
+50 77
+8 8 1
+BareHandAttack: 7
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Race: 14
+E
+#103
+doctor asylum~
+an Asylum Doctor~
+An Asylum Doctor stumbles past you, apparently intoxicated.
+~
+The stains that mar his white Newbie Asylem jacket appear to be whiskey stains,
+and from the intense smell, you assume that you are correct in that assumption.
+~
+72 0 0 0 0 0 0 0 200 E
+4 0 84 1d4+30 1d2+2
+70 160
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 19
+Luck: 12
+Race: 14
+E
+#104
+patient mental~
+a mental Patient~
+A mental patient is standing here, declaring war on all who wear red scarves.
+~
+She stands dramatically, one arm raised in protest against the garment she
+rants over, a fierce, triumphant light in her eyes.    
+~
+72 0 0 0 0 0 0 0 100 E
+2 0 92 1d2+15 1d1+1
+15 27
+8 8 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 25
+Luck: 12
+Race: 14
+E
+#105
+patient mental~
+a mental Patient~
+A Mental Patient is here, introducing you to his good friend Ted, who isn't here.
+~
+It is a very good possibility that Ted is actually a very nice imaginary
+friend...    
+~
+72 0 0 0 0 0 0 0 100 E
+5 1 80 1d5+50 1d2+2
+80 283
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 23
+Luck: 12
+Race: 14
+E
+#106
+brain~
+the Brain~
+An enlargened brain floats onminously here.
+~
+This is the brain of the body that produced all the split
+personalities that are running about in the R/D Lab.  It was extracted
+from the original personality for study.  As time went by, no one
+could remember which personality was the original one, so the brain
+was left devoid of a body.  It longs for the day when it can escape
+this maddening place.    
+~
+10 0 0 0 64 0 0 0 -200 E
+7 1 72 1d7+125 1d2+3
+125 669
+8 8 0
+BareHandAttack: 15
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Race: 7
+E
+#107
+researcher~
+a Researcher~
+A Researcher bumbles about, deep in thought.
+~
+The Researcher is not a pure scientist, in fact he once was an patient
+at this very place.  Somehow, through the jungle of red-tape, he
+managed to actually get hired here as a Researcher and given access to
+dangerous chemicals.  A ruffle of black hair and wild-looking eyes
+reveal the patient deep within him.    
+~
+10 0 0 0 0 0 0 0 200 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 12
+Luck: 12
+Race: 14
+E
+#108
+developer~
+a Developer~
+A Developer stands here, trying to make sense of the Researcher's notes.
+~
+Quite possibly, the Developer is the ONLY sane person in the asylum.
+Having graduated at the top of her class from the university, she is
+optimistic about working here.  Long, red hair and blue eyes teasingly
+hide the serious side of her.    
+~
+8 0 0 0 0 0 0 0 200 E
+8 2 68 1d8+150 1d3+4
+150 941
+8 8 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 25
+Luck: 12
+Race: 14
+E
+#109
+split personality eve~
+Eve~
+A young woman stands here, fuming and screaming angrily.
+~
+Eve is one of the ten split personalities who are under study here at
+the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 -250 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 9
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 13
+Luck: 12
+Race: 14
+E
+#110
+split personality sybil~
+Sybil~
+A young woman cowers in the corner, shivering in extreme fright.
+~
+Sybil is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 -200 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 10
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Race: 14
+E
+#111
+split personality jane~
+Jane~
+A young woman bounces by with a huge, bubbly smile on her face.
+~
+Jane is one of the ten split personalities who are under study here at
+the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 -150 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 11
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 14
+Luck: 12
+Race: 14
+E
+#112
+split personality anna~
+Anna~
+A young woman turns away, sobbing hysterically.
+~
+Anna is one of the ten split personalities who are under study here at
+the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 -100 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 13
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 19
+Luck: 12
+Race: 14
+E
+#113
+split personality kathy~
+Kathy~
+A young woman nervously dashes by with a panicked look on her face.
+~
+Kathy is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 -50 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 8
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 24
+Luck: 12
+Race: 14
+E
+#114
+split personality renee~
+Renee~
+A hyper young woman jumps about the room, brimming with unspent energy.
+~
+Renee is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 50 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 5
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Race: 14
+E
+#115
+split personality marisa~
+Marisa~
+A young woman strolls by, sporting a mean and cruel look on her face.
+~
+Marisa is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 100 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 25
+Luck: 12
+Race: 14
+E
+#116
+split personality dorothy~
+Dorothy~
+A young woman stands here, giggling, trying not to break out in laughter.
+~
+Dorothy is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 150 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 12
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 25
+Luck: 12
+Race: 14
+E
+#117
+split personality gabrielle~
+Gabrielle~
+A young woman unceasingly runs madly about the room.
+~
+Gabrielle is one of the ten split personalities who are under study
+here at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 200 E
+6 1 76 1d6+70 1d2+3
+100 451
+8 8 2
+BareHandAttack: 7
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 21
+Luck: 12
+Race: 14
+E
+#118
+split personality nancy~
+Nancy~
+A young woman blissfully sleeps on the floor here.
+~
+Nancy is one of the ten split personalities who are under study here
+at the asylum.  Like all the others, she is slender and has brown
+hair/eyes.  No one is certain which one of the young women here is the
+original personality.    
+~
+8 0 0 0 0 0 0 0 250 E
+6 1 76 1d6+70 1d2+3
+100 451
+4 4 2
+BareHandAttack: 16
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 23
+Luck: 12
+Race: 14
+E
+#119
+Spike~
+Spike, the Gremlin~
+A tiny gremlin, sporting a /cWwhite/c0 mohawk, chitters excitedly here.
+~
+Small and devious, Spike is one of the last few of the infamous
+gremlins that overran Dibrova long ago.  Scaly and lithe, he is a
+tough critter when provoked.  He chitters and scurries about excitedly
+in the hope that someday someone will bring him water.    
+~
+10 0 0 0 0 0 0 0 -100 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 8
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Race: 31
+E
+#120
+joker~
+Joker~
+A tall man dressed in a purple suit stands here, laughing insanely.
+~
+A notorius villian, the Joker was finally captured by the citizens of
+Dibrova and sentenced for life in the asylum.  His wicked smile grows
+even larger as diabolical, dangerous pranks formulate in his mind.  
+Despite the treatments here, he remains as insane as he always has
+been.    
+~
+10 0 0 0 0 0 0 0 -150 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 13
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 19
+Luck: 12
+Race: 14
+E
+#121
+lex luther~
+Lex Luther~
+A richly-attired man, stands up with a smirk on his face.
+~
+Lex Luther was captured after the fiasco at Jareth.  A man with many
+underground connections, he was sentenced to the asylum in hopes that
+the harsh life here would break him and cause him to spill information
+about his other insidious cohorts.  So far, no luck.    
+~
+10 0 0 0 0 0 0 0 0 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Race: 14
+E
+#122
+dr frankenstein~
+Dr. Frankenstein~
+A slightly eccentric man bumbles about, muttering about fresh body parts.
+~
+Dr.  Frankenstein was once held in high esteem by his peers here, but
+he lost all that when he couldnt reduplicate the amazing feat that
+brought about Frankenstein.  The frustration and failures have broken
+the doctor's mind.  He remains here, recieving the best treatment from
+his fellowmen.    
+~
+10 0 0 0 0 0 0 0 0 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 12
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 14
+E
+#123
+phantom opera~
+the Phantom of the Opera~
+A man wearing a hauntingly, white mask stands here, singing an aria.
+~
+Singing forever about true lost loves, the Phantom is imprisioned here
+due to his somewhat self-destructive behavior.  To maintain his
+sanity, or whats left of it, he sings beautiful operas which touch the
+hearts of all those who hear him.    
+~
+10 0 0 0 0 0 0 0 -150 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 15
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Race: 14
+E
+#124
+toulan~
+Toulan, the Puppet Master~
+A kindly, old man sits here, carving a new pupet out of wood.
+~
+Toulan has been, against his will, held here for a few years now.  
+The insidious leaders of the Mob want to know his amazing secret at
+animating the inanimate.  He relaxes here, for he knows that soon his
+army of pupets will come and take him away from this dreadful place.
+~
+10 0 0 0 0 0 0 0 50 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 16
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 18
+Luck: 12
+Race: 14
+E
+#125
+khan~
+Khan, the space explorer~
+A man with a deep scar across his face paces about the room.
+~
+Khan wears nothing but a simple tan robe.  A mess of white hair and
+eyes that reflect insanity mark this man as a dangerous one.  He
+constantly mutters something about men with pointed ears and travel in
+space.    
+~
+10 0 0 0 0 0 0 0 -50 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 10
+Luck: 12
+Race: 14
+E
+#126
+ming~
+Ming~
+A being radiating an hostile aura of majesty grins secretly to himself.
+~
+Once a mightly ruler of entire galaxies, Ming was overthrown.  Many
+thought he was killed, but he had escaped to Dibrova.  After a
+miserable attempt to seize power here, he was subdued and place in the
+asylum.  Visions of power and might still delude this poor, sedated
+being.    
+~
+10 0 0 0 0 0 0 0 -250 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 24
+Luck: 12
+Race: 7
+E
+#127
+crystal meth~
+Crystal Meth~
+A crystaline being cackles madly and tries to kill itself.
+~
+Cackling madly, Crystal Meth was placed in here because of its deadly
+influence on the society of Dibrova.  It's touch can drive one insane
+and can even be fatal.  It grins evily, looking for more so-called
+innocent poeple to ensnare in its deadly web of addiction.    
+~
+16394 0 0 0 65536 4194304 0 0 -200 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Race: 7
+E
+#128
+penguin~
+Penguin~
+A short, fat man with an umbrella waddles about the cell.
+~
+The Penguin is manic-depressive, thus his erratic and often
+unpredictable behavior.  Currently, this mishapen man is in
+depression, lamenting about the parents he never had.    
+~
+10 0 0 0 0 0 0 0 -100 E
+9 2 64 1d9+175 1d3+4
+175 1270
+8 8 1
+BareHandAttack: 10
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 17
+Luck: 12
+Race: 14
+E
+#129
+wicked witch west~
+the Wicked Witch of the West~
+A green-skinned woman cackles as she recites a deadly mantra.
+~
+After terrorizing the little folks of Dibrova, the Wicked Witch of the
+West was captured and sent here for mental treatment.  Tall and
+sinister looking, she isn't what one would call a beauty.  Wrapping
+her dark robe about her, she twirls away and prepares to recite a
+second mantra.    
+~
+42 0 0 0 0 0 0 0 -250 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 2
+BareHandAttack: 15
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 8
+Luck: 12
+Race: 14
+E
+#130
+pinhead~
+Pinhead, the Hellraiser~
+A diabolical demon with driven pins adorning it's head stands here.
+~
+Pinhead is not a patient of the asylum.  The keepers of the asylum
+fear his powers, thus they allow him to roam freely here.  The demon
+is only here when someone calls out its name and begs for unimaginable
+torture which, in some unexplainable way, leads to ultimate freedom.
+~
+42 0 0 0 0 0 0 0 -400 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 0
+BareHandAttack: 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 10
+Luck: 12
+Race: 7
+E
+#131
+candyman~
+Candyman~
+A solemn-looking man, dressed in a black cape, stands here quietly.
+~
+Candyman has been here for ages, forever denied access to any mirrors.
+Tall and muscular, sporting a hook on a bloody stump in place of a
+hand, he is driven by revenge.  Attempts to rehabilitate him has only
+driven his lust for revenge to greater depths, thus he remains here in
+solitude.    
+~
+42 0 0 0 0 0 0 0 -200 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 12
+Luck: 12
+Race: 14
+E
+#132
+hannibal lector~
+Hannibal Lector~
+A calm man stands here, nibbling on what seems to be a piece of flesh.
+~
+One of the greatest serial killers in the history of the realms,
+Hannibal does not seem to be that dangerous.  Soft spoken, polite, and
+showing hints of hidden genius, he seems like a nice, college
+professor.    
+~
+42 0 0 0 0 0 0 0 -300 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 21
+Luck: 12
+Race: 14
+E
+#133
+henry eighth~
+Henry the Eighth~
+A roly-poly man paces the room, swearing about women and marriage.
+~
+Henry the Eighth was placed in here after people noticed his slight
+tendency to behead women around him.  Therapy and medication have been
+working, up till he was released and another woman's head went rolling
+on the floor.  Arrested and sent back here, he awaits rehabilitation.
+~
+42 0 0 0 0 0 0 0 -350 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+BareHandAttack: 14
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Race: 14
+E
+#134
+jabba hut~
+Jabba the Hut~
+A huge, slug-like bulk arises and clambers towards the back of the room.
+~
+One of the secret cohorts of Lex Luther and Khan, Jabba let himself be
+sent here to the asylum.  Here, he spends time in making new
+connections and deals strengthening the power of the Underground.  
+Large eyes stare blankly ahead as he fiegns some kind of disorder
+which keeps him here.    
+~
+42 0 0 0 0 0 0 0 -250 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+BareHandAttack: 6
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 15
+Luck: 12
+Race: 7
+E
+#135
+jack profiler~
+Jack, from Profiler~
+A sinister-looking man lurks in the shadows of the cell.
+~
+Jack is a mystery to everone around him.  Only he knows what goes on
+in his demented mind.  One thing is for certain, he rivals Pinhead and
+Hannibal Lecter in serial killings of the unique kind.  Walking
+quietly about the cell, he measures out the next potential victim.  
+~
+42 0 0 0 0 0 0 0 -450 E
+10 3 60 1d10+200 1d4+5
+200 1662
+8 8 1
+BareHandAttack: 5
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 14
+E
+#160
+deer~
+a Deer~
+A deer stands here, munching on some brown grass.
+~
+Wide-eyed, it stands here passively.
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+0 1d1+1
+15 27
+8 8 0
+Str: 14
+Dex: 21
+Int: 22
+Wis: 17
+Con: 15
+Cha: 16
+Luck: 7
+Race: 1
+E
+#161
+Ogdlen dwarf~
+Ogdlen the Dwarf~
+Ogdlen the Dwarf stands here.
+~
+Ogdlen is an older Dwarf with the beer belly to prove it.    
+
+Ogdlen Says, 'Hi, I seem to be lost. Will you help me out of here?'
+
+Type OKAY to agree.
+~
+16394 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+0 1d1+1
+15 27
+6 8 1
+Str: 16
+Dex: 8
+Int: 8
+Wis: 17
+Con: 22
+Cha: 19
+Luck: 6
+Class: 2
+Race: 13
+E
+#162
+goblin pissed~
+a pissed-off Goblin~
+A pissed-off goblin paces about here.
+~
+He looks ready to kick some butt.    
+~
+21002 0 0 0 2048 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+80 283
+8 8 1
+Str: 18
+Dex: 8
+Int: 7
+Wis: 6
+Cha: 8
+Luck: 23
+Race: 31
+E
+#163
+giant~
+a Giant~
+A giant looms over you.
+~
+This ugly, knotty-limbed humanoid stands at around twenty feet tall, and
+is the hue of freshly turned earth. A foul smell, a combination of the
+oily hides and the blood of victims that cover their hides, issues from
+the creature. A dim malevolent intelligence flickers in its dead brown
+eyes, while a cruel grin twists its toothy maw.
+~
+540714 0 0 0 0 0 0 0 0 E
+9 2 64 1d1+0 1d2+6
+0 1270
+8 8 0
+BareHandAttack: 6
+Str: 25
+Dex: 5
+Int: 14
+Cha: 10
+Luck: 9
+Race: 10
+E
+#164
+Ogdlen dwarf~
+Ogdlen the Dwarf~
+Ogdlen the Dwarf stands here.
+~
+Ogdlen is an older Dwarf with the beer belly to prove it.    
+~
+16394 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+0 1d1+1
+15 27
+8 8 1
+Str: 25
+Dex: 6
+Int: 18
+Wis: 21
+Con: 19
+Cha: 6
+Luck: 8
+Class: 2
+Race: 13
+E
+#165
+Ogdlen dwarf~
+Ogdlen the Dwarf~
+Ogdlen the Dwarf stands here.
+~
+Ogdlen is an older Dwarf with the beer belly to prove it.    
+
+Ogdlen says, 'Wow! You did it.'
+
+Type OKAY for a reward.
+~
+16394 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+2
+80 283
+8 8 1
+Str: 13
+Dex: 9
+Int: 13
+Wis: 18
+Con: 22
+Cha: 6
+Luck: 21
+Class: 2
+Race: 13
+E
+#166
+red robed mage~
+a red-robed Mage~
+A red robed mage stands here.
+~
+Red robes usually denote and evil mage.    
+~
+4618 0 0 0 2048 0 0 0 0 E
+6 1 76 1d1+0 1d2+4
+100 451
+8 8 1
+Str: 10
+Dex: 17
+Int: 5
+Wis: 10
+Con: 17
+Cha: 25
+Luck: 23
+Class: 1
+Race: 14
+E
+#167
+white robed mage~
+a white-robed Mage~
+A white robed mage stands here.
+~
+A white robe usually denotes a good mage.    
+~
+4362 0 0 0 2048 0 0 0 0 E
+8 2 68 1d1+0 1d2+5
+150 941
+8 8 1
+Str: 7
+Int: 24
+Wis: 23
+Con: 10
+Cha: 5
+Luck: 9
+Class: 1
+Race: 14
+E
+#168
+cleric~
+a mean-looking Cleric~
+A mean-looking cleric strides forth!
+~
+Hey, she's swimming around in a giant's intestine, she has a right to
+be unhappy.    
+~
+4138 0 0 0 2048 0 0 0 0 E
+6 1 76 1d1+0 1d2+4
+100 451
+8 8 2
+Str: 12
+Dex: 12
+Int: 12
+Wis: 10
+Con: 13
+Cha: 24
+Luck: 23
+Race: 14
+E
+#169
+goblin mean~
+a mean-looking Goblin~
+A mean-looking goblin prowls about here.
+~
+This giant must find goblins tasty, there sure is enough of them.    
+~
+9 0 0 0 0 0 0 0 0 E
+4 0 84 1d1+0 1d2+2
+70 160
+8 8 1
+Str: 21
+Dex: 15
+Int: 19
+Wis: 21
+Con: 15
+Cha: 12
+Luck: 18
+Race: 31
+E
+#170
+spiney bug~
+a Spiney Bug~
+A spiney bug looks for someone to kill.
+~
+It's a big black bug with a rock hard shell covered with long spines.
+~
+104 0 0 0 2048 0 0 0 0 E
+4 0 84 1d1+0 1d2+2
+70 160
+8 8 0
+Str: 23
+Dex: 14
+Int: 20
+Wis: 23
+Con: 17
+Cha: 19
+Luck: 17
+Race: 5
+E
+$

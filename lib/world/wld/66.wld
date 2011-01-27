@@ -1,0 +1,1895 @@
+#6600
+The sunken Temple Courtyard~
+The pale light from the open sky pours always into this unsheltered
+courtyard, together with the amber glow of standing torches.  Many
+citizens of the town of Sundhaven find it their pleasure to lounge
+here.  The dark marble temple rises like a shadow to the north, the
+vivid colors of roses eastwards, and the library lies to the west.  
+There is a stone arch to the south.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6601 0
+D1
+~
+~
+0 -1 6606 0
+D2
+~
+~
+0 -1 6607 0
+D3
+~
+~
+0 -1 6605 0
+S
+#6601
+The Temple of Mercy~
+A myriad of candles, burning brightly in amber hues, illuminate the
+black-domed temple.  This is where all adventurers of human ilk must
+begin their trials of danger and discovery.  You stand in a cast of
+rosy-gold light, stretching along the floor from a stained glass
+window that serves as your first sight of the known world.  The
+unknown world awaits you with open...  Jaws.  There is an inscription
+in the north wall.    
+~
+66 24 0 0 0 0
+D0
+~
+~
+0 -1 6604 0
+D1
+~
+~
+0 -1 6602 0
+D2
+~
+~
+0 -1 6600 0
+D3
+~
+~
+0 -1 6603 0
+E
+inscription~
+The inscription reads:
+I met a traveller from an antique land,
+Who said - "Two vast and trunkless legs of stone
+Stand in the desert... Near them, on the sand,
+Half sunk a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them, and the heart that fed.
+And on the pedestal, these words appear:
+I am the Fallen King, Kings of Kings,
+Look on my Works, ye Mighty, and despair!
+Nothing beside remains. Round the decay
+Of that colossal wreck, boundless and bare,
+The lone and level sands stretch far away."
+~
+S
+#6602
+The Alms Room~
+Murals of black and gold adorn the walls in swirling patterns, within
+which are outlined several dark silhouettes.  Under some scrutiny you
+can trace a basilisk, a chimera, and a dragon circling a deity, a
+dusty red cloak about her neck.  Homage and sacrifice to this human
+deity are paid here by the other citizens of the realm.    
+~
+66 28 0 0 0 0
+D3
+~
+~
+0 -1 6601 0
+S
+#6603
+At the Altar~
+You stand in a quiet room garbed on all sides by black drapery, save
+for the south wall, on which is painted a stellar calendar with
+symbols difficult to interpret.  Reverance to the elusive human deity
+is paid here.    
+~
+66 24 0 0 0 0
+D1
+~
+~
+0 -1 6601 0
+D5
+~
+~
+0 -1 6661 0
+E
+calendar~
+The circular diagram shows symbols for what appear to be the
+days of the week and the month, and how they correspond to the
+slow treks of the stars, and perhaps, some inner meanings known
+only to the local priesthood.
+~
+S
+#6604
+A narrow Terrace north of the Temple~
+You stand on a thin stone terrace before the temple.  Southwards the
+dome of the temple rises among the town smoke, and a set of steps to
+the north leads up to the northern square before the cliffs edge.  
+Black willows grow in small clusters to the east and west.    
+~
+66 0 0 0 0 1
+D2
+~
+~
+0 -1 6601 0
+D4
+~
+~
+0 -1 6608 0
+S
+#6605
+The Town Library~
+Silence reigns here.  On two walls are painted the black and gold arcs
+of mural designs; bands twisted into knotlike patterns and borders.  
+Travellers and citizens may post information on the board hung here.
+~
+66 44 0 0 0 0
+D1
+~
+~
+0 -1 6600 0
+D3
+~
+~
+0 0 6385 16
+S
+#6606
+The Temple Garden~
+An impressionistic splash of red, black and gold meets the eye,
+accompanied by the intoxicating fragrance of roses growing nearly wild
+in this garden.    
+~
+66 0 0 0 0 2
+D3
+~
+~
+0 -1 6600 0
+S
+#6607
+A Stone Arch~
+An imposing arch of the grey-white stone of the cliffs arcs over your
+head, half grown over with dark green ivy.  Before you to the south
+are the stone steps leading up to the town gallows, and northwards
+lies the courtyard of the temple.    
+~
+66 0 0 0 0 0
+D0
+~
+~
+0 -1 6600 0
+D4
+~
+~
+0 -1 6619 0
+S
+#6608
+Sundhaven Sqaure~
+The traffic of foreigners and local citizens is heavy here; the ground
+is trodden down and the scents of animals, smoke and exotic perfumes
+hangs in the air.  The cliffs and the northern gate of the town lie
+north of here, the lane paralleling the cliffs runs east and west, and
+the entrance to the temple is southwards.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6609 0
+D1
+~
+~
+0 -1 6635 0
+D3
+~
+~
+0 -1 6610 0
+D5
+~
+~
+0 -1 6604 0
+S
+#6609
+The Gates at the Cliff~
+The wind picks up and blows sharply at your hair and garb as the town
+falls behind and the world opens out before you.  You are standing
+atop a highland cliff, lined with mosses, lichen and purple heather,
+and looking out over a foggy wetland.  The graveyard for the dead of
+Sundhaven lies near the foot of the cliffs, and in the far distance
+you can make out the blue line of the sea closing the horizon.    
+~
+66 0 0 0 0 1
+D0
+~
+gate
+~
+1 6679 6658 1
+D2
+~
+~
+0 -1 6608 0
+S
+#6610
+A Lane bordering the Cliffs~
+The wind from the northern sea finds its way over the rooftops of
+shops and fills the heavily trafficked lane with a salty scent.  The
+path is lined with a few oaks, and shops lie to the north and south.
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6611 0
+D1
+~
+~
+0 -1 6608 0
+D2
+~
+~
+0 -1 6612 0
+D3
+~
+~
+0 -1 6613 0
+S
+#6611
+The Alchemy Shop~
+Vials and bottles of all shapes and sizes line the cluttered shelves
+of this small shop.  On a window in the north wall sits a bizarre
+golden squid-like creature in a jar, glinting in the sun.  You wonder
+what oddities could be found in storage.    
+~
+66 156 0 0 0 0
+D2
+~
+~
+0 -1 6610 0
+S
+#6612
+The House of Sorcery~
+You stand in a small, well-lit shop of cobblestone and mortar,
+entirely cluttered with scrolls, glowing wands, odd regents and
+components.  The place has an unmistakable scent of sulfur that makes
+you wonder, but the sorceress seems knowledgeable.    
+~
+66 156 0 0 0 0
+D0
+~
+~
+0 -1 6610 0
+S
+#6613
+A Lane bordering the Cliffs~
+You have come to a crossroads of sorts.  A park lies to the north,
+from which a pleasant scent is drifting, and the road continues,
+narrowing, to the west towards the homes of the residents.  Eastwards
+lies shops and the northern gate; a shaded lane travels to the south.
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6614 0
+D1
+~
+~
+0 -1 6610 0
+D2
+~
+~
+0 -1 6636 0
+D3
+~
+~
+0 -1 6664 0
+S
+#6614
+Wisteria Park~
+The town wall to the north and stone building to the east are climbing
+with purple-flowering wisteria vine, forming in leafy clumps at the
+bottoms.  The park is a quiet, relaxing place, with the exception of
+the occasional explosion coming from a pale tower rising to the
+northwest, accompanied by a brilliant flash of light.    
+~
+66 1 0 0 0 2
+D2
+~
+~
+0 -1 6613 0
+D3
+~
+~
+0 -1 6615 0
+S
+#6615
+Wisteria Park~
+The dark greenery of the park extends eastwards, grown over with
+purple- flowering wisteria vine which slowly ambles up the town walls.
+To the south, the cliff lane runs east-west.  An occasional explosion
+from a pale stone tower to the north startles you, and piques your
+curiousity about that strange place.    
+~
+66 1 0 0 0 2
+D0
+~
+~
+0 -1 6616 0
+D1
+~
+~
+0 -1 6614 0
+D2
+~
+~
+0 -1 6664 0
+S
+#6616
+The Tower of Sorcery~
+Gently curving sigils have been worked into the ancient, weathered
+stone of the tower of the local wizards, winding towards the ceiling
+in a sloping spiral.  A stairwell has its foot at the north wall,
+rickety but presumably stable enough to support you.  A dim violet
+faerie glow illuminates the room.    
+~
+66 12 0 0 0 0
+D2
+~
+~
+0 -1 6615 0
+D4
+~
+~
+0 -1 6617 0
+S
+#6617
+A dark Spiral Staircase~
+The immobile stone faces of gargoyles regard you with cold stares from
+the walls of the darkened stairwell.  At each turn in the spiral steps
+a more mangled face than the last confronts you, drawing closer to the
+laboratory above.  What is the sculptor implying about the study of
+magic?    
+~
+66 13 0 0 0 0
+D4
+~
+~
+0 -1 6618 0
+D5
+~
+~
+0 -1 6616 0
+S
+#6618
+The Mage's Library~
+**BOOM!  ** When your vision returns to normal, you find yourself
+surrounded by narrow black lab tables cluttered with a chaotic mess of
+bubbling vials, shattered beakers, and miscellaneous spell components.
+The latest experiment in familiars, a leathery-skinned fork-tailed
+creature, hops knavishly from shoulder to shoulder among the mages at
+work here.  If you need practice in the magic arts, this would be a
+good place to start.    
+~
+66 28 0 0 0 0
+D0
+~
+~
+0 -1 6660 0
+D2
+~
+~
+0 -1 6355 0
+D5
+~
+~
+0 -1 6617 0
+S
+#6619
+At the Gallows~
+In the shade of old gnarl-limbed elder trees stands the bane of all
+thieves and murderers, the platform of the gallows.  The dark sand of
+the road shows none of the blood that has been shed here, but the
+legends of the dead live on in tales and nightmares.  The executions
+still take place at irregular intervals, to the joy of hidden enemies
+and law-abiding citizens.  You note there is plenty of room for
+spectators.  Besides the east-west road, a stone arch stands to the
+north, and a well-travelled path leads southwards.    
+~
+66 0 0 0 0 1
+D1
+~
+~
+0 -1 6628 0
+D2
+~
+~
+0 -1 6622 0
+D3
+~
+~
+0 -1 6641 0
+D5
+~
+~
+0 -1 6607 0
+S
+#6620
+On a weathered Stone Terrace~
+This seems to be a plaza of sorts, but is so worn and cracked with age
+the stone is barely holding together.  Moss and weeds have all but
+overgrown the rock-strewn surface.  Balmy, roguish scents are drifting
+out of a dark, ivy-clothed building to the east.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6622 0
+D1
+~
+~
+0 -1 6621 0
+D2
+~
+~
+0 -1 6623 0
+S
+#6621
+Nightbreak Cafe~
+You have entered the infamous Nightbreak Cafe, home by night to those
+who secret themselves away in hideouts by day.  The place is
+well-known to be run by the local assassins guild, and it is common to
+witness conversations here spoken in whispers as deals are cut and
+bounties arranged.  The rules of conduct are etched on the back wall.
+~
+66 67108888 0 0 0 0
+D3
+~
+~
+0 -1 6620 0
+D5
+~
+trapdoor
+~
+1 6681 6345 7
+E
+rules conduct~
+These rules are scrawled by daggerpoint on the wall..
+ 1) Don't offer too little.
+ 2) Don't point.
+ 3) No stealing the tips.
+ 4) No honor among thieves.
+
+The list is, of course, left anonymous.
+~
+S
+#6622
+The Southern Path~
+A well-trodden dirt path heads southwards, bordered by dense clumps of
+black-tipped grass.  By night the moths gather by a fatal instinct
+round the glow of torches lining the way, beating their wings heavily.
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6619 0
+D2
+~
+~
+0 -1 6620 0
+S
+#6623
+The Southern Path~
+The green grass and firm soil of the path begin to give way to mud
+strewn with traces of human filth as you pass into the poorer section
+of Sundhaven.  The shanties and town dump add a mild stench to the
+air, and attest to the virtual burglaries of the poor by the rich...
+And often by the poor.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6620 0
+D1
+~
+~
+0 -1 6624 0
+D2
+~
+~
+0 -1 6627 0
+D3
+~
+~
+0 -1 6625 0
+S
+#6624
+A withered Shanty~
+The splintered plankings that make the walls of this room are sodden
+with rain and leaking water, light and a chilling wind in to its
+inhabitants, who look sick from poverty.  A rat scurries nonchalantly
+by your toes, then pauses to debate their merits as food.  The mud
+floor is littered with debris.    
+~
+66 12 0 0 0 0
+D3
+~
+~
+0 -1 6623 0
+S
+#6625
+The Town Dump~
+The foul stench of rotting food and other miscellaneous goods creates
+an almost visible brown haze among the heaps of trash, clouding your
+senses.  Those who call it home certainly smell as decayed as it does.
+~
+66 0 0 0 0 1
+D1
+~
+~
+0 -1 6623 0
+D2
+~
+~
+0 -1 6626 0
+D5
+~
+rubble
+~
+2 23 6336 11
+S
+#6626
+The Town Dump~
+You wander amid heaps of trash that smell of disease, famine, and
+other pleasantries...  Suffice it to say that very little that should
+be alive here is, and vice-versa.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6625 0
+D1
+~
+~
+0 -1 6627 0
+S
+#6627
+The Southern Path~
+The soft mud of the path loosens and parts as it meets your heels,
+pulling you in slightly with each step.  A rotten stench is filtering
+in from the west, repelling you in another direction automatically
+such that it takes a great conscious effort for you to turn that way.
+The path heads north into the town's mainstream, and south closer to
+the wildlands beyond it.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6623 0
+D2
+~
+~
+0 -1 6333 0
+D3
+~
+~
+0 -1 6626 0
+S
+#6628
+The Black Sand Road~
+The black sand of the road absorbs heat and feels pleasant to those
+without coverings on their feet, attracting all sorts of loafers and
+siteseers who come on days off to relax and watch the festivities at
+the gallows.  A bloody trail leads into a building to the south.    
+~
+66 0 0 0 0 10
+D1
+~
+~
+0 -1 6630 0
+D2
+~
+~
+0 -1 6642 0
+D3
+~
+~
+0 -1 6619 0
+E
+trail bloody~
+Sand has been shuffled over most of it, but it is obviously from a
+recent kill. The sign on the building reads 'The House of the Butcher
+and Friends'. It appears the fellow has a quirky sense of humor.
+~
+S
+#6629
+A slight wrinkle in the fabric of space~
+You are in an empty room, too bad nobody edited it yet!    
+~
+66 0 0 0 0 0
+D1
+~
+~
+0 -1 6630 0
+D3
+~
+~
+0 -1 6628 0
+S
+#6630
+A sandy bend before the East Gate~
+The wide road comes to a crossroads close to the eastern gate, which
+appears to be forged from some heavy metal and painted white.  The
+ground is a mix of shuffled black and gold sand where the two roads
+meet.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6631 0
+D1
+~
+~
+0 -1 6644 0
+D3
+~
+~
+0 -1 6628 0
+S
+#6631
+The Gold Sand Road~
+A thick stone and mortar building with small windows stands to the
+east, but no entrance can be seen from here, and the black stone of
+the weapons shop is westwards.  The road is treeless and wide, the air
+laiden with smoke and the shouts of bartering.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6632 0
+D2
+~
+~
+0 -1 6630 0
+D3
+~
+~
+0 -1 6646 0
+S
+#6632
+The Gold Sand Road~
+The sand road continues north and south, crowded with citizens going
+about their business.  The armoury stands to the west, emitting heat
+from the fires of the forge.  Occasional drunken shouts and laughter
+can be heard from a smoking lodge to the east.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6633 0
+D1
+~
+~
+0 -1 6648 0
+D2
+~
+~
+0 -1 6631 0
+D3
+~
+~
+0 -1 6647 0
+S
+#6633
+The Gold Sand Road~
+Sand of pale gold has been carted in from the desert lands to cover
+this road, reducing the sinking effect of mud during the rains.  The
+air here is heavy with the smell of delicious food, fresh bread
+baking, and something spicier, to the east.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6634 0
+D1
+~
+~
+0 -1 6650 0
+D2
+~
+~
+0 -1 6632 0
+D3
+~
+~
+0 -1 6653 0
+S
+#6634
+A Bend in the Road~
+You have come to a narrow bend, and can feel the faint heat of a fire
+from a small, blackened stone structure to the north.  Patches of gold
+sand are scattered about.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6654 0
+D1
+~
+~
+0 -1 6382 0
+D2
+~
+~
+0 -1 6633 0
+D3
+~
+~
+0 -1 6635 0
+S
+#6635
+A Lane bordering the Cliffs~
+This narrow lane, sometimes dimmed with fog from the sea and forests,
+travels east and west paralleling the cliffs just around the shops to
+the north.  Faint bird cries are issuing from the building to the
+south.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6381 0
+D1
+~
+~
+0 -1 6634 0
+D2
+~
+~
+0 -1 6655 0
+D3
+~
+~
+0 -1 6608 0
+S
+#6636
+A shaded Lane~
+Loose leaves blow in tiny spirals along the surface of the wooded road
+as summer fades to autumn.  Between the trees to the west, something
+sparkles tauntingly from the dark doorway of a small shop.  Eastwards
+the dome of the temple can be seen rising.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6613 0
+D2
+~
+~
+0 -1 6638 0
+D3
+~
+~
+0 -1 6359 0
+S
+#6638
+A shaded Lane~
+You are outside the town treasury, just to the west of here, making
+this a place bustling with activity, including the occasional
+attentions of a pickpocket or two, for the lane is broad and the
+shadows of the trees leave plenty of hiding places.  However, the
+frequent presence of guards gives a feeling of security.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6636 0
+D2
+~
+~
+0 -1 6639 0
+D3
+~
+~
+0 -1 6358 0
+S
+#6639
+A shaded Lane~
+The bent limbs of ash and oak trees lining the lane casts a pattern of
+dappled light on the ground, which shifts languidly back and forth in
+the breeze.  To the west stands the old post office, and the lane
+continues north and south.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6638 0
+D2
+~
+~
+0 -1 6640 0
+D3
+~
+~
+0 -1 6657 0
+S
+#6640
+A cluster of Trees before the West Gate~
+You stand at a busy crossroads, darkened by the shade of an uneven
+ring of oaks trellised with ivy.  The wind brushes the leaves, but
+this sound is dulled by the din of the town going about its daily
+business.  The ornate west gate lies just to the west, a road paved
+with black sand runs east and north is a lane shaded by oak and ash
+trees.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6639 0
+D1
+~
+~
+0 -1 6641 0
+D3
+~
+~
+0 -1 6645 0
+S
+#6641
+The Black Sand Road~
+Black sand has been hauled up the steep cliffs from the beaches to
+reduce the unpleasant affects of copious mud during the frequent rains
+and heavy fogs of the region.  The road is so heavily travelled it has
+almost been packed down into a hard surface.    
+~
+66 0 0 0 0 10
+D1
+~
+~
+0 -1 6619 0
+D2
+~
+~
+0 -1 6643 0
+D3
+~
+~
+0 -1 6640 0
+S
+#6642
+The Butcher Shop~
+You are enclosed in a poorly lit, stuffy room that smells of blood,
+salted meat and strange preservatives you didn't think existed in this
+time period.  Pewter cases filled with ice give off wisps of steam
+near a roasting fire at the east wall.  You might wonder why this
+place is situated so proximate to the gallows, but the butcher
+nonchalantly claims all his goods died peaceably, then turns away to
+stifle a chuckle.    
+~
+66 156 0 0 0 0
+D0
+~
+~
+0 -1 6628 0
+S
+#6643
+The Stables~
+No whinnies issue from the darkened stalls of this place; the horses
+are as yet untamed and the stables lie empty.  It is not unusual for a
+vagrant to make his home here, however, before being moved on by the
+guards or attacked by the barn owls.    
+~
+66 9 0 0 0 0
+D0
+~
+~
+0 -1 6641 0
+S
+#6644
+The East Gate of Sundhaven~
+You stand on the eastern border of Sundhaven, before a heavy gate
+forged from iron and painted bone-white.  A hot desert wind blows
+through the grating sporadically, giving hint to the vast regions
+beyond.    
+~
+66 0 0 0 0 1
+D1
+~
+gate
+~
+1 6679 6360 3
+D3
+~
+~
+0 -1 6630 0
+S
+#6645
+The West Gate of Sundhaven~
+An ornate gate, heavy and wrought from black iron, hangs on ancient
+hinges to the west, bordered by slender elms.  The ivy so plentiful in
+the town is twined and braided about its intricate coils and carvings,
+which consist largely of prowling cats and eclipsed circle designs.  
+~
+66 0 0 0 0 1
+D1
+~
+~
+0 -1 6640 0
+D3
+~
+gate
+~
+1 6679 6321 3
+S
+#6646
+The Dirk & Dagger~
+A circular stone is whirring in a fast spin at the far wall, as the
+weaponsmaster of Sundhaven continually sharpens his wares, and
+re-hangs them to display on the stone and mortar walls.  A single
+window admits virtually no light, so filled with the webs and dust of
+neglect is it..  Obviously the shopowner prefers to seclude himself to
+the obsessive labors of his work.  You wonder if he ever makes
+anything new, so fanatical he is about sharpening and re-sharpening
+the old.    
+~
+66 156 0 0 0 0
+D1
+~
+~
+0 -1 6631 0
+S
+#6647
+The Silver Scale~
+You pass into a shop whose walls are gleaming dully, hung with various
+armor reflecting the firelight spawning from the forge.  Goods of
+defensive metal may be bought and sold here, at nearly reasonable
+prices.  Use 'list' to peruse the options.    
+~
+66 156 0 0 0 0
+D1
+~
+~
+0 -1 6632 0
+S
+#6648
+Dragon's Wrath Alehouse~
+You have entered a rowdy tavern, noticeably different from the
+intellectual bounty hunting atmosphere of the Nightbreak Cafe.  Your
+feet are hard put to find a purchase on the slippery floor of spilled
+ale and cracked, sodden wood.  This is the meeting place of those of a
+fighting bent, accordingly the blood from last night's brawls has
+barely dried on the walls before tonight's is shed, be wary.    
+~
+66 67108888 0 0 0 0
+D2
+~
+~
+0 -1 6649 0
+D3
+~
+~
+0 -1 6632 0
+D5
+~
+~
+0 -1 6357 0
+S
+#6649
+Along the Bar Counter~
+You have entered a loud and boisterous corner in the alehouse, where
+adventurers tell their tales of fact and fable...  Perhaps there are
+things to be learned here of the lands beyond the thin walls of the
+city.    
+~
+66 8 0 0 0 0
+D0
+~
+~
+0 -1 6648 0
+D1
+~
+~
+0 -1 6349 0
+S
+#6650
+Mekala's Thai Kitchen~
+A large room crowded with ornamental porcelain elephants, incense
+dishes and silkscreen dividers encloses you, the blur of spicy scents
+from the kitchen bringing a flush of red to your face.  A steep,
+narrow stairwell rises up the east wall.    
+~
+66 156 0 0 0 0
+D3
+~
+~
+0 -1 6633 0
+D4
+~
+~
+0 -1 6651 0
+S
+#6651
+The Rooftop at Mekala's~
+The open, moist air gives some relief from the heat below.  Wild birds
+circle about above your head, curious about the food but too shy to
+descend.  A few tables stand adorned with simple white tablecloths and
+red candles.    
+~
+66 0 0 0 0 1
+D5
+~
+~
+0 -1 6650 0
+S
+#6652
+The Sparring Hall~
+Shields and other items of heraldry line the sunken stone walls of the
+sparring room, gleaming with human pride.  While not being overly
+promiscuous, the heads of foes are noticeably stacked one atop the
+other on a pole of polished wood in the corner.  If you are looking to
+improve your skills in the art of battle, this might be a good place
+to start.    
+~
+66 24 0 0 0 0
+D1
+~
+~
+0 -1 6357 0
+D3
+~
+~
+0 -1 6350 0
+S
+#6653
+The Bread Basket~
+You pass into an unusually humble dwelling and shop for the town,
+built from baked clay and hot from the cumbersome bread ovens
+projecting partially out of the far wall.  The smell of fresh bread is
+mouth-watering.    
+~
+66 156 0 0 0 0
+D1
+~
+~
+0 -1 6633 0
+S
+#6654
+The Blacksmith~
+The orange glow of the forge brightens an otherwise black, windowless
+room.  This is the blacksmith's home and workplace; a humble cot rests
+very close to the fire.    
+~
+66 152 0 0 0 0
+D2
+~
+~
+0 -1 6634 0
+S
+#6655
+The Aviary~
+Shrill and murmuring bird calls alike assail your ears.  The aviary is
+crowded with bird cages holding the trained variety of species for
+sale, and something like aspirin is available on a small,
+high-standing round table by the door.    
+~
+66 156 0 0 0 0
+D0
+~
+~
+0 -1 6635 0
+S
+#6656
+The Bird Cages~
+The birds like their privacy, get the hell out!    
+~
+66 520 0 0 0 0
+S
+#6657
+The Post Office~
+You narrowly avoid the guillotine-style slash of a rusted axe as you
+pass through the doorway of the town post office.  It seems some sort
+of riot is underway in here - what would be a strike if this wasn't
+before unions - among the numerous disgruntled postal workers
+conglomerated.  Shining silver letter- openers flash in the light as
+they heedlessly try to backstab anyone in sight.  It's a droll scene.
+You decide it prudent to mail your wares and be on your way.  There is
+a sign posted on the north wall.    
+~
+66 12 0 0 0 0
+D1
+~
+~
+0 -1 6639 0
+E
+sign~
+A few instructions have been meticulously printed in small letters.
+send (item) (playername) will function to mail something to 
+someone.
+receive will allow you to collect your mail.
+Thank you and have a nice day.
+~
+S
+#6658
+Standing at the Brink~
+A sea of light, floating fog opens up before you, swallowing most of
+the cliff and the lands beyond in its pale jaws.  Far beyond the
+whiteness opens out to reveal a welcome azure that is the mantle of
+the sea.    
+~
+66 0 0 0 0 2
+D2
+~
+gate
+~
+1 6679 6609 1
+S
+#6659
+A narrow Path down the Cliff~
+You are in an empty room, too bad nobody edited it yet!    
+~
+66 0 0 0 0 0
+D4
+~
+~
+0 -1 6658 0
+S
+#6660
+The Balcony of the Tower~
+This high point on the northern edge of Sundhaven boasts quite a view.
+When fog is not seen rolling about the balcony's railing, one can see
+the graveyard near the foot of the cliff to the north, and beyond it,
+the pearl blue sea, clothing the far horizon.  The mages have made
+this a favored place for recreational studies.    
+~
+66 0 0 0 0 0
+D2
+~
+~
+0 -1 6618 0
+S
+#6661
+A silvery-lit Landing~
+Your steps echo in a hollow stairwell of naked stone.  The air hangs
+light and silent about you as a curtain of falling snow, though there
+is a chanting taking place, seemingly miles away, in the chamber to
+the west.  Lamps mounted on the walls give off a silver glow
+reminiscent of saints and martyrs, whether they died for the cause of
+good, or for evil.    
+~
+66 8 0 0 0 0
+D3
+~
+~
+0 -1 6662 0
+D4
+~
+~
+0 -1 6603 0
+D5
+~
+~
+0 -1 6370 0
+S
+#6662
+The Room of Doctrine~
+Artifacts and relics from a time before the known world are encased
+and illumined in airless, black glass cabinets, their twinkling golden
+and silver chasings catching your eye with mocking immortality.  Urns
+of demon ash line polished amberwood shelves, and a small, simple
+altar edged in ivory stands against the north wall.  This is the
+sanctum of the ministry.  Those of a pious bent would do well to begin
+studies here.    
+~
+66 28 0 0 0 0
+D1
+~
+~
+0 -1 6661 0
+D2
+~
+~
+0 -1 6353 0
+D5
+~
+~
+0 -1 6663 0
+S
+#6663
+The Chamber of Sacrifice~
+You have entered a somber chamber, somehow filled with darkness and
+still retaining shadows that seem to flicker in the recesses of the
+room.  It appears a sacrifice to the matron deity of Sundhaven is
+scheduled to take place.  You may watch, but be warned there are times
+set aside for the sacrifice of those who interfere.    
+~
+66 9 0 0 0 0
+D4
+~
+~
+0 -1 6662 0
+S
+#6664
+At a swinging Wooden Gate~
+You pass through a creaking gate of weathered wood, swinging idly in
+the wind.  To the west rise the bluffs and gardens of the homes of
+Sundhaven's varied people; citizens can also be seen passing eastwards
+into the town itself.    
+~
+66 0 0 0 0 1
+D0
+~
+~
+0 -1 6615 0
+D1
+~
+~
+0 -1 6613 0
+D3
+~
+gate
+~
+2 23 6665 11
+S
+#6665
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D1
+~
+gate
+~
+2 23 6664 11
+D3
+~
+~
+0 -1 6666 0
+S
+#6666
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6667 0
+D1
+~
+~
+0 -1 6665 0
+D2
+~
+~
+0 -1 6672 0
+D3
+~
+~
+0 -1 6673 0
+S
+#6667
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D2
+~
+~
+0 -1 6666 0
+D4
+~
+~
+0 -1 6668 0
+S
+#6668
+Atop a Bluff of purple Flowers~
+The wind blows your hair from your face as you stand atop a small
+bluff, beautiful in its blossom colors of lavender and mist-grey
+flowers.  The abodes of the residents of Sundhaven litter the
+surroundings, nestled among the rocks and clinging to the precarious
+cliff edge.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6674 0
+D3
+~
+~
+0 -1 6669 0
+D5
+~
+~
+0 -1 6667 0
+S
+#6669
+Atop a Bluff of purple Flowers~
+The wind blows your hair from your face as you stand atop a small
+bluff, beautiful in its blossom colors of lavender and mist-grey
+flowers.  The abodes of the residents of Sundhaven litter the
+surroundings, nestled among the rocks and clinging to the precarious
+cliff edge.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6675 0
+D1
+~
+~
+0 -1 6668 0
+D2
+~
+~
+0 -1 6676 0
+D3
+~
+~
+0 -1 6670 0
+S
+#6670
+Atop a Bluff of purple Flowers~
+The wind blows your hair from your face as you stand atop a small
+bluff, beautiful in its blossom colors of lavender and mist-grey
+flowers.  The abodes of the residents of Sundhaven litter the
+surroundings, nestled among the rocks and clinging to the precarious
+cliff edge.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6677 0
+D1
+~
+~
+0 -1 6669 0
+D5
+~
+~
+0 -1 6671 0
+S
+#6671
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D3
+~
+~
+0 -1 6678 0
+D4
+~
+~
+0 -1 6670 0
+S
+#6672
+A black stone Dwelling~
+You stand in a quiet, empty dwelling of sturdy black sandstone.  
+Occupied now by only a few spiders, it looks like it could be a
+comfortable place to live with a little work.  With enough gold,
+perhaps one of the higher gods might sell it to you?    
+~
+66 8 0 0 0 0
+D0
+~
+~
+0 -1 6666 0
+S
+#6673
+A red stone Dwelling~
+You stand in a quiet dwelling of mortar and rose-colored stone.  
+Occupied now by only a few spiders, it looks like it could be a
+comfortable place to live, with a little work.  And gold, of course.
+Perhaps it may be bought from one of the gods.    
+~
+66 8 0 0 0 0
+D1
+~
+~
+0 -1 6666 0
+S
+#6674
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D2
+~
+~
+0 -1 6668 0
+S
+#6675
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D2
+~
+~
+0 -1 6669 0
+S
+#6676
+A black stone Dwelling~
+You stand in a quiet, empty dwelling of sturdy black sandstone.  
+Occupied now by only a few spiders, it looks like it could be a
+comfortable place to live with a little work.  With enough gold,
+perhaps one of the higher gods might sell it to you?    
+~
+66 8 0 0 0 0
+D0
+~
+~
+0 -1 6669 0
+S
+#6677
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D2
+~
+~
+0 -1 6670 0
+S
+#6678
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6316 0
+D1
+~
+~
+0 -1 6671 0
+D2
+~
+~
+0 -1 6317 0
+D3
+~
+~
+0 -1 6679 0
+S
+#6679
+A windy cliffside lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D0
+~
+~
+0 -1 6680 0
+D1
+~
+~
+0 -1 6678 0
+D3
+~
+~
+0 -1 6315 0
+S
+#6680
+A windy cliffside Lane~
+A damp and chilly wind wafts over the homes of the clifftop moors.  
+About you bluffs rise, pale grey and dark sandstone, smooth from the
+sculpturing of winds, and dotted with purple heather and green mosses.
+A path strays through the clifftop hills.    
+~
+66 0 0 0 0 10
+D2
+~
+~
+0 -1 6679 0
+D3
+~
+~
+0 -1 6314 0
+D4
+~
+~
+0 -1 6681 0
+S
+#6681
+Climbing a high Bluff~
+Winds buffet this side of the cliff face, carving strange forms into
+the rocks, and impatiently eroding the soil.  There is some sort of
+cave home to the west.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6683 0
+D3
+~
+~
+0 -1 6682 0
+D5
+~
+~
+0 -1 6680 0
+S
+#6682
+A Home carved into the Rock~
+A cave-like dwelling, home to only a few spiders and hidden bats, is
+dark as pitch and smells of dank moss and the fecal remains of
+animals.  With some work, however, it might even make a decent abode.
+~
+66 8 0 0 0 0
+D1
+~
+~
+0 -1 6681 0
+S
+#6683
+A narrow Ledge~
+Rocks tumble over the eastern side of the cliff as you traverse the
+thread-thin trail.  Over the edge, you can see the rooftops of the
+town.  The mages tower rises prominently on a northern cliff parallel
+to yours.    
+~
+66 2097152 0 0 0 4
+D0
+~
+~
+0 -1 6684 0
+D2
+~
+~
+0 -1 6681 0
+D4
+~
+~
+0 -1 6685 0
+S
+#6684
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D2
+~
+~
+0 -1 6683 0
+S
+#6685
+Atop a windswept Bluff~
+These are treeless heights, anguished by constant wind and populated
+by haunting apparitions and occasional whistling banshee songs, making
+it a popular place to live among the recluses of the town.  Homes of
+varying sizes dot the hills.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6686 0
+D3
+~
+~
+0 -1 6687 0
+D5
+~
+~
+0 -1 6683 0
+S
+#6686
+Atop a windswept Bluff~
+These are treeless heights, anguished by constant wind and populated
+by haunting apparitions and occasional whistling banshee songs, making
+it a popular place to live among the recluses of the town.  Homes of
+varying sizes dot the hills.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6688 0
+D1
+~
+~
+0 -1 6689 0
+D2
+~
+~
+0 -1 6685 0
+D3
+~
+~
+0 -1 6690 0
+S
+#6687
+A Dwelling among strange Rock formations~
+You stand in a narrow dwelling among the bluff-scattered homes of
+Sundhaven.  Out of rectangular-etched windows you can make out odd
+Stonehenge-style formations of stone, giving the place an eerie feel.
+It could make an excellent home, with enough gold to pay the price of
+the lot.    
+~
+66 8 0 0 0 0
+D1
+~
+~
+0 -1 6685 0
+S
+#6688
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D2
+~
+~
+0 -1 6686 0
+S
+#6689
+A cliffhanging Home~
+Quaint cobblestone and mortar walls enclose you, creating a quiet
+atmosphere.  This is home now to only a few small mice, but it appears
+that it could be a comforatble place to live, with a little work.  
+And enough gold.  Perhaps it may be bought from one of the gods of the
+realm.    
+~
+66 8 0 0 0 0
+D3
+~
+~
+0 -1 6686 0
+S
+#6690
+Atop a windswept Bluff~
+These are treeless heights, anguished by constant wind and populated
+by haunting apparitions and occasional whistling banshee songs, making
+it a popular place to live among the recluses of the town.  Homes of
+varying sizes dot the hills.    
+~
+66 0 0 0 0 4
+D0
+~
+~
+0 -1 6691 0
+D1
+~
+~
+0 -1 6686 0
+D2
+~
+~
+0 -1 6310 0
+D3
+~
+~
+0 -1 6309 0
+S
+#6691
+Over the Edge~
+You stand perched on the rocky brink of the cliffs of Sundhaven.
+Before you a sea of wavering fog holds the land in its grip, 
+undulating in the slight wind. You can make out a narrow trail
+sliding straight down among the scant bushes and heather flowers.
+~
+66 0 0 0 0 4
+D2
+~
+~
+0 -1 6690 0
+D5
+~
+~
+0 -1 6692 0
+S
+#6692
+A stony Drop~
+Rocks go streaming down and over the cliff as you slide and skip down
+a sheer drop of a trail.  You have little time to take in your
+surroundings, as your attention is focused on keeping a purchase on
+the skiddy soil....  The cliff's brink is always close at hand.    
+~
+66 0 0 0 0 4
+D4
+~
+~
+0 -1 6691 0
+D5
+~
+~
+0 -1 6693 0
+S
+#6693
+A stony Drop~
+Rocks go streaming down and over the cliff as you slide and skip down
+a sheer drop of a trail.  You have little time to take in your
+surroundings, as your attention is focused on keeping a purchase on
+the skiddy soil....  The cliff's brink is always close at hand.    
+~
+66 0 0 0 0 4
+D1
+~
+~
+0 -1 6308 0
+D4
+~
+~
+0 -1 6692 0
+D5
+~
+~
+0 -1 6694 0
+S
+#6694
+A Landing of twisted Trees~
+The gnarled limbs of dark trees make nightmarish shapes in the air
+around you.  The cliff descends in a fall so steep it is no longer
+climbable one step to the north of you, but small paths of strange
+black grass forge east and west.    
+~
+66 1 0 0 0 2
+D1
+~
+~
+0 -1 6303 0
+D3
+~
+~
+0 -1 6695 0
+D4
+~
+~
+0 -1 6693 0
+S
+#6695
+A Path of black Grass~
+A little trail picks its way among small ill-anchored stones and
+patches of black, wiry grass, that at first site gives the place a
+ravaged, charred look.  However, the vegetation is living, just
+endowed with a dark hue.    
+~
+66 0 0 0 0 10
+D1
+~
+~
+0 -1 6694 0
+D2
+~
+~
+0 -1 6307 0
+D3
+~
+~
+0 -1 6696 0
+D5
+~
+~
+0 -1 6300 0
+S
+#6696
+A Path of black Grass~
+A little trail picks its way among small ill-anchored stones and
+patches of black, wiry grass, that at first site gives the place a
+ravaged, charred look.  However, the vegetation is living, just
+endowed with a dark hue.    
+~
+66 0 0 0 0 10
+D1
+~
+~
+0 -1 6695 0
+D3
+~
+~
+0 -1 6697 0
+S
+#6697
+A Path of black Grass~
+A little trail picks its way among small ill-anchored stones and
+patches of black, wiry grass, that at first site gives the place a
+ravaged, charred look.  However, the vegetation is living, just
+endowed with a dark hue.    
+~
+66 0 0 0 0 10
+D1
+~
+~
+0 -1 6696 0
+D4
+~
+~
+0 -1 6698 0
+S
+#6698
+A Garden of Wild Witchbane~
+As you brush through the wild garden, a slightly sticky substance with
+a dark red hue adheres itself to your legs, raising the hairs of
+suspicion on the back of your neck.  The tenuous climbing vines are
+dark green with black undersides, rather resembling...  Poison ivy.  
+~
+66 1 0 0 0 2
+D2
+~
+~
+0 -1 6699 0
+D5
+~
+~
+0 -1 6697 0
+S
+#6699
+A dark Home filled with hanging Moss~
+You brush aside a curtain of dark green subterranean mosses and slip
+inside a roomy cave of pitch darkness.  The place has an eerie feel,
+as if inhabited by some ethereal spirit that forbids you to abide
+within.  Cool moss of deep azure and green hangs in flowing tresses
+from the ceiling, reminiscent of a prehistoric time.    
+~
+66 9 0 0 0 0
+D0
+~
+~
+0 -1 6698 0
+S
+$~

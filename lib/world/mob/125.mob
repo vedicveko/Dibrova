@@ -1,0 +1,161 @@
+#12501
+ogre gang member~
+a Gang Member~
+A member of the Ogres wanders about here.
+~
+He's lived a life of violence ever since he was little.
+~
+76 0 0 0 0 0 0 0 -100 E
+8 2 68 5d5+50 1d2+5
+10 941
+8 8 1
+Str: 25
+Dex: 22
+Int: 16
+Wis: 10
+Con: 17
+Cha: 20
+Luck: 19
+Race: 19
+E
+#12502
+troll gang member~
+a Gang Member~
+A member of the Trolls wanders about here.
+~
+He wants to rid the world of every last Ogre gang member.
+~
+76 0 0 0 0 0 0 0 100 E
+8 2 68 5d5+50 1d2+5
+10 941
+8 8 1
+Str: 9
+Dex: 18
+Int: 8
+Wis: 16
+Con: 14
+Luck: 22
+Race: 32
+E
+#12503
+gang leader~
+the Gang Leader~
+The gang leader is not pleased you found his hideout!
+~
+He's risen to be leader through brute force and cunning leadership.
+~
+74 0 0 0 0 0 0 0 -400 E
+10 3 60 13d13+130 1d2+6
+15 1662
+8 8 1
+Str: 24
+Dex: 18
+Int: 15
+Wis: 24
+Con: 15
+Cha: 10
+Luck: 22
+Race: 19
+E
+#12504
+bruiser~
+a Bruiser~
+A big, mean bruiser is looking for limbs to break.
+~
+He's 6'6" 245 pounds and enough muscle to bash your head in.
+~
+76 0 0 0 8 0 0 0 -333 E
+9 2 64 10d10+100 1d2+6
+15 1270
+8 8 1
+Str: 15
+Dex: 5
+Int: 9
+Wis: 21
+Con: 15
+Cha: 21
+Race: 19
+E
+#12505
+pickpocket girl~
+a Pickpocket Girl~
+A girl in a tight-fitting black outfit eyes you as she fingers a slender dagger she wears.
+~
+She's a beauty (ok in RELATIVE terms) but you better not touch!
+~
+76 0 0 0 0 0 0 0 -300 E
+7 1 72 7d7+70 1d2+4
+10 669
+8 8 2
+BareHandAttack: 14
+Str: 16
+Dex: 19
+Int: 17
+Wis: 9
+Con: 20
+Cha: 18
+Luck: 6
+Race: 32
+E
+#12506
+patrolman patrol man~
+a Patrolman~
+A patrolman is trying to keep the peace.
+~
+He'd rather be at the local pub then out here with these nasty kids.
+~
+72 0 0 0 0 0 0 0 700 E
+8 2 68 8d8+80 1d2+5
+10 941
+8 8 1
+Str: 17
+Dex: 23
+Int: 21
+Wis: 14
+Con: 12
+Cha: 17
+Luck: 10
+Race: 7
+E
+#12507
+vandal~
+a Vandal~
+A vandal is spray painting pro-gang slogans on the wall here.
+~
+He has a wary eye and a fine hand for art.
+~
+16456 0 0 0 65536 4194304 0 0 -400 E
+8 2 68 10d10+100 1d2+5
+10 941
+8 8 1
+Str: 9
+Dex: 7
+Wis: 16
+Con: 18
+Cha: 12
+Luck: 12
+Race: 14
+E
+#12508
+dog pit bull pitbull~
+a Pitbull~
+A vicious pitbull is foaming at the mouth in rabid anticipation.
+~
+You get a nice close look at him while he's tearing at your throat.  
+His fangs are blood-stained from hearty meals of ...  Steak?!    
+~
+4170 0 0 0 65544 0 0 0 -100 E
+7 1 72 5d5+50 1d2+4
+0 669
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 8
+Int: 25
+Wis: 15
+Con: 19
+Cha: 5
+Luck: 10
+Race: 1
+E
+$

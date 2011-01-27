@@ -1,0 +1,1521 @@
+#5800
+man lookout~
+a Lookout~
+A man is concealed here, watching the path below for wayward travelers.
+~
+It almost appear that the man might be part of an organized highway
+job, watching for innocent travelers and then giving the sign to his
+cohorts to waylay the travelers.    
+~
+10 0 0 0 1048576 0 0 0 -700 E
+70 47 -40 1d1+0 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 14
+Str: 14
+Dex: 20
+Int: 10
+Wis: 19
+Con: 21
+Cha: 21
+Luck: 5
+Class: 3
+Race: 14
+E
+#5801
+highwayman man~
+the Highwayman~
+A highwayman jumps from behind a bush, halting you with his palm out.
+~
+He has a very placid smile upon his face, almost as if he is
+completely secure in the fact that you will be giving up your money
+without a fight.    
+~
+42 0 0 0 1048576 0 0 0 -700 E
+72 48 -40 1d1+0 6d6+48
+1200 255219
+8 8 1
+BareHandAttack: 11
+Str: 18
+Dex: 7
+Int: 23
+Wis: 14
+Con: 24
+Cha: 25
+Luck: 10
+Class: 3
+Race: 14
+E
+#5802
+man highwayman leader~
+the Highwayman Leader~
+A man stands in the center of the path, a sneer on his face, both hands on his hips.
+~
+He glares disdainfully at you and motions with a nod of his head to
+his men.  He means to have your gold - all of it.    
+~
+4107 0 0 0 1048576 0 0 0 -1000 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 19
+Int: 25
+Wis: 7
+Con: 7
+Cha: 16
+Luck: 17
+Class: 3
+Race: 32
+E
+#5803
+guard gate gateguard man~
+the Gate Guard~
+A man stands with another at the gate, a slight smirk on his face.
+~
+He is not dressed in a uniform of any sort, although he is armed to
+the teeth.  Pay or don't pay, but chances are he may take a offense at
+someone trying to get by for free.    
+~
+559114 0 0 0 33554448 0 0 0 -200 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 5
+Int: 16
+Wis: 7
+Con: 17
+Cha: 12
+Luck: 16
+Class: 10
+Race: 14
+E
+#5804
+gate guard man~
+the Gate Guard~
+A man leans idly against the gate, petting a small ferret.
+~
+As he strokes the fur back from the ferret's head, he watches the main
+street in town intently.  It seems that he must be waiting for
+someone.    
+~
+36874 0 0 0 16 0 0 0 -400 E
+82 58 -40 1d1+0 6d7+54
+1450 355583
+8 8 1
+BareHandAttack: 14
+Str: 6
+Dex: 21
+Int: 24
+Wis: 21
+Con: 19
+Cha: 17
+Luck: 21
+Race: 14
+E
+#5805
+ferret~
+a little Ferret~
+A little ferret perches on one of the guard's shoulders.
+~
+It looks like any other common ferret that might be found in the wild
+- this one has simply been tamed.    
+~
+74 0 0 0 33554432 0 0 0 0 E
+10 3 60 1d7+20 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 4
+Str: 12
+Dex: 12
+Int: 25
+Wis: 9
+Con: 10
+Cha: 18
+Luck: 21
+Race: 1
+E
+#5806
+man murderer~
+a Murderer~
+A man walks the streets with his head down and his hands in his pockets.
+~
+He avoids eye contact with anyone, staying close along the walls of
+the buildings which line the streets.    
+~
+559176 0 0 0 16 131072 0 0 -900 E
+95 72 -40 1d1+0 6d8+63
+1825 517501
+8 8 1
+BareHandAttack: 14
+Str: 13
+Dex: 19
+Int: 22
+Wis: 23
+Con: 6
+Cha: 15
+Luck: 12
+Class: 4
+Race: 14
+E
+#5807
+robber bank man~
+a Bank Robber~
+A man leans against the wall of the school, nervously watching the street.
+~
+His eyes constantly dart east and westward, scanning nonstop the
+people and the faces which come past.    
+~
+530442 0 0 0 16 0 0 0 -600 E
+87 63 -40 1d1+0 6d7+58
+1575 413514
+8 8 1
+BareHandAttack: 11
+Str: 19
+Dex: 19
+Int: 9
+Wis: 22
+Con: 8
+Cha: 21
+Luck: 16
+Class: 3
+Race: 14
+E
+#5808
+man bank robber~
+a Bank Robber~
+A man stands in front of the bank, glancing frequently up at the sun.
+~
+He watches the people within the bank, counting silently as the
+seconds tick by.    
+~
+530442 0 0 0 16 0 0 0 -600 E
+1 0 96 1d1+0 1d1+0
+5 4
+8 8 1
+BareHandAttack: 14
+Str: 13
+Dex: 20
+Int: 13
+Wis: 19
+Con: 23
+Cha: 23
+Luck: 16
+Class: 3
+Race: 14
+E
+#5809
+Koslo crime boss~
+Koslo, the Crime Boss~
+A very large, grotesque man sits upon a plush velvet chair.
+~
+Koslo is not your 'model' citizen, even were he the type to make an
+honest living.  He looks you over with a keen eye, leans over ever so
+slightly and blows a viscious fart.  He raises an eyebrow as if to
+say, 'yes....  What do you want?  '.    
+~
+34195466 0 0 0 65616 4194304 0 0 -800 E
+165 156 -60 1d1+0 24d25+110
+2600 2114952
+8 8 1
+BareHandAttack: 7
+Str: 5
+Dex: 16
+Int: 10
+Wis: 13
+Con: 6
+Cha: 9
+Luck: 6
+Class: 3
+Race: 19
+E
+T 5803
+#5810
+man thin wiry cutpurse~
+a Cutpurse~
+A thin, wiry man slinks through town, constantly on the lookout for a profit.
+~
+He looks your way with a twinkle in his eye, gives you a wink and
+continues on.    
+~
+2120 0 0 0 526352 0 0 0 -500 E
+103 80 -40 1d1+0 10d10+68
+2025 635991
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 20
+Int: 14
+Wis: 9
+Con: 12
+Cha: 16
+Luck: 14
+Class: 3
+Race: 32
+E
+#5811
+woman stunning assassin~
+a deadly Assassin~
+A stunningly attractive woman dressed in black brushes past you.
+~
+She only brushes you ever-so-slightly, however that slight brush is
+all you need.  Her touch is electric and her demeanor regal.    
+~
+34113608 0 0 0 16 163840 0 0 -200 E
+117 96 -40 1d1+0 13d14+78
+2375 880218
+8 8 2
+BareHandAttack: 14
+Str: 8
+Dex: 24
+Int: 24
+Wis: 5
+Con: 5
+Cha: 7
+Luck: 13
+Class: 4
+Race: 16
+E
+#5812
+bandit gang man member~
+a Bandit~
+Someone wearing very loose clothing and two short swords walks past.
+~
+The man wears a loose handkerchief around his neck, dust covering most
+of his garments.  It does appear that he just came in off the road,
+rather that the dust all over him is just a part of his appearance in
+general.    
+~
+755784 0 0 0 80 0 0 0 -300 E
+108 86 -40 1d1+0 11d11+72
+2150 717706
+8 8 1
+BareHandAttack: 11
+Str: 18
+Dex: 22
+Int: 25
+Wis: 17
+Con: 25
+Cha: 21
+Luck: 21
+Class: 4
+Race: 14
+E
+#5813
+charlatan woman~
+a Charlatan~
+A woman begs before the door to the church, a blindfold over her eyes.
+~
+She would probably get a few more coins if she did not take the time
+to look up and down the street to see when people were coming.    
+~
+10 0 0 0 0 0 0 0 -400 E
+68 45 -40 1d1+0 6d6+45
+1200 220604
+8 8 2
+Str: 7
+Dex: 8
+Int: 15
+Wis: 25
+Con: 6
+Cha: 23
+Luck: 22
+Class: 3
+Race: 14
+E
+#5814
+prankster kender~
+a Kender Prankster~
+A little kender walks by, his eyes full of mischief.
+~
+He wears a small belt of pouches which bulge from the spoils of his
+many escapades.    
+~
+6216 0 0 0 80 0 0 0 100 E
+83 59 -40 1d1+0 6d7+55
+1475 366746
+8 8 1
+BareHandAttack: 7
+Str: 19
+Dex: 16
+Int: 6
+Wis: 22
+Con: 10
+Cha: 25
+Luck: 20
+Race: 18
+E
+#5815
+burglar man shady~
+a Burglar~
+A very shady-looking character slinks through the streets.
+~
+With his belongings slung over one shoulder and a hunched over gait,
+this man is not exactly the poster picture of model citizenship.    
+~
+559176 0 0 0 2064 0 0 0 -654 E
+132 114 -60 1d1+0 15d16+88
+2500 1197236
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 12
+Int: 20
+Wis: 17
+Con: 8
+Cha: 7
+Luck: 21
+Class: 3
+Race: 14
+E
+#5816
+man fence~
+the Fence~
+A man stands here eyeing every possession you have, sizing its value.
+~
+He looks at you with no expression whatsoever, a perfect poker face
+held in anticipation of acquiring your worldly goods.    
+~
+6154 0 0 0 80 0 0 0 -300 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 1
+Str: 7
+Dex: 19
+Int: 22
+Wis: 7
+Con: 23
+Cha: 23
+Luck: 21
+Race: 14
+E
+#5817
+golaspah man hero~
+Golaspah~
+Golaspah walks the streets of the town, receiving the adoration of the people.
+~
+Golaspah has been known to banditize many of the more fluent
+businessmen and politicians of the local areas, giving much of his
+wealth back to the people of Dun Pith through town projects and food
+drives.    
+~
+563272 0 0 0 16 0 0 0 200 E
+143 127 -60 1d1+0 17d18+95
+2500 1468328
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 6
+Int: 14
+Wis: 17
+Con: 10
+Cha: 14
+Luck: 20
+Class: 4
+Race: 14
+E
+#5818
+man large strong smiling~
+a large, smiling Man~
+A very large, very loud man leans against the bar telling tales of valor.
+~
+The man loudly relates tales of his bravery and cunning, having
+filched more treasure than any man in the land.  He is a braggart and
+a liar.    
+~
+10 0 0 0 0 0 0 0 -400 E
+76 52 -40 1d1+0 6d7+50
+1300 292948
+8 8 1
+Str: 19
+Dex: 18
+Int: 22
+Wis: 24
+Con: 23
+Cha: 8
+Luck: 18
+Race: 14
+E
+#5819
+dwarven lock smith pick~
+a dwarven Locksmith~
+A dwarven locksmith idly picks his teeth with a steel tool.
+~
+He looks like he is quite bored, willing to hire his services out to
+just about anyone.  That is the way of it for a locksmith - there are
+times of solid business, and times of total slowness.  This is a slow
+time for the dwarf.    
+~
+6154 0 0 0 16 0 0 0 100 E
+94 71 -40 1d1+0 6d8+62
+1800 503723
+8 8 1
+BareHandAttack: 11
+Str: 19
+Dex: 10
+Int: 13
+Wis: 20
+Con: 22
+Cha: 8
+Luck: 23
+Race: 13
+E
+#5820
+bounty hunter man~
+a Bounty Hunter~
+A deadly-looking man with a thick scar on his face sits at a table.
+~
+He notes your look with a look of his own, giving a cold, curt nod
+before returning to his drink.    
+~
+563210 0 0 0 524368 0 0 0 -1000 E
+144 129 -60 1d1+0 18d18+96
+2500 1494654
+8 8 1
+BareHandAttack: 14
+Str: 5
+Dex: 23
+Int: 15
+Wis: 5
+Con: 16
+Cha: 17
+Luck: 19
+Class: 4
+Race: 14
+E
+#5821
+mercenary man armor clad~
+a Mercenary~
+An armor-clad man walks the streets, looking almost bored with the day.
+~
+For a mercenary, time spent not killing or drinking is time wasted.  
+This poor fellow desperately wishes for some action.    
+~
+559176 0 0 0 16 0 0 0 -400 E
+138 121 -60 1d1+0 16d17+92
+2500 1340936
+8 8 1
+BareHandAttack: 3
+Str: 10
+Dex: 19
+Int: 9
+Wis: 15
+Con: 23
+Cha: 9
+Luck: 18
+Class: 4
+Race: 32
+E
+#5822
+adventurer woman elven~
+an elven Adventurer~
+An elven maiden dressed in servicable traveler's garb lithely walks past.
+~
+She is actually quite stunningly attractive, however the dirk she
+wears thrust into her belt and the easy way with which she walks these
+dangerous streets gives you some pause.    
+~
+72 0 0 0 16 0 0 0 100 E
+87 63 -40 1d1+0 6d7+58
+1575 413514
+8 8 2
+BareHandAttack: 11
+Str: 21
+Dex: 9
+Int: 16
+Wis: 23
+Con: 25
+Cha: 18
+Luck: 8
+Race: 15
+E
+#5823
+gnomeish thief~
+a small Gnome~
+A little gnome self-importantly waddles his way through the crowds.
+~
+He looks up at you with a haughty look, readjusts his gear with
+dignity and continues on.    
+~
+72 0 0 0 16 0 0 0 200 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 1
+Str: 5
+Dex: 20
+Int: 6
+Wis: 14
+Con: 19
+Cha: 8
+Luck: 7
+Race: 17
+E
+#5824
+acrobat woman elf~
+an elven Acrobat~
+An elven woman moves through the crowd, her gait springy and alive.
+~
+She looks the type who - even when simply walking - dances her way
+about.  She is well-muscled and confident, she must be very good at
+what she does.    
+~
+72 0 0 0 16 0 0 0 -300 E
+73 49 -40 1d1+0 6d6+48
+1225 264356
+8 8 2
+Str: 20
+Dex: 7
+Int: 19
+Wis: 15
+Con: 22
+Cha: 6
+Luck: 9
+Race: 15
+E
+#5825
+beggar man rags filthy~
+a filthy Beggar~
+A filthy man dressed in rags leans against the doorframe of the building.
+~
+He holds a small, dirty, tin cup out hopefully - his eyes watery and
+full of self-pity.  A very distinct smell wafts your way - the smell
+of an unshowered body.    
+~
+10 0 0 0 0 0 0 0 -500 E
+79 55 -40 1d1+0 6d7+52
+1375 323344
+8 8 1
+Str: 19
+Dex: 16
+Int: 17
+Wis: 5
+Con: 22
+Cha: 18
+Luck: 6
+Class: 12
+Race: 14
+E
+#5826
+buccaneer man nervous~
+a nervous Buccaneer~
+A sailor dressed in pirate's garb fretfully watches the door.
+~
+Whatever it is that has brought these two sailor's all the way to Dun
+Pith, it is obviously something fairly terrible.  This man could not
+be more out of place in his sailor's garb, his hands shaking as as he
+gulps his ale.    
+~
+4106 0 0 0 0 0 0 0 -300 E
+84 60 -40 1d1+0 6d7+56
+1500 378119
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 8
+Int: 9
+Wis: 5
+Con: 16
+Cha: 19
+Luck: 9
+Race: 14
+E
+#5827
+buccaneer man loud~
+a loud Buccaneer~
+A sailor loudly and incessantly talks to anyone who will listen.
+~
+He tries to give the impression that he is not as rattled as his
+nervous friend whom he sits with, however the fact that he is sloppy
+drunk and talks non-stop gives his discomfort away.    
+~
+4106 0 0 0 0 0 0 0 -400 E
+86 62 -40 1d1+0 6d7+57
+1550 401501
+8 8 1
+Str: 14
+Dex: 25
+Int: 25
+Wis: 21
+Con: 14
+Cha: 8
+Luck: 12
+Race: 14
+E
+#5828
+specialist human man~
+a Specialist~
+A man dressed in simple, nondescript garb drinks alone at a table.
+~
+He looks neither up at you, nor down at the floor.  He appears lost in
+thought, yet very aware and strangely comfortable with his
+surroundings.    
+~
+530442 0 0 0 2128 0 0 0 -100 E
+112 90 -40 1d1+0 12d12+74
+2250 787448
+8 8 1
+BareHandAttack: 3
+Str: 24
+Dex: 14
+Int: 15
+Wis: 6
+Con: 10
+Cha: 13
+Luck: 6
+Class: 5
+Race: 14
+E
+#5829
+scout wolfen~
+a wolfen Scout~
+A wolfen man prowls the streets of the city, looking for work.
+~
+The scout does not feel at all at home in this populated place,
+however where there are man.  There is work to be had.    
+~
+34113608 0 0 0 524368 0 0 0 -300 E
+78 54 -40 1d1+0 6d7+52
+1350 313009
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 25
+Int: 19
+Wis: 17
+Con: 21
+Cha: 9
+Luck: 14
+Class: 5
+Race: 21
+E
+#5830
+smuggler man~
+the Smuggler~
+A man sits at a table in a dark corner of the bar.
+~
+He sits calmly, hands folded before him on the table as if waiting for
+someone.  The shadows in the back of the room give his eyes a
+cavernous look, dark and mysterious.    
+~
+10 0 0 0 0 0 0 0 -700 E
+99 76 -40 1d1+0 6d8+66
+1925 574891
+8 8 1
+Str: 24
+Dex: 17
+Int: 6
+Wis: 20
+Con: 24
+Cha: 19
+Luck: 20
+Class: 3
+Race: 14
+E
+#5831
+swashbuckler man bold gallant~
+a gallant Swashbuckler~
+A bold, gallant-looking man walks proudly through the streets.
+~
+He wears a look on his face of pride and contentment, as if just being
+him were enought to sustain him through all his days and nights.  A
+very confident man, this one.    
+~
+6216 0 0 0 0 0 0 0 100 E
+92 68 -40 1d1+0 6d7+61
+1750 476843
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 8
+Int: 24
+Wis: 15
+Con: 8
+Cha: 20
+Luck: 17
+Race: 14
+E
+#5832
+woman short unobstrusive spy~
+a Spy~
+A short, unobtrusive woman moves past - almost without notice.
+~
+You almost don't notice her as she walks past.  She does not wear any
+clothing which would make jher stand out, nor does she look anyone in
+the eye, she simply blends in with the city.    
+~
+231496 0 0 0 1572880 0 0 0 -300 E
+94 71 -40 1d1+0 6d8+62
+1800 503723
+8 8 2
+BareHandAttack: 11
+Str: 15
+Dex: 12
+Int: 5
+Wis: 19
+Con: 20
+Cha: 8
+Luck: 14
+Race: 15
+E
+#5833
+thug man sulk~
+a Thug~
+A man skulks in the shadows of a nearby doorway, his face hidden.
+~
+His head is held down at a slight angle, his hands thrust in the
+pockets of his trousers.  He watches people through beady eyes which
+peer out from under his eyebrows.    
+~
+10 0 0 0 0 0 0 0 -800 E
+74 50 -40 1d1+0 6d6+49
+1250 273689
+8 8 1
+BareHandAttack: 5
+Str: 8
+Dex: 9
+Int: 13
+Wis: 18
+Con: 20
+Cha: 18
+Luck: 19
+Class: 3
+Race: 32
+E
+#5834
+swindler~
+a Swindler~
+A halfling with a lopsided grin offers you sale of his wares.
+~
+He gives you a wink and nods toward the items he keeps affixed to the
+inner folds of his jacket.    
+~
+2120 0 0 0 2128 0 0 0 -700 E
+81 57 -40 1d1+0 6d7+54
+1425 344630
+8 8 1
+BareHandAttack: 13
+Str: 6
+Dex: 13
+Int: 7
+Wis: 10
+Con: 16
+Cha: 19
+Luck: 13
+Class: 3
+Race: 17
+E
+#5835
+soren solace man rich~
+Soren Solace~
+Soren Solace walks past, the adoring eyes of every citizen upon him.
+~
+Soren is the local hero here, a swindler-turned-businessman who every
+citizen in town wishes they were.    
+~
+34113608 0 0 0 16 131072 0 0 -200 E
+159 148 -60 1d1+0 22d23+106
+2550 1924328
+8 8 1
+Str: 6
+Dex: 7
+Int: 10
+Wis: 24
+Con: 6
+Cha: 13
+Luck: 19
+Class: 4
+Race: 14
+E
+#5836
+woman hobbled lame~
+a lame Beggar~
+A woman covered in rags slides about on a wooden cart, begging for coins.
+~
+It would be believable that she has no use of her numb legs if she
+didn't reach down to scratch her ankle every now and then.    
+~
+72 0 0 0 0 0 0 0 -500 E
+72 48 -40 1d1+0 6d6+48
+1200 255219
+8 8 2
+Str: 12
+Dex: 18
+Int: 21
+Wis: 19
+Con: 7
+Cha: 14
+Luck: 7
+Class: 3
+Race: 14
+E
+#5837
+beggar blind man~
+a blind Beggar~
+A blind man holds a cup out - directly in front of you - asking for some coins.
+~
+A dirty cloth wrap covers his eyes, he wears the most filthy, ragged
+robes you ever have had occassion to get a whiff of.    
+~
+10 0 0 0 0 0 0 0 -400 E
+72 48 -40 1d1+0 6d6+48
+1200 255219
+8 8 1
+Str: 14
+Dex: 17
+Int: 13
+Wis: 6
+Con: 19
+Cha: 7
+Luck: 21
+Class: 12
+Race: 14
+E
+#5838
+beggar man~
+a Beggar~
+A beggar stands next to the entryway of the city, begging for a coin.
+~
+The pitiful look on his dirty face must be well-rehearsed as it seems
+many of the people passing by have been generous.    
+~
+10 0 0 0 0 0 0 0 -100 E
+72 48 -40 1d1+0 6d6+48
+1200 255219
+8 8 1
+Str: 10
+Dex: 12
+Int: 8
+Wis: 20
+Con: 24
+Cha: 18
+Luck: 12
+Class: 12
+Race: 14
+E
+T 5800
+T 5801
+T 5804
+T 5805
+#5839
+peasant girl little~
+a little peasant Girl~
+A little peasant girl carries a load of berries home to ma-ma.
+~
+Her face is sumdged and dirty, her eyes wise and aged though she could
+only be 10 years old at most.    
+~
+72 0 0 0 0 0 0 0 400 E
+15 5 40 1d1+0 1d3+10
+50 4674
+8 8 2
+Str: 14
+Dex: 14
+Int: 18
+Wis: 15
+Con: 20
+Cha: 8
+Luck: 8
+Race: 14
+E
+#5840
+jovial street sweeper~
+a jovial Street Sweeper~
+A street sweeper tips his hat to you and bows slightly as you pass.
+~
+It appears that this man has been beaten all his life into a
+submission of categorization of class and bearing.    
+~
+204 0 0 0 16 0 0 0 300 E
+56 34 -32 1d1+0 5d6+37
+900 134460
+8 8 1
+Str: 16
+Dex: 6
+Int: 10
+Wis: 19
+Con: 13
+Cha: 8
+Luck: 15
+Class: 12
+Race: 14
+E
+#5841
+kid street boy feeliz~
+Feeliz~
+A boy of the streets leans against a wall, eyeing you suspiciously.
+~
+It is widely known that Koslo, the local crime boss in the main
+section, uses children much like this one for man of his more simple
+tasks.  Perhaps this boy could lead you to Koslo's hideout.    
+~
+14 0 0 0 0 0 0 0 -200 E
+56 34 -32 1d1+0 5d6+37
+900 134460
+8 8 1
+Str: 6
+Dex: 13
+Int: 21
+Wis: 19
+Con: 8
+Cha: 23
+Luck: 20
+Race: 14
+E
+T 5802
+#5842
+merchant honest man~
+an honest Merchant~
+An honest merchant attempts to hawk his wares to the people of Dun Pith.
+~
+He looks a bit tired and a tad bit nervous at being in such an
+infamous town, but his need for some sort of income outweighs his fear
+of personal injury.  He continues to call his salespitch into the city
+air.    
+~
+8388618 0 0 0 0 0 0 0 600 E
+66 43 -40 1d1+0 6d6+44
+1150 204434
+8 8 1
+Str: 7
+Dex: 18
+Int: 25
+Wis: 22
+Con: 14
+Cha: 5
+Luck: 21
+Race: 14
+E
+#5843
+chancellor~
+the Chancellor~
+The Chancellor smiles and nods to his townspeople as he passes.
+~
+This man is as corrupt and false as the city around him - his fixed
+smile and his polished mustache tell all the tale anyone needs to see
+past his charade.    
+~
+34113608 0 0 0 16 131072 0 0 -700 E
+175 169 -100 1d1+0 28d28+116
+2700 2457330
+8 8 1
+Str: 19
+Dex: 23
+Int: 16
+Wis: 12
+Con: 9
+Cha: 17
+Luck: 18
+Class: 4
+Race: 14
+E
+T 5806
+#5844
+servant chancellor~
+one of the Chancellor's Servants~
+A servant fritters and frets about the place, keeping it tidy.
+~
+She looks your way, noting your traveler's garb and tsks. Once.
+~
+10 0 0 0 0 0 0 0 100 E
+47 26 -28 1d1+0 5d5+31
+675 86013
+8 8 2
+Str: 12
+Dex: 9
+Int: 18
+Wis: 20
+Con: 7
+Cha: 17
+Luck: 12
+Class: 12
+Race: 14
+E
+#5845
+hand servant chancellor~
+the Chancellor's Hand Servant~
+The Chancellor's hand servant awaits her master's return.
+~
+Her only function is to serve the Chancellor's every whim, whether it
+be large or small.    
+~
+10 0 0 0 0 0 0 0 100 E
+51 30 -32 1d1+0 5d5+34
+775 105930
+8 8 2
+Str: 8
+Dex: 6
+Int: 18
+Wis: 25
+Con: 17
+Cha: 16
+Luck: 14
+Class: 12
+Race: 14
+E
+#5846
+mistress chancellor~
+the Chancellor's Mistress~
+The Chancellor's Mistress quietly reads in a lounge chair.
+~
+She looks up hopefully as you enter and then blushes and goes back to
+her reading.    
+~
+10 0 0 0 0 0 0 0 -200 E
+65 42 -40 1d1+0 6d6+43
+1125 196628
+8 8 2
+Str: 19
+Dex: 17
+Int: 5
+Wis: 5
+Con: 17
+Cha: 6
+Luck: 21
+Race: 14
+E
+#5847
+Olinn~
+Olinn~
+Olinn looks up from brushing a tall mare and gives you a smile.
+~
+Olinn has been the trainer of many of the finer steeds used in heists
+both famous and infamous.  His reputation borders on legend in Dun
+Pith.    
+~
+10 0 0 0 0 0 0 0 200 E
+74 50 -40 1d1+0 6d6+49
+1250 273689
+8 8 1
+Str: 20
+Dex: 22
+Int: 12
+Wis: 20
+Con: 5
+Cha: 25
+Luck: 7
+Race: 14
+E
+#5848
+barkeep tender~
+the Barkeep~
+The barkeep wipes the counter with a towel, nodding to you as you enter.
+~
+He is a balding man, hair only left on the sides of his head.  He
+appears to be very comfortabel with his place in his, happy even.    
+~
+11 0 0 0 0 0 0 0 -300 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 13
+Dex: 5
+Int: 6
+Wis: 10
+Con: 25
+Cha: 17
+Luck: 22
+Class: 11
+Race: 14
+E
+#5849
+housewife wife~
+a Housewife~
+A pretty housewife sweeps the floor of the home.
+~
+She looks up in surprise at you, wondering who in the world woiuld
+simply barge into her home unannouced.    
+~
+10 0 0 0 0 0 0 0 200 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 2
+Str: 8
+Dex: 21
+Int: 8
+Wis: 22
+Con: 12
+Cha: 8
+Luck: 5
+Race: 14
+E
+#5850
+consort guild master thieven~
+a Consort to the Thieven Guildmaster~
+A consort to the Thieven Guildmaster looks up in shock from her place on the bed.
+~
+She looks up at you with a shocked look on her face and then smiles
+languidly, stretching back on the bed.    
+~
+10 0 0 0 0 0 0 0 -500 E
+76 52 -40 1d1+0 6d7+50
+1300 292948
+8 8 2
+Str: 8
+Dex: 24
+Int: 24
+Wis: 6
+Con: 25
+Cha: 10
+Luck: 15
+Race: 14
+E
+#5851
+johan baker~
+Johan~
+Johan gives you a welcome nod, and goes back to kneading his dough.
+~
+Johan is an extremely large, muscled man who made his living much the
+way most of the residents of this town did or do.  He was a killer for
+hire who would sell his services to the highest bidder.  He was
+actually quite good until one day he got a contract on his son.  He
+realized what it was he was doing and opened this bakery with the
+money he'd made over the years.  His son became a mercenary and still
+is one to this day.    
+~
+10 0 0 0 0 0 0 0 300 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 21
+Dex: 22
+Int: 7
+Wis: 5
+Con: 19
+Cha: 9
+Luck: 8
+Race: 14
+E
+#5852
+olas~
+Olas~
+Olas wanders about the shop, straightening items on shelves.
+~
+Olas's eye for deail and perfection has made him a very successful
+businessman in Dun Pith.    
+~
+10 0 0 0 0 0 0 0 100 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 17
+Dex: 21
+Int: 22
+Wis: 23
+Con: 18
+Cha: 12
+Luck: 5
+Race: 14
+E
+#5853
+heddis~
+Heddis~
+Heddis relaxes in his favorite chair, reading a book.
+~
+He is quite surprised by your intrusion - most folk would knock before
+entering into another's private residence.    
+~
+10 0 0 0 0 0 0 0 100 E
+54 32 -32 1d1+0 5d6+36
+850 122552
+8 8 1
+Str: 14
+Dex: 6
+Int: 8
+Wis: 25
+Con: 21
+Cha: 5
+Luck: 24
+Race: 14
+E
+#5854
+post office worker alon~
+Alon~
+Alon give you a slight incline of the head as way of greeting.
+~
+He speaks no words, only looks directly your way and waits patiently
+for your needs.    
+~
+11 0 0 0 0 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 9
+Dex: 21
+Int: 15
+Wis: 21
+Con: 16
+Cha: 6
+Luck: 12
+Race: 14
+E
+#5855
+sergeant task force gerbenko~
+Sergeant Gerbenko~
+Sergeant Gerbenko haughtily patrols the streets.
+~
+Sergeant Gerbenko is truly the most stereotypical law presence that
+could be had in this awful town of sin.  The payoffs he receives on a
+weekly basis rival that of the ones paid to the Chancellor, who
+happens to be Gerbenko's brother, which also happens to be the reason
+Gerbenko got this job in the first place.    
+~
+542792 0 0 0 65552 4227072 0 0 -700 E
+135 117 -60 1d1+0 16d17+90
+2500 1267849
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 16
+Int: 22
+Wis: 6
+Con: 17
+Cha: 16
+Luck: 21
+Class: 4
+Race: 14
+E
+#5856
+officer city task force~
+a City Task Force Officer~
+An Officer of the City Task Force strolls past in a slow, languid walk.
+~
+He appears to be in no real hurry at all, in fact he appears to be in
+a sort of a daze, not paying any attention whatsoever to what is going
+on around him.    
+~
+563272 0 0 0 16 0 0 0 -300 E
+97 74 -40 1d1+0 6d8+64
+1875 545738
+8 8 1
+BareHandAttack: 3
+Str: 22
+Dex: 6
+Int: 9
+Wis: 8
+Con: 15
+Cha: 9
+Luck: 16
+Class: 10
+Race: 14
+E
+#5857
+secretary city task force~
+the Secretary for the City Task Force~
+A secretary idly files her nails.
+~
+The stacks of registered complaints and misdemeanors which riddle her
+desk look to have been left there for quite some time now.  And they
+do not appear to be going anywhere soon.    
+~
+10 0 0 0 0 0 0 0 100 E
+46 26 -24 1d1+0 5d5+30
+650 81423
+8 8 2
+Str: 22
+Dex: 19
+Int: 24
+Wis: 15
+Con: 5
+Cha: 19
+Luck: 10
+Race: 14
+E
+#5858
+librarian fat woman~
+a fat Librarian~
+A fat librarian looks up hopefully as you enter.
+~
+She waits all day long in this small, stuffy place.  She reads the
+many books which are one of her passions in life.  The other passion -
+men - is seldom satusfied due to her extreme weight and her inability
+to mingle with other people without stuttering.    
+~
+10 0 0 0 0 0 0 0 300 E
+48 27 -28 1d1+0 5d5+32
+700 90757
+8 8 2
+Str: 16
+Dex: 13
+Int: 19
+Wis: 14
+Con: 25
+Cha: 8
+Luck: 6
+Race: 14
+E
+#5859
+servant soren solace man~
+one of Soren's Servants~
+One of Soren's servants scrubs the floor with a toothbrush.
+~
+He is an old man, wrinkled and frail.  He works for wages less than
+that of a slave immigrant from Cities of Glory.  That is why Soren
+keeps him around.    
+~
+10 0 0 0 0 0 0 0 100 E
+45 25 -24 1d1+0 4d5+30
+625 76985
+8 8 1
+Str: 24
+Dex: 6
+Int: 22
+Wis: 13
+Con: 21
+Cha: 5
+Luck: 25
+Class: 12
+Race: 14
+E
+#5860
+lucky gambler~
+a lucky Gambler~
+A lucky gambler stretches out on a lounge chair, smoking a fat cigar.
+~
+He had planned to make a short business trip to Dun Pith and try and
+sell some daggers to the local guilds.  He happened into the casino
+and made a good haul, all in one night.  That was a week ago.  Since
+that first night, he hasn't won a single gold coin and almost out of
+money.  He'll be booted from the casino as soon as he is tapped dry.
+~
+10 0 0 0 0 0 0 0 100 E
+74 50 -40 1d1+0 6d6+49
+1250 273689
+8 8 1
+Str: 10
+Dex: 16
+Int: 23
+Wis: 19
+Con: 19
+Cha: 9
+Luck: 23
+Race: 14
+E
+#5861
+man stable master~
+a Man dressed as a Stable Master~
+A man dressed as a stable master shuffles the cards.
+~
+He gives you a smile and a nod, patiently waiting to milk you for
+every gold coin you have.    
+~
+11 0 0 0 0 0 0 0 -300 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 23
+Dex: 18
+Int: 16
+Wis: 9
+Con: 5
+Cha: 7
+Luck: 21
+Race: 14
+E
+#5862
+woman scantily clad~
+a scantily-clad Woman~
+A scantily-clad woman offers to deal a hand for you.
+~
+She offers a very open smile and a knowing gleam which tells you that
+your chances of getting lucky are greater than you think.    
+~
+11 0 0 0 0 0 0 0 -300 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 2
+Str: 23
+Dex: 8
+Int: 7
+Wis: 10
+Con: 19
+Cha: 7
+Luck: 24
+Race: 14
+E
+#5863
+barkeep~
+the Barkeep~
+The barkeep wordlessly stands at the bar, arms braced to each side.
+~
+He looks at you and gives a single nod. What'll it be?
+~
+10 0 0 0 0 0 0 0 -300 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 12
+Dex: 23
+Int: 12
+Wis: 23
+Con: 23
+Cha: 10
+Luck: 8
+Race: 14
+E
+#5864
+kalifa man mage~
+Kalifa~
+Kalifa himself stands at the counter, a scowl on his face.
+~
+He is the surliest, grumpiest man in town except possibly for the
+guildmasters and teachers at the guilds.    
+~
+10 0 0 0 0 0 0 0 -700 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 17
+Dex: 24
+Int: 15
+Wis: 8
+Con: 23
+Cha: 25
+Luck: 10
+Race: 14
+E
+#5865
+doctor~
+the City Doctor~
+The city doctor adjusts his spectacles and gives a tired yawn.
+~
+He looks tiredly at you, waiting to hear what your ailments might be.
+~
+10 0 0 0 0 0 0 0 100 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 12
+Con: 16
+Cha: 21
+Luck: 14
+Race: 14
+E
+#5866
+blacksmith smith~
+the Blacksmith~
+The blacksmith works diligently on a set of horseshoes.
+~
+He is a large black man with rippling muscles and a bald head.
+~
+10 0 0 0 16 0 0 0 100 E
+85 61 -40 1d1+0 6d7+56
+1525 389703
+8 8 1
+BareHandAttack: 12
+Str: 8
+Dex: 22
+Int: 22
+Wis: 6
+Con: 24
+Cha: 14
+Luck: 17
+Class: 4
+Race: 14
+E
+$

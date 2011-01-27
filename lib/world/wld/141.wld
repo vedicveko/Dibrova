@@ -1,0 +1,617 @@
+#14171
+On the Beach~
+You stand on the beach. Raider ships have been beached further up, 
+towards the jungle, where a small hut is located. A dense tropical
+jungle surrounds you.
+~
+141 32768 0 0 0 11
+D0
+The jungle~
+~
+0 -1 14175 0
+D3
+The jungle~
+~
+0 -1 14172 0
+E
+hut~
+You look inside the hut. It contains the hammers, saws, brushes, 
+pots of pitch, rope, and other carpentry tools.
+~
+E
+ships~
+The ships look like they have been beached for a few days. There is 
+a rope winch system whereby they have been hoisted up the beach. Roller
+logs are piled near the winch for future use.
+~
+S
+#14172
+In the Jungle~
+You are in a dense tropical jungle. Towering trees block out the sun 
+with a palm canopy. Around you are stumps and piles of delimbed trees.
+A small path winds into the jungle.
+~
+141 32768 0 0 0 14
+D0
+The jungle~
+~
+0 -1 14174 0
+D1
+The beach~
+~
+0 -1 14171 0
+E
+stumps piles trees delimbed~
+After examining the stumps and piles of lumber, you conclude that
+fairly recently there was a large cutting of lumber. Mostly hardwoods
+are gone.
+~
+S
+#14173
+In the Jungle~
+You are in a dense tropical jungle, on a cliff overlooking a wide sea.
+The green ocean crashes on the rocks far below. Around you some of the 
+trees have buckets on them. A path leads back into the jungle.
+~
+141 32768 0 0 0 14
+D1
+The jungle~
+~
+0 -1 14174 0
+D5
+~
+~
+0 -1 14183 0
+E
+buckets trees~
+You look in the buckets. Sap flows from a spout which has been hammered
+deep into the tree. The sap which is in the bucket is black and very 
+sticky. You think it might make a good pitch for an ocean going vessel.
+~
+S
+#14174
+In the Jungle~
+You are in a dense tropical jungle at a junction of paths. You squat 
+and look at the trail and see the fairly recent prints of a wild boar.
+The heavy humidity of the jungle is making you sweat profusely.
+~
+141 32768 0 0 0 14
+D1
+The jungle~
+~
+0 -1 14175 0
+D2
+The jungle~
+~
+0 -1 14172 0
+D3
+The jungle~
+~
+0 -1 14173 0
+S
+#14175
+In the Jungle~
+You are following a dirt path though a dense tropical jungle. Around you 
+fruit is plentiful. A parrot above you caws as you stop.
+~
+141 32768 0 0 0 14
+D0
+The jungle~
+~
+0 -1 14176 0
+D2
+The jungle~
+~
+0 -1 14171 0
+D3
+The jungle~
+~
+0 -1 14174 0
+E
+parrot bird~
+You stop and listen to the parrot. It says '*caw* Come along little
+princess *caw*, we have a nice little brig for ya *caw*'
+~
+S
+#14176
+In the Jungle~
+You are in a dense jungle. The overgrowth is terrible. You hate to
+think about what lives in the thorn thicket to the east. The trail 
+stretches north and south.
+~
+141 32768 0 0 0 14
+D0
+The jungle~
+~
+0 -1 14178 0
+D1
+The thorn thicket~
+barricade thicket~
+1 0 14177 3
+D2
+The jungle~
+~
+0 -1 14175 0
+E
+thorn thicket~
+You notice on closer inspection that the thorn thicket is nothing
+more than a barricade of thorns, cleverly camouflaged.
+~
+S
+#14177
+At the Mouth of a Cave~
+You have followed a trail to a mountain. Above you there is
+a mouth of a cave.
+~
+141 32772 0 0 0 5
+D3
+The jungle~
+barricade thorn thicket~
+1 0 14176 3
+D4
+The cave~
+~
+0 -1 14183 0
+E
+cave~
+You stare intently at the cave for a while. There is smoke coming out 
+of a hole in the rock above the cave, indicating inhabitation.
+~
+S
+#14178
+In the Jungle~
+You are on a trail in a dense jungle, in front of a stake with a skull
+attached to it. The path continues along the trail.
+~
+141 32772 0 0 0 14
+D2
+The jungle~
+~
+0 -1 14176 0
+D3
+The jungle~
+~
+0 -1 14179 0
+E
+stake skull~
+The skull upon closer inspection, is too small for a man, and has
+the sloping brow ridge of a monkey.
+~
+S
+#14179
+In the Savage Camp~
+You have blundered into the camp of several savages. Rude huts and lean-to's 
+are erected in a circular clearing. There is a central fire, upon which some
+animal is being roasted.
+~
+141 32768 0 0 0 14
+D1
+The Jungle~
+~
+0 -1 14178 0
+D2
+The savage camp~
+~
+0 -1 14180 0
+D3
+The savage camp~
+~
+0 -1 14182 0
+E
+animal fire~
+There is a monkey roasting on the fire.
+~
+S
+#14180
+In the Savage Camp~
+You have blundered into the camp of several savages. Rude huts and lean-to's 
+are erected in a circular clearing. A tree is being hollowed out for a canoe 
+with fire and shell axes.
+~
+141 32768 0 0 0 1
+D0
+The savage camp~
+~
+0 -1 14179 0
+D3
+The savage camp~
+~
+0 -1 14181 0
+E
+canoe tree~
+The canoe has a long way to go.
+~
+S
+#14181
+In the Savage Camp~
+You have blundered into the camp of several savages. Rude huts and lean-to's
+are erected in a circular clearing. Fish is being dried over a smoky pit.
+~
+141 32768 0 0 0 1
+D0
+The savage camp~
+~
+0 -1 14182 0
+D1
+The savage camp~
+~
+0 -1 14180 0
+E
+smoky pit fish~
+The fish looks like its tarpon.
+~
+S
+#14182
+In the Savage Camp~
+You have blundered into the camp of several savages. Rude huts and lean-to's 
+are erected in a circular clearing. Women are fashioning baskets here.
+~
+141 32768 0 0 0 1
+D1
+The savage camp~
+~
+0 -1 14179 0
+D2
+The savage camp~
+~
+0 -1 14181 0
+E
+women baskets~
+Several fat, toothless, naked women are twisting palm fronds into baskets.
+~
+S
+#14183
+At the Cave Entryway~
+You are at the entryway to a vast cave, crammed to the ceiling with 
+miscellaneous cargo boxes. Pallets lie here and there, marking each pirates
+own little area. A trail winds down the mountain, or you can go further
+into the cave.
+~
+141 32768 0 0 0 0
+D0
+The entryway~
+~
+0 -1 14184 0
+D1
+Inside the cave~
+~
+0 -1 14187 0
+D2
+The entryway~
+~
+0 -1 14185 0
+D4
+~
+~
+0 -1 14173 0
+D5
+Down the trail~
+~
+0 -1 14177 0
+S
+#14184
+At the Cave Entryway~
+You are at the entryway to a vast cave, crammed to the ceiling with 
+miscellaneous cargo boxes. Pallets lie here and there, marking each pirates
+own little area.
+~
+141 32768 0 0 0 0
+D1
+Inside the cave~
+~
+0 -1 14186 0
+D2
+The entryway~
+~
+0 -1 14183 0
+S
+#14185
+At the Cave Entryway~
+You are at the entryway to a vast cave, crammed to the ceiling with 
+miscellaneous cargo boxes. Pallets lie here and there, marking each pirates
+own little area.
+~
+141 32768 0 0 0 0
+D0
+The entryway~
+~
+0 -1 14183 0
+D1
+Inside the cave~
+~
+0 -1 14188 0
+S
+#14186
+Inside the Cave~
+You are inside the pirates cave. Around you the riches of many a raid
+lie piled in heaps. Drunken pirates cavort and sing bawdy songs. Torches
+cast menacing shadows on the ceiling.
+~
+141 32776 0 0 0 0
+D1
+Inside the cave~
+~
+0 -1 14189 0
+D2
+Inside the cave~
+~
+0 -1 14187 0
+D3
+The entryway~
+~
+0 -1 14184 0
+S
+#14187
+Inside the Cave~
+You are inside the pirates cave. Around you the riches of many a raid
+lie piled in heaps. Drunken pirates cavort and sing bawdy songs. A huge
+sunken fire pit roars here.
+~
+141 32776 0 0 0 0
+D0
+Inside the cave~
+~
+0 -1 14186 0
+D1
+Inside the cave~
+~
+0 -1 14190 0
+D2
+Inside the cave~
+~
+0 -1 14188 0
+D3
+The entryway~
+~
+0 -1 14183 0
+S
+#14188
+Inside the Cave~
+You are inside the pirates cave. Around you the riches of many a raid
+lie piled in heaps. Drunken pirates cavort and sing bawdy songs. Torches
+cast menacing shadows on the ceiling.
+~
+141 32776 0 0 0 0
+D0
+Inside the cave~
+~
+0 -1 14187 0
+D1
+Inside the cave~
+~
+0 -1 14191 0
+D3
+The entryway~
+~
+0 -1 14185 0
+S
+#14189
+Inside the Cave~
+You are inside the pirates cave. Around you the riches of many a raid
+lie piled in heaps. Drunken pirates cavort and sing bawdy songs. Torches
+cast menacing shadows on the ceiling.
+~
+141 32776 0 0 0 0
+D2
+Inside the cave~
+~
+0 -1 14190 0
+D3
+Inside the cave~
+~
+0 -1 14186 0
+S
+#14190
+At the Throne of the Pirate Lord~
+You stand before the throne of the Pirate Lord. Slave women are chained
+at the feet of the throne to serve the every whim of their lord. The
+throne rests on a beautiful oriental carpet. Behind the throne, iron rungs
+go upward into a shaft above.
+~
+141 32776 0 0 0 0
+D0
+Inside the cave~
+~
+0 -1 14189 0
+D2
+Inside the cave~
+~
+0 -1 14191 0
+D3
+Inside the cave~
+~
+0 -1 14187 0
+D4
+Up the iron rungs~
+~
+0 -1 14193 0
+D5
+Into the dark hole~
+carpet oriental rug secret trap door~
+1 0 14192 1
+E
+carpet oriental~
+As you examine the carpet, you discover a secret trap door!
+~
+S
+#14191
+Inside the Cave~
+You are inside the pirates cave. Around you the riches of many a raid
+lie piled in heaps. Drunken pirates cavort and sing bawdy songs. Torches
+cast menacing shadows on the ceiling.
+~
+141 32776 0 0 0 0
+D0
+Inside the cave~
+~
+0 -1 14190 0
+D2
+~
+~
+0 -1 14195 0
+D3
+~
+~
+0 -1 14188 0
+S
+#14192
+Inside the Dark Prison~
+You stand ankle deep in festering refuse. The sludge reeks and stains
+the walls. In the corner an attempt has been made to make a pallet high
+enough to stay out of the sewage.
+~
+141 32777 0 0 0 0
+D2
+~
+~
+0 0 14070 0
+D4
+Out of the hole~
+trapdoor trap door rug oriental carpet~
+1 0 14190 1
+S
+#14193
+Atop the Mountain~
+You stand high atop the mountain, overlooking the seas of the pirate
+lords. The wind blows through your hair, cleansing the foul odors you
+have had to endure. Waves break on the rocks around the tropical island.
+To the west, you see a small tribal camp, with warriors dancing around 
+the fires.
+~
+141 32768 0 0 0 5
+D5
+Down the iron rungs~
+~
+0 -1 14190 0
+S
+#14194
+In a Quiet Cove~
+You sail on a quiet cove, where the waters are a brilliant turquoise.
+To the south of you the cove enters a dark cave in the looming black 
+mountain. The water is so clear, you can see the bottom.
+~
+141 32768 0 0 0 7
+D2
+Into the cave~
+~
+0 -1 14011 0
+E
+bottom~
+Peering deep into the water, you see orange, red and yellow sea urchins
+on the bottom.
+~
+S
+#14195
+On a Black Sand Beach~
+You stand on an exotic black sand beach. There is no vegetation on this
+island, for as far as you can see. To the south of you a black mountain
+looms. The sand is soft, and your feet sink deeply into its warmth.
+~
+141 32768 0 0 0 11
+D0
+~
+~
+0 -1 14191 0
+D2
+The mountain~
+~
+0 -1 14197 0
+D3
+The beach~
+~
+0 -1 14196 0
+S
+#14196
+On a Black Sand Beach~
+You stand on an exotic black sand beach. There is no vegetation on this
+island, for as far as you can see. To the south and east of you a 
+black mountain looms. Waves curl on a reef 150' off shore, and gently
+roll in to crash at your feet.
+~
+141 32768 0 0 0 11
+D1
+The beach~
+~
+0 -1 14195 0
+D2
+The beach~
+~
+0 -1 14003 0
+S
+#14197
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. From this vantage you have a commanding
+view of the seas and black sand beach.
+~
+141 32768 0 0 0 5
+D0
+The beach~
+~
+0 -1 14195 0
+D1
+The mountain~
+~
+0 -1 14198 0
+D2
+The mountain~
+~
+0 -1 14005 0
+D3
+The beach~
+~
+0 -1 14003 0
+E
+seas view~
+Off in the distance you watch a pirate ship board a merchant galley.
+The fighting is fast and furious, but soon over. The pirates leave 
+trundling their prize aboard, and leave the galley to sink in flaming
+ruin.
+~
+S
+#14198
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. To the south of you, you can climb up and
+over the rim of the black mountain. To the north stretches a calm cove.
+~
+141 32768 0 0 0 5
+D1
+The mountain~
+~
+0 -1 14199 0
+D2
+Over the rim~
+~
+0 -1 14010 0
+D3
+The mountain~
+~
+0 -1 14197 0
+S
+#14199
+Climbing the Black Mountain~
+You are climbing on the steep slopes of a black rock mountain. Hot searing
+gas bursts from vents around you. From this vantage you have a commanding
+view of the red hot lava flows. The lava seems to be flowing steadily from
+two main fissures, and winds its way to the sea to cool in a roaring hiss.
+~
+141 32768 0 0 0 5
+D0
+The lava flows~
+~
+0 -1 14000 0
+D1
+The lava flows~
+~
+0 -1 14002 0
+D2
+The mountain~
+~
+0 -1 14009 0
+D3
+The mountain~
+~
+0 -1 14198 0
+S
+$~

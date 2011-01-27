@@ -1,0 +1,615 @@
+#20500
+ferg beastial~
+a Ferg~
+A beastial Ferg stalks the plains, looking for food.
+~
+The Ferg is tan in color, easily blending into the background of the
+grasslands.  Long, razor-sharp claws and quick reflexes help this
+creature survive in this harsh land.
+~
+10 0 0 0 0 0 0 0 0 E
+116 95 -40 0d0+0 13d13+77
+0 861160
+8 8 0
+Str: 9
+Dex: 18
+Int: 8
+Wis: 18
+Con: 14
+Cha: 13
+Luck: 8
+Race: 8
+E
+#20501
+marcue hyena~
+a Marcues Hyena~
+A hyena-like creature froths angrily at the mouth!
+~
+A powerfully built hybrid of the hyena family, the Marcue is suberbly
+adapted to life in the grasslands.  It's fur is striated in color, the
+wavy pattern helping it blend in the grass.  A bristly hackle surrounds
+it's neck, rising when alarmed.
+~
+10 0 0 0 0 0 0 0 0 E
+115 94 -40 0d0+0 13d13+76
+0 842356
+8 8 0
+Str: 16
+Dex: 18
+Int: 22
+Wis: 16
+Con: 24
+Cha: 24
+Luck: 17
+Race: 1
+E
+#20502
+beterp snake~
+a Beterp~
+A deadly snake, a Beterp, lies in wait for an ambush!
+~
+A small snake, it lies cleverly hidden in ambush.  It's serpentine
+body is green, with light brown striations streaking through it.
+A stout head reveals it to a venomous species.
+~
+10 0 0 0 0 0 0 0 0 E
+114 93 -40 0d0+0 12d13+76
+0 823803
+8 8 0
+Str: 20
+Dex: 8
+Int: 16
+Wis: 23
+Con: 13
+Cha: 24
+Luck: 22
+Race: 2
+E
+#20503
+phlip bird grouse~
+a small Phlip~
+A small grouse-like bird suddenly takes to the air!
+~
+A Phlip is a small, rotund bird of the grasslands.  Dusky brown in 
+colour, it scurries about the tall grasses looking for food and cover.
+~
+10 0 0 0 0 0 0 0 0 E
+106 84 -40 0d0+0 10d11+70
+0 684299
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 25
+Con: 9
+Cha: 22
+Luck: 7
+Race: 3
+E
+#20504
+kylite gazelle~
+a Kylite~
+A slender gazelle with a striped coat bounds about the place.
+~
+The Kylite resembles a small slender antelope.  It's fur coat is 
+two-toned, light brown on top and dark green underneath.  Quick and
+nimble, it does not need to rely on the two small horns it sports on
+it's head.
+~
+10 0 0 0 0 0 0 0 0 E
+109 87 -40 0d0+0 11d12+72
+0 734774
+8 8 0
+Str: 17
+Dex: 24
+Int: 19
+Wis: 16
+Con: 9
+Cha: 25
+Luck: 20
+Race: 1
+E
+#20505
+mahdeen eagle~
+a Mahdeen~
+A Mahdeen eagle looks sharply about for some prey.
+~
+The eagle is easily the largest of the birds that inhabit the area.
+Powerful talons and strong wings enable this eagle to carry off a
+small mammal with ease.  It's eyes are piercing and bright, able to
+see far distances.
+~
+10 0 0 0 0 0 0 0 0 E
+110 88 -40 0d0+0 11d12+73
+0 752086
+8 8 0
+Str: 18
+Dex: 5
+Int: 10
+Wis: 24
+Con: 15
+Cha: 25
+Luck: 13
+Race: 3
+E
+#20506
+fincher~
+a Fincher~
+An annoying Fincher buzzes about, droning loudly!
+~
+The Fincher is a small insect that travel in swarms.  When they are
+not eating vegetation, they like to drone about and harrass others.
+~
+10 0 0 0 0 0 0 0 0 E
+108 86 -40 0d0+0 11d11+72
+0 717706
+8 8 0
+Str: 23
+Dex: 22
+Int: 23
+Wis: 14
+Con: 9
+Cha: 25
+Luck: 8
+Race: 3
+E
+#20507
+stalix~
+a Stalix~
+A Stalix stands here, quietly munching grass.
+~
+The Stalix is cow-like, large and clumsy.  Normally a peaceful
+creature, they will band together for defense.  The three horns
+and sharp hooves on this animal show that it can be nasty when
+provoked. 
+~
+10 0 0 0 0 0 0 0 0 E
+111 89 -40 0d0+0 12d12+74
+0 769644
+8 8 0
+Str: 15
+Dex: 25
+Int: 9
+Wis: 15
+Con: 17
+Cha: 12
+Luck: 20
+Race: 1
+E
+#20508
+locust~
+a Locust~
+A giant Locust hops about, looking for more greens to eat.
+~
+This is a voracious bug, eating just about everything it lands on.
+Large and light green in color, it has two dark spots on it's wings
+which serve to confuse predators as of where the head is.
+~
+10 0 0 0 0 0 0 0 0 E
+90 66 -40 0d0+0 6d7+60
+0 450852
+8 8 0
+Str: 15
+Dex: 23
+Int: 24
+Wis: 12
+Con: 12
+Cha: 25
+Luck: 9
+Race: 5
+E
+#20509
+coatili rodent~
+a Coatili~
+A small rodent quickly scurries by!
+~
+A small fat rodent, the Coatili likes to hide by day and come out
+to forage by night.  It's eye are large, able to see well in what
+limited light there is when the sun goes down.
+~
+10 0 0 0 0 0 0 0 0 E
+112 90 -40 0d0+0 12d12+74
+0 787448
+8 8 0
+Str: 21
+Dex: 24
+Int: 8
+Wis: 10
+Con: 23
+Cha: 24
+Luck: 18
+Race: 1
+E
+#20510
+effarig~
+a long-necked Effarig~
+A long-necked Effarig placidly scans the horizon.
+~
+It's tall height is it's sole means of defense.  It can see the
+surrounding countryside for miles.  It's long legs and neck enables
+it to munch on tree tops with ease.  The reddish-tinted coat makes
+it a valuable collection for furriers.
+~
+10 0 0 0 0 0 0 0 0 E
+113 91 -40 0d0+0 12d13+75
+0 805501
+8 8 0
+Str: 9
+Dex: 14
+Int: 17
+Wis: 7
+Con: 20
+Cha: 9
+Luck: 16
+Race: 1
+E
+#20511
+calf stalix~
+a Stalix calf~
+A calf rests here.
+~
+It is a mirror copy of the adults, except it's missing the trademark
+three horns.  Those will come soon as it comes of age.  Meanwhile, it
+basks in relative safety among the adults who keep a watchful eye on
+it.    
+~
+10 0 0 0 0 0 0 0 0 E
+80 56 -40 0d0+0 6d7+53
+0 333884
+8 8 0
+Str: 10
+Dex: 18
+Int: 12
+Wis: 15
+Con: 16
+Cha: 10
+Luck: 17
+Race: 1
+E
+#20518
+gully dwarf chief~
+the Chief of the Gully Dwarves~
+An important-looking gully dwarf, the Chief, stands here.
+~
+She looks just like any other gully dwarf, except for the fact that
+she is adorned with more junk about her.  Not only that, her girth is
+imposing, a sign of promient social status among her kind.    
+~
+10 0 0 0 0 0 0 0 0 E
+213 223 -100 1d1+0 49d49+142
+3100 4055874
+8 8 0
+Str: 17
+Dex: 15
+Int: 22
+Wis: 18
+Con: 18
+Cha: 15
+Luck: 14
+Race: 13
+E
+#20519
+sentinel gully dwarf~
+a Gully Dwarf Sentinel~
+A Sentinel stands here, alert to any danger.
+~
+A common gully dwarf, dirty and adorned with brick-a-brac, except for
+the fact that he has been trained by mountain dwarves in combat.  
+Hard to believe, especially with the paunch he has, that he could be a
+seasoned fighter.    
+~
+10 0 0 0 0 0 0 0 0 E
+187 186 -100 1d1+0 33d33+124
+2800 2910131
+8 8 0
+Str: 23
+Dex: 16
+Int: 7
+Wis: 24
+Con: 10
+Cha: 8
+Luck: 8
+Class: 4
+Race: 13
+E
+#20520
+steamer dragon~
+a Steamer~
+A dragon prowls about here, steam coming out of it's nostrils.
+~
+The dragon is relatively small for it's kind.  Thick, dull brown 
+scales provide it with excellent armour.  A serpentine body upon
+eight legs allow it to move about with incredible ease.  As a last
+resort, there's always scalding hot steam that it can blast enemies
+with.
+~
+10 0 0 0 0 0 0 0 0 E
+240 263 -100 0d0+0 54d54+160
+3300 4500000
+8 8 0
+Str: 24
+Dex: 13
+Int: 16
+Wis: 22
+Con: 17
+Cha: 14
+Luck: 24
+Race: 9
+E
+#20521
+dwarf gully~
+a Gully Dwarf~
+A lowly gully dwarf screams in fright upon seeing you!
+~
+A chubby little dwarf who seems ordinary in every way, except for the
+assorted pieces of "junk" adorning her garb.  Her hair is wild and
+untamed, face smudged with dirt, fingernails overgrown, discrediting
+any suggestions that her kind are civilized in any way.    
+~
+10 0 0 0 0 0 0 0 0 E
+163 153 -60 0d0+0 24d24+108
+2600 2050193
+8 8 0
+Str: 25
+Dex: 9
+Int: 25
+Wis: 19
+Con: 17
+Cha: 7
+Luck: 10
+Class: 12
+Race: 13
+E
+#20522
+dwarf gully soldier~
+a Gully Dwarf Soldier~
+A rough-looking gully dwarf looks at you with serious intent.
+~
+A common gully dwarf, dirty and adorned with brick-a-brac, except
+for;the fact that he has been trained by mountain dwarves in combat.
+;Hard to believe, especially with the paunch he has, that he could be
+a;seasoned fighter.    
+~
+10 0 0 0 0 0 0 0 0 E
+172 165 -100 0d0+0 26d26+114
+2700 2351332
+8 8 0
+Str: 19
+Dex: 25
+Int: 7
+Wis: 24
+Con: 15
+Cha: 18
+Luck: 14
+Class: 4
+Race: 13
+E
+#20523
+dwarf gully miner~
+a Gully Dwarf Miner~
+A miner scrambles about, looking for more valuable junk.
+~
+Disheveled and dirty, the miner is busy looking for more baubles and
+other "junk" that could promote their status among gully dwarves.    
+~
+10 0 0 0 0 0 0 0 0 E
+165 156 -60 0d0+0 24d25+110
+2600 2114952
+8 8 0
+Str: 24
+Dex: 14
+Int: 5
+Wis: 24
+Con: 9
+Cha: 13
+Luck: 17
+Race: 13
+E
+#20524
+slignoth~
+the Slignoth~
+The reptilian Slignoth lumbers forth!
+~
+The slignoth is an ancient race of retilian beings who have been hunted
+to extinction for thier scaly hide.  The creme-colored scales on the
+hide are tough, making for excellent armour.  A crafty glint in it's
+eyes show that the Slignoth is capable of surviving the odds.
+~
+10 0 0 0 0 0 0 0 0 E
+246 273 -100 0d0+0 54d55+164
+3500 4500000
+8 8 0
+Str: 10
+Dex: 18
+Int: 21
+Wis: 7
+Con: 22
+Cha: 12
+Luck: 9
+Class: 4
+Race: 2
+E
+#20525
+mole star nose~
+a starnosed Mole~
+A gigantic mole sniffs the air as you approach.
+~
+The mole is huge, far larger than any ordinary mole.  A coat of silky,
+grey fur covers it's body.  A pair of spade-like forefeet, starry
+nose, and small eyes indicate that this creature is built for life
+underground.    
+~
+10 0 0 0 0 0 0 0 0 E
+63 40 -40 1d1+0 6d6+42
+0 181566
+8 8 0
+Str: 9
+Dex: 19
+Int: 22
+Wis: 7
+Con: 10
+Cha: 14
+Luck: 15
+Race: 1
+E
+#20526
+worm digger~
+a Digger Worm~
+A strange worm inches about, looking for a new place to start a tunnel.
+~
+A flattened head and a fifteen meter long body show that this is a
+Digger Worm.  Often raised and trained by gully dwarves, the worms are
+used to create the beginnings of new tunnels in the mines.    
+~
+10 0 0 0 0 0 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+0 57012
+8 8 0
+Str: 6
+Dex: 8
+Int: 12
+Wis: 10
+Con: 20
+Cha: 20
+Luck: 20
+Race: 5
+E
+#20527
+centipede~
+a giant Centipede~
+A giant centipede prowls about, it's pinchers click-clacking loudly!
+~
+The centipede is easily ten meters long, complete with a powerful pair
+of crushing pinchers.  Raised and trained by the gully dwarves, the
+centipede bolsters the saftey of the mines by searching for unwanted
+intruders.    
+~
+10 0 0 0 0 0 0 0 0 E
+58 36 -36 1d1+0 5d6+38
+0 147047
+8 8 0
+Str: 20
+Dex: 8
+Int: 20
+Wis: 24
+Con: 12
+Cha: 23
+Luck: 5
+Race: 5
+E
+#20528
+worm glow~
+a giant Glowworm~
+A giant, slimy glowworm hangs from the ceiling on a silken thread.
+~
+Approximately the size of an melon, the glowworms are captured by the
+gully dwarves and used for illuminating the mines.  The slimy, bulbous
+worms do not mind as long as they are fed their favorite food, fungus.
+~
+10 0 0 0 0 0 0 0 0 E
+35 17 -20 1d1+0 3d5+23
+0 40559
+8 8 0
+Str: 10
+Dex: 8
+Int: 19
+Wis: 16
+Con: 21
+Cha: 10
+Luck: 13
+Race: 5
+E
+#20529
+worm blind~
+a Blindworm~
+A slender worm, each end indistinguishible from the other, inches along.
+~
+About two meters long in length, the blindworm is indeed blind.  The
+gully dwarves capture and raise these worms to serve as direction
+finders, as the worms are accutely tuned to the magnetic fields
+surrounding the mines.    
+~
+10 0 0 0 0 0 0 0 0 E
+42 22 -24 1d1+0 4d5+28
+0 64565
+8 8 0
+Str: 14
+Dex: 23
+Int: 10
+Wis: 6
+Con: 21
+Cha: 17
+Luck: 18
+Race: 5
+E
+#20530
+hag blinn figure~
+the Hag of Blinn Flats~
+A stooped figure stands motionlessly here.
+~
+Once a powerful spellcaster, she was badly deformed by a potent spell
+gone wrong.  Stooped and missing some extremities, she fled to Blinn
+Flats to seek solace from the outside world.  Bordering on madness and
+sanity, one can never be sure what internal struggle the Hag faces
+every day.
+~
+10 0 0 0 0 0 0 0 0 E
+228 245 -100 0d0+0 51d51+152
+3200 4500000
+8 8 0
+Str: 10
+Dex: 9
+Int: 24
+Wis: 12
+Con: 21
+Cha: 16
+Luck: 9
+Class: 1
+Race: 20
+E
+#20531
+eel swamp~
+a Swamp Eel~
+A slimy, snake-like eel slowly undulates through the water.
+~
+The bulbous, mucous-coated eel likes to feast on carcasses.  Slowly
+boring it's way inside a dead body, it feeds upon rotten flesh.  
+Growing up to a length of fifteen hands, the eel is a repulsive sight.
+~
+10 0 0 0 0 0 0 0 0 E
+106 84 -40 0d0+0 10d11+70
+0 684299
+8 8 0
+Str: 20
+Dex: 17
+Int: 7
+Wis: 19
+Con: 17
+Cha: 9
+Luck: 22
+Race: 4
+E
+#20532
+bat dingbat~
+a Dingbat~
+A mishapen bat of some sort slowly flaps by.
+~
+The Dingbat is a gaunt, almost skeletal, bat of the swamp environ.
+Despite it's clumsy appearance, it can change directions quickly in
+mid-flight.  About five hands across in wingspread, it flies about
+in search of food.
+~
+10 0 0 0 0 0 0 0 0 E
+105 82 -40 0d0+0 10d11+70
+0 667958
+8 8 0
+Str: 15
+Dex: 20
+Int: 17
+Wis: 19
+Con: 20
+Cha: 19
+Luck: 19
+Race: 3
+E
+$

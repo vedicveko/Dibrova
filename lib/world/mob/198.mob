@@ -1,0 +1,277 @@
+#19801
+wooden golem~
+a Wooden Golem~
+/cyA wooden golem stands here./c0
+~
+The golem almost appears to be a statue as it stands completely still.
+~
+2058 0 0 0 16 131072 0 0 50 E
+120 100 -40 0d0+0 14d14+80
+2450 938920
+8 8 1
+Str: 23
+Dex: 6
+Int: 15
+Wis: 21
+Con: 13
+Cha: 25
+Luck: 10
+Class: 4
+Race: 33
+E
+T 19804
+T 19805
+#19802
+stone golem~
+a Stone Golem~
+A stone golem stands here.
+~
+The stone golem almost appears to be a statue as it stands completely still.
+~
+67594 0 0 0 80 0 0 0 100 E
+125 105 -60 0d0+0 15d15+83
+2500 1041926
+8 8 1
+BareHandAttack: 6
+Str: 19
+Dex: 18
+Int: 8
+Wis: 10
+Con: 22
+Cha: 10
+Luck: 19
+Class: 4
+Race: 33
+E
+T 19804
+T 19805
+#19803
+iron golem~
+an Iron Golem~
+An iron golem stands here.
+~
+The iron golem almost appears to be a statue as it stands completely still.
+~
+2074 0 0 0 80 0 0 0 150 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+BareHandAttack: 6
+Str: 9
+Dex: 8
+Int: 22
+Wis: 8
+Con: 15
+Cha: 16
+Luck: 14
+Class: 9
+Race: 33
+E
+T 19804
+T 19805
+#19804
+diamond golem~
+a Diamond Golem~
+A diamond golem stands here.
+~
+The diamond golem almost appears to be a statue as it stands
+completely still.    
+~
+149514 0 0 0 80 2 134217728 0 200 E
+135 117 -60 0d0+0 16d17+90
+2500 1267849
+8 8 1
+BareHandAttack: 6
+Str: 5
+Dex: 6
+Int: 15
+Wis: 17
+Con: 8
+Cha: 15
+Luck: 24
+Class: 4
+Race: 33
+E
+T 19805
+#19805
+obsidian golem~
+an Obsidian Golem~
+An obsidian golem stands here.
+~
+The obsidian golem almost appears to be a statue as it stands
+completely still.    
+~
+215066 0 0 0 80 1 0 0 0 E
+140 124 -60 0d0+0 17d17+93
+2500 1599707
+8 8 1
+Str: 18
+Dex: 8
+Int: 21
+Wis: 18
+Con: 5
+Cha: 20
+Luck: 22
+Class: 4
+Race: 33
+E
+T 19805
+#19806
+wooden golem king~
+the Wooden Golem King~
+The wooden golem king sits here in his throne.
+~
+The wooden golem king looks very powerful.
+~
+10 0 0 0 0 0 0 0 0 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 16
+Int: 21
+Wis: 13
+Con: 20
+Cha: 8
+Luck: 21
+Class: 4
+Race: 33
+E
+T 19801
+#19807
+stone golem king~
+the Stone Golem King~
+The stone golem king sits in his throne.
+~
+The stone golem king looks extremely powerful.
+~
+196618 0 0 0 80 0 0 0 0 E
+135 117 -60 0d0+0 16d17+90
+2500 1267849
+8 8 1
+BareHandAttack: 6
+Str: 17
+Dex: 19
+Int: 9
+Wis: 6
+Con: 13
+Cha: 6
+Luck: 5
+Class: 1
+Race: 33
+E
+T 19801
+#19808
+iron golem king~
+the Iron Golem King~
+The iron golem king sits in his throne.
+~
+The iron golem king looks like he can kick your ass!
+~
+196634 0 0 0 64 131072 0 0 0 E
+140 124 -60 0d0+0 17d17+93
+2500 1391050
+8 8 1
+BareHandAttack: 6
+Str: 15
+Dex: 22
+Int: 13
+Wis: 24
+Con: 9
+Cha: 8
+Luck: 15
+E
+T 19801
+#19809
+diamond golem king~
+the Diamond Golem King~
+The diamond golem king sits in his throne.
+~
+The diamond golem king looks like he can easily kick your ass!
+~
+131098 0 0 0 80 2 134217728 0 0 E
+150 136 -60 0d0+0 20d20+100
+2500 1658628
+8 8 1
+BareHandAttack: 6
+Str: 19
+Dex: 21
+Int: 15
+Wis: 21
+Con: 12
+Cha: 17
+Luck: 25
+Class: 1
+Race: 33
+E
+T 19801
+#19810
+obsidian golem king~
+the Obsidian Golem King~
+The obsidian golem king sits in his throne.
+~
+The obsidian golem king looks like he can easily kill you!
+~
+32778 0 0 0 16 131073 0 0 0 E
+155 143 -60 0d0+0 21d22+103
+2550 2073767
+8 8 1
+BareHandAttack: 6
+Str: 24
+Dex: 9
+Int: 14
+Wis: 15
+Con: 22
+Cha: 9
+Luck: 15
+Class: 9
+Race: 33
+E
+T 19802
+#19811
+shadow golem~
+a Shadow Golem~
+A shadow golem is standing here.
+~
+The shadow golem looks very upset at your presence!
+~
+233514 0 0 0 80 1026 0 0 -1000 E
+145 130 -60 0d0+0 18d18+96
+2500 1521265
+8 8 1
+BareHandAttack: 6
+Str: 7
+Dex: 21
+Int: 19
+Wis: 19
+Con: 13
+Cha: 5
+Luck: 9
+Class: 3
+Race: 33
+E
+#19812
+golem keeper secrets~
+the Golem Keeper of Secrets~
+The Golem Keeper of Secrets stands here, looking for help.
+~
+The golem keeper of secrets stares back at you with a pair of raging eyes!
+~
+2058 0 0 0 336 131074 0 0 0 E
+150 136 -60 0d0+0 20d20+100
+3125 1824490
+8 8 1
+BareHandAttack: 6
+Str: 20
+Dex: 9
+Int: 17
+Wis: 14
+Con: 12
+Cha: 6
+Luck: 8
+Class: 8
+Race: 33
+E
+T 19803
+$

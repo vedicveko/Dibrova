@@ -1,0 +1,335 @@
+#12700
+giant crab red~
+a giant Crab~
+A giant crab is moving along just under the water.
+~
+The giant crab looks just like a regular crab except for its enormous
+size.  It has eyes set on stalks, which enables it to see around
+corners and onto ledges.  Its body is covered by a large, chitinous
+red shell.    
+~
+16460 0 0 0 128 0 0 0 0 E
+30 14 -20 1d1+0 3d4+15
+0 27376
+8 8 0
+BareHandAttack: 8
+Str: 13
+Dex: 9
+Wis: 20
+Cha: 21
+Luck: 13
+Race: 4
+E
+#12701
+giant crab grey~
+a huge Crab~
+A huge crab scuttles about, looking for food.
+~
+The giant crab looks just like a regular crab except for its enormous
+size.  It has eyes set on stalks, which enables it to see around
+corners and onto ledges.  Its body is covered by a large, chitinous
+grey shell.    
+~
+22540 0 0 0 128 0 0 0 0 E
+35 17 -20 1d1+0 3d6+17
+0 40559
+8 8 0
+BareHandAttack: 6
+Str: 10
+Dex: 12
+Int: 5
+Wis: 5
+Con: 19
+Cha: 8
+Luck: 18
+Race: 4
+E
+#12702
+giant crayfish~
+a giant Crayfish~
+A giant crayfish waits for a meal here.
+~
+The giant crayfish is muddy brown color.  It has a multi-plated shell,
+numerous legs, eyes set on stalks, and two wicked pincers.    
+~
+546830 0 0 0 128 0 0 0 0 E
+45 25 -24 1d1+0 4d5+30
+0 76985
+8 8 0
+BareHandAttack: 8
+Str: 21
+Dex: 10
+Int: 15
+Wis: 6
+Con: 21
+Cha: 24
+Luck: 8
+Race: 4
+E
+#12703
+Dolphin fish~
+a Dolphin~
+A dolphin is playing in the water.
+~
+The Dolphin has a long, compact body, with a large fin on their backs,
+two flippers, a powerful tail, jaws filled with many sharp teeth, a
+blow hole, and is 5 feet long.    
+~
+67656 0 0 0 144 0 0 0 100 E
+65 42 -40 1d1+0 6d6+43
+0 196628
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 22
+Int: 10
+Wis: 12
+Con: 14
+Cha: 12
+Luck: 19
+Race: 1
+E
+#12704
+Neogi eel~
+a Neogi~
+Some sort of eel is floating here.
+~
+The Neogi is a cross between a wolf spider and a moray eel.  It has a
+short, furry, eight-limbed body is topped by a lithe, bare, fleshy
+neck with a serpentine head, its mouth filled with needle-sharp teeth.
+The ends of its limbs are tipped with small claws.    
+~
+67225672 0 0 0 33554576 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+0 283219
+8 8 0
+BareHandAttack: 8
+Str: 8
+Dex: 15
+Int: 14
+Wis: 13
+Con: 8
+Cha: 25
+Luck: 16
+Race: 4
+E
+#12705
+sea lion~
+a Sea Lion~
+A sea lion paddles along.
+~
+The Sea Lion has vicious looking teeth and huge paws.  Its head is
+covered by a thick mane.    
+~
+4168 0 0 0 128 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+0 100714
+8 8 0
+BareHandAttack: 9
+Str: 16
+Dex: 17
+Int: 10
+Wis: 9
+Con: 10
+Cha: 10
+Luck: 10
+Race: 1
+E
+#12706
+Sirine female~
+a Sirine~
+A beautiful, human-like female is floating naked here.
+~
+The Sirine has lovely long black hair and soft brown eyes.  Her skin
+is suntanned and beyond the water covering her body, she is wearing
+nothing else.    
+~
+596040 0 0 0 2192 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+1400 333884
+8 8 0
+Str: 16
+Dex: 17
+Int: 13
+Con: 17
+Cha: 23
+Luck: 20
+Class: 1
+Race: 22
+E
+#12707
+shark~
+a Shark~
+A shark is hunting in these waters.
+~
+The Shark is of average size, as far as Sharks go.  Its rows of teeth
+can been seen as it opens and closes its mouth.    
+~
+16488 0 0 0 208 0 0 0 0 E
+40 21 -20 1d1+0 4d5+26
+0 57012
+8 8 0
+BareHandAttack: 4
+Str: 8
+Dex: 21
+Int: 16
+Wis: 21
+Cha: 20
+Luck: 18
+Race: 4
+E
+#12708
+giant shark~
+a giant Shark~
+A giant shark prowls about in the water.
+~
+The Shark is VERY large.  Its rows of teeth can been seen as it opens
+and closes its cavernous mouth.    
+~
+67635272 0 0 0 208 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+0 237528
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 13
+Int: 22
+Wis: 17
+Con: 23
+Cha: 22
+Luck: 10
+Race: 4
+E
+#12709
+whale gray~
+a Gray Whale~
+A majestic grey whale surfaces for a brief moment before diving again.
+~
+The Gray Whale is nearly sixty feet long.  It has grayish-black color
+hide and leaves a large wake behind it as it passes throught the water.
+~
+231496 0 0 0 144 131072 0 0 0 E
+72 48 -40 1d1+0 6d6+48
+0 255219
+8 8 0
+BareHandAttack: 10
+Str: 16
+Dex: 17
+Int: 14
+Wis: 25
+Con: 12
+Cha: 10
+Luck: 9
+Race: 1
+E
+#12710
+killer whale~
+a Killer Whale~
+A killer whale looks for it's next meal.
+~
+The Killer While is enormous.  It has beedy red angry eyes and a large
+black tail fin.    
+~
+530536 0 0 0 128 0 0 0 -100 E
+77 53 -40 1d1+0 6d7+51
+0 302878
+8 8 0
+BareHandAttack: 4
+Str: 8
+Dex: 13
+Int: 15
+Wis: 19
+Con: 8
+Cha: 5
+Luck: 8
+Race: 1
+E
+#12711
+Leviathan whale~
+a Leviathan~
+The lord of all whales in this sea is here.
+~
+The Leviathan is an immense whale that is 500 feet long.  Its very
+size is intimidating.    
+~
+33654856 0 0 0 65680 4325376 0 0 0 E
+99 76 -40 1d1+0 6d8+66
+0 574891
+8 8 0
+BareHandAttack: 12
+Str: 18
+Dex: 6
+Int: 20
+Wis: 12
+Con: 13
+Cha: 19
+Luck: 16
+Race: 10
+E
+#12712
+manta ray~
+the Manta Ray~
+An enormous manta ray gracefully flaps it's way through the water.
+~
+The Manta Ray looks very graceful as it glides along.  It has a very
+large 'wing' span.    
+~
+2124 0 0 0 128 0 0 0 0 E
+56 34 -32 1d1+0 5d6+37
+0 134460
+8 8 0
+BareHandAttack: 1
+Str: 24
+Dex: 14
+Int: 12
+Wis: 7
+Con: 16
+Cha: 25
+Luck: 16
+Race: 4
+E
+#12713
+marine eel~
+a Marine Eel~
+A large marine eel slinks along.
+~
+The Marine Eel has a long slimy looking body.  The water around it
+sizzles as it passes through.    
+~
+236 0 0 0 128 0 0 0 0 E
+62 39 -40 1d1+0 5d6+41
+0 174307
+8 8 0
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 5
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 5
+Race: 4
+E
+#12714
+Barracuda fish~
+a Barracuda~
+A quick mean looking fish streaks through the waves.
+~
+The Barracuda has a very sinister look to it.  It has many very razor
+sharp teeth in its mouth.  It almost looks as if it is smiling at you.
+~
+67174472 0 0 0 33554576 0 0 0 0 E
+58 36 -36 1d1+0 5d6+38
+0 147047
+8 8 0
+BareHandAttack: 4
+Str: 8
+Dex: 15
+Int: 18
+Wis: 12
+Con: 17
+Cha: 22
+Luck: 19
+Race: 4
+E
+$

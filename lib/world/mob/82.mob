@@ -1,0 +1,543 @@
+#8200
+tam'ala~
+the Tam'ala~
+A gaping maw lined with jagged, needle-like teeth lies just hidden in the sand.
+~
+The Tam'ala is a predator that has successfully hunted in this desert
+for centuries.  It is one of feared reknown and might.  No one truly
+knows how the Tam'ala actually looks, for the body is hidden deep in
+the sand.  Very few survivors have been able to escape the clutches of
+its huge maw intact.    
+~
+206910 0 0 0 269484096 0 0 0 -1000 E
+30 14 -20 1d30+2250 3d4+15
+0 27376
+8 8 1
+BareHandAttack: 2
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 18
+Luck: 12
+Race: 5
+E
+#8201
+dust devil~
+a Dust Devil~
+A furious blur of dust whirls about.
+~
+The Dust Devil is an annoying inhabitant of the Kubalai desert.  
+Small and made up of millions of dust particles, it likes to roam
+about the desert tormenting travellers.  A pair of glowing, black eyes
+among the swirling dust gleam evily as it whirls about maddenly.    
+~
+211676 0 0 0 41959432 0 0 0 -500 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 10
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 14
+Luck: 12
+Class: 3
+Race: 30
+E
+#8202
+asp snake~
+an Asp~
+A dusty colored snake lies half-buried in the sand.
+~
+The Asp is a poisonous resident of the desert.  It lies to lie in the
+sand in hopes of ambushing its meal.  Rather stout for a snake, it
+sports a rippling pattern of tan scales which blend in magically with
+the sand.  A pair of "horns" behind the eyes shelter them from the
+flying sand.    
+~
+2136 0 0 0 269484100 0 0 0 0 E
+23 9 8 1d23+1600 2d4+11
+0 13903
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 21
+Luck: 12
+Race: 2
+E
+#8203
+dune beetle~
+a Dune Beetle~
+A large, dusky-colored beetle ambles by, scavenging for tidbits.
+~
+The Dune Beetle is a harmless creature that forages about the desert,
+looking for tidbits to survive.  Carrying a hard shell, it is
+impervious to the harsh elements that it calls home.  Ambling about,
+it pays attention only to unnatural movements in the sand.    
+~
+67784 0 0 0 268435472 2 0 0 0 E
+21 8 16 1d21+1200 2d3+10
+0 11024
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 5
+E
+#8204
+whirlwind~
+a Whirlwind~
+A mischevious funnel of air dances by.
+~
+Good natured and known to help travellers find their way though the
+desert, Whirlwinds are a secretive race.  Where they come from remains
+a secret among themselves.  Nothing more than a swirling funnel of
+cool air, it dances about through the desert looking for merriment.  
+~
+162268 0 0 0 41951240 0 0 0 500 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 0
+BareHandAttack: 6
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 30
+E
+#8205
+gra'lan hound~
+a Gra'lan Hound~
+A Gra'lan hound lopes by effortlessly in the heat.
+~
+Large and slender hounds, the Gra'lans resemble greyhounds except they
+are much larger.  Large ears and bright eyes show that these creatures
+are intelligent and to be respected.  It's pale brown form lopes by
+with effortless grace, showing that it can best the hardiest prey in a
+hunt through the desert.    
+~
+47192 0 0 0 64 2 0 0 300 E
+24 10 4 1d24+1800 2d4+12
+0 15497
+8 8 0
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Race: 1
+E
+#8206
+scorpion~
+a Scorpion~
+A Scorpion scuttles by, waving its stinger warningly.
+~
+Pale yellow in color, the Scorpion is difficult to spot among the
+swirling sands.  Fortunately, it is more wary of humanoids and moves
+out of range and harm.  Two large pinchers clack together, making a
+warning sound that it does not want to be trifled with.    
+~
+34904 0 0 0 805306432 0 0 0 0 E
+22 9 12 1d22+1400 2d3+11
+0 12413
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 23
+Luck: 12
+Race: 43
+E
+#8207
+nomad chief~
+a Nomad Chief~
+The Chief of the nomads stands here, regally.
+~
+The Chief has rightfully obtained this position among his people by
+defying the clutches of the Tam'ala.  Tall, strong, and weather-worn
+show that this man knows all about life in the harsh desert.    
+~
+61466 0 0 0 167772224 0 0 0 500 E
+29 13 -16 1d29+2200 3d3+19
+250 26364
+8 8 1
+BareHandAttack: 6
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Class: 4
+Race: 14
+E
+#8208
+nomad man~
+a Nomad~
+A tall man, swathed in protective clothing stands here.
+~
+Completely covered in protective swathes of cloth, the nomad is one
+who can take on the tough life in the desert.  Strong hands and a
+weathered look on his face reveal a kind, and hardworking individual.
+He is a ferocious fighter, having styled his fighting skills after
+those of the desert.    
+~
+145432 0 0 0 268435520 0 0 0 100 E
+26 11 -4 1d26+2050 2d3+17
+200 19006
+8 8 1
+BareHandAttack: 13
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 5
+Luck: 12
+Race: 14
+E
+#8209
+nomadic rider~
+a Nomadic Rider~
+A merry smile and adventurous look mark this nomad as a Rider.
+~
+The Riders of the camp are brave individuals who go out into the
+desert and scout for food and water.  Prepared and mentally tough,
+they are suberb survivalist.  Of all the nomads in the camp, the
+Riders are the elite survivors.    
+~
+243736 0 0 0 301989952 0 0 0 300 E
+28 13 -12 1d28+2150 2d4+18
+250 22959
+8 8 2
+BareHandAttack: 7
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 21
+Luck: 12
+Class: 4
+Race: 14
+E
+#8210
+nomad female~
+a Nomad~
+A slender nomad, swathed on protective clothing, walks by.
+~
+Completely covered and protected from the harsh environment, the
+nomadic women are every bit as tough as the men.  Raised in an
+environment that disregards gender differences, she is capable of
+everything that the men can do.  It is the only way the camp could
+ever survive in the desert.    
+~
+145432 0 0 0 268435520 0 0 0 100 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Cha: 7
+Luck: 12
+Race: 14
+E
+#8211
+dijin~
+a Dijin~
+A translucent being hovers in the air, grinning evily.
+~
+The Dijin is an evil being whos presence the nomads have chosen to
+tolerate.  The Dijin is only concerned with its well-being and flies
+into temper tantrums which can be caustrophic.  Medium-sized and
+translucent, it looks like a cross between a demon and a human.  
+Magical energies surround it, making it a formidable opponent to
+anyone who dares to threaten it.    
+~
+75966 0 0 0 67371024 2 0 0 -800 E
+24 10 4 1d24+1800 2d3+16
+150 17820
+8 8 0
+BareHandAttack: 15
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 12
+Luck: 12
+Class: 1
+Race: 51
+E
+#8212
+sir'kas feline~
+a Sir'kas~
+A feline form slinks by behind the mounds of shifting sands.
+~
+The Sir'kas is a feline that has adapted to the desert life.  A suberb
+hunter, it likes the solitary life and shuns others.  The nomads
+revere it, along with the Gra'lans, for its ferocious attack and
+stealth.  Long claws and a lithe, muscular body places the Sir'kas as
+king among felines.    
+~
+79960 0 0 0 64 2 0 0 248 E
+24 10 4 1d24+1800 2d3+16
+0 15497
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 1
+E
+#8213
+statue~
+a Statue~
+A weather-worn statue stands here, slowly worn away by the abrasive sand.
+~
+Built long ago from the very rocks that make up the Pyramid, the
+statue shares a sentinent link with the structue and will react
+accordingly to protect it from harm.  Standing well over ten feet tall
+and modeled after some unknown god, it stands here forever guarding
+the rapidly buried structure.    
+~
+243722 0 0 0 268435536 2 0 0 -400 E
+28 13 -12 1d28+2150 2d4+18
+0 22959
+8 8 0
+BareHandAttack: 7
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Luck: 12
+Class: 4
+Race: 30
+E
+#8214
+mummy~
+a Mummy~
+A being wrapped in tattered strips of cloth stands here motionlessly.
+~
+The Mummy is the remanants of a person who died long ago.  It lives
+still due to the powerful magics of the long gone people of this
+pyramid.  Grey and bleached white strips hang about in loose folds, as
+the mummy stands guard.  Hollow sockets showing through narrow slits
+watch every move one makes in here.    
+~
+178232 0 0 0 1590336 0 0 0 430 E
+25 11 0 1d25+2000 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 16
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 24
+Luck: 12
+Race: 48
+E
+#8215
+ibis~
+an Ibis~
+A regal bird, carved from stone, comes to life and preens itself.
+~
+Ibis, revered by the people of the pyramid, enjoys the sanctuary
+offered here.  A graceful bird with long legs and neck, curved bill,
+and pale pink plumage is the symbol of holiness here.  It turns to
+stone in times of hardship and re-animates in times of joy.    
+~
+260252 0 0 0 8650816 0 0 0 780 E
+27 12 -8 1d27+2100 2d4+18
+0 23018
+8 8 0
+BareHandAttack: 3
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 22
+Luck: 12
+Race: 3
+E
+#8244
+sand worm~
+a Sandworm~
+A large sandworm erupts from beneath the sand before you.
+~
+The Sandworm is a creature suberbly adapted for life in the desert.  
+Tough leathery skin help protect it against the hot sand and
+dehydration.  A long streamlined body with a pointed snout help it to
+travel with ease just below the surface of the sand.  With a roar, it
+stands poised to strike!    
+~
+223352 0 0 0 786496 0 0 0 -300 E
+24 10 4 1d24+1800 2d3+16
+0 17046
+8 8 0
+BareHandAttack: 12
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 25
+Luck: 12
+Race: 5
+E
+#8252
+vulture~
+a Vulture~
+A vulture is soaring, slowly spiraling up on the warm air currents.
+~
+The vulture is not a native inhabitant of the desert.  It has flown
+from the nearby forest, knowing that the warm air currents are
+delightful for soaring as well as the abundance of carcasses to feast
+upon.    
+~
+204 0 0 0 8388608 0 0 0 -200 E
+20 8 20 1d20+1000 1d4+13
+0 9735
+8 8 1
+BareHandAttack: 14
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 9
+Luck: 12
+Race: 3
+E
+#8256
+camel~
+a Camel~
+A camel is strolling along here.
+~
+The camel walks by slowly, trying to conserve energy for she knows
+that the nearest oasis is miles away.  Sandy brown with corase hairs,
+long eyelashes the protect the eyes from flying sands, and a thick
+rubbery lips for eating the spiny plants show that she can handle life
+out here easily.    
+~
+262348 0 0 0 268435520 0 0 0 200 E
+20 8 20 1d20+1000 1d4+13
+0 9735
+8 8 2
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 16
+Luck: 12
+Race: 1
+E
+#8268
+pharoah~
+the Great Pharoah~
+The Great Pharoah stands before you watching your every move.
+~
+The Great Pharoah is touring his kingdom.  Dressed in the splendors of
+Egyptian royalty, he strides forth.  A beaten gold anhk necklace, a
+pair of smitten silver bracelets, skin of the Cheetah as clothing, and
+a cape made from Ibis feathers mark him as the ruler of the desert.  
+~
+260122 0 0 0 167772208 2 0 0 1000 E
+29 13 -16 1d29+2200 3d3+19
+250 26364
+8 8 1
+BareHandAttack: 7
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 8
+Luck: 12
+Class: 4
+Race: 14
+E
+#8270
+mirage~
+a Mirage~
+A mirage seems to glimmer and shimmer in the intense heat.
+~
+The Mirage is a formless and shapeless inhabitant of the desert.  It
+delights in tricking unwary travelers into walking towards places that
+do not exist.  It is devious and enjoys looting corpses of those who
+fall for it's trickery.    
+~
+163036 0 0 0 310902792 0 0 0 0 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 0
+BareHandAttack: 15
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 14
+Luck: 12
+Class: 3
+Race: 30
+E
+#8274
+sphinx~
+the Great Sphinx~
+The Sphinx rests here, half-buried in the drifting sands.
+~
+The Sphinx has been buried under the sands for decades, until the
+recent wind storm released it from the sandy depths.  A massive
+lion-like body, resting at a crouch, and a human's head makes up this
+creature.  Having lived eons, it is one of the wisest creatures in all
+the realms.    
+~
+260122 0 0 0 327744 4194304 0 0 0 E
+29 13 -16 1d29+2200 3d3+19
+250 27619
+5 5 0
+BareHandAttack: 6
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 5
+Luck: 12
+Class: 1
+Race: 10
+E
+$

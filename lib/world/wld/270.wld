@@ -1,0 +1,2710 @@
+#27000
+On the Path~
+You are on the gravel path. To the east is a vast grassy plain and
+the dying forest is westward. The path also continues south to a
+dotted red line on the ground, beyond which is a dense, swirling
+fog. Just in front of the line is a notice board.
+~
+270 0 2
+D0
+~
+~
+0 0 27001
+D1
+~
+~
+0 0 27005
+D3
+~
+~
+0 0 27015
+E
+path~
+The path is about three metres wide and made of gravel.
+~
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+S
+#27001
+On the Path~
+You are on a gravel path. To the east is a vast, grassy wilderness
+and the dying forest is westward. The path also continues south.
+~
+270 0 2
+D0
+~
+~
+0 0 27002
+D1
+~
+~
+0 0 27006
+D2
+~
+~
+0 0 27000
+D3
+~
+~
+0 0 27016
+E
+path~
+The path is about three metres wide and made of gravel.
+~
+S
+#27002
+On the Path~
+You are on a gravel path leading north to two snow capped mountains.
+To the west is a dying forest. Eastward is a vast, grassy plain and
+the path also continues southward.
+~
+270 0 2
+D0
+~
+~
+0 0 27003
+D1
+~
+~
+0 0 27007
+D2
+~
+~
+0 0 27001
+D3
+~
+~
+0 0 27017
+E
+path~
+The path is about three metres wide and made of gravel.
+~
+S
+#27003
+On the Path~
+You are on the gravel path leading north to the mountains.
+Northwestward, off the path, is an area of moorland just north of
+the forest. The path also continues southward.
+~
+270 0 2
+D0
+~
+~
+0 0 27004
+D2
+~
+~
+0 0 27002
+E
+path~
+The path is about three metres wide and made of gravel.
+~
+S
+#27004
+On the Path~
+You are on the gravel path. Directly north are foothills leading up
+the southernmost mountain. Westward is the mountainous region and
+the path continues north and south.
+~
+270 0 2
+D0
+Nothing.
+~
+~
+0 0 27026
+D2
+~
+~
+0 0 27003
+E
+path~
+The path is about three metres wide and made of gravel.
+~
+S
+#27005
+Grassy Plain~
+This is an extensive area of grassy plain. Looking westward you can
+recognise the gravel path. To the south, there is a dotted red line
+on the ground with a dense, swirling fog beyond. Just in front of
+the line stands a notice board.
+~
+270 0 2
+D0
+~
+~
+0 0 27006
+D1
+~
+~
+0 0 27010
+D3
+~
+~
+0 0 27000
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+S
+#27006
+Grassy Wilderness~
+You find yourself in a vast wilderness of grassy plain extending to
+the limit of your vision in every direction.
+~
+270 0 2
+D0
+~
+~
+0 0 27007
+D1
+~
+~
+0 0 27009
+D2
+~
+~
+0 0 27005
+D3
+~
+~
+0 0 27001
+S
+#27007
+Grassy Plain~
+This is a vast expanse of grassy plain. To the west is the gravel
+path, and the plain extends as far as you can see to the east.
+Northward, the terrain becomes rocky and dangerous. Honest John the
+travelling salesman is here. He has a friendly air as he tries to
+sell you his goods from the back of a wooden cart pulled by a mangy
+old donkey.
+"Ah, here's a likely customer", he says with a confident patter,
+"are you on a quest?" And without waiting for an answer, "then
+you'll need to get kitted out and I've got just the things:
+Some iron rations for those peckish moments on dungeon journeys, for
+only 1 ferg. Some silver armour worthy of any true adventurer, for
+only 2 fergs. A bottle of whiskey distilled by the highly acclaimed
+Roobikyoub tribe of dwarfs, for only 2 fergs. Some sparkling spring
+water from the exclusive Obakanga valley in southern Kerovnia, for
+only 1 ferg. A bottle of Farthington's real ale (complete with twigs
+and sediment), for only 1 ferg. I don't accept credit even if it's
+good (it's a matter of principle)."
+~
+270 0 2
+D1
+~
+~
+0 0 27008
+D2
+~
+~
+0 0 27006
+D3
+~
+~
+0 0 27002
+E
+wooden cart~
+The cart is used for carrying Honest John's wares about.
+~
+E
+mangy old donkey~
+The donkey looks tired and worn out after a life of interminable
+drudgery.
+~
+S
+#27008
+Cliff~
+You are at the edge of a cliff. To the east, far below, a fast
+flowing river runs south along a ravine. Westward is the vast
+wilderness and northwards the terrain becomes rocky and dangerous.
+~
+270 0 2
+D2
+~
+~
+0 0 27009
+D3
+~
+~
+0 0 27007
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+cliff~
+The cliff is a sheer rockface descending away from you at an
+alarming rate.
+~
+E
+ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+S
+#27009
+Stone Bridge~
+You are near the edge of a cliff. To the east, a stone bridge spans
+a deep ravine at the bottom of which runs a fast flowing river.
+Westward leads onto an extensive, grassy plain.
+~
+270 0 2
+D0
+~
+~
+0 0 27008
+D1
+~
+~
+0 0 27011
+D2
+~
+~
+0 0 27010
+D3
+~
+~
+0 0 27006
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+cliff~
+The cliff is a sheer rockface descending away from you at an
+alarming rate.
+~
+E
+ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+E
+stone bridge~
+The stone bridge has no hand rails and is formed from the same stone
+as the cliff (there doesn't seem to be any join).
+~
+S
+#27010
+Bank~
+You find yourself at the edge of a cliff. To the east, far below, a
+fast flowing river runs south along a ravine. Westward leads into a
+vast, grassy wilderness. Looking south, you can see a red dotted
+line on the floor beyond which is a dense, swirling fog. Just in
+front of the line is a notice board.
+~
+270 0 2
+D0
+~
+~
+0 0 27009
+D3
+~
+~
+0 0 27005
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+cliff~
+The cliff is a sheer rockface descending away from you at an
+alarming rate.
+~
+E
+ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+S
+#27011
+On the Bridge~
+You are halfway across the stone bridge. The river below you runs
+south, and eastward you can see a high wall with an open gateway
+leading to the gardens of the golden palace.
+~
+270 0 1
+D1
+~
+~
+0 0 27012
+D3
+~
+~
+0 0 27009
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+cliff~
+The cliff is a sheer rockface descending away from you at an
+alarming rate.
+~
+E
+ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+E
+stone bridge~
+The stone bridge has no hand rails and is formed from the same stone
+as the cliff (there doesn't seem to be any join).
+~
+E
+golden palace~
+The golden palace has fallen from its former glory and is no longer
+a worthy home for rats, let alone royalty.
+~
+S
+#27012
+Palace Gardens~
+You are in the palace gardens where rose bushes and the herbaceous
+borders are neatly arranged around a central fountain. Surrounding
+the gardens is a high wall through which there are two exits, east
+to the gatehouse and west to the stone bridge. Standing in the
+southwest corner of the gardens is a small toolshed.
+~
+270 0 1
+D1
+~
+~
+0 0 27014
+D2
+~
+wooden door~
+1 27000 27013
+D3
+~
+~
+0 0 27011
+E
+shed toolshed~
+The shed is typical of an everyday toolshed from your own world. It
+has a small wooden door.
+~
+E
+golden palace~
+The golden palace has fallen from its former glory and is no longer
+a worthy home for rats, let alone royalty.
+~
+E
+rose bushes~
+The rose bushes are of a rare species that only grow in adventures.
+~
+E
+borders~
+The borders are a colourful collection of summer flowers.
+~
+E
+walls~
+The wall is about twenty feet high and topped with barbed wire.
+~
+E
+wooden door~
+The door is old, rotten and smells strongly of creosote.
+~
+S
+#27013
+In the Shed~
+Inside the toolshed you are confronted by a profusion of old pieces
+of gardening equipment. Against the north wall stands a wooden
+workbench and a door leads back into the gardens.
+~
+270 8 0
+D0
+~
+wooden door~
+1 27000 27012
+E
+shed toolshed~
+The shed is typical of an everyday toolshed from your own world. It
+has a small wooden door.
+~
+E
+wooden door~
+The door is old, rotten and smells strongly of creosote.
+~
+E
+workbench~
+The workbench is made of wood, stands about a metre off the ground
+and is the length of one of the shed walls.
+There is a pot on it.
+~
+E
+pot~
+The pot is made of clay and has a hole in the bottom to allow excess
+water to drain away.
+~
+S
+#27014
+Gateway~
+You are at the gatehouse which consists of an archway leading
+through to the courtyard of the main palace. Some guards are here.
+Two burly guards, armed with pikes, block your entrance.
+~
+270 0 0
+D3
+~
+~
+0 0 27012
+E
+golden palace~
+The golden palace has fallen from its former glory and is no longer
+a worthy home for rats, let alone royalty.
+~
+E
+archway~
+The archway is built of bricks that are sandy, golden colour.
+~
+S
+#27015
+Rank Forest~
+You are in the dying forest; a damp, gloomy place worn by the
+ravages of time. The atmosphere is very humid causing the trees to
+be covered in moss and fungus. Looking east you can see a path
+running along the edge of the forest. To the south, there is a
+dotted red line on the ground with dense, swirling fog beyond. Just
+in front of the line is a notice board.
+~
+270 0 3
+D0
+~
+~
+0 0 27088
+D1
+~
+~
+0 0 27000
+D3
+~
+~
+0 0 27018
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27016
+Rank Forest~
+You find yourself in the murky gloom of the dying forest. Northward,
+just out of the forest you can see an area of moorland and to the
+east there is a gravel path running along the edge of the forest.
+~
+270 0 3
+D0
+~
+~
+0 0 27017
+D1
+~
+~
+0 0 27001
+D2
+~
+~
+0 0 27088
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27017
+Mountainous Hills~
+You are in a mountainous region, to the north of the dying forest,
+where there are many mounds and small hills. Northward, the terrain
+becomes rocky and dangerous. To the west are more rolling hills but
+northwestward stands the most eminent hill in the area.
+~
+270 0 5
+D1
+~
+~
+0 0 27002
+D2
+~
+~
+0 0 27016
+D3
+~
+~
+0 0 27020
+S
+#27018
+Rank Forest~
+This is a part of the forest where the humidity has caused the
+undergrowth to be covered in a thin layer of mildew. The
+overpowering odour fills your nostrils, prompting nausea. Looking
+southward, you can see a dotted red line on the ground, beyond which
+is a dense, swirling fog. Just in front of the line is a notice
+board. There is also a large tree here that looks climbable.
+~
+270 0 3
+D0
+~
+~
+0 0 27019
+D1
+~
+~
+0 0 27015
+D3
+~
+~
+0 0 27023
+D4
+~
+~
+0 0 27039
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+E
+large tree~
+The tree is ancient, gnarled and knobbly providing you with many
+footholds which you can utilise for climbing purposes.
+~
+S
+#27019
+Forest Clearing~
+You have stumbled upon a clearing in the forest, the middle of which
+is covered in a vibrant, green turf. However, the trees around the
+edge of the clearing have no leaves and all seem dead and dying.
+~
+270 0 3
+D0
+~
+~
+0 0 27020
+D2
+~
+~
+0 0 27018
+E
+turf~
+The turf is hardy Kerovnian variety.
+~
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27020
+Rolling Hills~
+This is a bleak area of rolling hills, to the north of the forest,
+where there are many mounds and knolls. Northward is the largest
+hill in the region and behind that looms the nearest of the snow
+capped mountains. There are many more hills to the east and west.
+~
+270 0 4
+D0
+~
+~
+0 0 27021
+D1
+~
+~
+0 0 27017
+D2
+~
+~
+0 0 27019
+D3
+~
+~
+0 0 27025
+S
+#27021
+Large Hill~
+You are on a large hill covered in clumps of wild heather atop which
+is a small hut. To the north, the terrain becomes dangerously rocky,
+however, in every other directions there are more hills. From
+within, a voice says, "Come in, my child, the way is clear."
+~
+270 0 5
+D0
+~
+~
+0 0 27022
+D2
+~
+~
+0 0 27020
+E
+small hut~
+The hut is circular in shape, with a domed roof. It is made of mud.
+~
+S
+#27022
+Inside the Hut~
+You are now inside a dingy old mud hut. A shaven-headed guru wearing
+an orange robe sits cross-legged in the centre of the floor with a
+cupboard behind him. Also, a small bowl, full of rice, is on the
+floor in front of the guru. As you enter, he stands, bows to you and
+sits again.
+~
+270 8 0
+D2
+~
+~
+0 0 27021
+E
+hut~
+The hut is circular in shape, with a domed roof. It is made of mud.
+~
+E
+cupboard~
+The cupboard is functional rather than decorative.
+~
+S
+#27023
+Rank Forest~
+You find yourself in a cold, dark part of the forest where the
+sinister shadows fill you with misgivings. Westwards, the
+undergrowth becomes thick and impenetrable. To the south, there is a
+dotted red line on the ground with dense, swirling fog beyond. Just
+in front of the line is a notice board.
+~
+270 0 3
+D0
+~
+~
+0 0 27024
+D1
+~
+~
+0 0 27018
+E
+dotted red line~
+The dotted line extends east and west as far as you can see.
+~
+E
+dense swirling fog~
+The fog is a swirling, translucent vapour.
+~
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27024
+Rank Forest~
+This is a particularly dark and dreary part of the forest where the
+undergrowth is very thick and the trees more densely populated,
+especially westward, in which direction, any further movement would
+be impossible.
+~
+270 0 3
+D0
+~
+~
+0 0 27025
+D2
+~
+~
+0 0 27023
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27025
+Uncultivated Hills~
+This is a tract of uncultivated moorland where there are many knolls
+and small hills. To the north the terrain becomes rocky and
+dangerous. Eastward leads to the most eminent hill in the area and
+the dying forest is to the south and west.
+~
+270 0 4
+D1
+~
+~
+0 0 27020
+D2
+~
+~
+0 0 27024
+D3
+~
+~
+0 0 27024
+S
+#27026
+Foothills~
+You find yourself in the foothills below the nearest of the snow
+capped mountains which looms up ominously in front of you. Around
+you, the floor is strewn with massive boulders. The only exits are
+south, along the gravel path, and a track leading northwest up the
+side of the mountain. Which is blocked by a particularly large
+boulder.
+~
+270 0 4
+D2
+~
+~
+0 0 27004
+D3
+~
+boulder~
+1 -1 27027
+E
+boulders~
+The boulders are large masses of rock which have rolled down here
+from the mountain in front of you.
+~
+S
+#27027
+Narrow Track~
+You are on a narrow track which winds its way up the side of the
+mountain. As you round one of the corners the track comes to an
+abrupt halt, blocked by a rockfall. However, it continues above the
+pile of rocks that block your way.
+~
+270 0 5
+D1
+~
+boulder~
+1 -1 27026
+D4
+~
+~
+0 0 27028
+E
+rocks~
+The rocks are precariously balanced on top of one another.
+~
+E
+rockfall~
+The rockfall is a mound of precariously balanced rocks across the
+track.
+~
+E
+track~
+The track has no barriers to stop you taking a tumble down the
+mountain-side.
+~
+S
+#27028
+Narrow Track~
+At this point on the track is an awesome cave-like opening leading
+east into the heart of the mountain. The track also continues
+northeastward further up the mountain.
+~
+270 0 5
+D0
+~
+~
+0 0 27030
+D1
+~
+~
+0 0 27029
+D5
+~
+~
+0 0 27027
+E
+rocks~
+The rocks are precariously balanced on top of one another.
+~
+E
+rockfall~
+The rockfall is a mound of precariously balanced rocks across the
+track.
+~
+E
+track~
+The track has no barriers to stop you taking a tumble down the
+mountain-side.
+~
+S
+#27029
+Cavemouth~
+You find yourself in the mouth of a high ceilinged cave. The
+sunlight from outside just reaches far enough in to reveal a low
+passage in the east wall. The only other exit is west onto the
+mountain track.
+~
+270 0 0
+D1
+~
+~
+0 0 27053
+D3
+~
+~
+0 0 27028
+E
+cave~
+The Cave seems to have been formed by the elements over many
+centuries.
+~
+S
+#27030
+Narrow Track~
+You are at the end of the track. A stairway cut into the rock leads
+up from here to a snow-covered plateau in the centre of which is a
+cylindrical tower made of ice.
+~
+270 0 5
+D2
+~
+~
+0 0 27028
+D4
+~
+~
+0 0 27031
+E
+track~
+The track has no barriers to stop you taking a tumble down the
+mountain-side.
+~
+E
+stairway~
+The Stairway has about one hundred steps in it.
+~
+S
+#27031
+Plateau~
+This is the snow-covered plateau, brilliant and pure. The stairway
+leads down from here to the mountain track and the rest of the
+plateau is to your south and west. The ice tower is southwestward
+but you can't see an entrance here.
+~
+270 0 2
+D2
+~
+~
+0 0 27032
+D3
+~
+~
+0 0 27089
+D5
+~
+~
+0 0 27030
+E
+stairway~
+The Stairway has about one hundred steps in it.
+~
+E
+ice tower~
+The ice Tower has smooth walls and an air of malevolence about it.
+~
+E
+snow~
+The snow appears freshly fallen, although it could never thaw at
+this height.
+~
+S
+#27032
+Plateau~
+This is the plateau, covered in crisp snow. The ice tower is to the
+northwest and there is more snow both northward and westward.
+~
+270 0 2
+D0
+~
+~
+0 0 27031
+D3
+~
+~
+0 0 27033
+E
+ice tower~
+The ice Tower has smooth walls and an air of malevolence about it.
+~
+E
+snow~
+The snow appears freshly fallen, although it could never thaw at
+this height.
+~
+S
+#27033
+Plateau~
+You are on the snow-covered plateau which extends to the north and
+east. Northeastward is an entrance to the ice tower.
+~
+270 0 2
+D0
+~
+~
+0 0 27089
+D1
+~
+~
+0 0 27032
+D4
+~
+~
+0 0 27034
+E
+ice tower~
+The ice Tower has smooth walls and an air of malevolence about it.
+~
+E
+snow~
+The snow appears freshly fallen, although it could never thaw at
+this height.
+~
+S
+#27034
+Inside the Tower~
+This is the ground floor of the ice tower. From here there is an
+opening in the west wall and a slope (made of ice) spirals in a
+helical path up the inside wall of the tower to a landing, southwest
+leads back to the plateau.
+~
+270 8 0
+D3
+~
+~
+0 0 27035
+D4
+~
+~
+0 0 27036
+D5
+~
+~
+0 0 27033
+E
+slope~
+The slope is a thin sheet of ice that spirals up the inside wall of
+the tower like a spiral staircase without the steps. It is very
+slippery and doesn't look too strong.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27035
+Store~
+This is the store room of the tower. There is a crude table hacked
+out of ice against the west wall and an exit east to the ground
+floor of the tower.
+~
+270 8 0
+D1
+~
+~
+0 0 27034
+E
+crude ice table~
+The ice table has four legs, one in each corner.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27036
+Landing~
+You are on the landing at the top of the ice tower. To the north is
+a heavy wooden door. From the edge of the landing, the helical slope
+leads down to the ground floor.
+~
+270 8 0
+D0
+~
+heavy wooden door~
+2 27001 27037
+D5
+~
+~
+0 0 27034
+E
+heavy wooden door~
+The door is stout and reinforced with metal straps, it's probably
+impossible to open without the correct key.
+~
+E
+slope~
+The slope is a thin sheet of ice that spirals up the inside wall of
+the tower like a spiral staircase without the steps. It is very
+slippery and doesn't look too strong.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27037
+Room of Incarceration~
+This is the princess's room of incarceration. It is brightly lit as
+the sunlight filters through the translucent ice walls and through a
+window in the west wall opposite a large bed.
+Overjoyed the princess says, "At last, someone to rescue me! I knew
+my father wouldn't give in to Kronos. Oh, how can I ever thank you?"
+~
+270 8 0
+D1
+~
+window~
+1 -1 27038
+D2
+~
+heavy wooden door~
+2 27001 27036
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+large bed~
+The four poster bed is where the princess slept during her period of
+incarceration.
+There is a quilt on it.
+~
+E
+heavy wooden door~
+The door is stout and reinforced with metal straps, it's probably
+impossible to open without the correct key.
+~
+E
+quilt~
+The quilt is so soft and warm that it makes you feel sleepy just
+looking at it.
+~
+E
+window~
+The window reveals a view eastward that takes in the fast flowing
+river which divides the two mountains before turning south, cutting
+off King Erik's palace from the hinterland. On the far side of the
+river, the land is bathed in a heat haze caused by the intense
+sunlight.
+~
+S
+#27038
+Wall~
+You are halfway down (or up) the outside wall of the tower. You can
+see some vague shadows through the tower's ice walls and the view of
+the mountains from here is breathtaking. However, your movement is
+somewhat restricted - either up to the room of incarceration, or
+down to the snow-covered plateau.
+~
+270 0 9
+D3
+~
+window~
+1 -1 27037
+D4
+~
+~
+0 0 27031
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27039
+Up the Tree~
+You find yourself a long way up the ancient tree, there are an
+abundance of twigs and branches that all seem to be brushing against
+your face. The branches extend even further above your head but you
+cannot climb any higher as there are no more footholds. Set into the
+west side of the tree trunk is a small wooden door.
+~
+270 0 3
+D3
+~
+small wooden door~
+1 27002 27040
+D5
+~
+~
+0 0 27018
+E
+ancient tree~
+The tree is old and gnarled, worn by the feet of many gnomes.
+~
+E
+small wooden door~
+The door is heavily camouflaged to make it look like part of the
+tree.
+~
+S
+#27040
+Tree Trunk Room~
+You are in a small, cramped room inside the tree trunk. The floor is
+covered with varnished wooden planks and light filters through the
+various knots and holes further up the trunk. One of the floorboards
+seems to be quite loose.
+~
+270 8 0
+D1
+~
+small wooden door~
+1 27002 27039
+D5
+~
+floorboard board~
+1 -1 27041
+E
+small wooden door~
+The door is heavily camouflaged to make it look like part of the
+tree.
+~
+E
+floorboards boards plancks~
+The boards are large and very solid.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27041
+Staircase Room~
+You are on an old wooden staircase whose steps have been worn down
+over the years so that they are now smooth and shiny. The only ways
+to go from here are up and down.
+~
+270 9 0
+D4
+~
+floorboard board~
+1 -1 27040
+D5
+~
+~
+0 0 27042
+E
+wooden staircase steps~
+The staircase seems to have been gouged out of the inside of the
+tree trunk.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27042
+Low Ceiling Room~
+You find yourself in a low ceilinged room that has been hewn out of
+the earth by some ingenious gnomes. Passages lead of in every
+direction, but they have obviously been built for people much
+smaller than yourself. The only passages tall enough for you to
+enter are the ones in the east and west walls and up the spiral
+staircase.
+~
+270 9 0
+D1
+~
+~
+0 0 27043
+D3
+~
+~
+0 0 27046
+D4
+~
+~
+0 0 27041
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27043
+White Room~
+You find yourself in a small room that has a very clinical air about
+it. The walls are white and there are three exits - north, east and
+west.
+~
+270 9 0
+D0
+~
+~
+0 0 27044
+D1
+~
+~
+0 0 27045
+D3
+~
+~
+0 0 27042
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27044
+Office~
+This is a dimly lit office which may have been used as Gringo
+Baconburger's election campaign headquarters. A wooden desk stands
+in one corner and on the floor is an old rug. The only exit from
+here is south.
+~
+270 9 0
+D2
+~
+~
+0 0 27043
+E
+wooden desk~
+The desk is probably used by Gringo Baconburger's personal assistant
+to keep records of party members, electoral rolls etc.
+~
+E
+rug~
+The rug is a plain and threadbare.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27045
+Voting Booth~
+You find yourself in a shabbily constructed room currently being
+used as a voting booth. There is an exit west which leads to the
+white room, fixed to the wall are two ballot boxes, one considerably
+larger than the other.
+~
+270 9 0
+D3
+~
+~
+0 0 27043
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+large box~
+The large box has 'Vote for Gringo!' pasted across it.
+~
+E
+small box~
+The small box is where the citizens of Kerovnia must put their
+ballot papers to vote against Gringo.
+~
+S
+#27046
+Cross Roads~
+You are at a junction in the passage. There are three exits, west,
+south and east. Some writing on the wall tells you that the west
+exit leads to a mine and the south exit leads to a residential area.
+~
+270 9 0
+D1
+~
+~
+0 0 27042
+D2
+~
+~
+0 0 27047
+D3
+~
+~
+0 0 27050
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+writing~
+The writing is boldly printed in fluorescent ink.
+~
+S
+#27047
+Passage~
+You find yourself in a north-south passage. North takes you to the
+crossroads and southwestward the passage ends when it meets the
+front door of a small underground abode (to the west).
+~
+270 9 0
+D0
+~
+~
+0 0 27046
+D3
+~
+front door~
+1 -1 27048
+E
+front door~
+The door is painted a bright red that hurts your eyes.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27048
+Lounge~
+This is the lounge of the small house whose owner is absent at the
+moment. There is a settee against the north wall and some hooks on
+which to put coats are beside the door. There are exits east and
+west.
+~
+270 9 0
+D1
+~
+front door~
+1 -1 27047
+D3
+~
+~
+0 0 27049
+E
+hooks~
+The hooks are about four feet off the ground.
+~
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+front door~
+The door is painted a bright red that hurts your eyes.
+~
+E
+settee~
+The settee can seat about two human-sized people or three gnomes.
+There are some cushions on it.
+~
+E
+cushions~
+The cushions are covered with soft imitation velvet.
+~
+S
+#27049
+Kitchen~
+You are in the kitchen of the small house which is extremely clean
+and very hygienic. An exit in the east wall leads into the lounge
+and a large stove stands against the south wall with a worktop next
+to it.
+~
+270 9 0
+D1
+~
+~
+0 0 27048
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+stove~
+The stove is an archaic contraption probably here for ist antique
+value rather than ist ability to cook well. There is a teapot on it.
+~
+E
+teapot~
+The teapot is plain brown and made of clay.
+~
+E
+worktop~
+The worktop is what the owner prepares his or her meal on. There is
+a carrot on it.
+~
+E
+carrot~
+The carrot is a conical orange vegetable (don't you know anything).
+~
+S
+#27050
+Passage~
+This passage leads east to the crossroads and north to a lift door,
+next to which is a button. On the lift door is a message that says
+"Are you wearing a hard hat?".
+~
+270 9 0
+D0
+~
+lift door~
+1 -1 27051
+D1
+~
+~
+0 0 27046
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+message~
+The message is an official notice placed here by the GLC (Gnome Lead
+Corporation).
+~
+E
+button~
+The button has the word 'down' inscribed on it.
+~
+S
+#27051
+Lift~
+You are in the lift which is a small cubicle about five feet by five
+feet by ten feet high. There is a small metal plaque bolted to the
+wall above two buttons. The door is in the south wall of the lift.
+~
+270 9 0
+D2
+~
+lift door~
+1 -1 27050
+E
+metal plaque~
+The plaque has a message on it which reads
+Max. Load
+Eight persons.
+~
+E
+first button~
+The first button will make the lift go up if pressed.
+~
+E
+second button~
+The second button must be pressed to make the lift go down.
+~
+S
+#27052
+Rockface~
+You are confronted by a rockface at which the gnomes have obviously
+been mining for precious metals (lead in fact). The only exit from
+here is north into the lift.
+~
+270 9 0
+D0
+~
+lift door~
+1 -1 27051
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27053
+Cavern~
+This is a large, dim cavern where you can hear the high pitched
+squeaking of many bats. There is a shallow pool near the centre of
+the cavern and an ominous opening in the east wall leading into
+another cavern. The only other exit is west to the cavemouth.
+~
+270 9 0
+D1
+~
+~
+0 0 27054
+D3
+~
+~
+0 0 27029
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27054
+Cavern~
+You find yourself in a fascinating cavern where there are many weird
+and wonderful stalagmites and stalactites whose constant dripping
+becomes irritating after a while. The floor of the cavern by the
+north wall has a deep fracture in it which leads down into a thick
+blanket of darkness, the only other exit being an opening in the
+west wall.
+~
+270 9 0
+D3
+~
+~
+0 0 27053
+D5
+~
+~
+0 0 27054
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+stalactites~
+The stalactites hang from the ceiling.
+~
+E
+stalagmites~
+The stalagmites 'grow' up from the ground.
+~
+S
+#27055
+Small Cave~
+This is a small, bare cave far below the level of the cave-entrance,
+the only points of interest being the four exits north, south, east
+and leading up.
+~
+270 265 0
+D0
+~
+~
+0 0 27065
+D1
+~
+~
+0 0 27059
+D2
+~
+~
+0 0 27056
+D4
+~
+~
+0 0 27054
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27056
+Entrance~
+This is a narrow corridor that gets brighter and brighter to the
+south, ending when it meets two freely swinging perspex doors.
+Beyond the doors, you can see it continues, bathed in hazy light.
+~
+270 8 0
+D0
+~
+~
+0 0 27055
+D2
+~
+perspex doors~
+1 -1 27057
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+perspex doors~
+The perspex doors are transparent and fixed onto well oiled hinges.
+~
+S
+#27057
+Corridor~
+You are in a long, straight corridor running north-south which is
+lit by fluorescent lamps. On either side of the corridor are clear
+glass windows set into white walls, reminding you of home. At the
+south end of the corridor is a cream coloured door.
+~
+270 8 0
+D0
+~
+perspex doors~
+1 -1 27056
+D1
+~
+cream coloured door~
+2 27003 27058
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+cream coloured door~
+The door is two metres high and one metre wide.
+~
+E
+perspex doors~
+The perspex doors are transparent and fixed onto well oiled hinges.
+There is a paper on it.
+~
+E
+paper~
+The paper has a picture of a brick wall on it with some scruffy
+white writing that says:
+Out to lunch.
+(Back in half an hour).
+~
+E
+lamps~
+The fluorescent lamps are forty watt strip lights that you would see
+in any home in your own world.
+They are glowing.
+~
+E
+glass windows~
+The windows allow you to see through onto some strange scenes of
+hobbits and dragons, norsemen and gods, wizards and people kicking
+swords.
+~
+S
+#27058
+Room~
+You are in a strange room totally alien to the rest of the
+adventure. The walls and floor are covered in listing paper and a
+large fan blows cigarette ash onto the many computers and
+peripherals that inhabit this weird abode. As you enter the room, a
+bunch bleary eyed, extremely tired looking programmers literally
+fall out of the door. One, looking particular harassed hands you a
+listing and says "Fix this will you? - We're off to the pub to
+celebrate someone finishing this game."
+~
+270 8 0
+D0
+~
+cream coloured door~
+2 27003 27057
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+cream coloured door~
+The door is two metres high and one metre wide.
+~
+E
+cigarette ash~
+The ash comes from lazy people who have flicked their cigarettes on
+the floor rather than in the ashtrays provided.
+~
+E
+large fan~
+The fan forces fresh air into the room.
+~
+E
+computers~
+The computers are far too complicated for a mere adventure player to
+understand.
+~
+E
+peripherals~
+The peripherals are connected to the computers with rainbow coloured
+wires (don't you know anything!).
+~
+S
+#27059
+Corridor~
+You find yourself in a long, winding east-west corridor hewn out of
+the mountain rock by some ancient delvers. On the south wall is a
+REM statement.
+~
+270 9 0
+D0
+~
+~
+0 0 27067
+D1
+~
+~
+0 0 27060
+D3
+~
+~
+0 0 27055
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+rem statement~
+The rem says:
+This is where the player falls down the trap-door.
+~
+E
+trapdoor trap-door door~
+The trap-door is only here because certain people didn't see the
+joke.
+~
+S
+#27060
+Lava River~
+This is a large cavern, the northern half of which is taken up by a
+lava river which runs east to west. A vertical shaft leads upwards
+and there is a passage to the west. Even though the cavern in quite
+high, it is still very hot in here and you vaguely recognise the
+smell of sulphur in the atmosphere.
+~
+270 8 0
+D0
+~
+~
+0 0 27063
+D3
+~
+~
+0 0 27059
+D4
+~
+~
+0 0 27061
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27061
+Vertical Shaft~
+This is an extremely tight shaft, its primary function is probably
+to supply air to the fires of hell, rather than allowing mortals
+pot-holing practice.
+~
+270 265 0
+D4
+~
+~
+0 0 27062
+D5
+~
+~
+0 0 27060
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27062
+Riverside Chamber~
+This chamber has been cut into the rock by the river, which is now
+kept out by a low, fragile looking wall.
+~
+270 9 0
+D5
+~
+~
+0 0 27059
+E
+fragile wall~
+The wall looks particularly fragile, the river flows within inches
+of the top of it.
+~
+E
+river water~
+The water flows quickly past.
+~
+S
+#27063
+Cavern~
+You are on the on the north bank of the solidified lava river. There
+is a cubic stone pedestal here painted pale blue. Also, in the east
+wall, is an exit with a notice above it.
+~
+270 9 9
+D1
+~
+~
+0 0 27064
+D2
+~
+~
+0 0 27060
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+notice~
+The notice reads:
+Warning
+---------
+This maze is totally irrelevant to the adventure.
+Hear Dante! Oh, beware yon open hell.
+~
+S
+#27064
+Irrelevant Maze~
+This is a bare room with narrow, twisting passages leading off in
+every direction.
+~
+270 8 0
+D0
+~
+~
+0 0 27064
+D1
+~
+~
+0 0 27064
+D2
+~
+~
+0 0 27064
+D3
+~
+~
+0 0 27064
+D4
+~
+~
+0 0 3001
+D5
+~
+~
+0 0 27064
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27065
+Damp Passage~
+This is a damp, murky passage which runs north to south, its only
+notable feature is a political poster.
+~
+270 9 0
+D0
+~
+~
+0 0 27066
+D2
+~
+~
+0 0 27055
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+political poster~
+The poster has a picture of a grey haired (and bearded) dwarf with a
+political slogan underneath that reads:
+Vote for Gringo Baconburger
+Help him in his campaign to rid dungeons of phosphorescent moss,
+magic teleporting words, unrealistic use of verbs and mazes of any
+form or description.
+Remember, a vote for Baconburger is a vote for sensible, no-nonsense
+dungeons.
+~
+S
+#27066
+Laboratory~
+This seems to be some sort of laboratory. There are many
+interconnected limbecks, flasks and tubes with a strangely coloured
+liquid flowing through them and bubbling clouds of vapour appearing
+at irregular intervals. Exits lead south, west and east. Some
+alchemists are here.
+The three alchemists are sitting on the floor hotly debating who
+should go outside to get some diner as they are scared that whoever
+leaves will sell the secret of turning lead into gold to the rest of
+the world and not cut the rest of them in on the deal. Suddenly, the
+alchemists break off from their discussion as they notice you. One
+of them stands up and speaks, "We are having a bit of a disagreement
+as to who should leave and get us all lunch. If you would be so kind
+as to do this for us we could turn any lead you have into...Gold."
+~
+270 8 0
+D1
+~
+~
+0 0 27067
+D2
+~
+~
+0 0 27065
+D3
+~
+~
+0 0 27068
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+limbecks~
+The limbecks are used for distilling.
+~
+E
+flasks~
+The flasks hold the bulk of the strangely coloured liquid.
+~
+E
+tubes~
+The tubes connect the flasks and limbecks together and transport the
+liquid over a flame every so often.
+~
+E
+vapour~
+The vapour rapidly condenses on the surrounding objects.
+~
+E
+strangely coloured liquid~
+The liquid seems quite viscous and smells of fresh apple juice.
+~
+S
+#27067
+Store Room~
+This is the alchemist's store room full of dusty old rubbish. In the
+south wall is an opening leading into a tubular corridor and a
+doorway in the southwest corner of the room leads to the laboratory.
+~
+270 9 0
+D2
+~
+~
+0 0 27059
+D3
+~
+~
+0 0 27066
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27068
+Passage~
+You find yourself in a small cavern which is lit by a source of
+sunlight coming from the west through a wide gap in the wall. The
+only other exit here is east to the alchemist's lab.
+~
+270 8 0
+D1
+~
+~
+0 0 27066
+D3
+~
+~
+0 0 27069
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27069
+High Ledge~
+You are now on a ledge roughly one third of the way up the side of
+the mountain. A rickety old rope bridge leads out northward across a
+deep ravine to another mountain - it doesn't look too safe! Hundreds
+of feet down at the bottom of the ravine is a fast flowing river.
+The only other exit is east, into the mountain.
+~
+270 0 5
+D0
+~
+~
+0 0 27070
+D1
+~
+~
+0 0 27068
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+deep ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+E
+rickety old rope bridge~
+The rickety bridge is the same one that they use in all the Tarzan
+films.
+~
+E
+ledge~
+The ledge is a small stone protrusion to which the rope-bridge is
+connected.
+~
+S
+#27070
+Rope Bridge~
+The bridge here is swaying from side to side, creaking and groaning
+alarmingly. However, it manages to take your weight (just).
+~
+270 260 5
+D0
+~
+~
+0 0 27071
+D2
+~
+~
+0 0 27069
+E
+rickety old rope bridge~
+The rickety bridge is the same one that they use in all the Tarzan
+films.
+~
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+deep ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+S
+#27071
+Rope Bridge~
+You are now about ten yards away from the north side of the rope
+bridge - the air is fresh and clean and not a sound can be heard
+apart from the creaking of the rope bridge.
+~
+270 260 5
+D0
+~
+~
+0 0 27072
+D2
+~
+~
+0 0 27070
+E
+rickety old rope bridge~
+The rickety bridge is the same one that they use in all the Tarzan
+films.
+~
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+deep ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+S
+#27072
+High Ledge~
+You find yourself on a ledge halfway up the northernmost mountain.
+Southward, a hazardous looking rope bridge traverses a deep ravine,
+and two passages, one to the northwest and one to the northeast,
+lead into the depths of the mountain.
+~
+270 0 5
+D1
+~
+~
+0 0 27076
+D2
+~
+~
+0 0 27071
+D3
+~
+~
+0 0 27073
+E
+rickety old rope bridge~
+The rickety bridge is the same one that they use in all the Tarzan
+films.
+~
+E
+ledge~
+The ledge is a small stone protrusion to which the rope-bridge is
+connected.
+~
+E
+fast flowing river~
+The river flows swiftly past.
+~
+E
+deep ravine~
+The ravine is a deep gorge at the bottom of which runs a fast
+flowing river.
+~
+S
+#27073
+Chamber~
+This is an immense roomy chamber which echoes every noise you make.
+A fierce and hungry looking dragon sits against the east wall on a
+glittering pile of treasure obviously collected over many centuries
+of senseless slaughter. The outermost limits of the chamber are
+bathed in hazy shadows. Passages north and in the southeast corner
+of the chamber provide access.
+~
+270 8 0
+D0
+~
+~
+0 0 27074
+D1
+~
+~
+0 0 27072
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+shadows~
+The shadows have some small (about half man-sized) humanoid shapes
+hiding in them.
+~
+E
+humanoid shapes hobbits dwarfs~
+The shapes could quite easily be hobbits or dwarfs.
+They seem frightened.
+~
+E
+pile treasure~
+The treasure is a gigantic horde of miscellany - some items are
+valuable and some are totally worthless (the dragon was probably a
+magpie in one of his previous lives).
+~
+S
+#27074
+Workshop~
+This is the magician's workshop. A large table stands in the centre
+of the room and bookcases, laden with dust, line the walls along
+with a storage rack. In the south wall is a corridor with an oil
+lantern fixed above, which sways in a steady breeze coming from a
+niche in the north wall. This motion makes flickering images flit
+around the room and lights the murk and gloom of the corridor.
+~
+270 8 0
+D0
+~
+~
+0 0 27075
+D2
+~
+~
+0 0 27073
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+bookcases~
+The bookcases have four levels of shelves and are laden with dust.
+~
+E
+oil lantern~
+The lantern sways too and fro in the breeze, but it is too high to
+reach.
+It is glowing.
+~
+E
+large table~
+The table is hexagonal in shape and made of mahagony.
+~
+E
+niche~
+The niche has no floor. Instead, there is a deep shaft from which a
+warm, steady breeze emanates. You can faintly recognise the smell of
+sulphur coming from the shaft.
+~
+S
+#27075
+Circular Platform~
+You recognise this platform as the one used by Kronos, although it's
+doubtful whether you can use it with as much agility.
+~
+270 8 0
+D2
+~
+~
+0 0 27074
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27076
+Tunnel~
+This is a particular dusty tunnel, running north-south, which is
+supported along its length  by wooden posts that are under great
+stress from the load they bear.
+~
+270 9 0
+D0
+~
+~
+0 0 27077
+D3
+~
+~
+0 0 27072
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+wooden posts~
+The posts are riddled with woodworm.
+~
+S
+#27077
+Room~
+You find yourself in a room with freshly papered walls. There is a
+small cupboard against the west wall and some graffiti on the north
+wall. An exit south leads to a dusty tunnel.
+~
+270 9 0
+D2
+~
+~
+0 0 27076
+D5
+~
+papered wall~
+1 -1 27078
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+graffiti~
+The graffiti reads:
+Do not lean on this wall.
+~
+E
+paper~
+The paper is covered in tiny air bubbles which you are tempted to
+burst.
+~
+S
+#27078
+Ledge~
+You find yourself on a ledge about ten feet below the papered room.
+Far below, the pit descends into a disconcerting red glow and
+southward is a tight narrow passageway sloping gently down.
+~
+270 8 0
+D2
+~
+~
+0 0 27079
+D4
+~
+papered wall~
+1 -1 27077
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27079
+Passage~
+This is a tight, meandering passage leading north to a ledge and
+east to some tall, double doors.
+~
+270 8 0
+D0
+~
+~
+0 0 27078
+D1
+~
+tall double doors~
+1 -1 27080
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+tall double doors~
+The double doors have a massive brass knocker on them.
+~
+E
+massive brass knocker~
+The knocker is intricately carved in the shape of a demonic skull.
+~
+S
+#27080
+Shaft~
+This is a dark cylindrical shaft with an iron ladder leading down
+into a wispy, yellow cloud and up to some double doors. The stench
+of sulphur here and the growing heat make you feel quite queasy.
+~
+270 8 0
+D2
+~
+~
+0 0 27081
+D3
+~
+tall double doors~
+1 -1 27079
+D5
+~
+~
+0 0 27082
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+tall double doors~
+The double doors have a massive brass knocker on them.
+~
+E
+massive brass knocker~
+The knocker is intricately carved in the shape of a demonic skull.
+~
+E
+iron ladder~
+The ladder has been slightly corroded by the sulphurous fumes but is
+still very strong.
+~
+S
+#27081
+Ledge~
+This is a small protrusion some way down (or up) the shaft, and you
+are thankful for a short rest - it's so hot.
+~
+270 8 0
+D0
+~
+~
+0 0 27080
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27082
+Shaft~
+You are in the vertical shaft where the heat is becoming almost
+unbearable. The bottom of the shaft leads off north into an annexe
+and has another exit east. The ladder is almost too hot to touch.
+You can hear strains of music coming from the north exit.
+~
+270 8 0
+D0
+~
+~
+0 0 27083
+D1
+~
+~
+0 0 27084
+D4
+~
+~
+0 0 27080
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+iron ladder~
+The ladder has been slightly corroded by the sulphurous fumes but is
+still very strong.
+~
+S
+#27083
+Annexe~
+This is a small room with a piano in its centre. Jerry Lee Lewis is
+sitting at the piano singing his hit song 'Great Balls of Fire' - he
+looks very hot and uncomfortable.
+~
+270 24 0
+D2
+~
+~
+0 0 27082
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+piano~
+The piano hasn't been tuned since Mr. Lewis wrote his little ditty.
+~
+S
+#27084
+Chamber~
+This chamber is painted white and shaped like a regular pentagon.
+There are many small pieces of crystal set into the walls which make
+the most efficient use of all available light, creating shimmering
+images in the room and down the connecting passages, which lead
+north, south and west.
+~
+270 8 0
+D0
+~
+~
+0 0 27086
+D2
+~
+~
+0 0 27085
+D3
+~
+~
+0 0 27082
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+crystals~
+The crystals are minute dodecahedrons.
+~
+S
+#27085
+Circular Room~
+This is a circular room, the southern half of which is take up by
+the lava river flow. In the north wall is a wide, open corridor,
+faintly lit by the deep red glow from the lava.
+~
+270 8 0
+D0
+~
+~
+0 0 27084
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+S
+#27086
+Cavern~
+This cavern is the home of a mob of powerful demons. There is a
+heavy stench of rotting carrion coming from headless corpses hung on
+nooses (?!?) against the north wall. The demons are busy feeding at
+the moment, making too much noise to notice your entrance. A fridge
+is embedded in the south wall near one exit, the only other exit
+being down a step passage in the east wall.
+~
+270 8 0
+D1
+~
+~
+0 0 27087
+D2
+~
+~
+0 0 27084
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+fridge~
+The fridge is under great strain in this heat.
+It contains some heads.
+~
+E
+heads~
+The heads are delicacies that are at their best when kept cold.
+~
+E
+headless corpses~
+The corpses are in an advanced state of decomposition.
+~
+E
+nooses~
+The nooses have been made by an extremely skillful hangman so that
+headless corpses can be hung before being devoured (taste much
+better that way, apparently).
+~
+S
+#27087
+Hell~
+You are in the bubbling fire-pit of hell. Small geysers dotted at
+irregular intervals randomly spout their vitriol into the crackling
+atmosphere. Sharp, shining scythes, making deadly sweeping motions
+at head height, hang in front of you, suspended by some
+indiscernible force. Amongst this chaos stands an immense throne
+sitting upon which is a horrible being covered in thick black fur
+with terrible fiery eyes.
+The terrible eyes seem to be speaking to you in some sort of
+empathic transmission. It takes you a while to figure out what they
+are trying to say but eventually you get the message - they are
+saying "Hello".
+~
+270 8 0
+D3
+~
+~
+0 0 27086
+E
+walls~
+The stone wall is a standard issue Kerovnian dungeon wall, to be
+found throughout Kerovnia keeping adventures within the substance of
+the universe.
+~
+E
+eyes~
+The eyes stare intensely at you, conveying the feeling of terror and
+yet you also feel assured.
+~
+E
+geysers~
+The geysers are small cracks in the floor through which the vitriol
+spouts to a height of about three metres.
+~
+E
+throne~
+The throne is ingeniously constructed from human skulls.
+There is a Devil on it.
+~
+E
+vitriol~
+The vitriol is an evil, black, acidic liquid that smells strongly of
+sulphur.
+~
+S
+#27088
+Rank Forest~
+You are in a rank, decaying forest, the floor of which is littered
+with dead leaves. The atmosphere is very humid causing the trees to
+be wet and slippery. Looking east, you can see a pathway running
+along the edge of the forest.
+~
+270 0 3
+D0
+~
+~
+0 0 27016
+D1
+~
+~
+0 0 27001
+D2
+~
+~
+0 0 27015
+E
+trees~
+The trees are mostly bare and dying, their contorted shapes make you
+feel uneasy as if sinister forces were at work.
+~
+S
+#27089
+Plateau~
+You are on the plateau, covered in a thick blanket of snow which
+extends eastward and southward. To the southeast is the ice tower
+but there are no entrances here.
+~
+270 0 2
+D1
+~
+~
+0 0 27031
+D2
+~
+~
+0 0 27033
+S
+$~

@@ -1,0 +1,823 @@
+#600
+bear brown~
+a Brown Bear~
+A huge brown bear roars its defiance and opens its jaws in a snarl!
+~
+It moves its head this way and that, as if looking for the best spot
+to bite you.    
+~
+72 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 8
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 20
+Luck: 12
+Race: 1
+E
+#601
+snake rattlesnake~
+a Rattlesnake~
+A rattlesnake slithers up near you, raising head and tail in anticipation.
+~
+Roughly 5 feet in length, this snake could very well give you a bit of
+trouble if you mess with it too much.  Best to just sort of ease on
+past.    
+~
+16777293 0 0 0 64 0 0 0 0 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 4
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Race: 2
+E
+#602
+wolf timberwolf~
+a Timberwolf~
+A wolf slinks past you, looking at you out of the corner of its eye.
+~
+It looks sleek and swift, not very large at all, but large enough to
+give you a few nips in the ass if you mess with it.    
+~
+65608 0 0 0 0 0 0 0 0 E
+12 3 52 1d12+300 1d4+6
+0 2646
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 24
+Luck: 12
+Race: 1
+E
+#603
+bear black~
+an enormous Black Bear~
+An enormous black bear rears up on two legs and roars!
+~
+Its gaping jaws drip saliva, saliva that is probably the prep for the
+bear's mouth where it intends to bodily put you!    
+~
+72 0 0 0 0 0 0 0 0 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 1
+E
+#604
+bear grizzly~
+a huge Grizzly Bear~
+A huge grizzly bear lumbers along, minding its own business.
+~
+It doesn't even acknowledge the fact that you are near, it just moves
+right along on its way.    
+~
+76 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+0 4674
+8 8 0
+BareHandAttack: 9
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 7
+Luck: 12
+Race: 1
+E
+#605
+fox~
+a little Fox~
+A little fox runs past you, happily playing its day away.
+~
+It jumps from leaf to leaf in huge bounds, trapping the leaf and
+biting the hell out of it, the going onto its next 'victim'.    
+~
+72 0 0 0 0 0 0 0 0 E
+9 2 64 1d9+175 1d3+4
+0 1270
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Race: 1
+E
+#606
+ranger roving~
+a Roving Ranger~
+A roving Ranger smiles as she looks up from her cooking.
+~
+The roving Ranger has been traveling all over the realms, exploring
+woods and living in harmony with nature.  Tall, slender, and
+weather-worn, she is fit and knows how to survive in the harshest
+conditions.  Sporting a gentle smile, she beckons as she tends to her
+meal.    
+~
+206936 0 0 0 269027392 0 0 0 200 E
+15 5 40 1d15+500 1d5+7
+325 4674
+5 5 2
+BareHandAttack: 13
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 7
+Luck: 12
+Class: 5
+Race: 15
+E
+#607
+monk nomadic~
+the Nomadic Monk~
+The nomadic Monk stands here, bowing respectfully.
+~
+The nomadic Monk has travelled from afar, searching for the truth to
+personal harmony with all forces in nature.  Short and stout, he
+sports a clean-shaved head and muscular frame.  Each step he takes is
+light and effortless, showing that he may be more than just a simple
+monk.    
+~
+256088 0 0 0 270010688 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+325 5141
+8 8 1
+BareHandAttack: 12
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 12
+Luck: 12
+Class: 8
+Race: 14
+E
+#608
+apprentice elementalist~
+the Apprentice Elementalist~
+A tall, lank sorceror dressed in apprentice garbs strides by.
+~
+The apprentice Elementalist is a young sorceror who is wandering these
+woods in an attempt to understand how the elements function.  In due
+time, when her training is complete, she shall be able to control the
+elements and be a formidable foe or worthy ally.    
+~
+583752 0 0 0 805308736 0 0 0 0 E
+15 5 40 1d15+500 1d5+7
+325 5141
+8 8 2
+BareHandAttack: 15
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 14
+Luck: 12
+Class: 1
+Race: 14
+E
+#609
+frogiz~
+Frogiz~
+A stout, red-cheeked halfling stands in the center of the room.
+~
+Frogiz is the village voice, he is the reason and the conscience which
+guides the people to lead the lives of worth and value.  He also loves
+to hear to himself talk, which is what he is usually doing whether he
+is alone or not.    
+~
+10 0 0 0 0 0 0 0 900 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 13
+Luck: 12
+Race: 17
+E
+#610
+councilman halfling~
+the Councilman~
+A halfling stands self-importantly, holding his lapels in either hand.
+~
+It is almost comical the way he holds himself as a man of import.  
+His face remains fixed in a look of seriousness - which on a halfing
+just doesn't work - his carriage erect and proud.    
+~
+10 0 0 0 0 0 0 0 600 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 6
+Luck: 12
+Race: 17
+E
+#611
+halfling lounging doolyle~
+Doolyle~
+Doolyle lounges in his armchair, a book draped over his face as he snores.
+~
+Seems that the task of reading was just a bit too much for poor
+Doolyle.  Maybe after his nap he'll have a bit more energy.    
+~
+10 0 0 0 0 0 0 0 800 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+4 4 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 23
+Luck: 12
+Race: 17
+E
+#612
+nedis~
+Nedis~
+Nedis works furiously at her quilting, nattering all the while.
+~
+Her face is pinched in a constant look of disapproval, her hands all
+the while working non-stop at the quilting in her lap.    
+~
+10 0 0 0 0 0 0 0 500 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 14
+Luck: 12
+Class: 2
+Race: 17
+E
+#613
+Inga~
+Inga~
+Inga sits with her quilting in her lap, eyes focused downward.
+~
+Unlike the rest of the Quilting Club, Inga believes her husband to be
+worthwhile, but is just too quiet to say so.    
+~
+10 0 0 0 0 0 0 0 900 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 2
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 24
+Luck: 12
+Race: 17
+E
+#614
+Gladys~
+Gladys~
+Gladys makes jabbing motions with her needle as she discusses her husband!
+~
+Gladys, Frobiz's wife, jabbers without pause as to all of her
+husband's short comings and faults.  Its just a dang good thing she
+puts up with him, it is.    
+~
+11 0 0 0 0 0 0 0 400 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 24
+Luck: 12
+Race: 17
+E
+#615
+Beulah~
+Beulah~
+Beulah lazily picks at her quilt, murmuring a 'mmm hmm' every now and again.
+~
+Beulah really doesn't care either way what her husband does, long as
+she can get her food for her meals at every mealtime.  The quilting
+club she joined only to keep up appearances.    
+~
+10 0 0 0 0 0 0 0 600 E
+17 6 32 1d17+700 1d3+11
+75 6432
+8 8 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 21
+Luck: 12
+Race: 17
+E
+#616
+Arnid innkeeper~
+Arnid~
+Arnid booms a welcome in his jolly, loud voice.
+~
+Arnid has been the proprieter of the Cottage Inn for longer than most
+of the people in this village can remember.  He has never missed a day
+of work and has never been caught in a bad mood.  He is - truly - a
+work of art.    
+~
+10 0 0 0 0 0 0 0 800 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Class: 11
+Race: 17
+E
+#617
+yoosha serving server maid halfling~
+Yoosha~
+Yoosha serves her customers with a smile and a wiggle.
+~
+She is a very stout halfling with a quick wit and a smile that never
+seems to leave her rosy cheeks.  It is whispered that she and Arnid
+might have something on the side, but it has never been proven.    
+~
+10 0 0 0 0 0 0 0 800 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 2
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 21
+Luck: 12
+Race: 17
+E
+#618
+hunter halfling hanksten~
+Hanksten~
+Hanksten sits at his table tying arrows.
+~
+Hanksten is the man responsible for the main meat consumption of the
+village.  Since halflings do not like meat as a general rule, Hanksten
+usually only shoots a pheasant or two out on his forays.    
+~
+26 0 0 0 0 0 0 0 300 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 12
+Race: 17
+E
+#619
+Borgin halfling fat~
+Borgin~
+A fat halfling sits at the huge table, stuffing his face with pastries.
+~
+Borgin's main function in life, other than being the village diplomat,
+is to find the best foods and sample them all.    
+~
+10 0 0 0 0 0 0 0 800 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+6 6 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 25
+Luck: 12
+Race: 17
+E
+#620
+marshall halfling uggins~
+Marshall Uggins~
+Marshall Uggins walks the town, watching for any do-badders.
+~
+The need for a marshall and any deputies has been a dispute at every
+counciil meeting since the post was created.  In this small place,
+there really is no need for law enforcement, but Uggins really wasn't
+good at anything else.  So here he is, Marshall Uggins - the marshall
+with no jail to back him up!    
+~
+20556 0 0 0 65536 4194304 0 0 800 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 16
+Luck: 12
+Class: 4
+Race: 17
+E
+#621
+deputy halfling soofla~
+Deputy Soofla~
+Deputy Soofla tips his wide hat and winks as he passes.
+~
+Soofla is Uggins's son.  Like his father, Soofla really had no talents
+to speak of and since Uggins isn't one to make his rounds more than
+once a day, he lets Soofla do it for him the rest of the time.    
+~
+4172 0 0 0 0 0 0 0 700 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Race: 17
+E
+#622
+deputy halfling Yuckill~
+Deputy Yuckill~
+Deputy Yuckill waddles past, smiling broadly and giving a slight bow.
+~
+Yuckill has been known to let a great many things slide past his
+notice, he retains the title of Deputy only through his courteous
+manner and good-standing in the village.    
+~
+4172 0 0 0 0 0 0 0 600 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 7
+Luck: 12
+Race: 17
+E
+#623
+picker halfling soosa~
+Soosa~
+Soosa swats at a fly and then continues on with her picking.
+~
+She hums a quiet song as she does her work, filling the basket for all
+the villagers to enjoy.    
+~
+72 0 0 0 0 0 0 0 600 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 10
+Luck: 12
+Race: 17
+E
+#624
+farmer Ongil halfling~
+Ongil~
+Ongil relaxes in his favorite chair, snoring away the day's labors.
+~
+Like any typical farmer, Ongil wakes up at the butt-crack of dawn and
+works all morning into the afternoon.  Most of his evenings are spent
+right here in this chair, snoring.    
+~
+10 0 0 0 0 0 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+4 4 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 19
+Luck: 12
+Race: 17
+E
+#625
+alis wife~
+Alis~
+Alis clucks about the cottage, cleaning here and there.
+~
+Though her husband is truly nothing but a simple farmer, he provides
+one of the most important services for the village that exists.  
+Through Ongil, all foods are distributed to the people, and trade for
+the surplus is done through Ongil at one time or another.    
+~
+10 0 0 0 0 0 0 0 950 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 15
+Luck: 12
+Race: 17
+E
+#626
+foley carpenter~
+Foley~
+Foley the carpenter waves from a nearby rooftop.
+~
+His face is tanned to the point of a leathery texture, his eyes
+permanently squinted from working in the open sun, high on people's
+roofs.    
+~
+10 0 0 0 0 0 0 0 500 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 23
+Luck: 12
+Race: 17
+E
+#627
+bunny cute~
+a cute Bunny~
+A cute little bunny nibbles at a berry.
+~
+It wiggles its nose as it eats, all hunched over and intent on its berry.
+~
+72 0 0 0 0 0 0 0 300 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 20
+Luck: 12
+Race: 1
+E
+#628
+humming bird~
+a Hummingbird~
+A hummingbird buzzes over the tops of the berry bushes.
+~
+Its wings are a constant blur of motion, while its body and head stay
+quiet still.  It is quite the marvel of nature.    
+~
+10 0 0 0 0 0 0 0 100 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 13
+Luck: 12
+Race: 3
+E
+#629
+flutterby~
+a Flutterby~
+A beautiful flutterby floats past.
+~
+Yes, yes, yes.  Butterfly, flutterby - its all the same.  This IS a
+halfling village, remember?    
+~
+72 0 0 0 0 0 0 0 100 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 15
+Luck: 12
+Race: 5
+E
+#630
+Simsin kid halfling~
+Simsin~
+Simsim runs after flutterbys, trying to catch them with a net.
+~
+He laughs in glee as the flutterby evades his net, always just out of
+reach.    
+~
+72 0 0 0 0 0 0 0 600 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 25
+Luck: 12
+Race: 17
+E
+#631
+Illga halfling girl~
+Illga~
+Illga chases after Simsin, yelling for her turn with the net.
+~
+Her ponytails bounce up and down as she runs, her chubby little body
+working furiously at keeping up with Simsin and the net.    
+~
+72 0 0 0 0 0 0 0 600 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 21
+Luck: 12
+Race: 17
+E
+#632
+old klingston~
+Old Klingston~
+Old Klingston salutes your arrival with a small toast.
+~
+Klingston was the one of the original founders of this small village.
+At one time he was the High Councilman, however his focuses in life
+now turn toward the more aesthetic pirsuits.  Specifically, drinking
+Arnid's ale and watching Yoosha serve it.    
+~
+10 0 0 0 0 0 0 0 900 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 17
+E
+#633
+sylva raking halfling~
+Sylva~
+Sylva gives a smile as she works as raking her lawn.
+~
+She looks like she is the typical down-home halfling wife who takes
+care of the mound while her husband is away working during the day.  
+~
+10 0 0 0 0 0 0 0 0 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 2
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 9
+Luck: 12
+Race: 17
+E
+#634
+receptionist~
+the Receptionist~
+A receptionist sits at a desk, renting rooms out for Arnid.
+~
+She smiles warmly up at you and asks how she might be of service.
+~
+11 0 0 0 0 0 0 0 0 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 16
+Luck: 12
+Class: 11
+Race: 17
+E
+#635
+arkin trash man~
+Arkin the Trash Man~
+Arkin the Trash Man happily roams the streets, picking up trash.
+~
+There is a terrible problem in this town with corpses leaving all of
+their equipment behind on the ground and no one to pick.  WELL -
+that's where old Arkin here comes in!    
+~
+72 0 0 0 0 0 0 0 600 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 12
+Luck: 12
+Race: 17
+E
+#636
+dog yip~
+a little Yip-yip Dog~
+A little yip-yip dog wags its tail and yips at you.
+~
+The damn thing won't stop yipping, no matter how many little bits of
+food you throw its way - when you try petting it, it just yips some
+more.    
+~
+72 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 17
+Luck: 12
+Race: 1
+E
+$

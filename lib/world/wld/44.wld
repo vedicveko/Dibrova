@@ -1,0 +1,2167 @@
+#4400
+The Plains of Malathar~
+You have emerged from the dark forest on the plains of the Elven Duchy
+of Malathar, ruled by the good Duke Stalatharata, under the guidance
+and watchful presence of his God and Mentor, the Elven Immortal
+Yaegar.  Tall spires rise in the distance, emerging from the
+magnificent Elven city of Malathar, to which the path you are upon
+leads.  There is a small, hand-lettered sign near the path...    
+~
+44 4 0 0 0 2
+D0
+~
+~
+0 0 32090 0
+D1
+the road to malathar~
+road~
+0 -1 4401 0
+E
+sign~
+*********************************************************************
+***** T H I S  A R E A  C O N S T R U C T E D  B Y  Y A E G A R *****
+*********************************************************************
+***** Built on a standard text editor especially for AnonyMud   *****
+***** in October 1995, but suitable for any Merc 2.2 Mud.       *****
+*********************************************************************
+***** Thanks to - Rainman Lenny Argh Garth Lok Fle Marc Marius  *****
+***** Special thanks to J.R.R. Tolkien, Michael Moorcock for    *****
+***** inspiration, and to anyone else I have left out :)        *****
+*********************************************************************
+~
+S
+#4401
+The Road to Malathar~
+You are moving along a broad, well-formed path that is bordered by
+neatly- groomed trees and hedges.  To the north you can hear what
+sounds like a horse braying, while to the east the city of Malathar
+looms larger.    
+~
+44 0 0 0 0 2
+D0
+the path to the unicorn glade~
+path~
+0 -1 4402 0
+D1
+The Road to Malathar~
+road~
+0 -1 4404 0
+D3
+the plains of malathar~
+plains~
+0 -1 4400 0
+S
+#4402
+The Path to the Unicorn Glade~
+You feel a sudden sense of peace and serenity wash over you as you
+enter this gentle wooded glade.  Here the sound of braying is louder,
+and you fancy you can smell the odour of equine beasts.  The aura of
+the surroundings make you feel like doing nothing more that lying down
+and resting for a LONG time...    
+~
+44 4 0 0 0 3
+D1
+the unicorn glade~
+glade~
+0 -1 4403 0
+D2
+the road to malathar~
+road~
+0 -1 4401 0
+S
+#4403
+The Unicorn Glade~
+You have entered the sanctum of the Unicorns of of Malathar, close
+friends and allies of the Elves of Malathar.  However, despite their
+benevolent nature, the Unicorns dislike intruders, especially armed
+and aggressive ones, and will not hesitate to use extreme force to
+evict these intruders.  In addition, to protect these creatures, the
+Elven sorceror Tuo has placed powerful enchantments on this place that
+prevent magical attacks on the unicorns.    
+~
+44 8320 0 0 0 3
+D3
+the path to the unicorn glade~
+path~
+0 -1 4402 0
+S
+#4404
+The Road to Malathar~
+You have progressed further along the road to the Elven capital, past
+several farmhouses and various creatures of the wild that stop to
+stare inquisitively at you as you pass.  The gates of the city are now
+visible, as are the guards stationed near them, their colorful
+rainments dazzling you even from this distance.  In the near distance
+there appears to be a monument of some sort.    
+~
+44 0 0 0 0 2
+D1
+a monument to the Elven lords~
+monument~
+0 -1 4405 0
+D3
+the road to malathar~
+road~
+0 -1 4401 0
+S
+#4405
+A Monument to the Elven Lords~
+At this point on the road the Nobles of Malathar have had a huge
+marble monument erected, dedicated to the many Elven Lords who died
+during the ferocious Goblin Wars that devastated most of the Elven
+Nations.  The statue shows a band of Elves courageously defending an
+unarmed woman and her child from a band of hideous Goblins, and is
+quite brilliantly fashioned.  There is an inscription at the base of
+the statue.    
+~
+44 128 0 0 0 2
+D1
+a prominent farmhouse~
+farmhouse~
+0 -1 4406 0
+D3
+the road to malathar~
+road~
+0 -1 4404 0
+E
+statue inscription~
+The Inscription reads-
+"Ban Qall Tasla'tebel'th M'es oOoranthelarita. G'kesta malla O Tostallth."
+And below it, in common-
+"To those who died so valiantly, defending their people. They shan't be 
+forgotten".
+~
+S
+#4406
+A Prominent Farmhouse~
+As you approach the gates of the city, you pass by a prominent
+farmhouse, far more distinguished and well-kept than its neighbours.
+A pungent herbal aroma wafts on the wind to your nose, and your eyes
+water involuntarily.  There is a small sign in one window.    
+~
+44 4 0 0 0 2
+D1
+the gates of malathar~
+gates~
+0 -1 4408 0
+D2
+the herbalist's shop~
+shop~
+0 -1 4407 0
+D3
+a monument to the elven lords~
+monument~
+0 -1 4405 0
+E
+sign~
+The sign says-
+
+"This be the Home of Madame Mithara, Dealer in Herbs, Potions, Unguents,
+ Medicines and Spell Components. Business Hours are Dawn to Dusk Every
+ Day, Save the Day of the War".
+ 
+Then below that-
+
+"Foreigners Welcome".
+
+Then below THAT-
+
+"Please Keep Your Pets Under Control".
+~
+S
+#4407
+The Herbalist's Shop~
+Entering the busines premises of the Herbalist, you find that you grow
+quickly accustomed to the vile smell you detected earlier, and even
+find it to be rather pleasant.  Mithara quickly informs you that the
+substance is tobacco, and that she specializes in it.  She also has a
+wide range of other substances, including potions, herbs and healing
+salves.    
+~
+44 24 0 0 0 0
+D0
+outside the herbalist's shop~
+shop~
+0 -1 4406 0
+S
+#4408
+The Gates of Malathar~
+You have finally reached the Gates of Malathar, huge oaken portals
+banded with bronze.  Guards patrol smartly both inside and outside the
+gate, constantly on guard for troublemakers or looters.  However, the
+City of Malathar is always open to peaceful travellers, and it has not
+been necessary to close the City Gates for six decades.  There is a
+sign posted on one of the gates.    
+~
+44 0 0 0 0 1
+D1
+inside the gates~
+gates~
+0 -1 4409 0
+D3
+a prominent farmhouse~
+farmhouse~
+0 -1 4406 0
+E
+sign~
+The Sign says-
+"Welcome to the peaceful Elven City of Malathar, ruled by the kind Duke
+ Stalatharata and the Duchess Destelandara. Visitors welcome, but any
+ loiterers, vagabonds, criminals or troublemakers will be punished to
+ the fullest extent of the Law.
+ 
+ Thank You for Your Co-Operation,
+
+ Signed- Captain Allertathala."
+~
+S
+#4409
+Inside the Gates~
+You are now standing inside the Gates of Malathar, on what is known as
+Mallas Street, whic runs between two tall stone walls before turning
+south into Talein Street, which is in the city proper.  In times of
+war, this narrow passage can be easily defended, and you spy pots of
+oil atop the walls ready to pour upon any foes that seek to enter by
+this route.    
+~
+44 4 0 0 0 1
+D1
+a guard tower~
+tower~
+0 -1 4437 0
+D3
+outside the gates~
+gates~
+0 -1 4408 0
+S
+#4410
+Upon Nollthala Street~
+You are walking along Nollthala Street which heads east towards the
+scout quarters, guard quarters and stables, and west towards the
+palace of the Duke, which stands in the very center of this unusually
+symmetrical city.    
+~
+44 0 0 0 0 1
+D1
+nollthala street~
+street~
+0 -1 4412 0
+D3
+the palace~
+palace~
+0 -1 4490 0
+S
+#4411
+Guard Quarters~
+You have entered the barracks for the Elite Guard of Malathar.  Most
+of the guards will be absent on patrol in the City or surrounding
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these doughty warriors.    
+~
+44 8 0 0 0 0
+D0
+nollthala street~
+street~
+0 -1 4412 0
+S
+#4412
+Nollthala Street~
+You are standing outside the quarters of the Elite Guard, to the north
+and south.  To the west lies the Duke's Palace, and to the east more
+quarters.    
+~
+44 0 0 0 0 1
+D0
+guard quarters~
+quarters~
+0 -1 4413 0
+D1
+nollthata street~
+street~
+0 -1 4414 0
+D2
+guard quarters~
+quarters~
+0 -1 4411 0
+D3
+nollthata street~
+street~
+0 -1 4410 0
+S
+#4413
+Guard Quarters~
+You have entered the barracks for the Elite Guard of Malathar.  Most
+of the guards will be absent on patrol in the City or surrounding
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these doughty warriors.    
+~
+44 8 0 0 0 0
+D2
+nollthala street~
+street~
+0 -1 4412 0
+S
+#4414
+Nollthala Street~
+You are standing outside the quarters of the Elite Guard, to the north
+and south.  To the west lies the Duke's Palace, and to the east more
+quarters.    
+~
+44 0 0 0 0 1
+D0
+guard quarters~
+quarters~
+0 -1 4416 0
+D1
+nollthatal street~
+street~
+0 -1 4417 0
+D2
+guard quarters~
+quarters~
+0 -1 4415 0
+D3
+nollthala street~
+street~
+0 -1 4412 0
+S
+#4415
+Guard Quarters~
+You have entered the barracks for the Elite Guard of Malathar.  Most
+of the guards will be absent on patrol in the City or surrounding
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these doughty warriors.    
+~
+44 8 0 0 0 0
+D0
+nollthala street~
+street~
+0 -1 4414 0
+S
+#4416
+Guard Quarters~
+You have entered the barracks for the Elite Guard of Malathar.  Most
+of the guards will be absent on patrol in the City or surrounding
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these doughty warriors.    
+~
+44 8 0 0 0 0
+D2
+nollthala street~
+street~
+0 -1 4414 0
+S
+#4417
+Nollthala Street~
+You are standing outside the quarters of the Elite Scouts, to the
+north and south.  To the west lies the Duke's Palace, and to the east
+some stables.    
+~
+44 0 0 0 0 1
+D0
+scout quarters~
+quarters~
+0 -1 4419 0
+D1
+nollthatal street and an alley~
+street~
+0 -1 4420 0
+D2
+scout quarters~
+quarters~
+0 -1 4418 0
+D3
+nollthala street~
+street~
+0 -1 4414 0
+S
+#4418
+Scout Quarters~
+You have entered the barracks for the Elite Scouts of Malathar.  Most
+of the guards will be absent on patrol in the lands surrounding the
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these tough rangers.    
+~
+44 8 0 0 0 0
+D0
+nollthala street~
+street~
+0 -1 4417 0
+S
+#4419
+Scout Quarters~
+You have entered the barracks for the Elite Scouts of Malathar.  Most
+of the guards will be absent on patrol in the lands surrounding the
+Duchy, but occasionally a few, rendered inactive by sickness or injury
+or on leave will be here, relaxing, talking, singing or meditating.  
+They are not adverse to visitors, and will happily chat with
+foreigners about distant lands, though it would not do to act
+aggressively in the presence of these tough rangers.    
+~
+44 8 0 0 0 0
+D2
+nollthala street~
+street~
+0 -1 4417 0
+S
+#4420
+A Junction in Nolthalla Street~
+You have reached a junction in the street, where you can go east to
+the stables, west to the quarters of the Elite Guard and Scouts, and
+then the palace, or north along a narrow alley.    
+~
+44 4 0 0 0 1
+D0
+a narrow alley~
+alley~
+0 -1 4421 0
+D1
+stables~
+stables~
+0 -1 4477 0
+D3
+nollthala street~
+street~
+0 -1 4417 0
+S
+#4421
+A Narrow Alley~
+You are progressing along a narrow alley, not sure where you are
+going.  It looks as if no-one has been along here in a LONG time...  
+You must be crazy, for you almost imagine you can see a tower in the
+gloom ahead...    
+~
+44 8205 0 0 0 0
+D0
+the base of a tower~
+tower~
+0 -1 4422 0
+D2
+nullthala street~
+street~
+0 -1 4420 0
+S
+#4422
+The Base of a Tower~
+You COULD see a tower.  It has been placed smack in the middle of this
+alley, obviously by magicks far beyond your ken.  You feel a strange
+urge to turn away, but your adventurer's curiosity powers you on.  
+You can step into the gloom and ascend the steps up the tower or
+return to the alley...    
+~
+44 8201 0 0 0 0
+D2
+an alley~
+alley~
+0 -1 4421 0
+D4
+up into the tower~
+tower~
+0 -1 4423 0
+S
+#4423
+Ascending the Stairs...~
+You are half way up the tower, and have reached the conclusion that
+this tower is a LOT bigger than it looked form the outside.  Catching
+your breath, you prepare to resume your climb, but stop suddenly when
+you see a monstrous figure emerge from the gloom above...    
+~
+44 8201 0 0 0 0
+D4
+the top of the tower~
+top~
+0 -1 4469 0
+D5
+the base of the tower~
+base~
+0 -1 4422 0
+S
+#4424
+Talein Street~
+You are standing in Talein Street, the hub of commercial activity in
+the City of Malathar.  To the north are the various shops and business
+premises of the merchants of Malathar, and to the south is the Palace
+of the Duke.    
+~
+44 0 0 0 0 1
+D0
+talein street~
+street~
+0 -1 4425 0
+D2
+the palace~
+palace~
+0 -1 4488 0
+S
+#4425
+Talein Street~
+You are on Talein Street, passing the various shops of the Elven City.
+To the south is the Palace of the Duke, while the exit from Talein
+lies to the north and west.  On the west lies the Armory and the east
+the Weaponsmith.    
+~
+44 0 0 0 0 1
+D0
+talein street~
+street~
+0 -1 4428 0
+D1
+the weaponsmith~
+weaponsmith~
+0 -1 4427 0
+D2
+talein street~
+street~
+0 -1 4476 0
+D3
+the armory~
+armory~
+0 -1 4426 0
+S
+#4426
+The Armory~
+You have entered the Armory owned and operated by the respected
+armorer Grein.  Armor of all types and makes lines the walls of this
+shop, and you are overcome by the sheer volume of Grein's stock.  
+There is a Sign on the back wall of the shop.    
+~
+44 24 0 0 0 0
+D1
+talein street~
+street~
+0 -1 4425 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4427
+The Weaponsmith~
+You have entered the Weaponsmith owned and operated by the Armorer's
+brother Tolas.  Weapons of all types and makes lines the walls of this
+shop, and you are overcome by the sheer volume of Tolos's stock.  
+There is a Sign on the back wall of the shop.    
+~
+44 24 0 0 0 0
+D3
+talein street~
+street~
+0 -1 4425 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4428
+Talein Street~
+You are on Talein Street, passing the various shops of the Elven City.
+To the south is the Palace of the Duke, while the exit from Talein
+lies to the north and west.  On the west lies the Restaurant and the
+east the Grocer.    
+~
+44 0 0 0 0 1
+D0
+talein street~
+street~
+0 -1 4431 0
+D1
+the grocer~
+grocer~
+0 -1 4430 0
+D2
+talein street~
+street~
+0 -1 4425 0
+D3
+the restaurant~
+restaurant~
+0 -1 4429 0
+S
+#4429
+Loothala's Restaurant~
+A beautiful aroma of freshly-cooked Elven fare wafts to you as you
+enter this quaint little cafeteria-style eating establishment.  
+Little tables with checked tablecloths and lamps litter the polished
+oak floor, and a cheery Elven woman greets you from behind a massive
+oak counter.  Rumor has it, Loothala even has a few rooms to rent.  
+There is a Sign on the back wall of the shop.    
+~
+44 8 0 0 0 0
+D1
+talein street~
+street~
+0 -1 4428 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4430
+The Grocer~
+You have entered a quaint little Grocery store, owned by a cordial Elf
+named Dyenkalas.  He smiles and offers to show you the variety of
+adventuring equipment he can provide.  There is a Sign on the back
+wall of the shop.    
+~
+44 24 0 0 0 0
+D3
+talein street~
+street~
+0 -1 4428 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4431
+Talein Street~
+You are on Talein Street, passing the various shops of the Elven City.
+To the south is the Palace of the Duke, while the exit from Talein
+lies to the north and west.  On the west lies the Magical Shop and the
+east the Smithy.    
+~
+44 0 0 0 0 1
+D0
+corner of mallas and talein streets~
+street~
+0 -1 4434 0
+D1
+the smithy~
+smithy~
+0 -1 4433 0
+D2
+talein street~
+street~
+0 -1 4428 0
+D3
+the magical shop~
+shop~
+0 -1 4432 0
+S
+#4432
+Ye Olde Magickal Shoppe~
+You have entered a rather gloomy shop that smells strongly of ageing
+parchment and Octopus Ink.  A variety of mighty-looking wands and
+staves are gathering dust at the back of the shop, while some rather
+tacky-looking brand new plastic wands and staves glow brilliantly from
+within a glass display case.  There is a Sign on the back wall of the
+shop.    
+~
+44 24 0 0 0 0
+D1
+talein street~
+street~
+0 -1 4431 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4433
+The Smithy~
+You have entered the Smithy, a noisy, humid place made alive by the
+dancing shadows cast by the flickering flame from the Smith's forge.
+The Smith himself stands before the forge, glaring at you impatiently.
+"Well, what do you want?  Come on!  I don't have all day, y'know!  "
+The Smith is in EXTREMELY Perfect Health...  There is a Sign on the
+back wall of the shop.    
+~
+44 65752 0 0 0 0
+D3
+talein street~
+street~
+0 -1 4431 0
+E
+sign~
+Nothing.
+~
+S
+#4434
+Corner of Talein and Mallas Streets~
+You have reached the corner of two of the principal streets in
+Malathar.  You may go to the south, towards the shops and the Palace,
+or west, towards the Gates.    
+~
+44 0 0 0 0 1
+D1
+~
+~
+0 0 4159 0
+D2
+talein street~
+street~
+0 -1 4431 0
+D3
+mallas street and a tower~
+street~
+0 -1 4435 0
+S
+#4435
+Mallas Street at the Base of a Tower~
+You are standing at the base of a Tower, the second of two such
+structures along Mallas street.  You may head up the tower, or head
+west or east along Mallas street.  There is a small plaque fastened to
+the tower.    
+~
+44 0 0 0 0 1
+D1
+corner of mallas and talein streets~
+corner~
+0 -1 4434 0
+D3
+mallas street~
+street~
+0 -1 4436 0
+D4
+up the tower~
+tower~
+0 -1 4482 0
+E
+plaque~
+The Plaque reads-
+"This tower contains the offices of Captain Allertathala. Enter and have
+ your say".
+~
+S
+#4436
+Mallas Street~
+You are heading along Mallas Street, midway between two large towers.
+You may proceed west towards the Gates of Malathar, or east towards
+the City proper.    
+~
+44 0 0 0 0 1
+D1
+base of a tower~
+tower~
+0 -1 4435 0
+D3
+base of a tower~
+tower~
+0 -1 4437 0
+S
+#4437
+Base of a Tower~
+You are standing at the base of a guard tower, near the Gates of
+Malathar.  You may proceed west to the Gates, or east towards a second
+tower, or enter the tower you stand beneath.  You fancy you can hear a
+faint screeching coming from this tower...  There is a hand-written
+note pinned to a noticeboard nearby.    
+~
+44 0 0 0 0 1
+D1
+mallas street~
+street~
+0 -1 4436 0
+D3
+the gates of malathar~
+gates~
+0 -1 4409 0
+D4
+the tower~
+tower~
+0 -1 4438 0
+E
+note~
+The note says-
+ "B E W A R E   T H E   G R I F F O N S !"
+~
+S
+#4438
+The Guard Tower~
+Uh-Oh.  You are in TROUBLE.  As you emerge you see a HUGE griffon
+staring coldly at you, seconds before it lunges madly at your throat,
+beak and claws ready!    
+~
+44 8193 0 0 0 0
+D5
+the base of the tower~
+tower~
+0 -1 4437 0
+S
+#4439
+Obeith Street~
+You are standing on Obeith Street, which runs east-west through guard
+quarters and a civilian area, towards the Palace to the east, and a
+temple to the west, positioned in a grand park.    
+~
+44 0 0 0 0 1
+D1
+the palace~
+palace~
+0 -1 4484 0
+D3
+obeith street~
+street~
+0 -1 4440 0
+S
+#4440
+Obeith Street~
+You are heading along Obeith Street, past a guard house and a scout
+station.  Occupants of both occasionally stroll past, gazing at you
+curiously, but for the most part the street is deserted.  The City
+Temple looms large in the west, as does the Duke's Palace to the east.
+~
+44 0 0 0 0 1
+D0
+guard house~
+house~
+0 -1 4442 0
+D1
+obeith street~
+street~
+0 -1 4439 0
+D2
+scout station~
+scout~
+0 -1 4441 0
+D3
+obeith street~
+street~
+0 -1 4443 0
+S
+#4441
+Scout Station~
+It is here that the young Elves who wish to become Elite Scouts live
+and learn.  They are rarely here during most of the year, often out
+hunting, tracking or fighting Goblin raiders.  The few that are here
+are those that were not fit or worthy enough to take to the field this
+season.    
+~
+44 8 0 0 0 0
+D0
+obeith street~
+street~
+0 -1 4440 0
+S
+#4442
+Guard House~
+This is the Headquarters of the City Guard.  It is from here that they
+co-ordinate their efforts to keep the peace in the streets of
+Malathar, handling mostly cases of petty crime (the Elite Guard handle
+serious problems).  They frown on civilians entering their premises,
+but will tolerate your presence for they will recognize you as a mere
+ignorant foreigner who probably doesn't speak enough Elvish to
+understand when they're being told to LEAVE.    
+~
+44 8 0 0 0 0
+D2
+obeith road~
+road~
+0 -1 4440 0
+S
+#4443
+Obeith Street~
+You are heading along Obeith Street, past a Pet store and a
+Cartograhper's business.  Customers of both occasionally stroll past,
+gazing at you curiously, but for the most part the street is deserted.
+The City Temple looms large in the west, as does the Duke's Palace to
+the east.    
+~
+44 0 0 0 0 1
+D0
+pet store~
+pet store~
+0 -1 4445 0
+D1
+obeith street~
+street~
+0 -1 4440 0
+D2
+~
+door~
+1 0 4444 3
+D3
+obeith street~
+street~
+0 -1 4447 0
+S
+#4444
+Ye Olde Mappe Shoppe~
+This quiet establishment specializes in the making and selling of
+maps.  The Cartograhper is really very good at what he does, although
+his current collection of maps is rather old and out-of-date.  There
+is a Sign on the back wall of the shop.    
+~
+44 8 0 0 0 0
+D0
+obeith street~
+street~
+1 -1 4443 3
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4445
+The Pet Shop~
+Many wondrous and rare creatures are available for purchase as pets
+here, if you have the cash and the desire for one.  The stock is good,
+the animals healthy and the prices not too outlandish.  There is a
+Sign on the back wall of the shop.    
+~
+44 4104 0 0 0 0
+D2
+obeith street~
+street~
+0 -1 4443 0
+E
+sign~
+The sign says-
+ "Welcome. 
+  To see what items are for sale here, type LIST
+  To buy an item you like, type BUY <itemname>
+  To list items of a particular type, type LIST <itemtype>
+  If there are multiple items of a single type, or you are after a
+  particular one, type BUY x.<itemname>, where x is the number of the
+  item in the list.
+  To sell an item, type SELL <itemname>.
+  If you want to get an idea of what the shopkeeper will pay for the item
+  without selling it, type VALUE <itemname>.
+
+Thank You,
+	 The Management.
+~
+S
+#4446
+Pet storage~
+What are you doing here???  Get the Hell Out!  :) Yaegs
+~
+44 8 0 0 0 0
+S
+#4447
+Obeith Street~
+You are heading along Obeith Street, past a residental area.  
+Citizens of the City occasionally stroll past, gazing at you
+curiously, but for the most part the street is deserted.  The City
+Temple looms large in the west, as does the Duke's Palace to the east.
+~
+44 0 0 0 0 1
+D0
+a house~
+house~
+0 -1 4448 0
+D1
+obeith street~
+street~
+0 -1 4443 0
+D3
+obeith street~
+street~
+0 -1 4449 0
+S
+#4448
+A House~
+This house is the home of some citizens of the City of Malathar.  Now
+Elves are a rather private bunch, and it woulnd't do to be caught by
+the Guard traipsing through some stranger's house handling his or her
+possessions, so you'd better leave.    
+~
+44 8 0 0 0 0
+D2
+obeith street~
+street~
+0 -1 4447 0
+S
+#4449
+Obeith Street~
+You have reached a point where Obeith Street is met by a narrow alley
+that runs to the south.  Further to the west lies the Grand Temple of
+Malathar.    
+~
+44 0 0 0 0 1
+D1
+obeith street~
+street~
+0 -1 4447 0
+D2
+a narrow alley~
+alley~
+0 -1 4450 0
+D3
+the temple~
+temple~
+0 -1 4470 0
+S
+#4450
+A Narrow Alley~
+You are heading along a narrow alley that meets Obeith Street to the
+north and terminates in a brightly-lit tower to the south.  You can
+hear mumbling and growling noises coming from the tower.    
+~
+44 8 0 0 0 0
+D0
+obeith street~
+street~
+0 -1 4449 0
+D2
+a brightly-lit tower~
+tower~
+0 -1 4451 0
+S
+#4451
+A Brightly-Lit Tower~
+As you draw nearer to this illuminated edifice the noises stop, as if
+the occupant(s?  ) have suddenly become aware of your presence.  An
+open archway allows access to a staircase that spirals upwards thought
+the tower, which ends in a finely-tapered point of obsidian, smooth
+and unadorned.    
+~
+44 8204 0 0 0 0
+D0
+a narrow alley~
+alley~
+0 -1 4450 0
+D4
+the tower proper~
+tower~
+0 -1 4452 0
+S
+#4452
+Heading up the Tower~
+You have reached a landing halfway up (down?  ) this huge tower,
+pausing to catch your breath.  You now fancy you can hear a faint
+humming, and you are sure you can smell burning herbs.  A massive
+stone monolith looms to your left, and a gilded plaque hangs on the
+wall to your right.    
+~
+44 8200 0 0 0 0
+D4
+the top of the tower~
+tower~
+0 -1 4453 0
+D5
+the base of the tower~
+tower~
+0 -1 4451 0
+E
+monolith~
+The monolith is a massive stone construction roughly carved to resemble a
+human, and you assume it waas fashioned by someone copying a stone golem,
+though to your trained eye the "golem" is obviously a fake and utterly
+devoid of life.
+~
+E
+plaque~
+The Plaque reads-
+ "Welcome to the home of Yastellat, Sage of Malathar, purveyor of knowledge,
+  expander of minds, identifier of all items magical or mundane (all for a
+  reasonable price)"
+~
+S
+#4453
+The Top of the Tower~
+You enter into a huge circular room filled to the rafters with books,
+curios, trinkets, artifacts, relics, alembics, beakers, urns, pots,
+pans, wands, rings, swords- every manner of object possible.  A
+brazier in the center of rooms holds some burning herbs, which fill
+the room with an acrid smoke.  An elderly elf is busy fiddling with a
+rather strange contraption upon which he places black plastic discs
+from which a rather odd sound emerges, along with much scratching and
+hissing.  He has quite a collection of these disks, which are packaged
+in luridly-colored paper envelopes, replete with pictures of rather
+weedy-looking, long-haired, pale-skinned humans (?  ).    
+~
+44 8200 0 0 0 0
+D5
+halfway up the tower~
+tower~
+0 -1 4452 0
+S
+#4454
+Baleith Street~
+You are standing upon Balieth Street, which runs north south from the
+Palace of the Duke to the north to the Guilds to the south.  There is
+a magnificent statue of the Duke here, resplendent in full ceremonial
+dress.    
+~
+44 0 0 0 0 1
+D0
+the palace~
+palace~
+0 -1 4486 0
+D2
+baleith street~
+street~
+0 -1 4455 0
+E
+statue~
+What an Arrogant Prat.
+~
+S
+#4455
+Baleith Street~
+You are heading along Balieth Street, which is home to the
+Guildmasters and Guildmistresses of Malathar.  At the far end, to the
+south, lies the tower of the Elven Guildmaster, and the legendary
+Library of Malathar, while to the north lies the opulent Palace of the
+Duke.    
+~
+44 16 0 0 0 1
+D0
+baleith street~
+street~
+0 -1 4454 0
+D1
+the human guild~
+guild~
+0 -1 4457 0
+D2
+baleith street~
+street~
+0 -1 4458 0
+D3
+the dwarven guild~
+guild~
+0 -1 4456 0
+S
+#4456
+Gladiator's Guild~
+You have entered the rough-hewn stone hall of the Gladiator
+Guildmaster, who stands ready to help you advance your knowledge of
+your class's ways.  The There is a sign on the back wall.  Room is
+typical of all Gladiator Guilds, hastily made, functional, and
+extremely mismatched.    
+~
+44 28 0 0 0 0
+D1
+baleith street~
+street~
+0 -1 4455 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4457
+Monk's Guild~
+You have entered the Monk's Guild, in the midst of which sits a master
+of your faith, clad all in robes of state.  Here you may advance your
+skills and level - long as you are deemed worthy.    
+~
+44 28 0 0 0 0
+D3
+baleith street~
+street~
+0 -1 4455 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4458
+Baleith Street~
+You are heading along Balieth Street, which is home to the
+Guildmasters and Guildmistresses of Malathar.  At the far end, to the
+south, lies the tower of the Elven Guildmaster, and the legendary
+Library of Malathar, while to the north lies the opulent Palace of the
+Duke.    
+~
+44 16 0 0 0 1
+D0
+baleith street~
+street~
+0 -1 4455 0
+D1
+the kender guild~
+guild~
+0 -1 4460 0
+D2
+baleith street~
+street~
+0 -1 4461 0
+D3
+the dryad guild~
+guild~
+0 -1 4459 0
+S
+#4459
+Ranger Guild~
+The room you have entered has been beautifully rendered by some Elven
+artist to resemble a peacefuly woodland setting, complete with
+masterfully-painted images of Sylvan creatures.  Amidst all of this
+towers your Guildmaster, extremely tall, and quite imposing clad in
+his concealing flowing brown robes.  There is a sign on the back wall.
+  
+~
+44 28 0 0 0 0
+D1
+baleith street~
+street~
+0 -1 4458 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4460
+Thief's Guild~
+You have entered what appears to be some sort of madman's playroom, a
+huge assortment of strange brightly colored balls lie scattered about
+the room.  The room is seperated into small corridors which all seem
+to go nowhere, which is even more bizarre since the walls are only
+waist high.  In the center of this madness sits a man who must be your
+Guildmaster since he is the only one in the room besides you.    
+~
+44 28 0 0 0 0
+D3
+baleith street~
+street~
+0 -1 4458 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4461
+Baleith Street~
+You are heading along Balieth Street, which is home to the
+Guildmasters and Guildmistresses of Malathar.  At the far end, to the
+south, lies the tower of the Elven Guildmaster, and the legendary
+Library of Malathar, while to the north lies the opulent Palace of the
+Duke.    
+~
+44 16 0 0 0 1
+D0
+baleith street~
+street~
+0 -1 4458 0
+D1
+the illithid guild~
+guild~
+0 -1 4463 0
+D2
+baleith street~
+street~
+0 -1 4464 0
+D3
+the avian guild~
+guild~
+0 -1 4462 0
+S
+#4462
+Deathknight Guild~
+A stoney faced man clad in black chainmail awaits you, arms crossed.
+He stares at you at is if he has been expecting you and you are late.
+  
+~
+44 28 0 0 0 0
+D1
+baleith street~
+street~
+0 -1 4461 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4463
+Paladin Guild~
+You enter into a spartan but nonetheless cheerful room which holds
+nothing but a small practice mat and a few weapons which hang on the
+walls.    
+~
+44 28 0 0 0 0
+D3
+baleith street~
+street~
+0 -1 4461 0
+E
+sign~
+The Sign Says-
+ "To the Prospective Student-
+  Type PRAC to see what skills you are able to learn here. If nothing comes
+  up, I am unable to help you and you must leave.
+  If any skills in the list interest you, then type PRAC <skillname> and I
+  will impart what knowledge I can to you, free of financial cost, though
+  this will obviously expend some of your practice points.
+  Once you are done, you may leave, hoepfully a little more skilled.
+  BTW- Do NOT forget that there are significant experience point penalties
+  for practicing skills that are not native to your race.
+
+  Signed,
+	Your Guild Manager.
+~
+S
+#4464
+The Path to the Library~
+You have reached a bend in Baleith Street, where it turns and heads
+towards the magnificent Library of Malathar, which is also home to the
+Elven South of here lie the Malatharan docks.    
+~
+44 4 0 0 0 1
+D0
+baleith street~
+street~
+0 -1 4461 0
+D1
+the path to the library~
+path~
+0 -1 4465 0
+S
+#4465
+The Path to the Library~
+As you draw nearer, you notice that the Library is actually housed in
+an impressive tower, similar to those in the toehr three quarters of
+the City, towering high into the sky, tapering to an unadorned point,
+in this case housed in platinum sheeting.  Guards occasionally march
+past, as do several important-looking noblemen and women.    
+~
+44 0 0 0 0 1
+D1
+the base of the tower~
+tower~
+0 -1 4466 0
+D3
+the path to the library~
+path~
+0 -1 4464 0
+S
+#4466
+The Base of the Tower~
+Entering the Tower, you find that you may proceed up or down, via
+elaborately carved marble staircases, lit at regular intervals by
+Continual Light spells.  There is a desk on this level, unmanned, but
+which bears a register.  There is a large bulletin board on the wall
+behind the desk, between tall statues of Aya and Mala, the Father and
+Mother of Learning in Elven Culture.    
+~
+44 24 0 0 0 0
+D3
+the path to the library~
+path~
+0 -1 4465 0
+D4
+up the tower~
+tower~
+0 -1 4467 0
+D5
+down the tower to the library~
+library~
+0 -1 4496 0
+E
+register~
+The register bears the names of all who have passed through the doors of
+this great library, and as you watch incredulously, your own name appears
+at the end of the list. Scanning the list you see such names as Lenny, Garth,
+Rainman, Argh, Fle, Marc, Tempest, Marius, Cookie, Amadeus and Svelte, along 
+with some names crossed out, such as Snikt, Gloppy and Dizzy.
+~
+E
+board bulletin~
+The Bulletin Board has many notes pinned to it, mostly of no use to you.
+However, there is a directory to the tower-
+
+ADMINISTRATION - GROUND FLOOR
+CLERICAL OFFICES - LEVEL ONE
+GUILDMASTER'S OFFICES - LEVEL TWO
+THE LIBRARY - B1
+STORAGE - B2
+~
+S
+#4467
+Clerical Offices~
+Halfway up the Tower, you emerge on Level One, which is filled with
+servants busily rushing about emptying bins, making lunch, filing
+papers, getting coffee for the librarians, stacking books and so on.
+They seem completely oblivious to your presence.    
+~
+44 28 0 0 0 0
+D4
+the guildmaster's office~
+office~
+0 -1 4468 0
+D5
+the base of the tower~
+tower~
+0 -1 4466 0
+S
+#4468
+Cleric's Guild~
+You emerge into a well-lit room with shelves well-stocked with books
+upon books, and a huge desk carved of what looks like solid obsidian.
+The Guildmaster himself is seated at this desk, poring over many a
+quaint and mysterious volume of misbegotten lore...    
+~
+44 24 0 0 0 0
+D5
+the clerical offices~
+offices~
+0 -1 4467 0
+S
+#4469
+The Top of the Tower~
+Reaching the top of the tower, you come to a half-open door, which you
+are able to barely push open, wedged as it is by a huge pile of books.
+Giving it a final shove, the door flies open, scattering books across
+the floor of the dusty study you have entered, startling the Archmage
+Tuo, who to your growing dismay is becoming very angry.  He stares
+grimly at you as you stutter out an apology, and simply demands that
+you fulfill whatever business you have with him or begone forthwith.
+You see a tattered scroll stuck to one wall.    
+~
+44 8 0 0 0 0
+D5
+halfway up the tower~
+tower~
+0 -1 4423 0
+E
+scroll~
+The scroll says-
+ "The Archmage will help you enhance any of the following stats-
+
+  STR, DEX, CON, INT, WIS, HP, MANA, MOVE plus Freedom from Nutrition
+  for one level.
+
+  To enhance, type Enhance <stat> or Enhance 8 for Freedom From Nutrition.
+  It will cost you 150000 gold and 300000 experience points, both of which
+  will be deducted form your current stocks automatically. If you have
+  insufficient, the Archmage will (obviously) refuse to train you.
+
+  Regards,
+	 The Enhancement Team (TM).
+~
+S
+#4470
+The Temple~
+You are standing outside the Temple of Malathar, where services are
+given to honor all the deities of the Elven nations.  A set of
+magnificent marble pillars lines the entrance hall, and from this hall
+you can proceed south to the altar, or north to the private chambers
+of the clergy.    
+~
+44 8 0 0 0 0
+D0
+private chambers~
+chambers~
+0 -1 4472 0
+D1
+obeith street~
+street~
+0 -1 4449 0
+D2
+the aisle to the altar~
+aisle~
+0 -1 4471 0
+S
+#4471
+The Aisle to the Altar~
+You have entered the aisle that leads to the altar of the Temple,
+where the High Priest Lallinthenera stands, healing the sick and
+converting the wicked.    
+~
+44 8 0 0 0 0
+D0
+the entrance to the temple~
+temple~
+0 -1 4470 0
+D3
+the altar~
+altar~
+0 -1 4473 0
+S
+#4472
+The Private Chambers of the Clergy~
+To the north are the residence halls of the clergy, while to the west
+lies the Holy Bank of the Elven Church, where you can deposit or
+withdraw funds.    
+~
+44 8 0 0 0 0
+D0
+the residence halls of the clergy~
+halls~
+0 -1 4474 0
+D2
+the temple entrance~
+entrance~
+0 -1 4470 0
+D3
+the bank~
+bank~
+0 -1 4475 0
+S
+#4473
+The Altar~
+The Altar of the Temple is here, and standing before it is the High
+Priest.  You feel an oveeriding sense of peace and calm in this place,
+and feel that in here you are truly afe from the trials and
+tribulations of the outside world.    
+~
+44 8 0 0 0 0
+D1
+the aisle to the altar~
+aisle~
+0 -1 4471 0
+S
+#4474
+The Residence Halls~
+This is where the junior Acolytes reside when they are not busy
+helping the sick and the poor, or acting as missionaries to heathen
+Wild Elves.  The quarters are bare and unremarkable, save for a
+portrait of the High Priest, and a framed picture of Yaegar, patron of
+this Temple.    
+~
+44 8 0 0 0 0
+D2
+the private chambers~
+chambers~
+0 -1 4472 0
+E
+picture yaegar~
+What a Handsome Devil!
+~
+S
+#4475
+The Holy Bank~
+Here you are in the Holy Bank.  Why it is Holy, only the original
+builder of this zone could know, but Holy it is and Holy it will
+stay...    
+~
+44 8 0 0 0 0
+D1
+the private chambers~
+chambers~
+0 -1 4472 0
+E
+sign~
+Commands for the ATM-
+ To check how mych money you have currently in your account, type BALANCE.
+ To deposit funds, type DEPOSIT x, where x is the amount of coins you wish
+ to deposit.
+ To withdraw funds, type WITHDRAW x, where x is the amount of money you
+ wish to withdraw.
+ To obtain credit, write some code in C that would enable the bank to do
+ this and send it to Argh.
+
+ The Management.
+~
+S
+#4476
+Town Square~
+This tranquil area has been kept a haven for citizens of Malathar to
+bring their families for picnics or just come and take a break from
+life in Malathar for a while.  The sound of the fountain gurgling so
+close makes you want to sit down and rest a spell on its foundation.
+To the north are the various shops and business premises of the
+merchants of Malathar, and to the south is the way to the Palace of
+the Duke and the Academies.  To the east are most of the city-funded
+buildings.    
+~
+44 16 0 0 0 1
+D0
+~
+~
+0 0 4425 0
+D1
+~
+~
+0 0 4300 0
+D2
+~
+~
+0 0 4488 0
+S
+#4477
+The Stables~
+You are walking through an open area littered with hay and the
+occasional pile of steaming turds.  Stablehads rush about, cleaning up
+these filthy messes.    
+~
+44 8 0 0 0 0
+D0
+stables~
+stables~
+0 -1 4478 0
+D1
+the stablemaster's room~
+room~
+0 -1 4480 0
+D3
+nollthala street~
+street~
+0 -1 4420 0
+S
+#4478
+The Stables~
+You are walking through an open area littered with hay and the
+occasional pile of steaming turds.  Stablehads rush about, cleaning up
+these filthy messes.    
+~
+44 8 0 0 0 0
+D1
+stables~
+stables~
+0 -1 4481 0
+D2
+stables~
+stables~
+0 -1 4477 0
+S
+#4479
+The Stables~
+You are walking through an open area littered with hay and the
+occasional pile of steaming turds.  Stablehads rush about, cleaning up
+these filthy messes.    
+~
+44 8 0 0 0 0
+D0
+the stablemaster's room~
+room~
+0 -1 4480 0
+S
+#4480
+The Stablemater's Room~
+This room is scarcely different form the other stable rooms, save that
+it contains a table and a chair for the stablemaster, a burly Half-Elf
+with tattoos and a tan.    
+~
+44 8 0 0 0 0
+D0
+stables~
+stables~
+0 -1 4481 0
+D2
+stables~
+stables~
+0 -1 4479 0
+D3
+stables~
+stables~
+0 -1 4477 0
+S
+#4481
+The Stables~
+You are walking through an open area littered with hay and the
+occasional pile of steaming turds.  Stablehads rush about, cleaning up
+these filthy messes.    
+~
+44 8 0 0 0 0
+D2
+stables~
+stables~
+0 -1 4480 0
+D3
+stables~
+stables~
+0 -1 4478 0
+S
+#4482
+The Captain's Quarters~
+You have entered a well-furnished office which serves as the reception
+area for the Captain of the Guard.  He will chat with you here about
+your concerns and try to give you advice, but will always remain on
+guard.  He boasts to you of the fact that his office is a magical
+field, and that dimensional gateways occasionally appear here.  
+Sounds like crap but you never know...    
+~
+44 8 0 0 0 0
+D5
+bottom of the tower~
+tower~
+0 -1 4435 0
+S
+#4483
+Sun Room~
+You have entered the Palace's Sun Room, famous for his huge
+crystalline windows specially crafted to capture and magnify the rays
+of the sun so that the room is brilliantly lit at all hours of the
+day.  A few easychairs and cushions have been scattered across the
+floor here, and you see a couple of Elven Nobles languidly relaxing in
+the warmth of the sun, sipping on fine Elven wines.    
+~
+44 8 0 0 0 0
+D0
+the west door~
+door~
+0 -1 4484 0
+D1
+the south door~
+door~
+0 -1 4486 0
+S
+#4484
+The West Door~
+You are standing at the West Door of the Palace, which faces onto
+Obeith Street, which runs from the Palace to the Temple in the West.
+Guards mingle about the doorway, casting the occasional suspicious
+glance in your direction.  Massive stone statues of past Elven lords
+tower above you on all sides.    
+~
+44 8 0 0 0 0
+D0
+the moon room~
+moon~
+0 -1 4485 0
+D1
+the throne room~
+throne~
+0 -1 4487 0
+D2
+the sun room~
+sun~
+0 -1 4483 0
+D3
+obeith street~
+street~
+0 -1 4439 0
+S
+#4485
+The Moon Room~
+This room appears to be identical to the Sun Room, save that the
+windows in here are cunningly designed to capture and reflet moonlight
+so that even on the darkest nights there is illumination.  Nobles
+lounge around here, idly singing old tunes or playing simple games of
+chance.    
+~
+44 8 0 0 0 0
+D1
+the north door~
+door~
+0 -1 4488 0
+D2
+the west door~
+door~
+0 -1 4484 0
+S
+#4486
+The South Door~
+You are standing at the South Door, where it meets Baleith Street,
+which runs past the guilds towards the Library of Malathar.  Nearby,
+you can see the stone colossus of the Duke.  Garlands of flowers have
+been arranged about the South Door, in honor of some half-forgotten
+festival.    
+~
+44 8 0 0 0 0
+D0
+the throne room~
+throne~
+0 -1 4487 0
+D1
+the water room~
+water~
+0 -1 4489 0
+D2
+baleith street~
+street~
+0 -1 4454 0
+D3
+the sun room~
+sun~
+0 -1 4483 0
+S
+#4487
+The Throne Room~
+It is here that the Duke and his wife receive their subjects, seated
+upon huge platinum thrones flanked by their Elite Guards.  
+Occasionally Tuo the Arch Mage or Lallinthenera the High Priest will
+attend, though both dislike such officious business.  Your footsteps
+echo about this pillared hall as you tread slowly upon the marble
+floor.  You can feel several pairs of eyes on you as you travel, and
+suddenly find yourself eager to be gone from the room as soon as
+possible.    
+~
+44 8 0 0 0 0
+D0
+the north door~
+north~
+0 -1 4488 0
+D1
+the east door~
+east~
+0 -1 4490 0
+D2
+the south door~
+south~
+0 -1 4486 0
+D3
+the west door~
+west~
+0 -1 4484 0
+S
+#4488
+The North Door~
+You are standing at the North Door of the Palace, looking down Talein
+street, past the various shops and places of business, towards the
+Gates of Malathar.  People stop and stare at you with open curiosity,
+and you quickly become aware of your relatively scruffy appearance.  
+~
+44 8 0 0 0 0
+D0
+The Town Square.
+~
+street~
+0 0 4476 0
+D1
+the sky room~
+sky~
+0 -1 4491 0
+D2
+the throne room~
+throne~
+0 -1 4487 0
+D3
+the moon room~
+moon~
+0 -1 4485 0
+S
+#4489
+The Water Room~
+The second you enter this room you begin to panic, as you suddenly
+think you are far underwater!  But you quickly compose yourself
+(trying to ignore the amused stares cast in your direction), and
+realize that the room you are in is in fact formed of sheets of glass
+behind which flows sea water complete with several species of marine
+life.  The effect is unnerving, but quite beautiful.  You have to
+concentrate hard to cross the room, and can't help but imagine you are
+truly walking on water...    
+~
+44 8 0 0 0 0
+D0
+the east door~
+east~
+0 -1 4490 0
+D3
+the south door~
+south~
+0 -1 4486 0
+S
+#4490
+The East Door~
+You are standing at the East Door of the Palace, facing onto the
+western end of Nollthala Street, which runs to the east to the stables
+and the Tower of the Archmage.  Several scouts mill about, their
+Cooshee pets left momentarily unattended, and you suddenly feel very
+much an alien in this place.    
+~
+44 8 0 0 0 0
+D0
+the sky room~
+sky~
+0 -1 4491 0
+D1
+nollthala street~
+street~
+0 -1 4410 0
+D2
+the water room~
+water~
+0 -1 4489 0
+D3
+the throne room~
+throne~
+0 -1 4487 0
+S
+#4491
+The Sky Room~
+ACK!  You're Falling!  Wait...  No you aren't.  Unbelieveable as it
+is, the entire room has been fashioned so as to appear to be open sky,
+with no walls, floors or celings.  People wander about, quite unfazed
+by the effect, and you feel a little foolish as you clamber to your
+feet and attempt to get your bearings.    
+~
+44 8 0 0 0 0
+D2
+the east door~
+east~
+0 -1 4490 0
+D3
+the north door~
+north~
+0 -1 4488 0
+S
+#4492
+The Central Shelving Area~
+You are in the Central Shelving Area, from which the librarians take
+the many books being constantly borrowed, returned, bought and sold.
+You are overawed by the sheer volume of books in this place, and gasp
+as you realize that the shevles are at least seventy feet high and
+extend as far as you can see...    
+~
+44 28 0 0 0 0
+D0
+the stairs~
+stairs~
+0 -1 4496 0
+D1
+the east wing~
+east~
+0 -1 4495 0
+D2
+the south wing~
+south~
+0 -1 4493 0
+D3
+the west wing~
+west~
+0 -1 4494 0
+E
+ground floor~
+There is a circular scorch mark on the floor here.
+~
+S
+#4493
+The South Wing~
+You are in the South Wing, where recent acquisitions (i.  E, less than
+500 years old) are stored.  The pace down here is so frenetic, no one
+even notices your presence, and you feel certain that you could pocket
+a couple of tomes or librams and no-one would know...    
+~
+44 8 0 0 0 0
+D0
+the central shelving area~
+area~
+0 -1 4492 0
+S
+#4494
+The West Wing~
+This Wing is very dusty and, compared to the rest of the library, is
+practically deserted.  This is where out-of-date or obsolete texts are
+held, and you see little that seems interesting.  You are not
+surprised no-one wants any books from this area.    
+~
+44 8 0 0 0 0
+D1
+the central shelving area~
+area~
+0 -1 4492 0
+S
+#4495
+The Sorceror's Guild~
+This small cubicle located just off the main shelving area serves as
+the Soreceror's Guild here in Malathar.  You are quite surprised at
+the lack of space allowed for the Guild, but just the same, the
+Guildmaster here seems perfectly content, poring over old tomes.    
+~
+44 24 0 0 0 0
+D3
+the central shelving area~
+area~
+0 -1 4492 0
+S
+#4496
+The Stairway~
+You are standing at the base of the stairway that runs through the
+entire Library Tower.  From here you may brave the Central Shelving
+area to the south, or investigate an interesting-looking dusty passage
+that slopes down from here...  Alternatively, you could just return to
+the ground floor...    
+~
+44 12 0 0 0 0
+D2
+the central shelving area~
+area~
+0 -1 4492 0
+D4
+the ground floor~
+ground~
+0 -1 4466 0
+D5
+the storage areas (b2)~
+b2~
+0 -1 4497 0
+S
+#4497
+The Storage Areas (B2)~
+You have reached B2, the dusty storage sub-level mentioned on the
+directory on the ground floor.  It looks as if no-one has been down
+here for centuries.  There seems to be little of interest here.  
+However, you fancy that you can hear snoring coming from somewhere...
+  
+~
+44 13 0 0 0 0
+D0
+the snoring gets louder~
+snoring~
+0 -1 4498 0
+D4
+the stairway~
+stairway~
+0 -1 4496 0
+S
+#4498
+The Snoring Gets Louder~
+Any interest you had in whatever was stored down here has been taken
+over by your curiosity as to who (or WHAT) is making the tremendous
+racket that now reaches your ears, shaking the very foundations you
+walk beneath...    
+~
+44 9 0 0 0 0
+D2
+the storage areas (b2)~
+b2~
+0 -1 4497 0
+D3
+the dragon cave~
+cave~
+0 -1 4499 0
+S
+#4499
+The Dragon Cave~
+Uh-Oh....  You found out what was snoring...  It is a DRAGON...  A
+HUGE DRAGON, coiled up in the massive cavern you just entered, its
+sinuous tail wrapped about a massive treasure chest.  The Dragon must
+be about eighty or ninety feet long, you estimate, at least twice the
+length of any you've fought before, and to top it off he is a Platinum
+Dragon, who are amongst the most powerful of all Wyrmkin.  Amazed that
+the Dragon hasn't reacted to your presence yet, you pause and wonder
+what to do...    
+~
+44 8329 0 0 0 0
+D1
+the snoring gets louder~
+snoring~
+0 -1 4498 0
+S
+$~

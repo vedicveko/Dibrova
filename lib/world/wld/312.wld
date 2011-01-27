@@ -1,0 +1,999 @@
+#31200
+A Field By The Estate~
+The tracks of your enemies have led you this far. You stand in an
+open field next to what appears to have once been a grand estate.
+This appears to be a good spot to rest and prepare for the battles
+you are sure to experience. You spot a scrap of paper out of the 
+corner of your eye. Some inner voice demands that you read it.
+~
+312 egor 0
+E
+scrap paper~
+Rules For Rumble Contests:
+--------------------------
+1) It is strictly forbidden to smoke here, as fire has already damaged
+   the estate enough.
+2) Recalling or remaining idle for even a short period of time will
+   cause you to be extracted from the Rumble. Don't Sit Idle!
+
+Godspeed and Good Luck
+~
+S
+#31201
+Tracking The Enemy~
+   Sparkling bits of glass catch your eye as you walk through the
+church. The glass shards crunch noisily under your boots as you make
+your way towards an altar. Smoke coats one of the rough stone walls,
+leading down to a small table. There are several rows of pews on either
+side of you. The howling winds that pour in from the many gaping holes
+in the high cathedral ceilings pass through your clothes and chill you
+to the bone.
+~
+312 dgoqr 0
+D0
+A small door is here hidden in an alcove.
+~
+door~
+1 0 31204
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31202
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31206
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31209
+E
+table smoke~
+Smoke stains have built up above this table due to the many candle
+holders here that have been lit in times of prayer.
+~
+S
+#31202
+Tracking The Enemy~
+   Sparkling bits of glass catch your eye as you walk through the
+church. The glass shards crunch noisily under you boots as you make
+your way towards an altar. Smoke coats one of the rough stone walls,
+leading down to a small table. There are several rows of pews on either
+side of you. The howling winds that pour in from the many gaping holes
+in the high cathedral ceilings pass through your clothes and chill you
+to the bone.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31214
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31203
+D3
+~
+~
+0 0 31201
+E
+altar~
+It is made of heavy stone. Small crosses decorate the front.
+~
+S
+#31203
+Tracking The Enemy~
+   You have stepped into a dank and dismal alcove. The rough stones
+here are covered with a copperish stain. You wonder how many others
+have stood in this room before you, waiting for their battle to 
+begin. And whether it is their blood or that of their enemies that
+has dried here.
+~
+312 dghoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31202
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31201
+S
+#31204
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31205
+D1
+A massive door stands here, pieces of hay protrude from the bottom.
+~
+door massive~
+1 0 31230
+D2
+A door is here recessed into an alcove.
+~
+door~
+1 0 31201
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31212
+E
+portrait picture portraits~
+   You can make out the features of what you assume was 
+the Lord Le'Beau. He appears to have been a tall man with
+brown hair and deep brown eyes. His expression is serious.
+~
+S
+#31205
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31206
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31207
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31204
+E
+plaque~
+The plaque reads :
+
+-= Tara Leigh Le'Beau =-
+~
+E
+portrait picture portraits~
+   This portrait shows a small little girl with laughing green
+eyes. Her cheeks and nose are dotted with freckles. A broad
+smile shows off small white teeth. A plaque is attached to the
+frame.
+~
+S
+#31206
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31201
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31205
+E
+portrait picture portraits~
+   The features on this painting have almost all been lost
+to the battles that have taken place here. You can still make
+out the woman's long dark hair and flowing brocade robe. But
+the face has been destroyed by a vicious slash.
+~
+S
+#31207
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31203
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31208
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31205
+S
+#31208
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31207
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31216
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31220
+S
+#31209
+Tracking The Enemy~
+   Sparkling bits of glass catch your eye as you walk through the
+church. The glass shards crunch noisily under your boots as you make
+your way towards an altar. Smoke coats one of the rough stone walls,
+leading down to a small table. There are several rows of pews on either
+side of you. The howling winds that pour in from the many gaping holes
+in the high cathedral ceilings pass through your clothes and chill you
+to the bone.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31201
+D2
+A painted screen has been set up here.
+~
+screen painted~
+1 0 31211
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31210
+E
+pew pews~
+The pews are carved from what looks like oak. They have not 
+suffered the trials of the weather well. What were once smooth
+and shiny seats now are splintered and covered in leaves.
+~
+E
+screen ~
+The screen is turned backwards so that the scene only shows on
+the opposite side.
+~
+S
+#31210
+Tracking The Enemy~
+   Sparkling bits of glass catch your eye as you walk through the
+church. The glass shards crunch noisily under you boots as you make
+your way towards an altar. Smoke coats one of the rough stone walls,
+leading down to a small table. There are several rows of pews on either
+side of you. The howling winds that pour in from the many gaping holes
+in the high cathedral ceilings pass through your clothes and chill you
+to the bone.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31209
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31214
+E
+ceilings hole gaping~
+One of the holes acts as a frame to the full moon
+that is rising outside.
+~
+S
+#31211
+Tracking The Enemy~
+   Smashed glass cabinets line the walls. Empty scabbards are
+scattered here and there about the room. Stands that at one time
+held polished platemail and shields now stand empty. This was
+apparently the armoury hall at one time. The shattered fragments
+of glass and the emptiness of these rooms now act as a vivid
+reminder to the cruel and brutal ways of war.
+~
+312 dgoqr 0
+D0
+A screen stands here with a battle painted on it.
+~
+screen painted battle~
+1 0 31209
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31213
+E
+screen painted ~
+The screen shows a man in full armor with a lance. Slaying a 
+large red dragon. In the background a small village is shown.
+All of the buildings have been leveled by fire.
+~
+S
+#31212
+Tracking The Enemy~
+   Smashed glass cabinets line the walls. Empty scabbards are
+scattered here and there about the room. Stands that at one time
+held polished platemail and shields now stand empty. This was
+apparently the armoury hall at one time. The shattered fragments
+of glass and the emptiness of these rooms now act as a vivid
+reminder to the cruel and brutal ways of war.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31213
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31204
+S
+#31213
+Tracking The Enemy~
+   Smashed glass cabinets line the walls. Empty scabbards are
+scattered here and there about the room. Stands that at one time
+held polished platemail and shields now stand empty. This was
+apparently the armoury hall at one time. The shattered fragments
+of glass and the emptiness of these rooms now act as a vivid
+reminder to the cruel and brutal ways of war.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31211
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31227
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31212
+S
+#31214
+Tracking The Enemy~
+   Sparkling bits of glass catch your eye as you walk through the
+church. The glass shards crunch noisily under your boots as you make
+your way towards an altar. Smoke coats one of the rough stone walls,
+leading down to a small table. There are several rows of pews on either
+side of you. The howling winds that pour in from the many gaping holes
+in the high cathedral ceilings pass through your clothes and chill you
+to the bone.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31210
+D2
+A tall wooden door stands here.
+~
+door wooden~
+1 0 31215
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31202
+E
+glass shards~
+The colorful glass shards were at one time part of the many
+stained glass windows here.
+~
+S
+#31215
+Tracking The Enemy~
+   Several leather covered couches are scattered about the room.
+Each one has been placed to best enjoy the fires that roared in
+the fireplace. The marble fireplace has been stained by years of
+smoke pouring out of it. Tarnished brass andirons lay on the hearth.
+One of the andirons is in the middle of a pile of broken glass. The
+glass appears to have been a group of brandy carafes. A wooden box
+of damp cigars has been tossed into the corner.
+~
+312 dgoqr 0
+D0
+A tall oak door stands to the north.
+~
+door tall oak~
+1 0 31214
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31217
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31216
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31215
+E
+glass~
+The pile of glass was once a collection of cut crystal 
+brandy carafes.
+~
+S
+#31216
+Tracking The Enemy~
+   The once fine silks that hung on these walls, now lie in heaps
+on the cold stone floor. The floor is hidden beneath splinters of
+wood from the trampled sewing boxes and frames. Bits and pieces of
+deteriorating cloth and thread are scattered about the room. The
+sitting room is nothing but a faint glimmer of its former elegance.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31215
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31217
+S
+#31217
+Tracking The Enemy~
+   A circular marble staircase winds its way up to the second story
+of the estate. Fallen rafters block you from climbing the stairs.
+The railing has been removed and the stairs are nothing more than
+a disaster now.
+~
+312 dghoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31217
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31225
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31218
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31215
+S
+#31218
+Tracking The Enemy~
+   Broken pottery and dishes create an uneasy footing as you try
+to silently move through the dining hall. The massive claw-footed
+mahogany tables that were once set up here, now have all been 
+turned on there sides. The exposed areas have been forever scared
+by gouges from arrows and swords. These tables do not appear to 
+have given their owners much protection from the onslaught.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31217
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31219
+S
+#31219
+Tracking The Enemy~
+   Racks and shelves make up the majority of the kitchen. Large
+sacks of wheat and other food staples are stacked on the shelves.
+Small animal tracks lead to and from the holes that have been
+chewed into the sides of the sacks. Two large bread ovens sit next
+to the cooking hearth. A pot still hangs in the hearth, as if in 
+readiness for the evening meal.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31219
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31219
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31218
+S
+#31220
+Tracking The Enemy~
+   As you peer down the main hallway you notice several portraits
+on either side of the hall. Some of them still hang on the walls,
+while others have been knocked onto the stone floor. As you stop
+and listen you can hear the faint footsteps of your enemies as
+they make their way through the estate.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31208
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31221
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31234
+S
+#31221
+Tracking The Enemy~
+   Built in bookcases line the walls surrounding you. Piles of
+books have been shoved from their perches on the shelves. Several
+of the heaps have been set on fire and now lie in ashes. Thick
+layers of dust and cobwebs coat the remainder of the books. A
+small secretary desk stands in the middle of the room. The feather
+quills have all been broken and the sealing wax now drips down the
+sides of the desk.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31223
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31222
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31224
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31220
+S
+#31222
+Tracking The Enemy~
+   Due to the location of this dark dismal hall. You believe it 
+was more than likely only used by servants and members of the 
+family. Now it houses several busy spiders. Large webs cover the
+walls and ceiling here. Small wrapped bug remains litter the floor.
+~
+312 dghoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31219
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31222
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31221
+S
+#31223
+Tracking The Enemy~
+   Built in bookcases line the walls surrounding you. Piles of
+books have been shoved from their perches on the shelves. Several
+of the heaps have been set on fire and now lie in ashes. Thick
+layers of dust and cobwebs coat the remainder of the books. A
+small secretary desk stands in the middle of the room. The feather
+quills have all been broken and the sealing wax now drips down the
+sides of the desk.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31224
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31221
+S
+#31224
+Tracking The Enemy~
+   Built in bookcases line the walls surrounding you. Piles of
+books have been shoved from their perches on the shelves. Several
+of the heaps have been set on fire and now lie in ashes. Thick
+layers of dust and cobwebs coat the remainder of the books. A
+small secretary desk stands in the middle of the room. The feather
+quills have all been broken and the sealing wax now drips down the
+sides of the desk.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31221
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31223
+S
+#31225
+Tracking The Enemy~
+   Here the foyer opens up into a wider entrance hall. A small
+couch is pushed up against the wall. A large painting hangs above 
+the couch in a gilded gold frame. The painting shows a picture
+of a large sprawling estate. Several massive shade trees line the
+lane leading to the front porch. Tall columns frame the front door.
+A small plaque is still attached to the frame.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31201
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31226
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31219
+E
+plaque~
+   The plaque reads: { -= Le'Beau Estate =- }
+~
+S
+#31226
+Tracking The Enemy~
+   You stand in the midst of a large open foyer. What used to be the 
+front door stands to the east. It is now locked and barred making
+any hope of exit impossible. The marble flooring here is streaked
+in mud and dirt. A mirror on the wall has many small cracks and breaks
+on its surface.
+~
+312 dgoqr 0
+D0
+A heavy wooden door stands here.
+~
+door wooden heavy~
+1 0 31232
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31225
+E
+mirror~
+   Through the mirror you can see a half distorted vision
+of yourself. Was that someone behind you?
+~
+S
+#31227
+Tracking The Enemy~
+   Smashed glass cabinets line the walls. Empty scabbards are
+scattered here and there about the room. Stands that at one time
+held polished platemail and shields now stand empty. This was
+apparently the armoury hall at one time. The shattered fragments
+of glass and the emptiness of these rooms now act as a vivid 
+reminder to the cruel and brutal ways of war.
+~
+312 dgoqr 0
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31213
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31213
+S
+#31228
+Tracking The Enemy~
+   The piles of hay have been cleared out here to make a path to
+the ladder in against the north wall. Tools lie here and there.
+Most of them have been ruined by rust. Bins of feed have been 
+tipped over and their contents left to rot on the floor.
+~
+312 dghoqr 0
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31230
+D4
+A ladder stands here leaning against the north wall.
+~
+~
+0 0 31229
+S
+#31229
+Tracking The Enemy~
+   As you swing your leg over the final rung of the ladder, several 
+pigeons take flight from there home in the rafters. The floor here
+is a testimony as to how long they have been here. Scattered amongst
+the straw lay bits and pieces of rope and some small tools.
+~
+312 dghoqr 0
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31231
+S
+#31230
+Tracking The Enemy~
+  The stable floors are covered in old moldy hay. Mice run out from
+under the stall doors as you enter. One wall is covered in old
+leather harnesses and bits. Several saddles have been thrown over
+the stall doors. You can almost still hear the snorting and pawing of
+hooves from the many fine animals that once were kept here.
+~
+312 dghoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31228
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31231
+D3
+A massive door stands here.
+~
+door massive~
+1 0 31204
+S
+#31231
+Tracking The Enemy~
+   The stable floors are covered in old moldy hay. Mice run out from
+under the stall doors as you enter. One wall is covered in old 
+leather harnesses and bits. Several saddles have been thrown over
+the stall doors. You can almost still hear the snorting and pawing of
+hooves from the many fine animals that once were kept here.
+~
+312 dghoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31229
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31230
+S
+#31232
+Tracking The Enemy~
+   The stable floors are covered in old moldy hay. Mice run out from
+under the stall doors as you enter. One wall is covered in old
+leather harnesses and bits. Several saddles have been thrown over
+the stall doors. You can almost still hear the snorting and pawing of
+hooves from the many fine animals that once were kept here.
+~
+312 dghoqr 0
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31231
+S
+#31233
+Tracking The Enemy~
+   You step over chunks of what you assume was once the wardrobe as
+you enter the master bedroom. In the middle of the room stands a
+four poster bed on a raised dais. The mattress has been slashed open
+and thrown into the eastern corner. The stench of mildew from the
+rotting bed linens is almost unbearable.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31205
+D1
+Through the sheer curtain you can make out a room to the east.
+~
+curtain sheer~
+1 0 31234
+D3
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31222
+E
+linen linens~
+As you inspect the linens closer you can see that they were once
+made of a fine linen. Now however they are ripped and stained.
+Several large patches of blood have dried on them.
+~
+E
+bed~
+The wood of the bed has been deeply cut and scratched. It looks as
+if a battle was fought in this room. Several of the cuts have pieces
+of metal embedded in them from the force of the swords. The curtain
+that once covered the frame of the bed now hangs from only one post.
+The bottom half of it has been singed by fire.
+~
+E
+mattress corner~
+The mattress has been flung off of the bed and into one of the
+corners. It has a slash down the middle of it and the majority
+of the stuffing has either been pulled or fallen out. Several mice
+scurry out of the opening as you come closer.
+~
+S
+#31234
+Tracking The Enemy~
+   The stench of death assaults you as you enter the room. Several
+bodies lay outside of a door to the south. The carpets beneath your
+feet still give off the odor of blood and human bile. A desk has
+been shoved to one side of the room, several slips of paper stick out
+of one of the drawers. The chair to the desk is lying on its side with
+two of the legs broken off.
+~
+312 dgoqr 0
+D0
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31234
+D1
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31220
+D2
+On the other side of the bodies you spy a door.
+~
+door~
+1 0 31235
+D3
+A long flowing curtain frames a doorway here.
+~
+curtain~
+1 0 31233
+E
+dead body bodies~
+Two corpses lie here. One appears to have been male, his outstretched
+hand is grasped around one of the missing legs from the chair. The
+other corpse is definately female. Her skirts are soaked through with
+blood from the wound she suffered in the abdomen. Both are dressed
+in nightclothes as if they were awakened in the middle of the night.
+~
+E
+desk~
+It is made out of what appears to be mahogany, several slips of paper
+hang loosely from one of the drawers.
+~
+E
+chair~
+The chair seat is covered in a piece of tapestry. Two of its legs
+have been splintered off.
+~
+E
+paper note letter~
+The paper reads:
+
+Lord Le'Beau,
+    I would have thought a man as bright as you would not be so
+rash to deny my offer on the property to the south of my own lands.
+You musn't trifle with me over these matters. It is well known that 
+you are a man of honor.. It is equally well known that I am not!
+I beseech you to think of your family in this matter. Afterall what
+would become of them if you choose to fight me over this matter.
+I hate to threaten subtly so I won't. Don't force my hand in this
+~
+S
+#31235
+Tracking The Enemy~
+   Toys are arranged along the floor here. Several of the fragile
+dolls have been damaged, their perfectly angelic faces shattered.
+A tiny child-sized bed stands in the middle of the room, the covers
+have been pulled back in such a manner that it appears as if its 
+small owner has just clambered out. A large chest of drawers has
+been pushed towards a window in the western wall. The window 
+shutters bang loudly in the wind.
+~
+312 dgoqr 0
+D0
+A large door stands here.
+~
+door~
+1 0 31234
+D2
+You can make out vague tracks through the broken pieces of pottery.
+~
+~
+0 0 31220
+E
+window~
+   As you peer out the window you notice a lattice is attached
+to the side of the house. 
+~
+S
+#31290
+Tara's Sanctuary~
+Duh!!! still thinking
+~
+312 de 0
+S
+$~

@@ -1,0 +1,1038 @@
+#3600
+Entering the Village~
+The darkness and thick foliage give way to a large, grubby village
+before you.  The scene is one of extreme poverty, for nothing has
+escaped the ravishes of time and oppression.  The air is filled with
+obnoxious odors, primarily that of sewage and spoiling meat.    
+~
+36 4 0 0 0 1
+D1
+~
+cell door~
+2 3614 3601 15
+D2
+~
+~
+0 0 3584 0
+S
+#3601
+A Dirt Path~
+A worn dirt path leads east, north and south from here.  To the north
+and south, you can see more holding cells, to the east you see a
+number of huts, tents, and outbuildings.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3603 0
+D1
+~
+~
+0 -1 3611 0
+D2
+~
+~
+0 -1 3602 0
+D3
+~
+door cell~
+2 -1 3600 15
+S
+#3602
+A Dirt Path~
+This is the end of a path which leads to the camp prisoner's holding
+cells, one of which is directly west of you, currently closed.  To the
+southwest, right next to the cell, is what appears to be an outhouse.
+To the northwest is another holding cell.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3601 0
+D2
+~
+~
+0 -1 3608 0
+D3
+~
+door cell~
+2 -1 3605 15
+S
+#3603
+A Dirt Path~
+You stand at the end of a dirt path, or as Mordecai would have it, one
+of the 'roads' in the village.  A crude bamboo holding cell is
+directly west of you, with an outhouse just north of it.  To the south
+are more cells.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3609 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3601 0
+D3
+A black square lies to the west.
+~
+door cell~
+2 -1 3604 15
+S
+#3604
+A Holding Cell~
+Much like your own, this cell offers no comfort whatsoever.  In fact,
+this cell is MUCH more uncomfortable than yours was.  Sitting close
+enough for you to reach through the bars and touch it is an outhouse.
+Actually, all you know for sure is that it is a small square building
+that smells like something out of a cheap 'B' horror movie.  Just the
+same, you assume it's an outhouse.  Another clue to the small
+building's capacity is the tepid trail, a mini stream, of urine which
+runs downhill right through the middle of this cell - EWWWWWW!    
+~
+36 8 0 0 0 1
+D1
+A white square lies to the east.
+~
+door cell~
+2 -1 3603 15
+S
+#3605
+A Holding Cell~
+This cell seems about the same as the others outside.  A small
+building, which looks as if it might be an outhouse, lies to the
+south, wedged right up against the side of the cell.    
+~
+36 8 0 0 0 1
+D1
+~
+door cell~
+2 -1 3602 15
+S
+#3606
+An Outhouse~
+This small space smells worse than a huge stable holding four hundred
+head of cattle who haven't been outside for three months.  This place
+smells BAD.  Two holes dug in opposing corners offer incense to
+remember, your feet squish into the wet dirt floor, and although you
+consider yourself a relatively strong person, you find your gorge
+rising, and your inability to suppress it only validates the fact that
+this place REALLY STINKS.    
+~
+36 12 0 0 0 0
+D1
+~
+~
+0 -1 3609 0
+S
+#3607
+An Outhouse~
+This outhouse, smelly by anyone's standards, but not that bad by
+outhouse standards, is a small 8x8 cubicle which allows relief to most
+of the village.  Although it IS the public poop hole, it is relatively
+kept up and, against your better judgement, you find yourself wanting
+to try it out - just for the heck of it.    
+~
+36 12 0 0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 3608 0
+S
+#3608
+A Dirt Path~
+This path leads north to a row of holding cells or west into a
+building which looks to be an outhouse.    
+~
+36 0 0 0 0 1
+D0
+~
+~
+0 -1 3602 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3607 0
+S
+#3609
+A Dirt Path~
+This path leads south to a row of holding cells or west into a
+building which smells SO bad, it MUST be an outhouse.    
+~
+36 0 0 0 0 1
+D2
+~
+~
+0 -1 3603 0
+D3
+~
+~
+0 -1 3606 0
+S
+#3610
+A Dirt Path~
+This path leads T's off to the west, leading to a row of holding
+cells, to the east you may enter the main section of the village, and
+directly north and south of you are long, low buildings which look a
+great deal like barracks.    
+~
+36 0 0 0 0 1
+D0
+~
+~
+0 -1 3612 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3614 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3613 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3611 0
+S
+#3611
+A Dirt Path~
+This path leads east towards the main part of the village or west to a
+row of holding cells.    
+~
+36 0 0 0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 3610 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3601 0
+S
+#3612
+Barracks~
+Long and low, this building houses all the single men and women who
+have chosen to fight for Mordecai's cause.  Two rows of beds run the
+length of the walls, both east and west, all with a matching trunk
+next to it.    
+~
+36 12 0 0 0 1
+D2
+A black square lies to the south.
+~
+~
+0 -1 3610 0
+S
+#3613
+Barracks~
+This building houses all the single men and women who have chosen
+Mordecai as their savior and leader.  Rows of beds line walls to
+either side, all complete with a foot locker next to each bed.    
+~
+36 12 0 0 0 0
+D0
+~
+~
+0 -1 3610 0
+S
+#3614
+A Dirt Path~
+This path leads east to a crossing of paths (possibly the center of
+the village) and west toward some low buildings and a row od holding
+cells.    
+~
+36 0 0 0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 3615 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3610 0
+S
+#3615
+A Muddy Crossing~
+This section of trail has got to be the messiest, gookiest, nastiest
+crossing in the whole town.  The mud here is up past you ankles,
+making travel difficult, and disgusting.  You catch a faint odor
+breezing it's way from the north, and in looking in that direction,
+you see why.  To the north is a barn, while to the south is a huge
+tent set up on a hill.    
+~
+36 0 0 0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 3616 0
+D1
+~
+~
+0 -1 3630 0
+D2
+~
+~
+0 -1 3623 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3614 0
+S
+#3616
+A Muddy Trail~
+The trail does not get any better here, the mud is still deep as hell
+and to make matters worse, it even is beginning to smell a bit.  A
+ways north of you is a hay barn, to the northeast and northwest are
+chicken coops.    
+~
+36 4 0 0 0 2
+D0
+A black square lies to the north.
+~
+~
+0 -1 3617 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3615 0
+S
+#3617
+A Muddier Trail~
+Damn this mud is deep!  To both the east and west you see chicken
+coops, both holding a few chickens.  To the north is a hay barn, which
+seems to be stocked well.    
+~
+36 0 0 0 0 2
+D0
+A black square lies to the north.
+~
+~
+0 -1 3620 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3619 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3616 0
+D3
+~
+~
+0 -1 3618 0
+S
+#3618
+Chicken Coop~
+You stand just inside a chicken coop, ankle deep in (no pun intended)
+chicken shit.  Little cluckers run around you pecking here and pecking
+there, generally being a nuisance.    
+~
+36 8 0 0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 3617 0
+S
+#3619
+Chicken Coop~
+You stand just inside a chicken coop, surrounded by a bunch of
+annoying chickens who seem to think you are the guy that's bringing
+the food.  By the way, what's that on the bottom of your shoe?    
+~
+36 8 0 0 0 1
+D3
+A black square lies to the west.
+~
+~
+0 -1 3617 0
+S
+#3620
+Hay Barn~
+This open air structure holds what appears to be the entire supply of
+hay for the village.  Bales upon bales fill this tin roofed building,
+alomost to the rafters.    
+~
+36 8 0 0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 3621 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3617 0
+S
+#3621
+Cow Barn~
+This has got to be the smelliest place in Dibrova!  Not even the pet
+shop in Jareth can compare to this.  Stalls line the east wall, with a
+cow milling about in each one.  The floor os covered in fecal matter,
+obviously from the cows in the stalls.  Watch your step!    
+~
+36 8 0 0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 3622 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3620 0
+S
+#3622
+Pasture~
+This small but lush and open plot of land provides food for the cows
+which graze here at this time.  Fenced in, this pasture's only exit is
+south into the Stinky Barn.    
+~
+36 0 0 0 0 1
+D2
+A white square lies to the south.
+~
+~
+0 -1 3621 0
+S
+#3623
+A Dirt Trail~
+This trail leads south to a huge tent set upon a hill, to the
+southeast you see another structure, a more permanent looking place.
+To the north the trail gets very muddy.    
+~
+36 0 0 0 0 1
+D0
+~
+~
+0 -1 3615 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3624 0
+S
+#3624
+A Dirt Trail~
+The trail continues it's way up the hill to the tent, but also
+branches off both to the east and west here.  To the east you see a
+wooden building, not a lodging, but maybe some sort of storage
+structure.  West the trail twists and turns, if it leads to anything,
+you cannot see what that might be.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3623 0
+D1
+~
+~
+0 -1 3626 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3625 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3627 0
+S
+#3625
+Food Tent~
+This is where the village comes to eat their meals, three times daily.
+A raised chair at the head of the long table looks down on all, this
+must obviously be Mordecai's seat of honor.  Currently, there is no
+one here eating.    
+~
+36 8 0 0 0 2
+D0
+~
+~
+0 -1 3624 0
+S
+#3626
+Food Storage and Preparation~
+This building houses all the foodstuffs for the village.  Rows of
+bushel baskets filled with dried vegetables and grains line the walls,
+while skinned animals hang above them, collecting flies and who knows
+what else.  An area near the rear of the building looks to be
+seignated as the prep area with a hand pump for water and many
+different kinds of spices and seasonings on shelves.    
+~
+36 8 0 0 0 2
+D3
+A black square lies to the west.
+~
+~
+0 -1 3624 0
+S
+#3627
+A Twisty Turning Trail~
+This trail heads through some trees to an unknown destination, but
+generally in an easterly direction.    
+~
+36 0 0 0 0 1
+D1
+A white square lies to the east.
+~
+~
+0 -1 3624 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3628 0
+S
+#3628
+A Twisty Turning Trail~
+The trail ends here, at a small stone building.  The entrance to the
+building is directly south of you, but it doesn't appear as if you
+will be getting in any time soon, since the door is oak bound in iron,
+and no apparent windows from where you stand.    
+~
+36 0 0 0 0 1
+D1
+A black square lies to the east.
+~
+~
+0 -1 3627 0
+D2
+~
+door~
+1 0 3629 7
+S
+#3629
+Weapon Cache~
+Various implements of destruction are stored here, just waiting for
+some lucky soul to come along and abuse them.    
+~
+36 1 0 0 0 0
+D0
+~
+door~
+1 0 3628 7
+S
+#3630
+A Dirt Path~
+The trail continues east toward the center of the village.  You begin
+to see tents and huts the farther east you go, these must be the
+permanent residences of the village.    
+~
+36 0 0 0 0 2
+D1
+A black square lies to the east.
+~
+~
+0 -1 3631 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3615 0
+S
+#3631
+A Dirt Trail~
+The trail heads east into the center of the village, to the north and
+south of you are tents, large enough to hold a family or at a few
+people.    
+~
+36 0 0 0 0 2
+D1
+A white square lies to the east.
+~
+~
+0 -1 3632 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3630 0
+S
+#3632
+A Meeting of Two Trails~
+Here the two main trails in the village meet.  One of them heads west
+and the other runs north to south.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3644 0
+D2
+~
+~
+0 -1 3641 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3631 0
+S
+#3633
+Tent Dwelling~
+This tent, roughly 10x10, serves as the primary dwelling for one of
+the families under Mordecai's 'care'.  Four cots sit side by side
+along one wall and a leather chest sits in a corner, holding what you
+assume would be all of their wordly belongings.    
+~
+36 8 0 0 0 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3641 0
+S
+#3634
+Tent Dwelling~
+This tent, roughly 10x10, serves as the primary dwelling for one of
+the families under Mordecai's 'care'.  Four cots sit side by side
+along one wall and a leather chest sits in a corner holding what you
+assume would all of their worldy possessions.    
+~
+36 8 0 0 0 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3641 0
+S
+#3635
+Tent Dwelling~
+This tent, roughly 10x10, serves as the primary dwelling for one of
+the families under Mordecai's 'care'.  Four cots sit side by side
+along one wall and a leather chest sits in a corner holding what you
+assume would be all of their worldly possessions.    
+~
+36 8 0 0 0 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3644 0
+S
+#3636
+Tent Dwelling~
+This tent, roughly 10x10, serves as the primary dwelling for one of
+the families under Mordecai's 'care'.  Four cots sit side by side
+along one wall, and a leather chest sits in a corner, holding what you
+assume would be all of their worldly possessions.    
+~
+36 8 0 0 0 0
+D1
+A white square lies to the east.
+~
+~
+0 -1 3645 0
+S
+#3637
+Hut~
+Made of muddy claya and straw, this small hut serves as a permanent
+home to a family of four.  In this cramped 8x8 area, four cots and a
+large chest all occupy what little living area there was.    
+~
+36 8 0 0 0 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3646 0
+S
+#3638
+Hut~
+Made of muddy clay and straw, this small hut serves as a permanent
+home to a family of four.  In this cramped 8x8 area, four cots and a
+large chest all occupy what little living area there was.    
+~
+36 8 0 0 0 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3642 0
+S
+#3639
+Hut~
+Made of muddy clay and straw, this small hut serves as a permanent
+home to a family of four.  In this cramped 8x8 area, four cots and a
+large chest all occupy what little living area there was.    
+~
+36 8 0 0 0 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3646 0
+S
+#3640
+Hut~
+Made of muddy clay and straw, this small hut serves as a permanent
+home to a family of four.  In this cramped 8x8 area, four cots and a
+large chest all occupy what little living area there was.    
+~
+36 8 0 0 0 1
+D1
+~
+~
+0 -1 3644 0
+S
+#3641
+The Trail Out of Town~
+This trail leads south into the wilderness, leaving the village
+behind.  To the north the trail leads into the main part of the
+village.    
+~
+36 0 0 0 0 1
+D0
+A white square lies to the north.
+~
+~
+0 -1 3632 0
+D1
+A white square lies to the east.
+~
+~
+0 -1 3634 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3642 0
+D3
+~
+~
+0 -1 3633 0
+S
+#3642
+The Trail Out of Town~
+This trail leads south into the wilderness, even now the way becomes a
+bit more choked with trees.  To the north you see the main part of the
+village.    
+~
+36 0 0 0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 3641 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3638 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3643 0
+S
+#3643
+The Trail Out of Town~
+You are now at the outskirts of the village.  You may leave it to the
+south or go back into the main section to the north.    
+~
+36 0 0 0 0 3
+D0
+A white square lies to the north.
+~
+~
+0 -1 3642 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3552 0
+S
+#3644
+A Dusty Trail~
+This trail north and south of you.  South it leads to the meeting of
+this trail and another running west.  To the north there are some
+tents and huts and farther north, upon a hill, you see a few more
+permanent looking structures.    
+~
+36 0 0 0 0 1
+D0
+A black square lies to the north.
+~
+~
+0 -1 3645 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3635 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3632 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3640 0
+S
+#3645
+A Dusty Trail~
+The trail leads north to south, huts and tents spaced out at
+intervals.    
+~
+36 0 0 0 0 2
+D0
+A white square lies to the north.
+~
+~
+0 -1 3646 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3644 0
+D3
+A white square lies to the west.
+~
+~
+0 -1 3636 0
+S
+#3646
+A Dusty Trail~
+The trail leads north and south from here.  North you see what appear
+the main buildings for this village, possibly even Mordecai's place of
+dwelling.  South of you are the many huts and tents which serve as
+homes for Mordecai's people.    
+~
+36 0 0 0 0 2
+D0
+A black square lies to the north.
+~
+~
+0 -1 3647 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3637 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3645 0
+D3
+A black square lies to the west.
+~
+~
+0 -1 3639 0
+S
+#3647
+A Dusty Trail~
+Here you stand at the top of a large sloping hill, which slopes
+downward to the east.  It appears as if a temple or place of worship
+has been erected there, you may enter it to the east.  North of you
+are the main buildings for Mordecai, south are the many huts and tents
+of the village people.    
+~
+36 0 0 0 0 2
+D0
+A white square lies to the north.
+~
+~
+0 -1 3648 0
+D1
+A white square lies to the east.
+~
+~
+0 -1 3649 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3646 0
+S
+#3648
+The End of the Road~
+Directly north of you looms Mordecai's home, a tall stone structure
+with a sloping peaked roof.  It appears that he fears none of his
+people, for the door to his home is wide open.  To the east you see
+another stone house, this one a bit smaller than Mordecai's, and west
+of you is yet another stone house.    
+~
+36 0 0 0 0 2
+D0
+~
+~
+0 -1 3652 0
+D1
+~
+door~
+0 -1 3650 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3647 0
+D3
+~
+~
+0 -1 3651 0
+S
+#3649
+Outdoor Temple~
+This small basin, set in an almost tranquil setting, has been
+fashioned into a place of worship by the people of the village.  
+Wooden benches serving as pughs have been set into side of the hill.
+At the bottom of the basin, a stage with a podium has been erected,
+obviously for Mordecai and his sermons.    
+~
+36 0 0 0 0 3
+D3
+~
+~
+0 -1 3647 0
+S
+#3650
+Lieutenant Caspan's Home~
+Lieutenant Caspan, Mordecai's most trusted advisor and soldier, has
+been granted this home in recognition of his extreme loyalty, and he
+does appear at all pleased to see that you have invaded his sanctuary.
+~
+36 8 0 0 0 1
+D3
+~
+door~
+0 -1 3648 0
+S
+#3651
+The Wives~
+The interior of this home smells of both stale perfume and rotten
+fish.  Mordecai keeps his favorites for the month in this home, in
+apparent 'luxury', treating them well for the services they render.  
+Heaps of stained bedding lie in disarray all over the floor.  
+Pillows, torn and in some places, bloodstained, lie in heaped in
+different corners.    
+~
+36 0 0 0 0 0
+D1
+A black square lies to the east.
+~
+~
+0 -1 3648 0
+S
+#3652
+Mordecai's Home~
+This is the home of the Great Mordecai?  One cot, one wash basin (dry
+and apparently unused for the most part), and a wardrobe on the east
+wall are all that occupy this place.  One would think a man of
+Mordecai's stature would have just a bit more in the way of luxuries.
+~
+36 8 0 0 0 0
+D1
+~
+wardrobe~
+2 3615 3654 15
+D2
+A white square lies to the south.
+~
+~
+0 -1 3648 0
+S
+#3653
+Penelope's Cell~
+Ah, the fair Penelope, daughter of the Lord of Jareth.  Such a sight
+to behold, in all her beauty and majesty, such a wondrous vision.  
+And so very well guarded!    
+~
+36 8 0 0 0 0
+D2
+A black square lies to the south.
+~
+~
+0 -1 3652 0
+D5
+~
+trap door~
+2 3615 3371 9
+S
+#3654
+Mordecai's Stash~
+You have finally figured out why Mordecai didn't have any good stuff
+in his home.  It was all here.  A plush, velvet upholstered chair sits
+in the center of his wealth, obviously the place where Mordecai enjoys
+a great deal of his time.    
+~
+36 65740 0 0 0 0
+D3
+~
+wardrobe~
+2 -1 3652 15
+S
+#3655
+Dark and Gloomy Tunnel~
+This is the end of the tunnel.  Above you, a faint light filters
+through cracks in a trap door.    
+~
+36 520 0 0 0 1
+D2
+A black square lies to the south.
+~
+~
+0 -1 3656 0
+D4
+~
+~
+0 -1 3653 0
+S
+#3656
+A Dark and Gloomy Tunnel~
+The tunnel continues along it's dark and gloomy way heading in a
+direction only the maker of this place would know.    
+~
+36 521 0 0 0 0
+D0
+A white square lies to the north.
+~
+~
+0 -1 3655 0
+D2
+A white square lies to the south.
+~
+~
+0 -1 3657 0
+S
+#3657
+A Dark and Gloomy Tunnel~
+Still dark.  Still Gloomy.  Still going.    
+~
+36 521 0 0 0 0
+D0
+A white square lies to the north.
+~
+~
+0 -1 3656 0
+D2
+~
+~
+0 -1 3371 0
+S
+$~

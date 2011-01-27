@@ -1,0 +1,63 @@
+#31000
+Clan Entry~
+You are in an unfinished room.
+~
+310 0 0 0 0 0
+D0
+~
+~
+0 0 31001 0
+S
+#31001
+Clan Reception~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 31003 0
+D2
+~
+~
+0 0 31000 0
+D3
+~
+~
+0 0 31002 0
+S
+#31002
+Clan Board Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 31001 0
+S
+#31003
+Clan Filler Room~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D1
+~
+~
+0 0 31004 0
+D3
+~
+~
+0 0 31001 0
+S
+#31004
+Clan Vault~
+You are in an unfinished room.
+~
+0 0 0 0 0 0
+D3
+~
+~
+0 0 31003 0
+S
+$~

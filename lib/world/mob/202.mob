@@ -1,0 +1,787 @@
+#20200
+Azeem~
+Azeem the Great~
+Azeem the Great is standing here proudly.
+~
+Azeem is standing here with a glare of sterness. He is a great warrior and
+should be respected by all.
+~
+1579098 0 0 0 134217808 0 0 0 1000 E
+160 149 -60 0d0+0 22d23+106
+2550 2053107
+8 8 1
+BareHandAttack: 13
+Str: 24
+Dex: 16
+Int: 19
+Wis: 13
+Con: 5
+Cha: 9
+Luck: 5
+Class: 6
+Race: 14
+E
+#20201
+Mortianna~
+Mortianna~
+Mortianna stands here waiting for your order.
+~
+Before you stands an old but powerful lady. She is dressed in all black and
+blind in one eye.
+~
+2058 0 0 0 0 0 0 0 1000 E
+175 169 -100 0d0+0 28d28+116
+2700 2457330
+8 8 1
+Str: 10
+Dex: 20
+Int: 8
+Wis: 22
+Con: 24
+Cha: 20
+Luck: 10
+Class: 1
+Race: 14
+E
+T 20201
+#20202
+Guy~
+Guy of Gisbourne~
+Sir Guy of Gisbourne is standing here.
+~
+Sir Guy of Gisbourne the cousin of the Sheriff of Nottingham looks well
+equiped and used to battle. He bares his teeth at you.
+~
+657480 0 0 0 33554448 2 0 0 -200 E
+160 149 -60 0d0+0 22d23+106
+2550 1955340
+8 8 1
+Str: 10
+Dex: 6
+Int: 8
+Wis: 22
+Con: 10
+Cha: 19
+Luck: 17
+Class: 4
+Race: 14
+E
+#20203
+Friar Tuck~
+Friar Tuck~
+Friar Tuck is resting here with a bottle of wine.
+~
+man of the cloth. He's enjoying his wine as he sings a merry tune.
+~
+628808 0 0 0 2128 258 0 0 1000 E
+155 143 -60 0d0+0 21d22+103
+2550 1803276
+8 8 1
+Str: 9
+Dex: 12
+Int: 17
+Wis: 9
+Con: 7
+Cha: 8
+Luck: 22
+Class: 8
+Race: 14
+E
+T 20203
+#20204
+Wolf~
+wolf~
+Wolf of the merry men is standing here.
+~
+Wolf looks you over closely as you size him up.
+~
+2120 0 0 0 0 0 0 0 250 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 9
+Dex: 10
+Int: 24
+Wis: 8
+Con: 7
+Cha: 18
+Luck: 5
+Race: 21
+E
+#20205
+Bull~
+Bull~
+Bull of the merry men is standing here.
+~
+Here stands Bull. He is dirty and doesn't look too friendly or bright. He
+beams a smile at you.
+~
+72 0 0 0 0 0 0 0 250 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 8
+Dex: 8
+Int: 13
+Wis: 21
+Con: 12
+Cha: 5
+Luck: 22
+Race: 14
+E
+#20206
+Duncan~
+Duncan~
+Duncan is sitting here.
+~
+Duncan is sitting here in aweful condition. He is wearing a hankerchief over
+his eyes where the Sheriff of Nottingham blinded him.
+~
+10 0 0 0 2 0 0 0 250 E
+145 130 -60 0d0+0 18d18+96
+2500 1521265
+8 8 1
+Str: 20
+Dex: 18
+Int: 24
+Wis: 16
+Con: 19
+Cha: 17
+Luck: 7
+Class: 4
+Race: 14
+E
+#20207
+gimp~
+gimp~
+A new mob is existing here.~
+Duncan is sitting here in aweful condition. He is wearing a hankerchief over
+his eyes where the Sheriff of Nottingham blinded him.
+~
+8 0 0 0 0 0 0 0 0 E
+0 0 0 0d0+0 0d0+0
+0 0
+8 8 1
+Str: 13
+Dex: 20
+Int: 23
+Wis: 23
+Con: 18
+Cha: 16
+Luck: 9
+E
+#20208
+Ox~
+Ox~
+Ox of the merry men is standing here.
+~
+Ox is standing here, looking carefully after his foes.
+~
+72 0 0 0 0 0 0 0 250 E
+140 124 -60 0d0+0 17d17+93
+2500 1391050
+8 8 1
+Str: 20
+Dex: 5
+Int: 14
+Wis: 7
+Con: 12
+Cha: 13
+Luck: 21
+Class: 4
+Race: 14
+E
+#20209
+scribe~
+the scribe~
+A scribe is here wandering the halls.
+~
+There is nothing special about this man. He's just a scribe, nothing more,
+nothing less.
+~
+72 0 0 0 0 0 0 0 0 E
+110 88 -40 0d0+0 11d12+73
+2200 752086
+8 8 1
+Str: 7
+Dex: 9
+Int: 13
+Wis: 23
+Con: 25
+Cha: 20
+Luck: 22
+Race: 14
+E
+#20210
+Peter~
+Peter~
+Peter is imprisoned here.
+~
+Here sits Peter, brother to Robin.  He is in an awful condition from
+being here in the dungeon for so long.  You can't help but pity him.
+~
+74 0 0 0 0 0 0 0 400 E
+60 37 -36 0d0+0 5d6+40
+1000 160325
+8 8 1
+Str: 12
+Dex: 18
+Int: 13
+Wis: 15
+Con: 14
+Cha: 16
+Luck: 6
+Class: 9
+Race: 14
+E
+#20211
+robinhood~
+Robin Hood~
+Robin Hood is here perfecting his shot.
+~
+You are looking at the most accurate shot with the bow and arrow in all of
+Sherwood. Be careful not to get to fiesty around him. He can kill a fly at
+a hundred yards.
+~
+727128 0 0 0 65872 0 0 0 750 E
+180 176 -100 0d0+0 29d29+120
+2700 2904383
+8 8 1
+Str: 7
+Dex: 8
+Int: 20
+Wis: 25
+Con: 5
+Cha: 18
+Luck: 20
+Class: 3
+Race: 14
+E
+#20212
+Sheriff~
+the Sheriff~
+The Sheriff is here patrolling Nottingham.
+~
+Here stands the meanest man in Nottingham. He grins evilly as you examine
+him. He is dressed to kill and kills often.
+~
+526424 0 0 0 272 0 0 0 -500 E
+160 149 -60 0d0+0 22d23+106
+2550 2150874
+8 8 1
+BareHandAttack: 13
+Str: 17
+Dex: 19
+Int: 7
+Wis: 19
+Con: 25
+Cha: 8
+Luck: 22
+Class: 4
+Race: 14
+E
+#20213
+deputy~
+a deputy~
+A deputy is standing here.
+~
+Here stands a deputy to the Sheriff of Nottingham. He is dressed in black
+and ready to help anyone in need of assistance.
+~
+596040 0 0 0 16 0 0 0 0 E
+145 130 -60 0d0+0 18d18+96
+2500 1521265
+8 8 1
+BareHandAttack: 13
+Str: 23
+Dex: 15
+Int: 24
+Wis: 24
+Con: 12
+Cha: 13
+Luck: 10
+Class: 10
+Race: 14
+E
+#20214
+John~
+Little John~
+Little John stands here waiting for a challenger.
+~
+Little John stands before bearing his teeth in anticipation. He is looking
+for a worthy challenger to test his skills. He looks very strong and willing
+to take you or anyone else on.
+~
+235592 0 0 0 33554448 131072 0 0 500 E
+160 149 -60 0d0+0 22d23+106
+2550 1955340
+8 8 1
+Str: 7
+Dex: 14
+Int: 9
+Wis: 17
+Con: 9
+Cha: 19
+Luck: 9
+Class: 4
+Race: 14
+E
+#20215
+Will~
+Will Scarlett~
+Will Scarlett is standing here looking you over.
+~
+Here before you stands a young man with sharp eyes and sharp daggers.
+~
+559176 0 0 0 526416 2 0 0 300 E
+150 136 -60 0d0+0 20d20+100
+2500 1658628
+8 8 1
+Str: 13
+Dex: 20
+Int: 10
+Wis: 7
+Con: 23
+Cha: 13
+Luck: 14
+Class: 3
+Race: 14
+E
+#20216
+Marian~
+Lady Marian~
+Lady Marian looks depressed and lonely.
+~
+The lady of the castle is standing here with a look of sadness. She awaits
+the arrival of Robin Hood.
+~
+72 0 0 0 0 0 0 0 1000 E
+120 100 -40 0d0+0 14d14+80
+2450 938920
+8 8 2
+Str: 9
+Dex: 23
+Int: 18
+Wis: 12
+Con: 20
+Cha: 9
+Luck: 6
+Class: 1
+Race: 14
+E
+#20217
+John~
+Prince John~
+Prince John is staring at you with an evil grin.
+~
+Before you stands the ruler of Sherwood and lands beyond. He has a history
+of battle and knows the uses of the sword. You'd be smart not to bother
+such an important figure.
+~
+526424 0 0 0 336 131072 0 0 -500 E
+160 149 -60 0d0+0 22d23+106
+2550 2150874
+8 8 1
+Str: 7
+Dex: 21
+Int: 18
+Wis: 18
+Con: 5
+Cha: 13
+Luck: 6
+Class: 4
+Race: 14
+E
+T 20218
+#20218
+citizen~
+a citizen of Nottingham~
+A citizen appears not to notice you.
+~
+A smelly, poor citizen of Nottingham is here searching the streets for
+something to eat.
+~
+72 0 0 0 0 0 0 0 0 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 21
+Dex: 19
+Int: 8
+Wis: 12
+Con: 18
+Cha: 12
+Luck: 10
+Class: 12
+Race: 14
+E
+#20219
+vendor~
+a vendor~
+A vendor stands here waiting for your order.
+~
+Before you stands a small man with mustard and catsup stains on his apron.
+He appears friendly enough.
+~
+10 0 0 0 0 0 0 0 0 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 1
+Str: 8
+Dex: 17
+Int: 14
+Wis: 17
+Con: 10
+Cha: 14
+Luck: 22
+Class: 4
+Race: 14
+E
+#20220
+noble~
+an evil noble~
+An evil noble stares at you.
+~
+You see a man dressed in black glaring at you. He looks very unfriendly and
+ready to leap at you. Watch your step!
+~
+67656 0 0 0 67108880 0 0 0 -500 E
+155 143 -60 0d0+0 21d22+103
+2550 1893439
+8 8 1
+Str: 9
+Dex: 10
+Int: 22
+Wis: 15
+Con: 10
+Cha: 7
+Luck: 6
+Class: 4
+Race: 14
+E
+#20221
+barmaid~
+a barmaid~
+A beautiful barmaid smiles at you.
+~
+You look closely at this beauty. She appears to be in her mid-twenties and
+built for battle. She's tougher then she looks.
+~
+90 0 0 0 0 0 0 0 1000 E
+140 124 -60 0d0+0 17d17+93
+2500 1391050
+8 8 1
+Str: 23
+Dex: 17
+Int: 23
+Wis: 21
+Con: 15
+Cha: 13
+Luck: 12
+Race: 14
+E
+#20222
+deer~
+a deer~
+A deer stands here quietly observing you.
+~
+A deer stands here in all his glory. She appears to notice you looking at her.
+~
+72 0 0 0 0 0 0 0 0 E
+15 5 40 0d0+0 1d3+10
+0 4674
+8 8 1
+Str: 5
+Dex: 20
+Int: 18
+Wis: 10
+Con: 8
+Cha: 14
+Luck: 23
+Race: 1
+E
+#20223
+guard~
+the prison guard~
+A prison guard growls at your presence.
+~
+The guard does not look too pleased to see you here.
+~
+74 0 0 0 0 0 0 0 -100 E
+130 111 -60 0d0+0 15d16+86
+2500 1151521
+8 8 1
+Str: 16
+Dex: 13
+Int: 16
+Wis: 16
+Con: 24
+Cha: 9
+Luck: 18
+Class: 4
+Race: 14
+E
+#20224
+troll~
+a troll~
+A troll stops eating and leaps at you!
+~
+An ugly creature of nature stands before you. 
+~
+596072 0 0 0 536873040 2 0 0 -200 E
+140 124 -60 0d0+0 17d17+93
+2500 1391050
+8 8 1
+BareHandAttack: 4
+Str: 16
+Dex: 15
+Int: 6
+Wis: 5
+Con: 13
+Cha: 22
+Luck: 13
+Race: 19
+E
+T 20224
+#20225
+yellow dragon~
+a Yellow Dragon~
+A yellow-colored Dragon stands ready to attack!
+~
+Before you sits the legendary Yellow Dragon. He is surrounded by bones of
+many adventures brave enough to test his strength.
+~
+251930 0 0 0 262224 131072 0 0 0 E
+200 204 -100 0d0+0 40d45+133
+2900 3799580
+8 8 1
+Str: 7
+Dex: 20
+Int: 12
+Wis: 10
+Con: 19
+Cha: 18
+Luck: 6
+Class: 1
+Race: 9
+E
+T 20225
+#20226
+Chip~
+Chip Allendale~
+Chip Allendale is sitting here.
+~
+Here sits Chip Allendale.  He looks to be in awful condition from
+being here in the dungeon for so long.  You can't help but pity him.
+~
+74 0 0 0 0 0 0 0 300 E
+30 14 -20 0d0+0 3d3+20
+250 27376
+8 8 1
+Str: 17
+Dex: 8
+Int: 5
+Wis: 23
+Con: 21
+Cha: 6
+Luck: 25
+Race: 14
+E
+#20227
+guard~
+a royal guard~
+A royal guard glares at you.
+~
+A royal guard of Sherwood Castle stands tall and proud. He looks unfriendly.
+~
+530504 0 0 0 16 0 0 0 -10 E
+150 136 -60 0d0+0 20d20+100
+2500 1658628
+8 8 1
+Str: 15
+Dex: 15
+Int: 5
+Wis: 9
+Con: 5
+Cha: 19
+Luck: 8
+Class: 9
+Race: 14
+E
+#20228
+fencer~
+a fencer~
+A fencer is here, looking for an opponent.
+~
+Before you stands a fencer of fine skill and balance. He waves his sword in
+your direction as a challenge.
+~
+526408 0 0 0 0 131072 0 0 50 E
+135 117 -60 0d0+0 16d17+90
+2500 1267849
+8 8 1
+Str: 18
+Dex: 17
+Int: 17
+Wis: 12
+Con: 20
+Cha: 6
+Luck: 6
+Class: 4
+Race: 14
+E
+#20229
+archer~
+an archer~
+An archer curses as he misses the bullseye.
+y~
+An archer from Sherwood stands here perfecting his shot. His muscles and aim
+indicate he is rather week.
+~
+4122 0 0 0 80 0 0 0 50 E
+105 82 -40 0d0+0 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 1
+Str: 8
+Dex: 6
+Int: 23
+Wis: 24
+Con: 6
+Cha: 24
+Luck: 25
+Race: 14
+E
+#20230
+jouster~
+a jouster~
+A jouster laughs at your appearance.
+~
+An archer from Sherwood stands here perfecting his shot. His muscles and aim
+indicate he is rather week.
+~
+4168 0 0 0 0 131072 0 0 0 E
+115 94 -40 0d0+0 13d13+76
+2325 842356
+8 8 1
+Str: 17
+Dex: 12
+Int: 22
+Wis: 23
+Con: 13
+Cha: 10
+Luck: 14
+Class: 9
+Race: 14
+E
+#20231
+doctor~
+a doctor~
+The doctor examines you as you enter the tent.
+~
+The doctor works long and hard in this tent. He is well skilled and happy
+to get paid for his abilities with a scaple.
+~
+10 0 0 0 0 0 0 0 100 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 1
+Str: 5
+Dex: 7
+Int: 6
+Wis: 21
+Con: 20
+Cha: 16
+Luck: 7
+Class: 2
+Race: 20
+E
+#20232
+monk~
+a monk~
+A monk sits here chanting.
+~
+You see a tired old monk chanting to himself and praying. Perhaps you shouldn't disturb him.
+~
+71768 0 0 0 16 131072 0 0 100 E
+145 130 -60 0d0+0 18d18+96
+2500 1521265
+8 8 1
+Str: 12
+Dex: 13
+Int: 12
+Wis: 9
+Con: 21
+Cha: 10
+Luck: 21
+Class: 8
+Race: 14
+E
+#20233
+master stablemaster~
+the stable master~
+The stable master is here grooming a horse.
+!~
+The stable master doesn't look very mean or threatning. He works hard all day
+and smells of wet dog by night. He appears to want to be left alone.
+~
+10 0 0 0 0 0 0 0 0 E
+250 279 -100 0d0+0 55d75+166
+3500 4500000
+8 8 1
+Str: 5
+Dex: 5
+Int: 7
+Wis: 10
+Con: 13
+Cha: 20
+Luck: 20
+Class: 8
+Race: 14
+E
+#20234
+horse stallion black~
+a black stallion~
+a black stallion stands here.
+~
+The stallion is an extremely good-looking horse, with its shining
+black fur and eyes colored like the finest wine.  He is extremely
+well-trained, with muscles playing beneath his skin.    
+~
+262152 0 0 0 0 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 1
+Str: 22
+Dex: 5
+Int: 10
+Wis: 23
+Con: 21
+Cha: 25
+Luck: 8
+Race: 1
+E
+T 20234
+#20299
+servant~
+the Servant~
+A servant of the castle stands here.
+~
+The servant is clothed in a white dress with the symbol of Nottingham
+on the chest.    
+~
+202 0 0 0 0 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 0
+Str: 17
+Dex: 18
+Int: 23
+Wis: 13
+Con: 22
+Cha: 7
+Luck: 23
+Race: 14
+E
+T 20299
+$

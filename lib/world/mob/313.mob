@@ -1,0 +1,344 @@
+#31300
+ferry ticket guildsman~
+a Ferry Guildsman~
+A Ferry Guildsman stands here, selling tickets.
+~
+Nothing out of the ordinary about this man, just someone doing his
+job.    
+~
+2058 0 0 0 2128 2 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+Str: 5
+Dex: 17
+Int: 19
+Wis: 5
+Con: 13
+Cha: 18
+Luck: 8
+Class: 4
+Race: 14
+E
+#31301
+alliance guard~
+an Alliance Guard~
+An Alliance guard patrols here.
+~
+He stands tall and proud dressed in the red and blue uniform of the
+Alliance.    
+~
+524360 0 0 0 80 0 0 0 0 E
+60 37 -36 1d1+0 5d6+40
+2000 160325
+8 8 1
+BareHandAttack: 3
+Str: 21
+Dex: 14
+Int: 10
+Wis: 8
+Con: 24
+Cha: 20
+Luck: 18
+Class: 4
+Race: 14
+E
+#31302
+alliance guard~
+an Alliance Guard~
+An Alliance guard stands here.
+~
+He stands tall and proud in his red and blue Alliance uniform.
+
+As you look him over the guard says, "Have you heard about the hill giant
+raids in the Dens Mountains? Word is the Senate is going to send us some
+more troops to take them out. Finally, something is happening around here."
+~
+528394 0 0 0 16 0 0 0 0 E
+60 37 -36 1d1+0 5d6+40
+2000 160325
+8 8 1
+BareHandAttack: 14
+Str: 18
+Dex: 14
+Int: 19
+Wis: 16
+Con: 12
+Cha: 9
+Luck: 5
+Class: 4
+Race: 14
+E
+#31303
+gnome~
+a Gnome~
+A Gnome strolls around town.
+~
+Short and fat, your typical Gnome.
+~
+72 0 0 0 16 0 0 0 0 E
+60 37 -36 1d1+0 5d6+40
+2000 160325
+8 8 1
+Str: 15
+Dex: 5
+Wis: 21
+Con: 15
+Cha: 8
+Luck: 16
+Class: 12
+Race: 7
+E
+#31304
+Roog~
+Roog~
+Roog stands here, selling ale.
+~
+Only one Dwarf in the town and he owns a bar, go figure...    
+~
+10 0 0 0 16 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 1
+BareHandAttack: 13
+Str: 20
+Dex: 22
+Int: 21
+Wis: 14
+Con: 8
+Cha: 6
+Luck: 5
+Race: 14
+E
+#31305
+mountain lion~
+a Mountain Lion~
+A mountain lion lies here, ready to pounce.
+~
+A great big tan colored cat with a black tipped tail.
+~
+32872 0 0 0 33554512 131072 0 0 0 E
+62 39 -40 1d1+0 5d6+41
+0 174307
+8 8 0
+BareHandAttack: 8
+Str: 21
+Dex: 15
+Int: 21
+Wis: 12
+Con: 9
+Cha: 8
+Luck: 9
+Race: 1
+E
+#31306
+galeb duhr boulder rock~
+a Galeb Duhr~
+A large lichen covered rock is here.
+~
+The rock seems to wiggle a little bit...    
+~
+72 0 0 0 16 0 0 0 0 E
+64 41 -40 1d1+0 6d6+42
+2200 189005
+8 8 0
+Str: 17
+Int: 25
+Wis: 7
+Con: 19
+Cha: 23
+Luck: 10
+Race: 30
+E
+#31307
+gith scout~
+a Gith Scout~
+A Gith scout scouts about.
+~
+This guy looks like an Elf, reptile mix.  He has is very gaunt and
+lanky with long thin arms and legs.  It has three fingers on each hand
+which end in wicked claws.  He walks around hunched over, perhaps you
+should straighten him out.    
+~
+690248 0 0 0 524304 0 0 0 0 E
+65 42 -40 1d1+0 6d6+43
+2250 196628
+8 8 0
+BareHandAttack: 11
+Dex: 25
+Wis: 23
+Con: 15
+Cha: 14
+Class: 3
+Race: 7
+E
+#31308
+peryton bird~
+a Peryton~
+A large flying reptile circles high above you.
+~
+Large and scaly with wings, enuf said.
+~
+589896 0 0 0 8388624 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 0
+Str: 17
+Dex: 15
+Int: 8
+Wis: 12
+Con: 13
+Cha: 14
+Luck: 21
+Race: 2
+E
+#31309
+hill giant~
+a Hill Giant~
+A hill giant looks for someone to bash.
+~
+This ugly, knotty-limbed humanoid stands at around nine feet tall, and
+is the hue of freshly turned earth.  A foul smell, a combination of
+the oily hides and blood of victims that cover their hides, issues
+from the creature.  A dim malevolent intelligence flickers in its dead
+brown eyes, while a cruel grin twists its toothy maw.    
+~
+6216 0 0 0 16 0 0 0 0 E
+68 45 -40 1d1+0 6d6+45
+2400 220604
+8 8 1
+BareHandAttack: 6
+Str: 16
+Dex: 5
+Int: 22
+Wis: 15
+Con: 22
+Cha: 24
+Luck: 15
+Class: 4
+Race: 10
+E
+#31310
+gnome receptionist innkeeper~
+the Innkeeper~
+A Gnomish innkeeper wait for you to buy a room.
+~
+Nothing unusual about this Innkeeper, just another gnome.
+~
+10 0 0 0 16 0 0 0 0 E
+100 77 -40 1d1+0 9d10+66
+3200 589815
+8 8 1
+Str: 9
+Dex: 24
+Int: 14
+Wis: 19
+Con: 25
+Cha: 8
+Luck: 17
+Class: 11
+Race: 7
+E
+#31311
+captain~
+the Ferry Captain~
+The ferry's captain pilots the ship.
+~
+Ships wheel in one hand, whiskey bottle in the other. A true sailor.
+~
+2058 0 0 0 33554448 0 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 1
+BareHandAttack: 12
+Str: 12
+Dex: 15
+Int: 18
+Wis: 16
+Con: 23
+Cha: 12
+Luck: 24
+Race: 14
+E
+#31312
+mate first~
+the First Mate~
+The first mate asks for your ticket.
+~
+You begin to wonder if he can say anything other then, "Ticket please."
+~
+757770 0 0 0 33554448 0 0 0 0 E
+140 124 -60 1d1+0 17d17+93
+4200 1391050
+8 8 1
+BareHandAttack: 13
+Str: 8
+Dex: 13
+Int: 21
+Wis: 16
+Con: 5
+Luck: 8
+Race: 14
+E
+#31313
+boy ship's~
+the ship's Boy~
+The ship's boy swabs the deck.
+~
+Just a boy, nothing more!
+~
+72 0 0 0 16 0 0 0 0 E
+20 8 20 1d1+0 2d3+10
+550 9735
+8 8 1
+Str: 23
+Dex: 9
+Int: 24
+Wis: 6
+Con: 9
+Cha: 25
+Luck: 7
+Race: 14
+E
+#31314
+ferry guard~
+the Ferry Guard~
+A really big Dwarf stands here guarding against stowaways.
+~
+Short and stout, this guard knows how to fight.
+~
+608283 0 0 0 336 0 0 0 0 E
+200 204 -100 1d1+0 15d20+100
+10000 3799580
+8 8 1
+BareHandAttack: 7
+Str: 16
+Dex: 20
+Int: 18
+Wis: 12
+Con: 20
+Cha: 12
+Luck: 25
+Race: 14
+E
+#31315
+ferry guildsman~
+the Ferry Guildsman~
+A ferry guildsman stands here selling tickets.
+~
+Just a plain old man doing his job.
+~
+755722 0 0 0 2128 0 0 0 0 E
+200 204 -100 1d1+0 40d45+133
+7500 3454164
+8 8 1
+Str: 16
+Dex: 5
+Int: 7
+Wis: 14
+Con: 19
+Cha: 23
+Luck: 20
+Race: 14
+E
+$

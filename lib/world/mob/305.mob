@@ -1,0 +1,238 @@
+#30500
+receptionist, spectre~
+the spectre stands a steady vigil of protection.~
+A spectre stands here guarding his charges.
+~
+The spectre seems to be standing guard over all those who sleep in
+this room.  No matter what happens.  Senses flow from him ensuring
+safety in this room and a sound and peacefully sleep.  Never has a
+being held such devoted and undying loyalty to a being as this man
+does to the beings that hold residence in these caves.    
+~
+16394 0 0 0 65536 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+0 100714
+8 8 1
+Str: 7
+Dex: 13
+Int: 10
+Wis: 10
+Con: 18
+Cha: 13
+Luck: 24
+Class: 11
+Race: 49
+E
+#30501
+guard, dragon~
+a large two headed jet black dragon~
+A large two headed jet black dragon guards the cave mouth just ahead.
+~
+Standing tall and /cWproud/c0, keeping one head on you, and the other
+constantly checking various locations for any signs of possible
+intrusion, as you look up into her eyes she looks back down upon you
+with her fierce red /cReyes/c0 insisting that you return along the
+path you came, or die, here and now.    
+~
+260122 0 0 0 336 131074 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+8 8 2
+BareHandAttack: 4
+Str: 15
+Dex: 23
+Int: 17
+Wis: 24
+Con: 25
+Cha: 17
+Luck: 6
+Class: 13
+Race: 9
+E
+#30502
+dl healer lysandi ac selie~
+Lysandi ac'Selie~
+Lysandi ac'Selie moves about tending to your wounds.
+~
+Dressed in a ruby lined black robe, she stands tall and proud
+wondering about the room, tending and healing the wounds of those who
+follow in the dark pathways placed out by the DarkLords.    
+~
+16411 0 0 0 80 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 2
+Str: 23
+Dex: 22
+Int: 21
+Wis: 15
+Con: 20
+Cha: 18
+Luck: 18
+Class: 2
+Race: 16
+E
+#30503
+postmistress dl Elvandra~
+Elvandra, the Minion of Mail~
+Elvandra stands before you awaiting an instruction.
+~
+Poised between the sleeping chambers and the main clan hall, Elvandra
+stands waiting for the loyal follows of the DarkLords to pass by on
+arrival, insuring that they receive any messages someone may have left
+for them.    
+~
+16395 0 0 0 80 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 2
+Str: 19
+Dex: 15
+Int: 8
+Wis: 19
+Con: 8
+Cha: 14
+Luck: 18
+Class: 1
+Race: 16
+E
+#30504
+banker dl Aethedd~
+Aethedd, the Keeper of the Funds~
+Aethedd, the Keeper of the Funds patiently waits here.
+~
+Aethedd guards his room with the eyes off a hawk and the strength of a
+bear, guarding over the personal treasures belonging to the DarkLords
+themselves, insure that each member is able to get at there funds when
+every they desire do so.    
+~
+16395 0 0 0 80 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 1
+Str: 21
+Dex: 10
+Int: 23
+Wis: 25
+Con: 13
+Cha: 6
+Luck: 20
+Class: 4
+Race: 42
+E
+#30506
+silvis shop darklords~
+Silvis, Minion of the DarkLords.~
+Silvis, the Minion of the DarkLords sells her wares here.
+~
+As you gaze up at her, she looks down at you with a glint in her eyes,
+she points you to a list, so you might see her wares.    
+
+Silvis, Minion of the DarkLords. says, '/cwtype /cCLIST/cw to browse my stock./c0'
+Silvis, Minion of the DarkLords. says, '/cwtype /cCIDENT (number)/cw for more info./c0'
+Silvis, Minion of the DarkLords. says, '/cwtype /cCBUY (number)/cw to buy the item./c0'
+~
+33742875 0 0 0 72 0 0 0 -1000 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 2
+BareHandAttack: 7
+Str: 23
+Dex: 14
+Int: 24
+Wis: 10
+Con: 10
+Cha: 8
+Luck: 12
+Race: 7
+E
+#30507
+jade shop darklords~
+Jade, Minion of the DarkLords.~
+Jade, the Minion of the DarkLords sells her wares here.
+~
+As you gaze up at her, she looks down at you with a glint in her eyes,
+she points you to a list, so you might see her wares.
+
+Jade, Minion of the DarkLords. says, '/cwtype /cCLIST /cwto browse my stock./c0'
+Jade, Minion of the DarkLords. says, '/cwtype /cCIDENT (number) /cwfor more info./c0'
+Jade, Minion of the DarkLords. says, '/cwtype /cCBUY (number) /cwto buy the item./c0'
+~
+33808411 0 0 0 72 0 0 0 -1000 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 2
+Str: 5
+Dex: 8
+Int: 12
+Wis: 25
+Con: 5
+Cha: 18
+Luck: 23
+Class: 1
+Race: 16
+E
+#30508
+katrina shop darklords~
+Katrina, Minion of the DarkLords.~
+Katrina, the Minion of the DarkLords sells her wares here.
+~
+As you gaze up at her, she looks down at you with a glint in her eyes,
+she points you to a list, so you might see her wares.
+
+Katrina, Minion of the DarkLords. says, '/cwtype /cCLIST /cwto browse my stock./c0'
+Katrina, Minion of the DarkLords. says, '/cwtype /cCIDENT (number) /cwfor more info./c0'
+Katrina, Minion of the DarkLords. says, '/cwtype /cCBUY (number) /cwto buy the item./c0'
+~
+33808410 0 0 0 72 0 0 0 -1000 E
+200 204 -100 1d1+0 40d45+133
+2900 3454164
+8 8 2
+Str: 17
+Dex: 19
+Int: 10
+Wis: 20
+Con: 12
+Cha: 15
+Luck: 9
+Class: 2
+Race: 21
+E
+#30509
+red dragon~
+A large /crred dragon/c0.~
+/cRA large red dragon rests here, growing at you./c0
+~
+/cLThe humongous beasts fierce yellow eyes stair back deep into your
+soul as you look up at her, certain death awaits unless you leave her
+lair.  /c0
+~
+188442 0 0 0 336 0 0 0 -1000 E
+250 279 -100 1d1+0 55d75+166
+3500 4950000
+8 8 2
+Class: 13
+Race: 9
+E
+#30599
+Kera~
+Kera, Keeper of the Store~
+Kera, Keeper of the Store, stands here grinning.
+~
+Dressed in a ruby lined black robe, she stands tall and proud
+wondering about the room, tending to the store
+~
+16394 0 0 0 80 0 0 0 -1000 E
+100 77 -40 1d1+0 9d10+66
+1950 589815
+8 8 2
+Str: 21
+Dex: 23
+Int: 10
+Wis: 24
+Con: 22
+Cha: 24
+Luck: 10
+Race: 16
+E
+$

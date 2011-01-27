@@ -1,0 +1,1738 @@
+#14500
+The Entrance of the Keep~
+You stand before the massive needle to the Sky known as the Prophets
+Keep.    
+~
+145 4 0 0 0 1
+D0
+~
+gate~
+1 0 14501 1
+D2
+~
+~
+0 0 14580 0
+D3
+~
+~
+0 0 -1 0
+S
+#14501
+The Foyer of the Prophets Keep~
+You emerge from the tunnel into a beautiful entrance foyer.  Above the
+double set of stairs hangs a black cloth with the symbol of a crying
+eye within a pentagram, that must be this castle banner.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14532 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+gate~
+1 0 14500 1
+D4
+~
+~
+0 0 14502 0
+S
+#14502
+The Staircase~
+You stand on a beautiful staircase that seems larger than life, and
+yet the tapestry behind you seems even larger...    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14503 0
+D2
+~
+~
+0 0 14504 0
+D5
+~
+~
+0 0 14501 0
+S
+#14503
+The Hallway of the West Wing~
+You stand in a hallway that runs east and west for as far as you can
+see.  On both sides there are doors protected by statues of guards.  
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 14506 0
+D2
+~
+~
+0 0 14502 0
+D3
+~
+~
+0 0 14505 0
+S
+#14504
+The Hallway of the East Wing~
+You stand in a hallway that runs east and west for as far as you can
+see.  On both sides there are doors protected by statues of guards.  
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14502 0
+D1
+~
+~
+0 0 14511 0
+D3
+~
+~
+0 0 14514 0
+S
+#14505
+A Hallway in the West Wing~
+You stand in a hall of the west wing of the Tower, to the west is a
+door.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14503 0
+D2
+~
+door~
+1 14553 14577 7
+D3
+~
+~
+0 0 14507 0
+S
+#14506
+A Hall in the West Wing~
+You stand in a hall of the west wing of the Tower, to the north there
+is a door.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14548 14578 7
+D1
+~
+~
+0 0 14509 0
+D3
+~
+~
+0 0 14503 0
+S
+#14507
+A Hallway in the West Wing~
+You stand in a hall of the west wing of the Tower, to the north there
+is a door.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14552 14569 7
+D1
+~
+~
+0 0 14505 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 14508 0
+S
+#14508
+The End of the Hall~
+You are at the end of the hallway, before you stands a giant oak door
+that leads to the top level.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14507 0
+D3
+~
+door~
+1 14548 14576 7
+D4
+~
+~
+0 0 14526 0
+S
+#14509
+A Hall in the West Wing~
+You stand in a hall of the west wing of the Tower, to the south there
+is a door.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D1
+~
+~
+0 0 14510 0
+D2
+~
+door~
+1 14550 14568 7
+D3
+~
+~
+0 0 14506 0
+S
+#14510
+The End of the Hallway~
+You are at the end of the hallway, before you stands a giant oak door
+that leads to the top level.    
+~
+145 8 0 0 0 0
+D1
+~
+door~
+1 14551 14579 7
+D3
+~
+~
+0 0 14509 0
+D4
+~
+~
+0 0 14528 0
+S
+#14511
+A Hallway in the East Wing~
+You stand in a hall of the east wing of the Tower, to the north there
+is a door.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14544 14572 7
+D1
+~
+~
+0 0 14512 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 14504 0
+S
+#14512
+A Hallway in the East Wing~
+You stand in a hall of the east wing of the Tower, to the south there
+is a door.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14513 0
+D2
+~
+door~
+1 14543 14571 7
+D3
+~
+~
+0 0 14511 0
+S
+#14513
+The End of the Hall~
+You are at the end of the hallway, before you stands a giant oak door
+that leads to the top level.    
+~
+145 8 0 0 0 0
+D1
+~
+door~
+1 14542 14570 7
+D3
+~
+~
+0 0 14512 0
+D4
+~
+~
+0 0 14530 0
+S
+#14514
+A Hall in the East Wing~
+You stand in a hall of the east wing of the Tower, to the south there
+is a door.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14504 0
+D2
+~
+door~
+1 14545 14573 7
+D3
+~
+~
+0 0 14515 0
+S
+#14515
+A Hall in the East Wing~
+You stand in a hall of the east wing of the Tower, to the north there
+is a door.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14546 14574 7
+D1
+~
+~
+0 0 14514 0
+D3
+~
+~
+0 0 14516 0
+S
+#14516
+The End of the Hallway~
+You are at the end of the hallway, before you stands a giant oak door
+that leads to the top level.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 0 -1 1
+D1
+~
+~
+0 0 14515 0
+D3
+~
+door~
+1 14547 14575 7
+D4
+~
+~
+0 0 14517 0
+S
+#14517
+The Staircase~
+You climb a staircase that winds around and around, up into the
+heights of the needle that you are inside of.  Up or down, the climb
+seems endless.    
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14518 0
+D5
+~
+~
+0 0 14516 0
+S
+#14518
+The Staircase~
+You are on a spindley staircase that climbs higher and higher into the
+sky.  You climb a staircase that winds around and around, up into the
+heights of the needle that you are inside of.  Just above you lies the
+end of your climb - the top of the needle.    
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14519 0
+D5
+~
+~
+0 0 14517 0
+S
+#14519
+The Top of the Needle~
+You stand atop the highest tower of the Castle of the Prophet King,
+the man who has only been spoken of up to this point, but not seen.  
+~
+145 64 0 0 0 0
+D0
+~
+~
+0 0 14521 0
+D1
+~
+~
+0 0 14524 0
+D2
+~
+~
+0 0 14522 0
+D3
+~
+~
+0 0 14523 0
+D4
+~
+oaken door~
+1 0 14525 17
+D5
+~
+~
+0 0 14520 0
+S
+#14520
+A Peaceful Alcove~
+You stand in an alcove with a beautiful fountain in the center of it.
+It is surrounded by plushy pillows.    
+~
+145 327688 0 0 0 0
+D4
+~
+~
+0 0 14519 0
+D5
+~
+~
+0 0 -1 0
+S
+#14521
+The North Corner of the Needle~
+You stand on the Northern edge of the thousand foot tower known as the
+Needle.  To the north, one can see a mountain range.  A hazy mist
+covers the northern wall of the room, obscuring what lies there.    
+~
+145 64 0 0 0 0
+D2
+~
+~
+0 0 14519 0
+S
+#14522
+The South Corner of the Needle~
+You stand at the the southern corner of the needle.  Far to south you
+can see the great field of Midgaard and in the hazy distance, the
+spires of Midgaard itself.    
+~
+145 64 0 0 0 0
+D0
+~
+~
+0 0 14519 0
+S
+#14523
+The West Corner of the Needle~
+Peering off into the western horizon, all that you can see are endless
+treetops.  Somewhere in all of that forestland lies the secret abode
+of the warrior King Algoz and all that he is said to hoarde.    
+~
+145 64 0 0 0 0
+D1
+~
+~
+0 0 14519 0
+S
+#14524
+The East Corner of the Needle~
+You stand on the Eastern tip of the tower, there are trees as far as
+you can see to the East.    
+~
+145 64 0 0 0 0
+D3
+~
+~
+0 0 14519 0
+S
+#14525
+The Grand Altar~
+You stand at the top of the needle in a secret room built by the
+Prophet himself.  His altar to his God, the sheer beauty of this room:
+it is all very overwhelming.    
+~
+145 65632 0 0 0 0
+D5
+~
+~
+0 0 14519 0
+S
+#14526
+A Staircase~
+You climb upon a bleak and dreary staircase, the way unsure ahead of
+you.  Both directions are darkened, however a bit more light shines
+below than upwards.    
+~
+145 9 0 0 0 0
+D4
+~
+~
+0 0 14527 0
+D5
+~
+~
+0 0 14508 0
+S
+#14527
+A Staircase~
+You climb upon a bleak and dreary staircase, the way unsure ahead of
+you.  Up above, a bit of light begins to glimmer faintly down the
+staircase.    
+~
+145 9 0 0 0 0
+D4
+~
+~
+0 0 14519 0
+D5
+~
+~
+0 0 14526 0
+S
+#14528
+A Staircase~
+You climb this small, spindley staircase ever higher, the flooring
+feeling brittle and ready to break at any moment.  Take heed,
+adventurer - the fall could be very damaging from this height.    
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14529 0
+D5
+~
+~
+0 0 14510 0
+S
+#14529
+A Staircase~
+You are climbing a spindley staircase high into the clouds.  The way
+that the stairs creak and squeak is enough to make a kender nervous!
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14519 0
+D5
+~
+~
+0 0 14528 0
+S
+#14530
+A Staircase~
+You stand within a darkened stone stairwell, best navigated by touch
+rather than sight.  A bit of light shines up from beneath your current
+locale.    
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14531 0
+D5
+~
+~
+0 0 14513 0
+S
+#14531
+A Staircase~
+You are on a staircase leading higher into the tower.    
+~
+145 8 0 0 0 0
+D4
+~
+~
+0 0 14519 0
+D5
+~
+~
+0 0 14530 0
+S
+#14532
+The Entrance to the Grand Hall~
+You stand in the entrance way of the Grand Hall, and what an amazing
+hall it is, with arched column ceilings swelling to the skies, and at
+the end of the hall, the Seeress Silhouette.    
+~
+145 12 0 0 0 0
+D0
+~
+~
+0 0 14533 0
+D2
+~
+~
+0 0 14501 0
+S
+#14533
+The South Side of the Grand Hall~
+You stand on the southern end of the Great Hall in the Prophets Keep,
+the hall is amazingly large and immaculately decorated.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14538 0
+D1
+~
+~
+0 0 14536 0
+D2
+~
+~
+0 0 14532 0
+D3
+~
+~
+0 0 14534 0
+S
+#14534
+The South Side of the Grand Hall~
+You stand on the south side of one of the most beautiful halls you
+have been in, much work must have been put into its making.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14539 0
+D1
+~
+~
+0 0 14533 0
+D3
+~
+~
+0 0 14535 0
+S
+#14535
+The South Side of the Grand Hall~
+You stand on the south west side of the grand hall, from here you can
+barely make out the dias, and the lonely figure of the Seeress sitting
+atop it.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14540 0
+D1
+~
+~
+0 0 14534 0
+D3
+~
+~
+0 0 -1 0
+S
+#14536
+The South Side of the Grand hall~
+You stand in the northeast corner of the grand hall.  A hall this
+large can only be imagined by the common folk of the world, how it was
+ever built and who built remains a mystery.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14537 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 14533 0
+S
+#14537
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14544 0
+D2
+~
+~
+0 0 14536 0
+D3
+~
+~
+0 0 14538 0
+S
+#14538
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14543 0
+D1
+~
+~
+0 0 14537 0
+D2
+~
+~
+0 0 14533 0
+D3
+~
+~
+0 0 14539 0
+S
+#14539
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14542 0
+D1
+~
+~
+0 0 14538 0
+D2
+~
+~
+0 0 14534 0
+D3
+~
+~
+0 0 14540 0
+S
+#14540
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14541 0
+D1
+~
+~
+0 0 14539 0
+D2
+~
+~
+0 0 14535 0
+S
+#14541
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14548 0
+D1
+~
+~
+0 0 14542 0
+D2
+~
+~
+0 0 14540 0
+S
+#14542
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14547 0
+D1
+~
+~
+0 0 14543 0
+D2
+~
+~
+0 0 14539 0
+D3
+~
+~
+0 0 14541 0
+S
+#14543
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14546 0
+D1
+~
+~
+0 0 14544 0
+D2
+~
+~
+0 0 14538 0
+D3
+~
+~
+0 0 14542 0
+S
+#14544
+The Grand Hall~
+You stand in the grand hall of the prophets keep, the immaculate
+columns and gorgeous tapestries are very impressing.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14545 0
+D2
+~
+~
+0 0 14537 0
+D3
+~
+~
+0 0 14543 0
+S
+#14545
+The Grand Hall~
+You stand on the northern end of the grand hall, to the east is the
+kitchens, and to the far west is the garden.    
+~
+145 0 0 0 0 0
+D1
+~
+door~
+1 0 14550 3
+D2
+~
+~
+0 0 14544 0
+D3
+~
+~
+0 0 14546 0
+S
+#14546
+The Grand Hall~
+You stand on the northern end of the grand hall, just to your north is
+the dias, and a little ways to the east and west are the kitchens and
+gardens.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14549 0
+D1
+~
+~
+0 0 14545 0
+D2
+~
+~
+0 0 14543 0
+D3
+~
+~
+0 0 14547 0
+S
+#14547
+The Grand Hall~
+You stand on the northern end of the grand hall, to your west is the
+garden, and to your far east is the kitchens.    
+~
+145 0 0 0 0 0
+D1
+~
+~
+0 0 14546 0
+D2
+~
+~
+0 0 14542 0
+D3
+~
+~
+0 0 14548 0
+S
+#14548
+The Grand Hall~
+You stand at the north western side of the hall, this place is huge!
+~
+145 0 0 0 0 0
+D1
+~
+~
+0 0 14547 0
+D2
+~
+~
+0 0 14541 0
+D3
+~
+door~
+1 0 14557 3
+S
+#14549
+The Dias~
+You stand upon a platinum dias, it alone being a kings fortune, and
+upon this dias sits the Seeress..    
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14546 0
+S
+#14550
+The Entrance to the Kitchen~
+You step into the kitchen and immediately get a overwhelmed by all of
+the people staring at you.  Possibly you aren't expected?    
+~
+145 12 0 0 0 0
+D1
+~
+~
+0 0 14551 0
+D3
+~
+door~
+1 0 14545 1
+S
+#14551
+The Kitchen~
+This is the place in the Kitchen where the furnace from downstairs
+heats up the cooking trays.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 14552 0
+D2
+~
+~
+0 0 14554 0
+D3
+~
+~
+0 0 14550 0
+S
+#14552
+The Kitchen~
+You startle as you hit a big mass of pots and pans hanging from the
+ceiling.    
+~
+145 8 0 0 0 0
+D2
+~
+~
+0 0 14553 0
+D3
+~
+~
+0 0 14551 0
+S
+#14553
+The Kitchen~
+You are walking around in the Kitchen, a Chef yells at you to move as
+he speeds past you.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14552 0
+D2
+~
+~
+0 0 14556 0
+D3
+~
+~
+0 0 14554 0
+S
+#14554
+The Kitchen~
+This seems to be the most busy part of all the Kitchen, pots, pans,
+and dishes are laying and stacked everywhere!    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14551 0
+D1
+~
+~
+0 0 14553 0
+D2
+~
+~
+0 0 14555 0
+S
+#14555
+The Kitchen~
+Well, here is the part of the Kitchen we have all been waiting for,
+the Trash Shute, you cant see the damn thing anywhere but it has to be
+here, you can smell it!    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14554 0
+D1
+~
+~
+0 0 14556 0
+S
+#14556
+The Kitchen~
+You stand in the Kitchen, you can see the Chefs cooking dinner for the
+prophet and seeress, and the place is generally a mess.    
+~
+145 8 0 0 0 0
+D0
+~
+~
+0 0 14553 0
+D3
+~
+~
+0 0 14555 0
+S
+#14557
+The Entrance to the Garden~
+You stand in the entrance to the garden, it spans out to the west of
+you, and it has unsurpassed beauty.    
+~
+145 4 0 0 0 3
+D1
+~
+door~
+1 0 14548 1
+D3
+~
+~
+0 0 14558 0
+S
+#14558
+The Garden~
+You stand in an immaculate flower garden that the prophet planted for
+his Queen, the Seeress Silhouette.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14559 0
+D1
+~
+~
+0 0 14557 0
+D2
+~
+~
+0 0 14560 0
+D3
+~
+~
+0 0 14563 0
+D5
+~
+~
+0 0 -1 0
+S
+#14559
+The Garden~
+You stand in the flower gardens of the prophets keep, they are
+amazing.    
+~
+145 0 0 0 0 3
+D2
+~
+~
+0 0 14558 0
+D3
+~
+~
+0 0 14565 0
+S
+#14560
+The Garden~
+You stand in the garden of prophets keep, to the south is the wall.  
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14558 0
+D3
+~
+~
+0 0 14561 0
+S
+#14561
+The Garden~
+You stand in a beautiful flower garden, you can hear music from
+somewhere far to the north, but the beauty of the gardens keeps your
+attention.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14563 0
+D1
+~
+~
+0 0 14560 0
+D3
+~
+~
+0 0 14562 0
+S
+#14562
+The Garden~
+You stand in the gardens of prophets keep, from what you have seen of
+the prophets castle so far, you wonder who it was who built it, or if
+it was constructed of magic.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14564 0
+D1
+~
+~
+0 0 14561 0
+S
+#14563
+The Garden~
+You stand in the garden, there are small trails made of stones and
+pebbles leading to all edges.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14565 0
+D1
+~
+~
+0 0 14558 0
+D2
+~
+~
+0 0 14561 0
+D3
+~
+~
+0 0 14564 0
+S
+#14564
+The Garden~
+You stand in the gardens of prophets keep, from what you have seen of
+the prophets castle so far, you wonder who it was who built it, or if
+it was constructed of magic.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14566 0
+D1
+~
+~
+0 0 14563 0
+D2
+~
+~
+0 0 14562 0
+S
+#14565
+The Garden~
+You stand in the most beautiful flower gardens you have seen ever.  
+To the north the sound of music plays and in all directions you see
+the garden.    
+~
+145 0 0 0 0 3
+D0
+~
+~
+0 0 14567 0
+D1
+~
+~
+0 0 14559 0
+D2
+~
+~
+0 0 14563 0
+D3
+~
+~
+0 0 14566 0
+S
+#14566
+The Garden~
+You stand in a lush garden, to your north east you can see a gazebo,
+and here music playing all around in the gardens.  What a peaceful
+place.    
+~
+145 0 0 0 0 3
+D1
+~
+~
+0 0 14565 0
+D2
+~
+~
+0 0 14564 0
+S
+#14567
+The Gazebo~
+You stand in a beautiful white gazebo situated right in the middle of
+the gardens, a beautiful melody encompasses the area.    
+~
+145 262288 0 0 0 3
+D2
+~
+~
+0 0 14565 0
+S
+#14568
+The Room of Ylluzion~
+This is a haunting place, one which ever changes as the second,
+minutes and hours of the days tick by.  This is not a place easily
+forgotten.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14550 14509 7
+D2
+~
+~
+0 0 -1 0
+S
+#14569
+The Room of Xryc~
+You stand in the room of the Fallen Angel Xryc.    
+~
+145 0 0 0 0 0
+D2
+~
+door~
+1 14552 14507 7
+S
+#14570
+The Room of Syraph~
+You are in the room of Syraph, the 1st fallen angel, multiple morbid
+pictures are on the wall.    
+~
+145 8 0 0 0 0
+D3
+~
+door~
+1 -1 14513 7
+S
+#14571
+The Room of Soel~
+You stand in the room of Soel, the 2nd Fallen Angel, her room feels
+extremely peaceful, and yet disconcerting at the same time.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14543 14512 7
+S
+#14572
+The Room of Valkyrie~
+You stand in the room of Valkyrie the 3rd fallen angel, there are a
+lot of norse objects lying about the room.    
+~
+145 8 0 0 0 0
+D2
+~
+door~
+1 14544 14511 7
+S
+#14573
+The Room of Ymigiz~
+You stand in the room of Ymigiz, the 4th Fallen Angel.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14545 14514 7
+S
+#14574
+The Room of Facys~
+You stand in the room of Facys the 5th Fallen Angel.    
+~
+145 8 0 0 0 0
+D2
+~
+door~
+1 14546 14515 7
+S
+#14575
+The Room of Shaad~
+You stand in the room of Shaad, the 6th Fallen Angel.    
+~
+145 8 0 0 0 0
+D1
+~
+door~
+1 14547 14516 7
+S
+#14576
+The Room of Mystsong~
+You stand in the room of Mystsong, the 7th Fallen Angel.    
+~
+145 0 0 0 0 0
+D1
+~
+door~
+1 14548 14508 7
+S
+#14577
+The Room of Miah~
+You stand in an empty room, a plaque on the wall says it belonged to
+Miah the 12th fallen Angel.    
+~
+145 8 0 0 0 0
+D0
+~
+door~
+1 14553 14505 1
+S
+#14578
+The Room of Areth~
+You stand in the room of Areth, the 9th Fallen Angel.    
+~
+145 8 0 0 0 0
+D2
+~
+door~
+1 14548 14506 7
+S
+#14579
+The Room of Broken~
+You stand in the room of Broken.    
+~
+145 8 0 0 0 0
+D3
+~
+door~
+1 14551 14510 7
+S
+#14580
+Before the Keep~
+From this distance, you can see the keep in all its glory and
+splendor.  It rises into the sky like a sword of justice; clear, and
+powerful.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14500 0
+D2
+~
+~
+0 0 14581 0
+S
+#14581
+The City of Kloaca'alfyndyrin~
+You stand at the end of the higher district.  To your north stands the
+keep of the Prophet, and to your south is the city of
+Kloaca'alfyndyrin.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14580 0
+D1
+~
+~
+0 0 14582 0
+S
+#14582
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14583 0
+D3
+~
+~
+0 0 14581 0
+S
+#14583
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14599 0
+D1
+~
+~
+0 0 14584 0
+D3
+~
+~
+0 0 14582 0
+S
+#14584
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14585 0
+D3
+~
+~
+0 0 14583 0
+S
+#14585
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D2
+~
+~
+0 0 14586 0
+D3
+~
+~
+0 0 14584 0
+S
+#14586
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14585 0
+D3
+~
+~
+0 0 14587 0
+S
+#14587
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14598 0
+D1
+~
+~
+0 0 14586 0
+D3
+~
+~
+0 0 14588 0
+S
+#14588
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14587 0
+D3
+~
+~
+0 0 14589 0
+S
+#14589
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14588 0
+D2
+~
+~
+0 0 14597 0
+D3
+~
+~
+0 0 14590 0
+S
+#14590
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14589 0
+D2
+~
+~
+0 0 14591 0
+S
+#14591
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14590 0
+D1
+~
+~
+0 0 14592 0
+S
+#14592
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14593 0
+D3
+~
+~
+0 0 14591 0
+S
+#14593
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D0
+~
+~
+0 0 14596 0
+D1
+~
+~
+0 0 14594 0
+D3
+~
+~
+0 0 14592 0
+S
+#14594
+The City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city, who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 14595 0
+D3
+~
+~
+0 0 14593 0
+S
+#14595
+The Entrance of the City of Kloaca'alfyndyrin~
+You are walking the streets of the city of Kloaca'alfyndyrin.  Many
+are the wares and wonders of the people of this small city who sit
+under the protection of the mighty Prophet.    
+~
+145 0 0 0 0 1
+D1
+~
+~
+0 0 559 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 14594 0
+S
+#14596
+Shakra's Armory~
+You stand in the Armory of Shakra, one of the best know Armorers in
+the land.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 14593 0
+D3
+~
+~
+0 0 -1 0
+S
+#14597
+Rastelko's Shop of Carnage~
+You stand in the shop of Rastelko one of the greatest known warriors
+of the current era.  The weapons that he has hanging on the wall are
+exotic and deadly.    
+~
+145 0 0 0 0 0
+D0
+~
+~
+0 0 14589 0
+D1
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 -1 0
+S
+#14598
+The House of the Rising Sun~
+You stand in the House of the Rising Sun.  This place is known across
+all the lands; the warriors and songs that have come from this place
+have been made into legend.  Some say Prophet started here but no one
+is old enough to remember whether or not that is true.    
+~
+145 28 0 0 0 1
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 14587 0
+D3
+~
+~
+0 0 -1 0
+S
+#14599
+The Bakery~
+You stand in the bakery, the scent of fresh bread is in the air.  The
+baker is standing behind the counter kneeding dough, and sticking it
+in an oven.    
+~
+145 8 0 0 0 0
+D1
+~
+~
+0 0 -1 0
+D2
+~
+~
+0 0 14583 0
+S
+$~

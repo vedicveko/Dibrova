@@ -1,0 +1,414 @@
+#5400
+mage disgruntled~
+disgruntled Mage~
+A mage wanders through the shrubbery, looking just a bit miffed.
+~
+This poor guy looks fit to bust!  He gives you a piercing look, starts
+to say something, then apparently changes his mind and turns the other
+way.    
+~
+26824 0 0 0 2064 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 15
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Class: 1
+Race: 14
+E
+#5401
+cleric disgruntled~
+a disgruntled Cleric~
+A cleric stomps by you, not even aware of your presence, mumbling to himself.
+~
+This man, wrapped in the robes of his God, looks almost like he could
+kill in the name of his God, even if that were a bit of a lie.    
+~
+26696 0 0 0 2064 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 17
+Luck: 12
+Class: 2
+Race: 13
+E
+#5402
+warrior frustrated~
+a frustrated Warrior~
+A warrior in full battle gear strides past you angrily, sword in hand.
+~
+Eyebrows knitted together, frown on his face, he really DOES look mean.
+~
+26696 0 0 0 2064 0 0 0 1000 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 3
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 18
+Luck: 12
+Class: 4
+Race: 19
+E
+#5403
+assassin flustered~
+a flustered Assassin~
+A flustered assassin roams these rooms, looking ready to kill just for practice.
+~
+He simply glances at you and growls, nothing more.
+~
+26696 0 0 0 2064 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 14
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 21
+Luck: 12
+Class: 3
+Race: 32
+E
+#5404
+ranger nonplussed~
+a nonplussed Ranger~
+A small female ranger tries to flow past you, but seems just a bit out of step.
+~
+She won't even look in your direction.
+~
+26696 0 0 0 16 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 2
+BareHandAttack: 11
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 15
+Luck: 12
+Class: 5
+Race: 15
+E
+#5405
+bartender man thief~
+the Bartender~
+A bartender stands here, looking about with concern.
+~
+He looks distracted as he pours five drinks at once without error.
+~
+26634 0 0 0 2384 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 44614
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 14
+E
+#5406
+robed thief~
+a robed Thief~
+A robed thief walks by, head down in contemplation, hands in his sleeves.
+~
+It's hard to tell what this man looks like with his volumous robe and
+his head down.  His graceful, sinuous walk denotes him as a thief for
+sure, though.    
+~
+73 0 0 0 2128 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 5
+Luck: 12
+Class: 3
+Race: 7
+E
+#5407
+beer boy~
+the BeerBoy~
+The Beerboy stands here, tending the Holy Beer.
+~
+Most probably a child of one of the higher-up thieves, this is a very
+dinstinctive honor.    
+~
+16586 0 0 0 65792 4194304 0 0 0 E
+10 3 60 1d10+200 1d2+6
+15 1828
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 10
+Luck: 12
+Race: 14
+E
+#5408
+priest altar~
+the Altar Priest~
+A priest stands at the altar, ready to give the Holy Sacriment to any who kneel.
+~
+Living a life devoted to bettering thieves, this man is paragon of virtuosity.
+~
+74 0 0 0 256 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Class: 2
+Race: 14
+E
+#5409
+thief priest sitting reading~
+the Priest~
+A priest sits in a chair, reading a book.
+~
+Looks as if he has no worries in this world.  Just passing the time away.
+~
+74 0 0 0 80 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+6 6 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 22
+Luck: 12
+Class: 2
+Race: 14
+E
+#5410
+weapons clerk~
+the Weaponsmaster~
+The Weaponsmaster stands here, selling the tools of his trade.
+~
+Strange that a weaponsmaster would be dressed only in street clothing.
+He must really know how to use his weapons!    
+~
+26634 0 0 0 2128 0 0 0 100 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 8
+Luck: 12
+Class: 4
+Race: 14
+E
+#5411
+shopkeeper~
+the Shopkeeper~
+The shopkeeper stands here.
+~
+This man is learned in every item on sale in this room - and more.
+~
+26634 0 0 0 2128 0 0 0 100 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 5
+Luck: 12
+Race: 14
+E
+#5412
+thief high priest~
+the High Priest~
+The High Thieven Priest stands here, looking a bit lost in his own thoughts.
+~
+His eyes seem a bit red, his walk a bit out of step.  Man, this guy
+looks as if maybe he's been hitting te beer a bit heavy.    
+~
+26696 0 0 0 272 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+15 1828
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 15
+Luck: 12
+Class: 2
+Race: 14
+E
+#5413
+armor thief~
+the Thieven Armorer~
+The Thieven Armorer bids you enter and browse his goods.
+~
+This guy is decked out in some of the most outlandish looking armor
+you ever have seen!    
+~
+26634 0 0 0 2128 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 5
+Luck: 12
+Race: 14
+E
+#5414
+messenger thief~
+Kaan's personal Messenger~
+Kaan's personal messenger stands here ready to take any messages to him.
+~
+A tall slender woman stands before you smiling broadly.
+~
+26634 0 0 0 2128 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 2
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 7
+Luck: 12
+Race: 14
+E
+#5415
+cleaning woman~
+a Cleaning Woman~
+A cleaning woman wanders around picking up trash every now and then.
+~
+Hand picked by the High Priest, these hot little hunnies are the creme
+de la creme from Dibrova.    
+~
+26696 0 0 0 16 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 24
+Luck: 12
+Class: 12
+Race: 14
+E
+#5416
+gardener thief~
+the Thieven Gardener~
+A Thieven Gardener is here, keeping the crops plentiful.
+~
+Looks like he does his job very well, from the way the crops flourish.
+~
+26634 0 0 0 16 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 20
+Luck: 12
+Class: 3
+Race: 14
+E
+#5417
+inn clerk~
+the Inn Clerk~
+The clerk for the the Thieve's Rest waits to show you to a room.
+~
+This man looks very unremarkable, unremarkably unremarkable.
+~
+26634 0 0 0 2128 0 0 0 0 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 10
+Luck: 12
+Class: 11
+Race: 14
+E
+#5459
+thief drunk guard~
+the Drunk Guard~
+A guard stands here, sharing a beer with another guard.
+~
+This man looks like he's been drinking heavy all day.  He sways a bit
+on his feet, his eyes are bloodshot, and he stinks of old beer.  He
+does, however, keep one hand on the dagger e wears at his side.    
+~
+30730 0 0 0 2320 0 0 0 0 E
+40 21 -20 1d40+2525 4d5+26
+500 62713
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 18
+Luck: 12
+Class: 10
+Race: 14
+E
+$

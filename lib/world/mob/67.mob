@@ -1,0 +1,1295 @@
+#6700
+kire~
+Kire, the Patrol Captain~
+Kire, the patrol captain, is walking here.
+~
+At first glance, this man would not seem to even hurt a fly.  As you
+look closer, you notice a long scar running down the left side of his
+face.  You think that perhaps looks can be deceiving and that you
+might not want to mess with him.    
+~
+182344 0 0 0 76112 4194304 0 0 500 E
+47 26 -28 1d47+4000 5d5+31
+675 94614
+8 8 1
+BareHandAttack: 9
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 7
+Luck: 12
+Class: 10
+Race: 15
+E
+#6701
+commoner~
+a Commoner~
+A commoner is here searching for goods.
+~
+She is rather plain, wearing her hair up in a bun, and she's dressed,
+well...  Plain.    
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+3
+5 283
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+Class: 12
+Race: 14
+E
+#6702
+street rat~
+a Street Rat~
+A street rat is here, begging for food.
+~
+The boy is caked in dirt, and smells of dead fish.  You may want to
+give him a few coins just to go away.    
+~
+8 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 5
+Luck: 12
+Race: 1
+E
+#6703
+common peddler~
+a Common Peddler~
+A peddler tries to do business with you.
+~
+The man is uninteresting, except for his dirty turbin, which seems
+unusually large.    
+~
+72 0 0 0 0 0 0 0 0 E
+6 1 76 1d6+70 1d2+4
+10 451
+8 8 1
+BareHandAttack: 13
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 10
+Luck: 12
+Race: 14
+E
+#6704
+guard guardsman~
+a Guardsman~
+A guardsman patrols the streets and shops of McGintey Cove.
+~
+He looks to be a kind, jovial man.  But I wouldn't test it.
+~
+157768 0 0 0 16 2 0 0 500 E
+60 37 -36 1d60+7100 5d6+40
+1000 160325
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 6
+Luck: 12
+Class: 10
+Race: 14
+E
+#6705
+toll booth worker~
+the Toll Booth Worker~
+A toll booth worker is here, taking your fare for crossing into the city.
+~
+She notices you looking and smiles at you.
+~
+10 0 0 0 0 0 0 0 300 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 2
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Race: 14
+E
+#6706
+Jon barkeep~
+Jon, the Barkeep~
+Jon the barkeep is here serving dinner and drinks.
+~
+This man looks as if there could be no other place he'd rather be then
+here at this inn, serving drinks and making everyone's food.    
+~
+253978 0 0 0 2128 0 0 0 500 E
+47 26 -28 1d47+4000 5d5+31
+675 86013
+8 8 1
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 6
+Luck: 12
+Race: 14
+E
+#6707
+receptionist~
+the Receptionist~
+The receptionist waits patiently for you to decide on a room.
+~
+Such a bright and cheery lady, she beams a happy smile at you.
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+6 6 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 20
+Luck: 12
+Class: 11
+Race: 14
+E
+#6708
+info information cindii~
+Cindii, the Info Lady~
+Cindii the Info Lady sits behind the desk, smiling happily.
+~
+She looks so pathetically blonde, you are almost afraid to ask for any
+assistance.
+~
+10 0 0 0 0 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+6 6 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 17
+Luck: 12
+Race: 14
+E
+#6709
+samuel faarza~
+Samuel Faarza~
+Samuel himself is here, pouring the drinks and getting rich.
+~
+Samuel looks like he may have poured a few extra tonight.
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 17
+Luck: 12
+Class: 4
+Race: 14
+E
+#6710
+postal worker~
+the Postal Worker~
+A postal worker is here, ready to send or get your mail.
+~
+Be careful.  No sudden moves.  You know how these guys get....
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 13
+Luck: 12
+Race: 14
+E
+#6711
+Juan pusher potion~
+Juan, the Potion Pusher~
+Juan the potion pusher is here, trying sell you some potions.
+~
+He's got that money-hungry glint in his eyes.  Watch your wallet.
+~
+16394 0 0 0 2128 0 0 0 -200 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 14
+Luck: 12
+Race: 14
+E
+#6712
+Alandra jewelry maker~
+Alandra, the Jewelry Maker~
+Alandra the jewelry maker is here, working on some pieces.
+~
+She almost didn't notice you come in, so focused on her craft was she.
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Race: 14
+E
+#6713
+armourer~
+the Armourer~
+The armourer waits patiently to help you.
+~
+He looks quite competent, quite relaxed.  He must make a good living
+in spite of his reputation.    
+~
+16394 0 0 0 2128 0 0 0 100 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 18
+Luck: 12
+Race: 14
+E
+#6714
+pet shop Shellee~
+Shellee~
+Shellee waits here, hoping to find good homes for her little friends.
+~
+Shellee is quite an attractive woman, however you notice that she
+lacks a bit upstairs.  Yes, she is blonde.    
+~
+16394 0 0 0 2128 0 0 0 500 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 6
+Luck: 12
+Race: 14
+E
+#6715
+jak weaponsmith~
+Jak, the Weaponsmith~
+Jak the weaponsmith is here, currently taking a break.
+~
+Man, this guy is ALWAYS taking a break.  Must be because he sells no weaponry.
+~
+16394 0 0 0 2128 0 0 0 100 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 19
+Luck: 12
+Race: 15
+E
+#6716
+clerk~
+the Clerk~
+A clerk is here, waiting to take your money.
+~
+Poor guy looks a little bored - must be the only job available in
+town.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 14
+E
+#6717
+Pauletra pottery~
+Pauletra~
+Pauletra the pottery woman stands next to her cart, selling her goods.
+~
+She looks like she's come a long way to sell her goods in this famous
+market place.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 20
+Luck: 12
+Race: 14
+E
+#6718
+Herb~
+Herb, the Herbalist~
+Herb stands here.  Know what he's selling?
+~
+Kind of makes you wonder if Herb was always his name, doesn't it?
+~
+16394 0 0 0 2128 0 0 0 300 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Race: 14
+E
+#6719
+Bones~
+Bones~
+Bones stands here, selling his exotic jewelry.
+~
+Bones has all kinds of strange bone-made jewelry hanging from his body.
+~
+16394 0 0 0 2128 0 0 0 100 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 8
+Luck: 12
+Race: 14
+E
+#6720
+Farah~
+Farah~
+Farah has a nice little booth set up to display her wares.
+~
+Although tired, she looks very happy.
+~
+16394 0 0 0 2128 0 0 0 500 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 12
+Luck: 12
+Race: 14
+E
+#6721
+farmer~
+the Farmer~
+A farmer stands next to cart selling fresh vegetables.
+~
+Just a normal, average, every day country bumpkin.
+~
+16394 0 0 0 2128 0 0 0 350 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 16
+Luck: 12
+Race: 14
+E
+#6722
+candle maker man wax~
+the Wax Man~
+A man is here selling candles.
+~
+Numerous little burn scars mark his hands.  Dangerous job, this man
+has.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+32 15 -20 1d32+2325 3d4+21
+300 32273
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Race: 14
+E
+#6723
+fisherman~
+a Fisherman~
+A fisherman sells good quality fish fresh from the sea.
+~
+This guy...  There's something fishy about him...  Get it?  Fishy?  
+You know, he's a fisherman, and...  Forget it.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 23
+Luck: 12
+Race: 14
+E
+#6724
+glass blower~
+the Glass Blower~
+A glass blower is here, her items carefully stcked on portable shelf.
+~
+She looks like a world traveler, one who has seen and been almost everywhere.
+~
+16394 0 0 0 2128 0 0 0 200 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+Race: 14
+E
+#6725
+carpenter~
+the Carpenter~
+A carpenter is here, selling his woodwork.
+~
+Big, strong with hands as big as sledgehammers.
+~
+16394 0 0 0 2128 0 0 0 400 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+Race: 14
+E
+#6726
+darva cape maker~
+Darva~
+Darva, the cape maker, is here with his many fine threads for sale.
+~
+The man wears a very fine looking cape.  You notice that his isn't for sale, it
+must be a special one.    
+~
+16394 0 0 0 67664 4194304 0 0 -500 E
+35 17 -20 1d35+2400 3d5+23
+350 40559
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Race: 14
+E
+#6727
+cleric robed man healer~
+the Healer~
+A robed man with the power to heal stands here, hands folded before him.
+~
+This cleric looks quite at peace with himself, tranquil even.
+~
+10 0 0 0 256 0 0 0 1000 E
+30 14 -20 1d30+2250 3d3+20
+250 30113
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Class: 2
+Race: 14
+E
+#6728
+leather man~
+the Leatherman~
+The Leatherman stands next to his cart, his many leather goods for sale.
+~
+Clad all in leather, this guy looks like he could be friend or foe.
+~
+16394 0 0 0 2128 0 0 0 100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 24
+Luck: 12
+Race: 14
+E
+#6729
+shantar~
+Shantar~
+Shantar sits under an umbrella, relaxing as she sells an assortment of rings.
+~
+Sipping her cool drink, you cannot help but feel just a bit jealous of her
+comfort and ease.    
+~
+16394 0 0 0 2128 0 0 0 100 E
+18 7 28 1d18+800 1d3+12
+100 7441
+6 6 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 14
+E
+#6730
+shades~
+Shades~
+Shades the eyewear man displays his assortment of eyepieces and glasses.
+~
+Shades wears a pair of the blackest sunglasses you have ever seen.  
+Kind of makes him look a bit sinsiter, you know - cool.  I think that
+was his intended effect there.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 15
+Luck: 12
+Race: 14
+E
+#6731
+blacksmith~
+the Blacksmith~
+A blacksmith sells assorted daggers here.
+~
+This huge man seems very out of place here in the middle of this
+bazaar, where he is forced to remain in one spot.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 16
+Luck: 12
+Race: 14
+E
+#6732
+man burlap~
+the Burlap Man~
+A man is here selling various burlap goods.
+~
+This huge guy seems quite comfortable relaxing and selling his goods.
+~
+16394 0 0 0 2128 0 0 0 100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 6
+Luck: 12
+Race: 14
+E
+#6733
+woman~
+a Woman~
+A woman is here selling scarves.
+~
+She has a whole lot of scarves, a whole lot.  Buy one.
+~
+16394 0 0 0 2128 0 0 0 100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 25
+Luck: 12
+Race: 14
+E
+#6734
+man hat~
+the Hat Man~
+A man is here with stacks and stacks of hats, all of them for sale.
+~
+The is wearing like ten hats on his own head.  What a goof.
+~
+16394 0 0 0 2128 0 0 0 0 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 12
+Luck: 12
+Race: 14
+E
+#6735
+elf vendor~
+the Elven Vendor~
+An elven vendor is here offering an assortment of drinking vessels.
+~
+This elf has the look of one who has been down a few rocky roads in
+his time.  His mistrust of most everyone is quite apparent.    
+~
+16394 0 0 0 2128 0 0 0 -100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 16
+Luck: 12
+Race: 15
+E
+#6736
+baker~
+the Baker~
+A baker stands proudly next to her fine baked goods.
+~
+It is quite obvious that she loves her vocation from the look of
+enormous pride on her face.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 20
+Luck: 12
+Race: 14
+E
+#6737
+man~
+the Huge Man~
+A very large man stands next to his display case.
+~
+This man is so large, he almost seems intimidating enough to MAKE you
+buy something.    
+~
+16394 0 0 0 2128 0 0 0 500 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 14
+E
+#6738
+dwarf helm smith~
+a Dwarven Smith~
+A dwarven smith stands here selling helms.
+~
+This stocky little guy has arms that look like miniature tree trunks.
+~
+16394 0 0 0 2128 0 0 0 100 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 16
+Luck: 12
+Race: 13
+E
+#6739
+Shalaylia~
+Shalaylia~
+Shalaylia sits peacefully, selling rolling papers to any who are in need.
+~
+She sure looks comfortable.  In fact, she looks as if she might even
+be a bit sleepy.  Her eyelids droop and she has this sloppy grin on
+her face.    
+~
+16394 0 0 0 2128 0 0 0 500 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+6 6 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 10
+Luck: 12
+Race: 14
+E
+#6740
+Sazaindin~
+Sazaindin~
+Sazaindin the mage rests comfortably here, ready to brew you a potion.
+~
+You have to wonder just what type of potions she is selling, the way
+she is huddled into this far corner of the bazaar.    
+~
+16394 0 0 0 2128 0 0 0 -200 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 18
+Luck: 12
+Class: 1
+Race: 14
+E
+#6741
+lease manager~
+the Lease Manager~
+The lease manager is here, ready to take your application.
+~
+She smiles prettily at you and thanks you for stopping by.
+~
+10 0 0 0 0 0 0 0 500 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 5
+Luck: 12
+Race: 14
+E
+#6742
+jeweler~
+the Jeweler~
+The jeweler stands behind the counter waiting to help you.
+~
+Tall, thin, and wiry.
+~
+16394 0 0 0 2128 0 0 0 500 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 16
+Luck: 12
+Race: 14
+E
+#6743
+local physician~
+a Local Physician~
+A physician is here, ready to tend to your wounds.
+~
+A fairly pleasant looking person stands before you wearing a white
+coat.  They seem eager to get your business, and take care of whatever
+wounds you may have.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 23
+Luck: 12
+Class: 2
+Race: 14
+E
+#6744
+Aelsa~
+Aelsa the Bootsmith~
+Aelsa, one of Fatima's full timers, is here working on some boots.
+~
+She looks quite exhausted, as you see a bead of sweat roll her face.
+The leather apron she's wearing is caked in soot, and doesn't appear
+to be in a good mood, so you should better hurry up with whatever you
+want.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 2
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 12
+Luck: 12
+Race: 14
+E
+#6745
+Randon~
+Randon~
+Randon stands ready to sell you a scroll or two.
+~
+He looks like a nice young man.  A man who never cheats his customers.
+~
+16394 0 0 0 67664 4194304 0 0 800 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 9
+Luck: 12
+Race: 14
+E
+#6746
+Curley~
+Curley~
+Curley hustles about the room, tending to his customers in a very timely fashion.
+~
+From the way this guy runs around this place, you would think it was
+all he ever wanted out of life.    
+~
+16394 0 0 0 2128 0 0 0 500 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 15
+Luck: 12
+Race: 14
+E
+#6747
+Tephe water guy~
+Tephe the Water Guy~
+Tephe, the water guy, sits on a stool behind a counter, twiddling his fingers.
+~
+An overweight man looks at you with pleading eyes, begging you to buy
+something to liven up his day.    
+~
+16394 0 0 0 2128 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+6 6 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 20
+Luck: 12
+Race: 14
+E
+#6748
+man glove~
+the Gloveman~
+A man sits at a desk patiently sewing a pair of leather gauntlets.
+~
+He looks up and tells you that if you need anything just ask.  Then he
+goes back to his sewing.    
+~
+16394 0 0 0 2128 0 0 0 300 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+6 6 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 21
+Luck: 12
+Race: 14
+E
+#6749
+skillful merchant~
+a Skillful Merchant~
+A merchant stands here trying to persuade you to buy his goods.
+~
+You can tell this man knows what he's doing when it comes to sales.  
+He's almost gotten you to buy several of his items more than a few
+times.    
+~
+8 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Race: 14
+E
+#6750
+local youth~
+a Local Youth~
+A local youth walks by, looking for something.
+~
+They seem eager to find something to spend their money on.
+~
+8 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d2+5
+10 941
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 13
+Luck: 12
+Class: 12
+Race: 14
+E
+#6751
+bird gull~
+a Gull~
+A gull flits about, pecking the ground for dropped food.
+~
+WHOOA!  The bird just tried to attack you, better give it some food
+before...  Ooops...  It just shit on your boots.    
+~
+12 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 8
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+Race: 3
+E
+#6752
+bird albatross~
+an Albatross~
+An albatross rests on a nearby post.
+~
+A large, white bird rests its wings from a long flight.
+~
+12 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+5 5 0
+BareHandAttack: 8
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 12
+Race: 3
+E
+#6753
+McHale lieutenant~
+McHale the Patrol Lieutenant~
+You see McHale, the patrol lieutenant, out of the corner of your eye.
+~
+A silohette of a man lurks in the distance, you can' tell much about
+him except that he is avoiding being seen.    
+~
+104520 0 0 0 302006272 0 0 0 -350 E
+41 22 -24 1d41+2600 4d5+27
+525 60717
+8 8 1
+BareHandAttack: 3
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 19
+Luck: 12
+Class: 10
+Race: 14
+E
+#6754
+Tess sergeant~
+Tess, the Bazaar Overseer~
+Sergeant Tess, the Bazaar overseer, stands ready for any trouble.
+~
+She is a hefty guard, but make no mistake that doesn't set her back.
+She peers in your direction, making sure you have no plans of doing
+any harm.  She smiles and you can see chunks of her last "victim" in
+her teeth, you turn away quickly in disgust.    
+~
+170056 0 0 0 301998080 0 0 0 500 E
+34 17 -20 1d34+2375 3d4+22
+300 37669
+8 8 2
+BareHandAttack: 14
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 9
+Luck: 12
+Class: 4
+Race: 14
+E
+#6755
+deputy~
+a Deputy~
+A young deputy is here.
+~
+They look vibrant and full of life as if never even seen any action in
+their entire lives.    
+~
+4232 0 0 0 0 0 0 0 50 E
+23 9 8 1d23+1600 1d4+15
+150 13903
+8 8 0
+BareHandAttack: 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 25
+Luck: 12
+Class: 10
+Race: 14
+E
+#6756
+cat wildcat~
+the fearless Wildcat~
+A fearless wildcat is waiting here patiently.
+~
+Though this cat has a wild look in its eyes, it waits here patiently
+for something to happen.    
+~
+8 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 2
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 21
+Luck: 12
+Race: 1
+E
+#6757
+hawk~
+a Hawk~
+A hawk waits faithfully for an order to be given.
+~
+This beautiful winged creature is faithful only to it's master.  
+Don't mess with it, it may decide to peck your eyes out!    
+~
+8 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 20
+Luck: 12
+Race: 3
+E
+#6758
+teleport operator man~
+the Teleport Operator~
+A man in a Mage's Guild robe awaits to teleport you to your desired locale.
+~
+His manner and bearing are both that of a perfect gentleman and
+professional.  It seems the Mage's Guild in this town must have a hard
+time making the rent payment, so they rely heavily on the business
+from this shop to support most of their payment.    
+~
+16395 0 0 0 2128 0 0 0 0 E
+60 37 -36 1d60+7100 5d6+40
+1000 160325
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 20
+Luck: 12
+Class: 1
+Race: 14
+E
+#6759
+newbie helper Alaantra~
+Alaantra the Newbie Helper~
+Alaantra the Newbie Helper is here, helping newbies go to the Newbie Headquarters.
+~
+She smiles charmingly at you and says, /cr'I can get you to the Newbie
+Headquarters in a snap - just type NEWBIE and you will be instantly
+transported.  '/c0
+~
+16395 0 0 0 2384 0 0 0 0 E
+200 204 -100 1d200+24000 40d45+133
+0 3799580
+8 8 2
+BareHandAttack: 12
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 19
+Luck: 12
+Class: 2
+Race: 14
+E
+T 3000
+#6760
+banker~
+the City Banker~
+The city banker waits impatiently behind the counter.
+~
+He sneers a welcome at you and asks in a nasal voice if he might be
+able to help you.    
+~
+16458 0 0 0 2128 0 0 0 -300 E
+50 29 -28 1d50+6000 5d5+33
+750 100714
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 18
+Luck: 12
+Race: 14
+E
+$

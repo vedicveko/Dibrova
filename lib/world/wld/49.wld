@@ -1,0 +1,1391 @@
+#4900
+Lower Trunk of the Great Tree~
+The base of the Great Tree lies below, the newbie area just a short
+jump from the trunk upon which you precariously cling.  Up above are
+the many branchings of the Great Tree, the system of branches making a
+veritable highway in the sky where movement can be seen from the many
+creatures which inhabit the tree even from here.  A hole in the trunk
+opens up into the tree northward, a small home visible inside.    
+~
+49 4 0 0 0 3
+D0
+~
+door~
+1 0 4904 3
+D4
+~
+~
+0 0 4901 0
+D5
+~
+~
+0 0 3068 0
+S
+#4901
+On the Trunk at the Lower Branch System~
+The tree's branches open out wide and full over the entire newbie
+area, making it possible to wander about the tree limbs, looking down
+upon Dibrova's world.  The way down to the main Newbie Area lies just
+below, a steady climb upward is also possible.  Branches lead out in
+every direction.    
+~
+49 4 0 0 0 3
+D0
+~
+~
+0 0 4906 0
+D1
+~
+~
+0 0 4908 0
+D2
+~
+~
+0 0 4910 0
+D3
+~
+~
+0 0 4912 0
+D4
+~
+~
+0 0 4902 0
+D5
+~
+~
+0 0 4900 0
+S
+#4902
+On the Trunk at Mid Branch System~
+The tree's branches open out wide and full over the entire newbie
+area, making it possible to wander about the tree limbs, looking down
+upon Dibrova's world.  The way down to the main Newbie Area lies just
+below, a steady climb upward is also possible.  Branches lead out in
+every direction.    
+~
+49 4 0 0 0 3
+D0
+~
+~
+0 0 4930 0
+D1
+~
+~
+0 0 4932 0
+D2
+~
+~
+0 0 4934 0
+D3
+~
+~
+0 0 4936 0
+D4
+~
+~
+0 0 4903 0
+D5
+~
+~
+0 0 4901 0
+S
+#4903
+On the Trunk at the Upper Branch System~
+This is as far up as is safely possible within the Great Tree.  The
+trunk above this point is not strong enough to hold any substantial
+weight.  Branches lead off in every direction, the upper branch system
+still just as strong as the branches below.    
+~
+49 4 0 0 0 3
+D0
+~
+~
+0 0 4954 0
+D1
+~
+~
+0 0 4956 0
+D2
+~
+~
+0 0 4958 0
+D3
+~
+~
+0 0 4960 0
+D5
+~
+~
+0 0 4902 0
+S
+#4904
+Inside the Trunk~
+This inner trunk has been carved out and made into a cozy little home
+complete with a lounge chair and small bed made from twigs and leaves.
+Another small chamber is connected to the north through a short
+archway.    
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4905 0
+D2
+~
+door~
+1 0 4900 3
+S
+#4905
+Inside the Trunk~
+This is the inner abode of a treant, a being made from the very
+essence of the tree in which it resides.  Only the most foolish would
+attempt to defy a treant within its own home.    
+~
+49 0 0 0 0 0
+D2
+~
+~
+0 0 4904 0
+S
+#4906
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off in every direction, the trunk
+being just to the south.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4915 0
+D1
+~
+~
+0 0 4907 0
+D2
+~
+~
+0 0 4901 0
+D3
+~
+~
+0 0 4913 0
+S
+#4907
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off to the south and the west from
+here.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4908 0
+D3
+~
+~
+0 0 4906 0
+S
+#4908
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off in every direction, the trunk
+being just to the west.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4907 0
+D1
+~
+~
+0 0 4918 0
+D2
+~
+~
+0 0 4909 0
+D3
+~
+~
+0 0 4901 0
+S
+#4909
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off to the north and the west from
+here.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4908 0
+D3
+~
+~
+0 0 4910 0
+S
+#4910
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off in every direction, the trunk
+being just to the north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4901 0
+D1
+~
+~
+0 0 4909 0
+D2
+~
+~
+0 0 4921 0
+D3
+~
+~
+0 0 4911 0
+S
+#4911
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off to the north and the east from
+here.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4912 0
+D1
+~
+~
+0 0 4910 0
+S
+#4912
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off in every direction, the trunk
+being just to the east.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4913 0
+D1
+~
+~
+0 0 4901 0
+D2
+~
+~
+0 0 4911 0
+D3
+~
+~
+0 0 4924 0
+S
+#4913
+Traveling the Inner Branches~
+The branches here are very strong and thick due to their proximity to
+the trunk itself.  Branchings lead off to the south and the east from
+here.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4906 0
+D2
+~
+~
+0 0 4912 0
+S
+#4914
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the tree lies to the east.  
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4915 0
+S
+#4915
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+Exits lead in every direction via the branch system, the inner
+branches lie just to the south.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4926 0
+D1
+~
+~
+0 0 4916 0
+D2
+~
+~
+0 0 4906 0
+D3
+~
+~
+0 0 4914 0
+S
+#4916
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the tree lies to the west.  
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4915 0
+S
+#4917
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+south.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4918 0
+S
+#4918
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+Exits lead in every direction via the branch system, the inner
+branches lie just to the west.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4917 0
+D1
+~
+~
+0 0 4927 0
+D2
+~
+~
+0 0 4919 0
+D3
+~
+~
+0 0 4908 0
+S
+#4919
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4918 0
+S
+#4920
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+west.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4921 0
+S
+#4921
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+Exits lead in every direction via the branch system, the inner
+branches lie just to the north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4910 0
+D1
+~
+~
+0 0 4920 0
+D2
+~
+~
+0 0 4928 0
+D3
+~
+~
+0 0 4922 0
+S
+#4922
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+east.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4921 0
+S
+#4923
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4924 0
+S
+#4924
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+Exits lead in every direction via the branch system, the inner
+branches lie just to the east.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4925 0
+D1
+~
+~
+0 0 4912 0
+D2
+~
+~
+0 0 4923 0
+D3
+~
+~
+0 0 4929 0
+S
+#4925
+The Outer Branches~
+The branches are still strong enough to hold a good amount of weight,
+however it would not be recommended that the limits be pushed too far.
+The only way back to another section of the Great Tree lies to the
+south.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4924 0
+S
+#4926
+Out on a Limb~
+Although the current level of height is not as high as it could be,
+judging from the branches that can be seen overhead, it still seems
+quite high when standing at the end of this tree limb, feeling it sway
+in the breeze.  The way back lies south.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4915 0
+S
+#4927
+Out on a Limb~
+Although the current level of height is not as high as it could be,
+judging from the branches that can be seen overhead, it still seems
+quite high when standing at the end of this tree limb, feeling it sway
+in the breeze.  The way back lies west.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4918 0
+S
+#4928
+Out on a Limb~
+Although the current level of height is not as high as it could be,
+judging from the branches that can be seen overhead, it still seems
+quite high when standing at the end of this tree limb, feeling it sway
+in the breeze.  The way back lies north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4921 0
+S
+#4929
+Out on a Limb~
+Although the current level of height is not as high as it could be,
+judging from the branches that can be seen overhead, it still seems
+quite high when standing at the end of this tree limb, feeling it sway
+in the breeze.  The way back lies east.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4924 0
+S
+#4930
+Traveling the Inner Branches~
+The branches lead out from the trunk of the tree, about halfway up
+from the ground at this point.  The branches are still very strong,
+able to hold enormous weight if needed.  Exits lead in every
+direction, the main trunk just to the south.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4939 0
+D1
+~
+~
+0 0 4931 0
+D2
+~
+~
+0 0 4902 0
+D3
+~
+~
+0 0 4937 0
+S
+#4931
+Traveling the Inner Branches~
+The branches of the Great Tree span a very large area, allowing homes
+for a number of exotic creatures which somehow coexist within this
+tree in peace.  Branchings lie to the south and the west.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4932 0
+D3
+~
+~
+0 0 4930 0
+S
+#4932
+Traveling the Inner Branches~
+The branches lead out from the trunk of the tree, about halfway up
+from the ground at this point.  The branches are still very strong,
+able to hold enormous weight if needed.  Exits lead in every
+direction, the main trunk just to the west.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4931 0
+D1
+~
+~
+0 0 4942 0
+D2
+~
+~
+0 0 4933 0
+D3
+~
+~
+0 0 4902 0
+S
+#4933
+Traveling the Inner Branches~
+The branches of the Great Tree span a very large area, allowing homes
+for a number of exotic creatures which somehow coexist within this
+tree in peace.  Branchings lie to the north and the west.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4932 0
+D3
+~
+~
+0 0 4934 0
+S
+#4934
+Traveling the Inner Branches~
+The branches lead out from the trunk of the tree, about halfway up
+from the ground at this point.  The branches are still very strong,
+able to hold enormous weight if needed.  Exits lead in every
+direction, the main trunk just to the north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4902 0
+D1
+~
+~
+0 0 4933 0
+D2
+~
+~
+0 0 4945 0
+D3
+~
+~
+0 0 4935 0
+S
+#4935
+Traveling the Inner Branches~
+The branches of the Great Tree span a very large area, allowing homes
+for a number of exotic creatures which somehow coexist within this
+tree in peace.  Branchings lie to the north and the east.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4936 0
+D1
+~
+~
+0 0 4934 0
+S
+#4936
+Traveling the Inner Branches~
+The branches lead out from the trunk of the tree, about halfway up
+from the ground at this point.  The branches are still very strong,
+able to hold enormous weight if needed.  Exits lead in every
+direction, the main trunk just to the east.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4937 0
+D1
+~
+~
+0 0 4902 0
+D2
+~
+~
+0 0 4935 0
+D3
+~
+~
+0 0 4948 0
+S
+#4937
+Traveling the Inner Branches~
+The branches of the Great Tree span a very large area, allowing homes
+for a number of exotic creatures which somehow coexist within this
+tree in peace.  Branchings lie to the south and the east.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4930 0
+D2
+~
+~
+0 0 4936 0
+S
+#4938
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only way back along a branch is to the east.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4939 0
+S
+#4939
+The Outer Branches~
+The branches lead off in every direction from this point, the only
+solid-looking pathway along the branches is to the south.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4950 0
+D1
+~
+~
+0 0 4940 0
+D2
+~
+~
+0 0 4930 0
+D3
+~
+~
+0 0 4938 0
+S
+#4940
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+west.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4939 0
+S
+#4941
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+south.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4942 0
+S
+#4942
+The Outer Branches~
+The branches lead off in every direction from this point, the only
+solid-looking pathway along the branches is to the west.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4941 0
+D1
+~
+~
+0 0 4951 0
+D2
+~
+~
+0 0 4943 0
+D3
+~
+~
+0 0 4932 0
+S
+#4943
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4942 0
+S
+#4944
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+west.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4945 0
+S
+#4945
+The Outer Branches~
+The branches lead off in every direction from this point, the only
+solid-looking pathway along the branches is to the north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4934 0
+D1
+~
+~
+0 0 4944 0
+D2
+~
+~
+0 0 4952 0
+D3
+~
+~
+0 0 4946 0
+S
+#4946
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+east.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4945 0
+S
+#4947
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+north.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4948 0
+S
+#4948
+The Outer Branches~
+The branches lead off in every direction from this point, the only
+solid-looking pathway along the branches is to the east.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4949 0
+D1
+~
+~
+0 0 4936 0
+D2
+~
+~
+0 0 4947 0
+D3
+~
+~
+0 0 4953 0
+S
+#4949
+The Outer Branches~
+The drop down below is a bit further than would be comfortable, bit in
+glancing up higher it is seen that there is still more height to be
+attained.  The only direction to travel is back along a branch to the
+south.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4948 0
+S
+#4950
+Out on a Limb~
+The branch comes to a dead end, hanging high above the newbie area.  
+The branch continues out a bit further, however is is certainly not
+strong enough to hold any large amount of weight.  The only direction
+to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4939 0
+S
+#4951
+Out on a Limb~
+The branch comes to a dead end, hanging high above the newbie area.  
+The branch continues out a bit further, however is is certainly not
+strong enough to hold any large amount of weight.  The only direction
+to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4942 0
+S
+#4952
+Out on a Limb~
+The branch comes to a dead end, hanging high above the newbie area.  
+The branch continues out a bit further, however is is certainly not
+strong enough to hold any large amount of weight.  The only direction
+to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4945 0
+S
+#4953
+Out on a Limb~
+The branch comes to a dead end, hanging high above the newbie area.  
+The branch continues out a bit further, however is is certainly not
+strong enough to hold any large amount of weight.  The only direction
+to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4948 0
+S
+#4954
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4963 0
+D1
+~
+~
+0 0 4955 0
+D2
+~
+~
+0 0 4903 0
+D3
+~
+~
+0 0 4961 0
+S
+#4955
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4956 0
+D3
+~
+~
+0 0 4954 0
+S
+#4956
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4955 0
+D1
+~
+~
+0 0 4966 0
+D2
+~
+~
+0 0 4957 0
+D3
+~
+~
+0 0 4903 0
+S
+#4957
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4956 0
+D3
+~
+~
+0 0 4958 0
+S
+#4958
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4903 0
+D1
+~
+~
+0 0 4957 0
+D2
+~
+~
+0 0 4969 0
+D3
+~
+~
+0 0 4959 0
+S
+#4959
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4960 0
+D1
+~
+~
+0 0 4958 0
+S
+#4960
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4961 0
+D1
+~
+~
+0 0 4903 0
+D2
+~
+~
+0 0 4959 0
+D3
+~
+~
+0 0 4972 0
+S
+#4961
+Traveling the Inner Branches~
+These are the strongest of the upper branches, easily as thick as a
+giant's armspan.  Still, even with the strength of the Tree's trunk so
+close and the thickness of the branches themselves, they sway
+alarmingly with the wind.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4954 0
+D2
+~
+~
+0 0 4960 0
+S
+#4962
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4963 0
+S
+#4963
+The Outer Branches~
+The steady swaying of the Tree from the winds which buffet it at this
+altitude is strangely pacific, a very nonassuming sway which is
+absolutely no cause for alarm.  Branches of the Tree lie in every
+direction.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4974 0
+D1
+~
+~
+0 0 4964 0
+D2
+~
+~
+0 0 4954 0
+D3
+~
+~
+0 0 4962 0
+S
+#4964
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4963 0
+S
+#4965
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4966 0
+S
+#4966
+The Outer Branches~
+The steady swaying of the Tree from the winds which buffet it at this
+altitude is strangely pacific, a very nonassuming sway which is
+absolutely no cause for alarm.  Branches of the Tree lie in every
+direction.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4965 0
+D1
+~
+~
+0 0 4975 0
+D2
+~
+~
+0 0 4967 0
+D3
+~
+~
+0 0 4956 0
+S
+#4967
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4966 0
+S
+#4968
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4969 0
+S
+#4969
+The Outer Branches~
+The steady swaying of the Tree from the winds which buffet it at this
+altitude is strangely pacific, a very nonassuming sway which is
+absolutely no cause for alarm.  Branches of the Tree lie in every
+direction.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4958 0
+D1
+~
+~
+0 0 4968 0
+D2
+~
+~
+0 0 4976 0
+D3
+~
+~
+0 0 4970 0
+S
+#4970
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4969 0
+S
+#4971
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4972 0
+S
+#4972
+The Outer Branches~
+The steady swaying of the Tree from the winds which buffet it at this
+altitude is strangely pacific, a very nonassuming sway which is
+absolutely no cause for alarm.  Branches of the Tree lie in every
+direction.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4973 0
+D1
+~
+~
+0 0 4960 0
+D2
+~
+~
+0 0 4971 0
+D3
+~
+~
+0 0 4977 0
+S
+#4973
+The Outer Branches~
+The top of the Great Tree is a beautiful, stunning panorama of views
+and vistas which look out over the entire world in all its splendor.
+A slow wind blows by, ruffling the leaves all around, causing the
+branches to sway ever so slightly.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4972 0
+S
+#4974
+Out on a Limb~
+This is the absolute limit of the Tree's reach in both height and
+direction.  The only way to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D2
+~
+~
+0 0 4963 0
+S
+#4975
+Out on a Limb~
+This is the absolute limit of the Tree's reach in both height and
+direction.  The only way to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D3
+~
+~
+0 0 4966 0
+S
+#4976
+Out on a Limb~
+This is the absolute limit of the Tree's reach in both height and
+direction.  The only way to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4969 0
+S
+#4977
+Out on a Limb~
+This is the absolute limit of the Tree's reach in both height and
+direction.  The only way to go is back toward the trunk.    
+~
+49 0 0 0 0 3
+D1
+~
+~
+0 0 4972 0
+S
+$~

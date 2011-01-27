@@ -1,0 +1,55 @@
+#9201
+book red~
+/cwa /crred /cwbook/c0~
+/cwA dusty /crred /cwbook is laying here./c0~
+A dark cloud suddenly obscures everything in sight as the scroll vanishes!
+~
+2 65600 0 0 0 16385 0 0 0
+29 67 75 0 0 0 0 0
+5 2101 0 29 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+book red~
+The hands of Time can rule the world.~
+#9202
+flask glass~
+/cwa colorless flask/c0~
+/cwA flask used to hold various liquids has been left here./c0~
+Nothing.
+~
+17 64 0 0 0 16385 0 0 0
+10 10 0 0 0 0 0 0
+15 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+flask~
+This flask seems to almost be opaque but at the same time has a
+solidity that is almost alarming.  It is definately a very magical
+item.    
+~
+A
+5 2
+#9203
+canoe~
+/cwa canoe/c0~
+/cwA canoe has been left here./c0~
+Nothing.
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+21 140 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+canoe~
+The canoe is fairly light.
+~
+#9299
+deed ocean~
+the deed to the Ocean~
+A deed has been left here.~
+~
+28 0 0 0 0 16385 0 0 0
+92 0 0 0 0 0 0 0
+1 7500000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+$~

@@ -1,0 +1,948 @@
+#18700
+elf mage~
+the Elven Mage~
+A tiny elven mage is floating behind the counter.
+~
+You notice a tired look on his face.
+~
+24586 0 0 0 2128 0 8 0 900 E
+85 61 -40 1d1+30000 6d7+56
+3200 389703
+8 8 1
+Str: 14
+Dex: 13
+Int: 23
+Wis: 20
+Con: 7
+Cha: 9
+Luck: 14
+Class: 1
+Race: 15
+E
+#18701
+Dios~
+Dios the Weaponsmith~
+Dios the Weaponsmith is standing here.
+~
+He is middle-aged, yet fit, having lugged around anvils all his life.
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+3200 389703
+8 8 1
+Str: 14
+Dex: 16
+Int: 19
+Wis: 7
+Con: 24
+Cha: 9
+Luck: 18
+Class: 4
+Race: 15
+E
+#18702
+Denek~
+Denek the Armorer~
+Denek stands here, displaying his fine wares.
+~
+Denek is a retired elven ranger.  Multitudes of scars on his body
+offer proof of his prowess in battle.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+3200 389703
+8 8 1
+Str: 22
+Dex: 6
+Int: 9
+Wis: 8
+Con: 17
+Cha: 17
+Luck: 12
+Class: 5
+Race: 15
+E
+#18703
+Receptionist~
+the Receptionist~
+The receptionist is sitting at her desk, smiling at you.
+~
+She's cute, at least for an elf.
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+3200 389703
+6 6 2
+Str: 24
+Int: 21
+Cha: 25
+Luck: 14
+Class: 11
+Race: 15
+E
+#18704
+Guild master master mage~
+the Mage Guildmaster~
+The Elven Mage is here reading his tome.
+~
+Even though your guild master looks old and tired, you can clearly see
+the vast amount of knowledge she possesses.  She is wearing fine magic
+clothing, and you notice that she is surrounded by a blue shimmering
+aura.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 15
+Dex: 18
+Int: 7
+Wis: 23
+Con: 15
+Cha: 14
+Luck: 13
+Class: 4
+Race: 15
+E
+#18705
+Guild master master priest~
+the Priest Guildmaster~
+The Priest Guildmaster is here, praying to his god.
+~
+You are in no doubt that this guild master is truly close to your God;
+he has a peaceful, loving look.  You notice that he is surrounded by a
+white aura.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 24
+Dex: 24
+Int: 23
+Wis: 14
+Con: 7
+Cha: 19
+Luck: 16
+Class: 4
+Race: 15
+E
+#18706
+guild master master beggar thief~
+the Thieven Guildmaster~
+A beggar is sitting here, could she be a guildmaster?
+~
+You realize that whenever your guild master moves, you fail to notice
+it - the way of the true thief.  She is to be dressed in poor
+clothing, having the appearance of a beggar.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 2
+Str: 9
+Dex: 19
+Int: 18
+Wis: 6
+Con: 18
+Cha: 7
+Luck: 17
+Class: 4
+Race: 15
+E
+#18707
+guild master master~
+the Warrior Guildmaster~
+The Guildmaster of Combat is standing here, sharpening an axe.
+~
+This is your master.  Big and strong with bulging muscles.  Several
+scars across his body proves that he was using arms before you were
+born.  He has a calm look on his face.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 8
+Dex: 17
+Int: 25
+Wis: 25
+Con: 19
+Cha: 13
+Luck: 21
+Class: 4
+Race: 15
+E
+#18708
+Leeve~
+Leeve the Bartender~
+Leeve stands behind the bar washing out glasses
+~
+Leeve looks like he works to much.
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+3200 389703
+8 8 1
+Str: 25
+Int: 14
+Wis: 7
+Con: 17
+Luck: 12
+Class: 4
+Race: 15
+E
+#18709
+janitor~
+the Janitor~
+A janitor is walking around, cleaning up.
+~
+Three years without a day off? You would be pretty pissed too.
+~
+26696 0 0 0 2064 0 0 0 900 E
+50 29 -28 1d1+30000 5d5+33
+1550 100714
+8 8 1
+Str: 17
+Dex: 20
+Int: 20
+Wis: 22
+Con: 5
+Cha: 12
+Luck: 14
+Class: 12
+Race: 15
+E
+#18710
+constable Elven~
+the Constable~
+A constable is standing here, ready to jump in at the first sign of trouble.
+~
+He looks very strong and wise.  Looks like he doesn't answer to ANYONE.
+~
+555080 0 0 0 33556496 131072 0 0 900 E
+105 82 -40 1d1+30000 10d11+70
+3250 667958
+8 8 1
+BareHandAttack: 13
+Str: 15
+Dex: 25
+Int: 20
+Wis: 7
+Con: 12
+Cha: 25
+Luck: 24
+Class: 4
+Race: 15
+E
+#18711
+sparrow~
+a Sparrow~
+A sparrow is flitting about looking for food.
+~
+The sparrow looks like it is enjoying life.
+~
+24648 0 0 0 2048 0 0 0 900 E
+3 0 88 1d1+30000 1d1+2
+0 77
+8 8 1
+Str: 15
+Dex: 21
+Int: 7
+Wis: 15
+Con: 19
+Luck: 25
+Race: 3
+E
+#18712
+chipmunk~
+a small Chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+The absolute zenith of hyper activity, this small rodent seems to
+never tire of running up, down, and around the trees in this area.  
+If you could ever catch it, you imagine it would make an easy meal.  
+~
+24648 0 0 0 2048 0 0 0 900 E
+4 0 84 1d1+30000 1d2+2
+0 160
+8 8 1
+Str: 8
+Dex: 22
+Int: 15
+Wis: 9
+Con: 9
+Cha: 20
+Luck: 22
+Race: 1
+E
+#18713
+Quele~
+Quele the Shopkeeper~
+Quele stands behind the counter waiting for you to buy something 
+~
+Quele is getting a little grey behind the ears.
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+3200 589815
+8 8 1
+Str: 15
+Dex: 20
+Int: 14
+Wis: 12
+Con: 10
+Cha: 16
+Luck: 8
+Class: 4
+Race: 15
+E
+#18714
+citizen~
+a Citizen of Thewster~
+A citizen of Thewster is walking about.
+~
+A typical Elven fellow.
+~
+63560 0 0 0 2064 0 0 0 900 E
+70 47 -40 1d1+30000 6d6+46
+2500 237528
+8 8 1
+Str: 16
+Dex: 9
+Int: 25
+Wis: 25
+Con: 5
+Cha: 5
+Luck: 24
+Class: 12
+Race: 15
+E
+#18715
+waiter~
+the Waiter~
+A waiter is here ready to take your order.
+~
+A short fat man.
+~
+24586 0 0 0 2064 0 0 0 900 E
+60 37 -36 1d1+30000 5d6+40
+2000 160325
+8 8 1
+Str: 10
+Dex: 19
+Wis: 10
+Con: 17
+Cha: 16
+Luck: 6
+Class: 12
+Race: 15
+E
+#18716
+horse~
+a Horse~
+A horse is here awaiting a rider.
+~
+A tall brown horse, that looks like it's had a good life.
+~
+286730 0 0 0 2048 0 0 0 900 E
+15 5 40 1d1+30000 1d3+10
+0 4674
+8 8 1
+Str: 23
+Dex: 24
+Int: 19
+Con: 17
+Cha: 8
+Luck: 9
+Race: 52
+E
+#18717
+nag old~
+an old Nag~
+An old nag is here awaiting a rider.
+~
+An old greying horse, he's well past his years.
+~
+286730 0 0 0 2048 0 0 0 900 E
+9 2 64 1d1+30000 1d2+6
+0 1270
+8 8 1
+Str: 19
+Dex: 8
+Int: 20
+Wis: 24
+Con: 5
+Cha: 24
+Luck: 12
+Race: 1
+E
+#18718
+donkey ass~
+a Donkey~
+A donkey is here awaiting a rider.
+~
+A small brown donkey.
+~
+286730 0 0 0 2048 0 0 0 900 E
+13 4 48 1d1+30000 1d2+8
+0 3245
+8 8 1
+BareHandAttack: 7
+Str: 18
+Dex: 13
+Int: 18
+Wis: 19
+Con: 22
+Cha: 10
+Luck: 15
+Race: 1
+E
+#18719
+guild master knight master~
+the Knight Guildmaster~
+The Guildmaster of Knights is here, showing the defensive arts.
+~
+He is a specially trained warrior belonging to the military order of
+the Faith.  His duty is to protect the faithful from persecution and
+infidel attacks and his religious devotion combined with his superior
+skill makes him a deadly opponent.    
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 25
+Dex: 14
+Int: 5
+Wis: 19
+Luck: 16
+Class: 6
+Race: 15
+E
+#18720
+guild guard~
+a Guild Guard~
+A guild guard is here.
+~
+He is an expert warrior who has a duty to protect the guilds
+~
+26634 0 0 0 2384 131074 0 0 900 E
+90 66 -40 1d1+30000 6d7+60
+0 495937
+8 8 1
+BareHandAttack: 5
+Str: 21
+Dex: 15
+Int: 17
+Wis: 22
+Con: 17
+Cha: 18
+Luck: 14
+Class: 4
+Race: 15
+E
+#18721
+guild master monk master~
+the Monk Guildmaster~
+The Monk Guildmaster is here, playing with a small cloud.
+~
+He is a small diminutive man, but don't let appearances fool you.
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 21
+Dex: 25
+Int: 21
+Wis: 24
+Cha: 19
+Luck: 10
+Class: 8
+Race: 15
+E
+#18722
+guild master ranger master~
+the Ranger Guildmaster~
+The Ranger Guildmaster is here, tracking a student.
+~
+A tall lean man from many days on the trail.
+~
+24586 0 0 0 2128 0 0 0 900 E
+100 77 -40 1d1+30000 9d10+66
+0 589815
+8 8 1
+Str: 8
+Dex: 17
+Int: 8
+Wis: 8
+Con: 23
+Cha: 14
+Luck: 16
+Class: 5
+Race: 15
+E
+#18723
+elf child~
+an Elven Child~
+An Elven child plays here.
+~
+Small and cute, he romps about playfully.
+~
+28744 0 0 0 2048 0 0 0 900 E
+46 26 -24 1d1+30000 5d5+30
+1450 81423
+8 8 1
+Str: 20
+Dex: 22
+Int: 9
+Wis: 9
+Con: 20
+Cha: 24
+Luck: 8
+Class: 12
+Race: 15
+E
+#18724
+Que'tos captian guard~
+Que'tos~
+Que'tos the Captian of the Guard sits behind his desk.
+~
+He is a lithe elf, wise and wary.
+~
+718858 0 0 0 34080848 0 0 0 900 E
+110 88 -40 1d1+30000 11d12+73
+3400 752086
+6 6 1
+BareHandAttack: 3
+Str: 21
+Dex: 15
+Int: 14
+Wis: 8
+Con: 14
+Cha: 16
+Luck: 19
+Class: 4
+Race: 15
+E
+#18725
+sion~
+Sion~
+Sion is waiting for you to order.
+~
+He is a young fairy fellow, largely unexperienced in life.
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+0 389703
+8 8 1
+Str: 5
+Dex: 16
+Int: 13
+Wis: 10
+Con: 20
+Cha: 14
+Luck: 20
+Class: 4
+Race: 24
+E
+#18726
+old elf~
+the old Elf~
+An old Elf sits behind a counter.
+~
+Geez, this guy is old.
+~
+24586 0 0 0 2128 0 0 0 900 E
+85 61 -40 1d1+30000 6d7+56
+0 389703
+8 8 1
+Str: 18
+Dex: 7
+Int: 16
+Wis: 21
+Con: 9
+Cha: 9
+Luck: 15
+Class: 4
+Race: 15
+E
+#18727
+senile elf~
+the old senile Elf~
+An old senile Elf rocks back and forth in his chair.
+~
+Geez, this guy is old.
+~
+26634 0 0 0 2048 0 0 0 900 E
+79 55 -40 1d1+30000 6d7+52
+2950 323344
+8 8 1
+Str: 14
+Dex: 7
+Int: 14
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 20
+Class: 12
+Race: 15
+E
+#18728
+elf Elven guard~
+an Elven Guard~
+An Elven guard stands here, watching for trouble.
+~
+Sly eyes belie his deadly prowess at keeping the peace.
+~
+776202 0 0 0 33556560 131072 0 0 900 E
+98 75 -40 1d1+30000 6d8+65
+3200 560199
+8 8 1
+Str: 25
+Dex: 23
+Int: 18
+Wis: 9
+Con: 25
+Cha: 12
+Luck: 9
+Class: 4
+Race: 15
+E
+#18729
+elf Elven guard~
+an Elven guard~
+An Elven guard stands here, watching for trouble.
+~
+He seems well-prepared and alert to any danger.
+~
+645130 0 0 0 33556496 131072 0 0 900 E
+98 75 -40 1d1+30000 6d8+65
+3200 560199
+8 8 1
+Str: 24
+Dex: 14
+Int: 6
+Wis: 20
+Con: 6
+Cha: 17
+Luck: 19
+Class: 10
+Race: 15
+E
+#18730
+sparrow~
+a Sparrow~
+A small sparrow pecks around for food.
+~
+undefined
+~
+24648 0 0 0 2048 0 0 0 900 E
+2 0 92 1d1+30000 1d1+1
+0 27
+8 8 1
+Dex: 14
+Int: 23
+Wis: 24
+Con: 7
+Cha: 9
+Luck: 14
+Race: 3
+E
+#18731
+fairy~
+a Fairy~
+A fairy flits about.
+~
+She is small and petite.  Her wings shine like glossamer silk
+glistening in the morning sun after the mist has lifted.    
+~
+120904 0 0 0 8388696 2 0 0 900 E
+66 43 -40 1d1+30000 6d6+44
+2300 204434
+8 8 2
+BareHandAttack: 15
+Str: 20
+Dex: 14
+Int: 18
+Wis: 18
+Con: 9
+Cha: 8
+Luck: 16
+Class: 1
+Race: 24
+E
+#18732
+elf~
+an Elf~
+An Elf walks around, being nonchalant.
+~
+Plain and simply an elf.
+~
+26696 0 0 0 2048 0 0 0 900 E
+73 49 -40 1d1+30000 6d6+48
+2650 264356
+8 8 1
+BareHandAttack: 13
+Str: 6
+Dex: 6
+Int: 12
+Wis: 8
+Cha: 21
+Luck: 23
+Class: 12
+Race: 15
+E
+#18733
+spider~
+the small black spider~
+A small black spider skitters about.
+~
+It is a little spider with big fangs and six glowing red eyes.
+~
+16801864 0 0 0 2048 0 0 0 900 E
+5 1 80 1d1+30000 1d2+3
+0 283
+8 8 1
+BareHandAttack: 1
+Str: 9
+Dex: 10
+Int: 20
+Wis: 7
+Cha: 7
+Luck: 19
+Race: 46
+E
+#18734
+worm~
+a slimy Worm~
+A slimy worm slithers for cover.
+~
+It drips slime as it moves............
+~
+24648 0 0 0 2048 0 0 0 900 E
+2 0 92 1d1+30000 1d1+1
+0 27
+8 8 1
+BareHandAttack: 10
+Str: 7
+Dex: 19
+Int: 23
+Wis: 8
+Con: 13
+Cha: 8
+Luck: 21
+Race: 5
+E
+#18735
+rat~
+a Rat~
+A little rat looks for a place to hide.
+~
+Sharp dagger like teeth glisten in the gloom.
+~
+24648 0 0 0 2048 0 0 0 900 E
+4 0 84 1d1+30000 1d2+2
+0 160
+8 8 1
+BareHandAttack: 4
+Str: 18
+Dex: 23
+Int: 10
+Wis: 6
+Con: 5
+Cha: 8
+Luck: 13
+Race: 1
+E
+#18736
+bat~
+a Bat~
+A bat is hanging from the ceiling.
+~
+Furry and sporting leathery wings, it's a typical bat of the woods.
+~
+16394 0 0 0 2048 0 0 0 900 E
+4 0 84 1d1+30000 1d2+2
+0 160
+8 8 1
+BareHandAttack: 4
+Str: 22
+Dex: 18
+Int: 23
+Wis: 20
+Con: 14
+Cha: 25
+Race: 3
+E
+#18737
+snake big green~
+a Snake~
+A big green snake is coiled here.
+~
+Slender, yet agile, the snake prowls the woods for food.
+~
+16456 0 0 0 2048 0 0 0 900 E
+8 2 68 1d1+30000 1d2+5
+0 941
+8 8 1
+BareHandAttack: 6
+Str: 12
+Int: 24
+Wis: 17
+Con: 14
+Cha: 17
+Luck: 14
+Race: 2
+E
+#18738
+baby dragon~
+a baby Dragon~
+A baby dragon is standing here.
+~
+Awwwww... How cute!
+~
+256010 0 0 0 33556560 131074 0 0 900 E
+103 80 -40 1d1+30000 10d10+68
+3200 635991
+8 8 1
+Str: 12
+Dex: 23
+Int: 24
+Wis: 6
+Con: 5
+Cha: 22
+Luck: 17
+Race: 9
+E
+#18739
+rat man ratman scout~
+a Ratman Scout~
+A ratman scout patrols here.
+~
+It has the body of a human, but the face of a rat.
+~
+555080 0 0 0 34080784 0 0 0 900 E
+109 87 -40 1d1+30000 11d12+72
+3350 734774
+8 8 1
+BareHandAttack: 14
+Str: 21
+Int: 17
+Wis: 24
+Con: 5
+Cha: 22
+Luck: 6
+Class: 3
+Race: 39
+E
+#18740
+rat man ratman smelly~
+a smelly Ratman~
+A smelly ratman scavenges for food.
+~
+It is smaller than the average ratman, but slightly more dangerous due
+to it's desperation and maniac actions.    
+~
+30792 0 0 0 2064 0 0 0 900 E
+106 84 -40 1d1+30000 10d11+70
+3250 684299
+8 8 1
+BareHandAttack: 8
+Str: 16
+Dex: 17
+Int: 8
+Wis: 6
+Con: 21
+Cha: 8
+Luck: 17
+Class: 3
+Race: 39
+E
+#18741
+snake big green~
+a Snake~
+A big green snake is coiled here.
+~
+It's the average snake.
+~
+24648 0 0 0 2048 0 0 0 900 E
+9 2 64 1d1+30000 1d2+6
+0 1270
+8 8 1
+BareHandAttack: 4
+Str: 14
+Dex: 10
+Int: 16
+Wis: 19
+Con: 6
+Cha: 16
+Luck: 23
+Race: 2
+E
+#18742
+ratman guard~
+a Ratman Guard~
+A ratman guard stands here.
+~
+Muscular and lithe, the ratman Guard is no rookie to dangerous
+situations.    
+~
+120842 0 0 0 2128 131074 0 0 900 E
+129 110 -60 1d1+30000 15d15+86
+3500 1129068
+8 8 1
+BareHandAttack: 8
+Str: 13
+Dex: 20
+Int: 17
+Wis: 9
+Cha: 24
+Luck: 12
+Class: 4
+Race: 39
+E
+#18743
+ratman king~
+the King of Ratmen~
+The ratman king stands here, directing his subjects.
+~
+Sly and mischevious, the King is a formidable opponent due to his
+craftiness and wisdom from surviving the streets.    
+~
+251914 0 0 0 2384 131072 0 0 900 E
+151 137 -60 1d1+30000 21d21+100
+5000 1855668
+8 8 1
+Str: 16
+Int: 25
+Wis: 8
+Con: 6
+Cha: 9
+Luck: 10
+Class: 3
+Race: 39
+E
+#18744
+ratman guard~
+a Ratman Sentry~
+A ratman Sentry stands here, alert to danger.
+~
+Lithe and quick on his feet, he is not to be crossed or taken lightly.
+~
+26634 0 0 0 2048 0 0 0 900 E
+137 120 -60 1d1+30000 16d17+91
+3900 1316297
+8 8 1
+Str: 20
+Dex: 19
+Int: 8
+Wis: 25
+Con: 25
+Cha: 16
+Luck: 18
+Class: 4
+Race: 39
+E
+$

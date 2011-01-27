@@ -1,0 +1,460 @@
+#5900
+x'raantra~
+X'Raantra~
+X'Raantra kneels on the blood-soaked floor, raising his arms high!
+~
+His eyes are tightly clenched closed, his right fist holding fast to a
+curved dagger held high to his God.  He sporatically mumbles words,
+garbled phrases or prayers which may or may not have meaning.    
+~
+530442 0 0 0 272 0 0 0 -200 E
+44 24 -24 1d44+2900 4d5+29
+600 79966
+8 8 1
+BareHandAttack: 14
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 15
+Luck: 12
+Class: 1
+Race: 20
+E
+#5901
+believer~
+a Believer~
+A believer kneels proudly besides his savior.
+~
+His eyes are a bit glazed over, blood spattered over the front of his
+grubby jerkin.  He never seems to lose sight of the blade which is
+raised high by X'Raantra in anticipation of the next kill.    
+~
+4107 0 0 0 0 0 0 0 -500 E
+29 13 -16 1d29+2200 3d3+19
+250 25109
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 10
+Luck: 12
+Race: 14
+E
+#5902
+man gibbering~
+a gibbering Man~
+A man is slouched against the wall, badly bleeding and broken.
+~
+He almost does not notice you from the pain that he is in, but then he
+obviously must have as he is trying to speak to you.    
+~
+11 0 0 0 0 0 0 0 200 E
+17 6 32 1d17+700 1d3+11
+75 6432
+1 1 1
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 24
+Luck: 12
+Race: 14
+E
+#5903
+elf retching~
+a retching Elf~
+An elf is curled up at the founatin's base, retching and vomiting terribly.
+~
+He looks up at you with terror-stricken eyes and pleads without words
+for you to help him, somehow help him.    
+~
+10 0 0 0 4112 0 0 0 500 E
+15 5 40 1d15+500 1d3+10
+50 4674
+6 6 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 16
+Luck: 12
+Race: 15
+E
+#5904
+woman~
+a Woman~
+A woman walks with a very deliberate gait across the courtyard.
+~
+She holds her tattered clothing tight against her as if she were cold
+or afraid of prying eyes.  It is certainly a gesture of fear or
+discomfort.    
+~
+2120 0 0 0 0 0 0 0 -200 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 2
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 14
+E
+#5905
+squatter man~
+a Squatter~
+A man lies on the floor, stretched out on a raggedy blanket.
+~
+He has a wealth of nasty stubble and the smell - it might be better
+not to talk about the smell.    
+~
+138 0 0 0 0 0 0 0 -200 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 14
+Luck: 12
+Race: 14
+E
+#5906
+child terrified~
+a terrified Child~
+A terrified child lies huddled in a corner, squinting against your light.
+~
+The child is wearing no clothes whatsoever and is covered in welts and
+bruises.  He couldn't be much more than ten or eleven years old.    
+~
+10 0 0 0 0 0 0 0 400 E
+12 3 52 1d12+300 1d2+8
+25 2646
+6 6 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 19
+Luck: 12
+Race: 14
+E
+#5907
+man weeping~
+a weeping Man~
+A man sits curled up in ball, weeping uncontrollably.
+~
+He alternates between rage and sadness - touching the mangled remains
+of his son's body, stroking the blood matted hair back from the cold,
+lifeless ears.    
+~
+10 0 0 0 0 0 0 0 100 E
+18 7 28 1d18+800 1d3+12
+100 7441
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 23
+Luck: 12
+Race: 14
+E
+#5908
+rat scurrying~
+a scurrying Rat~
+A rat scurries past, its feet clicking on the stone floor.
+~
+It looks very much like your every day typical disgusting rat.
+~
+72 0 0 0 16 0 0 0 0 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 14
+Luck: 12
+Race: 1
+E
+#5909
+gunter~
+Gunter~
+Gunter wanders the compound, spreading the word of the Chosen.
+~
+Gunter is a small, pale man who looks as if he may be a bit ill.  His
+main task which has raised him in the ranks of X'Raantra's Chosen, is
+to go out and Select the next of the Chosen.  It is quite an honor.  
+~
+16473 0 0 0 268517376 4194304 0 0 -700 E
+31 15 -20 1d31+2300 3d4+20
+300 29763
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 8
+Luck: 12
+Class: 2
+Race: 14
+E
+#5910
+man torturer~
+a Torturer~
+A man stands near the doorway, a hideous sneer on his face.
+~
+A horrid scar runs down the left side of his face, he looks you up and
+down and uncrosses his arms, readying his whip.    
+~
+67635210 0 0 0 33554448 0 0 0 -900 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 1
+BareHandAttack: 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 15
+Luck: 12
+Class: 9
+Race: 14
+E
+#5911
+man grubby~
+a grubby Man~
+A grubby man stands before the fire barrel, warming his hands.
+~
+He looks pitifully poverty-stricken, enough so that it is obvious at
+first glance.  He is covered in dirt and grime and has a few pussing
+welts on his face and hands.    
+~
+10 0 0 0 0 0 0 0 100 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Luck: 12
+Race: 14
+E
+#5912
+man seeker hooded~
+a Seeker~
+A man in a hooded cloak walks slowly by mumbling to himself.
+~
+The mumblings are not coherent, they are words spoken in garbled
+phrases, words that mean nothing.  They are the words of one who is
+delusioned beyond regainment of full mental faculties.    
+~
+6216 0 0 0 0 0 0 0 -300 E
+22 9 12 1d22+1400 1d4+14
+150 12413
+8 8 1
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 6
+Luck: 12
+Race: 14
+E
+#5913
+believer hidden~
+a hidden Believer~
+One of X'Raantra's Believers hides in the shadows.
+~
+The Believer notes your look with a look of her own, giving you a curt
+nod.    
+~
+11 0 0 0 1048576 0 0 0 -500 E
+24 10 4 1d24+1800 2d3+16
+150 15497
+8 8 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 17
+Luck: 12
+Class: 2
+Race: 14
+E
+#5914
+bat brown~
+a brown Bat~
+A bat dive bombs you, coming inches from your head!
+~
+It is hard to get a good look at the little fella, but that really
+doesn't matter, just aim for the blackish-brown blur.    
+~
+65640 0 0 0 8912896 0 0 0 0 E
+13 4 48 1d13+350 1d5+6
+0 3245
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 22
+Luck: 12
+Race: 3
+E
+#5915
+spider dirty hairy~
+a Hairy Spider~
+A small, hairy spider moves across the ground before you.
+~
+It is not an aggressive type of spider, nor is it large by any means -
+but it is a spider, nonetheless, and is digusting and wrong.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 1 72 1d7+125 1d2+3
+0 669
+8 8 0
+BareHandAttack: 4
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 16
+Luck: 12
+Race: 46
+E
+#5916
+deathknight knight dazed~
+a dazed DeathKnight~
+A DeathKnight wanders about, staggering in a daze.
+~
+He holds his weapon as if he had never used it before, a slight line
+of drool running from the left corner of his mouth.  His eyes hold a
+faraway, dazed look in them.    
+~
+72 0 0 0 0 0 0 0 -600 E
+21 8 16 1d21+1200 1d4+14
+150 11024
+8 8 1
+BareHandAttack: 3
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Class: 9
+Race: 14
+E
+#5917
+fellow adventurer~
+a fellow Adventurer~
+A man lies upon the floor, looking surprised to see you!
+~
+Looks like he was catching a nap where he thought he might be safe.
+~
+8388622 0 0 0 0 0 0 0 400 E
+32 15 -20 1d32+2325 3d4+21
+300 32273
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 21
+Luck: 12
+Race: 14
+E
+#5918
+wight blood humanoid~
+a Blood Wight~
+A humanoid is hunched over the corpse, hands and face dripping with blood.
+~
+This awful scavenger looks up at you with a snarl and spits some blood
+on you.  It goes back to its feast without another glance.    
+~
+10 0 0 0 1837060 0 0 0 -800 E
+27 12 -8 1d27+2100 2d4+18
+0 23018
+8 8 0
+BareHandAttack: 8
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 16
+Luck: 12
+Race: 49
+E
+#5919
+believer unrobed slobbering~
+the unrobed Believer~
+A Believer stands menacingly over the boy, a look of glee on his face.
+~
+The Believer looks as if this sort of sport were his passion, his only
+reason for living.  Indeed, it may be from the look of the boy's back.
+~
+10 0 0 0 0 0 0 0 -900 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 2
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Race: 14
+E
+#5920
+boy screaming crying~
+a screeching Boy~
+A boy is thrown over a desk, his shirt torn off and bleeding everywhere.
+~
+It appears that this man has been at this boy for some time.  The
+slashes across the boy's back are many and deep.    
+~
+16394 0 0 0 65536 4194304 0 0 100 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 7
+Luck: 12
+Race: 14
+E
+$

@@ -1,0 +1,502 @@
+#20000
+onion~
+an Onion~
+An onion is here making you cry.
+~
+This awful thing wobbles about the garden, a single tear falling down
+its outer peel.    
+~
+74 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20001
+twig~
+a Twig~
+A twig is running around
+~
+The little twig is running all around in the summer heat, hrmmm got a
+match
+~
+72 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20002
+giant sunflower~
+a giant Sunflower~
+A giant sunflower is here, growing even BIGGER!
+~
+Man this sunflower is big, the seeds on it are almost a dinner.    
+~
+74 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20003
+carrot~
+a Carrot~
+A carrot is lying in the ground, enjoying the sun.
+~
+The carrot is a brilliant orange, getting even more brilliant in the
+sun.    
+~
+74 0 0 0 0 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20004
+potato~
+a Potato~
+You see a potato walking around enjoying the sun.
+~
+You try not to stare, but all you can really fix your attention on is
+the potatoe's disgusting eye.    
+~
+74 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20005
+weed~
+a Weed~
+You see an ill-looking weed.
+~
+Poor thing. Best to put it out of it's misery.
+~
+74 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20006
+creeping vine~
+a Creeping Vine~
+A vine seems to be creeping towards you.
+~
+Looks like this vine needs some trimming.
+~
+74 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20007
+rabbit~
+a Rabbit~
+A cruel rabbit is here viciously consuming poor defenseless foliage!
+~
+The rabbit looks up at you, wrinkles its nose and goes back to its
+foliage.    
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d2+15 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 1
+E
+#20008
+flower~
+a Flower~
+A generic flower is growing here.
+~
+It is of no particular origin - but quite beautiful.  Better kill it.
+~
+74 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20009
+raspberry bush~
+a Raspberry Bush~
+A raspberry bush with nice sharp thorns is looking for things to shred.
+~
+This is a health looking bush, it's thorns look to be razor sharp 
+~
+74 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 11
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20010
+apple tree~
+an Apple Tree~
+An apple tree is here smiling.
+~
+Looks like the apple tree couldnt be happier, all perfectly trimmed
+and healthy.    
+~
+74 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 7
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20011
+rose~
+a Rose~
+You see a mighty rose here, radiating power.
+~
+Ahh, the power of the rose - what a sight to behold.
+~
+74 0 0 0 0 0 0 0 0 E
+3 0 88 1d3+20 1d1+1
+0 77
+8 8 0
+BareHandAttack: 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20012
+sugar beet~
+a Sugar Beet~
+A nice tasty sugar beet is here, though it wouldn't take being eaten kindly.
+~
+This would be one heck of a dish to eat, but killing it might be
+prudent first.    
+~
+16458 0 0 0 65536 4194304 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20013
+worm fuzzy~
+a Fuzzy Worm~
+A small fuzzy worm slithers around here.
+~
+Oh, how cute.  It has a fuzzy navel too.    
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 0
+BareHandAttack: 10
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 5
+E
+#20014
+bat sleepy~
+a sleepy Bat~
+A small bat hangs from the ceiling, sleeping.
+~
+Methinks there is a good chance there would be an agry bat if you woke
+it up.    
+~
+74 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+4 4 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 3
+E
+#20015
+twig lost~
+a lost Twig~
+A little lost twig wanders around, just being generally lost.
+~
+He must have walked too far away from the garden and lost his way.
+~
+72 0 0 0 0 0 0 0 0 E
+4 0 84 1d4+30 1d2+2
+0 160
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20016
+sprite~
+a Sprite~
+A sprite flitters about the garden.
+~
+She would be pretty hot if she wasn't so annoying.
+~
+72 0 0 0 8388608 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+20 283
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Class: 2
+E
+#20025
+Hemp plant~
+the Hemp Plant ~
+A wonderful hemp plant kicks back with its headband and banjo.
+~
+This plant has to love its life here in the garden - well, at least
+until winter.    
+~
+74 0 0 0 0 0 0 0 0 E
+5 18 8 2d4+50 1d2+5
+0 283
+6 6 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20035
+Turtle~
+a Turtle~
+A turtle is laying here.
+~
+A Turtle is laying in the sun here.
+~
+74 0 0 0 0 0 0 0 0 E
+5 18 8 2d4+50 1d2+5
+0 283
+5 5 0
+BareHandAttack: 4
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 2
+E
+#20038
+shroom bright~
+a bright-colored Shroom~
+A bright-colored shroom grows here.
+~
+A brite colored shroom is hacking his leg off and trying to sell it to
+you for 10 coins a gram.    
+~
+74 0 0 0 0 0 0 0 0 E
+5 18 8 21d4+50 1d2+5
+0 283
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 26
+E
+#20051
+fish small~
+a small Fish~
+A small fish makes its way through the sludgy water.
+~
+It burps a digusting burp, looks your way and harumphs.
+~
+74 0 0 0 16777216 0 0 0 0 E
+6 17 7 2d6+70 1d2+5
+0 451
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 4
+E
+#20065
+guard mudlicon~
+a Mudlicon Guard~
+A mudlicon guard is here, meditating.
+~
+The Guard doesnt seem to be guarding anything just haveing a peaceful
+time.    
+~
+10 0 0 0 0 0 0 0 0 E
+6 1 76 2d6+70 1d2+4
+100 451
+8 8 0
+BareHandAttack: 3
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20067
+1~
+a mellow Mudlicon~
+A mellow mudlicon struts serenely past.
+~
+This Mudlicon is strutting his stuff with a big smile on his face and
+with his baggy hemp pants tied on by a piece of string.    
+~
+72 0 0 0 0 0 0 0 0 E
+6 1 76 2d6+70 1d2+4
+100 451
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20068
+mudlicon chilling~
+a chilling Mudlicon~
+A chilling mudlicon waters the garden.
+~
+It gives you a slow smile and a wink.
+~
+10 0 0 0 0 0 0 0 0 E
+6 1 76 2d6+70 1d2+4
+100 451
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20070
+laughing mudlicon~
+a laughing Mudlicon~
+A laughing mudlicon laughs at you when you come in.
+~
+The old mudlicon points at you and they all start cracking up!!!
+~
+74 0 0 0 0 0 0 0 0 E
+7 16 7 2d7+125 1d2+5
+150 669
+6 6 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20071
+dancing mudlicon~
+a dancing Mudlicon~
+A mudlicon dances his life away here.
+~
+This mudlicon seems to have no cares in the world whatsoever, he just
+dances and dances and dances.    
+~
+72 0 0 0 0 0 0 0 0 E
+7 16 7 2d7+125 1d2+5
+175 669
+8 8 0
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20078
+mudlicon girl~
+a Mudlicon Girl~
+A mudlicon girl covers herself and her face turns red.
+~
+Looks like you may have walked in at a big time...  Or maybe not,
+depending on your perspective.    
+~
+10 0 0 0 0 0 0 0 0 E
+7 16 7 2d7+125 1d2+5
+100 669
+8 8 2
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+#20079
+mudlicon guy~
+a Mudlicon Guy~
+A mudlicon and his girlfriend are skinny-dipping in the river.
+~
+This guy is covering him self with a small blanket laughing his head
+off.  What a jerk!    
+~
+4106 0 0 0 0 0 0 0 0 E
+7 16 7 2d7+125 1d2+5
+164 669
+8 8 1
+Dex: 12
+Int: 13
+Wis: 13
+Luck: 12
+Race: 7
+E
+$

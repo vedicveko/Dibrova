@@ -1,0 +1,897 @@
+#14011
+tree banana~
+/cwa /cYbanana /cwtree/c0~
+/cwA banana tree is here, burdened with nice ripe fruit./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 -1 0 0 0 0 0
+10000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fruit~
+Have you had your potassium today?
+~
+#14012
+bananas bunch~
+/cwa bunch of /cYbananas/c0~
+/cwA ripe bunch of bananas is here - where is the monkey?/c0~
+~
+19 0 0 0 0 1 0 0 0
+10 0 0 0 0 0 0 0
+7 40 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14013
+sign warning~
+/cwa /cywooden /cwsign/c0~
+/cwA /cywooden sign /cwis nailed in the ground here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sign wooden~
+**********************
+*      KEEP OUT      *
+* or ye head be mine * 
+*       One-Eye      *
+**********************
+~
+#14014
+mallet wooden~
+/cwa /cywooden /cwmallet/c0~
+/cwA wooden mallet is here./c0~
+~
+5 0 0 0 0 8193 0 0 0
+0 0 0 7 0 0 0 0
+8 41813 0 112 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mallet wooden~
+This mallet looks like it was meant for hammering
+pegs, and not for combat.
+~
+A
+19 4
+A
+18 2
+A
+2 -2
+A
+13 -15
+#14015
+robe feather~
+/cwa /cmfeather /cwrobe/c0~
+/cwA robe maid of brilliant tropical bird plumage is here./c0~
+~
+9 1359872 0 0 0 1025 0 0 0
+6 0 0 0 0 0 0 0
+11 42880 0 134 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+robe feather~
+It sure is pretty.
+~
+A
+26 5
+A
+18 4
+A
+13 20
+A
+19 -3
+#14016
+bottle rum~
+/cwa bottle of rum/c0~
+/cwYou see a have full bottle of rum here, going to waste./c0~
+~
+17 0 0 0 0 1 0 0 0
+10 10 5 0 0 0 0 0
+15 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14017
+laid~
+/cCLAID!/c0~
+/cwAre you going to get lucky?/c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+10 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14018
+sextant~
+/cwa sextant/c0~
+/cwA beautiful gilded sextant lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+2400 0 0 0 0 0 0 0
+17 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+sextant~
+Upon closer examination, you see that the sextant has an inscription
+on the side. It reads 'Recite these words on what you need, and at 
+last I will be freed'
+~
+#14019
+girdle might~
+/cwthe /cBGirdle /cwof /cBMight/c0~
+/cwA well crafted weapons belt is lying here./c0~
+~
+9 1 0 0 0 2049 0 0 0
+8 0 0 0 0 0 0 0
+16 41946 0 143 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+belt girdle might~
+An inscription on the girdle reads:
+------------------------------------
+In the morning and in the night
+In the dark, and in the light
+There is no wrong, there is no right
+All there is, is triumphant might 
+------------------------------------
+~
+A
+5 3
+A
+1 2
+A
+13 40
+A
+4 -3
+#14020
+gauntlets accuracy~
+/cwthe /ccGauntlets /cwof /ccAccuracy/c0~
+/cwA pair of gauntlets with arrows on them lies here./c0~
+~
+9 1323008 0 0 0 129 0 0 0
+9 0 0 0 0 0 0 0
+14 47879 0 126 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+arrows arrow gauntlets~
+The arrows are branded in the leather, and align along
+the thumbs.
+~
+A
+18 3
+A
+19 6
+A
+2 2
+A
+1 -2
+A
+13 -20
+#14021
+key iron~
+/cwan iron key/c0~
+/cwAn iron key is here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+6 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14022
+pool lava~
+/cwa /cRlava /cwpool/c0~
+/cwA pool of lava is bubbling here./c0~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 7 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+lava pool~
+It is so hot your eyes are watering.
+~
+#14023
+cutlass sword~
+/cwa cutlass/c0~
+/cwAn arm-length curved sword is here./c0~
+~
+5 552960 0 0 0 8193 0 0 0
+0 0 0 3 0 0 0 0
+19 44400 0 111 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 5
+A
+19 5
+A
+2 -2
+A
+26 -2
+#14024
+eye kracken krackens kracken's~
+/cwthe /cgeye /cwof the /cgkracken/c0~
+/cwA large eyeball of some sea creature is rotting on the ground./c0~
+~
+9 1098240 0 0 0 16385 0 0 0
+0 0 0 0 0 0 0 0
+15 29920 0 132 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+eye eyeball~
+You stare into the eye, and you feel an ancient evil try to
+wrest control of your mind away from you. You win and break
+your gaze.
+~
+A
+19 6
+A
+13 50
+A
+18 -4
+#14025
+armbands volcanoes~
+/cwthe /cRArmbands /cwof the /cRVolcanoes/c0~
+/cwArmbands made of fire are smoldering on the ground./c0~
+~
+9 100728844 0 0 0 257 0 0 0
+8 0 0 0 262144 0 0 0
+29 51840 0 144 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+fire~
+The armbands are burning brightly.
+~
+A
+19 3
+#14026
+chest bronze~
+/cwa huge /cybronze /cwchest/c0~
+/cwA huge bronze chest is here./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 -1 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14027
+javelin~
+/cwa javelin/c0~
+/cwA well balanced javelin is here./c0~
+~
+5 1847296 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+13 52480 0 123 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+18 6
+A
+19 4
+A
+6 -2
+#14028
+cloak looting~
+/cwthe /clCloak /cwof /clLooting/c0~
+/cwYou see a suspicious looking cloak here. Hmmm./c0~
+~
+9 1323008 0 0 0 1025 0 0 0
+9 0 0 0 524288 0 0 0
+16 50346 0 128 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+cloak~
+Yes, you have seen a thief wearing this once before.
+~
+A
+2 2
+A
+14 40
+A
+19 5
+A
+6 -2
+#14029
+blood ettins ettin ettin's~
+/cwEttin's /crblood/c0~
+/cwA jar of blood is here./c0~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14030
+hoard pirate pirate's~
+/cwthe pirate's hoard/c0~
+/cwYou see a big old pile o' loot!/c0~
+~
+20 0 0 0 0 1 0 0 0
+4000 0 0 0 0 0 0 0
+20 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14031
+pants sharkskin~
+/cwa pair of /clsharkskin /cwpants/c0~
+/cwA pair of pants cut from the skin of a fish lie here./c0~
+~
+9 1048576 0 0 0 33 0 0 0
+9 0 0 0 0 0 0 0
+15 48280 0 142 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pants sharkskin~
+Upon closer examination, you notice a tag on the waistline. It reads
+' Mi141enmast, my friend, who brought me a white sharks eye, I have
+ bewitched these pants to give you great might and valor in combat.
+ Wear them well. - Merlin'
+~
+A
+18 4
+A
+19 6
+A
+13 50
+A
+26 -4
+#14032
+crossbow poison~
+/cwa crossbow of /cGpoison/c0~
+/cwYou see a nasty looking hand crossbow with black gummed quarrels here./c0~
+~
+5 12288 0 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+19 84866 0 134 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+crossbow~
+The crossbow has been lovingly crafted from a fine ebony, and bears
+a strange black metal for the bow itself. The quarrels are also made
+of the same black metal.
+~
+A
+18 6
+A
+25 2
+A
+2 1
+C
+33 8
+#14033
+orb nullifier~
+/cwthe /cLNullifier Orb/c0~
+/cwA round sphere on the ground is swallowing all the light around it./c0~
+~
+1 1049088 0 0 0 16385 0 0 0
+0 0 1 0 0 0 0 0
+21 321 0 132 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+orb nullifier~
+You try to peer closely at the orb, but it is just a vague black shape.
+Holding it in your hand, you can feel its smooth, spherical shape.
+~
+A
+1 3
+A
+17 -4
+#14034
+chest padlocked~
+/cwa padlocked chest/c0~
+/cwA heavy padlocked chest is here./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 1 -1 0 0 0 0 0
+1000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chest~
+Upon close examination, you see no way of opening this chest short of the
+key.
+~
+#14035
+key metal~
+/cwa metal key/c0~
+/cwA metal key lies here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+8 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key metal~
+The key is small, perhaps it might open a padlock.
+~
+#14036
+waverunner boat~
+/cwan outrigger called 'Waverunner'/c0~
+/cwAn outrigger canoe with a sky blue sail is here, provisioned for adventure./c0~
+~
+22 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+35 451 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14037
+lantern watchman's watchman watchamans~
+/cwa watchman's /cylantern/c0~
+/cwA watchman's lantern is here, giving off a bright white light./c0~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 10 0 0 0 0 0
+10 153 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+lantern~
+You get the feeling that this lantern used to be able to do lots
+of amazing things.
+~
+#14038
+pearl giant~
+/cwa giant /cWpearl/c0~
+/cwA giant pearl lies forgotten in the sand./c0~
+~
+20 0 0 0 0 1 0 0 0
+1900 0 0 0 0 0 0 0
+7 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+pearl giant~
+The pearl is perfectly formed, and is and sprays a rainbow of colors
+off of its shiny surface.
+~
+#14039
+hammock hemp~
+/cwa /cyhemp /cwhammock/c0~
+/cwA hemp hammock is here, stretched between 2 sunken poles./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+13 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+hemp hammock~
+The hammock has an inviting sag, and it beckons to you.
+~
+#14040
+trove doubloons booty~
+/cwa trove of /cmdoubloons /cwand /cYbooty/c0~
+/cwYou see a trove of doubloons and booty!/c0~
+~
+20 0 0 0 0 1 0 0 0
+3590 0 0 0 0 0 0 0
+22 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14041
+key golden hawk~
+/cwa /cYgolden hawk /cwkey/c0~
+/cwA golden hawk key lies here./c0~
+~
+18 65548 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+9 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+key golden hawk~
+The key is made entirely of gold, and has the head of a hawk
+on it.
+~
+#14042
+stone floating~
+/cwa floating stone/c0~
+/cwA stone is here, floating in mid-air!/c0~
+~
+11 100728840 0 0 0 524289 0 0 0
+0 0 0 0 8388608 0 0 0
+14 266 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+stone floating~
+The stone is of a strange material you have rarely seen.
+~
+#14043
+robe hawklord hawk lord~
+/cwthe vest of the /cBHawklord/c0~
+/cwA vest made of a bright blue fine chain mesh hovers here./c0~
+~
+9 0 0 0 0 9 0 0 0
+9 0 0 0 0 0 0 0
+17 53273 0 131 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+vest hawk lord hawklord~
+The blue mesh seems to attract metal object on your body.
+In fact, you can attach small throwing items onto it.
+~
+A
+18 5
+A
+19 6
+A
+4 2
+A
+5 -2
+#14044
+winch ladder~
+/cwa winch ladder/c0~
+/cwA winch with a long rope ladder is here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+24 21 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+winch~
+You examine the rope ladder on the winch and estimate it 
+can go down 500'.
+~
+#14045
+gizzard~
+/cwa gizzard/c0~
+/cwA raw gizzard is on the ground, being consumed by ants./c0~
+~
+19 0 0 0 0 1 0 0 0
+8 0 0 1 0 0 0 0
+9 32 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14046
+chest iron bound~
+/cwan /cliron bound /cwchest/c0~
+/cwA massive iron bound chest is here./c0~
+~
+15 0 0 0 0 0 0 0 0
+1000 13 14041 0 0 0 0 0
+1000 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+chest iron~
+Engraved on a band in the corner are the words:
+`Secure Chest TM by Beich'
+~
+#14047
+silver mountain~
+/cwa mountain of /cYgold/c0~
+/cwA mountain of gold is here. Take it and be rich!/c0~
+~
+20 0 0 0 0 1 0 0 0
+2411 0 0 0 0 0 0 0
+19 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+silver mountain~
+The silver coins are from many different mints and eras.
+~
+#14048
+mug everfull~
+the everfull Mug~
+A magical-looking mug lies here, waiting to slake your thirst.~
+~
+17 100728840 0 0 0 1 0 0 0
+500 500 17 0 0 0 0 0
+3 2000 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+mug everfull~
+The ale is a light orange color with a hint of fuggles hops in
+its aroma.
+~
+#14049
+wings lord vulture's vulture vultures~
+/crLord Vulture's /cwwings/c0~
+/cwWings from an ENORMOUS black bird lie well preserved on the ground./c0~
+~
+11 0 0 0 0 2097153 0 0 0
+0 0 0 0 8388608 0 0 0
+24 42932 0 115 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+wings~
+Upon closer examination, you see that the wings have a support harness
+which straps to your biceps.
+~
+A
+2 1
+A
+19 4
+A
+18 4
+A
+13 -40
+A
+25 -2
+A
+6 -1
+#14050
+eye eagle~
+/cwthe eye of the eagle/c0~
+/cwYou see a smooth amber stone with a single black spot lying on the ground./c0~
+~
+12 1 0 0 0 16385 0 0 0
+0 0 0 0 96 0 0 0
+13 1 0 45 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+eye~
+The eye has a fascinating depth to it. The black spot seems to drink in
+the light around it.
+~
+#14051
+a throwing dagger~
+/cwa /cbthrowing /cwdagger/c0~
+/cwA well balanced blue metal throwing dagger is here./c0~
+~
+5 1847296 0 0 0 8193 0 0 0
+0 0 0 11 0 0 0 0
+11 51526 0 131 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+metal dagger blue~
+The blue metal seems to stick to other metal objects.
+~
+A
+18 5
+A
+19 6
+A
+2 1
+A
+6 -2
+A
+26 -5
+#14052
+grog mug~
+/cwa mug of /cygrog/c0~
+/cwA foaming mug of grog is here, ready to take the chill off..~
+~
+17 0 0 0 0 1 0 0 0
+8 8 4 0 0 0 0 0
+9 13 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14053
+cloak fur skin~
+/cwa fur skin cloak/c0~
+/cwA white fur skin cloak is here./c0~
+~
+9 1585152 0 0 0 1025 0 0 0
+8 0 0 0 0 0 0 0
+22 34972 0 122 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+6 -1
+A
+18 -2
+#14054
+vest fur skin~
+/cwa fur skin vest/c0~
+/cwA white fur skin vest is here./c0~
+~
+9 1585152 0 0 0 9 0 0 0
+6 0 0 0 0 0 0 0
+17 40480 0 132 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+1 2
+A
+19 6
+A
+18 -4
+#14055
+leggings fur skin~
+/cwfur skin leggings/c0~
+/cwSome white fur skin leggings are here./c0~
+~
+9 1585152 0 0 0 33 0 0 0
+7 0 0 0 0 0 0 0
+19 31706 0 116 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 50
+A
+18 6
+A
+18 -4
+#14056
+shield buckler~
+/cwa spiked buckler/c0~
+/cwA spiked buckler is here./c0~
+~
+9 67248128 0 0 0 513 0 0 0
+10 0 0 0 0 0 0 0
+15 40332 0 121 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 5
+A
+18 6
+A
+1 -2
+A
+2 -2
+#14057
+icicle~
+/cwan /cWicicle/c0~
+/cwAn icicle lies on the floor, melting./c0~
+~
+5 573440 9 0 0 8193 0 0 0
+0 0 0 1 0 0 0 0
+10 54339 0 143 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+26 5
+A
+3 -3
+A
+19 3
+#14058
+pool melting~
+/cwthe /cWmelting /cwpool/c0~
+/cwA pool of melting ice and frigid water is here./c0~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 15 0 0 0 0 0
+1005 0 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14059
+garrote wire~
+/cwa /clgarrote /cwwire/c0~
+/cwA long piece of wire lies on the ground./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+3 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14060
+stone ghost~
+/cwthe /cWghost /cwstone/c0~
+/cwA stone lies on the ground here./c0~
+~
+11 100728872 0 0 0 524289 0 0 0
+0 0 0 0 4 0 0 0
+11 8533 0 32 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14061
+battle axe two handed~
+/cwa /cbmighty /cwtwo handed battle axe/c0~
+/cwA mighty two handed battle axe lies neglected in the dirt./c0~
+~
+5 536576 6 0 0 8193 0 0 0
+0 0 0 18 0 0 0 0
+24 45412 0 131 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+19 6
+A
+13 50
+A
+18 -2
+A
+2 -2
+#14062
+armor frost~
+/cwa suit of /cWfrost armor/c0~
+/cwA suit of armor fashioned from ice lies melting on the ground./c0~
+~
+9 12288 0 0 0 9 0 0 0
+11 0 0 0 0 0 0 0
+21 44053 0 118 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+armor frost~
+The armor is made from interlocking bands of ice, which overlap
+in a scale like fashion. The armor is cold to touch.
+~
+A
+1 -2
+A
+14 -20
+A
+5 2
+A
+18 4
+A
+19 5
+A
+4 -1
+#14063
+Frostbite sword winter~
+/cWFrostbite, /cwthe /cWSword /cwof /cWWinter/c0~
+/cwA long bastard sword made of ice lies here melting./c0~
+~
+5 532480 0 0 0 8193 0 0 0
+0 0 0 14 0 0 0 0
+22 39333 0 100 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+frostbite sword winter~
+You run your eyes along the frosty edge of the great blade of ice. Chills
+run through you as you think of the unbearable cold you would feel as
+this slid through your body.
+~
+A
+19 5
+A
+18 4
+A
+25 1
+A
+1 -2
+A
+2 -1
+#14064
+bag gold~
+/cwa bag of /cYgold./c0~
+/cwA heavy bulging bag of gold lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+761 0 0 0 0 0 0 0
+20 21 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14065
+bag silver~
+/cwa bag of /cYgold/c0~
+/cwA heavy bulging bag of silver lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+2155 0 0 0 0 0 0 0
+25 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14066
+bag gems~
+/cwa bag of /cmgems/c0~
+/cwA heavy bulging bag of gems lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+2300 0 0 0 0 0 0 0
+25 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14067
+bag jewelry~
+/cwa bag of /ccjewelry/c0~
+/cwA heavy bulging bag of jewelry lies here./c0~
+~
+20 0 0 0 0 1 0 0 0
+1876 0 0 0 0 0 0 0
+25 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14068
+eye evil~
+/cwthe /crevil /cweye/c0~
+/cwA bloody eye lies here./c0~
+~
+12 1051136 0 0 0 131073 0 0 0
+0 0 0 0 0 0 0 0
+8 100 0 86 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+A
+13 30
+A
+1 2
+#14069
+map hell's reef~
+/cwa map to /crHell's Reef/c0~
+/cwA map lies rolled up on the ground./c0~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0
+7 10 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+map hell's reef~
+>From southpoint, go 4n and 3w. There ye shall find a great treasure.
+~
+#14070
+bonfire roaring~
+/cwa /cRroaring bonfire/c0~
+/cwA roaring bonfire blazes brightly here./c0~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1000 1 0 1 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+#14099
+deed Isle Pirate Lords~
+the Deed to the Isle of The Pirate Lords~
+A small sheet of paper.~
+~
+28 0 0 0 0 1 0 0 0
+140 0 0 0 0 0 0 0
+0 6500000 0 0 -1 -1 -1 -1 -1 -1
+0 0 0 0 0 0 0 0 0
+E
+deed isle pirate lords~
+Hold this deed in the Isle of the Pirate Lords to claim this zone.
+~
+$~

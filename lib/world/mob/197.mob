@@ -1,0 +1,351 @@
+#19700
+madame~
+the Madame~
+The madame stands here looking seductive.
+~
+The madame, the keeper of the girls in this brothel is wearing a red
+satin.  Her eyes are covered in eyeliner and blue shadow.    
+~
+6154 0 0 0 80 0 0 0 0 E
+80 56 -40 1d1+0 6d7+53
+3000 333884
+8 8 2
+Class: 2
+E
+#19701
+vegetarian merchant~
+the Vegetarian~
+The vegetarian merhcant stands here smiling.
+~
+The merchant here is wearing loose fitting hemp clothes.  He tells you
+of the benefits of not eating so much meat.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19702
+dirty youth~
+a dirty Youth~
+The diry youth asks you for some change.
+~
+A filthy little kid, caught in the poor tenament district due to the
+Encar war.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d4+15
+1050 27376
+8 8 0
+Class: 15
+E
+#19703
+yound girl~
+a young Girl~
+The young girl is standing around suspiciously.
+~
+All of her clothes are raggedy and filthy.  She is an orphan and lives
+out on the streets on her own.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 14 -20 1d1+0 3d4+15
+1050 27376
+8 8 2
+Class: 15
+E
+#19704
+sad orphan~
+the sad Orphan~
+The sad orphan cries on the street.
+~
+This youth is looking pretty bad, he lost his parents and now lives on
+the street.    
+~
+72 0 0 0 0 0 0 0 0 E
+25 11 0 1d1+0 2d4+12
+800 17197
+8 8 1
+Class: 15
+E
+#19705
+opium merchant~
+the Opium Merchant~
+The opuim merchant stands here smiling.
+~
+The merchant here is wearing loose fitting red satin clothes.  He has
+a shifty look in his eyes.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19706
+coffee merchant~
+the Coffee Merchant~
+The coffee merchant stands here smiling.
+~
+The merchant here is wearing loose fitting blue weaved clothes.  He
+has a wired look in his eyes.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19707
+chips merchant~
+the Chips Merchant~
+The chips merchant stands here smiling.
+~
+The merchant here is wearing filthy and stinking clothes.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19708
+paintings merchant~
+the Art Merchant~
+The paintings merchant stands here smiling.
+~
+The merchant is in a frilly looking deco outfit.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19709
+leather merchant~
+the Leather Merchant~
+The leather merchant stands here smiling.
+~
+The merchant here is in a nicely tanned leather outfit.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19710
+dime merchant~
+the Dime Merchant~
+The dime merchant stands here smiling.
+~
+The merchant here is in a dirty looking shirt from the local free
+clothes center.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19711
+boat merchant~
+the Boat Merchant~
+The boat merchant stands here smiling.
+~
+The merchant here is wearing no shirt and is quite sweaty from working.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19712
+dagger merchant~
+the Dagger Merchant~
+The dagger merchant stands here smiling.
+~
+The merchant here is wearing a long black cape and nice clothes.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19713
+large rat~
+a large Rat~
+A large rat scurries on the street.
+~
+Filthy and covered with disease.
+~
+72 0 0 0 0 0 0 0 0 E
+5 1 80 1d1+0 1d2+3
+0 283
+8 8 0
+BareHandAttack: 4
+Class: 3
+E
+#19714
+medium rat~
+a medium-sized Rat~
+A medium sized rat scurries around here.
+~
+The rat is filthy and disgusting.
+~
+72 0 0 0 0 0 0 0 0 E
+3 0 88 1d1+0 1d1+2
+0 77
+8 8 0
+BareHandAttack: 8
+Race: 1
+E
+#19715
+small rat~
+a small Rat~
+A small rat runs around here.
+~
+Filthy, dirty and quite vicious.
+~
+72 0 0 0 0 0 0 0 0 E
+2 0 92 1d1+0 1d1+1
+0 27
+8 8 0
+BareHandAttack: 4
+Class: 3
+E
+#19716
+meat merchant~
+the Meat Merchant~
+The meat merchant stands here smiling.
+~
+The meat merchant here is wearing a white overcoat smeared with blood
+and dirt.    
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 2
+Class: 2
+E
+#19717
+pawn broker~
+the Pawn Broker~
+the pawn broker stands here smiling.
+~
+The pawn broker is here, eyeing your wares.
+~
+6154 0 0 0 80 0 0 0 0 E
+75 51 -40 1d1+0 6d7+50
+2750 283219
+8 8 1
+Class: 2
+E
+#19718
+sword dealer~
+the Sword Dealer~
+The sword dealer stands here grinning.
+~
+The sword dealer is sharp and straight.
+~
+6154 0 0 0 80 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+Class: 2
+E
+#19719
+pets dealer~
+the Pet Dealer~
+The pets store dealer stands here smuggly.
+~
+He stands here, smelling worse than the pets he deals with.
+~
+6154 0 0 0 80 0 0 0 0 E
+70 47 -40 1d1+0 6d6+46
+2500 237528
+8 8 1
+Class: 2
+E
+#19720
+beer bellied merchant~
+the Beer-bellied Merchant~
+The beer bellied merchant stands here smuggly.
+~
+The merchant is fat and kinda gross looking he obviously drinks to much.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19721
+wine merchant~
+the Wine Merchant~
+The wine merchant eyes you suavely.
+~
+A slick character, used to the finer side of life.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19722
+fish merchant~
+the Fish Merchant~
+The fish merchant chews on some sushi.
+~
+A foreign looking man who enjoys raw fish.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19723
+clothing merchant~
+the Clothing Merchant~
+The clothing merchant checks your size.
+~
+A tubby looking character.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19724
+armor merchant~
+the Armor Merchant~
+The armor merchant laughs at your armor.
+~
+A wise cracking freak who only deals in the best of armors.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+#19725
+water merchant~
+the Water Merchant~
+The water merchant offers you a drink.
+~
+A man who knows he is one who has a product that must sell.
+~
+6154 0 0 0 80 0 0 0 0 E
+85 61 -40 1d1+0 6d7+56
+3200 389703
+8 8 1
+Class: 2
+E
+$

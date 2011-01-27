@@ -1,0 +1,1967 @@
+#10600
+In the Plane of Nirvana~
+You stand in a higher plane of absolute balance and order.  It is
+equally hot and cold, equally light and dark, and made of equal parts
+of solid and liquid.  The plane extends to the west and east, while a
+strange nexial link lies under your feet.  /ccA small, incongrous
+plaque is fixed in the fabric of existence here.  /c0
+~
+106 0 0 0 0 0
+D1
+To the east, the plane extends for what seems to be forever.
+~
+~
+0 -1 10601 0
+D3
+To the west, the plane extends for what seems to be forever.
+~
+~
+0 -1 10602 0
+D5
+~
+~
+0 0 2572 0
+E
+plaque~
+The plaque reads:
+This area written orignally by Forstall for Rivers of Mud.
+Modifications by Alander of Rivers of Mud.
+Modifications were made by Andersen for the 4th Realm.
+Modifications by Kaan for Cities of Glory.
+~
+S
+#10601
+The Plane of Nirvana~
+You are traveling the Plane of Nirvana.  It extends far away to the
+east and the west, distance having no real meaning except as a
+construct of a mind's need for an image, a set amount.  It is
+boundless.    
+~
+106 0 0 0 0 0
+D1
+To the east, there seems to be a bend in direction of travel.
+~
+~
+0 -1 10603 0
+D3
+To the west, the plane seems to extend forever.
+~
+~
+0 -1 10600 0
+S
+#10602
+The Plane of Nirvana~
+You are on a western stretch of the plane.  Boundaries to the east and
+west seem nonexistent, the line of sight traveling almost forever with
+no horizon of any sort really in sight.    
+~
+106 0 0 0 0 0
+D1
+The plane seems to strech forever to the east
+~
+~
+0 -1 10600 0
+D3
+The plane continues to the west where it appears to change direction.
+~
+~
+0 -1 10604 0
+S
+#10603
+A Change in Direction~
+Here, the plane directs you to the north.  It also continues to the
+west, both directions full of possibilities, limitless in their depth
+and size.    
+~
+106 0 0 0 0 0
+D0
+The plane continues to the north with no end in sight.
+~
+~
+0 -1 10605 0
+D1
+~
+~
+0 0 10666 0
+D2
+~
+~
+0 0 10664 0
+D3
+The plane contiues to the west with no end in sight.
+~
+~
+0 -1 10601 0
+S
+#10604
+A Change in Direction~
+Here, the plane goes to the north and bends to the east.  A steady
+haze of images dance before your eyes, some seeming very fuzzy -
+almost unreal - while others are sharp and clear.    
+~
+106 0 0 0 0 0
+D0
+The vast plane seems to have no end to the north.
+~
+~
+0 -1 10606 0
+D1
+To the east, the plane has no visible end.
+~
+~
+0 -1 10602 0
+D2
+~
+~
+0 0 10668 0
+D3
+~
+~
+0 0 10670 0
+S
+#10605
+A North-South direction of the plane~
+The plane continues to the north and south, opening wide and open for
+what looks to be miles and miles.  Of course - what exactly is a mile
+in this place?    
+~
+106 0 0 0 0 0
+D0
+To the north, the plane stretches as far as the eye can see.
+~
+~
+0 -1 10612 0
+D2
+To the south, the plane stretches as far as the eye can see.
+~
+~
+0 -1 10603 0
+S
+#10606
+A North-South stretch of the plane~
+The plane continues to stretch out to the north and the south.  Hazy
+images dance in the distance.  They could simply be tricks of the
+light or very well could be people or objects in motion - only one way
+to find out.    
+~
+106 0 0 0 0 0
+D0
+To the north, the plane stretches as far as the eye can see.
+~
+~
+0 -1 10613 0
+D2
+To the south, the plane stretches as far as the eye can see.
+~
+~
+0 -1 10604 0
+S
+#10607
+In the Tower of Nirvana~
+Your first realization upon entering the tower is that there seems to
+be enough light to see by, but no source is visible.  A hall runs off
+toward the east, while a door lies to the west.    
+~
+106 12 0 0 0 0
+D1
+The hall continues east into oblivion.
+~
+~
+0 -1 10610 0
+D3
+A great door lies to the west.
+~
+door~
+1 -1 10613 3
+S
+#10608
+A hallway in the Tower of Nirvana~
+You are in a east-west hallway in the tower.  Odd-shaped sections of
+the wall make clever murals out of the stone (is it stone?  ) from
+which this tower is formed.  To the west, the hall continues and a
+door lies to the east.    
+~
+106 12 0 0 0 0
+D1
+A great door lies to the east.
+~
+door~
+1 -1 10612 3
+D3
+The hallway continues west into oblivion.
+~
+~
+0 -1 10609 0
+S
+#10609
+An east-west hallway in the Tower of Nirvana~
+The hallway stretches out to the east and west, running through this
+fabulous place.  The faint glow of light, one that is not at all
+painful to the eyes but does plenty well in illuminating the place
+glows from some unknown source steadily.    
+~
+106 8 0 0 0 0
+D1
+The hallway continues east into oblivion.
+~
+~
+0 -1 10608 0
+D3
+The Hallway continues west into oblivion.
+~
+~
+0 -1 10611 0
+S
+#10610
+An east-west passage in the Tower of Nirvana~
+The hall runs to the east and west, both ways looking much the same.
+The hallways stretch out for long distances, your eyes fooled by the
+illusion which Nirvana has decided to create.    
+~
+106 8 0 0 0 0
+D1
+The hallway contiues east into oblivion.
+~
+~
+0 -1 10611 0
+D3
+The hallway contiues west into oblivion.
+~
+~
+0 -1 10607 0
+S
+#10611
+An intersection in the Tower of Nirvana~
+You are at an intersection where the east-west passage continues, but
+a large and fairly ominous passage lies to the north.  The choice is
+yours.    
+~
+106 8 0 0 0 0
+D0
+The passage continues to the north where it gets wider.
+~
+~
+0 -1 10623 0
+D1
+The passage ontinues eastward into oblivion.
+~
+~
+0 -1 10609 0
+D3
+The passage continues westward into oblivion.
+~
+~
+0 -1 10610 0
+S
+#10612
+At the Door to the Tower of Nirvana~
+You stand on the plane where a mighty door lies to the west.  Nothing
+at all appears to lie beyond the door, it simply stands upright in the
+middle of this plane, a way to another place which may or may not be
+as calm and relaxed as this one.  The plane also continues north and
+southward.  There is a large sign on the door.    
+~
+106 0 0 0 0 0
+D0
+The plane continues northward as far as the eye can see.
+~
+~
+0 -1 10614 0
+D2
+The plane continues southward as far as the eye can see.
+~
+~
+0 -1 10605 0
+D3
+A mighty door lies to the west.
+~
+door~
+1 -1 10608 3
+E
+sign~
+The sign reads:
+                     /cRWARNING/cw
+Only those brave of heart and high of level should
+enter the Tower of Nirvana.
+~
+S
+#10613
+At the Door to the Tower of Nirvana~
+The plane continue to the north and south, while a mighty door lies to
+the east.  The door itself is made of an extremely powerful-looking
+iron or metal, gray in color.  The most truly awesome thing about this
+door is that it is not anchored to any frame or building whatsoever -
+it is simply standing upright in this plane, leading the way into
+another place.  There is a sign on the door.    
+~
+106 0 0 0 0 0
+D0
+The plane stretches to the north as far as the eye can see.
+~
+~
+0 -1 10615 0
+D1
+A mighty door sits to the east.
+~
+door~
+1 -1 10607 3
+D2
+The plane continues to the south as far as the eye can see.
+~
+~
+0 -1 10606 0
+E
+sign~
+The sign reads:
+                  /cRWARNING!/cw
+Only those brave of heart and high of level
+should attempt to enter the Tower of Nirvana.
+~
+S
+#10614
+A north-south area of the Plane of Nirvana~
+The plane continues to the north and southward, strecthing far off
+into a hazy nothingness.  All sorts of colors assault your eyes, some
+majestic, some drab and others wild and shifting, with no apparent
+order or function.  This is truly a magnificent place.    
+~
+106 0 0 0 0 0
+D0
+The plane continues endlessly to the north.
+~
+~
+0 -1 10627 0
+D2
+The plane continues endlessly to the south.
+~
+~
+0 -1 10612 0
+S
+#10615
+A north-south area on the Plane of Nirvana~
+The place continues to be a wide-open flatland filled with a rotating
+mass of shifting, gyrating colors which never seem to stop moving.  
+The plane continues to the north and south.    
+~
+106 0 0 0 0 0
+D0
+The plane continues endlessly to the north.
+~
+~
+0 -1 10628 0
+D2
+The plane continues endlessly to the south.
+~
+~
+0 -1 10613 0
+S
+#10616
+Dead End~
+You stand at a dead end where the only exit appears to be west.  
+Remember, however, that nothing on this plane is exactly what it
+appears to be.  For every constant here there is a variation and of
+course for every one of those variations there is yet another
+variation of that variation.    
+~
+106 8 0 0 0 0
+D3
+The passage continue to the west.
+~
+~
+0 -1 10618 0
+S
+#10617
+Dead End~
+You are at what appears to be a dead end.  The only exit is back east.
+Or so it appears to the naked eye.    
+~
+106 8 0 0 0 0
+D1
+The passage continues to the east.
+~
+~
+0 -1 10619 0
+S
+#10618
+A Short Hall~
+This short hall seems to lead to nowhere at all, ending just to the
+east.  The best choice at this point would probably be to double back
+to the intersection west of here and choose another direction of
+travel.    
+~
+106 8 0 0 0 0
+D1
+The passage continues to the east.
+~
+~
+0 -1 10616 0
+D3
+The passage leads west where you can see a bright light ahead.
+~
+~
+0 -1 10620 0
+S
+#10619
+A Short Hall~
+This short hall seems to lead to nowhere at all, ending just to the
+west.  The best choice at this point would probably be to double back
+to the intersection east of here and choose another direction of
+travel.    
+~
+106 8 0 0 0 0
+D1
+The passage continues eastward where you can see a bright light.
+~
+~
+0 -1 10620 0
+D3
+The passage continues westward into oblivion.
+~
+~
+0 -1 10617 0
+S
+#10620
+An Intersection of Halls~
+Halls lead off in every direction, the north and south looking long
+and solitary in nature.  To the east and the west are short halls of
+which the ends can be seen from here.    
+~
+106 8 0 0 0 0
+D0
+A passage leads north into the unknown.
+~
+~
+0 -1 10624 0
+D1
+A passage leads east into the unknown.
+~
+~
+0 -1 10618 0
+D2
+A passage leads south into the unknown.
+~
+~
+0 -1 10621 0
+D3
+A passage leads west into the unknown.
+~
+~
+0 -1 10619 0
+S
+#10621
+A Stone Hallway~
+The hallway floor is done in cold, hard stone which feels as strong
+and lasting as any physical presence could feel.  It is quite easy to
+feel daunted by the size, mystery and antiquity of this place through
+which you travel.  The hallway runs north to south, intersections in
+both directions.    
+~
+106 8 0 0 0 0
+D0
+The passage leads north where you can see a bright light.
+~
+~
+0 -1 10620 0
+D2
+The passage leads south into the unknown.
+~
+~
+0 -1 10622 0
+S
+#10622
+A Four-Way Intersection~
+Hallways lead off in all directions, stone flooring and walls drab in
+appearance made even more so by teh sharp contrast to the vivid colors
+outdoors.  No direction appears any better than the other, all lead
+down similar halls.    
+~
+106 8 0 0 0 0
+D0
+The passage heads northward where you can see nothing.
+~
+~
+0 -1 10621 0
+D1
+The passage goes east where you feel it might be bad to go.
+~
+~
+0 -1 10646 0
+D2
+The passage goes south into oblivion.
+~
+~
+0 -1 10623 0
+D3
+The passage heads westward into oblivion.
+~
+~
+0 -1 10653 0
+S
+#10623
+A Wide North-South Passageway~
+The passage leads north to south.  To the north lies an intersection
+with another passageway, to the south is another such junction.    
+~
+106 8 0 0 0 0
+D0
+To the north, you spy an intersection of tunnels.
+~
+~
+0 -1 10622 0
+D2
+To the south you can barely make out a junction of passageways.
+~
+~
+0 -1 10611 0
+S
+#10624
+A Short Connector Hallway~
+This hall connects two of the main intersections in the Tower to each
+other.  The walls are of the same dull gray stone that the rest of
+this tower is made from - cold, lifeless, unyielding material.    
+~
+106 8 0 0 0 0
+D0
+To the north, you can make out a intersection of tunnels.
+~
+~
+0 -1 10625 0
+D2
+To the south, you can see a bright light.
+~
+~
+0 -1 10620 0
+S
+#10625
+A north south tunnel~
+You are in a passage where the only exits are north and south.    
+~
+106 8 0 0 0 0
+D0
+Far to the north you can see a door.
+~
+~
+0 -1 10626 0
+D2
+To the south you stare into darkness.
+~
+~
+0 -1 10624 0
+S
+#10626
+An Intersection of Passages~
+You stand at an intersection.  Exits lead off into all the cardinal
+directions.  A door lies to the north, allowing passage out of the
+tower and back onto the plane.    
+~
+106 8 0 0 0 0
+D0
+You see a massive door.
+~
+door~
+1 -1 10631 3
+D1
+To the east, you spy a dark passage.
+~
+~
+0 -1 10632 0
+D2
+To the south you stare into oblivion.
+~
+~
+0 -1 10625 0
+D3
+To the west, you spy a dark passage.
+~
+~
+0 -1 10639 0
+S
+#10627
+A change of direction~
+The plane curves from the south to west.  It is odd the way it bends
+the fabric of the plane, urging you in a particular direction.  To the
+east and north are also ways available.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10660 0
+D1
+~
+~
+0 0 10662 0
+D2
+Looking south, you see the plane extending beyond view.
+~
+~
+0 -1 10614 0
+D3
+Looking west, you can't fathom how far the plane extends.
+~
+~
+0 -1 10630 0
+S
+#10628
+A change of direction~
+Here, the plane takes a turn from the south, heading east.  Or vice
+versa, if that be the way your travels take you.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10672 0
+D1
+The plane heads east from here. You can't see the end of it.
+~
+~
+0 -1 10629 0
+D2
+Looking south, you view the plane extending for miles.
+~
+~
+0 -1 10615 0
+D3
+~
+~
+0 0 10674 0
+S
+#10629
+East-West Route in Nirvana~
+Exits lead east and west.  All along your field of vision, blurs of
+color dance and shimmer.  The tower that lies just to the southeast
+seems to be just about the only truly fixed object on this whole
+plane.    
+~
+106 0 0 0 0 0
+D1
+Looking east, you spy a door far off in the distance.
+~
+~
+0 -1 10631 0
+D3
+Looking west, in the distance you can spy a curve south.
+~
+~
+0 -1 10628 0
+S
+#10630
+An East-West Route on The Plane of Nirvana~
+Boundless, open land of surreal colors and textures lie in both
+directions.  To the east, the line of sight makes a strange curve,
+almost bending the way the land is formed instead of simply making a
+turn in the trail.    
+~
+106 0 0 0 0 0
+D1
+Looking east, you can see a bend in the distance.
+~
+~
+0 -1 10627 0
+D3
+~
+~
+0 0 10631 0
+S
+#10631
+At a Door Into the Tower of Nirvana~
+The plane of Nirvana runs far off to the east and west.  A large door
+is to the south, standing free and alone - attached to no frame or
+building.  It must abviously lead somewhere, but where could it lead,
+being attached to nothing but wide open air?  A sign has been posted
+outside the door.    
+~
+106 0 0 0 0 0
+D1
+Looking east, you see more of the passage.
+~
+~
+0 -1 10630 0
+D2
+A large door blocks the way to the south.
+~
+door~
+1 -1 10626 3
+D3
+Looking west, you see more of the passage.
+~
+~
+0 -1 10629 0
+E
+sign~
+The sign reads:
+                  /cRWARNING!/cw
+Only those brave of heart and high of level
+should attempt to enter the Tower of Nirvana.
+~
+S
+#10632
+A Junction in the passage~
+Here, passages lead off in all cardinal directions.  Northward is a
+small room, no door on the wall.  To the east and west is more of the
+same passage which you currently stand in and south is another of the
+small, doorless rooms.    
+~
+106 8 0 0 0 0
+D0
+Looking north, you spy a small room in the distance.
+~
+~
+0 -1 10633 0
+D1
+Eastward, the passage continues in the darkness.
+~
+~
+0 -1 10635 0
+D2
+South of here is a small room.
+~
+~
+0 -1 10634 0
+D3
+West, you spy an intersection.
+~
+~
+0 -1 10626 0
+S
+#10633
+A Small Room~
+You are in a small room sparsely decorated.  The floor is meticulously
+cleaned as well are the walls.  The only exit is south.    
+~
+106 8 0 0 0 0
+D2
+Looking south, you see an intersection.
+~
+~
+0 -1 10632 0
+S
+#10634
+A Small Room~
+The only exit is north from this tiny niche in the hallway's wall.  
+There isn't any apparent function for this room - possibly a small
+storage area or pantry.  Either way, there is nothing of any interest
+here at this time.    
+~
+106 8 0 0 0 0
+D0
+Looking north, you spy an intersection.
+~
+~
+0 -1 10632 0
+S
+#10635
+The End of the Passage~
+Exits lie on the north, south and east sides leading into fairly
+decent-sized rooms.  To the west is the passage which leads back
+through the tower.    
+~
+106 8 0 0 0 0
+D0
+Looking north you spy a average sized room.
+~
+~
+0 -1 10636 0
+D1
+Looking east, you can make out a large room.
+~
+~
+0 -1 10638 0
+D2
+Looking south, you can see an average room.
+~
+~
+0 -1 10637 0
+D3
+Looking west, you can see an intersection ahead.
+~
+~
+0 -1 10632 0
+S
+#10636
+A Jumbled, Dirty Room~
+You are in a room that is in complete disrepair.  Items are thrown
+throughout the room making them worthless piles of junk.  The only
+exit is back south.    
+~
+106 8 0 0 0 0
+D2
+Looking south, you can make out a passage.
+~
+~
+0 -1 10635 0
+S
+#10637
+Manacle Chamber~
+There are a set of manacles which hang from gray stone chains molded
+into the wall.  No other sort of furniture or adornment lies within
+this room, only those manacles.    
+~
+106 8 0 0 0 0
+D0
+Looking north, you can make out a hallway.
+~
+~
+0 -1 10635 0
+S
+#10638
+A Small Office~
+You stand just inside a small office used by some unseen person or
+being.  A stone desk is molded as part of the tower, its legs looking
+almost as if they have grown from the floor into a full desk.    
+~
+106 8 0 0 0 0
+D3
+Looking west you can see a long hallway.
+~
+~
+0 -1 10635 0
+S
+#10639
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.    
+~
+106 12 0 0 0 0
+D0
+To the north, you spy a small room.
+~
+~
+0 -1 10640 0
+D1
+To the east, you see a quadruple junction.
+~
+~
+0 -1 10626 0
+D2
+To the south you see a small room.
+~
+~
+0 -1 10641 0
+D3
+To the west, the passageway continues.
+~
+~
+0 -1 10642 0
+S
+#10640
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.    
+~
+106 8 0 0 0 0
+D2
+To the south you can make out a junction.
+~
+~
+0 -1 10639 0
+D3
+~
+~
+0 0 10643 0
+S
+#10641
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.  Quite a feat if
+you are an ogre.    
+~
+106 8 0 0 0 0
+D0
+To the north you see a junction.
+~
+~
+0 -1 10639 0
+D3
+~
+~
+0 0 10644 0
+S
+#10642
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.    
+~
+106 8 0 0 0 0
+D0
+You can see a room to the north.
+~
+~
+0 -1 10643 0
+D1
+To the east you can see a junction.
+~
+~
+0 -1 10639 0
+D2
+To the south you can make out a averaged sized room.
+~
+~
+0 -1 10644 0
+D3
+To the west you can see what appears to be a cavernous room.
+~
+~
+0 -1 10645 0
+S
+#10643
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.    
+~
+106 8 0 0 0 0
+D1
+~
+~
+0 0 10640 0
+D2
+To the south you can see a junction.
+~
+~
+0 -1 10642 0
+S
+#10644
+A Large, Wide-Open Room~
+This huge room sports a tall, domed ceiling which curves up to its
+highest point in the center, meeting the walls at a lower altitude
+along the northern and southern sides.  The air here seems almost
+alive, moving and - breathing?  - with a life of its own, tickling the
+nape of your neck and raising the hair on your arms.    
+~
+106 8 0 0 0 0
+D0
+To the north you can visualize a junction of passages.
+~
+~
+0 -1 10642 0
+D1
+~
+~
+0 0 10641 0
+S
+#10645
+An Alcove~
+This is nothing more than a bare niche in the west wall of the huge
+room east of here.  The feel of the air and the way it brushes past
+you is still a prevailing force around you, however it is not quite as
+strong as it is to the east.    
+~
+106 8 0 0 0 0
+D1
+To the east you can see a junction.
+~
+~
+0 -1 10642 0
+S
+#10646
+A Passageway~
+You are in a well lit passage.  A sense of forboding danger envelopes
+you.  Exits lead in all cardinal directions.    
+~
+106 8 0 0 0 0
+D0
+To the north you can see a small chamber.
+~
+~
+0 -1 10647 0
+D1
+To the east, the passage continues.
+~
+~
+0 -1 10649 0
+D2
+To the south, a chamber can be seen.
+~
+~
+0 -1 10648 0
+D3
+To the west, a large tunnel can be found.
+~
+~
+0 -1 10622 0
+S
+#10647
+The Air Chamber~
+A strong wind blows through this room constantly, no cessation
+whatsoever.  Strange that there was no wind out in the hall to the
+south.  Stranger still that this room has no windows or open doors to
+the outside and the wind blows so strongly.    
+~
+106 8 0 0 0 0
+D2
+To the south you can see a passage.
+~
+~
+0 -1 10646 0
+S
+#10648
+The Earth Chamber~
+The floor of this room is covered in dirt, it does not appear that any
+stonework was ever done here at any time.  No plant life grows from
+the floor, just the dried and cracked silt of a desert landscape -
+cracked, hard soil.  It is not a pleasant place.    
+~
+106 8 0 0 0 0
+D0
+To the north you can see a passageway.
+~
+~
+0 -1 10646 0
+S
+#10649
+End of the Passageway~
+You have reached the end of a long east-west passage.  The passage
+contiues to the west, and rooms lie to the north, south, and east.  
+The sense of impending danger, of benevolent evil, is stronger than
+ever and emenating from the room to the east.    
+~
+106 8 0 0 0 0
+D0
+To the north you can see a room.
+~
+~
+0 -1 10650 0
+D1
+To the east you can make out a large chamber.
+~
+~
+0 -1 10652 0
+D2
+To the south, a room can be seen.
+~
+~
+0 -1 10651 0
+D3
+To the west, the passageway continues.
+~
+~
+0 -1 10646 0
+S
+#10650
+Water Chamber~
+You have entered the chamber of a Hexton.  Trophies adorn the walls,
+some of which are human.  The only exit is to the south.  The floor of
+this room is set into the ground of the plane a bit deeper than the
+rest of the tower by an extra two feet.  Occupying that additional two
+feet of space is a larg pool of water which writhes and boils with a
+life of its own.    
+~
+106 8 0 0 0 0
+D2
+To the south you can see a passageway.
+~
+~
+0 -1 10649 0
+S
+#10651
+Fire Chamber~
+The sheer wall of flame which permanently burns within this chamber
+has scorched the walls to a flat black color.  The floor is covered in
+soot three inches deep.    
+~
+106 8 0 0 0 0
+D0
+To the north you can see a passage.
+~
+~
+0 -1 10649 0
+S
+#10652
+Chamber of the Ethereal Wizard~
+A large canvernous room, this chamber serves as the sleeping quarters
+for the third Secudus, Viceroy to Primus.  The only exit lies to the
+west.  This huge, cavernous room serves as the study and resting
+chambers for the one who is most probably the most powerful permanent
+resident of this plane - the Ethereal Wizard.  He is one of many
+ethereal wizards who work the magics of the planes, however most of
+his type reside upon the ethereal plane itself.  Any who have ever
+tried to set up shop in this plane have been expediently dealt with.
+~
+106 65736 0 0 0 0
+D3
+To the west you can see a passageway.
+~
+~
+0 -1 10649 0
+S
+#10653
+A passageway~
+You are in a passagway where you may go in any cardinal direction.  
+~
+106 8 0 0 0 0
+D0
+To the north lies a small chamber.
+~
+~
+0 -1 10654 0
+D1
+To the east a main passage forms a junction.
+~
+~
+0 -1 10622 0
+D2
+To the south you can spot a small room.
+~
+~
+0 -1 10655 0
+D3
+To the west the passageway continues.
+~
+~
+0 -1 10659 0
+S
+#10654
+A Small Chamber~
+You are in a small, cramped chamber.  There is nothing of note in this
+room at all.  The only exit lies to the south.    
+~
+106 8 0 0 0 0
+D2
+To the south you can see a passage.
+~
+~
+0 -1 10653 0
+S
+#10655
+A Cramped Room~
+You are in a small, cramped room.  The only movement that you can see
+would be possible is through the exit.  It lies to the north.    
+~
+106 8 0 0 0 0
+D0
+To the north you can see a passageway.
+~
+~
+0 -1 10653 0
+S
+#10656
+A Large Room~
+You have entered into a room which stands bare and empty, devoid of
+any decor or personality.  There does not appear to be any other exits
+from this place except from whence you came, however one can never be
+sure in this place.    
+~
+106 8 0 0 0 0
+D2
+To the south you can visualize a east-west passage.
+~
+~
+0 -1 10659 0
+S
+#10657
+A room~
+You have entered a room where there was obviously a hurried move going
+on.  The only exit lies to the north.    
+~
+106 8 0 0 0 0
+D0
+To the north you can make out a passageway.
+~
+~
+0 -1 10659 0
+S
+#10658
+A Strange Bedchamber~
+Who or what would want to live in a chamber such as this is beyond
+comprehension, however just the same it appears someone (or something)
+does.  There is a small but comfortable-looking bed with satin
+drapings around the framing, many pillows are piled at the head.  
+That is not the odd part.  The odd part is that there is no door or
+even a doorway, there is simply the end of the hallway here - a wide
+open space with no privacy.    
+~
+106 8 0 0 0 0
+D1
+To the east you can spot a hallway.
+~
+~
+0 -1 10659 0
+S
+#10659
+Junction in the hallway~
+Exits lead off every which way except up and down.  Or so you think.
+A large chamber lies to the north, a small one lies south.  The
+passage heads out to the east and a huge bedroom lies to the west.  
+~
+106 8 0 0 0 0
+D0
+To the north lies a large chamber.
+~
+~
+0 -1 10656 0
+D1
+To the east the passage continues.
+~
+~
+0 -1 10653 0
+D2
+To the south a small chamber can be found.
+~
+~
+0 -1 10657 0
+D3
+To the west lies a monstrous room.
+~
+~
+0 -1 10658 0
+S
+#10660
+Traveling the Plane~
+Fields of shimmering light and energy assault your senses, the feel of
+every texture imaginable beneath your feet.  Sounds of death, love,
+agony, rapture and everything in between can be heard from every
+direction.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10661 0
+D2
+~
+~
+0 0 10627 0
+S
+#10661
+Traveling the Plane~
+Ways across the plain lead east and west as well as south from here.
+To the west is a slow incline, an upward curve in the plane's
+flooring.  Something that looks to be in the shape of a large tree
+lies to the east, however the colors are all wrong.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10682 0
+D2
+~
+~
+0 0 10660 0
+D3
+~
+~
+0 0 10681 0
+S
+#10662
+Along the Plane~
+Ways from where you currently stand lie east and west from here, both
+ways looking equally awesome and otherworldly - indeed, this IS
+another world entirely.  To the west is a crux, a meeting of the ways
+in the planes which allow exits in all four cardinal directions.  To
+the east is a convergance with another of the plane's paths.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10663 0
+D3
+~
+~
+0 0 10627 0
+S
+#10663
+Walking Nirvana~
+Directions of travel are to the east, north and south.  South there
+lies a dip in the flat plane, something looks much like a
+multi-colored valley teeming with energies.  To the north travel is
+flat, however a tree is visible - or at least something that looks
+like a tree.  It is of all the colors of the rainbow and anything in
+between, billowing as if in a breeze, the colors constantly changing
+and dripping from the branches.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10684 0
+D2
+~
+~
+0 0 10685 0
+D3
+~
+~
+0 0 10662 0
+S
+#10664
+The Way Opens Wide~
+You stand now in a place which seems so vast, so immense that you feel
+you could move at the speed of thought in any direction for years and
+never reach a boundary.  At the same time, the landscape is implied
+that only travel to the north and south are possible.  It is chaos and
+order at its finest.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10603 0
+D2
+~
+~
+0 0 10665 0
+S
+#10665
+Upon a Long Stretch~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.  There is a way to the north, a
+way wide and clear easily as long as the ways east and west.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10664 0
+D1
+~
+~
+0 0 10690 0
+D3
+~
+~
+0 0 10691 0
+S
+#10666
+Traveling the Plane~
+The many colors of the plane shimmer and shine before your eyes, the
+light of those colors bright even in darkness.  Off to the west is a
+conjunction of the planar landscape, a meeting of the ways along the
+plane where one might journey in any of the four cardinal directions.
+Travel is possible to the east as well.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10667 0
+D3
+~
+~
+0 0 10603 0
+S
+#10667
+The Plane of Nirvana~
+It is possible to travel north, south and west from here - all ways
+looking quite as fantastic as the other.  To the north is a small dip
+in the way the plane travels, a valley of many colors making a short
+drop from the plane's normal course of travel.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10687 0
+D2
+~
+~
+0 0 10688 0
+D3
+~
+~
+0 0 10666 0
+S
+#10668
+A Shimmering Haze of Color~
+Colors bubble and brew before your eyes, the setting of this fantastic
+place ever changing before your eyes.  The ways of travel lie to the
+north and the south.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10604 0
+D2
+~
+~
+0 0 10669 0
+S
+#10669
+The Open Plane~
+The plane travels far to the east and west, travel possible for
+distances which only can be imagined.  A way to the north is also
+available through a shifting of color and light.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10668 0
+D1
+~
+~
+0 0 10693 0
+D3
+~
+~
+0 0 10694 0
+S
+#10670
+Upon the Plane of Nirvana~
+The way leads east and west, both directions leading into another way
+of travel, convergences which allow travel to an entirely new section
+of the plane.  The top of an enormous tower can be seen to the
+northeast, it being the only thing in this place which keeps a
+constant color.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10604 0
+D3
+~
+~
+0 0 10671 0
+S
+#10671
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.  There is a way through to the east which travels a short
+distance.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10697 0
+D1
+~
+~
+0 0 10670 0
+D2
+~
+~
+0 0 10696 0
+S
+#10672
+A Way Across the Plane~
+You tread upon yet another way across the plane, access to the north
+and south are possible from this locale.  Off to the southeast is a
+huge gray tower, one that will not leave the field of your vision no
+matter if your back is turned or not.  It beckons to you.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10673 0
+D2
+~
+~
+0 0 10628 0
+S
+#10673
+Traveling the Plane~
+Ways lead to the east, west and south from where you stand.  To the
+east is a upward slant in the plane, a hill of odd, shifting colors
+climbing for a short distance and then descending once again.  West
+and south are almost identical except for the fact that they lead in
+different directions - or do they?    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10679 0
+D2
+~
+~
+0 0 10672 0
+D3
+~
+~
+0 0 10678 0
+S
+#10674
+Traveling the Plane~
+The way leads east and west from here, both directions leading to
+crossways in the paths that this plane offers.  A tower - huge, gray
+and solid in this shifting place - rises to the southeast, its reality
+contrasting sharply with the rest of this place which shifts and
+changes color constantly.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10628 0
+D3
+~
+~
+0 0 10675 0
+S
+#10675
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.  To the east is a way leading for quite some distance.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10676 0
+D1
+~
+~
+0 0 10674 0
+D2
+~
+~
+0 0 10699 0
+S
+#10676
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10677 0
+D2
+~
+~
+0 0 10675 0
+S
+#10677
+Along the Western Border of the Plane~
+Squinting your way to the south, you see that there is no possible way
+to travel any further westward at any point to the south.  It is not a
+solid barrier or any sort of force of any sort prohibiting travel
+westward, it is simply implied through your senses - an understanding
+that you cannot explain but believe with all your heart.  To the east
+is a way leading for quite some distance.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10678 0
+D2
+~
+~
+0 0 10676 0
+S
+#10678
+Along a Northern End of Plane~
+The plane makes a sharp curve to the south just west of here, the
+plane itself curving to accomodate travel in a new direction.  To the
+east the plane travels a short distance before climbing a small hill
+and then dropping off again beyond that.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10673 0
+D3
+~
+~
+0 0 10677 0
+S
+#10679
+On a Slant of the Plane~
+The crest of this hill lies just to the east, the ground looking
+almost like it rolls and boils underfoot.  This would be believable if
+it weren't for the fact that your tread upon the ground here is even
+and steady.  To the west is a meeting of ways, access leading south
+and further west from there.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10680 0
+D3
+~
+~
+0 0 10673 0
+S
+#10680
+At the Crest of the Hill~
+The whole of Nirvana can be seen from this vantage - most of it a hazy
+blend of beauty and color.  The only truly solid, absolute thing on
+the plane is the Tower of Nirvana - the place from which legends
+spring and all things good and evil reside.  The tower lies some
+distance to the south, a tall, proud structure full of grace, majesty
+and mystery.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10681 0
+D3
+~
+~
+0 0 10679 0
+S
+#10681
+On a Slant of the Plane~
+The crest of this hill lies just to the west, the ground looking
+almost like it rolls and boils underfoot.  This would be believable if
+it weren't for the fact that your tread upon the ground here is even
+and steady.  To the east is a meeting of ways, access leading south
+and further east from there.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10661 0
+D3
+~
+~
+0 0 10680 0
+S
+#10682
+Traveling the Plane~
+Just to the east is a curve in the plane, an angle in the fabric of
+this place which allows a change of direction.  To the west is a
+meeting of ways - beyond that, a small hill which may be climbed with
+little effort.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10683 0
+D3
+~
+~
+0 0 10661 0
+S
+#10683
+An Angle in the Plane~
+The plane sharply angles south and west here, the entire fabric of the
+land twisting to accomodate a change of direction.  Colors swirl and
+bend right along with the plane's walkway, a beautiful sight which
+could be stared at for hours and days before one might realize they
+lost track of time.    
+~
+106 0 0 0 0 0
+D2
+~
+~
+0 0 10684 0
+D3
+~
+~
+0 0 10682 0
+S
+#10684
+Along the Plane~
+To the north is a bend in the way the plane travels, the direction
+turning to the west and bending out of sight.  To the south the plane
+dips into small valley, the flooring of that valley not visible from
+this vantage.    
+~
+106 0 0 0 0 0
+D2
+~
+~
+0 0 10663 0
+D3
+~
+~
+0 0 10682 0
+S
+#10685
+Nearing the Base of the Valley~
+Just to the south is the base of the valley which the plane has
+created.  A way leads north back up the slope of the plane toward a
+meeting of trails where travel may be had westward.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10663 0
+D2
+~
+~
+0 0 10686 0
+S
+#10686
+The Base of the Valley~
+You are surrounded by shifting colors, strange patterns of light and
+texture which make up the materials of this plane.  The need to blink
+furiously comes upon you, the colors assaulting your every sense, the
+picture too much to handle all at once.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10685 0
+D2
+~
+~
+0 0 10687 0
+S
+#10687
+Nearing the Base of the Valley~
+Just to the north is the base of the valley which the plane has
+created.  A way leads south back up the slope of the plane toward a
+meeting of trails where travel may be had westward.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10686 0
+D2
+~
+~
+0 0 10667 0
+S
+#10688
+Upon the Plane~
+Just to the south is a bend in the fabric of the plane, travel moving
+from southerly to westward.  To the north is a convergance of trails,
+a western way available from that meeting.  Just past that meeting is
+a small valley which quickly dips out of sight.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10667 0
+D2
+~
+~
+0 0 10689 0
+S
+#10689
+An Angle in the Plane~
+The plane sharply angles north and east here, the entire fabric of the
+land twisting to accomodate a change of direction.  Colors swirl and
+bend right along with the plane's walkway, a beautiful sight which
+could be stared at for hours and days before one might realize they
+lost track of time.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10688 0
+D3
+~
+~
+0 0 10690 0
+D8
+~
+~
+0 0 26793 16
+S
+T 10689
+#10690
+Upon the Plane of Nirvana~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10689 0
+D3
+~
+~
+0 0 10665 0
+S
+#10691
+Upon the Plane of Nirvana~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10665 0
+D3
+~
+~
+0 0 10692 0
+S
+#10692
+Upon the Plane of Nirvana~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10691 0
+D3
+~
+~
+0 0 10693 0
+S
+#10693
+Upon the Plane of Nirvana~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10692 0
+D3
+~
+~
+0 0 10669 0
+S
+#10694
+Upon the Plane of Nirvana~
+The way stretches off to the east and the west for distances
+undeterminable by the naked eye.  One could only make the journey to
+learn the boundaries of this place.  There are ways leading off to
+north just east and just west from here.    
+~
+106 0 0 0 0 0
+D1
+~
+~
+0 0 10669 0
+D3
+~
+~
+0 0 10695 0
+S
+#10695
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.  A way leads to the east for quite some distance.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10696 0
+D1
+~
+~
+0 0 10694 0
+S
+#10696
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10671 0
+D2
+~
+~
+0 0 10695 0
+S
+#10697
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10698 0
+D2
+~
+~
+0 0 10671 0
+S
+#10698
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10699 0
+D2
+~
+~
+0 0 10697 0
+S
+#10699
+Along the Western Border of the Plane~
+Squinting your way to the north and south, you see that there is no
+possible way to travel any further westward at any point to the north
+and south.  It is not a solid barrier or any sort of force of any sort
+prohibiting travel westward, it is simply implied through your senses
+- an understanding that you cannot explain but believe with all your
+heart.    
+~
+106 0 0 0 0 0
+D0
+~
+~
+0 0 10675 0
+D2
+~
+~
+0 0 10698 0
+S
+$~

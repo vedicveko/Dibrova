@@ -1,0 +1,1567 @@
+#10401
+guardian guard~
+the Guardian of Hell~
+A Guardian of Hell stands here keeping you the hell out.
+~
+The guardian is a stone devil.  A hideous creation from the dark
+laboratories of hell.  Its black eyes stare into you soul with a
+hunger that makes you shiver.  The guardian stands motionless before
+you, its rough grey skin looks impervious to normal weapons.    
+~
+6206 0 0 0 2368 0 0 0 -900 E
+85 61 -40 1d35+2400 6d7+56
+0 428673
+8 8 0
+BareHandAttack: 8
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 7
+Luck: 12
+Class: 10
+Race: 41
+E
+#10402
+pile coin gold~
+a Pile of Gold Coins~
+A pile of gold coins lies on the ground.
+~
+A large sparkly pile of gold coins.
+~
+62 0 0 0 2112 0 0 0 -800 E
+65 42 -40 1d15+500 6d6+43
+2250 196628
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+E
+#10403
+male dee demon~
+the male Dee~
+The male demon Dee lies on the bed here waiting to please you.
+~
+This is the most handsome male you have ever seen. His naked body
+makes your mouth water.
+~
+4638 0 0 0 2112 0 0 0 -1000 E
+76 52 -40 1d26+2050 6d7+50
+1300 292948
+8 8 1
+BareHandAttack: 13
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 17
+Luck: 12
+Class: 1
+Race: 51
+E
+#10404
+female dee demon~
+the female Dee~
+The female demon Dee lies on the bed here waiting to please you.
+~
+This is the most beautiful female you have ever seen.  The curves of
+her naked body make you sweat, and babble uncontrollably.    
+~
+4638 0 0 0 2112 0 0 0 -1000 E
+75 51 -40 1d25+2000 6d7+50
+1275 283219
+8 8 2
+BareHandAttack: 2
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Class: 1
+Race: 51
+E
+#10405
+bar gold~
+the Gold Bar~
+A shiny gold bar lies on the ground.
+~
+This gold bar must be worth bucks!
+~
+4158 0 0 0 2112 0 0 0 -800 E
+57 35 -32 1d17+700 5d6+38
+1850 140668
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 16
+Luck: 12
+E
+#10406
+chicken pot pie~
+a scrumpious Chicken Pot Pie~
+A yummy looking chicken pot pie is here on the ground.
+~
+You see a golden crusted pot pie filled with chicken and vegetables.
+~
+16783390 0 0 0 2112 0 0 0 -800 E
+72 48 -40 1d22+1400 6d6+48
+0 255219
+8 8 0
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 17
+Luck: 12
+E
+#10407
+beef pot pie~
+a yummy Beef Pot Pie~
+A yummy looking beef pot pie is here on the ground.
+~
+You see a golden crusted pot pie filled with beef and vegetables.
+~
+4126 0 0 0 2112 0 0 0 -800 E
+72 48 -40 1d22+1400 6d6+48
+0 255219
+8 8 0
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 19
+Luck: 12
+E
+#10408
+vegetable pot pie~
+a yummy Vegetable Pot Pie~
+A yummy looking vegetable pot pie is here on the ground.
+~
+You see a golden crusted pot pie filled with vegetables.
+~
+36894 0 0 0 2112 0 0 0 -800 E
+72 48 -40 1d22+1400 6d6+48
+0 255219
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+E
+#10409
+damned soul~
+a Damned Soul~
+A damned soul wanders aimlessly here.
+~
+You see a faint silhouette of a person.  Looking closely at it you can
+barely make out features that would identify it as the person it was
+in life.    
+~
+2140 0 0 0 2112 0 0 0 -700 E
+62 39 -40 1d12+300 5d6+41
+0 174307
+8 8 0
+BareHandAttack: 10
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 15
+Luck: 12
+Class: 3
+Race: 34
+E
+#10410
+tortured soul~
+a Tortured Soul~
+A tortured soul screams out in pain.
+~
+You see a unrecognizable person going through unheard of and
+indescribable torture.  It screams out at you in pain and terror.    
+~
+220 0 0 0 2112 0 0 0 -800 E
+64 41 -40 1d14+400 6d6+42
+0 189005
+8 8 0
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 13
+Luck: 12
+Race: 34
+E
+#10411
+half-eaten person~
+the Half-eaten Person~
+A half-eaten person lies here writhing in agony.
+~
+This poor soul looks as if he has been chewed on and been spit out.  
+It writhes in agony and pain as it gasps frantically for Death to
+answer its desperate plea...    
+~
+2074 0 0 0 2112 0 0 0 -757 E
+56 34 -32 1d6+70 5d6+37
+900 134460
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 21
+Luck: 12
+Class: 4
+Race: 14
+E
+#10412
+living wall~
+the Living Wall~
+A wall stands here, it's surface seemingly alive.
+~
+The wall consist of greying and sinewy flesh - faces, hands, broken
+bones, feet, and toes jutting from the surface.  You hear low moans of
+horror, pain, and sorrow issuing from the walls.    
+~
+67229722 0 0 0 33622096 163840 0 0 -1000 E
+90 66 -40 1d40+2525 6d7+60
+1700 450852
+8 8 0
+BareHandAttack: 12
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 17
+Luck: 12
+Class: 4
+E
+#10413
+skeletal warrior~
+a Skeletal Warrior~
+A skeletal warrior wanders the planes of hell.
+~
+Rotting flesh and gore drops from the bones of this creature.  Its
+decaying eyes stare at you intently as it sees only you delicious and
+juicy brain.    
+~
+531534 0 0 0 2056 0 0 0 -743 E
+40 21 -20 1d20+1000 4d5+26
+500 57012
+8 8 0
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 16
+Luck: 12
+Class: 4
+Race: 6
+E
+#10414
+bloody severed arm~
+a bloody Severed Arm~
+A bloody severed arm lies here.
+~
+The blood arm of some poor luckless indivudual. The stench of the 
+gore covered limb makes you want to retch.
+~
+14 0 0 0 2048 0 0 0 -884 E
+63 40 -40 1d13+350 6d6+42
+0 181566
+8 8 0
+BareHandAttack: 13
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 23
+Luck: 12
+E
+#10415
+bloody severed foot~
+a bloody Severed Foot~
+A bloody severed foot lies here.
+~
+This bloody foot definitely wasn't a lucky one.
+~
+14 0 0 0 2048 0 0 0 -800 E
+53 31 -32 1d13+350 5d6+35
+0 116847
+8 8 0
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 5
+Luck: 12
+E
+#10416
+bloody severed nose~
+a bloody Severed Nose~
+A bloody severed nose lies here.
+~
+I wonder how the person that lost this smells...  Hopefully not as bad
+as this nose does...    
+~
+14 0 0 0 2048 0 0 0 -800 E
+48 27 -28 1d48+4500 4d5+24
+0 90757
+8 8 0
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 8
+Luck: 12
+E
+#10417
+blood~
+the Blood from the Fountain~
+The blood in the fountain gurgles merrily.
+~
+You see gallons and gallons of thick red blood gurgling in the fountian.
+~
+50366506 0 0 0 67110928 0 0 0 -950 E
+96 73 -40 1d46+3500 6d8+64
+0 558080
+8 8 0
+BareHandAttack: 10
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 21
+Luck: 12
+Class: 3
+E
+#10418
+lost soul~
+the Lost Soul~
+A lost soul stands here looking lost.
+~
+This soul is definetely clueless to where it is.  He holds a ticket
+that reads #14349023402342039840293481234900049.    
+~
+2124 0 0 0 2048 0 0 0 -500 E
+97 74 -40 1d47+4000 6d8+64
+0 545738
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 7
+Luck: 12
+Race: 34
+E
+#10419
+crispy critter~
+the Crispy Critter~
+A crispy critter is here being burned to death.
+~
+This once used to be a person.  Now it is only a charred and smoking
+hulk that is being burned for eternity...  I screams out as the flames
+lick at its body and devour its flesh...    
+~
+22638 0 0 0 264256 0 0 0 -800 E
+80 56 -40 1d30+2250 6d7+53
+1400 367272
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 18
+Luck: 12
+Class: 4
+Race: 34
+E
+#10420
+pile bones skeleton~
+a Pile of Bones~
+A decaying pile of bones lies here on the ground.
+~
+Stringy bits of flesh blow gently in the breeze.  The bones rattle as
+you walk by them.    
+~
+100362 0 0 0 2048 0 0 0 -700 E
+91 67 -40 1d41+2600 6d7+60
+0 463737
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 5
+Luck: 12
+Race: 36
+E
+#10421
+manes sub-demon~
+the Manes~
+A manes is here wandering the planes of hell looking for something to kill.
+~
+A gruesome sub-demon who used to be a mortal.  It is a
+semi-intelligent creature who attacks anyone they encounter with nails
+and teeth.  They are often fed upon by Demon lords and princes.  
+Their green and red blotched skin gives them a diseased and decaying
+look.  They somewhat resemble shadows or ghasts.    
+~
+596026 0 0 0 526416 0 0 0 -900 E
+95 72 -40 1d45+3000 6d8+63
+1825 517501
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 23
+Luck: 12
+Class: 3
+Race: 41
+E
+#10422
+prisoner raiden~
+the prisoner Raiden~
+The prisoner of hell, Raiden sits here for eternity.
+~
+This is a sad individual.  He smells strongly of the rotten food that
+has been thrown at him.  He sits here chained to the wall; banished to
+hell forever by the God.    
+~
+120858 0 0 0 2112 0 0 0 1000 E
+98 75 -40 1d48+4500 6d8+65
+1900 560199
+8 8 1
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 15
+Luck: 12
+Class: 8
+Race: 14
+E
+#10423
+prisoner hell~
+a Prisoner in Hell~
+A sad looking individual sits here awaiting torture.
+~
+She is sad looking indeed. Cuts and scraps all over her. Many scars
+and burns cover her face and arms.
+~
+158 0 0 0 2112 0 0 0 -800 E
+92 68 -40 1d42+2700 6d7+61
+1750 476843
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 22
+Luck: 12
+Race: 14
+E
+#10424
+prisoner hell~
+a Prisoner in Hell~
+A sad looking individual sits here awaiting torture.
+~
+He is sad looking indeed.  Cuts and scraps all over him.  Many scars
+and burns cover her face and arms.  One of his arms is broken at the
+forearm and hangs limply by his side.    
+~
+158 0 0 0 2112 0 0 0 -800 E
+90 66 -40 1d40+2525 6d7+60
+1700 450852
+8 8 1
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Race: 14
+E
+#10425
+demonguard demon guard~
+a Demonguard~
+A demonguard patrols the planes of hell.
+~
+This very large demon stands before you licking its daggerlike teeth.
+Yellow spittle runs down the scales of his blackened skin.    
+~
+67803208 0 0 0 2128 0 0 0 -800 E
+90 66 -40 1d40+2525 6d7+60
+1700 450852
+8 8 0
+BareHandAttack: 4
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 7
+Luck: 12
+Class: 10
+Race: 41
+E
+#10426
+burning fool~
+the Burning Fool~
+A burning fool is here, crisping away.
+~
+You can barely make out anything on it.  All you can make out is the
+flames of hell consuming it and the smell of burning flesh.    
+~
+2090 0 0 0 264256 0 0 0 -900 E
+88 64 -40 1d38+2475 6d7+58
+1600 468316
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 20
+Luck: 12
+Class: 4
+Race: 34
+E
+#10427
+construction worker male~
+a Construction Worker~
+A construction worker is here welding pipework.
+~
+He is the typical contruction worker.  T-shirt, jeans, yellow hard
+hat.  As you look closer at the hard hat you notice it says, '4th
+DEMONsion Construction Co.  '
+~
+55354 0 0 0 2112 0 0 0 -666 E
+85 61 -40 1d35+2400 6d7+56
+3200 389703
+8 8 1
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 14
+Luck: 12
+Class: 4
+Race: 7
+E
+#10428
+construction worker female~
+a Construction Worker~
+A construction worker is here working riviting framework.
+~
+She is the typical contruction worker.  T-shirt, jeans, yellow hard
+hat.  As you look closer at the hard hat you notice it says, '4th
+DEMONsion Construction Co.  '
+~
+55354 0 0 0 2112 0 0 0 -666 E
+85 61 -40 1d35+2400 6d7+56
+1525 389703
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Class: 4
+Race: 7
+E
+#10429
+worker construction~
+a Construction Worker~
+A construction worker is here working cutting structural steel.
+~
+She is the typical contruction worker.  T-shirt, jeans, yellow hard
+hat.  As you look closer at the hard hat you notice it says, '4th
+DEMONsion Construction Co.  '
+~
+55354 0 0 0 2112 0 0 0 -666 E
+85 61 -40 1d35+2400 6d7+56
+1525 389703
+8 8 2
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 25
+Luck: 12
+Class: 4
+Race: 7
+E
+#10430
+fire devil~
+the Fire Devil~
+A fire devil stands here with a box of matches lighting up poor souls.
+~
+It is an undescribly grotesque creature.  Its pale green-yellow skin
+erupts with blisters and puss.  As you look at it, it smiles at you
+with sharp blood covered teeth.  This is definetly a face only a
+mother could love.    
+~
+67733530 0 0 0 264272 0 0 0 -1000 E
+95 72 -40 1d45+3000 6d8+63
+1825 569251
+8 8 0
+BareHandAttack: 8
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 18
+Luck: 12
+Class: 1
+Race: 41
+E
+#10431
+wall fire~
+the Wall of Fire~
+A wall of fire is here, creeping slowly across the room.
+~
+It is simply a large door sized wall of fire.  It slowly inches across
+the room burning everything in its path; Including the poor souls that
+are chained to various posts around the room.    
+~
+67209242 0 0 0 264272 0 0 0 -600 E
+81 57 -40 1d31+2300 6d7+54
+0 379093
+8 8 0
+BareHandAttack: 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 10
+Luck: 12
+Class: 4
+E
+#10432
+hell hound~
+a Hell Hound~
+A hell hound runs free through the halls of hell.
+~
+This freak of a canine is rusty red to red brown in color.  Its eyes
+glow an ghastly red.  Its sooty black teeth and tongue are covered
+with green spittle that runs down its dung covered coat.    
+~
+235562 0 0 0 264256 0 0 0 -900 E
+93 69 -40 1d43+2800 6d8+62
+0 539188
+8 8 0
+BareHandAttack: 4
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 13
+Luck: 12
+Race: 8
+E
+#10433
+frozen body~
+a Frozen Body~
+A frozen body lies here on the ground.
+~
+As you look at the corpse you recoil as you notice its eyes still
+move.  They stare intently from its bluish face as if pleading for
+your help.    
+~
+16394 0 0 0 2064 0 0 0 -900 E
+84 60 -40 1d34+2375 6d7+56
+1500 378119
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 7
+Luck: 12
+Race: 6
+E
+#10434
+ice devil~
+the Ice Devil~
+A Greater Ice Devil stands here cheerfully freezing souls..
+~
+This devil is a mix of bug, bird, humanoid, and who knows what else.
+Its multifaceted eyes stare everywhere.  It goes about its business of
+slowly and painfully freezing the damned souls, quickly thawing them
+and then starting over.  Every couple of minutes it takes time out to
+break an apendage off of a nearby soul and beat the soul with it.    
+~
+67684378 0 0 0 2384 0 0 0 -1000 E
+99 76 -40 1d49+5000 6d8+66
+1925 632380
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 23
+Luck: 12
+Class: 1
+Race: 41
+E
+#10435
+trapped soul ice~
+a Trapped Soul~
+A soul trapped under the ice gasps desperately for air.
+~
+This poor soul has been incased in ice; almost as if it is caught
+under an iceflow.  It desperatly gasps for air for a few minutes and
+then seems to die for a second before it is restored and begins
+thrashing about again.    
+~
+10 0 0 0 2048 0 0 0 -789 E
+86 62 -40 1d36+2425 6d7+57
+0 401501
+8 8 0
+BareHandAttack: 10
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Race: 34
+E
+#10436
+half frozen body~
+a Half-frozen Body~
+A half frozen body hangs here on a meat hook.
+~
+A large meat hook is imbedded deep withing the back of the body.  You
+see small white maggots eating away at the body.  The flesh seems to
+move and wriggle with a life of its own...    
+~
+10 0 0 0 2048 0 0 0 -876 E
+40 21 -20 1d40+2525 4d5+26
+0 57012
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 5
+Luck: 12
+Race: 14
+E
+#10437
+killer penguin~
+a Killer Penguin~
+A small penguin waddles around here on the ice.
+~
+What a cute little penguin....  Wait why is it looking at you that
+way...  HEY!  Penguins don't have teeth!    
+~
+100702218 0 0 0 2128 2 0 0 -876 E
+60 37 -36 1d32+2325 5d6+40
+0 160325
+8 8 0
+BareHandAttack: 4
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 20
+Luck: 12
+Race: 3
+E
+#10438
+i-scream worker~
+an I-scream Worker~
+An I-scream worker runs from machine to machine.
+~
+It moves about so frantically you can't really get a chance to look at
+it.  It runs about screaming, 'I SCREAM, YOU SCREAM!  WE ALL SCREAM
+FOR I SCREAM!!!  '
+~
+6202 0 0 0 2064 0 0 0 -706 E
+95 72 -40 1d45+3000 6d8+63
+1825 517501
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Class: 12
+Race: 7
+E
+#10439
+ice screamer~
+the Ice Screamer~
+An Ice Screamer is here yelling into empty cartons.
+~
+He is dressing in a white jumpsuit with the words, 'Eye Splean I
+Screamery' written on it in large yellow letters.    
+~
+563258 0 0 0 33556560 0 0 0 -706 E
+81 57 -40 1d31+2300 6d7+54
+1425 344630
+8 8 0
+BareHandAttack: 13
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 23
+Luck: 12
+Class: 4
+Race: 7
+E
+#10440
+construction foreman demonic~
+the Demonic Foreman~
+A Demonic Foreman sits here looking at blueprints.
+~
+This huge demon has somehow managed to fit himself into a oversized
+orange jumpsuit.  The words, '4th DEMONsion Construction Co.  ' are
+written on the back in large black letters.  He seems none to happy to
+see you.    
+~
+251946 0 0 0 264256 0 0 0 -1000 E
+91 67 -40 1d41+2600 6d7+60
+1725 510110
+8 8 1
+BareHandAttack: 13
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 15
+Luck: 12
+Class: 9
+Race: 41
+E
+#10441
+secretary of hell~
+the Secretary of Hell~
+The Secretary of Hell sits here watching the phones ring.
+~
+This very sexy secretary seems to be just sitting here amusing herself
+by watching the little lights on the telephone blink.  She is
+oblivious to your presence and seems fascinated by the phones.    
+~
+542750 0 0 0 2128 0 0 0 -700 E
+79 55 -40 1d29+2200 6d7+52
+1375 323344
+8 8 2
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 25
+Luck: 12
+Race: 51
+E
+#10442
+office worker hell~
+an Office Worker from Hell~
+An office worker from hell is here looking for a boss to piss off.
+~
+Just looking at them makes your blood boil.  
+AAAAAAAAAAaaaaaaaaaaaarrrrrrrrgggggghhhhh!!!!!!!!!!!    
+~
+76 0 0 0 2048 0 0 0 -1000 E
+85 61 -40 1d35+2400 6d7+56
+1525 389703
+8 8 0
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 22
+Luck: 12
+Class: 12
+Race: 51
+E
+#10443
+records worker~
+a Records Worker from Hell~
+A records worker is here filing bad reports.
+~
+You see a rather plain looking office personel here filing a file on
+someone.    
+~
+14 0 0 0 2048 0 0 0 -1000 E
+85 61 -40 1d35+2400 6d7+56
+1525 389703
+8 8 0
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 18
+Luck: 12
+Class: 12
+Race: 51
+E
+#10444
+santa claus~
+the Evil Santa Claus~
+Santa Claus is here checking who has been naughty...
+~
+Its a jolly old man, with red cheeks and a rolly poley belly and a
+laugh as jolly as you can get.    
+~
+776250 0 0 0 2368 0 0 0 -1000 E
+91 67 -40 1d51+6120 6d7+60
+1725 510110
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 25
+Luck: 12
+Class: 4
+Race: 41
+E
+#10445
+high priest hell~
+the High Priest of Hell~
+The High Priest of Hell is here eating 'I Scream'.
+~
+The dark black robes hide most of his features, but you can barely
+make out his emaciated face beneath his hood.    
+~
+34114058 0 0 0 264512 0 0 0 -1000 E
+108 86 -40 1d58+6960 11d11+72
+2150 861246
+8 8 1
+BareHandAttack: 15
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Class: 2
+Race: 34
+E
+#10446
+bowl blood~
+a Bowl of Blood~
+A bowl of blood sits here on the altar.
+~
+Its is a wooden bowl filled with blood and bits of flesh.
+~
+83902474 0 0 0 2128 0 0 0 -900 E
+77 53 -40 1d27+2100 6d7+51
+0 302878
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 18
+Luck: 12
+E
+#10447
+jury member~
+a Jury Member~
+A jury member sits here with a guilty sign, waiting for a trial to begin.
+~
+It seems to be a lesser demon disguised as mortal.  Fair trial...  
+Not likely.    
+~
+6154 0 0 0 2048 0 0 0 -800 E
+94 71 -40 1d44+2900 6d8+62
+1800 503723
+8 8 0
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 6
+Luck: 12
+Race: 51
+E
+#10448
+judge whopper~
+Judge Whopper~
+Judge Whopper sits here trying to think of a painful sentence.
+~
+This is the High Judge of Hell.  He has never found anyone innocent,
+and is notorious for his painful and harsh punishments.    
+~
+251946 0 0 0 2128 0 0 0 -1000 E
+109 87 -40 1d59+7080 11d12+72
+2175 734774
+8 8 0
+BareHandAttack: 7
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 9
+Luck: 12
+Class: 9
+Race: 41
+E
+#10449
+lawyer hell~
+a Lawyer from Hell~
+The Lawyer from Hell sits here playing games on his laptop computer.
+~
+Slimy, sleazy and has very sharp teeth...a lawyer all right...
+~
+100394 0 0 0 2064 0 0 0 -1000 E
+83 59 -40 1d33+2350 6d7+55
+1475 366746
+8 8 0
+BareHandAttack: 11
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 20
+Luck: 12
+Class: 3
+Race: 41
+E
+#10450
+complaints officer~
+the Complaints Officer~
+The Complaints Officer is here watching her favorite soap opera.
+~
+She seems not to notice you; But is absorbed in her favorite soap, 'As
+The Hell Burns'
+~
+2186 0 0 0 2064 0 0 0 -1000 E
+87 63 -40 1d37+2450 6d7+58
+1575 413514
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 25
+Luck: 12
+Class: 12
+Race: 51
+E
+#10451
+bastard hiramoto~
+the Bastard Hiramoto~
+The Bastard Hiramoto stands here trying to learn Kung Fu from a book.
+~
+He looks at you and says, 'I think my Kung Fu is no good' and then
+goes back to practicing.  He is known to buy anything....  And sell
+anything people sell him.    
+~
+33671178 0 0 0 2128 163840 0 0 -600 E
+83 59 -40 1d33+2350 6d7+55
+1475 366746
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 15
+Luck: 12
+Class: 8
+Race: 11
+E
+#10452
+maintenance worker~
+a Maintence Worker~
+A maintenance worker is here fixing stuff.
+~
+He is in a yellow jumpsuit with a large nuclear warning symbol on the
+back.    
+~
+55306 0 0 0 2112 0 0 0 -750 E
+83 59 -40 1d33+2350 6d7+55
+1475 366746
+8 8 0
+BareHandAttack: 13
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 12
+Luck: 12
+Class: 4
+Race: 51
+E
+#10453
+weeds~
+a Weed~
+A weed is growing out of the cement here.
+~
+You see a nasty yellow and purple weed.
+~
+10 0 0 0 64 0 0 0 -1000 E
+30 14 -20 1d30+2250 3d3+20
+0 27376
+8 8 0
+BareHandAttack: 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 20
+Luck: 12
+Race: 26
+E
+#10454
+stanley~
+Stanley~
+Stanley stands here waiting to sell you one of his wonderful figurines.
+~
+He is a crafty old fart who looks about 1000 years old.  But his
+figurines are pretty well known.  He was rumored to disappear around
+Solace 100 years ago.    
+~
+33671178 0 0 0 2128 163840 0 0 -700 E
+86 62 -40 1d36+2425 6d7+57
+1550 401501
+8 8 1
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 4
+Race: 11
+E
+#10455
+half eaten horse carcass~
+an half-eaten horse Carcass~
+A half eaten horse carcass is here being digested.
+~
+This is what used to be a horse....  Maybe...  Its hard to tell; half
+of it has been digested already.    
+~
+10 0 0 0 2048 0 0 0 -800 E
+35 17 -20 1d37+2450 3d5+23
+0 40559
+8 8 0
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 19
+Luck: 12
+Race: 6
+E
+#10456
+stomach dragon~
+the Stomach Dragon~
+A stomach dragon is here digesting Big Mouth's food.
+~
+A large brown and green slime covered reptile. It seems to move around
+to each food item and proceed to barf acid all over it.
+~
+33609738 0 0 0 33556496 0 0 0 -900 E
+92 68 -40 1d42+2700 6d7+61
+1750 476843
+8 8 0
+BareHandAttack: 8
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 14
+Luck: 12
+Race: 2
+E
+#10457
+rancid turkey leg~
+a rancid Turkey Leg~
+A rancid turkey leg sits in a pool of slime here.
+~
+Its one of those really nasty pieces of food in the refrigerator that
+disappears and you wonder if it just walked away....    
+~
+10 0 0 0 2048 0 0 0 -900 E
+20 8 20 1d32+2325 1d4+13
+0 9735
+8 8 0
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+Luck: 12
+Race: 6
+E
+#10458
+reactor specialist~
+a Reactor Specialist~
+A reactor specialist sits here checking on the reactor core.
+~
+He is dressed in a black jumpsuit with a large nuclear warning symbol
+on the back.    
+~
+22554 0 0 0 2112 0 0 0 -900 E
+91 67 -40 1d41+2600 6d7+60
+1725 463737
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 24
+Luck: 12
+Class: 4
+Race: 51
+E
+#10459
+reactor worker~
+a Reactor Worker~
+A reactor worker sits here monitoring various screens.
+~
+He is dressed in a black jumpsuit with a large lighting bolt symbol on
+the back.    
+~
+22558 0 0 0 2112 0 0 0 -900 E
+87 63 -40 1d37+2450 6d7+58
+1575 413514
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 9
+Luck: 12
+Class: 9
+Race: 51
+E
+#10460
+homer simpson~
+Homer Simpson~
+Homer Simpson sits here eating donuts.
+~
+A balding fat man with jelly stains on his uniform.  He suddenly
+spills his coffee and shouts out, 'DOH!  ' Warning lights blink
+rapidly as the coffee shorts out the control panel.  Homer calmly
+stands up and unplugs the control panel and sits down for a nap.    
+~
+34134058 0 0 0 2064 0 0 0 -900 E
+99 76 -40 1d49+5000 6d8+66
+1925 574891
+8 8 1
+BareHandAttack: 14
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 22
+Luck: 12
+Class: 9
+Race: 41
+E
+#10461
+devils food cake~
+a Devil's Food Cake~
+A nice slice of devils food cake is here waiting to be eaten.
+~
+Mmmmmm...don't you just want to take a bite?
+~
+16394 0 0 0 2048 0 0 0 -900 E
+10 3 60 1d3+20 1d2+6
+0 1662
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 16
+Luck: 12
+E
+#10462
+cook mad~
+the Mad Cook~
+A mad cook is here cooking up a storm.
+~
+You spots you and screams, 'Git awa froom mi food!  ' 'I'll kill you!
+~
+22558 0 0 0 2112 0 0 0 -900 E
+88 64 -40 1d38+2475 6d7+58
+1600 425742
+8 8 1
+BareHandAttack: 5
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 21
+Luck: 12
+Race: 51
+E
+#10463
+frantic lady~
+a Frantic Lady~
+A frantic lady is here tearing her hair out looking for a sale.
+~
+Ugly!
+~
+16446 0 0 0 33554512 0 0 0 -600 E
+84 60 -40 1d34+2375 6d7+56
+1500 378119
+8 8 2
+BareHandAttack: 10
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 8
+Luck: 12
+Race: 34
+E
+#10464
+nuclear technician~
+a Nuclear Technician~
+A nuclear technician is here fiddling with his rad suit.
+~
+Wau, dont get too close, he seems to be glowing!
+~
+22558 0 0 0 2112 0 0 0 -850 E
+86 62 -40 1d36+2425 6d7+57
+1550 401501
+8 8 1
+BareHandAttack: 13
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Race: 51
+E
+#10465
+stray proton~
+a Stray Proton~
+A stray proton is here wizzing about.
+~
+I can't see it. Can you?
+~
+67176474 0 0 0 33556544 131072 0 0 -850 E
+81 57 -40 1d31+2300 6d7+54
+0 344630
+8 8 0
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 13
+Luck: 12
+Class: 1
+E
+#10466
+radiation~
+some Radiation~
+Radiation is here doing unknown things to you.
+~
+Eagle eyes?
+~
+67213322 0 0 0 33556544 131072 0 0 -1000 E
+80 56 -40 1d30+2250 6d7+53
+0 333884
+8 8 0
+BareHandAttack: 12
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 9
+Luck: 12
+Class: 1
+E
+#10467
+chief engineer hell~
+the Chief Engineer of Hell~
+The Chief Engineer of Hell is here playing with the panic button.
+~
+He kinda reminds you a an old Bart Simpson.  He seems to be enjoying
+the panic button at the moment; Chuckling happily as workers below on
+the reactor floor frantically check dials and gauges while flashing
+lights and sirens sound.    
+~
+18494 0 0 0 2112 0 0 0 -1000 E
+89 65 -40 1d39+2500 6d7+59
+1675 438188
+8 8 1
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 18
+Luck: 12
+Class: 4
+Race: 41
+E
+#10468
+greater fire demon~
+the Greater Fire Demon~
+A Greater Fire Demon stands here laughing at each scream he hears..
+~
+This large black scaled demon laughs merrily as he watches poor souls
+scream out in pain. He pokes and picks at the flesh of the damned who
+were unlucky enough to be tortured close to him. His black taloned 
+nails rip slowly through their flesh, as he cackles with glee at the
+sounds of their unending pain...
+~
+579642 0 0 0 33818944 0 0 0 -1000 E
+95 72 -40 1d45+3000 6d8+63
+1825 621001
+8 8 0
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 22
+Luck: 12
+Class: 4
+Race: 41
+E
+#10469
+frozen side beef~
+a Side of frozen Beef~
+A frozen side of beef hangs here on a hook.
+~
+This enormous carcass looks as if it came from a small dragon or a
+very large cow.    
+~
+16394 0 0 0 2048 0 0 0 -675 E
+25 11 0 1d31+2300 2d3+16
+0 17197
+8 8 0
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 6
+E
+#10470
+guard dog~
+a Guard Dog~
+A guard dog sits here guarding the break room.
+~
+A vicious looking pit bull / demon dog mix is here slobering on the
+donuts.    
+~
+530474 0 0 0 33556544 0 0 0 -900 E
+70 47 -40 1d33+2350 6d6+46
+0 237528
+8 8 0
+BareHandAttack: 4
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 10
+Luck: 12
+Race: 41
+E
+#10471
+juicy steak~
+a juicy Steak~
+A mouth watering juicy steak is here steaming.
+~
+Mmmmmmm.....steak....mmmmmm...you feel your mouth start to water.
+~
+10 0 0 0 2048 0 0 0 -900 E
+5 1 80 1d30+2250 1d2+3
+0 283
+8 8 0
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 16
+Luck: 12
+E
+$

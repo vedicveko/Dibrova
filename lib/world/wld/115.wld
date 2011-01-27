@@ -1,0 +1,1721 @@
+#11500
+Path near a Village~
+You can see a village to the north and a bridge spans a small chasm to
+the south.  A path leads up to the village.    
+~
+115 0 0 0 0 2
+D0
+~
+~
+0 0 11501 0
+D2
+~
+~
+0 0 11798 0
+S
+#11501
+The wooden gates of Silmarian~
+The wooden gates of Silmarian stand just to the north.  Village guards
+stand to either side of the gates watching those that pass, but they
+do not seem to be hindering anyone from entering the village proper.
+Log walls stretch to the east and west.  To the south a path wanders
+towards a bridge and to the north the village of Silmarian can be seen
+through the gates.    
+~
+115 4 0 0 0 2
+D0
+~
+~
+0 0 11502 0
+D2
+~
+~
+0 0 11500 0
+S
+#11502
+South gates of Silmarian~
+The sounds of the village slowly drift to you here at the edge of
+Silmarian.  A solid looking gate to the south is open and guards are
+posted to either side.  To the north Main Street runs the length of
+the village and Dragon Avenue crosses your path from east to west.  
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11505 0
+D1
+~
+~
+0 0 11504 0
+D2
+~
+~
+0 0 11501 0
+D3
+~
+~
+0 0 11503 0
+S
+#11503
+Dragon Avenue~
+There is a cobbled stoned street running east and west.  The sounds
+from the village echo slightly off of buildings nearby.  To the east
+is the south gate of Silmarian and westward the the street continues
+on.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11502 0
+D3
+~
+~
+0 0 11536 0
+S
+#11504
+Dragon Avenue~
+There is a cobbled stoned street running east and west.  The sounds
+from the village echo slightly off of buildings nearby.  To the west
+is the south gate of Silmarian and eastward the the street continues
+on.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11534 0
+D3
+~
+~
+0 0 11502 0
+S
+#11505
+Main Street~
+This is the Main Street of Silmarian.  Years of wagon travel have left
+rutted paths up and down the street.  Central Plaza is to the north,
+Pordrul's Inn west and Rigithan's Pub is to the east.  To the south is
+the South Gate, where guards can be seen at their post.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11506 0
+D1
+~
+door~
+1 0 11507 3
+D2
+~
+~
+0 0 11502 0
+D3
+~
+door~
+1 0 11508 3
+S
+#11506
+Central Plaza~
+A wide plaza has been made here.  This a place that people of the
+village can hold special event or mingle during the day as the go
+about their daily buisness.  A large paved area dominates the center
+of the plaza, with grass surrounding the pavement.  Trees have been
+sparsely planted throughout the entire plaza area.  Main Street runs
+from the north and south, while Central Avenue leads to the east and
+west.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11509 0
+D1
+~
+~
+0 0 11510 0
+D2
+~
+~
+0 0 11505 0
+D3
+~
+~
+0 0 11511 0
+S
+#11507
+Pordrul's Inn~
+Pordrul maintains a well kept inn.  The sawdust upon the floor looks
+fresh and the tables have not only been cleaned, but waxed until they
+shine.  There are a few tables spaced around the room with a lantern
+set upon each.    
+~
+115 12 0 0 0 1
+D3
+~
+door~
+1 0 11505 3
+S
+#11508
+Rigithan's Pub~
+A fireplace crackles in the back of the Pub, giving off a low level of
+light and plenty of smoke.  : The smoke is curling up through a hole
+in the celing.  Many benches and tables are lined up around the room,
+and Rigithan, a sout short man in a white apron smiles as you enter.
+For all the smoke in the room, the Pub is quite clean,: with fresh saw
+dust on the floor and the tables are wiped clean.    
+~
+115 12 0 0 0 1
+D1
+~
+door~
+1 0 11505 3
+E
+fireplace fire~
+   A well made fireplace give off a lot of smoke as the green wood
+used to build the fire burns.    
+~
+S
+#11509
+Main Street~
+This is the main street of Silmarian.  Years of wagon travel have left
+rutted paths up and down the street.  Central Plaza is to the south,
+Crystal's Clothing east, Baraham's Magic west and to the north you can
+see the North Gate.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11514 0
+D1
+~
+door~
+1 0 11512 3
+D2
+~
+~
+0 0 11506 0
+D3
+~
+door~
+1 0 11513 3
+S
+#11510
+Central Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo off of the buildings nearby.  Central Avenue
+runs east and to the west is a plaza.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11527 0
+D3
+~
+~
+0 0 11506 0
+S
+#11511
+Central Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo off of the buildings nearby.  Central Avenue
+runs west and to the east is a plaza.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11506 0
+D3
+~
+~
+0 0 11545 0
+S
+#11512
+Crystal's Clothing~
+Among one of the first shops in Silmarian, Crystal's Clothing has
+been passed to generation after generation.  The current operator is
+Francine, Crystal's great granddaughter.  Bolts of good quality cloth
+have been arranged along the walls and many finshed products have been
+put on display to so the compentance of the owner.    
+~
+115 12 0 0 0 1
+D3
+~
+door~
+1 0 11509 3
+S
+#11513
+Barahum's Magic~
+Barahum's is a dimly light shop.  A thin layer of dust can be seen
+upon the shelving that is lined with many differnt types of bottles
+with as many differnt colored substances inside.  The shop is orderly,
+if a little neglected.  Main Street can be seen through the door to
+the east.    
+~
+115 140 0 0 0 1
+D1
+~
+door~
+1 0 11509 3
+S
+#11514
+North gates of Silmarian~
+The sounds of the village slowly drift to you here at the edge of
+Silmarian.  A solid looking gate to the north is open and guards have
+been posted to either side.  To the south Main Street runs the length
+of the village and North Avenue crosses your path from east to west.
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11517 0
+D1
+~
+~
+0 0 11515 0
+D2
+~
+~
+0 0 11509 0
+D3
+~
+~
+0 0 11516 0
+S
+#11515
+North Avenue~
+There is a cobbled stoned street running east to west.  The sounds of
+the village echo off of the nearby buildings.  The North Gate of
+Silmarian, with it's guards can be seen to the west.  North Avenue
+continues to the east.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11518 0
+D3
+~
+~
+0 0 11514 0
+S
+#11516
+North Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the villagers filter out though the
+windows and doors of peoples homes.  North Avenue runs east to west.
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11514 0
+D3
+~
+~
+0 0 11549 0
+S
+#11517
+Outside the North gates of Silmarian~
+The wooden gates of Silmarian stand just to the south.  Village guards
+stand to either side of the gates watching those that pass, but they
+do not seem to be hindering anyone from entering the village proper.
+Log walls stretch to the east and west.  To the north a path wanders
+away from the village walls, and to the south the village of Silmarian
+can be seen through the gates.    
+~
+115 4 0 0 0 1
+D0
+~
+~
+0 0 11552 0
+D2
+~
+~
+0 0 11514 0
+S
+#11518
+North Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo off of the nearby buildings.  This is mostly a
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls of the village.  North Avenue runs east and west.
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11519 0
+D3
+~
+~
+0 0 11515 0
+S
+#11519
+Corner of North and Merchant~
+The corner of North and Merchant is cobbled stoned like the rest of
+the streets in Silmarian.  Buildings have been built right up against
+the wooden walls of the village.  Villager's homes have been built in
+with the businesses along the streets.  North Avenue runs to the west
+and Merchant's Street leads away to the south.    
+~
+115 0 0 0 0 1
+D1
+~
+door~
+1 0 11520 3
+D2
+~
+~
+0 0 11521 0
+D3
+~
+~
+0 0 11518 0
+S
+#11520
+The Kimberling Residence~
+This plain home has a nice, comfortable look to it.  Nothing is fancy,
+but it has been well-maintained.  Pictures of horses hang all over the
+walls in here.    
+~
+115 8 0 0 0 1
+D3
+~
+door~
+1 0 11519 3
+E
+pictures horses~
+Many pictures showing horses in action hang everywhere there is space.
+~
+S
+#11521
+Merchant's Street~
+There is a cobbled stoned street running north to south.  The sounds
+from the village echo slightly off of the buildings nearby.  
+Merchant's Street continues from north to south, Arbul's Bakery is to
+the east and Fridil's Weapon Shop is to the west.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11519 0
+D1
+~
+door~
+1 0 11522 3
+D2
+~
+~
+0 0 11524 0
+D3
+~
+door~
+1 0 11523 3
+S
+#11522
+Arbul's Bakery~
+The smells of baking fill the shop.  Freshly baked goods have been set
+upon an angled set of shelves in the middle of the room.  Day old
+baked goods have been placed to either side of the room on tables.  
+~
+115 12 0 0 0 1
+D3
+~
+door~
+1 0 11521 3
+D4
+~
+door~
+1 0 11525 3
+S
+#11523
+Fridil's Weapon Shop~
+Smells of metal and oil fill the air.  Many well-oiled weapons have
+been displayed long the walls of the shop.  A long counter near the
+back wall displays many knives and daggers.    
+~
+115 140 0 0 0 1
+D1
+~
+door~
+1 0 11521 3
+S
+#11524
+Merchant's Street~
+There is a cobbled stoned street running north to south.  The sounds
+from the village echo slightly off of the buildings nearby.  To the
+east is Megan's Silver Shoppe, Merchant's Street continues north and
+south.  Central Avenue leads off to the west.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11521 0
+D1
+~
+door~
+1 0 11526 3
+D2
+~
+~
+0 0 11528 0
+D3
+~
+~
+0 0 11527 0
+S
+#11525
+Arbul Residence~
+This is the residence of the Arbul family.  The smells from the shop
+below are still strong here.  Like many family business owners, the
+Arbul's live above their shop.    
+~
+115 8 0 0 0 1
+D5
+~
+door~
+1 0 11522 3
+S
+#11526
+Megan's Silver Shoppe~
+The silver shop consists of 3 long display cases made of glass.  The
+wares for sale have been set upon black velvet and placed into the
+cases.  There is a cashier's cage set up in the rear of the room.    
+~
+115 12 0 0 0 1
+D3
+~
+door~
+1 0 11524 3
+D4
+~
+door~
+1 0 11529 3
+S
+#11527
+Central Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo off of the buildings nearby.  Central Avenue
+runs east to west.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11524 0
+D3
+~
+~
+0 0 11510 0
+S
+#11528
+Merchant's Street~
+There is a cobbled stoned street running north and south.  The sounds
+from the village echo slightly off of buildings nearby.  To the east
+is Drul's Armor and Merchant's Street continues north and south.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11524 0
+D1
+~
+door~
+1 0 11530 3
+D2
+~
+~
+0 0 11531 0
+S
+#11529
+Megan Shersom's Residence~
+This is the Shersom's residence.  Like many shop owners, Megan has
+made her home above her shop.    
+~
+115 8 0 0 0 1
+D5
+~
+door~
+1 0 11526 3
+S
+#11530
+Drul's Armor~
+The armor shop smells of oil, rust and metal.  Various pieces of armor
+have been placed about the shop as well as some sets of armor.    
+~
+115 140 0 0 0 1
+D3
+~
+door~
+1 0 11528 3
+D4
+~
+door~
+1 0 11532 3
+S
+#11531
+Corner of Merchant and Dragon~
+The corner of Merchant and Dragon is cobblestoned like the rest
+of the streets in Silmarian.  Buildings have been built up against the
+wooden walls of the village.  This is mainly a residential area of the
+village, but various family businesses have been built in amoung the
+homes.  Merchant Street continues to the north and Dragon Avenue leads
+off to the west.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11528 0
+D1
+~
+door~
+1 0 11533 3
+D3
+~
+~
+0 0 11534 0
+S
+#11532
+Drul Beechum Residence~
+This is the residence of the Beechum family.  Like many shops in
+Silmarian, the family lives above their place of work.    
+~
+115 8 0 0 0 1
+D5
+~
+door~
+1 0 11530 1
+S
+#11533
+The Giacomini Residence~
+This is the home of the Giacomini family.  The home is rather plain in
+appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D3
+~
+door~
+1 0 11531 3
+S
+#11534
+Dragon Avenue~
+There is a cobbled stoned street running east and west.  The sounds
+from the village echo slightly off of buildings nearby.  To the north
+is Meachum's General Store, east and west Dragon Avenue continues on.
+~
+115 0 0 0 0 1
+D0
+~
+door~
+1 0 11535 3
+D1
+~
+~
+0 0 11531 0
+D3
+~
+~
+0 0 11504 0
+S
+#11535
+Meechum's General Store~
+Meechum's store is neatly swept and well-ordered.  Shelves line the
+walls with various items needed by the village people and many for the
+traveler as well.  The walls are wood paneled and looked to have been
+waxed a great deal.    
+~
+115 12 0 0 0 1
+D2
+~
+door~
+1 0 11534 3
+S
+#11536
+Dragon Avenue~
+There is a cobbled stoned street running east and west.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the village filter out though the
+windows and doors of peoples homes.  Dragon Avenue runs east and west.
+~
+115 0 0 0 0 1
+D0
+~
+door~
+1 0 11537 3
+D1
+~
+~
+0 0 11503 0
+D3
+~
+~
+0 0 11538 0
+S
+#11537
+The Primmer Residence~
+This is the home of the Primmer family.  The home is rather plain in
+appearance, but has been stoutly constructed.  A painting of a
+beautiful woman hangs on the wall.    
+~
+115 8 0 0 0 1
+D2
+~
+door~
+1 0 11536 3
+S
+#11538
+Corner of Cummings and Dragon~
+The corner of Cummings and Dragon is cobbled stoned like the rest of
+the streets in Silmarian.  Buildings have been built up against the
+wooden walls of the village.  This is a residential area of the
+village.  Cummings Street continues to the north and Dragon Avenue
+leads off to the west.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11540 0
+D1
+~
+~
+0 0 11536 0
+D3
+~
+door~
+1 0 11539 3
+S
+#11539
+The Miller Residence~
+This is the home of the Miller family.  The home is rather plain in
+appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D1
+~
+door~
+1 0 11538 3
+S
+#11540
+Cummings Street~
+There is a cobbled stoned street running north to south.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the villagers filter out though the
+windows and doors of peoples homes.  Cummings Street runs north and
+south.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11542 0
+D2
+~
+~
+0 0 11538 0
+D3
+~
+door~
+1 0 11541 3
+S
+#11541
+The Gaskin Residence~
+This is the home of the Gaskin family.  The home is rather plain in
+appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D1
+~
+door~
+1 0 11540 3
+S
+#11542
+Cummings Street~
+There is a cobbled stoned street running north to south.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the villagers filter out though the
+windows and doors of peoples homes.  Cummings Street runs north to
+south and Central Avenue leads off to the east.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11544 0
+D1
+~
+~
+0 0 11545 0
+D2
+~
+~
+0 0 11540 0
+D3
+~
+door~
+1 0 11543 3
+S
+#11543
+The Morgan Residence~
+This is the home of the Morgan family.  The home is rather plain in
+appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D1
+~
+door~
+1 0 11542 3
+S
+#11544
+Cummings Street~
+There is a cobbled stoned street running north to south.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the villagers filter out though the
+windows and doors of peoples homes.  Cummings Street runs north and
+south.    
+~
+115 0 0 0 0 1
+D0
+~
+~
+0 0 11546 0
+D2
+~
+~
+0 0 11542 0
+D3
+~
+door~
+1 0 11547 3
+S
+#11545
+Central Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo off of the buildings nearby.  Central Avenue
+runs east and to the west is Cummings Street.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11511 0
+D3
+~
+~
+0 0 11542 0
+S
+#11546
+Corner of North and Cummings~
+The corner of Cummings and North is cobbled stoned like the rest of
+the streets in Silmarian.  Buildings have been built up against the
+wooden walls Sounds from the villagers filter out though the windows
+and doors of peoples homes.  Cummings Street runs south and North
+Avenue runs to the east.    
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11549 0
+D2
+~
+~
+0 0 11544 0
+D3
+~
+door~
+1 0 11548 3
+S
+#11547
+The Cummings Residence~
+This is the home of the Cummings family.  This family was amoung the
+founders of the Silmarian.  The Cummings home is very well decorated
+with many antique pieces of furniture.    
+~
+115 8 0 0 0 1
+D1
+~
+door~
+1 0 11544 3
+S
+#11548
+The Wlaysewski Residence~
+This is the home of the Wlaysewski family.  The home is rather plain
+in appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D1
+~
+door~
+1 0 11546 3
+S
+#11549
+North Avenue~
+There is a cobbled stoned street running east to west.  The sounds
+from the village echo slightly off of buildings nearby.  This is the
+residential part of Silmarian.  Homes have been built up against the
+outer wooden walls.  Sounds from the villagers filter out though the
+windows and doors of peoples homes.  North Avenue runs east to west.
+~
+115 0 0 0 0 1
+D1
+~
+~
+0 0 11516 0
+D2
+~
+door~
+1 0 11550 3
+D3
+~
+~
+0 0 11546 0
+S
+#11550
+The Richards Residence~
+This is the home of the Richards family.  The home is rather plain in
+appearance, but has been stoutly constructed.    
+~
+115 8 0 0 0 1
+D0
+~
+door~
+1 0 11549 3
+S
+#11551
+Hidden Cave~
+Behind the rock slide, a small cave has been concealed.  There are
+signs of use, though from long ago.    
+~
+115 0 0 0 0 1
+D1
+~
+rocks~
+1 0 11555 19
+S
+#11552
+The Silmarian Road~
+This road shows some use, but weeds have started to show through the
+hard packed dirt.  The road has been carved through the surrounding
+hills.  To the south a village is just visible and to the north the
+road continues on.    
+~
+115 0 0 0 0 2
+D0
+~
+~
+0 0 11553 0
+D2
+~
+~
+0 0 11517 0
+S
+#11553
+The Silmarian Road~
+This road shows some use, but weeds have started to show through the
+hard packed dirt.  The road has been carved through the surrounding
+hills.  The road continues to the north and south.    
+~
+115 0 0 0 0 2
+D0
+~
+~
+0 0 11554 0
+D2
+~
+~
+0 0 11552 0
+S
+#11554
+The Silmarian Road~
+This road shows some use, but weeds have started to show through the
+hard packed dirt.  The road has been carved through the surrounding
+hills.  The road continues to the west, north and south.    
+~
+115 0 0 0 0 2
+D1
+~
+~
+0 0 11556 0
+D2
+~
+~
+0 0 11553 0
+D3
+~
+~
+0 0 11555 0
+S
+#11555
+The Silmarian Road~
+A rock slide has totally blocked the road to the west.  The road shows
+some use, but weeds have started to show through the hard packed dirt.
+The road has been carved through the surrounding hills.  The road
+leads to the east.    
+~
+115 0 0 0 0 4
+D1
+~
+~
+0 0 11554 0
+D3
+~
+rocks~
+1 0 11551 19
+S
+#11556
+The Silmarian Road~
+This road shows some use, but weeds have started to show through the
+hard packed dirt.  The road has been carved through the surrounding
+hills.  The road continues to the west and east.    
+~
+115 0 0 0 0 2
+D1
+~
+~
+0 0 11557 0
+D3
+~
+~
+0 0 11554 0
+S
+#11557
+The Silmarian Road~
+This road shows some use, but weeds have started to show through the
+hard packed dirt.  The road has been carved through the surrounding
+hills.  The road continues to the north, south and west.    
+~
+115 0 0 0 0 2
+D0
+~
+~
+0 0 11559 0
+D2
+~
+~
+0 0 11558 0
+D3
+~
+~
+0 0 11556 0
+S
+#11558
+The Silmarian Road~
+A mud slide has blocked the road to the south.  The road shows some
+use, but weeds have started to show through the hard packed dirt.  
+The road has been carved through the surrounding hills.  The road
+continues to the north.    
+~
+115 0 0 0 0 4
+D0
+~
+~
+0 0 11557 0
+S
+#11559
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues to the
+north.  To the south it drops down and widens out.    
+~
+115 0 0 0 0 4
+D0
+~
+~
+0 0 11560 0
+D2
+~
+~
+0 0 11557 0
+S
+#11560
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the north.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 4
+D0
+~
+~
+0 0 11561 0
+D2
+~
+~
+0 0 11559 0
+S
+#11561
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the north.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 4
+D0
+~
+~
+0 0 11562 0
+D2
+~
+~
+0 0 11560 0
+S
+#11562
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the north.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 4
+D0
+~
+~
+0 0 11563 0
+D2
+~
+~
+0 0 11561 0
+S
+#11563
+Path towards the Spire~
+The path is steeply inclined as it climbs to the east.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the east.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11564 0
+D2
+~
+~
+0 0 11562 0
+S
+#11564
+Path towards the Spire~
+The path is steeply inclined as it climbs to the east.  Off to the
+south you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the east.  To the west it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11565 0
+D3
+~
+~
+0 0 11563 0
+S
+#11565
+Path towards the Spire~
+The path is steeply inclined as it climbs to the east.  Off to the
+south you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the east.  To the west it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11566 0
+D3
+~
+~
+0 0 11564 0
+S
+#11566
+Path towards the Spire~
+The path is steeply inclined as it climbs to the east.  Off to the
+south you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the east.  To the west it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11567 0
+D3
+~
+~
+0 0 11565 0
+S
+#11567
+Path towards the Spire~
+The path is steeply inclined as it climbs to the south.  Off to the
+southwest you can see a huge snow capped spire rising into the sky.  
+The path is narrow but clear of obstructions.  The path continues
+upward to the south.  To the west it drops steeply downward.    
+~
+115 0 0 0 0 5
+D2
+~
+~
+0 0 11568 0
+D3
+~
+~
+0 0 11566 0
+S
+#11568
+Path towards the Spire~
+The path is steeply inclined as it climbs to the south.  Off to the
+west you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the south.  To the north it drops steeply downward.    
+~
+115 0 0 0 0 5
+D0
+~
+~
+0 0 11567 0
+D2
+~
+~
+0 0 11569 0
+S
+#11569
+Path towards the Spire~
+The path is steeply inclined as it climbs to the south.  Off to the
+west you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the south.  To the north it drops steeply downward.    
+~
+115 0 0 0 0 5
+D0
+~
+~
+0 0 11568 0
+D2
+~
+~
+0 0 11570 0
+S
+#11570
+Path towards the Spire~
+The path is steeply inclined as it climbs to the west.  Off to the
+northwest you can see a huge snow capped spire rising into the sky.  
+The path is narrow but clear of obstructions.  The path continues
+upward to the west.  To the north it drops steeply downward.    
+~
+115 0 0 0 0 5
+D0
+~
+~
+0 0 11569 0
+D3
+~
+~
+0 0 11571 0
+S
+#11571
+Path towards the Spire~
+The path is steeply inclined as it climbs to the west.  Off to the
+north you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the west.  To the east it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11570 0
+D3
+~
+~
+0 0 11572 0
+S
+#11572
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+northeast you can see a huge snow capped spire rising into the sky.  
+The path is narrow but clear of obstructions.  The path continues
+upward to the north.  To the east it drops steeply downward.    
+~
+115 0 0 0 0 5
+D0
+~
+~
+0 0 11573 0
+D1
+~
+~
+0 0 11571 0
+S
+#11573
+Path towards the Spire~
+The path is steeply inclined as it climbs to the north.  Off to the
+east you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the north.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 5
+D0
+~
+~
+0 0 11574 0
+D2
+~
+~
+0 0 11572 0
+S
+#11574
+Path towards the Spire~
+The path is steeply inclined as it climbs to the east.  Off to the
+southeast you can see a huge snow capped spire rising into the sky.  
+The path is narrow but clear of obstructions.  The path continues
+upward to the east.  To the south it drops steeply downward.    
+~
+115 0 0 0 0 5
+D1
+~
+~
+0 0 11575 0
+D2
+~
+~
+0 0 11573 0
+S
+#11575
+Path towards the Spire~
+The path is steeply inclined as it climbs to the south.  Off to the
+south you can see a huge snow capped spire rising into the sky.  The
+path is narrow but clear of obstructions.  The path continues upward
+to the south.  To the west it drops steeply downward.    
+~
+115 0 0 0 0 5
+D2
+~
+~
+0 0 11576 0
+D3
+~
+~
+0 0 11574 0
+S
+#11576
+Before a set of huge, metal double Doors~
+The path is at an end here.  A spire rises high above you to the
+south.  A set of bronzed double doors have been set into the stone of
+the spire itself.  To the north a path leads downhill.    
+~
+115 4 0 0 0 5
+D0
+~
+~
+0 0 11575 0
+D2
+~
+doors~
+2 11500 11577 15
+S
+#11577
+Entrance to the Spire~
+The interior of this mountain has been carved out...  Melted out is a
+better description.  The walls are smooth and flat without the normal
+signs of being tooled.  The decore is very expensive as well.  
+Expensive wall hangings cover most of the walls, the furnature is
+gilded and the carpets are of a very fine weave.  There are doors to
+the north, east and south.    
+~
+115 0 0 0 0 0
+D0
+~
+doors~
+2 11500 11576 15
+D1
+~
+door~
+1 0 11578 3
+D2
+~
+~
+0 0 11579 0
+S
+#11578
+Cloak Room~
+This is a cloak room.  There are many cloaks and robes hung about on
+pegs.  There is a door to the west.    
+~
+115 1 0 0 0 0
+D3
+~
+door~
+1 0 11577 3
+S
+#11579
+Reception Hall~
+The walls in this room have been made smooth and flat.  A long red
+carpet has been laid out in a cross pattern , leading to the four
+doors.  The room has many padded benches lining the walls.    
+~
+115 0 0 0 0 0
+D0
+~
+~
+0 0 11577 0
+D1
+~
+door~
+1 0 11580 1
+D2
+~
+door~
+1 0 11588 3
+D3
+~
+door~
+1 0 11583 3
+S
+#11580
+A formal Dining Room~
+A huge table with ladder backed chairs dominates this room.  A crystal
+chandelier hangs from the smooth rock of up above.  Many candels have
+been lined up down the middle of the table.  There are doors to the
+west and east.    
+~
+115 0 0 0 0 0
+D1
+~
+door~
+1 0 11581 3
+D3
+~
+door~
+1 0 11579 1
+S
+#11581
+The Kitchen~
+The kitchen is enormous.  An oven easily 10 feet across sits agains
+the east wall.  There are pans and utinsils of every description
+hanging over the many counters.  There are doors to the north and
+west.    
+~
+115 0 0 0 0 0
+D0
+~
+door~
+1 11501 11582 7
+D3
+~
+door~
+1 0 11580 3
+S
+#11582
+Pantry~
+Dry food of every kind line the shelving in this room.  Barrels have
+been set two high atop each other with writing upon them.  The smell
+of spices is strong here.  There is a door to the south.    
+~
+115 1 0 0 0 0
+D2
+~
+door~
+1 11501 11581 7
+S
+#11583
+Private Waiting Area~
+The light from lanterns along the walls shines brightly off of the
+near polished surfaces of the walls.  A small table with a four chairs
+have been placed in the center of the room and in the southern side of
+the room there are four very comfortable looking chairs.  There are
+doors to the north and east.  A set of double glass doors have been
+set into the west wall.    
+~
+115 0 0 0 0 0
+D0
+~
+door~
+1 0 11585 1
+D1
+~
+door~
+1 0 11579 1
+D3
+~
+door~
+1 0 11584 1
+S
+#11584
+A large Balcony~
+A large balcony has been made from the jutting rock here.  Miles of
+country can be seen from this vantage point as well as the village can
+be seen on the horizon to the southwest.    
+~
+115 0 0 0 0 1
+D1
+~
+door~
+1 0 11583 1
+S
+#11585
+A wide Hallway~
+A wide hall has been 'carved' from the stone.  The furnature is of the
+highest quality even in the hallways.  To the south is a door and the
+hall continues to the west.    
+~
+115 0 0 0 0 0
+D2
+~
+door~
+1 0 11583 1
+D3
+~
+~
+0 0 11586 0
+S
+#11586
+A wide Hallway~
+A wide hall has been 'carved' from the stone.  The furnature is of the
+highest quality even in the hallways.  To the west is a door and the
+hall continues to the east.    
+~
+115 0 0 0 0 0
+D1
+~
+~
+0 0 11585 0
+D3
+~
+door~
+1 0 11587 3
+S
+#11587
+A small Guest Room~
+A small guest room as been set up here.  The furnishings are well
+made, but unadorned.  After the splender so far, it is strange to see
+such plain decore.  There is a door to the east.    
+~
+115 0 0 0 0 0
+D1
+~
+door~
+1 0 11586 3
+S
+#11588
+The Office of the Spire's Secretary~
+This room is very spacious with a neatly kept desk near the south edge
+of the room.  Three chairs have been arranged before the desk.  The
+desk itself is very tidy, with a number of stacks of paper spaced
+evenly about it.  A huge tapestry hangs on the south wall.  There are
+doors to the north, east and west.    
+~
+115 0 0 0 0 0
+D0
+~
+door~
+1 0 11579 3
+D1
+~
+door~
+1 11505 11589 7
+D2
+~
+tapestry~
+1 0 11591 19
+D3
+~
+door~
+1 11504 11590 7
+S
+#11589
+The Quartermaster's Office~
+A large desk sit near the east wall.  Many charts and lists hang from
+the other walls and filing cabinets have been set up in a long row
+agaisnt the north wall.  There is a door to the west.    
+~
+115 0 0 0 0 0
+D3
+~
+door~
+1 11505 11588 7
+S
+#11590
+The Treasurer's Office~
+A large metal safe has been set into a hole in the west wall.  The
+desk here looks to be in disarry.  The office is well lit by many
+lanterns spaced around the walls.  There is a door on the east wall.
+~
+115 0 0 0 0 0
+D1
+~
+door~
+1 11504 11588 7
+S
+#11591
+A Stairwell~
+A stone set of stairs spiral downward.  The way is lit by lanterns
+hung from the curved walls.  The stairs lead down and there is a door
+to the north.    
+~
+115 4 0 0 0 0
+D0
+~
+tapestry~
+1 0 11588 7
+D5
+~
+~
+0 0 11592 0
+S
+#11592
+A Stairwell~
+A stone set of stairs spiral upward.  The way is lit by lanterns hung
+from the curved walls.  The stairs lead up and there are doors to the
+north, east, west and south.    
+~
+115 0 0 0 0 0
+D0
+~
+~
+0 0 11595 0
+D1
+~
+door~
+1 0 11593 3
+D2
+~
+door~
+1 0 11613 3
+D3
+~
+door~
+1 0 11594 3
+D4
+~
+~
+0 0 11591 0
+S
+#11593
+A Classroom~
+This room has many lines of chairs and small tables.  To the east, a
+blackboard has been hung upon the wall with a desk before it.  There
+is a door to the west.    
+~
+115 0 0 0 0 0
+D3
+~
+door~
+1 0 11592 3
+S
+#11594
+A Classroom~
+This room has many lines of chairs and small tables.  To the west, a
+blackboard has been hung upon the wall with a desk before it.  There
+is a door to the east.    
+~
+115 0 0 0 0 0
+D1
+~
+door~
+1 0 11592 3
+S
+#11595
+A Hall~
+A wide hall leads to the north and south.  Many lanterns light the
+hall, but other than the lanterns, the hallway is baren.  There are
+doors to the north, south, east and west.    
+~
+115 0 0 0 0 0
+D0
+~
+~
+0 0 11598 0
+D1
+~
+door~
+1 0 11596 3
+D2
+~
+~
+0 0 11592 0
+D3
+~
+door~
+1 0 11597 3
+S
+#11596
+A Classroom~
+This room has many lines of chairs and small tables.  To the east, a
+blackboard has been hung upon the wall with a desk before it.  There
+is a door to the west.    
+~
+115 0 0 0 0 0
+D3
+~
+door~
+1 0 11595 3
+S
+#11597
+A Classroom~
+This room has many lines of chairs and small tables.  To the west, a
+blackboard has been hung upon the wall with a desk before it.  There
+is a door to the east.    
+~
+115 0 0 0 0 0
+D1
+~
+door~
+1 0 11595 3
+S
+#11598
+The Student's Lounge~
+Tables have been scattered about the room.  Scraps from meals grabbed
+while gossiping or discussing classroom work are scattered about on
+top of them.  There are doors to the north, east, west and south.    
+~
+115 0 0 0 0 0
+D0
+~
+~
+0 0 11603 0
+D1
+~
+door~
+1 0 11599 3
+D2
+~
+~
+0 0 11595 0
+D3
+~
+door~
+1 0 11600 3
+S
+#11599
+A Library~
+The library has been neatly kept by the librarian.  Rows of shelves
+have been stuffed with book on many arcane subjects.  There is a door
+to the west.    
+~
+115 0 0 0 0 0
+D3
+~
+door~
+1 0 11598 3
+S
+$~

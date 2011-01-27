@@ -1,0 +1,1383 @@
+#18900
+The Forest~
+You walk through the noisy leaves in Thewster Forest, to the west your
+way is blocked by a tall cliff.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18901 0
+D2
+~
+~
+0 -1 18910 0
+S
+#18901
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  To the west you can see a tall cliff.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18902 0
+D3
+~
+~
+0 -1 18900 0
+S
+#18902
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  To the west you can see a tall cliff.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18903 0
+D3
+~
+~
+0 -1 18901 0
+S
+#18903
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18904 0
+D3
+~
+~
+0 -1 18902 0
+S
+#18904
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18905 0
+D3
+~
+~
+0 -1 18903 0
+S
+#18905
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18906 0
+D2
+~
+~
+0 -1 18915 0
+D3
+~
+~
+0 -1 18904 0
+S
+#18906
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18907 0
+D3
+~
+~
+0 -1 18905 0
+S
+#18907
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can almost make out a clearing to the east.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18908 0
+D3
+~
+~
+0 -1 18906 0
+S
+#18908
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can almost make out a clearing to the east.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18909 0
+D2
+~
+~
+0 -1 18918 0
+D3
+~
+~
+0 -1 18907 0
+S
+#18909
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can make out a clearing to the east.    
+~
+189 0 0 0 0 3
+D1
+.
+~
+~
+0 0 18858 0
+D3
+~
+~
+0 -1 18908 0
+S
+#18910
+The Forest~
+The leaves and branches snap and crunch as you walk through them.  To
+the west a cliff blocks your way.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18900 0
+D1
+~
+~
+0 -1 18911 0
+D2
+~
+~
+0 -1 18919 0
+S
+#18911
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18912 0
+D2
+~
+~
+0 -1 18920 0
+D3
+~
+~
+0 -1 18910 0
+S
+#18912
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D2
+~
+~
+0 -1 18921 0
+D3
+~
+~
+0 -1 18911 0
+S
+#18913
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18914 0
+D2
+~
+~
+0 -1 18922 0
+S
+#18914
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18915 0
+D2
+~
+~
+0 -1 18923 0
+D3
+~
+~
+0 -1 18913 0
+S
+#18915
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18905 0
+D1
+~
+~
+0 -1 18916 0
+D2
+~
+~
+0 -1 18924 0
+D3
+~
+~
+0 -1 18914 0
+S
+#18916
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18917 0
+D2
+~
+~
+0 -1 18925 0
+D3
+~
+~
+0 -1 18915 0
+S
+#18917
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18918 0
+D2
+~
+~
+0 -1 18926 0
+D3
+~
+~
+0 -1 18916 0
+D5
+~
+~
+0 0 18758 0
+S
+#18918
+The Forest~
+You walk through the noisy leaves, little light trickles through the
+tree tops here.  You can see the road to the south.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18908 0
+D2
+~
+~
+0 -1 18927 0
+D3
+~
+~
+0 -1 18917 0
+S
+#18919
+The Forest~
+You walk through noisy leaves in Thewster forest, a cliff blocks your
+way west.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18910 0
+D1
+~
+~
+0 -1 18920 0
+D2
+~
+~
+0 -1 18929 0
+S
+#18920
+The Road~
+The road starts to get rutted and muddy here, to the west you can make
+out a cliff throught the tree tops.  The road runs east and south.  
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18911 0
+D1
+~
+~
+0 -1 18921 0
+D2
+~
+~
+0 -1 18930 0
+D3
+~
+~
+0 -1 18919 0
+S
+#18921
+Road~
+You walk down the long long road, no end is in sight.  The forest
+borders the road on all sides and is letting little light through.  
+The road runs east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18912 0
+D1
+~
+~
+0 -1 18922 0
+D2
+~
+~
+0 -1 18931 0
+D3
+~
+~
+0 -1 18920 0
+S
+#18922
+Road~
+You walk down the long long road, no end is in sight.  The forest
+borders the road on all sides and is letting little light through.  
+The road runs east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18913 0
+D1
+~
+~
+0 -1 18923 0
+D2
+~
+~
+0 -1 18932 0
+D3
+~
+~
+0 -1 18921 0
+S
+#18923
+Road~
+You walk down the long long road, no end is in sight.  The forest
+borders the road on all sides and is letting little light through.  
+The road runs east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18914 0
+D1
+~
+~
+0 -1 18924 0
+D2
+~
+~
+0 -1 18933 0
+D3
+~
+~
+0 -1 18922 0
+S
+#18924
+The Road~
+You walk down the long long road, no end is in sight.  The forest
+borders the road on all sides and is letting little light through.  
+The road runs east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18915 0
+D1
+~
+~
+0 -1 18925 0
+D2
+~
+~
+0 -1 18934 0
+D3
+~
+~
+0 -1 18923 0
+S
+#18925
+The Road~
+A tree has been blown over by the wind here, making travel difficult.
+The forest borders the road on all sides and is letting little light
+through.  The road runs east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18916 0
+D1
+~
+~
+0 -1 18926 0
+D3
+~
+~
+0 -1 18924 0
+S
+#18926
+The Road~
+You walk along the long road for what seems like forever.  The road
+leads east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18917 0
+D1
+~
+~
+0 -1 18927 0
+D3
+~
+~
+0 -1 18925 0
+S
+#18927
+The Road~
+You walk along the long road for what seems like forever.  The road
+leads east and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18918 0
+D1
+~
+~
+0 -1 18928 0
+D3
+~
+~
+0 -1 18926 0
+S
+#18928
+The Road~
+You walk along the long road for what seems like forever.  The road
+leads east and west.    
+~
+189 0 0 0 0 10
+D1
+~
+~
+0 0 18870 0
+D2
+~
+~
+0 -1 18938 0
+D3
+~
+~
+0 -1 18927 0
+S
+#18929
+The Road~
+A large granite cliff stops the road from continuing west, thus the
+road makes a turn here it now leads east and south.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18919 0
+D1
+~
+~
+0 -1 18930 0
+D2
+~
+~
+0 -1 18939 0
+S
+#18930
+The Road~
+You walk along the long road for what seems like forever.  The road
+makes another turn here it runs north and west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18920 0
+D1
+~
+~
+0 -1 18931 0
+D2
+~
+~
+0 -1 18940 0
+D3
+~
+~
+0 -1 18929 0
+S
+#18931
+The Forest~
+The forest thins out a bit here, you can see the road both north and
+west.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18921 0
+D1
+~
+~
+0 -1 18932 0
+D2
+~
+~
+0 -1 18941 0
+D3
+~
+~
+0 -1 18930 0
+S
+#18932
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  You can see the road to the north.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18922 0
+D1
+~
+~
+0 -1 18933 0
+D2
+~
+~
+0 -1 18942 0
+D3
+~
+~
+0 -1 18931 0
+S
+#18933
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  You can see the road to the north.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18923 0
+D1
+~
+~
+0 -1 18934 0
+D3
+~
+~
+0 -1 18932 0
+S
+#18934
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  You can see the road to the north.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18924 0
+D1
+~
+~
+0 -1 18935 0
+D3
+~
+~
+0 -1 18933 0
+D5
+~
+~
+0 0 -1 0
+S
+#18935
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  The forest get real dense here and the only exits are to the
+east and west.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18936 0
+D3
+~
+~
+0 -1 18934 0
+S
+#18936
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  The forest get real dense here and the only exits are to the
+east and west.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18937 0
+D3
+~
+~
+0 -1 18935 0
+S
+#18937
+The Forest~
+You walk through the dense forest.  There are no signs of civilization
+at all.  The forest get real dense here and the only exits are to the
+east and west.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 -1 18938 0
+D3
+~
+~
+0 -1 18936 0
+S
+#18938
+The Forest~
+All the trees here have fallen down, the only ways out are the road to
+the north and the forest to the west.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18928 0
+D3
+~
+~
+0 -1 18937 0
+S
+#18939
+The Road~
+The road comes to a sheer granite cliff here, stoping any chance of
+continuing to the south, the only thing left of the road is a muddy
+trail going off to the west.    
+~
+189 0 0 0 0 10
+D0
+~
+~
+0 -1 18929 0
+D1
+~
+~
+0 -1 18940 0
+D2
+~
+~
+0 0 -1 0
+D3
+~
+~
+0 0 23928 0
+S
+#18940
+The Forest~
+The forest thins out and forms a small clearing.  The clearing
+continues to the east and to the north and west you see the road.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18930 0
+D1
+~
+~
+0 -1 18941 0
+D3
+~
+~
+0 -1 18939 0
+S
+#18941
+The Clearing~
+The Forest thins out here and makes a small clearing.  This looks like
+a good place to rest.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18931 0
+D1
+~
+~
+0 -1 18942 0
+D3
+~
+~
+0 -1 18940 0
+S
+#18942
+The Clearing~
+The Forest thins out here and makes a small clearing.  This looks like
+a good place to rest.    
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 -1 18932 0
+D1
+~
+~
+0 0 18964 0
+D3
+~
+~
+0 -1 18941 0
+S
+#18943
+Mob Load room~
+Get outta here
+~
+189 4 0 0 0 1
+D0
+~
+~
+0 0 18900 0
+D1
+~
+~
+0 0 18930 0
+D2
+~
+~
+0 0 18924 0
+D3
+~
+~
+0 0 18912 0
+S
+#18944
+A Gentle Path~
+The path heads south into a cool, breezy grove of trees where even
+from here, you can feel an emenation of peace and kindness.  There can
+be no doubt that ahead lies a place of glory and magic.    
+~
+189 0 0 0 0 3
+D2
+~
+~
+0 0 18945 0
+D3
+~
+~
+0 0 18964 0
+S
+#18945
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You can feel a strange sensation of contentedness and relief
+seeping through You, as if great burdens have been lifted from Your
+shoulders.  From here, friendly- looking paths lead east and south.  
+~
+189 0 0 0 0 3
+D0
+~
+~
+0 0 18944 0
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18946 0
+D2
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18948 0
+S
+#18946
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You feel unusually happy here, as if great burdens have been
+lifted from Your shoulders.  From here, pleasant-looking paths lead
+east, west and south.    
+~
+189 0 0 0 0 3
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 18947 0
+D2
+The path wind its way through the tall trees, towards an open area barely
+visible in the distance.
+~
+~
+0 -1 18949 0
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18945 0
+S
+#18947
+A Clearing in the Woods~
+You are standing in a clearing in the light woods.  Somehow, this
+place seems powerfully DIFFERENT from the rest of the forest, as if
+something is severely strained in the fabric of reality here.  There
+is a small tablet on one of the trees.    
+~
+189 0 0 0 0 3
+D1
+~
+~
+0 0 18965 16
+D2
+There is a path winding its way south through the tall poplars, disappearing
+out of sight some 100 yds. away.
+~
+~
+0 -1 18950 0
+D3
+There is a friendly-looking path leading west through the tall trees.
+~
+~
+0 -1 18946 0
+E
+tablet~
+This zone has been populated by Merc.  1993
+~
+S
+#18948
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You feel calm and relaxed here, as if great burdens have been
+lifted from Your shoulders.  From here, pleasant-looking paths lead
+east, north and south.    
+~
+189 0 0 0 0 3
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18945 0
+D1
+The path wind its way through the tall trees, towards a clearing faintly seen.
+~
+~
+0 -1 18949 0
+D2
+The path wind its way through the tall trees, into the grove.
+~
+~
+0 -1 18951 0
+S
+#18949
+The Sacred Glade~
+You are standing in the middle of the sacred glades, where the
+citizens of Midgaard come to celebrate the spring, where farmers give
+thanks for bountiful harvest in the fall, and where lovers stroll in
+summer.  You feel seasons of remembered happiness and joy taking Your
+sorrows and worries away from You, leaving You calm and invigorated,
+ready for the world.  Paths lead into the holy grove to the east,
+north and west, while to the south a wide, sunny field slopes down to
+a sparkling lake.    
+~
+189 0 0 0 0 3
+D0
+The path wind its way north, disappearing through the tall trees.
+~
+~
+0 -1 18946 0
+D1
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18950 0
+D2
+To the south, a wide, sunny field stretch out, sloping down towards a brightly
+glittering lake.
+~
+~
+0 -1 18952 0
+D3
+The path wind its way west between stately poplars and oaks.
+~
+~
+0 -1 18948 0
+S
+#18950
+The Holy Grove~
+You are standing amidst the ancient oaks and poplars in the holy
+grove.  You can feel a strange sensation of joy and calm seeping
+through You, as if great burdens have been lifted from Your shoulders.
+To the south, You glimpse an open area through the trees, while paths
+lead away north and west.    
+~
+189 0 0 0 0 3
+D0
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18947 0
+D2
+To the south, just beyond the trees, you can see a wide green lawn, and past
+the lawn, a softly shimmering, rainbow-colored mansion.
+~
+~
+0 -1 18953 0
+D3
+The path wind its way through the tall trees, disappearing out of sight.
+~
+~
+0 -1 18949 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#18951
+The Holy Grove~
+You are standing amidst the tall, majestic trees in the southern end
+of the holy grove.  Paths lead north and east.  To the east, You can
+see a wide, open field, sloping gently down towards a bright,
+glittering lake.  Somehow, here you feel an inexplicable happiness, as
+if the world's troubles no longer really matter to you.    
+~
+189 0 0 0 0 3
+D0
+The path leading north is soon lost out of sight amongst the ancient oaks and
+poplars.
+~
+~
+0 -1 18948 0
+D1
+To the east, the path leads out into a wide, sunny summer's field, sloping
+south towards a beautiful lake. Past the field You can see a stately mansion,
+shimmering gently in all the rainbow's colours.
+~
+~
+0 -1 18952 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#18952
+The Sunny Field~
+You are standing in the middle of a wide, summery, sunlit field.  
+There is a fragrance of spring in the air, a sound of summer and a
+feeling of eternal Saturday afternoon.  To the south is a clear,
+sparkling lake, and to the north and west is the holy grove.  In the
+wood's edge, to the east, is a stately man- sion, shimmering softly
+through the colors of the rainbow.  You feel as if You could spend the
+rest of your life here, lying on your back and looking at the patterns
+of the clouds as they gently drift across the sky.    
+~
+189 0 0 0 0 3
+D0
+There is a path leading north towards the sacred glade.
+~
+~
+0 -1 18949 0
+D1
+To the east, You can see the rainbow-colored mansion, shimmering like some-
+thing out of this world.
+~
+~
+0 -1 18963 0
+D3
+There is a small path leading into the woods to the west.
+~
+~
+0 -1 18951 0
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house. There is a terrace in front of the house,
+next to the low wing, which is almost completely windows.
+~
+S
+#18953
+The Croquet Lawn~
+You are standing on a immaculately manicured green lawn, the kind you
+only get after 200 years of meticulous work.  There is a winding stone
+path leading from the wood's edge to the north, to the softly
+shimmering, rainbow-colored mansion to the south.  This place enjoys a
+perpetual cool, sunny summers after- noon.    
+~
+189 0 0 0 0 2
+D0
+To the north, the winding stone path leads into the holy grove.
+~
+~
+0 -1 18950 0
+D2
+To the south, the path leads straight up to the front door of the mansion.
+~
+door~
+1 -1 18954 3
+E
+mansion~
+The mansion is a sprawling, two-story affair with three wings, where the top
+of one wing serves as balcony. The walls look as marble would do, if marble
+changed color slowly, continuously, through the entire spectrum. There are
+large windows all over the house.
+~
+S
+#18954
+The Foyer~
+You are standing in the foyer of Dragon's mansion.  The wide double
+door to the croquet lawn is to the north, flanked by large windows.  
+The walls are panelled in oak and hung with strange paintings.  There
+is door in the south wall.    
+~
+189 4 0 0 0 2
+D0
+Through the windows next to the door you can see the croquet lawn, bathed in
+afternoon sunlight.
+~
+door~
+1 -1 18953 3
+D2
+~
+door~
+1 -1 18955 3
+E
+painting paintings~
+They are strange indeed, works of breathtaking precision depicting obviously
+impossible motifs, like a sky filled with headless men, all dressed in some
+
+black costume (including hats), or a lady standing, blue from the waist up, or
+some pieces of plankwood that seems to be melting away like snow, or a night
+sky with a dove-shaped hole of bright day sky in the middle.
+~
+S
+#18955
+The Hallway~
+You are in the north end of a connecting hallway, tastefully decorated
+with oak paneling and the coat-of-arms of various famous nobles hung
+on the walls.  The hallway leads south, and there is a door in the
+eastern wall.    
+~
+189 8 0 0 0 0
+D0
+~
+door~
+1 -1 18954 3
+D1
+~
+door~
+1 -1 18956 3
+D2
+~
+~
+0 -1 18957 0
+S
+#18956
+The Blue Room~
+You are in the blue room, one of the guest rooms in Dragon's mansion.
+The walls are (surprise!  ) blue, and the rest of the room is
+decorated in similar shades, producing a very nice, cool effect.  
+There is a large bed and a matching set of sofas, easy-chairs and a
+coffee table.  Through the venetian blinds in front of the large east
+window you can see the edge of the grove.    
+~
+189 8 0 0 0 1
+D3
+~
+door~
+1 -1 18955 3
+S
+#18957
+The Hallway~
+You are standing in the south end of the hallway.  There are doors in
+the elegant oak-panelled walls to the south, east and west.  Many
+different coat-of-arms adorn the walls here.    
+~
+189 8 0 0 0 0
+D0
+~
+~
+0 -1 18955 0
+D1
+~
+door~
+1 -1 18958 3
+D2
+~
+door~
+1 -1 18959 3
+D3
+~
+door~
+1 -1 18960 3
+S
+#18958
+The Red Room~
+You are in the red room, one of the guest rooms in Dragon's mansion.
+The walls are wallpapered a deep warm red, and dark mahogany panelling
+nicely com- plements them.  There is a large, warm waterbed and a sofa
+group in dark wood with leather upholstery, including a coffee table.
+Heavy brown curtains are pulled away from the wide windows, to reveal
+a nice view towards the grove.    
+~
+189 8 0 0 0 0
+D3
+~
+door~
+1 -1 18957 3
+S
+#18959
+The Kitchen~
+You are standing in the middle of Dragon's kitchen.  Contrary to
+popular belief, He *doesn't* eat virgins, which is amply demonstrated
+by the large variety of foodstuffs found here on the shelves.  There
+are numerous cans of tomatoes, peas, corn etc.  , vines of garlic, a
+*Huge* array of small spice jars along several shelves and a large
+combo refrigerator/freezer.  A big oven and stove is lurking in a
+corner.  There is some proof here that Dragon is a less than
+meticulous housekeeper...  There are doors to the north and west.    
+~
+189 4 0 0 0 1
+D0
+~
+door~
+1 -1 18957 3
+D3
+~
+door~
+1 -1 18962 3
+S
+#18960
+The Ballroom~
+You are standing in the middle of a vast palisander floor.  This is
+where Dragon entertains large number of guests, but the cloth-covered
+chairs standing forlornly in a corner suggests that this does not
+happen often.  There are doors in the south and west walls, while to
+the east there is a short corridor to the greenhouse.    
+~
+189 8 0 0 0 0
+D1
+~
+door~
+1 -1 18957 3
+D2
+~
+door~
+1 -1 18962 3
+D3
+~
+~
+0 -1 18961 0
+S
+#18961
+The Greenhouse~
+This is Dragons' greenhouse.  Green light filters in slantwise through
+the plants, giving the room a subtropical ambience.  It is not really
+hot in here, though, rather a pleasantly warm temperature.  The walls
+are all windows, except the eastern one joining the greenhouse to the
+main building, but it is hard to see out for all the greenery here.  
+There is a set of easy-chairs and a glass coffee table.  To the south,
+there is a wide double door out to a sunlit terrace.    
+~
+189 8 0 0 0 0
+D1
+~
+~
+0 -1 18960 0
+D2
+~
+door~
+1 -1 18963 3
+S
+#18962
+The Dining Hall~
+This is Dragons' dining hall.  There is a large long solid oak table,
+seating at least 24, with heavy, wooden chairs to match.  The oak
+panel walls are filled with paintings.  There are doors to the north
+and east, and to the west there is a wide double door opening out onto
+the sunlit terrace.    
+~
+189 8 0 0 0 0
+D0
+~
+door~
+1 -1 18960 3
+D1
+~
+door~
+1 -1 18959 3
+D3
+~
+wide door~
+1 -1 18963 3
+E
+painting paintings~
+There are many, many beautiful paintings of famous dragons of history and
+literature. There is a big one of Smaug, a group picture of Cuspidorian Toxic
+Dragons, a rather fearsome picture of Norse Chaos incarnate, a grainy black-
+and-white photograph of Vorgulremik the Steel Dragon, a romantic picture of 
+Dalvenjah the Mindijaran and Allan the man become dragon. There are three
+empty frames labeled 'The Chimerical', 'The Mythical' and 'The Hypothetical',
+A panoramic picture of Strabo flying between the worlds dominate one wall, 
+while a dragons-eye view of Pern (with dragons in the foreground, of course) 
+fills another. There even are a few rare medieval renditions of the great 
+beast of the Revelation. Over the head of the table hangs a rather modest 
+portrait of a silver Dragon, sparkling with blue lightening, looking amused.
+~
+S
+#18963
+The Terrace~
+You are standing on a sunlit terrace in front of Dragon's mansion.  
+To the west, there is a splendid view over the field down over the
+lake.  To the north is the greenhouse, its large windowpanes
+shimmering with weird and wonderful colors, while a double door leads
+into the house proper to the east.  It is warm and calm here.  There
+is a white-painted table with a parasol here, together with a matched
+set of chairs.    
+~
+189 8 0 0 0 0
+D0
+~
+door~
+1 -1 18961 3
+D1
+~
+double door~
+1 -1 18962 3
+D3
+~
+~
+0 -1 18952 0
+S
+#18964
+A Gentle Path~
+The path you have entered onto wends its way deep into the forest,
+however the trees which surround do not seem onminous in any way.  
+Rather they seem to be protectors of all good things in the forest,
+watchful sentries who make sure that this area stay lush and bold and
+virgin.    
+~
+189 4 0 0 0 3
+D1
+~
+~
+0 0 18944 0
+D3
+~
+~
+0 0 18942 0
+S
+#18965
+Saint Ann's Grove~
+Its is said by all that Saint Ann, blessed of the Gods, makes her rest
+in this place.  Great powers of healing are said to wash over this
+grove, keeping who enter in a constant state of good health.    
+~
+189 2162916 0 0 0 3
+D3
+~
+~
+0 0 18947 0
+S
+#18999
+The fog~
+You are in a grey fog, falling, screaming in pain as you realize that
+you are being torn to nothing, atom by atom, falling and falling and
+falling ...  ...  .
+~
+189 0 0 0 0 0
+S
+$~

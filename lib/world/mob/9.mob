@@ -1,0 +1,1227 @@
+#900
+druid guardian protector~
+a druid Guardian~
+A druid guardian stands here, protecting his priestess.
+~
+This druid has been intrusted with the job of protecting and looking
+out for the young priestess.  His skill is legendary and almost as
+high as his devotion to the sleeping priestess.  Legend has it that he
+would gladly give his life, if only to give the priestess one more
+second to try and find a champion for the cause.    
+~
+2074 0 0 0 336 0 0 0 1000 E
+25 11 0 1d25+2000 2d3+16
+200 18916
+8 8 1
+BareHandAttack: 9
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 21
+Luck: 12
+Class: 5
+Race: 14
+E
+#901
+druid priestess elf elven maiden~
+the druid Princess~
+A beautiful elven maiden lays atop the altar, very deep in sleep.
+~
+The young elven maiden lays here atop the altar, in a deep trance-like
+sleep.  Her face, although very pleasing to look upon, seems to have a
+sad appearance at the same time.  Her skin has been tanned slightly by
+sunlight, but still is without a blemish.  Long blond hair whisps
+around her face and shoulder in the cool breeze.    
+~
+2074 0 0 0 43344 0 0 0 1000 E
+20 8 20 1d20+1000 1d4+13
+150 10708
+4 4 2
+BareHandAttack: 15
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 10
+Luck: 12
+Class: 5
+Race: 15
+E
+#902
+elder druid elf elven~
+an elder Druid~
+An old elven male rests here by the low light of the fire.
+~
+The old elf face is wrinkled, although a pleasant smile can be
+detected when he looks up from his flame-gazing.  Long white hair
+flows down his backside, while unkept bangs partially obscure his aged
+eyes.  He looks up for a moment, mumbles quietly to himself, then
+lowers his gaze to the fire once again.    
+~
+2074 0 0 0 2128 0 0 0 500 E
+10 3 60 1d10+200 1d2+6
+15 1662
+5 5 1
+BareHandAttack: 15
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 16
+Luck: 12
+Class: 5
+Race: 15
+E
+#903
+adventurer human man~
+a lost Adventurer~
+An adventurer wanders around, looking lost in the forest.
+~
+What a silly human, he ignored the warnings of those in the village
+and ventured out into the forest without a guide and now has got
+himself completely lost.  It would not be a suprise if he started
+walking into the trees in an attempt to get himself out of the forest.
+~
+76 0 0 0 0 0 0 0 175 E
+13 4 48 1d13+350 1d2+8
+25 3245
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 9
+Luck: 12
+Race: 14
+E
+#904
+bear black~
+a sleepy Black Bear~
+A large black bear is here, angry that you have disturbed his sleep.
+~
+The large bear stands about nine feet tall when standing on his hind
+legs.  His claws and teeth both look sharp and will probably do a lot
+of damage if you stay around long enough to test them.  His fur is
+thick and charcoal black.    
+~
+2110 0 0 0 64 0 0 0 0 E
+9 2 64 1d9+175 1d3+4
+0 1270
+5 5 1
+BareHandAttack: 8
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 10
+Luck: 12
+Race: 1
+E
+#905
+fox~
+a red-tailed Fox~
+A small, red-tailed fox, scampers across the forest path.
+~
+The fox, although small in size, is a prize to behold.  Her bushy red
+tail is sought after by many a trapper, as is her pelt.  She stops in
+the middle of the small forest path and looks up at you as if asking
+for something.    
+~
+200 0 0 0 524288 0 0 0 0 E
+6 1 76 1d6+70 1d2+3
+0 451
+8 8 2
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 24
+Luck: 12
+Race: 1
+E
+#906
+white rabbit~
+a white Rabbit~
+A bunny rabbit, white as snow, sits in the middle of the path here.
+~
+What a cute little bunny rabbit, how could anyone possibly even think
+of killing such a sweet creature of nature.  His pelt is pure white,
+and looks very fluffy.  Odd though...  One of his feet is enormous and
+looks quite out of place.    
+~
+4172 0 0 0 524288 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 1
+BareHandAttack: 7
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 5
+Luck: 12
+Race: 1
+E
+#910
+foreman gnome~
+a logging Foreman~
+A large gnome stands here, watching over the others as they work.
+~
+The gnome is extremely large and seems to be in charge of the others
+who are here destroying the ancient oak forest.  Although logging was
+outlawed many years ago, there are still some who feel the lure of the
+money is worth the risk.    
+~
+4332 0 0 0 0 0 0 0 -500 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 5
+Luck: 12
+Class: 4
+Race: 17
+E
+#911
+logger gnome~
+the gnome Logger~
+After looking at you briefly, a young gnome returns to his chopping.
+~
+This young gnome seems to not care about the stories that were told to
+him as a youth about the way the druid's would kill those who defiled
+their home, the forest.  Instead he is only thinking of the money he
+will get for killing the ancient oaks of the forest.    
+~
+4300 0 0 0 0 0 0 0 -500 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 16
+Luck: 12
+Race: 17
+E
+#912
+gnome logger~
+a gnome Logger~
+A young gnome is here, cutting down the ancient oak forest.
+~
+Hard at work, this young gnome barely stops to examine you before
+returning to his cutting.  He is covered from head to toe in sweat,
+but does not seem to mind as all he thinks about it more cut wood,
+which means more coins in his pockets.    
+~
+4300 0 0 0 0 0 0 0 -500 E
+14 4 44 1d14+400 1d2+9
+50 3920
+8 8 1
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 14
+Luck: 12
+Race: 17
+E
+#915
+katan doorman~
+Katan~
+The doorman for the inn, Katan, stands here watching for trouble.
+~
+What a large man, standing close to seven feet tall, and as thick as a
+tree trunk.  His muscular arms bulge slighty as he looks you over
+quickly.  He is Katan, the doorman of the inn, whose sole job is to
+make sure no trouble occurs...  Unless he is the one causing it.    
+~
+2074 0 0 0 2128 0 0 0 0 E
+25 11 0 1d25+2000 2d3+16
+200 17197
+8 8 1
+BareHandAttack: 13
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 13
+Luck: 12
+Class: 10
+Race: 14
+E
+#916
+tarza halfling innkeeper~
+Tarza, the innkeeper~
+Tarza, the halfling innkeeper, sits here watching his business grow.
+~
+Although large for a halfling, Tarza has a pleasant appearance and is
+smiling broadly as his business is doing good.  Although a small inn,
+it is the only one in the village, so has become a hub for not only
+business, but pleasure alike.    
+~
+10 0 0 0 2128 0 0 0 200 E
+18 7 28 1d18+800 1d3+12
+100 7441
+6 8 1
+BareHandAttack: 13
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 24
+Luck: 12
+Class: 11
+Race: 17
+E
+#917
+jahs dealer~
+Jahs the Dealer~
+Sitting behind the table, dealing cards, is Jahs.
+~
+The skinny elf makes his living dealing cards and winning most of the
+games.  Long black hair flows down his back, but looks well kept.  
+His dexterity must be high from the way he is able to shuffle and deal
+the cards with such grace.    
+~
+2074 0 0 0 33556560 0 0 0 -100 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 1
+BareHandAttack: 11
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 8
+Luck: 12
+Class: 8
+Race: 15
+E
+#918
+gambler~
+a Gambler~
+A gambler sits at the card table, quickly losing his remaining gold.
+~
+The young gambler is quickly losing what money he came in with.  He
+sits at the table looking down at his cards and sighs loudly as he
+realizes another hand is lost.    
+~
+6154 0 0 0 0 0 0 0 -100 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+BareHandAttack: 13
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 22
+Luck: 12
+Race: 14
+E
+#919
+wench shopkeeper~
+a serving Wench~
+A bar wench saunters before you, giving a quick wink of her eye.
+~
+This young elven maiden works at the inn serving drinks to all the
+patrons and is occasionally given a swat across her behind from a
+drunk.  She gives a pleasant smile and a quick wink as she tells you
+she will be right with you.    
+~
+16394 0 0 0 0 0 0 0 0 E
+15 5 40 1d15+500 1d3+10
+50 4674
+8 8 2
+BareHandAttack: 4
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 12
+Luck: 12
+Race: 15
+E
+#920
+sage elf elven young~
+an elven Sage~
+A young elven sage sleeps soundly in her bed.
+~
+The elven sage is taking a break from her collecting of herbs and
+other ingredients in the forest to take a nap.  Her red hair is spread
+across a pillow and her ample bosom rises and falls slowly as she
+sleeps soundly.    
+~
+16394 0 0 0 65536 4194304 0 0 250 E
+16 5 36 1d16+600 1d3+10
+75 5510
+8 8 2
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 23
+Luck: 12
+Class: 5
+Race: 15
+E
+#921
+knight human~
+a human Knight~
+A human knight kneels at the foot of the bed, deep in meditation.
+~
+The knight kneels at the foot of his bed, meditating on the quest he
+has undertaken.  His young frame supports impressive muscles and his
+blond hair is neatly tied into a tail with a yellow ribbon.  He does
+not seem to even take notice of your intrusion, but probably just does
+not see you as a threat.    
+~
+2074 0 0 0 10320 0 0 0 1000 E
+20 8 20 1d20+1000 1d4+13
+150 9735
+8 8 1
+BareHandAttack: 13
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 6
+Luck: 12
+Class: 6
+Race: 14
+E
+#925
+elder~
+the village Elder~
+The village elder wanders around, checking on things.
+~
+This old man is the village elder, not because he is the smartest, or
+even a great hero from days ago.  He is the elder simply because he is
+the oldest person around.  Might seem odd, but then again, this is an
+odd village.    
+~
+200 0 0 0 0 0 0 0 0 E
+19 7 24 1d19+900 1d3+12
+100 8541
+8 8 1
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 6
+Luck: 12
+Class: 1
+Race: 14
+E
+#926
+citizen~
+a village Citizen~
+A citizen of the village walks by, attending to his own business.
+~
+Not taking much notice of you, the young man runs by quickly on his
+business.  He seems neither poor nor rich, but somewhere in between,
+which is where he likes to be.    
+~
+76 0 0 0 0 0 0 0 0 E
+12 3 52 1d12+300 1d2+8
+25 2646
+8 8 1
+Str: 10
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 10
+Luck: 12
+Class: 12
+Race: 14
+E
+#927
+henzel halfling short shopkeeper~
+Henzel, the halfling Shopkeeper~
+A short halfling, Henzel, is here selling goods.
+~
+Short, even for a halfling, Henzel runs what he considers a shop.  He
+stops his stocking of the shelves briefly and welcomes you to the
+shack...  Err...  Shop.    
+~
+253962 0 0 0 24576 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 10
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 6
+Luck: 12
+Race: 17
+E
+#928
+brassbeard dwarf dwarven smithy blacksmith shopkeeper~
+Brassbeard, the dwarven Smithy~
+The dwarven smithy, Brassbeard, stands next to an anvil, hard at work.
+~
+Constantly hammering at the forge, Brassbeard yells loudly that if you
+do not see what you are looking for, just ask.  His muscles are large
+and tight, but the dwarf seems pleasant enough.  His skin is covered
+by a heavy layer of soot from the forge.    
+~
+253978 0 0 0 16384 0 0 0 0 E
+30 14 -20 1d30+2250 3d3+20
+250 27376
+8 8 1
+BareHandAttack: 7
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 15
+Luck: 12
+Class: 4
+Race: 13
+E
+#930
+stableboy boy~
+a Stableboy~
+A young boy is here, tending to the animals in the stable.
+~
+What a poor soul, this young man accepted a job working for Brassbeard
+in the hopes of learning to work a forge, but instead was given the
+task of cleaning the stables.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d10+200 1d2+6
+15 1662
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 21
+Luck: 12
+Race: 14
+E
+#931
+horse grey mare old~
+an old, grey Mare~
+An old grey mare is here, not quite what she used to be.
+~
+What a pathetic looking animal, old and believe it or not, starting to
+get wrinkles.  This mare just ain't what she used to be, but there are
+just some people who do not take pride in their mounts.    
+~
+262154 0 0 0 0 0 0 0 0 E
+8 2 68 1d8+150 1d3+4
+0 941
+8 8 2
+BareHandAttack: 4
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 9
+Luck: 12
+Race: 52
+E
+#932
+mule dumb~
+an dumb Mule~
+A dumb mule is here, it smells very bad.
+~
+He is big and dumb and smells real bad, but it is a mule
+you know.
+~
+262154 0 0 0 0 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 9
+Luck: 12
+Race: 52
+E
+#933
+rat~
+a Rat~
+A rat is here, scattering saw dust around on the floor.
+~
+This rat, like most others, is here looking for scraps of food that
+might be laying around the old mill.  He scurries across the floor
+ducking under old wood beams, all the while staring at you with his
+eyes.    
+~
+10 0 0 0 2048 0 0 0 0 E
+5 1 80 1d5+50 1d2+2
+0 283
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 20
+Luck: 12
+Race: 1
+E
+#950
+elemental fire~
+a Fire Elemental~
+An elemental covered in flames solemnly stands here.
+~
+Made of and only of pure fire, the Fire Elemental is a denizen of the
+Fire Plane.  Medium in stature, it's physical appearance belie it's
+true strength - dealing with fire.    
+~
+595994 0 0 0 2064 2 0 0 0 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 12
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 24
+Luck: 12
+Class: 1
+Race: 30
+E
+#951
+elemental water~
+a Water Elemental~
+A shifting blob of water solemnly stands here.
+~
+Made of and only of water, the Water Elemental is a denizen of the
+Water Plane.  Medium in stature, it's physical appearance belies it's
+true strength - dealing with water.    
+~
+595994 0 0 0 2128 2 0 0 0 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 7
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 25
+Luck: 12
+Class: 5
+Race: 30
+E
+#952
+elemental air twister~
+an Air Elemental~
+A whirling twister solemnly stands here.
+~
+Made of and only of air, the Air Elemental is a denizen of the Air
+Plane.  Medium in stature, it's physical appearance belies it's true
+strength - dealing with air.
+~
+718858 0 0 0 2064 4194306 0 0 0 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 10
+Str: 22
+Dex: 14
+Int: 7
+Wis: 12
+Con: 23
+Cha: 18
+Luck: 20
+Class: 2
+Race: 30
+E
+#953
+elemental earth soil~
+an Earth Elemental~
+A crumbling mound of soil solemnly stands here.
+~
+Made of and only of earth, the Earth Elemental is a denizen of the
+Earth Plane.  Medium in stature, it's physical appearance belies it's
+true strength - dealing with earth.
+~
+718858 0 0 0 2064 4194306 0 0 0 E
+22 9 12 1d1+0 1d4+14
+150 12413
+8 8 0
+BareHandAttack: 9
+Str: 9
+Dex: 16
+Int: 20
+Wis: 7
+Con: 8
+Cha: 24
+Luck: 13
+Class: 4
+Race: 30
+E
+#954
+guardian shrike hawk~
+a Guardian Shrike~
+A large hawk shrieks loudly and dive-bombs towards you!
+~
+The Shrike is a small hawk, yet a stout defender of it's airspace.  
+It's claws are unusually long for a hawk, used for prying snails from
+their shells to eat.    
+~
+243754 0 0 0 8390736 2 0 0 0 E
+20 8 20 1d1+0 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 8
+Str: 17
+Dex: 15
+Int: 24
+Wis: 23
+Con: 6
+Cha: 10
+Luck: 24
+Race: 3
+E
+#955
+leopard snowy~
+a Snowy Leopard~
+A snowy-white feline pounces about!
+~
+A creature of the snow, the Snowy Leopard is well-suited for survival
+in the harsh realm of sub-zero temperatures.  It's fluffy white coat
+offers camoflauge and insulation from the elements.  Broad paws act as
+snowshoes, enabling it to traverse the snow drifts with ease.
+~
+530442 0 0 0 2064 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 8
+Str: 9
+Dex: 12
+Int: 22
+Wis: 20
+Con: 18
+Cha: 25
+Luck: 22
+Race: 1
+E
+#956
+creature furry hyrax~
+a furry Hyrax~
+A plump and furry creature peeks out from under a rock.
+~
+The Hyrax is incredibly agile, capable of scaling almost vertical 
+rocky surfaces.  It is small, about the size of a small cat, and
+covered with brown fur.  It spends it's life in the high mountains,
+feeding on lichen, grass, and moss.
+~
+6154 0 0 0 2064 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 4
+Str: 22
+Dex: 15
+Int: 7
+Wis: 18
+Con: 7
+Cha: 17
+Luck: 24
+Race: 1
+E
+#957
+fox arctic~
+an Arctic Fox~
+A small white-furred fox dashes from snow drift to snow drift.
+~
+A small fox by canine standards, the Arctic fox is suberbly adapted
+for life in the cold.  It's black eyes and a black-colored tip at the
+end of it's tail are the only giveaways in this otherwise white world.
+~
+530442 0 0 0 2064 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 4
+Str: 8
+Dex: 7
+Int: 13
+Wis: 24
+Con: 9
+Cha: 17
+Luck: 5
+Race: 1
+E
+#958
+sheep dall~
+a Dall Sheep~
+A small sheep with spiraled horns bounds from rock to rock.
+~
+Sporting a pair of spiraling horns and a massive neck, the Dall Sheep
+can butt with tremendous force.  In addition, it's nimbleness also
+provides the capability to escape quickly.    
+~
+530442 0 0 0 2064 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 7
+Str: 6
+Dex: 21
+Int: 22
+Wis: 21
+Con: 7
+Cha: 14
+Luck: 5
+Race: 1
+E
+#959
+deer apaxi~
+an Apaxi~
+A shaggy-coated deer looks up for a second as she eats.
+~
+The Apaxi is rare in these parts, being hunted for thier shaggy coats.
+Slightly smaller than the average deer, it bears spikes as oppsed to
+branching antlers.    
+~
+6154 0 0 0 2064 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 2
+Str: 5
+Dex: 17
+Int: 10
+Wis: 14
+Con: 18
+Cha: 15
+Luck: 14
+Race: 1
+E
+#960
+bear mountain~
+a two-toned Mountain Bear~
+A large bear, with two-toned fur, lumbers about.
+~
+Larger than any bear, the Mountain Bear is a direct descendent of the
+extinct Cavebear of old.  Standing easily thirteen feet tall, it has
+the ferocity to match it's height.  It's fur is unique, depending on
+the season, it changes from olive-green to pale-amber.    
+~
+530442 0 0 0 2064 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 9
+Str: 10
+Dex: 16
+Int: 20
+Wis: 13
+Con: 25
+Cha: 24
+Luck: 22
+Race: 1
+E
+#961
+lizard skink twelve~
+a twelve-lined Skink~
+A small lizard with twelve stripes from head to toe rests here.
+~
+The Skink is a small lizard, covered with pale-brown scales and twelve
+black stripes from head to tail.  Large eyes enable it to scan clearly
+about for food, while long toes give it added dexterity and quicklness.
+~
+6154 0 0 0 2064 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+Str: 5
+Dex: 13
+Int: 19
+Wis: 17
+Con: 16
+Cha: 20
+Luck: 7
+Race: 2
+E
+#962
+cat ocelot~
+an Ocelot~
+A small cat peeks about then resumes it's stalking.
+~
+The Ocelot barely stands four hands tall, yet it's ability to survive
+in hostile environments surpasses any other big cat.  Scores of black
+spots, some oblong and some circular, mark it's otherwise tawny coat.
+~
+530442 0 0 0 2064 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+Str: 14
+Dex: 6
+Int: 18
+Wis: 13
+Con: 13
+Cha: 9
+Luck: 15
+Race: 1
+E
+#963
+rodent bristal~
+a Bristal~
+A small rodent scurries about from rock to rock.
+~
+Always on the search for food, the Bristal is a bundle of energy.  
+Resembling a shrew in appearance and the size of an otter, this
+rodent is rather nasty when it's home is under threat.
+~
+530442 0 0 0 2064 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+Str: 23
+Dex: 25
+Int: 25
+Wis: 23
+Con: 10
+Cha: 7
+Luck: 7
+Race: 1
+E
+#964
+antelope bongo~
+an Bongo~
+A large antelope stands here, grazing.
+~
+Bearing a pair of sabre-shaped horns atop it's head, the Bongo is a 
+dashing specimen.  A solid brown body, marked with a swath of black
+through the midsection, atop some of the fastest legs in the animal
+kingdom provide the Bongo some relief from enemies.
+~
+530442 0 0 0 2064 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 3
+Str: 24
+Dex: 5
+Int: 22
+Wis: 7
+Con: 17
+Cha: 9
+Luck: 6
+Race: 1
+E
+#965
+bison lowland~
+a lowland Bison~
+A lowland Bison stomps the ground in warning!
+~
+The Bison is massive, almost as wide as it is tall.  A shaggy mane and
+mottley fur cover this creature, as well as the distinctive smell of
+musk.  A set of sturdy curved horns provide it with an alternative
+means of defense, other than using their broad, hard hooves.    
+~
+792586 0 0 0 2064 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 5
+Str: 22
+Dex: 15
+Int: 18
+Wis: 15
+Con: 6
+Cha: 14
+Luck: 18
+Race: 1
+E
+#966
+insect flyte~
+a Flyte~
+A small insect hops from one suculent blade of grass to the next.
+~
+A small grasshopper of some sort, the Flyte scour the grasslands for
+succulent, green vegetation.  A single "horn" protruding from it's
+head is what distinguishes it from ordinary grasshoppers.    
+~
+6154 0 0 0 2064 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 4
+Str: 19
+Dex: 18
+Int: 8
+Wis: 22
+Con: 8
+Cha: 10
+Luck: 15
+Race: 5
+E
+#967
+cactus prickly pear~
+a prickly Pear Cactus~
+A small cactus slowly grows here.
+~
+Squat oblong protuberances growing from a stubby stalk mark this as a
+prickly Pear Cactus.  Scores of fingerlength spikes protect the cactus
+from creatures looking for an easy meal as well as water.
+~
+6154 0 0 0 134219856 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11575
+8 8 0
+BareHandAttack: 1
+Str: 24
+Dex: 15
+Int: 8
+Wis: 12
+Con: 7
+Cha: 13
+Luck: 18
+Race: 26
+E
+#968
+lizard horned toad~
+a Horned Toad~
+A squat lizard ambles about, looking for ants.
+~
+The Horned Toad is actually a lizard which loves to feed upon ants.
+It is sqaut, almost like a bulldog, and covered with spikey spines.
+An extra eye-lid offers it protection during sandstorms in the desert.
+~
+530442 0 0 0 2064 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 10
+Str: 12
+Dex: 14
+Int: 23
+Wis: 8
+Con: 17
+Cha: 23
+Luck: 14
+Race: 2
+E
+#969
+snake sidewinder~
+a Sidewinder~
+A sandy-colored snake hisses in warning!
+~
+A stout body and a "horn" over each eye show this to be a Sidewinder.
+A rattle sounds the warning, if all else fails it can escape across the
+swirling sands by loping sideways.
+~
+530442 0 0 0 33556560 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 2
+Str: 5
+Dex: 21
+Int: 22
+Wis: 24
+Con: 10
+Cha: 7
+Luck: 9
+Race: 2
+E
+#970
+frog leopard~
+a Leopard Frog~
+A frog with spots rests here, keeping a wary eye out.
+~
+A small frog, the Leopard Frog, is so named for the black spots that
+cover it's body.  A pair of strong legs enable it to leap far and swim
+quickly.    
+~
+792586 0 0 0 2064 0 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+Str: 25
+Dex: 16
+Int: 8
+Wis: 16
+Con: 17
+Cha: 9
+Luck: 21
+Race: 2
+E
+#971
+cattail reed~
+a Cattail Reed~
+A tall reed grows here.
+~
+The Cattail is a tall and graceful reed of the swamps.  So named for the
+fuzzy spike, bearing seeds, which resembles a cat's tail.  It is a rapid
+grower, for it constantly loses parts of itself to hungry herbivores.
+~
+6154 0 0 0 2128 0 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 2
+Str: 5
+Dex: 14
+Int: 14
+Wis: 22
+Con: 13
+Cha: 17
+Luck: 13
+Race: 26
+E
+#972
+moss sphagnum~
+a Sphagnum Moss~
+A browinsh crinkly moss grows here.
+~
+The moss is a slow grower, yet a rapid reproducer.  A single moss can
+lead to millions more of it's kind, slowly filling up a pond and
+turning it into a bog.  It has crinkly leaves and spindly stalks.    
+~
+6154 0 0 0 2064 0 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 13
+Str: 16
+Dex: 9
+Int: 12
+Wis: 20
+Con: 5
+Cha: 12
+Luck: 5
+Race: 26
+E
+#973
+crab stone~
+a Stone Crab~
+A small crab with a rock-hard shell scuttles about.
+~
+The Stone Crab is a stout defender of it's territory, brandishing it's
+claws and chasing away unwanted intruders.  So named for it's seeminly
+rock-hard shell, the grey-colored crab is vulnerable during molts.
+~
+6186 0 0 0 2128 2 0 0 0 E
+21 8 16 1d1+0 1d4+14
+0 11024
+8 8 0
+BareHandAttack: 9
+Str: 16
+Dex: 10
+Int: 12
+Wis: 9
+Con: 23
+Cha: 24
+Luck: 12
+Race: 4
+E
+#974
+shark big-eye thresher~
+a Big-eye Thresher~
+A big-eyed shark is on the prowl here.
+~
+This shark is long and slender, perfectly suited for swiming the
+oceans.  The upper lobe of it's tail fin is extra long, looking like a
+whip.  A pair of large eyes allow it to see even in the murkiest
+waters.    
+~
+530474 0 0 0 2128 2 0 0 0 E
+25 11 0 1d1+0 2d3+16
+0 17197
+8 8 0
+BareHandAttack: 10
+Str: 21
+Dex: 14
+Int: 12
+Wis: 6
+Con: 5
+Cha: 24
+Luck: 7
+Race: 4
+E
+#975
+fish marlin~
+a Marlin~
+A huge fish leaps out of the water here!
+~
+Often reaching a weight of more than a dozen men, the Marlin is a
+fierce predator of the oceans.  A sail-like fin on it's back gives
+it added dexterity when hunting for prey.
+~
+530442 0 0 0 33556560 2 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 3
+Str: 14
+Dex: 21
+Int: 13
+Wis: 19
+Con: 24
+Cha: 5
+Luck: 24
+Race: 4
+E
+#976
+fish zebra~
+a Zebra Fish~
+A stripped fish with bristling fins calmly swims about.
+~
+A graceful and beautiful fish, the Zebra Fish is also one of the most
+venomous fish in the world.  Long spines contain poison, capable of
+rendering a man senseless in seconds and dead in a minute.
+~
+530474 0 0 0 2128 2 0 0 0 E
+23 9 8 1d1+0 1d4+15
+0 13903
+8 8 0
+BareHandAttack: 1
+Str: 7
+Dex: 7
+Int: 19
+Wis: 5
+Con: 8
+Cha: 13
+Luck: 22
+Race: 4
+E
+$

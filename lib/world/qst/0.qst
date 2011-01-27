@@ -1,0 +1,80 @@
+#0
+test quest..~
+this is just a test quest to see if it saves to file~
+new info for the quest is in here.
+~
+hmmm ending the quest not sure can't recall
+~
+3 1 0 20 0 150 0 0 0 -1 -1
+0 0 0 0
+S
+#1
+sample quest~
+Find an elemental, wherever it may be.~
+   In this quest, it is your goal to find an elemental.  What does this mean?
+Well its that nifty ole test entry so load mob 20 and go to it, and it should
+work.  (ps-this is testing long descs)
+~
+Ending, thats it.    
+~
+2 3050 0 20 149 150 0 0 0 -1 -1
+0 0 0 0
+S
+#2
+second test~
+This the second quest. Its a test too.~
+No info for you!
+~
+You finished!
+~
+2 3050 0 3000 1 150 0 500 5 3001 -1
+0 0 0 0
+S
+#3
+an unfinished quest~
+what the heck is the problem here~
+Information for unfinished quest.
+ok this is a test.. to see why it isn't loading or saving
+~
+END IT  NOW
+~
+2 3050 0 3062 10 150 0 500 0 0 -1
+0 0 0 0
+S
+#4
+quest 4~
+Yep unifinished is right~
+Information for unfinished quest.
+Find the postmaster
+Yep unifinished is right
+~
+--/cW DONE!/c0
+~
+2 3050 0 1201 1 150 0 0 5 0 -1
+0 0 0 0
+S
+#5
+The Fifth Quest, baby.~
+Find the Postmaster again.~
+
+Find the immortal postmaster and you shall be rewarded.
+
+~
+
+Congratulations! You have been awarded 5 Quest Points!
+
+~
+2 3050 0 1201 1 150 0 0 5 0 -1
+0 0 0 0
+S
+#6
+an unfinished quest~
+This is an unfinished quest.~
+Information for unfinished quest.
+~
+Ending for unfinished quest.
+~
+0 3050 0 1000 1 150 0 0 0 0 -1
+0 0 0 0
+S
+$~

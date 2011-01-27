@@ -1,0 +1,48 @@
+#30600
+receptionist, mage~
+receptionist~
+A wondering Dimension's Mage is waiting for orders.
+~
+She looks very selfconfident as she wanders about.  Her dress is of 
+the finest weave and it has the crest of the Order of Dimension upon her
+breast.
+~
+16394 0 0 0 65536 0 0 0 0 E
+50 29 -28 1d1+0 5d5+33
+0 100714
+8 8 2
+Str: 16
+Dex: 25
+Int: 22
+Wis: 10
+Con: 23
+Cha: 8
+Luck: 25
+Class: 11
+Race: 15
+E
+#30601
+guard, mage~
+Dimension's Mage~
+One of the Dimension's Mages blocks your path.
+~
+If there was ever a man with an ego, this would be it.  He looks down
+his nose at you the entire time.  A man of slight built, the mage is
+not the sort to be trifled with.  He is dressed in expensive looking
+clothing with the Dimension emblem embroidered upon them.    
+~
+260122 0 0 0 336 131074 0 0 0 E
+250 279 -100 1d1+0 55d75+166
+0 4950000
+8 8 1
+Str: 12
+Dex: 5
+Int: 19
+Wis: 23
+Con: 18
+Cha: 17
+Luck: 10
+Class: 13
+Race: 20
+E
+$

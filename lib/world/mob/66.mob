@@ -1,0 +1,1598 @@
+#6600
+mayor drigad~
+Mayor Drigad~
+Drigad is out roaming the streets of sundhaven doing his duty as mayor.
+~
+A tall noble with sand-colored hair and goatee is strolling by with an
+amiable but authoritave countenance.  Long out of knighthood, he
+nevertheless looks quite confident in his abilities to defend himself,
+and has gone on to wining, dining and governing the human population.
+~
+563288 0 0 0 268435728 0 0 0 0 E
+120 100 -40 1d11+250 14d14+80
+2450 1032812
+8 8 1
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 21
+Luck: 12
+Class: 4
+Race: 14
+E
+#6601
+guard sundhaven~
+a Sundhaven Guard~
+A tough-looking guard with little expression upon his face glares ahead!
+~
+His swarthy human face is framed by well-combed dark hair that gazes
+about with a relaxed, alert air.  He wears in his uniform the dark
+gold and black colors of the town banner, and the sword that hangs
+from his hip looks more than idle decoration.    
+~
+563272 0 0 0 80 131072 0 0 -800 E
+100 77 -40 1d15+500 9d10+66
+1950 589815
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 10
+Race: 14
+E
+#6602
+hangman executioner~
+the Town Hangman~
+The town Hangman is here, looking for a new person to hang!
+~
+This brawny, placid fellow is garbed in loose black garments and an
+eyepatch, from his days as a pirate along the northern coast.  He has,
+of course, since seen the light and sticks to legal murder.    
+~
+759867 0 0 0 272 131072 0 0 0 E
+130 111 -60 1d40+2525 15d16+86
+2500 1266673
+8 8 1
+BareHandAttack: 12
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 12
+Luck: 12
+Class: 4
+Race: 14
+E
+#6603
+priest black~
+a Black-robed Priest~
+A black-robed priest is here, tending a candelabra.
+~
+The glow of candles half reveals a shadowy priest with dark features
+and a somber but pleasant manner.  He carries a small kaleidoscope in
+one hand, with which he watches the movements of his elusive deity.  
+~
+33560586 0 0 0 272 0 0 0 0 E
+100 77 -40 1d23+1600 9d10+66
+1950 648796
+8 8 1
+BareHandAttack: 15
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 2
+Race: 16
+E
+#6604
+priestess priest black~
+a Black-robed Priestess~
+A black-robed priestess is charting a stellar calendar on the wall.
+~
+She looks entirely focused on her task of painting and numbering, yet
+pauses to give you a nod as you pass in.  Her beauty, though great, is
+surpassed by the swirl of etherous colors that she busies herself
+with.    
+~
+33593354 0 0 0 272 0 0 0 0 E
+100 77 -40 1d23+1600 9d10+66
+1950 648796
+8 8 2
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 16
+Luck: 12
+Class: 2
+Race: 16
+E
+#6605
+raven bird shadow~
+a Raven~
+A shadow passes along the ground something flies overhead.
+~
+Regarded in local myth as a bird of prophecy, it regards you with one
+eye as it passes over.    
+~
+10 0 0 0 8388608 0 0 0 0 E
+10 3 60 1d2+15 1d4+5
+0 1662
+8 8 0
+BareHandAttack: 8
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 22
+Luck: 12
+Race: 3
+E
+#6606
+lost boy~
+a little Boy~
+A lost boy peers at you begging for change.
+~
+It slinks quickly from your vision, apparently nervous about eye contact.
+~
+73 0 0 0 16 0 0 0 0 E
+50 29 -28 1d1+10 5d5+33
+750 100714
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 12
+Luck: 12
+Class: 12
+Race: 14
+E
+#6607
+someone thief~
+a Thief~
+You sense someone lurking about.
+~
+Catching you spotting him, he gives you a quick grin and a friendly
+nudge.  Better check your pockets.    
+~
+163945 0 0 0 1572944 2 0 0 -600 E
+90 66 -40 1d6+70 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 11
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 23
+Luck: 12
+Class: 3
+Race: 32
+E
+#6608
+picker blackberry~
+a blackberry Picker~
+A blackberry picker is singing among the bushes.
+~
+She is garbed in a peasant's frock and carries a basket of
+blackberries.  Black hair frames a gentle face and broad grey eyes
+accustomed to hardship.  She gives you a shy smile and feigns interest
+in a fray of her sleeve.    
+~
+10 0 0 0 16 163840 0 0 0 E
+77 53 -40 1d3+20 6d7+51
+1325 302878
+8 8 2
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Class: 12
+Race: 14
+E
+#6609
+peddler halfling~
+a Peddler~
+A halfling peddler is here calling his wares.
+~
+A short, slender being with wary and mirthful eyes barely gives your
+kneecaps a second glance.  He seems engaged in drawing the eyes of
+persons of wealth.  He wears a tray of spices and other goods on a
+strap around his neck.    
+~
+526408 0 0 0 2064 0 0 0 0 E
+87 63 -40 1d2+15 6d7+58
+1575 413514
+8 8 1
+BareHandAttack: 13
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 7
+Luck: 12
+Class: 8
+Race: 17
+E
+#6610
+mendicant beggar~
+a Mendicant~
+A mendicant in rags shoves a cup in your face.
+~
+You are absorbed by the foul smell of his ragged body, but take pity;
+there are worse odors among the wild regions of the vast world.    
+~
+135178 0 0 0 16 0 0 0 0 E
+70 47 -40 1d1+10 6d6+46
+1150 237528
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Race: 14
+E
+#6611
+knight warrior~
+a Knight in bright armor~
+A knight in bright armor is telling tales in a roaring voice.
+~
+His shining armor and sword of silver are so stainless that you wonder
+if he merely has a master blacksmith, or an overactive imagination.  
+~
+624650 0 0 0 167774224 0 0 0 1000 E
+106 84 -40 1d18+800 10d11+70
+2100 718513
+8 8 1
+BareHandAttack: 3
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 9
+Luck: 12
+Class: 6
+Race: 13
+E
+#6612
+squire~
+a Squire~
+An eager squire stands attendant.
+~
+He appears to be hanging on his lord's every word, but when watched
+closely seems to pay more attention to his cold mug of ale.    
+~
+10 0 0 0 16 0 0 0 0 E
+73 49 -40 1d15+500 6d6+48
+1225 264356
+8 8 1
+BareHandAttack: 13
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 5
+Luck: 12
+Class: 12
+Race: 14
+E
+#6613
+princess foreign~
+a foreign Princess~
+A foreign princess is downing shots at the bar.
+~
+She has a beauty that fascinates the eye, but she shows about as much
+interest in you as an empty keg.    
+~
+6282 0 0 0 16 0 0 0 0 E
+89 65 -40 1d14+400 6d7+59
+1675 438188
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 19
+Luck: 12
+Race: 20
+E
+#6614
+minstrel gypsy~
+a gypsy Minstrel~
+A gypsy minstrel bows a fiddle nearby.
+~
+She is clad in the brightest colors; red, gold, purple and orange
+compete for the attention of the eye.  She has thrown down his
+feathered cap and seems ready for donations.    
+~
+34888 0 0 0 80 163840 0 0 0 E
+75 51 -40 1d5+50 6d7+50
+1275 283219
+8 8 2
+BareHandAttack: 14
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 23
+Luck: 12
+Race: 14
+E
+#6615
+idiot village fool~
+the village Idiot~
+The village idiot is dancing about.
+~
+He notices you checking him out, bounces up into your face, and begins
+reciting bad poetry.  He looks suspiciously like someone you know.  
+~
+93 0 0 0 16 0 0 0 0 E
+69 46 -40 1d10+200 6d6+46
+1125 228971
+8 8 1
+Str: 5
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 3
+Race: 14
+E
+#6616
+priestess master cleric~
+the Priestess of the Ministry~
+The Priestess of the Ministry is here, garbed in black.
+~
+She is tall, elderly and imposing, but willing to teach those new to
+her priestly arts.  The black gown that she wears flows past her toes
+to the stone floor.    
+~
+83979 0 0 0 336 2 0 0 0 E
+119 98 -40 1d29+2200 14d14+79
+2425 1011005
+8 8 2
+BareHandAttack: 15
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 13
+Luck: 12
+Class: 2
+Race: 14
+E
+#6617
+master mistress assassin thief~
+the Mistress of Assassins~
+The Mistress of Assassins comes half out of the shadow.
+~
+You see but a blur in the shadow that is the keeper of the Black Naga
+assassins guild.  She is willing to train newcomers to her roguish
+trade, after that you must search elsewhere for learnings.    
+~
+706571 0 0 0 33554512 10 0 0 0 E
+119 98 -40 1d29+2200 14d14+79
+2425 919096
+8 8 2
+BareHandAttack: 14
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 23
+Luck: 12
+Class: 4
+Race: 47
+E
+#6618
+knightmaster knight master warrior~
+the Knightmaster~
+The Knightmaster fingers his beard and ponders you.
+~
+A swarthy man clad in the padded armor standard for training newcomers.
+Thick auburn hair and beard frame a face intelligent in battle.
+~
+641035 0 0 0 402653264 0 0 0 0 E
+119 98 -40 1d29+2200 14d14+79
+2425 965050
+8 8 1
+BareHandAttack: 3
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 8
+Luck: 12
+Class: 6
+Race: 14
+E
+#6619
+master archmage mage~
+the Archmage~
+The Archmage watches you through a crystal ball as you arrive.
+~
+His violet robes have long frayed and faded, his beard is long and
+tapering, but his powers have only grown throughout the years.  He is
+willing to teach his mystical arts to newcomers.    
+~
+706571 0 0 0 537133136 0 0 0 0 E
+119 98 -40 1d29+2200 14d14+79
+2425 1011005
+8 8 1
+BareHandAttack: 16
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 17
+Luck: 12
+Class: 1
+Race: 20
+E
+#6620
+bartender~
+the Bartender~
+The bartender is here doing his thing.
+~
+This plump fellow leads a quiet life.  Nevertheless the odd creatures
+that find their way to this bar from all lands have had an effect on
+him.  He glances up and gives you a lopsided grin as he mumbles to the
+floor.    
+~
+16410 0 0 0 80 2 0 0 0 E
+79 55 -40 1d29+2200 6d7+52
+1375 323344
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 7
+Luck: 12
+Race: 14
+E
+#6621
+retired thief~
+a wise and mighty Thief~
+A wise thief cleans a shot glass from behind the counter.
+~
+Having retired from the bounty lists, this thief spends his days
+managing the Nightbreak Cafe for the assassins guild.  So may you, if
+you become addicted enough to caffeine.    
+~
+563210 0 0 0 2128 2 0 0 0 E
+128 109 -60 1d29+2200 15d15+85
+2500 1106883
+8 8 1
+BareHandAttack: 14
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 22
+Luck: 12
+Class: 3
+Race: 15
+E
+#6622
+falconer~
+the Falconer~
+The falconer stands proudly before several cages.
+~
+His tall, noble bearing seems to go hand in hand with the alert
+postures of his taloned birds.  A magnificent white kestrel stares at
+you from his left shoulder.    
+~
+2058 0 0 0 16 0 0 0 600 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+Str: 7
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 9
+Luck: 12
+Class: 5
+Race: 15
+E
+#6623
+cartographer~
+the Cartographer~
+The cartographer grins at you over wire-rimmed spectacles.
+~
+Thin and wisp-haired, this old man regards you with a wily grin and
+looks ready to cut some deals.  There is a rumour he was kicked out of
+the mages guild for fraud.  Can you trust his goods?    
+~
+16394 0 0 0 65552 4325376 0 0 -800 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 23
+Luck: 12
+Race: 14
+E
+#6624
+town treasurer~
+the Town Treasurer~
+The town treasurer sits happily on a huge pile of gold.
+~
+This little man has found his bliss.
+~
+18442 0 0 0 16 0 0 0 0 E
+88 64 -40 3d7+200 6d7+58
+1600 425742
+8 8 1
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 22
+Luck: 12
+Race: 14
+E
+#6625
+blacksmith~
+the Blacksmith~
+The blacksmith stands in the glare of the fire.
+~
+This ex-warrior is short and brawny, looks to have some dwarf
+ancestry.  He is carrying a hot poker though, better not mess with
+him.    
+~
+18442 0 0 0 33556496 0 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+BareHandAttack: 7
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 17
+Luck: 12
+Class: 4
+Race: 13
+E
+#6626
+jeweller~
+the Jeweller~
+The jeweller stands behind a glass case of rubies.
+~
+The jeweller is a dark-skinned woman in a silken frock.  She seems to
+be doing very well for herself.  A black gem sparkles dimly round her
+neck.    
+~
+16394 0 0 0 80 0 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 2
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 18
+Luck: 12
+Race: 16
+E
+#6627
+phadela witch~
+Phadela~
+Phadela is here grinning maniacally in a mirror.
+~
+This local witch comes from desert lands and is making her fortune off
+the superstitious.  Her dark eyes look sharply into yours in the
+mirror on the far wall.  Her black hair and turban remind you of her
+exotic origins.    
+~
+575498 0 0 0 262160 4325376 0 0 0 E
+99 76 -40 1d29+2200 6d8+66
+1925 632380
+8 8 2
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 17
+Luck: 12
+Class: 1
+Race: 14
+E
+#6628
+baker chef hobbit~
+the hobbit Pastry Chef~
+The hobbit pastry chef rolls some dough behind the counter.
+~
+A round, short fellow covered in flour.  He looks content as a mouse
+in a corn shed, snacking on his sticky creations perpetually.    
+~
+18442 0 0 0 16 131072 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Race: 17
+E
+#6629
+alchemist~
+the old Alchemist~
+The old alchemist stands here preparing bubbling vials.
+~
+He is withered as a gnarled tree, but seems wise in a mad sort of way.
+Glass vials of all colors surround him, attesting to his knowledge.  
+~
+18442 0 0 0 16 0 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 15
+Luck: 12
+Class: 1
+Race: 14
+E
+#6630
+magess magician~
+the Magess~
+The wise magess flies about the shop.
+~
+An old silver haired woman levitates and sings to herself as she
+reshelves tomes and organizes scrolls and parchments.    
+~
+18442 0 0 0 0 0 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 12
+Luck: 12
+Class: 1
+Race: 14
+E
+#6631
+mekala thai cook~
+Mekala~
+Mekala tosses some pad tai in a pan nearby.
+~
+This young, dark woman has traveled far from jungle lands to prepare
+her spicy-hot dishes for this heavily traversed town.  She sings a
+foreign song in a bizarre, guttaral tongue.    
+~
+18442 0 0 0 16 0 0 0 0 E
+83 59 -40 1d29+2200 6d7+55
+1475 366746
+8 8 2
+BareHandAttack: 5
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 8
+Luck: 12
+Race: 14
+E
+#6632
+armourer~
+the Armourer~
+The armourer is here buffing a suit of scale mail.
+~
+The cousin of the warrior guildmaster is six foot five and perhaps
+three hundred pounds..  Needless to say, he has many friends.  He
+stands rose-buffing a beautiful suit of scale mail.    
+~
+18442 0 0 0 16 0 0 0 0 E
+80 56 -40 1d29+2200 6d7+53
+1400 333884
+8 8 1
+BareHandAttack: 7
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 16
+Luck: 12
+Class: 4
+Race: 19
+E
+#6633
+weaponmaster~
+the Weaponmaster~
+The weaponsmaster sharpens a kris at the back wall.
+~
+He's a wiry little fellow, but agile as a squirrel. He prefers
+to be left alone in the world of blade artistry, and generally
+people grant him his wish with pleasure.
+~
+18442 0 0 0 16 0 0 0 0 E
+87 63 -40 1d29+2200 6d7+58
+1575 413514
+8 8 1
+Str: 12
+Dex: 12
+Int: 13
+Wis: 13
+Con: 9
+Cha: 15
+Luck: 12
+Class: 4
+Race: 14
+E
+#6634
+lady old~
+a little old Lady~
+A little old lady hovers around you.
+~
+She looks a little bored, and pleased to see you, hoping for a big sale.
+You cringe as she gives you a warm toothless smile.
+~
+16394 0 0 0 16 0 0 0 0 E
+70 47 -40 10d90+100 6d6+46
+1150 237528
+8 8 2
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 18
+Luck: 12
+Race: 14
+E
+#6635
+mockingbird bird~
+a Mockingbird~
+A grey and white mockingbird mimics you from an oak branch.
+~
+She cocks her head from side to side, studying you rapidly, then does
+an impression that looks very familiar and makes your friends crack up
+laughing.    
+~
+10 0 0 0 8388624 0 0 0 0 E
+5 1 80 1d1+10 1d2+2
+0 283
+8 8 2
+BareHandAttack: 8
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 12
+Luck: 12
+Race: 3
+E
+#6636
+adventurer paranoid fool~
+a paranoid Adventurer~
+A paranoid adventurer hides within the town walls, afraid to leave.
+~
+His bug eyes and electric hair show you he has perhaps seen to many
+beasts, and they were too much for him.    
+~
+200 0 0 0 16 0 0 0 0 E
+63 40 -40 1d5+50 6d6+42
+1075 181566
+8 8 1
+BareHandAttack: 10
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 10
+Cha: 8
+Luck: 12
+Race: 14
+E
+#6637
+trader silk~
+a Silk Trader~
+A silk trader is strolling, looking for business.
+~
+The fact that he has been about many lands shows on his weathered,
+scarred face.  When he notes you looking him over he smiles cunningly
+and shows you a variety of colored silk goods.    
+~
+530505 0 0 0 80 131072 0 0 0 E
+105 82 -40 1d11+250 10d11+70
+2075 667958
+8 8 1
+BareHandAttack: 11
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 21
+Luck: 12
+Class: 4
+Race: 14
+E
+#6638
+boy mischievious~
+a mischievious Boy~
+A mischievious boy is looking for something to set on fire.
+~
+His small, darting eyes are set off by a mess of tousled black hair.
+Ever since his sling shot was taken away, he has been playing with
+torches.    
+~
+72 0 0 0 0 0 0 0 -40 E
+49 28 -28 1d2+15 5d5+32
+725 95656
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 14
+Luck: 12
+Class: 12
+Race: 14
+E
+#6639
+girl dark~
+a dark-haired Girl~
+A dark-haired girl is eyeing you curiously.
+~
+This small girl has a fine dress and precocious look that makes you
+feel she must be a wealthy citizen's daughter, perhaps a merchant or
+judge.    
+~
+72 0 0 0 0 0 0 0 0 E
+52 31 -32 1d1+10 5d5+34
+800 111307
+8 8 2
+Str: 13
+Dex: 12
+Int: 13
+Wis: 13
+Con: 5
+Cha: 19
+Luck: 12
+Class: 12
+Race: 14
+E
+#6640
+tabby cat~
+a Tabby Cat~
+A tabby cat is stalking a mockingbird.
+~
+She looks plump from plenty of good eating.  Her wide green eyes are
+fixated on a fluttering mockingbird, the stripes of her thick black
+and brown fur mingling with the lines of the grasses.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+10 1d4+5
+0 1662
+8 8 2
+BareHandAttack: 4
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 10
+Luck: 12
+Race: 1
+E
+#6641
+mage old~
+an old Mage~
+An old mage studies the chessboard in rapt contemplation.
+~
+His white beard trails down to his withered toes.  His forehead is
+creased in contemplation, but a wine-induced smile plays on his lips.
+~
+559114 0 0 0 2128 0 0 0 0 E
+102 79 -40 1d22+1400 9d10+68
+2000 620364
+8 8 1
+Str: 9
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 24
+Luck: 12
+Class: 1
+Race: 20
+E
+#6642
+warrior young~
+a young Warrior~
+A young warrior is sparring with his shadow.
+~
+This brawny fellow hops about, rather gracelessly, shadow-boxing.
+He is too absorbed to notice you watching him.
+~
+526346 0 0 0 16 163840 0 0 0 E
+90 66 -40 1d11+250 6d7+60
+1700 450852
+8 8 1
+BareHandAttack: 3
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 23
+Luck: 12
+Class: 4
+Race: 14
+E
+#6643
+thief wanted~
+a wanted Thief~
+A thief is lounging, hiding out from the bounty hunters.
+~
+He doesn't look too nervous about being found and brutally hung for
+his crimes.  With his feet up and margarita in hand, he kicks back in
+an easy chair and thumbs through a magazine.    
+~
+591882 0 0 0 1572944 131074 0 0 -1000 E
+116 95 -40 1d17+700 13d13+77
+2350 861160
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 20
+Cha: 23
+Luck: 12
+Class: 3
+Race: 32
+E
+#6644
+priestess sacrifice~
+a scrificial Priestess~
+A priestess is preparing a blindfolded animal for sacrifice.
+~
+She is busy anointing a serrated dagger with a special balm, and
+sprinkling a dark water over the animal.  She asks that you take a
+seat and keep quiet.    
+~
+138 0 0 0 16 0 0 0 0 E
+69 46 -40 1d20+1000 6d6+46
+1125 228971
+8 8 2
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 18
+Luck: 12
+Class: 2
+Race: 14
+E
+#6645
+black animal~
+a black Animal~
+An iron chain rattles as something moves in the back of the room.
+~
+Some black animal, its hard to tell exactly what in this darkness, is
+chained to the back wall. Even its eyes are darkened as a black fold
+of cloth covers them until the moment of its departure from the world. 
+~
+100698122 0 0 0 33556560 2 0 0 -1000 E
+90 66 -40 1d4+30 6d7+60
+0 450852
+8 8 0
+BareHandAttack: 9
+Str: 21
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 12
+Luck: 12
+Class: 4
+Race: 8
+E
+#6646
+grey cat~
+a grey Cat~
+A grey cat pads around, sniffing things.
+~
+He seems vaguely interested in something beyond the range of your five
+senses, as cats often are.
+~
+72 0 0 0 16 0 0 0 0 E
+10 3 60 1d1+10 1d4+5
+0 1662
+8 8 1
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 8
+Cha: 15
+Luck: 12
+Race: 1
+E
+#6647
+white cat~
+a large white Cat~
+A large white cat is sunning himself on a wall.
+~
+He's a beautiful creature, with a long snow-colored coat tinged with
+gold in the sunlight. His eyes are closed as he lies in bliss in the
+heat.
+~
+10 0 0 0 0 0 0 0 0 E
+10 3 60 1d1+10 1d4+5
+0 1662
+8 8 1
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 17
+Luck: 12
+Race: 1
+E
+#6648
+butcher~
+the Butcher~
+The town butcher tosses meat cleavers about listlessly.
+~
+This overweight fellow looks bloodthirsty and bored with life.  As you
+enter he hurls several sharp meat cleavers around the edge of the door
+without looking up.    
+~
+16395 0 0 0 16 0 0 0 0 E
+88 64 -40 1d29+2200 6d7+58
+1600 425742
+8 8 1
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 21
+Cha: 19
+Luck: 12
+Race: 14
+E
+#6649
+watchman watch guard gate~
+the Gate Watchman~
+The gate watchman stares glass-eyed at the horizon.
+~
+He was apparently chosen for his inability to blink.  He is a brawny
+fellow, but doesnt strike you as having the froth-mouthed drive to
+fight as seen in the town guards.    
+~
+169994 0 0 0 16 0 0 0 0 E
+109 87 -40 1d15+500 11d12+72
+2175 734774
+8 8 1
+BareHandAttack: 3
+Str: 17
+Dex: 12
+Int: 13
+Wis: 13
+Con: 17
+Cha: 20
+Luck: 12
+Class: 10
+Race: 32
+E
+#6650
+sparrow bird pet~
+a little Sparrow~
+A little sparrow pecks at the ground.
+~
+The tiny metal clasp round a leg of this diminuitive bird tells you
+it is someone's pet. It regards you with one eye then the other in
+a nervous fashion, awaiting its first chance to fly to freedom.
+~
+10 0 0 0 8388608 0 0 0 0 E
+4 0 84 1d1+10 1d2+2
+0 160
+8 8 0
+BareHandAttack: 8
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 25
+Luck: 12
+Race: 3
+E
+#6651
+blackbird bird pet~
+a Blackbird~
+A red-winged blackbird is preening nearby.
+~
+The blackbird sports glossy dark feathers with wings tipped in
+crimson, and a keen eye.  The small metal clasp round one leg tells
+you it is someone's trained pet.    
+~
+10 0 0 0 8388608 0 0 0 0 E
+10 3 60 1d6+70 1d4+5
+0 1662
+8 8 0
+Str: 15
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 17
+Luck: 12
+Race: 3
+E
+#6652
+kestrel giant bird pet~
+a giant Krestrel~
+A giant white kestrel is perched near its master.
+~
+The kestrel's plumage is pale as lamb's down, making it a beautiful
+animal, but the sharp curved beak and arched talons remind you of its
+predatory habits.  A tiny metal ring is clasped round one leg..  It
+must be someone's pet.    
+~
+10 0 0 0 8388624 0 0 0 0 E
+20 8 20 1d10+200 1d4+13
+0 9735
+8 8 0
+BareHandAttack: 8
+Str: 25
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 19
+Luck: 12
+Race: 3
+E
+#6653
+athos knight warrior~
+Athos~
+Athos the great knight is somberly nursing a bottle of wine.
+~
+Athos wears a face of sorrow on his noble countenance, displaying only
+a few quiet words of philosophy when his tongue is loosened by drink.
+His dress depicts a man of learning and his voice one of some foul
+experience.  Something - or someone - still haunts him to this day.  
+~
+559114 0 0 0 2064 131072 0 0 1000 E
+119 98 -40 1d30+2250 14d14+79
+2425 919096
+8 8 1
+BareHandAttack: 6
+Str: 22
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 20
+Luck: 12
+Class: 4
+Race: 14
+E
+#6654
+milady lady winter mage~
+Milady de Winter~
+A beautiful woman with fair hair flares angrily up at your intrusion.
+~
+Milady de Winter is a slender form draped in white ermine and
+knowledgeable in the ways of enchantment.  Golden hair falls to her
+waist, her eyes are cyan blue and widened with anger, or perhaps a
+tinge of fear.  Long presumed dead, she wears one of many guises and
+is accustomed to discarding lives.    
+~
+34113578 0 0 0 16464 4325376 0 0 -1000 E
+120 100 -40 1d31+2300 14d14+80
+2450 938920
+8 8 2
+BareHandAttack: 15
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 18
+Cha: 5
+Luck: 12
+Class: 1
+Race: 14
+E
+#6655
+naga black guard guardian~
+a Naga Guardian~
+The black naga guardian is coiled here.
+~
+The guardian naga is a serpentlike creature, coal-black scales shield
+an elongate body with the head of a woman, and make no sound with her
+curious writhing.  It looks intelligent enough to judge whether you
+are worthy to pass into the guild of rogues that is its keeping.    
+~
+50894859 0 0 0 80 0 0 0 -900 E
+90 66 -40 1d33+2350 6d7+60
+0 450852
+8 8 0
+BareHandAttack: 8
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 12
+Cha: 24
+Luck: 12
+Class: 4
+Race: 47
+E
+#6656
+gryphon guard guardian~
+a Gryphon Guardian~
+A large guardian gryphon sits immobile before you.
+~
+It's a brawny beast, measuring six feet at the shoulder, and staring
+passively at you with cold red eyes.  It watches faithfully over the
+guild of physical battle that is its charge; only those worthy may
+enter.    
+~
+34117643 0 0 0 80 0 0 0 900 E
+95 72 -40 1d33+2350 6d8+63
+0 517501
+8 8 0
+BareHandAttack: 12
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 25
+Cha: 16
+Luck: 12
+Class: 4
+Race: 8
+E
+#6657
+basilisk guard guardian~
+a Basilisk Guardian~
+A basilisk summoned from the ether guards a doorway.
+~
+The guardian stands motionless with eyes of stone fixed on the far
+wall.  Nonetheless, this reptile, a figure born of a cold wisdom,
+knows well enough if you are worthy to pass into the guild of priests.
+~
+50894859 0 0 0 33554512 0 0 0 900 E
+100 77 -40 1d33+2350 9d10+66
+0 589815
+8 8 0
+BareHandAttack: 10
+Str: 6
+Dex: 12
+Int: 13
+Wis: 13
+Con: 6
+Cha: 16
+Luck: 12
+Class: 4
+Race: 2
+E
+#6658
+imp horned guard guardian~
+an Imp Guardian~
+A horned imp is crouched nearby, unfolding its wings.
+~
+This is the familiar of the Archmage of the town, at present an ill-
+meaning sort of ruler.  It is charged with the worthy task of
+defending the guild from unwelcome intruders.  Its wickedly curving
+horns and innocuous teeth attest to its ability to....  Well, dispose
+of you.    
+~
+34117643 0 0 0 80 0 0 0 -900 E
+105 82 -40 1d33+2350 10d11+70
+0 667958
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 12
+Int: 13
+Wis: 13
+Con: 23
+Cha: 24
+Luck: 12
+Class: 1
+Race: 51
+E
+#6659
+guard elite watch warrior~
+a Warrior of the Black Watch~
+A warrior of the Black Watch maintains a alert vigilance here.
+~
+A handsome, stalwart warrior of the famed elite guard of Sundhaven
+keeps a tireless watch over the peace of the town. 
+~
+34117704 0 0 0 33554512 131072 0 0 800 E
+135 117 -60 1d29+2200 16d17+90
+2500 1267849
+8 8 1
+BareHandAttack: 3
+Str: 8
+Dex: 12
+Int: 13
+Wis: 13
+Con: 16
+Cha: 16
+Luck: 12
+Class: 10
+Race: 14
+E
+#6660
+guard lord elite watch~
+the Lord of the Black Watch~
+The Lord of the Black Watch keeps the peace as he sips a scotch.
+~
+The captain of the Black Watch, the well-known anti-rogue force
+of Sundhaven, seems a fairly complacent noble confident in his
+own strength. He surveys his surroundings casually over the rim
+of a glass of strong drink.
+~
+34117704 0 0 0 33556560 0 0 0 500 E
+150 136 -60 1d33+2350 20d20+100
+2500 1658628
+8 8 1
+BareHandAttack: 3
+Str: 19
+Dex: 12
+Int: 13
+Wis: 13
+Con: 15
+Cha: 14
+Luck: 12
+Class: 4
+Race: 14
+E
+#6661
+mage blind man~
+an old blind Mage~
+A blind mage is sitting here, communing with nature.
+~
+His blank eyes, the color long lost, leave the broad sky and seem to
+stare right through you.  His sanity, also long lost, might have made
+him a fine fellow once, but he would best be left alone now.    
+~
+15 0 0 0 3 0 0 0 -800 E
+70 47 -40 1d20+1000 6d6+46
+1150 237528
+8 8 1
+BareHandAttack: 13
+Str: 24
+Dex: 12
+Int: 13
+Wis: 13
+Con: 14
+Cha: 13
+Luck: 12
+Class: 1
+Race: 14
+E
+#6662
+lamprey black~
+a black Lamprey~
+Something makes an eel-like motion under the water.
+~
+A giant leechlike movement under the water marks the outline of a
+lamprey, skin wet and oil-black.  The row of teeth that gapes for an
+instant above the waterline gives a hint of its hunger for prey in
+this deserted place.    
+~
+67639368 0 0 0 2128 2 0 0 -900 E
+20 8 20 1d20+1000 2d3+10
+0 9735
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 12
+Int: 13
+Wis: 13
+Con: 24
+Cha: 19
+Luck: 12
+Race: 4
+E
+#6663
+moth bug~
+a Moth~
+A small moth flits about nearby.
+~
+The moth, pale downy white in color, beats its wings heavily
+above some ferns nearby. It seems quite harmless.
+~
+10 0 0 0 8388608 0 0 0 0 E
+1 0 96 1d1+10 1d1+0
+0 4
+8 8 0
+Str: 20
+Dex: 12
+Int: 13
+Wis: 13
+Con: 19
+Cha: 21
+Luck: 12
+Race: 5
+E
+#6664
+courier postmaster~
+a digruntled Courier~
+A disgruntled courier awaits your bidding.
+~
+The grey and strained eyes of the courier look at you with
+ill-concealed lack of interest.  The scars on his face are an
+indication that he has seen foul weather of all sorts on the roads,
+and nothing you could request would surprise him.    
+~
+2059 0 0 0 16 0 0 0 0 E
+60 37 -36 1d15+500 5d6+40
+1000 160325
+8 8 1
+Str: 18
+Dex: 12
+Int: 13
+Wis: 13
+Con: 13
+Cha: 23
+Luck: 12
+Class: 12
+Race: 14
+E
+#6665
+noble sundhaven~
+a Noble of Sundhaven~
+One of Sundhaven's finest nobles stand before you.
+~
+The noble is tall, of fair hair and complexion, and dressed in
+gold-bordered finery.  He appears unaware of your presence, and
+preoccupied with his own affairs.    
+~
+33560648 0 0 0 16 0 0 0 750 E
+111 89 -40 1d21+1200 12d12+74
+2225 769644
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 7
+Cha: 22
+Luck: 12
+Class: 12
+Race: 14
+E
+#6666
+stu fool~
+Stu~
+Stu the Recruit is standing here.
+~
+Achhh! Dont pay too much attention to him or you'll regret it.
+~
+16605 0 0 0 65552 4194304 0 0 0 E
+84 60 -40 1d1+10 6d7+56
+1500 378119
+8 8 1
+Str: 16
+Dex: 12
+Int: 13
+Wis: 13
+Con: 22
+Cha: 10
+Luck: 12
+Class: 4
+Race: 14
+E
+#6667
+guard master~
+a Master Swordsman~
+A roaming Black Watch Master Swordsman stands here ready for battle.
+~
+Once a Black Watch Guard, he has put in his time to be a successor and
+master of the Black Watch force.    
+~
+34117704 0 0 0 33556560 0 0 0 -100 E
+140 124 -60 1d1+0 17d17+93
+2500 1391050
+8 8 0
+BareHandAttack: 3
+Str: 19
+Dex: 17
+Int: 8
+Wis: 21
+Con: 23
+Cha: 23
+Luck: 22
+Class: 8
+Race: 14
+E
+#6668
+Sundhaven Brisk Knight~
+Sundhaven Brisk Knight~
+A Sundhaven Brisk Knight stands here, guarding the unknown.
+~
+A tough knight if you have ever seen one.    
+~
+34084936 0 0 0 16 163840 0 0 200 E
+95 72 -40 1d1+0 6d8+63
+1825 517501
+8 8 1
+BareHandAttack: 14
+Str: 16
+Dex: 8
+Int: 7
+Wis: 13
+Con: 19
+Cha: 7
+Luck: 21
+Class: 4
+Race: 14
+E
+$

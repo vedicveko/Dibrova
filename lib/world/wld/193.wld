@@ -1,0 +1,1193 @@
+#19301
+A Grassy Field~
+You are travelling across a great grassy field.  The wind blows
+softly, causing the ripe ends of the grass stalks to bob lazily back
+and forth.  To the north you spy what appears to be some sort of
+temple, its great white walls blazing with the light of the sun.    
+~
+193 4 0 0 0 2
+D0
+You see the entrance to the temple.
+~
+~
+0 0 19302 0
+D3
+~
+~
+0 -1 19272 0
+E
+grass~
+Looks like an average grass stalk.  You pluck one and put it
+in your mouth.
+~
+S
+#19302
+Before the Temple~
+The dazzling white stone walls of the temple momentarily blind you.
+Great columns are spaced evenly around the perimeter of the temple,
+and an arch beckons you inside.    
+~
+193 0 0 0 0 2
+D0
+There is an arch to the north.
+~
+~
+0 0 19303 0
+D2
+Looks like a field back there.
+~
+~
+0 0 19301 0
+D3
+~
+~
+0 -1 19265 0
+S
+#19303
+Under the Arch~
+Your eyes slowly adjust to the level of darkness under the protective
+shade of the arch.  To the north is a great marble door, which seems
+to be the best way to get inside the temple.  "Why the heck to I want
+to go in there ?", you think to yourself.  You shrug your shoulders
+and suddenly get the feeling that you are being watched.    
+~
+193 8 0 0 0 0
+D0
+You see a great marble door.  It has a VERY nice polish.
+~
+door marble~
+2 19305 19305 15
+D2
+You see a spot to stand before the temple.
+~
+~
+0 0 19302 0
+D3
+~
+~
+0 -1 19258 0
+E
+marble~
+It is a remarkably well polished marble door.
+~
+S
+#19304
+The Temple~
+The echo of you footsteps reverberates through the temple.  
+Everything is white, the tiled floor, the walls, the ceiling.....    
+~
+193 8 0 0 0 0
+D0
+You see a room in the temple.
+~
+~
+0 0 19307 0
+D1
+You see a room in the temple.
+~
+~
+0 0 19305 0
+S
+#19305
+The Temple~
+The echo of your footsteps reverberates through the temple.  
+Everything is white, the tiled floors, the walls, the ceiling.....  
+~
+193 8 0 0 0 0
+D1
+You see a room in the temple.
+~
+~
+0 0 19306 0
+D2
+You see the archway.
+~
+archway~
+2 19305 19303 15
+D3
+~
+~
+0 0 19304 0
+S
+#19306
+The Temple~
+The echo of your footsteps reverberates through the temple.  
+Everything is white, the tiled floor, the walls, the ceiling.....    
+~
+193 8 0 0 0 0
+D0
+You see a room in the temple.
+~
+~
+0 0 19309 0
+D3
+You see a room in the temple.
+~
+~
+0 0 19305 0
+S
+#19307
+The Temple~
+The echo of your footsteps reverberates through the temple.  
+Everything is white, the tiled floor, the walls, the ceiling.....    
+~
+193 8 0 0 0 0
+D0
+There is a stairwell to the north.
+~
+~
+0 0 19310 0
+D1
+You see a small garden to the east.
+~
+~
+0 0 19308 0
+D2
+You see a room in the temple.
+~
+~
+0 0 19304 0
+S
+#19308
+The Atrium and Gardens~
+Beautiful green plants wind around bamboo poles here, leaves outfolded
+to catch the sun's rays coming in from the open sky.  The smell of
+rich dark earth overwhelms your senses, and a small brook winds
+beneath your feet.    
+~
+193 0 0 0 0 0
+D0
+You see a room in the temple.
+~
+~
+0 0 19311 0
+D1
+You see a room in the temple.
+~
+~
+0 0 19309 0
+D3
+You see a room in the temple.
+~
+~
+0 0 19307 0
+E
+plants~
+They seem to be doing very well, someone around here has
+a green thumb.
+~
+E
+brook~
+What a nice little bubbling brook!
+~
+S
+#19309
+The Temple~
+The echo of your footsteps reverberates through the temple.  
+Everything is white, the tiled floor, the walls, the ceiling.....    
+~
+193 8 0 0 0 0
+D0
+There seems to be a stairwell to the north.
+~
+~
+0 0 19312 0
+D2
+You see a room in the temple.
+~
+~
+0 0 19306 0
+D3
+There is a small garden over there.
+~
+~
+0 0 19308 0
+S
+#19310
+The Stairwell~
+There is a beautiful curving stairwell leading upwards.  It seems to
+have been carved directly from stone.    
+~
+193 8 0 0 0 0
+D2
+You see a room in the temple.
+~
+~
+0 0 19307 0
+D4
+You can't really see much up those stairs.
+~
+~
+0 0 19313 0
+E
+stairwell~
+A work of great craftmanship!
+~
+S
+#19311
+The Temple~
+The echo of your footsteps reverberates through the temple.  
+Everything is white, the tiled floor, the walls, the ceiling.....  
+There is a nice framed sign on the north wall.    
+~
+193 8 0 0 0 0
+D2
+There is a small garden to the south.
+~
+~
+0 0 19308 0
+E
+sign~
+
+          *-*-*-*-* o==[=====- *-*-*-*-*
+          *                            *
+          *    Temple Of The Bull      *
+          *                            *
+          *                            *
+          *                            *
+          *-*-*-*-* o==[=====- *-*-*-*-*
+~
+S
+#19312
+The Stairwell~
+There is a beautiful curving stairwell leading upwards.  It seems to
+have been carved directly from stone.    
+~
+193 8 0 0 0 0
+D2
+You see a room in the temple.
+~
+~
+0 0 19309 0
+D4
+You can't really see much up those stairs.
+~
+~
+0 0 19315 0
+S
+#19313
+The Upper Temple~
+You find yourself in a small room atop the stairs.  Strangely enough,
+this part of the temple has decorations.  The walls are covered with
+murals and furs.  A corridor leads off the the south, and the stairs
+offer a retreat downwards.    
+~
+193 9 0 0 0 0
+D2
+You see a corridor.
+~
+~
+0 0 19316 0
+D5
+You see the bottom of the stairs.
+~
+~
+0 0 19310 0
+E
+fur~
+The fur is brown, short, and coarse.
+~
+E
+mural~
+The mural shows a great shaggy beast with two pointed horns.
+~
+S
+#19314
+Mateon's Chamber~
+You find yourself in a small, cramped chamber.  A window is set in the
+north wall, and a sturdy oak door is to the west.    
+~
+193 8 0 0 0 0
+D1
+There is an oak door there.
+~
+door oak~
+2 19306 19315 15
+E
+window~
+The window overlooks a grassy field.
+~
+S
+#19315
+The Upper Temple~
+You find yourself atop a flight of stairs.  A sturdy oak door is to
+the west, a corridor leads south, and the stairs offer a path
+downwards.    
+~
+193 9 0 0 0 0
+D2
+Looks like a corridor.
+~
+~
+0 0 19318 0
+D3
+There is an oak door there.
+~
+door oak~
+2 19306 19314 15
+D5
+You see the bottom of the stairs.
+~
+~
+0 0 19312 0
+S
+#19316
+The Corridor~
+You are standing in a drafty corridor.  There is a window set in the
+west wall, and a balcony to the east protects you from falling down
+into the gardens.    
+~
+193 8 0 0 0 0
+D0
+You see the stairway.
+~
+~
+0 0 19313 0
+D2
+Woah..looks like a dead end.  You get the chills.
+~
+~
+0 0 19319 0
+E
+window~
+The window overlooks a grassy field.
+~
+E
+balcony~
+Its a simple piece of polished wood.  You can see the gardens below.
+~
+S
+#19317
+Aten's Chamber~
+You are standing in a comfortable chamber.  Sunlight streams in the
+the open windows, and a warm spring breeze ruffles your hair.  Thick
+furs cover the stone walls and floor.  A stained oak table dominates
+the center of the room, and couches line the walls.  You look out the
+window and are vaguely surprised that you can't see the ground.    
+~
+193 8 0 0 0 0
+S
+#19318
+The Corridor~
+You are standing in a drafty corridor.  There is a window set in the
+east wall, and a balcony to the west protects you from falling into
+the gardens.    
+~
+193 8 0 0 0 0
+D0
+You see the stairway.
+~
+~
+0 0 19315 0
+D2
+Can't really see much..its rather dark over there.
+~
+~
+0 0 19321 0
+E
+balcony~
+Its a simple piece of polished wood.  You can see the gardens below.
+~
+E
+window~
+The window looks down upon a grassy field.
+~
+S
+#19319
+The Cul-de-Sac~
+The corridor comes to an abrupt halt here, and the only exit appears
+to be back the way you came.    
+~
+193 8 0 0 0 0
+D0
+You see the corridor.
+~
+~
+0 0 19316 0
+S
+#19320
+The Bull's Chamber~
+This room is in TOTAL dissaray.  Items seem to have been swept of the
+room's numerous shelves and just dumped on the floor.  The room has an
+unfamiliar smell, and you wrinkle your nose in disgust.  An great
+sliding window is open to the south and leads to the balcony, and a
+heavy iron door is to the east.    
+~
+193 8 0 0 0 0
+D1
+A heavy iron door is there.
+~
+door heavy iron~
+2 19307 19321 15
+D2
+You see the balcony over there.
+~
+~
+0 0 19322 0
+E
+window~
+Its a great, big walk-through window.
+~
+E
+shelves~
+The shelves have been swept clean.
+~
+S
+#19321
+The Dark Chamber~
+You are in a shadowy chamber, and the hairs at the back of your neck
+begin to rise.  There is so little light in this room that you start
+to imagine things..  Or do you?  You know for certain that you spotted
+a door to the west when you first entered.    
+~
+193 9 0 0 0 0
+D0
+You see the corridor.
+~
+~
+0 0 19318 0
+D3
+A heavy iron door is there.
+~
+door heavy iron~
+2 19307 19320 15
+S
+#19322
+The Balcony~
+You sense that you have reached journey's end.  The balcony overlooks
+a great grassy field.  The sun's rays blind you, and you hear a snort.
+~
+193 0 0 0 0 0
+D0
+You see the Bull's Chamber.
+~
+~
+0 0 19320 0
+S
+#19323
+A Trail to an Old Building.~
+This trail has become overgrown and hard to walk upon after so many
+years of disuse.  Tall grasses and black eyed susans tangle your legs
+making you stumble.  To the north you see and old run down marble
+building.    
+~
+193 4 0 0 0 10
+D0
+~
+door~
+1 0 19324 3
+D2
+~
+~
+0 0 19138 0
+S
+#19324
+The Old Library~
+Clouds of dust rise forth with every move you make in this run down
+old dump.  Cob webs are virtually everywhere and stick to your face as
+you walk.  Book cases full of old mouldy books line the walls of the
+room.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19325 0
+D2
+~
+door~
+1 0 19323 3
+D3
+~
+~
+0 0 19326 0
+S
+#19325
+The Old Library~
+You can hear scratching noises coming from the roof and walls of the
+library.  Small spiders and other small creepy bugs scrurry around on
+the musty old books, which lie in large heaps in the floor.    
+~
+193 8 0 0 0 0
+D2
+~
+~
+0 0 19324 0
+D3
+~
+~
+0 0 19327 0
+S
+#19326
+The Old Library~
+You suddenly walk into a clean well kept library.  Bookcases filled to
+the brim of dust free tomes line the walls.  But that image fades as
+the decaying dust filled mess of the library suddenly comes back to
+you.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19327 0
+D1
+~
+~
+0 0 19324 0
+S
+#19327
+The Old Library~
+A small set of stairs lead down into a pitch black void here.  You can
+also smell mouldy books in that direction, but the rest of the library
+is like that too.    
+~
+193 8 0 0 0 0
+D1
+~
+~
+0 0 19325 0
+D2
+~
+~
+0 0 19326 0
+D5
+~
+~
+0 0 19328 0
+S
+#19328
+The Basement of the Library~
+An inky blackness invelopes you.  Even with your light you can only
+see a few feet to either side of you.    
+~
+193 9 0 0 0 0
+D4
+~
+~
+0 0 19327 0
+S
+#19329
+A Lotus-lined Path~
+You walk upon a serene path lined with lotus blossoms.  Small lotus
+bees flit about the blossoms gathering pollon.    
+~
+193 4 0 0 0 0
+D1
+~
+~
+0 0 19138 0
+D3
+~
+door~
+2 19321 19330 15
+S
+#19330
+The Temple of the Divine Lotus~
+This hallway is tall and narrow with paper walls supported by a cherry
+wood frame.  Monks and acolytes of the Lotus temple go on about their
+business as if you do not exist.  The hallway continues east and the
+front door is east.    
+~
+193 8 0 0 0 0
+D1
+~
+door~
+2 19321 19329 11
+D3
+~
+~
+0 0 19331 0
+S
+#19331
+The Temple of the Divine Lotus~
+The hallway continues to stretch east and west.  Lotus flowers grow
+from large pots line up against the walls or the hallway and fill the
+room with a nice fragrance.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19332 0
+D1
+~
+~
+0 0 19330 0
+D2
+~
+~
+0 0 19333 0
+S
+#19332
+The Temple of the Divine Lotus~
+You are in a wooden hall.  Your footsteps echo lightly on the well
+polished floor.    
+~
+193 8 0 0 0 0
+D2
+~
+~
+0 0 19331 0
+D4
+~
+~
+0 0 19334 0
+S
+#19333
+A Stairwell~
+A spiral stair case made of fine cherry wood leads up from here.
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19331 0
+D4
+~
+~
+0 0 19337 0
+S
+#19334
+The Temple of the Divine Lotus~
+This is a long, tall stairwell covered with the emblems of the Lotus.
+The smooth wooden floors are well polished and the sounds of
+conversation can be heard below.    
+~
+193 8 0 0 0 0
+D0
+~
+door wooden~
+2 19318 19335 15
+D3
+~
+~
+0 0 19336 0
+D5
+~
+~
+0 0 19332 0
+S
+#19335
+Training Room of the Centipede~
+This room is almost devoid of any furniture or equipment.  As you look
+up to the ceiling you notice many objects that look as though they can
+be dropped hanging over you.    
+~
+193 8 0 0 0 0
+D2
+~
+door wooden~
+2 19318 19334 15
+S
+#19336
+Training Room of the Toad~
+This large room is filled with beds of nails and sharp poles.  Large
+thick sheets of metal hang about the room.  This is the training room
+of Onas, expert of the Toad technique and fifth pupil of the Poison
+clan.    
+~
+193 8 0 0 0 0
+D1
+~
+~
+0 0 19334 0
+S
+#19337
+A Stairwell~
+A fine spiral staircase made from cherry wood leads down from here.  
+A steel door is directly to the south.    
+~
+193 8 0 0 0 0
+D2
+~
+door steel~
+2 19319 19338 15
+D5
+~
+~
+0 0 19333 0
+S
+#19338
+Ubli's Sanctuary~
+You stand in a small bare room.  The only unique feature is a small
+bonsai tree growing in a pot in the center of the room.    
+~
+193 8 0 0 0 0
+D0
+~
+door iron~
+2 19319 19337 15
+S
+#19339
+The Temple of Eternal Darkness~
+An inky blackness fills the room and you can see nothing.
+~
+193 13 0 0 0 0
+D1
+~
+door steel~
+2 0 19340 15
+D3
+~
+~
+0 0 19138 0
+S
+#19340
+The Temple of Eternal Darkness~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D0
+~
+~
+0 0 19341 0
+D1
+~
+~
+0 0 19342 0
+D3
+~
+door steel~
+2 0 19339 15
+S
+#19341
+The Temple of Eternal Darkness~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D2
+~
+~
+0 0 19340 0
+S
+#19342
+A Stairwell~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D3
+~
+~
+0 0 19340 0
+D4
+~
+~
+0 0 19343 0
+S
+#19343
+A Stairwell~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D4
+~
+~
+0 0 19344 0
+D5
+~
+~
+0 0 19342 0
+S
+#19344
+A Stairwell~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D4
+~
+~
+0 0 19345 0
+D5
+~
+~
+0 0 19343 0
+S
+#19345
+A Stairwell~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D4
+~
+~
+0 0 19346 0
+D5
+~
+~
+0 0 19344 0
+S
+#19346
+A Stairwell~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D1
+~
+~
+0 0 19347 0
+D5
+~
+~
+0 0 19345 0
+S
+#19347
+A Hallway~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.    
+~
+193 9 0 0 0 0
+D0
+~
+~
+0 0 19348 0
+D3
+~
+~
+0 0 19346 0
+S
+#19348
+The Temple of Eternal Darkness~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.  You can see the outline of a door
+east.    
+~
+193 9 0 0 0 0
+D0
+~
+~
+0 0 19349 0
+D1
+~
+door nirin~
+2 19309 19350 15
+D2
+~
+~
+0 0 19347 0
+S
+#19349
+A Hallway~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.  You can see the outline of a door
+north.    
+~
+193 9 0 0 0 0
+D0
+~
+door boron~
+2 19313 19351 15
+D2
+~
+~
+0 0 19348 0
+S
+#19350
+The Templar's Quarters~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.  You can see the outline of a door
+west.    
+~
+193 9 0 0 0 0
+D3
+~
+door nirin~
+2 19309 19348 15
+S
+#19351
+Miranda's Domain~
+An inky blackness fills the room and you can see nothing but, large
+black shapes moving about the room.  You can make out no features
+until they get very close to you.  You can make out the outline of a
+door south.    
+~
+193 9 0 0 0 0
+D2
+~
+door boron~
+2 19313 19349 15
+S
+#19352
+Walking upon a Light Path~
+A serene trail travels through a small grove full of pogrom blossoms
+here.  The trail is made up of interlocking river polished stones and
+leads upto a large marble building.    
+~
+193 4 0 0 0 10
+D1
+~
+~
+0 0 19111 0
+D3
+~
+door~
+2 19322 19353 15
+S
+#19353
+The Light Temple~
+You stand in a long flowing hallway carpeted in red.  The hallway
+travels north and south and has a certain peaceful vibe to it.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19354 0
+D1
+~
+door~
+2 19322 19352 11
+D2
+~
+~
+0 0 19355 0
+S
+#19354
+The Light Temple~
+The hallway makes a curve here to the west and the south, still
+carpeted the entire way with the plush, red carpeting.  Mosaics hang
+upon the wall, depicting holy crusades from a time long forgotten by
+all but those who wove the mosaics in the first place.    
+~
+193 8 0 0 0 0
+D2
+~
+~
+0 0 19353 0
+D3
+~
+~
+0 0 19356 0
+S
+#19355
+The Light Temple~
+The hallway curves westward, traveling deeper and deeper into the
+depths of the Temple.  Everything within the Temple seems just a
+slight bit more hushed than in the outside world.  Maybe it is because
+of the reverance held by those who frequent these halls, possibly it
+is simply because the floor is done in such thick carpeting.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19353 0
+D3
+~
+~
+0 0 19360 0
+S
+#19356
+The Light Temple~
+The hall and the red carpeting ends at a staircase that leads upward
+into the upper levels of the Temple.  No sounds come from above - you
+get the feeling that is not normally a place that is frequented by
+vistors to the Temple.    
+~
+193 8 0 0 0 0
+D1
+~
+~
+0 0 19354 0
+D4
+~
+~
+0 0 19357 0
+S
+#19357
+Hallway to the Bishop's Personal Chambers~
+You stand atop a stone staircase in a short, narrow hallway which
+leads directly east toward a door that is normally closed.  The
+Bishop's personal chambers lie beyond that door, accessable only to
+His Holiness.    
+~
+193 8 0 0 0 0
+D1
+~
+~
+0 0 19358 0
+D5
+~
+~
+0 0 19356 0
+S
+#19358
+Outside the Bishop's Chambers~
+The stone floored hallway leads directly to a thick wooden door - the
+door to the Bishop's personal chambers.  His chambers are considered
+extremely off-limits to all the clergymen of the temple, it being his
+only place for silent, solitary contemplation.    
+~
+193 8 0 0 0 0
+D1
+~
+door~
+1 19322 19359 7
+D3
+~
+~
+0 0 19357 0
+S
+#19359
+The Bishop's Chambers~
+The walls of this room are white-washed and spartan with very little
+in the way of personal comfort.  A single cross hangs upon the eastern
+wall above a stained glass window.  Other than that there is only a
+bed and a small night stand that doubles as a dresser.    
+~
+193 8 0 0 0 0
+D3
+~
+door~
+1 19322 19358 7
+S
+#19360
+The Light Temple~
+Sconced candles surrounded by thin glass guards are mounted on the
+wall giving illumination to the entire hallway.  The ceiling to this
+place is curved in a domed, sculpted arch that lends to the feeling
+that you stand within a place of great power and goodness.    
+~
+193 8 0 0 0 0
+D1
+~
+~
+0 0 19355 0
+D3
+~
+~
+0 0 19361 0
+S
+#19361
+The Light Temple~
+The hallway ends here with an entry into the main chamber that is used
+for services and prayer to the north.  A narrow hall branches off of
+the southeastern wall of that room, heading off into an unknown place.
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19362 0
+D1
+~
+~
+0 0 19360 0
+S
+#19362
+The Oratory of the Light Temple~
+This main room holds space for literally hundreds of worshippers to
+sit or kneel as they desire and offer prayer to the Gods of Light.  A
+small hall branches of the east wall ending in a small, closed door.
+The altar lies just north from here.    
+~
+193 8 0 0 0 0
+D0
+~
+~
+0 0 19363 0
+D1
+~
+~
+0 0 19364 0
+D2
+~
+~
+0 0 19361 0
+S
+#19363
+The Altar of the Light Temple~
+Many sermons of great reverance and devotion have been delivered by
+the Bishop from this altar.  The whole of the Oratory can be seen from
+this vantage, a feeling of overpowering strength and glory runs
+through you as you down upon what would be the assemblage if the pughs
+were full.  The Oratory lies to the south.    
+~
+193 8 0 0 0 0
+D2
+~
+~
+0 0 19362 0
+S
+#19364
+A short, narrow Hallway in the Light Temple~
+A small wooden door lies in the eastern wall of the hall, no sign or
+markings giving any incling of what might lie beyond the door.  The
+Oratory, in all its vast spendor, lies to the west.    
+~
+193 12 0 0 0 0
+D3
+~
+~
+0 0 19362 0
+D5
+~
+door~
+2 19321 19366 15
+S
+#19365
+Collapsed Basement~
+The light here is very poor due to a recent collapse that has left
+this area in ruin.  Chunks of rubble are strewn about, dust is thick
+in the air making it hard to see and breathe.  It appears that there
+is no way except back the way that you came - to the east.    
+~
+193 9 0 0 0 0
+D1
+~
+~
+0 0 19366 0
+S
+#19366
+Collapsed Basement~
+The light here is very poor due to a recent collapse that has left
+this area in ruin.  Chunks of rubble are strewn about, dust is thick
+in the air making it hard to see and breathe.  A door lies on the
+north wall giving access to the main level of the Temple.    
+~
+193 9 0 0 0 0
+D1
+~
+~
+0 0 19367 0
+D3
+~
+~
+0 0 19365 0
+D4
+~
+door~
+2 19321 19364 15
+S
+#19367
+The Light Temple~
+The rubble is just as thick here as it is to the west, however in
+addition to the dust that fills the air, there is also a strange
+energy, almost a presence, in the air as well.  The source of this
+energy comes from a shimmering sphere of light hazing in midair on the
+far east wall.    
+~
+193 8 0 0 0 0
+D3
+~
+~
+0 0 19366 0
+S
+$~

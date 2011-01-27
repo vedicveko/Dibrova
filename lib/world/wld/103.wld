@@ -1,0 +1,1978 @@
+#10300
+Leveled Dirt Road~
+The well-tended roads of the Baroness leaves the uneven,
+pothole-filled King's Road behind as it strectches grandly away to the
+north toward an extremely large castle keep.  There are fields of
+grain along either side of you that end not far to the north.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10301 0
+D2
+~
+~
+0 0 8454 0
+S
+#10301
+Leveled Dirt Road~
+The well-tended roads of the Baroness leaves the uneven,
+pothole-filled King's Road behind as it strectches grandly away to the
+north toward an extremely large castle keep.  There are fields of
+grain along either side of you that end just to the north.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10302 0
+D2
+~
+~
+0 0 10300 0
+S
+#10302
+Leveled Dirt Road~
+The road opens up, leaving the grains fields to south and entering
+into a broad, open area which fronts the castle.  The road strecthes
+north toward a huge stone archway, passing underneath the arch and
+into the castle proper.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10303 0
+D2
+~
+~
+0 0 10301 0
+S
+#10303
+Leveled Dirt Road~
+The road opens up, leaving the grains fields to south and entering
+into a broad, open area which fronts the castle.  The road strecthes
+north toward a huge stone archway, passing underneath the arch and
+into the castle proper.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10304 0
+D2
+~
+~
+0 0 10302 0
+S
+#10304
+Leveled Dirt Road~
+The road opens up, leaving the grains fields to south and entering
+into a broad, open area which fronts the castle.  The road strecthes
+north toward a huge stone archway, passing underneath the arch and
+into the castle proper.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10305 0
+D2
+~
+~
+0 0 10303 0
+S
+#10305
+Leveled Dirt Road~
+It would almost seem that the castle to north is infested with a
+constant blur of activity and gaiety.  The sounds are nearly that of a
+city, a buzz of noise stemming the sounds of many people all together
+in one place enjoying themselves.  The road ends north of here,
+passing under a huge stone arch, an impressive work of art which
+fronts the castle.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10306 0
+D2
+~
+~
+0 0 10304 0
+S
+#10306
+Leveled Dirt Road~
+The entry into the castle lies to the north through the stone archway.
+People can be seen milling about in the courtyard within the castle
+proper, moving to and fro in endless activity.  Southward lies the way
+back toward the King's Road.    
+~
+103 0 0 0 0 10
+D0
+~
+~
+0 0 10307 0
+D2
+~
+~
+0 0 10305 0
+S
+#10307
+At the Stone Arch~
+You stand in the shadow of the arch, the stone spanning easily fifty
+feet into the air in a perfect arch, anchored on either side into the
+ground, dug far into the earth.  An inscription runs up along the
+inner curve of the arch, carved into the stone in a very precise hand.
+The way through into the courtyard lies to the north, the way back to
+the King's Road lies to the south.    
+~
+103 4 0 0 0 10
+D0
+~
+~
+0 0 10309 0
+D2
+~
+~
+0 0 10306 0
+E
+arch~
+MEMORIAL ARCH
+
+In loving memory of the Baron Landestine, to whom I owe everything in my
+life that is good. May his fond memory and acts of kindness be a beacon for
+all others to follow and learn from.
+
+All travelers, if you come with glad tidings, be welcome in my home.
+
+
+The Baroness Landestine
+~
+E
+stone~
+MEMORIAL ARCH
+
+In loving memory of the Baron Landestine, to whom I owe everything in my
+life that is good. May his fond memory and acts of kindness be a beacon for
+all others to follow and learn from.
+
+All travelers, if you come with glad tidings, be welcome in my home.
+
+
+The Baroness Landestine
+~
+E
+inscription~
+MEMORIAL ARCH
+
+In loving memory of the Baron Landestine, to whom I owe everything in my
+life that is good. May his fond memory and acts of kindness be a beacon for
+all others to follow and learn from.
+
+All travelers, if you come with glad tidings, be welcome in my home.
+
+
+The Baroness Landestine
+~
+S
+#10308
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful circular fountain sprays a fine
+jet of clear water into the air, the sound of the water lending a
+romantic sound to the air.  Small homes lie to the south and west,
+their neat exteriors complimenting the beauty of the courtyard well.
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10313 0
+D1
+~
+~
+0 0 10309 0
+D2
+~
+door~
+1 0 10330 3
+D3
+~
+door~
+1 0 10329 3
+S
+#10309
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful circular fountain sprays a fine
+jet of clear water into the air, the sound of the water lending a
+romantic sound to the air.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10312 0
+D1
+~
+~
+0 0 10310 0
+D2
+~
+~
+0 0 10307 0
+D3
+~
+~
+0 0 10308 0
+S
+#10310
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful circular fountain sprays a fine
+jet of clear water into the air, the sound of the water lending a
+romantic sound to the air.  Small homes lie to the south and east,
+their neat exteriors complimenting the beauty of the courtyard well.
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10311 0
+D1
+~
+door~
+1 0 10332 3
+D2
+~
+door~
+1 0 10331 3
+D3
+~
+~
+0 0 10309 0
+S
+#10311
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful circular fountain sprays a fine
+jet of clear water into the air, the sound of the water lending a
+romantic sound to the air.    
+~
+103 0 0 0 0 1
+D0
+~
+door~
+1 0 10316 1
+D2
+~
+~
+0 0 10310 0
+D3
+~
+~
+0 0 10312 0
+S
+#10312
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  This courtyard is in constant motion at all
+hours of the day and night, people coming and going, getting a breath
+of fresh air, or simply going for a walk.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10315 0
+D1
+~
+~
+0 0 10311 0
+D2
+~
+~
+0 0 10309 0
+D3
+~
+~
+0 0 10313 0
+S
+#10313
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful circular fountain sprays a fine
+jet of clear water into the air, the sound of the water lending a
+romantic sound to the air.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10314 0
+D1
+~
+~
+0 0 10312 0
+D2
+~
+~
+0 0 10308 0
+S
+#10314
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful, circular stone fountain lies on
+your east side, spraying a geyser of water up into the air.  A small
+house lies to the west.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10319 0
+D1
+~
+~
+0 0 10315 0
+D2
+~
+~
+0 0 10313 0
+D3
+~
+door~
+1 0 10328 3
+S
+#10315
+Knee-Deep in the Baroness' Fountain~
+You stand in the center of the courtyard fountain getting soaking wet
+as well as a few side-long looks from some of the passers-by.    
+~
+103 4 0 0 0 6
+D0
+~
+~
+0 0 10318 0
+D1
+~
+~
+0 0 10316 0
+D2
+~
+~
+0 0 10312 0
+D3
+~
+~
+0 0 10314 0
+S
+#10316
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of the day and
+night, people coming and going, getting a breath of fresh air, or
+simply going for a walk.  A beautiful, circular stone fountain lies on
+your west side, spraying a geyser of water up into the air.  A small
+house lies to the east.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10317 0
+D1
+~
+door~
+1 0 10333 3
+D2
+~
+door~
+1 0 10311 1
+D3
+~
+~
+0 0 10315 0
+S
+#10317
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The castle itself lies north of the courtyard, through an
+enclosed entryway.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10322 0
+D2
+~
+~
+0 0 10316 0
+D3
+~
+~
+0 0 10318 0
+S
+#10318
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The castle itself lies north of the courtyard, through an
+enclosed entryway.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10321 0
+D1
+~
+~
+0 0 10317 0
+D2
+~
+~
+0 0 10315 0
+D3
+~
+~
+0 0 10319 0
+S
+#10319
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The castle itself lies north of the courtyard, through an
+enclosed entryway.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10320 0
+D1
+~
+~
+0 0 10318 0
+D2
+~
+~
+0 0 10314 0
+S
+#10320
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The castle itself lies north of the courtyard, through an
+enclosed entryway.  A local ale serving establishment and inn lies to
+the west.    
+~
+103 0 0 0 0 1
+D1
+~
+~
+0 0 10321 0
+D2
+~
+~
+0 0 10319 0
+D3
+~
+door~
+1 0 10327 3
+S
+#10321
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The entryway into the castle lies to the north, a short
+walkway enclosed by the walls of the castle.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10323 0
+D1
+~
+~
+0 0 10322 0
+D2
+~
+~
+0 0 10318 0
+D3
+~
+~
+0 0 10320 0
+S
+#10322
+Cobbled Courtyard~
+This courtyard is in constant motion at all hours of both day and
+night, full of people out for a stroll, or people going from here to
+there.  The castle itself lies north of the courtyard, through an
+enclosed entryway.  You do not need to read the sign above the door to
+the building on your east side to tell you that it is the stables for
+the castle.    
+~
+103 0 0 0 0 1
+D1
+~
+door~
+1 0 10326 3
+D2
+~
+~
+0 0 10317 0
+D3
+~
+~
+0 0 10321 0
+S
+#10323
+Cobbled Entryway~
+This cobbled walkway leads directly into the main entrance of the
+castle.  On either side are the outer walls of the castle, hedging you
+in and allowing movement only to the north and the south.    
+~
+103 4 0 0 0 1
+D0
+~
+~
+0 0 10324 0
+D2
+~
+~
+0 0 10321 0
+S
+#10324
+Cobbled Entryway~
+This cobbled walkway leads directly into the main entrance of the
+castle.  On either side are the outer walls of the castle, hedging you
+in and allowing movement only to the north and the south.    
+~
+103 0 0 0 0 1
+D0
+~
+~
+0 0 10325 0
+D2
+~
+~
+0 0 10323 0
+S
+#10325
+The Inner Entry~
+An array of coats and other wearables are carefully placed on a long
+rack along the east wall of this small antechamber.  To the north is
+the lobby of the Baroness' castle, a wide, open room full of sounds
+and smells which demand exploration.    
+~
+103 4 0 0 0 0
+D0
+~
+~
+0 0 10334 0
+D2
+~
+~
+0 0 10324 0
+S
+#10326
+Stables~
+Stalls line both side of the room, a tall stack of expensive hay lies
+on the far side of the room.  The smell in here isn't exactly
+enjoyable - it might be more aromatic to venture back outside.    
+~
+103 8 0 0 0 0
+D3
+~
+door~
+1 0 10322 3
+S
+#10327
+Honour's Rest~
+This quiet, serene inn boasts a beautiful oak bartop kept shining with
+varnish, polished hourly.  The tables and chairs are all kept in
+similar shape, placed in specific spots throughout the room,
+deliberately placed for aesthetic pleasantry.    
+~
+103 8 0 0 0 0
+D1
+~
+door~
+1 0 10320 3
+S
+#10328
+Servant's House~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D1
+~
+door~
+1 0 10314 3
+S
+#10329
+Local Home~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D1
+~
+door~
+1 0 10308 3
+S
+#10330
+Local Home~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10308 3
+S
+#10331
+Local Home~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10310 3
+S
+#10332
+Local Home~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D3
+~
+door~
+1 0 10310 3
+S
+#10333
+Local Home~
+The Baroness does her best to keep all of her employees as happy as
+possible, giving them clean and spacious lodgings to suit their needs.
+Any of her employees with families are given one of these houses as a
+home for the duration of their employment.  It is oft said at court
+that, due to the Baroness' generosity, the only time the Baroness
+loses an employee is if they meet an untimely death.    
+~
+103 8 0 0 0 0
+D3
+~
+door~
+1 0 10316 3
+S
+#10334
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as King's
+Road itself, lead upward toward the second story.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10342 0
+D1
+~
+~
+0 0 10336 0
+D2
+~
+~
+0 0 10325 0
+D3
+~
+~
+0 0 10335 0
+S
+#10335
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10337 0
+D1
+~
+~
+0 0 10334 0
+S
+#10336
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10341 0
+D3
+~
+~
+0 0 10334 0
+S
+#10337
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story.  A gilded
+door on the west wall leads into the guest's wing where all private
+rooms are kept for the Baroness' guests.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10338 0
+D1
+~
+~
+0 0 10342 0
+D2
+~
+~
+0 0 10335 0
+D3
+~
+door~
+1 0 10368 3
+S
+#10338
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story - one of which
+begins at this very spot.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10339 0
+D2
+~
+~
+0 0 10337 0
+D4
+~
+~
+0 0 10346 0
+S
+#10339
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10340 0
+D2
+~
+~
+0 0 10342 0
+D3
+~
+~
+0 0 10338 0
+S
+#10340
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story - one of which
+begins at this very spot.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10341 0
+D3
+~
+~
+0 0 10339 0
+D4
+~
+~
+0 0 10343 0
+S
+#10341
+Guest Lobby~
+This lobby is nothing short of amazing.  The ceiling spans upwards
+around one hundred feet into the air, arching to a painted cathedral
+shape high above.  An enormous fountain squats in the center of the
+lobby, a stone bench carved into its base all the way around for
+visitors to rest upon.  Two matching sets of stairs, as wide as the
+King's Road itself, lead upward toward the second story.  An oaken
+door lies in the east wall, the way into the servants' private wing.
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10340 0
+D1
+~
+door~
+1 0 10380 7
+D2
+~
+~
+0 0 10336 0
+D3
+~
+~
+0 0 10342 0
+S
+#10342
+Inner Fountain~
+It is such a peaceful setting in this enormous room with the fountain
+gurgling right next to you and the soft music of the symphony playing
+somewhere in the upper reaches of the castle.  The Baroness is a true
+hostess, one who outdoes herself regularly.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10339 0
+D1
+~
+~
+0 0 10341 0
+D2
+~
+~
+0 0 10334 0
+D3
+~
+~
+0 0 10337 0
+S
+#10343
+Winding Stairs~
+The stairs, wide enough to fit a half dozen men side by side, wind in
+a slow curve following the wall of the castle.  A short landing lies
+just a short climb above, while just below a short distance lies the
+main floor lobby.    
+~
+103 8 0 0 0 0
+D4
+~
+~
+0 0 10344 0
+D5
+~
+~
+0 0 10340 0
+S
+#10344
+East Landing~
+This mainly serves as the resting area for visitors who may be
+slightly out of breath from the climb from the lower to the upper
+level.  A set of low wooden benches are molded into the walls,
+allowing for those who wish to take a break from the climb to do so.
+You may continue up or downwards.  A curtain runs along the eastern
+wall.    
+~
+103 12 0 0 0 0
+D1
+~
+~
+0 0 10387 16
+D4
+~
+~
+0 0 10345 0
+D5
+~
+~
+0 0 10343 0
+S
+#10345
+The Eastern Summit~
+You stand atop a grand flight of stairs which lead downward into the
+main floor lobby of the castle.  Just above where you stand, spreading
+out in a vista of visual pleasure, is the beautifully painted
+cathedral ceiling of the castle.  To the west is the start of the
+upper lounge, a place where a permanent pall of smoke clouds most of
+the lounging chair-filled room.    
+~
+103 8 0 0 0 0
+D3
+~
+~
+0 0 10351 0
+D5
+~
+~
+0 0 10344 0
+S
+#10346
+Winding Stairs~
+The stairs, wide enough to fit a half dozen men side by side, wind in
+a slow curve following the wall of the castle.  A short landing lies
+just a short climb above, while just below a short distance lies the
+main floor lobby.    
+~
+103 8 0 0 0 0
+D4
+~
+~
+0 0 10347 0
+D5
+~
+~
+0 0 10338 0
+S
+#10347
+West Landing~
+This mainly serves as the resting area for visitors who may be
+slightly out of breath from the climb from the lower to the upper
+level.  A set of low wooden benches are molded into the walls,
+allowing for those who wish to take a break from the climb to do so.
+You may continue up or downwards.    
+~
+103 8 0 0 0 0
+D4
+~
+~
+0 0 10348 0
+D5
+~
+~
+0 0 10346 0
+S
+#10348
+The Western Summit~
+You stand atop a grand flight of stairs which lead downward into the
+main floor lobby of the castle.  Just above where you stand, spreading
+out in a vista of visual pleasure, is the beautifully painted
+cathedral ceiling of the castle.  To the east is the start of the
+upper lounge, a place where a permanent pall of smoke clouds most of
+the lounging chair-filled room.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10349 0
+D5
+~
+~
+0 0 10347 0
+S
+#10349
+Upper Lounge~
+Plush leather chairs lie scattered in groups about this enormous outer
+lounge chamber to the main ballroom.  The ballroom itself lies to the
+north through an open set of double doors.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10352 0
+D1
+~
+~
+0 0 10350 0
+D3
+~
+~
+0 0 10348 0
+S
+#10350
+Upper Lounge~
+Plush leather chairs lie scattered in groups about this enormous outer
+lounge chamber to the main ballroom.  The ballroom itself lies to the
+north through an open set of double doors.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10353 0
+D1
+~
+~
+0 0 10351 0
+D2
+~
+~
+0 0 10355 0
+D3
+~
+~
+0 0 10349 0
+S
+#10351
+Upper Lounge~
+Plush leather chairs lie scattered in groups about this enormous outer
+lounge chamber to the main ballroom.  The ballroom itself lies to the
+north through an open set of double doors.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10354 0
+D1
+~
+~
+0 0 10345 0
+D3
+~
+~
+0 0 10350 0
+S
+#10352
+Upper Lounge~
+This lounge is obscured by a permanent cloud of scented smoke which is
+produced by the many folk who step out of the ballroom to take a
+momemnt to rest, converse or do business.  The entry into the ballroom
+lies through an open set of double doors in the center of the north
+wall.  Twin sets of stairs run down the east and west sides of the
+chamber.  A single closed door lies on the west wall.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10353 0
+D2
+~
+~
+0 0 10349 0
+D3
+~
+door~
+1 0 10392 3
+S
+#10353
+Upper Lounge~
+This lounge is obscured by a permanent cloud of scented smoke which is
+produced by the many folk who step out of the ballroom to take a
+momemnt to rest, converse or do business.  The entry into the ballroom
+lies through an open set of double doors in the center of the north
+wall.  Twin sets of stairs run down the east and west sides of the
+chamber.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10356 0
+D1
+~
+~
+0 0 10354 0
+D2
+~
+~
+0 0 10350 0
+D3
+~
+~
+0 0 10352 0
+S
+#10354
+Upper Lounge~
+This lounge is obscured by a permanent cloud of scented smoke which is
+produced by the many folk who step out of the ballroom to take a
+momemnt to rest, converse or do business.  The entry into the ballroom
+lies through an open set of double doors in the center of the north
+wall.  Twin sets of stairs run down the east and west sides of the
+chamber.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10351 0
+D3
+~
+~
+0 0 10353 0
+S
+#10355
+Grand Balcony~
+Grand Balcony, indeed.  The view of the lower lounge is awe-inspiring
+to say the least.  A look directly down into the lounge reveals a
+perfect view of the fountain and all who loiter near it.  A look above
+is breath-taking, the ceiling painted in such a way as to look as if a
+story is being told, starting from just above your head and radiating
+out over the lounge.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10350 0
+S
+#10356
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10359 0
+D1
+~
+~
+0 0 10362 0
+D2
+~
+~
+0 0 10353 0
+D3
+~
+~
+0 0 10357 0
+S
+#10357
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10358 0
+D1
+~
+~
+0 0 10356 0
+S
+#10358
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10361 0
+D1
+~
+~
+0 0 10359 0
+D2
+~
+~
+0 0 10357 0
+S
+#10359
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10360 0
+D1
+~
+~
+0 0 10363 0
+D2
+~
+~
+0 0 10356 0
+D3
+~
+~
+0 0 10358 0
+S
+#10360
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10364 0
+D2
+~
+~
+0 0 10359 0
+D3
+~
+~
+0 0 10361 0
+S
+#10361
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10360 0
+D2
+~
+~
+0 0 10358 0
+S
+#10362
+The Grand Ballroom~
+Elegant tapestries cover every wall, painted and stitched in wondrous
+colors, woven in such a way as to project a deep feeling of happiness
+and gaiety.  At the northeast side of the room is a long table covered
+in foods of all manner and taste, constantly replenished by the
+kitchen staff which is at work around the clock.  The door into the
+kitchen lies on the west wall, a self-closing door that swings both
+directions.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10363 0
+D1
+~
+door~
+1 0 10365 3
+D3
+~
+~
+0 0 10356 0
+S
+#10363
+Dining Area~
+You stand before a long oaken table filled with all manner of steaming
+meats and delicious sweets which are free for the taking at all times.
+Employees from the kitchen staff come out to replenish the foods on
+the table at alternate times, always keeping the table filled.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10364 0
+D2
+~
+~
+0 0 10362 0
+D3
+~
+~
+0 0 10359 0
+S
+#10364
+Dining Area~
+You stand before a long oaken table filled with all manner of steaming
+meats and delicious sweets which are free for the taking at all times.
+Employees from the kitchen staff come out to replenish the foods on
+the table at alternate times, always keeping the table filled.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10363 0
+D3
+~
+~
+0 0 10360 0
+S
+#10365
+Kitchen~
+The kitchen is an enormous rectangle-shaped hunk of room lined on both
+the east and west walls with cooking equipment and tables for food
+preparation.  On the far north wall lies a huge fireplace for cooking
+where there is always at least one enormous kettle hanging over the
+fire, usually next to a heavy slab of meat on a spit.    
+~
+103 12 0 0 0 0
+D0
+~
+~
+0 0 10366 0
+D3
+~
+door~
+1 0 10362 3
+S
+#10366
+Kitchen~
+The kitchen is an enormous rectangle-shaped hunk of room lined on both
+the east and west walls with cooking equipment and tables for food
+preparation.  On the far north wall lies a huge fireplace for cooking
+where there is always at least one enormous kettle hanging over the
+fire, usually next to a heavy slab of meat on a spit.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10367 0
+D2
+~
+~
+0 0 10365 0
+S
+#10367
+Kitchen~
+The kitchen is an enormous rectangle-shaped hunk of room lined on both
+the east and west walls with cooking equipment and tables for food
+preparation.  On the far north wall lies a huge fireplace for cooking
+where there is always at least one enormous kettle hanging over the
+fire, usually next to a heavy slab of meat on a spit.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10366 0
+S
+#10368
+Lavish Hallway~
+This is a short, east-west hallway with doors lining both wood-covered
+walls the entire length.  The west end of the hall is nothing but an
+empty wall with a painting on it, the east end has a door of its own
+which leads into the main floor lobby.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10375 3
+D1
+~
+door~
+1 0 10337 3
+D2
+~
+door~
+1 0 10379 3
+D3
+~
+~
+0 0 10369 0
+S
+#10369
+Lavish Hallway~
+This is a short, east-west hallway with doors lining both wood-covered
+walls the entire length.  The west end of the hall is nothing but an
+empty wall with a painting on it, the east end has a door of its own
+which leads into the main floor lobby.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10374 3
+D1
+~
+~
+0 0 10368 0
+D2
+~
+door~
+1 0 10378 3
+D3
+~
+~
+0 0 10370 0
+S
+#10370
+Lavish Hallway~
+This is a short, east-west hallway with doors lining both wood-covered
+walls the entire length.  The west end of the hall is nothing but an
+empty wall with a painting on it, the east end has a door of its own
+which leads into the main floor lobby.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10373 3
+D1
+~
+~
+0 0 10369 0
+D2
+~
+door~
+1 0 10377 3
+D3
+~
+~
+0 0 10371 0
+S
+#10371
+Lavish Hallway - West End~
+This is a short, east-west hallway with doors lining both wood-covered
+walls the entire length.  The west end of the hall, which is where you
+currently stand, is nothing but an empty wall with a painting on it,
+the east end has a door of its own which leads into the main floor
+lobby.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10372 3
+D1
+~
+~
+0 0 10370 0
+D2
+~
+door~
+1 0 10376 3
+S
+#10372
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D2
+~
+door~
+1 0 10371 3
+S
+#10373
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D2
+~
+door~
+1 0 10370 3
+S
+#10374
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D2
+~
+door~
+1 0 10369 3
+S
+#10375
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10368 2
+S
+#10376
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10371 3
+S
+#10377
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10370 3
+S
+#10378
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10369 3
+S
+#10379
+Guest Suite~
+These lavish suites are ridiculously appointed, filled with
+plush-cushioned divans, a huge bed - all surrounded by tapestries of
+the richest silks and carpets of the thickest fabric.  It is
+considered a high honor to be invited to stay with the Baroness for
+any length of time.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10368 2
+S
+#10380
+Servant's Hall~
+This is the short hallway that holds the single-person apartments that
+the Baroness sets aside for her servants.  The hallway is kpet quite
+clean, in fact it is actually quite as pleasant as any other section
+of the castle.  Doors lie to the north and south from here with a main
+door leading into the lobby to the west.    
+~
+103 12 0 0 0 0
+D0
+~
+door~
+1 0 10382 3
+D1
+~
+~
+0 0 10381 0
+D2
+~
+door~
+1 0 10386 3
+D3
+~
+door~
+1 0 10341 7
+S
+#10381
+Servant's Hall~
+This is the short hallway that holds the single-person apartments that
+the Baroness sets aside for her servants.  The hallway is kept quite
+clean, in fact it is actually quite as pleasant as any other section
+of the castle.  Doors lie to the north, south and east from here.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10383 3
+D1
+~
+door~
+1 0 10384 3
+D2
+~
+door~
+1 0 10385 3
+D3
+~
+~
+0 0 10380 0
+S
+#10382
+Servant's Suite~
+The servants' quarters are certainly not anywhere near as lavish as
+those provided for the guests of the Baroness, however they are much
+more than adequate as compared to the standards of most servant's
+quarters anywhere else in the land.  You may exit this small living
+space to the south.    
+~
+103 8 0 0 0 0
+D2
+~
+door~
+1 0 10380 3
+S
+#10383
+Servant's Suite~
+The servants' quarters are certainly not anywhere near as lavish as
+those provided for the guests of the Baroness, however they are much
+more than adequate as compared to the standards of most servant's
+quarters anywhere else in the land.  You may exit this small living
+space to the south.    
+~
+103 8 0 0 0 0
+D2
+~
+door~
+1 0 10381 3
+S
+#10384
+Servant's Suite~
+The servants' quarters are certainly not anywhere near as lavish as
+those provided for the guests of the Baroness, however they are much
+more than adequate as compared to the standards of most servant's
+quarters anywhere else in the land.  You may exit this small living
+space to the west.    
+~
+103 8 0 0 0 0
+D3
+~
+door~
+1 0 10381 3
+S
+#10385
+Servant's Suite~
+The servants' quarters are certainly not anywhere near as lavish as
+those provided for the guests of the Baroness, however they are much
+more than adequate as compared to the standards of most servant's
+quarters anywhere else in the land.  You may exit this small living
+space to the north.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10381 3
+S
+#10386
+Servant's Suite~
+The servants' quarters are certainly not anywhere near as lavish as
+those provided for the guests of the Baroness, however they are much
+more than adequate as compared to the standards of most servant's
+quarters anywhere else in the land.  You may exit this small living
+space to the north.    
+~
+103 8 0 0 0 0
+D0
+~
+door~
+1 0 10380 3
+S
+#10387
+Secret Passage~
+You stand within a small, earthy chamber walled in with rough-hewn
+rock.  A narrow stairwell climbs upward into darkness and cobwebs, no
+sound at all coming from whatever lies above.    
+~
+103 264 0 0 0 0
+D3
+~
+~
+0 0 10344 0
+D4
+~
+~
+0 0 10388 0
+S
+#10388
+The Baron's Lab~
+No wonder it looks as if this place is never cleaned.  The Baron used
+to keep this as his own private laboratory and study, a place where he
+could think his deepest thoughts without the need to worry over what a
+guest might want or need and without the intercession of family or
+business.    
+~
+103 104 0 0 0 0
+D1
+~
+~
+0 0 10389 0
+D2
+~
+~
+0 0 10390 0
+D5
+~
+~
+0 0 10387 0
+S
+#10389
+The Baron's Lab~
+No wonder it looks as if this place is never cleaned.  The Baron used
+to keep this as his own private laboratory and study, a place where he
+could think his deepest thoughts without the need to worry over what a
+guest might want or need and without the intercession of family or
+business.    
+~
+103 104 0 0 0 0
+D2
+~
+~
+0 0 10391 0
+D3
+~
+~
+0 0 10388 0
+S
+#10390
+The Baron's Lab~
+No wonder it looks as if this place is never cleaned.  The Baron used
+to keep this as his own private laboratory and study, a place where he
+could think his deepest thoughts without the need to worry over what a
+guest might want or need and without the intercession of family or
+business.    
+~
+103 104 0 0 0 0
+D0
+~
+~
+0 0 10388 0
+D1
+~
+~
+0 0 10391 0
+S
+#10391
+The Baron's Lab~
+No wonder it looks as if this place is never cleaned.  The Baron used
+to keep this as his own private laboratory and study, a place where he
+could think his deepest thoughts without the need to worry over what a
+guest might want or need and without the intercession of family or
+business.    
+~
+103 104 0 0 0 0
+D0
+~
+~
+0 0 10389 0
+D3
+~
+~
+0 0 10390 0
+S
+#10392
+Echoing Hallway~
+This short section of polished stone hallway leads into the
+educational wing of the castle.  The Baroness requires that all who
+live within her demesnes acquire a basic education, whether that
+person be the offspring of noble or commoner.  Just to the west are
+the doors which lead into the classrooms where all the young under the
+Baroness' care are taught writing, reading and other skills.    
+~
+103 12 0 0 0 0
+D1
+~
+door~
+1 0 10352 3
+D3
+~
+~
+0 0 10393 0
+S
+#10393
+Echoing Hallway~
+Doors lie on all sides, all of which lead into sedate classrooms which
+can be seen through small window panes set into the top center of each
+door.  The way east leads back into the upper lobby of the castle.  
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10394 0
+D1
+~
+~
+0 0 10392 0
+D2
+~
+~
+0 0 10396 0
+D3
+~
+~
+0 0 10395 0
+S
+#10394
+Classroom~
+A polished oak desk sits at the front of the room, a swath of
+chalk-board hanging just behind the desk.  Smaller, single person
+desks sit in neat rows before the desk.    
+~
+103 8 0 0 0 0
+D2
+~
+~
+0 0 10393 0
+D3
+~
+~
+0 0 10398 0
+S
+#10395
+Classroom~
+A polished oak desk sits at the front of the room, a swath of
+chalk-board hanging just behind the desk.  Smaller, single person
+desks sit in neat rows before the desk.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10398 0
+D1
+~
+~
+0 0 10393 0
+D2
+~
+~
+0 0 10397 0
+S
+#10396
+Classroom~
+A polished oak desk sits at the front of the room, a swath of
+chalk-board hanging just behind the desk.  Smaller, single person
+desks sit in neat rows before the desk.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10393 0
+D3
+~
+~
+0 0 10397 0
+S
+#10397
+Study Hall~
+Comfortable chairs sit before rows of long desks in the center of this
+room which is walled in shelves that hold books of all shape and size.
+Classrooms lie to the east and north.    
+~
+103 8 0 0 0 0
+D0
+~
+~
+0 0 10395 0
+D1
+~
+~
+0 0 10396 0
+S
+#10398
+Study Hall~
+Comfortable chairs sit before rows of long desks in the center of this
+room which is walled in shelves that hold books of all shape and size.
+Classrooms lie to the east and south.    
+~
+103 8 0 0 0 0
+D1
+~
+~
+0 0 10394 0
+D2
+~
+~
+0 0 10395 0
+S
+$~
